@@ -43,10 +43,10 @@
     "reasoning": "Solana wird aktuell von Marktbeobachtern als eine der aussichtsreichsten Altcoins genannt (neben Chainlink, Sui, Stellar), gestützt durch zunehmende institutionelle Adoption und Tokenisierungs-Projekte. Bitcoin (~64.000 USD) und Ethereum zeigen an einem insgesamt risikofreudigen Markttag leichte Gewinne (Gesamtmarktkapitalisierung ca. 2,27 Billionen USD, +0,7%). Spekulative, kurzfristige Position auf weiteres Altcoin-Momentum im Rahmen des risikofreudigen Marktumfelds (Hoffnung auf Hormuz-Deal, Rekordstände bei US-Aktien).",
     "status": "open",
     "buyPrice": 68.2,
-    "currentPrice": 73.9,
-    "currentValue": 541.79,
-    "profitLoss": 41.79,
-    "profitLossPct": 8.36,
+    "currentPrice": 74.13,
+    "currentValue": 543.48,
+    "profitLoss": 43.48,
+    "profitLossPct": 8.7,
     "closedDate": null,
     "closeReasoning": null
   }
