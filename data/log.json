@@ -1,9 +1,10 @@
 [
   {
     "date": "2026-08-05",
-    "marketOverview": "Setup-Tag: Die App wurde heute eingerichtet. Ab morgen früh übernimmt die automatische Marktrecherche diesen Log-Eintrag mit echtem Marktüberblick (Aktien, ETFs, Krypto, Rohstoffe) unter Berücksichtigung von Wirtschaft, Politik und Geopolitik.",
-    "decision": "Demo-Position angelegt (siehe Portfolio)",
-    "reasoning": "Platzhalter, damit die App von Anfang an funktionsfähig aussieht.",
-    "positionIds": ["pos-0001"]
+    "marketOverview": "US-Aktien markierten Rekordstände: S&P 500 (+0,65%) und Dow Jones (+0,71%, über 54.600 Punkte) profitierten von einer starken Berichtssaison und Hoffnungen auf ein Abkommen zur Wiedereröffnung der Straße von Hormus, was den Ölpreis deutlich drückte (Brent ca. 79 USD, WTI ca. 76 USD). Halbleiterwerte legten breit zu, während AMD trotz Rekordzahlen im 'Sell-the-news'-Modus rund 8-9% verlor und SpaceX wegen hoher KI-Infrastruktur-Investitionen nachbörslich abrutschte. Der Kryptomarkt zeigte sich stabil bis leicht positiv (Bitcoin ~64.000 USD, Gesamtmarktkapitalisierung 2,27 Billionen USD, +0,7%), mit Altcoins wie Solana, Chainlink und Sui im Fokus institutioneller Nachfrage.",
+    "decision": "Demo-Position (DEMO) glattgestellt/geschlossen ohne Gewinn/Verlust, da kein echtes Marktinstrument. Neu eröffnet: spekulative Dip-Kauf-Position in AMD (500 EUR) nach überzogener Kursreaktion auf starke Quartalszahlen, sowie eine spekulative Krypto-Position in Solana (500 EUR) im Rahmen des risikofreudigen Marktumfelds.",
+    "reasoning": "Risikoprofil 'spekulativ' mit erlaubtem kurzfristigem Trading und Tagesbudget von 1000 EUR wurde vollständig eingesetzt. AMD bietet nach dem überzogenen Ausverkauf trotz fundamental starker Zahlen (Rekordumsatz, starkes Data-Center-Wachstum) eine kurzfristige Erholungschance. Solana profitiert von positivem Krypto-Marktsentiment und institutionellem Interesse an Altcoins. Keine der Positionen verstößt gegen Ausschlusslisten (Anlageklassen, Sektoren, Länder) aus den Einstellungen.",
+    "positionIds": ["pos-0001", "pos-0002", "pos-0003"],
+    "portfolioValueEnd": 1000
   }
 ]
