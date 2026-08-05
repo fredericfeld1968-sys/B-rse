@@ -1,0 +1,14 @@
+﻿{
+  "dailyBudgetEur": 1000,
+  "currency": "EUR",
+  "riskProfile": "spekulativ",
+  "allowShortTerm": true,
+  "excludedAssetClasses": [],
+  "excludedSectors": [],
+  "excludedCountries": [],
+  "assetClasses": ["Aktien", "ETFs", "Krypto", "Rohstoffe"],
+  "startDate": "2026-08-05",
+  "researchTimeLocal": "07:00",
+  "notes": "Rein spielerisches, simuliertes Investment-Tracking. Es fließt kein echtes Geld, keine reale Anlageberatung.",
+  "lastUpdated": "2026-08-05"
+}

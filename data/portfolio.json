@@ -1,0 +1,19 @@
+[
+  {
+    "id": "pos-0001",
+    "date": "2026-08-05",
+    "asset": "Beispiel-Position (Demo)",
+    "ticker": "DEMO",
+    "assetClass": "ETF",
+    "amount": 1000,
+    "reasoning": "Demo-Eintrag beim Setup der App angelegt, damit Dashboard und Portfolio-Tabelle sofort etwas anzeigen. Wird durch die erste echte automatische Tagesrecherche ersetzt/ergänzt.",
+    "status": "open",
+    "buyPrice": 100,
+    "currentPrice": 100,
+    "currentValue": 1000,
+    "profitLoss": 0,
+    "profitLossPct": 0,
+    "closedDate": null,
+    "closeReasoning": null
+  }
+]

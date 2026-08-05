@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Börse – GEPVOLT SE</title>
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#0f1420">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<header class="topbar">
+  <div>
+    <h1>GEPVOLT SE</h1>
+    <div class="subtitle">Battery Energy Storage · Hilden, Deutschland</div>
+  </div>
+</header>
+<main>
+  <div id="statusBanner"></div>
+
+  <div class="card">
+    <h2>Unternehmen</h2>
+    <div id="companyInfo"></div>
+  </div>
+
+  <div class="card">
+    <h2>Aktienstatus</h2>
+    <div id="equityStatus"></div>
+  </div>
+
+  <div class="card">
+    <h2>Anleihen (real handelbar, nicht Teil des Spiels)</h2>
+    <div id="bonds"></div>
+  </div>
+
+  <div class="card">
+    <h2>Flaggschiff-Projekt</h2>
+    <div id="project"></div>
+  </div>
+
+  <div class="card">
+    <h2>Marktkontext BESS</h2>
+    <div id="marketContext"></div>
+  </div>
+
+  <div class="card">
+    <h2>Quellen</h2>
+    <div id="sources" class="source-list"></div>
+  </div>
+</main>
+<script src="js/common.js"></script>
+<script>
+(async function () {
+  try {
+    const g = await loadJSON(DATA_PATHS.gepvolt);
+
+    document.getElementById("statusBanner").innerHTML = `
+      <div class="disclaimer-banner">
+        ${g.disclaimer}
+      </div>`;
+
+    document.getElementById("companyInfo").innerHTML = `
+      <table>
+        <tr><td>Sitz</td><td>${g.companyInfo.headquarters}</td></tr>
+        <tr><td>Branche</td><td>${g.companyInfo.sector}</td></tr>
+        <tr><td>Rechtsform</td><td>${g.companyInfo.legalForm}</td></tr>
+      </table>
+      <p style="font-size:13.5px; margin-top:10px; line-height:1.5;">${g.companyInfo.businessModel}</p>`;
+
+    document.getElementById("equityStatus").innerHTML = `
+      <span class="pill ${g.isPubliclyTradedEquity ? "gain" : "info"}">${g.isPubliclyTradedEquity ? "Börsennotiert" : "Nicht börsennotiert (Aktie)"}</span>
+      <p style="font-size:13.5px; margin-top:10px; line-height:1.5;">${g.equityStatus.note}</p>
+      ${g.equityStatus.ipoPlanned ? `<p style="font-size:13.5px; line-height:1.5;"><strong>Geplanter IPO:</strong> ${g.equityStatus.ipoTimeframe}</p>` : ""}`;
+
+    document.getElementById("bonds").innerHTML = g.bonds.map(b => `
+      <div class="pos-item" style="margin-bottom:10px;">
+        <div class="row1"><span class="name">${b.name}</span><span class="amount">${b.couponPct}% p.a.</span></div>
+        <div class="meta">ISIN ${b.isin} · WKN ${b.wkn} · Volumen ${fmtEur(b.volumeEur)} · Fälligkeit ${b.maturityYear}</div>
+        <div class="meta">Notiert: ${b.listing}</div>
+        <div class="reasoning">${b.type}</div>
+      </div>`).join("");
+
+    document.getElementById("project").innerHTML = `
+      <table>
+        <tr><td>Projekt</td><td>${g.flagshipProject.name}</td></tr>
+        <tr><td>Leistung</td><td>${g.flagshipProject.powerMw} MW / ${g.flagshipProject.capacityMwh} MWh</td></tr>
+        <tr><td>Status</td><td>${g.flagshipProject.status}</td></tr>
+      </table>`;
+
+    document.getElementById("marketContext").innerHTML = `
+      <p style="font-size:13.5px; line-height:1.5;">${g.marketContext.note}</p>`;
+
+    document.getElementById("sources").innerHTML = g.sources.map(s =>
+      `<a class="source-link" href="${s.url}" target="_blank" rel="noopener">${s.title}</a>`
+    ).join("") + `<div class="meta" style="margin-top:6px;">Zuletzt aktualisiert: ${fmtDate(g.lastUpdated)}</div>`;
+  } catch (e) {
+    document.querySelector("main").innerHTML = `<div class="card"><div class="empty-state">Fehler beim Laden: ${e.message}</div></div>`;
+  }
+})();
+renderBottomNav("gepvolt");
+</script>
+</body>
+</html>

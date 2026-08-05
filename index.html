@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Börse – Dashboard</title>
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#0f1420">
+<link rel="apple-touch-icon" href="icons/icon-192.png">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<header class="topbar">
+  <div>
+    <h1>Börse</h1>
+    <div class="subtitle">Simuliertes Investment-Tracking · kein echtes Geld</div>
+  </div>
+</header>
+<main>
+  <div class="card">
+    <h2>Portfolio-Gesamtwert</h2>
+    <div class="big-number" id="totalValue">–</div>
+    <div class="delta" id="totalDelta"></div>
+  </div>
+
+  <div class="card">
+    <h2>Verlauf</h2>
+    <canvas id="chart"></canvas>
+  </div>
+
+  <div class="card">
+    <h2>Heute</h2>
+    <div id="todaySummary" class="empty-state">Lädt …</div>
+  </div>
+
+  <div class="card">
+    <h2>Offene Positionen</h2>
+    <div id="openPositions" class="pos-list"></div>
+  </div>
+</main>
+<script src="js/common.js"></script>
+<script>
+(async function () {
+  try {
+    const [positions, log, settings] = await Promise.all([
+      loadJSON(DATA_PATHS.portfolio),
+      loadJSON(DATA_PATHS.log),
+      loadJSON(DATA_PATHS.settings),
+    ]);
+
+    const totals = computePortfolioTotals(positions);
+    document.getElementById("totalValue").textContent = fmtEur(totals.currentValue);
+    const deltaEl = document.getElementById("totalDelta");
+    deltaEl.textContent = `${fmtEur(totals.profitLoss)} (${fmtPct(totals.profitLossPct)}) seit Kauf`;
+    deltaEl.className = "delta " + deltaClass(totals.profitLoss);
+
+    // Verlauf: Tagesendwert je Log-Eintrag, approximiert aus kumuliertem investierten Betrag der Tage bis dahin.
+    // Sobald echte Tageswerte im Log vorliegen (z.B. log[i].portfolioValueEnd), werden diese bevorzugt.
+    const sortedLog = [...log].sort((a, b) => a.date.localeCompare(b.date));
+    const chartValues = sortedLog.map(entry =>
+      typeof entry.portfolioValueEnd === "number" ? entry.portfolioValueEnd : totals.currentValue
+    );
+    drawLineChart(document.getElementById("chart"), chartValues.length ? chartValues : [totals.currentValue, totals.currentValue]);
+
+    const todayIso = new Date().toISOString().slice(0, 10);
+    const todayEntry = log.find(e => e.date === todayIso) || sortedLog[sortedLog.length - 1];
+    const todayEl = document.getElementById("todaySummary");
+    if (todayEntry) {
+      todayEl.className = "";
+      todayEl.innerHTML = `
+        <div class="log-entry" style="margin:0;padding:0;border:none;background:none;">
+          <div class="date">${fmtDate(todayEntry.date)}</div>
+          <div class="section-label">Marktüberblick</div>
+          <p>${todayEntry.marketOverview}</p>
+          <div class="section-label">Entscheidung</div>
+          <p>${todayEntry.decision}</p>
+        </div>`;
+    } else {
+      todayEl.textContent = "Noch kein Eintrag für heute. Die automatische Morgen-Recherche legt ihn an.";
+    }
+
+    const openEl = document.getElementById("openPositions");
+    if (totals.open.length === 0) {
+      openEl.innerHTML = '<div class="empty-state">Keine offenen Positionen.</div>';
+    } else {
+      openEl.innerHTML = totals.open.map(p => {
+        const pl = p.profitLoss ?? 0;
+        const isDemo = p.ticker === "DEMO";
+        return `
+        <div class="pos-item">
+          <div class="row1">
+            <span class="name">${p.asset} ${isDemo ? '<span class="pill demo">Demo</span>' : ""}</span>
+            <span class="amount">${fmtEur(p.currentValue ?? p.amount)}</span>
+          </div>
+          <div class="meta">${p.assetClass} · gekauft ${fmtDate(p.date)} · ${fmtEur(p.amount)} investiert</div>
+          <div class="delta ${deltaClass(pl)}" style="margin-top:6px;">${fmtEur(pl)} (${fmtPct(p.profitLossPct ?? 0)})</div>
+        </div>`;
+      }).join("");
+    }
+  } catch (e) {
+    document.querySelector("main").innerHTML = `<div class="card"><div class="empty-state">Fehler beim Laden der Daten: ${e.message}</div></div>`;
+  }
+})();
+renderBottomNav("dashboard");
+registerServiceWorker();
+</script>
+</body>
+</html>

@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Börse – Portfolio</title>
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#0f1420">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<header class="topbar">
+  <div>
+    <h1>Portfolio</h1>
+    <div class="subtitle">Alle offenen &amp; geschlossenen Positionen</div>
+  </div>
+</header>
+<main>
+  <div class="card">
+    <h2>Zusammenfassung</h2>
+    <div id="summary"></div>
+  </div>
+
+  <div class="card">
+    <h2>Offene Positionen</h2>
+    <div id="open" class="pos-list"></div>
+  </div>
+
+  <div class="card">
+    <h2>Geschlossene Positionen</h2>
+    <div id="closed" class="pos-list"></div>
+  </div>
+</main>
+<script src="js/common.js"></script>
+<script>
+(async function () {
+  try {
+    const positions = await loadJSON(DATA_PATHS.portfolio);
+    const totals = computePortfolioTotals(positions);
+
+    document.getElementById("summary").innerHTML = `
+      <table>
+        <tr><td>Investiert (offen)</td><td style="text-align:right;">${fmtEur(totals.invested)}</td></tr>
+        <tr><td>Aktueller Wert (offen)</td><td style="text-align:right;">${fmtEur(totals.currentValue)}</td></tr>
+        <tr><td>Unrealisiert G/V</td><td style="text-align:right;" class="delta ${deltaClass(totals.profitLoss)}">${fmtEur(totals.profitLoss)} (${fmtPct(totals.profitLossPct)})</td></tr>
+        <tr><td>Realisiert G/V (geschlossen)</td><td style="text-align:right;" class="delta ${deltaClass(totals.realizedPL)}">${fmtEur(totals.realizedPL)}</td></tr>
+      </table>`;
+
+    function renderPosition(p) {
+      const pl = p.profitLoss ?? 0;
+      const isDemo = p.ticker === "DEMO";
+      const statusPill = p.status === "open"
+        ? '<span class="pill open">Offen</span>'
+        : '<span class="pill closed">Geschlossen</span>';
+      return `
+        <div class="pos-item">
+          <div class="row1">
+            <span class="name">${p.asset} ${isDemo ? '<span class="pill demo">Demo</span>' : ""}</span>
+            <span class="amount">${fmtEur(p.currentValue ?? p.amount)}</span>
+          </div>
+          <div class="meta">
+            ${statusPill} · ${p.assetClass} · ${p.ticker || "–"} · gekauft ${fmtDate(p.date)}${p.closedDate ? " · verkauft " + fmtDate(p.closedDate) : ""}
+          </div>
+          <div class="meta">Einsatz: ${fmtEur(p.amount)}</div>
+          <div class="delta ${deltaClass(pl)}" style="margin-top:4px;">${fmtEur(pl)} (${fmtPct(p.profitLossPct ?? 0)})</div>
+          <div class="reasoning"><strong>Begründung Kauf:</strong> ${p.reasoning}</div>
+          ${p.closeReasoning ? `<div class="reasoning"><strong>Begründung Verkauf:</strong> ${p.closeReasoning}</div>` : ""}
+        </div>`;
+    }
+
+    const openEl = document.getElementById("open");
+    openEl.innerHTML = totals.open.length
+      ? totals.open.map(renderPosition).join("")
+      : '<div class="empty-state">Keine offenen Positionen.</div>';
+
+    const closedEl = document.getElementById("closed");
+    closedEl.innerHTML = totals.closed.length
+      ? totals.closed.map(renderPosition).join("")
+      : '<div class="empty-state">Noch keine geschlossenen Positionen.</div>';
+  } catch (e) {
+    document.querySelector("main").innerHTML = `<div class="card"><div class="empty-state">Fehler beim Laden: ${e.message}</div></div>`;
+  }
+})();
+renderBottomNav("portfolio");
+</script>
+</body>
+</html>

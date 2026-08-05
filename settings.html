@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Börse – Einstellungen</title>
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#0f1420">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<header class="topbar">
+  <div>
+    <h1>Einstellungen</h1>
+    <div class="subtitle">Risikoprofil &amp; Anlageregeln für die automatische Recherche</div>
+  </div>
+</header>
+<main>
+  <div class="card">
+    <div class="disclaimer-banner">
+      Diese Einstellungen steuern, wie die tägliche automatische Marktrecherche entscheidet. Änderungen wirken sich erst auf den nächsten Recherche-Lauf aus.
+    </div>
+
+    <div class="field-group">
+      <label for="dailyBudget">Tagesbudget (fiktiv, €)</label>
+      <input type="number" id="dailyBudget" min="0" step="50">
+    </div>
+
+    <div class="field-group">
+      <label for="riskProfile">Risikoprofil</label>
+      <select id="riskProfile">
+        <option value="konservativ">Konservativ</option>
+        <option value="moderat">Moderat</option>
+        <option value="spekulativ">Spekulativ</option>
+      </select>
+    </div>
+
+    <div class="checkbox-row">
+      <input type="checkbox" id="allowShortTerm">
+      <label for="allowShortTerm" style="margin:0;">Kurzfristiges "Zocken" ausdrücklich erlaubt</label>
+    </div>
+
+    <label>Erlaubte Anlageklassen</label>
+    <div class="tag-row" id="assetClassTags"></div>
+
+    <label>Ausgeschlossene Anlageklassen</label>
+    <div class="tag-row" id="excludedAssetClassTags"></div>
+
+    <div class="field-group">
+      <label for="excludedSectors">Ausgeschlossene Branchen (Komma-getrennt, leer = keine)</label>
+      <input type="text" id="excludedSectors" placeholder="z. B. Rüstung, Tabak">
+    </div>
+
+    <div class="field-group">
+      <label for="excludedCountries">Ausgeschlossene Länder (Komma-getrennt, leer = keine)</label>
+      <input type="text" id="excludedCountries" placeholder="z. B. Russland">
+    </div>
+
+    <div class="field-group">
+      <label for="researchTime">Uhrzeit der täglichen Recherche</label>
+      <input type="time" id="researchTime">
+    </div>
+
+    <button class="primary" id="saveBtn">Speichern</button>
+  </div>
+</main>
+<script src="js/common.js"></script>
+<script>
+const ALL_ASSET_CLASSES = ["Aktien", "ETFs", "Krypto", "Rohstoffe"];
+let current = null;
+
+function renderTags(containerId, selected, onToggle) {
+  const el = document.getElementById(containerId);
+  el.innerHTML = ALL_ASSET_CLASSES.map(c =>
+    `<span class="tag ${selected.includes(c) ? "active" : ""}" data-value="${c}">${c}</span>`
+  ).join("");
+  el.querySelectorAll(".tag").forEach(tagEl => {
+    tagEl.addEventListener("click", () => {
+      tagEl.classList.toggle("active");
+      onToggle();
+    });
+  });
+}
+
+function getActiveTags(containerId) {
+  return [...document.querySelectorAll(`#${containerId} .tag.active`)].map(t => t.dataset.value);
+}
+
+(async function () {
+  try {
+    current = await loadJSON(DATA_PATHS.settings);
+    document.getElementById("dailyBudget").value = current.dailyBudgetEur;
+    document.getElementById("riskProfile").value = current.riskProfile;
+    document.getElementById("allowShortTerm").checked = !!current.allowShortTerm;
+    document.getElementById("excludedSectors").value = (current.excludedSectors || []).join(", ");
+    document.getElementById("excludedCountries").value = (current.excludedCountries || []).join(", ");
+    document.getElementById("researchTime").value = current.researchTimeLocal || "07:00";
+
+    renderTags("assetClassTags", current.assetClasses || [], () => {});
+    renderTags("excludedAssetClassTags", current.excludedAssetClasses || [], () => {});
+
+    document.getElementById("saveBtn").addEventListener("click", async () => {
+      const updated = {
+        ...current,
+        dailyBudgetEur: Number(document.getElementById("dailyBudget").value) || 0,
+        riskProfile: document.getElementById("riskProfile").value,
+        allowShortTerm: document.getElementById("allowShortTerm").checked,
+        assetClasses: getActiveTags("assetClassTags"),
+        excludedAssetClasses: getActiveTags("excludedAssetClassTags"),
+        excludedSectors: document.getElementById("excludedSectors").value.split(",").map(s => s.trim()).filter(Boolean),
+        excludedCountries: document.getElementById("excludedCountries").value.split(",").map(s => s.trim()).filter(Boolean),
+        researchTimeLocal: document.getElementById("researchTime").value,
+        lastUpdated: new Date().toISOString().slice(0, 10),
+      };
+
+      try {
+        const res = await fetch("/api/settings", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify(updated, null, 2),
+        });
+        if (!res.ok) throw new Error("Server hat " + res.status + " zurückgegeben");
+        current = updated;
+        showToast("Gespeichert");
+      } catch (e) {
+        showToast("Fehler beim Speichern: " + e.message);
+      }
+    });
+  } catch (e) {
+    document.querySelector("main").innerHTML = `<div class="card"><div class="empty-state">Fehler beim Laden: ${e.message}</div></div>`;
+  }
+})();
+renderBottomNav("settings");
+</script>
+</body>
+</html>

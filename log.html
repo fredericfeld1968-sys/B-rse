@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Börse – Tages-Log</title>
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#0f1420">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<header class="topbar">
+  <div>
+    <h1>Tages-Log</h1>
+    <div class="subtitle">Marktüberblick &amp; Entscheidungen, Tag für Tag</div>
+  </div>
+</header>
+<main>
+  <div class="card">
+    <input type="search" id="search" placeholder="Log durchsuchen (z. B. 'Krypto', 'Zinsen', Datum) …">
+  </div>
+  <div id="entries"></div>
+</main>
+<script src="js/common.js"></script>
+<script>
+let allEntries = [];
+
+function render(filter) {
+  const el = document.getElementById("entries");
+  const f = (filter || "").toLowerCase().trim();
+  const filtered = !f ? allEntries : allEntries.filter(e =>
+    (e.date + " " + e.marketOverview + " " + e.decision + " " + e.reasoning).toLowerCase().includes(f)
+  );
+  if (filtered.length === 0) {
+    el.innerHTML = '<div class="card"><div class="empty-state">Keine Einträge gefunden.</div></div>';
+    return;
+  }
+  el.innerHTML = filtered.map(e => `
+    <div class="log-entry">
+      <div class="date">${fmtDate(e.date)}</div>
+      <div class="section-label">Marktüberblick</div>
+      <p>${e.marketOverview}</p>
+      <div class="section-label">Entscheidung</div>
+      <p>${e.decision}</p>
+      <div class="section-label">Begründung</div>
+      <p>${e.reasoning}</p>
+    </div>
+  `).join("");
+}
+
+(async function () {
+  try {
+    const log = await loadJSON(DATA_PATHS.log);
+    allEntries = [...log].sort((a, b) => b.date.localeCompare(a.date));
+    render("");
+    document.getElementById("search").addEventListener("input", (e) => render(e.target.value));
+  } catch (e) {
+    document.getElementById("entries").innerHTML = `<div class="card"><div class="empty-state">Fehler beim Laden: ${e.message}</div></div>`;
+  }
+})();
+renderBottomNav("log");
+</script>
+</body>
+</html>

@@ -1,0 +1,9 @@
+[
+  {
+    "date": "2026-08-05",
+    "marketOverview": "Setup-Tag: Die App wurde heute eingerichtet. Ab morgen früh übernimmt die automatische Marktrecherche diesen Log-Eintrag mit echtem Marktüberblick (Aktien, ETFs, Krypto, Rohstoffe) unter Berücksichtigung von Wirtschaft, Politik und Geopolitik.",
+    "decision": "Demo-Position angelegt (siehe Portfolio)",
+    "reasoning": "Platzhalter, damit die App von Anfang an funktionsfähig aussieht.",
+    "positionIds": ["pos-0001"]
+  }
+]

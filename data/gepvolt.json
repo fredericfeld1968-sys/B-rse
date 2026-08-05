@@ -1,0 +1,48 @@
+{
+  "lastUpdated": "2026-08-05",
+  "isPubliclyTradedEquity": false,
+  "hasListedBonds": true,
+  "tradeableInThisGame": false,
+  "companyInfo": {
+    "name": "GEPVOLT SE",
+    "headquarters": "Max-Volmer-Straße 23, 40724 Hilden, Deutschland",
+    "sector": "Battery Energy Storage Systems (BESS)",
+    "legalForm": "Societas Europaea (SE) seit 2024",
+    "businessModel": "Entwicklung, Bau und Betrieb großskaliger Batteriespeicher-Systeme in Deutschland. Fertigung überwiegend 'Made in Germany', Batteriezellen werden aus China zugekauft."
+  },
+  "equityStatus": {
+    "listed": false,
+    "ipoPlanned": true,
+    "ipoTimeframe": "Ende 2027 / Anfang 2028 (laut Aussage eines Vorstandsmitglieds auf einer Investment-Konferenz)",
+    "note": "Aktuell keine handelbaren Aktien. Ein Börsengang (IPO) ist angekündigt, aber noch nicht erfolgt."
+  },
+  "bonds": [
+    {
+      "name": "GEPVOLT Spremberg Battery Storage Project Bond",
+      "isin": "DE000A460DL7",
+      "wkn": "A460DL",
+      "couponPct": 8.0,
+      "volumeEur": 20000000,
+      "minSubscriptionEur": 1000,
+      "listing": "Frankfurter Wertpapierbörse, Open Market / Freiverkehr",
+      "maturityYear": 2033,
+      "type": "Asset-backed Anleihe mit mehrschichtigen Sicherheiten (u.a. Fertigstellungsgarantie, Mindesterlösgarantie ~110.000 €/MW, Versicherung, Treuhand-Escrow)"
+    }
+  ],
+  "flagshipProject": {
+    "name": "Batteriespeicher Spremberg (Brandenburg)",
+    "powerMw": 12,
+    "capacityMwh": 48,
+    "status": "Netzanschluss gesichert, Baugenehmigung erteilt, Inbetriebnahme geplant für Q4 2026"
+  },
+  "marketContext": {
+    "sector": "BESS-Markt (Battery Energy Storage Systems)",
+    "note": "Der Markt für Großbatteriespeicher in Deutschland wächst stark, getrieben durch Ausbau von Wind-/Solarenergie und Bedarf an Netzstabilisierung/Regelenergie. Wettbewerber u.a. Kyon Energy, Fluence, Eco Stor."
+  },
+  "sources": [
+    { "title": "GEPVOLT SE – Investment", "url": "https://gepvolt.com/en/investment/" },
+    { "title": "GEPVOLT: IPO-Pläne im Batteriespeicher-Bereich – 4investors", "url": "https://www.4investors.de/nachrichten/boerse.php?sektion=stock&ID=189697" },
+    { "title": "NEUEMISSION – GEPVOLT SE legt 8,00%-Anleihe auf – Anleihen Finder", "url": "https://www.anleihen-finder.de/neuemission-gepvolt-se-legt-800-anleihe-auf-00072007.html" }
+  ],
+  "disclaimer": "GEPVOLT SE ist AKTUELL KEIN handelbarer Börsenwert (keine Aktie). Diese Seite dient nur der Information und ist von der simulierten Portfolio-Logik ausgeschlossen. Die o.g. Unternehmensanleihe ist real handelbar, aber KEIN Teil dieses Spiels."
+}
