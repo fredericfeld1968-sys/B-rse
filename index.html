@@ -21,6 +21,8 @@
     <h2>Portfolio-Gesamtwert</h2>
     <div class="big-number" id="totalValue">–</div>
     <div class="delta" id="totalDelta"></div>
+    <button class="primary" id="investNowBtn">Jetzt sofort investieren</button>
+    <div class="meta" style="margin-top:8px; line-height:1.4;">Öffnet die Recherche-Routine bei Claude – dort einmal auf "Jetzt ausführen" tippen, dann läuft die Markt­recherche und Investitions­entscheidung sofort (nicht erst morgen früh).</div>
   </div>
 
   <div class="card">
@@ -47,6 +49,13 @@
       loadJSON(DATA_PATHS.log),
       loadJSON(DATA_PATHS.settings),
     ]);
+
+    const investBtn = document.getElementById("investNowBtn");
+    investBtn.textContent = `Jetzt sofort ${fmtEur(settings.dailyBudgetEur ?? 1000)} investieren`;
+    investBtn.addEventListener("click", () => {
+      window.open("https://claude.ai/code/routines/trig_019CkNsBVzDxi8jV7A5JauFx", "_blank", "noopener");
+      showToast('Routine geöffnet – dort „Jetzt ausführen“ tippen');
+    });
 
     const totals = computePortfolioTotals(positions);
     document.getElementById("totalValue").textContent = fmtEur(totals.currentValue);

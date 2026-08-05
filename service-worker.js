@@ -1,4 +1,4 @@
-const CACHE_NAME = "boerse-app-v1";
+const CACHE_NAME = "boerse-app-v2";
 const CORE_ASSETS = [
   "index.html",
   "portfolio.html",
@@ -26,14 +26,16 @@ self.addEventListener("activate", (event) => {
   self.clients.claim();
 });
 
+// Network-first fuer alles: zeigt immer die aktuelle Version, faellt bei fehlendem
+// Netz auf den Cache zurueck (Offline-Unterstuetzung ohne Risiko veralteter Inhalte).
 self.addEventListener("fetch", (event) => {
-  const url = new URL(event.request.url);
-  // JSON-Daten immer frisch vom Netz laden (Portfolio ändert sich täglich)
-  if (url.pathname.includes("/data/")) {
-    event.respondWith(fetch(event.request).catch(() => caches.match(event.request)));
-    return;
-  }
   event.respondWith(
-    caches.match(event.request).then((cached) => cached || fetch(event.request))
+    fetch(event.request)
+      .then((res) => {
+        const copy = res.clone();
+        caches.open(CACHE_NAME).then((cache) => cache.put(event.request, copy)).catch(() => {});
+        return res;
+      })
+      .catch(() => caches.match(event.request))
   );
 });
