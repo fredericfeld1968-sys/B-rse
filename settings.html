@@ -63,6 +63,16 @@
 
     <button class="primary" id="saveBtn">Speichern</button>
   </div>
+
+  <div class="card" id="githubFallback" style="display:none;">
+    <h2>Manuell auf GitHub speichern</h2>
+    <div class="disclaimer-banner">
+      Diese Version der App (GitHub Pages) kann nicht direkt speichern – nur die lokale Version mit laufendem <code>server.ps1</code> kann das. Kopiere den Text unten und füge ihn im GitHub-Editor ein (öffnet sich in einem neuen Tab), dann oben rechts auf "Commit changes" klicken.
+    </div>
+    <textarea id="fallbackJson" readonly style="min-height:220px; font-family:monospace; font-size:12px;"></textarea>
+    <button class="primary" id="copyJsonBtn" style="margin-top:10px;">JSON kopieren</button>
+    <button class="primary" id="openGithubBtn" style="margin-top:10px; background:var(--bg-elevated); color:var(--text); border:1px solid var(--border);">Auf GitHub bearbeiten öffnen</button>
+  </div>
 </main>
 <script src="js/common.js"></script>
 <script>
@@ -113,18 +123,40 @@ function getActiveTags(containerId) {
         lastUpdated: new Date().toISOString().slice(0, 10),
       };
 
+      const json = JSON.stringify(updated, null, 2);
+
       try {
         const res = await fetch("/api/settings", {
           method: "POST",
           headers: { "Content-Type": "application/json" },
-          body: JSON.stringify(updated, null, 2),
+          body: json,
         });
         if (!res.ok) throw new Error("Server hat " + res.status + " zurückgegeben");
         current = updated;
         showToast("Gespeichert");
+        document.getElementById("githubFallback").style.display = "none";
       } catch (e) {
-        showToast("Fehler beim Speichern: " + e.message);
+        // Kein lokaler Server erreichbar (z. B. GitHub-Pages-Version) -> manueller GitHub-Weg
+        document.getElementById("fallbackJson").value = json;
+        document.getElementById("githubFallback").style.display = "block";
+        document.getElementById("githubFallback").scrollIntoView({ behavior: "smooth", block: "start" });
+        showToast("Kein Server erreichbar – bitte manuell auf GitHub speichern");
       }
+    });
+
+    document.getElementById("copyJsonBtn").addEventListener("click", async () => {
+      const text = document.getElementById("fallbackJson").value;
+      try {
+        await navigator.clipboard.writeText(text);
+        showToast("JSON kopiert");
+      } catch {
+        document.getElementById("fallbackJson").select();
+        showToast("Bitte manuell kopieren (Text ist markiert)");
+      }
+    });
+
+    document.getElementById("openGithubBtn").addEventListener("click", () => {
+      window.open("https://github.com/fredericfeld1968-sys/B-rse/edit/main/data/settings.json", "_blank", "noopener");
     });
   } catch (e) {
     document.querySelector("main").innerHTML = `<div class="card"><div class="empty-state">Fehler beim Laden: ${e.message}</div></div>`;
