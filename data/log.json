@@ -36,5 +36,16 @@
       {"time": "22:12", "note": "Keine Aenderung; Rheinmetall-Kurs korrigiert auf tatsaechlichen Xetra-Schlusskurs 1.186,00 EUR (-2,79%, zuvor faelschlich 1.201,50 EUR eingetragen), Gold bei ~4.355 USD/+1,80% bestaetigt. Kein neuer Kauf: US-Boerse soeben geschlossen, Krypto ohne ueberzeugenden Katalysator (Gesamtmarkt -0,5%, Solana schwaecher)", "portfolioValue": 1092.27},
       {"time": "23:13", "note": "Keine Aenderung; Gold leicht aktualisiert (~4.352 USD/+1,73%), Rheinmetall unveraendert (Xetra geschlossen bis Montag). Bitcoin weiterhin range-gebunden (62.000-66.000 USD), Solana-Momentum flaut ab (RSI 43) - kein ueberzeugender Krypto-Katalysator, daher kein neuer Kauf", "portfolioValue": 1091.92}
     ]
+  },
+  {
+    "date": "2026-08-08",
+    "marketOverview": "Wochenstart-Wochenende: Boersen (Aktien, ETFs, Rohstoffe/Gold) sind ueber das Wochenende geschlossen, Xetra bleibt bis Montag zu. Der Kryptomarkt zeigt sich weiterhin verhalten: Bitcoin notiert bei rund 64.900-65.000 USD, Ethereum bei ca. 1.913 USD, Solana bei ca. 73,7 USD - Gesamtmarktkapitalisierung rund 2,28 Billionen USD. Der Crypto Fear & Greed Index liegt bei 28-29 (Angst), leicht verbessert gegenueber der 'Extreme Angst' der Vorwoche, aber weiterhin kein risikofreudiges Umfeld. Vereinzelte Altcoin-Bewegungen (Cosmos +6,5%, Polkadot +3,9%, Injective +3,5%) ohne klaren, uebergreifenden Katalysator.",
+    "decision": "Tagesbudget fuer den 08.08. gutgeschrieben (+1.000 EUR), freies Kapital liegt nun bei 2.900 EUR. Da Aktien/ETFs/Rohstoffe am Wochenende nicht handelbar sind und der Kryptomarkt keine ueberzeugende Gelegenheit bietet (Fear&Greed weiterhin im Angst-Bereich, Bitcoin range-gebunden, nur kleinere Altcoin-Bewegungen ohne klares Sell-the-news- oder Momentum-Muster), wurde in diesem Lauf nicht gehandelt. Bestehende offene Positionen Gold (pos-0004) und Rheinmetall (pos-0006) bleiben zu den letzten bekannten Kursen (Freitagsschluss) unveraendert gehalten.",
+    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber laut Vorgabe eine wirklich ueberzeugende Gelegenheit - diese liegt aktuell weder bei den (ausserhalb der Handelszeiten ohnehin nicht handelbaren) Aktien/Rohstoffen noch bei Krypto vor. Die diversen kleineren Altcoin-Bewegungen (3-6%) folgen keinem der bisher erfolgreichen Muster (Sell-the-news-Rebound, starkes Einzeltitel-Momentum) und rechtfertigen angesichts der insgesamt aengstlichen Marktstimmung kein neues Investment. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "positionIds": ["pos-0004", "pos-0006"],
+    "portfolioValueEnd": 1091.92,
+    "updates": [
+      {"time": "00:13", "note": "Tagesbudget-Gutschrift +1.000 EUR (freies Kapital jetzt 2.900 EUR); Wochenende - Aktien/ETFs/Rohstoffe nicht handelbar; kein Krypto-Kauf mangels ueberzeugender Gelegenheit (Fear&Greed 28-29, BTC range-gebunden)", "portfolioValue": 1091.92}
+    ]
   }
 ]
