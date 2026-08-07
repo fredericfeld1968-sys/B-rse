@@ -18,11 +18,14 @@
 </header>
 <main>
   <div class="card">
-    <h2>Portfolio-Gesamtwert</h2>
+    <h2>Gesamtwert</h2>
     <div class="big-number" id="totalValue">–</div>
     <div class="delta" id="totalDelta"></div>
-    <button class="primary" id="investNowBtn">Jetzt sofort investieren</button>
-    <div class="meta" style="margin-top:8px; line-height:1.4;">Öffnet die Recherche-Routine bei Claude – dort einmal auf "Jetzt ausführen" tippen, dann läuft die Markt­recherche und Investitions­entscheidung sofort (nicht erst morgen früh).</div>
+    <table style="margin-top:14px;">
+      <tr><td>Depotwert (offene Positionen)</td><td style="text-align:right;" id="capDepot">–</td></tr>
+      <tr><td>Freies Kapital</td><td style="text-align:right;" id="capFree">–</td></tr>
+      <tr><td>Gewinn-Topf <span class="pill info">gesperrt</span></td><td style="text-align:right;" id="capProfit">–</td></tr>
+    </table>
   </div>
 
   <div class="card">
@@ -44,36 +47,32 @@
 <script>
 (async function () {
   try {
-    const [positions, log, settings] = await Promise.all([
+    const [positions, log, capital] = await Promise.all([
       loadJSON(DATA_PATHS.portfolio),
       loadJSON(DATA_PATHS.log),
-      loadJSON(DATA_PATHS.settings),
+      loadJSON(DATA_PATHS.capital),
     ]);
 
-    const investBtn = document.getElementById("investNowBtn");
-    investBtn.textContent = `Jetzt sofort ${fmtEur(settings.dailyBudgetEur ?? 1000)} investieren`;
-    investBtn.addEventListener("click", () => {
-      window.open("https://claude.ai/code/routines/trig_019CkNsBVzDxi8jV7A5JauFx", "_blank", "noopener");
-      showToast('Routine geöffnet – dort „Jetzt ausführen“ tippen');
-    });
-
     const totals = computePortfolioTotals(positions);
-    document.getElementById("totalValue").textContent = fmtEur(totals.currentValue);
+    const cap = computeCapital(positions, capital);
+
+    document.getElementById("totalValue").textContent = fmtEur(cap.total);
+    document.getElementById("capDepot").textContent = fmtEur(cap.depot);
+    document.getElementById("capFree").textContent = fmtEur(cap.freeCash);
+    document.getElementById("capProfit").textContent = fmtEur(cap.profitPot);
+
     const deltaEl = document.getElementById("totalDelta");
-    deltaEl.textContent = `${fmtEur(totals.profitLoss)} (${fmtPct(totals.profitLossPct)}) seit Kauf`;
+    deltaEl.textContent = `${fmtEur(totals.profitLoss)} (${fmtPct(totals.profitLossPct)}) unrealisiert im Depot`;
     deltaEl.className = "delta " + deltaClass(totals.profitLoss);
 
-    // Verlauf: Tagesendwert je Log-Eintrag, approximiert aus kumuliertem investierten Betrag der Tage bis dahin.
-    // Sobald echte Tageswerte im Log vorliegen (z.B. log[i].portfolioValueEnd), werden diese bevorzugt.
     const sortedLog = [...log].sort((a, b) => a.date.localeCompare(b.date));
-    const chartValues = sortedLog.map(entry =>
-      typeof entry.portfolioValueEnd === "number" ? entry.portfolioValueEnd : totals.currentValue
-    );
-    drawLineChart(document.getElementById("chart"), chartValues.length ? chartValues : [totals.currentValue, totals.currentValue]);
+    drawLineChart(document.getElementById("chart"), buildChartSeries(log, cap.total));
 
     const todayIso = new Date().toISOString().slice(0, 10);
     const todayEntry = log.find(e => e.date === todayIso) || sortedLog[sortedLog.length - 1];
     const todayEl = document.getElementById("todaySummary");
+    const updates = todayEntry && Array.isArray(todayEntry.updates) ? todayEntry.updates : [];
+    const lastUpdate = updates.length ? updates[updates.length - 1] : null;
     if (todayEntry) {
       todayEl.className = "";
       todayEl.innerHTML = `
@@ -83,9 +82,10 @@
           <p>${todayEntry.marketOverview}</p>
           <div class="section-label">Entscheidung</div>
           <p>${todayEntry.decision}</p>
+          ${lastUpdate ? `<div class="meta" style="margin-top:10px;">Letzte Prüfung ${lastUpdate.time} Uhr · ${lastUpdate.note}</div>` : ""}
         </div>`;
     } else {
-      todayEl.textContent = "Noch kein Eintrag für heute. Die automatische Morgen-Recherche legt ihn an.";
+      todayEl.textContent = "Noch kein Eintrag für heute. Die stündliche Marktprüfung legt ihn an.";
     }
 
     const openEl = document.getElementById("openPositions");

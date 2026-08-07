@@ -35,16 +35,24 @@
 <script>
 (async function () {
   try {
-    const positions = await loadJSON(DATA_PATHS.portfolio);
+    const [positions, capital] = await Promise.all([
+      loadJSON(DATA_PATHS.portfolio),
+      loadJSON(DATA_PATHS.capital),
+    ]);
     const totals = computePortfolioTotals(positions);
+    const cap = computeCapital(positions, capital);
 
     document.getElementById("summary").innerHTML = `
       <table>
         <tr><td>Investiert (offen)</td><td style="text-align:right;">${fmtEur(totals.invested)}</td></tr>
-        <tr><td>Aktueller Wert (offen)</td><td style="text-align:right;">${fmtEur(totals.currentValue)}</td></tr>
+        <tr><td>Depotwert (offen)</td><td style="text-align:right;">${fmtEur(cap.depot)}</td></tr>
         <tr><td>Unrealisiert G/V</td><td style="text-align:right;" class="delta ${deltaClass(totals.profitLoss)}">${fmtEur(totals.profitLoss)} (${fmtPct(totals.profitLossPct)})</td></tr>
-        <tr><td>Realisiert G/V (geschlossen)</td><td style="text-align:right;" class="delta ${deltaClass(totals.realizedPL)}">${fmtEur(totals.realizedPL)}</td></tr>
-      </table>`;
+        <tr><td>Freies Kapital</td><td style="text-align:right;">${fmtEur(cap.freeCash)}</td></tr>
+        <tr><td>Gewinn-Topf <span class="pill info">gesperrt</span></td><td style="text-align:right;" class="delta ${deltaClass(cap.profitPot)}">${fmtEur(cap.profitPot)}</td></tr>
+        <tr><td>Realisierte Verluste</td><td style="text-align:right;" class="delta ${deltaClass(cap.realizedLosses)}">${fmtEur(cap.realizedLosses)}</td></tr>
+        <tr><td><strong>Gesamt</strong></td><td style="text-align:right;"><strong>${fmtEur(cap.total)}</strong></td></tr>
+      </table>
+      <div class="meta" style="margin-top:10px; line-height:1.4;">Realisierte Gewinne wandern in den gesperrten Gewinn-Topf und werden nie wieder investiert. Realisierte Verluste mindern das freie Kapital.</div>`;
 
     function renderPosition(p) {
       const pl = p.profitLoss ?? 0;

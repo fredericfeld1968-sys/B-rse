@@ -5,6 +5,7 @@ const DATA_PATHS = {
   portfolio: "data/portfolio.json",
   log: "data/log.json",
   gepvolt: "data/gepvolt.json",
+  capital: "data/capital.json",
 };
 
 async function loadJSON(path) {
@@ -42,6 +43,41 @@ function computePortfolioTotals(positions) {
   const profitLossPct = invested > 0 ? (profitLoss / invested) * 100 : 0;
   const realizedPL = closed.reduce((sum, p) => sum + (p.profitLoss ?? 0), 0);
   return { open, closed, currentValue, invested, profitLoss, profitLossPct, realizedPL };
+}
+
+// Kapitalregeln: Realisierte Gewinne wandern in einen gesperrten Topf und werden nie wieder
+// investiert; realisierte Verluste mindern das frei verfuegbare Neugeld.
+function computeCapital(positions, capital) {
+  const open = positions.filter(p => p.status === "open");
+  const closed = positions.filter(p => p.status === "closed");
+
+  const invested = positions.reduce((sum, p) => sum + p.amount, 0);
+  const returned = closed.reduce((sum, p) => sum + p.amount + Math.min(p.profitLoss ?? 0, 0), 0);
+  const profitPot = closed.reduce((sum, p) => sum + Math.max(p.profitLoss ?? 0, 0), 0);
+  const realizedLosses = closed.reduce((sum, p) => sum + Math.min(p.profitLoss ?? 0, 0), 0);
+
+  const freeCash = (capital?.totalFreshCapitalEur ?? 0) - invested + returned;
+  const depot = open.reduce((sum, p) => sum + (p.currentValue ?? p.amount), 0);
+
+  return { freeCash, profitPot, realizedLosses, depot, total: freeCash + depot + profitPot };
+}
+
+// Flacht die stuendlichen updates aller Tage zu einer Intraday-Reihe fuer den Chart ab.
+function buildChartSeries(log, fallbackValue) {
+  const sorted = [...log].sort((a, b) => a.date.localeCompare(b.date));
+  const series = [];
+  for (const entry of sorted) {
+    if (Array.isArray(entry.updates) && entry.updates.length) {
+      for (const u of entry.updates) {
+        if (typeof u.portfolioValue === "number") series.push(u.portfolioValue);
+      }
+    } else if (typeof entry.portfolioValueEnd === "number") {
+      series.push(entry.portfolioValueEnd);
+    }
+  }
+  if (series.length === 0) return [fallbackValue, fallbackValue];
+  if (series.length === 1) return [series[0], series[0]];
+  return series;
 }
 
 function renderBottomNav(active) {

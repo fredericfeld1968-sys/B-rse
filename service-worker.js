@@ -1,4 +1,4 @@
-const CACHE_NAME = "boerse-app-v2";
+const CACHE_NAME = "boerse-app-v3";
 const CORE_ASSETS = [
   "index.html",
   "portfolio.html",

@@ -28,14 +28,18 @@ let allEntries = [];
 function render(filter) {
   const el = document.getElementById("entries");
   const f = (filter || "").toLowerCase().trim();
-  const filtered = !f ? allEntries : allEntries.filter(e =>
-    (e.date + " " + e.marketOverview + " " + e.decision + " " + e.reasoning).toLowerCase().includes(f)
-  );
+  const searchText = e =>
+    [e.date, e.marketOverview, e.decision, e.reasoning,
+     ...(e.updates || []).map(u => `${u.time} ${u.note}`)].join(" ").toLowerCase();
+
+  const filtered = !f ? allEntries : allEntries.filter(e => searchText(e).includes(f));
   if (filtered.length === 0) {
     el.innerHTML = '<div class="card"><div class="empty-state">Keine Einträge gefunden.</div></div>';
     return;
   }
-  el.innerHTML = filtered.map(e => `
+  el.innerHTML = filtered.map(e => {
+    const updates = Array.isArray(e.updates) ? e.updates : [];
+    return `
     <div class="log-entry">
       <div class="date">${fmtDate(e.date)}</div>
       <div class="section-label">Marktüberblick</div>
@@ -44,8 +48,18 @@ function render(filter) {
       <p>${e.decision}</p>
       <div class="section-label">Begründung</div>
       <p>${e.reasoning}</p>
-    </div>
-  `).join("");
+      ${updates.length ? `
+      <div class="section-label">Prüfungen im Tagesverlauf (${updates.length})</div>
+      <table>
+        ${updates.map(u => `
+          <tr>
+            <td style="white-space:nowrap; width:1%;">${u.time}</td>
+            <td>${u.note}</td>
+            <td style="text-align:right; white-space:nowrap;">${typeof u.portfolioValue === "number" ? fmtEur(u.portfolioValue) : ""}</td>
+          </tr>`).join("")}
+      </table>` : ""}
+    </div>`;
+  }).join("");
 }
 
 (async function () {
