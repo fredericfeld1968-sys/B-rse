@@ -6,7 +6,7 @@ const CORE_ASSETS = [
   "gepvolt.html",
   "settings.html",
   "css/style.css",
-  "js/common.js",
+  "js/common.js?v=3",
   "manifest.json",
 ];
 
