@@ -79,7 +79,8 @@
     "positionIds": ["pos-0004", "pos-0006"],
     "portfolioValueEnd": 1092.36,
     "updates": [
-      {"time": "00:09", "note": "Tagesbudget-Gutschrift +1.000 EUR (freies Kapital jetzt 3.900 EUR); Wochenende, Boersen weiterhin geschlossen; kein Krypto-Kauf mangels ueberzeugender Gelegenheit (Bitcoin/Solana weiterhin unter Widerstand)", "portfolioValue": 1092.36}
+      {"time": "00:09", "note": "Tagesbudget-Gutschrift +1.000 EUR (freies Kapital jetzt 3.900 EUR); Wochenende, Boersen weiterhin geschlossen; kein Krypto-Kauf mangels ueberzeugender Gelegenheit (Bitcoin/Solana weiterhin unter Widerstand)", "portfolioValue": 1092.36},
+      {"time": "01:11", "note": "Keine Aenderung; Gold/Rheinmetall unveraendert (Wochenende, Maerkte weiterhin geschlossen). Bitcoin weiterhin ~64.700-65.100 USD unter der 65.300-66.000 USD Widerstandszone, Solana ~73-74 USD unter EMA-Widerstand (75-76 USD), keine neue Nachrichtenlage seit Mitternacht - kein ueberzeugender Krypto-Katalysator, daher kein neuer Kauf", "portfolioValue": 1092.36}
     ]
   }
 ]
