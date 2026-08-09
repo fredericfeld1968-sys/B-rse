@@ -4,7 +4,11 @@
     "marketOverview": "Die Rally an den Börsen setzte sich fort: DAX +0,78% auf 26.407 Punkte (neues Rekordhoch), Dow Jones auf neuem Rekordhoch bei 54.085,88 (+0,71%), S&P 500 +0,65% und Nasdaq +0,35%; auch der Nikkei 225 legte deutlich zu. Treiber bleiben Hoffnungen auf eine Lösung im Iran-Konflikt (mögliche Wiedereröffnung der Straße von Hormus laut US-Finanzminister Bessent, fallende Ölpreise) sowie eine starke Tech-/KI-Berichtssaison, u.a. Palantir (+29,5%). AMD, das nach starken Quartalszahlen zunächst im 'Sell-the-news'-Modus abgerutscht war, hatte sich im Tagesverlauf deutlich erholt (von ca. 435 auf ca. 473 USD). Der Kryptomarkt bleibt in risikofreudiger Stimmung, Solana kletterte im weiteren Tagesverlauf leicht weiter auf rund 74,13 USD.",
     "decision": "Intraday-Update: Demo-Position (DEMO) und AMD-Dip-Kauf-Position (pos-0002) bleiben glattgestellt (siehe vorherige Begründung). Solana-Position (pos-0003) bleibt offen und wurde auf den aktuellen Kurs von 74,13 USD aktualisiert (+8,7% seit Kauf, leicht höher als beim letzten Check). Kein neues Investment, da das Tagesbudget bereits mit den AMD-/Solana-Positionen vollständig für den 05.08. eingesetzt wurde.",
     "reasoning": "Risikoprofil 'spekulativ' mit erlaubtem kurzfristigem Trading: Der AMD-Dip-Kauf wurde bereits gewinnbringend glattgestellt. Solana wird angesichts des weiterhin risikofreudigen Marktumfelds (Rekordstände bei US-/DE-Indizes, Iran-Entspannung, starke Tech-Zahlen) unverändert weiter gehalten, der Aufwärtstrend seit dem letzten Check hat sich leicht fortgesetzt. Keine der Positionen verstößt gegen Ausschlusslisten aus den Einstellungen; das Tagesbudget von 1000 EUR wurde bereits mit dem ersten Lauf des Tages verwendet.",
-    "positionIds": ["pos-0001", "pos-0002", "pos-0003"],
+    "positionIds": [
+      "pos-0001",
+      "pos-0002",
+      "pos-0003"
+    ],
     "portfolioValueEnd": 543.48
   },
   {
@@ -12,7 +16,10 @@
     "marketOverview": "Intraday-Update (mittags): Dow Jones legt weiter zu auf ein neues Rekordhoch von 54.349 Punkten (+0,49%), während S&P 500 (-0,17% auf 7.724) und vor allem der techlastige Nasdaq 100 (-0,83% auf 29.488) leicht nachgeben. Größter Verlierer im Nasdaq 100 bleibt SpaceX mit einem Kursrutsch von 13,6% (aktuell weiterhin ca. 108,27 USD) inmitten von Investorenskepsis wegen hoher Kapitalausgaben (18,4 Mrd. USD in Q2) und einer bevorstehenden Aktien-Lock-up-Freigabe, während Shopify nach starken Zahlen um 17% zulegt. Asiatische Börsen mehrheitlich schwächer (Nikkei -0,8%, Topix +0,2%). Gold setzt seine Rekordjagd fort und nähert sich der Marke von 4.300 USD/oz (vierter Anstiegstag in Folge, +6% Wochenplus), weiterhin getrieben vom Teil-Deal zur Wiederöffnung der Straße von Hormus und geopolitischen Spannungen.",
     "decision": "Beide offenen Positionen aus dem Morgen-Update bleiben unverändert gehalten: Gold-Position (pos-0004) wurde auf den leicht höheren Kurs von 4.295,50 USD aktualisiert (+0,41%), SpaceX-Position (pos-0005) notiert unverändert bei ca. 108,27 USD (+/-0%). Kein neues Investment, da das Tagesbudget von 1000 EUR bereits mit den beiden Positionen aus dem ersten Lauf vollständig eingesetzt ist und keine Position heute geschlossen wurde.",
     "reasoning": "Risikoprofil 'spekulativ' mit erlaubtem kurzfristigem Trading: Die Gold-Position profitiert weiterhin von robustem, mehrtägigem Momentum (Rekordjagd Richtung 4.300 USD) und wird daher unverändert gehalten. Bei SpaceX hat sich der erwartete technische Rebound nach dem 'Sell-the-news'-Abverkauf noch nicht eingestellt - der Titel bleibt mit -13,6% heute der schwächste Wert im Nasdaq 100, eine Bodenbildung ist noch nicht bestätigt. Da die US-Kernhandelszeit erst am Nachmittag beginnt und die spekulative Dip-Kauf-These (starke Fundamentaldaten trotz Kursdruck) weiterhin intakt ist, wird die Position vorerst weiter gehalten statt vorschnell mit Verlust glattgestellt. Keine der Positionen verstößt gegen Ausschlusslisten aus den Einstellungen.",
-    "positionIds": ["pos-0004", "pos-0005"],
+    "positionIds": [
+      "pos-0004",
+      "pos-0005"
+    ],
     "portfolioValueEnd": 1001.98
   },
   {
@@ -20,21 +27,74 @@
     "marketOverview": "Der Handelstag ist an den US-Boersen beendet: Dow +0,3%, S&P 500 +0,6%, Nasdaq +1,2% zum Wochenschluss, getragen von der Zinssenkungshoffnung nach dem schwachen NFP-Bericht. Gold beendete die Woche bei rund 4.350-4.358 USD/oz (+2,6%) mit dem besten Wochenschluss seit Januar. Rheinmetall (RHM) schloss den Xetra-Handel bei 1.186,00 EUR (+2,90% am Tag, -2,79% seit Kauf) - die vorherige Eintragung von 1.201,50 EUR wurde als fehlerhaft korrigiert. Der Kryptomarkt zeigt sich uneinheitlich: Bitcoin (~65.100 USD) und Ethereum (~1.929 USD) leicht fester nach dem Jobs-Bericht, Solana dagegen mit leichter Korrektur auf ~72,70 USD; Gesamtmarktkapitalisierung -0,5% bei schwacher DeFi-Aktivitaet, Fear&Greed-Index verbessert sich leicht von 25 (Extreme Angst) auf 29 (Angst).",
     "decision": "SpaceX-Position (pos-0005) wurde mittags mit +39,16 EUR (+7,83%) glattgestellt, Palantir-Position (pos-0007) um 17:15 mit +33,35 EUR (+8,34%). Gold (pos-0004) und Rheinmetall (pos-0006) bleiben unveraendert gehalten. Im elften Lauf des Tages (22:12) wurde der Rheinmetall-Kurs korrigiert: Der tatsaechliche Xetra-Schlusskurs lag bei 1.186,00 EUR (-2,79%), nicht wie zuvor eingetragen bei 1.201,50 EUR (-1,52%) - Xetra bleibt bis Montag geschlossen. Gold wurde zuletzt bei ~4.352 USD/+1,73% bestaetigt. Trotz freiem Kapital von 1.900 EUR weiterhin kein neuer Kauf: Aktien/ETFs/Rohstoffe sind nach Boersenschluss nicht mehr handelbar, und der Kryptomarkt bietet weiterhin keine ueberzeugende Gelegenheit (Bitcoin range-gebunden zwischen 62.000 und 66.000 USD, Solana mit abflauendem Momentum, RSI 43, Widerstand bei ~77 USD).",
     "reasoning": "Risikoprofil 'spekulativ' mit erlaubtem kurzfristigem Trading: Bei SpaceX und Palantir wurde die jeweilige Kursbeschleunigung nach dem etablierten Muster (AMD +8,7%, SpaceX +7,8%, Solana +7,6%, Palantir +8,3%) konsequent mit einem Gewinn im Bereich von 8% mitgenommen. Gold bestaetigt weiterhin intaktes mehrtaegiges Momentum und wird gehalten. Rheinmetall wird trotz -2,79% seit Kauf gehalten, da Xetra geschlossen ist und ausserhalb der Handelszeiten laut Vorgabe keine Aktien gehandelt werden; Verkauf/Halten-Entscheidung erst wieder bei Wiedereroeffnung am Montag sinnvoll. Fuer Krypto (einzige ausserhalb der Handelszeiten bewegbare Anlageklasse) fehlt weiterhin ein ueberzeugender Katalysator (Bitcoin range-gebunden, Solana-Momentum flaut ab), daher kein Neukauf. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
-    "positionIds": ["pos-0004", "pos-0005", "pos-0006", "pos-0007"],
+    "positionIds": [
+      "pos-0004",
+      "pos-0005",
+      "pos-0006",
+      "pos-0007"
+    ],
     "portfolioValueEnd": 1091.92,
     "updates": [
-      {"time": "12:53", "note": "Verkauf SpaceX (SPCX), Gewinn +39,16 EUR (+7,83%) realisiert; Gold/Palantir aktualisiert, Rheinmetall trotz -2,79% weiter gehalten; kein neuer Kauf (Figma-Dip strukturell nicht überzeugend genug)", "portfolioValue": 1487.98},
-      {"time": "13:16", "note": "Keine Änderung; Kurse aktualisiert (Gold ~4.285 USD, Rheinmetall ~1.190 EUR, Palantir ~157,50 USD). Markt wartet auf den US-Arbeitsmarktbericht (Nonfarm Payrolls), daher bewusst keine neue spekulative Position vor diesem Volatilitäts-Katalysator", "portfolioValue": 1490.12},
-      {"time": "14:28", "note": "Keine Änderung; Kurse aktualisiert (Gold ~4.300 USD/+0,51%, Rheinmetall ~1.186 EUR/+2,9% heute), kein neuer Kauf unmittelbar vor NFP-Veröffentlichung (14:30 MESZ)", "portfolioValue": 1489.90},
-      {"time": "15:28", "note": "Keine Änderung; NFP kam schwächer als erwartet (-23K vs. +83K), Markt reagierte moderat positiv (Zinssenkungshoffnung), aber ohne überzeugende Kauf-Gelegenheit; Kurse aktualisiert (Gold ~4.310 USD/+0,75%, Rheinmetall unverändert ~1.186 EUR/-2,79%, Palantir ~158,00 USD/+1,33%)", "portfolioValue": 1492.36},
-      {"time": "16:25", "note": "Keine Änderung; Nachmittagsrally nach NFP haelt an, Kurse aktualisiert (Gold ~4.320 USD/+0,98%, Rheinmetall ~1.195 EUR/-2,05%, Palantir ~160,00 USD/+2,62% nach Kurszielanhebungen), kein neuer Kauf mangels klarem Einzeltitel-Katalysator", "portfolioValue": 1503.08},
-      {"time": "17:15", "note": "Verkauf Palantir (PLTR), Gewinn +33,35 EUR (+8,34%) realisiert nach starkem Nachmittagsschub; Gold/Rheinmetall aktualisiert; kein neuer Kauf (Datadog-Dip ohne bestätigten Boden verworfen)", "portfolioValue": 1097.35},
-      {"time": "18:16", "note": "Keine Aenderung; Kurse aktualisiert (Gold ~4.352 USD/+1,73%, Rheinmetall Xetra-Schluss ~1.201,50 EUR/-1,52%). The Trade Desk brach nach Prognosesenkung um -28% ein - kein Dip-Kauf (strukturelle Verschlechterung statt Sell-the-news-Ueberreaktion). Keine ueberzeugende neue Gelegenheit gefunden", "portfolioValue": 1099.55},
-      {"time": "19:11", "note": "Keine Aenderung; Gold aktualisiert (~4.355 USD/+1,80%), Rheinmetall unveraendert (Xetra seit 17:30 geschlossen). Cloudflare nach starkem Earnings-Pop auf neuem 52-Wochen-Hoch als Kauf verworfen (bereits zu weit gelaufen, kein Dip-Setup)", "portfolioValue": 1099.90},
-      {"time": "20:11", "note": "Keine Aenderung; Gold aktualisiert (~4.350 USD/+1,69%), Rheinmetall unveraendert (Xetra weiterhin geschlossen). Apple-Dip-Kauf nach Guidance-Reaktion geprueft, aber wegen widerspruechlicher Kursdaten verworfen", "portfolioValue": 1099.36},
-      {"time": "21:09", "note": "Keine Aenderung; Gold aktualisiert (~4.355 USD/+1,80%), Rheinmetall unveraendert (Xetra weiterhin geschlossen). AppLovin (APP, ~-20% nach Quartalszahlen) als Kauf verworfen - echte Guidance-Verfehlung statt Sell-the-news-Ueberreaktion", "portfolioValue": 1099.89},
-      {"time": "22:12", "note": "Keine Aenderung; Rheinmetall-Kurs korrigiert auf tatsaechlichen Xetra-Schlusskurs 1.186,00 EUR (-2,79%, zuvor faelschlich 1.201,50 EUR eingetragen), Gold bei ~4.355 USD/+1,80% bestaetigt. Kein neuer Kauf: US-Boerse soeben geschlossen, Krypto ohne ueberzeugenden Katalysator (Gesamtmarkt -0,5%, Solana schwaecher)", "portfolioValue": 1092.27},
-      {"time": "23:13", "note": "Keine Aenderung; Gold leicht aktualisiert (~4.352 USD/+1,73%), Rheinmetall unveraendert (Xetra geschlossen bis Montag). Bitcoin weiterhin range-gebunden (62.000-66.000 USD), Solana-Momentum flaut ab (RSI 43) - kein ueberzeugender Krypto-Katalysator, daher kein neuer Kauf", "portfolioValue": 1091.92}
+      {
+        "time": "12:53",
+        "note": "Verkauf SpaceX (SPCX), Gewinn +39,16 EUR (+7,83%) realisiert; Gold/Palantir aktualisiert, Rheinmetall trotz -2,79% weiter gehalten; kein neuer Kauf (Figma-Dip strukturell nicht überzeugend genug)",
+        "portfolioValue": 1487.98
+      },
+      {
+        "time": "13:16",
+        "note": "Keine Änderung; Kurse aktualisiert (Gold ~4.285 USD, Rheinmetall ~1.190 EUR, Palantir ~157,50 USD). Markt wartet auf den US-Arbeitsmarktbericht (Nonfarm Payrolls), daher bewusst keine neue spekulative Position vor diesem Volatilitäts-Katalysator",
+        "portfolioValue": 1490.12
+      },
+      {
+        "time": "14:28",
+        "note": "Keine Änderung; Kurse aktualisiert (Gold ~4.300 USD/+0,51%, Rheinmetall ~1.186 EUR/+2,9% heute), kein neuer Kauf unmittelbar vor NFP-Veröffentlichung (14:30 MESZ)",
+        "portfolioValue": 1489.9
+      },
+      {
+        "time": "15:28",
+        "note": "Keine Änderung; NFP kam schwächer als erwartet (-23K vs. +83K), Markt reagierte moderat positiv (Zinssenkungshoffnung), aber ohne überzeugende Kauf-Gelegenheit; Kurse aktualisiert (Gold ~4.310 USD/+0,75%, Rheinmetall unverändert ~1.186 EUR/-2,79%, Palantir ~158,00 USD/+1,33%)",
+        "portfolioValue": 1492.36
+      },
+      {
+        "time": "16:25",
+        "note": "Keine Änderung; Nachmittagsrally nach NFP haelt an, Kurse aktualisiert (Gold ~4.320 USD/+0,98%, Rheinmetall ~1.195 EUR/-2,05%, Palantir ~160,00 USD/+2,62% nach Kurszielanhebungen), kein neuer Kauf mangels klarem Einzeltitel-Katalysator",
+        "portfolioValue": 1503.08
+      },
+      {
+        "time": "17:15",
+        "note": "Verkauf Palantir (PLTR), Gewinn +33,35 EUR (+8,34%) realisiert nach starkem Nachmittagsschub; Gold/Rheinmetall aktualisiert; kein neuer Kauf (Datadog-Dip ohne bestätigten Boden verworfen)",
+        "portfolioValue": 1097.35
+      },
+      {
+        "time": "18:16",
+        "note": "Keine Aenderung; Kurse aktualisiert (Gold ~4.352 USD/+1,73%, Rheinmetall Xetra-Schluss ~1.201,50 EUR/-1,52%). The Trade Desk brach nach Prognosesenkung um -28% ein - kein Dip-Kauf (strukturelle Verschlechterung statt Sell-the-news-Ueberreaktion). Keine ueberzeugende neue Gelegenheit gefunden",
+        "portfolioValue": 1099.55
+      },
+      {
+        "time": "19:11",
+        "note": "Keine Aenderung; Gold aktualisiert (~4.355 USD/+1,80%), Rheinmetall unveraendert (Xetra seit 17:30 geschlossen). Cloudflare nach starkem Earnings-Pop auf neuem 52-Wochen-Hoch als Kauf verworfen (bereits zu weit gelaufen, kein Dip-Setup)",
+        "portfolioValue": 1099.9
+      },
+      {
+        "time": "20:11",
+        "note": "Keine Aenderung; Gold aktualisiert (~4.350 USD/+1,69%), Rheinmetall unveraendert (Xetra weiterhin geschlossen). Apple-Dip-Kauf nach Guidance-Reaktion geprueft, aber wegen widerspruechlicher Kursdaten verworfen",
+        "portfolioValue": 1099.36
+      },
+      {
+        "time": "21:09",
+        "note": "Keine Aenderung; Gold aktualisiert (~4.355 USD/+1,80%), Rheinmetall unveraendert (Xetra weiterhin geschlossen). AppLovin (APP, ~-20% nach Quartalszahlen) als Kauf verworfen - echte Guidance-Verfehlung statt Sell-the-news-Ueberreaktion",
+        "portfolioValue": 1099.89
+      },
+      {
+        "time": "22:12",
+        "note": "Keine Aenderung; Rheinmetall-Kurs korrigiert auf tatsaechlichen Xetra-Schlusskurs 1.186,00 EUR (-2,79%, zuvor faelschlich 1.201,50 EUR eingetragen), Gold bei ~4.355 USD/+1,80% bestaetigt. Kein neuer Kauf: US-Boerse soeben geschlossen, Krypto ohne ueberzeugenden Katalysator (Gesamtmarkt -0,5%, Solana schwaecher)",
+        "portfolioValue": 1092.27
+      },
+      {
+        "time": "23:13",
+        "note": "Keine Aenderung; Gold leicht aktualisiert (~4.352 USD/+1,73%), Rheinmetall unveraendert (Xetra geschlossen bis Montag). Bitcoin weiterhin range-gebunden (62.000-66.000 USD), Solana-Momentum flaut ab (RSI 43) - kein ueberzeugender Krypto-Katalysator, daher kein neuer Kauf",
+        "portfolioValue": 1091.92
+      }
     ]
   },
   {
@@ -42,33 +102,132 @@
     "marketOverview": "Wochenende: Boersen (Aktien, ETFs, Rohstoffe/Gold) bleiben geschlossen, Xetra oeffnet erst wieder Montag; Gold-Spot notiert spaet abends unveraendert bei ca. 4.355,73 USD/oz (+1,82% seit Kauf), nahe dem besten Wochenschluss seit Januar. Der Kryptomarkt bleibt range-gebunden: Bitcoin haelt sich bei ca. 65.028 USD (-0,38% 24h) weiterhin unter der 65.300-66.000-USD-Widerstandszone. Solana notiert bei ca. 73,67-74,02 USD weiterhin ohne klares Momentum unter der EMA-Widerstandszone (75-76 USD). Der Hormuz-Deal (Iran/Oman/US) bleibt unbestaetigt - ein Bericht ueber eine bevorstehende Einigung wurde von Iran dementiert, der Kryptomarkt reagiert entsprechend verhalten.",
     "decision": "Tagesbudget-Gutschrift bereits erfolgt (lastGrantDate 08.08.), freies Kapital unveraendert bei 2.900 EUR. Aktien/ETFs/Rohstoffe bleiben den ganzen Tag wochenendbedingt nicht handelbar - Rheinmetall (pos-0006) unveraendert bei 1.186,00 EUR (Xetra weiterhin geschlossen bis Montag). Gold (pos-0004) zuletzt auf 4.355,73 USD (+1,82%) aktualisiert. Bitcoin testete im Tagesverlauf mehrfach die 65.000-USD-Marke, Solana naeherte sich der Widerstandszone bei ~75 USD, doch ein klarer, bestaetigter Ausbruch (Bitcoin nachhaltig ueber 65.300-66.000 USD, Solana ueber 76 USD) blieb den ganzen Tag ueber aus - daher in keinem der bisherigen Laeufe des Tages ein neuer Kauf.",
     "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber laut Vorgabe eine wirklich ueberzeugende Gelegenheit - diese lag den ganzen Tag ueber weder bei den (ausserhalb der Handelszeiten ohnehin nicht handelbaren) Aktien/Rohstoffen noch bei Krypto vor. Bitcoin bleibt am spaeten Abend im selben engen Band wie bereits seit Stunden ohne bestaetigten Schlusskurs ueber der Widerstandszone, Solanas RSI von 43 signalisiert abflauendes statt zunehmendes Momentum - ein verfrueher Einstieg auf blosses Antesten der Zone waere kein 'wirklich ueberzeugendes' Setup gewesen. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
-    "positionIds": ["pos-0004", "pos-0006"],
+    "positionIds": [
+      "pos-0004",
+      "pos-0006"
+    ],
     "portfolioValueEnd": 1092.36,
     "updates": [
-      {"time": "00:13", "note": "Tagesbudget-Gutschrift +1.000 EUR (freies Kapital jetzt 2.900 EUR); Wochenende - Aktien/ETFs/Rohstoffe nicht handelbar; kein Krypto-Kauf mangels ueberzeugender Gelegenheit (Fear&Greed 28-29, BTC range-gebunden)", "portfolioValue": 1091.92},
-      {"time": "01:11", "note": "Keine Aenderung; Boersen/Gold weiterhin wochenendbedingt geschlossen (Non-Trading-Tage), Kurse unveraendert. Krypto: Fear&Greed auf neutral (46-49) verbessert, aber Bitcoin stallt weiterhin unter 50-Tage-EMA-Widerstand ohne ueberzeugenden Katalysator - kein neuer Kauf", "portfolioValue": 1091.92},
-      {"time": "02:13", "note": "Keine Aenderung; Gold/Rheinmetall unveraendert (Maerkte geschlossen). Bitcoin ~64.718 USD (+0,54%), Fear&Greed neutral (46-49), Solana ~73,39 USD unter EMA-Widerstand (75-76 USD) - weiterhin kein ueberzeugender Krypto-Katalysator, daher kein neuer Kauf", "portfolioValue": 1091.92},
-      {"time": "03:09", "note": "Keine Aenderung; Gold/Rheinmetall unveraendert (Maerkte weiterhin wochenendbedingt geschlossen). Bitcoin ~65.075 USD (weiterhin unter der wichtigen 65.000-68.000 USD Widerstandszone), Solana ~73,67-74,02 USD, Fear&Greed weiterhin neutral (49) - kein Ausbruch, kein ueberzeugender Katalysator, daher kein neuer Kauf", "portfolioValue": 1091.92},
-      {"time": "04:10", "note": "Keine Aenderung; Gold/Rheinmetall unveraendert (Maerkte weiterhin wochenendbedingt geschlossen). Bitcoin ~65.075 USD weiterhin unter der 65.000-68.000 USD Widerstandszone, Solana ~73,67 USD (+1,5% 24h), Fear&Greed weiterhin neutral (46-49) - kein Ausbruch, kein ueberzeugender Katalysator, daher kein neuer Kauf", "portfolioValue": 1091.92},
-      {"time": "05:09", "note": "Keine Aenderung; Gold/Rheinmetall unveraendert (Maerkte weiterhin wochenendbedingt geschlossen). Bitcoin ~65.144 USD weiterhin im absteigenden Trendkanal unter der 65.000-68.000 USD Widerstandszone, Ethereum staerker oberhalb 1.900 USD, Solana ~73,87 USD (+1,4% 24h) unter EMA-Widerstand - kein Ausbruch, kein ueberzeugender Katalysator, daher kein neuer Kauf", "portfolioValue": 1091.92},
-      {"time": "06:09", "note": "Keine Aenderung; Gold/Rheinmetall unveraendert (Maerkte weiterhin wochenendbedingt geschlossen). Bitcoin ~64.718 USD (range-gebunden, +0,54% 24h), Solana auf ~71 USD leicht zurueckgefallen (Korrektur, kein Momentum), Ethereum nahe Widerstand 1.980-2.030 USD trotz RSI>54 noch ohne Ausbruch; Bitcoin-ETF-Zuflüsse mit 750 Mio. USD im August stabil, aber kein akuter Katalysator - weiterhin kein ueberzeugender Krypto-Kauf", "portfolioValue": 1091.92},
-      {"time": "07:12", "note": "Keine Aenderung; Gold/Rheinmetall unveraendert (Xetra weiterhin wochenendbedingt geschlossen bis Montag). Bitcoin ~64.940 USD (+0,8% 24h, +2,8% Woche), gestuetzt durch schwachen NFP-Bericht und gesunkene Zinserwartungen, aber weiterhin unter der 65.000-68.000 USD Widerstandszone gefangen; Fear&Greed neutral (46-49). Kein neuer Krypto-Kauf mangels klarem Ausbruch/Katalysator", "portfolioValue": 1091.92},
-      {"time": "08:14", "note": "Keine Aenderung; Gold/Rheinmetall unveraendert (Maerkte weiterhin wochenendbedingt geschlossen). Bitcoin ~64.718 USD (+0,54% 24h), weiterhin range-gebunden 64.100-65.300 USD ohne Ausbruch ueber die 65.000-68.000 USD Widerstandszone; Solana ~71-73 USD ohne klares Momentum, Ethereum ~1.927 USD nahe Widerstand 1.980-2.030 USD ohne Ausbruch. Keine neuen geopolitischen/wirtschaftlichen Katalysatoren seit gestern (Iran-Deeskalation, starke ISM-Daten bereits eingepreist) - kein ueberzeugender Krypto-Kauf", "portfolioValue": 1091.92},
-      {"time": "09:12", "note": "Keine Aenderung; Gold aktualisiert (~4.341,78 USD/+1,49%), Rheinmetall unveraendert (Xetra weiterhin geschlossen bis Montag). Bitcoin ~64.350 USD range-gebunden trotz 211 Mio. USD ETF-Zufluss, Clarity Act vom US-Senat auf 14. September vertagt - kein akuter Katalysator, daher kein neuer Krypto-Kauf", "portfolioValue": 1090.73},
-      {"time": "10:10", "note": "Keine Aenderung; Gold/Rheinmetall unveraendert (Wochenende, kein offizieller Handel). Bitcoin ~65.140 USD, Fear&Greed neutral bei 50 (Bitcoin-Teilindex 46), weiterhin ohne Ausbruch aus der Range - kein ueberzeugender Krypto-Katalysator, daher kein neuer Kauf", "portfolioValue": 1090.73},
-      {"time": "11:12", "note": "Keine Aenderung; Gold auf letzten bestaetigten Kurs 4.339,22 USD/+1,43% aktualisiert, Rheinmetall unveraendert (Xetra weiterhin geschlossen bis Montag). Bitcoin ~64.718 USD range-gebunden, Solana ~72,91 USD (Alpenglow-Upgrade ab 17.08. angekuendigt) - kein Ausbruch, kein ueberzeugender Krypto-Katalysator, daher kein neuer Kauf", "portfolioValue": 1090.43},
-      {"time": "12:09", "note": "Keine Aenderung; Gold/Rheinmetall unveraendert (Wochenende/Xetra weiterhin geschlossen bis Montag). Bitcoin ~64.700-65.000 USD weiterhin range-gebunden trotz schwachem NFP-Bericht, Solana ~72,91 USD, Ethereum ~1.927 USD - kein neuer Katalysator, daher kein ueberzeugender Krypto-Kauf", "portfolioValue": 1090.43},
-      {"time": "13:12", "note": "Keine Aenderung; Gold/Rheinmetall unveraendert (Wochenende/Xetra weiterhin geschlossen bis Montag). Bitcoin ~64.984 USD (+1,3% 24h, ETF-Zufluesse und Whale-Akkumulation), testet die 65.000 USD Marke, aber Widerstandszone 65.000-68.000 USD weiterhin nicht ueberzeugend durchbrochen; Solana unveraendert ~72,91 USD ohne Momentum - kein ueberzeugender Krypto-Kauf", "portfolioValue": 1090.43},
-      {"time": "14:16", "note": "Keine Aenderung; Gold aktualisiert (~4.341,94 USD/+1,49%), Rheinmetall unveraendert (Xetra weiterhin geschlossen bis Montag). Bitcoin weiterhin unter der 65.000-68.000 USD Widerstandszone, Solana/Ethereum ohne neuen Katalysator, Hormuz-Deal weiterhin ohne finale Einigung - kein ueberzeugender Krypto-Kauf", "portfolioValue": 1090.75},
-      {"time": "15:13", "note": "Keine Aenderung; Gold aktualisiert (~4.341,78 USD/+1,49%), Rheinmetall unveraendert (Xetra geschlossen bis Montag). Bitcoin testet erstmals wieder 65.000 USD, Solana naehert sich Widerstand bei ~75 USD (+2,8%) - noch kein bestaetigter Ausbruch, daher kein neuer Kauf", "portfolioValue": 1090.73},
-      {"time": "16:12", "note": "Keine Aenderung; Gold/Rheinmetall unveraendert (Wochenende/Xetra weiterhin geschlossen bis Montag). Bitcoin weiterhin range-gebunden 64.700-65.140 USD, Analysten sehen Ausbruchstrigger erst bei 67.300 USD (Bestaetigung bereits ab Schluss ueber 64.300 USD moeglich, Ziel dann 65.500-66.500 USD), Solana ~73,67 USD unter Widerstand ~75-76 USD. Hormuz-Deal weiterhin ohne finale Einigung - kein bestaetigter Ausbruch, daher kein neuer Kauf", "portfolioValue": 1090.73},
-      {"time": "17:11", "note": "Keine Aenderung; Gold aktualisiert (~4.341,94 USD/+1,49%), Rheinmetall unveraendert (Xetra weiterhin geschlossen bis Montag). Bitcoin testet Widerstandszone 65.082-66.300 USD (RSI 60, Kaufsignal aber nicht ueberkauft) ohne bestaetigten Schlusskurs darueber, Solana unveraendert ~73,67 USD (+1,5% 24h). Fed-Zinssenkungshoffnung nach schwachem NFP stuetzt Stimmung, aber kein neuer Einzelkatalysator - daher weiterhin kein neuer Kauf", "portfolioValue": 1090.75},
-      {"time": "18:12", "note": "Keine Aenderung; Gold unveraendert (~4.341,94 USD/+1,49%), Rheinmetall unveraendert (Xetra weiterhin geschlossen bis Montag, Kurs bleibt beim bestaetigten Freitags-Schlusskurs 1.186,00 EUR). Bitcoin weiterhin bei ~64.718 USD unter der 65.500-68.000 USD Widerstandszone gefangen (50-Tage-EMA bei 64.637 USD deckelt), CLARITY-Act-Abstimmung im Senat auf September vertagt - ein erhoffter Krypto-Regulierungskatalysator faellt damit vorerst weg. Solana unveraendert ~73,67 USD unter EMA-Widerstand, Fear&Greed bei Solana im Bereich Extreme Angst (25). Hormuz-Deal laut Iran weiterhin 'nah', aber ohne finale Einigung. Kein ueberzeugender Katalysator, daher kein neuer Kauf", "portfolioValue": 1090.75},
-      {"time": "19:08", "note": "Keine Aenderung; Gold/Rheinmetall unveraendert (Wochenende/Xetra weiterhin geschlossen bis Montag). Bitcoin weiterhin ~64.718 USD unter der 65.000-68.000 USD Widerstandszone (Ausbruchstrigger bleibt 67.300 USD), Hormuz-Deal laut Berichten 'kurz vor Abschluss' aber von Iran offiziell dementiert - kein bestaetigter Katalysator. Solana unveraendert ~73,67 USD unter EMA-Widerstand (75-76 USD). Kein ueberzeugender Krypto-Kauf, daher keine Aenderung", "portfolioValue": 1090.75},
-      {"time": "20:08", "note": "Keine Aenderung; Gold/Rheinmetall unveraendert (Wochenende/Xetra weiterhin geschlossen bis Montag). Bitcoin weiterhin unter der 65.300-66.000 USD Widerstandszone trotz ETF-Zufluessen von 850 Mio. USD in der ersten Augustwoche, Solana unveraendert ~73,67 USD ohne Ausbruch. Hormuz-Deal weiterhin ohne finale Bestaetigung. Kein ueberzeugender Krypto-Katalysator, daher keine Aenderung", "portfolioValue": 1090.75},
-      {"time": "21:09", "note": "Keine Aenderung; Gold aktualisiert (~4.343,76 USD/+1,54%), Rheinmetall unveraendert (Xetra weiterhin geschlossen bis Montag). Bitcoin ~64.900-65.100 USD weiterhin unter der 65.300-66.000 USD Widerstandszone, Solana ~73 USD unter EMA-Widerstand. Kein ueberzeugender Krypto-Katalysator, daher keine Aenderung", "portfolioValue": 1090.96},
-      {"time": "22:10", "note": "Keine Aenderung; Gold aktualisiert (~4.355,73 USD/+1,82%), Rheinmetall unveraendert (Xetra weiterhin geschlossen bis Montag). Bitcoin unveraendert ~64.718 USD unter der 65.300-66.000 USD Widerstandszone, Solana RSI 43 (Momentum flau statt zunehmend), Hormuz-Deal laut Iran 'sehr nah' aber ohne finale Unterschrift - kein ueberzeugender Krypto-Katalysator, daher keine Aenderung", "portfolioValue": 1092.36},
-      {"time": "23:11", "note": "Keine Aenderung; Gold/Rheinmetall unveraendert (Wochenende/Xetra weiterhin geschlossen bis Montag). Bitcoin ~65.028 USD (-0,38% 24h) weiterhin unter der 65.300-66.000 USD Widerstandszone, Solana unveraendert ~73,67-74,02 USD unter EMA-Widerstand (75-76 USD). Hormuz-Deal weiterhin ohne finale Bestaetigung (Iran dementiert), kein neuer Krypto-Katalysator - daher keine Aenderung", "portfolioValue": 1092.36}
+      {
+        "time": "00:13",
+        "note": "Tagesbudget-Gutschrift +1.000 EUR (freies Kapital jetzt 2.900 EUR); Wochenende - Aktien/ETFs/Rohstoffe nicht handelbar; kein Krypto-Kauf mangels ueberzeugender Gelegenheit (Fear&Greed 28-29, BTC range-gebunden)",
+        "portfolioValue": 1091.92
+      },
+      {
+        "time": "01:11",
+        "note": "Keine Aenderung; Boersen/Gold weiterhin wochenendbedingt geschlossen (Non-Trading-Tage), Kurse unveraendert. Krypto: Fear&Greed auf neutral (46-49) verbessert, aber Bitcoin stallt weiterhin unter 50-Tage-EMA-Widerstand ohne ueberzeugenden Katalysator - kein neuer Kauf",
+        "portfolioValue": 1091.92
+      },
+      {
+        "time": "02:13",
+        "note": "Keine Aenderung; Gold/Rheinmetall unveraendert (Maerkte geschlossen). Bitcoin ~64.718 USD (+0,54%), Fear&Greed neutral (46-49), Solana ~73,39 USD unter EMA-Widerstand (75-76 USD) - weiterhin kein ueberzeugender Krypto-Katalysator, daher kein neuer Kauf",
+        "portfolioValue": 1091.92
+      },
+      {
+        "time": "03:09",
+        "note": "Keine Aenderung; Gold/Rheinmetall unveraendert (Maerkte weiterhin wochenendbedingt geschlossen). Bitcoin ~65.075 USD (weiterhin unter der wichtigen 65.000-68.000 USD Widerstandszone), Solana ~73,67-74,02 USD, Fear&Greed weiterhin neutral (49) - kein Ausbruch, kein ueberzeugender Katalysator, daher kein neuer Kauf",
+        "portfolioValue": 1091.92
+      },
+      {
+        "time": "04:10",
+        "note": "Keine Aenderung; Gold/Rheinmetall unveraendert (Maerkte weiterhin wochenendbedingt geschlossen). Bitcoin ~65.075 USD weiterhin unter der 65.000-68.000 USD Widerstandszone, Solana ~73,67 USD (+1,5% 24h), Fear&Greed weiterhin neutral (46-49) - kein Ausbruch, kein ueberzeugender Katalysator, daher kein neuer Kauf",
+        "portfolioValue": 1091.92
+      },
+      {
+        "time": "05:09",
+        "note": "Keine Aenderung; Gold/Rheinmetall unveraendert (Maerkte weiterhin wochenendbedingt geschlossen). Bitcoin ~65.144 USD weiterhin im absteigenden Trendkanal unter der 65.000-68.000 USD Widerstandszone, Ethereum staerker oberhalb 1.900 USD, Solana ~73,87 USD (+1,4% 24h) unter EMA-Widerstand - kein Ausbruch, kein ueberzeugender Katalysator, daher kein neuer Kauf",
+        "portfolioValue": 1091.92
+      },
+      {
+        "time": "06:09",
+        "note": "Keine Aenderung; Gold/Rheinmetall unveraendert (Maerkte weiterhin wochenendbedingt geschlossen). Bitcoin ~64.718 USD (range-gebunden, +0,54% 24h), Solana auf ~71 USD leicht zurueckgefallen (Korrektur, kein Momentum), Ethereum nahe Widerstand 1.980-2.030 USD trotz RSI>54 noch ohne Ausbruch; Bitcoin-ETF-Zuflüsse mit 750 Mio. USD im August stabil, aber kein akuter Katalysator - weiterhin kein ueberzeugender Krypto-Kauf",
+        "portfolioValue": 1091.92
+      },
+      {
+        "time": "07:12",
+        "note": "Keine Aenderung; Gold/Rheinmetall unveraendert (Xetra weiterhin wochenendbedingt geschlossen bis Montag). Bitcoin ~64.940 USD (+0,8% 24h, +2,8% Woche), gestuetzt durch schwachen NFP-Bericht und gesunkene Zinserwartungen, aber weiterhin unter der 65.000-68.000 USD Widerstandszone gefangen; Fear&Greed neutral (46-49). Kein neuer Krypto-Kauf mangels klarem Ausbruch/Katalysator",
+        "portfolioValue": 1091.92
+      },
+      {
+        "time": "08:14",
+        "note": "Keine Aenderung; Gold/Rheinmetall unveraendert (Maerkte weiterhin wochenendbedingt geschlossen). Bitcoin ~64.718 USD (+0,54% 24h), weiterhin range-gebunden 64.100-65.300 USD ohne Ausbruch ueber die 65.000-68.000 USD Widerstandszone; Solana ~71-73 USD ohne klares Momentum, Ethereum ~1.927 USD nahe Widerstand 1.980-2.030 USD ohne Ausbruch. Keine neuen geopolitischen/wirtschaftlichen Katalysatoren seit gestern (Iran-Deeskalation, starke ISM-Daten bereits eingepreist) - kein ueberzeugender Krypto-Kauf",
+        "portfolioValue": 1091.92
+      },
+      {
+        "time": "09:12",
+        "note": "Keine Aenderung; Gold aktualisiert (~4.341,78 USD/+1,49%), Rheinmetall unveraendert (Xetra weiterhin geschlossen bis Montag). Bitcoin ~64.350 USD range-gebunden trotz 211 Mio. USD ETF-Zufluss, Clarity Act vom US-Senat auf 14. September vertagt - kein akuter Katalysator, daher kein neuer Krypto-Kauf",
+        "portfolioValue": 1090.73
+      },
+      {
+        "time": "10:10",
+        "note": "Keine Aenderung; Gold/Rheinmetall unveraendert (Wochenende, kein offizieller Handel). Bitcoin ~65.140 USD, Fear&Greed neutral bei 50 (Bitcoin-Teilindex 46), weiterhin ohne Ausbruch aus der Range - kein ueberzeugender Krypto-Katalysator, daher kein neuer Kauf",
+        "portfolioValue": 1090.73
+      },
+      {
+        "time": "11:12",
+        "note": "Keine Aenderung; Gold auf letzten bestaetigten Kurs 4.339,22 USD/+1,43% aktualisiert, Rheinmetall unveraendert (Xetra weiterhin geschlossen bis Montag). Bitcoin ~64.718 USD range-gebunden, Solana ~72,91 USD (Alpenglow-Upgrade ab 17.08. angekuendigt) - kein Ausbruch, kein ueberzeugender Krypto-Katalysator, daher kein neuer Kauf",
+        "portfolioValue": 1090.43
+      },
+      {
+        "time": "12:09",
+        "note": "Keine Aenderung; Gold/Rheinmetall unveraendert (Wochenende/Xetra weiterhin geschlossen bis Montag). Bitcoin ~64.700-65.000 USD weiterhin range-gebunden trotz schwachem NFP-Bericht, Solana ~72,91 USD, Ethereum ~1.927 USD - kein neuer Katalysator, daher kein ueberzeugender Krypto-Kauf",
+        "portfolioValue": 1090.43
+      },
+      {
+        "time": "13:12",
+        "note": "Keine Aenderung; Gold/Rheinmetall unveraendert (Wochenende/Xetra weiterhin geschlossen bis Montag). Bitcoin ~64.984 USD (+1,3% 24h, ETF-Zufluesse und Whale-Akkumulation), testet die 65.000 USD Marke, aber Widerstandszone 65.000-68.000 USD weiterhin nicht ueberzeugend durchbrochen; Solana unveraendert ~72,91 USD ohne Momentum - kein ueberzeugender Krypto-Kauf",
+        "portfolioValue": 1090.43
+      },
+      {
+        "time": "14:16",
+        "note": "Keine Aenderung; Gold aktualisiert (~4.341,94 USD/+1,49%), Rheinmetall unveraendert (Xetra weiterhin geschlossen bis Montag). Bitcoin weiterhin unter der 65.000-68.000 USD Widerstandszone, Solana/Ethereum ohne neuen Katalysator, Hormuz-Deal weiterhin ohne finale Einigung - kein ueberzeugender Krypto-Kauf",
+        "portfolioValue": 1090.75
+      },
+      {
+        "time": "15:13",
+        "note": "Keine Aenderung; Gold aktualisiert (~4.341,78 USD/+1,49%), Rheinmetall unveraendert (Xetra geschlossen bis Montag). Bitcoin testet erstmals wieder 65.000 USD, Solana naehert sich Widerstand bei ~75 USD (+2,8%) - noch kein bestaetigter Ausbruch, daher kein neuer Kauf",
+        "portfolioValue": 1090.73
+      },
+      {
+        "time": "16:12",
+        "note": "Keine Aenderung; Gold/Rheinmetall unveraendert (Wochenende/Xetra weiterhin geschlossen bis Montag). Bitcoin weiterhin range-gebunden 64.700-65.140 USD, Analysten sehen Ausbruchstrigger erst bei 67.300 USD (Bestaetigung bereits ab Schluss ueber 64.300 USD moeglich, Ziel dann 65.500-66.500 USD), Solana ~73,67 USD unter Widerstand ~75-76 USD. Hormuz-Deal weiterhin ohne finale Einigung - kein bestaetigter Ausbruch, daher kein neuer Kauf",
+        "portfolioValue": 1090.73
+      },
+      {
+        "time": "17:11",
+        "note": "Keine Aenderung; Gold aktualisiert (~4.341,94 USD/+1,49%), Rheinmetall unveraendert (Xetra weiterhin geschlossen bis Montag). Bitcoin testet Widerstandszone 65.082-66.300 USD (RSI 60, Kaufsignal aber nicht ueberkauft) ohne bestaetigten Schlusskurs darueber, Solana unveraendert ~73,67 USD (+1,5% 24h). Fed-Zinssenkungshoffnung nach schwachem NFP stuetzt Stimmung, aber kein neuer Einzelkatalysator - daher weiterhin kein neuer Kauf",
+        "portfolioValue": 1090.75
+      },
+      {
+        "time": "18:12",
+        "note": "Keine Aenderung; Gold unveraendert (~4.341,94 USD/+1,49%), Rheinmetall unveraendert (Xetra weiterhin geschlossen bis Montag, Kurs bleibt beim bestaetigten Freitags-Schlusskurs 1.186,00 EUR). Bitcoin weiterhin bei ~64.718 USD unter der 65.500-68.000 USD Widerstandszone gefangen (50-Tage-EMA bei 64.637 USD deckelt), CLARITY-Act-Abstimmung im Senat auf September vertagt - ein erhoffter Krypto-Regulierungskatalysator faellt damit vorerst weg. Solana unveraendert ~73,67 USD unter EMA-Widerstand, Fear&Greed bei Solana im Bereich Extreme Angst (25). Hormuz-Deal laut Iran weiterhin 'nah', aber ohne finale Einigung. Kein ueberzeugender Katalysator, daher kein neuer Kauf",
+        "portfolioValue": 1090.75
+      },
+      {
+        "time": "19:08",
+        "note": "Keine Aenderung; Gold/Rheinmetall unveraendert (Wochenende/Xetra weiterhin geschlossen bis Montag). Bitcoin weiterhin ~64.718 USD unter der 65.000-68.000 USD Widerstandszone (Ausbruchstrigger bleibt 67.300 USD), Hormuz-Deal laut Berichten 'kurz vor Abschluss' aber von Iran offiziell dementiert - kein bestaetigter Katalysator. Solana unveraendert ~73,67 USD unter EMA-Widerstand (75-76 USD). Kein ueberzeugender Krypto-Kauf, daher keine Aenderung",
+        "portfolioValue": 1090.75
+      },
+      {
+        "time": "20:08",
+        "note": "Keine Aenderung; Gold/Rheinmetall unveraendert (Wochenende/Xetra weiterhin geschlossen bis Montag). Bitcoin weiterhin unter der 65.300-66.000 USD Widerstandszone trotz ETF-Zufluessen von 850 Mio. USD in der ersten Augustwoche, Solana unveraendert ~73,67 USD ohne Ausbruch. Hormuz-Deal weiterhin ohne finale Bestaetigung. Kein ueberzeugender Krypto-Katalysator, daher keine Aenderung",
+        "portfolioValue": 1090.75
+      },
+      {
+        "time": "21:09",
+        "note": "Keine Aenderung; Gold aktualisiert (~4.343,76 USD/+1,54%), Rheinmetall unveraendert (Xetra weiterhin geschlossen bis Montag). Bitcoin ~64.900-65.100 USD weiterhin unter der 65.300-66.000 USD Widerstandszone, Solana ~73 USD unter EMA-Widerstand. Kein ueberzeugender Krypto-Katalysator, daher keine Aenderung",
+        "portfolioValue": 1090.96
+      },
+      {
+        "time": "22:10",
+        "note": "Keine Aenderung; Gold aktualisiert (~4.355,73 USD/+1,82%), Rheinmetall unveraendert (Xetra weiterhin geschlossen bis Montag). Bitcoin unveraendert ~64.718 USD unter der 65.300-66.000 USD Widerstandszone, Solana RSI 43 (Momentum flau statt zunehmend), Hormuz-Deal laut Iran 'sehr nah' aber ohne finale Unterschrift - kein ueberzeugender Krypto-Katalysator, daher keine Aenderung",
+        "portfolioValue": 1092.36
+      },
+      {
+        "time": "23:11",
+        "note": "Keine Aenderung; Gold/Rheinmetall unveraendert (Wochenende/Xetra weiterhin geschlossen bis Montag). Bitcoin ~65.028 USD (-0,38% 24h) weiterhin unter der 65.300-66.000 USD Widerstandszone, Solana unveraendert ~73,67-74,02 USD unter EMA-Widerstand (75-76 USD). Hormuz-Deal weiterhin ohne finale Bestaetigung (Iran dementiert), kein neuer Krypto-Katalysator - daher keine Aenderung",
+        "portfolioValue": 1092.36
+      }
     ]
   },
   {
@@ -76,31 +235,140 @@
     "marketOverview": "Wochenende, spaeter Abend: Boersen (Aktien, ETFs, Rohstoffe/Xetra) bleiben bis Montag geschlossen. Bitcoin notiert weiterhin bei ca. 65.127-65.230 USD, unveraendert unter der 65.300-66.000 USD Widerstandszone. Solana handelt weiterhin um ca. 75,80-76,57 USD und testet die Zone 77,37-78,80 USD - Widerstand bei 77,37 USD weiterhin nicht bestaetigt ueberwunden. Der Hormuz-Deal (Iran/Oman/US) bleibt ohne finale Unterschrift: Iran fordert weiterhin Gegenleistungen (Aufhebung der Seeblockade, Truppenabzug, Entschaedigung) vor einer Wiedereroeffnung - keine neue Entwicklung seit dem letzten Lauf. Gold pendelt weiterhin um 4.342 USD/oz (+1,50% seit Kauf), nahe dem besten Wochenschluss seit Januar nach der Rally vom Freitag.",
     "decision": "Tagesbudget-Gutschrift fuer den 09.08. bereits erfolgt (+1.000 EUR, freies Kapital weiterhin 3.900 EUR, unveraendert seit Mitternacht). Gold (pos-0004) und Rheinmetall (pos-0006) bleiben unveraendert (Wochenende, Xetra geschlossen bis Montag). Ueber den gesamten Tag kein neuer Kauf: Aktien/ETFs/Rohstoffe sind am Wochenende nicht handelbar, und Solana bleibt trotz mehrfacher Ausbruchsversuche unter dem bestaetigten Widerstand bei 77,37 USD - die gleichzeitig auf ein 11-Monats-Hoch gestiegenen Funding-Raten sprechen zusaetzlich fuer erhoehte Squeeze-/Ruecksetzergefahr statt fuer einen sauberen Einstieg. Auch im letzten Lauf des Tages (23:13) keine neue Entwicklung, die einen Einstieg rechtfertigen wuerde.",
     "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Solana notiert weiterhin unter der Widerstandszone 77,37-78,80 USD ohne bestaetigten Ausbruch - kein 'wirklich ueberzeugendes' Setup fuer einen Neueinstieg. Bitcoin bleibt unveraendert unter seiner Widerstandszone, keine neue Nachrichtenlage seit dem letzten Lauf. Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten ohnehin nicht handelbar. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
-    "positionIds": ["pos-0004", "pos-0006"],
+    "positionIds": [
+      "pos-0004",
+      "pos-0006"
+    ],
     "portfolioValueEnd": 1090.78,
     "updates": [
-      {"time": "00:09", "note": "Tagesbudget-Gutschrift +1.000 EUR (freies Kapital jetzt 3.900 EUR); Wochenende, Boersen weiterhin geschlossen; kein Krypto-Kauf mangels ueberzeugender Gelegenheit (Bitcoin/Solana weiterhin unter Widerstand)", "portfolioValue": 1092.36},
-      {"time": "01:11", "note": "Keine Aenderung; Gold/Rheinmetall unveraendert (Wochenende, Maerkte weiterhin geschlossen). Bitcoin weiterhin ~64.700-65.100 USD unter der 65.300-66.000 USD Widerstandszone, Solana ~73-74 USD unter EMA-Widerstand (75-76 USD), keine neue Nachrichtenlage seit Mitternacht - kein ueberzeugender Krypto-Katalysator, daher kein neuer Kauf", "portfolioValue": 1092.36},
-      {"time": "02:13", "note": "Keine Aenderung; Gold/Rheinmetall unveraendert (Wochenende, Maerkte weiterhin geschlossen). Bitcoin ~64.940 USD weiterhin unter der 65.300-66.000 USD Widerstandszone, Solana ~74,02 USD unter EMA-Widerstand (RSI 43, Momentum weiterhin flau). Hormuz-Deal weiterhin ohne finale Bestaetigung, Marktreaktion zunehmend muted - kein ueberzeugender Krypto-Katalysator, daher kein neuer Kauf", "portfolioValue": 1092.36},
-      {"time": "03:10", "note": "Keine Aenderung; Gold/Rheinmetall unveraendert (Wochenende, Maerkte weiterhin geschlossen). Bitcoin ~65.028 USD weiterhin unter der 65.300-66.000 USD Widerstandszone, Solana ~73,67-74,02 USD unveraendert unter EMA-Widerstand (75-76 USD). Hormuz-Lage unveraendert unbestaetigt (Iran dementiert) - kein ueberzeugender Krypto-Katalysator, daher kein neuer Kauf", "portfolioValue": 1092.36},
-      {"time": "04:08", "note": "Keine Aenderung; Gold/Rheinmetall unveraendert (Wochenende, Maerkte weiterhin geschlossen). Bitcoin ~64.300-65.700 USD weiterhin unter der 65.300-66.000 USD Widerstandszone, Solana auf ~72,58-73,67 USD leicht schwaecher unter Widerstand (~78 USD) - kein Ausbruch, kein neuer Katalysator, Hormuz-Lage unveraendert unbestaetigt - daher kein neuer Kauf", "portfolioValue": 1092.36},
-      {"time": "05:08", "note": "Keine Aenderung; Gold/Rheinmetall unveraendert (Wochenende, Maerkte weiterhin geschlossen). Bitcoin weiterhin ~64.300-65.700 USD unter der 65.300-66.000 USD Widerstandszone, Solana unveraendert ~73,39 USD unter Widerstand (~78 USD), Bitcoin-ETF-Zufluesse im August bei 381,6 Mio. USD stabil. Hormuz-Lage weiterhin unbestaetigt, keine neue Schlagzeile seit dem letzten Lauf - kein ueberzeugender Krypto-Katalysator, daher kein neuer Kauf", "portfolioValue": 1092.36},
-      {"time": "06:09", "note": "Keine Aenderung; Gold/Rheinmetall unveraendert (Wochenende, Maerkte weiterhin geschlossen). Bitcoin ~64.900-65.000 USD (Fear&Greed nur 31) weiterhin unter der 65.300-66.000 USD Widerstandszone, Solana-Kursquellen uneinheitlich (73-76 USD) ohne bestaetigten Ausbruch. Hormuz-Deal laut Iran 'kurz vor Abschluss', aber weiterhin ohne finale Unterschrift - kein ueberzeugender Krypto-Katalysator, daher kein neuer Kauf", "portfolioValue": 1092.36},
-      {"time": "07:12", "note": "Keine Aenderung; Gold aktualisiert (~4.341,78 USD/+1,49%), Rheinmetall unveraendert (Xetra weiterhin geschlossen bis Montag). Bitcoin weiterhin ~64.000-65.000 USD unter der 65.300-66.000 USD Widerstandszone, Solana-Kursquellen uneinheitlich (72-76 USD) ohne bestaetigten Ausbruch, Hormuz-Deal trotz 60-Tage-Rahmen weiterhin ohne finale Unterschrift - kein ueberzeugender Krypto-Katalysator, daher kein neuer Kauf", "portfolioValue": 1090.73},
-      {"time": "08:13", "note": "Keine Aenderung; Gold/Rheinmetall unveraendert (Wochenende, Xetra weiterhin geschlossen bis Montag). Bitcoin weiterhin ~64.700-65.280 USD unter der 65.300-66.000 USD Widerstandszone, Solana-Kursquellen weiterhin uneinheitlich (72-76 USD) ohne bestaetigten Ausbruch, Hormuz-Deal weiterhin ohne finale Unterschrift (Iran dementiert) - kein ueberzeugender Krypto-Katalysator, daher kein neuer Kauf", "portfolioValue": 1090.73},
-      {"time": "09:13", "note": "Keine Aenderung; Gold/Rheinmetall unveraendert (Wochenende, Xetra weiterhin geschlossen bis Montag). Bitcoin ~64.910 USD (+0,13%) weiterhin unter der 65.300-66.000 USD Widerstandszone, Solana ~73-74 USD unter EMA-Widerstand (75-78 USD), Fear&Greed-Index bei 31 (Angst, +1 seit gestern). Hormuz-Deal (Iran/Oman) laut Berichten nahe einem Rahmenabkommen, aber ohne garantierte sofortige Wiedereroeffnung - kein ueberzeugender Krypto-Katalysator, daher kein neuer Kauf", "portfolioValue": 1090.73},
-      {"time": "10:12", "note": "Keine Aenderung; Gold/Rheinmetall unveraendert (Wochenende, Xetra weiterhin geschlossen bis Montag). Bitcoin weiterhin ~64.700-65.100 USD unter der 65.300-66.000 USD Widerstandszone, Solana-Kursquellen weiterhin uneinheitlich (72-76 USD) ohne bestaetigten Ausbruch. Hormuz-Deal weiterhin ohne finale Unterschrift, Bitcoin-ETF-Zufluesse im August stabil (381,6 Mio. USD) - kein ueberzeugender Krypto-Katalysator, daher kein neuer Kauf", "portfolioValue": 1090.73},
-      {"time": "11:09", "note": "Keine Aenderung; Gold/Rheinmetall unveraendert (Wochenende, Xetra weiterhin geschlossen bis Montag). Bitcoin weiterhin ~64.700-65.100 USD unter der 65.300-66.000 USD Widerstandszone, Solana uneinheitlich ~72-76 USD ohne bestaetigten Ausbruch. Hormuz-Deal laut Iran/Oman-Entwurf zwar fertig ausgehandelt, wartet aber weiterhin auf finale Freigabe durch den Obersten Fuehrer - keine neue Entwicklung seit dem letzten Lauf, daher kein ueberzeugender Krypto-Katalysator und kein neuer Kauf", "portfolioValue": 1090.73},
-      {"time": "12:11", "note": "Keine Aenderung; Gold/Rheinmetall unveraendert (Wochenende, Xetra weiterhin geschlossen bis Montag). Bitcoin ~64.910 USD (+0,13%) weiterhin unter der 65.300-66.000 USD Widerstandszone, Solana ~73,39 USD unter Widerstand, Fear&Greed bei 31 (Angst) - kein ueberzeugender Krypto-Katalysator, daher kein neuer Kauf", "portfolioValue": 1090.73},
-      {"time": "13:11", "note": "Keine Aenderung; Gold aktualisiert (~4.345 USD/+1,57%), Rheinmetall unveraendert (Xetra weiterhin geschlossen bis Montag). Bitcoin ~64.900-65.100 USD weiterhin unter der 65.300-66.000 USD Widerstandszone, Solana-Quellen widersprechen sich (73,39 vs. 75,94 USD, keine Bestaetigung eines Ausbruchs), Fear&Greed bei 29 (Angst) - kein ueberzeugender Krypto-Katalysator, daher kein neuer Kauf", "portfolioValue": 1091.11},
-      {"time": "16:12", "note": "Keine Aenderung; Gold aktualisiert (~4.382 USD/+2,43%, FXLeaders meldet Ausbruch ueber 4.376 USD Richtung 4.500 USD), Rheinmetall unveraendert (Xetra geschlossen bis Montag). Solana jetzt konsistent bei ~75,80-76,63 USD (mehrere Quellen stimmen erstmals ueberein) und testet die 75-78-USD-Widerstandszone, aber noch kein bestaetigter Schlusskurs ueber 78-79 USD - kein Einstieg auf blosses Antesten. Bitcoin unveraendert ~65.028 USD unter Widerstand", "portfolioValue": 1095.43},
-      {"time": "17:13", "note": "Keine Aenderung; Gold/Rheinmetall unveraendert (Wochenende/Xetra weiterhin geschlossen bis Montag). Solana weiter auf ~75,94-76,57 USD geklettert und testet Widerstand 77,37-78,80 USD, aber RSI 66,8/STOCH 81,7 nahe ueberkauft - kein Einstieg ohne bestaetigten Ausbruch. Bitcoin unveraendert ~64.900-65.030 USD unter Widerstand, Bitcoin-ETF-Zufluesse 5 Tage in Folge (~850 Mio. USD). Kein neuer Kauf", "portfolioValue": 1095.43},
-      {"time": "18:11", "note": "Keine Aenderung; Gold aktualisiert (~4.341,94 USD/+1,49%), Rheinmetall unveraendert (Xetra weiterhin geschlossen bis Montag). Solana ~76,56 USD weiterhin unter Widerstand 77,37 USD; Trendlinien-Ausbruch wird berichtet, aber Funding-Raten auf 11-Monats-Hoch signalisieren Squeeze-Risiko statt sauberem Setup - kein neuer Kauf", "portfolioValue": 1090.75},
-      {"time": "19:09", "note": "Keine Aenderung; Gold/Rheinmetall unveraendert (Wochenende, Xetra weiterhin geschlossen bis Montag). Bitcoin ~65.227 USD weiterhin unter der 65.300-66.000 USD Widerstandszone, Solana ~76,57 USD testet weiter Widerstand 77,37 USD ohne bestaetigten Ausbruch (RSI 66,8 nahe ueberkauft). Keine neue Nachrichtenlage seit dem letzten Lauf - kein ueberzeugender Krypto-Katalysator, daher kein neuer Kauf", "portfolioValue": 1090.75},
-      {"time": "20:11", "note": "Keine Aenderung; Gold/Rheinmetall unveraendert (Wochenende, Xetra weiterhin geschlossen bis Montag). Bitcoin unveraendert ~65.227 USD unter der 65.300-66.000 USD Widerstandszone (ETF-Zufluesse 5 Tage in Folge), Solana unveraendert ~76,57 USD weiterhin unter Widerstand 77,37 USD, Funding-Raten weiter auf 11-Monats-Hoch (Squeeze-Risiko). Keine neue Nachrichtenlage seit dem letzten Lauf (Fed haelt Leitzins bei 3,50-3,75%, Clarity-Act-Verzoegerung bereits eingepreist) - kein ueberzeugender Krypto-Katalysator, daher kein neuer Kauf", "portfolioValue": 1090.75},
-      {"time": "21:08", "note": "Keine Aenderung; Gold/Rheinmetall unveraendert (Wochenende, Xetra weiterhin geschlossen bis Montag). Bitcoin unveraendert ~65.227 USD unter der 65.300-66.000 USD Widerstandszone. Solana unveraendert ~76,57 USD weiterhin unter Widerstand 77,37 USD, Funding-Raten weiter auf 11-Monats-Hoch (Squeeze-Risiko). Bybit-Klage gegen Lazarus Group als neutrale Nachricht eingeordnet, kein Kaufkatalysator - daher kein neuer Kauf", "portfolioValue": 1090.75},
-      {"time": "22:10", "note": "Keine Aenderung; Gold leicht aktualisiert (~4.342,18 USD/+1,50%), Rheinmetall unveraendert (Xetra weiterhin geschlossen bis Montag). Bitcoin ~65.127 USD weiterhin unter der 65.300-66.000 USD Widerstandszone, Solana ~76,33-76,57 USD weiterhin unter Widerstand 77,37 USD ohne bestaetigten Ausbruch, Hormuz-Deal weiterhin ohne finale Unterschrift (Iran fordert Gegenleistungen) - kein ueberzeugender Krypto-Katalysator, daher kein neuer Kauf", "portfolioValue": 1090.78},
-      {"time": "23:13", "note": "Keine Aenderung; Gold/Rheinmetall unveraendert (Wochenende, Xetra weiterhin geschlossen bis Montag). Bitcoin ~65.127-65.230 USD weiterhin unter der 65.300-66.000 USD Widerstandszone, Solana ~75,80-76 USD weiterhin unter Widerstand 77,37 USD ohne bestaetigten Ausbruch, Hormuz-Deal weiterhin ohne finale Unterschrift - kein ueberzeugender Krypto-Katalysator, daher kein neuer Kauf", "portfolioValue": 1090.78}
+      {
+        "time": "00:09",
+        "note": "Tagesbudget-Gutschrift +1.000 EUR (freies Kapital jetzt 3.900 EUR); Wochenende, Boersen weiterhin geschlossen; kein Krypto-Kauf mangels ueberzeugender Gelegenheit (Bitcoin/Solana weiterhin unter Widerstand)",
+        "portfolioValue": 1092.36
+      },
+      {
+        "time": "01:11",
+        "note": "Keine Aenderung; Gold/Rheinmetall unveraendert (Wochenende, Maerkte weiterhin geschlossen). Bitcoin weiterhin ~64.700-65.100 USD unter der 65.300-66.000 USD Widerstandszone, Solana ~73-74 USD unter EMA-Widerstand (75-76 USD), keine neue Nachrichtenlage seit Mitternacht - kein ueberzeugender Krypto-Katalysator, daher kein neuer Kauf",
+        "portfolioValue": 1092.36
+      },
+      {
+        "time": "02:13",
+        "note": "Keine Aenderung; Gold/Rheinmetall unveraendert (Wochenende, Maerkte weiterhin geschlossen). Bitcoin ~64.940 USD weiterhin unter der 65.300-66.000 USD Widerstandszone, Solana ~74,02 USD unter EMA-Widerstand (RSI 43, Momentum weiterhin flau). Hormuz-Deal weiterhin ohne finale Bestaetigung, Marktreaktion zunehmend muted - kein ueberzeugender Krypto-Katalysator, daher kein neuer Kauf",
+        "portfolioValue": 1092.36
+      },
+      {
+        "time": "03:10",
+        "note": "Keine Aenderung; Gold/Rheinmetall unveraendert (Wochenende, Maerkte weiterhin geschlossen). Bitcoin ~65.028 USD weiterhin unter der 65.300-66.000 USD Widerstandszone, Solana ~73,67-74,02 USD unveraendert unter EMA-Widerstand (75-76 USD). Hormuz-Lage unveraendert unbestaetigt (Iran dementiert) - kein ueberzeugender Krypto-Katalysator, daher kein neuer Kauf",
+        "portfolioValue": 1092.36
+      },
+      {
+        "time": "04:08",
+        "note": "Keine Aenderung; Gold/Rheinmetall unveraendert (Wochenende, Maerkte weiterhin geschlossen). Bitcoin ~64.300-65.700 USD weiterhin unter der 65.300-66.000 USD Widerstandszone, Solana auf ~72,58-73,67 USD leicht schwaecher unter Widerstand (~78 USD) - kein Ausbruch, kein neuer Katalysator, Hormuz-Lage unveraendert unbestaetigt - daher kein neuer Kauf",
+        "portfolioValue": 1092.36
+      },
+      {
+        "time": "05:08",
+        "note": "Keine Aenderung; Gold/Rheinmetall unveraendert (Wochenende, Maerkte weiterhin geschlossen). Bitcoin weiterhin ~64.300-65.700 USD unter der 65.300-66.000 USD Widerstandszone, Solana unveraendert ~73,39 USD unter Widerstand (~78 USD), Bitcoin-ETF-Zufluesse im August bei 381,6 Mio. USD stabil. Hormuz-Lage weiterhin unbestaetigt, keine neue Schlagzeile seit dem letzten Lauf - kein ueberzeugender Krypto-Katalysator, daher kein neuer Kauf",
+        "portfolioValue": 1092.36
+      },
+      {
+        "time": "06:09",
+        "note": "Keine Aenderung; Gold/Rheinmetall unveraendert (Wochenende, Maerkte weiterhin geschlossen). Bitcoin ~64.900-65.000 USD (Fear&Greed nur 31) weiterhin unter der 65.300-66.000 USD Widerstandszone, Solana-Kursquellen uneinheitlich (73-76 USD) ohne bestaetigten Ausbruch. Hormuz-Deal laut Iran 'kurz vor Abschluss', aber weiterhin ohne finale Unterschrift - kein ueberzeugender Krypto-Katalysator, daher kein neuer Kauf",
+        "portfolioValue": 1092.36
+      },
+      {
+        "time": "07:12",
+        "note": "Keine Aenderung; Gold aktualisiert (~4.341,78 USD/+1,49%), Rheinmetall unveraendert (Xetra weiterhin geschlossen bis Montag). Bitcoin weiterhin ~64.000-65.000 USD unter der 65.300-66.000 USD Widerstandszone, Solana-Kursquellen uneinheitlich (72-76 USD) ohne bestaetigten Ausbruch, Hormuz-Deal trotz 60-Tage-Rahmen weiterhin ohne finale Unterschrift - kein ueberzeugender Krypto-Katalysator, daher kein neuer Kauf",
+        "portfolioValue": 1090.73
+      },
+      {
+        "time": "08:13",
+        "note": "Keine Aenderung; Gold/Rheinmetall unveraendert (Wochenende, Xetra weiterhin geschlossen bis Montag). Bitcoin weiterhin ~64.700-65.280 USD unter der 65.300-66.000 USD Widerstandszone, Solana-Kursquellen weiterhin uneinheitlich (72-76 USD) ohne bestaetigten Ausbruch, Hormuz-Deal weiterhin ohne finale Unterschrift (Iran dementiert) - kein ueberzeugender Krypto-Katalysator, daher kein neuer Kauf",
+        "portfolioValue": 1090.73
+      },
+      {
+        "time": "09:13",
+        "note": "Keine Aenderung; Gold/Rheinmetall unveraendert (Wochenende, Xetra weiterhin geschlossen bis Montag). Bitcoin ~64.910 USD (+0,13%) weiterhin unter der 65.300-66.000 USD Widerstandszone, Solana ~73-74 USD unter EMA-Widerstand (75-78 USD), Fear&Greed-Index bei 31 (Angst, +1 seit gestern). Hormuz-Deal (Iran/Oman) laut Berichten nahe einem Rahmenabkommen, aber ohne garantierte sofortige Wiedereroeffnung - kein ueberzeugender Krypto-Katalysator, daher kein neuer Kauf",
+        "portfolioValue": 1090.73
+      },
+      {
+        "time": "10:12",
+        "note": "Keine Aenderung; Gold/Rheinmetall unveraendert (Wochenende, Xetra weiterhin geschlossen bis Montag). Bitcoin weiterhin ~64.700-65.100 USD unter der 65.300-66.000 USD Widerstandszone, Solana-Kursquellen weiterhin uneinheitlich (72-76 USD) ohne bestaetigten Ausbruch. Hormuz-Deal weiterhin ohne finale Unterschrift, Bitcoin-ETF-Zufluesse im August stabil (381,6 Mio. USD) - kein ueberzeugender Krypto-Katalysator, daher kein neuer Kauf",
+        "portfolioValue": 1090.73
+      },
+      {
+        "time": "11:09",
+        "note": "Keine Aenderung; Gold/Rheinmetall unveraendert (Wochenende, Xetra weiterhin geschlossen bis Montag). Bitcoin weiterhin ~64.700-65.100 USD unter der 65.300-66.000 USD Widerstandszone, Solana uneinheitlich ~72-76 USD ohne bestaetigten Ausbruch. Hormuz-Deal laut Iran/Oman-Entwurf zwar fertig ausgehandelt, wartet aber weiterhin auf finale Freigabe durch den Obersten Fuehrer - keine neue Entwicklung seit dem letzten Lauf, daher kein ueberzeugender Krypto-Katalysator und kein neuer Kauf",
+        "portfolioValue": 1090.73
+      },
+      {
+        "time": "12:11",
+        "note": "Keine Aenderung; Gold/Rheinmetall unveraendert (Wochenende, Xetra weiterhin geschlossen bis Montag). Bitcoin ~64.910 USD (+0,13%) weiterhin unter der 65.300-66.000 USD Widerstandszone, Solana ~73,39 USD unter Widerstand, Fear&Greed bei 31 (Angst) - kein ueberzeugender Krypto-Katalysator, daher kein neuer Kauf",
+        "portfolioValue": 1090.73
+      },
+      {
+        "time": "13:11",
+        "note": "Keine Aenderung; Gold aktualisiert (~4.345 USD/+1,57%), Rheinmetall unveraendert (Xetra weiterhin geschlossen bis Montag). Bitcoin ~64.900-65.100 USD weiterhin unter der 65.300-66.000 USD Widerstandszone, Solana-Quellen widersprechen sich (73,39 vs. 75,94 USD, keine Bestaetigung eines Ausbruchs), Fear&Greed bei 29 (Angst) - kein ueberzeugender Krypto-Katalysator, daher kein neuer Kauf",
+        "portfolioValue": 1091.11
+      },
+      {
+        "time": "16:12",
+        "note": "Keine Aenderung; Gold aktualisiert (~4.382 USD/+2,43%, FXLeaders meldet Ausbruch ueber 4.376 USD Richtung 4.500 USD), Rheinmetall unveraendert (Xetra geschlossen bis Montag). Solana jetzt konsistent bei ~75,80-76,63 USD (mehrere Quellen stimmen erstmals ueberein) und testet die 75-78-USD-Widerstandszone, aber noch kein bestaetigter Schlusskurs ueber 78-79 USD - kein Einstieg auf blosses Antesten. Bitcoin unveraendert ~65.028 USD unter Widerstand",
+        "portfolioValue": 1095.43
+      },
+      {
+        "time": "17:13",
+        "note": "Keine Aenderung; Gold/Rheinmetall unveraendert (Wochenende/Xetra weiterhin geschlossen bis Montag). Solana weiter auf ~75,94-76,57 USD geklettert und testet Widerstand 77,37-78,80 USD, aber RSI 66,8/STOCH 81,7 nahe ueberkauft - kein Einstieg ohne bestaetigten Ausbruch. Bitcoin unveraendert ~64.900-65.030 USD unter Widerstand, Bitcoin-ETF-Zufluesse 5 Tage in Folge (~850 Mio. USD). Kein neuer Kauf",
+        "portfolioValue": 1095.43
+      },
+      {
+        "time": "18:11",
+        "note": "Keine Aenderung; Gold aktualisiert (~4.341,94 USD/+1,49%), Rheinmetall unveraendert (Xetra weiterhin geschlossen bis Montag). Solana ~76,56 USD weiterhin unter Widerstand 77,37 USD; Trendlinien-Ausbruch wird berichtet, aber Funding-Raten auf 11-Monats-Hoch signalisieren Squeeze-Risiko statt sauberem Setup - kein neuer Kauf",
+        "portfolioValue": 1090.75
+      },
+      {
+        "time": "19:09",
+        "note": "Keine Aenderung; Gold/Rheinmetall unveraendert (Wochenende, Xetra weiterhin geschlossen bis Montag). Bitcoin ~65.227 USD weiterhin unter der 65.300-66.000 USD Widerstandszone, Solana ~76,57 USD testet weiter Widerstand 77,37 USD ohne bestaetigten Ausbruch (RSI 66,8 nahe ueberkauft). Keine neue Nachrichtenlage seit dem letzten Lauf - kein ueberzeugender Krypto-Katalysator, daher kein neuer Kauf",
+        "portfolioValue": 1090.75
+      },
+      {
+        "time": "20:11",
+        "note": "Keine Aenderung; Gold/Rheinmetall unveraendert (Wochenende, Xetra weiterhin geschlossen bis Montag). Bitcoin unveraendert ~65.227 USD unter der 65.300-66.000 USD Widerstandszone (ETF-Zufluesse 5 Tage in Folge), Solana unveraendert ~76,57 USD weiterhin unter Widerstand 77,37 USD, Funding-Raten weiter auf 11-Monats-Hoch (Squeeze-Risiko). Keine neue Nachrichtenlage seit dem letzten Lauf (Fed haelt Leitzins bei 3,50-3,75%, Clarity-Act-Verzoegerung bereits eingepreist) - kein ueberzeugender Krypto-Katalysator, daher kein neuer Kauf",
+        "portfolioValue": 1090.75
+      },
+      {
+        "time": "21:08",
+        "note": "Keine Aenderung; Gold/Rheinmetall unveraendert (Wochenende, Xetra weiterhin geschlossen bis Montag). Bitcoin unveraendert ~65.227 USD unter der 65.300-66.000 USD Widerstandszone. Solana unveraendert ~76,57 USD weiterhin unter Widerstand 77,37 USD, Funding-Raten weiter auf 11-Monats-Hoch (Squeeze-Risiko). Bybit-Klage gegen Lazarus Group als neutrale Nachricht eingeordnet, kein Kaufkatalysator - daher kein neuer Kauf",
+        "portfolioValue": 1090.75
+      },
+      {
+        "time": "22:10",
+        "note": "Keine Aenderung; Gold leicht aktualisiert (~4.342,18 USD/+1,50%), Rheinmetall unveraendert (Xetra weiterhin geschlossen bis Montag). Bitcoin ~65.127 USD weiterhin unter der 65.300-66.000 USD Widerstandszone, Solana ~76,33-76,57 USD weiterhin unter Widerstand 77,37 USD ohne bestaetigten Ausbruch, Hormuz-Deal weiterhin ohne finale Unterschrift (Iran fordert Gegenleistungen) - kein ueberzeugender Krypto-Katalysator, daher kein neuer Kauf",
+        "portfolioValue": 1090.78
+      },
+      {
+        "time": "23:13",
+        "note": "Keine Aenderung; Gold/Rheinmetall unveraendert (Wochenende, Xetra weiterhin geschlossen bis Montag). Bitcoin ~65.127-65.230 USD weiterhin unter der 65.300-66.000 USD Widerstandszone, Solana ~75,80-76 USD weiterhin unter Widerstand 77,37 USD ohne bestaetigten Ausbruch, Hormuz-Deal weiterhin ohne finale Unterschrift - kein ueberzeugender Krypto-Katalysator, daher kein neuer Kauf",
+        "portfolioValue": 1090.78
+      }
+    ]
+  },
+  {
+    "date": "2026-08-10",
+    "marketOverview": "Neuer Handelstag (Montag) beginnt, Xetra oeffnet erst um 9:00 MESZ - noch keine frischen Eroeffnungskurse fuer Aktien/ETFs/Rohstoffe. Bitcoin notiert kurz nach Mitternacht unveraendert bei ca. 64.900 USD, weiterhin unter der 65.300-66.000 USD Widerstandszone. Solana handelt bei ca. 75,80-76,57 USD und testet weiterhin erfolglos den Widerstand bei 77,37 USD. Iran hat am Freitag einen restriktiven Entwurf fuer die Wiedereroeffnung der Strasse von Hormus veroeffentlicht (Verbot fuer US-/israelische Schiffe, Entschaedigungsforderungen an andere Staaten) - der finale Hormuz-Deal bleibt damit weiterhin unbestaetigt. Der S&P 500 hatte am Freitag ein neues Rekordhoch erreicht, Oelpreise (Brent, WTI) leicht hoeher.",
+    "decision": "Tagesbudget-Gutschrift fuer den 10.08. erfolgt (+1.000 EUR, freies Kapital jetzt 4.900 EUR). Offene Positionen Gold (pos-0004) und Rheinmetall (pos-0006) bleiben unveraendert, da Xetra erst um 9:00 MESZ oeffnet und noch keine neuen Kurse vorliegen. Kein neuer Kauf: Bitcoin und Solana bewegen sich unveraendert innerhalb ihrer bekannten Widerstandszonen ohne bestaetigten Ausbruch.",
+    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Weder bei Bitcoin (weiterhin unter 65.300-66.000 USD) noch bei Solana (weiterhin unter 77,37 USD) liegt ein bestaetigter Ausbruch vor - der Iran-Entwurf zur Strasse von Hormus bringt keine neue, klar handelbare Nachrichtenlage seit dem letzten Lauf. Aktien/ETFs/Rohstoffe sind vor Boersenoeffnung (9:00 MESZ) ohnehin nicht handelbar. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "positionIds": [
+      "pos-0004",
+      "pos-0006"
+    ],
+    "portfolioValueEnd": 1090.78,
+    "updates": [
+      {
+        "time": "00:13",
+        "note": "Tagesbudget-Gutschrift +1.000 EUR (freies Kapital jetzt 4.900 EUR); neuer Handelstag (Montag) begonnen, Xetra oeffnet erst um 9:00 MESZ - Aktien/Rohstoffe weiterhin nicht handelbar; Bitcoin ~64.900 USD und Solana ~75,80-76,57 USD unveraendert unter ihren Widerstandszonen (66.000 USD bzw. 77,37 USD) - kein ueberzeugender Krypto-Katalysator, daher kein neuer Kauf",
+        "portfolioValue": 1090.78
+      }
     ]
   }
 ]
