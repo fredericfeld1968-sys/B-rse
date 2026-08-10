@@ -355,14 +355,14 @@
   },
   {
     "date": "2026-08-10",
-    "marketOverview": "Montag, frueher Morgen: Xetra oeffnet erst um 9:00 MESZ - noch keine frischen Eroeffnungskurse fuer Aktien/ETFs/Rohstoffe. Bitcoin notiert bei ca. 65.150 USD, weiterhin unter der 65.300-66.000 USD Widerstandszone. Solana haelt sich bei ca. 76,57 USD weiterhin unter dem Widerstand von 77,37 USD. Beim CLARITY Act zeichnet sich ab, dass die Senatsmehrheit die finale Abstimmung nicht mehr vor der Sommerpause schafft - Verfahrensschritte laufen, ein Floor-Vote vor der Sommerpause gilt als unwahrscheinlich, das Thema verschiebt sich voraussichtlich auf Mitte September. Damit faellt ein moeglicher kurzfristiger Krypto-Katalysator vorerst weg. Gold notiert bei ca. 4.305,49 USD/oz (+0,64% seit Kauf), etwas niedriger als in der Nacht.",
-    "decision": "Tagesbudget-Gutschrift fuer den 10.08. bereits erfolgt (+1.000 EUR, freies Kapital weiterhin 4.900 EUR). Offene Positionen Gold (pos-0004) und Rheinmetall (pos-0006) bleiben unveraendert; Gold-Kurs auf 4.305,49 USD (+0,64%) aktualisiert, Rheinmetall unveraendert, da Xetra erst um 9:00 MESZ oeffnet. Kein neuer Kauf: Bitcoin und Solana bewegen sich weiterhin unveraendert innerhalb ihrer bekannten Widerstandszonen ohne bestaetigten Ausbruch, und der CLARITY-Act-Katalysator verschiebt sich auf Mitte September statt kurzfristig zu wirken.",
+    "marketOverview": "Montag, frueher Morgen: Xetra oeffnet erst um 9:00 MESZ - noch keine frischen Eroeffnungskurse fuer Aktien/ETFs/Rohstoffe. Bitcoin notiert bei ca. 65.227 USD, weiterhin unter der 65.300-66.000 USD Widerstandszone. Solana haelt sich bei ca. 75,96-76,57 USD weiterhin unter dem Widerstand von 77,37 USD (Wochenplus +3,86%). Ethereum bei ca. 1.912,62 USD stabil ueber 1.900 USD. Der 10. August markiert den Beginn der Sommerpause im US-Senat - die finale CLARITY-Act-Abstimmung gilt vor der Pause als unwahrscheinlich und verschiebt sich damit voraussichtlich auf Mitte September, ein moeglicher kurzfristiger Krypto-Katalysator faellt vorerst weg. Gold notiert bei ca. 4.328,63 USD/oz (+1,18% seit Kauf), leicht schwaecher als am Vortag (-0,09%), konsolidiert in der Zone 4.328-4.350 USD.",
+    "decision": "Tagesbudget-Gutschrift fuer den 10.08. bereits erfolgt (+1.000 EUR, freies Kapital weiterhin 4.900 EUR). Offene Positionen Gold (pos-0004) und Rheinmetall (pos-0006) bleiben unveraendert; Gold-Kurs auf 4.328,63 USD (+1,18%) aktualisiert, Rheinmetall unveraendert, da Xetra erst um 9:00 MESZ oeffnet. Kein neuer Kauf: Bitcoin und Solana bewegen sich weiterhin unveraendert innerhalb ihrer bekannten Widerstandszonen ohne bestaetigten Ausbruch, und der CLARITY-Act-Katalysator verschiebt sich auf Mitte September statt kurzfristig zu wirken.",
     "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Weder bei Bitcoin (weiterhin unter 65.300-66.000 USD) noch bei Solana (weiterhin unter 77,37 USD) liegt ein bestaetigter Ausbruch vor. Der CLARITY Act, bislang als moeglicher Katalysator gehandelt, verschiebt sich laut aktuellen Berichten auf Mitte September und faellt damit als kurzfristiger Trigger aus. Aktien/ETFs/Rohstoffe sind vor Boersenoeffnung (9:00 MESZ) ohnehin nicht handelbar. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [
       "pos-0004",
       "pos-0006"
     ],
-    "portfolioValueEnd": 1086.49,
+    "portfolioValueEnd": 1089.19,
     "updates": [
       {
         "time": "00:13",
@@ -388,6 +388,11 @@
         "time": "04:09",
         "note": "Keine Aenderung; Gold aktualisiert (~4.305,49 USD/+0,64%), Rheinmetall unveraendert (Xetra oeffnet erst um 9:00 MESZ). Bitcoin ~65.150 USD weiterhin unter der 65.300-66.000 USD Widerstandszone, Solana ~76,57 USD weiterhin unter Widerstand 77,37 USD. CLARITY Act verschiebt sich vor der Sommerpause voraussichtlich auf Mitte September - kein kurzfristiger Krypto-Katalysator, daher kein neuer Kauf",
         "portfolioValue": 1086.49
+      },
+      {
+        "time": "05:10",
+        "note": "Keine Aenderung; Gold aktualisiert (~4.328,63 USD/+1,18%), Rheinmetall unveraendert (Xetra oeffnet erst um 9:00 MESZ). Bitcoin ~65.227 USD weiterhin unter der 65.300-66.000 USD Widerstandszone, Solana ~75,96-76,57 USD weiterhin unter Widerstand 77,37 USD ohne bestaetigten Ausbruch. Senat startet Sommerpause, CLARITY-Act-Vote faellt als kurzfristiger Katalysator vorerst weg - kein ueberzeugender Krypto-Katalysator, daher kein neuer Kauf",
+        "portfolioValue": 1089.19
       }
     ]
   }
