@@ -355,14 +355,14 @@
   },
   {
     "date": "2026-08-10",
-    "marketOverview": "Montag, frueher Morgen: Xetra oeffnet erst um 9:00 MESZ - noch keine frischen Eroeffnungskurse fuer Aktien/ETFs/Rohstoffe. Bitcoin notiert unveraendert bei ca. 65.227 USD, weiterhin unter der 65.300-66.000 USD Widerstandszone. Solana haelt sich bei ca. 76,57 USD weiterhin unter dem Widerstand von 77,37 USD. Gold konsolidiert nach einem Intraday-Hoch bei 4.371 USD zuletzt in der Zone 4.328-4.350 USD/oz (aktuell ca. 4.340 USD, +1,45% seit Kauf), gestuetzt von schwachen Arbeitsmarktdaten und nachlassenden geopolitischen Spannungen. Die CLARITY-Act-Terminlage bleibt widerspruechlich (einzelne Quellen nennen 10.08. als Deadline, andere eine Verschiebung auf Mitte September durch die Senats-Sommerpause) - ohne bestaetigte Kursreaktion daher weiterhin kein belastbarer kurzfristiger Katalysator.",
-    "decision": "Tagesbudget-Gutschrift fuer den 10.08. bereits erfolgt (+1.000 EUR, freies Kapital weiterhin 4.900 EUR). Offene Positionen Gold (pos-0004) und Rheinmetall (pos-0006) bleiben unveraendert; Gold-Kurs zuletzt auf ca. 4.340 USD (+1,45%) aktualisiert, Rheinmetall unveraendert, da Xetra erst um 9:00 MESZ oeffnet. Kein neuer Kauf: Bitcoin und Solana bewegen sich weiterhin unveraendert innerhalb ihrer bekannten Widerstandszonen ohne bestaetigten Ausbruch.",
-    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Weder bei Bitcoin (weiterhin unter 65.300-66.000 USD) noch bei Solana (weiterhin unter 77,37 USD) liegt ein bestaetigter Ausbruch vor. Der CLARITY Act, bislang als moeglicher Katalysator gehandelt, verschiebt sich laut aktuellen Berichten auf Mitte September und faellt damit als kurzfristiger Trigger aus. Aktien/ETFs/Rohstoffe sind vor Boersenoeffnung (9:00 MESZ) ohnehin nicht handelbar. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "marketOverview": "Montag, frueher Morgen: Xetra oeffnet erst um 9:00 MESZ - noch keine frischen Eroeffnungskurse fuer Aktien/ETFs/Rohstoffe. Bitcoin notiert bei ca. 64.882-65.227 USD, weiterhin unter der 65.300-66.000 USD Widerstandszone (Fear&Greed 30, leicht schwaecher als gestern). Solana haelt sich unveraendert bei ca. 76,57 USD weiterhin unter dem Widerstand von 77,37 USD. Gold notiert bei ca. 4.328,63 USD/oz (+1,18% seit Kauf), nachdem es zuvor kurz bis 4.371 USD gestiegen war. Gesamtkryptomarkt bei 2,28 Bio. USD (+0,2%), keine neuen Katalysatoren seit dem letzten Lauf.",
+    "decision": "Tagesbudget-Gutschrift fuer den 10.08. bereits erfolgt (+1.000 EUR, freies Kapital weiterhin 4.900 EUR). Offene Positionen Gold (pos-0004) und Rheinmetall (pos-0006) bleiben unveraendert; Gold-Kurs auf ca. 4.328,63 USD (+1,18%) aktualisiert, Rheinmetall unveraendert, da Xetra erst um 9:00 MESZ oeffnet. Kein neuer Kauf: Bitcoin und Solana bewegen sich weiterhin unveraendert innerhalb ihrer bekannten Widerstandszonen ohne bestaetigten Ausbruch.",
+    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Weder bei Bitcoin (weiterhin unter 65.300-66.000 USD, Fear&Greed nur 30) noch bei Solana (weiterhin unter 77,37 USD) liegt ein bestaetigter Ausbruch vor. Aktien/ETFs/Rohstoffe sind vor Boersenoeffnung (9:00 MESZ) ohnehin nicht handelbar. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [
       "pos-0004",
       "pos-0006"
     ],
-    "portfolioValueEnd": 1090.52,
+    "portfolioValueEnd": 1089.2,
     "updates": [
       {
         "time": "00:13",
@@ -403,6 +403,11 @@
         "time": "07:18",
         "note": "Keine Aenderung; Gold aktualisiert (~4.340 USD/+1,45%, konsolidiert nach Intraday-Hoch bei 4.371 USD), Rheinmetall unveraendert (Xetra oeffnet erst um 9:00 MESZ). Bitcoin unveraendert ~65.227 USD weiterhin unter der 65.300-66.000 USD Widerstandszone, Solana unveraendert ~76,57 USD weiterhin unter Widerstand 77,37 USD ohne bestaetigten Ausbruch - kein ueberzeugender Krypto-Katalysator, daher kein neuer Kauf",
         "portfolioValue": 1090.52
+      },
+      {
+        "time": "08:25",
+        "note": "Keine Aenderung; Gold aktualisiert (~4.328,63 USD/+1,18%), Rheinmetall unveraendert (Xetra oeffnet erst um 9:00 MESZ). Bitcoin ~64.882-65.227 USD weiterhin unter der 65.300-66.000 USD Widerstandszone (Fear&Greed 30), Solana unveraendert ~76,57 USD unter Widerstand 77,37 USD - kein ueberzeugender Krypto-Katalysator, daher kein neuer Kauf",
+        "portfolioValue": 1089.2
       }
     ]
   }
