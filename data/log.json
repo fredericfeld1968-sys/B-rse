@@ -355,14 +355,14 @@
   },
   {
     "date": "2026-08-10",
-    "marketOverview": "Montag, Vormittag: Xetra hat um 9:00 MESZ eroeffnet. Rheinmetall faellt weiter auf ca. 1.140 EUR - der Titel leidet weiterhin unter der am 06.08. gesenkten Umsatzprognose (Streichung des 12-Mrd-Fregattenprogramms F126 durch die Bundesregierung, ca. 346 Mio. USD erwarteter Verlust im Naval-Geschaeft) sowie der fortschreitenden Deeskalation an der Strasse von Hormus, die den Rueckenwind fuer Verteidigungsaktien schmaelert. US-Futures uneinheitlich (Dow -0,11%, Nasdaq +0,2%), DAX leicht im Plus (+0,1%), getrieben von Unsicherheit ueber Oelpreise und den Hormuz-Deal. Bitcoin konsolidiert bei ca. 65.100-65.300 USD am oberen Ende seiner Range. Solana testet mit ca. 76,50-76,57 USD (+3,9%) einen Dreiecks-Ausbruch, der bestaetigte Widerstand bei 77,50-80 USD wurde aber noch nicht ueberschritten. Gold pendelt bei ca. 4.340 USD/oz (+1,45% seit Kauf) nach kurzzeitigem Anstieg auf 4.371 USD.",
-    "decision": "Tagesbudget-Gutschrift fuer den 10.08. bereits erfolgt (+1.000 EUR). Um 09:27 wurde die Rheinmetall-Position (pos-0006) mit -39,34 EUR (-6,56%) als Stop-Loss glattgestellt: Die urspruengliche Rebound-These ist durch die Umsatzprognosesenkung nach der F126-Fregatten-Absage und die Hormuz-Deeskalation widerlegt, der Kurs fiel drei Handelstage in Folge. Gold (pos-0004) bleibt unveraendert gehalten, Kurs auf ca. 4.340 USD (+1,45%) aktualisiert. Kein neuer Kauf: Solana testet zwar einen Dreiecks-Ausbruch, hat den Widerstand bei 77,50-80 USD aber noch nicht bestaetigt ueberschritten; Bitcoin bleibt ohne neuen Katalysator am oberen Rand seiner Range.",
-    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading inkl. konsequentem Stop-Loss bei widerlegter These: Rheinmetall wurde nicht wegen kurzfristiger Volatilitaet, sondern wegen einer echten fundamentalen Verschlechterung (Auftragsstreichung, Prognosesenkung) sowie eines wegfallenden makro Rueckenwinds (Hormuz-Deeskalation) verkauft - anders als bei den bisherigen erfolgreichen Dip-Kaeufen (AMD, SpaceX, Palantir), wo es sich um reine 'Sell-the-news'-Ueberreaktionen ohne fundamentale Verschlechterung handelte. Gold bestaetigt weiterhin intaktes Momentum und wird gehalten. Fuer Krypto (bzw. nach Boersenoeffnung auch Aktien/ETFs/Rohstoffe) fehlt aktuell eine wirklich ueberzeugende neue Kaufgelegenheit: Solanas Ausbruchsversuch ist noch nicht bestaetigt. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "marketOverview": "Montag, Vormittag (Stand 11:14 MESZ): Xetra seit 9:00 im Plus, DAX auf neuem Allzeithoch bei rund 26.360-26.384 Punkten (+0,1-0,2%), Handelsspanne laut Technik-Analysten 26.000-26.400. US-Futures uneinheitlich vor CPI/PPI-Daten diese Woche (S&P-Futures +0,13%, Nasdaq-Futures +0,25%, Dow-Futures -0,02%), Stimmung getragen von schwachem Arbeitsmarktbericht und sinkenden Renditen. Bitcoin konsolidiert weiterhin bei ca. 64.700-65.200 USD unter der 65.300-66.000 USD Widerstandszone. Solana haelt sich bei ca. 76,57 USD weiterhin unter dem noch unbestaetigten Widerstand 77,37-80 USD. Gold pendelt bei ca. 4.328-4.333 USD/oz (+1,2-1,5% seit Kauf), leicht schwaecher als das Tageshoch. Rheinmetall (bereits verkauft) faellt laut Marktberichten weiter, Strasse-von-Hormus-Lage bleibt ohne finale Einigung.",
+    "decision": "Tagesbudget-Gutschrift fuer den 10.08. bereits erfolgt (+1.000 EUR). Um 09:27 wurde die Rheinmetall-Position (pos-0006) mit -39,34 EUR (-6,56%) als Stop-Loss glattgestellt. Gold (pos-0004) bleibt unveraendert gehalten, Kurs im 11:14-Lauf auf ca. 4.330 USD (+1,21%) aktualisiert. Kein neuer Kauf im bisherigen Tagesverlauf: Solana testet weiterhin ohne bestaetigten Ausbruch die Widerstandszone 77,37-80 USD, Bitcoin bleibt unter seiner Widerstandszone, und fuer Einzelaktien (u.a. Infineon nach Zahlen geprueft) liegen noch keine ausreichend bestaetigten Tageskursdaten fuer einen ueberzeugenden Dip-Kauf vor.",
+    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading inkl. konsequentem Stop-Loss bei widerlegter These: Rheinmetall wurde wegen echter fundamentaler Verschlechterung (F126-Absage, Prognosesenkung) und wegfallendem Hormuz-Rueckenwind verkauft. Gold bestaetigt weiterhin intaktes Momentum und wird gehalten. Trotz freiem Kapital von ca. 5.460 EUR wird auf einen wirklich ueberzeugenden Trigger gewartet statt vorschnell auf blosses Antesten von Widerstaenden zu kaufen. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [
       "pos-0004",
       "pos-0006"
     ],
-    "portfolioValueEnd": 505.92,
+    "portfolioValueEnd": 506.07,
     "updates": [
       {
         "time": "00:13",
@@ -418,6 +418,11 @@
         "time": "10:19",
         "note": "Keine Aenderung; Gold aktualisiert (~4.328,63 USD/+1,18%). Bitcoin unveraendert ~65.150 USD weiterhin unter der 65.300-66.000 USD Widerstandszone, Solana ~76 USD weiterhin unter Widerstand 77,37 USD ohne bestaetigten Ausbruch. Infineon nach Zahlen unter Druck (~62,4 USD Freitagsschluss), aber Kursdaten fuer heute noch nicht ausreichend bestaetigt fuer einen Dip-Kauf - kein neuer Kauf trotz freiem Kapital von ca. 5.460 EUR",
         "portfolioValue": 505.92
+      },
+      {
+        "time": "11:14",
+        "note": "Keine Aenderung; Gold aktualisiert (~4.330 USD/+1,21%). DAX auf neuem Allzeithoch (~26.360-26.384 Punkte), Bitcoin unveraendert ~64.700-65.200 USD unter Widerstand 65.300-66.000 USD, Solana ~76,57 USD weiterhin unter unbestaetigtem Widerstand 77,37-80 USD. Infineon-Tageskurs weiterhin nicht ausreichend bestaetigt - kein ueberzeugender Kauf-Trigger trotz freiem Kapital von ca. 5.460 EUR",
+        "portfolioValue": 506.07
       }
     ]
   }
