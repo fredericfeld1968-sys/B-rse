@@ -355,14 +355,14 @@
   },
   {
     "date": "2026-08-10",
-    "marketOverview": "Montag, Vormittag (Stand 11:14 MESZ): Xetra seit 9:00 im Plus, DAX auf neuem Allzeithoch bei rund 26.360-26.384 Punkten (+0,1-0,2%), Handelsspanne laut Technik-Analysten 26.000-26.400. US-Futures uneinheitlich vor CPI/PPI-Daten diese Woche (S&P-Futures +0,13%, Nasdaq-Futures +0,25%, Dow-Futures -0,02%), Stimmung getragen von schwachem Arbeitsmarktbericht und sinkenden Renditen. Bitcoin konsolidiert weiterhin bei ca. 64.700-65.200 USD unter der 65.300-66.000 USD Widerstandszone. Solana haelt sich bei ca. 76,57 USD weiterhin unter dem noch unbestaetigten Widerstand 77,37-80 USD. Gold pendelt bei ca. 4.328-4.333 USD/oz (+1,2-1,5% seit Kauf), leicht schwaecher als das Tageshoch. Rheinmetall (bereits verkauft) faellt laut Marktberichten weiter, Strasse-von-Hormus-Lage bleibt ohne finale Einigung.",
-    "decision": "Tagesbudget-Gutschrift fuer den 10.08. bereits erfolgt (+1.000 EUR). Um 09:27 wurde die Rheinmetall-Position (pos-0006) mit -39,34 EUR (-6,56%) als Stop-Loss glattgestellt. Gold (pos-0004) bleibt unveraendert gehalten, Kurs im 11:14-Lauf auf ca. 4.330 USD (+1,21%) aktualisiert. Kein neuer Kauf im bisherigen Tagesverlauf: Solana testet weiterhin ohne bestaetigten Ausbruch die Widerstandszone 77,37-80 USD, Bitcoin bleibt unter seiner Widerstandszone, und fuer Einzelaktien (u.a. Infineon nach Zahlen geprueft) liegen noch keine ausreichend bestaetigten Tageskursdaten fuer einen ueberzeugenden Dip-Kauf vor.",
-    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading inkl. konsequentem Stop-Loss bei widerlegter These: Rheinmetall wurde wegen echter fundamentaler Verschlechterung (F126-Absage, Prognosesenkung) und wegfallendem Hormuz-Rueckenwind verkauft. Gold bestaetigt weiterhin intaktes Momentum und wird gehalten. Trotz freiem Kapital von ca. 5.460 EUR wird auf einen wirklich ueberzeugenden Trigger gewartet statt vorschnell auf blosses Antesten von Widerstaenden zu kaufen. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "marketOverview": "Montag, Mittag (Stand 12:18 MESZ): DAX weiter fest um 26.320-26.445 Punkte nahe Allzeithoch, Wall-Street-Futures uneinheitlich vor CPI/PPI-Daten. Laut US-Sitzung vom Freitag sprang der Nasdaq +1,30%, S&P 500 +0,62% auf 7.758 (52-Wochen-Hoch), Gold sprang +2,11% auf 4.342 USD, da Anleiherenditen (10J bei 4,65%) und Dollar nachgaben. Geopolitisch belasten ein gebrochener Iran-Waffenstillstand, neue US-Zoelle (50% Kanada, 25% Brasilien, 10-12% auf ~60 weitere Handelspartner) und Spekulation ueber eine moegliche Fed-Zinserhoehung trotz VIX bei ruhigen 14,9. Bitcoin konsolidiert weiterhin eng bei ca. 65.100-65.300 USD unter der 65.300-66.000 USD Widerstandszone. Solana haelt sich bei ca. 76,62-76,80 USD weiterhin unter dem unbestaetigten Widerstand 77,37-80 USD. Gold aktuell bei ca. 4.337 USD/oz (+1,38% seit Kauf), Handelsspanne 4.328-4.350 USD.",
+    "decision": "Tagesbudget-Gutschrift fuer den 10.08. bereits erfolgt (+1.000 EUR). Um 09:27 wurde die Rheinmetall-Position (pos-0006) mit -39,34 EUR (-6,56%) als Stop-Loss glattgestellt. Gold (pos-0004) bleibt unveraendert gehalten, Kurs im 12:18-Lauf auf ca. 4.337 USD (+1,38%) aktualisiert. Kein neuer Kauf im bisherigen Tagesverlauf: Solana und Bitcoin testen weiterhin ohne bestaetigten Ausbruch ihre jeweiligen Widerstandszonen, und fuer Einzelaktien (u.a. Infineon nach Zahlen geprueft) liegen keine ausreichend aktuellen/bestaetigten Intraday-Kursdaten fuer einen ueberzeugenden Dip-Kauf vor.",
+    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading inkl. konsequentem Stop-Loss bei widerlegter These: Rheinmetall wurde wegen echter fundamentaler Verschlechterung (F126-Absage, Prognosesenkung) und wegfallendem Hormuz-Rueckenwind verkauft. Gold bestaetigt weiterhin intaktes Momentum und wird gehalten. Trotz freiem Kapital von ca. 5.460 EUR wird auf einen wirklich ueberzeugenden Trigger gewartet statt vorschnell auf blosses Antesten von Widerstaenden zu kaufen; neue Zoll-Eskalation und Fed-Unsicherheit sprechen zusaetzlich fuer Vorsicht bei neuen Positionen. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [
       "pos-0004",
       "pos-0006"
     ],
-    "portfolioValueEnd": 506.07,
+    "portfolioValueEnd": 506.90,
     "updates": [
       {
         "time": "00:13",
@@ -423,6 +423,11 @@
         "time": "11:14",
         "note": "Keine Aenderung; Gold aktualisiert (~4.330 USD/+1,21%). DAX auf neuem Allzeithoch (~26.360-26.384 Punkte), Bitcoin unveraendert ~64.700-65.200 USD unter Widerstand 65.300-66.000 USD, Solana ~76,57 USD weiterhin unter unbestaetigtem Widerstand 77,37-80 USD. Infineon-Tageskurs weiterhin nicht ausreichend bestaetigt - kein ueberzeugender Kauf-Trigger trotz freiem Kapital von ca. 5.460 EUR",
         "portfolioValue": 506.07
+      },
+      {
+        "time": "12:18",
+        "note": "Keine Aenderung; Gold aktualisiert (~4.337 USD/+1,38%). Neue US-Zollrunde (Kanada, Brasilien, ~60 weitere Partner) und Fed-Zinsunsicherheit belasten Risikostimmung leicht. Bitcoin weiterhin eng um 65.100-65.300 USD unter Widerstand 65.300-66.000 USD, Solana ~76,62-76,80 USD weiterhin unter unbestaetigtem Widerstand 77,37-80 USD, Infineon-Intraday-Kurs nicht verlaesslich verfuegbar - kein ueberzeugender Kauf-Trigger trotz freiem Kapital von ca. 5.460 EUR",
+        "portfolioValue": 506.90
       }
     ]
   }
