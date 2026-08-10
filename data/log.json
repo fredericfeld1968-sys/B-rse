@@ -362,7 +362,7 @@
       "pos-0004",
       "pos-0006"
     ],
-    "portfolioValueEnd": 507.83,
+    "portfolioValueEnd": 507.24,
     "updates": [
       {
         "time": "00:13",
@@ -458,6 +458,11 @@
         "time": "18:17",
         "note": "Keine Aenderung; Gold aktualisiert (~4.345 USD/+1,57%, Tageshoch 4.371 USD). Solana unveraendert ~76,3-76,9 USD weiterhin unter unbestaetigtem Widerstand 77,37 USD, Bitcoin unveraendert ~64.700-65.300 USD unter Widerstand 65.300-66.000 USD. Airbnb (+17,4%) als bereits weit gelaufener Momentum-Trade ohne Dip-Setup verworfen. Kein ueberzeugender Kauf-Trigger, daher kein neuer Kauf trotz freiem Kapital von ca. 5.460 EUR",
         "portfolioValue": 507.83
+      },
+      {
+        "time": "19:12",
+        "note": "Keine Aenderung; Gold leicht aktualisiert (~4.340 USD/+1,45%, Konsolidierung vor CPI/PPI-Daten Mittwoch). US-Boersen im Nachmittagshandel, S&P 500 nahe Rekordhoch (+0,02%), aber Nvidia (-2,16%), Apple (-2,13%) und Intel (-3,66% nach Aktienverkauf) mit moderaten Abschlaegen ohne klares Sell-the-news-Reversal-Setup. Bitcoin unveraendert ~65.100-65.200 USD unter Widerstand 65.300-66.000 USD, Solana ~76,3-76,6 USD weiterhin unter unbestaetigtem Widerstand 77,37 USD. Kein ueberzeugender Kauf-Trigger, daher kein neuer Kauf trotz freiem Kapital von ca. 5.460 EUR",
+        "portfolioValue": 507.24
       }
     ]
   }
