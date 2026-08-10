@@ -355,14 +355,14 @@
   },
   {
     "date": "2026-08-10",
-    "marketOverview": "Montag, Nachmittag (Stand 15:28 MESZ): DAX weiter richtungssuchend nahe Allzeithoch, S&P-500-Futures leicht positiv (~+0,6% Vorwoche), Markt wartet weiterhin auf CPI/PPI-Daten am Mittwoch sowie eine finale Hormuz-Einigung (Iran/Oman nahe an einem Deal, aber ohne vollstaendige Oeffnung ohne US-Zugestaendnisse). Bitcoin weiterhin bei ca. 64.900-65.000 USD unter der 65.300-66.000 USD Widerstandszone. Solana unveraendert bei ca. 76,6-76,8 USD unter dem unbestaetigten Widerstand 77,37 USD. Gold pendelt weiter seitwaerts bei ca. 4.328-4.340 USD/oz, keine klare Richtung intraday. The Trade Desk brach um weitere -21,9% ein (strukturelle Schwaeche, kein Dip-Setup).",
-    "decision": "Tagesbudget-Gutschrift fuer den 10.08. bereits erfolgt (+1.000 EUR). Um 09:27 wurde die Rheinmetall-Position (pos-0006) mit -39,34 EUR (-6,56%) als Stop-Loss glattgestellt. Gold (pos-0004) bleibt unveraendert gehalten, Kurs im 15:28-Lauf auf ca. 4.335 USD (+1,33%) aktualisiert. Kein neuer Kauf im bisherigen Tagesverlauf: Solana und Bitcoin testen weiterhin ohne bestaetigten Ausbruch ihre jeweiligen Widerstandszonen, Tesla/Trade-Desk-Schwaeche ist strukturell statt eines kurzfristigen Sell-the-news-Ausverkaufs, und fuer weitere Einzelaktien (u.a. Infineon nach Zahlen geprueft) liegen keine ausreichend aktuellen/bestaetigten Intraday-Kursdaten fuer einen ueberzeugenden Dip-Kauf vor.",
-    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading inkl. konsequentem Stop-Loss bei widerlegter These: Rheinmetall wurde wegen echter fundamentaler Verschlechterung (F126-Absage, Prognosesenkung) und wegfallendem Hormuz-Rueckenwind verkauft. Gold bestaetigt weiterhin intaktes, wenn auch stabiles Momentum und wird gehalten. Trotz freiem Kapital von ca. 5.460 EUR wird auf einen wirklich ueberzeugenden Trigger gewartet statt vorschnell auf blosses Antesten von Widerstaenden oder eine strukturelle Abwaertsbewegung (Tesla) zu kaufen; erneute Hormuz-Unsicherheit und Zoll-/Fed-Themen sprechen zusaetzlich fuer Vorsicht bei neuen Positionen. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "marketOverview": "Montag, spaeter Nachmittag (Stand 16:22 MESZ): Xetra tendiert nahe Allzeithoch (DAX ~26.319 Punkte, +0,69%), S&P 500 bei 7.766 Punkten (+0,11%), Markt wartet weiterhin auf CPI/PPI-Daten am Mittwoch sowie eine finale Hormuz-Einigung. Bitcoin weiterhin bei ca. 64.700-65.300 USD unter der 65.300-66.000 USD Widerstandszone. Solana ist auf ca. 76,9 USD geklettert und testet damit erneut den Widerstand bei 77,37 USD (2-Wochen-Hoch), aber noch ohne bestaetigten Schlusskurs darueber. Gold pendelt weiter seitwaerts bei ca. 4.328-4.332 USD/oz. Honeywell Aerospace brach nach gesenktem Jahresausblick um -20% ein (strukturelle Verschlechterung, kein Dip-Setup); Celsius Holdings -4,6% nach schwachen Zahlen (zu klein fuer ueberzeugenden Trigger).",
+    "decision": "Tagesbudget-Gutschrift fuer den 10.08. bereits erfolgt (+1.000 EUR). Um 09:27 wurde die Rheinmetall-Position (pos-0006) mit -39,34 EUR (-6,56%) als Stop-Loss glattgestellt. Gold (pos-0004) bleibt unveraendert gehalten, Kurs im 16:22-Lauf auf ca. 4.330 USD (+1,22%) aktualisiert. Kein neuer Kauf im bisherigen Tagesverlauf: Solana testet zwar erneut die Widerstandszone bei 77,37 USD, aber ohne bestaetigten Ausbruch; Bitcoin bleibt unter seiner Widerstandszone; Honeywell-/Trade-Desk-Schwaeche ist strukturell statt eines kurzfristigen Sell-the-news-Ausverkaufs.",
+    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading inkl. konsequentem Stop-Loss bei widerlegter These: Rheinmetall wurde wegen echter fundamentaler Verschlechterung (F126-Absage, Prognosesenkung) und wegfallendem Hormuz-Rueckenwind verkauft. Gold bestaetigt weiterhin intaktes, wenn auch stabiles Momentum und wird gehalten. Trotz freiem Kapital von ca. 5.460 EUR wird auf einen wirklich ueberzeugenden Trigger gewartet statt vorschnell auf blosses Antesten von Widerstaenden (Solana knapp unter 77,37 USD) oder eine strukturelle Abwaertsbewegung (Honeywell, Trade Desk) zu kaufen. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [
       "pos-0004",
       "pos-0006"
     ],
-    "portfolioValueEnd": 506.66,
+    "portfolioValueEnd": 506.08,
     "updates": [
       {
         "time": "00:13",
@@ -443,6 +443,11 @@
         "time": "15:28",
         "note": "Keine Aenderung; Gold aktualisiert (~4.335 USD/+1,33%). Bitcoin unveraendert ~64.900-65.000 USD unter Widerstand 65.300-66.000 USD, Solana unveraendert ~76,6-76,8 USD weiterhin unter unbestaetigtem Widerstand 77,37 USD. The Trade Desk -21,9% als strukturelle Schwaeche verworfen (kein Sell-the-news-Setup). Kein ueberzeugender Kauf-Trigger, daher kein neuer Kauf trotz freiem Kapital von ca. 5.460 EUR",
         "portfolioValue": 506.66
+      },
+      {
+        "time": "16:22",
+        "note": "Keine Aenderung; Gold aktualisiert (~4.330 USD/+1,22%). Solana auf 2-Wochen-Hoch ~76,91 USD, testet erneut Widerstand 77,37 USD ohne bestaetigten Ausbruch; Bitcoin unveraendert unter Widerstand 65.300-66.000 USD. Honeywell Aerospace -20% (strukturelle Guidance-Senkung) und Celsius -4,6% als Kauf verworfen. Kein ueberzeugender Kauf-Trigger, daher kein neuer Kauf trotz freiem Kapital von ca. 5.460 EUR",
+        "portfolioValue": 506.08
       }
     ]
   }
