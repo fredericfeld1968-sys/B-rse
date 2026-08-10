@@ -362,7 +362,7 @@
       "pos-0004",
       "pos-0006"
     ],
-    "portfolioValueEnd": 507.24,
+    "portfolioValueEnd": 505.92,
     "updates": [
       {
         "time": "00:13",
@@ -413,6 +413,11 @@
         "time": "09:27",
         "note": "Verkauf Rheinmetall (RHM), Verlust -39,34 EUR (-6,56%) realisiert als Stop-Loss nach F126-Fregatten-Absage/Umsatzprognosesenkung und Hormuz-Deeskalation; Gold aktualisiert (~4.340 USD/+1,45%); kein neuer Kauf (Solana-Dreiecksausbruch ueber 77,50 USD noch nicht bestaetigt)",
         "portfolioValue": 507.24
+      },
+      {
+        "time": "10:19",
+        "note": "Keine Aenderung; Gold aktualisiert (~4.328,63 USD/+1,18%). Bitcoin unveraendert ~65.150 USD weiterhin unter der 65.300-66.000 USD Widerstandszone, Solana ~76 USD weiterhin unter Widerstand 77,37 USD ohne bestaetigten Ausbruch. Infineon nach Zahlen unter Druck (~62,4 USD Freitagsschluss), aber Kursdaten fuer heute noch nicht ausreichend bestaetigt fuer einen Dip-Kauf - kein neuer Kauf trotz freiem Kapital von ca. 5.460 EUR",
+        "portfolioValue": 505.92
       }
     ]
   }
