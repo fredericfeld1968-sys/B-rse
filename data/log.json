@@ -355,14 +355,14 @@
   },
   {
     "date": "2026-08-10",
-    "marketOverview": "Montag, spaeter Nachmittag (Stand 17:21 MESZ): US-Maerkte kaum veraendert vor den CPI-Daten am Mittwoch, S&P 500 nahezu flach (+0,01%), Dow leicht -0,14%, Nasdaq -0,11%; Investoren warten weiter auf eine finale Hormuz-Einigung (Oelpreis Brent ~85 USD). Gold notiert bei ca. 4.340-4.343 USD/oz (+1,4-2,4%), bleibt aber ueber 4.300 USD nach der starken Vorwoche. Bitcoin weiterhin bei ca. 64.700-65.300 USD unter der Widerstandszone 65.300-66.000 USD, Solana pendelt bei ca. 76,80 USD und testet weiterhin den Widerstand bei 77,37 USD ohne bestaetigten Ausbruch. Honeywell (+7,5%) und Vertex Pharmaceuticals (+6,8%) fuehren die Tagesgewinner an, The Trade Desk bleibt strukturell schwach (-6,2%).",
-    "decision": "Tagesbudget-Gutschrift fuer den 10.08. bereits erfolgt (+1.000 EUR). Um 09:27 wurde die Rheinmetall-Position (pos-0006) mit -39,34 EUR (-6,56%) als Stop-Loss glattgestellt. Gold (pos-0004) bleibt unveraendert gehalten, Kurs im 17:21-Lauf auf ca. 4.340 USD (+1,45%) aktualisiert. Kein neuer Kauf im bisherigen Tagesverlauf: Solana testet weiterhin die Widerstandszone bei 77,37 USD ohne bestaetigten Ausbruch, Bitcoin bleibt unter seiner Widerstandszone, Honeywell-Rally wird als bereits weit gelaufener Momentum-Trade ohne Dip-Setup verworfen.",
-    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading inkl. konsequentem Stop-Loss bei widerlegter These: Rheinmetall wurde wegen echter fundamentaler Verschlechterung verkauft, Gold bestaetigt weiterhin intaktes Momentum und wird gehalten. Trotz freiem Kapital von ca. 5.460 EUR wird auf einen wirklich ueberzeugenden Trigger gewartet statt auf blosses Antesten von Widerstaenden (Solana) oder bereits weit gelaufene Kursgewinne (Honeywell +7,5% intraday, kein Dip/Sell-the-news-Setup) zu reagieren. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "marketOverview": "Montag, Abend (Stand 18:17 MESZ): US-Maerkte weiterhin nahe der Nulllinie vor den CPI-Daten am Mittwoch, Nasdaq leicht schwaecher (-0,3%), S&P 500/Dow kaum veraendert; Investoren warten weiter auf eine finale Hormuz-Einigung (Iran dementiert direkte Gespraeche, Oelpreis Brent ~84-86 USD). Gold notiert bei ca. 4.340-4.361 USD/oz (Tageshoch 4.371 USD, hoechster Stand seit Juni), bleibt klar ueber 4.300 USD nach der starken Vorwoche. Bitcoin weiterhin bei ca. 64.700-65.300 USD unter der Widerstandszone 65.300-66.000 USD, Solana pendelt bei ca. 76,30-76,90 USD und testet weiterhin den Widerstand bei 77,37 USD ohne bestaetigten Ausbruch (Schlusskurs darueber noch nicht bestaetigt). Airbnb (+17,4%) und Palantir fuehren die Tagesgewinner an, The Trade Desk bleibt mit -21,9% der groesste Verlierer.",
+    "decision": "Tagesbudget-Gutschrift fuer den 10.08. bereits erfolgt (+1.000 EUR). Um 09:27 wurde die Rheinmetall-Position (pos-0006) mit -39,34 EUR (-6,56%) als Stop-Loss glattgestellt. Gold (pos-0004) bleibt unveraendert gehalten, Kurs im 18:17-Lauf auf ca. 4.345 USD (+1,57%) aktualisiert. Kein neuer Kauf im bisherigen Tagesverlauf: Solana testet weiterhin die Widerstandszone bei 77,37 USD ohne bestaetigten Ausbruch, Bitcoin bleibt unter seiner Widerstandszone, Airbnb-Rally (+17,4%) wird als bereits weit gelaufener Momentum-Trade ohne Dip-Setup verworfen.",
+    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading inkl. konsequentem Stop-Loss bei widerlegter These: Rheinmetall wurde wegen echter fundamentaler Verschlechterung verkauft, Gold bestaetigt weiterhin intaktes Momentum (neues Tageshoch bei 4.371 USD) und wird gehalten. Trotz freiem Kapital von ca. 5.460 EUR wird auf einen wirklich ueberzeugenden Trigger gewartet statt auf blosses Antesten von Widerstaenden (Solana) oder bereits weit gelaufene Kursgewinne (Airbnb +17,4%, kein Dip/Sell-the-news-Setup) zu reagieren. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [
       "pos-0004",
       "pos-0006"
     ],
-    "portfolioValueEnd": 507.24,
+    "portfolioValueEnd": 507.83,
     "updates": [
       {
         "time": "00:13",
@@ -453,6 +453,11 @@
         "time": "17:21",
         "note": "Keine Aenderung; Gold aktualisiert (~4.340 USD/+1,45%). Solana unveraendert ~76,80 USD weiterhin unter unbestaetigtem Widerstand 77,37 USD, Bitcoin unveraendert ~64.700-65.300 USD unter Widerstand 65.300-66.000 USD. Honeywell (+7,5%) und Vertex Pharma (+6,8%) als bereits weit gelaufene Momentum-Rallys ohne Dip-Setup verworfen. Kein ueberzeugender Kauf-Trigger, daher kein neuer Kauf trotz freiem Kapital von ca. 5.460 EUR",
         "portfolioValue": 507.24
+      },
+      {
+        "time": "18:17",
+        "note": "Keine Aenderung; Gold aktualisiert (~4.345 USD/+1,57%, Tageshoch 4.371 USD). Solana unveraendert ~76,3-76,9 USD weiterhin unter unbestaetigtem Widerstand 77,37 USD, Bitcoin unveraendert ~64.700-65.300 USD unter Widerstand 65.300-66.000 USD. Airbnb (+17,4%) als bereits weit gelaufener Momentum-Trade ohne Dip-Setup verworfen. Kein ueberzeugender Kauf-Trigger, daher kein neuer Kauf trotz freiem Kapital von ca. 5.460 EUR",
+        "portfolioValue": 507.83
       }
     ]
   }
