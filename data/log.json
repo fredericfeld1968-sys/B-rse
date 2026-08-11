@@ -487,13 +487,13 @@
   },
   {
     "date": "2026-08-11",
-    "marketOverview": "Dienstag, kurz nach 3 Uhr MESZ: US-Boersen und Xetra weiterhin geschlossen (Oeffnung Xetra 9:00 MESZ). Gold pendelt nach dem Anstieg auf ueber 4.400 USD/oz nun leicht zurueck auf ca. 4.395,65 USD/oz (Tagesspanne 4.352,16-4.401,78 USD), bleibt aber mit +2,75% seit Kauf und intaktem mehrtaegigem Aufwaertstrend vor dem CPI-Bericht am Mittwoch klar im Plus. Bitcoin faellt weiter auf ca. 63.851 USD (-2,00% 24h) und bleibt klar unter der Widerstandszone 65.300-66.000 USD. Solana notiert bei ca. 76,14 USD (Tagesspanne 75,57-77,07 USD) weiterhin unter dem Widerstand bei 77,37 USD ohne bestaetigten Ausbruch. Keine neuen marktbewegenden Nachrichten seit dem 02:17-Lauf.",
-    "decision": "Tagesbudget-Gutschrift fuer den 11.08. bereits um 00:15 erfolgt (siehe capital.json, unveraendert). Gold (pos-0004) bleibt als einzige offene Position unveraendert gehalten, Kurs auf ca. 4.395,65 USD (+2,75%) aktualisiert - leichter Ruecksetzer nach dem Hoch der letzten Stunde, Aufwaertstrend bleibt intakt. Kein neuer Kauf: Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten nicht handelbar, und Krypto liefert mit weiter ruecklaeufigem Bitcoin (-2,00%) und weiterhin unter Widerstand notierender Solana keine ueberzeugende Kaufgelegenheit.",
-    "reasoning": "Risikoprofil \"spekulativ\" mit erlaubtem kurzfristigem Trading, aber Kaufentscheidungen bleiben an eine ueberzeugende, bestaetigte Konstellation gebunden. Bitcoin faellt weiter (-2,00% 24h) und bleibt unter seiner Widerstandszone - kein Einstiegssignal, sondern eher zunehmende Schwaeche. Solana testet weiterhin ohne bestaetigten Ausbruch die Zone unter 77,37 USD. Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten ohnehin nicht handelbar (Kursaktualisierung bei Gold ist reine Marktbewertung, kein Handel). Gold wird als einzige offene Position mit weiterhin intaktem mehrtaegigem Aufwaertstrend unveraendert weitergehalten trotz kurzfristigem Ruecksetzer. Keine Position verstoesst gegen Ausschlusslisten aus den Einstellungen; freies Kapital von ca. 6.460,66 EUR bleibt mangels bestaetigter Krypto-Gelegenheit ungenutzt.",
+    "marketOverview": "Dienstag, kurz nach 4 Uhr MESZ: US-Boersen und Xetra weiterhin geschlossen (Oeffnung Xetra 9:00 MESZ). Gold konsolidiert weiter um ca. 4.390-4.398 USD/oz (Kitco-Geld/Brief), bleibt mit rund +2,7% seit Kauf und intaktem mehrtaegigem Aufwaertstrend vor dem CPI-Bericht am Mittwoch klar im Plus, nach der Rally von ueber 7% in der Vorwoche. Bitcoin wird von verschiedenen Quellen uneinheitlich zwischen ca. 63.850 und 65.230 USD verortet, insgesamt weiterhin unter bzw. an der Widerstandszone 65.300-66.000 USD ohne bestaetigten Ausbruch. Solana notiert unveraendert bei ca. 76,14 USD (Tagesspanne 75,57-77,07 USD) weiterhin unter dem Widerstand bei 77,37 USD. Keine neuen marktbewegenden Nachrichten seit dem 03:13-Lauf.",
+    "decision": "Tagesbudget-Gutschrift fuer den 11.08. bereits um 00:15 erfolgt (siehe capital.json, unveraendert). Gold (pos-0004) bleibt als einzige offene Position unveraendert gehalten, Kurs auf ca. 4.393,85 USD (+2,71%) aktualisiert. Kein neuer Kauf: Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten nicht handelbar, und Krypto liefert mit weiterhin uneinheitlichem/schwachem Bitcoin und Solana unter unbestaetigtem Widerstand keine ueberzeugende Kaufgelegenheit.",
+    "reasoning": "Risikoprofil \"spekulativ\" mit erlaubtem kurzfristigem Trading, aber Kaufentscheidungen bleiben an eine ueberzeugende, bestaetigte Konstellation gebunden. Bitcoin bleibt unter/an seiner Widerstandszone ohne bestaetigten Ausbruch, Solana testet weiterhin ohne bestaetigten Ausbruch die Zone unter 77,37 USD. Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten ohnehin nicht handelbar (Kursaktualisierung bei Gold ist reine Marktbewertung, kein Handel). Gold wird als einzige offene Position mit weiterhin intaktem mehrtaegigem Aufwaertstrend unveraendert weitergehalten. Keine Position verstoesst gegen Ausschlusslisten aus den Einstellungen; freies Kapital von ca. 6.460,66 EUR bleibt mangels bestaetigter Krypto-Gelegenheit ungenutzt.",
     "positionIds": [
       "pos-0004"
     ],
-    "portfolioValueEnd": 513.75,
+    "portfolioValueEnd": 513.53,
     "updates": [
       {
         "time": "00:15",
@@ -514,6 +514,11 @@
         "time": "03:13",
         "note": "Keine Aenderung; Gold leicht zurueckgesetzt auf ~4.395,65 USD/+2,75%. Bitcoin weiter gefallen auf ~63.851 USD (-2,00% 24h), Solana ~76,14 USD weiterhin unter Widerstand 77,37 USD - kein ueberzeugender Krypto-Kauf",
         "portfolioValue": 513.75
+      },
+      {
+        "time": "04:10",
+        "note": "Keine Aenderung; Gold aktualisiert (~4.393,85 USD/+2,71%). Bitcoin uneinheitlich 63.850-65.230 USD weiterhin an/unter Widerstand 65.300-66.000 USD, Solana unveraendert ~76,14 USD unter Widerstand 77,37 USD - kein ueberzeugender Krypto-Kauf",
+        "portfolioValue": 513.53
       }
     ]
   }
