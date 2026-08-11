@@ -487,13 +487,13 @@
   },
   {
     "date": "2026-08-11",
-    "marketOverview": "Dienstag, spaeter Nachmittag/Abend (Stand ca. 20:13 MESZ): US-Indizes bauen die Verluste vor CPI morgen leicht aus (Dow/S&P je ca. -0,2%, Nasdaq ca. -0,6%) im Zuge des festgefahrenen US-Iran-Patts um die Strasse von Hormuz und weiterhin erhoehter Oelpreise (~88-90 USD/Barrel). Gold behauptet sich klar ueber 4.400 USD/oz (~4.405 USD, +2,97% seit Kauf) trotz leichter Konsolidierung, gestuetzt von der geopolitischen Unsicherheit. Bitcoin fiel auf ca. 63.500 USD (-0,5% 24h) weiter unter seine Widerstandszone 65.300-66.000 USD zurueck, Solana notiert nahezu unveraendert bei ca. 76,1 USD weiterhin unter dem unbestaetigten Widerstand bei 77,37 USD. CoreWeave (CRWV) und Super Micro (SMCI) berichten ihre Quartalszahlen beide erst nach US-Handelsschluss (Calls ca. 23:00 MESZ) - eine Kursreaktion ist im laufenden Handel noch nicht zu bewerten. Tagesbewegungen bei Einzeltiteln (Plug Power +13,3%, Everpure +7,5%, AECOM -4,5%, Middleby -1,7%) sind bereits erfolgte bzw. fundamental begruendete Bewegungen ohne klares Dip-Kauf-Setup.",
-    "decision": "Keine neue Position, keine Verkaeufe im gesamten bisherigen Tagesverlauf (21. Lauf des Tages). Gold (pos-0004) bleibt einzige offene Position, Kurs auf ca. 4.405 USD (+2,97%) aktualisiert. Freies Kapital von weiterhin ca. 6.460,66 EUR bleibt mangels ueberzeugender Gelegenheit ungenutzt.",
-    "reasoning": "Kein bestaetigtes Setup: Marktbewegungen bleiben breit makrogetrieben (Oelpreis, Renditen, Hormuz-Patt, Pre-CPI-Vorsicht) statt einzeltitelspezifische Sell-the-news-Ueberreaktionen wie im erfolgreichen AMD-/SpaceX-/Palantir-Muster. Die heutigen Einzeltitel-Bewegungen (AECOM, Middleby) beruhen auf echten Guidance-/Umsatzenttaeuschungen statt auf ueberzogenen Reflex-Abverkaeufen trotz starker Fundamentaldaten - kein Dip-Kauf-Setup; Plug Power/Everpure sind bereits erfolgte Kurssprünge ohne Einstiegspunkt. CoreWeave/Super-Micro-Zahlen stehen weiterhin aus (Calls erst ca. 23:00 MESZ) - kein Trade auf eine noch nicht erfolgte Reaktion. Bitcoin fiel weiter unter seine Widerstandszone zurueck, Solana verharrt unveraendert darunter vor den morgigen US-CPI-Daten - kein bestaetigter Ausbruch. Gold wird mit intaktem Mehrtages-Aufwaertstrend unveraendert weitergehalten. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "marketOverview": "Dienstag, spaeter Abend (Stand ca. 21:11 MESZ): US-Indizes leicht schwaecher vor CPI morgen (S&P 500 ca. 7.753 Punkte, -0,06%; Nasdaq ca. -0,6%), belastet vom festgefahrenen US-Iran-Patt um die Strasse von Hormuz und erhoehten Oelpreisen. Gold hat sich von seinem Tageshoch etwas zurueckgesetzt und notiert bei ca. 4.367-4.375 USD/oz (+2,1% seit Kauf), nach einem Ruecksetzer von rund -0,55% zum Vortag - intakter Mehrwochen-Aufwaertstrend bleibt aber bestehen. Bitcoin notiert bei ca. 64.190 USD weiterhin unter der Widerstandszone 65.300-66.000 USD, Solana pendelt uneinheitlich zwischen 75,6 und 78,1 USD um den unbestaetigten Widerstand bei 77,37 USD. CoreWeave (CRWV) und Super Micro (SMCI) berichten ihre Quartalszahlen erst nach US-Handelsschluss (Calls ca. 23:00 MESZ) - eine Kursreaktion ist im laufenden Lauf noch nicht bewertbar.",
+    "decision": "Keine neue Position, keine Verkaeufe im gesamten bisherigen Tagesverlauf (22. Lauf des Tages). Gold (pos-0004) bleibt einzige offene Position, Kurs auf ca. 4.370 USD (+2,15%) aktualisiert. Freies Kapital von weiterhin ca. 6.460,66 EUR bleibt mangels ueberzeugender Gelegenheit ungenutzt.",
+    "reasoning": "Kein bestaetigtes Setup: Marktbewegungen bleiben breit makrogetrieben (Oelpreis, Renditen, Hormuz-Patt, Pre-CPI-Vorsicht) statt einzeltitelspezifische Sell-the-news-Ueberreaktionen wie im erfolgreichen AMD-/SpaceX-/Palantir-Muster. CoreWeave/Super-Micro-Zahlen stehen weiterhin aus (Calls erst ca. 23:00 MESZ) - kein Trade auf eine noch nicht erfolgte Reaktion. Bitcoin bleibt unter seiner Widerstandszone, Solana verharrt uneinheitlich um den unbestaetigten Widerstand vor den morgigen US-CPI-Daten - kein bestaetigter Ausbruch. Gold wird trotz leichtem Tages-Ruecksetzer mit intaktem Mehrwochen-Aufwaertstrend unveraendert weitergehalten. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [
       "pos-0004"
     ],
-    "portfolioValueEnd": 514.84,
+    "portfolioValueEnd": 510.75,
     "updates": [
       {
         "time": "00:15",
@@ -599,6 +599,11 @@
         "time": "20:13",
         "note": "Keine Aenderung; Gold aktualisiert (~4.405 USD/+2,97%). US-Indizes bauen Verluste vor CPI morgen leicht aus (Hormuz-Patt, Oelpreis hoch), Bitcoin auf ~63.500 USD zurueckgefallen, Solana unveraendert ~76,1 USD unter Widerstand 77,37 USD. CoreWeave/SMCI-Zahlen weiterhin ausstehend (Calls ~23:00 MESZ). Kein ueberzeugender Kauf-Trigger, daher kein neuer Kauf trotz freiem Kapital von ca. 6.460,66 EUR",
         "portfolioValue": 514.84
+      },
+      {
+        "time": "21:11",
+        "note": "Keine Aenderung; Gold auf ~4.370 USD/+2,15% zurueckgesetzt (leichte Konsolidierung vom Tageshoch). S&P 500 nahezu unveraendert (~7.753 Punkte, -0,06%), Bitcoin ~64.190 USD und Solana uneinheitlich 75,6-78,1 USD weiterhin ohne bestaetigten Ausbruch. CoreWeave/SMCI-Zahlen weiterhin ausstehend (Calls ~23:00 MESZ) - kein Trade auf eine noch nicht erfolgte Reaktion. Kein ueberzeugender Kauf-Trigger, daher kein neuer Kauf trotz freiem Kapital von ca. 6.460,66 EUR",
+        "portfolioValue": 510.75
       }
     ]
   }
