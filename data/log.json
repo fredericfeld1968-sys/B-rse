@@ -487,13 +487,13 @@
   },
   {
     "date": "2026-08-11",
-    "marketOverview": "Dienstag, fruehen Nachmittag (Stand ca. 13:25 MESZ): DAX bewegt sich weiter seitwaerts nahe Rekordniveau (~26.320-26.324 Punkte), US-Futures leicht fester vor Handelsstart um 15:30 MESZ (softere Jobdaten stuetzen). Gold notiert bei ca. 4.370 USD/oz (+2,15% seit Kauf), leichte Konsolidierung vom Vormittagshoch vor den morgigen US-CPI-Daten. Bitcoin verharrt bei ca. 65.000 USD unter der Widerstandszone 65.300-66.000 USD, Solana pendelt um 75,9 USD unter Widerstand 77,37 USD. Lumentum meldet heute nach Handelsschluss Zahlen, Coherent morgen - der Vorab-Ausverkauf beider AI-Optik-Werte (Coherent +105%, Lumentum +142% YTD) bleibt reines Pre-Earnings-De-Risking bei stark gelaufenen Titeln, kein Ueberreaktions-Setup.",
-    "decision": "Tagesbudget-Gutschrift fuer den 11.08. bereits um 00:15 erfolgt (siehe capital.json, unveraendert). Gold (pos-0004) bleibt als einzige offene Position unveraendert gehalten, Kurs im 13:25-Lauf auf 4.370,00 USD (+2,15%) aktualisiert. Kein neuer Kauf: DAX bewegt sich weiterhin seitwaerts ohne Dip-Setup, Bitcoin/Solana bleiben unter ihren Widerstandszonen vor den CPI-Daten morgen, keine neue ueberzeugende Einzeltitel-Gelegenheit gefunden.",
-    "reasoning": "Risikoprofil spekulativ erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit (Overreaction trotz starker Fundamentaldaten oder bestaetigter technischer Ausbruch). Weder bei Aktien (DAX seitwaerts, keine neuen Sell-the-news-Faelle, Coherent/Lumentum-Vorabausverkauf ist Pre-Earnings-De-Risking statt Ueberreaktion) noch bei Krypto (Bitcoin/Solana weiterhin unter unbestaetigtem Widerstand, Markt in Pre-CPI-Warteposition) liegt aktuell ein bestaetigtes Setup vor. Gold wird als einzige offene Position mit intaktem Gewinn unveraendert weitergehalten. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen; freies Kapital von ca. 6.460,66 EUR bleibt mangels ueberzeugender Gelegenheit ungenutzt.",
+    "marketOverview": "Dienstag, fruehen Nachmittag (Stand ca. 14:30 MESZ): S&P-500-Futures leicht fester (+0,07%) vor US-Handelsstart um 15:30 MESZ, DAX weiterhin seitwaerts nahe Rekordniveau (~26.311 Punkte). Oelpreis (Brent) naehert sich 90 USD/Barrel nach neuen Zweifeln an einer US-Iran-Einigung, 10-Jahres-Rendite ueber 4,72% - Inflationssorgen vor den US-CPI-Daten morgen steigen. Gold aktualisiert auf ca. 4.400 USD/oz (+2,85%), haelt sich ueber 4.400 USD zum zweiten Tag in Folge. Bitcoin unveraendert ~63.980 USD, Solana ~76,14 USD, beide weiterhin unter ihren Widerstandszonen. Intel faellt -4% nach Ankuendigung einer 15-Mrd-USD-Aktienplatzierung (Verwaesserung) - kein Ueberreaktions-Setup, sondern eine echte fundamentale Belastung, daher kein Dip-Kauf.",
+    "decision": "Keine neue Position, keine Verkaeufe in diesem Lauf. Gold (pos-0004) bleibt einzige offene Position, Kurs auf 4.400,00 USD (+2,85%) aktualisiert. Freies Kapital von weiterhin ca. 6.460,66 EUR bleibt mangels ueberzeugender Gelegenheit ungenutzt.",
+    "reasoning": "Kein bestaetigtes Setup: DAX und US-Futures bewegen sich seitwaerts/leicht positiv ohne Dip-Gelegenheit, der Intel-Ruecksetzer ist eine echte fundamentale Verwaesserung und kein Sell-the-news-Ueberreaktions-Fall (Muster AMD/SpaceX/Palantir), Bitcoin und Solana verharren weiterhin unter ihren jeweiligen Widerstandszonen vor den morgigen US-CPI-Daten. Steigende Oelpreise und Renditen erhoehen zudem das Makro-Risiko fuer neue spekulative Positionen. Gold wird mit intaktem Gewinn unveraendert weitergehalten.",
     "positionIds": [
       "pos-0004"
     ],
-    "portfolioValueEnd": 510.76,
+    "portfolioValueEnd": 514.26,
     "updates": [
       {
         "time": "00:15",
@@ -564,6 +564,11 @@
         "time": "13:25",
         "note": "Keine Aenderung; Gold leicht zurueckgesetzt (~4.370 USD/+2,15%, Konsolidierung vor US-CPI-Daten morgen). DAX weiterhin seitwaerts (~26.324 Punkte), US-Futures leicht fester vor Handelsstart um 15:30 MESZ. Bitcoin unveraendert ~65.000 USD unter Widerstand 65.300-66.000 USD, Solana ~75,9 USD weiterhin unter Widerstand 77,37 USD. Coherent/Lumentum-Vorab-Ausverkauf vor den Zahlen (Lumentum heute, Coherent morgen nach Handelsschluss) bleibt reines Pre-Earnings-De-Risking bei stark gelaufenen AI-Optik-Werten (Coherent +105%, Lumentum +142% YTD), kein Ueberreaktions-Setup - kein neuer Kauf trotz freiem Kapital von ca. 6.460,66 EUR",
         "portfolioValue": 510.76
+      },
+      {
+        "time": "14:30",
+        "note": "Keine Aenderung; Gold aktualisiert (~4.400 USD/+2,85%). S&P-Futures leicht fester vor Handelsstart, DAX seitwaerts. Bitcoin/Solana unveraendert unter ihren Widerstandszonen. Intel -4% nach Kapitalerhoehung (Verwaesserung, kein Dip-Setup) - kein neuer Kauf",
+        "portfolioValue": 514.26
       }
     ]
   }
