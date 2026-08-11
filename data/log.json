@@ -487,13 +487,13 @@
   },
   {
     "date": "2026-08-11",
-    "marketOverview": "Dienstag, fruehen Nachmittag (Stand ca. 14:30 MESZ): S&P-500-Futures leicht fester (+0,07%) vor US-Handelsstart um 15:30 MESZ, DAX weiterhin seitwaerts nahe Rekordniveau (~26.311 Punkte). Oelpreis (Brent) naehert sich 90 USD/Barrel nach neuen Zweifeln an einer US-Iran-Einigung, 10-Jahres-Rendite ueber 4,72% - Inflationssorgen vor den US-CPI-Daten morgen steigen. Gold aktualisiert auf ca. 4.400 USD/oz (+2,85%), haelt sich ueber 4.400 USD zum zweiten Tag in Folge. Bitcoin unveraendert ~63.980 USD, Solana ~76,14 USD, beide weiterhin unter ihren Widerstandszonen. Intel faellt -4% nach Ankuendigung einer 15-Mrd-USD-Aktienplatzierung (Verwaesserung) - kein Ueberreaktions-Setup, sondern eine echte fundamentale Belastung, daher kein Dip-Kauf.",
-    "decision": "Keine neue Position, keine Verkaeufe in diesem Lauf. Gold (pos-0004) bleibt einzige offene Position, Kurs auf 4.400,00 USD (+2,85%) aktualisiert. Freies Kapital von weiterhin ca. 6.460,66 EUR bleibt mangels ueberzeugender Gelegenheit ungenutzt.",
-    "reasoning": "Kein bestaetigtes Setup: DAX und US-Futures bewegen sich seitwaerts/leicht positiv ohne Dip-Gelegenheit, der Intel-Ruecksetzer ist eine echte fundamentale Verwaesserung und kein Sell-the-news-Ueberreaktions-Fall (Muster AMD/SpaceX/Palantir), Bitcoin und Solana verharren weiterhin unter ihren jeweiligen Widerstandszonen vor den morgigen US-CPI-Daten. Steigende Oelpreise und Renditen erhoehen zudem das Makro-Risiko fuer neue spekulative Positionen. Gold wird mit intaktem Gewinn unveraendert weitergehalten.",
+    "marketOverview": "Dienstag, Nachmittag (Stand ca. 15:36 MESZ, kurz nach US-Handelsstart um 15:30 MESZ): S&P 500 pendelt seitwaerts nahe Rekordniveau (Montagsschluss ~7.753 Punkte, -0,06%), DAX weiterhin nahe Allzeithoch (~26.311 Punkte). Fuehrende Verlierer breit gestreut (Nvidia -2,79%, Travelers, Sherwin-Williams) im Zuge steigender Oelpreise (Brent nahe 90 USD/Barrel wegen US-Iran-Spannungen) und einer 10-Jahres-Rendite ueber 4,72% - keine einzeltitelspezifische Ueberreaktion. Gold pendelt weiterhin fest um 4.390 USD/oz (+2,62% seit Kauf). Bitcoin unveraendert ~64.000-64.200 USD, Solana ~76-78 USD, beide weiterhin unter ihren Widerstandszonen vor den US-CPI-Daten morgen. Riot Platforms (+16,5%, Anthropic-Rechenzentrums-Deal) und Plug Power (+13,3%, starke Zahlen) als bereits vollstaendig eingepreiste Nachrichtenreaktionen ohne Dip-Setup eingeordnet.",
+    "decision": "Keine neue Position, keine Verkaeufe in diesem Lauf. Gold (pos-0004) bleibt einzige offene Position, Kurs auf 4.390,00 USD (+2,62%) aktualisiert. Freies Kapital von weiterhin ca. 6.460,66 EUR bleibt mangels ueberzeugender Gelegenheit ungenutzt.",
+    "reasoning": "Kein bestaetigtes Setup trotz geoeffneter Boersen (Xetra und US-Markt seit 15:30 MESZ offen): Die Marktbewegungen sind breit makrogetrieben (Oelpreis, Renditen, Iran-Unsicherheit) statt einzeltitelspezifische Sell-the-news-Ueberreaktionen wie im erfolgreichen AMD-/SpaceX-/Palantir-Muster. Bitcoin und Solana verharren weiterhin unter ihren jeweiligen Widerstandszonen vor den morgigen US-CPI-Daten, kein bestaetigter Ausbruch. Gold wird mit intaktem, wenn auch leicht schwaecherem Gewinn (+2,62% vs. +2,85% zuvor) unveraendert weitergehalten, da der mehrtaegige Aufwaertstrend insgesamt intakt bleibt.",
     "positionIds": [
       "pos-0004"
     ],
-    "portfolioValueEnd": 514.26,
+    "portfolioValueEnd": 513.09,
     "updates": [
       {
         "time": "00:15",
@@ -569,6 +569,11 @@
         "time": "14:30",
         "note": "Keine Aenderung; Gold aktualisiert (~4.400 USD/+2,85%). S&P-Futures leicht fester vor Handelsstart, DAX seitwaerts. Bitcoin/Solana unveraendert unter ihren Widerstandszonen. Intel -4% nach Kapitalerhoehung (Verwaesserung, kein Dip-Setup) - kein neuer Kauf",
         "portfolioValue": 514.26
+      },
+      {
+        "time": "15:36",
+        "note": "Keine Aenderung; Gold leicht zurueckgesetzt (~4.390 USD/+2,62%). US-Handel soeben gestartet (15:30 MESZ), Verluste breit makrogetrieben (Oelpreis/Renditen) statt Einzeltitel-Ueberreaktion, kein Dip-Setup. Bitcoin/Solana unveraendert unter ihren Widerstandszonen vor CPI morgen - kein neuer Kauf trotz freiem Kapital von ca. 6.460,66 EUR",
+        "portfolioValue": 513.09
       }
     ]
   }
