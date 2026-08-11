@@ -487,13 +487,13 @@
   },
   {
     "date": "2026-08-11",
-    "marketOverview": "Dienstag, spaeter Nachmittag (Stand ca. 16:22 MESZ): US-Handel laeuft seit 15:30 MESZ, Verluste bleiben breit makrogetrieben (Oelpreis nahe 88-90 USD/Barrel wegen US-Iran-Spannungen, 10-Jahres-Rendite erhoeht) statt einzeltitelspezifische Ueberreaktion. Gold leicht zurueckgesetzt auf ca. 4.370 USD/oz (+2,15% seit Kauf) nach Tageshoch. Bitcoin unveraendert ~64.000-64.300 USD, Solana ~76-78 USD, beide weiterhin unter ihren Widerstandszonen vor den US-CPI-Daten morgen. CoreWeave (CRWV) und Super Micro (SMCI) melden Zahlen erst nach Handelsschluss heute Abend - noch keine Kursreaktion zu bewerten, daher keine aktuelle Gelegenheit.",
-    "decision": "Keine neue Position, keine Verkaeufe in diesem Lauf. Gold (pos-0004) bleibt einzige offene Position, Kurs auf 4.370,00 USD (+2,15%) aktualisiert. Freies Kapital von weiterhin ca. 6.460,66 EUR bleibt mangels ueberzeugender Gelegenheit ungenutzt.",
-    "reasoning": "Kein bestaetigtes Setup trotz geoeffneter Boersen: Die Marktbewegungen bleiben breit makrogetrieben (Oelpreis, Renditen, Iran-Unsicherheit) statt einzeltitelspezifische Sell-the-news-Ueberreaktionen wie im erfolgreichen AMD-/SpaceX-/Palantir-Muster. CoreWeave/Super-Micro-Zahlen kommen erst nach Handelsschluss - kein Trade auf noch nicht erfolgte Reaktion. Bitcoin und Solana verharren weiterhin unter ihren jeweiligen Widerstandszonen vor den morgigen US-CPI-Daten, kein bestaetigter Ausbruch. Gold wird mit intaktem Mehrtages-Aufwaertstrend unveraendert weitergehalten. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "marketOverview": "Dienstag, spaeter Nachmittag (Stand ca. 17:20 MESZ): US-Indizes leicht im Plus (S&P 500 +0,13%, Dow +0,10%, Nasdaq +0,28%), Oel bleibt mit Brent nahe 89-90 USD/Barrel wegen des festgefahrenen Hormuz-Patts (Iran lehnt direkte Gespraeche waehrend der US-Blockade weiterhin ab) volatil, insgesamt aber breit makrogetrieben statt einzeltitelspezifisch. Gold konsolidiert nach dem Tageshoch bei ca. 4.380 USD/oz (+2,38% seit Kauf). Bitcoin unveraendert ~64.000-64.300 USD, Solana ~76-78 USD, beide weiterhin unter ihren Widerstandszonen vor den US-CPI-Daten morgen. CoreWeave (CRWV) und Super Micro (SMCI) melden Zahlen weiterhin erst nach Handelsschluss heute Abend - noch keine Kursreaktion zu bewerten.",
+    "decision": "Keine neue Position, keine Verkaeufe in diesem Lauf. Gold (pos-0004) bleibt einzige offene Position, Kurs auf 4.380,00 USD (+2,38%) aktualisiert. Freies Kapital von weiterhin ca. 6.460,66 EUR bleibt mangels ueberzeugender Gelegenheit ungenutzt.",
+    "reasoning": "Kein bestaetigtes Setup trotz geoeffneter Boersen: Die Marktbewegungen bleiben breit makrogetrieben (Oelpreis, Renditen, Hormuz-Unsicherheit) statt einzeltitelspezifische Sell-the-news-Ueberreaktionen wie im erfolgreichen AMD-/SpaceX-/Palantir-Muster. CoreWeave/Super-Micro-Zahlen kommen erst nach Handelsschluss - kein Trade auf noch nicht erfolgte Reaktion. Bitcoin und Solana verharren weiterhin unter ihren jeweiligen Widerstandszonen vor den morgigen US-CPI-Daten, kein bestaetigter Ausbruch. Gold wird mit intaktem Mehrtages-Aufwaertstrend unveraendert weitergehalten. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [
       "pos-0004"
     ],
-    "portfolioValueEnd": 510.76,
+    "portfolioValueEnd": 511.91,
     "updates": [
       {
         "time": "00:15",
@@ -579,6 +579,11 @@
         "time": "16:22",
         "note": "Keine Aenderung; Gold aktualisiert (~4.370 USD/+2,15%). CoreWeave/Super Micro melden Zahlen erst nach Handelsschluss heute Abend, noch keine Reaktion handelbar - kein neuer Kauf trotz freiem Kapital von ca. 6.460,66 EUR",
         "portfolioValue": 510.76
+      },
+      {
+        "time": "17:20",
+        "note": "Keine Aenderung; Gold aktualisiert (~4.380 USD/+2,38%). US-Indizes leicht im Plus, breit makrogetrieben (Oel/Hormuz-Patt) statt Einzeltitel-Ueberreaktion. Bitcoin/Solana weiter unter Widerstand vor CPI morgen, CoreWeave/SMCI-Zahlen noch ausstehend - kein neuer Kauf trotz freiem Kapital von ca. 6.460,66 EUR",
+        "portfolioValue": 511.91
       }
     ]
   }
