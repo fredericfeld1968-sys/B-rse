@@ -487,13 +487,13 @@
   },
   {
     "date": "2026-08-11",
-    "marketOverview": "Dienstag, kurz nach 8 Uhr MESZ: US-Boersen und Xetra weiterhin geschlossen (Oeffnung Xetra 9:00 MESZ). Gold notiert bei ca. 4.433,74 USD/oz (+3,64% seit Kauf), gestuetzt durch anhaltend hohe Volatilitaetserwartungen vor CPI (12.08.), PPI und weiteren US-Konjunkturdaten sowie schwindende Hormus-Deal-Hoffnungen. Bitcoin bei ca. 63.980 USD weiterhin unter der Widerstandszone 65.300-66.000 USD ohne bestaetigten Ausbruch. Solana bei ca. 76,14-76,62 USD (-1,10% 24h) weiterhin unter Widerstand 77,37 USD. Der Markt bleibt vor dem morgigen US-CPI-Bericht (Konsens 3,4% YoY, vorher 3,5%) insgesamt abwartend - keine neuen marktbewegenden Nachrichten seit dem 07:17-Lauf.",
-    "decision": "Tagesbudget-Gutschrift fuer den 11.08. bereits um 00:15 erfolgt (siehe capital.json, unveraendert). Gold (pos-0004) bleibt als einzige offene Position unveraendert gehalten, Kurs auf ca. 4.433,74 USD (+3,64%) aktualisiert. Kein neuer Kauf: Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten nicht handelbar, und Krypto liefert mit Bitcoin/Solana weiterhin unter unbestaetigtem Widerstand keine ueberzeugende Kaufgelegenheit vor den CPI-Daten morgen.",
-    "reasoning": "Risikoprofil \"spekulativ\" mit erlaubtem kurzfristigem Trading, aber Kaufentscheidungen bleiben an eine ueberzeugende, bestaetigte Konstellation gebunden. Bitcoin bleibt unter seiner Widerstandszone ohne bestaetigten Ausbruch, Solana testet weiterhin ohne bestaetigten Ausbruch die Zone unter 77,37 USD; der Markt bleibt vor dem CPI-Bericht morgen tendenziell abwartend. Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten ohnehin nicht handelbar (Kursaktualisierung bei Gold ist reine Marktbewertung, kein Handel). Gold wird als einzige offene Position mit weiterhin intaktem mehrtaegigem Aufwaertstrend (zusaetzlich gestuetzt durch schwindende Hormus-Deal-Hoffnungen und steigende Oelpreise) unveraendert weitergehalten. Keine Position verstoesst gegen Ausschlusslisten aus den Einstellungen; freies Kapital von ca. 6.460,66 EUR bleibt mangels bestaetigter Krypto-Gelegenheit ungenutzt.",
+    "marketOverview": "Dienstag, kurz nach 9 Uhr MESZ: Xetra hat um 9:00 MESZ eroeffnet, DAX bewegt sich nahe Rekordniveau (ca. 26.400-26.450 Punkte) in ruhigen Bahnen ohne grosse Gewinnmitnahmen, US-Boersen oeffnen erst nachmittags. Gold notiert weiterhin fest um 4.430 USD/oz (+3,55% seit Kauf), gestuetzt durch Volatilitaetserwartungen vor dem US-CPI-Bericht morgen (12.08., Konsens 3,4% YoY) sowie schwindende Hormuz-Deal-Hoffnungen (Iran droht laut juengsten Berichten weiterhin mit Sonderbedingungen trotz Fortschritten mit Oman). Bitcoin bei ca. 63.980 USD weiterhin unter der Widerstandszone 65.300-66.000 USD, Solana bei ca. 76,14 USD weiterhin unter Widerstand 77,37 USD - keine neuen marktbewegenden Nachrichten seit dem 08:21-Lauf.",
+    "decision": "Tagesbudget-Gutschrift fuer den 11.08. bereits um 00:15 erfolgt (siehe capital.json, unveraendert). Gold (pos-0004) bleibt als einzige offene Position unveraendert gehalten, Kurs auf ca. 4.430 USD (+3,55%) aktualisiert. Kein neuer Kauf trotz nun geoeffneter Xetra: DAX bewegt sich nahe Rekordhoch ohne erkennbaren Dip/Ueberreaktions-Setup, US-Boersen weiterhin geschlossen, und Krypto liefert mit Bitcoin/Solana weiterhin unter unbestaetigtem Widerstand keine ueberzeugende Kaufgelegenheit vor den CPI-Daten morgen.",
+    "reasoning": "Risikoprofil spekulativ erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit (Overreaction trotz starker Fundamentaldaten oder bestaetigter technischer Ausbruch). Die zuletzt kursierenden Einzelwert-Dips (Western Digital, Datadog, Honeywell, UWM, Peloton) sind bereits mehrere Tage alte Nachrichten und kein frischer Katalysator. DAX nahe Rekordhoch bietet kein Dip-Setup, Bitcoin/Solana bleiben unveraendert unter ihren Widerstandszonen, der Markt verhaelt sich vor dem morgigen CPI-Bericht insgesamt abwartend. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen; freies Kapital von ca. 6.460,66 EUR bleibt mangels ueberzeugender Gelegenheit ungenutzt.",
     "positionIds": [
       "pos-0004"
     ],
-    "portfolioValueEnd": 518.20,
+    "portfolioValueEnd": 517.76,
     "updates": [
       {
         "time": "00:15",
@@ -538,7 +538,12 @@
       {
         "time": "08:21",
         "note": "Keine Aenderung; Gold aktualisiert (~4.433,74 USD/+3,64%). Bitcoin unveraendert ~63.980 USD weiterhin unter Widerstand 65.300-66.000 USD, Solana unveraendert ~76,14-76,62 USD weiterhin unter Widerstand 77,37 USD - kein ueberzeugender Krypto-Kauf-Trigger vor CPI-Daten morgen, Xetra oeffnet erst um 9:00 MESZ",
-        "portfolioValue": 518.20
+        "portfolioValue": 518.2
+      },
+      {
+        "time": "09:16",
+        "note": "Keine Aenderung; Gold aktualisiert (~4.430 USD/+3,55%). Xetra seit 9:00 MESZ geoeffnet, DAX nahe Rekordhoch ohne Dip-Setup; Bitcoin unveraendert ~63.980 USD, Solana unveraendert ~76,14 USD, beide weiterhin unter ihren Widerstandszonen - kein ueberzeugender Kauf-Trigger vor CPI-Daten morgen",
+        "portfolioValue": 517.76
       }
     ]
   }
