@@ -616,5 +616,22 @@
         "portfolioValue": 513.09
       }
     ]
+  },
+  {
+    "date": "2026-08-12",
+    "marketOverview": "Mittwoch, kurz nach Mitternacht (Stand 00:14 MESZ): US-Boerse und Xetra bleiben bis zum Vormittag geschlossen, handelbar ist aktuell nur Krypto. Gold notiert bei ca. 4.396 USD/oz (+2,77% seit Kauf) nahe seines juengsten Hochs. Bitcoin haelt sich unter 64.000-65.000 USD (Range 63.766-65.000 USD) und wartet auf die heutigen US-CPI-Daten (14:30 MESZ) als naechsten Katalysator - ein hoeherer Ausbruch oder ein Rueckfall unter die 63.700-USD-Supportzone haengt massgeblich vom Inflationsbericht ab. Solana pendelt weiterhin um 75,6-76 USD ohne bestaetigten Ausbruch ueber dem Widerstand bei 77,37 USD.",
+    "decision": "Tagesbudget-Gutschrift fuer den 12.08. erfolgt (+1.000 EUR, freies Kapital jetzt ca. 7.460,66 EUR). Gold (pos-0004) bleibt einzige offene Position, Kurs auf 4.396,36 USD (+2,77%) aktualisiert. Kein neuer Kauf im ersten Lauf des Tages: Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten nicht handelbar, Krypto (Bitcoin/Solana) bietet weiterhin keinen bestaetigten Ausbruch so kurz vor den heutigen CPI-Daten.",
+    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Bitcoin bleibt in seiner Range unter der Widerstandszone 65.300-66.000 USD gefangen, Solana testet weiterhin erfolglos den Widerstand bei 77,37 USD - beide ohne neuen Katalysator vor der CPI-Veroeffentlichung um 14:30 MESZ, ein verfrueher Einstieg vor diesem Volatilitaets-Ereignis waere kein bestaetigtes Setup. Gold wird mit intaktem Aufwaertstrend unveraendert weitergehalten. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "positionIds": [
+      "pos-0004"
+    ],
+    "portfolioValueEnd": 513.83,
+    "updates": [
+      {
+        "time": "00:14",
+        "note": "Tagesbudget-Gutschrift +1.000 EUR (freies Kapital jetzt ca. 7.460,66 EUR); neuer Handelstag (Mittwoch) begonnen, Boersen weiterhin geschlossen; Gold auf 4.396,36 USD aktualisiert (+2,77%); Bitcoin (~63.800-64.000 USD) und Solana (~75,6-76 USD) weiterhin unter ihren Widerstandszonen vor den heutigen CPI-Daten - kein Kauf",
+        "portfolioValue": 513.83
+      }
+    ]
   }
 ]
