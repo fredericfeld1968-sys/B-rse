@@ -487,13 +487,13 @@
   },
   {
     "date": "2026-08-11",
-    "marketOverview": "Dienstag, spaet abends (Stand ca. 22:13 MESZ): US-Boerse (NYSE/Nasdaq) und Xetra sind seit 22:00 bzw. 17:30 MESZ geschlossen, daher heute Nacht nur Krypto handelbar. Gold notiert bei ca. 4.373 USD/oz (+2,2% seit Kauf), leichte Konsolidierung vom Tageshoch, Mehrwochen-Aufwaertstrend bleibt intakt. Bitcoin ist auf ca. 63.900-64.300 USD zurueckgefallen, weiterhin klar unter der Widerstandszone 65.300-66.000 USD (Ausbruch braeuchte 68.500-70.000 USD zur Bestaetigung); Marktbeobachter sehen den Kryptomarkt vor den morgigen US-CPI-Daten in einer abwartenden Konsolidierungsphase (Volatilitaetsindex auf Jahrestief). Solana pendelt uneinheitlich zwischen 75,2 und 76,1 USD, weiterhin ohne bestaetigten Schlusskurs ueber dem Widerstand bei 77,37 USD. CoreWeave (CRWV) und Super Micro (SMCI) melden ihre Zahlen erst gegen 23:00 MESZ - fuer den aktuellen Lauf ohnehin nicht relevant, da Aktien nach Handelsschluss nicht handelbar sind.",
-    "decision": "Keine neue Position, keine Verkaeufe im gesamten bisherigen Tagesverlauf (23. Lauf des Tages). Gold (pos-0004) bleibt einzige offene Position, Kurs auf ca. 4.373 USD (+2,22%) aktualisiert. Freies Kapital von weiterhin ca. 6.460,66 EUR bleibt mangels ueberzeugender Gelegenheit ungenutzt.",
-    "reasoning": "Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten nicht handelbar (Xetra und US-Boerse beide geschlossen) - Gold-Position wird nur zum Marktwert aktualisiert, nicht neu gehandelt. Einzig moegliche Handlung waere Krypto: Bitcoin bleibt deutlich unter seiner Widerstandszone 65.300-66.000 USD, Solana verharrt weiterhin unter dem unbestaetigten Widerstand bei 77,37 USD ohne klaren Ausbruch - kein wirklich ueberzeugendes Setup vor den morgigen US-CPI-Daten. Gold wird mit intaktem Mehrwochen-Aufwaertstrend unveraendert weitergehalten. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "marketOverview": "Dienstag, spaet abends (Stand ca. 23:14 MESZ): US-Boerse (NYSE/Nasdaq) und Xetra sind seit 22:00 bzw. 17:30 MESZ geschlossen, daher aktuell nur Krypto handelbar. Gold notiert bei ca. 4.390 USD/oz (+2,6% seit Kauf), Mehrwochen-Aufwaertstrend bleibt vor den morgigen US-CPI-Daten (12.08., 8:30 ET / 14:30 MESZ) intakt. Bitcoin scheiterte am Nachmittag knapp an der Widerstandszone bei rund 65.500 USD und fiel wieder auf ca. 64.000-64.900 USD zurueck - ein nachhaltiger 4h-Schluss ueber 65.000 USD fehlt weiterhin zur Bestaetigung eines Ausbruchs. Solana pendelt weiterhin um 75-76 USD ohne bestaetigten Ausbruch ueber dem Widerstand bei 77,37 USD. Am Altcoin-Markt zeigen sich nur selektive Einzelbewegungen (u.a. Cardano +10,5% auf Wochensicht), kein breiter Rally-Trigger. CoreWeave/Super Micro-Zahlen (Call ca. 23:00 MESZ) noch ohne handelbare Marktreaktion.",
+    "decision": "Keine neue Position, keine Verkaeufe im gesamten bisherigen Tagesverlauf (24. Lauf des Tages). Gold (pos-0004) bleibt einzige offene Position, Kurs auf ca. 4.390 USD (+2,62%) aktualisiert. Freies Kapital von weiterhin ca. 6.460,66 EUR bleibt mangels ueberzeugender Gelegenheit ungenutzt.",
+    "reasoning": "Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten nicht handelbar (Xetra und US-Boerse beide geschlossen) - Gold-Position wird nur zum Marktwert aktualisiert, nicht neu gehandelt. Einzig moegliche Handlung waere Krypto: Bitcoin bleibt trotz kurzzeitigem Test der 65.500 USD-Marke ohne bestaetigten Ausbruch (Rueckfall unter 65.000 USD), Solana verharrt weiterhin unter dem unbestaetigten Widerstand bei 77,37 USD - kein wirklich ueberzeugendes Setup so kurz vor den morgigen US-CPI-Daten. Gold wird mit intaktem Mehrwochen-Aufwaertstrend unveraendert weitergehalten. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [
       "pos-0004"
     ],
-    "portfolioValueEnd": 511.1,
+    "portfolioValueEnd": 513.09,
     "updates": [
       {
         "time": "00:15",
@@ -609,6 +609,11 @@
         "time": "22:13",
         "note": "Keine Aenderung; US- und Xetra-Handel bereits geschlossen, Gold auf ~4.373 USD/+2,22% aktualisiert. Bitcoin auf ~63.900-64.300 USD zurueckgefallen (weiterhin unter Widerstand 65.300-66.000 USD), Solana ~75,2-76,1 USD weiterhin unter unbestaetigtem Widerstand 77,37 USD - kein ueberzeugender Krypto-Kauf-Trigger vor CPI-Daten morgen, daher kein neuer Kauf trotz freiem Kapital von ca. 6.460,66 EUR",
         "portfolioValue": 511.1
+      },
+      {
+        "time": "23:14",
+        "note": "Keine Aenderung; Gold auf ~4.390 USD/+2,62% aktualisiert. Bitcoin scheiterte erneut an der Widerstandszone ~65.500 USD und fiel auf ca. 64.000-64.900 USD zurueck, Solana unveraendert ~75-76 USD unter Widerstand 77,37 USD - kein ueberzeugender Krypto-Kauf-Trigger so kurz vor den morgigen US-CPI-Daten, daher kein neuer Kauf trotz freiem Kapital von ca. 6.460,66 EUR",
+        "portfolioValue": 513.09
       }
     ]
   }
