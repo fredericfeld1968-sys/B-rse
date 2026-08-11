@@ -487,13 +487,13 @@
   },
   {
     "date": "2026-08-11",
-    "marketOverview": "Dienstag, Nachmittag (Stand ca. 15:36 MESZ, kurz nach US-Handelsstart um 15:30 MESZ): S&P 500 pendelt seitwaerts nahe Rekordniveau (Montagsschluss ~7.753 Punkte, -0,06%), DAX weiterhin nahe Allzeithoch (~26.311 Punkte). Fuehrende Verlierer breit gestreut (Nvidia -2,79%, Travelers, Sherwin-Williams) im Zuge steigender Oelpreise (Brent nahe 90 USD/Barrel wegen US-Iran-Spannungen) und einer 10-Jahres-Rendite ueber 4,72% - keine einzeltitelspezifische Ueberreaktion. Gold pendelt weiterhin fest um 4.390 USD/oz (+2,62% seit Kauf). Bitcoin unveraendert ~64.000-64.200 USD, Solana ~76-78 USD, beide weiterhin unter ihren Widerstandszonen vor den US-CPI-Daten morgen. Riot Platforms (+16,5%, Anthropic-Rechenzentrums-Deal) und Plug Power (+13,3%, starke Zahlen) als bereits vollstaendig eingepreiste Nachrichtenreaktionen ohne Dip-Setup eingeordnet.",
-    "decision": "Keine neue Position, keine Verkaeufe in diesem Lauf. Gold (pos-0004) bleibt einzige offene Position, Kurs auf 4.390,00 USD (+2,62%) aktualisiert. Freies Kapital von weiterhin ca. 6.460,66 EUR bleibt mangels ueberzeugender Gelegenheit ungenutzt.",
-    "reasoning": "Kein bestaetigtes Setup trotz geoeffneter Boersen (Xetra und US-Markt seit 15:30 MESZ offen): Die Marktbewegungen sind breit makrogetrieben (Oelpreis, Renditen, Iran-Unsicherheit) statt einzeltitelspezifische Sell-the-news-Ueberreaktionen wie im erfolgreichen AMD-/SpaceX-/Palantir-Muster. Bitcoin und Solana verharren weiterhin unter ihren jeweiligen Widerstandszonen vor den morgigen US-CPI-Daten, kein bestaetigter Ausbruch. Gold wird mit intaktem, wenn auch leicht schwaecherem Gewinn (+2,62% vs. +2,85% zuvor) unveraendert weitergehalten, da der mehrtaegige Aufwaertstrend insgesamt intakt bleibt.",
+    "marketOverview": "Dienstag, spaeter Nachmittag (Stand ca. 16:22 MESZ): US-Handel laeuft seit 15:30 MESZ, Verluste bleiben breit makrogetrieben (Oelpreis nahe 88-90 USD/Barrel wegen US-Iran-Spannungen, 10-Jahres-Rendite erhoeht) statt einzeltitelspezifische Ueberreaktion. Gold leicht zurueckgesetzt auf ca. 4.370 USD/oz (+2,15% seit Kauf) nach Tageshoch. Bitcoin unveraendert ~64.000-64.300 USD, Solana ~76-78 USD, beide weiterhin unter ihren Widerstandszonen vor den US-CPI-Daten morgen. CoreWeave (CRWV) und Super Micro (SMCI) melden Zahlen erst nach Handelsschluss heute Abend - noch keine Kursreaktion zu bewerten, daher keine aktuelle Gelegenheit.",
+    "decision": "Keine neue Position, keine Verkaeufe in diesem Lauf. Gold (pos-0004) bleibt einzige offene Position, Kurs auf 4.370,00 USD (+2,15%) aktualisiert. Freies Kapital von weiterhin ca. 6.460,66 EUR bleibt mangels ueberzeugender Gelegenheit ungenutzt.",
+    "reasoning": "Kein bestaetigtes Setup trotz geoeffneter Boersen: Die Marktbewegungen bleiben breit makrogetrieben (Oelpreis, Renditen, Iran-Unsicherheit) statt einzeltitelspezifische Sell-the-news-Ueberreaktionen wie im erfolgreichen AMD-/SpaceX-/Palantir-Muster. CoreWeave/Super-Micro-Zahlen kommen erst nach Handelsschluss - kein Trade auf noch nicht erfolgte Reaktion. Bitcoin und Solana verharren weiterhin unter ihren jeweiligen Widerstandszonen vor den morgigen US-CPI-Daten, kein bestaetigter Ausbruch. Gold wird mit intaktem Mehrtages-Aufwaertstrend unveraendert weitergehalten. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [
       "pos-0004"
     ],
-    "portfolioValueEnd": 513.09,
+    "portfolioValueEnd": 510.76,
     "updates": [
       {
         "time": "00:15",
@@ -574,6 +574,11 @@
         "time": "15:36",
         "note": "Keine Aenderung; Gold leicht zurueckgesetzt (~4.390 USD/+2,62%). US-Handel soeben gestartet (15:30 MESZ), Verluste breit makrogetrieben (Oelpreis/Renditen) statt Einzeltitel-Ueberreaktion, kein Dip-Setup. Bitcoin/Solana unveraendert unter ihren Widerstandszonen vor CPI morgen - kein neuer Kauf trotz freiem Kapital von ca. 6.460,66 EUR",
         "portfolioValue": 513.09
+      },
+      {
+        "time": "16:22",
+        "note": "Keine Aenderung; Gold aktualisiert (~4.370 USD/+2,15%). CoreWeave/Super Micro melden Zahlen erst nach Handelsschluss heute Abend, noch keine Reaktion handelbar - kein neuer Kauf trotz freiem Kapital von ca. 6.460,66 EUR",
+        "portfolioValue": 510.76
       }
     ]
   }
