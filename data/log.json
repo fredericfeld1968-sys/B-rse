@@ -619,13 +619,13 @@
   },
   {
     "date": "2026-08-12",
-    "marketOverview": "Mittwoch, 14:28 MESZ: US-CPI-Bericht fuer Juli wird just jetzt veroeffentlicht (8:30 Uhr ET / 14:30 MESZ), belastbare Reaktionsdaten liegen im Markt noch nicht vor. Vorab-Konsens: Kernrate 3,4% YoY (leicht unter Vormonat 3,5%), Kern-CPI 2,5% YoY. US-Futures vor der Veroeffentlichung leicht positiv (S&P +0,2%, Nasdaq-100 +0,6%), DAX/FTSE/CAC seitwaerts. Gold notiert weiter fest bei ca. 4.407 USD/oz (+3,02% seit Kauf), gestuetzt von Nahost-Spannungen. Bitcoin (~63.600-64.000 USD) und Solana (~75,6-76,2 USD) bewegen sich weiterhin unterhalb ihrer jeweiligen Widerstandszonen ohne bestaetigten Ausbruch.",
-    "decision": "Keine Aenderung im fuenfzehnten Lauf des Tages. Gold (pos-0004) bleibt einzige offene Position, Kurs auf 4.407,41 USD (+3,02%) aktualisiert. Kein neuer Kauf: CPI-Veroeffentlichung faellt exakt auf diesen Lauf, eine belastbare Marktreaktion liegt noch nicht vor - ein Einstieg auf reiner Vorab-Erwartung waere keine bestaetigte, ueberzeugende Gelegenheit. Krypto weiterhin ohne bestaetigten Ausbruch ueber die jeweiligen Widerstaende.",
-    "reasoning": "Risikoprofil spekulativ erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende, bestaetigte Gelegenheit. Da der CPI-Print in diesem Moment veroeffentlicht wird, aber noch keine verifizierte Marktreaktion vorliegt, wird bewusst kein Kauf auf blosse Erwartung hin getaetigt - die Reaktion (Aktien, Gold, Krypto) wird im naechsten Lauf ausgewertet. Gold wird mit intaktem Aufwaertstrend unveraendert weitergehalten. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen. Freies Kapital von ca. 7.460,66 EUR bleibt mangels bestaetigter Gelegenheit ungenutzt.",
+    "marketOverview": "Mittwoch, 15:26 MESZ: US-CPI fuer Juli kam wie erwartet rein (3,4% YoY, Kernrate 2,5%), Maerkte reagierten mit moderater Erleichterung (Dow/S&P/Nasdaq leicht im Plus). Gold notiert weiterhin fest bei ca. 4.408,50 USD/oz (+3,05% seit Kauf), gestuetzt von Nahost-Spannungen und der leicht abgeschwaechten Zinserwartung. Bitcoin (~63.700-64.000 USD) und Solana (~75,6-76,2 USD) bewegen sich weiterhin unterhalb ihrer jeweiligen Widerstandszonen ohne bestaetigten Ausbruch.",
+    "decision": "Keine Aenderung im sechzehnten Lauf des Tages. Gold (pos-0004) bleibt einzige offene Position, Kurs auf 4.408,50 USD (+3,05%) aktualisiert. Kein neuer Kauf: Die CPI-Reaktion fiel moderat aus (kein Ueberraschungsmoment, da In-Line-Print), Einzelwerte mit echten Overreaction-Setups wurden nicht gefunden, Krypto bleibt ohne bestaetigten Ausbruch.",
+    "reasoning": "Risikoprofil spekulativ erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende, bestaetigte Gelegenheit. Der CPI-Print kam exakt im Rahmen der Erwartungen (3,4% YoY) herein, die Marktreaktion blieb entsprechend moderat statt ueberraschend stark - kein Ueberreaktions-Setup wie bei den bisherigen erfolgreichen Trades (AMD, SpaceX, Palantir). Bekannte Einzelwert-Abverkaeufe (Honeywell, UWM, On Holding) stammen bereits von vorherigen Handelstagen und sind kein frischer Kauf-Trigger mehr. Gold wird mit intaktem Aufwaertstrend unveraendert weitergehalten. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen. Freies Kapital von ca. 7.460,66 EUR bleibt mangels bestaetigter Gelegenheit ungenutzt.",
     "positionIds": [
       "pos-0004"
     ],
-    "portfolioValueEnd": 515.12,
+    "portfolioValueEnd": 515.25,
     "updates": [
       {
         "time": "00:14",
@@ -701,6 +701,11 @@
         "time": "14:28",
         "note": "Keine Aenderung; Gold aktualisiert (~4.407,41 USD/+3,02%). CPI-Veroeffentlichung faellt genau auf diesen Lauf, Marktreaktion noch nicht bestaetigt verfuegbar - kein Kauf auf blosse Erwartung, trotz freiem Kapital von ca. 7.460,66 EUR",
         "portfolioValue": 515.12
+      },
+      {
+        "time": "15:26",
+        "note": "Keine Aenderung; Juli-CPI kam wie erwartet rein (3,4% YoY, Kernrate 2,5%), Maerkte reagierten nur moderat positiv (Dow/S&P/Nasdaq leicht im Plus). Gold auf ~4.408,50 USD/+3,05% aktualisiert. Bitcoin haelt sich um ~64.000 USD, Solana ~75,6-76,2 USD, beide weiterhin unter ihren Widerstandszonen ohne bestaetigten Ausbruch. Keine ueberzeugende Overreaction-Gelegenheit bei Einzelwerten gefunden (Honeywell/UWM/On Holding-Abverkaeufe bereits vom Vortag/aelter) - kein neuer Kauf trotz freiem Kapital von ca. 7.460,66 EUR",
+        "portfolioValue": 515.25
       }
     ]
   }
