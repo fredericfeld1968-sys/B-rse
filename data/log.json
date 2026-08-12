@@ -619,13 +619,13 @@
   },
   {
     "date": "2026-08-12",
-    "marketOverview": "Mittwoch, 15:26 MESZ: US-CPI fuer Juli kam wie erwartet rein (3,4% YoY, Kernrate 2,5%), Maerkte reagierten mit moderater Erleichterung (Dow/S&P/Nasdaq leicht im Plus). Gold notiert weiterhin fest bei ca. 4.408,50 USD/oz (+3,05% seit Kauf), gestuetzt von Nahost-Spannungen und der leicht abgeschwaechten Zinserwartung. Bitcoin (~63.700-64.000 USD) und Solana (~75,6-76,2 USD) bewegen sich weiterhin unterhalb ihrer jeweiligen Widerstandszonen ohne bestaetigten Ausbruch.",
-    "decision": "Keine Aenderung im sechzehnten Lauf des Tages. Gold (pos-0004) bleibt einzige offene Position, Kurs auf 4.408,50 USD (+3,05%) aktualisiert. Kein neuer Kauf: Die CPI-Reaktion fiel moderat aus (kein Ueberraschungsmoment, da In-Line-Print), Einzelwerte mit echten Overreaction-Setups wurden nicht gefunden, Krypto bleibt ohne bestaetigten Ausbruch.",
-    "reasoning": "Risikoprofil spekulativ erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende, bestaetigte Gelegenheit. Der CPI-Print kam exakt im Rahmen der Erwartungen (3,4% YoY) herein, die Marktreaktion blieb entsprechend moderat statt ueberraschend stark - kein Ueberreaktions-Setup wie bei den bisherigen erfolgreichen Trades (AMD, SpaceX, Palantir). Bekannte Einzelwert-Abverkaeufe (Honeywell, UWM, On Holding) stammen bereits von vorherigen Handelstagen und sind kein frischer Kauf-Trigger mehr. Gold wird mit intaktem Aufwaertstrend unveraendert weitergehalten. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen. Freies Kapital von ca. 7.460,66 EUR bleibt mangels bestaetigter Gelegenheit ungenutzt.",
+    "marketOverview": "Mittwoch, 16:23 MESZ: Maerkte reagieren weiterhin moderat positiv auf den in-line CPI-Bericht (Dow flach, S&P +0,3%, Nasdaq +0,7%). Gold klettert weiter auf ca. 4.424,44 USD/oz (+3,42% seit Kauf), nahe einem 10-Wochen-Hoch, gestuetzt von gesunkenen Zinserwartungen nach dem CPI-Print und anhaltenden Hormuz-Spannungen. Bitcoin (~64.085 USD) und Solana (~76,22 USD) bewegen sich weiterhin unterhalb ihrer Widerstandszonen (65.300-66.000 USD bzw. 77,37 USD) ohne bestaetigten Ausbruch.",
+    "decision": "Keine Aenderung im siebzehnten Lauf des Tages. Gold (pos-0004) bleibt einzige offene Position, Kurs auf 4.424,44 USD (+3,42%) aktualisiert. Kein neuer Kauf: US-Kernhandelszeit laeuft zwar, aber keine wirklich ueberzeugende Overreaction-Gelegenheit gefunden - der Sandisk-Abverkauf vom 05.08. hat sich laut aktuellen Kursdaten bereits deutlich erholt (kein frischer Trigger mehr), Honeywell/UWM/On Holding bleiben aeltere Nachrichten, Krypto bleibt ohne bestaetigten Ausbruch.",
+    "reasoning": "Risikoprofil spekulativ erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende, bestaetigte Gelegenheit. Trotz laufender US-Kernhandelszeit wurde kein frisches Overreaction-Setup wie bei AMD, SpaceX oder Palantir gefunden - der einzige geprueft Kandidat (Sandisk) ist bereits seit Tagen erholt. Gold bestaetigt mit +3,42% seit Kauf und Naeherung an ein 10-Wochen-Hoch weiterhin intaktes, ruhiges Momentum und wird unveraendert weitergehalten statt eines verfruehten Gewinnmitnahme. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen. Freies Kapital von ca. 7.460,66 EUR bleibt mangels bestaetigter Gelegenheit ungenutzt.",
     "positionIds": [
       "pos-0004"
     ],
-    "portfolioValueEnd": 515.25,
+    "portfolioValueEnd": 517.11,
     "updates": [
       {
         "time": "00:14",
@@ -706,6 +706,11 @@
         "time": "15:26",
         "note": "Keine Aenderung; Juli-CPI kam wie erwartet rein (3,4% YoY, Kernrate 2,5%), Maerkte reagierten nur moderat positiv (Dow/S&P/Nasdaq leicht im Plus). Gold auf ~4.408,50 USD/+3,05% aktualisiert. Bitcoin haelt sich um ~64.000 USD, Solana ~75,6-76,2 USD, beide weiterhin unter ihren Widerstandszonen ohne bestaetigten Ausbruch. Keine ueberzeugende Overreaction-Gelegenheit bei Einzelwerten gefunden (Honeywell/UWM/On Holding-Abverkaeufe bereits vom Vortag/aelter) - kein neuer Kauf trotz freiem Kapital von ca. 7.460,66 EUR",
         "portfolioValue": 515.25
+      },
+      {
+        "time": "16:23",
+        "note": "Keine Aenderung; Gold auf 4.424,44 USD/+3,42% aktualisiert, naehert sich einem 10-Wochen-Hoch. Sandisk-Abverkauf vom 05.08. bereits deutlich erholt (kein frischer Trigger mehr), Bitcoin ~64.085 USD und Solana ~76,22 USD weiterhin unter ihren Widerstandszonen - kein neuer Kauf trotz freiem Kapital von ca. 7.460,66 EUR und laufender US-Kernhandelszeit",
+        "portfolioValue": 517.11
       }
     ]
   }
