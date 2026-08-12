@@ -619,13 +619,13 @@
   },
   {
     "date": "2026-08-12",
-    "marketOverview": "Mittwoch, 19:11 MESZ: US-Indizes bauen die Nachmittagsgewinne nach dem in-line-CPI-Bericht weiter aus (S&P 500 +0,30%, Nasdaq +0,59%, Dow +0,11%), getragen von starken Einzelquartalszahlen (Nebius +16,5%) bei fortgesetzter Vorsicht im Enterprise-Software-Sektor (Workday -4%, Thomson Reuters -3,5%). Gold zieht weiter an auf ca. 4.432 USD/oz (+3,60% seit Kauf), nahe einem 10-Wochen-Hoch, gestuetzt von gesunkenen Zinserwartungen und anhaltenden Hormuz-Spannungen (USA/Iran weiterhin im Patt). Bitcoin (~64.200 USD) und Solana (~75,9-76,2 USD) bewegen sich weiterhin unterhalb ihrer Widerstandszonen (65.300-66.000 USD bzw. 77,37 USD) ohne bestaetigten Ausbruch.",
-    "decision": "Keine Aenderung im zwanzigsten Lauf des Tages. Gold (pos-0004) bleibt einzige offene Position, Kurs auf ca. 4.432 USD (+3,60%) aktualisiert. Kein neuer Kauf: Der Cerebras-Margendruck sowie die Rueckgaenge bei Workday/Thomson Reuters sind keine Overreaction-Setups mit klarer Erholungsthese wie zuvor bei AMD/SpaceX/Palantir, Krypto bleibt ohne bestaetigten Ausbruch.",
-    "reasoning": "Risikoprofil spekulativ erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende, bestaetigte Gelegenheit. Trotz laufender US-Kernhandelszeit wurde kein frisches Overreaction-Setup gefunden. Gold bestaetigt mit +3,60% seit Kauf weiterhin intaktes Momentum nahe einem 10-Wochen-Hoch und wird unveraendert weitergehalten. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen. Freies Kapital von ca. 7.460,66 EUR bleibt mangels bestaetigter Gelegenheit ungenutzt.",
+    "marketOverview": "Mittwoch, 20:13 MESZ: US-Indizes halten die Gewinne nach dem in-line-CPI-Bericht (S&P 500 +0,30%, Nasdaq +0,59%, Dow +0,11%), getragen von starken Einzelquartalszahlen (CoreWeave +18%, Cava +16%, SMCI +9%) bei fortgesetzter Vorsicht im Enterprise-Software-Sektor (Workday, Thomson Reuters, The Trade Desk nach Prognoseverfehlung deutlich schwaecher). Gold pendelt weiterhin nahe einem 10-Wochen-Hoch um 4.424 USD/oz (+3,42% seit Kauf), gestuetzt von gesunkenen Zinserwartungen und anhaltenden Hormuz-Spannungen (USA/Iran weiterhin im Patt). Bitcoin (~64.000-64.200 USD) und Solana (~75,6-76,2 USD) bewegen sich weiterhin unterhalb ihrer Widerstandszonen (65.300-66.000 USD bzw. 77,37 USD) ohne bestaetigten Ausbruch.",
+    "decision": "Keine Aenderung im einundzwanzigsten Lauf des Tages. Gold (pos-0004) bleibt einzige offene Position, Kurs auf ca. 4.424 USD (+3,42%) aktualisiert. Kein neuer Kauf: Die Rueckgaenge bei Workday/Thomson Reuters/The Trade Desk sind keine Overreaction-Setups mit klarer Erholungsthese wie zuvor bei AMD/SpaceX/Palantir, CoreWeave/Cava/SMCI sind bereits gelaufenes Momentum statt Dip-Setup, Krypto bleibt ohne bestaetigten Ausbruch.",
+    "reasoning": "Risikoprofil spekulativ erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende, bestaetigte Gelegenheit. Trotz laufender US-Kernhandelszeit (Xetra bereits geschlossen, US-Handel bis 22:00 MESZ) wurde kein frisches Overreaction-Setup gefunden. Gold bestaetigt weiterhin intaktes Momentum nahe einem 10-Wochen-Hoch und wird unveraendert weitergehalten. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen. Freies Kapital von ca. 7.460,66 EUR bleibt mangels bestaetigter Gelegenheit ungenutzt.",
     "positionIds": [
       "pos-0004"
     ],
-    "portfolioValueEnd": 518.0,
+    "portfolioValueEnd": 517.08,
     "updates": [
       {
         "time": "00:14",
@@ -726,6 +726,11 @@
         "time": "19:11",
         "note": "Keine Aenderung; Gold auf ca. 4.432 USD/+3,60% aktualisiert. CPI-Reaktion bestaetigt sich mit moderatem Anstieg der US-Indizes (S&P +0,30%, Nasdaq +0,59%), Nebius (+16,5%) und der Cerebras-Margenausblick sind Momentum-/Bewertungs-News ohne klares Dip-Setup. Bitcoin ~64.200 USD und Solana ~75,9-76,2 USD weiterhin unter ihren Widerstandszonen - kein neuer Kauf trotz freiem Kapital von ca. 7.460,66 EUR",
         "portfolioValue": 518.0
+      },
+      {
+        "time": "20:13",
+        "note": "Keine Aenderung; Gold auf ca. 4.424 USD/+3,42% aktualisiert (leichte Konsolidierung). CoreWeave (+18%), Cava (+16%) und SMCI (+9%) sind bereits gelaufenes Post-Earnings-Momentum, The-Trade-Desk-/Workday-/Thomson-Reuters-Abverkaeufe strukturell statt Sell-the-news. Bitcoin ~64.000-64.200 USD und Solana ~75,6-76,2 USD weiterhin unter ihren Widerstandszonen - kein neuer Kauf trotz freiem Kapital von ca. 7.460,66 EUR",
+        "portfolioValue": 517.08
       }
     ]
   }
