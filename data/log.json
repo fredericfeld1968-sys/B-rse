@@ -619,9 +619,9 @@
   },
   {
     "date": "2026-08-12",
-    "marketOverview": "Mittwoch, kurz nach 2 Uhr MESZ: US-Boerse und Xetra bleiben weiterhin geschlossen, handelbar ist aktuell nur Krypto. Gold notiert unveraendert bei ca. 4.368,61 USD/oz (+2,12% seit Kauf). Bitcoin haelt sich bei ca. 63.600-64.700 USD weiterhin unter der Widerstandszone 65.300-66.000 USD. Solana pendelt bei ca. 75,6-75,7 USD, leicht schwaecher als zuvor, weiterhin ohne bestaetigten Ausbruch ueber dem Widerstand bei 77,37 USD. Der Markt wartet weiterhin auf die heutigen US-CPI-Daten fuer Juli (8:30 ET/14:30 MESZ, noch rund 12 Stunden entfernt) als naechsten grossen Katalysator fuer Fed-Zinserwartungen.",
-    "decision": "Keine Aenderung im dritten Lauf des Tages. Gold (pos-0004) bleibt einzige offene Position, Kurs unveraendert bei 4.368,61 USD (+2,12%). Kein neuer Kauf: Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten nicht handelbar, Krypto (Bitcoin/Solana) bietet weiterhin keinen bestaetigten Ausbruch so weit vor den heutigen CPI-Daten.",
-    "reasoning": "Risikoprofil spekulativ erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Bitcoin bleibt in seiner Range unter der Widerstandszone 65.300-66.000 USD gefangen, Solana testet weiterhin erfolglos den Widerstand bei 77,37 USD, tendenziell sogar leicht schwaecher als beim letzten Check - beide ohne neuen Katalysator so weit vor der CPI-Veroeffentlichung um 14:30 MESZ. Gold wird mit intaktem Aufwaertstrend unveraendert weitergehalten. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "marketOverview": "Mittwoch, kurz nach 3 Uhr MESZ: US-Boerse und Xetra bleiben weiterhin geschlossen, handelbar ist aktuell nur Krypto. Gold notiert unveraendert bei ca. 4.368,61 USD/oz (+2,12% seit Kauf). Bitcoin haelt sich bei ca. 63.300-64.000 USD weiterhin unter der Widerstandszone 65.300-66.000 USD (Support bei 63.300/62.700 USD). Solana notiert bei ca. 76,6 USD, leicht erholt, aber weiterhin ohne bestaetigten Ausbruch ueber dem Widerstand bei 77,37 USD. Der Iran/Oman-Hormuz-Deal bleibt ohne finale Unterschrift (Iran verlangt weiterhin Sanktionslockerung/Reparationen). Die heutigen US-CPI-Daten fuer Juli (8:30 ET/14:30 MESZ, Konsens 3,4% YoY headline, 2,5% YoY Kern) sind noch gut 11 Stunden entfernt und bleiben der naechste grosse Katalysator.",
+    "decision": "Keine Aenderung im vierten Lauf des Tages. Gold (pos-0004) bleibt einzige offene Position, Kurs unveraendert bei 4.368,61 USD (+2,12%). Kein neuer Kauf: Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten nicht handelbar, Krypto (Bitcoin/Solana) bietet weiterhin keinen bestaetigten Ausbruch so weit vor den heutigen CPI-Daten.",
+    "reasoning": "Risikoprofil spekulativ erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Bitcoin bleibt unter der Widerstandszone 65.300-66.000 USD gefangen, Solana testet weiterhin erfolglos den Widerstand bei 77,37 USD ohne bestaetigten Schlusskurs darueber - beide ohne neuen Katalysator so weit vor der CPI-Veroeffentlichung um 14:30 MESZ. Gold wird mit intaktem Aufwaertstrend unveraendert weitergehalten. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen. Freies Kapital von ca. 7.460,66 EUR bleibt mangels bestaetigter Gelegenheit ungenutzt.",
     "positionIds": [
       "pos-0004"
     ],
@@ -640,6 +640,11 @@
       {
         "time": "02:16",
         "note": "Keine Aenderung; Gold unveraendert bei 4.368,61 USD (+2,12%). Bitcoin unveraendert ~63.600-64.700 USD unter Widerstand 65.300-66.000 USD, Solana leicht schwaecher auf ~75,6-75,7 USD unter Widerstand 77,37 USD. Weiterhin kein ueberzeugender Krypto-Kauf-Trigger, CPI-Daten noch rund 12 Stunden entfernt - kein neuer Kauf",
+        "portfolioValue": 510.59
+      },
+      {
+        "time": "03:12",
+        "note": "Keine Aenderung; Gold unveraendert bei 4.368,61 USD (+2,12%). Bitcoin ~63.300-64.000 USD weiterhin unter Widerstand 65.300-66.000 USD, Solana ~76,6 USD weiterhin unter Widerstand 77,37 USD. Kein neuer geopolitischer Katalysator (Hormuz-Deal weiter ohne Unterschrift), CPI-Daten noch ca. 11 Stunden entfernt - kein neuer Kauf",
         "portfolioValue": 510.59
       }
     ]
