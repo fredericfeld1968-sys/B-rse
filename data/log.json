@@ -619,13 +619,13 @@
   },
   {
     "date": "2026-08-12",
-    "marketOverview": "Mittwoch, 17:19 MESZ: US-Indizes bauen die Nachmittagsgewinne nach dem in-line CPI-Bericht leicht weiter aus (S&P +0,30%, Dow +0,11%, Nasdaq +0,59%, Russell 2000 +0,32%), gestuetzt von starken Einzelquartalszahlen (u.a. Nebius Group +16,5% nach AI-Infrastruktur-Zahlen) bei gleichzeitiger Vorsicht im Enterprise-Software-Sektor (Workday -4%). Gold klettert weiter auf ca. 4.432,76 USD/oz (+3,62% seit Kauf), nahe einem 10-Wochen-Hoch, gestuetzt von gesunkenen Zinserwartungen nach dem CPI-Print und anhaltenden Hormuz-Spannungen (Iran/Oman-Gespraeche laut Insidern ca. 50:50-Chance auf eine Einigung bis Freitag). Bitcoin (~64.085 USD) und Solana (~76,22 USD) bewegen sich weiterhin unterhalb ihrer Widerstandszonen (65.300-66.000 USD bzw. 77,37 USD) ohne bestaetigten Ausbruch.",
-    "decision": "Keine Aenderung im achtzehnten Lauf des Tages. Gold (pos-0004) bleibt einzige offene Position, Kurs auf 4.432,76 USD (+3,62%) aktualisiert. Kein neuer Kauf: US-Kernhandelszeit laeuft zwar, aber keine wirklich ueberzeugende Overreaction-Gelegenheit gefunden - Nebius' Kurssprung ist ein Momentum-Move ohne Dip-Setup, die zuvor geprueften Sell-the-news-Kandidaten (Sandisk, On Holding, NextEra) sind aeltere, bereits abgehakte Nachrichten, Krypto bleibt ohne bestaetigten Ausbruch.",
-    "reasoning": "Risikoprofil spekulativ erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende, bestaetigte Gelegenheit. Trotz laufender US-Kernhandelszeit wurde kein frisches Overreaction-Setup wie bei AMD, SpaceX oder Palantir gefunden. Gold bestaetigt mit +3,62% seit Kauf und Naeherung an ein 10-Wochen-Hoch weiterhin intaktes, ruhiges Momentum und wird unveraendert weitergehalten statt einer verfruehten Gewinnmitnahme. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen. Freies Kapital von ca. 7.460,66 EUR bleibt mangels bestaetigter Gelegenheit ungenutzt.",
+    "marketOverview": "Mittwoch, 18:18 MESZ: US-Indizes halten die Nachmittagsgewinne nach dem in-line CPI-Bericht (Nasdaq-100 +0,73%, S&P 500 +0,21%), getragen von starken Einzelquartalszahlen (CoreWeave +20%, SMCI +15% nach Umsatzausblick) bei gleichzeitiger Vorsicht im Enterprise-Software-Sektor. Gold konsolidiert nach einem Tageshoch von ca. 4.435 USD leicht auf ca. 4.415 USD/oz (+3,20% seit Kauf), weiterhin nahe einem 10-Wochen-Hoch, gestuetzt von gesunkenen Zinserwartungen und anhaltenden Hormuz-Spannungen (Iran/Oman nahe einer Teil-Einigung, aber Iran haelt an weiteren Bedingungen fest). Bitcoin (~64.085-64.194 USD) und Solana (~76,22 USD) bewegen sich weiterhin unterhalb ihrer Widerstandszonen (65.300-66.000 USD bzw. 77,37 USD) ohne bestaetigten Ausbruch.",
+    "decision": "Keine Aenderung im neunzehnten Lauf des Tages. Gold (pos-0004) bleibt einzige offene Position, Kurs auf ca. 4.415 USD (+3,20%) aktualisiert (leichte Konsolidierung vom Tageshoch). Kein neuer Kauf: CoreWeave/SMCI-Kurssprünge sind Momentum-Moves nach starken Zahlen, kein Dip-Setup; kein neues Overreaction-Setup wie bei AMD, SpaceX oder Palantir gefunden, Krypto bleibt ohne bestaetigten Ausbruch.",
+    "reasoning": "Risikoprofil spekulativ erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende, bestaetigte Gelegenheit. Trotz laufender US-Kernhandelszeit wurde kein frisches Overreaction-Setup gefunden. Gold bestaetigt mit +3,20% seit Kauf weiterhin intaktes Momentum nahe einem 10-Wochen-Hoch und wird unveraendert weitergehalten statt einer verfruehten Gewinnmitnahme bei blosser Konsolidierung. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen. Freies Kapital von ca. 7.460,66 EUR bleibt mangels bestaetigter Gelegenheit ungenutzt.",
     "positionIds": [
       "pos-0004"
     ],
-    "portfolioValueEnd": 518.08,
+    "portfolioValueEnd": 516.01,
     "updates": [
       {
         "time": "00:14",
@@ -716,6 +716,11 @@
         "time": "17:19",
         "note": "Keine Aenderung; Gold auf 4.432,76 USD/+3,62% aktualisiert. Nebius Group (+16,5% nach starken AI-Zahlen) ist Momentum statt Dip-Setup, kein neuer Overreaction-Trigger gefunden. Bitcoin ~64.085 USD und Solana ~76,22 USD weiterhin unter ihren Widerstandszonen - kein neuer Kauf trotz freiem Kapital von ca. 7.460,66 EUR",
         "portfolioValue": 518.08
+      },
+      {
+        "time": "18:18",
+        "note": "Keine Aenderung; Gold auf ca. 4.415 USD/+3,20% aktualisiert (leichte Konsolidierung vom Tageshoch ~4.435 USD). CoreWeave (+20%) und SMCI (+15%) sind Momentum-Moves nach starken Zahlen, kein Dip-Setup. Bitcoin ~64.085-64.194 USD und Solana ~76,22 USD weiterhin unter ihren Widerstandszonen - kein neuer Kauf trotz freiem Kapital von ca. 7.460,66 EUR",
+        "portfolioValue": 516.01
       }
     ]
   }
