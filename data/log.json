@@ -619,13 +619,13 @@
   },
   {
     "date": "2026-08-12",
-    "marketOverview": "Mittwoch, kurz nach 5 Uhr MESZ: US-Boerse und Xetra bleiben weiterhin geschlossen (Xetra oeffnet erst um 9:00 MESZ), handelbar ist aktuell nur Krypto. Gold pendelt bei ca. 4.368,61 USD/oz (+2,12% seit Kauf). Bitcoin faellt weiter leicht auf ca. 63.900-64.190 USD, weiterhin unter der Widerstandszone 65.300-66.000 USD; der Gesamtkryptomarkt gab am Vortag rund 1,3% auf ca. 2,19 Billionen USD nach, da Anleger vor den heutigen US-CPI-Daten Risiko reduzieren. Solana notiert bei ca. 75,64-75,78 USD weiterhin unter dem unbestaetigten Widerstand bei 77,37 USD. Die US-CPI-Daten fuer Juli (8:30 ET/14:30 MESZ, Konsens 3,4% YoY headline, vorher 3,5%) sind noch rund 9 Stunden entfernt und bleiben der naechste grosse Katalysator fuer Krypto wie fuer Gold.",
-    "decision": "Keine Aenderung im sechsten Lauf des Tages. Gold (pos-0004) bleibt einzige offene Position, Kurs auf 4.368,61 USD (+2,12%) aktualisiert. Kein neuer Kauf: Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten nicht handelbar, Krypto (Bitcoin/Solana) bietet weiterhin keinen bestaetigten Ausbruch und der Gesamtmarkt tendiert vor CPI eher schwaecher statt eine ueberzeugende Kaufgelegenheit zu bieten.",
-    "reasoning": "Risikoprofil spekulativ erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Bitcoin faellt leicht weiter unter die Widerstandszone 65.300-66.000 USD, Solana bleibt unter dem unbestaetigten Widerstand bei 77,37 USD, und der Kryptomarkt insgesamt zeigt risikoaverse Tendenz vor den CPI-Daten - kein Einstiegssignal, sondern eher ein Grund zur Zurueckhaltung. Gold wird mit intaktem Aufwaertstrend unveraendert weitergehalten. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen. Freies Kapital von ca. 7.460,66 EUR bleibt mangels ueberzeugender Gelegenheit ungenutzt.",
+    "marketOverview": "Mittwoch, kurz nach 6 Uhr MESZ: US-Boerse und Xetra bleiben weiterhin geschlossen (Xetra oeffnet erst um 9:00 MESZ), handelbar ist aktuell nur Krypto. Gold ist im asiatischen Handel leicht auf ca. 4.395,26 USD/oz (+2,74% seit Kauf) gestiegen und naehert sich der Tagesspanne von 4.362-4.396 USD. Bitcoin notiert weiterhin bei ca. 63.800-64.000 USD unter der Widerstandszone 65.300-66.000 USD, Solana pendelt bei ca. 75,71-75,75 USD weiterhin unter dem unbestaetigten Widerstand bei 77,37 USD. Die US-CPI-Daten fuer Juli werden um 8:30 ET / 14:30 MESZ veroeffentlicht und sind noch rund 8 Stunden entfernt - weiterhin der naechste grosse Katalysator fuer Krypto wie fuer Gold.",
+    "decision": "Keine Aenderung im siebten Lauf des Tages. Gold (pos-0004) bleibt einzige offene Position, Kurs auf 4.395,26 USD (+2,74%) aktualisiert. Kein neuer Kauf: Aktien/ETFs/Rohstoff-Neupositionen ausserhalb der Handelszeiten nicht handelbar, Krypto (Bitcoin/Solana) bietet weiterhin keinen bestaetigten Ausbruch ueber die jeweiligen Widerstaende und damit keine ueberzeugende Gelegenheit so kurz vor den CPI-Daten.",
+    "reasoning": "Risikoprofil spekulativ erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Bitcoin und Solana verharren unveraendert unter ihren jeweiligen Widerstandszonen (65.300-66.000 USD bzw. 77,37 USD) ohne neuen Katalysator - kein Einstiegssignal. Gold zeigt zwar ein leichtes Plus im asiatischen Handel, die Position wird aber mit intaktem Aufwaertstrend unveraendert weitergehalten statt nachzukaufen, da vor den anstehenden CPI-Daten erhoehte Volatilitaet in beide Richtungen droht. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen. Freies Kapital von ca. 7.460,66 EUR bleibt mangels ueberzeugender Gelegenheit ungenutzt.",
     "positionIds": [
       "pos-0004"
     ],
-    "portfolioValueEnd": 510.59,
+    "portfolioValueEnd": 513.7,
     "updates": [
       {
         "time": "00:14",
@@ -656,6 +656,11 @@
         "time": "05:12",
         "note": "Keine Aenderung; Gold auf 4.368,61 USD (+2,12%) zurueckgesetzt. Bitcoin leicht schwaecher auf ~63.900-64.190 USD, Gesamtkryptomarkt gab am Vortag ~1,3% nach (Risikoreduktion vor CPI), Solana unveraendert ~75,64-75,78 USD unter Widerstand 77,37 USD - kein ueberzeugender Krypto-Kauf-Trigger, daher kein neuer Kauf trotz freiem Kapital von ca. 7.460,66 EUR",
         "portfolioValue": 510.59
+      },
+      {
+        "time": "06:14",
+        "note": "Keine Aenderung; Gold im asiatischen Handel leicht hoeher auf 4.395,26 USD (+2,74%) aktualisiert. Bitcoin unveraendert ~63.800-64.000 USD unter Widerstand 65.300-66.000 USD, Solana unveraendert ~75,71-75,75 USD unter Widerstand 77,37 USD - kein ueberzeugender Krypto-Kauf-Trigger, CPI-Daten noch ca. 8 Stunden entfernt - kein neuer Kauf trotz freiem Kapital von ca. 7.460,66 EUR",
+        "portfolioValue": 513.7
       }
     ]
   }
