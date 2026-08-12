@@ -619,9 +619,9 @@
   },
   {
     "date": "2026-08-12",
-    "marketOverview": "Mittwoch, kurz nach 7 Uhr MESZ: US-Boerse und Xetra bleiben weiterhin geschlossen (Xetra oeffnet erst um 9:00 MESZ), handelbar ist aktuell nur Krypto. Gold notiert unveraendert bei ca. 4.395,26 USD/oz (+2,74% seit Kauf), Tagesspanne 4.362-4.396 USD, hohe Volatilitaet vor den heutigen US-Konjunkturdaten erwartet. Bitcoin pendelt weiterhin zwischen ca. 63.300 und 65.200 USD unter der Widerstandszone 65.300-66.000 USD, Solana notiert bei ca. 75,6-76,6 USD weiterhin unter dem unbestaetigten Widerstand bei 77,37 USD. Am Dienstag gaben US-Indizes nach (S&P 500 -0,32%, Nasdaq -0,60%, Dow -0,34%), nachdem Iran erklaerte, die Strasse von Hormus bleibe geschlossen - der erhoffte Deal ruecht damit in weitere Ferne. Die US-CPI-Daten fuer Juli werden um 14:30 MESZ veroeffentlicht und bleiben der naechste grosse Katalysator fuer Krypto, Gold und Aktien.",
-    "decision": "Keine Aenderung im achten Lauf des Tages. Gold (pos-0004) bleibt einzige offene Position, Kurs bei 4.395,26 USD (+2,74%) bestaetigt. Kein neuer Kauf: Aktien/ETFs/Rohstoff-Neupositionen ausserhalb der Handelszeiten nicht handelbar (Xetra oeffnet erst um 9:00 MESZ), Krypto (Bitcoin/Solana) bietet weiterhin keinen bestaetigten Ausbruch ueber die jeweiligen Widerstaende und damit keine ueberzeugende Gelegenheit so kurz vor den CPI-Daten.",
-    "reasoning": "Risikoprofil spekulativ erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Bitcoin und Solana verharren unveraendert unter ihren jeweiligen Widerstandszonen (65.300-66.000 USD bzw. 77,37 USD) ohne neuen Katalysator - kein Einstiegssignal. Die Eskalation beim Hormuz-Patt (Iran haelt an Schliessung fest) hat die US-Indizes am Dienstag leicht belastet, bietet aber keinen einzeltitelbezogenen Ueberreaktions-Trigger. Gold wird mit intaktem Aufwaertstrend unveraendert weitergehalten statt nachgekauft, da vor den CPI-Daten erhoehte Volatilitaet in beide Richtungen droht. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen. Freies Kapital von ca. 7.460,66 EUR bleibt mangels ueberzeugender Gelegenheit ungenutzt.",
+    "marketOverview": "Mittwoch, kurz nach 8 Uhr MESZ: US-Boerse und Xetra bleiben weiterhin geschlossen (Xetra oeffnet erst um 9:00 MESZ), handelbar ist aktuell nur Krypto. Gold notiert unveraendert bei ca. 4.395,26 USD/oz (+2,74% seit Kauf), hohe Volatilitaet vor den heutigen US-Konjunkturdaten erwartet. Bitcoin liegt bei ca. 63.773 USD (-0,32% 24h, Spanne 63.200-64.414 USD) weiterhin unter der Widerstandszone 65.300-66.000 USD, Solana notiert bei ca. 75,64-76,62 USD weiterhin unter dem unbestaetigten Widerstand bei 77,37 USD. Die US-CPI-Daten fuer Juli werden um 14:30 MESZ veroeffentlicht (erwartet 3,4% YoY) und bleiben der naechste grosse Katalysator fuer Krypto, Gold und Aktien.",
+    "decision": "Keine Aenderung im neunten Lauf des Tages. Gold (pos-0004) bleibt einzige offene Position, Kurs bei 4.395,26 USD (+2,74%) bestaetigt. Kein neuer Kauf: Aktien/ETFs/Rohstoff-Neupositionen ausserhalb der Handelszeiten nicht handelbar (Xetra oeffnet erst um 9:00 MESZ), Krypto (Bitcoin/Solana) bietet weiterhin keinen bestaetigten Ausbruch ueber die jeweiligen Widerstaende und damit keine ueberzeugende Gelegenheit so kurz vor den CPI-Daten.",
+    "reasoning": "Risikoprofil spekulativ erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Bitcoin und Solana verharren unveraendert unter ihren jeweiligen Widerstandszonen (65.300-66.000 USD bzw. 77,37 USD) ohne neuen Katalysator - kein Einstiegssignal. Gold wird mit intaktem Aufwaertstrend unveraendert weitergehalten statt nachgekauft, da vor den CPI-Daten erhoehte Volatilitaet in beide Richtungen droht. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen. Freies Kapital von ca. 7.460,66 EUR bleibt mangels ueberzeugender Gelegenheit ungenutzt.",
     "positionIds": [
       "pos-0004"
     ],
@@ -665,6 +665,11 @@
       {
         "time": "07:16",
         "note": "Keine Aenderung; Gold bestaetigt bei ~4.395,26 USD/+2,74%. Bitcoin ~63.300-65.200 USD und Solana ~75,6-76,6 USD weiterhin unter ihren Widerstandszonen. US-Indizes gaben Dienstag nach (Iran haelt Hormuz-Schliessung aufrecht), Xetra oeffnet erst um 9:00 MESZ - kein ueberzeugender Kauf-Trigger vor den CPI-Daten (14:30 MESZ), daher kein neuer Kauf trotz freiem Kapital von ca. 7.460,66 EUR",
+        "portfolioValue": 513.7
+      },
+      {
+        "time": "08:22",
+        "note": "Keine Aenderung; Gold bestaetigt bei ~4.395,26 USD/+2,74%. Bitcoin ~63.773 USD (-0,32% 24h) und Solana ~75,64-76,62 USD weiterhin unter ihren Widerstandszonen, Xetra oeffnet erst um 9:00 MESZ - kein ueberzeugender Kauf-Trigger vor den CPI-Daten um 14:30 MESZ, daher kein neuer Kauf trotz freiem Kapital von ca. 7.460,66 EUR",
         "portfolioValue": 513.7
       }
     ]
