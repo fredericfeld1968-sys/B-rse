@@ -619,13 +619,13 @@
   },
   {
     "date": "2026-08-12",
-    "marketOverview": "Mittwoch, 9:16 MESZ: Xetra hat um 9:00 MESZ eroeffnet, die US-Boerse bleibt vorboerslich verhalten - S&P 500 (7.728,20) und Nasdaq (26.445,45) schlossen Dienstag leicht im Minus (-0,32% / -0,6%), Dow -0,34% auf 53.791,85, belastet von der weiterhin ungeloesten Hormuz-Blockade (hoehere Oelpreise) und hawkishen Aeusserungen von Fed-Chicago-Praesident Goolsbee. Anleiherenditen fielen zuletzt leicht auf 4,68%, da ein Fed-freundlicher CPI-Bericht erwartet wird. Gold pendelt weiterhin fest zwischen 4.362 und 4.396 USD/oz (aktuell ca. 4.390 USD, +2,6% seit Kauf). Bitcoin notiert bei ca. 63.600-63.800 USD weiterhin unter der Widerstandszone 65.300-66.000 USD, Solana bei ca. 75,6-76,6 USD weiterhin unter dem unbestaetigten Widerstand bei 77,37 USD. Der Markt verharrt insgesamt abwartend vor den heute um 14:30 MESZ anstehenden US-CPI-Daten fuer Juli (erwartet 3,4% YoY).",
-    "decision": "Keine Aenderung im zehnten Lauf des Tages. Gold (pos-0004) bleibt einzige offene Position, Kurs leicht auf 4.390,00 USD (+2,62%) aktualisiert. Kein neuer Kauf: Xetra ist zwar seit 9:00 MESZ wieder geoeffnet, doch US- und deutsche Indizes bewegen sich vorboerslich nur seitwaerts/leicht negativ im Vorfeld der CPI-Daten - keine ueberzeugende Einzeltitel-Gelegenheit erkennbar. Krypto (Bitcoin/Solana) bietet weiterhin keinen bestaetigten Ausbruch ueber die jeweiligen Widerstaende.",
-    "reasoning": "Risikoprofil spekulativ erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Mit den CPI-Daten erst um 14:30 MESZ bleibt die Markterwartung unveraendert abwartend (Dienstagsschluss leicht negativ wegen Hormuz-Blockade und hawkishen Fed-Kommentaren), ohne dass sich seit dem letzten Lauf ein neues, klares Setup bei Aktien, ETFs, Rohstoffen oder Krypto ergeben haette. Gold wird mit intaktem Aufwaertstrend unveraendert weitergehalten statt nachgekauft, da vor der Datenveroeffentlichung erhoehte Volatilitaet in beide Richtungen droht. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen. Freies Kapital von ca. 7.460,66 EUR bleibt mangels ueberzeugender Gelegenheit ungenutzt.",
+    "marketOverview": "Mittwoch, 10:16 MESZ: Xetra notiert seitwaerts, US-Futures leicht fester (S&P-Futures +0,11%, Nasdaq-100-Futures +0,25%) vor dem heutigen CPI-Bericht (8:30 ET / 14:30 MESZ). Gold ist im asiatisch-europaeischen Handel weiter gestiegen auf ca. 4.408,25 USD/oz (+3,04% seit Kauf, Tageswoche +1,6%), gestuetzt von der anhaltenden Hormuz-Blockade (Brent ~89,65 USD/Barrel) und der Erwartung erhoehter Volatilitaet rund um die Inflationsdaten. Bitcoin notiert bei ca. 63.600-63.800 USD weiterhin unter der Widerstandszone 65.300-66.000 USD, Solana bei ca. 75,6-75,7 USD weiterhin unter dem unbestaetigten Widerstand bei 77,37 USD. Der Markt bleibt insgesamt abwartend vor den CPI-Daten fuer Juli.",
+    "decision": "Keine Aenderung im elften Lauf des Tages. Gold (pos-0004) bleibt einzige offene Position, Kurs auf 4.408,25 USD (+3,04%) aktualisiert. Kein neuer Kauf: Xetra bewegt sich seitwaerts, US-Futures nur leicht positiv ohne erkennbare Einzeltitel-Gelegenheit; Krypto (Bitcoin/Solana) bietet weiterhin keinen bestaetigten Ausbruch ueber die jeweiligen Widerstaende.",
+    "reasoning": "Risikoprofil spekulativ erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Mit den CPI-Daten erst um 14:30 MESZ bleibt die Markterwartung unveraendert abwartend, ohne dass sich seit dem letzten Lauf ein neues, klares Setup bei Aktien, ETFs, Rohstoffen oder Krypto ergeben haette. Gold wird mit intaktem, sich sogar weiter verstaerkendem Aufwaertstrend unveraendert weitergehalten statt nachgekauft, da vor der Datenveroeffentlichung erhoehte Volatilitaet in beide Richtungen droht. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen. Freies Kapital von ca. 7.460,66 EUR bleibt mangels ueberzeugender Gelegenheit ungenutzt.",
     "positionIds": [
       "pos-0004"
     ],
-    "portfolioValueEnd": 513.09,
+    "portfolioValueEnd": 515.22,
     "updates": [
       {
         "time": "00:14",
@@ -676,6 +676,11 @@
         "time": "09:16",
         "note": "Keine Aenderung; Xetra seit 9:00 MESZ wieder geoeffnet, aber Maerkte verharren seitwaerts vor den US-CPI-Daten um 14:30 MESZ. Gold leicht auf 4.390,00 USD/+2,62% aktualisiert. Bitcoin ~63.600-63.800 USD und Solana ~75,6-76,6 USD weiterhin unter ihren Widerstandszonen - kein ueberzeugender Kauf-Trigger, daher kein neuer Kauf trotz freiem Kapital von ca. 7.460,66 EUR",
         "portfolioValue": 513.09
+      },
+      {
+        "time": "10:16",
+        "note": "Keine Aenderung; Gold weiter gestiegen auf 4.408,25 USD/+3,04% (Hormuz-Blockade, CPI-Erwartung). US-Futures leicht positiv, Xetra seitwaerts, Bitcoin/Solana unveraendert unter ihren Widerstandszonen - kein ueberzeugender Kauf-Trigger vor den CPI-Daten um 14:30 MESZ, daher kein neuer Kauf trotz freiem Kapital von ca. 7.460,66 EUR",
+        "portfolioValue": 515.22
       }
     ]
   }
