@@ -820,5 +820,22 @@
         "portfolioValue": 510.51
       }
     ]
+  },
+  {
+    "date": "2026-08-14",
+    "marketOverview": "Freitag, kurz nach Mitternacht (00:21 MESZ): US-Boersen und Xetra bleiben bis zum Morgen geschlossen. Gold notiert weiterhin fest um 4.375 USD/oz (+2,3% seit Kauf), nachdem der Preis im Tagesverlauf des 13.08. zwischenzeitlich bis rund 4.440 USD gestiegen war (starkes Monatsplus von rund 10%). Bitcoin bewegt sich unveraendert in der bekannten Range um 63.300-63.900 USD (Fear&Greed-Index bei 27, Angst, 7-Tage-Trend leicht negativ), Solana haelt sich bei ca. 75-77 USD weiterhin unter der bekannten Widerstandszone (77,37 USD), ohne bestaetigten Ausbruch. Die SEC hat fuer den 14.08. ein Meeting zu neuen Regeln fuer kapitalmarktfreie Krypto-Kapitalaufnahmen angesetzt, das aber erst im Tagesverlauf stattfindet.",
+    "decision": "Tagesbudget-Gutschrift fuer den 14.08. im ersten Lauf des Tages (00:21) erfolgt: totalFreshCapitalEur von 9.000 auf 10.000 EUR erhoeht, freies Kapital jetzt ca. 9.460,66 EUR. Gold (pos-0004) bleibt einzige offene Position, auf 4.375,00 USD (+2,27%) aktualisiert. Kein neuer Kauf: US-Boerse/Xetra/Rohstoffhandel sind nachts geschlossen, einzig moegliche Anlageklasse Krypto bietet keine wirklich ueberzeugende Gelegenheit (Bitcoin/Solana weiterhin range-gebunden ohne bestaetigten Ausbruch, Marktstimmung leicht aengstlich).",
+    "reasoning": "Risikoprofil spekulativ erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende, bestaetigte Gelegenheit. Ausserhalb der Boersenzeiten ist laut Vorgabe hoechstens Krypto handelbar; weder Bitcoin (weiterhin unter der 65.300-66.000 USD Zone, Fear&Greed nur 27) noch Solana (weiterhin unter dem Widerstand bei 77,37 USD) zeigen einen bestaetigten Ausbruch oder neuen Katalysator seit dem letzten Lauf. Gold bestaetigt weiterhin intaktes mehrtaegiges Momentum und wird unveraendert weitergehalten. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen; freies Kapital von ca. 9.460,66 EUR bleibt mangels bestaetigter Gelegenheit ungenutzt.",
+    "positionIds": [
+      "pos-0004"
+    ],
+    "portfolioValueEnd": 511.33,
+    "updates": [
+      {
+        "time": "00:21",
+        "note": "Tagesbudget-Gutschrift +1.000 EUR (freies Kapital jetzt ca. 9.460,66 EUR); neuer Handelstag (Freitag) begonnen. Gold auf 4.375,00 USD/+2,27% aktualisiert. Bitcoin ~63.300-63.900 USD (Fear&Greed 27, Angst) und Solana ~75-77 USD weiterhin range-gebunden ohne bestaetigten Ausbruch - kein neuer Kauf, da nachts Aktien/ETFs/Rohstoffe nicht handelbar sind und kein ueberzeugendes Krypto-Setup vorliegt",
+        "portfolioValue": 511.33
+      }
+    ]
   }
 ]
