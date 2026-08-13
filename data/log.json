@@ -736,13 +736,13 @@
   },
   {
     "date": "2026-08-13",
-    "marketOverview": "Donnerstag, 21:17 MESZ: US-Indizes nahe Rekordhoch (S&P 500 erstmals ueber 7.800 Punkte, +0,72%; Nasdaq +0,98%) nach dem flachen PPI-Bericht, der Zinssenkungshoffnungen fuer September staerkte. Gold notiert bei ca. 4.408,50 USD/oz und damit wieder etwas fester als im Nachmittagstief, weiterhin klar im Plus seit Kauf. Applied Materials meldet Zahlen erst nach US-Handelsschluss (Call 22:30 MESZ, Konsens: Umsatz ca. 9,0 Mrd. USD, EPS ca. 3,38 USD) - noch keine handelbare Reaktion moeglich. Bitcoin stabil um 63.500 USD (Wochentrend leicht negativ), Solana ~76,4 USD in bekannter Range, kein neuer Krypto-Katalysator.",
-    "decision": "Tagesbudget-Gutschrift fuer den 13.08. bereits im ersten Lauf des Tages (09:17) erfolgt, freies Kapital unveraendert bei ca. 8.460,66 EUR. Gold (pos-0004) bleibt einzige offene Position, Kurs im 21:17-Lauf auf 4.408,50 USD (+3,05%) aktualisiert. Kein neuer Kauf: JD.com und Tapestry fielen aus echten fundamentalen Gruenden (Umsatzrueckgang bzw. schwache Guidance) statt aus reiner Overreaction, StubHub verfehlte trotz Rekordumsatz deutlich die Gewinnschaetzung und zeigt bearische Technik - kein ueberzeugendes Dip-Setup nach dem etablierten Muster. Applied-Materials-Zahlen stehen noch aus (Call erst 22:30 MESZ), Bitcoin/Solana bieten keinen neuen Katalysator.",
-    "reasoning": "Risikoprofil spekulativ erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende, bestaetigte Gelegenheit. Die heutigen grossen Kursausschlaege (JD.com, Tapestry, StubHub) beruhen auf echten fundamentalen Enttaeuschungen (Umsatzrueckgang, schwache Guidance, verfehlte Gewinnschaetzung) statt auf uebertriebenen Marktreaktionen auf ansonsten starke Zahlen - anders als bei den erfolgreichen Mustern AMD/SpaceX/Palantir. Ein Einstieg waere hier eher das Fangen eines fallenden Messers als ein Dip-Kauf. Applied Materials meldet erst nach Handelsschluss, daher noch keine handelbare Reaktion moeglich. Gold bestaetigt weiterhin intaktes mehrtaegiges Momentum und wird unveraendert weitergehalten. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen; freies Kapital von ca. 8.460,66 EUR bleibt mangels bestaetigter Gelegenheit ungenutzt.",
+    "marketOverview": "Donnerstag, 22:19 MESZ: US-Boersen soeben geschlossen (S&P 500 Rekordhoch ueber 7.800 Punkte, Nasdaq +1%) nach dem flachen PPI-Bericht. Applied Materials meldete nach Handelsschluss starke Zahlen (Semiconductor-Systems-Umsatz +27% YoY, operative Marge 38% vs. 33,2% Vorjahr, Ausblick klar ueber Konsens), die Aktie fiel nachbörslich dennoch um rund 2,5% (Sell-the-news). Gold pendelt weiterhin fest um 4.360 USD/oz (+1,9% seit Kauf). Bitcoin stabil um 63.900 USD, Solana ~77 USD mit einem Breakout-Signal vom Vormittag, das aber von Netzwerk-Stabilitaetssorgen (hoher Delinquent-Stake-Anteil) begleitet wird.",
+    "decision": "Tagesbudget-Gutschrift fuer den 13.08. bereits im ersten Lauf des Tages (09:17) erfolgt, freies Kapital unveraendert bei ca. 8.460,66 EUR. Gold (pos-0004) bleibt einzige offene Position, im 22:19-Lauf auf 4.360,00 USD (+1,92%) aktualisiert. Kein neuer Kauf ueber den gesamten Tag: JD.com, Tapestry und StubHub fielen aus echten fundamentalen Gruenden, kein Dip-Setup nach etabliertem Muster. Applied Materials lieferte nach Handelsschluss starke Zahlen mit klassischer Sell-the-news-Reaktion (-2,5%), jedoch ausserhalb der regulaeren Handelszeiten kein Aktienkauf moeglich. Bitcoin/Solana boten den ganzen Tag ueber keinen bestaetigten, ueberzeugenden Krypto-Katalysator.",
+    "reasoning": "Risikoprofil spekulativ erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende, bestaetigte Gelegenheit. Die heutigen grossen Kursausschlaege (JD.com, Tapestry, StubHub) beruhen auf echten fundamentalen Enttaeuschungen statt auf uebertriebenen Marktreaktionen auf ansonsten starke Zahlen - anders als bei den erfolgreichen Mustern AMD/SpaceX/Palantir. Applied Materials zeigt zwar ein sehr aehnliches Sell-the-news-Muster (starke Zahlen, Kurs dennoch im Minus), jedoch ist die US-Boerse regulaer bereits geschlossen und Nachboerse-Kurse gelten laut Vorgabe als nicht handelbar - ein Einstieg erfolgt fruehestens beim naechsten regulaeren Handelsstart, falls sich das Setup bestaetigt. Solana testet zwar einen technischen Ausbruch, doch der hohe Anteil delinquenter Stakes (nahe der Halt-Schwelle) ist ein Warnsignal, das die Gelegenheit nicht 'wirklich ueberzeugend' macht. Gold bestaetigt weiterhin intaktes mehrtaegiges Momentum und wird unveraendert weitergehalten. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen; freies Kapital von ca. 8.460,66 EUR bleibt mangels bestaetigter Gelegenheit ungenutzt.",
     "positionIds": [
       "pos-0004"
     ],
-    "portfolioValueEnd": 515.25,
+    "portfolioValueEnd": 509.58,
     "updates": [
       {
         "time": "09:17",
@@ -808,6 +808,11 @@
         "time": "21:17",
         "note": "Keine Aenderung; Gold auf 4.408,50 USD/+3,05% aktualisiert. Applied-Materials-Zahlen stehen weiterhin aus (Call erst 22:30 MESZ), Bitcoin ~63.500 USD (Wochentrend leicht negativ) und Solana ~76,4 USD weiterhin ohne neuen Katalysator - kein neuer Kauf",
         "portfolioValue": 515.25
+      },
+      {
+        "time": "22:19",
+        "note": "Keine Aenderung; Gold auf 4.360,00 USD/+1,92% aktualisiert (leichter Ruecksetzer vom Tageshoch). AMAT-Zahlen nach Handelsschluss veroeffentlicht (starkes Umsatz-/Margenwachstum, dennoch -2,5% nachbörslich, Sell-the-news wie bei AMD/SpaceX/Palantir), aber US-Boerse regulaer geschlossen - kein Aktienkauf ausserhalb der Handelszeiten. Solana-Breakout vom Vormittag bereits eingepreist und durch hohen Anteil delinquenter Stakes belastet - kein ueberzeugender Krypto-Katalysator, daher kein neuer Kauf",
+        "portfolioValue": 509.58
       }
     ]
   }
