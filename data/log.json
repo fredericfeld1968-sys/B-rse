@@ -736,13 +736,13 @@
   },
   {
     "date": "2026-08-13",
-    "marketOverview": "Donnerstag, 12:13 MESZ: DAX naehert sich mit +0,5% auf ca. 26.450 Punkten erneut seinem Vortagesrekord (26.574), Gewinnmitnahmen nach dem Rekordlauf bremsen aber ('Hoehenangst'). US-Futures leicht positiv (S&P +0,08%, Nasdaq 100 +0,13%), US-Kernhandel oeffnet erst um 15:30 MESZ. In Frankfurt meldeten Thyssenkrupp (Q3-Umsatz ueber Erwartungen, operatives Ergebnis mit 183 Mio. EUR unter dem Konsens von 207 Mio. EUR trotz angehobener Jahresprognose, Aktie -3,9%) und RWE (starkes H1 mit EPS 1,77 EUR nach 1,08 EUR, Prognose erhoeht, Aktie im Plus) Zahlen. Cisco hat sich vorboerslich bereits deutlich erholt (aktuell ca. 123,88 USD, nahe dem Widerstand bei 124,62 USD) - der urspruengliche Abverkauf ist damit weitgehend ausgeglichen. Gold pendelt um 4.400-4.410 USD/oz (+2,9-3,1% seit Kauf). Bitcoin ~63.800 USD weiterhin unter der Widerstandszone, Solana ~76,4 USD testet weiter erfolglos die Zone um 77 USD.",
-    "decision": "Tagesbudget-Gutschrift fuer den 13.08. bereits im ersten Lauf des Tages (09:17) erfolgt, freies Kapital unveraendert bei ca. 8.460,66 EUR. Gold (pos-0004) bleibt einzige offene Position, Kurs auf 4.405,00 USD (+2,97%) aktualisiert. Kein neuer Kauf: Cisco hat sich bereits erholt (kein Dip mehr vorhanden), Thyssenkrupp ist ein echter operativer Gewinn-Miss trotz angehobener Prognose (kein klarer Sell-the-news-Fall wie bei AMD/SpaceX/Palantir), RWE ist bereits im Plus (kein Dip), Krypto weiterhin ohne bestaetigten Ausbruch ueber die jeweiligen Widerstandszonen.",
-    "reasoning": "Risikoprofil spekulativ erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende, bestaetigte Gelegenheit. Cisco bot vor Handelsbeginn ein moegliches Dip-Setup, hat sich aber bereits bis nahe an den Widerstand erholt - ein Einstieg waere jetzt verspaetet. Thyssenkrupp verfehlte das operative Ergebnis trotz Umsatzbeat und angehobener Prognose recht deutlich (183 vs. 207 Mio. EUR erwartet); JPMorgan bestaetigt nur 'Neutral' - kein eindeutiges Overreaction-Muster, daher kein Dip-Kauf. RWE und der DAX insgesamt zeigen eher Gewinnmitnahmen nach Rekordlauf als eine Kaufgelegenheit. Solana und Bitcoin bleiben unter ihren etablierten Widerstandszonen ohne neuen Katalysator. Gold bestaetigt weiterhin intaktes Momentum und wird unveraendert weitergehalten. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen; freies Kapital von ca. 8.460,66 EUR bleibt mangels bestaetigter Gelegenheit ungenutzt.",
+    "marketOverview": "Donnerstag, 13:15 MESZ: DAX haelt sich bei ca. 26.450 Punkten (+0,5%), nahe dem gestrigen Allzeithoch von 26.574, US-Kernhandel oeffnet erst um 15:30 MESZ. US-Inflationsdaten (CPI) kamen erwartungsgemaess herein, was den US-Dollar leicht schwaecht und Gold weiter stuetzt - Gold notiert um 4.400-4.420 USD/oz, mit Tagesausschlaegen bis 4.441 USD (+2,9-3,8% seit Kauf). Cisco bleibt nach dem urspruenglichen Nachboersen-Abverkauf (-3,9% bis -5,9% je nach Quelle) volatil, Thyssenkrupp (-3,9%, operativer Gewinn-Miss trotz angehobener Prognose) und RWE (im Plus nach starkem H1) haben ihre Zahlen bereits verarbeitet - beide bieten kein neues Setup. Bitcoin pendelt weiterhin um 63.400-63.800 USD (leicht rot), Solana bei ca. 76,4 USD testet weiterhin erfolglos die Widerstandszone um 77 USD.",
+    "decision": "Tagesbudget-Gutschrift fuer den 13.08. bereits im ersten Lauf des Tages (09:17) erfolgt, freies Kapital unveraendert bei ca. 8.460,66 EUR. Gold (pos-0004) bleibt einzige offene Position, Kurs auf 4.410,00 USD (+3,08%) aktualisiert. Kein neuer Kauf: Cisco/Thyssenkrupp/RWE bieten weiterhin kein ueberzeugendes Dip-Setup (siehe vorherige Begruendung), Krypto weiterhin ohne bestaetigten Ausbruch ueber die jeweiligen Widerstandszonen, Bitcoin sogar leicht schwaecher als im letzten Lauf.",
+    "reasoning": "Risikoprofil spekulativ erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende, bestaetigte Gelegenheit. Seit dem letzten Lauf (12:13) hat sich die Lage bei den bereits geprueften Einzeltiteln nicht veraendert: Cisco erholt, Thyssenkrupp ohne klares Overreaction-Muster, RWE bereits im Plus. Solana und Bitcoin bleiben unter ihren etablierten Widerstandszonen, Bitcoin sogar mit leichtem Ruecksetzer - kein neuer Krypto-Katalysator. Gold bestaetigt weiterhin intaktes, mehrtaegiges Momentum (US-Dollar-Schwaeche nach erwartungsgemaessen CPI-Daten) und wird unveraendert weitergehalten. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen; freies Kapital von ca. 8.460,66 EUR bleibt mangels bestaetigter Gelegenheit ungenutzt.",
     "positionIds": [
       "pos-0004"
     ],
-    "portfolioValueEnd": 514.83,
+    "portfolioValueEnd": 515.42,
     "updates": [
       {
         "time": "09:17",
@@ -763,6 +763,11 @@
         "time": "12:13",
         "note": "Keine Aenderung; Gold auf 4.405,00 USD/+2,97% aktualisiert. Cisco bereits deutlich erholt (kein Dip mehr), Thyssenkrupp-Zahlen gemischt (operativer Gewinn-Miss trotz angehobener Prognose, -3,9%, kein klares Overreaction-Setup), RWE bereits im Plus. Bitcoin/Solana weiterhin unter Widerstand - kein neuer Kauf",
         "portfolioValue": 514.83
+      },
+      {
+        "time": "13:15",
+        "note": "Keine Aenderung; Gold auf 4.410,00 USD/+3,08% aktualisiert (CPI-Daten erwartungsgemaess, US-Dollar-Schwaeche stuetzt Gold). Cisco/Thyssenkrupp/RWE weiterhin ohne neues Setup, Bitcoin leicht schwaecher (~63.500 USD), Solana weiterhin unter Widerstand ~77 USD - kein neuer Kauf",
+        "portfolioValue": 515.42
       }
     ]
   }
