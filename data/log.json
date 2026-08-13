@@ -736,13 +736,13 @@
   },
   {
     "date": "2026-08-13",
-    "marketOverview": "Donnerstag, 10:13 MESZ: Der Markt bleibt nach dem in-line-CPI-Bericht in risikofreudiger Stimmung, US-Futures und Xetra notieren fest; asiatische Boersen zogen ueber Nacht nach. Sensex/Nifty in Indien starteten leicht im Plus. Wendy's sprang um ueber 13%, nachdem Investor Nelson Peltz (Trian) an einem Going-Private-Angebot arbeitet - eine Uebernahme-Spekulation ohne Overreaction-Charakter, damit kein Dip-Kauf-Setup. Gold hat die Marke von 4.400 USD/oz zurueckerobert (aktuell ca. 4.400 USD, +2,85% seit Kauf). Bitcoin ist leicht auf ca. 63.480 USD zurueckgefallen (-0,2% 24h, -1,7% Woche), Solana pendelt bei ca. 75,5-76,5 USD weiterhin unterhalb der etablierten Widerstandszone (77,37 USD). Die US-Kernhandelszeit hat noch nicht begonnen (Xetra ist bereits geoeffnet).",
-    "decision": "Tagesbudget-Gutschrift fuer den 13.08. bereits im ersten Lauf des Tages (09:17) erfolgt, freies Kapital unveraendert bei ca. 8.460,66 EUR. Gold (pos-0004) bleibt einzige offene Position, Kurs auf 4.400,00 USD (+2,85%) aktualisiert. Kein neuer Kauf: Wendy's-Sprung ist eine Uebernahme-Spekulation ohne Overreaction-Muster, Krypto bleibt ohne bestaetigten Ausbruch ueber die jeweiligen Widerstandszonen.",
-    "reasoning": "Risikoprofil spekulativ erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende, bestaetigte Gelegenheit. Der Wendy's-Kurssprung basiert auf einer Uebernahmespekulation und nicht auf einem ueberzogenen Abverkauf trotz starker Fundamentaldaten - passt damit nicht zum bisher erfolgreichen Dip-Kauf-Muster (AMD, SpaceX, Palantir). Solana und Bitcoin bleiben unter ihren etablierten Widerstandszonen ohne neuen Katalysator. Gold bestaetigt weiterhin intaktes Momentum (Ruecknahme der 4.400-USD-Marke) und wird unveraendert weitergehalten. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen; freies Kapital von ca. 8.460,66 EUR bleibt mangels bestaetigter Gelegenheit ungenutzt.",
+    "marketOverview": "Donnerstag, 11:13 MESZ: US-Futures leicht im Plus (S&P +0,14%, Nasdaq-100 nahe Rekordhoch dank Megacap-Chipwerten) nach dem in-line-CPI-Bericht; DAX markiert ein neues Allzeithoch bei ca. 26.574 Punkten. Die US-Kernhandelszeit hat noch nicht begonnen, nur vorboerslicher Handel. Cisco (-5,9% vorboerslich) fiel trotz EPS-/Umsatzbeat und ueber dem Street-Konsens liegender Prognose (FY27: 5,05-5,11 USD EPS, 72,2-73,4 Mrd. USD Umsatz) wegen Sorgen um die Bruttomarge - vorboerslich unbestaetigt, kein sicheres Setup vor Handelsbeginn. Cerebras (-17,4% vorboerslich) verfehlte dagegen echt die Erwartungen (Verlust 2,98 USD/Aktie vs. erwartet 0,17 USD, Hardware-Umsatz -23% YoY) - klare fundamentale Verschlechterung, kein Dip-Kauf-Kandidat. Gold pendelt um 4.374 USD/oz (+2,24% seit Kauf). Bitcoin ~63.800 USD weiterhin unter der Widerstandszone, Solana ~76,4 USD testet weiter die Zone um 77 USD ohne bestaetigten Ausbruch.",
+    "decision": "Tagesbudget-Gutschrift fuer den 13.08. bereits im ersten Lauf des Tages (09:17) erfolgt, freies Kapital unveraendert bei ca. 8.460,66 EUR. Gold (pos-0004) bleibt einzige offene Position, Kurs auf 4.374,03 USD (+2,24%) aktualisiert. Kein neuer Kauf: Cisco-Dip trotz starker Prognose vorboerslich (US-Handel noch nicht eroeffnet, Kursdaten unsicher) noch nicht bestaetigt; Cerebras ist echte Enttaeuschung statt Overreaction; Wendy's-Sprung bleibt Uebernahmespekulation; Krypto weiterhin ohne bestaetigten Ausbruch ueber die jeweiligen Widerstandszonen.",
+    "reasoning": "Risikoprofil spekulativ erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende, bestaetigte Gelegenheit. Cisco zeigt zwar das AMD-Muster (Beat + starke Prognose, aber Abverkauf wegen Marge) - da der US-Handel um 11:13 MESZ noch nicht eroeffnet ist, sind die vorboerslichen Kursdaten unzuverlaessig; ein Einstieg wird erst bei bestaetigtem Kurs nach Handelsbeginn geprueft. Cerebras verfehlte die Erwartungen tatsaechlich deutlich (Verlust doppelt so hoch wie erwartet, Hardware-Umsatz ruecklaeufig) - passt nicht zum erfolgreichen Sell-the-news-Reboundmuster. Solana und Bitcoin bleiben unter ihren etablierten Widerstandszonen ohne neuen Katalysator. Gold bestaetigt weiterhin intaktes Momentum und wird unveraendert weitergehalten. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen; freies Kapital von ca. 8.460,66 EUR bleibt mangels bestaetigter Gelegenheit ungenutzt.",
     "positionIds": [
       "pos-0004"
     ],
-    "portfolioValueEnd": 514.26,
+    "portfolioValueEnd": 511.22,
     "updates": [
       {
         "time": "09:17",
@@ -753,6 +753,11 @@
         "time": "10:13",
         "note": "Keine Aenderung; Gold auf 4.400,00 USD/+2,85% aktualisiert (Marke von 4.400 USD zurueckerobert). Wendy's-Sprung (+13%) ist Uebernahmespekulation, kein Dip-Kauf-Setup; Bitcoin/Solana weiterhin unter Widerstand - kein neuer Kauf",
         "portfolioValue": 514.26
+      },
+      {
+        "time": "11:13",
+        "note": "Keine Aenderung; Gold auf 4.374,03 USD/+2,24% aktualisiert. Cisco fiel trotz Beat und starker Prognose vorboerslich -5,9% (Margensorgen) - moegliches Dip-Setup, aber US-Handel noch nicht eroeffnet, daher kein Kauf auf unsicherer vorboerslicher Basis; Cerebras (-17,4%) ist echte Enttaeuschung, kein Kaufkandidat; Bitcoin/Solana weiterhin unter Widerstand - kein neuer Kauf",
+        "portfolioValue": 511.22
       }
     ]
   }
