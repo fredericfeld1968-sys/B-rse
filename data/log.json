@@ -736,13 +736,13 @@
   },
   {
     "date": "2026-08-13",
-    "marketOverview": "Donnerstag, 13:15 MESZ: DAX haelt sich bei ca. 26.450 Punkten (+0,5%), nahe dem gestrigen Allzeithoch von 26.574, US-Kernhandel oeffnet erst um 15:30 MESZ. US-Inflationsdaten (CPI) kamen erwartungsgemaess herein, was den US-Dollar leicht schwaecht und Gold weiter stuetzt - Gold notiert um 4.400-4.420 USD/oz, mit Tagesausschlaegen bis 4.441 USD (+2,9-3,8% seit Kauf). Cisco bleibt nach dem urspruenglichen Nachboersen-Abverkauf (-3,9% bis -5,9% je nach Quelle) volatil, Thyssenkrupp (-3,9%, operativer Gewinn-Miss trotz angehobener Prognose) und RWE (im Plus nach starkem H1) haben ihre Zahlen bereits verarbeitet - beide bieten kein neues Setup. Bitcoin pendelt weiterhin um 63.400-63.800 USD (leicht rot), Solana bei ca. 76,4 USD testet weiterhin erfolglos die Widerstandszone um 77 USD.",
-    "decision": "Tagesbudget-Gutschrift fuer den 13.08. bereits im ersten Lauf des Tages (09:17) erfolgt, freies Kapital unveraendert bei ca. 8.460,66 EUR. Gold (pos-0004) bleibt einzige offene Position, Kurs auf 4.410,00 USD (+3,08%) aktualisiert. Kein neuer Kauf: Cisco/Thyssenkrupp/RWE bieten weiterhin kein ueberzeugendes Dip-Setup (siehe vorherige Begruendung), Krypto weiterhin ohne bestaetigten Ausbruch ueber die jeweiligen Widerstandszonen, Bitcoin sogar leicht schwaecher als im letzten Lauf.",
-    "reasoning": "Risikoprofil spekulativ erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende, bestaetigte Gelegenheit. Seit dem letzten Lauf (12:13) hat sich die Lage bei den bereits geprueften Einzeltiteln nicht veraendert: Cisco erholt, Thyssenkrupp ohne klares Overreaction-Muster, RWE bereits im Plus. Solana und Bitcoin bleiben unter ihren etablierten Widerstandszonen, Bitcoin sogar mit leichtem Ruecksetzer - kein neuer Krypto-Katalysator. Gold bestaetigt weiterhin intaktes, mehrtaegiges Momentum (US-Dollar-Schwaeche nach erwartungsgemaessen CPI-Daten) und wird unveraendert weitergehalten. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen; freies Kapital von ca. 8.460,66 EUR bleibt mangels bestaetigter Gelegenheit ungenutzt.",
+    "marketOverview": "Donnerstag, 14:28 MESZ: DAX haelt sich bei ca. 26.450 Punkten, nahe dem Allzeithoch, US-Kernhandel oeffnet erst um 15:30 MESZ. Markt wartet auf den US-Erzeugerpreisindex (PPI, 8:30 ET/14:30 MESZ) - Ergebnis liegt noch nicht bestaetigt vor. Gold haelt sich robust ueber 4.400 USD/oz (aktuell ca. 4.415 USD, +3,2% seit Kauf), gestuetzt durch die erwartungsgemaessen CPI-Daten vom Vortag und schwindende Fed-Zinserhoehungserwartungen; Widerstand bei 4.450-4.500 USD. Cisco/Thyssenkrupp/RWE weiterhin ohne neues Setup. Bitcoin stabil um 63.400-63.800 USD nach der schwachen Reaktion auf die CPI-Daten, Solana bei ca. 76,4 USD testet weiterhin erfolglos die Widerstandszone um 77 USD.",
+    "decision": "Tagesbudget-Gutschrift fuer den 13.08. bereits im ersten Lauf des Tages (09:17) erfolgt, freies Kapital unveraendert bei ca. 8.460,66 EUR. Gold (pos-0004) bleibt einzige offene Position, Kurs auf 4.415,00 USD (+3,20%) aktualisiert. Kein neuer Kauf: PPI-Bericht steht unmittelbar bevor bzw. ist noch nicht verlaesslich verarbeitet, ein Einstieg unmittelbar davor waere spekulativ ohne Datenbasis; Cisco/Thyssenkrupp/RWE bieten weiterhin kein ueberzeugendes Dip-Setup, Krypto weiterhin ohne bestaetigten Ausbruch ueber die jeweiligen Widerstandszonen.",
+    "reasoning": "Risikoprofil spekulativ erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende, bestaetigte Gelegenheit. Der US-PPI-Bericht (8:30 ET) ist der zentrale Katalysator des Tages und lag zum Zeitpunkt dieses Laufs noch nicht bestaetigt vor - ein Kauf unmittelbar davor bei Gold, Aktien oder Krypto waere reines Raten statt einer bestaetigten Gelegenheit, daher bewusst abgewartet. Cisco/Thyssenkrupp/RWE bieten weiterhin kein neues Setup, Solana und Bitcoin bleiben unter ihren etablierten Widerstandszonen. Gold bestaetigt weiterhin intaktes, mehrtaegiges Momentum und wird unveraendert weitergehalten. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen; freies Kapital von ca. 8.460,66 EUR bleibt mangels bestaetigter Gelegenheit ungenutzt.",
     "positionIds": [
       "pos-0004"
     ],
-    "portfolioValueEnd": 515.42,
+    "portfolioValueEnd": 516.01,
     "updates": [
       {
         "time": "09:17",
@@ -768,6 +768,11 @@
         "time": "13:15",
         "note": "Keine Aenderung; Gold auf 4.410,00 USD/+3,08% aktualisiert (CPI-Daten erwartungsgemaess, US-Dollar-Schwaeche stuetzt Gold). Cisco/Thyssenkrupp/RWE weiterhin ohne neues Setup, Bitcoin leicht schwaecher (~63.500 USD), Solana weiterhin unter Widerstand ~77 USD - kein neuer Kauf",
         "portfolioValue": 515.42
+      },
+      {
+        "time": "14:28",
+        "note": "Keine Aenderung; Gold auf 4.415,00 USD/+3,20% aktualisiert. US-PPI-Bericht (8:30 ET) steht unmittelbar bevor/noch nicht bestaetigt verarbeitet - kein Kauf auf bloser Spekulation vor der Datenveroeffentlichung. Bitcoin ~63.400-63.800 USD stabil, Solana ~76,4 USD weiterhin unter Widerstand ~77 USD - kein neuer Kauf",
+        "portfolioValue": 516.01
       }
     ]
   }
