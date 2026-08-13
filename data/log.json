@@ -736,13 +736,13 @@
   },
   {
     "date": "2026-08-13",
-    "marketOverview": "Donnerstag, 16:37 MESZ: US-Indizes notieren nach dem flachen PPI-Bericht moderat im Plus (S&P +0,29%, Dow +0,24%, Nasdaq +0,23%), die Zinserhoehungserwartung fuer September ist auf ca. 35% gesunken. Gold haelt sich weiterhin robust ueber 4.400 USD/oz (Widerstand 4.450-4.500 USD). Cerebras faellt nach verfehlten Umsatzschaetzungen (echte Enttaeuschung), Datadog wird als aelterer 'Sell-the-news'-Fall trotz Zahlen-Beat genannt, aber ohne verlaesslich bestaetigten aktuellen Kurs/Boden kein Kauf-Trigger. Bitcoin stabil um 63.400 USD, Solana testet weiterhin erfolglos die Widerstandszone um 77-79,50 USD (Shorts haeufen sich, moegliches Squeeze-Setup, aber noch kein bestaetigter Ausbruch).",
-    "decision": "Tagesbudget-Gutschrift fuer den 13.08. bereits im ersten Lauf des Tages (09:17) erfolgt, freies Kapital unveraendert bei ca. 8.460,66 EUR. Gold (pos-0004) bleibt einzige offene Position, Kurs im 17:32-Lauf auf 4.405,00 USD (+2,97%) aktualisiert (leichter Ruecksetzer von den Tageshochs um 4.415 USD). Kein neuer Kauf: PPI-Reaktion bereits eingepreist, Cerebras/Cisco/Coherent fallen weiterhin aus echten fundamentalen Gruenden (kein Sell-the-news-Muster), Bitcoin (~63.560 USD) und Solana (~76,41 USD) bleiben unter ihren jeweiligen Widerstandszonen ohne bestaetigten Ausbruch.",
+    "marketOverview": "Donnerstag, 18:32 MESZ: US-Indizes weiterhin moderat im Plus nach dem flachen PPI-Bericht (S&P +0,4%, Nasdaq +0,2%, Dow leicht negativ), Zinssenkungs-/Nicht-Erhoehungserwartung fuer September gestuetzt. Gold pendelt weiterhin um 4.400-4.410 USD/oz (Widerstand 4.450-4.500 USD), ohne neuen Katalysator seit dem PPI-Bericht. Cerebras/Cisco/Coherent bleiben nach echten Enttaeuschungen im Minus, Super Micro Computer sprang dagegen nach starker Guidance um +7,5% (bereits gelaufen, kein Dip-Setup). Applied Materials (Zahlen erst nach US-Handelsschluss erwartet) sowie NetEase/JD.com/Tapestry/Nu Holdings weiterhin ohne handelbare Reaktion. Bitcoin stabil um 63.500 USD, Solana ist unter die 75-USD-Marke zurueckgefallen (Widerstandszone 75-79 USD weiterhin nicht bestaetigt ueberwunden).",
+    "decision": "Tagesbudget-Gutschrift fuer den 13.08. bereits im ersten Lauf des Tages (09:17) erfolgt, freies Kapital unveraendert bei ca. 8.460,66 EUR. Gold (pos-0004) bleibt einzige offene Position, Kurs im 18:32-Lauf auf 4.402,50 USD (+2,91%) aktualisiert (weiterhin knapp unter den Tageshochs, keine wesentliche Bewegung seit dem letzten Lauf). Kein neuer Kauf: PPI-Reaktion bereits eingepreist, Cerebras/Cisco/Coherent fallen weiterhin aus echten fundamentalen Gruenden (kein Sell-the-news-Muster), Super-Micro-Ralley bereits zu weit gelaufen fuer einen Einstieg, Applied-Materials-Zahlen noch nicht veroeffentlicht, Bitcoin (~63.500 USD) und Solana (unter 75 USD zurueckgefallen) bleiben unter ihren jeweiligen Widerstandszonen ohne bestaetigten Ausbruch.",
     "reasoning": "Risikoprofil spekulativ erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende, bestaetigte Gelegenheit. Die US-Kernhandelszeit laeuft, Aktien/ETFs/Rohstoffe sind grundsaetzlich handelbar, doch es fehlt weiterhin ein frisches, klar bestaetigtes Overreaction- oder Ausbruchs-Setup wie bei AMD/SpaceX/Palantir. Cerebras/Cisco/Coherent fallen wegen echter Enttaeuschungen/Margensorgen. Solana testet die Widerstandszone (75-79 USD) erneut ohne bestaetigten Schlusskurs darueber. Applied Materials, NetEase, JD.com, Tapestry und Nu Holdings melden erst nach bzw. im Tagesverlauf Zahlen - noch keine handelbare Reaktion. Gold bestaetigt weiterhin intaktes, mehrtaegiges Momentum (wenn auch mit leichtem Ruecksetzer heute) und wird unveraendert weitergehalten. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen; freies Kapital von ca. 8.460,66 EUR bleibt mangels bestaetigter Gelegenheit ungenutzt.",
     "positionIds": [
       "pos-0004"
     ],
-    "portfolioValueEnd": 514.84,
+    "portfolioValueEnd": 514.55,
     "updates": [
       {
         "time": "09:17",
@@ -788,6 +788,11 @@
         "time": "17:32",
         "note": "Keine Aenderung; Gold auf 4.405,00 USD/+2,97% aktualisiert (leichter Ruecksetzer). Bitcoin ~63.560 USD und Solana ~76,41 USD weiterhin unter ihren Widerstandszonen, Cerebras/Cisco/Coherent weiterhin echte Enttaeuschungen ohne Dip-Setup, Applied Materials/NetEase/JD.com/Tapestry/Nu Holdings melden Zahlen erst spaeter - kein neuer Kauf",
         "portfolioValue": 514.84
+      },
+      {
+        "time": "18:32",
+        "note": "Keine Aenderung; Gold auf 4.402,50 USD/+2,91% aktualisiert. Super Micro Computer (+7,5% nach starker Guidance) bereits zu weit gelaufen fuer Einstieg, Applied-Materials-Zahlen noch nicht veroeffentlicht, Solana unter 75 USD zurueckgefallen, Bitcoin stabil ~63.500 USD - kein neuer Kauf",
+        "portfolioValue": 514.55
       }
     ]
   }
