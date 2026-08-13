@@ -736,13 +736,13 @@
   },
   {
     "date": "2026-08-13",
-    "marketOverview": "Donnerstag, 15:22 MESZ: US-PPI (Juli) kam flach herein (0,0% vs. +0,2% erwartet) - weiteres Signal fuer abkuehlende Inflation, US-Futures reagierten moderat positiv (S&P +0,2%, Nasdaq +0,6% vorboerslich). Gold haelt sich weiterhin robust um 4.400-4.410 USD/oz (+3,0% seit Kauf), gestuetzt durch schwindende Fed-Zinserhoehungserwartungen; Widerstand bleibt bei 4.450-4.500 USD. Cerebras, Cisco und Coherent fallen nach echten Enttaeuschungen (kein Dip-Kauf-Setup), The Trade Desk bleibt nach dem bereits bekannten strukturellen Einbruch vom Vortag ebenfalls kein Kaufkandidat. Bitcoin stabil um 63.400-63.800 USD, Solana bei ca. 76,4 USD testet weiterhin erfolglos die Widerstandszone um 77 USD.",
-    "decision": "Tagesbudget-Gutschrift fuer den 13.08. bereits im ersten Lauf des Tages (09:17) erfolgt, freies Kapital unveraendert bei ca. 8.460,66 EUR. Gold (pos-0004) bleibt einzige offene Position, Kurs auf 4.408,50 USD (+3,05%) aktualisiert. Kein neuer Kauf: PPI ist nun bestaetigt flach hereingekommen (leicht positiv fuer Gold/Aktien), aber ohne neue konkrete Einzeltitel-Overreaction; Cerebras/Cisco/Coherent fallen aus echten fundamentalen Gruenden (kein Sell-the-news-Muster), Krypto weiterhin ohne bestaetigten Ausbruch ueber die jeweiligen Widerstandszonen.",
-    "reasoning": "Risikoprofil spekulativ erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende, bestaetigte Gelegenheit. Der PPI-Bericht liegt nun vor (flach, unter Erwartung) und bestaetigt den disinflationaeren Trend, loeste aber nur eine moderate, keine ueberzeugend neue Kaufgelegenheit bei Einzeltiteln aus. Cerebras/Cisco/Coherent fallen wegen echter Enttaeuschungen/Margensorgen, kein klassisches Overreaction-Setup wie bei AMD/SpaceX/Palantir. Solana und Bitcoin bleiben unter ihren etablierten Widerstandszonen. Gold bestaetigt weiterhin intaktes, mehrtaegiges Momentum und wird unveraendert weitergehalten. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen; freies Kapital von ca. 8.460,66 EUR bleibt mangels bestaetigter Gelegenheit ungenutzt.",
+    "marketOverview": "Donnerstag, 16:37 MESZ: US-Indizes notieren nach dem flachen PPI-Bericht moderat im Plus (S&P +0,29%, Dow +0,24%, Nasdaq +0,23%), die Zinserhoehungserwartung fuer September ist auf ca. 35% gesunken. Gold haelt sich weiterhin robust ueber 4.400 USD/oz (Widerstand 4.450-4.500 USD). Cerebras faellt nach verfehlten Umsatzschaetzungen (echte Enttaeuschung), Datadog wird als aelterer 'Sell-the-news'-Fall trotz Zahlen-Beat genannt, aber ohne verlaesslich bestaetigten aktuellen Kurs/Boden kein Kauf-Trigger. Bitcoin stabil um 63.400 USD, Solana testet weiterhin erfolglos die Widerstandszone um 77-79,50 USD (Shorts haeufen sich, moegliches Squeeze-Setup, aber noch kein bestaetigter Ausbruch).",
+    "decision": "Tagesbudget-Gutschrift fuer den 13.08. bereits im ersten Lauf des Tages (09:17) erfolgt, freies Kapital unveraendert bei ca. 8.460,66 EUR. Gold (pos-0004) bleibt einzige offene Position, Kurs auf 4.410,00 USD (+3,09%) aktualisiert. Kein neuer Kauf: PPI-Reaktion bereits eingepreist, Cerebras/Cisco/Coherent fallen aus echten fundamentalen Gruenden (kein Sell-the-news-Muster), Datadog-Fall ohne verlaesslich aktuelle Kursbestaetigung, Krypto weiterhin ohne bestaetigten Ausbruch ueber die jeweiligen Widerstandszonen.",
+    "reasoning": "Risikoprofil spekulativ erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende, bestaetigte Gelegenheit. Die US-Kernhandelszeit laeuft, Aktien/ETFs/Rohstoffe sind grundsaetzlich handelbar, doch es fehlt ein frisches, klar bestaetigtes Overreaction- oder Ausbruchs-Setup wie bei AMD/SpaceX/Palantir. Cerebras/Cisco/Coherent fallen wegen echter Enttaeuschungen/Margensorgen. Solana testet zwar die Widerstandszone mit Squeeze-Potenzial, aber ohne bestaetigten Schlusskurs darueber waere ein Einstieg verfrueht. Gold bestaetigt weiterhin intaktes, mehrtaegiges Momentum und wird unveraendert weitergehalten. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen; freies Kapital von ca. 8.460,66 EUR bleibt mangels bestaetigter Gelegenheit ungenutzt.",
     "positionIds": [
       "pos-0004"
     ],
-    "portfolioValueEnd": 515.25,
+    "portfolioValueEnd": 515.43,
     "updates": [
       {
         "time": "09:17",
@@ -778,6 +778,11 @@
         "time": "15:22",
         "note": "Keine Aenderung; PPI kam flach herein (0,0% vs. +0,2% erwartet, disinflationaer), US-Futures moderat positiv. Gold auf 4.408,50 USD/+3,05% aktualisiert. Cerebras/Cisco/Coherent fallen aus echten Gruenden (kein Dip-Setup), Bitcoin/Solana weiterhin unter Widerstand - kein neuer Kauf",
         "portfolioValue": 515.25
+      },
+      {
+        "time": "16:37",
+        "note": "Keine Aenderung; Gold auf 4.410,00 USD/+3,09% aktualisiert, US-Indizes moderat im Plus nach PPI. Datadog-Sell-the-news-Fall ohne verlaessliche aktuelle Kursbestaetigung verworfen, Cerebras/Cisco/Coherent weiterhin echte Enttaeuschungen. Solana testet Widerstand ~79,50 USD (Squeeze-Potenzial), aber kein bestaetigter Ausbruch - kein neuer Kauf",
+        "portfolioValue": 515.43
       }
     ]
   }
