@@ -736,13 +736,13 @@
   },
   {
     "date": "2026-08-13",
-    "marketOverview": "Donnerstag, 19:25 MESZ: US-Indizes nahe Rekordhoch (S&P 500 erstmals ueber 7.800 Punkte, +0,86%; Nasdaq 100 +1,21%; Dow +0,51%) nach dem flachen PPI-Bericht und schwaecheren Oelpreisen (WTI -1,84% auf 81,74 USD). Gold hat sich von den Tageshochs (~4.435 USD) auf ca. 4.370 USD/oz zurueckgezogen (weiterhin klar im Plus seit Kauf). JD.com fiel trotz Gewinn-Beat um rund 4%, da der Umsatz erstmals seit dem Listing 2014 zurueckging - echte fundamentale Eintruebung, kein Sell-the-news-Overreaction. Tapestry brach um 8,8% ein wegen schwacher FY27-Umsatzguidance trotz Gewinn-Beats. StubHub stuerzte nach Rekordumsatz (+33%) aber deutlich verfehltem Gewinn (EPS ~0,00 vs. 0,24 USD erwartet) um -13,7% ab, Aktie technisch bearisch unter allen EMAs. Applied Materials meldet Zahlen erst nach US-Handelsschluss. Bitcoin stabil um 63.400 USD, Solana leicht schwaecher um 75,5 USD, kein neuer Krypto-Katalysator.",
-    "decision": "Tagesbudget-Gutschrift fuer den 13.08. bereits im ersten Lauf des Tages (09:17) erfolgt, freies Kapital unveraendert bei ca. 8.460,66 EUR. Gold (pos-0004) bleibt einzige offene Position, Kurs im 19:25-Lauf auf 4.370,00 USD (+2,15%) aktualisiert (Ruecksetzer von den Tageshochs, aber weiterhin solide im Plus). Kein neuer Kauf: JD.com und Tapestry fielen aus echten fundamentalen Gruenden (Umsatzrueckgang bzw. schwache Guidance) statt aus reiner Overreaction, StubHub verfehlte trotz Rekordumsatz deutlich die Gewinnschaetzung und zeigt bearische Technik - kein ueberzeugendes Dip-Setup nach dem etablierten Muster. Applied-Materials-Zahlen stehen noch aus, Bitcoin/Solana bieten keinen neuen Katalysator.",
-    "reasoning": "Risikoprofil spekulativ erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende, bestaetigte Gelegenheit. Die heutigen grossen Kursausschlaege (JD.com, Tapestry, StubHub) beruhen auf echten fundamentalen Enttaeuschungen (Umsatzrueckgang, schwache Guidance, verfehlte Gewinnschaetzung) statt auf uebertriebenen Marktreaktionen auf ansonsten starke Zahlen - anders als bei den erfolgreichen Mustern AMD/SpaceX/Palantir. Ein Einstieg waere hier eher das Fangen eines fallenden Messers als ein Dip-Kauf. Applied Materials meldet erst nach Handelsschluss, daher noch keine handelbare Reaktion moeglich. Gold bestaetigt weiterhin intaktes mehrtaegiges Momentum trotz Ruecksetzer heute und wird unveraendert weitergehalten. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen; freies Kapital von ca. 8.460,66 EUR bleibt mangels bestaetigter Gelegenheit ungenutzt.",
+    "marketOverview": "Donnerstag, 20:21 MESZ: US-Indizes nahe Rekordhoch (S&P 500 erstmals ueber 7.800 Punkte, +0,5%; Nasdaq +0,7%; Dow leicht schwaecher) nach dem flachen PPI-Bericht und schwaecheren Oelpreisen. Gold notiert bei ca. 4.374 USD/oz, rund 0,8% unter dem juengsten Zwei-Monats-Hoch, aber weiterhin klar im Plus seit Kauf. Applied Materials meldet Zahlen erst nach US-Handelsschluss (Call 22:30 MESZ) - Markt preist starkes Wachstum (Umsatz +23% YoY erwartet) bereits ein, hohe Erwartungshaltung nach 108% Kursplus seit Jahresbeginn. Cisco und Cerebras belasteten den Tag mit Kurseinbruechen nach Zahlen. Bitcoin stabil um 63.500 USD, Solana ~76,4 USD in bekannter Range, kein neuer Krypto-Katalysator.",
+    "decision": "Tagesbudget-Gutschrift fuer den 13.08. bereits im ersten Lauf des Tages (09:17) erfolgt, freies Kapital unveraendert bei ca. 8.460,66 EUR. Gold (pos-0004) bleibt einzige offene Position, Kurs im 20:21-Lauf auf 4.374,03 USD (+2,24%) aktualisiert. Kein neuer Kauf: JD.com und Tapestry fielen aus echten fundamentalen Gruenden (Umsatzrueckgang bzw. schwache Guidance) statt aus reiner Overreaction, StubHub verfehlte trotz Rekordumsatz deutlich die Gewinnschaetzung und zeigt bearische Technik - kein ueberzeugendes Dip-Setup nach dem etablierten Muster. Applied-Materials-Zahlen stehen noch aus (Call erst 22:30 MESZ), Bitcoin/Solana bieten keinen neuen Katalysator.",
+    "reasoning": "Risikoprofil spekulativ erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende, bestaetigte Gelegenheit. Die heutigen grossen Kursausschlaege (JD.com, Tapestry, StubHub) beruhen auf echten fundamentalen Enttaeuschungen (Umsatzrueckgang, schwache Guidance, verfehlte Gewinnschaetzung) statt auf uebertriebenen Marktreaktionen auf ansonsten starke Zahlen - anders als bei den erfolgreichen Mustern AMD/SpaceX/Palantir. Ein Einstieg waere hier eher das Fangen eines fallenden Messers als ein Dip-Kauf. Applied Materials meldet erst nach Handelsschluss, daher noch keine handelbare Reaktion moeglich. Gold bestaetigt weiterhin intaktes mehrtaegiges Momentum und wird unveraendert weitergehalten. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen; freies Kapital von ca. 8.460,66 EUR bleibt mangels bestaetigter Gelegenheit ungenutzt.",
     "positionIds": [
       "pos-0004"
     ],
-    "portfolioValueEnd": 510.75,
+    "portfolioValueEnd": 511.22,
     "updates": [
       {
         "time": "09:17",
@@ -798,6 +798,11 @@
         "time": "19:25",
         "note": "Keine Aenderung; Gold auf 4.370,00 USD/+2,15% aktualisiert (Ruecksetzer von Tageshochs ~4.435 USD). JD.com (-4%, echter Umsatzrueckgang) und Tapestry (-8,8%, schwache Guidance) kein Dip-Setup; StubHub (-13,7%, Gewinn deutlich verfehlt trotz Rekordumsatz) bearisch und kein ueberzeugender Kauf. Applied Materials meldet erst nach Handelsschluss - kein neuer Kauf",
         "portfolioValue": 510.75
+      },
+      {
+        "time": "20:21",
+        "note": "Keine Aenderung; Gold auf 4.374,03 USD/+2,24% aktualisiert. Applied-Materials-Zahlen stehen noch aus (Call erst 22:30 MESZ), Bitcoin ~63.500 USD und Solana ~76,4 USD weiterhin in bekannter Range ohne neuen Katalysator - kein neuer Kauf",
+        "portfolioValue": 511.22
       }
     ]
   }
