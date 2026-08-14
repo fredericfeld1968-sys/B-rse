@@ -823,13 +823,13 @@
   },
   {
     "date": "2026-08-14",
-    "marketOverview": "US-Aktien schliessen den Handelstag schwaecher: S&P 500 und Dow -0,2%, Nasdaq-100 -0,4-0,5%, nachdem der S&P 500 zuvor ein Rekordhoch ueber 7.800 markiert hatte. Belastet von truebem Michigan-Konsumklima und dem staerksten Rueckgang der US-Einzelhandelsumsaetze seit ueber einem Jahr. Broadcom (AVGO) brach um bis zu -7% ein - Ratingagentur-Warnung (BofA) vor der 370-Mrd-USD-KI-Finanzierungsplattform mit Apollo/Blackstone, echtes fundamentales Risiko statt Sell-the-news-Ueberreaktion. Reddit (+10-12%) profitiert von der bevorstehenden S&P-500-Aufnahme am 18.08., ist damit aber bereits weit gelaufen. Gold konsolidiert bei ca. 4.353-4.381 USD/oz (+1,9% seit Kauf) nach Ruecksetzer vom Zehn-Wochen-Hoch, gestuetzt von schwaecherem Dollar und Fed-Zinssenkungshoffnung. Bitcoin bleibt schwach bei ca. 62.800-63.100 USD, Solana unveraendert um 75,4 USD ohne bestaetigten Ausbruch.",
-    "decision": "Kein Trade im 22. Lauf des Tages (21:12): Gold (pos-0004) auf 4.359,00 USD (+1,89%) aktualisiert. US-Boersen laufen noch bis ca. 22:00 MESZ, aber kein ueberzeugendes Setup gefunden - Broadcom-Einbruch ist fundamental begruendet (Rating-Warnung wegen KI-Finanzierungsrisiko), kein Overreaction-Dip-Kauf. Bitcoin/Solana weiterhin ohne Ausbruch aus der bekannten Range.",
-    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Der Broadcom-Abverkauf beruht auf einer echten Rating-/Bonitaets-Sorge (BofA-Warnung zur 370-Mrd-USD-Schuldenlast der KI-Finanzierungsplattform), nicht auf einer blossen Sell-the-news-Ueberreaktion nach starken Zahlen wie bei den erfolgreichen AMD-/SpaceX-/Palantir-Trades - daher kein Dip-Kauf. Reddit ist nach +10-12% bereits zu weit gelaufen fuer einen Neueinstieg. Bitcoin und Solana bieten weiterhin keinen bestaetigten Ausbruch aus ihrer etablierten Handelsspanne. Gold wird als einzige offene Position unveraendert weitergehalten (intaktes mehrtaegiges Aufwaertsmomentum seit Kauf). Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "marketOverview": "US-Boersen schliessen den Handel: S&P 500 und Dow beendeten den Tag rund -0,2% leichter, Nasdaq -0,4-0,5%, nach zwischenzeitlichem Rekordhoch. Broadcom-Einbruch (BofA-Ratingwarnung zur KI-Finanzierungsplattform) bleibt fundamental begruendet. Gold pendelt bei ca. 4.349-4.350 USD/oz (+1,67% seit Kauf), gestuetzt von schwaecherem Dollar vor FOMC-Minutes und PMI-Daten naechste Woche. Krypto insgesamt schwaecher: Bitcoin fiel auf ca. 62.750-63.100 USD (hawkishe BoJ-Aussagen zu schnelleren Zinserhoehungen, geopolitische Risiken, erste ETF-Abfluesse seit Ende Juli). Solana haelt sich vergleichsweise stabil bei ca. 75,96-76,18 USD (+3,9% 7-Tage, positive MoneyGram-Integrationsnews), aber weiterhin ohne bestaetigten Ausbruch ueber die bekannte Widerstandszone.",
+    "decision": "Kein Trade im 23. Lauf des Tages (22:12): Gold (pos-0004) auf 4.349,34 USD (+1,67%) aktualisiert. US-Boersen sind soeben geschlossen (ca. 22:00 MESZ), Aktien/ETFs/Rohstoffe damit nicht mehr handelbar. Krypto bietet keine ueberzeugende Gelegenheit: Bitcoin schwaecht sich unter Belastung durch hawkishe BoJ-Aussagen und ETF-Abfluesse weiter ab, Solana zwar mit positiver Nachrichtenlage (MoneyGram) aber ohne bestaetigten Ausbruch aus der etablierten Range.",
+    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Bitcoin zeigt mit den ETF-Abfluessen und der hawkishen BoJ-Reaktion eher Schwaeche als eine Kaufgelegenheit. Solana klettert zwar auf gute Nachrichten (MoneyGram-Partnerschaft), bleibt aber unter der historisch etablierten Widerstandszone - kein bestaetigter Ausbruch, daher kein Einstieg auf blosses Antesten. Gold bleibt als einzige offene Position mit intaktem Aufwaertstrend unveraendert gehalten. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen; freies Kapital von ca. 9.460,66 EUR bleibt mangels ueberzeugender Gelegenheit ungenutzt.",
     "positionIds": [
       "pos-0004"
     ],
-    "portfolioValueEnd": 509.46,
+    "portfolioValueEnd": 508.34,
     "updates": [
       {
         "time": "00:21",
@@ -940,6 +940,11 @@
         "time": "21:12",
         "note": "Keine Aenderung; Gold auf 4.359,00 USD/+1,89% aktualisiert (Konsolidierung nahe Zehn-Wochen-Hoch). Broadcom brach bis zu -7% ein (BofA-Warnung zu 370-Mrd-USD-KI-Finanzierungsrisiko) - fundamental begruendet, kein Dip-Kauf. Bitcoin/Solana weiterhin ohne Ausbruch aus der Range - kein neuer Kauf",
         "portfolioValue": 509.46
+      },
+      {
+        "time": "22:12",
+        "note": "Keine Aenderung; Gold aktualisiert (~4.349,34 USD/+1,67%). US-Boersen soeben geschlossen (Aktien/ETFs/Rohstoffe nicht mehr handelbar). Bitcoin schwaecher (~62.750-63.100 USD, hawkishe BoJ-Aussagen, ETF-Abfluesse), Solana trotz positiver MoneyGram-News (~75,96-76,18 USD) weiterhin ohne bestaetigten Ausbruch - kein ueberzeugender Krypto-Katalysator, daher kein neuer Kauf",
+        "portfolioValue": 508.34
       }
     ]
   }
