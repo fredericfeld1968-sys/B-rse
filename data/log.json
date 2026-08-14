@@ -823,13 +823,13 @@
   },
   {
     "date": "2026-08-14",
-    "marketOverview": "Freitag, kurz nach 01:00 MESZ: US-Boersen und Xetra bleiben bis zum Morgen geschlossen. Gold notiert weiterhin fest um 4.400 USD/oz (+2,9% seit Kauf), nahe Zehn-Wochen-Hoch, gestuetzt von stabilen US-Inflationsdaten, die den Zinsdruck auf die Fed verringern. Bitcoin verharrt in einer ruhigen, volatilitaetsarmen Handelsspanne um 64.000 USD (Fear&Greed-Index neutral bei 46-48). Solana ist aus einem mehrwoechigen fallenden Keil ausgebrochen und notiert bei ca. 75,94 USD oberhalb der Unterstuetzung 74-75 USD, der naechste Widerstand liegt weiterhin unbestaetigt bei 78-80 USD (gestuetzt von ETF-Zufluessen und schliessenden Short-Positionen sowie der MoneyGram-Integration). Die SEC haelt heute um 10:00 ET (16:00 MESZ) ein Meeting zur 'Regulation Crypto Assets' ab - Entscheidung steht noch aus.",
-    "decision": "Keine Kapitalaenderung in diesem Lauf (Tagesbudget-Gutschrift bereits um 00:21 erfolgt). Gold (pos-0004) wurde auf 4.400,00 USD (+2,85%) aktualisiert; einzige offene Position. Kein neuer Kauf: US-Boerse/Xetra/Rohstoffhandel sind nachts geschlossen, und Krypto (Solana weiterhin ohne bestaetigten Ausbruch ueber die Widerstandszone 78-80 USD, Bitcoin range-gebunden bei niedriger Volatilitaet) bietet keine wirklich ueberzeugende Gelegenheit. Das anstehende SEC-Meeting (16:00 MESZ) ist ein moeglicher Katalysator, aber noch nicht eingetreten.",
-    "reasoning": "Risikoprofil spekulativ erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende, bestaetigte Gelegenheit. Solana hat zwar den fallenden Keil verlassen, notiert aber weiterhin unterhalb der unbestaetigten Widerstandszone 78-80 USD - ein Einstieg auf blosses Antesten waere kein bestaetigtes Setup, zumal die eigentliche SEC-Entscheidung erst spaeter am Tag ansteht und vorher spekulativ zu handeln unnoetiges Risiko waere. Bitcoin zeigt keinerlei Ausbruchsdynamik (Fear&Greed neutral, niedrige Volatilitaet). Gold bestaetigt weiterhin intaktes mehrtaegiges Momentum nahe Zehn-Wochen-Hoch und wird unveraendert weitergehalten; ausserhalb der Handelszeiten ohnehin nicht verkaufbar. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen; freies Kapital von ca. 9.460,66 EUR bleibt mangels bestaetigter Gelegenheit ungenutzt.",
+    "marketOverview": "Freitag, kurz nach 02:00 MESZ: US-Boersen und Xetra bleiben bis zum Morgen geschlossen. Gold notiert weiterhin fest um 4.390-4.400 USD/oz (+2,7% seit Kauf), nahe Zehn-Wochen-Hoch, gestuetzt von stabilen US-Inflationsdaten. Bitcoin verharrt ruhig in der Spanne 63.000-64.000 USD (Fear&Greed neutral/leichte Angst). Solana notiert bei ca. 75-77 USD weiterhin unterhalb der unbestaetigten Widerstandszone 78-80 USD. Das fuer heute (14.08., 16:00 MESZ) angesetzte SEC-Meeting zur 'Regulation Crypto Assets' wurde ueberraschend wegen eines 'unforeseen scheduling issue' verschoben (kein neuer Termin genannt) - der zuvor erwartete Krypto-Katalysator faellt damit vorerst weg.",
+    "decision": "Keine Kapitalaenderung in diesem Lauf (Tagesbudget-Gutschrift bereits um 00:21 erfolgt). Gold (pos-0004) wurde auf 4.395,00 USD (+2,73%) aktualisiert; einzige offene Position. Kein neuer Kauf: US-Boerse/Xetra/Rohstoffhandel sind nachts geschlossen, und Krypto bietet weiterhin keine wirklich ueberzeugende Gelegenheit - das SEC-Meeting, der zuletzt erwartete Katalysator, wurde kurzfristig abgesagt, Bitcoin und Solana bleiben unveraendert range-gebunden ohne bestaetigten Ausbruch.",
+    "reasoning": "Risikoprofil spekulativ erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende, bestaetigte Gelegenheit. Die Verschiebung des SEC-Meetings entfernt den zuletzt einzigen konkret terminierten Krypto-Katalysator, ohne dass eine neue Entwicklung nachfolgt - ein Einstieg auf reine Erwartung waere jetzt erst recht unbegruendet. Solana bleibt weiterhin unter der unbestaetigten Widerstandszone 78-80 USD, Bitcoin zeigt keinerlei Ausbruchsdynamik. Gold bestaetigt weiterhin intaktes mehrtaegiges Momentum nahe Zehn-Wochen-Hoch und wird unveraendert weitergehalten; ausserhalb der Handelszeiten ohnehin nicht verkaufbar. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen; freies Kapital von ca. 9.460,66 EUR bleibt mangels bestaetigter Gelegenheit ungenutzt.",
     "positionIds": [
       "pos-0004"
     ],
-    "portfolioValueEnd": 514.25,
+    "portfolioValueEnd": 513.67,
     "updates": [
       {
         "time": "00:21",
@@ -840,6 +840,11 @@
         "time": "01:20",
         "note": "Keine Aenderung; Gold aktualisiert (~4.400 USD/+2,85%, nahe Zehn-Wochen-Hoch). Solana aus fallendem Keil ausgebrochen (~75,94 USD), aber weiterhin unter unbestaetigtem Widerstand 78-80 USD, Bitcoin ruhig bei ~64.000 USD (Fear&Greed neutral) - kein ueberzeugender Krypto-Katalysator vor dem SEC-Meeting um 16:00 MESZ, daher kein neuer Kauf",
         "portfolioValue": 514.25
+      },
+      {
+        "time": "02:24",
+        "note": "Keine Aenderung; Gold aktualisiert (~4.395 USD/+2,73%). SEC-Meeting zur 'Regulation Crypto Assets' (war fuer heute 16:00 MESZ angesetzt) ueberraschend verschoben - erwarteter Krypto-Katalysator faellt weg. Bitcoin unveraendert ~63.000-64.000 USD, Solana ~75-77 USD weiterhin unter Widerstand 78-80 USD - kein ueberzeugendes Setup, daher kein neuer Kauf",
+        "portfolioValue": 513.67
       }
     ]
   }
