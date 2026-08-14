@@ -823,13 +823,13 @@
   },
   {
     "date": "2026-08-14",
-    "marketOverview": "Freitag, morgens (Stand 07:24 MESZ): US-Boersen und Xetra bleiben bis zum regulaeren Handelsstart geschlossen, nur Krypto und Gold-Spot sind aktiv. Gold notiert stabil bei 4.325,38 USD/oz (+1,11% seit Kauf, unveraendert seit 06:19). Bitcoin erholt sich leicht von seinem naechtlichen Ruecksetzer auf ca. 64.900 USD (+0,28%), bleibt aber weiterhin unter der etablierten Widerstandszone. Solana pendelt unveraendert um ca. 75-76 USD ohne bestaetigten Ausbruch. Der Oelpreis gibt trotz neuer Tanker-Angriffe im Golf leicht nach (Brent ~87 USD, zuvor ueber 89 USD), waehrend die US-Marine ihre Praesenz im Golf mit einer Flugzeugtraegerrotation weiter verstaerkt - die geopolitische Lage bleibt angespannt, aber ohne neuen akuten Eskalationsschub seit dem letzten Lauf.",
-    "decision": "Keine Kapitalaenderung in diesem Lauf (Tagesbudget-Gutschrift bereits um 00:21 erfolgt). Gold (pos-0004) bleibt bei 4.325,38 USD (+1,11%) bestaetigt; einzige offene Position. Kein neuer Kauf: US-Boerse/Xetra/Rohstoffhandel sind vor Handelsstart weiterhin geschlossen, und Krypto bietet trotz leichter Bitcoin-Erholung keine bestaetigte, ueberzeugende Gelegenheit (weiterhin unter Widerstand, Solana unveraendert im Band). Im Lauf um 03:18 wurde lediglich der Gold-Kurs auf 4.357,40 USD (+1,86%) aktualisiert; im Lauf um 04:12 auf 4.378,28 USD (+2,34%); im Lauf um 05:16 auf 4.394,50 USD (+2,72%); im Lauf um 06:19 auf den zurueckgesetzten Kurs von 4.325,38 USD (+1,11%). Im aktuellen Lauf um 07:24 wurde Gold auf demselben Niveau bestaetigt, Bitcoin erholt sich leicht, aber ohne bestaetigten Ausbruch - daher erneut kein neuer Kauf.",
-    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Der geplatzte Hormuz-Deal (Trumps 50-Jahre-Entschaedigungsforderung) ist ein eindeutig negativer Krypto-Katalysator (Bitcoin -1,7%, steigende Oelpreise erhoehen Inflationssorgen) - kein Kaufsignal, sondern Risiko-Off. Solana bleibt ohne bestaetigten Ausbruch ueber den Widerstand ~77-78 USD. Aktien/ETFs/Rohstoffe (ausser Gold-Spot) sind vor Boersenoeffnung ohnehin nicht handelbar. Gold wird als einzige offene Position trotz kurzfristigem Ruecksetzer weiter gehalten, da der mittelfristige sichere-Hafen-Trend durch die eskalierende Geopolitik intakt bleibt. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen; freies Kapital von ca. 9.460,66 EUR bleibt mangels ueberzeugender Gelegenheit ungenutzt.",
+    "marketOverview": "Freitag, morgens (Stand 08:34 MESZ): US-Boersen und Xetra oeffnen erst um 9:00 MESZ, nur Krypto und Gold-Spot sind aktiv. Gold notiert bei 4.332,72 USD/oz (+1,28% seit Kauf, leicht hoeher als um 07:24). Bitcoin liegt laut aktuellen Quellen bei ca. 63.000-63.550 USD, damit etwas schwaecher als der 07:24-Stand, weiterhin unter der etablierten Widerstandszone. Solana pendelt weiterhin um ca. 75-77 USD ohne bestaetigten Ausbruch. US-Futures leicht im Plus (E-Mini S&P +0,2%, Nasdaq-100 +0,6%) vor den woechentlichen Erstantraegen auf Arbeitslosenhilfe; asiatische Boersen legten die vierte Woche in Folge zu auf nachlassende US-Inflationssorgen. Keine neue geopolitische Eskalation seit dem letzten Lauf.",
+    "decision": "Keine Kapitalaenderung in diesem Lauf (Tagesbudget-Gutschrift bereits um 00:21 erfolgt). Gold (pos-0004) auf 4.332,72 USD (+1,28%) aktualisiert; einzige offene Position. Kein neuer Kauf: Xetra/US-Boerse oeffnen erst um 9:00 MESZ, und Krypto bietet weiterhin keine bestaetigte, ueberzeugende Gelegenheit (Bitcoin unter Widerstand und eher schwaecher, Solana unveraendert im Band ohne Ausbruch).",
+    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Weder bei Bitcoin (weiterhin unter Widerstandszone, tendenziell schwaecher) noch bei Solana (kein bestaetigter Ausbruch ueber 77-78 USD) liegt ein neuer Katalysator vor. Aktien/ETFs/Rohstoffe (ausser Gold-Spot) sind vor Boersenoeffnung ohnehin nicht handelbar. Gold wird als einzige offene Position mit intaktem Aufwaertstrend weiter gehalten. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen; freies Kapital von ca. 9.461,51 EUR bleibt mangels ueberzeugender Gelegenheit ungenutzt.",
     "positionIds": [
       "pos-0004"
     ],
-    "portfolioValueEnd": 505.54,
+    "portfolioValueEnd": 506.39,
     "updates": [
       {
         "time": "00:21",
@@ -870,6 +870,11 @@
         "time": "07:24",
         "note": "Keine Aenderung; Gold bestaetigt bei 4.325,38 USD/+1,11% (unveraendert seit 06:19). Bitcoin erholt sich leicht auf ~64.900 USD (+0,28%), Solana unveraendert ~75-76 USD ohne bestaetigten Ausbruch, Oelpreis leicht ruecklaeufig (Brent ~87 USD) trotz neuer Tanker-Angriffe im Golf - kein ueberzeugender Krypto-Katalysator vor Boersenoeffnung (Xetra ab 9:00), daher kein neuer Kauf",
         "portfolioValue": 505.54
+      },
+      {
+        "time": "08:34",
+        "note": "Keine Aenderung; Gold aktualisiert (~4.332,72 USD/+1,28%). Bitcoin ~63.000-63.550 USD eher schwaecher, Solana unveraendert ~75-77 USD, US-Futures leicht im Plus vor Jobless-Claims-Daten - kein ueberzeugender Krypto-Katalysator vor Boersenoeffnung (Xetra ab 9:00), daher kein neuer Kauf",
+        "portfolioValue": 506.39
       }
     ]
   }
