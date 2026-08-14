@@ -952,5 +952,22 @@
         "portfolioValue": 513.62
       }
     ]
+  },
+  {
+    "date": "2026-08-15",
+    "marketOverview": "Samstag, kurz nach Mitternacht: US-Boersen, Xetra und Rohstoffmaerkte (inkl. Gold-Spot) bleiben wochenendbedingt bis Montag geschlossen. Gold notiert weiterhin fest im Bereich 4.350-4.390 USD/oz (ca. +2,5% seit Kauf), gestuetzt von Zinssenkungshoffnungen. Bitcoin bleibt schwach bei ca. 62.800-63.000 USD nach zwei aufeinanderfolgenden Tagen mit Netto-Abfluessen aus Spot-Bitcoin-ETFs (-131 Mio. USD am 13.08., grosstenteils aus ARKB), waehrend Ethereum-ETFs weiter leichte Zufluesse verzeichnen. Solana konsolidiert bei ca. 76 USD nach dem Ausbruch aus einem mehrwoechigen fallenden Keil am 12.08. (gestuetzt von MoneyGram-Ramps-Integration und ETF-Zufluessen), testet aber weiterhin ohne bestaetigten Schlusskurs die Widerstandszone 77,37-80 USD. Keine neue geopolitische Entwicklung an der Strasse von Hormus seit dem letzten Lauf.",
+    "decision": "Tagesbudget-Gutschrift fuer den 15.08. erfolgt (+1.000 EUR, totalFreshCapitalEur jetzt 11.000 EUR, freies Kapital ca. 10.460,66 EUR). Gold (pos-0004) auf ca. 4.385 USD (+2,50%) aktualisiert und unveraendert gehalten. Kein neuer Kauf: Aktien/ETFs/Rohstoffe sind wochenendbedingt nicht handelbar, und bei Krypto bietet weder Bitcoin (schwach, ETF-Abfluesse, keine Trendwende) noch Solana (weiterhin unter dem unbestaetigten Widerstand 77,37 USD) eine wirklich ueberzeugende Gelegenheit.",
+    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Bitcoin zeigt mit zwei Tagen ETF-Abfluessen in Folge eher ein schwaches als ein bullisches Setup. Solana hat zwar Anfang der Woche einen fallenden Keil nach oben verlassen, haengt aber weiterhin unter der Widerstandszone 77,37-80 USD fest, ohne dass ein bestaetigter Schlusskurs darueber vorliegt - ein Einstieg auf blosses erneutes Antesten waere kein bestaetigtes Setup. Gold wird als einzige offene Position mit intaktem mehrtaegigem Aufwaertstrend unveraendert weitergehalten. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "positionIds": [
+      "pos-0004"
+    ],
+    "portfolioValueEnd": 512.51,
+    "updates": [
+      {
+        "time": "00:15",
+        "note": "Tagesbudget-Gutschrift +1.000 EUR (freies Kapital jetzt ca. 10.460,66 EUR); neuer Tag (Samstag) begonnen, Boersen/Gold wochenendbedingt geschlossen - Aktien/ETFs/Rohstoffe nicht handelbar; Gold aktualisiert (~4.385 USD/+2,50%). Bitcoin schwach (~62.800-63.000 USD, zwei Tage ETF-Abfluesse), Solana ~76 USD weiterhin unter Widerstand 77,37 USD - kein ueberzeugender Krypto-Katalysator, daher kein neuer Kauf",
+        "portfolioValue": 512.51
+      }
+    ]
   }
 ]
