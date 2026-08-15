@@ -960,13 +960,13 @@
   },
   {
     "date": "2026-08-15",
-    "marketOverview": "Samstag Nachmittag, 14:17 Uhr: US-Boersen, Xetra und Rohstoffmaerkte bleiben wochenendbedingt bis Montag (Gold bis 17.08.) geschlossen. Bitcoin pendelt weiterhin schwach bei ca. 62.952 USD (Post-CPI-Rebound abgegeben, anhaltende Spot-ETF-Abfluesse). Solana notiert bei ca. 75,4-76,3 USD weiterhin unter der unbestaetigten Widerstandszone bei 77,37 USD. Gold-Spot zuletzt bei 4.394,54 USD/oz (+2,72% seit Kauf) - Gold zaehlt am 15./16.08. laut Marktdaten offiziell zu den Nicht-Handelstagen, Gold sicherte sich zum Wochenschluss den zweiten Wochengewinn in Folge. Geopolitisch keine neue Eskalation seit dem letzten Lauf: 10-Jahres-US-Rendite bei 4,70% nahe Mehrjahreshoch, naechstes wichtiges Ereignis bleibt Fed-Chair Warshs Jackson-Hole-Rede vom 27.-29.08., CLARITY-Act weiterhin in der Senats-Sommerpause blockiert - kein neuer Kurzfristkatalysator.",
-    "decision": "Tagesbudget-Gutschrift fuer den 15.08. bereits erfolgt (lastGrantDate=15.08., freies Kapital unveraendert ca. 10.460,66 EUR). Gold (pos-0004) auf 4.394,54 USD (+2,72%) aktualisiert (Rohstoffmarkt bis 17.08. wochenendbedingt geschlossen). Auch im 15:14-Lauf kein neuer Kauf: Aktien/ETFs/Rohstoffe sind wochenendbedingt nicht handelbar, und bei Krypto bietet weder Bitcoin (weiterhin schwach ~62.850-62.952 USD, ETF-Abfluesse, -3,34% Woche) noch Solana (~75,4-76,3 USD, weiterhin unter dem unbestaetigten Widerstand 77,37 USD) eine wirklich ueberzeugende Gelegenheit.",
-    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Bitcoin bleibt in derselben schwachen Range wie seit Stunden ohne neuen Katalysator, zusaetzlich belastet durch anhaltende ETF-Abfluesse. Solana haengt weiterhin unter der Widerstandszone bei 77,37 USD fest, ohne bestaetigten Schlusskurs darueber - ein Einstieg auf blosses erneutes Antesten waere kein bestaetigtes Setup. Gold wird als einzige offene Position mit intaktem mehrtaegigem Aufwaertstrend unveraendert weitergehalten (Rohstoffmarkt ohnehin wochenendbedingt geschlossen). Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "marketOverview": "Samstag Nachmittag, 16:13 Uhr: US-Boersen, Xetra und Rohstoffmaerkte bleiben wochenendbedingt bis Montag (Gold bis 17.08.) geschlossen. Bitcoin pendelt weiterhin schwach bei ca. 62.952 USD, weiterhin unter Druck durch anhaltende ETF-Abfluesse und gedaempfte Risikofreude wegen Nahost-Spannungen. Solana notiert bei ca. 75,50-76,33 USD weiterhin unter der unbestaetigten Widerstandszone bei 77,37 USD. Gold-Spot zuletzt bei ca. 4.376,44 USD/oz (+2,30% seit Kauf) - offizieller Nicht-Handelstag am 15./16.08. Keine neue Eskalation seit dem letzten Lauf; Fed-Chair Warshs Jackson-Hole-Rede (27.-29.08.) bleibt naechster wichtiger Katalysator, CLARITY-Act weiterhin in der Senats-Sommerpause blockiert.",
+    "decision": "Tagesbudget-Gutschrift fuer den 15.08. bereits erfolgt (lastGrantDate=15.08., freies Kapital unveraendert ca. 10.460,66 EUR). Gold (pos-0004) auf 4.376,44 USD (+2,30%) aktualisiert (Rohstoffmarkt bis 17.08. wochenendbedingt geschlossen). Auch im 16:13-Lauf kein neuer Kauf: Aktien/ETFs/Rohstoffe sind wochenendbedingt nicht handelbar, und bei Krypto bietet weder Bitcoin (weiterhin schwach ~62.952 USD, ETF-Abfluesse) noch Solana (~75,5-76,3 USD, weiterhin unter dem unbestaetigten Widerstand 77,37 USD) eine wirklich ueberzeugende Gelegenheit.",
+    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Bitcoin bleibt in derselben schwachen Range wie seit Stunden ohne neuen Katalysator, weiterhin belastet durch anhaltende ETF-Abfluesse und Nahost-Spannungen. Solana haengt weiterhin unter der Widerstandszone bei 77,37 USD fest, ohne bestaetigten Schlusskurs darueber - ein Einstieg auf blosses erneutes Antesten waere kein bestaetigtes Setup. Gold wird als einzige offene Position mit intaktem mehrtaegigem Aufwaertstrend unveraendert weitergehalten (Rohstoffmarkt ohnehin wochenendbedingt geschlossen). Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [
       "pos-0004"
     ],
-    "portfolioValueEnd": 513.62,
+    "portfolioValueEnd": 511.5,
     "updates": [
       {
         "time": "00:15",
@@ -1042,6 +1042,11 @@
         "time": "15:14",
         "note": "Keine Aenderung; Gold unveraendert (4.394,54 USD/+2,72%, Rohstoffmarkt wochenendbedingt geschlossen bis 17.08.). Bitcoin weiterhin schwach (~62.850-62.952 USD, -0,92% 24h, -3,34% Woche, anhaltende ETF-Abfluesse, Nahost-Spannungen belasten Risikoappetit), Solana ~75,4-76,3 USD weiterhin unter Widerstand 77,37 USD ohne bestaetigten Ausbruch - kein ueberzeugender Krypto-Katalysator, daher kein neuer Kauf",
         "portfolioValue": 513.62
+      },
+      {
+        "time": "16:13",
+        "note": "Keine Aenderung; Gold aktualisiert (~4.376,44 USD/+2,30%, Rohstoffmarkt wochenendbedingt geschlossen bis 17.08.). Bitcoin weiterhin schwach (~62.952 USD, anhaltende ETF-Abfluesse), Solana ~75,50-76,33 USD weiterhin unter Widerstand 77,37 USD ohne bestaetigten Ausbruch - kein ueberzeugender Krypto-Katalysator, daher kein neuer Kauf",
+        "portfolioValue": 511.5
       }
     ]
   }
