@@ -1084,5 +1084,22 @@
         "portfolioValue": 511.5
       }
     ]
+  },
+  {
+    "date": "2026-08-16",
+    "marketOverview": "Sonntag, kurz nach Mitternacht: Aktien, ETFs und Rohstoffe (Xetra, Gold-Spot-Handel) bleiben wochenendbedingt bis Montag, 17.08., geschlossen. Bitcoin bleibt schwach bei ca. 62.800-63.200 USD (-0,9% 24h, anhaltende ETF-Abfluesse, gedaempfter Risikoappetit durch Nahost-Spannungen). Solana notiert bei ca. 75,49-76,62 USD weiterhin unter dem mehrfach getesteten Widerstand bei 77,37 USD, ohne einen bestaetigten Ausbruch. Gold verharrt bei seinem letzten bestaetigten Schlusskurs von 4.376,44 USD/oz (+2,30% seit Kauf).",
+    "decision": "Tagesbudget-Gutschrift fuer den 16.08. erfolgt (+1.000 EUR, totalFreshCapitalEur jetzt 12.000 EUR, freies Kapital ca. 11.460,66 EUR). Gold-Position (pos-0004) bleibt unveraendert bei 4.376,44 USD (Rohstoffmarkt wochenendbedingt geschlossen). Kein neuer Kauf: Aktien/ETFs/Rohstoffe sind am Wochenende nicht handelbar, und Bitcoin/Solana bieten trotz reichlich freiem Kapital weiterhin keine wirklich ueberzeugende, bestaetigte Gelegenheit (Solana seit Tagen unter Widerstand 77,37 USD, Bitcoin in schwachem Abwaertstrend ohne Erholungssignal).",
+    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit - diese liegt aktuell weder bei den wochenendbedingt ohnehin nicht handelbaren Aktien/ETFs/Rohstoffen noch bei Krypto vor. Solana testet den Widerstand bei 77,37 USD bereits seit mehreren Tagen ohne bestaetigten Schlusskurs darueber; ein Einstieg auf blosses erneutes Antesten waere kein bestaetigtes Setup. Bitcoin bleibt in einem schwachen, von ETF-Abfluessen und geopolitischen Spannungen gepraegten Trend ohne Erholungssignal. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "positionIds": [
+      "pos-0004"
+    ],
+    "portfolioValueEnd": 511.5,
+    "updates": [
+      {
+        "time": "00:10",
+        "note": "Tagesbudget-Gutschrift +1.000 EUR (freies Kapital jetzt ca. 11.460,66 EUR); neuer Kalendertag (Sonntag) begonnen, Aktien/ETFs/Rohstoffe weiterhin wochenendbedingt nicht handelbar, Gold unveraendert 4.376,44 USD/+2,30%. Bitcoin weiterhin schwach ~62.800-63.200 USD, Solana ~75,49-76,62 USD weiterhin unter Widerstand 77,37 USD ohne bestaetigten Ausbruch - kein ueberzeugender Krypto-Katalysator, daher kein neuer Kauf",
+        "portfolioValue": 511.5
+      }
+    ]
   }
 ]
