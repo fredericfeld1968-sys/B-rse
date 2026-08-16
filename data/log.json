@@ -1087,9 +1087,9 @@
   },
   {
     "date": "2026-08-16",
-    "marketOverview": "Sonntag, spaeter Vormittag: Aktien, ETFs und Rohstoffe (Xetra, Gold-Spot-Handel) bleiben wochenendbedingt bis Montag, 17.08., geschlossen. Bitcoin notiert weiterhin schwach um 63.025 USD, unveraendert nach dem gescheiterten Ausbruchsversuch ueber 64.400-64.500 USD. Solana pendelt seitwaerts um 75,34 USD (Tagesrange 74,99-75,66 USD) weiterhin unter dem Widerstand von 77,37 USD. Gold-Spot unveraendert um 4.389,07 USD/oz (letzter verfuegbarer Kurs, Rohstoffmarkt wochenendbedingt geschlossen). Der Gesamtkryptomarkt bleibt in einer laengeren Schwaechephase, gedaempft durch schwache US-Konsumdaten (Verbrauchervertrauen, Einzelhandelsumsaetze) und anhaltende Bitcoin-ETF-Abfluesse - keine neuen markttreibenden Nachrichten seit dem letzten Lauf.",
-    "decision": "Tagesbudget-Gutschrift fuer den 16.08. bereits erfolgt (+1.000 EUR, totalFreshCapitalEur 12.000 EUR, freies Kapital weiterhin ca. 11.460,66 EUR, unveraendert seit Mitternacht). Gold-Position (pos-0004) unveraendert bei 4.389,07 USD (+2,60%) bestaetigt. Ueber den gesamten bisherigen Tagesverlauf (10 Laeufe) kein Trade: wochenendbedingt sind Aktien/ETFs/Rohstoffe nicht handelbar, und bei Krypto fehlt weiterhin ein bestaetigter Ausbruch (Bitcoin schwach unter Widerstand, Solana seitwaerts unter 77,37 USD).",
-    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit - diese liegt aktuell weder bei den wochenendbedingt ohnehin nicht handelbaren Aktien/ETFs/Rohstoffen noch bei Krypto vor: Bitcoin verharrt bei ca. 63.025 USD unveraendert schwach, Solana pendelt seitwaerts um 75,34 USD weiterhin deutlich unter dem Widerstand von 77,37 USD ohne jeden Ausbruchsversuch. Daher in diesem Lauf kein neuer Kauf und kein Verkauf.",
+    "marketOverview": "Sonntag, spaeter Vormittag (Stand 10:10 MESZ): Aktien, ETFs und Rohstoffe (Xetra, Gold-Spot-Handel) bleiben wochenendbedingt bis Montag, 17.08., geschlossen. Bitcoin notiert weiterhin schwach um 63.010 USD, unveraendert nach dem gescheiterten Ausbruchsversuch ueber 64.400-64.500 USD. Solana pendelt seitwaerts um 75,34 USD (Tagesrange 74,99-75,66 USD) weiterhin unter dem Widerstand von 77,37 USD. Gold-Spot unveraendert um 4.389,07 USD/oz (letzter verfuegbarer Kurs, Rohstoffmarkt wochenendbedingt geschlossen). Keine neuen markttreibenden Nachrichten seit dem letzten Lauf (09:12).",
+    "decision": "Tagesbudget-Gutschrift fuer den 16.08. bereits erfolgt (+1.000 EUR, totalFreshCapitalEur 12.000 EUR, freies Kapital weiterhin ca. 11.460,66 EUR, unveraendert seit Mitternacht). Gold-Position (pos-0004) unveraendert bei 4.389,07 USD (+2,60%) bestaetigt. Ueber den gesamten bisherigen Tagesverlauf (11 Laeufe) kein Trade: wochenendbedingt sind Aktien/ETFs/Rohstoffe nicht handelbar, und bei Krypto fehlt weiterhin ein bestaetigter Ausbruch (Bitcoin schwach unter Widerstand, Solana seitwaerts unter 77,37 USD).",
+    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit - diese liegt aktuell weder bei den wochenendbedingt ohnehin nicht handelbaren Aktien/ETFs/Rohstoffen noch bei Krypto vor: Bitcoin verharrt bei ca. 63.010 USD unveraendert schwach, Solana pendelt seitwaerts um 75,34 USD weiterhin deutlich unter dem Widerstand von 77,37 USD ohne jeden Ausbruchsversuch. Daher in diesem Lauf kein neuer Kauf und kein Verkauf.",
     "positionIds": [
       "pos-0004"
     ],
@@ -1143,6 +1143,11 @@
       {
         "time": "09:12",
         "note": "Keine Aenderung; Gold unveraendert (4.389,07 USD/+2,60%, Rohstoffmarkt wochenendbedingt geschlossen bis 17.08.). Bitcoin weiterhin schwach ~63.025 USD, Solana seitwaerts ~75,34 USD (Tagesrange 74,99-75,66 USD) weiterhin unter Widerstand 77,37 USD ohne Ausbruchsversuch - kein ueberzeugender Krypto-Katalysator, daher kein neuer Kauf",
+        "portfolioValue": 512.98
+      },
+      {
+        "time": "10:10",
+        "note": "Keine Aenderung; Bitcoin weiterhin schwach ~63.010 USD unter Widerstand, Solana seitwaerts ~75,34 USD unter Widerstand 77,37 USD, Gold unveraendert 4.389,07 USD/+2,60%. Wochenende, Aktien/ETFs/Rohstoffe nicht handelbar, kein ueberzeugender Krypto-Katalysator - kein neuer Kauf",
         "portfolioValue": 512.98
       }
     ]
