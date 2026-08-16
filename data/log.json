@@ -1087,13 +1087,13 @@
   },
   {
     "date": "2026-08-16",
-    "marketOverview": "Sonntag, spaeter Abend (Stand 18:13 MESZ): Aktien, ETFs und Rohstoffe (Xetra, Gold-Spot-Handel) bleiben wochenendbedingt bis Montag, 17.08., geschlossen. Bitcoin und Ethereum verharren weiterhin im Stillstand vor den FOMC-Protokollen (Veroeffentlichung 19.08.) bei ca. 63.000 USD bzw. ca. 1.878 USD, XRP verteidigt die Marke von 1 USD. Solana notiert seitwaerts bei 75,30-76,33 USD weiterhin unter dem Widerstand von 77,37 USD, Altcoin-Season-Index bei 48/100 (selektive statt breite Gewinne). Geopolitische Spannungen bleiben hoch: Ukraine fuehrte heute einen grossen Drohnenangriff auf Moskau durch, die VAE haben milliardenschwere iranische Vermoegenswerte (u.a. Gold) beschlagnahmt, die Gespraeche zur Wiedereroeffnung der Strasse von Hormus bleiben ergebnislos. Gold-Spot bleibt beim letzten bestaetigten Kurs von 4.375,88 USD/oz. Keine neue markttreibende Nachricht seit dem letzten Lauf (17:10).",
-    "decision": "Tagesbudget-Gutschrift fuer den 16.08. bereits erfolgt (+1.000 EUR, totalFreshCapitalEur 12.000 EUR, freies Kapital weiterhin ca. 11.460,66 EUR, unveraendert seit Mitternacht). Gold-Position (pos-0004) bleibt unveraendert bei 4.375,88 USD (+2,29%), da der Rohstoffmarkt wochenendbedingt geschlossen ist. Ueber den gesamten bisherigen Tagesverlauf (19 Laeufe) kein Trade: wochenendbedingt sind Aktien/ETFs/Rohstoffe nicht handelbar, und bei Krypto fehlt weiterhin ein bestaetigter Ausbruch - Bitcoin/Ethereum stagnieren ausdruecklich vor den FOMC-Protokollen, Solana bleibt unter seinem etablierten Widerstand bei 77,37 USD.",
-    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit - diese liegt weiterhin weder bei den wochenendbedingt ohnehin nicht handelbaren Aktien/ETFs/Rohstoffen noch bei Krypto vor: Bitcoin/Ethereum bleiben im expliziten Stillstand vor den FOMC-Protokollen am 19.08., zusaetzlich daempfen die eskalierenden geopolitischen Ereignisse (Drohnenangriff auf Moskau, VAE-Beschlagnahmung iranischer Vermoegenswerte) den Risikoappetit weiter. Solana pendelt weiterhin unter dem Widerstand von 77,37 USD ohne neues Setup seit Stunden. Daher in diesem Lauf kein neuer Kauf und kein Verkauf.",
+    "marketOverview": "Sonntag, spaeter Abend (Stand 19:11 MESZ): Aktien, ETFs und Rohstoffe (Xetra, Gold-Spot-Handel) bleiben wochenendbedingt bis Montag, 17.08., geschlossen. Bitcoin verharrt bei ca. 62.965-63.070 USD, Ethereum bei ca. 1.878 USD, beide weiterhin im Stillstand vor den FOMC-Protokollen (Veroeffentlichung 19.08., 20:00 MESZ). Solana notiert unveraendert seitwaerts bei 75,30-76,33 USD weiterhin unter dem Widerstand von 77,37 USD. Geopolitische Spannungen bleiben hoch: Ukraine-Drohnenangriff auf Moskau, VAE-Beschlagnahmung iranischer Vermoegenswerte, nur 13% Wahrscheinlichkeit laut Prognosemaerkten fuer eine Verlaengerung des US-Iran-Waffenstillstands nach dessen Ablauf am 20.08. Gold-Spot leicht aktualisiert auf 4.376,44 USD/oz (+2,30%). Keine neue markttreibende Nachricht seit dem letzten Lauf (18:13).",
+    "decision": "Tagesbudget-Gutschrift fuer den 16.08. bereits erfolgt (+1.000 EUR, totalFreshCapitalEur 12.000 EUR, freies Kapital weiterhin 11.460,66 EUR, unveraendert seit Mitternacht). Gold-Position (pos-0004) auf 4.376,44 USD (+2,30%) aktualisiert, da der Rohstoffmarkt wochenendbedingt geschlossen bleibt. Ueber den gesamten bisherigen Tagesverlauf (20 Laeufe) kein Trade: wochenendbedingt sind Aktien/ETFs/Rohstoffe nicht handelbar, und bei Krypto fehlt weiterhin ein bestaetigter Ausbruch - Bitcoin/Ethereum stagnieren ausdruecklich vor den FOMC-Protokollen, Solana bleibt unter seinem etablierten Widerstand bei 77,37 USD.",
+    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit - diese liegt weiterhin weder bei den wochenendbedingt ohnehin nicht handelbaren Aktien/ETFs/Rohstoffen noch bei Krypto vor: Bitcoin/Ethereum bleiben im expliziten Stillstand vor den FOMC-Protokollen am 19.08., zusaetzlich daempfen die eskalierenden geopolitischen Ereignisse (Drohnenangriff auf Moskau, VAE-Beschlagnahmung, brueckiger US-Iran-Waffenstillstand) den Risikoappetit weiter. Solana pendelt seit Stunden unveraendert unter dem Widerstand von 77,37 USD ohne neues Setup. Daher in diesem Lauf kein neuer Kauf und kein Verkauf.",
     "positionIds": [
       "pos-0004"
     ],
-    "portfolioValueEnd": 511.44,
+    "portfolioValueEnd": 511.5,
     "updates": [
       {
         "time": "00:10",
@@ -1189,6 +1189,11 @@
         "time": "18:13",
         "note": "Keine Aenderung; Bitcoin/Ethereum weiterhin im Stillstand vor den FOMC-Protokollen (19.08.) bei ~63.000/~1.878 USD, Solana unveraendert seitwaerts 75,30-76,33 USD unter Widerstand 77,37 USD (Altcoin-Season-Index 48/100), Gold unveraendert 4.375,88 USD/+2,29% (Rohstoffmarkt geschlossen bis 17.08.). Keine neue Nachrichtenlage seit dem letzten Lauf - kein ueberzeugender Katalysator, daher kein neuer Kauf",
         "portfolioValue": 511.44
+      },
+      {
+        "time": "19:11",
+        "note": "Keine Aenderung; Gold leicht aktualisiert (~4.376,44 USD/+2,30%). Bitcoin/Ethereum weiterhin im Stillstand vor FOMC-Protokollen (63.000/1.878 USD), Solana unveraendert seitwaerts 75,30-76,33 USD unter Widerstand 77,37 USD, geopolitische Spannungen unveraendert hoch - kein ueberzeugender Krypto-Katalysator, daher kein neuer Kauf",
+        "portfolioValue": 511.5
       }
     ]
   }
