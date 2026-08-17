@@ -1219,9 +1219,9 @@
   },
   {
     "date": "2026-08-17",
-    "marketOverview": "Montag frueh (Stand 02:16 MESZ): US-Boersen und Xetra oeffnen erst spaeter (Xetra 9:00, US-Handel nachmittags). Bitcoin verharrt im absteigenden Kanal bei ca. 62.900-63.000 USD weiterhin unter der psychologisch wichtigen 64.000-65.300-USD-Marke, Ethereum bei ca. 1.800-1.878 USD unterhalb der Rueckeroberungszone 1.900-1.922 USD, Solana seitwaerts bei 75-76 USD unter dem etablierten Widerstand 77,37 USD. Markt bleibt in Wartehaltung vor den FOMC-Protokollen (Sitzung 28./29.07., 9-3-Votum mit erstem Dreifach-Dissens seit 2016) am 19.08. sowie einem Krypto-Treffen im Weissen Haus am selben Tag; weitere Volatilitaetsimpulse werden erst zu NVIDIA-Zahlen (26.08.) und Jackson Hole (27.-29.08.) erwartet. Gold notiert unveraendert bei ca. 4.389 USD/oz (+2,6% seit Kauf) und bleibt nahe seinen juengsten Hochs.",
+    "marketOverview": "Montag frueh (Stand 03:13 MESZ): US-Boersen und Xetra oeffnen erst spaeter (Xetra 9:00, US-Handel nachmittags). Bitcoin verharrt im absteigenden Kanal bei ca. 62.900-63.000 USD weiterhin unter der psychologisch wichtigen 64.000-65.300-USD-Marke, Ethereum bei ca. 1.800-1.878 USD unterhalb der Rueckeroberungszone 1.900-1.922 USD, Solana seitwaerts bei 75-76 USD unter dem etablierten Widerstand 77,37 USD. Markt bleibt in Wartehaltung vor den FOMC-Protokollen (Sitzung 28./29.07.) am 19.08. sowie einem Krypto-Treffen im Weissen Haus am selben Tag; weitere Volatilitaetsimpulse werden erst zu NVIDIA-Zahlen (26.08.) und Jackson Hole (27.-29.08.) erwartet. Gold notiert unveraendert bei ca. 4.389 USD/oz (+2,6% seit Kauf) und bleibt nahe seinen juengsten Hochs.",
     "decision": "Tagesbudget-Gutschrift fuer den 17.08. erfolgt (+1.000 EUR, totalFreshCapitalEur jetzt 13.000 EUR, freies Kapital 12.460,66 EUR). Gold-Position (pos-0004) unveraendert bei 4.389,07 USD (+2,60%) bestaetigt. Kein neuer Kauf: Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten weiterhin nicht handelbar, und der Kryptomarkt bietet weiterhin keine ueberzeugende, bestaetigte Gelegenheit - Bitcoin/Ethereum/Solana verharren unveraendert unter ihren jeweiligen Widerstandszonen in Erwartung der FOMC-Protokolle.",
-    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Die Marktlage hat sich seit dem letzten Lauf (01:15) nicht veraendert: Krypto-Gesamtmarkt bleibt ohne bestaetigten Ausbruch, Marktteilnehmer warten auf die FOMC-Protokolle am 19.08. Aktien/ETFs/Rohstoffe sind zu dieser fruehen Nachtstunde ohnehin nicht handelbar. Gold wird als einzige offene Position mit intaktem Aufwaertstrend unveraendert weitergehalten. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Die Marktlage hat sich seit dem letzten Lauf (02:16) nicht veraendert: Krypto-Gesamtmarkt bleibt ohne bestaetigten Ausbruch, Marktteilnehmer warten auf die FOMC-Protokolle am 19.08. Aktien/ETFs/Rohstoffe sind zu dieser fruehen Nachtstunde ohnehin nicht handelbar. Gold wird als einzige offene Position mit intaktem Aufwaertstrend unveraendert weitergehalten. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [
       "pos-0004"
     ],
@@ -1235,6 +1235,11 @@
       {
         "time": "02:16",
         "note": "Keine Aenderung; Gold unveraendert (~4.389,07 USD/+2,60%). Bitcoin weiterhin ~62.900-63.000 USD im absteigenden Kanal unter der 64.000-65.300-USD-Marke, Ethereum ~1.800-1.878 USD unter Rueckeroberungszone, Solana ~75-76 USD unter Widerstand 77,37 USD - keine neue Nachrichtenlage seit dem letzten Lauf, Markt bleibt in Wartehaltung vor FOMC-Protokollen (19.08.) - kein ueberzeugender Krypto-Katalysator, daher kein neuer Kauf",
+        "portfolioValue": 512.98
+      },
+      {
+        "time": "03:13",
+        "note": "Keine Aenderung; Gold unveraendert (~4.389 USD/+2,60%). Bitcoin weiterhin ~62.900-63.000 USD im absteigenden Kanal, Ethereum ~1.800-1.878 USD, Solana ~75-76 USD unter Widerstand 77,37 USD - keine neue Nachrichtenlage seit 02:16, Aktien/ETFs/Rohstoffe vor Boersenoeffnung nicht handelbar, kein ueberzeugender Krypto-Katalysator - daher kein neuer Kauf",
         "portfolioValue": 512.98
       }
     ]
