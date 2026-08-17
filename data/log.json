@@ -1219,13 +1219,13 @@
   },
   {
     "date": "2026-08-17",
-    "marketOverview": "Montag vormittag (Stand 09:23 MESZ): Xetra ist seit 9:00 MESZ geoeffnet, DAX legt leicht zu (~26.487 Punkte, +0,18%), US-Handel folgt erst nachmittags. Gold notiert weiterhin fest um 4.394 USD/oz (+2,71% seit Kauf, Tagesspanne 4.311-4.397 USD), gestuetzt von schwaecheren US-Daten und Nahost-Spannungen. Bitcoin bleibt vor den FOMC-Protokollen (19.08.) unter Druck (~63.000 USD, mehrtaegige ETF-Abflusse, erhoehte Liquidationen), Ethereum kaempft um die 1.900-USD-Marke, Solana verharrt bei ~75-76 USD unter dem Widerstand bei 77,37 USD. Auffaelligster Einzeltitel-Kandidat waere Applied Materials (AMAT, -5% am 13.08. trotz Rekordumsatz und angehobenem Ausblick), doch die Reaktion ist bereits vier Handelstage alt und beruht auf einem echten strukturellen Bedenken (China-Umsatzanteil von 35% auf 28% gefallen) statt auf einer reinen Sell-the-news-Ueberreaktion - kein Muster wie bei AMD/SpaceX/Palantir.",
-    "decision": "Tagesbudget-Gutschrift fuer den 17.08. bereits um 01:15 erfolgt (capital.json unveraendert, freies Kapital weiterhin 12.460,66 EUR). Gold-Position (pos-0004) im 09:23-Lauf auf 4.394,00 USD (+2,71%) aktualisiert. Kein neuer Kauf: Xetra ist zwar seit 9:00 MESZ offen, aber kein frischer, ueberzeugender Dip-Kauf-Kandidat identifiziert (AMAT-Ruecksetzer ist alt und fundamental begruendet); US-Handel oeffnet erst nachmittags. Krypto bietet weiterhin keine ueberzeugende Gelegenheit - Bitcoin unter Abgabedruck vor FOMC-Protokollen, Solana weiterhin unter Widerstand.",
-    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Die Krypto-Nachrichtenlage bleibt seit dem letzten Lauf (08:28) im Wesentlichen unveraendert schwach (anhaltende ETF-Abflusse) - kein bestaetigter Ausbruch bei Bitcoin/Ethereum/Solana. Bei Aktien wurde AMAT als moeglicher Dip-Kauf geprueft, aber verworfen: die Reaktion ist vier Tage alt (kein 'frischer' Kauf-Impuls mehr) und der Rueckgang beruht auf einer echten strukturellen Sorge (sinkender China-Umsatzanteil) statt eines uebertriebenen Sell-the-news-Reflexes wie bei den erfolgreichen Vorbildern - naeher am Muster des verlustreichen Rheinmetall-Trades. Gold wird als einzige offene Position mit weiterhin intaktem Aufwaertstrend gehalten und auf den neuen Kurs aktualisiert. Aktien/ETFs/Rohstoffe unterliegen keinen Ausschluessen aus den Einstellungen.",
+    "marketOverview": "Montag vormittag (Stand 10:18 MESZ): Xetra seit 9:00 MESZ geoeffnet, DAX leicht im Plus. Gold notiert bei 4.394,47 USD/oz (+2,72% seit Kauf), leicht unter dem Morgenhoch von rund 4.432 USD, gestuetzt von schwaecheren US-Daten und Nahost-Spannung. Bitcoin verharrt bei ca. 63.445 USD (range 62.667-63.512 USD), weiterhin unter der 64.000-65.300-USD-Widerstandszone, Sentiment \"von Panik zu Vorsicht\". Solana notiert bei ca. 75,38 USD weiterhin unter dem Widerstand bei 76-78 USD. Keine neuen markbewegenden Nachrichten seit dem 09:23-Lauf; Markt wartet weiterhin auf die FOMC-Protokolle (19.08.) und CPI-Daten. Bei US-Einzeltiteln keine bestaetigte Sell-the-news-Ueberreaktion erkennbar, die einen Dip-Kauf rechtfertigen wuerde.",
+    "decision": "Tagesbudget-Gutschrift fuer den 17.08. bereits um 01:15 erfolgt (capital.json unveraendert, freies Kapital weiterhin 12.460,66 EUR). Gold-Position (pos-0004) im 10:18-Lauf auf 4.394,47 USD (+2,72%) aktualisiert. Kein neuer Kauf: Xetra ist zwar seit 9:00 MESZ offen, aber es fehlt weiterhin eine wirklich ueberzeugende, bestaetigte Gelegenheit (kein Sell-the-news-Ueberreaktion bei US-Einzeltiteln, Krypto weiterhin unter Widerstand vor FOMC-Protokollen 19.08.).",
+    "reasoning": "Risikoprofil 'spekulativ' mit erlaubtem kurzfristigem Trading, aber Kaufentscheidungen bleiben an eine ueberzeugende, bestaetigte Konstellation gebunden. Bitcoin (~63.445 USD) und Solana (~75,38 USD) bleiben unveraendert unter ihren jeweiligen Widerstandszonen ohne neuen Katalysator. Bei Aktien/ETFs wurde keine ueberzeugende Sell-the-news-Ueberreaktion identifiziert. Gold wird als einzige offene Position mit intaktem mehrtaegigem Aufwaertstrend unveraendert weitergehalten (leichter Ruecksetzer vom Morgenhoch, kein Trendbruch). Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [
       "pos-0004"
     ],
-    "portfolioValueEnd": 513.56,
+    "portfolioValueEnd": 513.61,
     "updates": [
       {
         "time": "01:15",
@@ -1271,6 +1271,11 @@
         "time": "09:23",
         "note": "Keine Aenderung; Gold aktualisiert (~4.394 USD/+2,71%), DAX seit Xetra-Oeffnung leicht im Plus (+0,18%). AMAT-Ruecksetzer als Dip-Kauf geprueft und verworfen (vier Tage alt, strukturell durch China-Umsatzrueckgang statt Sell-the-news-Ueberreaktion begruendet). Bitcoin/Solana weiterhin unter Widerstand vor FOMC-Protokollen - kein neuer Kauf",
         "portfolioValue": 513.56
+      },
+      {
+        "time": "10:18",
+        "note": "Keine Aenderung; Gold aktualisiert (~4.394,47 USD/+2,72%, leicht unter Morgenhoch ~4.432 USD). Bitcoin ~63.445 USD und Solana ~75,38 USD weiterhin unter ihren Widerstandszonen, keine neue Nachrichtenlage seit dem 09:23-Lauf - kein ueberzeugender Katalysator, daher kein neuer Kauf",
+        "portfolioValue": 513.61
       }
     ]
   }
