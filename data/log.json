@@ -1219,13 +1219,13 @@
   },
   {
     "date": "2026-08-17",
-    "marketOverview": "Montag abend (Stand 18:15 MESZ): US-Boersen seit 15:30 MESZ geoeffnet, S&P 500 nahezu unveraendert (+0,04%), Dow leicht schwaecher (-0,25%), Nasdaq leicht fester (+0,23%) - Zugkraft aus starkem Anthropic-Umsatzwachstum wird durch eskalierende Nahost-Spannungen (Israel/Hezbollah, Oelpreise nahe 90 USD/Barrel) gebremst. Einzelne Ruecksetzer nach Zahlen (Molson Coors -4,2%, Datadog -3,8%) ohne klare Overreaction-These, eher fortgesetzter struktureller Druck. Gold notiert weiter fest um 4.395-4.400 USD/oz (+2,8% seit Kauf), gestuetzt von schwachen US-Konjunkturdaten und geopolitischer Risikoaversion. Bitcoin haelt sich bei ca. 63.500 USD, Solana bei ca. 75,7 USD, beide weiterhin unter ihren jeweiligen Widerstandszonen vor den FOMC-Protokollen am 19.08.",
-    "decision": "Tagesbudget-Gutschrift fuer den 17.08. bereits um 01:15 erfolgt (capital.json unveraendert, freies Kapital weiterhin 12.460,66 EUR). Gold-Position (pos-0004) im 18:15-Lauf auf 4.397,00 USD (+2,78%) aktualisiert. Kein neuer Kauf: Trotz offenem Xetra-/US-Handel und hohem freiem Kapital keine wirklich ueberzeugende, bestaetigte Gelegenheit (Datadog/Molson-Coors-Ruecksetzer strukturell statt Overreaction, eskalierende Nahost-Lage spricht eher fuer Vorsicht bei Risikoassets, Krypto weiterhin unter Widerstand vor FOMC-Protokollen 19.08.).",
-    "reasoning": "Risikoprofil 'spekulativ' mit erlaubtem kurzfristigem Trading, aber Kaufentscheidungen bleiben an eine ueberzeugende, bestaetigte Konstellation gebunden (wie bisher erfolgreich bei AMD, SpaceX, Palantir: starke Fundamentaldaten trotz kurzfristigem Kursdruck). Die eskalierende Gewalt zwischen Israel und Hezbollah sowie steigende Oelpreise erhoehen kurzfristig die Unsicherheit fuer Risikoassets, ohne einen konkreten Einzeltitel-Dip mit klarer Overreaction-These zu liefern. Datadog und Molson Coors bleiben strukturelle, mehrtaegige Ruecksetzer nach Zahlen (kein sauberer Sell-the-news-Fall). Bitcoin und Solana bleiben unveraendert unter ihren Widerstandszonen ohne neuen Katalysator vor den FOMC-Protokollen. Gold profitiert hingegen von der erhoehten geopolitischen Risikoaversion und wird als einzige offene Position mit intaktem mehrtaegigem Aufwaertstrend unveraendert weitergehalten. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "marketOverview": "Montag abend (Stand 19:11 MESZ): US-Boersen weiterhin uneinheitlich (S&P 500 rund -0,2%, Dow rund -0,3-0,4%, Nasdaq leicht schwaecher), belastet von der abgelaufenen US-Iran-Waffenruhe und dem toedlichsten Kampftag seit Monaten im Libanon (Israel vs. Hezbollah); Oel bleibt fest (Brent ~89 USD/Barrel). Micron sticht mit +6% positiv heraus, Molson Coors (-4,2%) und Datadog (-3,8%) bleiben strukturelle Nachzahlen-Ruecksetzer ohne Overreaction-These. Gold notiert weiter fest um 4.398 USD/oz (+2,8% seit Kauf). Bitcoin (~63.500 USD) und Solana (~75,7 USD) unveraendert unter ihren Widerstandszonen vor den FOMC-Protokollen am 19.08.",
+    "decision": "Tagesbudget-Gutschrift fuer den 17.08. bereits um 01:15 erfolgt (capital.json unveraendert, freies Kapital weiterhin 12.460,66 EUR). Gold-Position (pos-0004) im 19:11-Lauf auf 4.398,50 USD (+2,82%) aktualisiert. Kein neuer Kauf: Die abgelaufene US-Iran-Waffenruhe und die eskalierende Lage im Libanon sprechen weiterhin eher fuer Vorsicht bei Risikoassets, kein Einzeltitel bietet eine bestaetigte Sell-the-news-Ueberreaktion, Krypto bleibt unter Widerstand vor den FOMC-Protokollen.",
+    "reasoning": "Risikoprofil 'spekulativ' mit erlaubtem kurzfristigem Trading, aber Kaufentscheidungen bleiben an eine ueberzeugende, bestaetigte Konstellation gebunden. Die abgelaufene US-Iran-Waffenruhe und der toedlichste Kampftag im Libanon seit Monaten erhoehen die geopolitische Unsicherheit weiter, ohne einen konkreten Einzeltitel-Dip mit klarer Overreaction-These zu liefern (Micron bereits gelaufen, Molson Coors/Datadog strukturell). Bitcoin und Solana bleiben unveraendert unter ihren Widerstandszonen ohne neuen Katalysator vor den FOMC-Protokollen. Gold profitiert von der erhoehten geopolitischen Risikoaversion und wird als einzige offene Position mit intaktem mehrtaegigem Aufwaertstrend unveraendert weitergehalten. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [
       "pos-0004"
     ],
-    "portfolioValueEnd": 513.9,
+    "portfolioValueEnd": 514.08,
     "updates": [
       {
         "time": "01:15",
@@ -1316,6 +1316,11 @@
         "time": "18:15",
         "note": "Keine Aenderung; Gold aktualisiert (~4.397 USD/+2,78%). Datadog (-3,8%) und Molson Coors (-4,2%) nach Zahlen gefallen, aber strukturell statt Overreaction - kein Dip-Kauf. Bitcoin/Solana weiterhin unter Widerstand vor FOMC-Protokollen (19.08.) - kein neuer Kauf trotz freiem Kapital von ca. 12.460,66 EUR",
         "portfolioValue": 513.9
+      },
+      {
+        "time": "19:11",
+        "note": "Keine Aenderung; Gold aktualisiert (~4.398,50 USD/+2,82%). US-Iran-Waffenruhe abgelaufen, toedlichster Kampftag im Libanon seit Monaten - erhoehte geopolitische Unsicherheit ohne konkrete Dip-Kauf-Gelegenheit. Bitcoin/Solana weiterhin unter Widerstand vor FOMC-Protokollen - kein neuer Kauf trotz freiem Kapital von ca. 12.460,66 EUR",
+        "portfolioValue": 514.08
       }
     ]
   }
