@@ -1219,13 +1219,13 @@
   },
   {
     "date": "2026-08-17",
-    "marketOverview": "Montag frueh (Stand 05:11 MESZ): US-Boersen und Xetra oeffnen erst spaeter (Xetra 9:00, US-Handel nachmittags). Bitcoin verharrt bei ca. 62.900-63.130 USD weiterhin unter der psychologisch wichtigen 64.000-65.300-USD-Marke (duennes Wochenendvolumen, zurueckhaltende ETF-Nachfrage). Ethereum kaempft weiterhin um die 1.900-USD-Marke (aktuell ca. 1.876-1.880 USD) unterhalb der Rueckeroberungszone. Solana notiert bei ca. 75,16 USD (-0,4% 24h) unter dem etablierten Widerstand 77,37 USD; das heute aktivierte Agave-v4.2-Mainnet-Upgrade (u.a. -90% On-Chain-Rentkosten, Vorstufe fuer Alpenglow) bleibt weiterhin ohne erkennbaren Kursimpuls. Markt bleibt in Wartehaltung vor den FOMC-Protokollen am 19.08.; laut Wochenausblick notiert der S&P 500 knapp unter seinem Rekordhoch (>7.800 Punkte) bei 10-Jahres-Rendite 4,68%. Gold hat sich weiter erholt und notiert bei ca. 4.420 USD/oz (+3,3% seit Kauf), nahe der Tageshochs (Spanne laut Marktdaten ca. 4.365-4.454 USD).",
-    "decision": "Tagesbudget-Gutschrift fuer den 17.08. bereits erfolgt (lastGrantDate 17.08., capital.json unveraendert). Gold-Position (pos-0004) auf 4.420,00 USD (+3,32%) aktualisiert. Kein neuer Kauf: Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten weiterhin nicht handelbar, und der Kryptomarkt bietet weiterhin keine ueberzeugende, bestaetigte Gelegenheit - Bitcoin/Ethereum/Solana verharren unveraendert unter ihren jeweiligen Widerstandszonen, das Solana-Agave-Upgrade bleibt ohne Kursreaktion.",
-    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Die Marktlage hat sich seit dem letzten Lauf (04:10) kaum veraendert: Krypto-Gesamtmarkt bleibt ohne bestaetigten Ausbruch, Marktteilnehmer warten auf die FOMC-Protokolle am 19.08. Gold setzt seine Erholung fort und wird als einzige offene Position mit weiterhin intaktem Aufwaertstrend gehalten. Aktien/ETFs/Rohstoffe sind zu dieser fruehen Morgenstunde ohnehin nicht handelbar. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "marketOverview": "Montag frueh (Stand 06:14 MESZ): Xetra oeffnet erst um 9:00 MESZ, US-Handel erst nachmittags. Gold hat sich vom Morgenhoch bei 4.420 USD leicht zurueckgezogen und notiert bei ca. 4.393 USD/oz (+2,69% seit Kauf). Bitcoin verharrt bei ca. 63.000 USD unter der psychologisch wichtigen 64.000-65.300-USD-Marke bei duennem Volumen. Ethereum kaempft weiterhin um die 1.800-1.880-USD-Zone, Solana notiert bei ca. 75-76 USD unter dem etablierten Widerstand bei 77,37 USD. Der gesamte Kryptomarkt ist flach bei reduziertem Handelsvolumen, da Marktteilnehmer auf die FOMC-Protokolle vom 19.08. warten. An den US-Futures zeichnet sich eine leichte Rotation ab (Small Caps und Energie staerker, Tech schwaecher), Oelpreise leicht hoeher wegen anhaltender Nahost-Spannungen (US-Iran, Libanon).",
+    "decision": "Tagesbudget-Gutschrift fuer den 17.08. bereits um 01:15 erfolgt (capital.json unveraendert, freies Kapital 12.460,66 EUR). Gold-Position (pos-0004) auf 4.393,00 USD (+2,69%) aktualisiert, nachdem sich der Kurs vom Morgenhoch bei 4.420 USD leicht zurueckgezogen hat. Kein neuer Kauf: Aktien/ETFs/Rohstoffe sind vor Boersenoeffnung weiterhin nicht handelbar, und der Kryptomarkt bietet weiterhin keine ueberzeugende, bestaetigte Gelegenheit - Bitcoin/Ethereum/Solana verharren unveraendert unter ihren jeweiligen Widerstandszonen bei flachem Handelsvolumen vor den FOMC-Protokollen.",
+    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Die Marktlage hat sich seit dem letzten Lauf (05:11) kaum veraendert: Krypto-Gesamtmarkt bleibt ohne bestaetigten Ausbruch, Marktteilnehmer warten weiterhin auf die FOMC-Protokolle am 19.08. Gold wird als einzige offene Position mit weiterhin intaktem, wenn auch leicht konsolidierendem Aufwaertstrend gehalten. Aktien/ETFs/Rohstoffe sind zu dieser fruehen Morgenstunde ohnehin nicht handelbar. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [
       "pos-0004"
     ],
-    "portfolioValueEnd": 516.59,
+    "portfolioValueEnd": 513.44,
     "updates": [
       {
         "time": "01:15",
@@ -1251,6 +1251,11 @@
         "time": "05:11",
         "note": "Keine Aenderung; Gold weiter erholt (~4.420 USD/+3,32%). Bitcoin weiterhin ~62.900-63.130 USD unter der 64.000-65.300-USD-Marke, Ethereum ~1.876-1.880 USD unter Rueckeroberungszone, Solana ~75,16 USD unter Widerstand 77,37 USD, Agave-v4.2-Upgrade weiterhin ohne Kursimpuls - kein ueberzeugender Krypto-Katalysator, Aktien/ETFs/Rohstoffe vor Boersenoeffnung nicht handelbar, daher kein neuer Kauf",
         "portfolioValue": 516.59
+      },
+      {
+        "time": "06:14",
+        "note": "Keine Aenderung; Gold leicht zurueckgezogen (~4.393 USD/+2,69%, vom Morgenhoch bei 4.420 USD). Bitcoin weiterhin ~63.000 USD unter Widerstand, Ethereum ~1.800-1.880 USD, Solana ~75-76 USD unter Widerstand 77,37 USD, Kryptomarkt flach vor FOMC-Protokollen (19.08.). Aktien/ETFs/Rohstoffe vor Boersenoeffnung nicht handelbar - kein ueberzeugender Katalysator, daher kein neuer Kauf",
+        "portfolioValue": 513.44
       }
     ]
   }
