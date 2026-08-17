@@ -1219,13 +1219,13 @@
   },
   {
     "date": "2026-08-17",
-    "marketOverview": "Montag frueher Nachmittag (Stand 13:25 MESZ): Xetra weiterhin geoeffnet, US-Boersen oeffnen erst um 15:30 MESZ. US-Futures wackeln knapp behauptet (Dow-Futures -0,1%, S&P/Nasdaq-Futures nahe der Nulllinie) vor der Retail-Earnings-Woche; groessere Einzeltitel-Katalysatoren fehlen bis Dienstag (Home Depot, Baidu, Toll Brothers). Gold notiert weiterhin knapp unter der psychologischen 4.400-USD-Marke bei ca. 4.397,50 USD/oz (+2,79% seit Kauf), gestuetzt von schwaecherem Dollar nach zuletzt weichen US-Konjunkturdaten. Bitcoin bei ca. 62.819-63.445 USD weiterhin unter der 64.000-65.300-USD-Widerstandszone, Solana bei ca. 74,54-75,34 USD weiterhin unter Widerstand 77,37-78,80 USD. Keine neue Nachrichtenlage seit dem 12:17-Lauf, Markt bleibt in Wartehaltung vor den FOMC-Protokollen vom 19.08.",
-    "decision": "Tagesbudget-Gutschrift fuer den 17.08. bereits um 01:15 erfolgt (capital.json unveraendert, freies Kapital weiterhin 12.460,66 EUR). Gold-Position (pos-0004) im 13:25-Lauf auf 4.397,50 USD (+2,79%) aktualisiert. Kein neuer Kauf: Trotz offenem Xetra-Handel und hohem freiem Kapital weiterhin keine wirklich ueberzeugende, bestaetigte Gelegenheit (keine frische Sell-the-news-Ueberreaktion bei US-/DE-Einzeltiteln, Krypto weiterhin unter Widerstand vor FOMC-Protokollen 19.08.).",
-    "reasoning": "Risikoprofil 'spekulativ' mit erlaubtem kurzfristigem Trading, aber Kaufentscheidungen bleiben an eine ueberzeugende, bestaetigte Konstellation gebunden. Bitcoin (~62.819-63.445 USD) und Solana (~74,54-75,34 USD) bleiben unveraendert unter ihren jeweiligen Widerstandszonen ohne neuen Katalysator. Bei Aktien/ETFs wurde keine ueberzeugende Sell-the-news-Ueberreaktion identifiziert, keine grossen Earnings-Reaktionen vor Dienstag. Gold wird als einzige offene Position mit intaktem mehrtaegigem Aufwaertstrend unveraendert weitergehalten. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "marketOverview": "Montag Nachmittag (Stand 14:36 MESZ): Xetra weiterhin geoeffnet, US-Boersen oeffnen um 15:30 MESZ. US-Futures wackeln knapp behauptet (Dow-Futures -0,2%, S&P-Futures +0,1%, Nasdaq-100-Futures +0,5%) vor der Retail-Earnings-Woche (Walmart, Target, Home Depot, Lowe's ab Dienstag); Konsumklima (Michigan-Index 51, unter Erwartung) und schwache Juli-Einzelhandelsumsaetze belasten weiter. Gold notiert weiterhin knapp unter der psychologischen 4.400-USD-Marke bei ca. 4.395,38 USD/oz (+2,74% seit Kauf), gestuetzt von schwaecherem Dollar nach zuletzt weichen US-Konjunkturdaten. Bitcoin haelt sich bei ca. 62.819 USD weiterhin unter der 64.000-65.300-USD-Widerstandszone, Solana bei ca. 74,54 USD weiterhin unter Widerstand 77,37-78,80 USD. Keine neue markante Nachrichtenlage seit dem 13:25-Lauf, Markt bleibt in Wartehaltung vor den FOMC-Protokollen vom 19.08.",
+    "decision": "Tagesbudget-Gutschrift fuer den 17.08. bereits um 01:15 erfolgt (capital.json unveraendert, freies Kapital weiterhin 12.460,66 EUR). Gold-Position (pos-0004) im 14:36-Lauf auf 4.395,38 USD (+2,74%) aktualisiert. Kein neuer Kauf: Trotz offenem Xetra-Handel und hohem freiem Kapital weiterhin keine wirklich ueberzeugende, bestaetigte Gelegenheit (keine frische Sell-the-news-Ueberreaktion bei US-/DE-Einzeltiteln, Krypto weiterhin unter Widerstand vor FOMC-Protokollen 19.08.).",
+    "reasoning": "Risikoprofil 'spekulativ' mit erlaubtem kurzfristigem Trading, aber Kaufentscheidungen bleiben an eine ueberzeugende, bestaetigte Konstellation gebunden. Bitcoin (~62.819 USD) und Solana (~74,54 USD) bleiben unveraendert unter ihren jeweiligen Widerstandszonen ohne neuen Katalysator. Bei Aktien/ETFs wurde keine ueberzeugende Sell-the-news-Ueberreaktion identifiziert, keine grossen Earnings-Reaktionen vor Dienstag. Gold wird als einzige offene Position mit intaktem mehrtaegigem Aufwaertstrend unveraendert weitergehalten. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [
       "pos-0004"
     ],
-    "portfolioValueEnd": 513.97,
+    "portfolioValueEnd": 513.71,
     "updates": [
       {
         "time": "01:15",
@@ -1291,6 +1291,11 @@
         "time": "13:25",
         "note": "Keine Aenderung; Gold aktualisiert (~4.397,50 USD/+2,79%, knapp unter der 4.400er-Marke). US-Futures nahe Nulllinie vor Boersenoeffnung (15:30 MESZ), keine neue Sell-the-news-Gelegenheit bei Einzeltiteln. Bitcoin (~62.819-63.445 USD) und Solana (~74,54-75,34 USD) weiterhin unter ihren Widerstandszonen vor FOMC-Protokollen (19.08.) - kein neuer Kauf trotz freiem Kapital von ca. 12.460,66 EUR",
         "portfolioValue": 513.97
+      },
+      {
+        "time": "14:36",
+        "note": "Keine Aenderung; Gold aktualisiert (~4.395,38 USD/+2,74%). US-Futures gemischt vor Boersenoeffnung (Dow -0,2%, Nasdaq-100 +0,5%), schwaches Konsumklima (Michigan-Index 51) belastet Stimmung vor Retail-Earnings-Woche, keine bestaetigte Sell-the-news-Gelegenheit bei Einzeltiteln. Bitcoin (~62.819 USD) und Solana (~74,54 USD) weiterhin unter ihren Widerstandszonen vor FOMC-Protokollen (19.08.) - kein neuer Kauf trotz freiem Kapital von ca. 12.460,66 EUR",
+        "portfolioValue": 513.71
       }
     ]
   }
