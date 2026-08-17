@@ -1219,13 +1219,13 @@
   },
   {
     "date": "2026-08-17",
-    "marketOverview": "Montag Nachmittag (Stand 15:22 MESZ): Xetra weiterhin geoeffnet, DAX seitwaerts nahe Rekordniveau bei ca. 26.423-26.490 Punkten (Gewinner: Infineon, Siemens Energy, Rheinmetall; Verlierer: Zalando, Qiagen, Vonovia). US-Boersen oeffnen um 15:30 MESZ, Futures uneinheitlich (Dow -0,2%, S&P +0,1%, Nasdaq-100 +0,5%) vor der Retail-Earnings-Woche (Walmart, Target, Home Depot, Lowe's ab Dienstag). Gold pendelt weiterhin knapp unter der 4.400-USD-Marke bei ca. 4.392 USD/oz (+2,66% seit Kauf). Bitcoin haelt sich bei ca. 63.544 USD weiterhin unter der Widerstandszone, Solana bei ca. 75,72 USD weiterhin unter Widerstand 77,37-78,80 USD. Keine neue markante Nachrichtenlage seit dem 14:36-Lauf, Markt bleibt in Wartehaltung vor den FOMC-Protokollen vom 19.08.",
-    "decision": "Tagesbudget-Gutschrift fuer den 17.08. bereits um 01:15 erfolgt (capital.json unveraendert, freies Kapital weiterhin 12.460,66 EUR). Gold-Position (pos-0004) im 15:22-Lauf auf 4.392,06 USD (+2,66%) aktualisiert. Kein neuer Kauf: Trotz offenem Xetra-Handel und hohem freiem Kapital weiterhin keine wirklich ueberzeugende, bestaetigte Gelegenheit (keine frische Sell-the-news-Ueberreaktion bei US-/DE-Einzeltiteln, Krypto weiterhin unter Widerstand vor FOMC-Protokollen 19.08.).",
-    "reasoning": "Risikoprofil 'spekulativ' mit erlaubtem kurzfristigem Trading, aber Kaufentscheidungen bleiben an eine ueberzeugende, bestaetigte Konstellation gebunden. Bitcoin (~62.819 USD) und Solana (~74,54 USD) bleiben unveraendert unter ihren jeweiligen Widerstandszonen ohne neuen Katalysator. Bei Aktien/ETFs wurde keine ueberzeugende Sell-the-news-Ueberreaktion identifiziert, keine grossen Earnings-Reaktionen vor Dienstag. Gold wird als einzige offene Position mit intaktem mehrtaegigem Aufwaertstrend unveraendert weitergehalten. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "marketOverview": "Montag Nachmittag (Stand 16:16 MESZ): US-Boersen seit 15:30 MESZ geoeffnet und uneinheitlich (S&P 500 +0,04%, Dow -0,25%, Nasdaq +0,23%, Russell 2000 -0,51%) vor der Retail-Earnings-Woche (Walmart, Target, Home Depot, Lowe's ab Dienstag). Tech-Werte profitieren von starkem Anthropic-Umsatzwachstum, das die These stuetzt, dass die hohen KI-Investitionen anhalten. Broadcom (AVGO) faellt weiter (~-5,7%) wegen einer aktiv ausgenutzten VMware-Sicherheitsluecke und Gewinnmitnahmen nach der langen Rally - kein klassischer Sell-the-news-Overreaction-Fall wie bei AMD/SpaceX/Palantir, sondern mehrtaegiger struktureller Rueckgang (>15% seit den Q4-Zahlen), daher kein Dip-Kauf. The Trade Desk (TTD) leichter Nachzahlen-Abverkauf (-2,75%), zu schwach fuer eine ueberzeugende Rebound-These. Gold pendelt weiterhin nahe der 4.400-USD-Marke bei ca. 4.396 USD/oz (+2,76% seit Kauf), gestuetzt von schwachen US-Konjunkturdaten (Einzelhandelsumsaetze) und gedaempften Zinserhoehungserwartungen. Bitcoin haelt sich bei ca. 63.544 USD, Solana bei ca. 75,72 USD, beide weiterhin unter ihren jeweiligen Widerstandszonen vor den FOMC-Protokollen am 19.08.",
+    "decision": "Tagesbudget-Gutschrift fuer den 17.08. bereits um 01:15 erfolgt (capital.json unveraendert, freies Kapital weiterhin 12.460,66 EUR). Gold-Position (pos-0004) im 16:16-Lauf auf 4.396,00 USD (+2,76%) aktualisiert. Kein neuer Kauf: Trotz offenem Xetra-/US-Handel und hohem freiem Kapital keine wirklich ueberzeugende, bestaetigte Gelegenheit (Broadcom-Rueckgang ist strukturell/mehrtaegig statt einer sauberen Sell-the-news-Ueberreaktion, TTD-Abverkauf zu schwach, Krypto weiterhin unter Widerstand vor FOMC-Protokollen 19.08.).",
+    "reasoning": "Risikoprofil 'spekulativ' mit erlaubtem kurzfristigem Trading, aber Kaufentscheidungen bleiben an eine ueberzeugende, bestaetigte Konstellation gebunden (wie bisher erfolgreich bei AMD, SpaceX, Palantir: starke Fundamentaldaten trotz kurzfristigem Kursdruck). Der Broadcom-Rueckgang ist ein mehrtaegiger, teils fundamental begruendeter Abverkauf (aktiv ausgenutzte VMware-Sicherheitsluecke, Gewinnmitnahmen nach langer Rally) und kein einmaliger Overreaction-Dip - Muster erinnert eher an den fehlgeschlagenen Rheinmetall-Trade als an die erfolgreichen Dip-Kaeufe. TTD faellt nur moderat (-2,75%) ohne klaren Reversal-Ansatzpunkt. Bitcoin und Solana bleiben unveraendert unter ihren Widerstandszonen ohne neuen Katalysator vor den FOMC-Protokollen. Gold wird als einzige offene Position mit intaktem mehrtaegigem Aufwaertstrend unveraendert weitergehalten. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [
       "pos-0004"
     ],
-    "portfolioValueEnd": 513.32,
+    "portfolioValueEnd": 513.79,
     "updates": [
       {
         "time": "01:15",
@@ -1301,6 +1301,11 @@
         "time": "15:22",
         "note": "Keine Aenderung; Gold aktualisiert (~4.392,06 USD/+2,66%). DAX seitwaerts nahe Rekordniveau, US-Boersen noch nicht geoeffnet (15:30 MESZ), keine bestaetigte Sell-the-news-Gelegenheit bei Einzeltiteln. Bitcoin (~63.544 USD) und Solana (~75,72 USD) weiterhin unter ihren Widerstandszonen vor FOMC-Protokollen (19.08.) - kein neuer Kauf trotz freiem Kapital von ca. 12.460,66 EUR",
         "portfolioValue": 513.32
+      },
+      {
+        "time": "16:16",
+        "note": "Keine Aenderung; Gold aktualisiert (~4.396 USD/+2,76%). US-Boersen seit 15:30 MESZ offen, uneinheitlich; Broadcom (AVGO) faellt strukturell (VMware-Sicherheitsluecke, Gewinnmitnahmen), kein Dip-Kauf da kein sauberer Overreaction-Fall. Bitcoin/Solana weiterhin unter Widerstand vor FOMC-Protokollen (19.08.) - kein neuer Kauf trotz freiem Kapital von ca. 12.460,66 EUR",
+        "portfolioValue": 513.79
       }
     ]
   }
