@@ -1346,13 +1346,13 @@
   },
   {
     "date": "2026-08-18",
-    "marketOverview": "US-Aktienmaerkte schlossen im 23. Lauf des Tages (22:08, nach Boersenschluss) erneut schwaecher: Nasdaq -1,3%, S&P 500 -0,6%, Dow -0,2%, belastet von hohen Anleiherenditen und steigenden Oelpreisen (Brent knapp unter 91 USD, WTI Richtung 85 USD), nachdem Trump eine Verlaengerung der US-Iran-Vereinbarung ablehnte und mit weiterem Wirtschaftsdruck auf Iran sowie einem moeglichen Vorgehen gegen Oman drohte. Gold haelt sich robust bei rund 4.429,49 USD/oz (+3,54% seit Kauf). Bitcoin konsolidiert nach abgeschlossenem ABCD-Muster nahe 65.200 USD ohne klaren Ausbruch (Bestaetigung erst ueber 65.600/66.800 USD), Solana haelt sich bei ~75,55-75,90 USD an der Unterstuetzung 73-75 USD, ohne die vielfach getestete Widerstandszone 77-80 USD zu ueberwinden.",
-    "decision": "Keine Aenderung im 23. Lauf des Tages (22:08): Gold-Position (pos-0004) auf aktuellen Kurs 4.429,49 USD (+3,54%) aktualisiert, weiterhin gehalten. Kein neuer Kauf trotz freiem Kapital von ca. 13.463,66 EUR - US-Aktien, ETFs und Rohstoffe sind nach Boersenschluss (22:00 MESZ) ohnehin nicht handelbar, fuer Krypto (einzig verbleibende handelbare Anlageklasse) fehlt weiterhin ein bestaetigter Ausbruch: Bitcoin bleibt in einer engen Handelsspanne ohne Bestaetigung ueber 65.600 USD, Solana testet die Widerstandszone 77-80 USD erneut ohne Durchbruch.",
-    "reasoning": "Risikoprofil spekulativ erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Nach 22:00 MESZ sind Aktien, ETFs und Rohstoffe nicht mehr handelbar, daher kaeme fuer diesen Lauf hoechstens eine Krypto-Position infrage. Bitcoin zeigt nach einem abgeschlossenen ABCD-Muster nahe 65.200 USD nur eine enge Handelsspanne mit moderatem Tagesgewinn - keine aggressive Momentum-Kaufbewegung, eine Bestaetigung braeuchte einen Schlusskurs ueber 65.600 bzw. 66.800 USD. Solana konsolidiert bei 75,55-75,90 USD oberhalb der Unterstuetzung 73-75 USD, testet aber die vielfach zurueckgewiesene Widerstandszone 77-80 USD weiterhin ohne Bestaetigung - ein Einstieg auf blosses erneutes Antesten waere kein bestaetigtes Setup. Gold bleibt als einzige offene Position mit intaktem Aufwaertstrend unveraendert gehalten und wurde auf den aktuellen Kurs aktualisiert. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "marketOverview": "Spaeter Abend (23:10 MESZ), US-Boersen seit 22:00 MESZ geschlossen: Nasdaq schloss -1,3%, S&P 500 -0,6%, Dow -0,2%, belastet von hohen Anleiherenditen (30J >5,3%, 19-Jahres-Hoch) und steigenden Oelpreisen (Brent ~91 USD), nachdem Trump eine Verlaengerung der US-Iran-Vereinbarung ablehnte und mit weiterem Druck auf Iran sowie einem moeglichen Vorgehen gegen Oman drohte. Gold gab vom Tageshoch (4.429,49 USD) leicht nach auf ca. 4.387 USD/oz (staerkerer Dollar, steigende Renditen), haelt sich aber weiter deutlich im Plus seit Kauf. Bitcoin notiert bei ca. 64.270-64.490 USD weiterhin unter der 65.300-66.000 USD Widerstandszone, Solana bei ca. 75,90-76,97 USD weiterhin unter der vielfach getesteten Widerstandszone 77-80 USD ohne bestaetigten Ausbruch.",
+    "decision": "Keine Aenderung im 24. Lauf des Tages (23:10): Gold-Position (pos-0004) auf aktuellen Kurs 4.387,25 USD (+2,55%) aktualisiert, weiterhin gehalten. Kein neuer Kauf trotz freiem Kapital von ca. 13.460,66 EUR - US-Aktien, ETFs und Rohstoffe sind nach Boersenschluss (22:00 MESZ) nicht mehr handelbar, fuer Krypto (einzig verbleibende handelbare Anlageklasse) fehlt weiterhin ein bestaetigter Ausbruch: Bitcoin bleibt unter der 65.300-66.000 USD Widerstandszone, Solana testet die Widerstandszone 77-80 USD weiterhin ohne Durchbruch.",
+    "reasoning": "Risikoprofil spekulativ erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Nach 22:00 MESZ sind Aktien, ETFs und Rohstoffe nicht mehr handelbar, daher kaeme fuer diesen Lauf hoechstens eine Krypto-Position infrage. Bitcoin notiert bei ca. 64.270-64.490 USD weiterhin ohne bestaetigten Schlusskurs ueber der Widerstandszone 65.300-66.000 USD. Solana notiert bei 75,90-76,97 USD innerhalb der seit Tagen unveraendert getesteten Widerstandszone 77-80 USD - ein Einstieg auf blosses erneutes Antesten waere kein bestaetigtes Setup. Gold bleibt als einzige offene Position mit weiterhin intaktem Aufwaertstrend seit Kauf gehalten und wurde auf den aktuellen, leicht ruecklaeufigen Kurs aktualisiert (staerkerer Dollar/steigende Renditen draengten den Preis vom Tageshoch zurueck). Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [
       "pos-0004"
     ],
-    "portfolioValueEnd": 517.7,
+    "portfolioValueEnd": 512.76,
     "updates": [
       {
         "time": "00:10",
@@ -1468,6 +1468,11 @@
         "time": "22:08",
         "note": "Keine Aenderung; Gold aktualisiert (4.429,49 USD/+3,54%). Boersenschluss (22:00 MESZ) erreicht - Aktien/ETFs/Rohstoffe nicht mehr handelbar. Bitcoin (~65.200 USD) und Solana (~75,55-75,90 USD) weiterhin ohne bestaetigten Ausbruch ueber ihre Widerstandszonen - kein neuer Kauf",
         "portfolioValue": 517.7
+      },
+      {
+        "time": "23:10",
+        "note": "Keine Aenderung; Gold aktualisiert (~4.387,25 USD/+2,55%, Ruecksetzer vom Tageshoch wegen staerkerem Dollar/steigenden Renditen). Aktien/ETFs/Rohstoffe weiterhin nicht handelbar (nach Boersenschluss), Bitcoin (~64.270-64.490 USD) und Solana (~75,90-76,97 USD) weiterhin ohne bestaetigten Ausbruch ueber ihre Widerstandszonen - kein neuer Kauf",
+        "portfolioValue": 512.76
       }
     ]
   }
