@@ -1346,13 +1346,13 @@
   },
   {
     "date": "2026-08-18",
-    "marketOverview": "Gold leicht auf ca. 4.394,72 USD/oz (+2,73% seit Kauf) zurueckgegangen nach dem zweitaegigen Anstieg, haelt sich aber weiter nahe der 4.400-USD-Marke. Hormuz-Eskalation bleibt Hauptthema: Trump droht Oman mit Konsequenzen bei Einmischung, Iran-Oman-Gespraeche laufen laut Teheran weiter, Zwei-Monats-Frist fuer Verhandlungen ist am 17.08. ausgelaufen. US-Aktienfutures bleiben vor Handelsstart negativ (Nasdaq-100 -1,1%, S&P 500 -0,5%, Dow -0,2%), Anleiherenditen und Oelpreis auf Mehrjahres- bzw. Mehrwochenhoch. Bitcoin haelt sich um ca. 64.100-64.400 USD (+2,5% 24h) weiterhin unter der Widerstandszone, Solana bei ca. 75,7-75,9 USD ebenfalls unveraendert unter Widerstand.",
-    "decision": "Keine Aenderung im 16. Lauf des Tages (15:15): Gold-Position (pos-0004) auf aktuellen Kurs 4.394,72 USD (+2,73%) aktualisiert, weiterhin gehalten. Kein neuer Kauf trotz freiem Kapital von 13.460,66 EUR - Xetra ist zwar geoeffnet, aber die Gesamtlage (Risk-off wegen Hormuz-Eskalation, US-Futures negativ, Bitcoin/Solana weiterhin unter Widerstand ohne bestaetigten Ausbruch) bietet keine wirklich ueberzeugende neue Gelegenheit gegenueber den letzten Laeufen.",
-    "reasoning": "Risikoprofil spekulativ erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Die Marktlage hat sich seit dem letzten Lauf (14:16) nicht wesentlich veraendert: Hormuz-Spannungen und Risk-off-Stimmung halten an, Krypto bleibt range-gebunden unter Widerstand. Gold wird als einzige offene Position mit weiterhin robustem mehrmonatigem Aufwaertstrend gehalten. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "marketOverview": "Gold pendelt weiterhin knapp unter der 4.400-USD-Marke (~4.394 USD/oz, +2,71% seit Kauf) nach dem Ruecksetzer vom Zweitageshoch. Hormuz-Eskalation bleibt das marktbeherrschende Thema: Trump droht weiterhin mit wirtschaftlichem Druck auf Iran und moeglichem Vorgehen gegen Oman, Oelpreise auf Mehrwochenhoch (Brent ~91 USD, WTI ~84 USD), 30-Jahres-Rendite auf 19-Jahres-Hoch (5,32%). US-Aktienfutures bleiben deutlich negativ (S&P 500 -0,5%, Nasdaq-100 -1,1%) vor dem Handelsstart, der Dow faellt bereits den zweiten Tag in Folge. Bitcoin haelt sich bei ca. 64.918 USD (+0,28%) und Solana bei ca. 75,90 USD weiterhin unveraendert unter ihren jeweiligen Widerstandszonen.",
+    "decision": "Keine Aenderung im 17. Lauf des Tages (16:15): Gold-Position (pos-0004) auf aktuellen Kurs 4.394,08 USD (+2,71%) aktualisiert, weiterhin gehalten. Kein neuer Kauf trotz freiem Kapital von ca. 13.460,66 EUR - die Marktlage hat sich seit dem letzten Lauf (15:15) nicht veraendert: anhaltendes Risk-off durch Hormuz-Eskalation und steigende Renditen, Bitcoin/Solana weiterhin range-gebunden unter Widerstand ohne bestaetigten Ausbruch.",
+    "reasoning": "Risikoprofil spekulativ erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Weder bei Aktien/ETFs (Risk-off-Umfeld wegen Oel/Renditen/Hormuz, keine Overreaction-Situation erkennbar) noch bei Krypto (Bitcoin und Solana unveraendert unter ihren Widerstandszonen) liegt gegenueber den letzten Laeufen eine neue, ueberzeugende Konstellation vor. Gold wird als einzige offene Position mit weiterhin robustem mehrmonatigem Aufwaertstrend unveraendert gehalten. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [
       "pos-0004"
     ],
-    "portfolioValueEnd": 513.64,
+    "portfolioValueEnd": 513.57,
     "updates": [
       {
         "time": "00:10",
@@ -1433,6 +1433,11 @@
         "time": "15:15",
         "note": "Keine Aenderung; Gold leicht aktualisiert (~4.394,72 USD/+2,73%, von 4.429,49 USD zurueckgegangen). US-Aktienfutures weiterhin negativ wegen Hormuz-Eskalation (Trump-Oman-Drohung), Bitcoin (~64.100-64.400 USD) und Solana (~75,7-75,9 USD) weiterhin unter Widerstand - kein neuer Kauf",
         "portfolioValue": 513.64
+      },
+      {
+        "time": "16:15",
+        "note": "Keine Aenderung; Gold leicht aktualisiert (~4.394,08 USD/+2,71%). US-Aktienfutures weiterhin deutlich negativ (S&P -0,5%, Nasdaq-100 -1,1%) wegen Hormuz-Eskalation und steigender Anleiherenditen (30J auf 19-Jahres-Hoch), Bitcoin (~64.918 USD) und Solana (~75,90 USD) weiterhin unter Widerstand - kein neuer Kauf",
+        "portfolioValue": 513.57
       }
     ]
   }
