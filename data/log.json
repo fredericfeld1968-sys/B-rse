@@ -1346,7 +1346,7 @@
   },
   {
     "date": "2026-08-18",
-    "marketOverview": "Dienstag, frueher Nachmittag (Stand 13:13 MESZ): Gold unveraendert bei 4.429,49 USD/oz (+3,54% seit Kauf). US-Aktienfutures bleiben deutlich negativ vor Handelsstart (S&P 500 -0,5%, Nasdaq-100 -1%, Dow flach), Oelpreise weiter erhoeht (Brent ~91 USD, WTI ~84 USD), 30-Jahres-Rendite auf 19-Jahres-Hoch (5,31%) - Trump droht mit weiterem Wirtschaftsdruck auf Iran und moeglichem Vorgehen gegen Oman wegen der Strasse von Hormuz. Bitcoin (~64.212 USD, +1,4% 24h) und Solana (~75,90 USD, +2,1% 24h) notieren weiterhin unterhalb ihrer jeweiligen Widerstandszonen ohne bestaetigten Ausbruch - keine wesentliche Veraenderung gegenueber dem letzten Lauf.",
+    "marketOverview": "Dienstag, Nachmittag (Stand 14:16 MESZ): Gold unveraendert bei 4.429,49 USD/oz (+3,54% seit Kauf). US-Aktienfutures bleiben negativ vor Handelsstart (S&P 500 -0,4%, Nasdaq-100 -1,1%, Dow flach), Oelpreise auf Mehrwochenhoch (Brent ~91 USD, WTI ~84 USD) wegen anhaltender US-Iran-Spannungen um die Strasse von Hormuz. Bitcoin (~64.918 USD) und Solana (~75,90 USD) notieren weiterhin unterhalb ihrer jeweiligen Widerstandszonen ohne bestaetigten Ausbruch - keine wesentliche Veraenderung gegenueber dem letzten Lauf.",
     "decision": "Tagesbudget-Gutschrift fuer den 18.08. bereits im ersten Lauf des Tages (00:10) durchgefuehrt, keine erneute Gutschrift (lastGrantDate bereits heute). Gold-Position (pos-0004) unveraendert bei 4.429,49 USD (+3,54%) bestaetigt. Weiterhin kein neuer Kauf trotz freiem Kapital von rund 13.460,66 EUR: Die weiterhin negativen US-Aktienfutures und die anhaltende Hormuz-Eskalation sprechen eher fuer Vorsicht als fuer einen Neueinstieg bei Aktien/ETFs; bekannte Ruecksetzer (On Holding, Molson Coors, Datadog) sind strukturell statt Overreaction und damit keine Dip-Kauf-Gelegenheit; im Kryptomarkt bestaetigen weder Bitcoin noch Solana einen Ausbruch aus ihrer Widerstandszone.",
     "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Die negativen US-Futures und die anhaltende, mit einem Schiffsangriff bestaetigte Hormuz-Eskalation sprechen aktuell gegen einen Neueinstieg bei Aktien; ein Kauf auf blosse Risk-off-Stimmung waere spekulativ ohne bestaetigten Kurs-Overreaction wie bei den erfolgreichen Mustern (AMD, SpaceX, Palantir). Weder Bitcoin noch Solana zeigen einen bestaetigten Ausbruch aus ihrer Widerstandszone. Gold wird als einzige offene Position mit weiterhin klar positivem Ertrag unveraendert weitergehalten. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [
@@ -1422,6 +1422,11 @@
       {
         "time": "13:13",
         "note": "Keine Aenderung; Gold unveraendert (4.429,49 USD/+3,54%). US-Aktienfutures weiterhin deutlich negativ (S&P -0,5%, Nasdaq-100 -1%) wegen Hormuz-Eskalation (Trump droht mit weiterem Wirtschaftsdruck auf Iran und moeglichem Vorgehen gegen Oman), Brent bei ~91 USD, 30-Jahres-Rendite auf 19-Jahres-Hoch (5,31%) - Risk-off-Umfeld unveraendert, keine ueberzeugende Kauf-Gelegenheit gefunden (On Holding, Molson Coors, Datadog strukturelle Ruecksetzer statt Overreaction). Bitcoin (~64.212 USD, +1,4% 24h) und Solana (~75,90 USD, +2,1% 24h) weiterhin unter ihren Widerstandszonen ohne bestaetigten Ausbruch - kein neuer Kauf trotz freiem Kapital von ca. 13.460,66 EUR",
+        "portfolioValue": 517.7
+      },
+      {
+        "time": "14:16",
+        "note": "Keine Aenderung; Gold unveraendert (4.429,49 USD/+3,54%). US-Aktienfutures weiterhin negativ (S&P -0,4%, Nasdaq-100 -1,1%) wegen Hormuz-Eskalation, Oel auf Mehrwochenhoch (Brent ~91 USD). Bitcoin (~64.918 USD) und Solana (~75,90 USD) weiterhin unter Widerstand ohne bestaetigten Ausbruch - kein neuer Kauf",
         "portfolioValue": 517.7
       }
     ]
