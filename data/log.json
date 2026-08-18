@@ -1346,13 +1346,13 @@
   },
   {
     "date": "2026-08-18",
-    "marketOverview": "Dienstag, kurz nach 6 Uhr morgens (Stand 06:08 MESZ): US-Boersen und Xetra bleiben bis zur naechsten regulaeren Sitzung geschlossen. Gold hat sich von seinem Nachthoch leicht zurueckgezogen und notiert bei ca. 4.395,85 USD/oz (+2,75% seit Kauf), bleibt aber weiterhin ueber der 4.300-USD-Marke. Bitcoin notiert bei ca. 63.260 USD und damit weiterhin unter der 64.000-65.300-USD-Widerstandszone (Wochenverlust), Solana unveraendert bei ca. 75,90 USD unter der 77-78-USD-Zone - kein bestaetigter Ausbruch. Die 60-Tage-Frist fuer ein Iran-Friedensabkommen laeuft laut Berichten am 17.08. ab, ein Hormuz-Deal mit Oman gilt als nahe, aber Iran verlangt weiterhin Truppenabzug und weitere Zugestaendnisse - Risk-off-Umfeld vor den FOMC-Protokollen (19.08.) haelt an.",
-    "decision": "Tagesbudget-Gutschrift fuer den 18.08. bereits im ersten Lauf des Tages (00:10) durchgefuehrt: totalFreshCapitalEur von 13.000 auf 14.000 EUR erhoeht, freies Kapital weiterhin ca. 13.460,70 EUR. Gold-Position (pos-0004) im Verlauf der Nacht mehrfach aktualisiert, zuletzt (06:08) auf 4.395,85 USD (+2,75%, leichter Ruecksetzer vom Nachthoch). Weiterhin kein neuer Kauf: US-Boersen/Xetra sind nachts geschlossen, Aktien/ETFs/Rohstoffe damit nicht handelbar; im Kryptomarkt bietet weder Bitcoin (~63.260 USD, weiterhin unter der 64.000-65.300-USD-Zone) noch Solana (unveraendert ~75,90 USD unter der 77-78-USD-Zone) eine wirklich ueberzeugende, bestaetigte Gelegenheit vor den anstehenden Katalysatoren (FOMC-Protokolle 19.08.); die weiterhin ungeloeste Hormuz-Lage bleibt ein zusaetzliches Risiko-Signal gegen einen spekulativen Krypto-Einstieg.",
+    "marketOverview": "Dienstag, kurz nach 7 Uhr morgens (Stand 07:12 MESZ): US-Boersen und Xetra weiterhin geschlossen (Xetra-Eroeffnung 9:00 MESZ). Gold notiert bei ca. 4.400 USD/oz (+2,85% seit Kauf) und haelt sich damit ueber der 4.400-USD-Marke, gestuetzt von nachlassenden Erwartungen an eine Fed-Zinserhoehung nach schwachen US-Konjunkturdaten. Bitcoin bei ca. 63.500 USD weiterhin unter der 64.000-65.300 USD Widerstandszone, Solana unveraendert bei ca. 75,90 USD unter der 77-78-USD-Zone - kein bestaetigter Ausbruch. Die Hormuz-Lage bleibt ungeloest: Iran und Oman sind laut Aussenminister Araghchi einer Einigung zu den Schifffahrtsrouten sehr nahe, eine vollstaendige Wiedereroeffnung haengt aber weiterhin von den USA ab; Irans Armee hat zugleich ein Kopfgeld auf US-Militaerpersonal ausgesetzt - Risk-off-Umfeld vor den FOMC-Protokollen (19.08.) haelt an.",
+    "decision": "Tagesbudget-Gutschrift fuer den 18.08. bereits im ersten Lauf des Tages (00:10) durchgefuehrt: totalFreshCapitalEur von 13.000 auf 14.000 EUR erhoeht, freies Kapital weiterhin ca. 13.460,70 EUR. Gold-Position (pos-0004) im Verlauf der Nacht mehrfach aktualisiert, zuletzt (06:08) auf 4.395,85 USD (+2,75%, leichter Ruecksetzer vom Nachthoch). Weiterhin kein neuer Kauf: US-Boersen/Xetra sind nachts geschlossen, Aktien/ETFs/Rohstoffe damit nicht handelbar; im Kryptomarkt bietet weder Bitcoin (~63.260 USD, weiterhin unter der 64.000-65.300-USD-Zone) noch Solana (unveraendert ~75,90 USD unter der 77-78-USD-Zone) eine wirklich ueberzeugende, bestaetigte Gelegenheit vor den anstehenden Katalysatoren (FOMC-Protokolle 19.08.); die weiterhin ungeloeste Hormuz-Lage bleibt ein zusaetzliches Risiko-Signal gegen einen spekulativen Krypto-Einstieg. Im Lauf um 07:12 wurde Gold auf 4.400 USD (+2,85%) aktualisiert; weiterhin kein neuer Kauf mangels bestaetigter Gelegenheit (Bitcoin/Solana unter Widerstand, Hormuz-Lage ungeloest, FOMC-Protokolle erst morgen).",
     "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Weder Bitcoin noch Solana zeigen einen bestaetigten Ausbruch aus ihren jeweiligen Widerstandszonen, und beide stehen vor bedeutenden Katalysatoren in den naechsten Tagen (FOMC-Protokolle 19.08.) sowie der weiterhin ungeloesten Lage an der Strasse von Hormus - ein Einstieg jetzt waere reine Spekulation in einem Risk-off-Umfeld ohne bestaetigtes Setup. Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten ohnehin nicht handelbar. Gold wird als einzige offene Position mit weiterhin klar positivem Ertrag unveraendert weitergehalten. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [
       "pos-0004"
     ],
-    "portfolioValueEnd": 513.77,
+    "portfolioValueEnd": 514.26,
     "updates": [
       {
         "time": "00:10",
@@ -1388,6 +1388,11 @@
         "time": "06:08",
         "note": "Keine Aenderung; Gold aktualisiert (~4.395,85 USD/+2,75%, leichter Ruecksetzer vom Nachthoch). Bitcoin ~63.260 USD weiterhin unter der 64.000-65.300 USD Widerstandszone, Solana unveraendert ~75,90 USD unter Widerstand 77-78 USD ohne bestaetigten Ausbruch. 60-Tage-Frist fuer Iran-Friedensabkommen laeuft, Hormuz-Lage weiterhin ungeloest, US-Boersen/Xetra nachts geschlossen - kein neuer Kauf",
         "portfolioValue": 513.77
+      },
+      {
+        "time": "07:12",
+        "note": "Keine Aenderung; Gold aktualisiert (~4.400 USD/+2,85%). Bitcoin ~63.500 USD weiterhin unter Widerstand 64.000-65.300 USD, Solana unveraendert ~75,90 USD unter 77-78 USD Widerstandszone. Iran/Oman laut Araghchi einer Einigung zur Hormuz-Route sehr nahe, volle Wiedereroeffnung haengt aber an den USA; Iran setzt zugleich Kopfgeld auf US-Militaerpersonal aus - kein ueberzeugender Krypto-Katalysator, US-Boersen/Xetra nachts geschlossen, daher kein neuer Kauf",
+        "portfolioValue": 514.26
       }
     ]
   }
