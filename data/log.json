@@ -1346,13 +1346,13 @@
   },
   {
     "date": "2026-08-18",
-    "marketOverview": "US-Aktienmaerkte im 19. Lauf des Tages (18:15) weiterhin schwaecher: Dow -0,2%, S&P 500 -0,6%, Nasdaq -1,3% (Chip-Aktien unter starkem Druck), 30-Jahres-Rendite auf Mehrjahreshoch, Oelpreise erhoeht wegen Hormuz-Eskalation (Strasse faktisch weiter geschlossen, Trump droht nun auch Oman, keine finale Einigung). Einzelwerte: Bio-Rad -32% (technische Korrektur nach Lauf, kein Overreaction-Setup), Fabrinet -11,3% trotz Zahlenschlag (Margendruck), Wolfspeed -7,6% vor Zahlen morgen - keiner davon ein ueberzeugender Dip-Kauf nach etabliertem Muster. Gold haelt sich robust ueber 4.400 USD/oz (aktuell ~4.400,50 USD, +2,86% seit Kauf). Bitcoin ~64.000 USD, Solana ~76,26 USD (+0,7% 24h) - beide weiterhin unter ihren jeweiligen Widerstandszonen ohne bestaetigten Ausbruch.",
-    "decision": "Keine Aenderung im 19. Lauf des Tages (18:15): Gold-Position (pos-0004) auf aktuellen Kurs 4.400,50 USD (+2,86%) aktualisiert, weiterhin gehalten. Kein neuer Kauf trotz freiem Kapital von ca. 13.460,66 EUR - Marktlage bleibt makrogetrieben Risk-off (Renditen/Oel/Hormuz), die heutigen Einzeltitel-Ruecksetzer (Bio-Rad, Fabrinet, Wolfspeed) sind fundamental bzw. technisch bedingt statt reine Sell-the-news-Overreaction, Bitcoin/Solana weiterhin unter Widerstand ohne bestaetigten Ausbruch.",
-    "reasoning": "Risikoprofil spekulativ erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. US-Aktien fallen weiter breit (S&P -0,6%, Nasdaq -1,3%) im Zuge steigender Renditen und Oelpreise - ein makrogetriebener, marktbreiter Rueckgang ohne erkennbare Einzeltitel-Overreaction wie bei den erfolgreichen Mustern (AMD/SpaceX/Palantir). Bio-Rad (-32%) ist laut Berichten eine technische Korrektur nach starkem Lauf plus institutionellem Verkaufsdruck, kein Sell-the-news-Dip; Fabrinet (-11,3% trotz Gewinnschlag) leidet unter echten Margen-/FCF-Sorgen, keine reine Overreaction; Wolfspeed (-7,6%) faellt vor den eigenen Zahlen morgen - zu spekulativ ohne bestaetigtes Ergebnis. Krypto bietet weiterhin keinen bestaetigten Ausbruch. Gold wird als einzige offene Position mit intaktem, robustem Aufwaertstrend unveraendert gehalten. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "marketOverview": "US-Aktienmaerkte bleiben im 20. Lauf des Tages (19:10) schwaecher: S&P 500 -0,44%, Dow -0,21%, Nasdaq -1,02%, belastet von steigenden Anleiherenditen (10J Richtung 4,75%, 30J ueber 5,3%, hoechster Stand seit 2007) und hoeheren Oelpreisen (WTI Richtung 85 USD) nach Ablauf der US-Iran-Waffenruhe. Trump erklaerte die Strasse von Hormuz fuer 'offen und unter US-Kontrolle', lehnt aber eine Verlaengerung des Iran-Abkommens ab - die Lage bleibt ungeloest, Oel zieht weiter an. Gold haelt sich weiterhin robust um 4.390-4.430 USD/oz (aktuell ~4.402 USD, +2,90% seit Kauf). Bitcoin ~64.100-64.500 USD (Erholung von Wochentief, aber weiterhin unter der 65.300-USD-Widerstandszone) und Solana ~75,90 USD (weiterhin unter Widerstand 77-78 USD) zeigen keinen bestaetigten Ausbruch.",
+    "decision": "Keine Aenderung im 20. Lauf des Tages (19:10): Gold-Position (pos-0004) auf aktuellen Kurs ~4.402 USD (+2,90%) aktualisiert, weiterhin gehalten. Kein neuer Kauf trotz freiem Kapital von ca. 13.460,66 EUR - Marktlage bleibt makrogetrieben Risk-off (Renditen/Oel/Hormuz), die heutigen Einzeltitel-Ruecksetzer (Bio-Rad, Fabrinet, Wolfspeed, CoreWeave, Teradyne, Lumentum) sind fundamental bzw. technisch bedingt statt reine Sell-the-news-Overreaction, Bitcoin/Solana weiterhin unter Widerstand ohne bestaetigten Ausbruch.",
+    "reasoning": "Risikoprofil spekulativ erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. US-Aktien bleiben breit im Minus im Zuge steigender Renditen (30J-Rendite auf 19-Jahres-Hoch) und Oelpreise - ein makrogetriebener, marktbreiter Rueckgang ohne erkennbare Einzeltitel-Overreaction wie bei den erfolgreichen Mustern (AMD/SpaceX/Palantir). Bio-Rad (-32%) bleibt technische Korrektur/institutioneller Verkaufsdruck statt Sell-the-news-Dip; Fabrinet (-11,3% trotz Gewinnschlag) leidet unter echten Margen-/FCF-Sorgen; Wolfspeed (-7,6%) faellt vor den eigenen Zahlen morgen (19.08.) - zu spekulativ ohne bestaetigtes Ergebnis; CoreWeave/Teradyne/Lumentum fallen wegen Renditedruck bzw. Gewinnmitnahmen, ebenfalls keine klare Overreaction. Krypto bietet weiterhin keinen bestaetigten Ausbruch (Bitcoin unter 65.300 USD, Solana unter 77-78 USD). Gold wird als einzige offene Position mit intaktem, robustem Aufwaertstrend unveraendert gehalten. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [
       "pos-0004"
     ],
-    "portfolioValueEnd": 514.32,
+    "portfolioValueEnd": 514.49,
     "updates": [
       {
         "time": "00:10",
@@ -1448,6 +1448,11 @@
         "time": "18:15",
         "note": "Keine Aenderung; Gold aktualisiert (~4.400,50 USD/+2,86%). US-Aktien vertiefen Verluste (Nasdaq -1,3%) wegen Renditen/Oel; Bio-Rad -32% (technische Korrektur), Fabrinet -11,3% trotz Zahlenschlag (Margendruck), Wolfspeed -7,6% vor Zahlen morgen - keiner ein ueberzeugender Dip-Kauf. Bitcoin/Solana weiterhin unter Widerstand",
         "portfolioValue": 514.32
+      },
+      {
+        "time": "19:10",
+        "note": "Keine Aenderung; Gold aktualisiert (~4.402 USD/+2,90%). US-Aktien weiterhin schwaecher (S&P -0,44%, Nasdaq -1,02%) wegen hoher Renditen (30J >5,3%, hoechster Stand seit 2007) und Oel Richtung 85 USD nach Ablauf der US-Iran-Waffenruhe; Trump lehnt Verlaengerung ab, haelt Hormuz aber fuer 'offen'. CoreWeave/Teradyne/Lumentum zusaetzlich zu Bio-Rad/Fabrinet/Wolfspeed als Kauf verworfen (Renditedruck bzw. Gewinnmitnahmen, keine Overreaction). Bitcoin/Solana weiterhin unter Widerstand",
+        "portfolioValue": 514.49
       }
     ]
   }
