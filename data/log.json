@@ -1478,13 +1478,13 @@
   },
   {
     "date": "2026-08-19",
-    "marketOverview": "Mittwochnachmittag (Stand 15:18 MESZ): US-Futures uneinheitlich - Dow-Futures leicht positiv (+0,6%), S&P- und Nasdaq-Futures nahe der Nulllinie, nachdem am Vortag (18.08.) Nasdaq -1,6% und S&P -0,5% verloren hatten. Belastungsfaktor bleibt der weltweite Renditeanstieg (US-10-Jahre Richtung 4,7-4,75%), der Finanzierungskosten verteuert; Rohstoffe insgesamt fester (+1,3%) bei anhaltend hohen Energiepreisen (Nahost-Eskalation, Oel ueber 91 USD/Barrel). Gold konsolidiert weiter in der Bandbreite 4.339-4.355 USD/oz. Bitcoin verharrt bei ca. 64.500 USD unter der Widerstandszone 65.300-66.000 USD, Solana notiert bei ca. 76,97 USD und naehert sich erneut dem Widerstand bei 77,37 USD, ohne ihn bestaetigt zu ueberwinden. FOMC-Protokolle stehen erst um 20:00 MESZ an.",
-    "decision": "Tagesbudget-Gutschrift fuer den 19.08. bereits erfolgt, freies Kapital unveraendert bei ca. 14.460,66 EUR. Gold-Position (pos-0004) im 15:18-Lauf leicht auf ca. 4.350 USD (+1,68%) aktualisiert (marginale Konsolidierung, bleibt gehalten). Kein neuer Kauf: Aktienmarkt bleibt durch steigende Anleiherenditen belastet und ohne klare Richtung vor den FOMC-Protokollen heute Abend, Solana testet zwar erneut den Widerstand bei 77,37 USD, aber weiterhin ohne bestaetigten Ausbruch - kein wirklich ueberzeugendes neues Setup seit dem letzten Lauf.",
-    "reasoning": "Risikoprofil \"spekulativ\" erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Der Aktienmarkt bleibt vor den heutigen FOMC-Protokollen (20:00 MESZ) und angesichts steigender Renditen richtungslos - kein Einstiegssignal. Solana naehert sich zwar wiederholt der Widerstandszone bei 77,37 USD, ein Einstieg auf blosses erneutes Antesten waere aber kein bestaetigtes Setup; Bitcoin bleibt unveraendert unter seiner Widerstandszone. Gold-Position wird gehalten, da das mehrtaegige Aufwaertsmomentum trotz leichter Konsolidierung intakt und die Position weiterhin im Plus ist. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "marketOverview": "Mittwoch, spaeter Nachmittag (Stand 16:15 MESZ): US-Futures uneinheitlich vor den FOMC-Protokollen (20:00 MESZ) - S&P- und Nasdaq-Futures leicht im Minus, nachdem der S&P 500 am Vortag durch steigende Anleiherenditen (US-30-Jahre bei 5,20%) und hohe Oelpreise (Brent >91 USD/Barrel wegen US-Iran-Eskalation) belastet wurde. Gold notiert bei ca. 4.345 USD/oz, leicht unter der 4.350er-Marke nach Konsolidierung. Bitcoin verharrt bei ca. 64.500 USD unter der Widerstandszone 65.300-66.000 USD, Solana bei ca. 76,97 USD weiterhin ohne bestaetigten Ausbruch ueber den Widerstand bei 77,37 USD. Retail-Earnings (TJX, Lowe's, Target, Estee Lauder) und die FOMC-Protokolle sind die naechsten Katalysatoren.",
+    "decision": "Tagesbudget-Gutschrift fuer den 19.08. bereits erfolgt, freies Kapital unveraendert bei ca. 14.460,66 EUR. Gold-Position (pos-0004) im 16:15-Lauf leicht auf ca. 4.345 USD (+1,57%) aktualisiert (marginale Konsolidierung, bleibt gehalten). Kein neuer Kauf: Aktienmarkt bleibt vor den FOMC-Protokollen heute Abend richtungslos und durch steigende Renditen/Oelpreise belastet, Solana testet weiterhin ohne bestaetigten Ausbruch den Widerstand bei 77,37 USD - kein wirklich ueberzeugendes neues Setup seit dem letzten Lauf.",
+    "reasoning": "Risikoprofil \"spekulativ\" erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Der Aktienmarkt bleibt vor den FOMC-Protokollen (20:00 MESZ) und angesichts steigender Renditen/Oelpreise richtungslos - kein Einstiegssignal. Solana naehert sich weiterhin der Widerstandszone bei 77,37 USD ohne bestaetigten Ausbruch, Bitcoin bleibt unveraendert unter seiner Widerstandszone. Gold-Position wird gehalten, da das mehrtaegige Aufwaertsmomentum trotz leichter Konsolidierung intakt und die Position weiterhin im Plus ist. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [
       "pos-0004"
     ],
-    "portfolioValueEnd": 508.41,
+    "portfolioValueEnd": 507.83,
     "updates": [
       {
         "time": "00:10",
@@ -1565,6 +1565,11 @@
         "time": "15:18",
         "note": "Keine Aenderung; Gold leicht aktualisiert (~4.350 USD/+1,68%, Konsolidierung), weiterhin gehalten. US-Futures uneinheitlich vor FOMC-Protokollen (20:00 MESZ) bei steigenden Anleiherenditen, Solana testet erneut Widerstand 77,37 USD ohne bestaetigten Ausbruch, Bitcoin unveraendert unter 65.300-66.000 USD - kein ueberzeugender neuer Katalysator, daher kein neuer Kauf",
         "portfolioValue": 508.41
+      },
+      {
+        "time": "16:15",
+        "note": "Keine Aenderung; Gold leicht aktualisiert (~4.345 USD/+1,57%, marginale Konsolidierung), weiterhin gehalten. US-Futures uneinheitlich vor FOMC-Protokollen (20:00 MESZ), steigende Anleiherenditen (30J bei 5,20%) und hohe Oelpreise belasten weiter; Solana testet erneut Widerstand 77,37 USD ohne bestaetigten Ausbruch, Bitcoin unveraendert unter 65.300-66.000 USD - kein ueberzeugender neuer Katalysator, daher kein Trade",
+        "portfolioValue": 507.83
       }
     ]
   }
