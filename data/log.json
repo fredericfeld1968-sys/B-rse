@@ -1478,13 +1478,13 @@
   },
   {
     "date": "2026-08-19",
-    "marketOverview": "Mittwochmittag (Stand 12:10 MESZ): US-Futures rot (S&P -0,18%, Nasdaq -0,37%, Dow -0,11%) - Haendler reagieren auf eskalierende Nahost-Spannungen und einen Ausverkauf an Asiens Boersen (KOSPI ueber -5%). Brent (~91,55 USD) und WTI (~84,61 USD) legen weiter zu. Gold notiert bei ca. 4.347,86 USD/oz (+1,63% seit Kauf), weiterhin im Konsolidierungsbereich 4.314-4.441 USD. Der Halbleiter-Ausverkauf bleibt ein mehrwoechiger struktureller Trend (AI-Capex-/Margensorgen), Chipwerte vorboerslich weiter schwach. Bitcoin ~64.900 USD weiterhin unter der Widerstandszone 65.300-66.000 USD, Solana ~76,97 USD weiterhin ohne bestaetigten Ausbruch ueber 77,37 USD. Wichtige Termine heute Nachmittag: US-Einzelhandelszahlen (Target, TJX, Lowe's) sowie die FOMC-Protokolle der Juli-Sitzung um 20:00 MESZ.",
-    "decision": "Tagesbudget-Gutschrift fuer den 19.08. bereits erfolgt, freies Kapital unveraendert bei ca. 14.460,66 EUR. Gold-Position (pos-0004) im 12:10-Lauf auf 4.347,86 USD (+1,63%) bestaetigt und bleibt gehalten - praktisch unveraendert seit dem 11:09-Lauf. Kein neuer Kauf: Der Chip-Ausverkauf bleibt strukturell (kein Dip-Kauf-Kandidat), zusaetzlich sprechen die eskalierende Nahost-Lage, steigende Oelpreise und rote US-Futures fuer ein breites Risk-off-Umfeld - kein ueberzeugendes Setup fuer einen Neueinstieg. Bitcoin und Solana bleiben unter ihren Widerstandszonen ohne bestaetigten Ausbruch. Kein Verkauf: Gold-Momentum bleibt trotz Gegenwind durch hohe Renditen und Nahost-Unsicherheit intakt.",
-    "reasoning": "Risikoprofil \"spekulativ\" erlaubt kurzfristiges Trading, verlangt laut Vorgabe aber eine wirklich ueberzeugende Gelegenheit. Der Halbleiter-Ausverkauf ist ausdruecklich als strukturelle, mehrwoechige Bewegung eingestuft (analog zum Rheinmetall-Stop-Loss-Fall: echte fundamentale Verschlechterung statt Overreaction), daher kein Dip-Kauf-Kandidat trotz spekulativem Profil. Die zusaetzliche Nahost-Eskalation und roten US-Futures sprechen fuer erhoehte Vorsicht vor einem Neueinstieg in Aktien/ETFs kurz vor US-Handelsbeginn. Solana/Bitcoin bleiben unter ihren jeweiligen Widerstandszonen ohne bestaetigten Ausbruch. Gold wird als intakte mehrtaegige Momentum-Position mit weiterhin positivem Ergebnis (+1,63%) unveraendert gehalten. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "marketOverview": "Mittwochmittag (Stand 13:14 MESZ): Risk-off-Umfeld haelt an - US-Futures rot (S&P -0,5%, Nasdaq -1,6% im Vortagesvergleich), 30-jaehrige US-Rendite nahe 19-Jahres-Hoch, Nahost-Spannungen (US-Iran) treiben Oelpreise und Inflationssorgen. Gold notiert bei ca. 4.353,30 USD/oz (+1,76% seit Kauf), Konsolidierung im Bereich 4.340-4.400 USD. Chip-Ausverkauf in Asien bleibt strukturelles Thema. Bitcoin ~64.140 USD weiterhin unter der Widerstandszone 65.300-66.000 USD, Solana ~76,97 USD weiterhin ohne bestaetigten Ausbruch ueber 77,37 USD. FOMC-Protokolle der Juli-Sitzung erst um 20:00 MESZ.",
+    "decision": "Tagesbudget-Gutschrift fuer den 19.08. bereits erfolgt, freies Kapital unveraendert bei ca. 14.460,66 EUR. Gold-Position (pos-0004) im 13:14-Lauf auf 4.353,30 USD (+1,76%) aktualisiert und bleibt gehalten - leichtes Plus zum 12:10-Lauf. Kein neuer Kauf: anhaltendes Risk-off-Umfeld (hohe Renditen, Nahost-Eskalation, struktureller Chip-Ausverkauf) liefert kein ueberzeugendes Setup fuer einen Neueinstieg; Bitcoin und Solana bleiben unter ihren Widerstandszonen. Kein Verkauf: Gold-Momentum bleibt trotz Gegenwind durch hohe Renditen intakt.",
+    "reasoning": "Risikoprofil \"spekulativ\" erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Weder bei Aktien (breites Risk-off, Chip-Ausverkauf strukturell statt Overreaction) noch bei Krypto (BTC/SOL weiterhin unter Widerstand ohne Ausbruchsbestaetigung) zeigt sich ein klares Signal. Gold-Position wird gehalten, da das Momentum trotz kurzfristiger Volatilitaet (Nachthoch 4.425 USD, danach Ruecksetzer) weiterhin intakt und die Position deutlich im Plus ist.",
     "positionIds": [
       "pos-0004"
     ],
-    "portfolioValueEnd": 508.16,
+    "portfolioValueEnd": 508.8,
     "updates": [
       {
         "time": "00:10",
@@ -1550,6 +1550,11 @@
         "time": "12:10",
         "note": "Keine Aenderung; Gold bestaetigt (~4.347,86 USD/+1,63%), Marktumfeld dreht auf Risk-off (Nahost-Eskalation, steigende Oelpreise, US-Futures rot, Asien-Ausverkauf mit KOSPI -5%), Chip-Ausverkauf bleibt strukturell, Bitcoin/Solana weiterhin unter ihren Widerstandszonen, FOMC-Protokolle erst 20:00 MESZ - kein Trade",
         "portfolioValue": 508.16
+      },
+      {
+        "time": "13:14",
+        "note": "Keine Aenderung; Gold aktualisiert (~4.353,30 USD/+1,76%), weiterhin gehalten. Bitcoin ~64.140 USD weiterhin unter der 65.300-66.000 USD Widerstandszone, Solana ~76,97 USD weiterhin ohne bestaetigten Ausbruch ueber 77,37 USD. Anhaltendes Risk-off (hohe Renditen, Nahost-Eskalation, Chip-Ausverkauf strukturell) - kein Trade",
+        "portfolioValue": 508.8
       }
     ]
   }
