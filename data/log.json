@@ -1478,13 +1478,13 @@
   },
   {
     "date": "2026-08-19",
-    "marketOverview": "Nacht auf Mittwoch (Stand 04:07 MESZ): US-Boersen und Xetra bleiben bis zum Morgen geschlossen. Gold hat sich vom Hoch der Nacht (~4.425-4.430 USD) zurueckgesetzt und notiert nun bei ca. 4.339-4.350 USD/oz (-2% im Tagesvergleich), belastet von weiterhin hohen globalen Anleiherenditen (Fiskalsorgen) sowie steigenden Oelpreisen, da sich zwischen den USA und Iran weiterhin keine Einigung zur Wiedereroeffnung der Strasse von Hormus abzeichnet (auslaufender 60-Tage-Waffenstillstand, Iran droht mit weiterer Eskalation). Bitcoin bleibt bei ca. 64.000-64.500 USD range-gebunden, die Widerstandszone 65.300-66.000 USD weiterhin unbestaetigt; Marktteilnehmer warten auf die FOMC-Sitzungsprotokolle. Solana notiert bei ca. 75,4-76,9 USD, wieder ohne bestaetigten Ausbruch ueber die seit dem 09.08. unveraenderte Widerstandszone bei 77,37 USD.",
-    "decision": "Tagesbudget-Gutschrift fuer den 19.08. bereits um Mitternacht erfolgt (siehe capital.json), freies Kapital unveraendert bei ca. 14.460,66 EUR. Gold-Position (pos-0004) wird im 04:07-Lauf auf 4.345 USD (+1,57%) aktualisiert (Ruecksetzer vom Nachthoch) und weiter gehalten; ausserhalb der Boersenzeiten ist ein Verkauf/Neukauf bei Rohstoffen/Aktien/ETFs ohnehin nicht vorgesehen. Kein neuer Kauf: Bitcoin und Solana bleiben beide weiterhin unter ihren seit Tagen unveraenderten Widerstandszonen (65.300-66.000 USD bzw. 77,37 USD) ohne bestaetigten Ausbruch - steigende Anleiherenditen und eskalierende Iran/Hormuz-Spannungen sprechen zudem eher fuer erhoehte Vorsicht als fuer einen spekulativen Neueinstieg vor den FOMC-Protokollen.",
-    "reasoning": "Risikoprofil \"spekulativ\" erlaubt kurzfristiges Trading, verlangt laut Vorgabe aber eine wirklich ueberzeugende Gelegenheit. Solana testet zwar weiterhin die Zone um 75-77 USD, hat den Widerstand bei 77,37 USD jedoch seit dem 09.08. trotz mehrfacher Anlaeufe nie bestaetigt ueberwunden - ein Einstieg auf blosses Antesten waere kein bestaetigtes Setup. Bitcoin bleibt range-gebunden knapp unter 65.000 USD ohne neuen Katalysator vor den FOMC-Protokollen. Gold hat sich in dieser Nacht deutlich vom Hoch zurueckgesetzt (Renditedruck, Oelpreis-Anstieg), bleibt aber weiterhin mit +1,57% im Plus und wird als intakte mehrtaegige Momentum-Position unveraendert gehalten. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "marketOverview": "Mittwochmorgen (Stand 05:08 MESZ): US-Boersen und Xetra weiterhin geschlossen (Xetra oeffnet erst 9:00 MESZ). Gold pendelt weiter um ca. 4.339-4.350 USD/oz, knapp unter der psychologischen 4.350-USD-Marke, weiterhin belastet von hohen globalen Anleiherenditen und Fiskalsorgen. Bitcoin notiert bei ca. 64.200 USD weiterhin unter der Widerstandszone 65.300-66.000 USD. Solana haelt sich bei ca. 76,6-77,0 USD, testet weiterhin ohne bestaetigten Ausbruch die seit dem 09.08. unveraenderte Widerstandszone bei 77,37 USD. Die FOMC-Sitzungsprotokolle (Juli-Meeting, 3 Dissents fuer eine Zinserhoehung) werden erst am Nachmittag (14:00 EDT/20:00 MESZ) veroeffentlicht - bislang keine neue marktbewegende Nachricht seit dem 04:07-Lauf.",
+    "decision": "Tagesbudget-Gutschrift fuer den 19.08. bereits um Mitternacht erfolgt (siehe capital.json), freies Kapital unveraendert bei ca. 14.460,66 EUR. Gold-Position (pos-0004) wird im 05:08-Lauf auf 4.339,41 USD (+1,43%) aktualisiert und weiter gehalten; ausserhalb der Boersenzeiten ist ein Verkauf/Neukauf bei Rohstoffen/Aktien/ETFs ohnehin nicht vorgesehen. Kein neuer Kauf: Bitcoin und Solana bleiben beide weiterhin unter ihren seit Tagen unveraenderten Widerstandszonen (65.300-66.000 USD bzw. 77,37 USD) ohne bestaetigten Ausbruch, und die FOMC-Protokolle stehen als naechster potenzieller Katalysator erst am Nachmittag an.",
+    "reasoning": "Risikoprofil \"spekulativ\" erlaubt kurzfristiges Trading, verlangt laut Vorgabe aber eine wirklich ueberzeugende Gelegenheit. Solana testet zwar weiterhin die Zone um 76-77 USD, hat den Widerstand bei 77,37 USD jedoch seit dem 09.08. trotz mehrfacher Anlaeufe nie bestaetigt ueberwunden - ein Einstieg auf blosses Antesten waere kein bestaetigtes Setup. Bitcoin bleibt range-gebunden knapp unter 65.000 USD ohne neuen Katalysator vor den FOMC-Protokollen am Nachmittag. Gold wird als intakte mehrtaegige Momentum-Position mit weiterhin positivem Ergebnis (+1,43%) unveraendert gehalten. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [
       "pos-0004"
     ],
-    "portfolioValueEnd": 507.83,
+    "portfolioValueEnd": 507.17,
     "updates": [
       {
         "time": "00:10",
@@ -1510,6 +1510,11 @@
         "time": "04:07",
         "note": "Keine Aenderung; Gold auf ~4.345 USD/+1,57% zurueckgesetzt (von Nachthoch 4.425 USD), weiterhin gehalten. Bitcoin ~64.000-64.500 USD weiterhin unter der 65.300-66.000 USD Widerstandszone (FOMC-Protokolle abwarten), Solana ~75,4-76,9 USD weiterhin ohne bestaetigten Ausbruch ueber 77,37 USD - kein neuer Kauf",
         "portfolioValue": 507.83
+      },
+      {
+        "time": "05:08",
+        "note": "Keine Aenderung; Gold aktualisiert (~4.339,41 USD/+1,43%), weiterhin gehalten. Bitcoin ~64.200 USD weiterhin unter der 65.300-66.000 USD Widerstandszone, Solana ~76,6-77,0 USD weiterhin ohne bestaetigten Ausbruch ueber 77,37 USD. FOMC-Protokolle erst am Nachmittag (20:00 MESZ) - kein neuer Kauf",
+        "portfolioValue": 507.17
       }
     ]
   }
