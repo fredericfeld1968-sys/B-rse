@@ -1478,13 +1478,13 @@
   },
   {
     "date": "2026-08-19",
-    "marketOverview": "Mittwochmittag (Stand 13:14 MESZ): Risk-off-Umfeld haelt an - US-Futures rot (S&P -0,5%, Nasdaq -1,6% im Vortagesvergleich), 30-jaehrige US-Rendite nahe 19-Jahres-Hoch, Nahost-Spannungen (US-Iran) treiben Oelpreise und Inflationssorgen. Gold notiert bei ca. 4.353,30 USD/oz (+1,76% seit Kauf), Konsolidierung im Bereich 4.340-4.400 USD. Chip-Ausverkauf in Asien bleibt strukturelles Thema. Bitcoin ~64.140 USD weiterhin unter der Widerstandszone 65.300-66.000 USD, Solana ~76,97 USD weiterhin ohne bestaetigten Ausbruch ueber 77,37 USD. FOMC-Protokolle der Juli-Sitzung erst um 20:00 MESZ.",
-    "decision": "Tagesbudget-Gutschrift fuer den 19.08. bereits erfolgt, freies Kapital unveraendert bei ca. 14.460,66 EUR. Gold-Position (pos-0004) im 13:14-Lauf auf 4.353,30 USD (+1,76%) aktualisiert und bleibt gehalten - leichtes Plus zum 12:10-Lauf. Kein neuer Kauf: anhaltendes Risk-off-Umfeld (hohe Renditen, Nahost-Eskalation, struktureller Chip-Ausverkauf) liefert kein ueberzeugendes Setup fuer einen Neueinstieg; Bitcoin und Solana bleiben unter ihren Widerstandszonen. Kein Verkauf: Gold-Momentum bleibt trotz Gegenwind durch hohe Renditen intakt.",
-    "reasoning": "Risikoprofil \"spekulativ\" erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Weder bei Aktien (breites Risk-off, Chip-Ausverkauf strukturell statt Overreaction) noch bei Krypto (BTC/SOL weiterhin unter Widerstand ohne Ausbruchsbestaetigung) zeigt sich ein klares Signal. Gold-Position wird gehalten, da das Momentum trotz kurzfristiger Volatilitaet (Nachthoch 4.425 USD, danach Ruecksetzer) weiterhin intakt und die Position deutlich im Plus ist.",
+    "marketOverview": "Mittwochnachmittag (Stand 14:19 MESZ): US-Futures drehen leicht ins Plus (Dow +0,1%, S&P nahe Null) nachdem Trump die geplanten Kanada-Zoelle pausiert hat, Nasdaq-100-Futures aber weiterhin leicht rot (-0,2 bis -0,37%). Asien bleibt schwer belastet (KOSPI -5%, Chip-Ausverkauf SK Hynix/Samsung) durch hohe US-Renditen und Nahost-Eskalation (Oel ueber 91 USD/Barrel nach Trumps 'keine Gespraeche mit Iran'). Gold pendelt weiter im Bereich 4.350-4.371 USD/oz, Bitcoin/Solana unveraendert unter ihren jeweiligen Widerstandszonen. FOMC-Protokolle erst um 20:00 MESZ.",
+    "decision": "Tagesbudget-Gutschrift fuer den 19.08. bereits erfolgt, freies Kapital unveraendert bei ca. 14.460,66 EUR. Gold-Position (pos-0004) im 14:19-Lauf auf ca. 4.360 USD (+1,92%) aktualisiert und bleibt gehalten. Kein neuer Kauf: trotz leicht aufgehellter US-Futures (Kanada-Zollpause) bleibt das Gesamtbild uneinheitlich (Chip-Ausverkauf strukturell, Nahost-Eskalation, Bitcoin/Solana weiterhin unter Widerstand) - keine wirklich ueberzeugende neue Gelegenheit seit dem letzten Lauf. Kein Verkauf: Gold-Momentum bleibt intakt.",
+    "reasoning": "Risikoprofil \"spekulativ\" erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Weder bei Aktien (Signale gemischt: Zollpause positiv, aber Chip-Ausverkauf/Nahost-Eskalation belasten weiter) noch bei Krypto (BTC/SOL unveraendert unter Widerstand) zeigt sich ein klares neues Signal seit dem 13:14-Lauf. Gold-Position wird gehalten, da das Momentum weiterhin intakt und die Position im Plus ist.",
     "positionIds": [
       "pos-0004"
     ],
-    "portfolioValueEnd": 508.8,
+    "portfolioValueEnd": 509.58,
     "updates": [
       {
         "time": "00:10",
@@ -1555,6 +1555,11 @@
         "time": "13:14",
         "note": "Keine Aenderung; Gold aktualisiert (~4.353,30 USD/+1,76%), weiterhin gehalten. Bitcoin ~64.140 USD weiterhin unter der 65.300-66.000 USD Widerstandszone, Solana ~76,97 USD weiterhin ohne bestaetigten Ausbruch ueber 77,37 USD. Anhaltendes Risk-off (hohe Renditen, Nahost-Eskalation, Chip-Ausverkauf strukturell) - kein Trade",
         "portfolioValue": 508.8
+      },
+      {
+        "time": "14:19",
+        "note": "Keine Aenderung; Gold aktualisiert (~4.360 USD/+1,92%), weiterhin gehalten. US-Futures leicht aufgehellt nach Kanada-Zollpause, aber Chip-Ausverkauf (KOSPI -5%) und Nahost-Eskalation (Oel >91 USD) belasten weiter; Bitcoin/Solana unveraendert unter ihren Widerstandszonen - kein Trade",
+        "portfolioValue": 509.58
       }
     ]
   }
