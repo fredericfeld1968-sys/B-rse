@@ -1478,13 +1478,13 @@
   },
   {
     "date": "2026-08-19",
-    "marketOverview": "Mittwochvormittag (Stand 09:13 MESZ): Xetra ist seit 9:00 MESZ geoeffnet, US-Boersen oeffnen erst am Nachmittag (15:30 MESZ). Gold notiert bei ca. 4.339,41 USD/oz (+1,44% seit Kauf), weiterhin unter dem Nachthoch von ~4.425 USD und belastet von steigenden Anleiherenditen (30-jaehrige US-Rendite auf hoechstem Stand seit 2007). Asiatische Boersen fielen ueber Nacht deutlich wegen eines vertieften Halbleiter-Ausverkaufs; US-Futures zeigen vorboerslich Rot (S&P -0,5%, Nasdaq -1,3%), da Anleger sich von Chip-Werten zurueckziehen. Oelpreise steigen wegen US-Iran-Spannungen weiter. Bitcoin notiert bei ca. 64.000 USD weiterhin unter der Widerstandszone 65.300-66.000 USD, Solana bei ca. 76,97 USD weiterhin ohne bestaetigten Ausbruch ueber 77,37 USD. Die FOMC-Sitzungsprotokolle der Juli-Sitzung (9-3-Votum mit drei Dissenten fuer eine Zinserhoehung) werden erst am Nachmittag (14:00 EDT/20:00 MESZ) veroeffentlicht.",
-    "decision": "Tagesbudget-Gutschrift fuer den 19.08. bereits erfolgt, freies Kapital unveraendert bei ca. 14.460,66 EUR. Gold-Position (pos-0004) im 09:13-Lauf auf 4.339,41 USD (+1,44%) bestaetigt und bleibt gehalten. Kein neuer Kauf trotz geoeffneter Xetra: Der vertiefte Chip-Ausverkauf in Asien und die vorboerslich roten US-Futures (S&P -0,5%, Nasdaq -1,3%) sprechen fuer eine risk-off Stimmung, keine europaeische Aktie/ETF bietet aktuell eine ueberzeugende, spekulative Gelegenheit. Krypto bleibt ebenfalls ohne bestaetigten Ausbruch (Bitcoin/Solana unter ihren Widerstandszonen). Kein Verkauf: Gold-Momentum bleibt trotz Gegenwind durch hohe Anleiherenditen intakt.",
-    "reasoning": "Risikoprofil \"spekulativ\" erlaubt kurzfristiges Trading, verlangt laut Vorgabe aber eine wirklich ueberzeugende Gelegenheit. Der vertiefte Halbleiter-Ausverkauf in Asien, vorboerslich rote US-Futures und steigende Anleiherenditen (30y auf 19-Jahres-Hoch) sprechen eher fuer Vorsicht als fuer einen Neueinstieg unmittelbar vor den mit Spannung erwarteten (potenziell hawkishen) FOMC-Protokollen heute Abend. Solana testet weiterhin die Zone um 77 USD ohne bestaetigten Ausbruch; Bitcoin bleibt unter seiner Widerstandszone. Gold wird als intakte mehrtaegige Momentum-Position mit weiterhin positivem Ergebnis (+1,44%) unveraendert gehalten. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "marketOverview": "Mittwochvormittag (Stand 10:10 MESZ): Xetra seit 9:00 MESZ geoeffnet (DAX ca. 26.119 Punkte, -0,04%, nach Gewinnen am Vortag), US-Boersen oeffnen erst am Nachmittag (15:30 MESZ). Gold notiert bei ca. 4.348,50 USD/oz (+1,65% seit Kauf), weiterhin im Konsolidierungsbereich 4.314-4.441 USD, belastet von steigenden Anleiherenditen (30-jaehrige US-Rendite auf hoechstem Stand seit 2007). Der Halbleiter-Ausverkauf ist kein Tagesphaenomen, sondern ein mehrwoechiger strukturelle Trend (seit 22.06. ueber 3,3 Bio. USD Marktwert vernichtet, Sorge vor Peak bei AI-Capex und Margendruck) - Samsung/SK Hynix je -7%, US-Chipwerte (Nvidia, AMD, Intel, Micron) vorboerslich erneut schwaecher. Oelpreise steigen weiter wegen US-Iran-Spannungen. Bitcoin ~64.000 USD weiterhin unter der Widerstandszone 65.300-66.000 USD, Solana ~76,97 USD weiterhin ohne bestaetigten Ausbruch ueber 77,37 USD. FOMC-Protokolle der Juli-Sitzung erst am Abend (20:00 MESZ).",
+    "decision": "Tagesbudget-Gutschrift fuer den 19.08. bereits erfolgt, freies Kapital unveraendert bei ca. 14.460,66 EUR. Gold-Position (pos-0004) im 10:10-Lauf auf 4.348,50 USD (+1,65%) aktualisiert und bleibt gehalten. Kein neuer Kauf: Der Chip-Ausverkauf ist strukturell (mehrwoechiger Trend wegen AI-Capex-Sorgen), nicht ein einmaliger 'Sell-the-news'-Ueberreaktion wie bei den erfolgreichen AMD-/SpaceX-/Palantir-Trades - daher kein Dip-Kauf. DAX bewegt sich nur minimal (-0,04%), bietet keine ueberzeugende Gelegenheit. Krypto bleibt ohne bestaetigten Ausbruch. Kein Verkauf: Gold-Momentum bleibt trotz Gegenwind durch hohe Renditen intakt.",
+    "reasoning": "Risikoprofil \"spekulativ\" erlaubt kurzfristiges Trading, verlangt laut Vorgabe aber eine wirklich ueberzeugende Gelegenheit. Der Halbleiter-Ausverkauf ist ausdruecklich als strukturelle, mehrwoechige Bewegung eingestuft (analog zum Rheinmetall-Stop-Loss-Fall: echte fundamentale Verschlechterung statt Overreaction), daher kein Dip-Kauf-Kandidat trotz spekulativem Profil. DAX zeigt keine klare Richtung. Solana/Bitcoin bleiben unter ihren jeweiligen Widerstandszonen ohne bestaetigten Ausbruch. Gold wird als intakte mehrtaegige Momentum-Position mit weiterhin positivem Ergebnis (+1,65%) unveraendert gehalten. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [
       "pos-0004"
     ],
-    "portfolioValueEnd": 507.2,
+    "portfolioValueEnd": 508.24,
     "updates": [
       {
         "time": "00:10",
@@ -1535,6 +1535,11 @@
         "time": "09:13",
         "note": "Keine Aenderung; Gold bestaetigt bei 4.339,41 USD/+1,44%, weiterhin gehalten. Xetra seit 9:00 geoeffnet, aber vertiefter Chip-Ausverkauf in Asien und rote US-Futures (S&P -0,5%/Nasdaq -1,3%) sprechen fuer Risk-off; Bitcoin/Solana weiterhin unter Widerstand, FOMC-Protokolle erst um 20:00 MESZ - kein Trade",
         "portfolioValue": 507.2
+      },
+      {
+        "time": "10:10",
+        "note": "Keine Aenderung; Gold aktualisiert (~4.348,50 USD/+1,65%), weiterhin gehalten. DAX nahezu unveraendert (-0,04%), Chip-Ausverkauf als strukturelles mehrwoechiges Thema eingestuft (kein Dip-Kauf-Kandidat), Bitcoin/Solana weiterhin unter ihren Widerstandszonen - kein Trade",
+        "portfolioValue": 508.24
       }
     ]
   }
