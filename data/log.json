@@ -1478,13 +1478,13 @@
   },
   {
     "date": "2026-08-19",
-    "marketOverview": "Mittwoch, spaeter Nachmittag (Stand 16:15 MESZ): US-Futures uneinheitlich vor den FOMC-Protokollen (20:00 MESZ) - S&P- und Nasdaq-Futures leicht im Minus, nachdem der S&P 500 am Vortag durch steigende Anleiherenditen (US-30-Jahre bei 5,20%) und hohe Oelpreise (Brent >91 USD/Barrel wegen US-Iran-Eskalation) belastet wurde. Gold notiert bei ca. 4.345 USD/oz, leicht unter der 4.350er-Marke nach Konsolidierung. Bitcoin verharrt bei ca. 64.500 USD unter der Widerstandszone 65.300-66.000 USD, Solana bei ca. 76,97 USD weiterhin ohne bestaetigten Ausbruch ueber den Widerstand bei 77,37 USD. Retail-Earnings (TJX, Lowe's, Target, Estee Lauder) und die FOMC-Protokolle sind die naechsten Katalysatoren.",
-    "decision": "Tagesbudget-Gutschrift fuer den 19.08. bereits erfolgt, freies Kapital unveraendert bei ca. 14.460,66 EUR. Gold-Position (pos-0004) im 16:15-Lauf leicht auf ca. 4.345 USD (+1,57%) aktualisiert (marginale Konsolidierung, bleibt gehalten). Kein neuer Kauf: Aktienmarkt bleibt vor den FOMC-Protokollen heute Abend richtungslos und durch steigende Renditen/Oelpreise belastet, Solana testet weiterhin ohne bestaetigten Ausbruch den Widerstand bei 77,37 USD - kein wirklich ueberzeugendes neues Setup seit dem letzten Lauf.",
-    "reasoning": "Risikoprofil \"spekulativ\" erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Der Aktienmarkt bleibt vor den FOMC-Protokollen (20:00 MESZ) und angesichts steigender Renditen/Oelpreise richtungslos - kein Einstiegssignal. Solana naehert sich weiterhin der Widerstandszone bei 77,37 USD ohne bestaetigten Ausbruch, Bitcoin bleibt unveraendert unter seiner Widerstandszone. Gold-Position wird gehalten, da das mehrtaegige Aufwaertsmomentum trotz leichter Konsolidierung intakt und die Position weiterhin im Plus ist. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "marketOverview": "Mittwoch, spaeter Nachmittag (Stand 17:16 MESZ): US-Aktien drehen ins Plus - Dow +0,4%, S&P 500 +0,5%, Nasdaq knapp behauptet trotz anhaltender Chip-Schwaeche (ASML +0,4%, Infineon/STMicro je -1%), Russell 2000 fuehrt mit +0,67% die Rotation Richtung Value/Small-Caps an. Treiber ist die Ankuendigung des US-Finanzministeriums, die Rueckkaeufe langlaufender Anleihen deutlich auszuweiten - 10-Jahres-Rendite -5 Bp auf 4,65%, 30-Jahre -8 Bp auf 5,20%. Retail-Earnings gemischt: TJX (-4,6% vorboerslich trotz angehobener Gewinnprognose, schwaecherer kurzfristiger Ausblick) und Lowe's (-3,3%, Comp-Sales-Prognose gekappt) faellen auf echte Nachrichten hin, Estee Lauder dagegen +8% vorboerslich nach Gewinn- und Umsatzbeat. FOMC-Protokolle erst um 20:00 MESZ. Gold rebounded vom Wochentief und klettert wieder ueber 4.350 USD/oz. Bitcoin ~64.500 USD und Solana ~76,97 USD weiterhin unveraendert unter ihren Widerstandszonen.",
+    "decision": "Tagesbudget-Gutschrift fuer den 19.08. bereits erfolgt, freies Kapital unveraendert bei ca. 14.460,66 EUR. Gold-Position (pos-0004) im 17:16-Lauf auf 4.352 USD (+1,73%) aktualisiert (Rebound vom Wochentief, bleibt gehalten). Kein neuer Kauf: TJX/Lowe's-Kursverluste beruhen auf echten Prognosekuerzungen statt reinem 'Sell-the-news'-Reflex (kein AMD-/Palantir-Muster), fuer Estee Lauder liegen keine verlaesslichen Live-Intraday-Kurse zur Bestaetigung des Vorboersen-Pops vor, und Krypto bleibt seit Tagen ohne bestaetigten Ausbruch aus der bekannten Range - kein wirklich ueberzeugendes neues Setup.",
+    "reasoning": "Risikoprofil \"spekulativ\" erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Bei TJX und Lowe's handelt es sich laut Berichten um echte Verschlechterungen der kurzfristigen Prognosen (schwaecherer Gewinnausblick bzw. gekappte Comp-Sales-Erwartung wegen hoher Hypothekenzinsen) - analog zum Rheinmetall-Fall keine Dip-Kauf-Gelegenheit. Estee Lauders starker vorboerslicher Anstieg (+8%) ist bereits eingepreist und ohne bestaetigte Live-Kursdaten fuer eine fortgesetzte Intraday-Bewegung nicht als Einstiegssignal verifizierbar. Solana und Bitcoin bleiben unveraendert unter ihren Widerstandszonen ohne neuen Katalysator vor den FOMC-Protokollen. Gold-Position wird gehalten, da das mehrtaegige Momentum nach dem Rebound vom Wochentief wieder intakt ist. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [
       "pos-0004"
     ],
-    "portfolioValueEnd": 507.83,
+    "portfolioValueEnd": 508.65,
     "updates": [
       {
         "time": "00:10",
@@ -1570,6 +1570,11 @@
         "time": "16:15",
         "note": "Keine Aenderung; Gold leicht aktualisiert (~4.345 USD/+1,57%, marginale Konsolidierung), weiterhin gehalten. US-Futures uneinheitlich vor FOMC-Protokollen (20:00 MESZ), steigende Anleiherenditen (30J bei 5,20%) und hohe Oelpreise belasten weiter; Solana testet erneut Widerstand 77,37 USD ohne bestaetigten Ausbruch, Bitcoin unveraendert unter 65.300-66.000 USD - kein ueberzeugender neuer Katalysator, daher kein Trade",
         "portfolioValue": 507.83
+      },
+      {
+        "time": "17:16",
+        "note": "Keine Aenderung; Gold rebounded vom Wochentief auf 4.352 USD/+1,73%, weiterhin gehalten. US-Aktien drehen ins Plus (Dow +0,4%, S&P +0,5%) nach angekuendigter Ausweitung der US-Anleiherueckkaeufe. TJX (-4,6%) und Lowe's (-3,3%) fallen vorboerslich auf echte Prognosekuerzungen, kein Sell-the-news-Setup; Estee Lauder (+8% vorboerslich) ohne verifizierte Live-Intraday-Bestaetigung. Bitcoin/Solana weiterhin unter ihren Widerstandszonen - kein Trade",
+        "portfolioValue": 508.65
       }
     ]
   }
