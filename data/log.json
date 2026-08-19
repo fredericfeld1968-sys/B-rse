@@ -1478,13 +1478,13 @@
   },
   {
     "date": "2026-08-19",
-    "marketOverview": "Mittwoch, spaeter Nachmittag/Abend (Stand 18:12 MESZ): US-Aktien im Plus - Dow +0,55% auf 53.634, S&P 500 +0,38% auf 7.721, Nasdaq knapp im Minus (-0,09%) wegen anhaltender Chip-Schwaeche. Treiber bleibt die angekuendigte Ausweitung der US-Anleiherueckkaeufe (30-Jahres-Rendite -9 Bp auf 5,19%). Die FOMC-Protokolle werden erst um 20:00 MESZ (14:00 ET) veroeffentlicht - der eigentliche Katalysator des Tages steht noch aus. Gold pendelt weiterhin um 4.340-4.350 USD/oz (+1,6% seit Kauf), leichte Konsolidierung nach dem Rebound vom Wochentief. Bitcoin ~64.500 USD weiterhin unter der 65.300-66.000 USD Widerstandszone. Solana-Kursquellen widersprechen sich stark (76,93 USD laut mehreren konsistenten technischen Quellen vs. ein vereinzelter 82-USD-Ausreisser) - die Mehrheit der Quellen bestaetigt weiterhin keinen Schlusskurs ueber der Widerstandszone 78-80 USD, daher gilt kein bestaetigter Ausbruch.",
-    "decision": "Tagesbudget-Gutschrift fuer den 19.08. bereits erfolgt, freies Kapital unveraendert bei ca. 14.460,66 EUR. Gold-Position (pos-0004) im 18:12-Lauf leicht auf 4.348 USD (+1,64%) aktualisiert (marginale Konsolidierung), bleibt gehalten. Kein neuer Kauf: FOMC-Protokolle stehen mit dem heutigen Haupt-Katalysator erst um 20:00 MESZ an, Solana-Kursangaben widersprechen sich (ein einzelner 82-USD-Wert vs. mehrere uebereinstimmende Quellen bei ~77 USD unter Widerstand) und wird mangels Bestaetigung nicht als Ausbruch gewertet, Bitcoin bleibt unveraendert unter seiner Widerstandszone.",
-    "reasoning": "Risikoprofil \"spekulativ\" erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Der mit Abstand groesste Katalysator des Tages (FOMC-Protokolle) liegt noch vor uns (20:00 MESZ) - ein Einstieg unmittelbar davor waere reine Spekulation ohne Informationsvorteil. Die widerspruechliche Solana-Kursangabe (82 USD als Einzelquelle gegen mehrere konsistente Quellen um 76,93-77 USD mit Widerstand bei 78-80 USD) wird nach dem etablierten Muster (nur bestaetigte, mehrfach uebereinstimmende Ausbrueche zaehlen) nicht als Kaufsignal gewertet. Gold-Position wird bei intaktem, wenn auch leicht konsolidierendem mehrtaegigem Aufwaertstrend unveraendert weitergehalten. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "marketOverview": "Mittwoch, Abend (Stand 19:09 MESZ): US-Aktienfutures leicht schwaecher (S&P -0,18%, Nasdaq -0,37%, Dow -0,11%) nach kraeftigem Ausverkauf in Asien (KOSPI -5%, Sidecar ausgeloest). Die FOMC-Protokolle stehen weiterhin unmittelbar bevor (20:00 MESZ / 14:00 ET) - der Haupt-Katalysator des Tages ist noch nicht veroeffentlicht. Gold bestaetigt sich im engen Band von 4.347-4.357 USD/oz (+1,6-1,8% seit Kauf), keine neue Bewegung. Bitcoin ~64.500 USD weiterhin unter der 65.300-66.000 USD Widerstandszone. Solana ~76,93-76,97 USD testet weiterhin die Widerstandszone 78-80 USD ohne bestaetigten Ausbruch (RSI 56,7, Unterstuetzung bei ~75,44-76,16 USD) - der vereinzelte 82-USD-Ausreisser aus dem letzten Lauf wird durch mehrere aktuelle, konsistente Quellen um 77 USD nicht bestaetigt.",
+    "decision": "Tagesbudget-Gutschrift fuer den 19.08. bereits erfolgt, freies Kapital unveraendert bei ca. 14.460,66 EUR. Gold-Position (pos-0004) im 19:09-Lauf auf 4.350 USD (+1,68%) aktualisiert (Bestaetigung des engen Konsolidierungsbands), bleibt gehalten. Kein neuer Kauf: FOMC-Protokolle stehen weiterhin unmittelbar bevor (20:00 MESZ) - ein Einstieg unmittelbar davor waere reine Spekulation ohne Informationsvorteil. Solana bleibt ohne bestaetigten Ausbruch ueber die Widerstandszone 78-80 USD, Bitcoin bleibt unveraendert unter seiner Widerstandszone.",
+    "reasoning": "Risikoprofil \"spekulativ\" erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Der mit Abstand groesste Katalysator des Tages (FOMC-Protokolle) steht in wenigen Minuten an (20:00 MESZ) - ein Einstieg unmittelbar davor waere reine Spekulation ohne Informationsvorteil, sinnvoller ist ein Abwarten der Reaktion in einem der naechsten Laeufe. Solana testet weiterhin die Widerstandszone 78-80 USD ohne bestaetigten, mehrfach uebereinstimmenden Ausbruch. Gold-Position wird bei intaktem, stabilem mehrtaegigem Aufwaertstrend unveraendert weitergehalten. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [
       "pos-0004"
     ],
-    "portfolioValueEnd": 508.18,
+    "portfolioValueEnd": 508.41,
     "updates": [
       {
         "time": "00:10",
@@ -1580,6 +1580,11 @@
         "time": "18:12",
         "note": "Keine Aenderung; Gold leicht aktualisiert (~4.348 USD/+1,64%, marginale Konsolidierung), weiterhin gehalten. FOMC-Protokolle stehen erst um 20:00 MESZ an - Haupt-Katalysator des Tages noch offen. Solana-Kursangaben widersprechen sich (Einzelquelle 82 USD vs. mehrere konsistente Quellen ~77 USD unter Widerstand) - mangels Bestaetigung kein Trade",
         "portfolioValue": 508.18
+      },
+      {
+        "time": "19:09",
+        "note": "Keine Aenderung; Gold aktualisiert (~4.350 USD/+1,68%, Bestaetigung des engen Konsolidierungsbands 4.347-4.357 USD), weiterhin gehalten. FOMC-Protokolle stehen unmittelbar bevor (20:00 MESZ) - kein Einstieg unmittelbar davor. Solana ~76,93-76,97 USD weiterhin ohne bestaetigten Ausbruch ueber Widerstand 78-80 USD, Bitcoin unveraendert unter seiner Widerstandszone - kein Trade",
+        "portfolioValue": 508.41
       }
     ]
   }
