@@ -1612,15 +1612,15 @@
   },
   {
     "date": "2026-08-20",
-    "marketOverview": "Bitcoin rallyt weiter und notiert am fruehen Nachmittag bei ca. 71.800 USD (Tageshoch bereits bis 72.000 USD, ueber 1,9 Mrd. USD Liquidationen in 24h), getrieben vom verdoppelten US-Anleihe-Rueckkaufprogramm des Treasury. Die gleiche Rueckkauf-Ankuendigung liess die Renditen jedoch wieder steigen (10J +5 Bp auf 4,70%), weshalb US-Aktienfutures kurz vor Handelsstart (15:30 MESZ) im Minus liegen (Dow -0,7%, S&P -0,4%, Nasdaq -0,7%). Zusaetzlich belastet Trumps Ankuendigung von 'Wirtschaftskrieg' gegen Iran samt Sanktionsdrohungen die Stimmung und treibt den Oelpreis (Brent +2,2% auf 93,6 USD). Gold konsolidiert nahe 4.480-4.495 USD/oz, leicht unter dem gestrigen Hoch. Solana bewegt sich seitwaerts um 84-86 USD.",
+    "marketOverview": "Der US-Handel laeuft: Dow -0,71%, S&P 500 -0,33%, Nasdaq -0,52%, nur der Russell 2000 legt zu (+0,50%). Belastend wirken Trumps Ankuendigung, Iran wirtschaftlich zu erdrosseln (steigende Oelpreise), sowie wieder anziehende Anleiherenditen nach der Treasury-Intervention. Bitcoin rallyt dagegen kraeftig auf ca. 71.900 USD (+11,6% in 24h) - Auesloeser sind das verdoppelte Anleihe-Rueckkaufprogramm und Trumps Druck auf den Kongress fuer krypto-freundliche Gesetzgebung; Solana zieht im Schlepptau auf ca. 86 USD (+11,8% in 24h), Krypto-Aktien wie Coinbase (+7%) und Strategy (+10%) folgen. Gold konsolidiert in der Spanne 4.470-4.510 USD/oz. Grosse Einzelverlierer: Walmart -6% nach verfehlten US-Vergleichsumsaetzen und schwacher Prognose, Advance Auto Parts -15%, Coty -14,5%, Wolfspeed -10%.",
     "decision": "Kein Trade in diesem Lauf. Bestandspositionen (Gold, BTC, SOL) auf aktuelle Kurse aktualisiert; keine Position hat die etablierte Gewinnmitnahme-Schwelle (~7-8%) erreicht, kein Stop-Loss-Grund.",
-    "reasoning": "Gold (+4,96%), BTC (+4,71%) und SOL (+5,30%) liegen weiterhin unter der Gewinnmitnahme-Schwelle. Die Rueckkauf-Ankuendigung des Treasury ist bereits seit dem Vormittag bekannt und in den bestehenden Positionen eingepreist. Kurz vor US-Handelsstart (15:30 MESZ) zeigen die Aktienfutures Risk-off-Tendenz (steigende Renditen, Iran-Sanktionsdrohungen, hoehere Oelpreise) - keine ueberzeugende neue Dip-Kauf-Gelegenheit erkennbar, daher bewusst kein Nachkauf. Freies Kapital bleibt bei ca. 14.460,66 EUR unveraendert.",
+    "reasoning": "Gold (+4,96%), BTC (+4,86%) und SOL (+5,91%) liegen weiterhin unter der Gewinnmitnahme-Schwelle, profitieren aber von der laufenden Krypto-Rally - Halten ist die konsequente Fortsetzung der bestehenden These. Ein Nachkauf in die bereits stark gelaufene Bewegung hinein (BTC +11,6%, SOL +11,8% in 24h) waere ein Einstieg auf ueberkauftem Niveau und wird bewusst unterlassen. Bei den Aktien bietet der heutige Ausverkauf keine Sell-the-news-Ueberreaktion: Walmart, Advance Auto Parts, Coty und Wolfspeed sind allesamt an echten Umsatz-/Guidance-Verfehlungen gescheitert (fundamentale Verschlechterung, vgl. das negative Rheinmetall-Muster), Coinbase ist mit +7% bereits gelaufen. Freies Kapital bleibt bei ca. 14.460,66 EUR unveraendert.",
     "positionIds": [
       "pos-0004",
       "pos-0008",
       "pos-0009"
     ],
-    "portfolioValueEnd": 1574.83,
+    "portfolioValueEnd": 1578.64,
     "updates": [
       {
         "time": "00:11",
@@ -1701,6 +1701,11 @@
         "time": "15:17",
         "note": "Keine Aenderung; Kurse aktualisiert (Gold ~4.490 USD/+4,96%, BTC ~71.800 USD/+4,71%, SOL ~85,50 USD/+5,30%). US-Aktienfutures leicht im Minus vor Handelsstart (15:30 MESZ) wegen steigender Renditen und Iran-Sanktionsdrohungen, Gewinnmitnahme-Schwelle weiterhin nicht erreicht - kein Trade",
         "portfolioValue": 1574.83
+      },
+      {
+        "time": "16:15",
+        "note": "Keine Aenderung; US-Handel laeuft (Dow -0,71%, S&P -0,33%, Nasdaq -0,52%), Kurse aktualisiert (Gold ~4.490 USD/+4,96%, BTC ~71.900 USD/+4,86%, SOL ~86,00 USD/+5,91%). Grosse Tagesverlierer (Walmart -6%, Advance Auto Parts -15%, Coty -14,5%, Wolfspeed -10%) beruhen auf echten Guidance-/Umsatzverfehlungen, kein Sell-the-news-Setup; Coinbase +7% bereits gelaufen. Gewinnmitnahme-Schwelle (~7-8%) weiterhin nicht erreicht - kein Trade",
+        "portfolioValue": 1578.64
       }
     ]
   }
