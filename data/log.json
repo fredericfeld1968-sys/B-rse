@@ -1612,15 +1612,15 @@
   },
   {
     "date": "2026-08-20",
-    "marketOverview": "Fruehe Morgenstunden (Stand 05:07 MESZ, Donnerstag): US-Boersen und Xetra weiterhin geschlossen (Xetra oeffnet erst 9:00 MESZ). Bitcoin haelt sich stabil bei ca. 68.700 USD, Kryptomarkt insgesamt ruhig, geopolitische Spannungen (Iran/Straße von Hormus) belasten laut aktuellen Berichten eher die Risikostimmung bei Aktien als bei Krypto. Solana notiert bei ca. 77,26 USD (+3% auf 24h-Basis), gestuetzt durch ETF-Zufluesse (8,8 Mio. USD), Short-Eindeckungen und die MoneyGram-Partnerschaft (Cash-Ein-/Auszahlung in 170+ Laendern via Solana) - positives Grundrauschen, aber kein bestaetigter Ausbruch ueber die 78-80 USD Zone. Gold pendelt weiterhin um ca. 4.400 USD/oz (+2,85% seit Kauf) in der Konsolidierungszone, ausserhalb der Handelszeiten nicht handelbar.",
-    "decision": "Tagesbudget-Gutschrift fuer den 20.08. bereits im ersten Lauf erfolgt (lastGrantDate unveraendert, freies Kapital weiterhin ca. 14.460,66 EUR). Alle drei offenen Positionen (Gold, Bitcoin, Solana) wurden auf aktuelle Kurse gebracht. Kein neuer Kauf und kein Verkauf im gesamten bisherigen Tagesverlauf: Bitcoin seitwaerts/leicht fester, Solana ohne bestaetigten Ausbruch ueber die Widerstandszone, Gold ist ausserhalb der Handelszeiten ohnehin nicht handelbar. Solana bleibt trotz -4,83% seit Kauf ohne fundamentale Verschlechterung gehalten (kein Stop-Loss-Grund, im Gegenteil positive Netzwerk-/ETF-/Partnerschafts-Nachrichten).",
-    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende, bestaetigte Gelegenheit - diese liegt aktuell nicht vor: Bitcoin (~68.700 USD, seitwaerts) und Solana (~77,26 USD, positives Grundrauschen aber kein bestaetigter Ausbruch) bieten keinen neuen Katalysator fuer einen Zukauf oder eine Positionsschliessung. Gold bleibt in seiner Konsolidierungszone, aber ausserhalb der Handelszeiten (Nacht) nicht gehandelt. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "marketOverview": "Stand 06:09 MESZ, Donnerstag: US-Boersen und Xetra weiterhin geschlossen (Xetra oeffnet erst 9:00 MESZ), daher Aktien/ETFs/Rohstoffe weiterhin nicht handelbar. Kryptomarkt legt deutlich zu: Bitcoin springt auf ca. 69.300 USD (+7,6% auf 24h-Basis), Solana sogar auf ca. 85 USD (+11-12% auf 24h-Basis) - Treiber ist die Ankuendigung des US-Finanzministeriums, sein Anleihe-Rueckkaufprogramm zu verdoppeln (sinkende Renditen erhoehen Risikoappetit), verstaerkt durch Short-Eindeckungen (rund 1,6 Mrd. USD Liquidationen). Dies ist eine Fortsetzung desselben Katalysators, der bereits am 19.08. zum Kauf von pos-0008 (BTC) und pos-0009 (SOL) fuehrte. Gold notiert bei ca. 4.475-4.492 USD/oz, weiterhin in der Konsolidierungs-/Rekordzone, ausserhalb der Handelszeiten nicht handelbar.",
+    "decision": "Tagesbudget-Gutschrift fuer den 20.08. bereits im ersten Lauf erfolgt (lastGrantDate unveraendert, freies Kapital weiterhin ca. 14.460,66 EUR). Alle drei offenen Positionen (Gold, Bitcoin, Solana) wurden auf aktuelle Kurse gebracht - Solana hat sich dank der Rally von -4,83% auf +4,68% erholt, Bitcoin und Gold liegen ebenfalls im Plus. Kein neuer Kauf und kein Verkauf im gesamten bisherigen Tagesverlauf: Aktien/ETFs/Rohstoffe sind vor Boersenoeffnung nicht handelbar, und bei Krypto handelt es sich um eine Fortsetzung des bereits am Vortag gekauften Katalysators statt einer neuen eigenstaendigen Gelegenheit - ausserdem liegen beide Krypto-Positionen noch unter der bisher genutzten Gewinnmitnahme-Schwelle von ca. 7-8%.",
+    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende, NEUE Gelegenheit fuer einen Zukauf - die aktuelle Krypto-Rally ist bereits ueber pos-0008/pos-0009 abgedeckt, ein zusaetzlicher Kauf (z.B. Ethereum) wurde mangels verlaesslicher, konsistenter Kursdaten (stark widersprechende Quellen von 1.910 bis 3.323 USD) verworfen. Fuer eine Gewinnmitnahme bei BTC (+1,07%) und SOL (+4,68%) ist die Bewegung noch nicht stark genug im Vergleich zum bisherigen Erfolgsmuster (ca. 7-8%). Gold bleibt aufgrund der Nachtstunden ungehandelt. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [
       "pos-0004",
       "pos-0008",
       "pos-0009"
     ],
-    "portfolioValueEnd": 1491.08,
+    "portfolioValueEnd": 1552.93,
     "updates": [
       {
         "time": "00:11",
@@ -1651,6 +1651,11 @@
         "time": "05:07",
         "note": "Keine Aenderung; Kurse aktualisiert (Gold ~4.400 USD/+2,85%, BTC ~68.705 USD/+0,19%, SOL ~77,26 USD/-4,83% nach ETF-Zufluessen und MoneyGram-Partnerschaft). Kein bestaetigter Ausbruch bei Solana, kein neuer Katalysator - kein Trade",
         "portfolioValue": 1491.08
+      },
+      {
+        "time": "06:09",
+        "note": "Keine Aenderung; Kryptomarkt-Rally (Anleihe-Rueckkauf-Ankuendigung) hebt BTC auf ~69.300 USD/+1,07% und SOL auf ~85 USD/+4,68%; Gold ~4.485 USD/+4,84%. Fortsetzung des bereits gehaltenen Katalysators statt neuer Gelegenheit, Gewinnmitnahme-Schwelle (~7-8%) noch nicht erreicht - kein Trade",
+        "portfolioValue": 1552.93
       }
     ]
   }
