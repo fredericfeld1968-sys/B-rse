@@ -1612,15 +1612,15 @@
   },
   {
     "date": "2026-08-20",
-    "marketOverview": "Der US-Handel laeuft: Dow -0,71%, S&P 500 -0,33%, Nasdaq -0,52%, nur der Russell 2000 legt zu (+0,50%). Belastend wirken Trumps Ankuendigung, Iran wirtschaftlich zu erdrosseln (steigende Oelpreise), sowie wieder anziehende Anleiherenditen nach der Treasury-Intervention. Bitcoin rallyt dagegen kraeftig auf ca. 71.900 USD (+11,6% in 24h) - Auesloeser sind das verdoppelte Anleihe-Rueckkaufprogramm und Trumps Druck auf den Kongress fuer krypto-freundliche Gesetzgebung; Solana zieht im Schlepptau auf ca. 86 USD (+11,8% in 24h), Krypto-Aktien wie Coinbase (+7%) und Strategy (+10%) folgen. Gold konsolidiert in der Spanne 4.470-4.510 USD/oz. Grosse Einzelverlierer: Walmart -6% nach verfehlten US-Vergleichsumsaetzen und schwacher Prognose, Advance Auto Parts -15%, Coty -14,5%, Wolfspeed -10%.",
-    "decision": "Kein Trade in diesem Lauf. Bestandspositionen (Gold, BTC, SOL) auf aktuelle Kurse aktualisiert; keine Position hat die etablierte Gewinnmitnahme-Schwelle (~7-8%) erreicht, kein Stop-Loss-Grund.",
-    "reasoning": "Gold (+4,96%), BTC (+4,86%) und SOL (+5,91%) liegen weiterhin unter der Gewinnmitnahme-Schwelle, profitieren aber von der laufenden Krypto-Rally - Halten ist die konsequente Fortsetzung der bestehenden These. Ein Nachkauf in die bereits stark gelaufene Bewegung hinein (BTC +11,6%, SOL +11,8% in 24h) waere ein Einstieg auf ueberkauftem Niveau und wird bewusst unterlassen. Bei den Aktien bietet der heutige Ausverkauf keine Sell-the-news-Ueberreaktion: Walmart, Advance Auto Parts, Coty und Wolfspeed sind allesamt an echten Umsatz-/Guidance-Verfehlungen gescheitert (fundamentale Verschlechterung, vgl. das negative Rheinmetall-Muster), Coinbase ist mit +7% bereits gelaufen. Freies Kapital bleibt bei ca. 14.460,66 EUR unveraendert.",
+    "marketOverview": "Der US-Handel laeuft schwaecher: Dow -0,71%, S&P 500 -0,33%, Nasdaq -0,52%, nur der Russell 2000 im Plus. Belastend wirken steigende Anleiherenditen (Treasury-Rally verpufft) sowie Trumps Druck auf Iran, der die Oelpreise hebt. Bitcoin hat seine 24h-Rally auf ~71.970 USD gehalten (+11,5%), stoesst nun aber an den Widerstand aus 50%-Retracement (~70.325) und 200-Tage-EMA (~71.941 USD); Solana konsolidiert nach dem Spike leicht zurueck auf ~84,81 USD, RSI weiterhin ueberkauft (~72). Gold pendelt seitwaerts in der Spanne 4.470-4.510 USD/oz.",
+    "decision": "Kein Trade in diesem Lauf. Bestandspositionen (Gold, BTC, SOL) auf aktuelle Kurse aktualisiert; keine Position hat die etablierte Gewinnmitnahme-Schwelle (~7-8%) erreicht, kein Stop-Loss-Grund. Die Krypto-Rally flaut an starken technischen Widerstaenden ab, ein Nachkauf auf ueberkauftem Niveau wird bewusst unterlassen.",
+    "reasoning": "Gold (+4,96%), BTC (+4,96%) und SOL (+4,45%) liegen unter der Gewinnmitnahme-Schwelle; Halten ist die konsequente Fortsetzung der bestehenden Momentum-These, solange die Ausbruchsniveaus verteidigt werden. BTC laeuft in die Widerstandszone 70.325-71.941 USD (50%-Retracement/200-Tage-EMA), SOL ist mit RSI ~72 ueberkauft - ein Einstieg hier waere spaet und riskant. Bei den Aktien liefert der heutige Ausverkauf (Walmart, Advance Auto Parts, Coty, Wolfspeed) keine Sell-the-news-Ueberreaktion, sondern echte Guidance-/Umsatzverfehlungen (vgl. negatives Rheinmetall-Muster). Freies Kapital bleibt bei ca. 14.460,66 EUR unveraendert.",
     "positionIds": [
       "pos-0004",
       "pos-0008",
       "pos-0009"
     ],
-    "portfolioValueEnd": 1578.64,
+    "portfolioValueEnd": 1571.82,
     "updates": [
       {
         "time": "00:11",
@@ -1706,6 +1706,11 @@
         "time": "16:15",
         "note": "Keine Aenderung; US-Handel laeuft (Dow -0,71%, S&P -0,33%, Nasdaq -0,52%), Kurse aktualisiert (Gold ~4.490 USD/+4,96%, BTC ~71.900 USD/+4,86%, SOL ~86,00 USD/+5,91%). Grosse Tagesverlierer (Walmart -6%, Advance Auto Parts -15%, Coty -14,5%, Wolfspeed -10%) beruhen auf echten Guidance-/Umsatzverfehlungen, kein Sell-the-news-Setup; Coinbase +7% bereits gelaufen. Gewinnmitnahme-Schwelle (~7-8%) weiterhin nicht erreicht - kein Trade",
         "portfolioValue": 1578.64
+      },
+      {
+        "time": "17:14",
+        "note": "Keine Aenderung; Kurse aktualisiert (Gold ~4.490 USD/+4,96% konsolidiert, BTC ~71.970 USD/+4,96%, SOL leicht zurueck auf ~84,81 USD/+4,45%). Krypto-Rally flaut ab (BTC stoesst an 200-Tage-EMA ~71.941 USD, SOL RSI weiter ueberkauft ~72); Gewinnmitnahme-Schwelle (~7-8%) weiterhin nicht erreicht, kein Stop-Loss-Grund. Keine ueberzeugende neue Aktien-Gelegenheit im laufenden US-Handel - kein Trade",
+        "portfolioValue": 1571.82
       }
     ]
   }
