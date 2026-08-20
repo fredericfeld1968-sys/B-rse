@@ -1612,15 +1612,15 @@
   },
   {
     "date": "2026-08-20",
-    "marketOverview": "Stand 08:15 MESZ, Donnerstag: US-Boersen weiterhin geschlossen, Xetra oeffnet erst um 9:00 MESZ, daher Aktien/ETFs/Rohstoffe weiterhin nicht handelbar. Kryptomarkt konsolidiert weiter auf hohem Niveau: Bitcoin haelt sich bei ca. 69.100-69.200 USD, Solana bei ca. 85,65-85,90 USD - keine neue eigenstaendige Nachrichtenlage seit dem 07:11-Lauf. Oel (WTI ~85,67 USD, +0,86%) und Gold (Future bis 4.557,60 USD, Spot ca. 4.410-4.450 USD) profitieren weiterhin von fallenden Anleiherenditen nach der Ankuendigung des verdoppelten US-Anleihe-Rueckkaufprogramms; ausserhalb der Handelszeiten weiterhin nicht handelbar.",
-    "decision": "Tagesbudget-Gutschrift fuer den 20.08. bereits im ersten Lauf erfolgt (lastGrantDate unveraendert, freies Kapital weiterhin ca. 14.460,66 EUR). Alle drei offenen Positionen (Gold, Bitcoin, Solana) wurden auf aktuelle Kurse gebracht. Kein neuer Kauf und kein Verkauf im gesamten bisherigen Tagesverlauf: Aktien/ETFs/Rohstoffe sind vor Boersenoeffnung nicht handelbar, und bei Krypto handelt es sich weiterhin um eine blosse Konsolidierung des bereits gekauften Katalysators statt einer neuen eigenstaendigen Gelegenheit - beide Krypto-Positionen liegen weiterhin unter der bisher genutzten Gewinnmitnahme-Schwelle von ca. 7-8%.",
-    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende, NEUE Gelegenheit fuer einen Zukauf - die Krypto-Rally konsolidiert nur noch, ohne neuen Katalysator seit den letzten Laeufen. Fuer eine Gewinnmitnahme bei BTC (+0,92%) und SOL (+5,79%) ist die Bewegung weiterhin nicht stark genug im Vergleich zum bisherigen Erfolgsmuster (ca. 7-8%). Gold bleibt aufgrund der Nachtstunden/vor Boersenoeffnung ungehandelt. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "marketOverview": "Stand 09:13 MESZ, Donnerstag: Xetra ist seit 9:00 MESZ geoeffnet, DAX notiert kaum veraendert um ca. 26.125 Punkte (belastet durch steigende Anleiherenditen und die angespannte Nahost-Lage), US-Boersen oeffnen erst nachmittags. Kryptomarkt weiterhin konsolidierend auf hohem Niveau: Bitcoin haelt sich um ca. 69.100-69.150 USD, Solana um ca. 85,70-85,90 USD - keine neue eigenstaendige Nachrichtenlage seit dem 08:15-Lauf. Gold (Spot) weiter fest um ca. 4.480-4.490 USD/oz, gestuetzt von fallenden Anleiherenditen nach der Ankuendigung des verdoppelten US-Anleihe-Rueckkaufprogramms. Keine ueberzeugenden neuen Dip-Kauf-Gelegenheiten bei Einzelaktien identifiziert (relevante juengste Kursrutsche wie Tesla, Lufthansa, IBM, The Trade Desk beruhen auf echten fundamentalen Enttaeuschungen, nicht auf 'Sell-the-news' trotz starker Zahlen).",
+    "decision": "Tagesbudget-Gutschrift fuer den 20.08. bereits im ersten Lauf erfolgt (lastGrantDate unveraendert, freies Kapital weiterhin ca. 14.460,66 EUR). Alle drei offenen Positionen (Gold, Bitcoin, Solana) wurden auf aktuelle Kurse gebracht. Kein neuer Kauf und kein Verkauf im gesamten bisherigen Tagesverlauf: bei Krypto handelt es sich weiterhin um eine blosse Konsolidierung des bereits gekauften Katalysators statt einer neuen eigenstaendigen Gelegenheit - beide Krypto-Positionen liegen weiterhin unter der bisher genutzten Gewinnmitnahme-Schwelle von ca. 7-8%. Trotz Xetra-Oeffnung keine ueberzeugende neue Aktien-Dip-Kauf-Gelegenheit gefunden.",
+    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende, NEUE Gelegenheit fuer einen Zukauf - die Krypto-Rally konsolidiert nur noch, ohne neuen Katalysator seit den letzten Laeufen. Fuer eine Gewinnmitnahme bei BTC (+0,85%) und SOL (+5,54%) ist die Bewegung weiterhin nicht stark genug im Vergleich zum bisherigen Erfolgsmuster (ca. 7-8%). Bei den heute recherchierten Aktien-Kursruckgaengen (Tesla, Lufthansa, IBM, The Trade Desk, Honeywell, UWM, On Holding) handelt es sich um echte fundamentale Verschlechterungen (Gewinnwarnungen, verfehlte Prognosen) statt um kurzfristige Overreaction bei intakten Fundamentaldaten wie beim bisher erfolgreichen Muster (AMD, SpaceX, Palantir) - daher kein Einstieg. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [
       "pos-0004",
       "pos-0008",
       "pos-0009"
     ],
-    "portfolioValueEnd": 1550.14,
+    "portfolioValueEnd": 1556.15,
     "updates": [
       {
         "time": "00:11",
@@ -1666,6 +1666,11 @@
         "time": "08:15",
         "note": "Keine Aenderung; Kurse aktualisiert (Gold ~4.420 USD/+3,32%, BTC ~69.200 USD/+0,92%, SOL ~85,90 USD/+5,79%). Weiterhin blosse Konsolidierung ohne neuen Katalysator, Gewinnmitnahme-Schwelle (~7-8%) nicht erreicht, Xetra oeffnet erst um 9:00 MESZ - kein Trade",
         "portfolioValue": 1550.14
+      },
+      {
+        "time": "09:13",
+        "note": "Keine Aenderung; Xetra seit 9:00 MESZ geoeffnet (DAX kaum veraendert ~26.125 Punkte), Kurse aktualisiert (Gold ~4.485 USD/+4,84%, BTC ~69.150 USD/+0,85%, SOL ~85,70 USD/+5,54%). Keine ueberzeugende neue Aktien-Dip-Kauf-Gelegenheit gefunden (heutige Kursrutsche wie Tesla/Lufthansa/IBM beruhen auf echten fundamentalen Problemen), Krypto-Gewinnmitnahme-Schwelle weiterhin nicht erreicht - kein Trade",
+        "portfolioValue": 1556.15
       }
     ]
   }
