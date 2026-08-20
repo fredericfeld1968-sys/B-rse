@@ -1612,15 +1612,15 @@
   },
   {
     "date": "2026-08-20",
-    "marketOverview": "Nachtstunden (Stand 02:09 MESZ, Donnerstag): US-Boersen und Xetra weiterhin geschlossen. Der Kryptomarkt konsolidiert weiter auf dem seit dem Abend-Ausbruch erreichten Niveau: Bitcoin haelt sich stabil bei ca. 68.155 USD (praktisch unveraendert zum letzten Lauf), Solana pendelt weiterhin um ca. 76,91 USD (CoinGecko), nach dem Ruecksetzer vom kurzzeitigen Spike ueber 81 USD. Gold ist weiter auf ein neues Hoch von ca. 4.519 USD/oz gestiegen (+1,8% seit dem letzten Lauf), getrieben von der anhaltenden geopolitischen Unsicherheit und der Treasury-Rueckkauf-Ankuendigung; da Rohstoffe ausserhalb der Handelszeiten nicht handelbar sind, bleibt dies rein informativ. Keine neuen marktbewegenden Nachrichten seit dem letzten Lauf.",
-    "decision": "Tagesbudget-Gutschrift fuer den 20.08. bereits im ersten Lauf erfolgt (lastGrantDate unveraendert, freies Kapital weiterhin ca. 14.460,66 EUR). Alle drei offenen Positionen (Gold, Bitcoin, Solana) wurden auf aktuelle Kurse gebracht. Kein neuer Kauf und kein Verkauf: Bitcoin und Solana bewegen sich seit dem letzten Lauf praktisch seitwaerts (kein neuer Katalysator, kein bestaetigter Ausbruch), Gold legt zwar weiter zu, ist aber ausserhalb der Handelszeiten ohnehin nicht handelbar. Solana bleibt trotz -5,28% seit Kauf ohne fundamentale Verschlechterung gehalten (kein Stop-Loss-Grund).",
-    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende, bestaetigte Gelegenheit - diese liegt aktuell nicht vor: Bitcoin (68.150 -> 68.155 USD) und Solana (76,90 -> 76,91 USD) sind seit dem letzten Lauf praktisch unveraendert, es gibt keinen neuen Katalysator fuer einen Zukauf oder eine Positionsschliessung. Gold-Anstieg auf neues Hoch (~4.519 USD, +5,64% seit Kauf) wird zur Kenntnis genommen, aber ausserhalb der Handelszeiten (Nacht) nicht gehandelt. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "marketOverview": "Nachtstunden (Stand 03:09 MESZ, Donnerstag): US-Boersen und Xetra weiterhin geschlossen. Der Kryptomarkt konsolidiert weiter auf dem seit dem Abend-Ausbruch erreichten Niveau: Bitcoin haelt sich stabil bei ca. 68.155 USD (unveraendert zum letzten Lauf, Katalysator bleibt die Treasury-Rueckkauf-Ankuendigung/ETF-Zufluesse vom Vorabend), Solana leicht auf ca. 77,41 USD erholt (von 76,91 USD). Gold notiert unveraendert bei ca. 4.519 USD/oz (+5,64% seit Kauf), ausserhalb der Handelszeiten weiterhin nicht handelbar. Keine neuen marktbewegenden Nachrichten seit dem letzten Lauf.",
+    "decision": "Tagesbudget-Gutschrift fuer den 20.08. bereits im ersten Lauf erfolgt (lastGrantDate unveraendert, freies Kapital weiterhin ca. 14.460,66 EUR). Alle drei offenen Positionen (Gold, Bitcoin, Solana) wurden auf aktuelle Kurse gebracht. Kein neuer Kauf und kein Verkauf: Bitcoin bewegt sich seitwaerts, Solana leicht erholt aber ohne bestaetigten Ausbruch ueber die Widerstandszone, Gold ist ausserhalb der Handelszeiten ohnehin nicht handelbar. Solana bleibt trotz -4,67% seit Kauf ohne fundamentale Verschlechterung gehalten (kein Stop-Loss-Grund).",
+    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende, bestaetigte Gelegenheit - diese liegt aktuell nicht vor: Bitcoin (68.155 USD unveraendert) und Solana (76,91 -> 77,41 USD, kleine Erholung ohne Ausbruch) bieten keinen neuen Katalysator fuer einen Zukauf oder eine Positionsschliessung. Gold bleibt bei ~4.519 USD (+5,64% seit Kauf), aber ausserhalb der Handelszeiten (Nacht) nicht gehandelt. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [
       "pos-0004",
       "pos-0008",
       "pos-0009"
     ],
-    "portfolioValueEnd": 1498.75,
+    "portfolioValueEnd": 1501.84,
     "updates": [
       {
         "time": "00:11",
@@ -1636,6 +1636,11 @@
         "time": "02:09",
         "note": "Keine Aenderung; Kurse aktualisiert (Gold ~4.519 USD/+5,64%, BTC ~68.155 USD/-0,60%, SOL ~76,91 USD/-5,28%). Bitcoin und Solana praktisch seitwaerts seit letztem Lauf, kein neuer Katalysator - kein Trade",
         "portfolioValue": 1498.75
+      },
+      {
+        "time": "03:09",
+        "note": "Keine Aenderung; Kurse aktualisiert (Gold ~4.519 USD/+5,64% unveraendert, BTC ~68.155 USD/-0,60% unveraendert, SOL ~77,41 USD/-4,67% leicht erholt). Kein neuer Katalysator seit letztem Lauf - kein Trade",
+        "portfolioValue": 1501.84
       }
     ]
   }

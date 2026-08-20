@@ -61,8 +61,8 @@
     "status": "open",
     "buyPrice": 4278.02,
     "currentPrice": 4519.19,
-    "currentValue": 528.18,
-    "profitLoss": 28.18,
+    "currentValue": 528.19,
+    "profitLoss": 28.19,
     "profitLossPct": 5.64,
     "closedDate": null,
     "closeReasoning": null
@@ -145,10 +145,10 @@
     "reasoning": "Solana durchbricht am Abend des 19.08. die seit Tagen intakte Widerstandszone bei 78-80 USD und steigt um über 6-7% auf mehr als 81 USD - erstmals seit Juli. Treiber: Agave-v4.2-Mainnet-Upgrade löst neue Käufe aus, zusätzlich Rekord bei On-Chain-Aktivität (1,2 Mrd. Transaktionen) und steigende institutionelle ETF-Zuflüsse, eingebettet in die breite, durch US-Anleihe-Rückkäufe und den Krypto-Gipfel im Weissen Haus ausgelöste Kryptomarkt-Rally. Der zuvor unbestätigte Ausbruch (vgl. 18:12-Lauf) ist nun durch mehrere unabhängige Quellen bestätigt. Spekulative Momentum-Position auf den bestätigten Ausbruch.",
     "status": "open",
     "buyPrice": 81.2,
-    "currentPrice": 76.91,
-    "currentValue": 473.58,
-    "profitLoss": -26.42,
-    "profitLossPct": -5.28,
+    "currentPrice": 77.41,
+    "currentValue": 476.66,
+    "profitLoss": -23.34,
+    "profitLossPct": -4.67,
     "closedDate": null,
     "closeReasoning": null
   }
