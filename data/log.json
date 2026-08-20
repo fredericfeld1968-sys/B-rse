@@ -1612,15 +1612,15 @@
   },
   {
     "date": "2026-08-20",
-    "marketOverview": "Stand 07:11 MESZ, Donnerstag: US-Boersen weiterhin geschlossen, Xetra oeffnet erst um 9:00 MESZ, daher Aktien/ETFs/Rohstoffe weiterhin nicht handelbar. Kryptomarkt konsolidiert auf dem hohen Niveau vom Vorlauf: Bitcoin haelt sich bei ca. 69.000-69.160 USD (weiterhin deutlich im Plus dank verdoppeltem US-Anleihe-Rueckkaufprogramm und Short-Eindeckungen von ueber 1,4 Mrd. USD), Solana notiert bei ca. 85,65 USD (+11,2% auf 24h-Basis). Keine neue eigenstaendige Nachrichtenlage seit dem 06:09-Lauf - die Rally konsolidiert eher, statt sich weiter zu beschleunigen. Gold notiert bei ca. 4.390-4.436 USD/oz vor den heutigen FOMC-Protokollen und PMI-Daten, ausserhalb der Handelszeiten weiterhin nicht handelbar.",
+    "marketOverview": "Stand 08:15 MESZ, Donnerstag: US-Boersen weiterhin geschlossen, Xetra oeffnet erst um 9:00 MESZ, daher Aktien/ETFs/Rohstoffe weiterhin nicht handelbar. Kryptomarkt konsolidiert weiter auf hohem Niveau: Bitcoin haelt sich bei ca. 69.100-69.200 USD, Solana bei ca. 85,65-85,90 USD - keine neue eigenstaendige Nachrichtenlage seit dem 07:11-Lauf. Oel (WTI ~85,67 USD, +0,86%) und Gold (Future bis 4.557,60 USD, Spot ca. 4.410-4.450 USD) profitieren weiterhin von fallenden Anleiherenditen nach der Ankuendigung des verdoppelten US-Anleihe-Rueckkaufprogramms; ausserhalb der Handelszeiten weiterhin nicht handelbar.",
     "decision": "Tagesbudget-Gutschrift fuer den 20.08. bereits im ersten Lauf erfolgt (lastGrantDate unveraendert, freies Kapital weiterhin ca. 14.460,66 EUR). Alle drei offenen Positionen (Gold, Bitcoin, Solana) wurden auf aktuelle Kurse gebracht. Kein neuer Kauf und kein Verkauf im gesamten bisherigen Tagesverlauf: Aktien/ETFs/Rohstoffe sind vor Boersenoeffnung nicht handelbar, und bei Krypto handelt es sich weiterhin um eine blosse Konsolidierung des bereits gekauften Katalysators statt einer neuen eigenstaendigen Gelegenheit - beide Krypto-Positionen liegen weiterhin unter der bisher genutzten Gewinnmitnahme-Schwelle von ca. 7-8%.",
-    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende, NEUE Gelegenheit fuer einen Zukauf - die Krypto-Rally konsolidiert nur noch, ohne neuen Katalysator seit dem letzten Lauf. Fuer eine Gewinnmitnahme bei BTC (+0,78%) und SOL (+5,48%) ist die Bewegung weiterhin nicht stark genug im Vergleich zum bisherigen Erfolgsmuster (ca. 7-8%). Gold bleibt aufgrund der Nachtstunden ungehandelt. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende, NEUE Gelegenheit fuer einen Zukauf - die Krypto-Rally konsolidiert nur noch, ohne neuen Katalysator seit den letzten Laeufen. Fuer eine Gewinnmitnahme bei BTC (+0,92%) und SOL (+5,79%) ist die Bewegung weiterhin nicht stark genug im Vergleich zum bisherigen Erfolgsmuster (ca. 7-8%). Gold bleibt aufgrund der Nachtstunden/vor Boersenoeffnung ungehandelt. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [
       "pos-0004",
       "pos-0008",
       "pos-0009"
     ],
-    "portfolioValueEnd": 1546.71,
+    "portfolioValueEnd": 1550.14,
     "updates": [
       {
         "time": "00:11",
@@ -1661,6 +1661,11 @@
         "time": "07:11",
         "note": "Keine Aenderung; Kryptomarkt konsolidiert auf hohem Niveau (BTC ~69.100 USD/+0,78%, SOL ~85,65 USD/+5,48%), Gold auf ~4.410 USD/+3,09% aktualisiert. Kein neuer Katalysator seit dem letzten Lauf, Gewinnmitnahme-Schwelle (~7-8%) weiterhin nicht erreicht, Xetra oeffnet erst um 9:00 MESZ - kein Trade",
         "portfolioValue": 1546.71
+      },
+      {
+        "time": "08:15",
+        "note": "Keine Aenderung; Kurse aktualisiert (Gold ~4.420 USD/+3,32%, BTC ~69.200 USD/+0,92%, SOL ~85,90 USD/+5,79%). Weiterhin blosse Konsolidierung ohne neuen Katalysator, Gewinnmitnahme-Schwelle (~7-8%) nicht erreicht, Xetra oeffnet erst um 9:00 MESZ - kein Trade",
+        "portfolioValue": 1550.14
       }
     ]
   }
