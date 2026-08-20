@@ -1612,15 +1612,15 @@
   },
   {
     "date": "2026-08-20",
-    "marketOverview": "US-Futures leicht im Plus (S&P +0,16%) getragen von der Treasury-Anleiherueckkauf-Verdopplung und Hoffnung auf einen ruhigeren Verlauf im Iran-Konflikt trotz angekuendigter US-Wirtschaftssanktionen ('Operation Economic Fury'); DAX-Futures leicht schwaecher (-0,13%). Krypto konsolidiert nach der Rally vom Vortag auf hohem Niveau (BTC ~68.500 USD, SOL ~84,50 USD), Gold bleibt nahe Rekordniveau (~4.490 USD, +4,96% seit Kauf). Vor US-Handelsstart (Walmart/Alibaba-Zahlen) keine neue ueberzeugende Einzeltitel-Chance erkennbar.",
+    "marketOverview": "US-Futures leicht im Plus (S&P +0,16%, Nasdaq 100 +0,42%) vor Zahlen von Walmart, Alibaba, Deere und Ross Stores; Trump kuendigt verschaerfte Iran-Sanktionen ('Operation Economic Fury') an, Oel (Brent ~91,79 USD) reagiert nur moderat. Krypto konsolidiert weiter auf hohem Niveau (BTC ~68.200-69.000 USD, SOL ~85 USD nach kurzer Delle auf 84,50 USD), Gold seitwaerts nahe Rekordniveau (~4.485-4.495 USD). US-Markt oeffnet erst um 15:30 MESZ, Xetra ohne relevante Einzeltitel-Chance.",
     "decision": "Kein Trade in diesem Lauf. Bestandspositionen (Gold, BTC, SOL) leicht angepasst, keine Gewinnmitnahme- oder Stop-Loss-Schwelle erreicht. Bereits mehrfach heute geprueft ohne neue Gelegenheit.",
-    "reasoning": "Gold (+4,96%), SOL (+4,06%) und BTC (-0,10%) liegen alle innerhalb der ueblichen Halteband-Spanne (Gewinnmitnahme-Muster bei ca. 7-8%, kein Stop-Loss-Grund). Keine neuen, unabhaengig bestaetigten Katalysatoren seit dem letzten Lauf; US-Markt oeffnet erst am Nachmittag MESZ, relevante Einzeltitel-Zahlen (Walmart, Alibaba) noch nicht veroeffentlicht. Freies Kapital bleibt hoch (~14.460 EUR), aber es gilt: nur bei wirklich ueberzeugender Gelegenheit handeln.",
+    "reasoning": "Gold (+4,84%), SOL (+4,68%) und BTC (+0,05%) liegen alle innerhalb der ueblichen Halteband-Spanne (Gewinnmitnahme-Muster bei ca. 7-8%, kein Stop-Loss-Grund). Keine neuen, unabhaengig bestaetigten Katalysatoren seit dem letzten Lauf; US-Markt noch geschlossen, Walmart-/Alibaba-Zahlen noch nicht eingepreist. Freies Kapital bleibt hoch (~14.460 EUR), aber es gilt: nur bei wirklich ueberzeugender Gelegenheit handeln.",
     "positionIds": [
       "pos-0004",
       "pos-0008",
       "pos-0009"
     ],
-    "portfolioValueEnd": 1544.61,
+    "portfolioValueEnd": 1547.83,
     "updates": [
       {
         "time": "00:11",
@@ -1681,6 +1681,11 @@
         "time": "11:09",
         "note": "Keine Aenderung; Kurse aktualisiert (Gold ~4.490 USD/+4,96%, BTC ~68.500 USD/-0,10%, SOL ~84,50 USD/+4,06%). US-Futures leicht positiv (Treasury-Rueckkauf), DAX leicht schwaecher, US-Markt noch geschlossen (Walmart/Alibaba-Zahlen ausstehend) - kein Trade",
         "portfolioValue": 1544.61
+      },
+      {
+        "time": "12:11",
+        "note": "Keine Aenderung; Kurse aktualisiert (Gold ~4.485 USD/+4,84%, BTC ~68.600 USD/+0,05%, SOL ~85,00 USD/+4,68%). Operation Economic Fury (verschaerfte US-Iran-Sanktionen) angekuendigt, Oelpreis reagiert nur moderat; US-Markt oeffnet erst 15:30 MESZ, Walmart/Alibaba-Zahlen noch nicht eingepreist - kein Trade",
+        "portfolioValue": 1547.83
       }
     ]
   }
