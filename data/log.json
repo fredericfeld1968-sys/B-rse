@@ -1612,15 +1612,15 @@
   },
   {
     "date": "2026-08-20",
-    "marketOverview": "Der US-Handel laeuft schwaecher: Dow -0,71%, S&P 500 -0,33%, Nasdaq -0,52%, nur der Russell 2000 im Plus. Belastend wirken steigende Anleiherenditen (Treasury-Rally verpufft) sowie Trumps Druck auf Iran, der die Oelpreise hebt. Bitcoin hat seine 24h-Rally auf ~71.970 USD gehalten (+11,5%), stoesst nun aber an den Widerstand aus 50%-Retracement (~70.325) und 200-Tage-EMA (~71.941 USD); Solana konsolidiert nach dem Spike leicht zurueck auf ~84,81 USD, RSI weiterhin ueberkauft (~72). Gold pendelt seitwaerts in der Spanne 4.470-4.510 USD/oz.",
-    "decision": "Kein Trade in diesem Lauf. Bestandspositionen (Gold, BTC, SOL) auf aktuelle Kurse aktualisiert; keine Position hat die etablierte Gewinnmitnahme-Schwelle (~7-8%) erreicht, kein Stop-Loss-Grund. Die Krypto-Rally flaut an starken technischen Widerstaenden ab, ein Nachkauf auf ueberkauftem Niveau wird bewusst unterlassen.",
-    "reasoning": "Gold (+4,96%), BTC (+4,96%) und SOL (+4,45%) liegen unter der Gewinnmitnahme-Schwelle; Halten ist die konsequente Fortsetzung der bestehenden Momentum-These, solange die Ausbruchsniveaus verteidigt werden. BTC laeuft in die Widerstandszone 70.325-71.941 USD (50%-Retracement/200-Tage-EMA), SOL ist mit RSI ~72 ueberkauft - ein Einstieg hier waere spaet und riskant. Bei den Aktien liefert der heutige Ausverkauf (Walmart, Advance Auto Parts, Coty, Wolfspeed) keine Sell-the-news-Ueberreaktion, sondern echte Guidance-/Umsatzverfehlungen (vgl. negatives Rheinmetall-Muster). Freies Kapital bleibt bei ca. 14.460,66 EUR unveraendert.",
+    "marketOverview": "Zum US-Nachmittag bleibt die Lage schwach: Dow -0,71%, S&P 500 -0,33%, Nasdaq -0,52%, belastet von wieder steigenden Anleiherenditen (Treasury-Rally verpufft) und Iran-Sanktionsdrohungen, die die Oelpreise stuetzen. Bitcoin haelt die 24h-Rally bei ~71.970 USD, stoesst aber weiter an den Widerstand aus 50%-Retracement (~70.325) und 200-Tage-EMA (~71.941 USD); Solana konsolidiert um ~84-85 USD (RSI weiter ueberkauft ~72). Gold gibt spot leicht nach auf ~4.474-4.485 USD/oz (-0,8% ggue. Vortag) und pendelt seitwaerts.",
+    "decision": "Kein Trade in diesem Lauf. Bestandspositionen (Gold, BTC, SOL) auf aktuelle Kurse aktualisiert (Gold leicht schwaecher ~4.485 USD/+4,84%); keine Position hat die etablierte Gewinnmitnahme-Schwelle (~7-8%) erreicht, kein Stop-Loss-Grund. Die Krypto-Rally flaut an starken technischen Widerstaenden ab, ein Nachkauf auf ueberkauftem Niveau wird bewusst unterlassen.",
+    "reasoning": "Gold (+4,84%), BTC (+4,96%) und SOL (+4,45%) liegen unter der Gewinnmitnahme-Schwelle; Halten ist die konsequente Fortsetzung der bestehenden Momentum-These, solange die Ausbruchsniveaus verteidigt werden. BTC laeuft in die Widerstandszone 70.325-71.941 USD (50%-Retracement/200-Tage-EMA), SOL ist mit RSI ~72 ueberkauft - ein Einstieg hier waere spaet und riskant. Bei den Aktien liefert der heutige Ausverkauf (Walmart, Advance Auto Parts, Coty, Wolfspeed) keine Sell-the-news-Ueberreaktion, sondern echte Guidance-/Umsatzverfehlungen (vgl. negatives Rheinmetall-Muster). Freies Kapital bleibt bei ca. 14.460,66 EUR unveraendert.",
     "positionIds": [
       "pos-0004",
       "pos-0008",
       "pos-0009"
     ],
-    "portfolioValueEnd": 1571.82,
+    "portfolioValueEnd": 1571.23,
     "updates": [
       {
         "time": "00:11",
@@ -1711,6 +1711,11 @@
         "time": "17:14",
         "note": "Keine Aenderung; Kurse aktualisiert (Gold ~4.490 USD/+4,96% konsolidiert, BTC ~71.970 USD/+4,96%, SOL leicht zurueck auf ~84,81 USD/+4,45%). Krypto-Rally flaut ab (BTC stoesst an 200-Tage-EMA ~71.941 USD, SOL RSI weiter ueberkauft ~72); Gewinnmitnahme-Schwelle (~7-8%) weiterhin nicht erreicht, kein Stop-Loss-Grund. Keine ueberzeugende neue Aktien-Gelegenheit im laufenden US-Handel - kein Trade",
         "portfolioValue": 1571.82
+      },
+      {
+        "time": "18:12",
+        "note": "Keine Aenderung; Kurse aktualisiert (Gold spot leicht schwaecher ~4.485 USD/+4,84%, BTC ~71.970 USD/+4,96%, SOL ~84,81 USD/+4,45%). Krypto haelt an technischen Widerstaenden (BTC 200-Tage-EMA ~71.941 USD, SOL RSI ~72 ueberkauft), Gewinnmitnahme-Schwelle (~7-8%) nicht erreicht, kein Stop-Loss-Grund; US-Aktien weiter schwach (Renditen/Iran-Sanktionen) ohne Sell-the-news-Setup - kein Trade",
+        "portfolioValue": 1571.23
       }
     ]
   }
