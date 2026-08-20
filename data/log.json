@@ -1613,14 +1613,14 @@
   {
     "date": "2026-08-20",
     "marketOverview": "Ruhiger Abend nach US-Handelsschluss ohne neuen Katalysator: Die US-Indizes schlossen schwach (S&P 500 -0,5%, Dow und Nasdaq 100 jeweils knapp -1%), da die Treasury-Renditen ueber die gesamte Kurve wieder anzogen - der Markt fuerchtet, dass die ausgeweiteten Anleihe-Rueckkaeufe des Finanzministeriums inflationaer wirken; der Chip-Sektor blieb mit -5% im Wochenverlauf der Bremsklotz. Der Kryptomarkt haelt seine CLARITY-Act-Rally (Gesamtmarkt 2,45 Bio. USD, +7,5% in 24h): Bitcoin um ~71.980 USD, Ether nach +18% bei ~2.265 USD. Gold gab auf ~4.484 USD/oz nach, haelt aber den Grossteil des +4%-Sprungs vom Vortag.",
-    "decision": "Solana (pos-0009) wurde um 20:10 mit +36,95 EUR (+7,39%) glattgestellt - einziger Trade des Tages. Seither unveraendert: Gold (pos-0004) und Bitcoin (pos-0008) werden weiter gehalten und nur auf aktuelle Kurse gebracht (Gold 4.484 USD/+4,81%, BTC 71.980 USD/+4,98%). Auch im 22:09-Lauf kein Neueinstieg und kein Verkauf: Die US-Boersen haben um 22:00 MESZ geschlossen, Aktien/ETFs/Rohstoffe sind damit nicht mehr handelbar, und im Krypto-Segment gibt es seit dem Vorlauf keine neue Nachricht.",
-    "reasoning": "Risikoprofil 'spekulativ': Gold (+4,81%) und Bitcoin (+4,98%) liegen weiterhin unter der etablierten Gewinnmitnahme-Schwelle (~7-8%) - kein Verkaufsgrund; beide Trends sind intakt (Gold gestuetzt von ruecklaeufigen Renditen zur Wochenmitte, BTC vom CLARITY-Act-/Anleihe-Rueckkauf-Katalysator). Kein Neukauf: Der Krypto-Ausbruch ist nach +7,5% Gesamtmarkt in 24h weit gelaufen und die Passage-Chance des CLARITY Act wird von Beobachtern nur bei rund 10% gesehen - ein spaetes Nachlegen auf ueberkauftem Niveau waere kein ueberzeugendes Setup. Der Aktien-Selloff ist zins-/makrogetrieben (steigende Treasury-Renditen), kein Sell-the-news-Dip mit Erholungsthese, und ausserhalb der Handelszeiten ohnehin nicht handelbar. Freies Kapital ca. 14.960,66 EUR (realisierte Gewinne bleiben gesperrt).",
+    "decision": "Solana (pos-0009) wurde um 20:10 mit +36,95 EUR (+7,39%) glattgestellt - einziger Trade des Tages. Seither unveraendert: Gold (pos-0004) und Bitcoin (pos-0008) werden weiter gehalten und nur auf aktuelle Kurse gebracht (Gold zuletzt 4.488 USD/+4,91%, BTC 72.100 USD/+5,15%). Auch im 23:10-Lauf kein Neueinstieg und kein Verkauf: Die US-Boersen bleiben nach Handelsschluss (22:00 MESZ) geschlossen, Aktien/ETFs/Rohstoffe sind damit nicht handelbar, und im Krypto-Segment gibt es seit dem Vorlauf keine neue marktbewegende Nachricht.",
+    "reasoning": "Risikoprofil 'spekulativ': Gold (+4,91%) und Bitcoin (+5,15%) liegen weiterhin unter der etablierten Gewinnmitnahme-Schwelle (~7-8%) - kein Verkaufsgrund; beide Trends sind intakt (Gold gestuetzt von ruecklaeufigen Renditen, BTC vom CLARITY-Act-/Treasury-Rueckkauf-Katalysator). Kein Neukauf: Der Krypto-Ausbruch (Gesamtmarkt weiterhin deutlich im Plus seit dem Treasury-Buyback-Announcement) ist bereits weit gelaufen und liefert keine neue, klar ueberzeugende Einzelgelegenheit; ein spaetes Nachlegen auf bereits gelaufenem Niveau waere kein ueberzeugendes Setup. Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten ohnehin nicht handelbar. Freies Kapital ca. 14.960,66 EUR (realisierte Gewinne bleiben gesperrt).",
     "positionIds": [
       "pos-0004",
       "pos-0008",
       "pos-0009"
     ],
-    "portfolioValueEnd": 1048.95,
+    "portfolioValueEnd": 1050.29,
     "updates": [
       {
         "time": "00:11",
@@ -1736,6 +1736,11 @@
         "time": "22:09",
         "note": "Keine Aenderung; Kurse aktualisiert (Gold 4.484 USD/+4,81%, BTC 71.980 USD/+4,98%). US-Boersen um 22:00 MESZ geschlossen, kein neuer Krypto-Katalysator seit dem Vorlauf - kein Trade",
         "portfolioValue": 1048.95
+      },
+      {
+        "time": "23:10",
+        "note": "Keine Aenderung; Kurse aktualisiert (Gold ~4.488 USD/+4,91%, BTC ~72.100 USD/+5,15%). CLARITY-Act-/Treasury-Rally weiterhin eingepreist, keine neue Nachricht seit dem Vorlauf, Restpositionen unter Gewinnmitnahme-Schwelle - kein Trade",
+        "portfolioValue": 1050.29
       }
     ]
   }
