@@ -1612,15 +1612,15 @@
   },
   {
     "date": "2026-08-20",
-    "marketOverview": "Bitcoin brach im Vormittagsverlauf mit einem rekordverdaechtigen Short-Squeeze auf ueber 70.000-71.000 USD aus (erstmals seit Anfang Juni, Tageshoch laut mehreren Quellen bis 71.970 USD) - ca. 2,7 Mrd. USD Short-Positionen wurden binnen 24h liquidiert (groesste erfasste Short-Liquidation seit 2021), getrieben vom verdoppelten US-Anleihe-Rueckkaufprogramm (fallende Renditen) und ETF-Zufluessen. Einzelne Analysten warnen zugleich vor einem moeglichen 'Bull Trap'. Solana (~85-86 USD) bleibt im Sog der Rally nahe ueberkauftem Niveau (RSI ~72), Gold haelt sich nahe Rekordniveau um 4.500-4.510 USD/oz. US-Aktienmarkt oeffnet erst um 15:30 MESZ (Dow-Futures nahezu flach, Nasdaq-Futures leicht negativ), Operation-Economic-Fury-Sanktionen bereits eingepreist.",
-    "decision": "Kein Trade in diesem Lauf. Bestandspositionen (Gold, BTC, SOL) auf aktuelle Kurse nach dem Bitcoin-Short-Squeeze aktualisiert, keine Gewinnmitnahme- oder Stop-Loss-Schwelle erreicht.",
-    "reasoning": "Gold (+5,31%), SOL (+6,16%) und BTC (+2,82%) liegen weiterhin unterhalb der etablierten Gewinnmitnahme-Schwelle (ca. 7-8%), kein Stop-Loss-Grund. Der Bitcoin-Short-Squeeze ist zwar ein starker, mehrfach unabhaengig bestaetigter Katalysator, aber bereits in der bestehenden BTC-Position abgebildet; angesichts der Bull-Trap-Warnungen einzelner Analysten und ueberkauftem SOL-RSI (~72) wird bewusst nicht in die bereits weit gelaufene Rally nachgekauft. US-Aktienmarkt oeffnet erst um 15:30 MESZ, daher fuer Aktien/ETFs/Rohstoffe ohnehin kein Handel moeglich. Freies Kapital bleibt hoch (~14.460 EUR), aber es gilt: nur bei wirklich ueberzeugender Gelegenheit handeln.",
+    "marketOverview": "Bitcoin rallyt weiter und notiert am fruehen Nachmittag bei ca. 71.800 USD (Tageshoch bereits bis 72.000 USD, ueber 1,9 Mrd. USD Liquidationen in 24h), getrieben vom verdoppelten US-Anleihe-Rueckkaufprogramm des Treasury. Die gleiche Rueckkauf-Ankuendigung liess die Renditen jedoch wieder steigen (10J +5 Bp auf 4,70%), weshalb US-Aktienfutures kurz vor Handelsstart (15:30 MESZ) im Minus liegen (Dow -0,7%, S&P -0,4%, Nasdaq -0,7%). Zusaetzlich belastet Trumps Ankuendigung von 'Wirtschaftskrieg' gegen Iran samt Sanktionsdrohungen die Stimmung und treibt den Oelpreis (Brent +2,2% auf 93,6 USD). Gold konsolidiert nahe 4.480-4.495 USD/oz, leicht unter dem gestrigen Hoch. Solana bewegt sich seitwaerts um 84-86 USD.",
+    "decision": "Kein Trade in diesem Lauf. Bestandspositionen (Gold, BTC, SOL) auf aktuelle Kurse aktualisiert; keine Position hat die etablierte Gewinnmitnahme-Schwelle (~7-8%) erreicht, kein Stop-Loss-Grund.",
+    "reasoning": "Gold (+4,96%), BTC (+4,71%) und SOL (+5,30%) liegen weiterhin unter der Gewinnmitnahme-Schwelle. Die Rueckkauf-Ankuendigung des Treasury ist bereits seit dem Vormittag bekannt und in den bestehenden Positionen eingepreist. Kurz vor US-Handelsstart (15:30 MESZ) zeigen die Aktienfutures Risk-off-Tendenz (steigende Renditen, Iran-Sanktionsdrohungen, hoehere Oelpreise) - keine ueberzeugende neue Dip-Kauf-Gelegenheit erkennbar, daher bewusst kein Nachkauf. Freies Kapital bleibt bei ca. 14.460,66 EUR unveraendert.",
     "positionIds": [
       "pos-0004",
       "pos-0008",
       "pos-0009"
     ],
-    "portfolioValueEnd": 1571.41,
+    "portfolioValueEnd": 1574.83,
     "updates": [
       {
         "time": "00:11",
@@ -1696,6 +1696,11 @@
         "time": "14:19",
         "note": "Keine Aenderung; Bitcoin-Short-Squeeze auf ueber 70.000-71.000 USD bestaetigt (Kurse aktualisiert: Gold ~4.505 USD/+5,31%, BTC ~70.500 USD/+2,82%, SOL ~86,20 USD/+6,16%). Trotz starkem Katalysator kein Nachkauf (Bull-Trap-Warnungen, SOL RSI ueberkauft ~72), Gewinnmitnahme-Schwelle (~7-8%) weiterhin nicht erreicht, US-Markt oeffnet erst 15:30 MESZ - kein Trade",
         "portfolioValue": 1571.41
+      },
+      {
+        "time": "15:17",
+        "note": "Keine Aenderung; Kurse aktualisiert (Gold ~4.490 USD/+4,96%, BTC ~71.800 USD/+4,71%, SOL ~85,50 USD/+5,30%). US-Aktienfutures leicht im Minus vor Handelsstart (15:30 MESZ) wegen steigender Renditen und Iran-Sanktionsdrohungen, Gewinnmitnahme-Schwelle weiterhin nicht erreicht - kein Trade",
+        "portfolioValue": 1574.83
       }
     ]
   }
