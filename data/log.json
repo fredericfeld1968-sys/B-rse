@@ -1612,15 +1612,15 @@
   },
   {
     "date": "2026-08-20",
-    "marketOverview": "Stand 10:10 MESZ, Donnerstag: Xetra weiterhin geoeffnet, US-Futures nahezu unveraendert (Dow +0,02%, S&P/Nasdaq minimal im Minus), DAX-/FTSE-/CAC-Futures leicht schwaecher. Treasury-Anleiherueckkaufprogramm (Verdopplung auf 4 Mrd. USD je Operation) druecken weiter auf die Renditen und stuetzen Gold, das nahe dem hoechsten Stand seit Anfang Juni bei ca. 4.484-4.490 USD/oz notiert. Oel haelt sich nahe 85 USD/Barrel (vierter Anstiegstag). Kryptomarkt konsolidiert weiter auf hohem Niveau nach der starken Rally: Bitcoin ca. 68.150-68.400 USD (Kursquellen leicht uneinheitlich), Solana ca. 84-86 USD - keine neue eigenstaendige Nachrichtenlage seit dem 09:13-Lauf. Allgemeine Marktberichte zu Chip-Aktien (SOXX -23% von den Hochs) und Q2-Ergebnissaison zeigen sektorale Differenzierung, aber keine konkrete, heute neu aufgetretene Einzeltitel-Overreaction mit intakten Fundamentaldaten wurde identifiziert.",
-    "decision": "Tagesbudget-Gutschrift fuer den 20.08. bereits im ersten Lauf erfolgt (lastGrantDate unveraendert, freies Kapital weiterhin ca. 14.460,66 EUR). Alle drei offenen Positionen (Gold, Bitcoin, Solana) wurden auf aktuelle Kurse gebracht. Kein neuer Kauf und kein Verkauf im gesamten bisherigen Tagesverlauf: bei Krypto handelt es sich weiterhin um eine blosse Konsolidierung des bereits gekauften Katalysators statt einer neuen eigenstaendigen Gelegenheit - beide Krypto-Positionen liegen weiterhin unter der bisher genutzten Gewinnmitnahme-Schwelle von ca. 7-8% (SOL sogar leicht ruecklaeufig auf +5,05%, BTC nahe Einstand bei -0,39%). Trotz Xetra-Oeffnung weiterhin keine ueberzeugende neue Aktien-Dip-Kauf-Gelegenheit gefunden.",
-    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende, NEUE Gelegenheit fuer einen Zukauf - die Krypto-Rally konsolidiert nur noch, ohne neuen Katalysator seit den letzten Laeufen, BTC ist sogar leicht unter den Kaufkurs gerutscht (kein Grund fuer Stop-Loss, da kurzfristige Schwankung ohne fundamentale Verschlechterung). Fuer eine Gewinnmitnahme bei SOL (+5,05%) ist die Bewegung weiterhin nicht stark genug im Vergleich zum bisherigen Erfolgsmuster (ca. 7-8%). Allgemeine Marktberichte (Chip-Sektor-Korrektur, Q2-Earnings-Differenzierung) liefern keine konkrete, heute neu bestaetigte Einzeltitel-Overreaction bei intakten Fundamentaldaten wie beim bisher erfolgreichen Muster (AMD, SpaceX, Palantir) - daher kein Einstieg. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "marketOverview": "US-Futures leicht im Plus (S&P +0,16%) getragen von der Treasury-Anleiherueckkauf-Verdopplung und Hoffnung auf einen ruhigeren Verlauf im Iran-Konflikt trotz angekuendigter US-Wirtschaftssanktionen ('Operation Economic Fury'); DAX-Futures leicht schwaecher (-0,13%). Krypto konsolidiert nach der Rally vom Vortag auf hohem Niveau (BTC ~68.500 USD, SOL ~84,50 USD), Gold bleibt nahe Rekordniveau (~4.490 USD, +4,96% seit Kauf). Vor US-Handelsstart (Walmart/Alibaba-Zahlen) keine neue ueberzeugende Einzeltitel-Chance erkennbar.",
+    "decision": "Kein Trade in diesem Lauf. Bestandspositionen (Gold, BTC, SOL) leicht angepasst, keine Gewinnmitnahme- oder Stop-Loss-Schwelle erreicht. Bereits mehrfach heute geprueft ohne neue Gelegenheit.",
+    "reasoning": "Gold (+4,96%), SOL (+4,06%) und BTC (-0,10%) liegen alle innerhalb der ueblichen Halteband-Spanne (Gewinnmitnahme-Muster bei ca. 7-8%, kein Stop-Loss-Grund). Keine neuen, unabhaengig bestaetigten Katalysatoren seit dem letzten Lauf; US-Markt oeffnet erst am Nachmittag MESZ, relevante Einzeltitel-Zahlen (Walmart, Alibaba) noch nicht veroeffentlicht. Freies Kapital bleibt hoch (~14.460 EUR), aber es gilt: nur bei wirklich ueberzeugender Gelegenheit handeln.",
     "positionIds": [
       "pos-0004",
       "pos-0008",
       "pos-0009"
     ],
-    "portfolioValueEnd": 1547.45,
+    "portfolioValueEnd": 1544.61,
     "updates": [
       {
         "time": "00:11",
@@ -1676,6 +1676,11 @@
         "time": "10:10",
         "note": "Keine Aenderung; US-Futures nahezu flach, DAX-Futures leicht schwaecher, Kurse aktualisiert (Gold ~4.485 USD/+4,84%, BTC ~68.300 USD/-0,39%, SOL ~85,30 USD/+5,05%). BTC leicht unter Einstand, SOL-Momentum flaut ab - kein Stop-Loss-Grund, aber auch keine Gewinnmitnahme-Schwelle erreicht; keine neue ueberzeugende Aktien-Dip-Gelegenheit - kein Trade",
         "portfolioValue": 1547.45
+      },
+      {
+        "time": "11:09",
+        "note": "Keine Aenderung; Kurse aktualisiert (Gold ~4.490 USD/+4,96%, BTC ~68.500 USD/-0,10%, SOL ~84,50 USD/+4,06%). US-Futures leicht positiv (Treasury-Rueckkauf), DAX leicht schwaecher, US-Markt noch geschlossen (Walmart/Alibaba-Zahlen ausstehend) - kein Trade",
+        "portfolioValue": 1544.61
       }
     ]
   }
