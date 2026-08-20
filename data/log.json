@@ -1612,15 +1612,15 @@
   },
   {
     "date": "2026-08-20",
-    "marketOverview": "US-Futures nahezu flach (Dow -0,11%, Nasdaq +0,13%) nach Trumps verschaerften Iran-Sanktionen ('Operation Economic Fury') und der ueberraschenden Ankuendigung der US-Finanzministerium, die Rueckkaeufe langfristiger Staatsanleihen zu verdoppeln - das druecke die Renditen (10J -5 Bp auf 4,65%) und befluegelt Krypto. Bitcoin sprang zwischenzeitlich ueber 69.000-70.000 USD (erstmals seit Anfang Juni), notiert aktuell wieder bei ca. 68.800 USD; Solana (~85,5 USD) und Ethereum (+9%) outperformen dank Agave-4.2-Upgrade und ETF-Zufluessen. Gold haelt sich nahe Rekordniveau bei ca. 4.500 USD/oz. US-Markt oeffnet erst um 15:30 MESZ, Walmart-/Alibaba-Zahlen noch ausstehend.",
-    "decision": "Kein Trade in diesem Lauf. Bestandspositionen (Gold, BTC, SOL) auf aktuelle Kurse aktualisiert, keine Gewinnmitnahme- oder Stop-Loss-Schwelle erreicht. Bereits mehrfach heute geprueft ohne neue Gelegenheit.",
-    "reasoning": "Gold (+5,19%), SOL (+5,30%) und BTC (+0,34%) liegen alle innerhalb der ueblichen Halteband-Spanne (Gewinnmitnahme-Muster bei ca. 7-8%, kein Stop-Loss-Grund). Der Treasury-Rueckkauf-Kryptoschub ist bereits groesstenteils in den bestehenden Positionen eingepreist; kein neuer, unabhaengig bestaetigter Einzeltitel-Katalysator seit dem letzten Lauf, US-Markt noch geschlossen, Walmart-/Alibaba-Zahlen noch nicht eingepreist. Freies Kapital bleibt hoch (~14.460 EUR), aber es gilt: nur bei wirklich ueberzeugender Gelegenheit handeln.",
+    "marketOverview": "Bitcoin brach im Vormittagsverlauf mit einem rekordverdaechtigen Short-Squeeze auf ueber 70.000-71.000 USD aus (erstmals seit Anfang Juni, Tageshoch laut mehreren Quellen bis 71.970 USD) - ca. 2,7 Mrd. USD Short-Positionen wurden binnen 24h liquidiert (groesste erfasste Short-Liquidation seit 2021), getrieben vom verdoppelten US-Anleihe-Rueckkaufprogramm (fallende Renditen) und ETF-Zufluessen. Einzelne Analysten warnen zugleich vor einem moeglichen 'Bull Trap'. Solana (~85-86 USD) bleibt im Sog der Rally nahe ueberkauftem Niveau (RSI ~72), Gold haelt sich nahe Rekordniveau um 4.500-4.510 USD/oz. US-Aktienmarkt oeffnet erst um 15:30 MESZ (Dow-Futures nahezu flach, Nasdaq-Futures leicht negativ), Operation-Economic-Fury-Sanktionen bereits eingepreist.",
+    "decision": "Kein Trade in diesem Lauf. Bestandspositionen (Gold, BTC, SOL) auf aktuelle Kurse nach dem Bitcoin-Short-Squeeze aktualisiert, keine Gewinnmitnahme- oder Stop-Loss-Schwelle erreicht.",
+    "reasoning": "Gold (+5,31%), SOL (+6,16%) und BTC (+2,82%) liegen weiterhin unterhalb der etablierten Gewinnmitnahme-Schwelle (ca. 7-8%), kein Stop-Loss-Grund. Der Bitcoin-Short-Squeeze ist zwar ein starker, mehrfach unabhaengig bestaetigter Katalysator, aber bereits in der bestehenden BTC-Position abgebildet; angesichts der Bull-Trap-Warnungen einzelner Analysten und ueberkauftem SOL-RSI (~72) wird bewusst nicht in die bereits weit gelaufene Rally nachgekauft. US-Aktienmarkt oeffnet erst um 15:30 MESZ, daher fuer Aktien/ETFs/Rohstoffe ohnehin kein Handel moeglich. Freies Kapital bleibt hoch (~14.460 EUR), aber es gilt: nur bei wirklich ueberzeugender Gelegenheit handeln.",
     "positionIds": [
       "pos-0004",
       "pos-0008",
       "pos-0009"
     ],
-    "portfolioValueEnd": 1554.13,
+    "portfolioValueEnd": 1571.41,
     "updates": [
       {
         "time": "00:11",
@@ -1691,6 +1691,11 @@
         "time": "13:14",
         "note": "Keine Aenderung; Kurse aktualisiert (Gold ~4.500 USD/+5,19%, BTC ~68.800 USD/+0,34% nach kurzzeitigem Spike ueber 69.000-70.000 USD, SOL ~85,50 USD/+5,30%). Treasury-Anleihe-Rueckkauf treibt Krypto weiter, aber kein neuer Einzeltitel-Katalysator; Gewinnmitnahme-Schwelle (~7-8%) weiterhin nicht erreicht, US-Markt oeffnet erst 15:30 MESZ - kein Trade",
         "portfolioValue": 1554.13
+      },
+      {
+        "time": "14:19",
+        "note": "Keine Aenderung; Bitcoin-Short-Squeeze auf ueber 70.000-71.000 USD bestaetigt (Kurse aktualisiert: Gold ~4.505 USD/+5,31%, BTC ~70.500 USD/+2,82%, SOL ~86,20 USD/+6,16%). Trotz starkem Katalysator kein Nachkauf (Bull-Trap-Warnungen, SOL RSI ueberkauft ~72), Gewinnmitnahme-Schwelle (~7-8%) weiterhin nicht erreicht, US-Markt oeffnet erst 15:30 MESZ - kein Trade",
+        "portfolioValue": 1571.41
       }
     ]
   }
