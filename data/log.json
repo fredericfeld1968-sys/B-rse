@@ -1612,15 +1612,15 @@
   },
   {
     "date": "2026-08-20",
-    "marketOverview": "US-Aktien tendieren schwach (S&P 500 -0,36%, Dow -0,74%, Nasdaq -0,70%), belastet von einem Chip-Ausverkauf und wieder steigenden Anleiherenditen, nachdem die Treasury-Rally verpuffte; Oel zieht auf Iran-Sanktionsdrohungen an. Der Kryptomarkt laeuft dagegen gegen den Trend deutlich nach oben: Praesident Trump draengt den Kongress oeffentlich zur Verabschiedung des CLARITY Act (Einstufung von Kryptowerten als Wertpapier oder Rohstoff), was Bitcoin auf ~71.990 USD und Solana im Tageshoch auf 87,97 USD treibt (+10% intraday, erstmals klar ueber der Abwaertstrendlinie bei ~76 USD). Beide Werte sind damit technisch ausgereizt (SOL Tages-RSI 77,6-86, Stochastik 94,44). Gold pendelt seitwaerts um ~4.484 USD/oz.",
-    "decision": "Solana-Position (pos-0009) um 20:10 mit +36,95 EUR (+7,39%) bei 87,20 USD gewinnbringend glattgestellt - der erste Trade des Tages nach 20 Laeufen ohne Aenderung. Gold (pos-0004, 4.484,48 USD/+4,83%) und Bitcoin (pos-0008, 71.986 USD/+4,99%) bleiben unveraendert gehalten und wurden lediglich auf aktuelle Kurse gebracht. Kein Neueinstieg: Der Krypto-Schub ist bereits weit gelaufen, ein Nachkauf auf ueberkauftem Niveau waere spaet; der breite Aktien-Ausverkauf ist makro-/zinsgetrieben ohne Sell-the-news-Setup.",
-    "reasoning": "Risikoprofil 'spekulativ' mit erlaubtem kurzfristigem Trading: Solana erreichte mit +7,39% die etablierte Gewinnmitnahme-Schwelle (~7-8%, analog AMD +8,7%, SpaceX +7,8%, Solana +7,6%, Palantir +8,3%), gleichzeitig ist der Titel auf allen Zeitebenen deutlich ueberkauft (Tages-RSI bis 86, Stundes-RSI 72, Stochastik 94,44) und Analysten halten einen Ruecksetzer unter 88 USD fuer moeglich - konsequente Gewinnmitnahme statt Rueckschlagsrisiko. Bitcoin liegt mit +4,99% noch unter der Schwelle und profitiert vom frischen CLARITY-Act-Katalysator, Gold (+4,83%) haelt seinen ruhigen mehrtaegigen Aufwaertstrend - beide werden weiter gehalten. Der Rheinmetall-Fall bleibt die Mahnung, echte fundamentale Verschlechterungen nicht mit Sell-the-news-Ueberreaktionen zu verwechseln; die heutigen Aktien-Verlierer fallen in die erste Kategorie. Keine Position verstoesst gegen die Ausschlusslisten. Freies Kapital nach dem Verkauf ca. 14.960,66 EUR; realisierte Gewinne bleiben gesperrt.",
+    "marketOverview": "Ruhige Abendlage ohne neuen Katalysator: Der Kryptomarkt haelt die durch Trumps Druck auf den CLARITY Act und die verdoppelten US-Anleihe-Rueckkaeufe getriebene Rally - Bitcoin um ~71.990 USD, Ether nach +17,5% am Morgen. Allerdings mahnen erste Stimmen (Solana Policy Institute: nur ~10% Passage-Chance vor den Midterms, Bill im Senat gestoppt) zur Vorsicht; der regulatorische Rueckenwind ist damit weitgehend eingepreist. Gold gab um -0,81% auf ~4.482 USD/oz nach, haelt aber den Grossteil des +4%-Sprungs vom Vortag, gestuetzt von ruecklaeufigen Treasury-Renditen. US-Aktien blieben ganztags schwach (Chip-Selloff).",
+    "decision": "Solana (pos-0009) wurde um 20:10 mit +36,95 EUR (+7,39%) glattgestellt - einziger Trade des Tages. Danach unveraendert: Gold (pos-0004) und Bitcoin (pos-0008) werden weiter gehalten und nur auf aktuelle Kurse gebracht (Gold 4.482 USD/+4,77%, BTC 71.986 USD/+4,99%). Kein Neueinstieg und kein weiterer Verkauf im 21:10-Lauf - der Krypto-Schub ist eingepreist und die verbleibenden Positionen liegen unter der Gewinnmitnahme-Schwelle.",
+    "reasoning": "Risikoprofil 'spekulativ': Gold (+4,77%) und Bitcoin (+4,99%) liegen beide unter der etablierten Gewinnmitnahme-Schwelle (~7-8%) - kein Verkaufsgrund, zumal Gold seinen ruhigen Aufwaertstrend haelt und BTC vom frischen CLARITY-Act-/Anleihe-Rueckkauf-Katalysator profitiert. Kein Neukauf: Der Krypto-Ausbruch ist bereits weit gelaufen und die skeptische Einschaetzung zur CLARITY-Passage (~10%) spricht gegen ein spaetes Nachlegen auf ueberkauftem Niveau; der Aktien-Selloff ist makro-/zinsgetrieben ohne Sell-the-news-Setup. Freies Kapital ca. 14.960,66 EUR (realisierte Gewinne bleiben gesperrt).",
     "positionIds": [
       "pos-0004",
       "pos-0008",
       "pos-0009"
     ],
-    "portfolioValueEnd": 1049.06,
+    "portfolioValueEnd": 1048.77,
     "updates": [
       {
         "time": "00:11",
@@ -1726,6 +1726,11 @@
         "time": "20:10",
         "note": "Verkauf Solana (SOL) 500 EUR bei 87,20 USD, Gewinn +36,95 EUR (+7,39%) realisiert - Trumps Druck auf den Kongress zum CLARITY Act trieb SOL intraday um bis zu 10% auf 87,97 USD, RSI 77,6-86 und Stochastik 94,44 signalisieren deutliche Ueberhitzung. Gold (~4.484/+4,83%) und BTC (~71.986/+4,99%) aktualisiert und weiter gehalten, kein Neueinstieg auf ueberkauftem Niveau",
         "portfolioValue": 1049.06
+      },
+      {
+        "time": "21:10",
+        "note": "Keine Aenderung; Kurse aktualisiert (Gold 4.482 USD/+4,77%, BTC 71.986 USD/+4,99% unveraendert). Kein neuer Katalysator seit dem Solana-Verkauf um 20:10, CLARITY-Act-Rally eingepreist, Restpositionen unter Gewinnmitnahme-Schwelle - kein Trade",
+        "portfolioValue": 1048.77
       }
     ]
   }
