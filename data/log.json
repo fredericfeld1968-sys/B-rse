@@ -1746,19 +1746,24 @@
   },
   {
     "date": "2026-08-21",
-    "marketOverview": "Erster Lauf des neuen Tages, kurz nach Mitternacht: Die CLARITY-Act-Rally im Kryptomarkt haelt an - Bitcoin notiert bei ca. 72.600 USD (vs. 72.100 USD im letzten Lauf), Gold bei ca. 4.533 USD/oz nach einem weiteren leichten Anstieg. Kein neuer Katalysator seit dem 23:10-Lauf: US-Boersen (Aktien, ETFs, Rohstoffe/Xetra) bleiben ausserhalb der Handelszeiten geschlossen, im Kryptomarkt wird die bekannte Rally (Trump-Druck auf CLARITY Act, Treasury-Anleihe-Rueckkaeufe, Short-Squeezes) lediglich fortgeschrieben, ohne neue Einzeltitel-Meldung.",
-    "decision": "Tagesbudget-Gutschrift fuer den 21.08. erfolgt (+1.000 EUR, freies Kapital jetzt ca. 15.960,66 EUR). Gold (pos-0004) und Bitcoin (pos-0008) bleiben unveraendert gehalten und wurden auf die aktuellen Kurse aktualisiert (Gold +5,96%, BTC +5,88%) - beide weiterhin unter der etablierten Gewinnmitnahme-Schwelle von ca. 7-8%. Kein neuer Kauf: Aktien/ETFs/Rohstoffe sind um diese Uhrzeit nicht handelbar, und im Kryptosegment liegt trotz reichlich freiem Kapital keine neue, wirklich ueberzeugende Einzelgelegenheit vor - die laufende Rally ist bereits ueber die bestehenden Positionen abgebildet.",
-    "reasoning": "Risikoprofil spekulativ erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit fuer einen Neueinstieg. Gold und Bitcoin zeigen weiterhin intaktes, aber nicht extremes Momentum (unter der bisherigen Ziel-Gewinnspanne von 7-8%), daher werden beide gehalten statt verkauft. Fuer einen Neukauf fehlt ein frischer, unabhaengig bestaetigter Katalysator ueber die bereits bekannte und in den Positionen abgebildete CLARITY-Act-/Treasury-Rueckkauf-Rally hinaus; ein Nachlegen auf bereits gelaufenem Niveau waere kein ueberzeugendes Setup. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "marketOverview": "Zweiter Lauf des Tages (01:11 MESZ): Die Ethereum-Rally hat sich als staerkster Einzeltreiber der Nacht herausgestellt - ETH sprang seit gestern um ueber 20% auf zwischenzeitlich rund 2.300 USD (Ausbruch aus der mehrwoechigen Konsolidierung 1.850-1.950 USD), notiert aktuell bei ca. 2.275-2.280 USD, ist aber auf allen Zeitebenen extrem ueberkauft (Tages-RSI >83, Stunden-RSI 86,6, 15-Min-RSI 90,5). Treiber bleiben das Trump-Krypto-Gipfeltreffen im Weissen Haus, die verdoppelten Treasury-Anleihe-Rueckkaeufe und ein neuer SEC-Vorschlag fuer eine eigene Krypto-Regulierungsausnahme ('Regulation Crypto Assets'). Gold pendelt leicht schwaecher um 4.518-4.523 USD/oz (Vortagesschluss 4.523,03 USD), Bitcoin legt weiter leicht zu auf ca. 72.700 USD. Der CLARITY Act selbst bleibt bis zur Verfahrensabstimmung am 15.09. blockiert.",
+    "decision": "Tagesbudget-Gutschrift fuer den 21.08. war bereits im ersten Lauf erfolgt (lastGrantDate unveraendert), keine erneute Gutschrift. Gold (pos-0004) und Bitcoin (pos-0008) bleiben unveraendert gehalten, Kurse aktualisiert (Gold +5,66%, BTC +6,03%) - beide weiterhin knapp unter der etablierten Gewinnmitnahme-Schwelle von ca. 7-8%. Kein neuer Kauf trotz freiem Kapital von ca. 15.960 EUR: Aktien/ETFs/Rohstoffe sind um diese Uhrzeit nicht handelbar, und der augenscheinlich attraktivste Krypto-Kandidat (Ethereum, +20% Ausbruch) ist nach dem starken Lauf auf allen Zeitebenen tief ueberkauft (RSI 83-90) - ein Einstieg auf bereits weit gelaufenem, extrem ueberhitztem Niveau waere kein ueberzeugendes Setup, sondern ein Verfolgen des Kurses ('Chasing').",
+    "reasoning": "Risikoprofil spekulativ erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Ethereums Rally ist zwar fundamental gut begruendet (Trump-Gipfel, Treasury-Rueckkaeufe, SEC-Ausnahmeregel), doch die extremen RSI-Werte (>83 taeglich, >90 auf 15-Minuten-Basis) und Liquidationscluster bei 2.300 USD sprechen fuer erhoehtes Ruecksetzerrisiko unmittelbar nach dem Einstieg - anders als bei den bisher erfolgreichen Mustern (AMD/SpaceX/Palantir-Dip-Kaeufe, BTC-/SOL-Ausbrueche direkt am fruehen Widerstand), bei denen der Einstieg jeweils nahe am bestaetigten Ausbruchspunkt und nicht nach einem bereits vollzogenen 20%-Lauf erfolgte. Gold und Bitcoin bleiben unveraendert im Zielkorridor unter 7-8% Gewinn und werden weiter gehalten. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [
       "pos-0004",
       "pos-0008"
     ],
-    "portfolioValueEnd": 1059.21,
+    "portfolioValueEnd": 1058.41,
     "updates": [
       {
         "time": "00:11",
         "note": "Tagesbudget-Gutschrift +1.000 EUR (freies Kapital jetzt ca. 15.960,66 EUR); Kurse aktualisiert (Gold ~4.533 USD/+5,96%, BTC ~72.600 USD/+5,88%); kein Trade mangels neuem Katalysator, US-Boersen geschlossen",
         "portfolioValue": 1059.21
+      },
+      {
+        "time": "01:11",
+        "note": "Keine Aenderung; Kurse aktualisiert (Gold ~4.520 USD/+5,66%, BTC ~72.700 USD/+6,03%). Ethereum-Ausbruch (+20%) als Kaufkandidat geprueft, aber wegen extremem RSI (83-90) auf allen Zeitebenen als 'Chasing' verworfen; kein neuer Kauf",
+        "portfolioValue": 1058.41
       }
     ]
   }
