@@ -1612,15 +1612,15 @@
   },
   {
     "date": "2026-08-20",
-    "marketOverview": "Ruhige Abendlage ohne neuen Katalysator: Der Kryptomarkt haelt die durch Trumps Druck auf den CLARITY Act und die verdoppelten US-Anleihe-Rueckkaeufe getriebene Rally - Bitcoin um ~71.990 USD, Ether nach +17,5% am Morgen. Allerdings mahnen erste Stimmen (Solana Policy Institute: nur ~10% Passage-Chance vor den Midterms, Bill im Senat gestoppt) zur Vorsicht; der regulatorische Rueckenwind ist damit weitgehend eingepreist. Gold gab um -0,81% auf ~4.482 USD/oz nach, haelt aber den Grossteil des +4%-Sprungs vom Vortag, gestuetzt von ruecklaeufigen Treasury-Renditen. US-Aktien blieben ganztags schwach (Chip-Selloff).",
-    "decision": "Solana (pos-0009) wurde um 20:10 mit +36,95 EUR (+7,39%) glattgestellt - einziger Trade des Tages. Danach unveraendert: Gold (pos-0004) und Bitcoin (pos-0008) werden weiter gehalten und nur auf aktuelle Kurse gebracht (Gold 4.482 USD/+4,77%, BTC 71.986 USD/+4,99%). Kein Neueinstieg und kein weiterer Verkauf im 21:10-Lauf - der Krypto-Schub ist eingepreist und die verbleibenden Positionen liegen unter der Gewinnmitnahme-Schwelle.",
-    "reasoning": "Risikoprofil 'spekulativ': Gold (+4,77%) und Bitcoin (+4,99%) liegen beide unter der etablierten Gewinnmitnahme-Schwelle (~7-8%) - kein Verkaufsgrund, zumal Gold seinen ruhigen Aufwaertstrend haelt und BTC vom frischen CLARITY-Act-/Anleihe-Rueckkauf-Katalysator profitiert. Kein Neukauf: Der Krypto-Ausbruch ist bereits weit gelaufen und die skeptische Einschaetzung zur CLARITY-Passage (~10%) spricht gegen ein spaetes Nachlegen auf ueberkauftem Niveau; der Aktien-Selloff ist makro-/zinsgetrieben ohne Sell-the-news-Setup. Freies Kapital ca. 14.960,66 EUR (realisierte Gewinne bleiben gesperrt).",
+    "marketOverview": "Ruhiger Abend nach US-Handelsschluss ohne neuen Katalysator: Die US-Indizes schlossen schwach (S&P 500 -0,5%, Dow und Nasdaq 100 jeweils knapp -1%), da die Treasury-Renditen ueber die gesamte Kurve wieder anzogen - der Markt fuerchtet, dass die ausgeweiteten Anleihe-Rueckkaeufe des Finanzministeriums inflationaer wirken; der Chip-Sektor blieb mit -5% im Wochenverlauf der Bremsklotz. Der Kryptomarkt haelt seine CLARITY-Act-Rally (Gesamtmarkt 2,45 Bio. USD, +7,5% in 24h): Bitcoin um ~71.980 USD, Ether nach +18% bei ~2.265 USD. Gold gab auf ~4.484 USD/oz nach, haelt aber den Grossteil des +4%-Sprungs vom Vortag.",
+    "decision": "Solana (pos-0009) wurde um 20:10 mit +36,95 EUR (+7,39%) glattgestellt - einziger Trade des Tages. Seither unveraendert: Gold (pos-0004) und Bitcoin (pos-0008) werden weiter gehalten und nur auf aktuelle Kurse gebracht (Gold 4.484 USD/+4,81%, BTC 71.980 USD/+4,98%). Auch im 22:09-Lauf kein Neueinstieg und kein Verkauf: Die US-Boersen haben um 22:00 MESZ geschlossen, Aktien/ETFs/Rohstoffe sind damit nicht mehr handelbar, und im Krypto-Segment gibt es seit dem Vorlauf keine neue Nachricht.",
+    "reasoning": "Risikoprofil 'spekulativ': Gold (+4,81%) und Bitcoin (+4,98%) liegen weiterhin unter der etablierten Gewinnmitnahme-Schwelle (~7-8%) - kein Verkaufsgrund; beide Trends sind intakt (Gold gestuetzt von ruecklaeufigen Renditen zur Wochenmitte, BTC vom CLARITY-Act-/Anleihe-Rueckkauf-Katalysator). Kein Neukauf: Der Krypto-Ausbruch ist nach +7,5% Gesamtmarkt in 24h weit gelaufen und die Passage-Chance des CLARITY Act wird von Beobachtern nur bei rund 10% gesehen - ein spaetes Nachlegen auf ueberkauftem Niveau waere kein ueberzeugendes Setup. Der Aktien-Selloff ist zins-/makrogetrieben (steigende Treasury-Renditen), kein Sell-the-news-Dip mit Erholungsthese, und ausserhalb der Handelszeiten ohnehin nicht handelbar. Freies Kapital ca. 14.960,66 EUR (realisierte Gewinne bleiben gesperrt).",
     "positionIds": [
       "pos-0004",
       "pos-0008",
       "pos-0009"
     ],
-    "portfolioValueEnd": 1048.77,
+    "portfolioValueEnd": 1048.95,
     "updates": [
       {
         "time": "00:11",
@@ -1731,6 +1731,11 @@
         "time": "21:10",
         "note": "Keine Aenderung; Kurse aktualisiert (Gold 4.482 USD/+4,77%, BTC 71.986 USD/+4,99% unveraendert). Kein neuer Katalysator seit dem Solana-Verkauf um 20:10, CLARITY-Act-Rally eingepreist, Restpositionen unter Gewinnmitnahme-Schwelle - kein Trade",
         "portfolioValue": 1048.77
+      },
+      {
+        "time": "22:09",
+        "note": "Keine Aenderung; Kurse aktualisiert (Gold 4.484 USD/+4,81%, BTC 71.980 USD/+4,98%). US-Boersen um 22:00 MESZ geschlossen, kein neuer Krypto-Katalysator seit dem Vorlauf - kein Trade",
+        "portfolioValue": 1048.95
       }
     ]
   }
