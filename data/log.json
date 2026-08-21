@@ -1746,14 +1746,13 @@
   },
   {
     "date": "2026-08-21",
-    "marketOverview": "Zehnter Lauf des Tages (09:13 MESZ): Xetra hat um 9:00 MESZ eroeffnet, der DAX faellt nach vier bereits schwaecheren Tagen weiter und notiert unter der 26.000-Punkte-Marke (-0,38%). US-Aktienfutures sind vorboerslich nahezu unveraendert nach einem schwachen Donnerstag (Dow -1,32%, S&P 500 -0,87%, Walmart -9%), belastet von weiter steigenden Anleiherenditen; die US-Boerse oeffnet erst am Nachmittag. Gold profitiert weiter von der risikoscheuen Stimmung und klettert auf ca. 4.548 USD/oz (+0,86% zum Vortag), dritte Woche in Folge im Plus. Im Kryptomarkt bleibt Ethereum nach dem jump auf ~2.300 USD tief ueberkauft (Tages-RSI >83), Solana zeigt mit RSI 67-72 zwar Staerke, aber kein klar neuer Katalysator ueber das bereits bekannte Momentum hinaus.",
-    "decision": "Gold-Position (pos-0004) auf aktuellen Kurs (~4.548 USD, +6,32% seit Kauf) aktualisiert und unveraendert weiter gehalten - das Sicherer-Hafen-Narrativ (fallende Aktienmaerkte, steigende Renditen) stuetzt die These weiter, der Gewinn liegt noch unter der etablierten Ziel-Spanne von 7-8%. Kein neuer Kauf trotz freiem Kapital von ca. 16.460,66 EUR: Der DAX faellt zum Handelsstart weiter (vierter Schwaechetag in Folge), US-Aktien vorboerslich richtungslos nach einem schwachen Vortag - kein ueberzeugendes Dip-Setup. Krypto bietet weiterhin keine ueberzeugende Gelegenheit (Ethereum stark ueberkauft, Solana ohne neuen Katalysator, Bitcoin erst heute Morgen mit Gewinn glattgestellt - kein Nachkauf/Chasing).",
-    "reasoning": "Risikoprofil spekulativ mit erlaubtem kurzfristigem Trading, aber Kaufentscheidungen bleiben an eine wirklich ueberzeugende Gelegenheit gebunden. Ein fallender DAX zum Handelsstart ist kein Kaufsignal ohne konkreten Einzeltitel-Katalysator (Overreaction o.ae.), US-Aktien sind vor Handelsbeginn ohnehin nicht handelbar. Bei Krypto wuerde ein Kauf von Ethereum oder Solana angesichts der ueberkauften/unklaren technischen Lage reines Chasing bedeuten - passend zum bisher erfolgreichen Muster dieses Portfolios wird darauf verzichtet. Gold bleibt als einzige offene Position mit intaktem, durch die aktuelle Marktschwaeche sogar gestuetztem Aufwaertstrend gehalten. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "marketOverview": "Elfter Lauf des Tages (10:11 MESZ): Xetra notiert nach der Eroeffnung weiter leicht schwaecher, US-Aktienfutures deuten dagegen auf eine Erholung hin (S&P-Futures +0,25%, Nasdaq-100-Futures +0,5%, Dow-Futures +0,25%) nach einem schwachen Donnerstag; die US-Boerse oeffnet erst am Nachmittag MESZ. Oelpreise geben leicht nach (Brent -0,38%, WTI -0,55%) im Zuge des andauernden US-Iran-Konflikts. Gold pendelt je nach Quelle zwischen 4.522 und 4.555 USD/oz und bleibt durch die anhaltende Sicherer-Hafen-Nachfrage gestuetzt. Bitcoin (~75.500 USD) und Solana (~77-88 USD je nach Quelle) zeigen keine neuen Katalysatoren gegenueber dem letzten Lauf.",
+    "decision": "Gold-Position (pos-0004) auf aktuellen Kurs (~4.538 USD, +6,08% seit Kauf) aktualisiert und weiter gehalten - Gewinn liegt weiterhin knapp unter der etablierten Ziel-Spanne von 7-8%, Sicherer-Hafen-These bleibt durch schwache DAX-Eroeffnung intakt. Kein neuer Kauf trotz freiem Kapital von ca. 16.460,66 EUR: US-Aktienfutures zeigen zwar eine leichte Erholung, aber ohne konkreten Einzeltitel-Katalysator kein ueberzeugendes Setup; Krypto bietet weiterhin keine neue, unueberkaufte Gelegenheit gegenueber dem letzten Lauf.",
+    "reasoning": "Risikoprofil spekulativ mit erlaubtem kurzfristigem Trading, aber Kaufentscheidungen bleiben an eine wirklich ueberzeugende Gelegenheit gebunden. Eine leichte Futures-Erholung ohne fundamentalen Auslöser ist kein Kaufsignal, US-Aktien sind vor Handelsbeginn ohnehin noch nicht handelbar. Gold bleibt als einzige offene Position mit intaktem Aufwaertstrend gehalten, der Gewinn wird erst bei Erreichen der 7-8%-Zielspanne mitgenommen (analog zu allen bisherigen erfolgreichen Trades). Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [
-      "pos-0004",
-      "pos-0008"
+      "pos-0004"
     ],
-    "portfolioValueEnd": 531.58,
+    "portfolioValueEnd": 530.39,
     "updates": [
       {
         "time": "00:11",
@@ -1804,6 +1803,11 @@
         "time": "09:13",
         "note": "Keine Aenderung; Xetra eroeffnet, DAX faellt weiter (<26.000 Punkte), Gold aktualisiert (~4.548 USD/+6,32%) und gehalten (Safe-Haven-Nachfrage), kein neuer Kauf (Aktien schwach, Krypto ueberkauft/ohne Katalysator)",
         "portfolioValue": 531.58
+      },
+      {
+        "time": "10:11",
+        "note": "Keine Aenderung; Gold aktualisiert (~4.538 USD/+6,08%) und gehalten (noch unter Ziel-Spanne 7-8%). US-Futures leicht erholt, aber ohne konkreten Katalysator; Krypto ohne neue Gelegenheit - kein Trade",
+        "portfolioValue": 530.39
       }
     ]
   }
