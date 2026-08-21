@@ -58,14 +58,14 @@
     "assetClass": "Rohstoffe",
     "amount": 500,
     "reasoning": "Gold klettert heute auf 4.278,02 USD/oz (+0,72%) und damit den vierten Handelstag in Folge nach oben, mit einem Wochenplus von fast 6%. Treiber ist der teilweise Deal zur Wiederöffnung der Straße von Hormus, der die Ölpreise drückt und Inflationssorgen sowie Zinserwartungen dämpft, kombiniert mit anhaltenden geopolitischen Spannungen und Zentralbank-Käufen. Spekulative Momentum-Position auf die fortgesetzte Rekordjagd bei Edelmetallen im aktuellen geopolitisch getriebenen Marktumfeld.",
-    "status": "open",
+    "status": "closed",
     "buyPrice": 4278.02,
-    "currentPrice": 4570.0,
-    "currentValue": 534.13,
-    "profitLoss": 34.13,
-    "profitLossPct": 6.83,
-    "closedDate": null,
-    "closeReasoning": null
+    "currentPrice": 4589.39,
+    "currentValue": 536.39,
+    "profitLoss": 36.39,
+    "profitLossPct": 7.28,
+    "closedDate": "2026-08-21",
+    "closeReasoning": "Gewinnmitnahme: Der Goldpreis stieg auf ca. 4.589,39 USD/oz und erreichte damit erstmals +7,28% seit Kauf - innerhalb der etablierten Ziel-Spanne von 7-8% (analog AMD +8,7%, SpaceX +7,8%, Solana +7,6%/+7,4%, Palantir +8,3%, Bitcoin +9,6%). Die Sicherer-Hafen-These (Straße von Hormus, Iran-Eskalation) bleibt fundamental intakt - Brent naeherte sich diese Woche der 93-USD-Marke (+5% Wochenplus, Monatshoch), Washington kuendigt fuer Montag weitere Wirtschaftsisolation gegen Iran an, Teheran erwaegt laut Financial Times Angriffe auf US-Militaereinrichtungen in Europa. Dennoch wird nach 15 gehaltenen Tagen und einem soliden, konsistenten Gewinn passend zum spekulativen Kurzfrist-Profil konsequent glattgestellt, statt das Rueckschlagsrisiko bei einer bereits lange laufenden Bewegung einzugehen."
   },
   {
     "id": "pos-0005",

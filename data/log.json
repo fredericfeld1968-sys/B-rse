@@ -1746,13 +1746,13 @@
   },
   {
     "date": "2026-08-21",
-    "marketOverview": "13. Lauf des Tages (12:11 MESZ): DAX pendelt weiter um die 26.000-Punkte-Marke (25.970-26.066, Xetra-Vortagesschluss 25.972), SMA20 und SMA50 wurden als Widerstand bestaetigt - Abwaertsrisiko dominiert technisch. US-Aktienfutures leicht positiv (S&P +0,08%, Nasdaq +0,20%, Dow +0,05%) vor Handelsbeginn um 15:30 MESZ, WTI/Brent legen deutlich zu (+2-3%) auf steigende geopolitische Risiken. Gold (TradingEconomics) weiterhin bei ca. 4.554-4.596 USD/oz je nach Quelle, dritte Gewinnwoche in Folge. Bitcoin ist seit dem Verkauf um 08:17 (75.150 USD) WEITER gestiegen auf jetzt ca. 77.000-77.900 USD (+7,7% am Tag, groesster Wochengewinn seit ueber 2 Jahren), getrieben von Bessent-Aussagen zu weiteren Anleihe-Rueckkaeufen und anhaltendem CLARITY-Act-Push; Tages-RSI aber weiterhin extrem ueberkauft bei ~80. Solana ~88-89 USD (+4,5% 24h), RSI(14) ebenfalls bei ~79 - tief ueberkauft.",
-    "decision": "Gold-Position (pos-0004) auf aktuellen Kurs (~4.570 USD, +6,83% seit Kauf) aktualisiert und weiter gehalten - Gewinn liegt jetzt sehr nah an der etablierten Ziel-Spanne von 7-8%, wird aber noch nicht realisiert, da Sicherer-Hafen-These durch schwachen DAX und hohe Renditen intakt bleibt. Kein neuer Kauf trotz freiem Kapital von ca. 16.460,66 EUR: DAX bewegt sich seitwaerts ohne Kaufsignal, US-Boerse erst ab 15:30 MESZ handelbar, und Krypto (Bitcoin, Solana) ist trotz weiter laufender Rally tief ueberkauft (RSI ~79-80) - ein Neueinstieg jetzt waere ein verspaetetes 'Chasing' der bereits weit gelaufenen Bewegung, kein ueberzeugendes Setup.",
-    "reasoning": "Risikoprofil spekulativ mit erlaubtem kurzfristigem Trading, aber Kaufentscheidungen bleiben an eine wirklich ueberzeugende, moeglichst nicht-ueberkaufte Gelegenheit gebunden. Bitcoin ist seit der Gewinnmitnahme um 08:17 nochmals um weitere ~2.700-2.900 USD gestiegen - im Nachhinein waere ein laengeres Halten profitabler gewesen, aber ein Wiedereinstieg auf dem aktuellen, noch staerker ueberkauften Niveau (RSI ~80) widerspricht dem etablierten Muster und wuerde das Rueckschlagsrisiko deutlich erhoehen. Solana ist ebenfalls tief ueberkauft (RSI ~79). Der DAX bleibt technisch schwach (unter SMA20/SMA50), die US-Boerse ist noch nicht geoeffnet. Gold bleibt als einzige offene Position mit intaktem, aber noch nicht ganz ausgereiztem Aufwaertstrend gehalten. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "marketOverview": "14. Lauf des Tages (13:13 MESZ): Gold kletterte weiter auf ca. 4.589,39 USD/oz (+7,28% seit Kauf, dritte Gewinnwoche in Folge) und erreichte damit die etablierte Ziel-Spanne von 7-8%. DAX pendelt weiterhin seitwaerts um 26.000 Punkte (25.970-26.066, vierter Verlusttag), belastet von hohen Oelpreisen und steigenden Anleiherenditen. Brent-Rohoel bleibt nahe 93 USD/Barrel (+5% Wochenplus, hoechster Stand des Monats) - die Straße von Hormus bleibt gestoert, Washington will am Montag weitere Wirtschaftsisolation gegen Iran verkuenden, Teheran erwaegt laut Financial Times Angriffe auf US-Militaereinrichtungen in Europa. US-Aktienfutures leicht positiv vor Handelsbeginn (15:30 MESZ). Bitcoin bei ca. 78.200 USD (weiter steigend, tief ueberkauft), der Oelaktien-/Energiesektor ist bereits seit Wochen im Rekord-Cashflow-Modus (+40% YTD) - kein frischer Einstiegskatalysator, da die Rally bereits ausgereizt und eingepreist ist.",
+    "decision": "Gold-Position (pos-0004) um 13:13 mit +36,39 EUR (+7,28%) gewinnbringend glattgestellt, nachdem der Kurs erstmals die etablierte Ziel-Spanne von 7-8% erreichte. Damit ist das Portfolio erstmals seit Handelsbeginn heute vollstaendig in Cash (freies Kapital ca. 16.960,66 EUR). Kein Neukauf: DAX seitwaerts ohne Signal, US-Boerse noch nicht offen, Krypto weiterhin tief ueberkauft, und die Oelaktien-/Energiesektor-Rally ist bereits seit Wochen gut sichtbar und eingepreist (+40% YTD) - kein frisches, ueberzeugendes Setup.",
+    "reasoning": "Risikoprofil spekulativ mit erlaubtem kurzfristigem Trading, Kaufentscheidungen bleiben aber an eine wirklich ueberzeugende, moeglichst nicht bereits ausgereizte Gelegenheit gebunden. Gold hat nach 15 gehaltenen Tagen konsistent das etablierte Gewinnziel von 7-8% erreicht (analog zu allen bisher erfolgreich glattgestellten Positionen) - die zugrunde liegende Sicherer-Hafen-These bleibt zwar durch die eskalierende Hormuz-Krise fundamental intakt, doch Disziplin bei der Gewinnmitnahme hat sich in diesem Portfolio wiederholt bewaehrt (u.a. Bitcoin-Verkauf am Morgen trotz anschliessendem Weiterlauf des Kurses). Fuer einen Neukauf fehlt aktuell eine ueberzeugende, nicht bereits weit gelaufene Gelegenheit: DAX technisch schwach ohne klares Signal, US-Boerse oeffnet erst um 15:30 MESZ, Krypto (Bitcoin RSI ~80, Solana RSI ~79) tief ueberkauft, und der Energiesektor/Oelaktien-Rally laeuft bereits seit Wochen (+40% YTD) - ein Einstieg jetzt waere verspaetetes Chasing. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [
       "pos-0004"
     ],
-    "portfolioValueEnd": 534.13,
+    "portfolioValueEnd": 0,
     "updates": [
       {
         "time": "00:11",
@@ -1818,6 +1818,11 @@
         "time": "12:11",
         "note": "Keine Aenderung; Gold aktualisiert (~4.570 USD/+6,83%, nahe Ziel-Spanne) und weiter gehalten. Bitcoin seit Verkauf (08:17) weiter auf ~77.000-77.900 USD gestiegen, aber RSI ~80 tief ueberkauft - kein Wiedereinstieg (Chasing vermieden). DAX seitwaerts, US-Boerse noch geschlossen - kein Trade",
         "portfolioValue": 534.13
+      },
+      {
+        "time": "13:13",
+        "note": "Verkauf Gold (XAUUSD), Gewinn +36,39 EUR (+7,28%) realisiert nach Erreichen der Ziel-Spanne 7-8%; Portfolio nun vollstaendig in Cash; kein Neukauf (DAX seitwaerts, Krypto ueberkauft, Oelrally bereits eingepreist)",
+        "portfolioValue": 0
       }
     ]
   }
