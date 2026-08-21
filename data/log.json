@@ -1746,8 +1746,8 @@
   },
   {
     "date": "2026-08-21",
-    "marketOverview": "18. Lauf des Tages (18:12 MESZ): US-Boerse weiter offen, erholt sich vom Treasury-Ausverkauf der Vortage (Bessent verdoppelte Anleihe-Rueckkaeufe auf 4 Mrd. USD), Risikoappetit zieht auch Krypto mit. Bitcoin ~74.700 USD, klar bullisch ueber den EMAs aber Tages-RSI tief ueberkauft. Ethereum kletterte auf ~2.397 USD (Tageshoch 2.448 USD, +3%) bei RSI 86. Solana ~90,77 USD bei RSI ~81. Keine neuen Einzeltitel-Ueberreaktionen seit dem 17:13-Lauf gefunden - Walmart/Alibaba bleiben fundamental belastet, keine weiteren Sell-the-news-Situationen identifiziert.",
-    "decision": "Gold-Position (pos-0004) wurde um 13:13 mit +36,39 EUR (+7,28%) gewinnbringend glattgestellt. Seither bleibt das Portfolio vollstaendig in Cash (freies Kapital ca. 16.960,66 EUR). Auch im 18. Lauf (18:12) kein Neukauf: Bitcoin/Ethereum/Solana bleiben durchgehend tief ueberkauft (RSI 80-86) fuer ein Chasing-Risiko, und es wurde keine neue, ueberzeugende Sell-the-news-Ueberreaktion bei Einzeltiteln gefunden.",
+    "marketOverview": "US-Maerkte legen am Freitag zu (Dow +0,9%, S&P +0,6%, Nasdaq +0,6%) und erholen sich von der schwachen Vorwoche, getrieben von Bitcoin-Rally und Hoffnung auf Details zu Trumps Wirtschaftsdruck auf den Iran. Bitcoin bleibt trotz Ruecksetzer auf 74.700-77.000 USD tief ueberkauft (RSI 84, Fear&Greed 72). Advance Auto Parts brach trotz EPS-Beat um 21% ein (Umsatzverfehlung), waehrend Home Depot einen soliden Quartalsbericht meldete, aber wegen unveraendertem Ausblick nur moderat zulegte.",
+    "decision": "Gold-Position (pos-0004) wurde um 13:13 mit +36,39 EUR (+7,28%) gewinnbringend glattgestellt. Seither bleibt das Portfolio vollstaendig in Cash (freies Kapital ca. 16.960,66 EUR). Auch im 19. Lauf (19:09) kein Neukauf: Bitcoin/Krypto bleiben tief ueberkauft (RSI 84), Advance Auto Parts (-21%) ist fundamentale Verschlechterung statt Ueberreaktion, keine ueberzeugende Gelegenheit gefunden.",
     "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber laut Vorgabe eine wirklich ueberzeugende Gelegenheit. Ein Einstieg in Bitcoin/Ethereum/Solana waere reines Chasing bei RSI 80-86 nach der starken Rally dieser Woche - genau das Setup, das bereits bei den vorherigen Krypto-Verkaeufen (pos-0008, pos-0009) bewusst vermieden wurde. Keine neuen Einzeltitel-Dip-Kandidaten mit dem etablierten Ueberreaktionsmuster (wie AMD/SpaceX/Palantir) identifiziert. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen; freies Kapital bleibt mangels ueberzeugender Gelegenheit ungenutzt.",
     "positionIds": [
       "pos-0004"
@@ -1842,6 +1842,11 @@
       {
         "time": "18:12",
         "note": "Keine Aenderung; Portfolio weiterhin vollstaendig in Cash (freies Kapital ca. 16.960,66 EUR). Krypto durchgehend tief ueberkauft (BTC ~74.700 USD, ETH RSI 86, SOL RSI ~81), US-Boerse erholt sich weiter vom Treasury-Ausverkauf, keine neue Einzeltitel-Ueberreaktion gefunden - kein ueberzeugender Trade-Kandidat",
+        "portfolioValue": 0
+      },
+      {
+        "time": "19:09",
+        "note": "Keine Aenderung; Portfolio weiterhin vollstaendig in Cash (freies Kapital ca. 16.960,66 EUR). US-Boerse im Plus (Dow +0,9%, S&P +0,6%, Nasdaq +0,6%) nach turbulenter Woche, Bitcoin bei ~74.700-77.000 USD aber Tages-RSI 84 tief ueberkauft (Fear&Greed 72) - kein Wiedereinstieg. Advance Auto Parts -21% trotz EPS-Beat ist echte fundamentale Verschlechterung (Umsatzverfehlung, schwache DIY-Nachfrage) statt Ueberreaktion, Home Depot nur +1% trotz Beat (unveraenderter Ausblick) - kein ueberzeugender Trade-Kandidat gefunden",
         "portfolioValue": 0
       }
     ]
