@@ -1746,13 +1746,13 @@
   },
   {
     "date": "2026-08-21",
-    "marketOverview": "Zwoelfter Lauf des Tages (11:09 MESZ): DAX notiert bei ca. 25.991 Punkten (-0,37%), US-Aktienfutures leicht im Plus (Dow/S&P +0,2%, Nasdaq-100 +0,4%) nach schwachem Donnerstag (Walmart-bedingter Ausverkauf, S&P -0,87%, Nasdaq -1%, Dow -1,32%); 10-Jahres-Rendite bei 4,70% belastet weiter, keine grossen Konjunkturdaten fuer heute erwartet. Gold (TradingEconomics) bei 4.554,76 USD/oz (+0,86%), dritte Woche in Folge im Plus dank Sicherer-Hafen-Nachfrage nach der Ankuendigung verdoppelter US-Anleihe-Rueckkaeufe. Krypto weiterhin ueberkauft: Bitcoin ~72.600-75.500 USD, Ethereum RSI 86-90 (Stunden-/15-Min-Chart), Solana RSI ~72, XRP/SOL/DOGE nach +13%-Sprung vom 19.08. konsolidierend.",
-    "decision": "Gold-Position (pos-0004) auf aktuellen Kurs (4.554,76 USD, +6,47% seit Kauf) aktualisiert und weiter gehalten - Gewinn naehert sich der etablierten Ziel-Spanne von 7-8%, ist aber noch nicht erreicht; Sicherer-Hafen-These bleibt durch schwache DAX-Notierung und hohe Anleiherenditen intakt. Kein neuer Kauf trotz freiem Kapital von ca. 16.460,66 EUR: DAX schwach, US-Boerse noch nicht geoeffnet und ohne konkreten Einzeltitel-Katalysator, Krypto durchgehend ueberkauft (ETH/SOL/XRP/DOGE) ohne neue, unueberkaufte Gelegenheit.",
-    "reasoning": "Risikoprofil spekulativ mit erlaubtem kurzfristigem Trading, aber Kaufentscheidungen bleiben an eine wirklich ueberzeugende Gelegenheit gebunden. Der DAX faellt weiter, US-Aktien sind vor Handelsbeginn (15:30 MESZ) noch nicht handelbar, und eine leichte Futures-Erholung ohne fundamentalen Einzeltitel-Katalysator ist kein Kaufsignal. Gold bleibt als einzige offene Position mit intaktem Aufwaertstrend gehalten, der Gewinn wird analog zu allen bisherigen erfolgreichen Trades erst bei Erreichen der 7-8%-Zielspanne mitgenommen. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "marketOverview": "13. Lauf des Tages (12:11 MESZ): DAX pendelt weiter um die 26.000-Punkte-Marke (25.970-26.066, Xetra-Vortagesschluss 25.972), SMA20 und SMA50 wurden als Widerstand bestaetigt - Abwaertsrisiko dominiert technisch. US-Aktienfutures leicht positiv (S&P +0,08%, Nasdaq +0,20%, Dow +0,05%) vor Handelsbeginn um 15:30 MESZ, WTI/Brent legen deutlich zu (+2-3%) auf steigende geopolitische Risiken. Gold (TradingEconomics) weiterhin bei ca. 4.554-4.596 USD/oz je nach Quelle, dritte Gewinnwoche in Folge. Bitcoin ist seit dem Verkauf um 08:17 (75.150 USD) WEITER gestiegen auf jetzt ca. 77.000-77.900 USD (+7,7% am Tag, groesster Wochengewinn seit ueber 2 Jahren), getrieben von Bessent-Aussagen zu weiteren Anleihe-Rueckkaeufen und anhaltendem CLARITY-Act-Push; Tages-RSI aber weiterhin extrem ueberkauft bei ~80. Solana ~88-89 USD (+4,5% 24h), RSI(14) ebenfalls bei ~79 - tief ueberkauft.",
+    "decision": "Gold-Position (pos-0004) auf aktuellen Kurs (~4.570 USD, +6,83% seit Kauf) aktualisiert und weiter gehalten - Gewinn liegt jetzt sehr nah an der etablierten Ziel-Spanne von 7-8%, wird aber noch nicht realisiert, da Sicherer-Hafen-These durch schwachen DAX und hohe Renditen intakt bleibt. Kein neuer Kauf trotz freiem Kapital von ca. 16.460,66 EUR: DAX bewegt sich seitwaerts ohne Kaufsignal, US-Boerse erst ab 15:30 MESZ handelbar, und Krypto (Bitcoin, Solana) ist trotz weiter laufender Rally tief ueberkauft (RSI ~79-80) - ein Neueinstieg jetzt waere ein verspaetetes 'Chasing' der bereits weit gelaufenen Bewegung, kein ueberzeugendes Setup.",
+    "reasoning": "Risikoprofil spekulativ mit erlaubtem kurzfristigem Trading, aber Kaufentscheidungen bleiben an eine wirklich ueberzeugende, moeglichst nicht-ueberkaufte Gelegenheit gebunden. Bitcoin ist seit der Gewinnmitnahme um 08:17 nochmals um weitere ~2.700-2.900 USD gestiegen - im Nachhinein waere ein laengeres Halten profitabler gewesen, aber ein Wiedereinstieg auf dem aktuellen, noch staerker ueberkauften Niveau (RSI ~80) widerspricht dem etablierten Muster und wuerde das Rueckschlagsrisiko deutlich erhoehen. Solana ist ebenfalls tief ueberkauft (RSI ~79). Der DAX bleibt technisch schwach (unter SMA20/SMA50), die US-Boerse ist noch nicht geoeffnet. Gold bleibt als einzige offene Position mit intaktem, aber noch nicht ganz ausgereiztem Aufwaertstrend gehalten. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [
       "pos-0004"
     ],
-    "portfolioValueEnd": 532.34,
+    "portfolioValueEnd": 534.13,
     "updates": [
       {
         "time": "00:11",
@@ -1813,6 +1813,11 @@
         "time": "11:09",
         "note": "Keine Aenderung; Gold aktualisiert (4.554,76 USD/+6,47%) und weiter gehalten (Ziel-Spanne 7-8% noch nicht erreicht). DAX weiter schwach, US-Boerse noch geschlossen, Krypto durchgehend ueberkauft (ETH RSI 86-90, SOL RSI 72) - kein Trade",
         "portfolioValue": 532.34
+      },
+      {
+        "time": "12:11",
+        "note": "Keine Aenderung; Gold aktualisiert (~4.570 USD/+6,83%, nahe Ziel-Spanne) und weiter gehalten. Bitcoin seit Verkauf (08:17) weiter auf ~77.000-77.900 USD gestiegen, aber RSI ~80 tief ueberkauft - kein Wiedereinstieg (Chasing vermieden). DAX seitwaerts, US-Boerse noch geschlossen - kein Trade",
+        "portfolioValue": 534.13
       }
     ]
   }
