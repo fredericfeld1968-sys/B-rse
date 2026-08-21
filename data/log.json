@@ -1746,14 +1746,14 @@
   },
   {
     "date": "2026-08-21",
-    "marketOverview": "Fuenfter Lauf des Tages (04:08 MESZ): Keine wesentliche neue Marktbewegung seit dem letzten Lauf. Ethereum notiert weiterhin um ca. 2.275-2.280 USD nach dem +20%-Ausbruch vom Vortag und bleibt auf allen Zeitebenen tief ueberkauft (Tages-RSI ~82, Stunden-RSI 86,6, 15-Min-RSI 90,5); Widerstandszone bei 2.140-2.320 USD. Solana zeigt weiter zunehmendes Momentum (~77,26 USD, +3% 24h) getrieben vom Agave-4.2-Upgrade (-90% Speicherkosten) und ETF-Nettozufluessen von 2,1 Mio. USD. Gold notiert unveraendert bei ca. 4.522 USD/oz, Bitcoin unveraendert bei ca. 72.684 USD. US-Boersen und Xetra bleiben um diese Uhrzeit (04:08 MESZ) geschlossen.",
-    "decision": "Tagesbudget-Gutschrift fuer den 21.08. war bereits im ersten Lauf erfolgt (lastGrantDate unveraendert), keine erneute Gutschrift. Gold (pos-0004) und Bitcoin (pos-0008) bleiben unveraendert gehalten, Kurse gegenueber dem letzten Lauf unveraendert (Gold +5,71%, BTC +6,00%) - beide weiterhin unter der etablierten Gewinnmitnahme-Schwelle von ca. 7-8%. Kein neuer Kauf trotz freiem Kapital von ca. 15.960 EUR: Aktien/ETFs/Rohstoffe sind um diese Uhrzeit nicht handelbar, Ethereum bleibt extrem ueberkauft (RSI 82-90) und damit kein ueberzeugendes Setup. Solana zeigt zwar staerkeres Momentum, aber noch keinen bestaetigten Ausbruch ueber einen klaren Widerstand - daher weiterhin kein neuer Kauf.",
-    "reasoning": "Risikoprofil spekulativ erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Seit dem letzten Lauf vor rund einer Stunde hat sich weder bei Gold/Bitcoin noch bei Ethereum eine wesentliche neue Entwicklung ergeben (ETH weiterhin RSI 82-90, kein bestaetigter Ruecksetzer und kein neuer Katalysator), daher bleibt die Einschaetzung unveraendert: Ein Einstieg in Ethereum nach dem bereits vollzogenen 20%-Lauf waere ein Verfolgen des Kurses statt eines bestaetigten Setups. Solanas verbessertes Momentum (Agave-4.2-Upgrade, ETF-Zufluesse) wird beobachtet, reicht aber ohne bestaetigten Ausbruch ueber eine klare Widerstandszone noch nicht fuer einen spekulativen Einstieg. Gold und Bitcoin bleiben unveraendert im Zielkorridor unter 7-8% Gewinn und werden weiter gehalten. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "marketOverview": "Sechster Lauf des Tages (05:08 MESZ): Solana ist seit dem letzten Lauf deutlich weiter gestiegen, von ~77 auf ~87-88 USD (+13% Tagesplus), bestaetigter Ausbruch aus der wochenlangen Kompression mit 13,7 Mrd. USD Futures-Volumen, getrieben von ETF-Nettozufluessen (kumuliert 1,16 Mrd. USD) und dem Agave-4.2-Upgrade; der Titel ist damit aber selbst tief ueberkauft (Tages-RSI ~77,6, Stunden-RSI ~72, nur 8 USD unter Jahreshoch bei 96 USD) - aehnliches Bild wie bei der Gewinnmitnahme von pos-0009 gestern. Bitcoin pendelt weiterhin um 72.300-72.700 USD (+5-6% seit Kauf), Ethereum bleibt bei ca. 2.317 USD auf allen Zeitebenen extrem ueberkauft (RSI 82-90). Gold notiert bei ca. 4.518 USD/oz, knapp unter dem Vortagesschluss, Markt wartet diese Woche auf FOMC-Minutes und PMI-Daten.",
+    "decision": "Tagesbudget-Gutschrift fuer den 21.08. war bereits im ersten Lauf erfolgt (lastGrantDate unveraendert), keine erneute Gutschrift. Gold (pos-0004) und Bitcoin (pos-0008) bleiben unveraendert gehalten, Kurse leicht aktualisiert (Gold +5,61%, BTC +5,44%) - beide weiterhin unter der etablierten Gewinnmitnahme-Schwelle von ca. 7-8%. Kein neuer Kauf trotz freiem Kapital von ca. 15.960 EUR: Aktien/ETFs/Rohstoffe sind um diese Uhrzeit nicht handelbar. Solana hat zwar einen bestaetigten Ausbruch auf ~88 USD vollzogen, ist damit aber selbst tief ueberkauft (RSI 77,6/72) und nur 8 USD unter ihrem Jahreshoch - ein Einstieg jetzt waere ein verspaetetes Aufspringen auf einen bereits weit gelaufenen Move, kein Einstieg mit gutem Chance-Risiko-Verhaeltnis. Ethereum bleibt ebenfalls extrem ueberkauft (RSI 82-90). Daher weiterhin kein neuer Kauf.",
+    "reasoning": "Risikoprofil spekulativ erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Solana hat seit dem letzten Lauf den zuvor beobachteten Ausbruch bestaetigt (+13% auf ~88 USD, 13,7 Mrd. USD Futures-Volumen, ETF-Zufluesse), ist damit aber selbst tief ueberkauft (Tages-RSI 77,6, Stunden-RSI 72) und notiert nur knapp unter dem Jahreshoch - ein Neueinstieg jetzt waere Verfolgen eines bereits weit gelaufenen Kurses statt eines bestaetigten Setups mit gutem Chance-Risiko-Verhaeltnis, analog zur Begruendung der Solana-Gewinnmitnahme (pos-0009) am Vortag. Ethereum bleibt weiterhin extrem ueberkauft (RSI 82-90) ohne bestaetigten Ruecksetzer. Gold und Bitcoin bleiben unveraendert im Zielkorridor unter 7-8% Gewinn und werden weiter gehalten. Aktien/ETFs/Rohstoffe sind um diese Uhrzeit nicht handelbar. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [
       "pos-0004",
       "pos-0008"
     ],
-    "portfolioValueEnd": 1058.58,
+    "portfolioValueEnd": 1055.26,
     "updates": [
       {
         "time": "00:11",
@@ -1779,6 +1779,11 @@
         "time": "04:08",
         "note": "Keine Aenderung; Kurse unveraendert (Gold ~4.522 USD/+5,71%, BTC ~72.684 USD/+6,00%). Ethereum weiterhin extrem ueberkauft (RSI 82-90), Solana mit staerkerem Momentum (Agave-4.2-Upgrade) aber ohne bestaetigten Ausbruch - kein neuer Kauf",
         "portfolioValue": 1058.58
+      },
+      {
+        "time": "05:08",
+        "note": "Keine Aenderung; Kurse aktualisiert (Gold ~4.518 USD/+5,61%, BTC ~72.300 USD/+5,44%). Solana-Ausbruch jetzt bestaetigt (~88 USD, +13%), aber selbst tief ueberkauft (RSI 77,6/72) - kein Neueinstieg, da bereits weit gelaufen; kein Trade",
+        "portfolioValue": 1055.26
       }
     ]
   }
