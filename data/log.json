@@ -1746,9 +1746,9 @@
   },
   {
     "date": "2026-08-21",
-    "marketOverview": "US-Maerkte legen am Freitag zu (Dow +0,9%, S&P +0,6%, Nasdaq +0,6%) und erholen sich von der schwachen Vorwoche, getrieben von Bitcoin-Rally und Hoffnung auf Details zu Trumps Wirtschaftsdruck auf den Iran. Bitcoin bleibt trotz Ruecksetzer auf 74.700-77.000 USD tief ueberkauft (RSI 84, Fear&Greed 72). Advance Auto Parts brach trotz EPS-Beat um 21% ein (Umsatzverfehlung), waehrend Home Depot einen soliden Quartalsbericht meldete, aber wegen unveraendertem Ausblick nur moderat zulegte.",
-    "decision": "Gold-Position (pos-0004) wurde um 13:13 mit +36,39 EUR (+7,28%) gewinnbringend glattgestellt. Seither bleibt das Portfolio vollstaendig in Cash (freies Kapital ca. 16.960,66 EUR). Auch im 19. Lauf (19:09) kein Neukauf: Bitcoin/Krypto bleiben tief ueberkauft (RSI 84), Advance Auto Parts (-21%) ist fundamentale Verschlechterung statt Ueberreaktion, keine ueberzeugende Gelegenheit gefunden.",
-    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber laut Vorgabe eine wirklich ueberzeugende Gelegenheit. Ein Einstieg in Bitcoin/Ethereum/Solana waere reines Chasing bei RSI 80-86 nach der starken Rally dieser Woche - genau das Setup, das bereits bei den vorherigen Krypto-Verkaeufen (pos-0008, pos-0009) bewusst vermieden wurde. Keine neuen Einzeltitel-Dip-Kandidaten mit dem etablierten Ueberreaktionsmuster (wie AMD/SpaceX/Palantir) identifiziert. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen; freies Kapital bleibt mangels ueberzeugender Gelegenheit ungenutzt.",
+    "marketOverview": "US-Maerkte schliessen den turbulenten Handelstag im Plus (Dow +358,86 auf 53.118,07, S&P 500 +0,38%, Nasdaq +0,17%) nach Stabilisierung am Anleihemarkt; Finanzwerte und Industrietitel (Goldman Sachs, Caterpillar) fuehren die Erholung an. Bitcoin bleibt trotz starker Wochenrally (+~20%) auf 76.700-77.900 USD tief ueberkauft (RSI 80-84, Fear&Greed 72). Advance Auto Parts (-21%) und Walmart (-6% bis -9% am Vortag) bleiben fundamentale Verschlechterungen statt Ueberreaktionen; kein neuer Dip-Kandidat identifiziert.",
+    "decision": "Gold-Position (pos-0004) wurde um 13:13 mit +36,39 EUR (+7,28%) gewinnbringend glattgestellt. Seither bleibt das Portfolio vollstaendig in Cash (freies Kapital ca. 16.960,66 EUR). Auch im 20. Lauf (20:10, kurz vor US-Boersenschluss) kein Neukauf: Bitcoin/Krypto bleiben tief ueberkauft (RSI 80-84), keine ueberzeugende Einzeltitel-Ueberreaktion gefunden.",
+    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber laut Vorgabe eine wirklich ueberzeugende Gelegenheit. Ein Einstieg in Bitcoin/Ethereum/Solana waere reines Chasing bei RSI 80-86 nach der starken Rally dieser Woche - genau das Setup, das bereits bei den vorherigen Krypto-Verkaeufen (pos-0008, pos-0009) bewusst vermieden wurde. Keine neuen Einzeltitel-Dip-Kandidaten mit dem etablierten Ueberreaktionsmuster (wie AMD/SpaceX/Palantir) identifiziert; US-Boerse schliesst in Kuerze (22:00 MESZ), kein Grund fuer einen ueberstuerzten Einstieg kurz vor Handelsschluss. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen; freies Kapital bleibt mangels ueberzeugender Gelegenheit ungenutzt.",
     "positionIds": [
       "pos-0004"
     ],
@@ -1847,6 +1847,11 @@
       {
         "time": "19:09",
         "note": "Keine Aenderung; Portfolio weiterhin vollstaendig in Cash (freies Kapital ca. 16.960,66 EUR). US-Boerse im Plus (Dow +0,9%, S&P +0,6%, Nasdaq +0,6%) nach turbulenter Woche, Bitcoin bei ~74.700-77.000 USD aber Tages-RSI 84 tief ueberkauft (Fear&Greed 72) - kein Wiedereinstieg. Advance Auto Parts -21% trotz EPS-Beat ist echte fundamentale Verschlechterung (Umsatzverfehlung, schwache DIY-Nachfrage) statt Ueberreaktion, Home Depot nur +1% trotz Beat (unveraenderter Ausblick) - kein ueberzeugender Trade-Kandidat gefunden",
+        "portfolioValue": 0
+      },
+      {
+        "time": "20:10",
+        "note": "Keine Aenderung; Portfolio weiterhin vollstaendig in Cash (freies Kapital ca. 16.960,66 EUR). US-Boerse schliesst deutlich im Plus (Dow +358,86 Pkt., S&P +0,38%, Nasdaq +0,17%), Bitcoin ~76.700-77.900 USD weiterhin tief ueberkauft (RSI 80-84), kein neuer Ueberreaktions-Kandidat bei Einzeltiteln gefunden - kein Trade kurz vor Handelsschluss",
         "portfolioValue": 0
       }
     ]
