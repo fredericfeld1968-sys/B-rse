@@ -1746,9 +1746,9 @@
   },
   {
     "date": "2026-08-21",
-    "marketOverview": "US-Maerkte schliessen den turbulenten Handelstag im Plus (Dow +0,8%, S&P 500 +0,4%, Nasdaq +0,4%) nach Stabilisierung am Anleihemarkt (Bessent verdoppelt Anleihe-Rueckkaufprogramm auf 4 Mrd. USD/Operation); dennoch auf Wochensicht im Minus nach dem Treasury-Ausverkauf. Bitcoin bleibt trotz starker Wochenrally (~+20%, bestes Wochenplus seit ueber zwei Jahren) auf ca. 74.700-77.900 USD tief ueberkauft (Tages-RSI ~85), Ethereum RSI ~86 bei ca. 2.397 USD, Solana RSI ~81 nahe 200-Tage-EMA bei 89 USD. Keine grossen Earnings/Daten fuer die kommenden Handelstage terminiert; kein neuer Ueberreaktions-Kandidat bei Einzeltiteln identifiziert.",
-    "decision": "Gold-Position (pos-0004) wurde um 13:13 mit +36,39 EUR (+7,28%) gewinnbringend glattgestellt. Seither bleibt das Portfolio vollstaendig in Cash (freies Kapital ca. 16.960,66 EUR). Auch im 22. Lauf (22:08, US-Boerse bereits geschlossen) kein Neukauf: Krypto (einzige noch handelbare Anlageklasse) bleibt auf allen drei Hauptwerten tief ueberkauft (BTC ~74.700 USD, ETH RSI 86, SOL RSI ~80,75), keine ueberzeugende Einzeltitel-Ueberreaktion gefunden.",
-    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber laut Vorgabe eine wirklich ueberzeugende Gelegenheit. Ein Einstieg in Bitcoin/Ethereum/Solana waere reines Chasing bei RSI 80-86 nach der starken Rally dieser Woche - genau das Setup, das bereits bei den vorherigen Krypto-Verkaeufen (pos-0008, pos-0009) bewusst vermieden wurde. Keine neuen Einzeltitel-Dip-Kandidaten mit dem etablierten Ueberreaktionsmuster (wie AMD/SpaceX/Palantir) identifiziert; US-Boerse schliesst in Kuerze (22:00 MESZ), kein Grund fuer einen ueberstuerzten Einstieg kurz vor Handelsschluss. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen; freies Kapital bleibt mangels ueberzeugender Gelegenheit ungenutzt.",
+    "marketOverview": "US-Maerkte schlossen den Freitagshandel im Plus (Dow +0,8%, S&P 500 +0,4%, Nasdaq +0,4%) nach Stabilisierung am Anleihemarkt; Xetra/US-Boersen bleiben bis Montag geschlossen. Bitcoin markierte mit rund 76.500-77.700 USD sein bestes Wochenplus seit ueber zwei Jahren (+~22%), bleibt aber auf allen Zeitebenen tief ueberkauft (Tages-RSI ~84-85). Ethereum kletterte auf ca. 2.397-2.403 USD (RSI ~86), Solana auf ca. 89-92 USD (RSI ~80), XRP und Bitcoin Cash zeigen ebenfalls extreme Ueberkauft-Signale (RSI 72-82). Gesamtmarktkapitalisierung ca. 2,60 Bio. USD, Bitcoin-Dominanz 60%. Keine neue fundamentale Entwicklung seit dem 22:08-Lauf; kein Einzeltitel-Ueberreaktionskandidat identifiziert.",
+    "decision": "Gold-Position (pos-0004) wurde um 13:13 mit +36,39 EUR (+7,28%) gewinnbringend glattgestellt. Seither bleibt das Portfolio vollstaendig in Cash (freies Kapital ca. 16.960,66 EUR). Auch im 23. Lauf (23:11, Wochenende steht bevor) kein Neukauf: Krypto (einzige handelbare Anlageklasse) bleibt auf allen Hauptwerten (BTC RSI ~84-85, ETH RSI ~86, SOL RSI ~80, XRP/BCH RSI 72-82) tief ueberkauft, keine ueberzeugende Einzeltitel-Ueberreaktion gefunden.",
+    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber laut Vorgabe eine wirklich ueberzeugende Gelegenheit. Ein Einstieg in Bitcoin/Ethereum/Solana/XRP/Bitcoin Cash waere reines Chasing nach der staerksten Wochenrally seit ueber zwei Jahren bei RSI-Werten von 72-86 - genau das Setup, das bereits konsequent vermieden wurde (u.a. bei den Verkaeufen pos-0008/pos-0009). Keine neue Nachrichtenlage seit dem letzten Lauf, die eine Ausnahme rechtfertigen wuerde. Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten (Wochenende steht unmittelbar bevor) ohnehin nicht handelbar. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen; freies Kapital bleibt mangels ueberzeugender Gelegenheit ungenutzt.",
     "positionIds": [
       "pos-0004"
     ],
@@ -1862,6 +1862,11 @@
       {
         "time": "22:08",
         "note": "Keine Aenderung; Portfolio weiterhin vollstaendig in Cash (freies Kapital ca. 16.960,66 EUR). US-Boerse geschlossen (Freitagsschluss nach Erholung vom Treasury-Ausverkauf, Ross Stores +8% und MKS Instruments nach starken Zahlen vorboerslich, Flowers Foods -5,7%), Krypto-Aktien (Robinhood, Coinbase, Strategy) legten im Sog der Bitcoin-Rally zu, aber BTC (~74.700 USD), ETH (RSI 86) und SOL (RSI ~80,75) bleiben alle tief ueberkauft - kein ueberzeugender Trade-Kandidat gefunden",
+        "portfolioValue": 0
+      },
+      {
+        "time": "23:11",
+        "note": "Keine Aenderung; Portfolio weiterhin vollstaendig in Cash (freies Kapital ca. 16.960,66 EUR). Krypto bleibt nach der staerksten Wochenrally seit ueber zwei Jahren auf breiter Front tief ueberkauft (BTC RSI ~84-85 bei ~76.500-77.700 USD, ETH RSI ~86 bei ~2.400 USD, SOL RSI ~80 bei ~89-92 USD, XRP/BCH RSI 72-82) - kein ueberzeugender Trade-Kandidat gefunden",
         "portfolioValue": 0
       }
     ]
