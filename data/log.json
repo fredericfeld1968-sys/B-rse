@@ -1746,14 +1746,14 @@
   },
   {
     "date": "2026-08-21",
-    "marketOverview": "Dritter Lauf des Tages (02:11 MESZ): Keine neue Marktbewegung seit dem letzten Lauf. Ethereum notiert weiterhin um ca. 2.285 USD nach dem +20%-Ausbruch vom Vortag, bleibt auf allen Zeitebenen tief ueberkauft (Tages-RSI >83, Stunden-RSI 86,6, 15-Min-RSI 90,5); die naechste Widerstandszone liegt bei 2.300-2.500 USD. Gold pendelt leicht fester um 4.522-4.533 USD/oz, Bitcoin unveraendert bei ca. 72.680-72.700 USD. Treiber bleiben die verdoppelten Treasury-Anleihe-Rueckkaeufe, das Trump-Krypto-Gipfeltreffen und der SEC-Vorschlag 'Regulation Crypto Assets'; der CLARITY Act selbst bleibt bis 15.09. blockiert. US-Boersen und Xetra bleiben um diese Uhrzeit geschlossen.",
-    "decision": "Tagesbudget-Gutschrift fuer den 21.08. war bereits im ersten Lauf erfolgt (lastGrantDate unveraendert), keine erneute Gutschrift. Gold (pos-0004) und Bitcoin (pos-0008) bleiben unveraendert gehalten, Kurse leicht aktualisiert (Gold +5,77%, BTC +6,00%) - beide weiterhin unter der etablierten Gewinnmitnahme-Schwelle von ca. 7-8%. Kein neuer Kauf trotz freiem Kapital von ca. 15.960 EUR: Aktien/ETFs/Rohstoffe sind um diese Uhrzeit nicht handelbar, Ethereum bleibt nach erneuter Pruefung weiterhin extrem ueberkauft (RSI 83-90) und damit kein ueberzeugendes Setup, sonst keine neue Entwicklung seit dem 01:11-Lauf.",
+    "marketOverview": "Vierter Lauf des Tages (03:08 MESZ): Keine neue Marktbewegung seit dem letzten Lauf. Ethereum notiert weiterhin um ca. 2.285 USD nach dem +20%-Ausbruch vom Vortag, bleibt auf allen Zeitebenen tief ueberkauft (Tages-RSI >83, Stunden-RSI 86,6, 15-Min-RSI 90,5); die naechste Widerstandszone liegt bei 2.300-2.500 USD. Gold notiert leicht schwaecher bei ca. 4.522 USD/oz, Bitcoin unveraendert bei ca. 72.684 USD. Treiber bleiben die verdoppelten Treasury-Anleihe-Rueckkaeufe, das Trump-Krypto-Gipfeltreffen und der SEC-Vorschlag 'Regulation Crypto Assets'; der CLARITY Act selbst bleibt bis 15.09. blockiert. US-Boersen und Xetra bleiben um diese Uhrzeit geschlossen.",
+    "decision": "Tagesbudget-Gutschrift fuer den 21.08. war bereits im ersten Lauf erfolgt (lastGrantDate unveraendert), keine erneute Gutschrift. Gold (pos-0004) und Bitcoin (pos-0008) bleiben unveraendert gehalten, Kurse leicht aktualisiert (Gold +5,71%, BTC +6,00%) - beide weiterhin unter der etablierten Gewinnmitnahme-Schwelle von ca. 7-8%. Kein neuer Kauf trotz freiem Kapital von ca. 15.960 EUR: Aktien/ETFs/Rohstoffe sind um diese Uhrzeit nicht handelbar, Ethereum bleibt nach erneuter Pruefung weiterhin extrem ueberkauft (RSI 83-90) und damit kein ueberzeugendes Setup, sonst keine neue Entwicklung seit dem 02:11-Lauf.",
     "reasoning": "Risikoprofil spekulativ erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Da sich seit dem letzten Lauf vor rund einer Stunde weder bei Gold/Bitcoin noch bei Ethereum eine wesentliche neue Entwicklung ergeben hat (ETH weiterhin RSI 83-90, kein bestaetigter Ruecksetzer und kein neuer Katalysator), bleibt die Einschaetzung unveraendert: Ein Einstieg in Ethereum nach dem bereits vollzogenen 20%-Lauf waere ein Verfolgen des Kurses statt eines bestaetigten Setups. Gold und Bitcoin bleiben unveraendert im Zielkorridor unter 7-8% Gewinn und werden weiter gehalten. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [
       "pos-0004",
       "pos-0008"
     ],
-    "portfolioValueEnd": 1058.86,
+    "portfolioValueEnd": 1058.58,
     "updates": [
       {
         "time": "00:11",
@@ -1769,6 +1769,11 @@
         "time": "02:11",
         "note": "Keine Aenderung; Kurse aktualisiert (Gold ~4.525 USD/+5,77%, BTC ~72.680 USD/+6,00%). Ethereum weiterhin extrem ueberkauft (RSI 83-90), kein neuer Katalysator seit letztem Lauf - kein neuer Kauf",
         "portfolioValue": 1058.86
+      },
+      {
+        "time": "03:08",
+        "note": "Keine Aenderung; Kurse aktualisiert (Gold ~4.522 USD/+5,71%, BTC ~72.684 USD/+6,00%). Ethereum weiterhin extrem ueberkauft (RSI 83-90), kein neuer Katalysator seit letztem Lauf - kein neuer Kauf",
+        "portfolioValue": 1058.58
       }
     ]
   }
