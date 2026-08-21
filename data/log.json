@@ -1746,14 +1746,14 @@
   },
   {
     "date": "2026-08-21",
-    "marketOverview": "Neunter Lauf des Tages (08:17 MESZ): Bitcoin ist ueber Nacht/in Asien deutlich ausgebrochen und hat die Marke von 75.000 USD durchbrochen (aktuell ca. 75.000-75.740 USD, +bis zu +7,6% laut Marktberichten), getrieben durch anhaltenden Druck von Praesident Trump auf den Kongress zur Verabschiedung des CLARITY Act sowie eine Short-Squeeze von rund 3 Mrd. USD (groesste Liquidationswelle seit mindestens 2021) - bestes Wochenplus seit ueber zwei Jahren (+~20% diese Woche). Von mehreren unabhaengigen Quellen bestaetigt (Bloomberg, Coingabbar, TradingKey, Arabian Post). Gold notiert weiterhin nahezu unveraendert bei ca. 4.522 USD/oz (+5,71% seit Kauf). US-Aktienfutures bleiben vorboerslich schwaecher (VIX steigt, 10J-Rendite ~4,70%, 30J-Rendite ueber 5,3% - hoechster Stand seit 2007), Xetra oeffnet erst um 9:00 MESZ, US-Boerse erst am Nachmittag - Aktien/ETFs/Rohstoffe bleiben bis dahin nicht handelbar.",
-    "decision": "Um 08:17 wurde die Bitcoin-Position (pos-0008) mit +48,00 EUR (+9,60%) glattgestellt, nachdem der Kurs ueber Nacht auf ueber 75.000 USD durchgebrochen ist - deutlich ueber der bisher etablierten Gewinnmitnahme-Schwelle von 7-8% und bei nun tief ueberkauften RSI-Werten (Tages-RSI ~78-79, Stunden-RSI ~82-83). Gold (pos-0004) bleibt unveraendert gehalten (Kurs praktisch unveraendert bei ~4.522 USD, +5,71%). Kein neuer Kauf trotz freiem Kapital von jetzt ca. 16.460,66 EUR: Aktien/ETFs/Rohstoffe sind vor Boersenoeffnung nicht handelbar, und bei Krypto wird der jetzt tief ueberkaufte Bitcoin-Ausbruch bewusst nicht nachgekauft (Chasing vermeiden, analog zu fruehren Entscheidungen bei ETH/SOL); Solana (~89 USD) ebenfalls bereits weit gelaufen und ueberkauft.",
-    "reasoning": "Risikoprofil spekulativ mit erlaubtem kurzfristigem Trading: Der Bitcoin-Ausbruch ist durch mehrere unabhaengige Quellen bestaetigt und liegt mit +9,6% klar ueber dem etablierten Zielkorridor (7-8%, analog AMD, SpaceX, Solana, Palantir) - der Gewinn wird konsequent mitgenommen statt das Rueckschlagsrisiko nach einem derart schnellen, ueberkauften Anstieg einzugehen. Ein Neueinstieg in Krypto direkt nach diesem Ausbruch (RSI tief ueberkauft) waere reines Chasing und widerspraeche dem bisher erfolgreichen Muster dieses Portfolios. Aktien/ETFs/Rohstoffe sind vor Boersenoeffnung ohnehin nicht handelbar. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "marketOverview": "Zehnter Lauf des Tages (09:13 MESZ): Xetra hat um 9:00 MESZ eroeffnet, der DAX faellt nach vier bereits schwaecheren Tagen weiter und notiert unter der 26.000-Punkte-Marke (-0,38%). US-Aktienfutures sind vorboerslich nahezu unveraendert nach einem schwachen Donnerstag (Dow -1,32%, S&P 500 -0,87%, Walmart -9%), belastet von weiter steigenden Anleiherenditen; die US-Boerse oeffnet erst am Nachmittag. Gold profitiert weiter von der risikoscheuen Stimmung und klettert auf ca. 4.548 USD/oz (+0,86% zum Vortag), dritte Woche in Folge im Plus. Im Kryptomarkt bleibt Ethereum nach dem jump auf ~2.300 USD tief ueberkauft (Tages-RSI >83), Solana zeigt mit RSI 67-72 zwar Staerke, aber kein klar neuer Katalysator ueber das bereits bekannte Momentum hinaus.",
+    "decision": "Gold-Position (pos-0004) auf aktuellen Kurs (~4.548 USD, +6,32% seit Kauf) aktualisiert und unveraendert weiter gehalten - das Sicherer-Hafen-Narrativ (fallende Aktienmaerkte, steigende Renditen) stuetzt die These weiter, der Gewinn liegt noch unter der etablierten Ziel-Spanne von 7-8%. Kein neuer Kauf trotz freiem Kapital von ca. 16.460,66 EUR: Der DAX faellt zum Handelsstart weiter (vierter Schwaechetag in Folge), US-Aktien vorboerslich richtungslos nach einem schwachen Vortag - kein ueberzeugendes Dip-Setup. Krypto bietet weiterhin keine ueberzeugende Gelegenheit (Ethereum stark ueberkauft, Solana ohne neuen Katalysator, Bitcoin erst heute Morgen mit Gewinn glattgestellt - kein Nachkauf/Chasing).",
+    "reasoning": "Risikoprofil spekulativ mit erlaubtem kurzfristigem Trading, aber Kaufentscheidungen bleiben an eine wirklich ueberzeugende Gelegenheit gebunden. Ein fallender DAX zum Handelsstart ist kein Kaufsignal ohne konkreten Einzeltitel-Katalysator (Overreaction o.ae.), US-Aktien sind vor Handelsbeginn ohnehin nicht handelbar. Bei Krypto wuerde ein Kauf von Ethereum oder Solana angesichts der ueberkauften/unklaren technischen Lage reines Chasing bedeuten - passend zum bisher erfolgreichen Muster dieses Portfolios wird darauf verzichtet. Gold bleibt als einzige offene Position mit intaktem, durch die aktuelle Marktschwaeche sogar gestuetztem Aufwaertstrend gehalten. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [
       "pos-0004",
       "pos-0008"
     ],
-    "portfolioValueEnd": 528.55,
+    "portfolioValueEnd": 531.58,
     "updates": [
       {
         "time": "00:11",
@@ -1799,6 +1799,11 @@
         "time": "08:17",
         "note": "Verkauf Bitcoin (BTC) +48,00 EUR (+9,60%) - CLARITY-Act-Rally durchbricht 75.000 USD nach 3-Mrd-USD-Short-Squeeze, RSI tief ueberkauft, Ziel-Gewinnspanne (7-8%) ueberschritten; Gold unveraendert gehalten, kein Neukauf (Boersen noch geschlossen, Krypto ueberkauft)",
         "portfolioValue": 528.55
+      },
+      {
+        "time": "09:13",
+        "note": "Keine Aenderung; Xetra eroeffnet, DAX faellt weiter (<26.000 Punkte), Gold aktualisiert (~4.548 USD/+6,32%) und gehalten (Safe-Haven-Nachfrage), kein neuer Kauf (Aktien schwach, Krypto ueberkauft/ohne Katalysator)",
+        "portfolioValue": 531.58
       }
     ]
   }
