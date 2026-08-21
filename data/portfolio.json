@@ -126,14 +126,14 @@
     "assetClass": "Krypto",
     "amount": 500,
     "reasoning": "Bestätigter Ausbruch nach zahlreichen Tagen ohne Katalysator: Bitcoin schoss am Abend des 19.08. um rund 6-8% auf über 68.500-69.000 USD (Tageshoch), das erste Mal seit Juni oberhalb der zuvor hartnäckigen Widerstandszone 65.300-66.000 USD. Treiber: US-Finanzministerium verdoppelt sein Anleihe-Rückkaufprogramm (fallende Renditen erhöhen Risikoappetit), zusätzlich ein Krypto-Gipfel von Trump mit Branchenvertretern im Weissen Haus (Clarity Act, Tokenisierung). Über 1,4 Mrd. USD Short-Liquidationen befeuern die Bewegung zusätzlich. Mehrfach unabhängig bestätigt (CoinDesk, Bloomberg, Cryptotimes). Spekulative Momentum-Position auf den nun bestätigten Ausbruch.",
-    "status": "open",
+    "status": "closed",
     "buyPrice": 68567.52,
-    "currentPrice": 72684.24,
-    "currentValue": 530.02,
-    "profitLoss": 30.02,
-    "profitLossPct": 6.0,
-    "closedDate": null,
-    "closeReasoning": null
+    "currentPrice": 75150.0,
+    "currentValue": 548.0,
+    "profitLoss": 48.0,
+    "profitLossPct": 9.6,
+    "closedDate": "2026-08-21",
+    "closeReasoning": "Gewinnmitnahme: Bitcoin durchbrach im Zuge des CLARITY-Act-Drucks von Praesident Trump auf den Kongress und einer Short-Squeeze von rund 3 Mrd. USD (groesste Liquidationswelle seit mindestens 2021) die Marke von 75.000 USD - bestes Wochenplus seit ueber zwei Jahren (+~20% diese Woche laut Bloomberg). Von mehreren Quellen unabhaengig bestaetigt (Bloomberg, Coingabbar, TradingKey, Arabian Post). Der Titel ist jedoch nun tief ueberkauft (Tages-RSI ~78-79, Stunden-RSI ~82-83), und der Gewinn von +9,6% liegt bereits deutlich ueber der bisher etablierten Ziel-Spanne (7-8%, analog AMD, SpaceX, Solana, Palantir). Passend zum spekulativen Kurzfrist-Profil wird der Gewinn jetzt konsequent mitgenommen statt das Rueckschlagsrisiko nach einem derart schnellen, ueberkauften Anstieg einzugehen."
   },
   {
     "id": "pos-0009",
