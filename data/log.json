@@ -1746,9 +1746,9 @@
   },
   {
     "date": "2026-08-21",
-    "marketOverview": "Siebter Lauf des Tages (06:09 MESZ): Bitcoin und Gold notieren nahezu unveraendert zum letzten Lauf (BTC ~72.684 USD/+6,0%, Gold ~4.522 USD/oz/+5,71%), beide weiterhin im etablierten Zielkorridor unter der ueblichen Gewinnmitnahme-Schwelle von 7-8%. Solana-Kursquellen sind uneinheitlich (77-87 USD je nach Quelle/Zeitstempel), der Titel bleibt aber gemaess dem letzten bestaetigten Stand tief ueberkauft nach dem Ausbruch vom Vorabend. Ethereum weiterhin extrem ueberkauft. Boersen (Aktien/ETFs/Rohstoffe im engeren Sinn) oeffnen erst um 9:00 MESZ (Xetra) bzw. spaeter (US), daher ausser Krypto nichts handelbar.",
-    "decision": "Tagesbudget-Gutschrift fuer den 21.08. war bereits im ersten Lauf erfolgt (lastGrantDate unveraendert), keine erneute Gutschrift. Gold (pos-0004) und Bitcoin (pos-0008) bleiben unveraendert gehalten, Kurse leicht aktualisiert (Gold +5,71%, BTC +6,00%) - beide weiterhin unter der etablierten Gewinnmitnahme-Schwelle von ca. 7-8%. Kein neuer Kauf trotz freiem Kapital von ca. 15.960 EUR: Aktien/ETFs/Rohstoffe sind um diese Uhrzeit nicht handelbar, und bei Krypto fehlt weiterhin eine wirklich ueberzeugende, unueberkaufte Gelegenheit (Solana bereits weit gelaufen, Ethereum extrem ueberkauft). Daher weiterhin kein neuer Kauf.",
-    "reasoning": "Risikoprofil spekulativ erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Seit dem letzten Lauf keine neue marktbewegende Entwicklung: Solana und Ethereum bleiben ueberkauft, Bitcoin und Gold pendeln nahe ihrem bisherigen Stand innerhalb des Zielkorridors. Ein Neueinstieg in einen bereits weit gelaufenen, ueberkauften Titel waere kein Setup mit gutem Chance-Risiko-Verhaeltnis. Gold und Bitcoin werden unveraendert weiter gehalten. Aktien/ETFs/Rohstoffe sind um diese Uhrzeit nicht handelbar. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "marketOverview": "Achter Lauf des Tages (07:19 MESZ): Gold und Bitcoin nahezu unveraendert zum letzten Lauf (Gold ~4.522-4.528 USD/oz, BTC ~72.600-72.684 USD), beide weiterhin unter der etablierten Gewinnmitnahme-Schwelle von 7-8%. US-Aktienfutures tendieren vorboerslich schwaecher (Dow/S&P/Nasdaq im Minus, VIX steigt, 10J-Rendite bei 4,70%), nachdem der Donnerstagshandel bereits deutlich negativ ausfiel (S&P -0,87%, Nasdaq -1%, Dow -1,32%). Xetra oeffnet erst um 9:00 MESZ, die US-Boerse erst am Nachmittag - Aktien/ETFs/Rohstoffe bleiben bis dahin nicht handelbar. Krypto-Kursquellen fuer Ethereum/Solana bleiben uneinheitlich (ETH ~1.918 USD, SOL je nach Quelle 77-87 USD), ohne neuen bestaetigten Katalysator seit dem letzten Lauf.",
+    "decision": "Tagesbudget-Gutschrift fuer den 21.08. war bereits im ersten Lauf erfolgt (lastGrantDate unveraendert), keine erneute Gutschrift. Gold (pos-0004) und Bitcoin (pos-0008) bleiben unveraendert gehalten, Kurse praktisch unveraendert (Gold +5,71%, BTC +6,00%) - beide weiterhin unter der etablierten Gewinnmitnahme-Schwelle von ca. 7-8%. Kein neuer Kauf trotz freiem Kapital von ca. 15.960 EUR: Aktien/ETFs/Rohstoffe sind vor Boersenoeffnung nicht handelbar, die vorboerslich schwache US-Futures-Stimmung spricht zusaetzlich gegen einen ueberstuerzten Einstieg bei Boersenoeffnung; bei Krypto fehlt weiterhin eine wirklich ueberzeugende, unueberkaufte Gelegenheit. Daher weiterhin kein neuer Kauf.",
+    "reasoning": "Risikoprofil spekulativ erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Seit dem letzten Lauf keine neue marktbewegende Entwicklung: US-Aktienfutures zeigen defensive bis baerische Tendenz (VIX steigt, Renditen hoch) - kein Umfeld fuer einen impulsiven Neueinstieg direkt bei Boersenoeffnung. Gold und Bitcoin pendeln unveraendert innerhalb des Zielkorridors und werden weiter gehalten. Solana/Ethereum bleiben ohne bestaetigten neuen Katalysator und mit widerspruechlichen Kursquellen - kein Setup mit gutem Chance-Risiko-Verhaeltnis. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [
       "pos-0004",
       "pos-0008"
@@ -1788,6 +1788,11 @@
       {
         "time": "06:09",
         "note": "Keine Aenderung; Kurse leicht aktualisiert (Gold ~4.522 USD/+5,71%, BTC ~72.684 USD/+6,00%). Boersen oeffnen erst um 9:00 MESZ, Krypto weiterhin ohne ueberzeugende unueberkaufte Gelegenheit (Solana/Ethereum ueberkauft) - kein Trade",
+        "portfolioValue": 1058.57
+      },
+      {
+        "time": "07:19",
+        "note": "Keine Aenderung; Kurse praktisch unveraendert (Gold ~4.522-4.528 USD, BTC ~72.600-72.684 USD). US-Aktienfutures vorboerslich schwaecher (VIX steigt, Renditen hoch), Boersen noch geschlossen (Xetra ab 9:00 MESZ). Krypto ohne neuen Katalysator, ETH/SOL-Quellen widerspruechlich - kein Trade",
         "portfolioValue": 1058.57
       }
     ]
