@@ -1873,9 +1873,9 @@
   },
   {
     "date": "2026-08-22",
-    "marketOverview": "Samstag, fruehe Morgenstunden: Aktien/ETFs/Rohstoffe wochenendbedingt weiterhin nicht handelbar (Xetra/US-Boersen oeffnen erst Montag). Krypto bleibt nach der staerksten Wochenrally seit ueber drei Jahren tief ueberkauft: Bitcoin notiert bei ca. 77.864 USD (+8,3% 24h, +22% Wochenplus, bestes Fuenftage-Perfomance seit Maerz 2024), RSI weiterhin tief im ueberkauften Bereich mit moeglichem Ruecksetzer Richtung 71.500-73.000 USD. Ethereum bei ca. 2.402,78 USD (Tages-RSI 86,3, Jahreshoechststand), Solana bei ca. 91,64 USD (RSI ~80,75). Treiber bleiben Trumps Druck auf den Kongress zur Verabschiedung des CLARITY Act und starke ETF-Zufluesse (u.a. BlackRock >4.000 BTC). Keine neue Einzeltitel-Ueberreaktion identifiziert; CME FedWatch zeigt zudem steigende Wahrscheinlichkeit fuer eine Fed-Zinserhoehung 2026 (72%), was das Risikoumfeld leicht eintruebt.",
-    "decision": "Kein Trade bisher heute (Stand 08:08). Tagesbudget-Gutschrift fuer den 22.08. bereits erfolgt (+1.000 EUR, freies Kapital ca. 17.960,66 EUR). Portfolio bleibt vollstaendig in Cash.",
-    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Aktien/ETFs/Rohstoffe sind wochenendbedingt nicht handelbar. Krypto (BTC/ETH/SOL) bleibt auf allen Hauptwerten tief ueberkauft (BTC RSI tief ueberkauft mit Ruecksetzerrisiko, ETH Tages-RSI 86,3, SOL RSI ~80,75) - ein Einstieg waere reines Chasing nach einer bereits +22%-Wochenrally, analog zu den bereits vermiedenen Situationen der letzten Laeufe. Zusaetzlich steigende Fed-Zinserhoehungswahrscheinlichkeit (72% fuer 2026) als leicht risikodaempfender Faktor. Keine neue Nachrichtenlage seit dem letzten Lauf, die eine Ausnahme rechtfertigen wuerde. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "marketOverview": "Samstag, Vormittag: Aktien/ETFs/Rohstoffe wochenendbedingt weiterhin nicht handelbar (Xetra/US-Boersen oeffnen erst Montag). Krypto bleibt nach der staerksten Wochenrally seit ueber drei Jahren weiterhin tief ueberkauft: Bitcoin notiert bei ca. 77.416 USD (24h-Spanne 72.341-79.320 USD, Marktkap. +6,5%), Tages-RSI weiterhin bei rund 84-86. Ethereum haelt sich bei ca. 2.402-2.405 USD (Tages-RSI ~86,3, Jahreshoechststand), Solana bei ca. 91,64 USD (RSI ~72-80). Treiber bleiben Trumps Druck auf den Kongress zur Verabschiedung des CLARITY Act sowie starke ETF-Zufluesse. Keine neue Einzeltitel-Ueberreaktion identifiziert; geopolitisch bleibt die Lage im Nahen Osten (Iran/Oman) angespannt, was Rohstoff-/Sicherer-Hafen-Themen fuer die Woeffnung am Montag im Blick behaelt.",
+    "decision": "Kein Trade bisher heute (Stand 09:08). Tagesbudget-Gutschrift fuer den 22.08. bereits erfolgt (+1.000 EUR, freies Kapital ca. 17.960,66 EUR). Portfolio bleibt vollstaendig in Cash.",
+    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Aktien/ETFs/Rohstoffe sind wochenendbedingt nicht handelbar. Krypto (BTC/ETH/SOL) bleibt auf allen Hauptwerten tief ueberkauft (RSI 72-86) nach der starken Wochenrally - ein Einstieg waere reines Chasing. Keine neue Nachrichtenlage seit dem 08:08-Lauf, die eine Ausnahme rechtfertigen wuerde. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [],
     "portfolioValueEnd": 0,
     "updates": [
@@ -1922,6 +1922,11 @@
       {
         "time": "08:08",
         "note": "Keine Aenderung; Portfolio weiterhin vollstaendig in Cash (freies Kapital ca. 17.960,66 EUR). Keine neue Nachrichtenlage seit dem 07:08-Lauf: Bitcoin ~77.500-77.900 USD (+22% Wochenplus, staerkste 5-Tage-Performance seit Maerz 2024), Ethereum ueber 2.200 USD, Solana ~91 USD (+10% 24h) - alle Hauptwerte weiterhin tief ueberkauft ohne neuen Einzeltitel-Katalysator. Aktien/ETFs/Rohstoffe wochenendbedingt weiterhin nicht handelbar - kein ueberzeugender Trade-Kandidat gefunden",
+        "portfolioValue": 0
+      },
+      {
+        "time": "09:08",
+        "note": "Keine Aenderung; Portfolio weiterhin vollstaendig in Cash (freies Kapital ca. 17.960,66 EUR). Bitcoin ~77.416 USD (24h-Spanne 72.341-79.320 USD), Ethereum ~2.402-2.405 USD (RSI ~86,3), Solana ~91,64 USD - alle Hauptwerte weiterhin ueberkauft nach der Wochenrally, kein ueberzeugender Trade-Kandidat gefunden. Aktien/ETFs/Rohstoffe wochenendbedingt weiterhin nicht handelbar.",
         "portfolioValue": 0
       }
     ]
