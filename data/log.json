@@ -2000,5 +2000,20 @@
         "portfolioValue": 0
       }
     ]
+  },
+  {
+    "date": "2026-08-23",
+    "marketOverview": "Sonntag, kurz nach Mitternacht (00:08 MESZ): Aktien/ETFs/Rohstoffe bleiben wochenendbedingt bis Montag geschlossen. Bitcoin notiert bei ca. 76.960-77.350 USD (-0,3 bis -0,5% 24h, aber weiterhin +22,7% Wochenplus), Tages-RSI bleibt mit ~86 tief ueberkauft. Ethereum (~2.405 USD, RSI 86,3) und Solana (~91-93 USD, RSI ~80) bleiben ebenfalls deutlich ueberkauft. Keine neue marktbewegende Nachricht seit dem letzten Lauf (23:07): Fed haelt Leitzins bei 3,50-3,75%, CLARITY-Act-Abstimmung im Senat weiterhin fuer den 15.09. angesetzt, SEC-Regulation-Crypto-Assets-Kommentarfrist laeuft.",
+    "decision": "Tagesbudget-Gutschrift fuer den 23.08. erfolgt (+1.000 EUR, totalFreshCapitalEur jetzt 19.000 EUR, freies Kapital ca. 18.960,66 EUR). Portfolio bleibt vollstaendig in Cash - im ersten Lauf des neuen Tages kein Trade, da sich die Marktlage seit dem letzten Lauf des Vortages nicht veraendert hat.",
+    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Bitcoin, Ethereum und Solana bleiben nach der starken Wochenrally durchgehend tief ueberkauft (RSI 80-86 auf allen drei Titeln) ohne neuen bestaetigten Katalysator seit dem letzten Lauf - ein Einstieg waere reines Verfolgen einer bereits weit gelaufenen, ueberhitzten Bewegung mit erhoehtem Ruecksetzerrisiko. Aktien/ETFs/Rohstoffe sind wochenendbedingt ohnehin nicht handelbar. Keine der (nicht vorhandenen) Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "positionIds": [],
+    "portfolioValueEnd": 0,
+    "updates": [
+      {
+        "time": "00:08",
+        "note": "Tagesbudget-Gutschrift +1.000 EUR (freies Kapital jetzt ca. 18.960,66 EUR); neuer Tag (Sonntag) begonnen, Portfolio bleibt vollstaendig in Cash. Krypto (BTC/ETH/SOL) weiterhin tief ueberkauft (RSI 80-86) ohne neuen Katalysator seit dem letzten Lauf, Aktien/ETFs/Rohstoffe wochenendbedingt weiterhin nicht handelbar - kein ueberzeugender Trade-Kandidat",
+        "portfolioValue": 0
+      }
+    ]
   }
 ]
