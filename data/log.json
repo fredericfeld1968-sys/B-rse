@@ -1874,8 +1874,8 @@
   {
     "date": "2026-08-22",
     "marketOverview": "Samstag, Mittag: Aktien/ETFs/Rohstoffe wochenendbedingt weiterhin nicht handelbar (Xetra/US-Boersen oeffnen erst Montag). Krypto bleibt nach der staerksten Wochenrally seit ueber drei Jahren weiterhin tief ueberkauft: Bitcoin notiert bei ca. 78.335 USD (+7,26% am Freitag, +22% Wochenplus, staerkste 5-Tage-Performance seit Maerz 2024), Ethereum bei ca. 2.515 USD (+8,12%, Tages-RSI ~86, Jahreshoechststand), Solana bei ca. 93,65 USD (+6,87%, RSI ~72-80). Treiber bleiben die fragile US-Iran-Waffenruhe (Washington droht mit weiteren Sanktionen, Trump: aktuell keine Verhandlungen mit Iran, Seeblockade bleibt in Kraft - Hormuz-Wiedereroeffnung damit in weite Ferne gerueckt) sowie die auf die Senats-Rueckkehr im September vertagte CLARITY-Act-Abstimmung. Keine neue Einzeltitel-Ueberreaktion identifiziert.",
-    "decision": "Kein Trade heute (Stand 12:08). Tagesbudget-Gutschrift fuer den 22.08. bereits erfolgt (+1.000 EUR, freies Kapital ca. 17.960,66 EUR). Portfolio bleibt vollstaendig in Cash.",
-    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Aktien/ETFs/Rohstoffe sind wochenendbedingt nicht handelbar. Krypto (BTC/ETH/SOL) bleibt auf allen Hauptwerten tief ueberkauft (Ethereum-RSI ~86, Solana-RSI ~72-80) nach der staerksten Wochenrally seit ueber drei Jahren - ein Einstieg waere reines Chasing ohne Rueckschlagspuffer. Keine neue Nachrichtenlage seit dem 11:08-Lauf, die eine Ausnahme rechtfertigen wuerde (Iran-Sanktionsdrohung eher belastend als bullisch, CLARITY Act weiterhin auf September vertagt). Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "decision": "Kein Trade heute (Stand 13:08). Tagesbudget-Gutschrift fuer den 22.08. bereits erfolgt (+1.000 EUR, freies Kapital ca. 17.960,66 EUR). Portfolio bleibt vollstaendig in Cash.",
+    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Aktien/ETFs/Rohstoffe sind wochenendbedingt nicht handelbar. Krypto (BTC/ETH/SOL) bleibt auf allen Hauptwerten tief ueberkauft (Bitcoin-RSI tief ueberkauft mit Ruecksetzerrisiko Richtung 71.500-73.000 USD, Solana-RSI ~72 ueberkauft) nach der staerksten Wochenrally seit ueber drei Jahren - ein Einstieg waere reines Chasing ohne Rueckschlagspuffer. Keine neue Nachrichtenlage seit dem 12:08-Lauf, die eine Ausnahme rechtfertigen wuerde (SEC-Regulation-Crypto-Assets-Vorschlag und CLARITY-Act-Unterstuetzung bereits eingepreist, Iran-Sanktionslage weiterhin angespannt). Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [],
     "portfolioValueEnd": 0,
     "updates": [
@@ -1942,6 +1942,11 @@
       {
         "time": "12:08",
         "note": "Keine Aenderung; Portfolio weiterhin vollstaendig in Cash (freies Kapital ca. 17.960,66 EUR). Bitcoin ~78.335 USD (+7,26% Freitag, +22% Wochenplus), Ethereum ~2.515 USD (+8,12%, RSI ~86), Solana ~93,65 USD (+6,87%, RSI ~72-80) - weiterhin tief ueberkauft. Trump: keine Iran-Verhandlungen aktuell, Seeblockade bleibt bestehen - eher belastend als neuer Kaufkatalysator. Kein ueberzeugender Trade-Kandidat gefunden",
+        "portfolioValue": 0
+      },
+      {
+        "time": "13:08",
+        "note": "Keine Aenderung; Portfolio weiterhin vollstaendig in Cash (freies Kapital ca. 17.960,66 EUR). Bitcoin ~77.700-79.500 USD (staerkste Wochenrally seit Maerz 2024, +22%), Ethereum ~2.515 USD (RSI tief ueberkauft), Solana ~93,65 USD (RSI ~72, ueber 50-/100-Tage-EMA) - alle Hauptwerte weiterhin tief ueberkauft. SEC-Vorschlag 'Regulation Crypto Assets' und CLARITY-Act-Unterstuetzung durch Trump bereits eingepreist, keine neue Einzeltitel-Ueberreaktion. Aktien/ETFs/Rohstoffe wochenendbedingt weiterhin nicht handelbar - kein ueberzeugender Trade-Kandidat gefunden",
         "portfolioValue": 0
       }
     ]
