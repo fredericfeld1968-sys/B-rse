@@ -1873,9 +1873,9 @@
   },
   {
     "date": "2026-08-22",
-    "marketOverview": "Samstag, fruaher Abend: Aktien/ETFs/Rohstoffe bleiben wochenendbedingt nicht handelbar (Xetra/US-Boersen oeffnen erst Montag). Bitcoin notiert bei ca. 77.700-78.335 USD (staerkste Wochenrally seit 2024, +22%, RSI tief ueberkauft, Ruecksetzerrisiko Richtung 71.500-73.000 USD), Ethereum bei ca. 2.515 USD (+8,12%, RSI ~86 tief ueberkauft), Solana bei ca. 93,65 USD (+6,87%, RSI ~72 ueberkauft, ueber 50-/100-Tage-EMA) - Fear&Greed-Index bei 70 (Gier). Treiber bleiben Trumps Druck auf den Kongress fuer den CLARITY Act, ein schwacher US-Dollar sowie starke ETF-Zufluesse (BlackRock 83% eines 606-Mio.-USD-Tages); Iran/Hormuz-Lage weiterhin ohne neue Eskalation. Keine neue Einzeltitel-Ueberreaktion identifiziert.",
-    "decision": "Kein Trade heute (Stand 17:08). Tagesbudget-Gutschrift fuer den 22.08. bereits erfolgt (+1.000 EUR, freies Kapital unveraendert ca. 17.960,66 EUR, siehe capital.json). Portfolio bleibt vollstaendig in Cash.",
-    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Aktien/ETFs/Rohstoffe sind wochenendbedingt nicht handelbar. Krypto (BTC/ETH/SOL) bleibt nach der staerksten Wochenrally seit ueber zwei Jahren auf allen Hauptwerten tief ueberkauft (Ethereum RSI ~86, Solana RSI ~72-80, Bitcoin RSI je nach Zeitebene tief ueberkauft mit ausgewiesenem Ruecksetzerrisiko); ein Einstieg waere reines Chasing ohne Rueckschlagspuffer. Keine neue Nachrichtenlage seit dem 16:08-Lauf, die eine Ausnahme rechtfertigen wuerde. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "marketOverview": "Wochenende, spaeter Nachmittag/Abend: Boersen (Aktien, ETFs, Rohstoffe) bleiben bis Montag geschlossen. Der Kryptomarkt bleibt in einer sehr starken, breiten Rally: Bitcoin notiert bei rund 78.900-79.000 USD (+10% auf Tagesbasis laut Investing.com, +22-23% Wochenplus, staerkste Wochenrally seit Maerz 2024), Ethereum bei ca. 2.515 USD (+8,1%, Tages-RSI ~86) und Solana bei ca. 93,65 USD (+6,9%, RSI ~72-80). BlackRock zeichnete 83% eines 606-Mio.-USD-Spot-Bitcoin-ETF-Zuflusstages. Treiber bleiben ein schwaecherer US-Dollar und unterstuetzende politische Rhetorik aus Washington (CLARITY-Act-Hoffnung). Alle drei Hauptwerte (BTC/ETH/SOL) sind jedoch nach der Rally durchgehend tief ueberkauft, Fear&Greed bei 70 (Gier).",
+    "decision": "Portfolio bleibt den ganzen Tag ueber vollstaendig in Cash (freies Kapital 17.960,66 EUR). Aktien/ETFs/Rohstoffe sind wochenendbedingt nicht handelbar. Bei Krypto (einzige heute handelbare Anlageklasse) wurde in keinem der bisherigen Laeufe des Tages eine ueberzeugende Gelegenheit gefunden: Bitcoin, Ethereum und Solana sind nach der staerksten Wochenrally seit 2024 durchgehend tief ueberkauft (RSI 72-86), ohne neuen Einzeltitel-Katalysator oder bestaetigten Ruecksetzer als Einstiegspunkt. Auch im 18:08-Lauf keine Aenderung: Kurse bestaetigen weiterhin ueberkaufte Lage ohne neue Entwicklung.",
+    "reasoning": "Risikoprofil \"spekulativ\" erlaubt kurzfristiges Trading, verlangt aber laut Vorgabe eine wirklich ueberzeugende Gelegenheit. Ein Einstieg in eine bereits stark ueberkaufte Breitmarkt-Rally ohne erkennbaren Ruecksetzer oder neuen Einzeltitel-Katalysator waere reines Verfolgen der Kurse (Chasing) statt einer fundierten spekulativen Wette und wuerde das Rueckschlagsrisiko unverhaeltnismaessig erhoehen. Aktien/ETFs/Rohstoffe sind wochenendbedingt ohnehin nicht handelbar. Keine Ausschlusslisten betroffen.",
     "positionIds": [],
     "portfolioValueEnd": 0,
     "updates": [
@@ -1967,6 +1967,11 @@
       {
         "time": "17:08",
         "note": "Keine Aenderung; Bitcoin ~77.700-78.335 USD (RSI tief ueberkauft, Ruecksetzerrisiko Richtung 71.500-73.000 USD), Ethereum ~2.515 USD (RSI ~86), Solana ~93,65 USD (RSI ~72, ueber 50-/100-Tage-EMA) - Krypto weiterhin tief ueberkauft, schwacher Dollar und CLARITY-Act-Hoffnung stuetzen Stimmung ohne neuen Einzeltitel-Katalysator. Aktien/ETFs/Rohstoffe wochenendbedingt nicht handelbar - kein ueberzeugender Trade-Kandidat",
+        "portfolioValue": 0
+      },
+      {
+        "time": "18:08",
+        "note": "Keine Aenderung; Portfolio weiterhin vollstaendig in Cash (freies Kapital ca. 17.960,66 EUR). Bitcoin ~78.900-79.000 USD (+10% Tag, +22-23% Woche, BlackRock 83% eines 606-Mio-USD-ETF-Zuflusstages), Ethereum ~2.515 USD (RSI ~86), Solana ~93,65 USD (RSI ~72-80) - Krypto weiterhin tief ueberkauft, Aktien/ETFs/Rohstoffe wochenendbedingt weiterhin nicht handelbar - kein ueberzeugender Trade-Kandidat",
         "portfolioValue": 0
       }
     ]
