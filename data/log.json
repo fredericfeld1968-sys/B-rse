@@ -1873,9 +1873,9 @@
   },
   {
     "date": "2026-08-22",
-    "marketOverview": "Samstag, spaeter Nachmittag: Aktien/ETFs/Rohstoffe bleiben wochenendbedingt nicht handelbar (Xetra/US-Boersen oeffnen erst Montag). Bitcoin notiert bei ca. 78.024 USD (+4,4% 24h, Marktkap. 1,56 Bio. USD), Ethereum bei ca. 2.515 USD (+8,12%, RSI ~86 tief ueberkauft), Solana bei ca. 93,65 USD (+6,87%, RSI ~80 ueberkauft) - Gesamtmarktkapitalisierung 2,73 Bio. USD (+6% 24h), Fear&Greed-Index bei 70 (Gier). Treiber bleiben Trumps Druck auf den Kongress fuer den CLARITY Act sowie starke ETF-Zufluesse; keine neue Einzeltitel-Ueberreaktion identifiziert.",
-    "decision": "Kein Trade heute (Stand 16:08). Tagesbudget-Gutschrift fuer den 22.08. bereits erfolgt (+1.000 EUR, freies Kapital unveraendert ca. 17.960,66 EUR, siehe capital.json). Portfolio bleibt vollstaendig in Cash.",
-    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Aktien/ETFs/Rohstoffe sind wochenendbedingt nicht handelbar. Krypto (BTC/ETH/SOL) bleibt nach der staerksten Wochenrally seit ueber zwei Jahren auf allen Hauptwerten ueberkauft (Ethereum RSI ~86, Solana RSI ~80, Bitcoin RSI je nach Zeitebene 56-68); ein Einstieg waere reines Chasing ohne Rueckschlagspuffer. Keine neue Nachrichtenlage seit dem 15:08-Lauf, die eine Ausnahme rechtfertigen wuerde. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "marketOverview": "Samstag, fruaher Abend: Aktien/ETFs/Rohstoffe bleiben wochenendbedingt nicht handelbar (Xetra/US-Boersen oeffnen erst Montag). Bitcoin notiert bei ca. 77.700-78.335 USD (staerkste Wochenrally seit 2024, +22%, RSI tief ueberkauft, Ruecksetzerrisiko Richtung 71.500-73.000 USD), Ethereum bei ca. 2.515 USD (+8,12%, RSI ~86 tief ueberkauft), Solana bei ca. 93,65 USD (+6,87%, RSI ~72 ueberkauft, ueber 50-/100-Tage-EMA) - Fear&Greed-Index bei 70 (Gier). Treiber bleiben Trumps Druck auf den Kongress fuer den CLARITY Act, ein schwacher US-Dollar sowie starke ETF-Zufluesse (BlackRock 83% eines 606-Mio.-USD-Tages); Iran/Hormuz-Lage weiterhin ohne neue Eskalation. Keine neue Einzeltitel-Ueberreaktion identifiziert.",
+    "decision": "Kein Trade heute (Stand 17:08). Tagesbudget-Gutschrift fuer den 22.08. bereits erfolgt (+1.000 EUR, freies Kapital unveraendert ca. 17.960,66 EUR, siehe capital.json). Portfolio bleibt vollstaendig in Cash.",
+    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Aktien/ETFs/Rohstoffe sind wochenendbedingt nicht handelbar. Krypto (BTC/ETH/SOL) bleibt nach der staerksten Wochenrally seit ueber zwei Jahren auf allen Hauptwerten tief ueberkauft (Ethereum RSI ~86, Solana RSI ~72-80, Bitcoin RSI je nach Zeitebene tief ueberkauft mit ausgewiesenem Ruecksetzerrisiko); ein Einstieg waere reines Chasing ohne Rueckschlagspuffer. Keine neue Nachrichtenlage seit dem 16:08-Lauf, die eine Ausnahme rechtfertigen wuerde. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [],
     "portfolioValueEnd": 0,
     "updates": [
@@ -1962,6 +1962,11 @@
       {
         "time": "16:08",
         "note": "Keine Aenderung; Bitcoin ~78.024 USD (+4,4%), Ethereum ~2.515 USD (+8,12%, RSI ~86), Solana ~93,65 USD (+6,87%, RSI ~80) - Krypto weiterhin tief ueberkauft nach staerkster Wochenrally seit 2024, Fear&Greed 70 (Gier). Aktien/ETFs/Rohstoffe wochenendbedingt nicht handelbar - kein ueberzeugender Trade-Kandidat",
+        "portfolioValue": 0
+      },
+      {
+        "time": "17:08",
+        "note": "Keine Aenderung; Bitcoin ~77.700-78.335 USD (RSI tief ueberkauft, Ruecksetzerrisiko Richtung 71.500-73.000 USD), Ethereum ~2.515 USD (RSI ~86), Solana ~93,65 USD (RSI ~72, ueber 50-/100-Tage-EMA) - Krypto weiterhin tief ueberkauft, schwacher Dollar und CLARITY-Act-Hoffnung stuetzen Stimmung ohne neuen Einzeltitel-Katalysator. Aktien/ETFs/Rohstoffe wochenendbedingt nicht handelbar - kein ueberzeugender Trade-Kandidat",
         "portfolioValue": 0
       }
     ]
