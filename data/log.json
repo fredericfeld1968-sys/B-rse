@@ -2003,9 +2003,9 @@
   },
   {
     "date": "2026-08-23",
-    "marketOverview": "Sonntag, kurz nach 03:00 MESZ: Aktien/ETFs/Rohstoffe bleiben wochenendbedingt bis Montag geschlossen. Bitcoin notiert bei ca. 77.000-77.600 USD (+22,7% Wochenplus), 4-Stunden-RSI weiterhin auf dem hoechsten Stand seit ueber sieben Jahren (RSI ~83,7, Money Flow Index bei 100). Ethereum (~2.400 USD) und Solana (~90 USD, gestuetzt durch die Slot-Time-Reduktion auf 350ms) bleiben ebenfalls tief ueberkauft. Keine neue marktbewegende Nachricht seit dem letzten Lauf (02:07): CLARITY-Act-Abstimmung weiterhin fuer 15.09. angesetzt, keine neuen Katalysatoren.",
-    "decision": "Tagesbudget-Gutschrift fuer den 23.08. war bereits im ersten Lauf erfolgt (totalFreshCapitalEur 19.000 EUR, freies Kapital ca. 18.960,66 EUR, unveraendert). Portfolio bleibt vollstaendig in Cash - auch in diesem Lauf kein Trade, da sich die Marktlage seit Mitternacht nicht veraendert hat.",
-    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Bitcoin, Ethereum und Solana bleiben nach der starken Wochenrally durchgehend tief ueberkauft (4H-RSI 83,7, MFI 100) ohne neuen bestaetigten Katalysator seit dem letzten Lauf - ein Einstieg waere reines Verfolgen einer bereits weit gelaufenen, ueberhitzten Bewegung mit erhoehtem Ruecksetzerrisiko. Aktien/ETFs/Rohstoffe sind wochenendbedingt ohnehin nicht handelbar. Keine der (nicht vorhandenen) Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "marketOverview": "Sonntag, kurz nach 04:00 MESZ: Aktien/ETFs/Rohstoffe bleiben wochenendbedingt bis Montag geschlossen. Bitcoin notiert bei ca. 77.000-77.600 USD (+22% Wochenplus, bestes 5-Tage-Ergebnis seit Maerz 2024), nachdem am 22.08. ein kurzes Intraday-Hoch von ca. 79.500 USD mit anschliessendem Flash-Crash erreicht wurde. RSI bleibt extrem erhoeht (ca. 86, staerkstes Ueberkauft-Signal seit fast zwei Jahren; 4H-RSI ~83,7, Money Flow Index bei 100). Ethereum (~2.400 USD, +5,1% 24h) und Solana (~91-92 USD, +5% 24h) bleiben ebenfalls tief ueberkauft. Ueber 4 Mrd. USD Short-Liquidationen befeuerten die Rally; Treiber bleibt der von Trump vorangetriebene CLARITY Act. Keine neue marktbewegende Nachricht seit dem letzten Lauf (03:08).",
+    "decision": "Tagesbudget-Gutschrift fuer den 23.08. war bereits im ersten Lauf erfolgt (totalFreshCapitalEur 19.000 EUR, freies Kapital ca. 18.960,66 EUR, unveraendert). Portfolio bleibt vollstaendig in Cash - auch in diesem Lauf kein Trade, da sich die Marktlage seit Mitternacht nicht grundlegend veraendert hat (weiterhin extrem ueberkauft, zusaetzlich nun ein Flash-Crash vom Vortag als Warnsignal fuer erhoehte Ruecksetzergefahr).",
+    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Bitcoin, Ethereum und Solana bleiben nach der starken Wochenrally durchgehend tief ueberkauft (RSI ~86, MFI 100), und der Flash-Crash vom 22.08. (79.500 -> deutlicher Ruecksetzer) zeigt, dass die Bewegung bereits an ihre Grenzen stoesst. Ein Einstieg waere reines Verfolgen einer bereits weit gelaufenen, ueberhitzten Bewegung mit deutlich erhoehtem Ruecksetzerrisiko. Aktien/ETFs/Rohstoffe sind wochenendbedingt ohnehin nicht handelbar. Keine der (nicht vorhandenen) Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [],
     "portfolioValueEnd": 0,
     "updates": [
@@ -2027,6 +2027,11 @@
       {
         "time": "03:08",
         "note": "Keine Aenderung; Bitcoin weiterhin ~77.000-77.600 USD (RSI 83,7, MFI 100), Ethereum und Solana ebenfalls tief ueberkauft ohne neuen Katalysator seit dem 02:07-Lauf, Aktien/ETFs/Rohstoffe wochenendbedingt weiterhin nicht handelbar - kein ueberzeugender Trade-Kandidat",
+        "portfolioValue": 0
+      },
+      {
+        "time": "04:07",
+        "note": "Keine Aenderung; Bitcoin ~77.000-77.600 USD (RSI ~86, Flash-Crash am 22.08. von ~79.500 USD Hoch), Ethereum ~2.400 USD und Solana ~91-92 USD weiterhin tief ueberkauft ohne neuen Katalysator seit dem 03:08-Lauf, Aktien/ETFs/Rohstoffe wochenendbedingt weiterhin nicht handelbar - kein ueberzeugender Trade-Kandidat",
         "portfolioValue": 0
       }
     ]
