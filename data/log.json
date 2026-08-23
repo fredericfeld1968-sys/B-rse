@@ -2003,9 +2003,9 @@
   },
   {
     "date": "2026-08-23",
-    "marketOverview": "Sonntag, 13:10 MESZ: Aktien/ETFs/Rohstoffe bleiben wochenendbedingt bis Montag geschlossen. Bitcoin notiert leicht schwaecher bei ca. 76.976 USD (weiterhin +22% Wochenplus, bestes 5-Tage-Ergebnis seit Maerz 2024), RSI bleibt tief ueberkauft nach dem Flash-Crash vom 22.08. Ethereum (~2.402,78 USD, +5,1% 24h) und Solana (~91,64 USD, +5% 24h) bleiben ebenfalls ueberkauft; Solana startet um Epoch 1021 (~23.08.) erste grosse On-Chain-Governance-Abstimmungen (Solana Constitution, Disinflationsrate, neue Fee-Mechanik). Keine neue marktbewegende Nachricht seit dem 12:08-Lauf.",
-    "decision": "Tagesbudget-Gutschrift fuer den 23.08. war bereits im ersten Lauf erfolgt (totalFreshCapitalEur 19.000 EUR, freies Kapital ca. 18.960,66 EUR, unveraendert). Portfolio bleibt vollstaendig in Cash - auch in diesem Lauf kein Trade, da sich die Marktlage seit dem letzten Lauf nicht grundlegend veraendert hat (Krypto weiterhin ueberkauft nach dem Flash-Crash vom Vortag, kein neuer Katalysator).",
-    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Bitcoin, Ethereum und Solana bleiben nach der starken Wochenrally ueberkauft, ohne dass sich seit dem letzten Lauf eine neue, ueberzeugende Konstellation ergeben haette. Ein Einstieg waere reines Verfolgen einer bereits weit gelaufenen, ueberhitzten Bewegung mit deutlich erhoehtem Ruecksetzerrisiko. Aktien/ETFs/Rohstoffe sind wochenendbedingt ohnehin nicht handelbar. Keine der (nicht vorhandenen) Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "marketOverview": "Sonntagnachmittag: Boersen (Aktien, ETFs, Rohstoffe) bleiben wochenendbedingt geschlossen. Der Kryptomarkt bleibt nach der starken Rally der Vorwoche (Bitcoin +22% Wochenplus auf zeitweise ueber 79.500 USD, CLARITY-Act-Impuls durch Trump, verdoppeltes US-Anleihe-Rueckkaufprogramm) und dem Flash-Crash vom 22.08. tief ueberkauft: Bitcoin notiert bei ca. 76.976-77.692 USD (RSI 83-86), Solana bei ca. 91-93 USD (RSI ~83) und Ethereum ueber 2.400 USD, alle ohne neuen Katalysator seit den fruehen Morgenstunden. Spot-Bitcoin-ETFs verzeichneten zuletzt drei Tage in Folge Nettozufluesse (u.a. 517 Mio. USD an einem Tag).",
+    "decision": "Ganztaegig keine Aenderung: Portfolio bleibt seit dem 20.08. vollstaendig in Cash (freies Kapital ca. 18.960,66 EUR). Aktien/ETFs/Rohstoffe sind wochenendbedingt nicht handelbar, und Krypto bietet trotz mehrfacher Pruefung ueber den Tag hinweg keine ueberzeugende Gelegenheit - der Markt bleibt seit dem Flash-Crash vom 22.08. durchgehend tief ueberkauft (RSI 83-86) ohne neuen fundamentalen Katalysator.",
+    "reasoning": "Risikoprofil spekulativ erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Ein Einstieg in tief ueberkaufte Krypto-Assets (RSI durchgehend >83) nach einem Flash-Crash waere ein schlechtes Risiko-Ertrags-Verhaeltnis, zumal keine neue positive Nachrichtenlage seit dem Vortag vorliegt. Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten ohnehin nicht handelbar. Keine der (nicht vorhandenen) Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [],
     "portfolioValueEnd": 0,
     "updates": [
@@ -2077,6 +2077,11 @@
       {
         "time": "13:10",
         "note": "Keine Aenderung; Bitcoin ~76.976 USD (leicht schwaecher ggue. 12:08, weiterhin RSI tief ueberkauft nach Flash-Crash vom 22.08.), Ethereum ~2.402,78 USD (+5,1% 24h) und Solana ~91,64 USD (+5% 24h) bleiben ebenfalls ueberkauft; Solana startet erste On-Chain-Governance-Abstimmungen (Epoch 1021). Keine neue marktbewegende Nachricht seit dem 12:08-Lauf - Aktien/ETFs/Rohstoffe wochenendbedingt weiterhin nicht handelbar, kein ueberzeugender Trade-Kandidat.",
+        "portfolioValue": 0
+      },
+      {
+        "time": "14:10",
+        "note": "Keine Aenderung; Bitcoin ~76.976-77.692 USD weiterhin tief ueberkauft nach Flash-Crash vom 22.08. (RSI ~83-86), Solana ~93,25 USD (RSI 83,34, ebenfalls tief ueberkauft), Ethereum ueber 2.400 USD. Keine neue marktbewegende Nachricht seit dem 13:10-Lauf - Aktien/ETFs/Rohstoffe wochenendbedingt weiterhin nicht handelbar, kein ueberzeugender Trade-Kandidat.",
         "portfolioValue": 0
       }
     ]
