@@ -2003,9 +2003,9 @@
   },
   {
     "date": "2026-08-23",
-    "marketOverview": "Sonntagabend (22:07 MESZ): Boersen (Aktien, ETFs, Rohstoffe) bleiben wochenendbedingt geschlossen. Bitcoin notiert weiterhin um die 77.000-77.700 USD, RSI weiterhin bei rund 80-86 (staerkstes Ueberkauft-Signal seit fast zwei Jahren) nach dem Flash-Crash vom 22.08. und der Rally der Vorwoche (+12% an einem Tag, Marktkap. ~2,476 Bio. USD, BTC-Dominanz 58,7%). Ethereum (~2.400 USD) und Solana (~93-94 USD) bleiben ebenfalls tief ueberkauft. Keine neue marktbewegende Nachricht seit dem 21:08-Lauf - der Markt konsolidiert weiterhin auf hohem, ueberkauftem Niveau ohne bestaetigten neuen Ausbruch.",
-    "decision": "Ganztaegig keine Aenderung: Portfolio bleibt seit dem 20.08. vollstaendig in Cash (freies Kapital ca. 18.960,66 EUR). Aktien/ETFs/Rohstoffe sind wochenendbedingt nicht handelbar, und Krypto bietet trotz mehrfacher Pruefung ueber den Tag hinweg weiterhin keine ueberzeugende Gelegenheit - der Markt bleibt tief ueberkauft (Bitcoin-RSI 80-86) ohne neuen Katalysator seit dem Flash-Crash vom 22.08.; ein Einstieg in bereits stark gelaufene, ueberkaufte Kurse widerspraeche dem bisher erfolgreichen Muster (Kauf bei Overreaction/bestaetigtem Ausbruch, nicht bei fortgeschrittener Ueberkauftheit).",
-    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Bitcoin/Ethereum/Solana zeigen weiterhin anhaltend hohe RSI-Werte (Ueberkauft-Zone) ohne neuen Katalysator - ein Kauf jetzt waere ein verspaeteter Einstieg in eine bereits weit gelaufene Bewegung statt eines bestaetigten Ausbruchs oder einer Overreaction. Aktien/ETFs/Rohstoffe sind wochenendbedingt nicht handelbar. Keine der (aktuell keine offenen) Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "marketOverview": "Bitcoin notiert bei rund 76.000 USD unter dem 78.000-USD-Widerstand, Tages-RSI weiterhin bei 80-86 (staerkstes Ueberkauft-Signal seit fast zwei Jahren) nach dem Flash-Crash vom 22.08. und dem anschliessenden Wochenend-Ruecksetzer (109,66 Mio. USD Liquidationen seit der Rally, 80% Longs). Ethereum notiert bei ca. 2.387 USD, Solana bei ca. 91-95 USD, beide ebenfalls tief ueberkauft. Gesamtmarktkapitalisierung bei ca. 2,12 Billionen USD. Boersen (Aktien/ETFs/Rohstoffe) bleiben wochenendbedingt bis Montag geschlossen.",
+    "decision": "Kein Trade den ganzen Tag ueber (23 Laeufe): Aktien/ETFs/Rohstoffe sind wochenendbedingt nicht handelbar, Krypto bleibt trotz mehrfacher Pruefung tief ueberkauft (Tages-RSI 80-86) nach dem Flash-Crash vom 22.08. und bietet keine wirklich ueberzeugende Gelegenheit. Keine offenen Positionen im Depot, freies Kapital von ca. 18.960,66 EUR bleibt mangels bestaetigter Gelegenheit ungenutzt.",
+    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber laut Vorgabe eine wirklich ueberzeugende Gelegenheit. Diese liegt weiterhin nicht vor: Bitcoin/Ethereum/Solana sind auf allen Zeitebenen tief ueberkauft (RSI 80-86) und pullbacken nach dem Flash-Crash bereits leicht, statt einen neuen Ausbruch zu bestaetigen - ein Einstieg jetzt waere ein verspaeteter Verfolgungskauf ins ueberkaufte Momentum hinein. Aktien/ETFs/Rohstoffe sind wochenendbedingt ohnehin nicht handelbar. Keine Ausschlussliste betroffen.",
     "positionIds": [],
     "portfolioValueEnd": 0,
     "updates": [
@@ -2122,6 +2122,11 @@
       {
         "time": "22:07",
         "note": "Keine Aenderung; Bitcoin weiterhin ~77.000-77.700 USD, RSI 80-86 (staerkstes Ueberkauft-Signal seit fast zwei Jahren) nach Flash-Crash vom 22.08., Ethereum ~2.400 USD und Solana ~93-94 USD ebenfalls tief ueberkauft, keine neue Nachrichtenlage seit dem 21:08-Lauf - Aktien/ETFs/Rohstoffe wochenendbedingt weiterhin nicht handelbar, kein ueberzeugender Trade-Kandidat",
+        "portfolioValue": 0
+      },
+      {
+        "time": "23:08",
+        "note": "Keine Aenderung; Bitcoin weiterhin ~76.000 USD unter 78.000-USD-Widerstand, RSI 80-86 nach Flash-Crash und Wochenend-Ruecksetzer (109,66 Mio. USD Liquidationen), Ethereum/Solana ebenfalls tief ueberkauft - Aktien/ETFs/Rohstoffe wochenendbedingt weiterhin nicht handelbar, kein ueberzeugender Trade-Kandidat",
         "portfolioValue": 0
       }
     ]
