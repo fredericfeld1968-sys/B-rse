@@ -2133,15 +2133,20 @@
   },
   {
     "date": "2026-08-24",
-    "marketOverview": "Neuer Handelstag (Montag) beginnt kurz nach Mitternacht. Bitcoin notiert weiterhin um die 76.000-77.700 USD unter dem 78.000-USD-Widerstand, Tages-RSI weiterhin bei 80-86 (staerkstes Ueberkauft-Signal seit fast zwei Jahren) nach dem Flash-Crash vom 22.08. (ueber 1,7 Mrd. USD Liquidationen) und dem anschliessenden Wochenend-Ruecksetzer. Ethereum (~2.400-2.430 USD) und Solana (~91-95 USD, RSI ~80) bleiben ebenfalls tief ueberkauft. Aktien/ETFs/Rohstoffe sind zu dieser fruehen Stunde noch nicht handelbar (europaeische und US-Boersen oeffnen erst im Tagesverlauf).",
-    "decision": "Tagesbudget-Gutschrift fuer den 24.08. erfolgt (+1.000 EUR, freies Kapital jetzt ca. 19.960,66 EUR). Keine offenen Positionen im Depot. Kein Trade in diesem Lauf: Krypto bleibt trotz hohem freiem Kapital tief ueberkauft (RSI 80-86) ohne bestaetigten neuen Katalysator seit dem Flash-Crash vom 22.08., Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten nicht handelbar.",
-    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber laut Vorgabe eine wirklich ueberzeugende Gelegenheit. Diese liegt weiterhin nicht vor: Bitcoin/Ethereum/Solana sind auf allen Zeitebenen tief ueberkauft und pullbacken nach dem Flash-Crash bereits leicht, statt einen neuen Ausbruch zu bestaetigen - ein Einstieg jetzt waere ein verspaeteter Verfolgungskauf ins ueberkaufte Momentum hinein. Aktien/ETFs/Rohstoffe sind zu dieser Uhrzeit ohnehin nicht handelbar. Keine Ausschlussliste betroffen.",
+    "marketOverview": "Bitcoin notiert bei rund 77.600-77.700 USD (24h +8,3%), weiterhin tief ueberkauft (Tages-RSI 80+) nach dem Flash-Crash vom 22.08. und der folgenden Erholungsrally (bestes 5-Tage-Ergebnis seit Maerz 2024), getrieben von Trumps Druck auf den Kongress fuer den CLARITY Act. Solana handelt bei ca. 95,87 USD (+2,77% 24h, RSI ~80,75), Ethereum bei ca. 2.402-2.430 USD, beide ebenfalls deutlich ueberkauft. Spot-Bitcoin-ETFs verzeichneten zuletzt Nettozuflüsse (~307 Mio. USD am 21.08., Wochenzufluss 1,9 Mrd. USD). Aktien/ETFs/Rohstoffe sind zu dieser fruehen Montagsstunde (01:13 MESZ) noch nicht handelbar.",
+    "decision": "Tagesbudget-Gutschrift fuer den 24.08. bereits im ersten Lauf um 00:09 erfolgt (freies Kapital unveraendert ca. 19.960,66 EUR). Keine offenen Positionen im Depot. Kein Trade in diesem Lauf: Krypto bleibt trotz hohem freiem Kapital tief ueberkauft (BTC/SOL RSI ~80+) ohne neuen, bestaetigten Katalysator seit dem letzten Check; Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten nicht handelbar.",
+    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber laut Vorgabe eine wirklich ueberzeugende Gelegenheit. Diese liegt weiterhin nicht vor: Bitcoin und Solana sind auf Tagesbasis tief ueberkauft (RSI 80+), ein Einstieg jetzt waere ein verspaeteter Verfolgungskauf in eine bereits weit gelaufene Erholungsrally hinein statt ein neuer, bestaetigter Ausbruch. Aktien/ETFs/Rohstoffe sind zu dieser Uhrzeit ohnehin nicht handelbar. Keine Ausschlussliste betroffen.",
     "positionIds": [],
     "portfolioValueEnd": 0,
     "updates": [
       {
         "time": "00:09",
         "note": "Tagesbudget-Gutschrift +1.000 EUR (freies Kapital jetzt ca. 19.960,66 EUR); neuer Tag (Montag) begonnen, Portfolio bleibt vollstaendig in Cash. Krypto (BTC/ETH/SOL) weiterhin tief ueberkauft (RSI 80-86) nach dem Flash-Crash vom 22.08. ohne neuen Katalysator, Aktien/ETFs/Rohstoffe zu dieser fruehen Stunde noch nicht handelbar - kein ueberzeugender Trade-Kandidat",
+        "portfolioValue": 0
+      },
+      {
+        "time": "01:13",
+        "note": "Keine Aenderung; Bitcoin ~77.600-77.700 USD und Solana ~95,87 USD weiterhin tief ueberkauft (RSI 80+) nach Flash-Crash-Erholungsrally, kein neuer Katalysator; Boersen ausserhalb der Handelszeiten (Montag frueh)",
         "portfolioValue": 0
       }
     ]
