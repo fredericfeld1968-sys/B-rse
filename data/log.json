@@ -2133,9 +2133,9 @@
   },
   {
     "date": "2026-08-24",
-    "marketOverview": "Bitcoin notiert bei rund 77.692 USD (Wochenplus +22%, bestes Wochenergebnis seit 2023) nach dem inversen Kopf-Schulter-Ausbruch und Trumps Druck auf den Kongress fuer den CLARITY Act. Solana handelt bei ca. 91,64-95,87 USD (RSI 80-84), Ethereum bei ca. 2.402,78 USD (+5,1% 24h), beide weiterhin deutlich ueberkauft. Coinbase-CEO Armstrong unterstuetzt oeffentlich den CLARITY Act; XRP mit starkem Plus (+19,6% 24h). Aktien/ETFs/Rohstoffe sind zu dieser fruehen Montagsstunde (02:11 MESZ) weiterhin nicht handelbar.",
-    "decision": "Tagesbudget-Gutschrift fuer den 24.08. bereits im ersten Lauf um 00:09 erfolgt (freies Kapital unveraendert ca. 19.960,66 EUR). Keine offenen Positionen im Depot. Auch im dritten Lauf des Tages kein Trade: Krypto bleibt trotz hohem freiem Kapital tief ueberkauft (BTC/SOL RSI 80-84) ohne neuen, bestaetigten Katalysator seit dem letzten Check; Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten nicht handelbar.",
-    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber laut Vorgabe eine wirklich ueberzeugende Gelegenheit. Diese liegt weiterhin nicht vor: Bitcoin und Solana sind auf Tagesbasis tief ueberkauft (RSI 80-84), ein Einstieg jetzt waere ein verspaeteter Verfolgungskauf in eine bereits weit gelaufene Erholungsrally hinein (BTC +22% diese Woche) statt ein neuer, bestaetigter Ausbruch. Aktien/ETFs/Rohstoffe sind zu dieser Uhrzeit ohnehin nicht handelbar. Keine Ausschlussliste betroffen.",
+    "marketOverview": "Bitcoin notiert bei rund 77.260-77.692 USD (Wochenplus +22%, bestes Wochenergebnis seit 2023), Tages-RSI ~86 - staerkstes Ueberkauft-Signal seit fast zwei Jahren, 4h-RSI auf 7-Jahres-Hoch. Solana handelt bei ca. 91,64-95,87 USD (RSI 80-84), Ethereum bei ca. 2.402,78 USD (+5,1% 24h), beide weiterhin deutlich ueberkauft. Analysten warnen vor kurzfristiger Korrektur/Konsolidierung trotz intakter Rally seit dem Flash-Crash vom 22.08. Aktien/ETFs/Rohstoffe sind zu dieser fruehen Montagsstunde (03:10 MESZ) weiterhin nicht handelbar.",
+    "decision": "Tagesbudget-Gutschrift fuer den 24.08. bereits im ersten Lauf um 00:09 erfolgt (freies Kapital unveraendert ca. 19.960,66 EUR). Keine offenen Positionen im Depot. Auch im vierten Lauf des Tages kein Trade: Krypto bleibt trotz hohem freiem Kapital tief ueberkauft (BTC RSI ~86, SOL RSI 80-84) ohne neuen, bestaetigten Katalysator seit dem letzten Check; Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten nicht handelbar.",
+    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber laut Vorgabe eine wirklich ueberzeugende Gelegenheit. Diese liegt weiterhin nicht vor: Bitcoin und Solana sind auf Tagesbasis tief ueberkauft (RSI 80-86), ein Einstieg jetzt waere ein verspaeteter Verfolgungskauf in eine bereits weit gelaufene Erholungsrally hinein (BTC +22% diese Woche) statt ein neuer, bestaetigter Ausbruch. Aktien/ETFs/Rohstoffe sind zu dieser Uhrzeit ohnehin nicht handelbar. Keine Ausschlussliste betroffen.",
     "positionIds": [],
     "portfolioValueEnd": 0,
     "updates": [
@@ -2152,6 +2152,11 @@
       {
         "time": "02:11",
         "note": "Keine Aenderung; Bitcoin ~77.692 USD (+22% Woche, bestes Wochenergebnis seit 2023) und Solana ~91,64-95,87 USD weiterhin tief ueberkauft (RSI 80-84) nach Flash-Crash-Erholungsrally, CLARITY-Act-Rueckenwind bereits eingepreist, kein neuer Katalysator; Boersen ausserhalb der Handelszeiten (Montag frueh)",
+        "portfolioValue": 0
+      },
+      {
+        "time": "03:10",
+        "note": "Keine Aenderung; Bitcoin ~77.260-77.692 USD (Tages-RSI ~86, staerkstes Ueberkauft-Signal seit fast zwei Jahren), Solana ~91,64-95,87 USD und Ethereum ~2.402,78 USD ebenfalls tief ueberkauft, Analysten warnen vor kurzfristiger Korrektur - kein ueberzeugender Trade-Kandidat; Boersen ausserhalb der Handelszeiten (Montag frueh)",
         "portfolioValue": 0
       }
     ]
