@@ -2133,9 +2133,9 @@
   },
   {
     "date": "2026-08-24",
-    "marketOverview": "Bitcoin weiterhin stabil bei ca. 77.300-77.700 USD, Ethereum und Solana praktisch unveraendert gegenueber den Vorlaeufen - Seitwaertskonsolidierung ohne neuen Katalysator haelt an. Xetra ist seit 9:00 MESZ geoeffnet, DAX startet die Woche knapp ueber 26.000 Punkten in einem intakten mehrwoechigen Aufwaertstrend, aber ohne auffaellige Einzeltitel-Kursausschlaege oder grosse Unternehmensmeldungen am heutigen Montag. US-Vorboerse ruhig, keine nennenswerten Premarket-Mover; die Woche bleibt auf Nvidia-Zahlen (Mittwoch) und Fed-Chef Warshs Jackson-Hole-Rede ausgerichtet.",
-    "decision": "Tagesbudget-Gutschrift fuer den 24.08. bereits im ersten Lauf um 00:09 erfolgt (freies Kapital unveraendert ca. 19.960,66 EUR). Keine offenen Positionen im Depot. Auch im zehnten Lauf des Tages (09:14, kurz nach Xetra-Oeffnung) kein Trade: Krypto weiterhin ohne neuen Katalysator, und trotz geoeffneter Boersen keine ueberzeugende Einzeltitel-Gelegenheit (kein auffaelliger Dip, keine grossen Zahlen heute) gefunden.",
-    "reasoning": "Risikoprofil \"spekulativ\" erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Diese liegt weiterhin nicht vor: Bitcoin/Ethereum/Solana bewegen sich nur marginal gegenueber dem letzten Lauf, keine neue Nachrichtenlage. Xetra ist zwar seit 9:00 MESZ offen, aber ohne erkennbaren Kursausschlag oder Nachrichtenkatalysator bei einzelnen Titeln - ein Kauf ins Blaue waere kein bestaetigtes Setup. Die grossen Katalysatoren der Woche (Nvidia-Zahlen Mittwoch, Jackson Hole) stehen noch aus. Keine Ausschlussliste betroffen.",
+    "marketOverview": "Bitcoin bei ca. 77.170 USD (-0,2% 24h) praktisch unveraendert gegenueber dem 09:14-Lauf, Ethereum leicht fester bei ca. 2.435 USD (+1,2%) - weiterhin Seitwaertskonsolidierung ohne neuen Katalysator. Xetra notiert nach der 9:00-MESZ-Oeffnung ruhig um die 26.000-Punkte-Marke, keine auffaelligen Einzeltitel-Kursspruenge gefunden. Woche bleibt auf Nvidia-Zahlen (Mittwoch) und Fed-Chef Warshs Jackson-Hole-Debuet (Freitag) ausgerichtet, S&P 500 startet die Woche mit -1,4% vom Hoch nach dem Anstieg der langfristigen Renditen.",
+    "decision": "Tagesbudget-Gutschrift fuer den 24.08. bereits im ersten Lauf um 00:09 erfolgt (freies Kapital unveraendert ca. 19.960,66 EUR). Keine offenen Positionen im Depot. Auch im elften Lauf des Tages (10:11) kein Trade: Krypto weiterhin ohne neuen Katalysator, Xetra ohne auffaellige Einzeltitel-Gelegenheit; die grossen Katalysatoren der Woche (Nvidia Mittwoch, Jackson Hole Freitag) stehen noch aus.",
+    "reasoning": "Risikoprofil \"spekulativ\" erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Bitcoin/Ethereum bewegen sich nur marginal gegenueber dem letzten Lauf (BTC -0,2%, ETH +1,2%), keine neue Nachrichtenlage seit dem 09:14-Update. Xetra ist offen, aber ohne erkennbaren Kursausschlag oder Nachrichtenkatalysator bei einzelnen Titeln - ein Kauf ins Blaue waere kein bestaetigtes Setup. Keine Ausschlussliste betroffen.",
     "positionIds": [],
     "portfolioValueEnd": 0,
     "updates": [
@@ -2187,6 +2187,11 @@
       {
         "time": "09:14",
         "note": "Keine Aenderung; Xetra seit 9:00 MESZ offen (DAX knapp ueber 26.000 Punkten), aber keine auffaelligen Einzeltitel-Kursausschlaege oder Zahlen heute - kein ueberzeugender Kauf. Bitcoin/Ethereum/Solana weiterhin seitwaerts ohne neuen Katalysator",
+        "portfolioValue": 0
+      },
+      {
+        "time": "10:11",
+        "note": "Keine Aenderung; Bitcoin ~77.170 USD (-0,2%), Ethereum ~2.435 USD (+1,2%) - weiterhin kein neuer Krypto-Katalysator. Xetra offen (DAX ~26.000), keine auffaelligen Einzeltitel-Bewegungen gefunden. Woche bleibt auf Nvidia-Zahlen (Mi) und Jackson Hole (Fr) ausgerichtet",
         "portfolioValue": 0
       }
     ]
