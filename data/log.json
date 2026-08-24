@@ -2133,9 +2133,9 @@
   },
   {
     "date": "2026-08-24",
-    "marketOverview": "Bitcoin stabil bei ca. 77.500-77.900 USD (+0,7% 24h), Ethereum leicht fester um 2.450-2.455 USD (+1,3%), Solana ~94,35 USD - weiterhin Seitwaertskonsolidierung nach der ueberdehnten Rally vom Wochenende, kein neuer Katalysator gegenueber den Vorlaeufen. Aktienmarkt (S&P 500 bei 7.674, -1,4% Wochenverlust) wartet weiter auf Nvidia-Zahlen (Mittwoch) und Fed-Chef Warshs Jackson-Hole-Rede; 10-Jahres-Rendite bei ca. 4,74% (20-Monats-Hoch). Aktien/ETFs/Rohstoffe zu dieser fruehen Montagsstunde (07:14 MESZ) weiterhin nicht handelbar.",
-    "decision": "Tagesbudget-Gutschrift fuer den 24.08. bereits im ersten Lauf um 00:09 erfolgt (freies Kapital unveraendert ca. 19.960,66 EUR). Keine offenen Positionen im Depot. Auch im achten Lauf des Tages kein Trade: Krypto weiterhin ohne bestaetigten neuen Katalysator (gleiche CLARITY-Act-/Treasury-Buyback-These wie in den Vorlaeufen bereits eingepreist), Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten nicht handelbar.",
-    "reasoning": "Risikoprofil \"spekulativ\" erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Diese liegt weiterhin nicht vor: Bitcoin/Ethereum/Solana bewegen sich nur marginal gegenueber dem letzten Lauf, keine neue Nachrichtenlage seit 06:10. Die grossen Katalysatoren der Woche (Nvidia-Zahlen, Jackson Hole) stehen noch aus. Aktienmarkt startet vorsichtig, ist aber ohnehin ausserhalb der Handelszeiten. Keine Ausschlussliste betroffen.",
+    "marketOverview": "Bitcoin stabil bei ca. 77.579 USD (+0,7% 24h), Ethereum leicht fester um 2.453,50 USD, Solana ~94,35 USD - weiterhin Seitwaertskonsolidierung, praktisch unveraendert gegenueber dem 07:14-Lauf, kein neuer Katalysator. Woche steht im Zeichen von Nvidia-Zahlen (Mittwoch nach Boersenschluss, Optionsmarkt preist ~6% Kursbewegung ein) und Fed-Chef Warshs Jackson-Hole-Debuet; S&P 500 rund 2% unter Rekordhoch, Philadelphia-Chip-Index diese Woche rund -5% wegen steigender Renditen. Xetra oeffnet erst um 9:00 MESZ, US-Boersen erst um 15:30 MESZ - Aktien/ETFs/Rohstoffe zu dieser fruehen Montagsstunde (08:20 MESZ) weiterhin nicht handelbar.",
+    "decision": "Tagesbudget-Gutschrift fuer den 24.08. bereits im ersten Lauf um 00:09 erfolgt (freies Kapital unveraendert ca. 19.960,66 EUR). Keine offenen Positionen im Depot. Auch im neunten Lauf des Tages kein Trade: Krypto weiterhin ohne bestaetigten neuen Katalysator (Kurse praktisch deckungsgleich mit dem 07:14-Lauf), Aktien/ETFs/Rohstoffe vor Xetra-Oeffnung (9:00 MESZ) weiterhin nicht handelbar.",
+    "reasoning": "Risikoprofil \"spekulativ\" erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Diese liegt weiterhin nicht vor: Bitcoin/Ethereum/Solana bewegen sich nur marginal gegenueber dem letzten Lauf, keine neue Nachrichtenlage seit 07:14. Die grossen Katalysatoren der Woche (Nvidia-Zahlen Mittwoch, Jackson Hole) stehen noch aus. Xetra oeffnet erst in gut 40 Minuten, US-Boerse erst am Nachmittag - Aktien ohnehin nicht handelbar. Keine Ausschlussliste betroffen.",
     "positionIds": [],
     "portfolioValueEnd": 0,
     "updates": [
@@ -2177,6 +2177,11 @@
       {
         "time": "07:14",
         "note": "Keine Aenderung; Bitcoin stabil ~77.500-77.900 USD, Ethereum leicht fester (~2.450 USD), Solana ~94,35 USD - weiterhin kein neuer Krypto-Katalysator gegenueber dem 06:10-Lauf. Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten (Montag frueh vor Marktoeffnung)",
+        "portfolioValue": 0
+      },
+      {
+        "time": "08:20",
+        "note": "Keine Aenderung; Bitcoin ~77.579 USD, Ethereum ~2.453,50 USD, Solana ~94,35 USD - praktisch unveraendert gegenueber dem 07:14-Lauf, kein neuer Krypto-Katalysator; Xetra oeffnet erst um 9:00 MESZ, Aktien/ETFs/Rohstoffe weiterhin nicht handelbar",
         "portfolioValue": 0
       }
     ]
