@@ -2133,9 +2133,9 @@
   },
   {
     "date": "2026-08-24",
-    "marketOverview": "Bitcoin bei ca. 77.000-77.700 USD (grob unveraendert, weiterhin tief ueberkauft nach dem Flash-Crash-Rebound), Ethereum ~2.400-2.435 USD, Solana ~93-96 USD - Kryptomarkt bleibt seitwaerts ohne neuen Katalysator. US-Futures leicht negativ (Dow leicht rot, Nasdaq -0,7%) nach gescheiterten US-Kanada-Handelsgespraechen; Xetra notiert ruhig ohne auffaellige Einzeltitel-Bewegung. Die Woche bleibt auf Nvidia-Zahlen (Mittwoch) und Fed-Chef Warshs Jackson-Hole-Debuet (Freitag) ausgerichtet - beide Katalysatoren stehen noch aus, Markt agiert bis dahin erkennbar abwartend.",
-    "decision": "Tagesbudget-Gutschrift fuer den 24.08. bereits im ersten Lauf um 00:09 erfolgt (freies Kapital unveraendert ca. 19.960,66 EUR). Keine offenen Positionen im Depot. Auch im zwoelften Lauf des Tages (11:10) kein Trade: Krypto weiterhin ohne neuen Katalysator und ueberkauft, US-Futures leicht negativ vor Nvidia/Jackson Hole, Xetra ohne auffaellige Einzeltitel-Gelegenheit.",
-    "reasoning": "Risikoprofil \"spekulativ\" erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Bitcoin/Ethereum/Solana bewegen sich nur marginal gegenueber dem letzten Lauf, keine neue Nachrichtenlage seit 10:11. US-Futures leicht negativ nach gescheiterten US-Kanada-Gespraechen liefern keinen klaren Einzeltitel-Katalysator, Xetra bleibt ohne erkennbaren Kursausschlag. Ein Kauf ins Blaue waere kein bestaetigtes Setup. Keine Ausschlussliste betroffen.",
+    "marketOverview": "Bitcoin haelt sich bei ca. 77.100 USD (+21% Woche), Ethereum ~2.442 USD (+28% Woche), Solana ~94 USD (+24% Woche) - Kryptomarkt konsolidiert nach der starken Vorwochenrally weiterhin seitwaerts. DAX oeffnete kaum veraendert bei ca. 26.105 Punkten (Freitagsschluss 26.136), US-Futures leicht negativ (Nasdaq -0,7%, WTI/Brent schwaecher) nach gescheiterten US-Kanada-Handelsgespraechen und vor einer richtungsweisenden Woche mit Nvidia-Zahlen (Mittwoch, erwartet >91 Mrd. USD Umsatz) und Fed-Chef Warshs Jackson-Hole-Rede (Freitag, ~40% Marktpreisung einer Zinserhoehung im September).",
+    "decision": "Tagesbudget-Gutschrift fuer den 24.08. bereits im ersten Lauf um 00:09 erfolgt (freies Kapital unveraendert ca. 19.960,66 EUR). Keine offenen Positionen im Depot. Auch im dreizehnten Lauf des Tages (12:11) kein Trade: Krypto konsolidiert nach der Rally ohne neuen Katalysator, Xetra und US-Futures bewegungsarm vor Nvidia/Jackson Hole.",
+    "reasoning": "Risikoprofil \"spekulativ\" erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Bitcoin/Ethereum/Solana bewegen sich nur marginal gegenueber dem 11:10-Lauf, keine neue Nachrichtenlage. DAX kaum veraendert, US-Futures leicht negativ ohne klaren Einzeltitel-Katalysator vor einer Woche voller anstehender Grossereignisse (Nvidia-Zahlen, Jackson Hole, Iran-Sanktionen) - der Markt agiert erkennbar abwartend. Ein Kauf ins Blaue waere kein bestaetigtes Setup. Keine Ausschlussliste betroffen.",
     "positionIds": [],
     "portfolioValueEnd": 0,
     "updates": [
@@ -2197,6 +2197,11 @@
       {
         "time": "11:10",
         "note": "Keine Aenderung; Krypto (BTC ~77.000-77.700 USD, ETH ~2.400-2.435 USD, SOL ~93-96 USD) weiterhin seitwaerts/ueberkauft ohne neuen Katalysator, US-Futures leicht negativ nach gescheiterten US-Kanada-Handelsgespraechen, Xetra ohne auffaellige Einzeltitel-Chance - kein ueberzeugender Trade",
+        "portfolioValue": 0
+      },
+      {
+        "time": "12:11",
+        "note": "Keine Aenderung; Krypto (BTC ~77.100 USD, ETH ~2.442 USD, SOL ~94 USD) konsolidiert seitwaerts nach der Vorwochenrally, DAX kaum veraendert (~26.105 Punkte), US-Futures leicht negativ vor Nvidia-Zahlen (Mi) und Jackson Hole (Fr) - kein ueberzeugender Trade",
         "portfolioValue": 0
       }
     ]
