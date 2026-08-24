@@ -2260,5 +2260,20 @@
         "portfolioValue": 0
       }
     ]
+  },
+  {
+    "date": "2026-08-25",
+    "marketOverview": "Neuer Tag (Dienstag) beginnt: US-Boersen seit 22:00 MESZ (Montag) geschlossen, Xetra oeffnet erst um 9:00 MESZ - Aktien, ETFs und Rohstoffe aktuell nicht handelbar. Krypto bleibt tief ueberkauft: Bitcoin ~78.870 USD (Tages-RSI ~82,3-82,45, +22% in wenigen Tagen, groesste Rally seit 2023), Ethereum ~2.471-2.472 USD (RSI ~79,2) und Solana ~96,24 USD zeigen zwar leichte Tagesgewinne (+1-2%), doch Fear&Greed-Index verharrt bei 73 (Gier) und mehrere Quellen warnen vor einem Mean-Reversion-Ruecksetzer nach der historischen Short-Squeeze-Rally. Woche bleibt auf Nvidia-Zahlen (Mittwoch) und Fed-Chef Warshs Jackson-Hole-Rede (Freitag) ausgerichtet.",
+    "decision": "Tagesbudget-Gutschrift fuer den 25.08. im ersten Lauf um 00:11 erfolgt (totalFreshCapitalEur 20.000 -> 21.000 EUR, freies Kapital jetzt ca. 20.960,66 EUR). Keine offenen Positionen im Depot. Kein Trade im ersten Lauf des Tages: Boersen ausserhalb der Handelszeiten, Krypto bleibt trotz leichter Tagesgewinne tief ueberkauft ohne neuen Katalysator gegenueber dem Vortag.",
+    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Zocken, verlangt aber ein wirklich ueberzeugendes Setup. Bitcoin/Ethereum/Solana bleiben nach der historischen mehrtaegigen Short-Squeeze-Rally auf allen Zeitebenen tief ueberkauft (RSI 79-82), ein Kauf hier waere ein Einstieg am Hoch statt einer bestaetigten Gelegenheit - identische Lage wie in den letzten Laeufen des Vortags. Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten ohnehin nicht handelbar. Keine Ausschlussliste betroffen.",
+    "positionIds": [],
+    "portfolioValueEnd": 0,
+    "updates": [
+      {
+        "time": "00:11",
+        "note": "Tagesbudget-Gutschrift +1.000 EUR (freies Kapital jetzt ca. 20.960,66 EUR); neuer Tag (Dienstag) begonnen, Portfolio bleibt vollstaendig in Cash. Krypto (BTC RSI ~82,3, ETH RSI ~79,2) weiterhin tief ueberkauft nach der Rally, Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten - kein ueberzeugender Trade-Kandidat",
+        "portfolioValue": 0
+      }
+    ]
   }
 ]
