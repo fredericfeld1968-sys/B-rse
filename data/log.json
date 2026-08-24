@@ -2133,9 +2133,9 @@
   },
   {
     "date": "2026-08-24",
-    "marketOverview": "Bitcoin hat sich von seinem Ueberkauft-Hoch (~77.700 USD) leicht auf ca. 76.000-76.100 USD zurueckgezogen (-1,7% 24h) - eine erste, moderate Abkuehlung nach dem starken Wochenplus von +22%, aber ohne dass sich RSI/Overbought-Lage grundlegend geloest haette. Solana und Ethereum notieren im gleichen risk-off-getriebenen Muster leicht schwaecher. Analysten sehen die Bewegung als notwendige Deleveraging-Konsolidierung nach der ueberdehnten Rally, keine neue fundamentale Nachricht seit dem 03:10-Lauf. Aktien/ETFs/Rohstoffe sind zu dieser fruehen Montagsstunde (04:09 MESZ) weiterhin nicht handelbar.",
-    "decision": "Tagesbudget-Gutschrift fuer den 24.08. bereits im ersten Lauf um 00:09 erfolgt (freies Kapital unveraendert ca. 19.960,66 EUR). Keine offenen Positionen im Depot. Auch im fuenften Lauf des Tages kein Trade: Bitcoin kuehlt zwar leicht ab (~76.000 USD, -1,7%), bleibt aber Teil einer erst beginnenden Korrektur ohne bestaetigten neuen Boden - kein ueberzeugender Einstiegspunkt; Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten nicht handelbar.",
-    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber laut Vorgabe eine wirklich ueberzeugende Gelegenheit. Diese liegt weiterhin nicht vor: Der leichte Ruecksetzer bei Bitcoin/Solana ist eher Beginn einer erwarteten Konsolidierung nach extremem Ueberkauft-Niveau als ein bestaetigter, kaufbarer Boden - ein Einstieg jetzt waere spekulativ ins fallende Messer statt ein bestaetigtes Setup. Aktien/ETFs/Rohstoffe sind zu dieser Uhrzeit ohnehin nicht handelbar. Keine Ausschlussliste betroffen.",
+    "marketOverview": "Bitcoin stabilisiert sich nach der Abkuehlung vom Ueberkauft-Hoch bei ca. 77.200-77.350 USD (-1,0% 24h), Ethereum steht mit ~2.426 USD (-3,3%) deutlicher unter Druck, Solana haelt sich mit ~94,17 USD leicht im Plus - gestuetzt von eigenen Katalysatoren (erste On-Chain-Governance-Abstimmungen ab Epoch 1021, -12,5% Blockzeit, Zuflüsse in Bitwise' Solana-Staking-ETF). Insgesamt eine Seitwaertskonsolidierung nach der ueberdehnten Rally, ohne bestaetigten Boden. An den Aktienmaerkten gab Asien um 0,2% nach und US-Futures notierten schwaecher: Im Wochenfokus stehen die Nvidia-Quartalszahlen und das Fed-Treffen in Jackson Hole; Oel zieht wegen neuer Nahost-Spannungen (Drohungen gegen Oman, Gewalt im Libanon) an, der breitere Zollkonflikt belastet die Konjunkturerwartungen. Aktien/ETFs/Rohstoffe sind zu dieser fruehen Montagsstunde (05:08 MESZ) weiterhin nicht handelbar.",
+    "decision": "Tagesbudget-Gutschrift fuer den 24.08. bereits im ersten Lauf um 00:09 erfolgt (freies Kapital unveraendert ca. 19.960,66 EUR). Keine offenen Positionen im Depot. Auch im sechsten Lauf des Tages kein Trade: Bitcoin pendelt seitwaerts um 77.200 USD ohne bestaetigten Boden, Ethereum ist klar schwaecher, und der einzige mit positiven Katalysatoren unterlegte Wert (Solana) ist bereits stark gelaufen; Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten nicht handelbar.",
+    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber laut Vorgabe eine wirklich ueberzeugende Gelegenheit. Diese liegt weiterhin nicht vor: Der Kryptomarkt konsolidiert nach extremem Ueberkauft-Niveau seitwaerts, ohne dass ein Boden bestaetigt waere - ein Einstieg jetzt waere ein Griff ins fallende Messer statt ein bestaetigtes Setup. Zusaetzlich sprechen schwaechere US-Futures, die Unsicherheit vor Nvidia-Zahlen und Jackson Hole sowie die neu aufgeflammten Nahost-Spannungen fuer Zurueckhaltung. Aktien/ETFs/Rohstoffe sind zu dieser Uhrzeit ohnehin nicht handelbar. Keine Ausschlussliste betroffen.",
     "positionIds": [],
     "portfolioValueEnd": 0,
     "updates": [
@@ -2162,6 +2162,11 @@
       {
         "time": "04:09",
         "note": "Keine Aenderung; Bitcoin auf ca. 76.000-76.100 USD zurueckgekommen (-1,7% 24h) - beginnende Konsolidierung nach dem Ueberkauft-Hoch, aber kein bestaetigter Boden, daher kein Einstieg; Boersen ausserhalb der Handelszeiten (Montag frueh)",
+        "portfolioValue": 0
+      },
+      {
+        "time": "05:08",
+        "note": "Keine Aenderung; Bitcoin stabilisiert sich bei ca. 77.200-77.350 USD (-1,0% 24h), Ethereum ~2.426 USD (-3,3%) schwaecher, Solana ~94,17 USD leicht fester - Seitwaertsphase ohne bestaetigten Boden. US-Futures und Asien-Aktien schwaecher (Nvidia-Zahlen und Fed-Treffen in Jackson Hole diese Woche im Fokus), Oel fester wegen Nahost-Spannungen; Boersen weiter ausserhalb der Handelszeiten",
         "portfolioValue": 0
       }
     ]
