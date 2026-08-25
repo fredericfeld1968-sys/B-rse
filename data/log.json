@@ -2263,9 +2263,9 @@
   },
   {
     "date": "2026-08-25",
-    "marketOverview": "Dienstag, 18:15 MESZ: DAX weiterhin fest um 26.300 Punkte, US-Boersen leicht im Plus vor den Nvidia-Zahlen (Mittwoch nachboerslich), PCE-Daten und Kevin Warshs erster Jackson-Hole-Rede (Freitag). Bitcoin bleibt bei ~80.900 USD tief ueberkauft (Tages-RSI 84,01, Kurs direkt am oberen Bollinger-Band bei 81.103 USD), Momentum haelt an, aber ohne neuen Katalysator seit dem letzten Lauf. Keine frischen Sell-the-News-Einzeltitel-Kandidaten identifiziert (Marvell/Broadcom-Schwaeche vor eigenen Zahlen am 27.08. bereits bekannt, FactSet/Herc-Ausverkaeufe sind alte Q4-2025-Zahlen ohne aktuellen Bezug).",
-    "decision": "Tagesbudget-Gutschrift fuer den 25.08. bereits im ersten Lauf um 00:11 erfolgt (freies Kapital weiterhin ca. 20.960,66 EUR). Auch im neunzehnten Lauf um 18:15 kein Trade: Bitcoin bleibt tief ueberkauft (RSI 84,01) ohne neuen bestaetigten Ausbruch, DAX/US-Maerkte weiterhin fest, aber ohne frischen Einzeltitel-Katalysator vor Nvidia-Zahlen/Jackson Hole. Keine offenen Positionen aktuell (Depotwert 0 EUR), gesamtes freies Kapital bleibt mangels ueberzeugender Gelegenheit ungenutzt.",
-    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Bitcoin ist mit Tages-RSI 84,01 und Kurs direkt am oberen Bollinger-Band tief ueberkauft - ein Neueinstieg waere reines Chasing statt eines bestaetigten Setups. Bei Aktien/ETFs/Rohstoffen liegt weiterhin kein frischer Sell-the-News-Kandidat vor; Marvell/Broadcom-Schwaeche ist Vorlauf zu eigenen Zahlen (kein Overreaction-Setup), FactSet/Herc-Meldungen sind alte Q4-2025-Berichte ohne aktuellen Bezug. Keine der Positionen (aktuell keine offen) verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "marketOverview": "Dienstag, 19:10 MESZ: US-Maerkte fest (S&P 500 +0,37% auf 7.680,82, Nasdaq +0,83%, Dow +0,07%) - Erholung nach dem Chip-Ausverkauf vom Montag, gestuetzt von fallenden Anleiherenditen und Oelpreisen vor den Nvidia-Zahlen (Mittwoch nachboerslich), PCE-Daten und Kevin Warshs erster Jackson-Hole-Rede (Freitag). Dick's Sporting Goods brach um -27% ein (Q2-Gewinn/-Umsatz verfehlt, Prognose deutlich gesenkt wegen Schwaeche bei der Foot-Locker-Sparte) - eine echte fundamentale Verschlechterung, kein Sell-the-News-Reflex. Bitcoin bleibt bei ~79.000-80.900 USD tief ueberkauft (Tages-RSI 84,01, direkt am oberen Bollinger-Band), ohne neuen Katalysator seit dem letzten Lauf.",
+    "decision": "Tagesbudget-Gutschrift fuer den 25.08. bereits im ersten Lauf um 00:11 erfolgt (freies Kapital weiterhin ca. 20.960,66 EUR). Auch im zwanzigsten Lauf um 19:10 kein Trade: Bitcoin bleibt tief ueberkauft (RSI 84,01) ohne neuen bestaetigten Ausbruch, US-Maerkte erholen sich zwar, aber ohne frischen Einzeltitel-Katalysator vor Nvidia-Zahlen/Jackson Hole; Dick's-Sporting-Goods-Einbruch ist echte Prognosesenkung, kein Dip-Kauf-Setup. Keine offenen Positionen aktuell (Depotwert 0 EUR), gesamtes freies Kapital bleibt mangels ueberzeugender Gelegenheit ungenutzt.",
+    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Bitcoin ist mit Tages-RSI 84,01 und Kurs direkt am oberen Bollinger-Band tief ueberkauft - ein Neueinstieg waere reines Chasing statt eines bestaetigten Setups. Dick's Sporting Goods (-27%) verfehlte Gewinn/Umsatz und senkte die Prognose wegen struktureller Schwaeche bei Foot Locker - analog zum Rheinmetall-Fall eine echte fundamentale Verschlechterung statt eines 'Sell-the-News'-Ueberreaktion, daher kein Kaufkandidat. FactSet-Schwaeche ist alte Nachricht ohne neuen Impuls. Keine der Positionen (aktuell keine offen) verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [],
     "portfolioValueEnd": 0,
     "updates": [
@@ -2362,6 +2362,11 @@
       {
         "time": "18:15",
         "note": "Keine Aenderung - Bitcoin weiterhin tief ueberkauft (RSI 84,01) direkt am oberen Bollinger-Band bei ~80.900 USD, DAX/US-Maerkte fest vor Nvidia-Zahlen/Jackson Hole, Marvell/Broadcom-Schwaeche vor eigenen Zahlen kein Kaufsetup - kein neuer Katalysator, kein Trade",
+        "portfolioValue": 0
+      },
+      {
+        "time": "19:10",
+        "note": "Keine Aenderung - US-Maerkte erholen sich (S&P +0,37%, Nasdaq +0,83%) vor Nvidia-Zahlen/Jackson Hole, Bitcoin weiterhin tief ueberkauft (RSI 84,01); Dick's Sporting Goods -27% ist echte Prognosesenkung (Foot-Locker-Schwaeche), kein Dip-Kauf-Setup - kein Trade",
         "portfolioValue": 0
       }
     ]
