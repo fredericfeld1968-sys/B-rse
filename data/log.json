@@ -2263,9 +2263,9 @@
   },
   {
     "date": "2026-08-25",
-    "marketOverview": "Dienstagfrueh, 07:13 MESZ: Xetra oeffnet erst um 9:00 MESZ, Aktien/ETFs/Rohstoffe weiterhin nicht handelbar. Bitcoin ist inzwischen auf ca. 80.227 USD (+3,18% seit Mitternacht) geklettert und naehert sich damit erstmals der 80.000-USD-Marke - Ethereum ~2.494 USD (+1,22%), Solana mit der staerksten Bewegung der drei (+6,24%, Spanne 94-100 USD). Der Tages-RSI von Bitcoin liegt laut mehreren Quellen bei rund 86 - das staerkste Ueberkauft-Signal seit fast zwei Jahren, gestuetzt von einer 22%-Rally in wenigen Tagen (Treasury-Buyback-getriebene Short-Squeeze, ueber 3 Mrd. USD liquidierte Shorts). Fear&Greed-Index bei 73 (Greed). Naechster relevanter Termin bleibt das Jackson-Hole-Symposium (27.-29.08.) mit der ersten Keynote von Fed-Chef Warsh am Freitag (28.08.); Schluesselunterstuetzung fuer Bitcoin liegt bei ca. 77.000 USD.",
-    "decision": "Tagesbudget-Gutschrift fuer den 25.08. bereits im ersten Lauf um 00:11 erfolgt (freies Kapital weiterhin ca. 20.960,66 EUR). Auch im achten Lauf um 07:13 kein Trade: Bitcoin schiebt zwar weiter Richtung 80.000 USD, doch bei einem RSI von ~86 (staerkstes Ueberkauft-Signal seit fast zwei Jahren) waere ein Einstieg jetzt ein verspaeteter Kauf am Extremhoch statt einer ueberzeugenden Gelegenheit. Keine offenen Positionen im Depot.",
-    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Zocken, verlangt aber eine wirklich ueberzeugende Gelegenheit. Seit 06:10 hat Bitcoin nochmal deutlich zugelegt (77.000 -> 80.227 USD), was die Ueberkauft-These eher verstaerkt als abschwaecht: RSI ~86 auf Tagesbasis, 4h-RSI laut Quellen bei ueber 90 - ein Kauf jetzt waere reines Chasing einer bereits ueberhitzten, 22%-starken Rally kurz vor der ersten Jackson-Hole-Keynote von Fed-Chef Warsh (28.08.), die als naechster echter Katalysator ansteht. Aktien/ETFs/Rohstoffe sind vor Xetra-Eroeffnung (9:00 MESZ) ohnehin nicht handelbar. Keine offenen Positionen vorhanden, die verkauft werden koennten. Keine Ausschlussliste betroffen.",
+    "marketOverview": "Dienstag, 08:20 MESZ: Xetra oeffnet erst um 9:00 MESZ, Aktien/ETFs/Rohstoffe weiterhin nicht handelbar. Bitcoin ist von seinem Frueh-Hoch bei ca. 80.227 USD wieder leicht auf ca. 78.000-79.000 USD zurueckgekommen (Tagesabstand zur 80.000-Marke), nach der 22%-Wochenrallye und einem RSI von zuletzt ~86 (staerkstes Ueberkauft-Signal seit fast zwei Jahren). US-Futures kaum veraendert (Dow flach, S&P +0,07%, Nasdaq +0,2%) nach einem schwachen Vortag mit Chip-Aktien-Schwaeche (Micron -5,8%, AMD/Broadcom -3% bzw. -2%); Anleger bleiben vorsichtig vor Nvidia-Zahlen und wichtigen Inflationsdaten sowie dem Jackson-Hole-Symposium (27.-29.08., Warsh-Keynote Freitag).",
+    "decision": "Tagesbudget-Gutschrift fuer den 25.08. bereits im ersten Lauf um 00:11 erfolgt (freies Kapital weiterhin ca. 20.960,66 EUR). Auch im neunten Lauf um 08:20 kein Trade: Bitcoin hat sich zwar leicht von seinem Hoch (80.227 USD) auf 78.000-79.000 USD zurueckgezogen, bleibt aber nach der starken Rally und dem extrem ueberkauften RSI (~86) ohne bestaetigten neuen Einstiegspunkt - ein Kauf jetzt waere weder ein Dip noch ein bestaetigter Ausbruch. Xetra oeffnet erst um 9:00 MESZ, Aktien/ETFs/Rohstoffe daher weiterhin nicht handelbar. Keine offenen Positionen im Depot.",
+    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Zocken, verlangt aber eine wirklich ueberzeugende Gelegenheit. Die leichte Korrektur von Bitcoin (80.227 -> ~78.000-79.000 USD) ist eher ein Abkuehlen der extremen Ueberkauft-Lage als ein klarer Dip-Kauf-Ansatz; RSI bleibt auf Tagesbasis stark erhoeht, und der naechste echte Katalysator (Warsh-Keynote am 28.08.) steht noch aus. Aktien/ETFs/Rohstoffe sind vor Xetra-Eroeffnung (9:00 MESZ) ohnehin nicht handelbar. Keine offenen Positionen vorhanden, die verkauft werden koennten. Keine Ausschlussliste betroffen.",
     "positionIds": [],
     "portfolioValueEnd": 0,
     "updates": [
@@ -2307,6 +2307,11 @@
       {
         "time": "07:13",
         "note": "Keine Aenderung - Bitcoin naehert sich 80.000 USD (+3,18% seit Mitternacht, RSI ~86, staerkstes Ueberkauft-Signal seit fast zwei Jahren), SOL +6,24%; kein Einstieg auf einer derart ueberhitzten Rally kurz vor Jackson Hole, Aktien/ETFs/Rohstoffe vor Xetra-Eroeffnung (9:00 MESZ) nicht handelbar",
+        "portfolioValue": 0
+      },
+      {
+        "time": "08:20",
+        "note": "Keine Aenderung - Bitcoin von 80.227 USD leicht auf ~78.000-79.000 USD zurueckgekommen, RSI weiterhin stark ueberkauft; US-Futures kaum veraendert vor Nvidia-Zahlen/Inflationsdaten. Xetra oeffnet erst um 9:00 MESZ, kein ueberzeugender Trade-Kandidat",
         "portfolioValue": 0
       }
     ]
