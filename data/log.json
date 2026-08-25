@@ -2263,9 +2263,9 @@
   },
   {
     "date": "2026-08-25",
-    "marketOverview": "Dienstag, 17:14 MESZ: DAX weiterhin fest um 26.300-26.320 Punkte (+0,8%), US-Boersen leicht im Plus (Dow/S&P +0,4%, Nasdaq +0,7%) vor den Nvidia-Zahlen (Mittwoch nachboerslich) und Kevin Warshs erster Jackson-Hole-Rede (Freitag). Bitcoin bleibt bei ~79.000-80.900 USD tief ueberkauft (Tages-RSI ~84, Kurs klebt am oberen Bollinger-Band), Momentum haelt zwar an, aber ohne neuen Katalysator seit dem letzten Lauf. Keine frischen Sell-the-News-Einzeltitel-Kandidaten identifiziert; die diese Woche bereits bekannten Ausverkaeufe (Advance Auto Parts, Walmart, Chip-Sektor) sind laengst eingepreist.",
-    "decision": "Tagesbudget-Gutschrift fuer den 25.08. bereits im ersten Lauf um 00:11 erfolgt (freies Kapital weiterhin ca. 20.960,66 EUR). Auch im achtzehnten Lauf um 17:14 kein Trade: Bitcoin bleibt tief ueberkauft (RSI ~84) ohne neuen bestaetigten Ausbruch, DAX/US-Maerkte weiterhin fest, aber ohne frischen Einzeltitel-Katalysator vor Nvidia-Zahlen/Jackson Hole. Keine offenen Positionen aktuell (Depotwert 0 EUR), gesamtes freies Kapital bleibt mangels ueberzeugender Gelegenheit ungenutzt.",
-    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Bitcoin ist mit Tages-RSI ~84 und Kurs am oberen Bollinger-Band tief ueberkauft - ein Neueinstieg waere reines Chasing statt eines bestaetigten Setups. Bei Aktien/ETFs/Rohstoffen liegt weiterhin kein frischer Sell-the-News-Kandidat vor; die bekannten Ausverkaeufe der letzten Tage (Advance Auto Parts, Walmart, Chip-Sektor) sind bereits eingepreist und daher kein neues Setup. Keine der Positionen (aktuell keine offen) verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "marketOverview": "Dienstag, 18:15 MESZ: DAX weiterhin fest um 26.300 Punkte, US-Boersen leicht im Plus vor den Nvidia-Zahlen (Mittwoch nachboerslich), PCE-Daten und Kevin Warshs erster Jackson-Hole-Rede (Freitag). Bitcoin bleibt bei ~80.900 USD tief ueberkauft (Tages-RSI 84,01, Kurs direkt am oberen Bollinger-Band bei 81.103 USD), Momentum haelt an, aber ohne neuen Katalysator seit dem letzten Lauf. Keine frischen Sell-the-News-Einzeltitel-Kandidaten identifiziert (Marvell/Broadcom-Schwaeche vor eigenen Zahlen am 27.08. bereits bekannt, FactSet/Herc-Ausverkaeufe sind alte Q4-2025-Zahlen ohne aktuellen Bezug).",
+    "decision": "Tagesbudget-Gutschrift fuer den 25.08. bereits im ersten Lauf um 00:11 erfolgt (freies Kapital weiterhin ca. 20.960,66 EUR). Auch im neunzehnten Lauf um 18:15 kein Trade: Bitcoin bleibt tief ueberkauft (RSI 84,01) ohne neuen bestaetigten Ausbruch, DAX/US-Maerkte weiterhin fest, aber ohne frischen Einzeltitel-Katalysator vor Nvidia-Zahlen/Jackson Hole. Keine offenen Positionen aktuell (Depotwert 0 EUR), gesamtes freies Kapital bleibt mangels ueberzeugender Gelegenheit ungenutzt.",
+    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Bitcoin ist mit Tages-RSI 84,01 und Kurs direkt am oberen Bollinger-Band tief ueberkauft - ein Neueinstieg waere reines Chasing statt eines bestaetigten Setups. Bei Aktien/ETFs/Rohstoffen liegt weiterhin kein frischer Sell-the-News-Kandidat vor; Marvell/Broadcom-Schwaeche ist Vorlauf zu eigenen Zahlen (kein Overreaction-Setup), FactSet/Herc-Meldungen sind alte Q4-2025-Berichte ohne aktuellen Bezug. Keine der Positionen (aktuell keine offen) verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [],
     "portfolioValueEnd": 0,
     "updates": [
@@ -2357,6 +2357,11 @@
       {
         "time": "17:14",
         "note": "Keine Aenderung - Bitcoin weiterhin tief ueberkauft (RSI ~84) bei ~79.000-80.900 USD, DAX/US-Maerkte fest (~26.300 Punkte) vor Nvidia-Zahlen/Jackson Hole, keine frischen Sell-the-News-Kandidaten - kein neuer Katalysator, kein Trade",
+        "portfolioValue": 0
+      },
+      {
+        "time": "18:15",
+        "note": "Keine Aenderung - Bitcoin weiterhin tief ueberkauft (RSI 84,01) direkt am oberen Bollinger-Band bei ~80.900 USD, DAX/US-Maerkte fest vor Nvidia-Zahlen/Jackson Hole, Marvell/Broadcom-Schwaeche vor eigenen Zahlen kein Kaufsetup - kein neuer Katalysator, kein Trade",
         "portfolioValue": 0
       }
     ]
