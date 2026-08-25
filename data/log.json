@@ -2390,5 +2390,20 @@
         "portfolioValue": 0
       }
     ]
+  },
+  {
+    "date": "2026-08-26",
+    "marketOverview": "Mittwoch kurz nach Mitternacht (00:10 MESZ): US-Boersen und Xetra seit 10 Minuten geschlossen, daher Aktien/ETFs/Rohstoffe aktuell nicht handelbar. Bitcoin ist nach dem Erreichen eines mehrmonatigen Hochs von ueber 81.200 USD wieder unter die 80.000-USD-Marke auf ca. 79.250 USD zurueckgefallen, Tages-RSI bleibt mit 82,44 tief ueberkauft, Fear&Greed-Index bei 74 (Gier). Der Gesamtmarkt (2,73 Bio. USD) bleibt nach der groessten 3-Tages-Rally seit 2023 (+22% binnen einer Woche) ueberhitzt. Diese Woche stehen Nvidia-Zahlen und das Fed-Jackson-Hole-Symposium (27.-29.08., erste Rede von Fed-Chef Warsh) im Fokus; die 30-jaehrige US-Staatsanleiherendite ist auf den hoechsten Stand seit 2007 gestiegen, was Aktien- und Risikoassets unter Druck setzt.",
+    "decision": "Tagesbudget-Gutschrift fuer den 26.08. im ersten Lauf um 00:10 erfolgt (freies Kapital jetzt ca. 21.960,66 EUR). Kein Trade: Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten nicht handelbar, Krypto bleibt trotz Ruecksetzer unter 80.000 USD tief ueberkauft (RSI 82,44) ohne neuen Katalysator seit dem letzten Lauf des Vortags - kein ueberzeugendes Setup. Keine offenen Positionen im Depot (Depotwert 0 EUR).",
+    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Bitcoin fiel zwar vom Tageshoch (~81.200 USD) auf ~79.250 USD zurueck, das RSI von 82,44 zeigt aber weiterhin ein extrem ueberhitztes Marktumfeld nach einer 22%-Rally binnen einer Woche - ein Neueinstieg jetzt waere reines Chasing ohne fundamentale Bestaetigung. Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten ohnehin nicht handelbar. Daher wird das gesamte freie Kapital vorerst nicht investiert.",
+    "positionIds": [],
+    "portfolioValueEnd": 0,
+    "updates": [
+      {
+        "time": "00:10",
+        "note": "Keine Aenderung; Tagesbudget gutgeschrieben, Bitcoin ~79.250 USD nach Ruecksetzer von 81.200 USD weiterhin tief ueberkauft (RSI 82,44), Boersen geschlossen - kein Trade",
+        "portfolioValue": 0
+      }
+    ]
   }
 ]
