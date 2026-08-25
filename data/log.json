@@ -2263,9 +2263,9 @@
   },
   {
     "date": "2026-08-25",
-    "marketOverview": "Dienstag, 11:11 MESZ: DAX weiterhin bei ca. 26.137 Punkten seitwaerts, Xetra ohne klaren Impuls. Bitcoin sprang am Vormittag erstmals seit gut drei Monaten ueber die 80.000-USD-Marke (aktuell ca. 80.500-80.900 USD, +~2% in 24h) im Rahmen der staerksten Drei-Tages-Rally seit 2023 - Tages-RSI aber bei extremen 84, Fear&Greed bei 74 (Gier). Nasdaq-Futures nahezu unveraendert, Wall Street bleibt vorsichtig vor den Nvidia-Zahlen (Mittwoch nach Boersenschluss) und Jackson Hole (27.-29.08., Warsh-Keynote Freitag).",
-    "decision": "Tagesbudget-Gutschrift fuer den 25.08. bereits im ersten Lauf um 00:11 erfolgt (freies Kapital weiterhin ca. 20.960,66 EUR). Auch im zwoelften Lauf um 11:11 kein Trade: Bitcoin hat zwar die psychologisch wichtige 80.000-USD-Marke durchbrochen, der Tages-RSI von 84 signalisiert aber eine der extremsten Ueberkauft-Situationen des Zyklus - ein Einstieg hier waere reines Chasing eines bereits weit gelaufenen Momentums statt ein bestaetigter neuer Ausbruch aus einer Konsolidierung. DAX bewegt sich weiter richtungslos seitwaerts ohne Einzeltitel-Kandidaten, US-Maerkte vor Nvidia-Zahlen/Jackson Hole in Risikoabbau-Modus. Keine offenen Positionen im Depot.",
-    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Zocken, verlangt aber eine wirklich ueberzeugende Gelegenheit. Der Bitcoin-Ausbruch ueber 80.000 USD ist zwar bestaetigt (mehrere unabhaengige Quellen, groesste Drei-Tages-Rally seit 2023), aber bei einem Tages-RSI von 84 (Bollinger-Oberband bereits erreicht) ist die Wahrscheinlichkeit eines kurzfristigen Ruecksetzers hoch - ein Kauf jetzt widerspricht dem bisher etablierten, erfolgreichen Muster (Einstieg bei Dips/frischen Ausbruechen, nicht bei RSI>80). DAX und Gold bieten ebenfalls kein neues Setup. Keine offenen Positionen vorhanden, die verkauft werden koennten. Keine Ausschlussliste betroffen.",
+    "marketOverview": "Dienstag, 12:12 MESZ: DAX leicht fester bei ca. 26.338-26.387 Punkten (Tageshoch), weiterhin ohne klaren Einzeltitel-Katalysator. Bitcoin haelt sich bei ca. 80.523 USD (+1,95% 24h, Tagesspanne 78.554-81.241 USD) nach der staerksten Drei-Tages-Rally seit 2023 - weiterhin tief ueberkauft (RSI ~84), kein frischer Ausbruch seit dem 11:11-Lauf. Gold seit dem eigenen Verkauf (21.08.) weiter auf ca. 4.593-4.630 USD/oz gestiegen. US-Maerkte bleiben vorsichtig vor den Nvidia-Zahlen (Mittwoch nach Boersenschluss) und der Jackson-Hole-Konferenz (27.-29.08., Warsh-Keynote Freitag); Montag fiel der Nasdaq 100 bereits -1% auf Chip-Schwaeche.",
+    "decision": "Tagesbudget-Gutschrift fuer den 25.08. bereits im ersten Lauf um 00:11 erfolgt (freies Kapital weiterhin ca. 20.960,66 EUR). Auch im dreizehnten Lauf um 12:12 kein Trade: Bitcoin notiert nahezu unveraendert zum 11:11-Lauf (~80.500 USD) und bleibt bei RSI ~84 tief ueberkauft - kein neuer Ausbruch, der ein Verfolgen rechtfertigen wuerde. DAX bewegt sich weiter seitwaerts ohne Einzeltitel-Kandidaten, Gold wurde bereits gewinnbringend verkauft und wird trotz weiterer Kursgewinne nicht zurueckgekauft (Chasing vermieden). Keine offenen Positionen im Depot.",
+    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Zocken, verlangt aber eine wirklich ueberzeugende Gelegenheit. Seit dem letzten Lauf (11:11) hat sich an der Marktlage nichts Wesentliches veraendert: Bitcoin bleibt bei extremem RSI ueberkauft, ein Einstieg jetzt waere reines Chasing. DAX und Gold bieten kein neues Setup, keine Einzeltitel-Meldung (Sell-the-News-Dip o.ae.) mit ueberzeugendem Rueckschlag-Potenzial wurde gefunden. Keine offenen Positionen vorhanden, die verkauft werden koennten. Keine Ausschlussliste betroffen.",
     "positionIds": [],
     "portfolioValueEnd": 0,
     "updates": [
@@ -2327,6 +2327,11 @@
       {
         "time": "11:11",
         "note": "Keine Aenderung - Bitcoin durchbricht 80.000 USD (staerkste Drei-Tages-Rally seit 2023), aber Tages-RSI bei extremen 84 (Bollinger-Oberband erreicht) - Chasing vermieden. DAX weiter seitwaerts bei 26.137, US-Maerkte vor Nvidia-Zahlen/Jackson Hole vorsichtig",
+        "portfolioValue": 0
+      },
+      {
+        "time": "12:12",
+        "note": "Keine Aenderung - Bitcoin nahezu unveraendert bei ~80.500 USD (weiterhin RSI ~84, ueberkauft), DAX leicht fester (~26.338-26.387 Punkte) ohne Kandidat, Gold seit Verkauf weiter auf ~4.593-4.630 USD gestiegen (Chasing vermieden). Kein neuer Katalysator seit 11:11, kein Trade",
         "portfolioValue": 0
       }
     ]
