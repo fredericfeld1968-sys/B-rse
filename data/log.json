@@ -2263,9 +2263,9 @@
   },
   {
     "date": "2026-08-25",
-    "marketOverview": "Dienstag, 09:15 MESZ: Xetra ist seit 9:00 MESZ geoffnet, DAX handelt jedoch richtungslos leicht schwaecher (~26.070-26.115 Punkte, -0,1 bis -0,3%) ohne klaren Kaufimpuls. Gold ist seit unserem Ausstieg (4.589,39 USD am 21.08.) weiter kraeftig auf ca. 4.645 USD/oz gestiegen (+0,77% zum Vortag) - ein Wiedereinstieg waere Chasing statt Dip-Kauf. Bitcoin haelt sich weiterhin bei ca. 78.000-79.000 USD nach der 22%-Wochenrallye, RSI bleibt mit ~86 tief ueberkauft. US-Futures leicht positiv (S&P +0,2%, Nasdaq +0,5%) vor Nvidia-Zahlen und Inflationsdaten diese Woche sowie dem Jackson-Hole-Symposium (27.-29.08., Warsh-Keynote Freitag); Nahost-Spannungen (US-Druck auf Iran-Handelspartner) bleiben im Hintergrund.",
-    "decision": "Tagesbudget-Gutschrift fuer den 25.08. bereits im ersten Lauf um 00:11 erfolgt (freies Kapital weiterhin ca. 20.960,66 EUR). Auch im zehnten Lauf um 09:15 kein Trade: Xetra ist zwar seit 9:00 MESZ offen, der DAX bewegt sich aber richtungslos leicht im Minus ohne ueberzeugenden Einzeltitel-Kandidaten. Gold ist seit unserem Verkauf weiter deutlich gestiegen (4.589 -> 4.645 USD) - ein Wiedereinstieg jetzt waere reines Chasing. Bitcoin bleibt nach der starken Rally tief ueberkauft (RSI ~86) ohne bestaetigten neuen Einstiegspunkt. Keine offenen Positionen im Depot.",
-    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Zocken, verlangt aber eine wirklich ueberzeugende Gelegenheit. Weder der richtungslose DAX-Handelsstart noch das bereits weit gelaufene Gold noch der tief ueberkaufte Kryptomarkt bieten ein bestaetigtes Setup (Dip mit intakten Fundamentaldaten oder bestaetigter Ausbruch); der naechste echte Katalysator (Warsh-Keynote am 28.08., Nvidia-Zahlen) steht noch aus. Keine offenen Positionen vorhanden, die verkauft werden koennten. Keine Ausschlussliste betroffen.",
+    "marketOverview": "Dienstag, 10:12 MESZ: DAX hat sich bei ca. 26.137 Punkten stabilisiert (unveraendert, +0,0%), Xetra seit 9:00 MESZ offen aber ohne klaren Impuls. Gold ist seit unserem Ausstieg (4.589,39 USD am 21.08.) weiter kraeftig auf ca. 4.645 USD/oz gestiegen - ein Wiedereinstieg waere Chasing statt Dip-Kauf. Bitcoin prallte an der 80.000-USD-Marke ab und haelt sich bei ca. 78.000-79.000 USD nach der 22%-Wochenrallye, weiterhin tief ueberkauft. US-Tech verlor gestern auf Chip-Schwaeche (Nasdaq -0,76%) vor den Nvidia-Zahlen am Mittwoch, Investoren nehmen vorsichtig Risiko vom Tisch vor dem Jackson-Hole-Symposium (27.-29.08., Warsh-Keynote Freitag) und den PCE-Inflationsdaten am Mittwoch.",
+    "decision": "Tagesbudget-Gutschrift fuer den 25.08. bereits im ersten Lauf um 00:11 erfolgt (freies Kapital weiterhin ca. 20.960,66 EUR). Auch im elften Lauf um 10:12 kein Trade: DAX bewegt sich richtungslos seitwaerts ohne ueberzeugenden Einzeltitel-Kandidaten, US-Tech ist vor den Nvidia-Zahlen und Jackson Hole in Risikoabbau-Modus. Gold ist seit unserem Verkauf weiter deutlich gestiegen (4.589 -> 4.645 USD) - ein Wiedereinstieg jetzt waere reines Chasing. Bitcoin bleibt nach der starken Rally und dem Abpraller an 80.000 USD tief ueberkauft ohne bestaetigten neuen Einstiegspunkt. Keine offenen Positionen im Depot.",
+    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Zocken, verlangt aber eine wirklich ueberzeugende Gelegenheit. Weder der richtungslose DAX noch das bereits weit gelaufene Gold noch der tief ueberkaufte Kryptomarkt bieten ein bestaetigtes Setup (Dip mit intakten Fundamentaldaten oder bestaetigter Ausbruch); vor den Nvidia-Zahlen (Mi.) und der Warsh-Keynote (Fr.) bleiben viele Marktteilnehmer bewusst abwartend, ein verfrueher Einstieg waere kein 'wirklich ueberzeugendes' Setup. Keine offenen Positionen vorhanden, die verkauft werden koennten. Keine Ausschlussliste betroffen.",
     "positionIds": [],
     "portfolioValueEnd": 0,
     "updates": [
@@ -2317,6 +2317,11 @@
       {
         "time": "09:15",
         "note": "Keine Aenderung - Xetra seit 9:00 MESZ offen, DAX richtungslos leicht schwaecher (~26.070-26.115 Punkte) ohne Kandidat; Gold seit Verkauf weiter auf ~4.645 USD gestiegen (Chasing vermieden); Bitcoin weiterhin tief ueberkauft (RSI ~86)",
+        "portfolioValue": 0
+      },
+      {
+        "time": "10:12",
+        "note": "Keine Aenderung - DAX hat sich auf ~26.137 Punkte stabilisiert (unveraendert), aber ohne klaren Kaufimpuls vor Jackson Hole; US-Tech verlor gestern auf Chip-Schwaeche vor den Nvidia-Zahlen am Mittwoch (Nasdaq -0,76%), Investoren nehmen Risiko vom Tisch. Bitcoin nach Abpraller an der 80.000-USD-Marke bei ~78.000-79.000 USD weiterhin tief ueberkauft - kein ueberzeugender Trade-Kandidat",
         "portfolioValue": 0
       }
     ]
