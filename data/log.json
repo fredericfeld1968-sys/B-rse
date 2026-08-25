@@ -2263,9 +2263,9 @@
   },
   {
     "date": "2026-08-25",
-    "marketOverview": "Dienstag, 15:20 MESZ: DAX notiert weiter fest bei ca. 26.222 Punkten (+0,44%), Top-Performer Daimler Truck/Beiersdorf/BASF, Flop-Performer Qiagen/Infineon/Siemens Energy - breite Erholung ohne klaren Einzeltitel-Kandidaten. Bitcoin pendelt bei ca. 79.000-81.000 USD (Tageshoch 81.023 USD) nach der staerksten Drei-Tages-Rally seit 2023, weiterhin tief ueberkauft (RSI ~84). US-Chipwerte (Micron -5,8%, AMD/Broadcom -3% bzw. -2%) belasteten den Nasdaq am Montag - eine bereits bekannte, nicht mehr frische Entwicklung vor den Nvidia-Zahlen (Mittwoch) und Jackson Hole (Freitag). Oelpreis (WTI) faellt um ca. 1,6% auf 85,65 USD vor Details zu neuen US-Iran-Sanktionen.",
-    "decision": "Tagesbudget-Gutschrift fuer den 25.08. bereits im ersten Lauf um 00:11 erfolgt (freies Kapital weiterhin ca. 20.960,66 EUR). Auch im sechzehnten Lauf um 15:20 kein Trade: Bitcoin bleibt tief ueberkauft (RSI ~84) - kein neuer bestaetigter Ausbruch. DAX legt zwar weiter zu, aber ohne frischen Einzeltitel-Katalysator; der Chip-Ausverkauf vom Montag (AMD, Micron, Broadcom) ist bereits eingepreist und kein aktueller Sell-the-News-Kandidaten fuer diesen Lauf. Keine offenen Positionen im Depot.",
-    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Zocken, verlangt aber eine wirklich ueberzeugende Gelegenheit. Seit dem letzten Lauf (14:24) hat sich an der Marktlage nichts Wesentliches veraendert: Bitcoin bleibt bei extremem RSI ueberkauft, ein Einstieg jetzt waere reines Chasing. DAX bietet kein neues Setup, der bereits am Montag erfolgte Chip-Ausverkauf ist keine frische Gelegenheit mehr fuer einen Dip-Kauf. Keine offenen Positionen vorhanden, die verkauft werden koennten. Keine Ausschlussliste betroffen.",
+    "marketOverview": "Dienstag, 16:17 MESZ: DAX weiterhin fest um 26.194-26.258 Punkte, Top-Performer Daimler Truck/Beiersdorf/BASF - breite Erholung ohne frischen Einzeltitel-Kandidaten. US-Boersen leicht im Plus (Dow/S&P +0,4%, Nasdaq +0,7%) vor den Nvidia-Zahlen (Mittwoch) und Kevin Warshs erster Jackson-Hole-Rede als Fed-Chef (Freitag); Handelsspannungen mit Kanada/Iran werden vom Markt weggesteckt. Bitcoin pendelt weiter bei ca. 79.000-80.500 USD, weiterhin tief ueberkauft (RSI ~84) nach der staerksten Drei-Tages-Rally seit 2023. Gold auf 3-Monats-Hoch (~4.630-4.700 USD/oz), Oel (WTI) bei ca. 85,18 USD. Walmart/Advance Auto Parts-Kurseinbrueche und der Chip-Ausverkauf (Micron, AMD, Broadcom) sind bereits mehrere Tage alte, eingepreiste Entwicklungen, kein frischer Sell-the-News-Kandidat.",
+    "decision": "Tagesbudget-Gutschrift fuer den 25.08. bereits im ersten Lauf um 00:11 erfolgt (freies Kapital weiterhin ca. 20.960,66 EUR). Auch im siebzehnten Lauf um 16:17 kein Trade: Bitcoin bleibt tief ueberkauft (RSI ~84) - kein neuer bestaetigter Ausbruch. DAX/US-Maerkte legen zwar weiter zu, aber ohne frischen Einzeltitel-Katalysator vor Nvidia-Zahlen/Jackson Hole; Gold bereits auf 3-Monats-Hoch (Chasing vermieden), Chip-Ausverkauf und Walmart-Einbruch sind bereits bekannte, eingepreiste Entwicklungen. Keine offenen Positionen im Depot.",
+    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Zocken, verlangt aber eine wirklich ueberzeugende Gelegenheit. Seit dem letzten Lauf (15:20) hat sich an der Marktlage nichts Wesentliches veraendert: Bitcoin bleibt bei extremem RSI ueberkauft, ein Einstieg jetzt waere reines Chasing. DAX/US-Maerkte bieten kein neues Setup, Gold ist bereits auf Mehrmonatshoch gelaufen. Keine offenen Positionen vorhanden, die verkauft werden koennten. Keine Ausschlussliste betroffen.",
     "positionIds": [],
     "portfolioValueEnd": 0,
     "updates": [
@@ -2347,6 +2347,11 @@
       {
         "time": "15:20",
         "note": "Keine Aenderung - Bitcoin ~79.000-81.000 USD weiterhin tief ueberkauft (RSI ~84), DAX fest bei ~26.222 Punkten (+0,44%); Montags-Chipausverkauf (AMD/Micron/Broadcom) bereits bekannt und kein frischer Kandidat, kein neuer Katalysator seit 14:24, kein Trade",
+        "portfolioValue": 0
+      },
+      {
+        "time": "16:17",
+        "note": "Keine Aenderung - Bitcoin weiterhin tief ueberkauft (RSI ~84) bei ~79.000-80.500 USD, DAX/US-Maerkte fest vor Nvidia-Zahlen/Jackson Hole, Gold auf 3-Monats-Hoch (Chasing vermieden), Chip-Ausverkauf/Walmart-Einbruch bereits eingepreist - kein neuer Katalysator, kein Trade",
         "portfolioValue": 0
       }
     ]
