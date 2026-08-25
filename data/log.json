@@ -2263,9 +2263,9 @@
   },
   {
     "date": "2026-08-25",
-    "marketOverview": "Dienstag, 22:10 MESZ: US-Boersen soeben geschlossen (S&P 500 +0,41%, Nasdaq +0,68%, Dow +0,22%), Xetra bereits seit dem Nachmittag zu. Bitcoin kletterte im Tagesverlauf erstmals seit Mitte Mai ueber 80.000 USD (Tageshoch ca. 81.250 USD, +25% in 7 Tagen, groesste 3-Tages-Rally seit 2023, ausgeloest durch eine verdoppelte US-Anleihe-Rueckkaufoperation und einen Short-Squeeze), Tages-RSI bleibt mit 82-84 tief ueberkauft, aktuell Ruecksetzer auf ca. 79.000-79.250 USD. Solana und weitere Altcoins (Stacks +16%, Polygon +12%) ebenfalls stark gelaufen und ueberhitzt. Gesamtmarktkapitalisierung 2,75 Billionen USD (+2% 24h).",
-    "decision": "Tagesbudget-Gutschrift fuer den 25.08. bereits im ersten Lauf um 00:11 erfolgt (freies Kapital weiterhin ca. 20.960,66 EUR). Auch im 23. Lauf um 22:10 kein Trade: US-Boersen gerade geschlossen, Xetra ohnehin zu - Aktien/ETFs/Rohstoffe nicht handelbar; Bitcoin/Solana bleiben trotz starkem Momentum tief ueberkauft (RSI 82-84) ohne neuen bestaetigten Ausbruch ueber das Tageshoch, ein Einstieg jetzt waere reines Chasing nach einer bereits 25%-Rally. Keine offenen Positionen aktuell (Depotwert 0 EUR), gesamtes freies Kapital bleibt mangels ueberzeugender Gelegenheit ungenutzt.",
-    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Bitcoin ist mit Tages-RSI 82-84 nach einer 25%-Rally binnen 7 Tagen tief ueberkauft - ein Neueinstieg jetzt waere reines Verfolgen einer bereits weit gelaufenen Bewegung statt eines bestaetigten Setups mit gutem Chance-Risiko-Verhaeltnis; Solana/Altcoins ebenfalls ueberhitzt. Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten (US-Boerse geschlossen seit 22:00 MESZ, Xetra seit Nachmittag) ohnehin nicht handelbar. Keine der Positionen (aktuell keine offen) verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "marketOverview": "Dienstag spaet abends, 23:13 MESZ: US-Boersen und Xetra seit Stunden geschlossen. Bitcoin wurde im Tagesverlauf bei rund 81.000 USD abgewiesen (50-Wochen-Durchschnitt als Deckel) und pendelt aktuell um ca. 79.000-79.250 USD, weiterhin +25% in 7 Tagen (groesste 3-Tages-Rally seit 2023). Tages-RSI bleibt mit 82-84 tief ueberkauft, CryptoQuant Bull-Score von 30 auf 80 gesprungen. Bitcoin-ETFs verzeichnen den siebten Tag in Folge Zufluesse (>1,9 Mrd. USD), Solana und weitere Altcoins (Stacks, Polygon) ebenfalls stark gelaufen und ueberhitzt. Gesamtmarktkapitalisierung ca. 2,75 Billionen USD.",
+    "decision": "Tagesbudget-Gutschrift fuer den 25.08. bereits im ersten Lauf um 00:11 erfolgt (freies Kapital weiterhin ca. 20.960,66 EUR). Auch im 24. Lauf um 23:13 kein Trade: US-Boersen/Xetra weiterhin geschlossen - Aktien/ETFs/Rohstoffe nicht handelbar; Bitcoin wurde heute bereits bei ~81.000 USD abgewiesen und bleibt trotz starkem Momentum tief ueberkauft (RSI 82-84) ohne neuen bestaetigten Ausbruch ueber das Tageshoch, ein Einstieg jetzt waere reines Chasing nach einer bereits 25%-Rally und einer bestaetigten Abweisung am Widerstand. Keine offenen Positionen aktuell (Depotwert 0 EUR), gesamtes freies Kapital bleibt mangels ueberzeugender Gelegenheit ungenutzt.",
+    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Bitcoin ist mit Tages-RSI 82-84 nach einer 25%-Rally binnen 7 Tagen tief ueberkauft und wurde am 50-Wochen-Durchschnitt bei ~81.000 USD bereits abgewiesen - ein Neueinstieg jetzt waere reines Verfolgen einer bereits weit gelaufenen und gerade zurueckgewiesenen Bewegung statt eines bestaetigten Setups mit gutem Chance-Risiko-Verhaeltnis; Solana/Altcoins ebenfalls ueberhitzt. Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten (US-Boerse und Xetra seit Stunden geschlossen) ohnehin nicht handelbar. Keine der Positionen (aktuell keine offen) verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [],
     "portfolioValueEnd": 0,
     "updates": [
@@ -2382,6 +2382,11 @@
       {
         "time": "22:10",
         "note": "Keine Aenderung; US-Boerse soeben geschlossen (22:00 MESZ), Xetra seit Nachmittag zu. Bitcoin kurzzeitig ueber 80.000 USD (Tageshoch ~81.250 USD, +25% in 7 Tagen), RSI weiterhin 82-84 tief ueberkauft - kein neuer Kauf, reines Chasing waere kein ueberzeugendes Setup",
+        "portfolioValue": 0
+      },
+      {
+        "time": "23:13",
+        "note": "Keine Aenderung; Boersen weiterhin geschlossen. Bitcoin bei ~81.000 USD (50-Wochen-Durchschnitt) abgewiesen, pendelt um 79.000-79.250 USD, RSI weiterhin 82-84 tief ueberkauft, ETF-Zufluesse 7. Tag in Folge - kein neuer Kauf",
         "portfolioValue": 0
       }
     ]
