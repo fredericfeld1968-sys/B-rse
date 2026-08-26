@@ -2394,7 +2394,7 @@
   {
     "date": "2026-08-26",
     "marketOverview": "Spaeter Nachmittag/frueher Abend (Stand 18:15 MESZ): US-Indizes verharren in enger Handelsspanne vor den Nvidia-Zahlen (S&P 500 ca. -0,12%, Dow ca. -0,08%, Nasdaq ca. -0,16%, Russell 2000 dagegen +0,5%) - PCE-Reaktion bleibt insgesamt marginal. Nvidia, Salesforce, CrowdStrike, HP und Okta berichten weiterhin erst nach US-Handelsschluss (nach 22:00 MESZ). Einzelbewegungen des Tages sind bereits weit gelaufen (Abercrombie & Fitch +29% nach starken Zahlen, SolarEdge +8,3% nach UBS-Upgrade) oder echte Verfehlungen ohne Ueberreaktions-Charakter (Zoom -6,2% nach schwacher Guidance, Kohl's -4,7% nach enttaeuschenden Comps, Moderna -5% als Ruecksetzer von einer bereits abgeschlossenen 150%-Rally). Bitcoin haelt sich bei ca. 78.500-79.000 USD, Solana bei ca. 97 USD - beide nach der starken Wochenrally weiterhin tief ueberkauft (RSI 80-84 bzw. 84-88), Gesamtmarkt nimmt nach einer Woche mit +23% Gewinne mit.",
-    "decision": "Tagesbudget-Gutschrift fuer den 26.08. bereits erfolgt (freies Kapital weiterhin ca. 21.960,66 EUR, vollstaendig ungenutzt). Auch im 19. Lauf des Tages (18:15) kein Trade: kein neues Einzeltitel-Setup seit dem 17:14-Lauf gefunden, alle heutigen grossen Kursbewegungen sind entweder bereits weit gelaufen (ANF, SolarEdge) oder echte fundamentale Verfehlungen ohne Ueberreaktungscharakter (Zoom, Kohl's). Krypto bleibt tief ueberkauft. Wartet weiterhin auf die Nvidia-Zahlen heute Abend als moeglichen Katalysator fuer einen spaeteren Lauf.",
+    "decision": "Tagesbudget-Gutschrift fuer den 26.08. bereits erfolgt (freies Kapital weiterhin ca. 21.960,66 EUR, vollstaendig ungenutzt). Auch im 20. Lauf des Tages (19:08) kein Trade: US-Handel laeuft noch, keine neue Einzeltitel-Sondersituation seit dem 18:15-Lauf gefunden, Krypto bleibt tief ueberkauft. Wartet weiterhin auf die Nvidia-Zahlen nach Handelsschluss (22:00 MESZ) als moeglichen Katalysator fuer einen spaeteren Lauf.",
     "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Ein Nachkauf bei ANF oder SolarEdge waere reines Verfolgen einer bereits abgeschlossenen Bewegung ohne Sicherheitsmarge; Zoom/Kohl's sind echte Guidance-/Umsatzverfehlungen (analog Rheinmetall/AppLovin), kein Sell-the-news-Ueberreaktionsmuster wie bei AMD/SpaceX/Palantir. Krypto (Bitcoin RSI ~80-84, Solana RSI ~84-88) bleibt nach +23% Wochenrally zu ueberhitzt fuer einen Neueinstieg. Der grosse Volatilitaetskatalysator (Nvidia-Zahlen) steht erst nach 22:00 MESZ an - ein Einstieg unmittelbar davor waere reine Wette ohne Informationsvorteil. Keine der Positionen (aktuell keine offenen) verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [],
     "portfolioValueEnd": 0,
@@ -2492,6 +2492,11 @@
       {
         "time": "18:15",
         "note": "Keine Aenderung; Maerkte in enger Handelsspanne vor Nvidia-Zahlen (S&P/Dow/Nasdaq je ca. -0,1 bis -0,2%). ANF (+29%) und SolarEdge (+8,3%) bereits weit gelaufen, Zoom/Kohl's echte Verfehlungen - kein Dip-Kauf. Bitcoin/Solana weiterhin tief ueberkauft - kein Trade",
+        "portfolioValue": 0
+      },
+      {
+        "time": "19:08",
+        "note": "Keine Aenderung; US-Handel laeuft noch (NYSE schliesst 22:00 MESZ), Indizes weiterhin nahe Vortagesniveau mit leichtem Minus, keine neue Einzeltitel-Sondersituation seit 18:15. Nvidia/Salesforce/CrowdStrike/HP/Okta berichten erst nach Handelsschluss - ein Einstieg unmittelbar davor bliebe reine Wette ohne Informationsvorteil. Bitcoin (~78.500-80.000 USD) und Solana (~97 USD, -4% 24h) weiterhin ueberkauft nach der starken Wochenrally - kein Trade",
         "portfolioValue": 0
       }
     ]
