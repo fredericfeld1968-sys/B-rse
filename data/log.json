@@ -2393,9 +2393,9 @@
   },
   {
     "date": "2026-08-26",
-    "marketOverview": "Mittwoch, 06:11 MESZ: US-Boersen und Xetra weiterhin geschlossen, Aktien/ETFs/Rohstoffe daher nicht handelbar. Bitcoin notiert bei ca. 77.700 USD (+0,7% 24h), nachdem der Kurs am Vortag kurzzeitig ueber 81.200 USD erreichte - erstmals seit Mitte Mai ueber der 80.000-USD-Marke. Der 14-Tage-RSI liegt weiterhin bei ~80,5, der Tages-RSI bei ~82,45 - damit bleibt Bitcoin auf allen relevanten Zeitebenen tief ueberkauft, was kurzfristiges Rueckschlagsrisiko signalisiert. Solana wird weiterhin von starken institutionellen ETF-Zufluessen gestuetzt (Bitwise-Solana-ETF ueber 1 Mrd. USD kumuliert), notiert aber bei ca. 75-76 USD ohne neuen kurzfristigen Preiskatalysator. Ethereum bei ca. 1.900-1.913 USD, insgesamt weiterhin schwach im Jahresverlauf (ETH -Abfluesse aus ETFs ueber weite Teile 2026). Kein neuer fundamentaler Katalysator seit dem 05:08-Lauf; Markt wartet weiterhin auf Nvidia-Zahlen (Mittwoch) und Fed-Chef Warshs Rede in Jackson Hole (Freitag).",
-    "decision": "Tagesbudget-Gutschrift fuer den 26.08. bereits im ersten Lauf um 00:10 erfolgt (freies Kapital weiterhin ca. 21.960,66 EUR). Auch im siebten Lauf des Tages (06:11) kein Trade: Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten nicht handelbar, und Bitcoin bleibt nach dem starken Short-Squeeze-Anstieg tief ueberkauft (RSI ~80-82) ohne neuen Katalysator - ein Einstieg waere reines Chasing, kein bestaetigtes Setup.",
-    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber laut Vorgabe eine wirklich ueberzeugende Gelegenheit. Bitcoin liegt weiterhin nahe seinem juengsten Hoch nach einem Short-Squeeze-getriebenen Anstieg von rund 22-25% in einer Woche - ein Neueinstieg auf diesem Niveau haette ein deutlich asymmetrisches Rueckschlagsrisiko bei tief ueberkauften Indikatoren auf allen Zeitebenen. Solana zeigt zwar strukturelle ETF-Zufluesse, aber keinen neuen kurzfristigen Preiskatalysator gegenueber dem letzten Lauf. Ethereum bleibt ohne klares Momentum. Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten ohnehin nicht handelbar. Keine der aktuell offenen Positionen (0 Stueck) verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "marketOverview": "Mittwoch, 07:17 MESZ: US-Boersen und Xetra weiterhin geschlossen (Xetra oeffnet erst um 9:00 MESZ), Aktien/ETFs/Rohstoffe daher nicht handelbar. Bitcoin notiert bei ca. 77.700 USD (+0,7% 24h), nach kurzzeitigem Ueberschreiten von 81.200 USD am Vortag - der 14-Tage-RSI liegt weiterhin bei ~80,5, der Tages-RSI bei ~82,45, damit bleibt Bitcoin auf allen relevanten Zeitebenen tief ueberkauft. US-Aktienfutures leicht schwaecher (Nasdaq-100-Futures -0,5%, S&P-500-Futures ebenfalls leicht im Minus) vor den mit Spannung erwarteten Nvidia-Quartalszahlen am Mittwochabend, die als Test fuer das gesamte KI-Handelsthema gelten. Asiatische Boersen leicht fester (MSCI Asia Pacific +0,3%), Oelpreis weiter ruecklaeufig. Kein neuer fundamentaler Krypto-Katalysator seit dem 06:11-Lauf.",
+    "decision": "Tagesbudget-Gutschrift fuer den 26.08. bereits im ersten Lauf um 00:10 erfolgt (freies Kapital weiterhin ca. 21.960,66 EUR). Auch im achten Lauf des Tages (07:17) kein Trade: Aktien/ETFs/Rohstoffe sind vor Xetra-Eroeffnung (9:00 MESZ) und US-Handelsstart weiterhin nicht handelbar, und Bitcoin bleibt nach dem starken Short-Squeeze-Anstieg tief ueberkauft (RSI ~80-82) ohne neuen Katalysator - ein Einstieg waere reines Chasing, kein bestaetigtes Setup.",
+    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber laut Vorgabe eine wirklich ueberzeugende Gelegenheit. Bitcoin liegt weiterhin nahe seinem juengsten Hoch nach einem Short-Squeeze-getriebenen Anstieg von rund 22-25% in einer Woche - ein Neueinstieg auf diesem Niveau haette ein deutlich asymmetrisches Rueckschlagsrisiko bei tief ueberkauften Indikatoren auf allen Zeitebenen. Aktien/ETFs/Rohstoffe sind vor Boerseneroeffnung ohnehin nicht handelbar; US-Futures signalisieren zudem vorsichtige Stimmung vor den Nvidia-Zahlen. Keine der aktuell offenen Positionen (0 Stueck) verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [],
     "portfolioValueEnd": 0,
     "updates": [
@@ -2432,6 +2432,11 @@
       {
         "time": "06:11",
         "note": "Keine Aenderung; Bitcoin ~77.700 USD nach Hoch bei 81.200 USD am Vortag weiterhin ueberkauft (14T-RSI ~80,5, Tages-RSI ~82,45), Solana ~75-76 USD mit ETF-Zufluessen aber ohne neuen Katalysator, Ethereum ~1.900-1.913 USD schwach; Boersen weiterhin geschlossen, kein Trade",
+        "portfolioValue": 0
+      },
+      {
+        "time": "07:17",
+        "note": "Keine Aenderung; Boersen (Aktien/ETFs/Rohstoffe) vor Xetra-Eroeffnung weiterhin nicht handelbar, US-Futures leicht schwaecher vor Nvidia-Zahlen. Bitcoin weiterhin RSI ~80-82 tief ueberkauft ohne neuen Katalysator - kein Trade",
         "portfolioValue": 0
       }
     ]
