@@ -2394,7 +2394,7 @@
   {
     "date": "2026-08-26",
     "marketOverview": "Nachmittags (Stand 14:30 MESZ): DAX notiert bei ca. 26.284-26.308 Punkten (+0,6-0,8%) im intakten Aufwaertstrend nahe dem Allzeithoch vom 12.08. (26.581 Punkte), angefuehrt von Deutscher Bank, Heidelberg Materials, QIAGEN - kein Einzeltitel-Ausverkauf oder ueberzeugender Dip erkennbar. US-Futures nahezu unveraendert vor PCE-Inflationsdaten und Nvidia-Zahlen (nach Handelsschluss, erwartet EPS 2,09 USD); NYSE oeffnet erst um 15:30 MESZ. Gold pullt von Dreimonatshoch knapp ueber 4.700 USD auf ca. 4.624-4.674 USD zurueck (-0,7%), Anleger warten auf PCE-Daten und Fed-Chef Warsh-Rede am Freitag (Jackson Hole). Bitcoin bleibt mit >80.000 USD (+25% Wochenplus nach US-Anleihe-Rueckkaufprogramm) extrem ueberhitzt, Solana pullt nach der Rally deutlich zurueck auf ~97,20 USD (-4,1% in 24h) bei weiterhin hohem RSI.",
-    "decision": "Tagesbudget-Gutschrift fuer den 26.08. bereits erfolgt (freies Kapital weiterhin ca. 21.960,66 EUR, vollstaendig ungenutzt). Auch im fuenfzehnten Lauf des Tages (14:30) kein Trade: DAX steigt breit ohne Einzeltitel-Dip/-Ausbruch, Gold korrigiert nur leicht vor PCE-Daten (kein Momentum-Setup), Bitcoin bleibt nach +25%-Wochenrally extrem ueberkauft und Solana trotz Ruecksetzer weiterhin erhoeht, US-Boerse vor Nvidia-Zahlen/PCE-Daten und NYSE-Oeffnung (15:30 MESZ) noch nicht regulaer handelbar - keine ueberzeugende Gelegenheit gefunden.",
+    "decision": "Tagesbudget-Gutschrift fuer den 26.08. bereits erfolgt (freies Kapital weiterhin ca. 21.960,66 EUR, vollstaendig ungenutzt). Auch im 16. Lauf des Tages (15:23) kein Trade: US-Futures warten gemischt auf PCE-Daten und Nvidia-Zahlen, NYSE noch nicht regulaer geoeffnet (ab 15:30 MESZ), Krypto bleibt nach der juengsten Rally ueberhitzt (Bitcoin >80.000 USD, Solana ~97 USD) - keine ueberzeugende Gelegenheit gefunden.",
     "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. DAX-Anstieg ist breit angetrieben (kein spezifischer Overreaction-Dip), Gold-Ruecksetzer ist marginal (-0,7%) und kein Ausbruchssignal, Krypto bleibt nach der starken Bitcoin-Rally (>80.000 USD, +25% Woche) extrem ueberhitzt - ein Neueinstieg waere reine Anschlusswette ohne Sicherheitsmarge, zumal der Nvidia-Volatilitaetskatalysator erst heute Abend ansteht. Aktien/ETFs an NYSE/Nasdaq sind vor 15:30 MESZ nicht handelbar. Keine der Positionen (aktuell keine offenen) verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [],
     "portfolioValueEnd": 0,
@@ -2472,6 +2472,11 @@
       {
         "time": "14:30",
         "note": "Keine Aenderung; DAX breit im Plus (~26.284-26.308 Punkte) ohne Einzeltitel-Katalysator, Gold pullt leicht auf ~4.624-4.674 USD vor PCE-Daten zurueck, Bitcoin nach +25%-Wochenrally weiterhin extrem ueberkauft, NYSE vor 15:30 MESZ noch nicht offen - kein Trade",
+        "portfolioValue": 0
+      },
+      {
+        "time": "15:23",
+        "note": "Keine Aenderung; US-Futures gemischt vor PCE-Inflationsdaten und Nvidia-Zahlen (nach Handelsschluss), NYSE oeffnet erst um 15:30 MESZ - noch kein regulaerer US-Handel. Bitcoin bleibt nach der Rally ueber 80.000 USD ueberhitzt, Solana weiterhin erhoeht nach Ruecksetzer auf ~97,20 USD. Keine neue ueberzeugende Gelegenheit seit dem 14:30-Lauf - kein Trade.",
         "portfolioValue": 0
       }
     ]
