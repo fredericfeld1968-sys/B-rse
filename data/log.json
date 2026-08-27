@@ -2524,8 +2524,8 @@
   {
     "date": "2026-08-27",
     "marketOverview": "Xetra ist seit 9:00 MESZ geoeffnet, DAX zeigt sich nach dem starken Vormonat (+5,78% MTD) freundlich-ruhig ohne grossen Ausschlag. Bitcoin bleibt stabil um ca. 79.000 USD, Solana konsolidiert nach der 25,8%-Wochenrally weiterhin tief ueberkauft (RSI ~84) um 94-96 USD. Nvidia lieferte nachboerslich einen Rekordumsatz (96,2 Mrd. USD, +106% YoY, Datacenter +117%) und starken Ausblick (108 Mrd. USD Guidance vs. 104,2 Mrd. erwartet), reagierte darauf aber mit einer sehr wechselhaften Kursbewegung (zunaechst -1%, dann kurzzeitig +4,7%, danach wieder Richtung Vortagesschluss) - kein klares, handelbares Signal. Jackson-Hole-Symposium laeuft, Warsh-Rede erst Freitag.",
-    "decision": "Kumulierte Tageszusammenfassung: Tagesbudget-Gutschrift fuer den 27.08. bereits im ersten Lauf (00:11) erfolgt (+1.000 EUR, freies Kapital ca. 22.960,66 EUR). Keine offenen Positionen im Depot. Auch im zehnten Lauf des Tages (09:17, kurz nach Xetra-Eroeffnung) kein Trade: Nvidia-Zahlen loesten eine widerspruechliche, whipsaw-artige Kursreaktion aus (kein klarer Dip-Kauf- oder Momentum-Ausbruch), Bitcoin konsolidiert weiter ohne Katalysator, Solana bleibt tief ueberkauft. Markt wartet erkennbar auf Warshs Jackson-Hole-Rede am Freitag.",
-    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Xetra ist seit 9:00 MESZ offen, damit waeren Aktien grundsaetzlich handelbar. Nvidias Zahlen waren zwar fundamental exzellent (Rekordumsatz, starke Guidance), die Marktreaktion war jedoch extrem widerspruechlich (verschiedene Quellen berichten von -1%, dann +4,7%, dann wieder rueckwaerts) - ein Einstieg jetzt waere reine Muenzwurf-Spekulation ohne belastbares Signal, anders als bei den erfolgreichen, eindeutig gerichteten Dip-Kaeufen (AMD, SpaceX, Palantir). Bitcoin liefert weiterhin keinen neuen Katalysator, Solana bleibt mit RSI ~84 tief ueberkauft. Keine der Ueberlegungen verstoesst gegen Ausschlusslisten; freies Kapital von ca. 22.960,66 EUR bleibt mangels ueberzeugender Gelegenheit ungenutzt.",
+    "decision": "Kumulierte Tageszusammenfassung: Tagesbudget-Gutschrift fuer den 27.08. bereits im ersten Lauf (00:11) erfolgt (+1.000 EUR, freies Kapital ca. 22.960,66 EUR). Keine offenen Positionen im Depot. Auch im elften Lauf des Tages (10:11) kein Trade: Nvidia-Reaktion bleibt uneinheitlich zwischen den Quellen, Bitcoin konsolidiert seitwaerts ohne Katalysator, Solana bleibt tief ueberkauft (RSI ~84). Markt wartet erkennbar auf Warshs Jackson-Hole-Rede am Freitag.",
+    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Xetra ist seit 9:00 MESZ offen, damit waeren Aktien grundsaetzlich handelbar. Nvidias Zahlen waren zwar fundamental exzellent (Rekordumsatz, starke Guidance), die Marktreaktion bleibt aber auch im 10:11-Lauf uneinheitlich (verschiedene Quellen zwischen -0,3% und +4%) - ein Einstieg jetzt waere reine Muenzwurf-Spekulation ohne belastbares Signal, anders als bei den erfolgreichen, eindeutig gerichteten Dip-Kaeufen (AMD, SpaceX, Palantir). Bitcoin liefert weiterhin keinen neuen Katalysator, Solana bleibt mit RSI ~84 tief ueberkauft nach der 25,8%-Wochenrally. Keine der Ueberlegungen verstoesst gegen Ausschlusslisten; freies Kapital von ca. 22.960,66 EUR bleibt mangels ueberzeugender Gelegenheit ungenutzt.",
     "positionIds": [],
     "portfolioValueEnd": 0,
     "updates": [
@@ -2577,6 +2577,11 @@
       {
         "time": "09:17",
         "note": "Keine Aenderung; Xetra seit 9:00 MESZ offen, aber kein Trade: Nvidia-Zahlen (Rekordumsatz 96,2 Mrd. USD) loesten widerspruechliche Kursreaktion aus (-1% dann +4,7% dann wieder zurueck) - kein klares Signal. Bitcoin stabil ~79.000 USD, Solana weiterhin tief ueberkauft (RSI ~84).",
+        "portfolioValue": 0
+      },
+      {
+        "time": "10:11",
+        "note": "Keine Aenderung; Nvidia-Reaktion bleibt widerspruechlich (verschiedene Quellen: -0,3% Premarket vs. +4% nachboerslich) - weiterhin kein belastbares Richtungssignal fuer einen Dip- oder Momentum-Kauf. Bitcoin ~78.760 USD leicht schwaecher (-0,1% 24h), Solana ~94,38 USD (RSI 84,3) weiterhin tief ueberkauft nach der 25,8%-Wochenrally. DAX konsolidiert nach starkem Vormonat um 26.300 Punkte ohne grossen Ausschlag. Kein ueberzeugendes Setup, daher kein Trade.",
         "portfolioValue": 0
       }
     ]
