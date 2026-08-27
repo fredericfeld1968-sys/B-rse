@@ -2524,7 +2524,7 @@
   {
     "date": "2026-08-27",
     "marketOverview": "Nasdaq-Rally nach starken Tech-Zahlen haelt an: S&P 500 +0,8%, Nasdaq Composite +1,5%, Dow +0,4%. Nvidia (NVDA) bestaetigte nach der regulaeren Eroeffnung ein Kursplus von rund +8% auf 227,49 USD (Rekordumsatz 96,2 Mrd. USD, FY28-Guidance +70%). Salesforce (CRM, +11,9% auf 252 USD) und CrowdStrike (CRWD, ~222 USD nahe Tageshoch) legten nach eigenen starken Quartalszahlen ebenfalls kraeftig zu, notieren aber beide bereits nahe ihrem Tageshoch - fuer einen Dip-/Breakout-Einstieg nach dem etablierten Muster (AMD, SpaceX, Palantir) zu weit gelaufen. Bitcoin konsolidiert nach der Rally der letzten Woche bei ~79.000 USD, Solana (~102 USD, +5,76%) bleibt trotz starkem Momentum tief ueberkauft (RSI 79-88). Xetra bereits seit 17:30 MESZ geschlossen.",
-    "decision": "Kauf NVDA 1000 EUR um 16:16 nach bestaetigtem Post-Earnings-Momentum (+7,5% nach Nasdaq-Eroeffnung). Seither Kurs zwischenzeitlich auf -4,2% zurueckgefallen, bis 19:09/20:11 auf -0,72% erholt (227,49 USD), im 21:14-Lauf kurz vor US-Handelsschluss leicht auf -1,39% (225,94 USD) zurueckgekommen - Position weiter gehalten, fundamentale These (Rekordumsatz, starke FY28-Guidance) intakt. Kein weiterer Kauf seit dem 20:11-Lauf: CRM/CRWD bereits zu weit gelaufen (nahe Tageshoch), Krypto (Bitcoin, Solana) weiterhin ohne ueberzeugenden neuen Katalysator bzw. tief ueberkauft.",
+    "decision": "Kauf NVDA 1000 EUR um 16:16 nach bestaetigtem Post-Earnings-Momentum (+7,5% nach Nasdaq-Eroeffnung). Seither Kurs zwischenzeitlich auf -4,2% zurueckgefallen, bis 19:09/20:11 auf -0,72% erholt (227,49 USD), im 21:14-Lauf kurz vor US-Handelsschluss leicht auf -1,39% (225,94 USD) zurueckgekommen - Position weiter gehalten, fundamentale These (Rekordumsatz, starke FY28-Guidance) intakt. Kein weiterer Kauf seit dem 20:11-Lauf: CRM/CRWD bereits zu weit gelaufen (nahe Tageshoch), Krypto (Bitcoin, Solana) weiterhin ohne ueberzeugenden neuen Katalysator bzw. tief ueberkauft. Im 22:12-Lauf (nach US-Handelsschluss) keine weitere Aenderung: NVDA-Position unveraendert bei -1,39% gehalten, Krypto (Bitcoin, Solana) weiterhin ohne ueberzeugenden neuen Katalysator bzw. tief ueberkauft.",
     "reasoning": "Risikoprofil 'spekulativ' mit erlaubtem kurzfristigem Trading: NVDA-Kauf folgte dem etablierten, bislang erfolgreichen Muster eines bestaetigten Post-Earnings-Momentum-Trades (analog Palantir +8,3%). Bei CRM und CRWD fehlt trotz starker Zahlen ein guenstiger Einstiegspunkt - beide notieren bereits +9-12% am Tageshoch, ein Einstieg jetzt waere reines Verfolgen der Bewegung ohne Sicherheitsmarge (Muster wie bei zuvor verworfenen Titeln The Trade Desk, Cloudflare, AppLovin). Solana ist mit RSI 79-88 tief ueberkauft, Bitcoin konsolidiert ohne neuen Katalysator - kein ueberzeugendes Krypto-Setup. Kurz vor US-Handelsschluss (22:00 MESZ) zudem kein verfruehter Neueinstieg mehr sinnvoll. Keine Position verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [
       "pos-0010"
@@ -2639,6 +2639,11 @@
       {
         "time": "21:14",
         "note": "Keine Aenderung; NVDA-Kurs auf 225,94 USD aktualisiert (-1,39% seit Kauf, weiterhin +7,76% Tagesplus). Kurz vor US-Handelsschluss (22:00 MESZ) kein neuer Kauf: CRM/CRWD weiterhin zu weit gelaufen, Bitcoin/Solana ohne ueberzeugenden Katalysator bzw. ueberkauft",
+        "portfolioValue": 986.1
+      },
+      {
+        "time": "22:12",
+        "note": "Keine Aenderung; US-Boersen soeben geschlossen (22:00 MESZ), NVDA-Schlusskurs bei 225,94 USD (-1,39% seit Kauf) bestaetigt, keine belastbare frischere Notierung verfuegbar. Bitcoin unveraendert ~79.027 USD ohne neuen Katalysator, Solana unveraendert ~102 USD weiterhin tief ueberkauft (RSI 79-88) - kein ueberzeugender Krypto-Trade",
         "portfolioValue": 986.1
       }
     ]
