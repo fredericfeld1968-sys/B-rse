@@ -2524,8 +2524,8 @@
   {
     "date": "2026-08-27",
     "marketOverview": "Bitcoin notiert bei ca. 79.000 USD (erstmals seit Mai ueber dieser Marke) und bleibt technisch neutral bis leicht positiv; die Rally der Vorwoche (+21% bzw. teils +25% je nach Coin) hat sich stabilisiert, ohne neuen Schub. Solana bewegt sich zwischen 95 und 100 USD, RSI(14) bleibt tief ueberkauft (84+), Ruecksetzerrisiko Richtung 200-Tage-EMA (~81 USD) besteht weiterhin. Das Jackson-Hole-Symposium der Fed laeuft seit gestern (27.-29.08.); die mit Spannung erwartete erste Keynote von Fed-Chair Kevin Warsh folgt erst am Freitagvormittag - noch keine Zinssignale bestaetigt.",
-    "decision": "Kumulierte Tageszusammenfassung: Tagesbudget-Gutschrift fuer den 27.08. bereits im ersten Lauf (00:11) erfolgt (+1.000 EUR, freies Kapital ca. 22.960,66 EUR). Keine offenen Positionen im Depot. Auch im siebten Lauf des Tages (06:10) kein Trade: Aktien/ETFs/Rohstoffe vor Boersenoeffnung nicht handelbar; Bitcoin bleibt neutral bis leicht fester (~79.000 USD) ohne bestaetigten Ausbruchskatalysator, Solana bleibt mit RSI 84+ weiterhin tief ueberkauft. Markt wartet weiter auf die Warsh-Rede am Freitag.",
-    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Vor Boersenoeffnung sind Aktien/ETFs/Rohstoffe nicht handelbar. Bitcoins leichte Staerke (~79.000 USD) ist kein bestaetigter Ausbruch mit klarem Kurzfrist-Katalysator, sondern Fortsetzung der bereits eingepreisten Vorwochenrally. Solana bleibt mit RSI 84+ tief ueberkauft, ein Einstieg waere reine Spekulation mit hohem Rueckschlagsrisiko. Ein Einstieg vor der noch unveroeffentlichten Warsh-Keynote (Freitag) waere ohne bestaetigten Katalysator verfrueht. Keine der Positionen (aktuell keine offen) verstoesst gegen Ausschlusslisten aus den Einstellungen; freies Kapital von ca. 22.960,66 EUR bleibt mangels ueberzeugender Gelegenheit ungenutzt.",
+    "decision": "Kumulierte Tageszusammenfassung: Tagesbudget-Gutschrift fuer den 27.08. bereits im ersten Lauf (00:11) erfolgt (+1.000 EUR, freies Kapital ca. 22.960,66 EUR). Keine offenen Positionen im Depot. Auch im achten Lauf des Tages (07:13) kein Trade: Aktien/ETFs/Rohstoffe vor Boersenoeffnung nicht handelbar (Xetra oeffnet erst 9:00 MESZ); Bitcoin konsolidiert um ca. 78.950 USD ohne neuen Ausbruchskatalysator, US-Indizes schlossen am Vortag leicht schwaecher (S&P -0,02%, Nasdaq -0,08%, Dow -0,21%) vor der Warsh-Rede am Freitag beim Jackson-Hole-Symposium.",
+    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Vor Boersenoeffnung sind Aktien/ETFs/Rohstoffe nicht handelbar. Bitcoins Konsolidierung um ~79.000 USD ist kein bestaetigter Ausbruch mit klarem Kurzfrist-Katalysator, sondern Fortsetzung der bereits eingepreisten Vorwochenrally; institutionelle ETF-Zufluesse stuetzen zwar, liefern aber kein neues, kurzfristig handelbares Signal. Solana bleibt tief ueberkauft, ein Einstieg waere reine Spekulation mit hohem Rueckschlagsrisiko. Die Maerkte warten erkennbar auf die noch unveroeffentlichte Warsh-Keynote (Freitag) - ein Einstieg davor waere ohne bestaetigten Katalysator verfrueht. Keine der Positionen (aktuell keine offen) verstoesst gegen Ausschlusslisten aus den Einstellungen; freies Kapital von ca. 22.960,66 EUR bleibt mangels ueberzeugender Gelegenheit ungenutzt.",
     "positionIds": [],
     "portfolioValueEnd": 0,
     "updates": [
@@ -2562,6 +2562,11 @@
       {
         "time": "06:10",
         "note": "Keine Aenderung; Bitcoin leicht fester auf ca. 79.000 USD (erstmals seit Mai ueber dieser Marke), weiterhin ohne klaren neuen Kurzfrist-Katalysator vor der Warsh-Rede am Freitag. Solana zwischen 95-100 USD, RSI weiterhin tief ueberkauft. Aktien/ETFs/Rohstoffe vor Boersenoeffnung nicht handelbar. Kein ueberzeugendes Setup, daher kein Trade",
+        "portfolioValue": 0
+      },
+      {
+        "time": "07:13",
+        "note": "Keine Aenderung; Bitcoin ~78.950 USD konsolidiert nach der Vorwochenrally (+14% Wochenbasis) ohne neuen Ausbruchskatalysator, US-Indizes schlossen gestern leicht schwaecher (S&P -0,02%, Nasdaq -0,08%, Dow -0,21%). Xetra/US-Boersen vor Handelsbeginn weiterhin nicht handelbar, Markt wartet auf Warsh-Rede am Freitag - kein ueberzeugendes Setup, daher kein Trade",
         "portfolioValue": 0
       }
     ]
