@@ -2523,13 +2523,13 @@
   },
   {
     "date": "2026-08-27",
-    "marketOverview": "Nasdaq seit 15:30 MESZ regulaer geoeffnet: Nvidia bestaetigt das Vormarkt-Momentum mit +7,5% auf ca. 229 USD nach Rekordumsatz und starker FY28-Guidance (CFO Kress: ~70% erwartetes Wachstum), Nasdaq Composite +1%, breite Tech-Rally (Salesforce, CrowdStrike ebenfalls deutlich im Plus), S&P 500 +0,4%. Xetra schloss ohne klare Einzelwert-Gelegenheit (DAX ~26.322 Punkte, +0,83%). Bitcoin stabil bei ca. 79.027 USD ohne neuen Katalysator, Solana bei ca. 102 USD weiterhin tief ueberkauft (RSI 79-88) nach der Wochenrally.",
-    "decision": "Kumulierte Tageszusammenfassung: Tagesbudget-Gutschrift fuer den 27.08. bereits im ersten Lauf (00:11) erfolgt (+1.000 EUR, freies Kapital vor diesem Kauf ca. 22.960,66 EUR). Im siebzehnten Lauf des Tages (16:16) wurde die vorgemerkte Gelegenheit genutzt: Kauf NVIDIA (NVDA) fuer 1.000 EUR zu 229,15 USD, nachdem sich das Vormarkt-Momentum nach regulaerer Nasdaq-Eroeffnung mit +7,5% bestaetigt hat. Xetra bot weiterhin keine ueberzeugende Einzelwert-Gelegenheit, Solana trotz starkem Wochenplus weiterhin tief ueberkauft (RSI 79-88), Bitcoin ohne neuen Katalysator.",
-    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading; die Handelszeitregel wurde beachtet, indem der Kauf erst nach regulaerer Nasdaq-Eroeffnung (15:30 MESZ) erfolgte, nicht schon auf das blosse Vormarkt-Signal hin. Das Momentum ist nun durch den regulaeren Handel bestaetigt (weiterhin +7,5%, mehrfach unabhaengig belegt: CNBC, Bloomberg, Yahoo Finance) und durch einen echten fundamentalen Auslöser (Rekordumsatz, starke Guidance) gedeckt, nicht nur Sentiment - passend zum bisher erfolgreichen Post-Earnings-Momentum-Muster (Palantir +8,3%). Position bleibt mit 1.000 EUR im Rahmen des Tagesbudgets, freies Kapital wird durch den Kauf nicht ueberschritten. Xetra bietet keinen ueberzeugenden Einzelwert-Ausreisser, Solana bleibt tief ueberkauft (RSI 79-88) und damit ruecksetzergefaehrdet, kein weiterer Krypto-Einstieg. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "marketOverview": "Nasdaq seit 15:30 MESZ regulaer geoeffnet: Nvidia hat einen Teil des Vormarkt-Momentums (+7,5%) wieder abgegeben und notiert im weiteren Handelsverlauf bei ca. 219,53 USD (noch rund +3,1% zum Vortagesschluss 213,05 USD, aber -4,2% unter dem eigenen Kaufkurs 229,15 USD) - klassisches 'Sell-the-news'-Nachgeben trotz starker Zahlen (Rekordumsatz, FY28-Guidance CFO Kress ~70% Wachstum). S&P 500 +0,4%, Nasdaq Composite weiterhin im Plus, breite Tech-Rally haelt an (Salesforce, CrowdStrike). Xetra schloss ohne klare Einzelwert-Gelegenheit (DAX ~26.322 Punkte, +0,83%). Bitcoin stabil bei ca. 79.027 USD ohne neuen Katalysator, Solana bei ca. 102 USD weiterhin tief ueberkauft (RSI 79-88) nach der Wochenrally.",
+    "decision": "Kumulierte Tageszusammenfassung: Tagesbudget-Gutschrift fuer den 27.08. bereits im ersten Lauf (00:11) erfolgt (+1.000 EUR, freies Kapital ca. 22.960,66 EUR). Im siebzehnten Lauf des Tages (16:16) wurde die vorgemerkte Gelegenheit genutzt: Kauf NVIDIA (NVDA) fuer 1.000 EUR zu 229,15 USD. Im achtzehnten Lauf (17:14) wurde der Kurs auf 219,53 USD aktualisiert (-4,2% seit Kauf) - die Position wird trotz Pullback gehalten, da die fundamentale These (Rekordumsatz, starke Guidance) durch die Zahlen selbst nicht widerlegt wurde und es sich um ein normales Nachgeben nach dem anfaenglichen Kurssprung handelt, keinen fundamentalen Bruch. Xetra bot weiterhin keine ueberzeugende Einzelwert-Gelegenheit, Solana trotz starkem Wochenplus weiterhin tief ueberkauft (RSI 79-88), Bitcoin ohne neuen Katalysator - daher kein weiterer Kauf.",
+    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading; die Handelszeitregel wurde beachtet, indem der Kauf erst nach regulaerer Nasdaq-Eroeffnung (15:30 MESZ) erfolgte. Der anschliessende Ruecksetzer von 229,15 auf 219,53 USD (-4,2%) liegt noch deutlich innerhalb der ueblichen Nachrichtenvolatilitaet direkt nach Earnings und unterhalb der Schwelle, die bisher einen Stop-Loss ausgeloest hat (Rheinmetall wurde erst bei -6,56% UND nach echter fundamentaler Verschlechterung glattgestellt). Da NVDA weiterhin ueber dem Vortagesschluss (213,05 USD) notiert und die Guidance intakt ist, wird die Position gehalten statt vorschnell mit Verlust verkauft. Xetra bietet keinen ueberzeugenden Einzelwert-Ausreisser, Solana bleibt tief ueberkauft (RSI 79-88) und damit ruecksetzergefaehrdet, kein weiterer Krypto-Einstieg. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [
       "pos-0010"
     ],
-    "portfolioValueEnd": 1000,
+    "portfolioValueEnd": 958.02,
     "updates": [
       {
         "time": "00:11",
@@ -2615,6 +2615,11 @@
         "time": "16:16",
         "note": "Kauf NVDA 1000 EUR zu 229,15 USD - Momentum nach Nasdaq-Eroeffnung mit +7,5% bestaetigt (Rekordumsatz, starke FY28-Guidance)",
         "portfolioValue": 1000
+      },
+      {
+        "time": "17:14",
+        "note": "Keine Aenderung; NVDA-Kurs aktualisiert auf 219,53 USD (-4,2% seit Kauf, Sell-the-news-Nachgeben, aber weiterhin ueber Vortagesschluss 213,05 USD) - Position gehalten, fundamentale These intakt. Bitcoin ~79.027 USD ohne Katalysator, Solana ~102 USD weiterhin tief ueberkauft (RSI 79-88), Xetra ohne ueberzeugende Gelegenheit - kein neuer Kauf",
+        "portfolioValue": 958.02
       }
     ]
   }
