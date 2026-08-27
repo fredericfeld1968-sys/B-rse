@@ -2652,5 +2652,22 @@
         "portfolioValue": 986.1
       }
     ]
+  },
+  {
+    "date": "2026-08-28",
+    "marketOverview": "Nachts (00:11 MESZ): US-Boersen und Xetra sind geschlossen, Handel oeffnet erst wieder am Nachmittag. NVDA notiert nachboerslich schwaecher bei ca. 220 USD (-3,99% seit Kauf), nachdem der Regulaerhandel trotz starker Q2-Zahlen und FY28-Guidance mit leichtem Abwaertsdruck schloss (Nvidia-Uebernahme von Hugging Face fuer 12,9 Mrd. USD als Zusatznachricht). Bitcoin haelt sich bei ca. 79.000 USD nach kurzem Ruecksetzer durch einen heissen US-Inflationsdatenpunkt, Solana bei ca. 102 USD (+5,76% gestern, +32,5% auf Wochensicht) - beide auf Tagesbasis weiterhin tief ueberkauft (RSI 80-88). Maerkte warten auf die Jackson-Hole-Rede von Fed-Chef Kevin Warsh am Freitag.",
+    "decision": "Tagesbudget-Gutschrift fuer den 28.08. erfolgt (+1.000 EUR, freies Kapital jetzt ca. 22.960,66 EUR). NVDA-Position (pos-0010) auf aktuellen nachboerslichen Kurs von ca. 220 USD aktualisiert (-3,99% seit Kauf) und weiter gehalten, da die fundamentale These (Rekordumsatz, starke FY28-Guidance, Hugging-Face-Uebernahme) intakt bleibt und der Ruecksetzer im Rahmen normaler Nachbörsen-Volatilitaet liegt. Kein neuer Kauf: Aktien/ETFs/Rohstoffe sind nachts nicht handelbar, und Bitcoin/Solana bleiben trotz starkem Momentum tief ueberkauft (RSI 80-88) - kein ueberzeugendes Krypto-Setup.",
+    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Fuer NVDA gibt es keinen fundamentalen Grund fuer eine Verkaufsentscheidung (kein Stop-Loss-Niveau erreicht, These durch Zahlen und Zukauf gestuetzt), daher Halten. Bitcoin/Solana sind nach der starken Rally der letzten Woche auf allen Zeitebenen ueberkauft (RSI 80-88) - ein Einstieg jetzt waere reines Verfolgen der Bewegung ohne Sicherheitsmarge, analog zu den bisher verworfenen Setups. Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten ohnehin nicht handelbar. Keine Position verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "positionIds": [
+      "pos-0010"
+    ],
+    "portfolioValueEnd": 960.07,
+    "updates": [
+      {
+        "time": "00:11",
+        "note": "Tagesbudget-Gutschrift +1.000 EUR (freies Kapital jetzt ca. 22.960,66 EUR); NVDA nachboerslich auf ca. 220 USD aktualisiert (-3,99%); Bitcoin/Solana weiterhin tief ueberkauft (RSI 80-88) - kein Trade",
+        "portfolioValue": 960.07
+      }
+    ]
   }
 ]
