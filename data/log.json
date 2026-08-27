@@ -2523,9 +2523,9 @@
   },
   {
     "date": "2026-08-27",
-    "marketOverview": "Bitcoin ist unter die 80.000-USD-Marke gerutscht (aktuell ca. 78.000-80.000 USD) bei weiterhin tief ueberkauftem RSI (~82) nach der starken Wochenrally (+21-23% im August). Solana konsolidiert nach dem Ausbruch ueber die 100-USD-Marke auf ca. 94-97 USD (RSI 79-88, ebenfalls tief ueberkauft) - Gewinnmitnahmen nach der 25%-Wochenrally. Nvidias starke Q2-Zahlen loesten nur eine gedaempfte Kursreaktion aus. Das Jackson-Hole-Symposium der Fed startet heute (27.-29.08., Motto 'Financial Innovation'), die mit Spannung erwartete Rede von Fed-Chair Kevin Warsh folgt erst am Freitag; bis dahin bleibt der Markt tendenziell abwartend.",
-    "decision": "Kumulierte Tageszusammenfassung: Tagesbudget-Gutschrift fuer den 27.08. bereits im ersten Lauf (00:11) erfolgt (+1.000 EUR, freies Kapital ca. 22.960,66 EUR). Keine offenen Positionen im Depot. Auch im zweiten Lauf des Tages (01:11) kein Trade: Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten nicht handelbar, Bitcoin (RSI ~82) und Solana (RSI 79-88) bleiben tief ueberkauft ohne neuen bestaetigten Katalysator.",
-    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Nach US-/Xetra-Handelsschluss sind Aktien/ETFs/Rohstoffe nicht handelbar. Bitcoin und Solana bleiben nach der starken Wochenrally auf allen Zeitebenen tief ueberkauft (RSI 79-88), ein Einstieg auf diesem Niveau vor dem mit Spannung erwarteten Jackson-Hole-Symposium (Warsh-Rede erst Freitag) wuerde ueberdurchschnittliches Rueckschlagsrisiko eingehen ohne neuen bestaetigten Katalysator. Keine der Positionen (aktuell keine offen) verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "marketOverview": "Bitcoin notiert weiterhin unter der 80.000-USD-Marke (ca. 78.000-80.000 USD), Tages-RSI bei 82,4 - tief ueberkauft nach der starken Wochenrally (+20-23% im August). Solana pendelt um 94-97 USD (RSI ~84, ebenfalls tief ueberkauft) nach der 25,8%-Wochenrally; haelt sie sich ueber der Fibonacci-Marke von 94,42 USD, ist ein Retest von 100 USD moeglich, ein Bruch darunter wuerde Richtung 200-Tage-EMA (~81 USD) fuehren. Das Jackson-Hole-Symposium der Fed laeuft seit heute (27.-29.08., Motto 'Financial Innovation: Implications for Payments and Policy'); die mit Spannung erwartete erste Keynote von Fed-Chair Kevin Warsh folgt erst am Freitagvormittag - noch keine Zinssignale bestaetigt.",
+    "decision": "Kumulierte Tageszusammenfassung: Tagesbudget-Gutschrift fuer den 27.08. bereits im ersten Lauf (00:11) erfolgt (+1.000 EUR, freies Kapital ca. 22.960,66 EUR). Keine offenen Positionen im Depot. Auch im dritten Lauf des Tages (02:11) kein Trade: Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten nicht handelbar, Bitcoin (RSI 82,4) und Solana (RSI ~84) bleiben tief ueberkauft ohne neuen bestaetigten Katalysator vor der Warsh-Rede am Freitag.",
+    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Nach US-/Xetra-Handelsschluss sind Aktien/ETFs/Rohstoffe nicht handelbar. Bitcoin und Solana bleiben nach der starken Wochenrally auf Tagesbasis tief ueberkauft (RSI 82-84), ein Einstieg auf diesem Niveau vor der noch unveroeffentlichten Warsh-Keynote (Freitag) waere reine Spekulation ohne bestaetigten Katalysator und mit ueberdurchschnittlichem Rueckschlagsrisiko. Keine der Positionen (aktuell keine offen) verstoesst gegen Ausschlusslisten aus den Einstellungen; freies Kapital von ca. 22.960,66 EUR bleibt mangels ueberzeugender Gelegenheit ungenutzt.",
     "positionIds": [],
     "portfolioValueEnd": 0,
     "updates": [
@@ -2537,6 +2537,11 @@
       {
         "time": "01:11",
         "note": "Keine Aenderung; Bitcoin ~78.000-80.000 USD (RSI ~82, unter 80K-Marke gerutscht), Solana ~94-97 USD (RSI 79-88) nach starker Wochenrally beide weiterhin tief ueberkauft. Jackson-Hole-Symposium beginnt heute (27.-29.08.), Fed-Rede von Warsh erst Freitag - kein neuer Katalysator seit dem letzten Lauf. Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten nicht handelbar. Kein ueberzeugendes Setup, daher kein Trade",
+        "portfolioValue": 0
+      },
+      {
+        "time": "02:11",
+        "note": "Keine Aenderung; Bitcoin RSI 82,4 unter 80.000 USD, Solana RSI ~84 um 94-97 USD - beide weiterhin tief ueberkauft. Jackson-Hole-Symposium seit heute laufend, Warsh-Keynote erst Freitagvormittag - kein neuer Katalysator. Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten nicht handelbar. Kein ueberzeugendes Setup, daher kein Trade",
         "portfolioValue": 0
       }
     ]
