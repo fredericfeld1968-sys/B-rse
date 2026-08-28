@@ -2655,9 +2655,9 @@
   },
   {
     "date": "2026-08-28",
-    "marketOverview": "Warsh hielt um 16:00 MESZ seine erste Jackson-Hole-Rede als Fed-Chef und schlug einen ueberraschend hawkishen Ton an (Fokus auf Inflationsbekaempfung, keine klaren Signale fuer Zinssenkungen). Reaktion: Bitcoin faellt von einem Tageshoch bei ~81.000 auf ~78.700 USD, US-Aktien geben leicht nach, die Renditen steigen (US-30J >5,2%, US-10J ~4,69%). NVDA notiert bei 226,15 USD (-1,31% zum Einstand 229,15 USD) - die fundamentale Post-Earnings-Story bleibt intakt, wird aber vom risikoaversen Makro-Umfeld ueberlagert.",
-    "decision": "Tagesbudget-Gutschrift fuer den 28.08. bereits im ersten Lauf des Tages erfolgt (freies Kapital weiterhin ca. 22.960,66 EUR). NVDA-Position (pos-0010) unveraendert gehalten (-1,31%), kein Stop-Loss-Niveau erreicht. Kein neuer Trade: Warshs hawkishe Jackson-Hole-Rede loest ein risikoaverses Makro-Umfeld aus (Bitcoin-Abverkauf, steigende Renditen) - kein ueberzeugender Einstiegspunkt unmittelbar nach einer derart unsicheren Fed-Kommunikation.",
-    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Warshs Rede hat gerade erst risikoaverse Reaktionen ausgeloest (Bitcoin -3% vom Tageshoch, steigende Anleiherenditen); ein Einstieg in Krypto oder Aktien unmittelbar in diese Volatilitaet hinein waere prozyklisch und nicht ueberzeugend. NVDA wird unveraendert gehalten, da die fundamentale These (starke Q2-Zahlen, robuste Q3-Guidance) intakt bleibt und der Kursrueckgang moderat ist.",
+    "marketOverview": "Nach Warshs anfaenglich hawkisch wirkender erster Jackson-Hole-Rede als Fed-Chef (Fokus auf Inflationsbekaempfung) hat sich die Stimmung im Tagesverlauf gedreht: US-Aktien notieren am Nachmittag leicht im Plus (Dow +0,3%, S&P +0,4%, Nasdaq +0,5%), waehrend Anleihen einen 'bear flattener' zeigen (kurzfristige Renditen steigen, langfristige fallen). Bitcoin hat sich von seinem Nachmittagstief bei ~78.700 leicht auf ca. 79.300 USD erholt, bleibt aber unter der psychologischen 80.000er-Marke. NVDA (226,15 USD, -1,31% zum Einstand) bewegt sich seitwaerts; die fundamentale Post-Earnings-Story bleibt intakt.",
+    "decision": "Tagesbudget-Gutschrift fuer den 28.08. bereits im ersten Lauf des Tages erfolgt (freies Kapital weiterhin ca. 22.960,66 EUR). NVDA-Position (pos-0010) unveraendert gehalten (-1,31%), kein Stop-Loss-Niveau erreicht. Kein neuer Trade in diesem Lauf: Solana und Bitcoin bleiben nach der Rally der letzten Tage technisch ueberkauft, ein klarer neuer Katalysator fehlt trotz der leichten Erholung der Aktienmaerkte.",
+    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Die Markterholung nach Warshs Rede ist moderat und bietet keinen klaren Einstiegspunkt; Solana/Bitcoin bleiben nach dem starken Lauf der letzten Woche ueberkauft (RSI-Warnungen mehrfach bestaetigt), ein Einstieg jetzt waere prozyklisch ohne neuen fundamentalen Ausloeser. NVDA wird unveraendert gehalten, da die fundamentale These (starke Q2-Zahlen, robuste Guidance) intakt bleibt und der Kursrueckgang moderat ist.",
     "positionIds": [
       "pos-0010"
     ],
@@ -2746,6 +2746,11 @@
       {
         "time": "16:18",
         "note": "Keine Aenderung; NVDA nach Warshs hawkishem Jackson-Hole-Auftritt auf 226,15 USD (-1,31%). Bitcoin faellt auf Warshs Rede hin von ~81.000 auf ~78.700 USD, Renditen steigen - kein Trade im risikoaversen Umfeld direkt nach der Rede.",
+        "portfolioValue": 986.91
+      },
+      {
+        "time": "17:16",
+        "note": "Keine Aenderung; NVDA nach Warshs Rede stabil bei 226,15 USD (-1,31%), Markt insgesamt leicht im Plus (Dow/S&P +0,3-0,4%, Nasdaq +0,5%) - anfaengliche Risikoaversion hat sich gedreht ('bear flattener' bei Anleihen, kurzfristige Renditen hoch, lange Renditen fallen). Bitcoin erholt leicht auf ca. 79.300 USD, Solana weiterhin tief ueberkauft (~105-108 USD, RSI-Warnung) - kein ueberzeugender neuer Trade-Katalysator",
         "portfolioValue": 986.91
       }
     ]
