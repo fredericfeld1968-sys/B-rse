@@ -2655,9 +2655,9 @@
   },
   {
     "date": "2026-08-28",
-    "marketOverview": "US-Maerkte schlossen am Freitag leicht negativ nach Fed-Chef Warshs Jackson-Hole-Rede (S&P 500 -0,25% auf 7.711,76, Nasdaq -0,52% auf 26.402,42, Dow -0,02%); Halbleiterwerte wie Nvidia und Intel belasteten den Nasdaq zusaetzlich. Auf Wochensicht dennoch ein Plus (S&P +0,5%, Nasdaq +0,9%). NVDA schloss bei 227,98 USD und gab nachboerslich auf ca. 226,03 USD nach (-1,36% zum Einstand). Bitcoin haelt sich bei ca. 79.100-80.300 USD (ETF-Zuflüsse neunten Tag in Folge), Solana bei ca. 100-109 USD nach dem Schwab-Listing-Sprung weiterhin technisch ueberkauft (Fear&Greed-Index 70, 'Greed').",
-    "decision": "Tagesbudget-Gutschrift fuer den 28.08. bereits im ersten Lauf erfolgt (freies Kapital weiterhin ca. 22.960,66 EUR). NVDA-Position (pos-0010) unveraendert gehalten, Kurs auf 226,03 USD (nachboerslich) aktualisiert (-1,36%), kein Stop-Loss-Niveau erreicht. Kein neuer Trade in diesem Lauf: US-Boersen sind seit 22:00 MESZ geschlossen, keine neue ueberzeugende Nachrichtenlage seit dem 21:09-Lauf, Bitcoin/Solana bleiben technisch ueberkauft ohne frischen Katalysator.",
-    "reasoning": "Risikoprofil \"spekulativ\" erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten (NYSE seit 22:00 MESZ geschlossen) ohnehin nicht handelbar. Bei Krypto hat sich die Lage seit dem letzten Lauf (21:09) nicht veraendert - Warshs hawkische Rede bleibt eingepreist, Solana (+6-7% nach Schwab-Listing) und Bitcoin bleiben auf mittlerer Zeitebene ueberkauft; ein prozyklischer Einstieg zu dieser spaeten Stunde ohne neuen Katalysator widerspraeche dem etablierten, disziplinierten Muster dieses Depots. NVDA wird unveraendert gehalten, da die fundamentale Post-Earnings-These (Rekordumsatz, starke FY28-Guidance) intakt bleibt und der leichte Ruecksetzer im Rahmen der normalen Marktschwankung nach der Warsh-Rede liegt.",
+    "marketOverview": "Spaeter Abend (Stand 23:12 MESZ): NVDA nachboerslich unveraendert bei ca. 226,03 USD (-0,86% ggue. Schlusskurs 227,98 USD), US-Boersen seit 22:00 MESZ geschlossen. Bitcoin hat sich auf ca. 80.170-80.260 USD stabilisiert (Tages-RSI auf ca. 59 abgekuehlt, nicht mehr tief ueberkauft, positives MACD-Momentum), waehrend Solana bei ca. 106-107 USD weiterhin tief ueberkauft bleibt (RSI 80-88). Kein neuer Katalysator seit dem 22:11-Lauf; ETH-Spot-ETFs verzeichnen den 8. Tag in Folge Zufluesse (2,8 Mrd. USD kumuliert), ein grosses BTC-Optionsverfall (6,4 Mrd. USD) am 28.08. bleibt ein Risikofaktor fuer beide Richtungen.",
+    "decision": "Tagesbudget-Gutschrift fuer den 28.08. bereits erfolgt (freies Kapital ca. 23.460,66 EUR, weitgehend ungenutzt bis auf NVDA-Position). Auch im 25. Lauf des Tages (23:12) kein Trade: US-Boersen/ETFs/Rohstoffe ausserhalb der Handelszeiten nicht handelbar. Bitcoin ist zwar nicht mehr tief ueberkauft (RSI ~59), aber ohne neuen bestaetigten Katalysator seit dem letzten Lauf kein ueberzeugendes Setup fuer einen Einstieg; Solana bleibt tief ueberkauft (RSI 80-88) und damit weiterhin kein Kandidat.",
+    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Nach Handelsschluss an den US-Boersen sind Aktien/ETFs/Rohstoffe nicht handelbar, einzig Krypto bliebe moeglich. Bitcoins Abkuehlung auf RSI ~59 ist zwar ein positiveres technisches Bild als zuvor, stellt aber fuer sich genommen keinen Kaufimpuls dar - es fehlt ein konkreter, neuer Ausloeser seit dem letzten Lauf, und der bevorstehende grosse Optionsverfall (6,4 Mrd. USD) erhoeht das kurzfristige Volatilitaetsrisiko in beide Richtungen. Solana bleibt trotz solidem MACD auf allen Zeitebenen tief ueberkauft (RSI 80-88) und damit kein Kandidat. Daher erneut kein Trade.",
     "positionIds": [
       "pos-0010"
     ],
@@ -2776,6 +2776,11 @@
       {
         "time": "22:11",
         "note": "Keine Aenderung; NVDA nachboerslich auf 226,03 USD aktualisiert (-1,36%). US-Boersen seit 22:00 MESZ geschlossen. Bitcoin ~79.100-80.300 USD, Solana ~100-109 USD nach Schwab-Listing weiterhin ueberkauft ohne neuen Katalysator - kein Trade",
+        "portfolioValue": 986.38
+      },
+      {
+        "time": "23:12",
+        "note": "Keine Aenderung; NVDA nachboerslich unveraendert bei 226,03 USD, US-Boersen geschlossen. Bitcoin auf RSI ~59 abgekuehlt (kein tiefes Overbought mehr), aber kein neuer Katalysator seit 22:11 - Solana weiterhin tief ueberkauft (RSI 80-88) - kein Trade",
         "portfolioValue": 986.38
       }
     ]
