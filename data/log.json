@@ -2655,9 +2655,9 @@
   },
   {
     "date": "2026-08-28",
-    "marketOverview": "Fruehnachmittag (14:22 MESZ, Xetra offen, US-Handel noch geschlossen bis 15:30 MESZ): NVDA vorboerslich bei ca. 226,97 USD (-0,95% zum Einstand 229,15 USD), nach starkem Donnerstagsschluss bei 227,98 USD (S&P 500 +0,72%, Nasdaq +1,57% dank Nvidia-Zahlen). Bitcoin haelt sich knapp unter 80.000 USD (~79.365-80.258 USD), Solana bei ca. 105-108 USD (+9% in 24h) getrieben von der Nachricht, dass Charles Schwab Solana, Avalanche und Chainlink auf seine Krypto-Plattform aufnimmt - beide Kryptowerte bleiben aber auf allen Zeitebenen tief ueberkauft. Fed-Chef Kevin Warshs erste Rede als Fed-Chef in Jackson Hole steht um 16:00 MESZ (10:00 Uhr ET) an, noch rund 1,5 Std. entfernt; Maerkte warten auf Signale zu Zinspfad und Inflationsziel-Rahmen, 30-jaehrige Treasury-Rendite nahe Hoch seit 2007.",
-    "decision": "Tagesbudget-Gutschrift fuer den 28.08. bereits im ersten Lauf des Tages erfolgt (freies Kapital weiterhin ca. 22.960,66 EUR). NVDA-Position (pos-0010) unveraendert gehalten, Kurs vorboerslich bei 226,97 USD (-0,95%) - kein Stop-Loss-Niveau erreicht, Post-Earnings-These weiter intakt. Kein Krypto-Kauf trotz Schwab-Nachricht zu Solana: Titel bleibt tief ueberkauft und die Jackson-Hole-Rede von Warsh in 1,5 Std. kann kurzfristig hohe Volatilitaet in beide Richtungen ausloesen - kein Einstieg unmittelbar davor. Keine ueberzeugende neue Gelegenheit identifiziert.",
-    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. NVDA bewegt sich nur minimal, kein Stop-Loss-Niveau erreicht. Solana-Nachricht (Schwab-Listing) ist positiv, aber der Titel ist bereits stark gelaufen und auf allen Zeitebenen ueberkauft; ein Einstieg 1,5 Std. vor Warshs erster Rede als Fed-Chef waere unnoetig riskant, da die Rede grosse, richtungslose Kursausschlaege bei Krypto und Aktien ausloesen kann. Keine Position verstoesst gegen Ausschlusslisten.",
+    "marketOverview": "Kurz vor US-Marktoeffnung (15:30 MESZ), Xetra weiter offen: NVDA bei 226,97 USD (-0,95% zum Einstand 229,15 USD), Q2-Zahlen (Umsatz 96,2 Mrd. USD, EPS 2,22 USD, beide ueber Erwartung, Q3-Guidance 108 Mrd. USD) bleiben fundamental stark. Bitcoin ueber 80.000 USD (Wochenplus +25% dank Treasury-Anleiherueckkauf), Solana bei ca. 107,58 USD (+2% in 24h) - beide weiterhin ueberkauft. Fed-Chef Kevin Warshs erste grosse Rede in Jackson Hole steht um 16:00 MESZ an; Marktteilnehmer erwarten Hinweise zu seiner 'Reaction Function', Analysten warnen vor einem moeglichen Kursrutsch falls er sich nicht klar positioniert.",
+    "decision": "Tagesbudget-Gutschrift fuer den 28.08. bereits im ersten Lauf des Tages erfolgt (freies Kapital weiterhin ca. 22.960,66 EUR). NVDA-Position (pos-0010) unveraendert gehalten (-0,95%), kein Stop-Loss-Niveau erreicht. Kein neuer Trade: Warshs richtungsweisende erste Jackson-Hole-Rede als Fed-Chef steht in ca. 40 Minuten an und kann Aktien wie Krypto stark in beide Richtungen bewegen - ein Einstieg unmittelbar davor waere unnoetig riskant.",
+    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Weder bei NVDA noch bei Krypto liegt aktuell ein klarer, unmittelbarer Kauf- oder Verkaufsimpuls vor; das bevorstehende Fed-Ereignis (Warsh, 16:00 MESZ) macht Positionsaenderungen kurz davor asymmetrisch riskant, da die Rede grosse, richtungslose Ausschlaege ausloesen kann. Keine Position verstoesst gegen Ausschlusslisten.",
     "positionIds": [
       "pos-0010"
     ],
@@ -2736,6 +2736,11 @@
       {
         "time": "14:22",
         "note": "Keine Aenderung; NVDA vorboerslich auf 226,97 USD aktualisiert (-0,95%). Bitcoin knapp unter 80.000 USD, Solana ~105-108 USD (Schwab-Listing-News, aber weiter ueberkauft) - kein Trade vor Warshs Jackson-Hole-Rede (16:00 MESZ, noch 1,5 Std.)",
+        "portfolioValue": 990.49
+      },
+      {
+        "time": "15:20",
+        "note": "Keine Aenderung; NVDA unveraendert bei 226,97 USD (-0,95%), US-Markt oeffnet in Kuerze (15:30 MESZ). Warshs erste Jackson-Hole-Rede als Fed-Chef in ca. 40 Min. (16:00 MESZ) - bewusst kein Einstieg unmittelbar davor wegen erwarteter hoher Volatilitaet in beide Richtungen. Solana (~107,58 USD) und Bitcoin (>80.000 USD, Wochenplus +25%) bleiben spekulativ interessant, aber kein Trade vor der Rede.",
         "portfolioValue": 990.49
       }
     ]
