@@ -2655,13 +2655,13 @@
   },
   {
     "date": "2026-08-28",
-    "marketOverview": "Vormittags (10:11 MESZ, Xetra seit 9 Uhr geoeffnet, US-Handel erst ab 15:30 MESZ): NVDA notiert bei ca. 227,98 USD (-0,51% zum Einstand 229,15 USD, weitere Erholung seit den fruehen Morgenstunden). Bitcoin bei ca. 80.300 USD (+1,6% in 24h), Solana bei ca. 107-108 USD (+9% in 24h, weiterhin ueberkauft). Nasdaq-100-Futures leicht schwaecher (-0,1%, Marvell-Zahlen belasten Stimmung), Warshs erste Jackson-Hole-Rede als Fed-Chef (10:00 Uhr ET / 16:00 Uhr MESZ, noch rund 6 Std. entfernt) bleibt der dominante Katalysator des Tages.",
-    "decision": "Tagesbudget-Gutschrift fuer den 28.08. bereits im ersten Lauf des Tages erfolgt (freies Kapital weiterhin ca. 22.960,66 EUR). NVDA-Position (pos-0010) unveraendert gehalten, Kurs auf ca. 227,98 USD aktualisiert (-0,51%, weitere Erholung) - kein Stop-Loss-Niveau erreicht, fundamentale These weiter intakt. Kein Krypto-Kauf: Bitcoin und Solana bleiben ueberkauft und stehen rund 6 Stunden vor Warshs erster Jackson-Hole-Rede - kein Neueinstieg davor. Xetra ist zwar geoeffnet, jedoch keine ueberzeugende europaeische Gelegenheit identifiziert.",
-    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. NVDA erholt sich weiter vom Nachboersen-Tief, kein Verkaufsdruck, fundamentale These (starke Zahlen, FY28-Guidance) intakt. Bitcoin/Solana bleiben nach der mehrtaegigen Rally ueberkauft; ein Einstieg unmittelbar vor Warshs erster Rede als Fed-Chef waere unnoetig riskant ohne Sicherheitsmarge. Keine Position verstoesst gegen Ausschlusslisten.",
+    "marketOverview": "Vormittags (11:11 MESZ, Xetra geoeffnet, US-Handel erst ab 15:30 MESZ): NVDA notiert vorboerslich bei ca. 225,46 USD (-1,61% zum Einstand 229,15 USD), nach starkem Schlusskurs am Donnerstag (227,98 USD, +8,74% auf Tagesbasis) ein leichter Pullback. US-Futures halten sich weitgehend flach/leicht schwaecher, Marktteilnehmer warten auf Fed-Chef Warshs erste Jackson-Hole-Rede (10:00 Uhr ET / 16:00 Uhr MESZ, noch rund 5 Std. entfernt) - der dominante Katalysator des Tages, 45% der von CNBC Befragten erwarten keine klaren Zinssignale. Bitcoin haelt sich knapp unter 80.000 USD, Solana bei ca. 108 USD (+9% in 24h) weiterhin ueberkauft.",
+    "decision": "Tagesbudget-Gutschrift fuer den 28.08. bereits im ersten Lauf des Tages erfolgt (freies Kapital weiterhin ca. 22.960,66 EUR). NVDA-Position (pos-0010) unveraendert gehalten, Kurs auf ca. 225,46 USD aktualisiert (-1,61%, leichter Pullback nach starkem Vortagesschluss) - kein Stop-Loss-Niveau erreicht, fundamentale These weiter intakt. Kein Krypto-Kauf: Bitcoin und Solana bleiben ueberkauft und stehen rund 5 Stunden vor Warshs erster Jackson-Hole-Rede - kein Neueinstieg davor. Keine ueberzeugende neue Gelegenheit identifiziert.",
+    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Der leichte NVDA-Pullback im Vorboersenhandel ist normale Konsolidierung nach dem starken Ausbruch vom Donnerstag, kein Stop-Loss-Niveau erreicht, fundamentale These (starke Zahlen, FY28-Guidance) intakt. Bitcoin/Solana bleiben nach der mehrtaegigen Rally ueberkauft; ein Einstieg unmittelbar vor Warshs erster Rede als Fed-Chef waere unnoetig riskant ohne Sicherheitsmarge. Keine Position verstoesst gegen Ausschlusslisten.",
     "positionIds": [
       "pos-0010"
     ],
-    "portfolioValueEnd": 994.89,
+    "portfolioValueEnd": 983.9,
     "updates": [
       {
         "time": "00:11",
@@ -2717,6 +2717,11 @@
         "time": "10:11",
         "note": "Keine Aenderung; NVDA weiter erholt auf 227,98 USD (-0,51%). Bitcoin ~80.300 USD, Solana ~107-108 USD weiterhin ueberkauft, rund 6 Std. vor Warshs erster Jackson-Hole-Rede (16:00 MESZ) - kein Trade",
         "portfolioValue": 994.89
+      },
+      {
+        "time": "11:11",
+        "note": "Keine Aenderung; NVDA vorboerslich leichter Pullback auf 225,46 USD (-1,61%) nach starkem Donnerstagsschluss. Bitcoin knapp unter 80.000 USD, Solana ~108 USD weiterhin ueberkauft, rund 5 Std. vor Warshs erster Jackson-Hole-Rede (16:00 MESZ) - kein Trade",
+        "portfolioValue": 983.9
       }
     ]
   }
