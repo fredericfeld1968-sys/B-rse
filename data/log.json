@@ -2655,9 +2655,9 @@
   },
   {
     "date": "2026-08-28",
-    "marketOverview": "Nachts (01:14 MESZ): US-Boersen und Xetra bleiben bis zum Nachmittag geschlossen. NVDA notiert nachboerslich weiterhin um 219,53 USD (-4,2% seit Kauf), keine neue Nachrichtenlage seit dem 00:11-Lauf. Bitcoin haelt sich knapp unter 80.000 USD (Tages-RSI ~82, tief ueberkauft), Solana pendelt um 94-102 USD nach der starken Vorwochenrally (Tages-RSI 84-88, ebenfalls tief ueberkauft) - Marktbeobachter sehen vor allem Gewinnmitnahmen nach der parabolischen Bewegung. Maerkte warten weiterhin auf die Jackson-Hole-Rede von Fed-Chef Kevin Warsh am Freitag.",
-    "decision": "Tagesbudget-Gutschrift fuer den 28.08. bereits im ersten Lauf des Tages erfolgt (+1.000 EUR, freies Kapital weiterhin ca. 22.960,66 EUR, unveraendert seit Mitternacht). NVDA-Position (pos-0010) auf aktuellen nachboerslichen Kurs von 219,53 USD aktualisiert (-4,2% seit Kauf) und weiter gehalten, da die fundamentale These (Rekordumsatz, starke FY28-Guidance, Hugging-Face-Uebernahme) intakt bleibt. Kein neuer Kauf: Aktien/ETFs/Rohstoffe sind nachts nicht handelbar, und Bitcoin/Solana bleiben trotz starkem Momentum tief ueberkauft (RSI 82-88) - weiterhin kein ueberzeugendes Krypto-Setup.",
-    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Fuer NVDA gibt es keinen fundamentalen Grund fuer eine Verkaufsentscheidung (kein Stop-Loss-Niveau erreicht, These durch Zahlen und Zukauf gestuetzt), daher Halten. Bitcoin/Solana sind nach der starken Rally der letzten Woche auf allen Zeitebenen ueberkauft (RSI 82-88) - ein Einstieg jetzt waere reines Verfolgen der Bewegung ohne Sicherheitsmarge, analog zu den bisher verworfenen Setups. Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten ohnehin nicht handelbar. Keine Position verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "marketOverview": "Nachts (02:12 MESZ): US-Boersen und Xetra bleiben bis zum Nachmittag geschlossen. NVDA notiert nachboerslich unveraendert bei 219,53 USD (-4,2% seit Kauf), keine neue Nachrichtenlage seit dem letzten Lauf (Rekordumsatz, starke FY28-Guidance, 12,9-Mrd-USD-Uebernahme von Hugging Face bestaetigt). Bitcoin haelt sich knapp unter 80.000 USD (Tages-RSI ~82, tief ueberkauft), Solana notiert nahe Jahreshoch bei ca. 109 USD nach der starken Vorwochenrally (RSI 84-88, tief ueberkauft) - beide ohne neuen Katalysator, Marktbeobachter sehen vor allem Pullback-Risiko nach der parabolischen Bewegung. Maerkte warten weiterhin auf die Jackson-Hole-Rede von Fed-Chef Kevin Warsh am Freitag.",
+    "decision": "Tagesbudget-Gutschrift fuer den 28.08. bereits im ersten Lauf des Tages erfolgt (+1.000 EUR, freies Kapital weiterhin ca. 22.960,66 EUR, unveraendert seit Mitternacht). NVDA-Position (pos-0010) unveraendert bei 219,53 USD (-4,2% seit Kauf) weiter gehalten, fundamentale These intakt. Kein neuer Kauf: Aktien/ETFs/Rohstoffe sind nachts nicht handelbar, und Bitcoin/Solana bleiben trotz starkem Momentum tief ueberkauft (RSI 82-88) ohne neuen Katalysator - weiterhin kein ueberzeugendes Krypto-Setup.",
+    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Fuer NVDA gibt es weiterhin keinen fundamentalen Grund fuer eine Verkaufsentscheidung (kein Stop-Loss-Niveau erreicht, These durch Zahlen und Zukauf gestuetzt), daher Halten. Bitcoin/Solana bleiben nach der starken Rally der letzten Woche auf allen Zeitebenen tief ueberkauft (RSI 82-88) ohne neue Nachrichtenlage seit dem letzten Lauf - ein Einstieg jetzt waere reines Verfolgen der Bewegung ohne Sicherheitsmarge. Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten ohnehin nicht handelbar. Keine Position verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [
       "pos-0010"
     ],
@@ -2671,6 +2671,11 @@
       {
         "time": "01:14",
         "note": "Keine Aenderung; NVDA nachboerslich auf 219,53 USD aktualisiert (-4,2%), keine neue Nachrichtenlage. Bitcoin knapp unter 80.000 USD (RSI ~82) und Solana ~94-102 USD (RSI 84-88) weiterhin tief ueberkauft - kein ueberzeugender Krypto-Katalysator, daher kein Trade",
+        "portfolioValue": 958.02
+      },
+      {
+        "time": "02:12",
+        "note": "Keine Aenderung; NVDA nachboerslich unveraendert bei 219,53 USD (-4,2%), keine neue Nachrichtenlage (Hugging-Face-Uebernahme bestaetigt). Bitcoin knapp unter 80.000 USD (RSI ~82) und Solana nahe Jahreshoch ~109 USD (RSI 84-88) weiterhin tief ueberkauft ohne neuen Katalysator - kein Trade",
         "portfolioValue": 958.02
       }
     ]
