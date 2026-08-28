@@ -2655,13 +2655,13 @@
   },
   {
     "date": "2026-08-28",
-    "marketOverview": "US-Aktien schliessen den Freitag im Plus (Dow +0,3%, S&P +0,4%, Nasdaq +0,5%) nach Warshs erster Jackson-Hole-Rede als Fed-Chef; die anfaengliche Risikoaversion hat sich gedreht. Bitcoin erholt sich weiter auf ca. 80.258 USD (+1,56%), Solana springt um +6,89% auf ca. 109 USD nach Ankuendigung von Charles Schwab, SOL (neben Avalanche und Chainlink) ins eigene Krypto-Angebot aufzunehmen - beide Coins bleiben aber auf allen Zeitebenen tief ueberkauft (RSI durchgaengig 78-88 im Tagesverlauf). NVDA (226,15 USD, -1,31% zum Einstand) bewegt sich seitwaerts; die fundamentale Post-Earnings-Story bleibt intakt.",
-    "decision": "Tagesbudget-Gutschrift fuer den 28.08. bereits im ersten Lauf des Tages erfolgt (freies Kapital weiterhin ca. 22.960,66 EUR). NVDA-Position (pos-0010) unveraendert gehalten (-1,31%), kein Stop-Loss-Niveau erreicht. Kein neuer Trade in diesem Lauf: Solana trotz positiver Schwab-Listing-News und Bitcoin bleiben nach der Rally der letzten Tage technisch tief ueberkauft, ein Einstieg in dieser Verfassung waere prozyklisch und widerspraeche dem etablierten Muster (Kauf bei Ausbruch/Dip, nicht bei RSI 80+).",
-    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Die Schwab-Nachricht zu Solana ist positiv fuer die institutionelle Adoption, aendert aber nichts an der seit Stunden bestehenden extremen technischen Ueberkauftheit (RSI 78-88); ein Einstieg jetzt haette ein deutlich asymmetrisches Rueckschlagsrisiko. NVDA wird unveraendert gehalten, da die fundamentale These (starke Q2-Zahlen, robuste Guidance) intakt bleibt und der Kursrueckgang moderat ist.",
+    "marketOverview": "US-Maerkte pendeln sich am Freitagnachmittag (US-Ostkueste) nach Warshs erster Jackson-Hole-Rede knapp im Minus/flach ein (S&P -0,2%, Nasdaq -0,4%, Dow flach); Warsh betonte, Inflation sei weiterhin zu hoch und Preisstabilitaet bleibe Fed-Prioritaet, was leicht hawkish aufgenommen wurde (2-jaehrige Treasury-Rendite +6 Bp). NVDA (~227,98 USD, -0,51% zum Einstand) hat sich seit dem letzten Lauf leicht erholt und bewegt sich mit dem Gesamtmarkt seitwaerts. Bitcoin haelt sich knapp unter 80.000 USD, Solana bleibt nach dem Schwab-Listing-Sprung auf ueber 100 USD (RSI durchgaengig 78-88) tief ueberkauft.",
+    "decision": "Tagesbudget-Gutschrift fuer den 28.08. bereits im ersten Lauf des Tages erfolgt (freies Kapital weiterhin ca. 22.960,66 EUR). NVDA-Position (pos-0010) unveraendert gehalten, Kurs auf 227,98 USD aktualisiert (-0,51%, leichte Erholung ggue. dem letzten Lauf), kein Stop-Loss-Niveau erreicht. Kein neuer Trade in diesem Lauf: keine neue ueberzeugende Nachrichtenlage seit dem 18:09-Lauf, Bitcoin/Solana bleiben technisch tief ueberkauft.",
+    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Seit dem letzten Lauf (18:09) gibt es keine neue fundamentale Entwicklung - Warshs Rede wurde bereits eingepreist, Maerkte pendeln seitwaerts. Solana/Bitcoin bleiben trotz positiver Schwab-News und ETF-Zuflüssen auf allen Zeitebenen ueberkauft (RSI 78-88); ein prozyklischer Einstieg jetzt widerspraeche dem etablierten Muster (Kauf bei Ausbruch/Dip, nicht bei RSI 80+). NVDA wird unveraendert gehalten, da die fundamentale Post-Earnings-These intakt bleibt und sich der Kurs sogar leicht erholt hat.",
     "positionIds": [
       "pos-0010"
     ],
-    "portfolioValueEnd": 986.91,
+    "portfolioValueEnd": 994.89,
     "updates": [
       {
         "time": "00:11",
@@ -2757,6 +2757,11 @@
         "time": "18:09",
         "note": "Keine Aenderung; NVDA unveraendert bei 226,15 USD (-1,31%). Bitcoin erholt auf ca. 80.258 USD (+1,56%), Solana springt +6,89% auf ca. 109 USD nach Schwab-Listing-Ankuendigung (SOL, AVAX, LINK) - trotz positiver Nachricht bleibt Solana tief ueberkauft (RSI 78-88 den ganzen Tag), daher kein Einstieg - kein Trade",
         "portfolioValue": 986.91
+      },
+      {
+        "time": "19:12",
+        "note": "Keine Aenderung; NVDA auf 227,98 USD aktualisiert (-0,51%, leichte Erholung). Maerkte nach Warsh-Rede seitwaerts, Bitcoin/Solana weiterhin ueberkauft - kein Trade",
+        "portfolioValue": 994.89
       }
     ]
   }
