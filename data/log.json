@@ -2784,5 +2784,22 @@
         "portfolioValue": 986.38
       }
     ]
+  },
+  {
+    "date": "2026-08-29",
+    "marketOverview": "Nacht auf Samstag (Stand 00:09 MESZ): US-Boersen seit Freitagabend geschlossen und bleiben das Wochenende ueber zu, NVDA notiert nachboerslich bei ca. 226,26 USD (-0,75%) nahe dem Freitagsschluss. Bitcoin ist von der Stabilisierung bei ca. 80.170-80.260 USD wieder auf ca. 77.800-79.000 USD zurueckgefallen (Freitag kurzzeitig ueber 81.000 USD, dann Ruecksetzer) - kein bestaetigter neuer Aufwaertskatalysator, eher Konsolidierung nach dem grossen Optionsverfall. Solana bleibt trotz Ruecksetzers auf ca. 103-109 USD auf allen Zeitebenen tief ueberkauft (Tages-RSI 80-88, teils bis 84-88 gemeldet), mit Analysten-Warnungen vor einer Korrektur.",
+    "decision": "Tagesbudget-Gutschrift fuer den 29.08. erfolgt (freies Kapital jetzt ca. 23.960,66 EUR). Erster Lauf des Tages: kein Trade. Es ist Nacht/Wochenende, daher sind Aktien, ETFs und Rohstoffe nicht handelbar - einzig Krypto waere moeglich. Bitcoin fiel seit dem letzten Lauf sogar leicht zurueck statt einen Ausbruch zu bestaetigen, Solana bleibt tief ueberkauft - kein ueberzeugendes Setup.",
+    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Ausserhalb der Handelszeiten (Nacht/Wochenende) sind nur Krypto-Trades moeglich. Bitcoin zeigt keinen bestaetigten neuen Katalysator, sondern einen Ruecksetzer von den Freitagshoehen - kein Kaufsignal. Solana bleibt auf allen relevanten Zeitebenen tief ueberkauft (RSI 80-88) und damit weiterhin kein Kandidat fuer einen Einstieg. Die offene NVDA-Position wird lediglich auf den aktuellen nachboerslichen Kurs (226,26 USD, -1,26%) aktualisiert, ein Verkauf ist bei dieser moderaten Kursbewegung ohne neue Nachrichtenlage nicht angezeigt. Daher kein Trade in diesem Lauf.",
+    "positionIds": [
+      "pos-0010"
+    ],
+    "portfolioValueEnd": 987.39,
+    "updates": [
+      {
+        "time": "00:09",
+        "note": "Tagesbudget-Gutschrift +1.000 EUR (freies Kapital jetzt ca. 23.960,66 EUR); NVDA nachboerslich auf 226,26 USD aktualisiert (-1,26%); Wochenende - nur Krypto handelbar, Bitcoin ruecklaeufig ohne Katalysator, Solana weiterhin tief ueberkauft (RSI 80-88) - kein Trade",
+        "portfolioValue": 987.39
+      }
+    ]
   }
 ]
