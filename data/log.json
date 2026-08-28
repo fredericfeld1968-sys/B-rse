@@ -2655,13 +2655,13 @@
   },
   {
     "date": "2026-08-28",
-    "marketOverview": "Kurz vor US-Marktoeffnung (15:30 MESZ), Xetra weiter offen: NVDA bei 226,97 USD (-0,95% zum Einstand 229,15 USD), Q2-Zahlen (Umsatz 96,2 Mrd. USD, EPS 2,22 USD, beide ueber Erwartung, Q3-Guidance 108 Mrd. USD) bleiben fundamental stark. Bitcoin ueber 80.000 USD (Wochenplus +25% dank Treasury-Anleiherueckkauf), Solana bei ca. 107,58 USD (+2% in 24h) - beide weiterhin ueberkauft. Fed-Chef Kevin Warshs erste grosse Rede in Jackson Hole steht um 16:00 MESZ an; Marktteilnehmer erwarten Hinweise zu seiner 'Reaction Function', Analysten warnen vor einem moeglichen Kursrutsch falls er sich nicht klar positioniert.",
-    "decision": "Tagesbudget-Gutschrift fuer den 28.08. bereits im ersten Lauf des Tages erfolgt (freies Kapital weiterhin ca. 22.960,66 EUR). NVDA-Position (pos-0010) unveraendert gehalten (-0,95%), kein Stop-Loss-Niveau erreicht. Kein neuer Trade: Warshs richtungsweisende erste Jackson-Hole-Rede als Fed-Chef steht in ca. 40 Minuten an und kann Aktien wie Krypto stark in beide Richtungen bewegen - ein Einstieg unmittelbar davor waere unnoetig riskant.",
-    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Weder bei NVDA noch bei Krypto liegt aktuell ein klarer, unmittelbarer Kauf- oder Verkaufsimpuls vor; das bevorstehende Fed-Ereignis (Warsh, 16:00 MESZ) macht Positionsaenderungen kurz davor asymmetrisch riskant, da die Rede grosse, richtungslose Ausschlaege ausloesen kann. Keine Position verstoesst gegen Ausschlusslisten.",
+    "marketOverview": "Warsh hielt um 16:00 MESZ seine erste Jackson-Hole-Rede als Fed-Chef und schlug einen ueberraschend hawkishen Ton an (Fokus auf Inflationsbekaempfung, keine klaren Signale fuer Zinssenkungen). Reaktion: Bitcoin faellt von einem Tageshoch bei ~81.000 auf ~78.700 USD, US-Aktien geben leicht nach, die Renditen steigen (US-30J >5,2%, US-10J ~4,69%). NVDA notiert bei 226,15 USD (-1,31% zum Einstand 229,15 USD) - die fundamentale Post-Earnings-Story bleibt intakt, wird aber vom risikoaversen Makro-Umfeld ueberlagert.",
+    "decision": "Tagesbudget-Gutschrift fuer den 28.08. bereits im ersten Lauf des Tages erfolgt (freies Kapital weiterhin ca. 22.960,66 EUR). NVDA-Position (pos-0010) unveraendert gehalten (-1,31%), kein Stop-Loss-Niveau erreicht. Kein neuer Trade: Warshs hawkishe Jackson-Hole-Rede loest ein risikoaverses Makro-Umfeld aus (Bitcoin-Abverkauf, steigende Renditen) - kein ueberzeugender Einstiegspunkt unmittelbar nach einer derart unsicheren Fed-Kommunikation.",
+    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Warshs Rede hat gerade erst risikoaverse Reaktionen ausgeloest (Bitcoin -3% vom Tageshoch, steigende Anleiherenditen); ein Einstieg in Krypto oder Aktien unmittelbar in diese Volatilitaet hinein waere prozyklisch und nicht ueberzeugend. NVDA wird unveraendert gehalten, da die fundamentale These (starke Q2-Zahlen, robuste Q3-Guidance) intakt bleibt und der Kursrueckgang moderat ist.",
     "positionIds": [
       "pos-0010"
     ],
-    "portfolioValueEnd": 990.49,
+    "portfolioValueEnd": 986.91,
     "updates": [
       {
         "time": "00:11",
@@ -2742,6 +2742,11 @@
         "time": "15:20",
         "note": "Keine Aenderung; NVDA unveraendert bei 226,97 USD (-0,95%), US-Markt oeffnet in Kuerze (15:30 MESZ). Warshs erste Jackson-Hole-Rede als Fed-Chef in ca. 40 Min. (16:00 MESZ) - bewusst kein Einstieg unmittelbar davor wegen erwarteter hoher Volatilitaet in beide Richtungen. Solana (~107,58 USD) und Bitcoin (>80.000 USD, Wochenplus +25%) bleiben spekulativ interessant, aber kein Trade vor der Rede.",
         "portfolioValue": 990.49
+      },
+      {
+        "time": "16:18",
+        "note": "Keine Aenderung; NVDA nach Warshs hawkishem Jackson-Hole-Auftritt auf 226,15 USD (-1,31%). Bitcoin faellt auf Warshs Rede hin von ~81.000 auf ~78.700 USD, Renditen steigen - kein Trade im risikoaversen Umfeld direkt nach der Rede.",
+        "portfolioValue": 986.91
       }
     ]
   }
