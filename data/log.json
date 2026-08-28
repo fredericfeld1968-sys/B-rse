@@ -2655,9 +2655,9 @@
   },
   {
     "date": "2026-08-28",
-    "marketOverview": "Mittags (12:11 MESZ, Xetra geoeffnet, US-Handel erst ab 15:30 MESZ): NVDA erholt sich leicht auf ca. 226,15 USD (-1,31% zum Einstand 229,15 USD, Tagesspanne 220,90-230,47 USD). Bitcoin haelt sich knapp unter 80.000 USD (~79.660 USD, +1,1% in 24h), Solana legt weiter zu auf ca. 100-103 USD (+~7% in 24h, +20% Wochenplus) und bleibt damit auf allen Zeitebenen tief ueberkauft. Faedelchef Kevin Warsh haelt seine erste Jackson-Hole-Rede als Fed-Chef um 10:00 Uhr ET / 16:00 Uhr MESZ (noch rund 4 Std. entfernt) - Maerkte positionieren sich vorsichtig, keine klaren Vorab-Signale.",
-    "decision": "Tagesbudget-Gutschrift fuer den 28.08. bereits im ersten Lauf des Tages erfolgt (freies Kapital weiterhin ca. 22.960,66 EUR). NVDA-Position (pos-0010) unveraendert gehalten, Kurs auf ca. 226,15 USD aktualisiert (-1,31%, leichte Erholung vom Vormittagstief) - kein Stop-Loss-Niveau erreicht, fundamentale These weiter intakt. Kein Krypto-Kauf: Solana bleibt trotz starkem Momentum tief ueberkauft, Bitcoin/Solana-Volatilitaet um Warshs Rede (16:00 MESZ) bewusst nicht vorweggenommen. Keine ueberzeugende neue Gelegenheit identifiziert.",
-    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. NVDA-Erholung ist normale Konsolidierung, kein Stop-Loss-Niveau erreicht. Solana ist trotz starken Zuflusses (20% Wochenplus) auf allen Zeitebenen ueberkauft; ein Einstieg unmittelbar vor Warshs erster Rede als Fed-Chef waere unnoetig riskant ohne Sicherheitsmarge, da die Rede grosse Kursausschlaege ausloesen kann. Keine Position verstoesst gegen Ausschlusslisten.",
+    "marketOverview": "Fruehnachmittags (13:16 MESZ, Xetra geoeffnet, US-Handel erst ab 15:30 MESZ): NVDA unveraendert bei ca. 226,15 USD (-1,31% zum Einstand 229,15 USD, Tagesspanne 220,90-230,47 USD, Vortagesschluss 222,86 USD). Bitcoin haelt sich knapp unter 80.000 USD (~79.365-80.258 USD), Solana weiterhin stark bei ca. 100-108 USD (+9% in 24h, +20% Wochenplus) und bleibt auf allen Zeitebenen tief ueberkauft. Fed-Chef Kevin Warsh haelt seine erste Jackson-Hole-Rede um 10:00 Uhr ET / 16:00 Uhr MESZ (noch rund 2,75 Std. entfernt); Inflation bei 3,4%, 30-jaehrige Treasury-Rendite nahe Hoch seit 2007 - Maerkte positionieren sich vorsichtig vor der Rede.",
+    "decision": "Tagesbudget-Gutschrift fuer den 28.08. bereits im ersten Lauf des Tages erfolgt (freies Kapital weiterhin ca. 22.960,66 EUR). NVDA-Position (pos-0010) unveraendert gehalten, Kurs bestaetigt bei 226,15 USD (-1,31%) - kein Stop-Loss-Niveau erreicht, fundamentale These weiter intakt. Kein Krypto-Kauf: Solana bleibt trotz starkem Momentum tief ueberkauft, Bitcoin/Solana-Volatilitaet um Warshs Rede (16:00 MESZ) bewusst nicht vorweggenommen. Keine ueberzeugende neue Gelegenheit identifiziert.",
+    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. NVDA-Kurs stagniert nahe dem letzten Stand, kein Stop-Loss-Niveau erreicht. Solana ist trotz starken Zuflusses (20% Wochenplus) auf allen Zeitebenen ueberkauft; ein Einstieg rund 2,75 Std. vor Warshs erster Rede als Fed-Chef waere unnoetig riskant ohne Sicherheitsmarge, da die Rede grosse Kursausschlaege ausloesen kann. Keine Position verstoesst gegen Ausschlusslisten.",
     "positionIds": [
       "pos-0010"
     ],
@@ -2726,6 +2726,11 @@
       {
         "time": "12:11",
         "note": "Keine Aenderung; NVDA leicht erholt auf 226,15 USD (-1,31%). Bitcoin knapp unter 80.000 USD, Solana ~100-103 USD (+20% Wochenplus) weiterhin ueberkauft, rund 4 Std. vor Warshs erster Jackson-Hole-Rede (16:00 MESZ) - kein Trade",
+        "portfolioValue": 986.91
+      },
+      {
+        "time": "13:16",
+        "note": "Keine Aenderung; NVDA bestaetigt bei 226,15 USD (-1,31%). Bitcoin ~79.365-80.258 USD, Solana ~100-108 USD (+9% 24h) weiterhin ueberkauft, rund 2,75 Std. vor Warshs erster Jackson-Hole-Rede (16:00 MESZ) - kein Trade",
         "portfolioValue": 986.91
       }
     ]
