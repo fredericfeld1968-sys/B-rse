@@ -2787,9 +2787,9 @@
   },
   {
     "date": "2026-08-29",
-    "marketOverview": "Samstagabend (Stand 22:07 MESZ): US-Boersen und Xetra weiterhin geschlossen (Wochenende), NVDA unveraendert bei 217,55 USD (letzter Freitags-Schlusskurs, -5,06% seit Kauf). Kryptomarkt bleibt risk-off: Bitcoin bei ca. 77.678-77.812 USD (-3,0% bis -3,3% in 24h), weiterhin belastet durch Fed-Gouverneur Warshs hawkische Jackson-Hole-Rede (September-Zinserhoehung mit ~57-68% eingepreist). Solana bei ca. 103,57-103,69 USD weiterhin ueberkauft (Tages-RSI teils >70-80 je nach Quelle). Kein neuer Katalysator seit dem letzten Lauf (21:07) erkennbar, Markt bleibt abwartend/risk-off.",
-    "decision": "Tagesbudget-Gutschrift fuer den 29.08. bereits im ersten Lauf erfolgt (freies Kapital weiterhin ca. 23.960,66 EUR, vollstaendig ungenutzt). Dreiundzwanzigster Lauf des Tages: erneut kein Trade. Wochenende - Aktien, ETFs und Rohstoffe nicht handelbar, NVDA-Position wird nur zum letzten verfuegbaren Kurs gehalten. Bitcoin und Solana zeigen keine wesentlich neue Entwicklung gegenueber dem letzten Lauf (weiterhin Fed-Zinsangst bzw. Solana ueberkauft) und bieten keine ueberzeugende Einstiegsbasis.",
-    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Ausserhalb der Handelszeiten sind Aktien/ETFs/Rohstoffe nicht handelbar (NVDA-Position bleibt daher unveraendert zum letzten Schlusskurs). Bei Krypto spricht die anhaltende Fed-Zinserhoehungsangst (Warsh-Rede) weiterhin fuer risk-off statt fuer einen Einstieg, und Solana bleibt ueberkauft - beides kein 'wirklich ueberzeugendes' Setup. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "marketOverview": "Samstagnacht (Stand 23:08 MESZ): US-Boersen und Xetra weiterhin geschlossen (Wochenende), NVDA unveraendert bei 217,55 USD (letzter Freitags-Schlusskurs, -5,06% seit Kauf). Kryptomarkt bleibt risk-off: Bitcoin bei ca. 77.678-77.803 USD (-3,3% bis -3,8% in 24h), weiterhin belastet durch Fed-Gouverneur Warshs hawkische Jackson-Hole-Rede (Kernrate PCE 3,7% YoY, September-Zinserhoehung mit ~68% eingepreist). Solana bei ca. 105 USD weiterhin ueberkauft (Tages-RSI ~79). Kein neuer Katalysator seit dem letzten Lauf (22:07) erkennbar, Markt bleibt abwartend/risk-off.",
+    "decision": "Tagesbudget-Gutschrift fuer den 29.08. bereits im ersten Lauf erfolgt (freies Kapital weiterhin ca. 23.960,66 EUR, vollstaendig ungenutzt). Vierundzwanzigster Lauf des Tages: erneut kein Trade. Wochenende - Aktien, ETFs und Rohstoffe nicht handelbar, NVDA-Position wird nur zum letzten verfuegbaren Kurs gehalten. Bitcoin und Solana zeigen keine wesentlich neue Entwicklung gegenueber dem letzten Lauf (weiterhin Fed-Zinsangst bzw. Solana ueberkauft) und bieten keine ueberzeugende Einstiegsbasis.",
+    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Ausserhalb der Handelszeiten sind Aktien/ETFs/Rohstoffe nicht handelbar (NVDA-Position bleibt daher unveraendert zum letzten Schlusskurs). Bei Krypto spricht die anhaltende Fed-Zinserhoehungsangst (Warsh-Rede, PCE 3,7% YoY) weiterhin fuer risk-off statt fuer einen Einstieg, und Solana bleibt ueberkauft (RSI ~79) - beides kein 'wirklich ueberzeugendes' Setup. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [
       "pos-0010"
     ],
@@ -2908,6 +2908,11 @@
       {
         "time": "22:07",
         "note": "Keine Aenderung - Wochenende, nur Krypto handelbar; Bitcoin weiterhin ~77.678-77.812 USD (-3,0% bis -3,3% 24h) unter Druck durch Fed-Zinsangst (Warsh/Jackson Hole), Solana weiterhin ueberkauft bei ~103,57-103,69 USD, NVDA unveraendert bei 217,55 USD (letzter Schlusskurs) - kein Trade",
+        "portfolioValue": 949.38
+      },
+      {
+        "time": "23:08",
+        "note": "Keine Aenderung - Wochenende, nur Krypto handelbar; Bitcoin weiterhin ~77.678-77.803 USD (-3,3% bis -3,8% 24h) unter Druck durch Fed-Zinsangst (Warsh/Jackson Hole, PCE 3,7% YoY), Solana weiterhin ueberkauft (RSI ~79) bei ~105 USD, NVDA unveraendert bei 217,55 USD (letzter Schlusskurs) - kein Trade",
         "portfolioValue": 949.38
       }
     ]
