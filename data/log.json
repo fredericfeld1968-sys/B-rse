@@ -2787,9 +2787,9 @@
   },
   {
     "date": "2026-08-29",
-    "marketOverview": "Samstagmittag (Stand 13:08 MESZ): US-Boersen und Xetra weiterhin geschlossen (Wochenende). NVDA unveraendert bei 217,55 USD (-5,06% seit Kauf, letzter Schlusskurs vom Freitag, keine neuen Kursdaten am Wochenende). Bitcoin weiterhin bei ca. 77.680 USD, unveraendert gegenueber dem Vorlauf und weiterhin belastet durch die hawkische Jackson-Hole-Rede von Fed-Chair Warsh (Ratenerhoehungs-Wahrscheinlichkeit fuer September laut CME FedWatch auf 57,5% gestiegen); Aktienindizes schlossen Freitag entsprechend leicht im Minus. Solana notiert weiterhin bei ca. 103-107 USD und bleibt nach der starken Rally der Vorwoche tief ueberkauft.",
-    "decision": "Tagesbudget-Gutschrift fuer den 29.08. bereits im ersten Lauf erfolgt (freies Kapital weiterhin ca. 23.960,66 EUR, vollstaendig ungenutzt). Vierzehnter Lauf des Tages: erneut kein Trade. Wochenende - Aktien, ETFs und Rohstoffe nicht handelbar, NVDA-Position wird nur zum letzten verfuegbaren Kurs gehalten. Bitcoin und Solana zeigen gegenueber dem Vorlauf keine relevante Bewegung und bieten weiterhin keine ueberzeugende Einstiegsbasis (Bitcoin weiter durch hawkische Fed-Erwartungen belastet, Solana tief ueberkauft).",
-    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Ausserhalb der Handelszeiten (Wochenende) sind Aktien, ETFs und Rohstoffe nicht handelbar - nur Krypto koennte bewegt werden. Bitcoin notiert seit dem Vorlauf unveraendert um ~77.680 USD; die hawkische Warsh-Rede und die gestiegene Zinserhoehungs-Wahrscheinlichkeit (57,5%) sprechen eher fuer weiteren Gegenwind als fuer ein Kaufsignal. Solana bleibt trotz solider fundamentaler Nachrichtenlage auf allen Zeitebenen tief ueberkauft - ein Einstieg hier waere verspaetet und nahe am lokalen Hoch. Daher: kein Trade in diesem Lauf, bestehende NVDA-Position wird unveraendert gehalten.",
+    "marketOverview": "Samstagnachmittag (Stand 14:12 MESZ): US-Boersen und Xetra weiterhin geschlossen (Wochenende). NVDA unveraendert bei 217,55 USD (-5,06% seit Kauf, letzter Schlusskurs vom Freitag). Bitcoin notiert bei ca. 77.680 USD, weiterhin gedaempft durch die hawkische Jackson-Hole-Rede von Fed-Chair Warsh (Zinserhoehungs-Wahrscheinlichkeit September laut CME FedWatch weiterhin erhoeht). Solana bei ca. 103-107 USD, 1h-RSI ~78 - weiterhin ueberkauft. Breiterer Altcoin-Markt leicht schwaecher (Hyperliquid, Sei, Bittensor im Minus, Gewinnmitnahmen), Fear&Greed-Index bei 70 (Gier), aber keine breite Altseason erkennbar.",
+    "decision": "Tagesbudget-Gutschrift fuer den 29.08. bereits im ersten Lauf erfolgt (freies Kapital weiterhin ca. 23.960,66 EUR, vollstaendig ungenutzt). Fuenfzehnter Lauf des Tages: erneut kein Trade. Wochenende - Aktien, ETFs und Rohstoffe nicht handelbar, NVDA-Position wird nur zum letzten verfuegbaren Kurs gehalten. Bitcoin und Solana zeigen gegenueber dem Vorlauf keine relevante Bewegung und bieten weiterhin keine ueberzeugende Einstiegsbasis.",
+    "reasoning": "Risikoprofil \"spekulativ\" erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Ausserhalb der Handelszeiten (Wochenende) sind Aktien, ETFs und Rohstoffe nicht handelbar - nur Krypto koennte bewegt werden. Bitcoin verharrt seit Stunden bei ~77.680 USD ohne neuen Katalysator, weiterhin belastet durch hawkische Fed-Erwartungen. Solana bleibt trotz solider fundamentaler Nachrichtenlage auf Stundenbasis ueberkauft (RSI ~78), ein Einstieg waere verspaetet. Breitere Altcoins tendieren eher schwaecher (Gewinnmitnahmen bei HYPE, SEI, TAO). Daher: kein Trade in diesem Lauf, bestehende NVDA-Position wird unveraendert gehalten.",
     "positionIds": [
       "pos-0010"
     ],
@@ -2863,6 +2863,11 @@
       {
         "time": "13:08",
         "note": "Keine Aenderung - Wochenende, nur Krypto handelbar; Bitcoin unveraendert ~77.680 USD (hawkische Warsh-Rede, Zinserhoehungs-Wahrscheinlichkeit auf 57,5% gestiegen), Solana weiterhin tief ueberkauft bei ~103-107 USD, NVDA unveraendert bei 217,55 USD (letzter Schlusskurs) - kein Trade",
+        "portfolioValue": 949.38
+      },
+      {
+        "time": "14:12",
+        "note": "Keine Aenderung - Wochenende, nur Krypto handelbar; Bitcoin weiterhin ~77.680 USD ohne Katalysator, Solana weiterhin ueberkauft (RSI ~78), breitere Altcoins leicht schwaecher - kein Trade",
         "portfolioValue": 949.38
       }
     ]
