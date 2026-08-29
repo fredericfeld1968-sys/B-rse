@@ -2787,9 +2787,9 @@
   },
   {
     "date": "2026-08-29",
-    "marketOverview": "Samstagmorgen (Stand 06:09 MESZ): US-Boersen und Xetra weiterhin geschlossen (Wochenende), NVDA unveraendert bei 226,26 USD. Bitcoin setzt den Ruecksetzer nach der hawkischen Jackson-Hole-Rede von Fed-Chair Kevin Warsh fort und notiert nun bei ca. 74.750-77.600 USD (weiter unter dem Wochenhoch von 81.235 USD). Solana bewegt sich weiterhin im Bereich 105-108 USD und bleibt trotz eines leichten Ruecksetzers mit Tages-RSI ~80 tief ueberkauft. Kein neuer eigenstaendiger Katalysator seit dem letzten Lauf.",
-    "decision": "Tagesbudget-Gutschrift fuer den 29.08. bereits im ersten Lauf erfolgt (freies Kapital weiterhin ca. 23.960,66 EUR). Siebter Lauf des Tages: erneut kein Trade. Wochenende - Aktien, ETFs und Rohstoffe nicht handelbar. Bitcoin faellt weiter zurueck (kein Bodenbildungs-Signal), Solana bleibt tief ueberkauft. Keine ueberzeugende neue Einstiegsgelegenheit.",
-    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Ausserhalb der Handelszeiten (Wochenende) sind nur Krypto-Trades moeglich. Bitcoin setzt den Ruecksetzer nach der hawkischen Warsh-Rede fort (jetzt ca. 74.750-77.600 USD, deutlich unter dem Wochenhoch) - ein fortgesetzter Risk-off-Trend ohne bestaetigte Bodenbildung ist kein Kaufsignal. Solana bleibt trotz kleinerem Ruecksetzer mit Tages-RSI ~80 tief ueberkauft. Ein Einstieg in beide waere reine Spekulation ohne klaren Edge. Die offene NVDA-Position bleibt unveraendert (Markt geschlossen). Daher erneut kein Trade.",
+    "marketOverview": "Samstagmorgen (Stand 07:09 MESZ): US-Boersen und Xetra weiterhin geschlossen (Wochenende), NVDA unveraendert bei 226,26 USD. Bitcoin bewegt sich weiter im Bereich von ca. 77.600-78.000 USD nach dem Ruecksetzer von den Wochenhochs (~81.000 USD) infolge der hawkischen Warsh-Rede; Crypto Fear & Greed Index bei 70 ('Greed'). Solana notiert bei ca. 103-107 USD mit Tages-RSI weiterhin um 88 - tief ueberkauft trotz starker ETF-Zufluesse (+1,22 Mrd. USD) und Burn-Vorschlaegen. Kein neuer eigenstaendiger Katalysator seit dem letzten Lauf.",
+    "decision": "Tagesbudget-Gutschrift fuer den 29.08. bereits im ersten Lauf erfolgt (freies Kapital weiterhin ca. 23.960,66 EUR). Achter Lauf des Tages: erneut kein Trade. Wochenende - Aktien, ETFs und Rohstoffe nicht handelbar. Bitcoin konsolidiert nach dem Ruecksetzer ohne Bodenbildungssignal, Solana bleibt mit RSI ~88 tief ueberkauft. Keine ueberzeugende neue Einstiegsgelegenheit.",
+    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Ausserhalb der Handelszeiten (Wochenende) sind nur Krypto-Trades moeglich. Bitcoin haelt sich bei ca. 77.600-78.000 USD, deutlich unter dem Wochenhoch von ueber 81.000 USD, ohne klares Reversal-Signal - ein Einstieg waere reine Spekulation gegen den kurzfristigen Trend. Solana zeigt mit Tages-RSI ~88 eine der hoechsten Ueberkauft-Ablesungen der letzten Wochen; trotz starker Fundamentaldaten (ETF-Zufluesse, Burn-Vorschlaege) ist das Rueckschlagsrisiko fuer einen Neueinstieg zu hoch. Die offene NVDA-Position bleibt unveraendert (Markt geschlossen, Wochenende). Daher erneut kein Trade.",
     "positionIds": [
       "pos-0010"
     ],
@@ -2828,6 +2828,11 @@
       {
         "time": "06:09",
         "note": "Keine Aenderung - Wochenende, nur Krypto handelbar; Bitcoin setzt Ruecksetzer nach Warsh-Rede fort (~74.750-77.600 USD), Solana weiterhin tief ueberkauft (RSI ~80) - kein Trade",
+        "portfolioValue": 987.39
+      },
+      {
+        "time": "07:09",
+        "note": "Keine Aenderung - Wochenende, nur Krypto handelbar; Bitcoin konsolidiert ~77.600-78.000 USD ohne Bodenbildungssignal, Solana weiterhin tief ueberkauft (RSI ~88) - kein Trade",
         "portfolioValue": 987.39
       }
     ]
