@@ -2916,5 +2916,22 @@
         "portfolioValue": 949.38
       }
     ]
+  },
+  {
+    "date": "2026-08-30",
+    "marketOverview": "Sonntag frueh (Stand 00:07 MESZ): US-Boersen und Xetra weiterhin geschlossen (Wochenende). NVDA notiert unveraendert zum Freitags-Schluss bei 217,55 USD (-5,06% seit Kauf); Nachboersehandel am Freitag pendelte zwischen 217-230 USD ohne klaren neuen Impuls. Kryptomarkt bleibt trotz 'extreme greed'-Sentiment und starken ETF-Zufluessen (1,92 Mrd. USD) risk-off gepraegt: Bitcoin haelt sich bei ca. 77.700-79.000 USD, weiterhin gedaempft durch Fed-Gouverneur Warshs hawkische Jackson-Hole-Rede (September-Zinserhoehung mit ~68-72% eingepreist, FOMC-Entscheidung erst am 16.09.). Solana verharrt bei ca. 103-105 USD, weiterhin ueberkauft.",
+    "decision": "Tagesbudget-Gutschrift fuer den 30.08. in diesem ersten Lauf des Tages erfolgt (totalFreshCapitalEur 25.000 -> 26.000 EUR, freies Kapital jetzt ca. 25.460,66 EUR, vollstaendig ungenutzt). Erster Lauf des neuen Tages: kein Trade. Wochenende - Aktien, ETFs und Rohstoffe nicht handelbar, NVDA-Position bleibt zum letzten verfuegbaren Kurs unveraendert gehalten. Bitcoin und Solana bieten gegenueber dem letzten Lauf vom Vorabend keine wesentlich neue, ueberzeugende Entwicklung.",
+    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Ausserhalb der Handelszeiten sind Aktien/ETFs/Rohstoffe nicht handelbar, daher bleibt die NVDA-Position unveraendert zum letzten Schlusskurs. Bei Krypto spricht die anhaltende Fed-Zinserhoehungsangst (Warsh-Rede, Zinserhoehung zu ~68-72% eingepreist) weiterhin fuer Vorsicht statt fuer einen Einstieg, Bitcoin und Solana zeigen keinen neuen Katalysator gegenueber dem Vorabend und bleiben technisch ueberkauft - kein 'wirklich ueberzeugendes' Setup im Sinne der Vorgaben. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "positionIds": [
+      "pos-0010"
+    ],
+    "portfolioValueEnd": 949.38,
+    "updates": [
+      {
+        "time": "00:07",
+        "note": "Tagesbudget-Gutschrift +1.000 EUR (freies Kapital jetzt ca. 25.460,66 EUR); Wochenende - nur Krypto grundsaetzlich handelbar, aber Bitcoin (~77.700-79.000 USD) und Solana (~103-105 USD) weiterhin ohne ueberzeugenden neuen Katalysator und technisch ueberkauft - kein Trade",
+        "portfolioValue": 949.38
+      }
+    ]
   }
 ]
