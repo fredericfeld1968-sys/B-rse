@@ -2787,9 +2787,9 @@
   },
   {
     "date": "2026-08-29",
-    "marketOverview": "Samstagnachmittag (Stand 15:12 MESZ): US-Boersen und Xetra weiterhin geschlossen (Wochenende), NVDA unveraendert bei 217,55 USD (letzter Freitags-Schlusskurs, -5,06% seit Kauf). Kryptomarkt insgesamt heute deutlich schwaecher (Gesamtmarktkapitalisierung -2,9% in 24h auf 2,72 Bio. USD): Bitcoin bei ca. 77.680-77.800 USD (-3,8% in 24h), weiterhin belastet durch die hawkische Jackson-Hole-Rede von Fed-Chair Warsh. Solana bei ca. 103,57 USD (-2,89% in 24h), 1h-RSI weiterhin bei ca. 78 - klar ueberkauft trotz des Ruecksetzers. Kein neuer positiver Katalysator erkennbar, Markt tendiert risk-off.",
-    "decision": "Tagesbudget-Gutschrift fuer den 29.08. bereits im ersten Lauf erfolgt (freies Kapital weiterhin ca. 23.960,66 EUR, vollstaendig ungenutzt). Sechzehnter Lauf des Tages: erneut kein Trade. Wochenende - Aktien, ETFs und Rohstoffe nicht handelbar, NVDA-Position wird nur zum letzten verfuegbaren Kurs gehalten. Bitcoin und Solana sind heute sogar leicht ruecklaeufig (Gesamtmarkt -2,9%) und bieten weiterhin keine ueberzeugende Einstiegsbasis.",
-    "reasoning": "Risikoprofil \"spekulativ\" erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Ausserhalb der Handelszeiten (Wochenende) sind Aktien, ETFs und Rohstoffe nicht handelbar - nur Krypto koennte bewegt werden. Bitcoin ist im 24h-Vergleich um 3,8% gefallen (~77.680-77.800 USD), weiterhin ohne neuen Katalysator und belastet durch hawkische Fed-Erwartungen - ein Dip-Kauf waere reines Abwaertsmomentum-Fangen ohne fundamentale Bestaetigung. Solana bleibt trotz des Ruecksetzers (-2,89% 24h) auf Stundenbasis deutlich ueberkauft (RSI ~78), ein Einstieg waere verspaetet und gegen den kurzfristigen Trend. Der breite Kryptomarkt tendiert heute klar risk-off (-2,9% Gesamtmarktkapitalisierung). Daher: kein Trade in diesem Lauf, bestehende NVDA-Position wird unveraendert gehalten.",
+    "marketOverview": "Samstagnachmittag (Stand 16:08 MESZ): US-Boersen und Xetra weiterhin geschlossen (Wochenende), NVDA unveraendert bei 217,55 USD (letzter Freitags-Schlusskurs, -5,06% seit Kauf). Kryptomarkt insgesamt weiterhin schwaecher (Gesamtmarktkapitalisierung -2,9% in 24h auf 2,72 Bio. USD): Bitcoin bei ca. 77.680-77.800 USD (-3,8% in 24h), Ethereum bei ca. 2.444 USD (-3,0%), weiterhin ohne neuen Katalysator. Solana bei ca. 103-107 USD, 1h-RSI weiterhin um die 78 - klar ueberkauft trotz Ruecksetzer. Kein neuer positiver Katalysator erkennbar, Markt tendiert unveraendert risk-off.",
+    "decision": "Tagesbudget-Gutschrift fuer den 29.08. bereits im ersten Lauf erfolgt (freies Kapital weiterhin ca. 23.960,66 EUR, vollstaendig ungenutzt). Siebzehnter Lauf des Tages: erneut kein Trade. Wochenende - Aktien, ETFs und Rohstoffe nicht handelbar, NVDA-Position wird nur zum letzten verfuegbaren Kurs gehalten. Bitcoin und Solana zeigen keine neue Entwicklung gegenueber dem letzten Lauf und bieten weiterhin keine ueberzeugende Einstiegsbasis.",
+    "reasoning": "Risikoprofil \"spekulativ\" erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Ausserhalb der Handelszeiten (Wochenende) sind Aktien, ETFs und Rohstoffe nicht handelbar - nur Krypto koennte bewegt werden. Bitcoin verharrt bei ~77.680-77.800 USD (-3,8% 24h) ohne neuen Katalysator und ohne Bodenbildungssignal - ein Dip-Kauf waere reines Abwaertsmomentum-Fangen. Solana bleibt trotz Ruecksetzer (-2,89% 24h) auf Stundenbasis deutlich ueberkauft (RSI ~78), ein Einstieg waere verspaetet und gegen den kurzfristigen Trend. Der breite Kryptomarkt tendiert weiterhin klar risk-off (-2,9% Gesamtmarktkapitalisierung, ETH -3,0%). Daher: kein Trade in diesem Lauf, bestehende NVDA-Position wird unveraendert gehalten.",
     "positionIds": [
       "pos-0010"
     ],
@@ -2873,6 +2873,11 @@
       {
         "time": "15:12",
         "note": "Keine Aenderung - Wochenende, nur Krypto handelbar; Kryptomarkt insgesamt schwaecher (-2,9% 24h), Bitcoin -3,8% auf ~77.680-77.800 USD ohne Katalysator, Solana -2,89% aber weiterhin ueberkauft (RSI ~78) - kein Trade",
+        "portfolioValue": 949.38
+      },
+      {
+        "time": "16:08",
+        "note": "Keine Aenderung - Wochenende, nur Krypto handelbar; Bitcoin weiterhin ~77.680-77.800 USD (-3,8% 24h) ohne Katalysator, Ethereum -3,0%, Solana weiterhin tief ueberkauft (RSI ~78) bei ~103-107 USD, NVDA unveraendert bei 217,55 USD (letzter Schlusskurs) - kein Trade",
         "portfolioValue": 949.38
       }
     ]
