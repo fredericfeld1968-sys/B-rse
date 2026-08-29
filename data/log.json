@@ -2787,8 +2787,8 @@
   },
   {
     "date": "2026-08-29",
-    "marketOverview": "Samstagabend (Stand 19:08 MESZ): US-Boersen und Xetra weiterhin geschlossen (Wochenende), NVDA unveraendert bei 217,55 USD (letzter Freitags-Schlusskurs, -5,06% seit Kauf). Kryptomarkt weiterhin schwaecher (Gesamtmarktkapitalisierung 2,72 Bio. USD, -2,9% in 24h): Bitcoin bei ca. 77.680-77.844 USD (-3,1% bis -3,8% in 24h), weiterhin ohne neuen Katalysator. Solana bei ca. 106,92 USD, Tages-RSI14 weiterhin ~80,5 - klar ueberkauft. Ethereum bei ca. 2.444 USD (-3,0%). Kein neuer positiver Katalysator erkennbar, Markt bleibt risk-off.",
-    "decision": "Tagesbudget-Gutschrift fuer den 29.08. bereits im ersten Lauf erfolgt (freies Kapital weiterhin ca. 23.960,66 EUR, vollstaendig ungenutzt). Zwanzigster Lauf des Tages: erneut kein Trade. Wochenende - Aktien, ETFs und Rohstoffe nicht handelbar, NVDA-Position wird nur zum letzten verfuegbaren Kurs gehalten. Bitcoin und Solana zeigen keine neue Entwicklung gegenueber dem letzten Lauf und bieten weiterhin keine ueberzeugende Einstiegsbasis.",
+    "marketOverview": "Samstagabend (Stand 20:08 MESZ): US-Boersen und Xetra weiterhin geschlossen (Wochenende), NVDA unveraendert bei 217,55 USD (letzter Freitags-Schlusskurs, -5,06% seit Kauf). Kryptomarkt weiterhin schwaecher (Gesamtmarktkapitalisierung 2,72 Bio. USD, -2,9% in 24h): Bitcoin bei ca. 77.678-77.844 USD (-3,1% bis -3,8% in 24h) weiterhin ohne neuen Katalysator. Solana bei ca. 103,57 USD, Tages-RSI14 weiterhin ~80,5 - klar ueberkauft. Ethereum bei ca. 2.444 USD (-3,0%). Altcoin-Rally begrenzt auf einzelne Kleinstwerte (Lobster, Akedo, Magma Finance), kein breiter neuer Katalysator erkennbar, Markt bleibt risk-off.",
+    "decision": "Tagesbudget-Gutschrift fuer den 29.08. bereits im ersten Lauf erfolgt (freies Kapital weiterhin ca. 23.960,66 EUR, vollstaendig ungenutzt). Einundzwanzigster Lauf des Tages: erneut kein Trade. Wochenende - Aktien, ETFs und Rohstoffe nicht handelbar, NVDA-Position wird nur zum letzten verfuegbaren Kurs gehalten. Bitcoin und Solana zeigen keine wesentlich neue Entwicklung gegenueber dem letzten Lauf und bieten weiterhin keine ueberzeugende Einstiegsbasis.",
     "reasoning": "Risikoprofil \"spekulativ\" erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Ausserhalb der Handelszeiten (Wochenende) sind Aktien, ETFs und Rohstoffe nicht handelbar - nur Krypto koennte bewegt werden. Bitcoin faellt weiter ohne neuen Katalysator und ohne Bodenbildungssignal (-3,1% bis -3,8% 24h) - ein Dip-Kauf waere reines Abwaertsmomentum-Fangen. Solana bleibt deutlich ueberkauft (Tages-RSI14 ~80,5), ein Einstieg waere verspaetet und gegen den kurzfristigen Trend. Ethereum faellt ebenfalls (-3,0%) ohne erkennbaren Boden. Daher: kein Trade in diesem Lauf, bestehende NVDA-Position wird unveraendert gehalten.",
     "positionIds": [
       "pos-0010"
@@ -2893,6 +2893,11 @@
       {
         "time": "19:08",
         "note": "Keine Aenderung - Wochenende, nur Krypto handelbar; Bitcoin weiterhin ~77.680-77.844 USD (-3,1% bis -3,8% 24h) ohne Katalysator, Solana weiterhin tief ueberkauft (Tages-RSI14 ~80,5) bei ~106,92 USD, Ethereum -3,0% auf ~2.444 USD, NVDA unveraendert bei 217,55 USD (letzter Schlusskurs) - kein Trade",
+        "portfolioValue": 949.38
+      },
+      {
+        "time": "20:08",
+        "note": "Keine Aenderung - Wochenende, nur Krypto handelbar; Bitcoin weiterhin ~77.678-77.844 USD (-3,1% bis -3,8% 24h) ohne Katalysator, Solana weiterhin tief ueberkauft (Tages-RSI14 ~80,5) bei ~103,57 USD, Ethereum -3,0% auf ~2.444 USD, NVDA unveraendert bei 217,55 USD (letzter Schlusskurs) - kein Trade",
         "portfolioValue": 949.38
       }
     ]
