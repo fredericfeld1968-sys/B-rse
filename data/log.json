@@ -2787,9 +2787,9 @@
   },
   {
     "date": "2026-08-29",
-    "marketOverview": "Samstagvormittag (Stand 11:08 MESZ): US-Boersen und Xetra weiterhin geschlossen (Wochenende). NVDA aktualisiert auf 217,55 USD (-5,06% seit Kauf) - Post-Earnings-Ruecksetzer haelt an, keine neue Nachrichtenlage am Wochenende. Bitcoin ist von seinem Zwischenhoch bei ca. 81.235 USD (Dienstag) wieder auf rund 77.678 USD zurueckgefallen; belastender Faktor bleibt die hawkische Fed-Rhetorik rund um das Jackson-Hole-Symposium (27.-29.08., u.a. Waller/Warsh), waehrend ein klarer neuer Aufwaerts-Katalysator fehlt. Solana notiert bei ca. 103-107 USD (-2,89% in 24h) und bleibt trotz Schwab-Crypto-Listing-Rally und Rekord-ETF-Zufluessen der letzten Woche auf allen Zeitebenen tief ueberkauft.",
-    "decision": "Tagesbudget-Gutschrift fuer den 29.08. bereits im ersten Lauf erfolgt (freies Kapital weiterhin ca. 23.960,66 EUR, vollstaendig ungenutzt). Zwoelfter Lauf des Tages: erneut kein Trade. Wochenende - Aktien, ETFs und Rohstoffe nicht handelbar, NVDA-Position wird nur zum aktuellen Kurs bewertet und gehalten. Bitcoins Ruecksetzer von ~81.000 auf ~77.700 USD im Zuge der Jackson-Hole-Unsicherheit bietet keine ueberzeugende Einstiegsbasis, und Solana bleibt trotz starker fundamentaler Nachrichtenlage zu stark ueberkauft fuer einen neuen Einstieg.",
-    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Ausserhalb der Handelszeiten (Wochenende) sind Aktien, ETFs und Rohstoffe nicht handelbar - nur Krypto koennte bewegt werden. Bitcoin ist seit dem Zwischenhoch am Dienstag (~81.235 USD) wieder auf ca. 77.678 USD zurueckgefallen, getrieben von hawkischer Fed-Kommentierung rund um Jackson Hole - das ist kein Einstiegssignal, sondern eher ein Warnsignal fuer weitere Volatilitaet ohne klare Richtung. Solana bleibt trotz eines klaren fundamentalen Katalysators (Schwab-Crypto-Listing, Rekord-ETF-Zufluesse) nach ueber 40% Kursgewinn im Monat auf allen Zeitebenen tief ueberkauft und faellt zudem in den letzten 24h leicht (-2,89%) - ein Einstieg hier waere ein verspaeteter Kauf nahe am lokalen Hoch. Daher: kein Trade in diesem Lauf, bestehende NVDA-Position wird gehalten und neu bewertet.",
+    "marketOverview": "Samstagmittag (Stand 12:08 MESZ): US-Boersen und Xetra weiterhin geschlossen (Wochenende). NVDA unveraendert bei 217,55 USD (-5,06% seit Kauf, letzter Schlusskurs vom Freitag, keine neuen Kursdaten am Wochenende). Bitcoin pendelt weiterhin um die 77.700-77.800 USD (Zwischenhoch Dienstag ca. 81.235 USD), belastet durch hawkische Fed-Kommentare rund um das laufende Jackson-Hole-Symposium (Fed-Chair Warsh); ein klarer neuer Aufwaerts-Katalysator fehlt weiterhin. Solana notiert bei ca. 103-107 USD und bleibt nach der starken Rally der Vorwoche (Schwab-Crypto-Listing, Rekord-ETF-Zufluesse) auf allen Zeitebenen tief ueberkauft.",
+    "decision": "Tagesbudget-Gutschrift fuer den 29.08. bereits im ersten Lauf erfolgt (freies Kapital weiterhin ca. 24.960,66 EUR, vollstaendig ungenutzt). Dreizehnter Lauf des Tages: erneut kein Trade. Wochenende - Aktien, ETFs und Rohstoffe nicht handelbar, NVDA-Position wird nur zum letzten verfuegbaren Kurs gehalten. Bitcoin und Solana zeigen gegenueber dem Vorlauf keine relevante Bewegung und bieten weiterhin keine ueberzeugende Einstiegsbasis (Bitcoin ohne Katalysator, Solana tief ueberkauft).",
+    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Ausserhalb der Handelszeiten (Wochenende) sind Aktien, ETFs und Rohstoffe nicht handelbar - nur Krypto koennte bewegt werden. Bitcoin notiert unveraendert um ~77.700 USD ohne neuen fundamentalen Auslöser, waehrend die Jackson-Hole-Rede von Fed-Chair Warsh eher Risiko fuer weitere Volatilitaet als ein Kaufsignal darstellt. Solana bleibt trotz solider fundamentaler Nachrichtenlage (Schwab-Listing, ETF-Zufluesse) auf allen Zeitebenen tief ueberkauft - ein Einstieg hier waere verspaetet und nahe am lokalen Hoch. Daher: kein Trade in diesem Lauf, bestehende NVDA-Position wird unveraendert gehalten.",
     "positionIds": [
       "pos-0010"
     ],
@@ -2853,6 +2853,11 @@
       {
         "time": "11:08",
         "note": "Keine Aenderung - Wochenende, nur Krypto handelbar; Bitcoin faellt im Zuge hawkischer Jackson-Hole-Kommentare von ~81.000 auf ~77.678 USD zurueck ohne Bodenbildungssignal, Solana (-2,89% 24h) weiterhin tief ueberkauft, NVDA auf 217,55 USD aktualisiert (-5,06%) - kein Trade",
+        "portfolioValue": 949.38
+      },
+      {
+        "time": "12:08",
+        "note": "Keine Aenderung - Wochenende, nur Krypto handelbar; Bitcoin seitwaerts bei ~77.700-77.800 USD ohne neuen Katalysator, Solana weiterhin tief ueberkauft bei ~103-107 USD, NVDA unveraendert bei 217,55 USD (letzter Schlusskurs) - kein Trade",
         "portfolioValue": 949.38
       }
     ]
