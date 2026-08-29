@@ -2787,13 +2787,13 @@
   },
   {
     "date": "2026-08-29",
-    "marketOverview": "Samstagvormittag (Stand 09:08 MESZ): US-Boersen und Xetra weiterhin geschlossen (Wochenende). NVDA nachboerslich weiter leicht ruecklaeufig auf ca. 217,86 USD (-4,9% seit Kauf) - Fortsetzung des Post-Earnings-Ruecksetzers nach dem Bericht ueber ein pausiertes AI-Compute-Partnership-Programm. Bitcoin konsolidiert weiterhin um 77.600-78.000 USD ohne neuen Katalysator, nachdem die hawkische Warsh-Rede in Jackson Hole (Symposium laeuft noch bis 29.08.) den vorherigen Anstieg Richtung 80.000-83.000 USD gebremst hat; Bitcoin-ETFs verzeichnen 2026 kumulativ Nettoabfluesse von 4,83 Mrd. USD. Solana bleibt mit ca. 103-107 USD auf 6-Monats-Hoch, getrieben von der Schwab-Crypto-Listing-Nachricht (Aufnahme von SOL, AVAX, LINK) sowie Rekord-ETF-Zufluessen - der Titel ist nach einem Plus von ueber 40% in 8 Handelstagen jedoch tief ueberkauft, ein erster Ruecksetzer in Richtung Mitte-90-USD-Bereich wurde diese Woche bereits beobachtet.",
-    "decision": "Tagesbudget-Gutschrift fuer den 29.08. bereits im ersten Lauf erfolgt (freies Kapital weiterhin ca. 23.960,66 EUR, vollstaendig ungenutzt). Zehnter Lauf des Tages: erneut kein Trade. Wochenende - Aktien, ETFs und Rohstoffe nicht handelbar, NVDA-Position wird nur zum aktuellen Kurs bewertet und gehalten. Weder bei Bitcoin (weiterhin ohne Katalysator) noch bei Solana (bereits stark ueberkauft trotz starker fundamentaler Nachrichtenlage) liegt eine ueberzeugende neue Einstiegsgelegenheit vor.",
-    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Ausserhalb der Handelszeiten (Wochenende) sind Aktien, ETFs und Rohstoffe nicht handelbar - nur Krypto koennte bewegt werden. Bitcoin liefert weiterhin keinen neuen Impuls (Konsolidierung ~77.600-78.000 USD, Jackson-Hole-Symposium und Zinssorgen belasten den Risikoappetit). Solana hat trotz eines klaren fundamentalen Katalysators (Schwab-Crypto-Listing) bereits ueber 40% in 8 Tagen zugelegt und ist auf allen Zeitebenen tief ueberkauft; ein Einstieg jetzt waere eine reine Anschlusswette ohne Sicherheitsmarge, zumal bereits ein erster Ruecksetzer in Richtung Mitte-90-USD beobachtet wurde. Keine der bestehenden oder potenziellen Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "marketOverview": "Samstagvormittag (Stand 10:08 MESZ): US-Boersen und Xetra weiterhin geschlossen (Wochenende). NVDA nachboerslich nahezu unveraendert bei ca. 217,89 USD (-4,9% seit Kauf) - Post-Earnings-Ruecksetzer nach dem Bericht ueber ein pausiertes AI-Compute-Partnership-Programm hat sich stabilisiert. Bitcoin zieht auf rund 80.900 USD an (+2,5%), nachdem der Kurs die vorherige Konsolidierungszone 77.600-78.000 USD nach oben verlassen hat - der Jackson-Hole-Belastungsfaktor scheint zu verblassen, ein klarer neuer fundamentaler Katalysator liegt aber nicht vor. Solana notiert weiterhin auf 6-Monats-Hoch (ca. 103-107 USD, +44% im Monat), getrieben von der Schwab-Crypto-Listing-Nachricht (SOL, AVAX, LINK) und Rekord-ETF-Zufluessen (1,22 Mrd. USD) - bleibt aber nach dem starken Lauf tief ueberkauft.",
+    "decision": "Tagesbudget-Gutschrift fuer den 29.08. bereits im ersten Lauf erfolgt (freies Kapital weiterhin ca. 23.960,66 EUR, vollstaendig ungenutzt). Elfter Lauf des Tages: erneut kein Trade. Wochenende - Aktien, ETFs und Rohstoffe nicht handelbar, NVDA-Position wird nur zum aktuellen Kurs bewertet und gehalten. Bitcoins Anstieg auf ~80.900 USD ist noch kein bestaetigter Ausbruch mit klarem Katalysator, und Solana bleibt trotz starker fundamentaler Nachrichtenlage zu stark ueberkauft fuer einen neuen Einstieg.",
+    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Ausserhalb der Handelszeiten (Wochenende) sind Aktien, ETFs und Rohstoffe nicht handelbar - nur Krypto koennte bewegt werden. Bitcoin legt zwar auf ca. 80.900 USD zu (+2,5%) und verlaesst damit die Konsolidierungszone der letzten Tage, jedoch ohne einen klar identifizierbaren neuen Katalysator (kein bestaetigter Ausbruch analog zum erfolgreichen pos-0008-Muster vom 19.08.) - ein verfrueher Einstieg waere reine Spekulation ohne Edge. Solana hat trotz eines klaren fundamentalen Katalysators (Schwab-Crypto-Listing, Rekord-ETF-Zufluesse) bereits ueber 40% im Monat zugelegt und ist auf allen Zeitebenen tief ueberkauft - ein Einstieg hier waere ein verspaeteter Kauf am lokalen Hoch. Daher: kein Trade in diesem Lauf, bestehende NVDA-Position wird gehalten und neu bewertet.",
     "positionIds": [
       "pos-0010"
     ],
-    "portfolioValueEnd": 950.73,
+    "portfolioValueEnd": 950.86,
     "updates": [
       {
         "time": "00:09",
@@ -2844,6 +2844,11 @@
         "time": "09:08",
         "note": "Keine Aenderung - Wochenende, nur Krypto handelbar; NVDA weiter leicht ruecklaeufig auf 217,86 USD (-4,9%), Bitcoin ohne Katalysator ~77.600-78.000 USD, Solana trotz Schwab-Crypto-Listing-News weiter tief ueberkauft nach +40% in 8 Tagen - kein Trade",
         "portfolioValue": 950.73
+      },
+      {
+        "time": "10:08",
+        "note": "Keine Aenderung - Wochenende, nur Krypto handelbar; Bitcoin zieht auf ca. 80.900 USD an (+2,5%, verlaesst Konsolidierungszone) aber ohne bestaetigten Katalysator, Solana weiterhin tief ueberkauft auf 6-Monats-Hoch (Schwab-Listing-Rally) - kein Trade",
+        "portfolioValue": 950.86
       }
     ]
   }
