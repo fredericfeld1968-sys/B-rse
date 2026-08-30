@@ -2919,9 +2919,9 @@
   },
   {
     "date": "2026-08-30",
-    "marketOverview": "Sonntag Nacht (Stand 02:09 MESZ): US-Boersen und Xetra weiterhin geschlossen (Wochenende). NVDA notiert unveraendert zum Freitags-Schluss bei 217,55 USD (-5,06% seit Kauf), keine neuen Kurse verfuegbar. Kryptomarkt bleibt risk-off unter dem Eindruck von Fed-Gouverneur Warshs hawkischer Jackson-Hole-Rede: Bitcoin notiert weiterhin im Bereich 77.700-78.150 USD, Ethereum um die 2.443 USD, beide mit rollierenden 24h-Verlusten von rund 3 Prozent. Solana haelt sich bei ca. 103-105 USD, gestuetzt durch die Ankuendigung von Charles Schwab, Solana ins Handelsangebot aufzunehmen, bleibt aber technisch ueberkauft (Tages-RSI weiterhin im 75-85er Bereich). Kein neuer Katalysator seit dem letzten Lauf (01:09) erkennbar.",
+    "marketOverview": "Sonntag Nacht (Stand 03:07 MESZ): US-Boersen und Xetra weiterhin geschlossen (Wochenende). NVDA unveraendert bei 217,55 USD (-5,06% seit Kauf), keine neuen Kurse verfuegbar. Kryptomarkt bleibt risk-off: Bitcoin notiert weiterhin um 77.700-78.150 USD, belastet durch Fed-Gouverneur Warshs hawkische Jackson-Hole-Rede (Zinserhoehungs-Odds von unter 50% auf 68% gestiegen), Ethereum bei ca. 2.443 USD (-3,1% in 24h). Solana haelt sich bei 104-105 USD, gestuetzt durch die Schwab-Listing-Ankuendigung, bleibt aber technisch ueberkauft. Kein neuer Katalysator seit dem letzten Lauf (02:09) erkennbar.",
     "decision": "Tagesbudget fuer den 30.08. wurde bereits im ersten Lauf des Tages (00:07 MESZ) gutgeschrieben; in diesem Lauf keine erneute Gutschrift. Kein Trade: Wochenende - Aktien, ETFs und Rohstoffe nicht handelbar, NVDA-Position bleibt zum letzten verfuegbaren Kurs unveraendert. Bitcoin und Solana bieten gegenueber dem Vorlauf keine wesentlich neue, ueberzeugende Gelegenheit; freies Kapital von ca. 24.960,66 EUR bleibt vollstaendig ungenutzt.",
-    "reasoning": "Risikoprofil \"spekulativ\" erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Ausserhalb der Handelszeiten sind Aktien/ETFs/Rohstoffe nicht handelbar, daher bleibt die NVDA-Position unveraendert zum letzten Schlusskurs. Bei Krypto bleibt Bitcoin durch die anhaltende Fed-Zinserhoehungsangst (Warsh-Rede) belastet, und Solana ist trotz positiver Schwab-Listing-News technisch weiterhin ueberkauft - kein \"wirklich ueberzeugendes\" Setup im Sinne der Vorgaben. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "reasoning": "Risikoprofil \"spekulativ\" erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Ausserhalb der Handelszeiten sind Aktien/ETFs/Rohstoffe nicht handelbar, daher bleibt die NVDA-Position unveraendert zum letzten Schlusskurs. Bitcoin bleibt durch die anhaltende Fed-Zinserhoehungsangst (Warsh-Rede) belastet, Solana ist trotz positiver Schwab-Listing-News technisch weiterhin ueberkauft - kein \"wirklich ueberzeugendes\" Setup im Sinne der Vorgaben. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [
       "pos-0010"
     ],
@@ -2940,6 +2940,11 @@
       {
         "time": "02:09",
         "note": "Keine Aenderung - Wochenende, nur Krypto grundsaetzlich handelbar. Bitcoin weiterhin ~77.700-78.150 USD unter Druck durch Fed-Zinsangst (Warsh), Solana bei ~103-105 USD trotz Schwab-Listing-News weiter ueberkauft - kein Trade",
+        "portfolioValue": 949.38
+      },
+      {
+        "time": "03:07",
+        "note": "Keine Aenderung - Wochenende, nur Krypto grundsaetzlich handelbar. Bitcoin weiterhin ~77.700-78.150 USD unter Druck durch Fed-Zinsangst (Warsh), Solana bei ~104-105 USD trotz Schwab-Listing-News weiter ueberkauft - kein Trade",
         "portfolioValue": 949.38
       }
     ]
