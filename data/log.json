@@ -2919,9 +2919,9 @@
   },
   {
     "date": "2026-08-30",
-    "marketOverview": "Sonntag (Stand 13:09 CEST): US-Boersen und Xetra weiterhin geschlossen (Wochenende), NVDA unveraendert beim letzten Schlusskurs 217,55 USD (-5,06% seit Kauf, Freitagsschluss 28.08.). Kryptomarkt insgesamt leicht risk-off: Bitcoin nach kurzem Zwischenhoch bei ~80.049 USD (12:09-Lauf) wieder auf ca. 77.800-78.000 USD zurueckgefallen (Gesamtmarktkapitalisierung -2,9% in 24h laut CoinGabbar), Ethereum bei ca. 2.443-2.472 USD, Solana je nach Quelle uneinheitlich zwischen ~94 und ~105 USD. Kein neuer eigenstaendiger Katalysator seit dem letzten Check erkennbar.",
-    "decision": "Tagesbudget fuer den 30.08. wurde bereits im ersten Lauf des Tages (00:07 MESZ) gutgeschrieben; in diesem Lauf keine erneute Gutschrift. Kein Trade: Wochenende - Aktien, ETFs und Rohstoffe nicht handelbar, NVDA-Position bleibt zum letzten verfuegbaren Kurs unveraendert. Bitcoin ist gegenueber dem 12:09-Zwischenhoch (~80.049 USD) wieder auf ca. 77.800-78.000 USD zurueckgefallen, der Kryptomarkt zeigt insgesamt leichtes Risk-off (Gesamtmarktkapitalisierung -2,9% in 24h) ohne neuen eigenstaendigen Katalysator; freies Kapital von ca. 24.960,66 EUR bleibt vollstaendig ungenutzt.",
-    "reasoning": "Risikoprofil \"spekulativ\" erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Ausserhalb der Handelszeiten sind Aktien/ETFs/Rohstoffe nicht handelbar, daher bleibt die NVDA-Position unveraendert zum letzten Schlusskurs. Bitcoin ist nach dem kurzen Zwischenhoch beim 12:09-Lauf (~80.049 USD) wieder auf ca. 77.800-78.000 USD zurueckgefallen - reines Hin-und-Her innerhalb der seit Tagen bekannten Schwankungsbreite ohne fundamentalen neuen Trigger. Solana-Kursangaben sind je nach Quelle stark uneinheitlich (~94-105 USD), was auf erhoehte Marktunsicherheit hindeutet, aber ebenfalls keine klare, ueberzeugende Handelsgelegenheit darstellt. Ein Einstieg waere reines Rauschen-Chasing und keine wirklich ueberzeugende Gelegenheit im Sinne der Vorgaben. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "marketOverview": "Sonntag (Stand 14:11 CEST): US-Boersen und Xetra weiterhin geschlossen (Wochenende), NVDA unveraendert beim letzten Schlusskurs 217,55 USD (-5,06% seit Kauf, Freitagsschluss 28.08.). Bitcoin konsolidiert weiter zwischen ca. 77.800 und 78.000 USD nach dem Rueckfall vom Zwischenhoch bei ~80.049 USD (12:09-Lauf) bzw. dem Wochenhoch bei ueber 81.000 USD am 28.08.; Fear-&-Greed-Index bei 72 (Gier) gegenueber 30-Tage-Schnitt von 42 signalisiert eher Vorsicht vor Rueckschlaegen als neue Kaufgelegenheit. Ethereum ~2.472 USD, Solana ~104-105 USD, beide ohne neuen eigenstaendigen Katalysator seit dem letzten Check.",
+    "decision": "Tagesbudget fuer den 30.08. wurde bereits im ersten Lauf des Tages (00:07 MESZ) gutgeschrieben; in diesem Lauf keine erneute Gutschrift. Kein Trade: Wochenende - Aktien, ETFs und Rohstoffe nicht handelbar, NVDA-Position bleibt zum letzten verfuegbaren Kurs unveraendert. Bitcoin weiterhin in der bekannten Schwankungsbreite ohne neuen Katalysator, Fear-&-Greed-Index bei 72 (Gier) spricht eher gegen einen Einstieg; freies Kapital von ca. 24.960,66 EUR bleibt vollstaendig ungenutzt.",
+    "reasoning": "Risikoprofil \"spekulativ\" erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Ausserhalb der Handelszeiten sind Aktien/ETFs/Rohstoffe nicht handelbar, daher bleibt die NVDA-Position unveraendert zum letzten Schlusskurs. Bitcoin bewegt sich weiterhin in der seit Tagen bekannten Bandbreite von 77.800-78.000 USD ohne fundamentalen neuen Trigger; ein Fear-&-Greed-Wert von 72 (Gier, deutlich ueber dem 30-Tage-Schnitt von 42) deutet eher auf ueberhitzte Positionierung als auf eine gute Einstiegsgelegenheit hin. Ein Einstieg jetzt waere reines Rauschen-Chasing und keine wirklich ueberzeugende Gelegenheit im Sinne der Vorgaben. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [
       "pos-0010"
     ],
@@ -2995,6 +2995,11 @@
       {
         "time": "13:09",
         "note": "Keine Aenderung - Wochenende, nur Krypto grundsaetzlich handelbar. Bitcoin wieder auf ca. 77.800-78.000 USD zurueckgefallen (vom 12:09-Hoch bei ~80.049 USD), Ethereum ~2.443-2.472 USD, Solana Angaben uneinheitlich (~94-105 USD je Quelle) - kein neuer eigenstaendiger Katalysator gegenueber dem letzten Check, weiterhin nur Fortsetzung der bekannten Schwankungsbreite - kein Trade",
+        "portfolioValue": 949.38
+      },
+      {
+        "time": "14:11",
+        "note": "Keine Aenderung - Wochenende, nur Krypto grundsaetzlich handelbar. Bitcoin konsolidiert bei ~77.800-78.000 USD, Fear-&-Greed-Index bei 72 (Gier) spricht gegen einen Einstieg, kein neuer eigenstaendiger Katalysator - kein Trade",
         "portfolioValue": 949.38
       }
     ]
