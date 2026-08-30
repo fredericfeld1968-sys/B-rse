@@ -2919,9 +2919,9 @@
   },
   {
     "date": "2026-08-30",
-    "marketOverview": "Sonntag Nacht (Stand 03:07 MESZ): US-Boersen und Xetra weiterhin geschlossen (Wochenende). NVDA unveraendert bei 217,55 USD (-5,06% seit Kauf), keine neuen Kurse verfuegbar. Kryptomarkt bleibt risk-off: Bitcoin notiert weiterhin um 77.700-78.150 USD, belastet durch Fed-Gouverneur Warshs hawkische Jackson-Hole-Rede (Zinserhoehungs-Odds von unter 50% auf 68% gestiegen), Ethereum bei ca. 2.443 USD (-3,1% in 24h). Solana haelt sich bei 104-105 USD, gestuetzt durch die Schwab-Listing-Ankuendigung, bleibt aber technisch ueberkauft. Kein neuer Katalysator seit dem letzten Lauf (02:09) erkennbar.",
-    "decision": "Tagesbudget fuer den 30.08. wurde bereits im ersten Lauf des Tages (00:07 MESZ) gutgeschrieben; in diesem Lauf keine erneute Gutschrift. Kein Trade: Wochenende - Aktien, ETFs und Rohstoffe nicht handelbar, NVDA-Position bleibt zum letzten verfuegbaren Kurs unveraendert. Bitcoin und Solana bieten gegenueber dem Vorlauf keine wesentlich neue, ueberzeugende Gelegenheit; freies Kapital von ca. 24.960,66 EUR bleibt vollstaendig ungenutzt.",
-    "reasoning": "Risikoprofil \"spekulativ\" erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Ausserhalb der Handelszeiten sind Aktien/ETFs/Rohstoffe nicht handelbar, daher bleibt die NVDA-Position unveraendert zum letzten Schlusskurs. Bitcoin bleibt durch die anhaltende Fed-Zinserhoehungsangst (Warsh-Rede) belastet, Solana ist trotz positiver Schwab-Listing-News technisch weiterhin ueberkauft - kein \"wirklich ueberzeugendes\" Setup im Sinne der Vorgaben. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "marketOverview": "Sonntag Nacht (Stand 04:08 MESZ): US-Boersen und Xetra weiterhin geschlossen (Wochenende). NVDA unveraendert bei 217,55 USD (-5,06% seit Kauf), keine neuen Kurse verfuegbar. Kryptomarkt bleibt risk-off nach Fed-Chef Warshs hawkischer Jackson-Hole-Rede: Bitcoin fiel am Samstag auf ca. 77.838 USD (-3% nach der Rede), CME-Zinserhoehungsodds fuer September stiegen auf ~57%. Ethereum bei ca. 2.443-2.472 USD, Solana bei ca. 96,65-104 USD - beide weiterhin unter Druck, kein neuer Katalysator seit dem letzten Lauf (03:07) erkennbar.",
+    "decision": "Tagesbudget fuer den 30.08. wurde bereits im ersten Lauf des Tages (00:07 MESZ) gutgeschrieben; in diesem Lauf keine erneute Gutschrift. Kein Trade: Wochenende - Aktien, ETFs und Rohstoffe nicht handelbar, NVDA-Position bleibt zum letzten verfuegbaren Kurs unveraendert. Bitcoin, Ethereum und Solana bieten weiterhin keine ueberzeugende Gelegenheit (risk-off nach Warsh-Rede, erhoehte Zinserwartungen); freies Kapital von ca. 24.960,66 EUR bleibt vollstaendig ungenutzt.",
+    "reasoning": "Risikoprofil \"spekulativ\" erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Ausserhalb der Handelszeiten sind Aktien/ETFs/Rohstoffe nicht handelbar, daher bleibt die NVDA-Position unveraendert zum letzten Schlusskurs. Der Kryptomarkt bleibt nach Warshs hawkischer Jackson-Hole-Rede (Inflationsziel als \"fixes Ziel\", steigende Zinserwartungen) risk-off - Bitcoin, Ethereum und Solana notieren allesamt im Minus ohne neuen positiven Katalysator, kein \"wirklich ueberzeugendes\" Setup im Sinne der Vorgaben. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [
       "pos-0010"
     ],
@@ -2945,6 +2945,11 @@
       {
         "time": "03:07",
         "note": "Keine Aenderung - Wochenende, nur Krypto grundsaetzlich handelbar. Bitcoin weiterhin ~77.700-78.150 USD unter Druck durch Fed-Zinsangst (Warsh), Solana bei ~104-105 USD trotz Schwab-Listing-News weiter ueberkauft - kein Trade",
+        "portfolioValue": 949.38
+      },
+      {
+        "time": "04:08",
+        "note": "Keine Aenderung - Wochenende, Krypto weiterhin risk-off nach Warshs hawkischer Jackson-Hole-Rede (BTC ~77.800 USD, ETH ~2.450 USD, SOL ~97-104 USD), kein ueberzeugender Katalysator - kein Trade",
         "portfolioValue": 949.38
       }
     ]
