@@ -3048,5 +3048,22 @@
         "portfolioValue": 949.38
       }
     ]
+  },
+  {
+    "date": "2026-08-31",
+    "marketOverview": "Montag 00:10 Uhr: Boersen fuer Aktien/ETFs/Rohstoffe noch geschlossen (Handel beginnt regulaer erst im Laufe des Vormittags), nur Krypto grundsaetzlich handelbar. Bitcoin bei ca. 78.231 USD, Ethereum bei ca. 2.471,80 USD, Solana bei ca. 96,65 USD - praktisch unveraendert zum letzten Lauf vom Sonntagabend. Kein neuer eigenstaendiger Katalysator seit dem 23:09-Lauf; Markt bleibt im Nachwirken der hawkischen Warsh-Rede von Jackson Hole sowie der Bessent-Anleiherueckkaeufe, insgesamt im Bereich 'extreme Gier' laut Sentiment-Indizes. NVDA (einzige offene Position) mit Freitags-Nachboerskurs bei ca. 217,86 USD marktbewertet.",
+    "decision": "Kein Trade in diesem Lauf. NVDA-Position (pos-0010) bleibt unveraendert gehalten (Boerse geschlossen, nur Mark-to-Market-Aktualisierung auf Nachboerskurs). Tagesbudget-Gutschrift fuer den 31.08. erfolgt (+1.000 EUR), freies Kapital von rund 25.960,66 EUR bleibt mangels ueberzeugender Krypto-Gelegenheit ungenutzt.",
+    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Ausserhalb der Handelszeiten sind Aktien/ETFs/Rohstoffe nicht handelbar, daher bleibt NVDA nur mark-to-market aktualisiert. Bitcoin, Ethereum und Solana bewegen sich weiterhin ohne neuen eigenstaendigen Katalysator gegenueber dem letzten Lauf (Warsh-Nachwirkungen, keine neue Regulierungs- oder Makro-Nachricht), zudem signalisiert der Sentiment-Index bereits 'extreme Gier' - ein Einstieg jetzt waere reines Rauschen-Chasing in ueberkauftem Umfeld und keine wirklich ueberzeugende Gelegenheit im Sinne der Vorgaben. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "positionIds": [
+      "pos-0010"
+    ],
+    "portfolioValueEnd": 950.73,
+    "updates": [
+      {
+        "time": "00:10",
+        "note": "Tagesbudget-Gutschrift +1.000 EUR (freies Kapital jetzt ca. 25.960,66 EUR); Boersen noch geschlossen, nur Krypto grundsaetzlich handelbar. Bitcoin (~78.231 USD), Ethereum (~2.471,80 USD) und Solana (~96,65 USD) praktisch unveraendert zum letzten Lauf, Sentiment bei 'extreme Gier' - kein Trade",
+        "portfolioValue": 950.73
+      }
+    ]
   }
 ]
