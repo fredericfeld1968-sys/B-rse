@@ -2919,9 +2919,9 @@
   },
   {
     "date": "2026-08-30",
-    "marketOverview": "Sonntag (Stand 15:12 CEST): US-Boersen und Xetra weiterhin geschlossen (Wochenende), NVDA unveraendert beim letzten Schlusskurs 217,55 USD (-5,06% seit Kauf, Freitagsschluss 28.08.). Bitcoin bei ca. 77.800-78.150 USD, im 24h-Vergleich leicht im Minus (-0,5 bis -3%) nach den hawkish gedeuteten Jackson-Hole-Aeusserungen von Fed-Chair Kevin Warsh; globale Krypto-Marktkapitalisierung auf 2,69 Bio. USD gefallen (-3% in 24h), BTC-ETFs verzeichneten am 28.08. mit -201,8 Mio. USD den groessten Tagesabfluss des Monats. Fear-&-Greed-Index weiterhin bei rund 72 (Gier) trotz der leichten Kursschwaeche - spricht eher fuer Vorsicht als fuer eine neue Kaufgelegenheit. Ethereum ~2.435 USD (-2,8%), Solana weiterhin ~103-105 USD, kein neuer eigenstaendiger Katalysator.",
-    "decision": "Tagesbudget fuer den 30.08. wurde bereits im ersten Lauf des Tages (00:07 MESZ) gutgeschrieben; in diesem Lauf keine erneute Gutschrift. Kein Trade: Wochenende - Aktien, ETFs und Rohstoffe nicht handelbar, NVDA-Position bleibt zum letzten verfuegbaren Kurs unveraendert. Bitcoin leicht schwaecher nach hawkish Fed-Kommentaren (Warsh) und ETF-Abfluessen, aber ohne neuen ueberzeugenden Katalysator; Fear-&-Greed-Index bei 72 (Gier) spricht weiterhin eher gegen einen Einstieg. Freies Kapital von ca. 24.960,66 EUR bleibt vollstaendig ungenutzt.",
-    "reasoning": "Risikoprofil \"spekulativ\" erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Ausserhalb der Handelszeiten sind Aktien/ETFs/Rohstoffe nicht handelbar, daher bleibt die NVDA-Position unveraendert zum letzten Schlusskurs. Bitcoin bewegt sich weiterhin in der bekannten Bandbreite von 77.800-78.150 USD; die leichte Schwaeche nach Warshs hawkish gedeuteten Aeusserungen und den ETF-Abfluessen ist kein Kaufsignal, sondern eher ein Warnzeichen bei einem gleichzeitig noch bei 72 (Gier) stehenden Fear-&-Greed-Index. Ein Einstieg jetzt waere reines Rauschen-Chasing und keine wirklich ueberzeugende Gelegenheit im Sinne der Vorgaben. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "marketOverview": "Sonntag (Stand 16:09 CEST): US-Boersen und Xetra weiterhin geschlossen (Wochenende), NVDA unveraendert beim letzten verfuegbaren Schlusskurs 217,55 USD (-5,06% seit Kauf, Freitagsschluss 28.08., Q2-Zahlen vom 27.08. mit Rekordumsatz 46,74 Mrd. USD/+56% YoY bereits eingepreist). Bitcoin bei ca. 78.135 USD, damit praktisch unveraendert zum Vorlauf (77.800-78.150 USD), kein neuer Kurstreiber. Fear-&-Greed-Index weiterhin bei 72 (Gier) - spricht bei fehlendem neuem Katalysator weiterhin eher fuer Zurueckhaltung als fuer einen Einstieg. Kein neuer geopolitischer oder makrooekonomischer Impuls seit dem letzten Lauf.",
+    "decision": "Tagesbudget fuer den 30.08. wurde bereits im ersten Lauf des Tages (00:07 MESZ) gutgeschrieben; in diesem Lauf keine erneute Gutschrift. Kein Trade: Wochenende - Aktien, ETFs und Rohstoffe nicht handelbar, NVDA-Position bleibt zum letzten verfuegbaren Kurs unveraendert. Bitcoin praktisch unveraendert bei ~78.135 USD ohne neuen ueberzeugenden Katalysator; Fear-&-Greed-Index bei 72 (Gier) spricht weiterhin eher gegen einen Einstieg. Freies Kapital von ca. 24.960,66 EUR bleibt vollstaendig ungenutzt.",
+    "reasoning": "Risikoprofil \"spekulativ\" erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Ausserhalb der Handelszeiten sind Aktien/ETFs/Rohstoffe nicht handelbar, daher bleibt die NVDA-Position unveraendert zum letzten Schlusskurs. Bitcoin bewegt sich weiterhin in der bekannten Bandbreite um 78.000 USD; ohne neuen Katalysator und bei einem bereits bei 72 (Gier) stehenden Fear-&-Greed-Index waere ein Einstieg jetzt reines Rauschen-Chasing und keine wirklich ueberzeugende Gelegenheit im Sinne der Vorgaben. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [
       "pos-0010"
     ],
@@ -3005,6 +3005,11 @@
       {
         "time": "15:12",
         "note": "Keine Aenderung; Wochenende, nur Krypto grundsaetzlich handelbar. Bitcoin ~77.800-78.150 USD, leicht schwaecher nach hawkish Fed-Kommentaren (Warsh, Jackson Hole) und ETF-Abfluessen, Fear&Greed weiterhin bei 72 (Gier) - kein Trade",
+        "portfolioValue": 949.38
+      },
+      {
+        "time": "16:09",
+        "note": "Keine Aenderung; Wochenende, nur Krypto grundsaetzlich handelbar. Bitcoin bei ca. 78.135 USD praktisch unveraendert zum Vorlauf, Fear&Greed weiterhin bei 72 (Gier), kein neuer Katalysator - kein Trade",
         "portfolioValue": 949.38
       }
     ]
