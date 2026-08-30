@@ -2919,8 +2919,8 @@
   },
   {
     "date": "2026-08-30",
-    "marketOverview": "Sonntagabend (Stand 19:08 CEST): US-Boersen und Xetra weiterhin geschlossen (Wochenende), NVDA unveraendert beim letzten verfuegbaren Schlusskurs 217,55 USD (-5,06% seit Kauf). Bitcoin bei ca. 78.135-78.231 USD praktisch unveraendert zum 18:09-Lauf, Solana je nach Quelle zwischen ~96,65 und ~105 USD ohne klaren neuen Trend. Fear&Greed-Index weiterhin bei 72 (Gier). Oel (Brent ~89 USD) und Iran-Situation unveraendert angespannt, aber kein neuer eigenstaendiger Marktimpuls seit dem letzten Check.",
-    "decision": "Tagesbudget fuer den 30.08. wurde bereits im ersten Lauf des Tages (00:07 MESZ) gutgeschrieben; in diesem Lauf keine erneute Gutschrift. Kein Trade: Wochenende - Aktien, ETFs und Rohstoffe nicht handelbar, NVDA-Position bleibt zum letzten verfuegbaren Kurs unveraendert. Bitcoin und Solana ohne neuen ueberzeugenden Katalysator gegenueber dem letzten Check; Freies Kapital von ca. 24.960,66 EUR bleibt vollstaendig ungenutzt.",
+    "marketOverview": "Sonntagabend: Boersen fuer Aktien/ETFs/Rohstoffe weiterhin geschlossen, nur Krypto grundsaetzlich handelbar. Bitcoin notiert bei ca. 78.135-78.230 USD, praktisch unveraendert zum 19:08-Lauf, Solana bei ca. 105 USD ebenfalls stabil. Kein neuer eigenstaendiger Katalysator: weiterhin nur Nachwirkungen der Warsh-Rede (Jackson Hole) und der ungeloesten Iran-Sanktionsdrohung (Straße von Hormus), beides bereits in den Vorlaeufen eingepreist. NVDA (einzige offene Position) bleibt bei Freitagsschlusskurs 217,55 USD, da die Nasdaq geschlossen ist.",
+    "decision": "Kein Trade in diesem Lauf. NVDA-Position (pos-0010) bleibt unveraendert gehalten (Boerse geschlossen). Freies Kapital von rund 24.960,66 EUR bleibt mangels ueberzeugender Krypto-Gelegenheit ungenutzt.",
     "reasoning": "Risikoprofil \"spekulativ\" erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Ausserhalb der Handelszeiten sind Aktien/ETFs/Rohstoffe nicht handelbar, daher bleibt die NVDA-Position unveraendert zum letzten Schlusskurs. Bitcoin und Solana bewegen sich weiterhin ohne neuen Katalysator gegenueber dem 18:09-Lauf - ein Einstieg jetzt waere reines Rauschen-Chasing und keine wirklich ueberzeugende Gelegenheit im Sinne der Vorgaben. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [
       "pos-0010"
@@ -3025,6 +3025,11 @@
       {
         "time": "19:08",
         "note": "Keine Aenderung - Wochenende, nur Krypto grundsaetzlich handelbar. Bitcoin ~78.135-78.231 USD praktisch unveraendert zum 18:09-Lauf, Solana Angaben uneinheitlich (~96,65-105 USD je Quelle), kein neuer eigenstaendiger Katalysator - kein Trade",
+        "portfolioValue": 949.38
+      },
+      {
+        "time": "20:09",
+        "note": "Keine Aenderung - Sonntagabend, nur Krypto grundsaetzlich handelbar. Bitcoin ~78.135-78.230 USD und Solana ~105 USD praktisch unveraendert zum 19:08-Lauf, kein neuer eigenstaendiger Katalysator - kein Trade",
         "portfolioValue": 949.38
       }
     ]
