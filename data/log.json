@@ -3051,13 +3051,13 @@
   },
   {
     "date": "2026-08-31",
-    "marketOverview": "Montag 05:07 Uhr: Boersen fuer Aktien/ETFs/Rohstoffe weiterhin geschlossen (regulaerer US-Handel erst ab 15:30 MESZ). Nur Krypto grundsaetzlich handelbar: Bitcoin ca. 78.230 USD (leicht befestigt ggue. 04:08-Lauf, +0,75% 24h laut Marktdaten), Ethereum ca. 2.471,80 USD (+0,1% 24h), Solana ca. 101 USD - alle drei im Rahmen der juengsten Konsolidierung, kein neuer Katalysator. CLARITY Act weiterhin erst fuer die Verfahrensabstimmung am 15.09. terminiert. Am Aktienmarkt belasten weiter hohe Anleiherenditen (30-jaehrige US-Anleihe ~5,3%) und die Eskalation an der Strasse von Hormus (US-Angriff auf iranische Raketenwerfer) die Stimmung fuer den US-Handelsstart spaeter heute; NVDA-Vorboersendaten weiterhin nicht belastbar/uneinheitlich, Kurs daher unveraendert fortgefuehrt.",
-    "decision": "Kein Trade in diesem Lauf. NVDA-Position (pos-0010) bleibt unveraendert gehalten (keine belastbaren Vorboersendaten). Tagesbudget-Gutschrift fuer den 31.08. war bereits im 00:10-Lauf erfolgt; freies Kapital von ca. 25.960,66 EUR bleibt mangels ueberzeugender Krypto-Gelegenheit weiterhin ungenutzt.",
-    "reasoning": "Risikoprofil \"spekulativ\" erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Ausserhalb der Handelszeiten sind Aktien/ETFs/Rohstoffe nicht handelbar. Bitcoin, Ethereum und Solana zeigen weiterhin nur leichte Bewegungen ohne neuen fundamentalen Katalysator (CLARITY-Act-Abstimmung erst 15.09.) - reine Seitwaertsbewegung nach der vorherigen Ueberkauft-Phase, kein Einstiegssignal. Ein Kauf jetzt waere reines Chasing ohne Edge. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "marketOverview": "Montag 06:10 Uhr: Boersen fuer Aktien/ETFs/Rohstoffe weiterhin geschlossen (regulaerer US-Handel erst ab 15:30 MESZ). Nur Krypto grundsaetzlich handelbar: Bitcoin ca. 78.840 USD (Konsolidierung unterhalb der Widerstandszone 80.000-82.000 USD, aber weiter klar ueber dem 200-Tage-Durchschnitt), Ethereum ca. 2.472 USD, Solana ca. 101-105 USD - alle drei seitwaerts ohne neuen Katalysator (CLARITY-Act-Abstimmung erst 15.09.). NVDA-Vorboersenkurs aktualisiert auf 227,10 USD (leicht schwaecher, -0,39%) bei weiterhin hohen Anleiherenditen (30-jaehrige US-Anleihe ~5,3%) und anhaltender Eskalation an der Strasse von Hormus.",
+    "decision": "Kein Trade in diesem Lauf. NVDA-Position (pos-0010) mark-to-market auf 227,10 USD aktualisiert (Vorboersendaten jetzt verfuegbar). Tagesbudget-Gutschrift fuer den 31.08. war bereits im 00:10-Lauf erfolgt; freies Kapital von ca. 25.960,66 EUR bleibt mangels ueberzeugender Krypto-Gelegenheit weiterhin ungenutzt.",
+    "reasoning": "Risikoprofil \"spekulativ\" erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Ausserhalb der Handelszeiten sind Aktien/ETFs/Rohstoffe nicht handelbar. Bitcoin, Ethereum und Solana konsolidieren weiterhin innerhalb ihrer etablierten Handelsspannen ohne Ausbruch ueber wichtige Widerstaende (BTC 80.000-82.000 USD) und ohne neuen fundamentalen Katalysator - reines Chasing ohne Edge waere hier nicht gerechtfertigt. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [
       "pos-0010"
     ],
-    "portfolioValueEnd": 950.87,
+    "portfolioValueEnd": 991.05,
     "updates": [
       {
         "time": "00:10",
@@ -3088,6 +3088,11 @@
         "time": "05:07",
         "note": "Keine Aenderung - Boersen weiterhin geschlossen, nur Krypto grundsaetzlich handelbar; Bitcoin (~78.230 USD), Ethereum (~2.471,80 USD) und Solana (~101 USD) in Konsolidierung ohne neuen Katalysator (CLARITY-Act-Abstimmung erst 15.09.) - kein Trade. NVDA-Kurs unveraendert (weiterhin keine belastbaren Vorboersendaten).",
         "portfolioValue": 950.87
+      },
+      {
+        "time": "06:10",
+        "note": "Keine Aenderung - Boersen weiterhin geschlossen, nur Krypto grundsaetzlich handelbar; Bitcoin (~78.840 USD) konsolidiert unter 80k-82k-Widerstand, Ethereum (~2.472 USD) und Solana (~101-105 USD) seitwaerts ohne neuen Katalysator - kein Trade. NVDA-Vorboersenkurs auf 227,10 USD aktualisiert.",
+        "portfolioValue": 991.05
       }
     ]
   }
