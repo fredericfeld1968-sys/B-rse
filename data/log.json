@@ -3051,13 +3051,13 @@
   },
   {
     "date": "2026-08-31",
-    "marketOverview": "Montag 16:15 Uhr: Nasdaq seit 15:30 MESZ im regulaeren Handel, US-Maerkte insgesamt leicht negativ (Nasdaq -0,38%, S&P 500 -0,45%, Dow -0,60%) nach neuem US-Schlag auf iranische Raketenstellungen nahe der Strasse von Hormus und iranischer Vergeltungsdrohung gegen US-Basen in Jordanien/VAE; Brent-Oel ueber 90 USD. NVDA eroeffnete bei ca. 227 USD, gab den Vormittagsgewinn aber wieder ab und notiert aktuell um 218,75 USD - im Rahmen der ueblichen Nachverdienst-Volatilitaet, kein neuer fundamentaler Trigger. Rheinmetall haelt sich bei ca. 1.151-1.161 EUR (+0,9%), DAX ohne neuen Einzeltitel-Katalysator. Bitcoin leicht schwaecher bei ca. 78.000-78.400 USD wegen hoeherer Zinserwartungen, weiterhin seitwaerts.",
-    "decision": "Tagesbudget-Gutschrift fuer den 31.08. bereits erfolgt (freies Kapital unveraendert ca. 25.960,66 EUR, ganz ueberwiegend ungenutzt). Im 17. Lauf des Tages (16:15) erneut kein Trade: NVDA-Position auf Nachboersen-/Intraday-Kurs 218,75 USD aktualisiert (currentValue 954,61 EUR, -4,54%), Nasdaq-Handel laeuft seit 15:30 MESZ, aber kein Stop-Loss-Niveau erreicht. Kein neuer Kauf: Die Iran/Hormuz-Eskalation belastet die US-Maerkte insgesamt (leicht negativ) ohne ueberzeugendes Einzeltitel-Signal; Rheinmetall bleibt wegen der am 06.08. gesenkten Umsatzprognose kein Wiedereinstieg; Krypto bewegt sich weiter seitwaerts mit leichtem Abwaertsdruck durch Zinserwartungen - keine ueberzeugende Gelegenheit in diesem Lauf.",
-    "reasoning": "Die neue US-Militaeraktion gegen Iran (Raketenstellungen nahe Hormus) und die iranische Vergeltungsdrohung druecken die US-Breitmarktindizes nur moderat (unter -1%) und liefern kein neues, klar handelbares Einzelinstrument im erlaubten Anlageuniversum - eine erneute Rheinmetall-Rebound-Wette waere eine Wiederholung des bereits mit -6,56% geschlossenen Trades, da die fundamentale Belastung (gesenkte Umsatzprognose) unveraendert fortbesteht. NVDA gab den intraday erreichten Gewinn (Eroeffnung ~227 USD) wieder ab und notiert bei -4,54% seit Kauf - klar innerhalb der ueblichen Schwankungsbreite eines Post-Earnings-Titels, kein Stop-Loss-Grund. Oel (>90 USD) und Gold reagieren bereits mehrfach eingepreist auf die Eskalation, ohne neuen ueberzeugenden Einstiegspunkt. Krypto bleibt richtungslos mit leichtem Abwaertsdruck durch hoehere Zinserwartungen. Keine der Ausschlusslisten aus den Einstellungen ist hier relevant.",
+    "marketOverview": "Montag 17:15 Uhr: Nasdaq weiter im regulaeren Handel nach Eroeffnung um 15:30 MESZ, US-Maerkte bleiben nach dem neuen US-Schlag auf iranische Raketenstellungen nahe der Strasse von Hormus und der iranischen Vergeltungsdrohung gegen US-Basen in Jordanien/VAE leicht negativ (S&P 500 ca. -0,4%, Dow ca. -0,7%), Brent-Oel weiter ueber 90 USD. NVDA notiert bei 218,56 USD (Tagesspanne 218,49-219,08 USD), praktisch unveraendert zum 16:15-Stand (218,75 USD) - Kurs hat sich nach der Vormittagsvolatilitaet stabilisiert. Bitcoin haelt sich bei ca. 78.000 USD, weiterhin gedaempft durch hoehere Zinserwartungen nach Warsh-Rede in Jackson Hole. Kein neuer Katalysator seit dem letzten Lauf.",
+    "decision": "Tagesbudget-Gutschrift fuer den 31.08. bereits erfolgt (freies Kapital unveraendert ca. 25.960,66 EUR, ganz ueberwiegend ungenutzt). Im 18. Lauf des Tages (17:15) erneut kein Trade: NVDA-Position auf aktuellen Kurs 218,56 USD aktualisiert (currentValue 953,79 EUR, -4,62%), kein Stop-Loss-Niveau erreicht, Kursbewegung minimal gegenueber dem 16:15-Lauf. Kein neuer Kauf: Iran/Hormuz-Eskalation und erhoehte Oelpreise bleiben unveraendert eingepreist ohne neues Einzeltitel-Signal, Krypto seitwaerts, keine ueberzeugende Gelegenheit in diesem Lauf.",
+    "reasoning": "Seit dem 16:15-Lauf keine wesentliche Marktbewegung: NVDA schwankt nur marginal (218,75 -> 218,56 USD), die Iran/Hormuz-Lage sowie der erhoehte Oelpreis (>90 USD Brent) sind bereits mehrfach eingepreist ohne neuen Einzeltitel-Katalysator. Ein Rheinmetall-Wiedereinstieg bleibt wegen der am 06.08. gesenkten Umsatzprognose ausgeschlossen. Krypto (Bitcoin ~78.000 USD) bewegt sich weiterhin seitwaerts, gedaempft durch hoehere Zinserwartungen - keine ueberzeugende Gelegenheit. Keine der Ausschlusslisten aus den Einstellungen ist relevant.",
     "positionIds": [
       "pos-0010"
     ],
-    "portfolioValueEnd": 954.61,
+    "portfolioValueEnd": 953.79,
     "updates": [
       {
         "time": "00:10",
@@ -3143,6 +3143,11 @@
         "time": "16:15",
         "note": "Keine Aenderung; NVDA-Kurs auf 218,75 USD aktualisiert (-4,54%, Nasdaq seit 15:30 MESZ offen, Eroeffnungsgewinn von ~227 USD wieder abgegeben), Iran/Hormuz-Eskalation belastet US-Maerkte nur moderat ohne neues Einzeltitel-Signal, Rheinmetall/Krypto ohne neuen Katalysator - kein Trade",
         "portfolioValue": 954.61
+      },
+      {
+        "time": "17:15",
+        "note": "Keine Aenderung; NVDA-Kurs auf 218,56 USD aktualisiert (-4,62%), Nasdaq weiter im regulaeren Handel, Iran/Hormuz-Eskalation und Oelpreis (>90 USD) bereits eingepreist ohne neues Signal, Bitcoin seitwaerts bei ~78.000 USD - kein Trade",
+        "portfolioValue": 953.79
       }
     ]
   }
