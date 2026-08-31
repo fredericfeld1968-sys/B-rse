@@ -3051,13 +3051,13 @@
   },
   {
     "date": "2026-08-31",
-    "marketOverview": "Montag 21:11 Uhr: US-Maerkte weiter im regulaeren Handel (Boersenschluss 22:00 MESZ), S&P 500 -0,45% bei ca. 7.676 Punkten, Dow -0,60%, Nasdaq -0,38% nach dem US-Schlag auf iranische Raketenstellungen an der Strasse von Hormus und iranischer Vergeltung; Brent-Oel ueber 90 USD (WTI ca. 85-86 USD). Fed-Zinserhoehungserwartung fuer September bleibt bei ca. 62% nach Warshs Jackson-Hole-Rede. NVDA unveraendert bei 217,55 USD (-5,04% seit Kauf), kein neuer Katalysator. Tesla legt um rund +3,4% zu nach einem Modell-3-Preisnachlass in Hongkong/Macau (-8,5%), allerdings begleitet von Warnungen vor Margendruck (operative Marge nur 1,4%, negativer Free Cashflow durch hohe AI/Optimus/Cybercab-Investitionen) und einem Rueckruf von 4,3 Mio. Fahrzeugen in China - kein klares Ueberreaktions- oder bestaetigtes Ausbruchsmuster. Bitcoin ca. 78.000 USD, Ethereum ca. 2.454 USD, Solana ca. 103 USD, Krypto insgesamt gedaempft durch hoehere Zinserwartungen.",
-    "decision": "Tagesbudget-Gutschrift fuer den 31.08. bereits erfolgt (freies Kapital unveraendert ca. 25.960,66 EUR, ganz ueberwiegend ungenutzt). Im 22. Lauf des Tages (21:11) erneut kein Trade: NVDA-Position unveraendert bei 217,55 USD (currentValue 949,60 EUR, -5,04%), kein Stop-Loss-Niveau erreicht. Kein neuer Kauf: Tesla-Anstieg (+3,4%) beruht auf einem regionalen Preisnachlass bei gleichzeitigen Margendruck- und Rueckruf-Warnungen - kein sauberes Dip- oder Breakout-Muster wie bei bisherigen erfolgreichen Trades - keine ueberzeugende Gelegenheit in diesem Lauf.",
-    "reasoning": "Seit dem 20:10-Lauf keine wesentliche Marktbewegung bei NVDA (unveraendert 217,55 USD). Tesla notiert zwar rund +3,4% im Plus nach einem Model-3-Preisnachlass in Hongkong/Macau, doch begleiten die Nachricht deutliche fundamentale Gegenwinde (operative Marge nur noch 1,4%, negativer Free Cashflow, Rueckruf von 4,3 Mio. Fahrzeugen in China) - passt weder zum bewaehrten 'Sell-the-news-Dip-Kauf'-Muster (AMD, SpaceX, Palantir) noch zu einem bestaetigten Ausbruch (Bitcoin, Solana), sondern waere ein reines Momentum-Chasing auf eine bereits gelaufene Bewegung mit unklarer fundamentaler Qualitaet. Iran/Hormuz-Eskalation und erhoehte Zinserwartungen bleiben weiter eingepreist ohne neuen Einzeltitel-Katalysator. Keine der Ausschlusslisten aus den Einstellungen ist relevant. Kurz vor Boersenschluss (22:00 MESZ) zusaetzlich erhoehte Zurueckhaltung bei neuen Positionen.",
+    "marketOverview": "Montag 22:09 Uhr: US-Boersen soeben geschlossen (regulaerer Schluss 22:00 MESZ), NVDA beendete den Handel bei 220,50 USD (-3,77% seit Kauf), nachbörslich leicht fester bei 220,76 USD, aber ohne neuen Katalysator. Oel bleibt nach neuen US-Schlaegen auf iranische Ziele bei Hormuz erhoeht (Brent ca. 90-94 USD), Washington bereitet zudem schaerfere Iran-Sanktionen vor. Krypto weiterhin unter Druck durch gestiegene Fed-Zinserwartungen: Bitcoin ca. 78.000 USD (kurzzeitiger Ausbruch ueber 81.000 USD am Nachmittag wieder abverkauft), Ethereum ca. 2.446 USD, Solana ca. 103 USD - kein bestaetigtes Ausbruchs- oder Dip-Muster erkennbar.",
+    "decision": "Tagesbudget-Gutschrift fuer den 31.08. bereits erfolgt (freies Kapital unveraendert, ganz ueberwiegend ungenutzt). Im 23. und letzten Lauf des Tages (22:09) erneut kein Trade: Boersen fuer Aktien/ETFs/Rohstoffe soeben geschlossen, NVDA-Position auf Schlusskurs 220,50 USD aktualisiert (currentValue 962,25 EUR, -3,77%), kein Stop-Loss-Niveau erreicht. Kein Krypto-Kauf: Bitcoin/Ethereum/Solana nach gescheitertem Ausbruchsversuch (BTC kurz ueber 81.000 USD) wieder unter Druck durch hawkishe Fed-Erwartungen - kein sauberes Ausbruchs- oder Dip-Muster, keine ueberzeugende Gelegenheit.",
+    "reasoning": "Seit dem 21:11-Lauf hat sich NVDA leicht erholt (217,55 -> 220,50 USD Schlusskurs), ohne neuen fundamentalen Katalysator - reiner Tagesschluss-Effekt, kein Anlass fuer eine Aktion an der bereits offenen Position. Boersen fuer Aktien/ETFs/Rohstoffe sind seit 22:00 MESZ geschlossen, daher nur Krypto grundsaetzlich handelbar. Bitcoin versuchte am Nachmittag einen Ausbruch ueber 81.000 USD, wurde aber durch staerkere Erwartungen an eine hawkishe Fed-Politik wieder abverkauft und notiert nun bei ca. 78.000 USD - ein gescheiterter Ausbruch ist kein Kaufsignal, sondern eher ein Warnzeichen fuer weitere Schwaeche. Ethereum und Solana zeigen ebenfalls keine ueberzeugende Bewegung. Keine der Ausschlusslisten aus den Einstellungen ist relevant. Passend zum Tagesende und der insgesamt schwachen Krypto-Dynamik wird auf einen Kauf verzichtet.",
     "positionIds": [
       "pos-0010"
     ],
-    "portfolioValueEnd": 949.6,
+    "portfolioValueEnd": 962.25,
     "updates": [
       {
         "time": "00:10",
@@ -3168,6 +3168,11 @@
         "time": "21:11",
         "note": "Keine Aenderung; NVDA unveraendert bei 217,55 USD. Tesla +3,4% nach Model-3-Preisnachlass, aber Margendruck-/Rueckruf-Warnungen - kein sauberes Kaufmuster, kein Trade",
         "portfolioValue": 949.6
+      },
+      {
+        "time": "22:09",
+        "note": "Keine Aenderung; Boersen soeben geschlossen (NVDA-Schlusskurs 220,50 USD, -3,77%), Krypto nach gescheitertem BTC-Ausbruch ueber 81.000 USD wieder unter Druck (Fed-Zinserwartungen) - kein Trade",
+        "portfolioValue": 962.25
       }
     ]
   }

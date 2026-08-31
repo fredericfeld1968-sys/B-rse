@@ -162,10 +162,10 @@
     "reasoning": "Nvidia sprang nach dem Nasdaq-Handelsstart (15:30 MESZ) um rund +7,5% auf ca. 229 USD, nachdem der Q2-Bericht am Vorabend Rekordumsatz und eine starke FY28-Guidance (CFO Kress: ~70% erwartetes Wachstum) lieferte. Der bereits im Vormarkt bei +7-8% mehrfach unabhaengig bestaetigte Schub (CNBC, Bloomberg) haelt nach regulaerer Eroeffnung an und wird von einer breiten Tech-Rally begleitet (Salesforce, CrowdStrike ebenfalls deutlich im Plus, Nasdaq Composite +1%). Bestaetigter Post-Earnings-Momentum-Kauf analog zum erfolgreichen Palantir-Muster (+8,3%), diesmal mit klarem fundamentalem Auslöser statt blossem Sentiment.",
     "status": "open",
     "buyPrice": 229.15,
-    "currentPrice": 217.55,
-    "currentValue": 949.6,
-    "profitLoss": -50.4,
-    "profitLossPct": -5.04,
+    "currentPrice": 220.5,
+    "currentValue": 962.25,
+    "profitLoss": -37.75,
+    "profitLossPct": -3.77,
     "closedDate": null,
     "closeReasoning": null
   }
