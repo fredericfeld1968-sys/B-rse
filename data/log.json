@@ -3051,13 +3051,13 @@
   },
   {
     "date": "2026-08-31",
-    "marketOverview": "Montag 14:22 Uhr: Xetra ist seit 9:00 Uhr geoeffnet, Nasdaq oeffnet erst um 15:30 MESZ. Die Hormuz-Eskalation vom Wochenende (US-Angriffe auf iranische Ziele bei Hormus/Larak, iranische Vergeltung gegen US-Basen in Jordanien/VAE) treibt Oel weiter (Brent >90 USD). Rheinmetall faellt trotz Verteidigungsthema weiter (ca. 1.135 EUR, -1,85% zuletzt) wegen der am 06.08. gesenkten Umsatzprognose - keine Wiederholung des fruehereren Trades, da die fundamentale Verschlechterung fortbesteht. Bitcoin konsolidiert bei ca. 78.150 USD (leicht schwaecher als die 80.049 USD vom 13:17-Lauf), Ethereum ca. 2.494 USD, Solana ca. 101 USD - Kryptomarkt weiterhin ohne neuen Katalysator und technisch angeschlagen. NVDA-Kurs unveraendert bei 217,55 USD (Vorboersenwert), regulaere Nasdaq-Sitzung startet erst um 15:30 MESZ.",
-    "decision": "Tagesbudget-Gutschrift fuer den 31.08. bereits erfolgt (freies Kapital unveraendert ca. 25.960,66 EUR, ganz ueberwiegend ungenutzt). Im 15. Lauf des Tages (14:22) erneut kein Trade: NVDA-Position bleibt bei 217,55 USD (currentValue 949,38 EUR, -5,06%) unveraendert, da weiterhin keine neuen Kursdaten vorliegen und die regulaere Nasdaq-Sitzung erst um 15:30 MESZ beginnt. Kein neuer Kauf: Rheinmetall faellt weiter aus fundamentalen Gruenden (Umsatzprognose gesenkt) und ist trotz Hormuz-Eskalation kein ueberzeugender Wiedereinstieg; Krypto (BTC/ETH/SOL) bewegt sich seitwaerts ohne neuen Katalysator und bleibt technisch angeschlagen; fuer Gold liegen keine verlaesslichen aktuellen Kursdaten vor, daher keine spekulative Position ins Blaue hinein - keine ueberzeugende Gelegenheit in diesem Lauf.",
-    "reasoning": "Die Hormuz/Iran-Eskalation bleibt der dominante Makro-Treiber, ist aber bereits seit dem Wochenende mehrfach eingepreist und bietet im erlaubten Anlageuniversum kein neu ueberzeugendes Einzelinstrument: Rheinmetall als naheliegendster Verteidigungs-Play faellt trotz der Eskalation weiter, weil die am 06.08. gesenkte Umsatzprognose als fundamentale Belastung ueberwiegt - eine erneute Rebound-Wette wuerde denselben Fehler wie beim bereits mit -6,56% geschlossenen Trade wiederholen. Bitcoin/Ethereum/Solana zeigen keine klare Richtung und bleiben nach der Ueberkauft-Phase der Vorwoche vorsichtig zu behandeln. NVDA wird erst nach reg. Boersenoeffnung (15:30 MESZ) neu bewertet. Keine der Ausschlusslisten aus den Einstellungen ist hier relevant.",
+    "marketOverview": "Montag 15:19 Uhr: Xetra offen, Nasdaq oeffnet in Kuerze (15:30 MESZ). Rheinmetall leicht erholt auf ca. 1.161 EUR (+0,92%), DAX bleibt nahe Rekordhoch (26.570 Pkt. am Freitag) ohne neuen Einzeltitel-Katalysator. Bitcoin konsolidiert bei ca. 78.150-78.250 USD, weiterhin ohne klaren neuen Treiber. NVDA notiert vorboerslich bei 218,22 USD (+0,31% zum Vortagesschluss 217,55 USD), Chipwerte insgesamt volatil vor Handelsstart. Hormuz/Iran-Konflikt bleibt eskaliert (Brent >90 USD), ist aber bereits mehrfach eingepreist.",
+    "decision": "Tagesbudget-Gutschrift fuer den 31.08. bereits erfolgt (freies Kapital unveraendert ca. 25.960,66 EUR, ganz ueberwiegend ungenutzt). Im 16. Lauf des Tages (15:19) erneut kein Trade: NVDA-Position auf vorboerslichen Kurs 218,22 USD aktualisiert (currentValue 952,30 EUR, -4,77%), Nasdaq-Kassahandel startet aber erst um 15:30 MESZ. Kein neuer Kauf: Rheinmetall erholt sich nur moderat (+0,92%) und bleibt wegen der am 06.08. gesenkten Umsatzprognose kein ueberzeugender Wiedereinstieg; DAX-Rekordrally bleibt breit ohne Einzeltitel-Chance; Krypto (BTC ~78.150-78.250 USD) bewegt sich weiter seitwaerts ohne neuen Katalysator - keine ueberzeugende Gelegenheit in diesem Lauf.",
+    "reasoning": "Die Hormuz/Iran-Eskalation bleibt der dominante Makro-Treiber, ist aber bereits mehrfach eingepreist und bietet im erlaubten Anlageuniversum weiterhin kein neu ueberzeugendes Einzelinstrument: Rheinmetall zeigt nur eine moderate technische Erholung, waehrend die fundamentale Belastung (gesenkte Umsatzprognose) fortbesteht - eine Rebound-Wette waere eine Wiederholung des bereits mit -6,56% geschlossenen Trades. Der DAX-Rekordstand ist breit getragen ohne klaren Einzeltitel-Ausreisser. NVDA zeigt vorboerslich nur eine minimale Erholung (+0,31%) und wird nach regulaerer Nasdaq-Eroeffnung (15:30 MESZ) neu bewertet; die Position liegt mit -4,77% noch deutlich innerhalb der ueblichen Schwankungsbreite und rechtfertigt keinen Stop-Loss-Verkauf. Krypto bleibt richtungslos. Keine der Ausschlusslisten aus den Einstellungen ist hier relevant.",
     "positionIds": [
       "pos-0010"
     ],
-    "portfolioValueEnd": 949.38,
+    "portfolioValueEnd": 952.3,
     "updates": [
       {
         "time": "00:10",
@@ -3133,6 +3133,11 @@
         "time": "14:22",
         "note": "Keine Aenderung; Xetra offen, aber Rheinmetall faellt trotz Hormuz-Eskalation weiter (fundamentale Umsatzprognosesenkung); Nasdaq oeffnet erst 15:30 MESZ, NVDA unveraendert bei 217,55 USD; Krypto (BTC ~78.150, ETH ~2.494, SOL ~101 USD) seitwaerts ohne neuen Katalysator - kein Trade",
         "portfolioValue": 949.38
+      },
+      {
+        "time": "15:19",
+        "note": "NVDA-Vorboersenkurs auf 218,22 USD aktualisiert (+0,31%); Nasdaq oeffnet erst um 15:30 MESZ. Rheinmetall nur moderat erholt, DAX-Rally ohne Einzeltitel-Chance, Krypto seitwaerts - kein Trade",
+        "portfolioValue": 952.3
       }
     ]
   }
