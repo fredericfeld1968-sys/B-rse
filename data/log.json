@@ -3051,13 +3051,13 @@
   },
   {
     "date": "2026-08-31",
-    "marketOverview": "Montag 22:09 Uhr: US-Boersen soeben geschlossen (regulaerer Schluss 22:00 MESZ), NVDA beendete den Handel bei 220,50 USD (-3,77% seit Kauf), nachbörslich leicht fester bei 220,76 USD, aber ohne neuen Katalysator. Oel bleibt nach neuen US-Schlaegen auf iranische Ziele bei Hormuz erhoeht (Brent ca. 90-94 USD), Washington bereitet zudem schaerfere Iran-Sanktionen vor. Krypto weiterhin unter Druck durch gestiegene Fed-Zinserwartungen: Bitcoin ca. 78.000 USD (kurzzeitiger Ausbruch ueber 81.000 USD am Nachmittag wieder abverkauft), Ethereum ca. 2.446 USD, Solana ca. 103 USD - kein bestaetigtes Ausbruchs- oder Dip-Muster erkennbar.",
-    "decision": "Tagesbudget-Gutschrift fuer den 31.08. bereits erfolgt (freies Kapital unveraendert, ganz ueberwiegend ungenutzt). Im 23. und letzten Lauf des Tages (22:09) erneut kein Trade: Boersen fuer Aktien/ETFs/Rohstoffe soeben geschlossen, NVDA-Position auf Schlusskurs 220,50 USD aktualisiert (currentValue 962,25 EUR, -3,77%), kein Stop-Loss-Niveau erreicht. Kein Krypto-Kauf: Bitcoin/Ethereum/Solana nach gescheitertem Ausbruchsversuch (BTC kurz ueber 81.000 USD) wieder unter Druck durch hawkishe Fed-Erwartungen - kein sauberes Ausbruchs- oder Dip-Muster, keine ueberzeugende Gelegenheit.",
-    "reasoning": "Seit dem 21:11-Lauf hat sich NVDA leicht erholt (217,55 -> 220,50 USD Schlusskurs), ohne neuen fundamentalen Katalysator - reiner Tagesschluss-Effekt, kein Anlass fuer eine Aktion an der bereits offenen Position. Boersen fuer Aktien/ETFs/Rohstoffe sind seit 22:00 MESZ geschlossen, daher nur Krypto grundsaetzlich handelbar. Bitcoin versuchte am Nachmittag einen Ausbruch ueber 81.000 USD, wurde aber durch staerkere Erwartungen an eine hawkishe Fed-Politik wieder abverkauft und notiert nun bei ca. 78.000 USD - ein gescheiterter Ausbruch ist kein Kaufsignal, sondern eher ein Warnzeichen fuer weitere Schwaeche. Ethereum und Solana zeigen ebenfalls keine ueberzeugende Bewegung. Keine der Ausschlusslisten aus den Einstellungen ist relevant. Passend zum Tagesende und der insgesamt schwachen Krypto-Dynamik wird auf einen Kauf verzichtet.",
+    "marketOverview": "Montag 23:09 Uhr: US-Boersen seit 22:00 MESZ geschlossen, NVDA nachbörslich minimal fester bei 220,76 USD (Range 220,46-220,95 USD, +0,12% zum Schlusskurs), ohne neuen Katalysator. Fed-Chef Warsh bekraeftigte am Freitag in Jackson Hole eine hawkishe Haltung (Zinsen bleiben „predominant tool“), Brent-Oel notiert nach neuen US-Schlaegen gegen iranische Ziele bei Larak Island/Hormuz weiter ueber 90 USD. Krypto bleibt unter Druck: Bitcoin ca. 77.000-78.000 USD, Ethereum unter 2.400-2.450 USD, Solana ca. 103 USD - der Nachmittags-Ausbruchsversuch von Bitcoin ueber 81.000 USD bleibt gescheitert, kein neues Kauf- oder Verkaufsmuster erkennbar.",
+    "decision": "Tagesbudget-Gutschrift fuer den 31.08. bereits im ersten Lauf erfolgt (freies Kapital naeherungsweise unveraendert bei ca. 25.960,66 EUR, ganz ueberwiegend ungenutzt). Im 24. und letzten Lauf des Tages (23:09) erneut kein Trade: NVDA-Position auf nachbörslichen Kurs 220,76 USD aktualisiert (currentValue 963,39 EUR, -3,66%), kein Stop-Loss-Niveau erreicht. Kein Krypto-Kauf: Bitcoin/Ethereum/Solana weiterhin ohne bestaetigtes Ausbruchs- oder Dip-Muster, hawkishe Fed-Erwartungen (Warsh) und Iran/Hormuz-Eskalation belasten die Risikostimmung.",
+    "reasoning": "Seit dem 22:09-Lauf hat sich an der Gesamtlage nichts Wesentliches veraendert: NVDA notiert nachbörslich minimal ueber dem Schlusskurs (220,50 -> 220,76 USD), kein Anlass fuer eine Aktion an der offenen Position, da Aktienboersen bis Dienstag geschlossen sind. Krypto bleibt der einzige grundsaetzlich handelbare Markt, zeigt aber weiterhin kein sauberes Signal: Bitcoin konsolidiert nach dem gescheiterten Ausbruchsversuch ueber 81.000 USD wieder auf dem Niveau der letzten Stunden, Ethereum und Solana bewegen sich seitwaerts bis leicht schwaecher. Die hawkishen Aeusserungen von Fed-Chef Warsh und die anhaltende Iran/Hormuz-Eskalation sprechen eher fuer weitere Vorsicht als fuer eine neue spekulative Position. Keine der Ausschlusslisten aus den Einstellungen ist relevant. Es wird auf einen Kauf verzichtet, da keine wirklich ueberzeugende Gelegenheit vorliegt.",
     "positionIds": [
       "pos-0010"
     ],
-    "portfolioValueEnd": 962.25,
+    "portfolioValueEnd": 963.39,
     "updates": [
       {
         "time": "00:10",
@@ -3173,6 +3173,11 @@
         "time": "22:09",
         "note": "Keine Aenderung; Boersen soeben geschlossen (NVDA-Schlusskurs 220,50 USD, -3,77%), Krypto nach gescheitertem BTC-Ausbruch ueber 81.000 USD wieder unter Druck (Fed-Zinserwartungen) - kein Trade",
         "portfolioValue": 962.25
+      },
+      {
+        "time": "23:09",
+        "note": "Keine Aenderung; NVDA nachboerslich +0,26 USD auf 220,76 USD, Boersen fuer Aktien/ETFs/Rohstoffe geschlossen. Bitcoin (~77.000-78.000 USD), Ethereum (~2.400-2.450 USD) und Solana (~103 USD) weiterhin ohne bestaetigtes Muster nach gescheitertem BTC-Ausbruch - kein Trade",
+        "portfolioValue": 963.39
       }
     ]
   }
