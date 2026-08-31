@@ -3051,9 +3051,9 @@
   },
   {
     "date": "2026-08-31",
-    "marketOverview": "Montag 18:11 Uhr: Nasdaq weiter im regulaeren Handel (Boersenschluss 22:00 MESZ), US-Maerkte bleiben nach dem US-Schlag auf iranische Raketenstellungen bei der Strasse von Hormus und der iranischen Vergeltung gegen US-Basen in Jordanien/VAE im Minus (S&P 500 ca. -0,45%, Dow ca. -0,60%, Nasdaq ca. -0,38%), Brent-Oel weiter ueber 90 USD, gestiegene Zinserhoehungserwartungen fuer die Fed-Sitzung im September belasten zusaetzlich. NVDA notiert bei 217,55 USD (-5,04% seit Kauf), leicht schwaecher als beim 17:15-Stand (218,56 USD). Bitcoin haelt sich bei ca. 78.000 USD, weiterhin gedaempft durch hoehere Zinserwartungen nach Warsh-Rede in Jackson Hole. Rheinmetall bewegt sich seitwaerts um 1.150-1.170 EUR ohne Ausbruch. Kein neuer Katalysator seit dem letzten Lauf.",
-    "decision": "Tagesbudget-Gutschrift fuer den 31.08. bereits erfolgt (freies Kapital unveraendert ca. 25.960,66 EUR, ganz ueberwiegend ungenutzt). Im 19. Lauf des Tages (18:11) erneut kein Trade: NVDA-Position auf aktuellen Kurs 217,55 USD aktualisiert (currentValue 949,60 EUR, -5,04%), kein Stop-Loss-Niveau erreicht, Bewegung im Rahmen der bisherigen Tagesschwankung. Kein neuer Kauf: Iran/Hormuz-Eskalation, erhoehte Oelpreise und steigende Zinserhoehungserwartungen bleiben unveraendert eingepreist ohne neues Einzeltitel-Signal, Rheinmetall weiterhin ohne Ausbruch, Krypto seitwaerts - keine ueberzeugende Gelegenheit in diesem Lauf.",
-    "reasoning": "Seit dem 17:15-Lauf keine wesentliche Marktbewegung: NVDA schwankt nur marginal (218,56 -> 217,55 USD), die Iran/Hormuz-Lage sowie der erhoehte Oelpreis (>90 USD Brent) und die gestiegenen Fed-Zinserhoehungserwartungen sind bereits mehrfach eingepreist ohne neuen Einzeltitel-Katalysator. Ein Rheinmetall-Wiedereinstieg bleibt wegen der am 06.08. gesenkten Umsatzprognose ausgeschlossen und der Titel zeigt weiterhin keinen Ausbruch. Krypto (Bitcoin ~78.000 USD) bewegt sich weiterhin seitwaerts, gedaempft durch hoehere Zinserwartungen - keine ueberzeugende Gelegenheit. Keine der Ausschlusslisten aus den Einstellungen ist relevant.",
+    "marketOverview": "Montag 19:11 Uhr: Nasdaq weiter im regulaeren Handel (Boersenschluss 22:00 MESZ), US-Maerkte bleiben nach dem US-Schlag auf iranische Raketenstellungen an der Strasse von Hormus und der iranischen Vergeltung im Minus (S&P 500 ca. -0,45%, Dow ca. -0,60%, Nasdaq ca. -0,38%, Russell 2000 -1,39%), Brent-Oel weiter ueber 90 USD. Fed-Chair Warsh's Jackson-Hole-Rede ('Inflation laeuft zu heiss') hat die Markterwartung fuer eine Zinserhoehung im September auf 62% steigen lassen. NVDA notiert unveraendert bei 217,55 USD (-5,04% seit Kauf), keine neue Kursbewegung seit dem 18:11-Lauf. Bitcoin haelt sich bei ca. 78.150 USD, Ethereum bei ca. 2.454 USD, beide gedaempft durch hoehere Zinserwartungen. Gold-Signale uneinheitlich (unterschiedliche Quellen zwischen 4.433 und 4.507 USD), kein klarer Trend. Kein neuer Katalysator seit dem letzten Lauf.",
+    "decision": "Tagesbudget-Gutschrift fuer den 31.08. bereits erfolgt (freies Kapital unveraendert ca. 25.960,66 EUR, ganz ueberwiegend ungenutzt). Im 20. Lauf des Tages (19:11) erneut kein Trade: NVDA-Position unveraendert bei 217,55 USD (currentValue 949,60 EUR, -5,04%), kein Stop-Loss-Niveau erreicht, keine neue Kursbewegung seit dem letzten Lauf. Kein neuer Kauf: Iran/Hormuz-Eskalation, erhoehte Oelpreise und Zinserhoehungserwartungen bleiben unveraendert eingepreist ohne neues Einzeltitel-Signal, keine ueberzeugende Gelegenheit in diesem Lauf.",
+    "reasoning": "Seit dem 18:11-Lauf keine Marktbewegung: NVDA-Kurs unveraendert bei 217,55 USD, Bitcoin/Ethereum seitwaerts, die Iran/Hormuz-Lage sowie der erhoehte Oelpreis (>90 USD Brent) und die gestiegenen Fed-Zinserhoehungserwartungen (62% Wahrscheinlichkeit fuer September laut aktueller Recherche) sind bereits mehrfach eingepreist ohne neuen Einzeltitel-Katalysator. Keine Marktbreite-Recherche (Gainers/Losers) lieferte einen konkreten, ueberzeugenden Dip-Kauf-Kandidaten. Gold-Preisangaben widerspruechlich zwischen Quellen - kein klares Signal. Keine der Ausschlusslisten aus den Einstellungen ist relevant.",
     "positionIds": [
       "pos-0010"
     ],
@@ -3152,6 +3152,11 @@
       {
         "time": "18:11",
         "note": "Keine Aenderung; NVDA-Kurs auf 217,55 USD aktualisiert (-5,04%), Nasdaq weiter im regulaeren Handel, Iran/Hormuz-Eskalation, Oelpreis (>90 USD) und gestiegene Fed-Zinserhoehungserwartungen bereits eingepreist ohne neues Signal, Bitcoin seitwaerts bei ~78.000 USD - kein Trade",
+        "portfolioValue": 949.6
+      },
+      {
+        "time": "19:11",
+        "note": "Keine Aenderung; NVDA-Kurs unveraendert bei 217,55 USD (-5,04%), Bitcoin/Ethereum seitwaerts (~78.150/~2.454 USD), Iran/Hormuz-Eskalation und Fed-Zinserwartungen weiter eingepreist ohne neues Signal - kein Trade",
         "portfolioValue": 949.6
       }
     ]
