@@ -3051,9 +3051,9 @@
   },
   {
     "date": "2026-08-31",
-    "marketOverview": "Montag 04:08 Uhr: Boersen fuer Aktien/ETFs/Rohstoffe weiterhin geschlossen (regulaerer US-Handel erst ab 15:30 MESZ, US-Vorboerse startet erst gegen 10-11 Uhr MESZ). Nur Krypto grundsaetzlich handelbar, zeigt aber leichte Abkuehlung: Bitcoin ca. 77.750 USD (-0,4%), Ethereum ca. 2.419 USD (-1,5%) und Solana ca. 101,82 USD (-3,3%) alle leicht im Minus gegenueber dem letzten Lauf, weiterhin unter den jeweiligen Monatshochs. CLARITY Act bleibt bis 14.09. vertagt, kein neuer Katalysator. NVDA (einzige offene Position) notiert unveraendert bei ca. 217,89 USD (letzter Schlusskurs Freitag 228,0 USD, keine belastbaren Vorboersendaten fuer Montag frueh verfuegbar).",
-    "decision": "Kein Trade in diesem Lauf. NVDA-Position (pos-0010) bleibt unveraendert gehalten (Kurs unveraendert bei 217,89 USD mangels neuer Vorboersendaten). Tagesbudget-Gutschrift fuer den 31.08. war bereits im 00:10-Lauf erfolgt; freies Kapital von 25.960,66 EUR bleibt mangels ueberzeugender Krypto-Gelegenheit weiterhin ungenutzt.",
-    "reasoning": "Risikoprofil \"spekulativ\" erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Ausserhalb der Handelszeiten sind Aktien/ETFs/Rohstoffe nicht handelbar. Bitcoin, Ethereum und Solana zeigen alle drei ein leichtes Minus ohne neuen fundamentalen Katalysator - eher Konsolidierung/Abkuehlung nach vorheriger Ueberkauft-Phase als eine neue Kaufgelegenheit. Ein Einstieg waere reines Chasing ohne Edge. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "marketOverview": "Montag 05:07 Uhr: Boersen fuer Aktien/ETFs/Rohstoffe weiterhin geschlossen (regulaerer US-Handel erst ab 15:30 MESZ). Nur Krypto grundsaetzlich handelbar: Bitcoin ca. 78.230 USD (leicht befestigt ggue. 04:08-Lauf, +0,75% 24h laut Marktdaten), Ethereum ca. 2.471,80 USD (+0,1% 24h), Solana ca. 101 USD - alle drei im Rahmen der juengsten Konsolidierung, kein neuer Katalysator. CLARITY Act weiterhin erst fuer die Verfahrensabstimmung am 15.09. terminiert. Am Aktienmarkt belasten weiter hohe Anleiherenditen (30-jaehrige US-Anleihe ~5,3%) und die Eskalation an der Strasse von Hormus (US-Angriff auf iranische Raketenwerfer) die Stimmung fuer den US-Handelsstart spaeter heute; NVDA-Vorboersendaten weiterhin nicht belastbar/uneinheitlich, Kurs daher unveraendert fortgefuehrt.",
+    "decision": "Kein Trade in diesem Lauf. NVDA-Position (pos-0010) bleibt unveraendert gehalten (keine belastbaren Vorboersendaten). Tagesbudget-Gutschrift fuer den 31.08. war bereits im 00:10-Lauf erfolgt; freies Kapital von ca. 25.960,66 EUR bleibt mangels ueberzeugender Krypto-Gelegenheit weiterhin ungenutzt.",
+    "reasoning": "Risikoprofil \"spekulativ\" erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Ausserhalb der Handelszeiten sind Aktien/ETFs/Rohstoffe nicht handelbar. Bitcoin, Ethereum und Solana zeigen weiterhin nur leichte Bewegungen ohne neuen fundamentalen Katalysator (CLARITY-Act-Abstimmung erst 15.09.) - reine Seitwaertsbewegung nach der vorherigen Ueberkauft-Phase, kein Einstiegssignal. Ein Kauf jetzt waere reines Chasing ohne Edge. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [
       "pos-0010"
     ],
@@ -3082,6 +3082,11 @@
       {
         "time": "04:08",
         "note": "Keine Aenderung - Boersen weiterhin geschlossen, nur Krypto grundsaetzlich handelbar; Bitcoin (~77.750 USD, -0,4%), Ethereum (~2.419 USD, -1,5%) und Solana (~101,82 USD, -3,3%) alle leicht im Minus ohne neuen Katalysator - kein Trade. NVDA-Kurs unveraendert (keine Vorboersendaten verfuegbar).",
+        "portfolioValue": 950.87
+      },
+      {
+        "time": "05:07",
+        "note": "Keine Aenderung - Boersen weiterhin geschlossen, nur Krypto grundsaetzlich handelbar; Bitcoin (~78.230 USD), Ethereum (~2.471,80 USD) und Solana (~101 USD) in Konsolidierung ohne neuen Katalysator (CLARITY-Act-Abstimmung erst 15.09.) - kein Trade. NVDA-Kurs unveraendert (weiterhin keine belastbaren Vorboersendaten).",
         "portfolioValue": 950.87
       }
     ]
