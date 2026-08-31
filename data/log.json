@@ -3051,9 +3051,9 @@
   },
   {
     "date": "2026-08-31",
-    "marketOverview": "Montag 06:10 Uhr: Boersen fuer Aktien/ETFs/Rohstoffe weiterhin geschlossen (regulaerer US-Handel erst ab 15:30 MESZ). Nur Krypto grundsaetzlich handelbar: Bitcoin ca. 78.840 USD (Konsolidierung unterhalb der Widerstandszone 80.000-82.000 USD, aber weiter klar ueber dem 200-Tage-Durchschnitt), Ethereum ca. 2.472 USD, Solana ca. 101-105 USD - alle drei seitwaerts ohne neuen Katalysator (CLARITY-Act-Abstimmung erst 15.09.). NVDA-Vorboersenkurs aktualisiert auf 227,10 USD (leicht schwaecher, -0,39%) bei weiterhin hohen Anleiherenditen (30-jaehrige US-Anleihe ~5,3%) und anhaltender Eskalation an der Strasse von Hormus.",
-    "decision": "Kein Trade in diesem Lauf. NVDA-Position (pos-0010) mark-to-market auf 227,10 USD aktualisiert (Vorboersendaten jetzt verfuegbar). Tagesbudget-Gutschrift fuer den 31.08. war bereits im 00:10-Lauf erfolgt; freies Kapital von ca. 25.960,66 EUR bleibt mangels ueberzeugender Krypto-Gelegenheit weiterhin ungenutzt.",
-    "reasoning": "Risikoprofil \"spekulativ\" erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Ausserhalb der Handelszeiten sind Aktien/ETFs/Rohstoffe nicht handelbar. Bitcoin, Ethereum und Solana konsolidieren weiterhin innerhalb ihrer etablierten Handelsspannen ohne Ausbruch ueber wichtige Widerstaende (BTC 80.000-82.000 USD) und ohne neuen fundamentalen Katalysator - reines Chasing ohne Edge waere hier nicht gerechtfertigt. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "marketOverview": "Montag 07:15 Uhr: Boersen fuer Aktien/ETFs/Rohstoffe weiterhin geschlossen (Xetra oeffnet erst 9:00 MESZ, regulaerer US-Handel erst ab 15:30 MESZ). Neuer geopolitischer Katalysator ueber Nacht: US-Streitkraefte haben iranische Raketenwerfer bei Larak Island in der Strasse von Hormus angegriffen, nachdem der Iran dort erneut Minen habe verlegen wollen - Ende einer mehrwoechigen relativen Ruhephase im Konflikt. Oel reagiert deutlich: Brent ueber 90 USD, WTI nahe 86 USD. US-Aktienfutures dagegen nur leicht schwaecher (Dow -0,29%, S&P 500 -0,36%, Nasdaq -0,4%). Krypto zeigt bislang kaum Risk-off-Reaktion: Bitcoin ca. 77.900 USD, Ethereum ca. 2.500 USD, Solana ca. 100 USD (SOL-ETFs zuletzt mit ueber 150 Mio. USD Wochenzufluss) - weiterhin die tief ueberkaufte Konsolidierung der Vortage, kein klarer Ausbruch in eine Richtung.",
+    "decision": "Tagesbudget-Gutschrift fuer den 31.08. bereits erfolgt (freies Kapital ca. 25.960,66 EUR, ganz ueberwiegend ungenutzt). Auch im 8. Lauf des Tages (07:15) kein Trade: Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten nicht handelbar - trotz des neuen Iran/Hormus-Katalysators und des Oelpreisanstiegs kann darauf aktuell nicht reagiert werden. Krypto bleibt ohne klaren neuen Impuls in der bekannten ueberkauften Seitwaertsrange, keine ueberzeugende Gelegenheit. NVDA-Position unveraendert (keine neuen Vorboersendaten fuer Montag verfuegbar, letzter bekannter Kurs 227,10 USD).",
+    "reasoning": "Die Eskalation an der Strasse von Hormus (US-Angriff auf iranische Raketenwerfer) ist ein echter neuer geopolitischer Katalysator mit klarer Marktwirkung (Oelpreissprung), betrifft aber primaer Rohstoffe/Energie- und Aktienmaerkte, die vor 9:00 bzw. 15:30 MESZ nicht handelbar sind - ein Kauf ist daher aktuell nicht umsetzbar, ungeachtet der Ueberzeugungskraft der Story. Bei Krypto, dem einzigen aktuell handelbaren Segment, gibt es keine vergleichbare Bewegung: Bitcoin/Ethereum/Solana bleiben nahe den Stunden zuvor, weiterhin tief ueberkauft (RSI konstant hoch in den letzten Laeufen) ohne neuen Kurstreiber - ein Einstieg waere reine Anschlusswette ohne Sicherheitsmarge. Keine der Ausschlusslisten aus den Einstellungen ist hier relevant. Die offene NVDA-Position verstoesst gegen keine Ausschlusskriterien.",
     "positionIds": [
       "pos-0010"
     ],
@@ -3092,6 +3092,11 @@
       {
         "time": "06:10",
         "note": "Keine Aenderung - Boersen weiterhin geschlossen, nur Krypto grundsaetzlich handelbar; Bitcoin (~78.840 USD) konsolidiert unter 80k-82k-Widerstand, Ethereum (~2.472 USD) und Solana (~101-105 USD) seitwaerts ohne neuen Katalysator - kein Trade. NVDA-Vorboersenkurs auf 227,10 USD aktualisiert.",
+        "portfolioValue": 991.05
+      },
+      {
+        "time": "07:15",
+        "note": "Keine Aenderung; neuer Katalysator: US-Angriff auf iranische Raketenwerfer bei Hormus, Oel springt (Brent >90 USD), aber Aktien/ETFs/Rohstoffe vor Boersenoeffnung nicht handelbar. Krypto ohne klare Reaktion (Bitcoin ~77.900 USD, Ethereum ~2.500 USD, Solana ~100 USD), weiterhin ueberkauft - kein Trade",
         "portfolioValue": 991.05
       }
     ]
