@@ -3051,9 +3051,9 @@
   },
   {
     "date": "2026-08-31",
-    "marketOverview": "Montag 19:11 Uhr: Nasdaq weiter im regulaeren Handel (Boersenschluss 22:00 MESZ), US-Maerkte bleiben nach dem US-Schlag auf iranische Raketenstellungen an der Strasse von Hormus und der iranischen Vergeltung im Minus (S&P 500 ca. -0,45%, Dow ca. -0,60%, Nasdaq ca. -0,38%, Russell 2000 -1,39%), Brent-Oel weiter ueber 90 USD. Fed-Chair Warsh's Jackson-Hole-Rede ('Inflation laeuft zu heiss') hat die Markterwartung fuer eine Zinserhoehung im September auf 62% steigen lassen. NVDA notiert unveraendert bei 217,55 USD (-5,04% seit Kauf), keine neue Kursbewegung seit dem 18:11-Lauf. Bitcoin haelt sich bei ca. 78.150 USD, Ethereum bei ca. 2.454 USD, beide gedaempft durch hoehere Zinserwartungen. Gold-Signale uneinheitlich (unterschiedliche Quellen zwischen 4.433 und 4.507 USD), kein klarer Trend. Kein neuer Katalysator seit dem letzten Lauf.",
-    "decision": "Tagesbudget-Gutschrift fuer den 31.08. bereits erfolgt (freies Kapital unveraendert ca. 25.960,66 EUR, ganz ueberwiegend ungenutzt). Im 20. Lauf des Tages (19:11) erneut kein Trade: NVDA-Position unveraendert bei 217,55 USD (currentValue 949,60 EUR, -5,04%), kein Stop-Loss-Niveau erreicht, keine neue Kursbewegung seit dem letzten Lauf. Kein neuer Kauf: Iran/Hormuz-Eskalation, erhoehte Oelpreise und Zinserhoehungserwartungen bleiben unveraendert eingepreist ohne neues Einzeltitel-Signal, keine ueberzeugende Gelegenheit in diesem Lauf.",
-    "reasoning": "Seit dem 18:11-Lauf keine Marktbewegung: NVDA-Kurs unveraendert bei 217,55 USD, Bitcoin/Ethereum seitwaerts, die Iran/Hormuz-Lage sowie der erhoehte Oelpreis (>90 USD Brent) und die gestiegenen Fed-Zinserhoehungserwartungen (62% Wahrscheinlichkeit fuer September laut aktueller Recherche) sind bereits mehrfach eingepreist ohne neuen Einzeltitel-Katalysator. Keine Marktbreite-Recherche (Gainers/Losers) lieferte einen konkreten, ueberzeugenden Dip-Kauf-Kandidaten. Gold-Preisangaben widerspruechlich zwischen Quellen - kein klares Signal. Keine der Ausschlusslisten aus den Einstellungen ist relevant.",
+    "marketOverview": "Montag 20:10 Uhr: Nasdaq weiter im regulaeren Handel (Boersenschluss 22:00 MESZ), US-Maerkte bleiben nach dem US-Schlag auf iranische Raketenstellungen an der Strasse von Hormus und der iranischen Vergeltung im Minus (S&P 500 ca. -0,3% bei 7.711,76, Dow ca. -0,6%, Nasdaq Composite -0,5% bei 26.402,42), Brent-Oel bei ca. 90,58 USD (+2,8%). Fed-Chair Warsh's Jackson-Hole-Rede ('Inflation laeuft zu heiss') haelt die Marktzinserwartung fuer eine Zinserhoehung im September bei 62%. NVDA notiert unveraendert bei 217,55 USD (-5,04% seit Kauf), kein neuer Katalysator seit dem 19:11-Lauf. Bitcoin bei ca. 78.000 USD, Ethereum bei ca. 2.454 USD, beide gedaempft durch hoehere Zinserwartungen. Einzelner auffaelliger Verlierer: PayPal (-12,7%) nach geplatzter Advent/Stripe-Uebernahme - fundamentaler Negativkatalysator ohne Ueberreaktions-Charakter, daher kein Dip-Kauf-Kandidat.",
+    "decision": "Tagesbudget-Gutschrift fuer den 31.08. bereits erfolgt (freies Kapital unveraendert ca. 25.960,66 EUR, ganz ueberwiegend ungenutzt). Im 21. Lauf des Tages (20:10) erneut kein Trade: NVDA-Position unveraendert bei 217,55 USD (currentValue 949,60 EUR, -5,04%), kein Stop-Loss-Niveau erreicht. Kein neuer Kauf: einziger auffaelliger Marktbewegung (PayPal -12,7%) ist ein fundamentaler Negativkatalysator (geplatzte Uebernahme), kein ueberzogener Sell-the-news-Abverkauf wie bei den bisherigen erfolgreichen Dip-Kaeufen - keine ueberzeugende Gelegenheit in diesem Lauf.",
+    "reasoning": "Seit dem 19:11-Lauf keine wesentliche Marktbewegung: NVDA-Kurs unveraendert bei 217,55 USD, Bitcoin/Ethereum seitwaerts leicht gedaempft, Iran/Hormuz-Eskalation und erhoehte Zinserhoehungserwartungen (62%) bleiben bereits eingepreist ohne neuen Einzeltitel-Katalysator. PayPal-Einbruch (-12,7%) beruht auf einer gescheiterten Advent/Stripe-Uebernahme laut Bloomberg - eine echte fundamentale Verschlechterung der Uebernahmefantasie, kein 'Sell-the-news'-Reflex nach starken Zahlen wie bei den erfolgreichen AMD-/SpaceX-/Palantir-Trades, daher bewusst kein Dip-Kauf. Keine der Ausschlusslisten aus den Einstellungen ist relevant.",
     "positionIds": [
       "pos-0010"
     ],
@@ -3157,6 +3157,11 @@
       {
         "time": "19:11",
         "note": "Keine Aenderung; NVDA-Kurs unveraendert bei 217,55 USD (-5,04%), Bitcoin/Ethereum seitwaerts (~78.150/~2.454 USD), Iran/Hormuz-Eskalation und Fed-Zinserwartungen weiter eingepreist ohne neues Signal - kein Trade",
+        "portfolioValue": 949.6
+      },
+      {
+        "time": "20:10",
+        "note": "Keine Aenderung; NVDA unveraendert bei 217,55 USD, PayPal -12,7% (geplatzte Uebernahme) kein Dip-Kauf-Kandidat - kein Trade",
         "portfolioValue": 949.6
       }
     ]
