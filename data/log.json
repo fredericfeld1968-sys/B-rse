@@ -3183,9 +3183,9 @@
   },
   {
     "date": "2026-09-01",
-    "marketOverview": "Dienstag 00:11 Uhr (frueher Handelstag): US- und europaeische Boersen fuer Aktien/ETFs/Rohstoffe geschlossen, nur Krypto grundsaetzlich handelbar. Bitcoin haelt sich bei ca. 78.000-79.000 USD (Range je nach Boerse), Ethereum bei ca. 2.450 USD, Solana bei ca. 94-101 USD - praktisch unveraendert zum letzten Lauf des Vortages. Fed-Chef Warsh bekraeftigte am Freitag in Jackson Hole eine hawkishe Haltung, US-Luftschlaege gegen iranische Ziele bei Hormuz/Larak halten den Oelpreis ueber 90 USD Brent. Kein neuer Kryptokatalysator seit dem gescheiterten BTC-Ausbruchsversuch ueber 81.000 USD.",
-    "decision": "Tagesbudget-Gutschrift fuer den 01.09. im ersten Lauf des Tages erfolgt (freies Kapital jetzt ca. 26.960,66 EUR). Kein Trade: NVDA-Position (einzige offene Position) bleibt bei nachboerslichem Kurs 220,76 USD unveraendert (Boersen geschlossen bis Dienstag Boersenoeffnung), kein Stop-Loss-Niveau erreicht. Kein Krypto-Kauf mangels ueberzeugender Gelegenheit.",
-    "reasoning": "Direkt nach Mitternacht hat sich an der Gesamtlage seit dem letzten Lauf (23:09 Vortag) nichts Wesentliches veraendert: Bitcoin, Ethereum und Solana bewegen sich im selben Rahmen wie zuvor, ohne neues Ausbruchs- oder Dip-Signal. Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten nicht handelbar. Die hawkishen Fed-Aeusserungen (Warsh) und die Iran/Hormuz-Eskalation sprechen weiterhin eher fuer Vorsicht als fuer eine neue spekulative Position. Keine der Ausschlusslisten aus den Einstellungen ist relevant. Es wird auf einen Kauf verzichtet, da keine wirklich ueberzeugende Gelegenheit vorliegt.",
+    "marketOverview": "Dienstag 01:11 Uhr (frueher Handelstag): US- und europaeische Boersen fuer Aktien/ETFs/Rohstoffe weiterhin geschlossen, nur Krypto grundsaetzlich handelbar. Bitcoin haelt sich ueber 80.000 USD (August-Monatsplus rund 28%, ETF-Nettozufluesse zuletzt positiv), Ethereum bei ca. 2.446 USD (-0,2% 24h), Solana bei ca. 103 USD nach einem Rueckgang von 3,4% wegen Makro-Sorgen und technischem Widerstand. Kein neuer eigenstaendiger Kryptokatalysator seit dem letzten Lauf (00:11) - CLARITY Act und Token-Unlocks (u.a. SUI, HYPE, ENA) bleiben laufende Themen fuer die kommenden Tage, aber ohne akuten Ausloeser fuer diesen Lauf.",
+    "decision": "Tagesbudget-Gutschrift fuer den 01.09. bereits im ersten Lauf des Tages erfolgt (freies Kapital weiterhin ca. 26.960,66 EUR). Kein Trade: NVDA-Position (einzige offene Position) bleibt bei nachboerslichem Kurs 220,76 USD unveraendert (Boersen geschlossen bis Dienstag Boersenoeffnung 15:30 MESZ), kein Stop-Loss-Niveau erreicht. Kein Krypto-Kauf mangels ueberzeugender neuer Gelegenheit seit dem letzten Lauf.",
+    "reasoning": "Seit dem letzten Lauf um 00:11 hat sich die Lage nicht wesentlich veraendert: Bitcoin bleibt ueber 80.000 USD, Ethereum praktisch unveraendert bei ca. 2.446 USD, Solana mit leichtem Rueckgang auf ca. 103 USD wegen Makro-Sorgen und technischem Widerstand - kein neues Ausbruchs- oder Dip-Signal, das eine spekulative Position rechtfertigen wuerde. Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten nicht handelbar. Keine der Ausschlusslisten aus den Einstellungen ist relevant. Es wird auf einen Kauf verzichtet, da keine wirklich ueberzeugende Gelegenheit vorliegt.",
     "positionIds": [
       "pos-0010"
     ],
@@ -3194,6 +3194,11 @@
       {
         "time": "00:11",
         "note": "Tagesbudget-Gutschrift +1.000 EUR (freies Kapital jetzt ca. 26.960,66 EUR); Boersen geschlossen, nur Krypto grundsaetzlich handelbar. Bitcoin (~78.000-79.000 USD), Ethereum (~2.450 USD) und Solana (~94-101 USD) unveraendert zum letzten Lauf des Vortages, kein neuer Katalysator - kein Trade",
+        "portfolioValue": 963.39
+      },
+      {
+        "time": "01:11",
+        "note": "Keine Aenderung - BTC >80.000 USD, ETH ~2.446 USD, SOL ~103 USD (-3,4%) nach Makro-Sorgen/technischem Widerstand, kein neuer Katalysator seit letztem Lauf",
         "portfolioValue": 963.39
       }
     ]
