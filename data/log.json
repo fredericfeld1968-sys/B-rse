@@ -3051,13 +3051,13 @@
   },
   {
     "date": "2026-08-31",
-    "marketOverview": "Montag 02:10 Uhr: Boersen fuer Aktien/ETFs/Rohstoffe weiterhin geschlossen (regulaerer US-Handel beginnt erst 15:30 MESZ), nur Krypto grundsaetzlich handelbar. Bitcoin haelt sich bei ca. 78.600 USD knapp unter dem psychologischen Widerstand von 80.000 USD (+1,1% in 24h), Ethereum und Solana bewegen sich im aehnlichen Rahmen wie in den vorherigen Laeufen. Der Senat hat die CLARITY-Act-Abstimmung bereits am 08.08. auf den 14.09. vertagt (Sommerpause) - kein neuer eigenstaendiger Katalysator seit den letzten Laeufen. NVDA (einzige offene Position) bleibt zum Freitags-Schlusskurs von ca. 217,86 USD marktbewertet, da die Boerse noch nicht geoeffnet hat.",
-    "decision": "Kein Trade in diesem Lauf. NVDA-Position (pos-0010) bleibt unveraendert gehalten (Boerse geschlossen, Kurs unveraendert zum letzten Mark-to-Market). Tagesbudget-Gutschrift fuer den 31.08. war bereits im 00:10-Lauf erfolgt; freies Kapital von rund 26.960,66 EUR bleibt mangels ueberzeugender Krypto-Gelegenheit weiterhin ungenutzt.",
-    "reasoning": "Risikoprofil \"spekulativ\" erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Ausserhalb der Handelszeiten sind Aktien/ETFs/Rohstoffe nicht handelbar, daher bleibt NVDA nur mark-to-market bewertet (Kurs identisch zu den vorherigen Laeufen, keine Aktualisierung noetig). Bitcoin konsolidiert knapp unter der viel beachteten 80.000-USD-Marke ohne klaren Ausbruch, Ethereum und Solana zeigen ebenfalls keine signifikante neue Bewegung gegenueber dem letzten Lauf. Der Senat hat die CLARITY-Act-Abstimmung bereits vor drei Wochen auf den 14.09. vertagt, es gibt somit kein neues regulatorisches oder fundamentales Signal seit den vorherigen Laeufen. Ein Einstieg jetzt waere reines Rauschen-Chasing ohne neuen Katalysator und keine wirklich ueberzeugende Gelegenheit im Sinne der Vorgaben. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "marketOverview": "Montag 03:09 Uhr: Boersen fuer Aktien/ETFs/Rohstoffe weiterhin geschlossen (regulaerer US-Handel beginnt erst 15:30 MESZ), nur Krypto grundsaetzlich handelbar. Bitcoin haelt sich bei ca. 78.100-78.600 USD knapp unter dem psychologischen Widerstand von 80.000 USD nach dem Ruecksetzer vom Monatshoch (81.300 USD am 28.08.). Ethereum (~2.478 USD, Tages-RSI ~78,7) und Solana (~106,92 USD, Tages-RSI ~80,5) bleiben beide tief ueberkauft; mehrere Analysen warnen vor einem moeglichen Ruecksetzer bei Solana. Der Senat hat die CLARITY-Act-Abstimmung bereits am 08.08. auf den 14.09. vertagt - weiterhin kein neuer eigenstaendiger Katalysator. NVDA (einzige offene Position) notiert bei ca. 217,89 USD (leicht nachboerslich erholt von 217,55 USD), Boerse noch geschlossen.",
+    "decision": "Kein Trade in diesem Lauf. NVDA-Position (pos-0010) bleibt unveraendert gehalten, Kurs marginal auf 217,89 USD aktualisiert (-4,91% seit Kauf). Tagesbudget-Gutschrift fuer den 31.08. war bereits im 00:10-Lauf erfolgt; freies Kapital von rund 26.960,66 EUR bleibt mangels ueberzeugender Krypto-Gelegenheit weiterhin ungenutzt.",
+    "reasoning": "Risikoprofil \"spekulativ\" erlaubt kurzfristiges Trading, verlangt aber eine wirklich ueberzeugende Gelegenheit. Ausserhalb der Handelszeiten sind Aktien/ETFs/Rohstoffe nicht handelbar, NVDA wird daher nur mark-to-market mit dem aktuellen Nachbörslich-/Vorboerslich-Kurs bewertet. Bitcoin konsolidiert weiterhin knapp unter der 80.000-USD-Marke ohne klaren neuen Ausbruch, Ethereum und Solana sind beide tief ueberkauft (RSI 78-80+), mit expliziten Warnungen vor einem Ruecksetzer bei Solana. Ein Einstieg in dieser Phase waere reines Ueberkauft-Chasing ohne neuen Katalysator - keine wirklich ueberzeugende Gelegenheit im Sinne der Vorgaben. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [
       "pos-0010"
     ],
-    "portfolioValueEnd": 950.73,
+    "portfolioValueEnd": 950.87,
     "updates": [
       {
         "time": "00:10",
@@ -3073,6 +3073,11 @@
         "time": "02:10",
         "note": "Keine Aenderung; Boersen weiterhin geschlossen, nur Krypto grundsaetzlich handelbar. Bitcoin (~78.600 USD, +1,1% 24h) haelt sich knapp unter der 80.000-USD-Marke, CLARITY Act seit 08.08. auf 14.09. vertagt, kein neuer Katalysator - kein Trade",
         "portfolioValue": 950.73
+      },
+      {
+        "time": "03:09",
+        "note": "Keine Aenderung - Boersen weiterhin geschlossen, nur Krypto grundsaetzlich handelbar; Bitcoin (~78.100-78.600 USD) unter 80k-Widerstand, Ethereum (RSI ~78,7) und Solana (RSI ~80,5) weiterhin tief ueberkauft ohne neuen Katalysator - kein Trade. NVDA marginal auf 217,89 USD aktualisiert.",
+        "portfolioValue": 950.87
       }
     ]
   }
