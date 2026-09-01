@@ -3183,9 +3183,9 @@
   },
   {
     "date": "2026-09-01",
-    "marketOverview": "Dienstag 21:10 Uhr: Keine wesentliche Veraenderung seit 20:09 - US-Maerkte bleiben unter Druck (Dow -0,8%, S&P 500 -0,6%, Nasdaq -0,9%) durch steigende Anleiherenditen (10J ~4,78%, hoechster Stand seit ueber anderthalb Jahren) und die anhaltende Hormuz-Eskalation: US-Central-Command griff IRGC-Ziele auf Larak Island an, Iran antwortete mit Angriffen auf US-Basen in Jordanien, zusaetzlich zwei weitere Tankertreffer in der Strasse von Hormuz (Brent ~92 USD, WTI ~88-90 USD). NVDA notiert weiterhin exakt unveraendert bei 220,78 USD (-3,65% ggue. Kaufkurs). Bitcoin (~78.600 USD) und Solana (~103,77 USD) weiter seitwaerts ohne neuen Katalysator.",
-    "decision": "Tagesbudget-Gutschrift fuer den 01.09. bereits im ersten Lauf des Tages erfolgt (freies Kapital weiterhin 26.960,66 EUR). Kein Trade: NVDA-Position (einzige offene Position) unveraendert bei 220,78 USD (-3,65%). Trotz weiterer militaerischer Eskalation (US-Angriffe auf IRGC-Ziele, iranische Vergeltung gegen US-Basen in Jordanien) keine ueberzeugende neue Gelegenheit - die Nachrichtenlage ist bereits eingepreist und deckt sich mit den vorherigen Laeufen des Tages.",
-    "reasoning": "Seit dem letzten Lauf um 20:09 keine wirklich neuen Katalysatoren: Die gemeldeten US-Angriffe auf IRGC-Ziele und die iranische Vergeltung sind eine Fortsetzung der bereits bekannten Hormuz-Eskalation, NVDA notiert exakt unveraendert bei 220,78 USD, Bitcoin (~78.600 USD) und Solana (~103,77 USD) bewegen sich weiter seitwaerts. Marktkommentare sprechen zwar von einer moeglichen mittelfristigen Kaufgelegenheit nach dem Ausverkauf seit Monatsbeginn, liefern aber keinen konkreten, kurzfristig handelbaren Einzeltitel-Katalysator im Sinne des spekulativen Kurzfrist-Profils. Keine der Ausschlusslisten ist relevant. Die NVDA-Position bleibt unveraendert im Bestand, kein neuer Kauf.",
+    "marketOverview": "Dienstag 22:10 Uhr (Boersenschluss): US-Maerkte schlossen tiefer im Bond-Sell-Off - Renditedruck (10J-Treasury ~4,78%) und die anhaltende Hormuz-Eskalation (US-Angriffe auf IRGC-Ziele auf Larak Island, iranische Vergeltung gegen US-Basen in Jordanien, zwei weitere Tankertreffer in der Strasse von Hormuz, Brent ~90,49 USD/WTI ~85,76 USD, jeweils +~2,8%) belasteten. NVDA schloss weiterhin unveraendert bei 220,78 USD (-3,65% ggue. Kaufkurs). Krypto tendiert schwaecher: Bitcoin knapp unter 78.000 USD, Solana ~101-103 USD, belastet von steigenden Zinserwartungen (66% Fed-Zinserhoehungswahrscheinlichkeit laut CME FedWatch) trotz positiver Solana-ETF-Zuflüsse (BSOL >1 Mrd. USD AUM).",
+    "decision": "Tagesbudget-Gutschrift fuer den 01.09. bereits im ersten Lauf des Tages erfolgt (freies Kapital weiterhin 26.960,66 EUR). Kein Trade: NVDA-Position (einzige offene Position) unveraendert bei 220,78 USD (-3,65%). Boersen sind mittlerweile geschlossen (22:00 Boersenschluss NYSE), Krypto tendiert wegen steigender Fed-Zinserwartungen schwaecher statt eine Kaufgelegenheit zu bieten - kein neuer Trade in diesem Lauf.",
+    "reasoning": "Seit dem letzten Lauf um 21:10 keine neuen Katalysatoren: Die Hormuz-Eskalation und der Renditedruck sind unveraendert bekannt und eingepreist, NVDA notiert weiter exakt bei 220,78 USD. Die US-Boersen haben inzwischen geschlossen, Aktien/ETFs/Rohstoffe sind damit nicht mehr handelbar. Bei Krypto (einzig moegliche Anlageklasse ausserhalb der Handelszeiten) ueberwiegen negative Signale (steigende Fed-Zinserwartungen von 66%, Bitcoin knapp unter 78.000 USD, Solana leicht schwaecher trotz ETF-Zuflüssen) - keine ueberzeugende Kaufgelegenheit im Sinne des spekulativen Kurzfrist-Profils. Keine Ausschlussliste betroffen. Die NVDA-Position bleibt unveraendert im Bestand.",
     "positionIds": [
       "pos-0010"
     ],
@@ -3299,6 +3299,11 @@
       {
         "time": "21:10",
         "note": "Keine Aenderung - NVDA weiterhin exakt 220,78 USD (-3,65%), erneute Eskalation: US-Central-Command griff IRGC-Ziele auf Larak Island an, Iran vergalt mit Angriffen auf US-Basen in Jordanien, zwei weitere Tankertreffer in der Strasse von Hormuz (Brent ~92, WTI ~88-90 USD); BTC ~78.600 USD und SOL ~103,77 USD weiter seitwaerts, keine ueberzeugende Gelegenheit",
+        "portfolioValue": 963.47
+      },
+      {
+        "time": "22:10",
+        "note": "Keine Aenderung - Boersenschluss (NYSE), NVDA unveraendert 220,78 USD; Krypto (BTC <78.000 USD, SOL ~101-103 USD) schwaecher wegen steigender Fed-Zinserwartungen, keine ueberzeugende Gelegenheit",
         "portfolioValue": 963.47
       }
     ]
