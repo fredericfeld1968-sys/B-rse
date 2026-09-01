@@ -3183,9 +3183,9 @@
   },
   {
     "date": "2026-09-01",
-    "marketOverview": "Dienstag 17:15 Uhr: US-Markt unter Druck - breiter Abverkauf seit Handelsstart, besonders Chipwerte, wegen steigender Anleiherenditen (Zinserwartungen) und anhaltender Hormuz-Eskalation (weitere Angriffe auf ein Frachtschiff in der Meerenge). WTI/Brent weiter erhoeht. NVDA unveraendert bei 220,78 USD (-3,65% ggue. Kaufkurs). Bitcoin auf ca. 77.600-78.600 USD leicht zurueckgekommen (Inflationssorgen), Solana seitwaerts bei ~103,77 USD. Vereinzelte Lichtblicke wie Medtronic (+3% nach starken Zahlen) aendern nichts am insgesamt vorsichtigen, risikoscheuen Marktbild.",
-    "decision": "Tagesbudget-Gutschrift fuer den 01.09. bereits im ersten Lauf des Tages erfolgt (freies Kapital weiterhin 26.960,66 EUR). Kein Trade: NVDA-Position (einzige offene Position) unveraendert bei 220,78 USD (-3,65%). Keine ueberzeugende neue Gelegenheit - breiter Marktabverkauf durch steigende Renditen und Hormuz-Eskalation spricht fuer Zurueckhaltung statt neuer spekulativer Einstiege.",
-    "reasoning": "Seit dem letzten Lauf um 16:15 hat sich die Lage eher verschaerft: US-Anleiherenditen steigen auf Erwartung weiterer Zinsschritte, Chipwerte stehen unter besonderem Druck, und ein erneuter Angriff auf ein Frachtschiff in der Strasse von Hormuz haelt die geopolitische Risikopraemie hoch. NVDA notiert weiterhin unveraendert bei 220,78 USD. Bitcoin ist leicht auf ca. 77.600-78.600 USD zurueckgekommen (Inflationssorgen), Solana bewegt sich seitwaerts bei ~103,77 USD ohne neuen Katalysator. Medtronic (+3% nach Zahlen) ist zu klein/ausserhalb des ueblichen Spekulationsmusters, um eine Position zu rechtfertigen. Keine der Ausschlusslisten ist relevant, aber es fehlt an einer wirklich ueberzeugenden Gelegenheit (weder ein klarer Dip-Kauf noch ein bestaetigter Ausbruch); die NVDA-Position bleibt unveraendert im Bestand.",
+    "marketOverview": "Dienstag 18:12 Uhr: Keine wesentliche Veraenderung seit 17:15 - US-Markt bleibt unter Druck durch steigende Anleiherenditen und die anhaltende Hormuz-Eskalation (zwei weitere Tankerangriffe in der Nacht zum 01.09., Saudi- und suedkoreanisches Schiff getroffen, keine Verletzten). NVDA haelt sich stabil bei 220,78 USD (-3,65% ggue. Kaufkurs), gestuetzt durch Nvidias 3,5-Mrd-USD-Investition in MediaTek-Wandelanleihen und ueberwiegend positive Analystenstimmung (Strong Buy, Kursziel ~326 USD). Bitcoin bei ca. 77.870 USD und Solana bei ca. 103,4 USD weiterhin seitwaerts ohne neuen Katalysator.",
+    "decision": "Tagesbudget-Gutschrift fuer den 01.09. bereits im ersten Lauf des Tages erfolgt (freies Kapital weiterhin 26.960,66 EUR). Kein Trade: NVDA-Position (einzige offene Position) unveraendert bei 220,78 USD (-3,65%). Keine ueberzeugende neue Gelegenheit - Marktbild seit dem 17:15-Lauf im Wesentlichen unveraendert, weiterhin Zurueckhaltung angezeigt.",
+    "reasoning": "Seit dem letzten Lauf um 17:15 keine neuen Katalysatoren: Die Tankerangriffe in der Strasse von Hormuz sind dieselbe bereits eingepreiste Nachrichtenlage, NVDA notiert exakt unveraendert bei 220,78 USD, Bitcoin (~77.870 USD) und Solana (~103,4 USD) bewegen sich weiter seitwaerts. Die MediaTek-Investition ist positiv fuer Nvidia, aber kein kurzfristiger Ausbruchs- oder Dip-Kauf-Trigger im Sinne des spekulativen Kurzfrist-Profils. Keine der Ausschlusslisten ist relevant, aber es fehlt weiterhin an einer wirklich ueberzeugenden Gelegenheit; die NVDA-Position bleibt unveraendert im Bestand.",
     "positionIds": [
       "pos-0010"
     ],
@@ -3279,6 +3279,11 @@
       {
         "time": "17:15",
         "note": "Keine Aenderung - breiter Marktabverkauf (steigende Anleiherenditen, Chipwerte unter Druck), erneuter Angriff auf Frachtschiff in der Strasse von Hormuz; NVDA unveraendert bei 220,78 USD, BTC auf ~77.600-78.600 USD leicht zurueckgekommen, SOL seitwaerts ~103,77 USD, keine ueberzeugende Gelegenheit",
+        "portfolioValue": 963.47
+      },
+      {
+        "time": "18:12",
+        "note": "Keine Aenderung - NVDA unveraendert bei 220,78 USD, Nvidia investiert 3,5 Mrd. USD in MediaTek-Wandelanleihen (leicht positiv, kein Trade-Trigger), BTC ~77.870 USD und SOL ~103,4 USD weiter seitwaerts, keine ueberzeugende Gelegenheit",
         "portfolioValue": 963.47
       }
     ]
