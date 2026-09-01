@@ -3183,13 +3183,13 @@
   },
   {
     "date": "2026-09-01",
-    "marketOverview": "Dienstag 11:11 Uhr: Xetra weiter offen, US-Markt oeffnet erst um 15:30 MESZ. NVDA-Vorboersenkurs auf 220,78 USD gestiegen (+1,17% zum Vortagesschluss), Erholung setzt sich fort, Position bleibt aber unter Kaufkurs (-3,65%). Bitcoin bei ca. 78.800 USD, Solana bei ca. 102,9-103,4 USD - Krypto weiterhin seitwaerts ohne neuen Katalysator. Fed-Zinssorgen bleiben praesent: 10-Jahres-Rendite bei ca. 4,78-4,79%, Marktpreisung fuer Septembererhoehung nach Warsh-Rede auf ca. 55% gestiegen. Fokus bleibt auf US-Arbeitsmarktbericht (05.09.) und Fed-Sitzung (16.-17.09.).",
-    "decision": "Tagesbudget-Gutschrift fuer den 01.09. bereits im ersten Lauf des Tages erfolgt (freies Kapital weiterhin ca. 26.960,66 EUR). Kein Trade: NVDA-Position (einzige offene Position) auf Vorboersenkurs 220,78 USD aktualisiert (-3,65%, leichte Erholung ggue. letztem Lauf). Keine ueberzeugende neue Gelegenheit bei Krypto oder Xetra-Titeln.",
-    "reasoning": "Seit dem letzten Lauf um 10:12 nur leichte Erholung bei NVDA (218,22 -> 220,78 USD), Position bleibt im Minus, US-Markt oeffnet erst um 15:30 MESZ. Bitcoin und Solana bewegen sich weiter seitwaerts ohne neuen Katalysator. Keine der Ausschlusslisten aus den Einstellungen ist relevant. Es wird auf einen Kauf verzichtet, da keine wirklich ueberzeugende Gelegenheit vorliegt.",
+    "marketOverview": "Dienstag 12:12 Uhr: Xetra weiter offen, US-Markt oeffnet erst um 15:30 MESZ. NVDA-Vorboersenkurs auf 219,14 USD leicht zurueckgekommen (-0,74% ggue. Schlusskurs 220,78 USD), Position weiter im Minus (-4,37%). Bitcoin pendelt zwischen 77.900-79.200 USD je nach Boerse, Solana bei ca. 102,9-103,9 USD - beide weiter seitwaerts ohne neuen Katalysator. Geopolitische Lage bleibt angespannt: US-Maerkte schlossen am Montag schwaecher (Dow -0,7%, S&P -0,3%) nach neuer Nahost-Eskalation, Oelpreise deutlich gestiegen (WTI +2,83% auf 85,76 USD, Brent +2,71% auf 90,49 USD), 10-Jahres-Rendite auf 4,75% (hoechster Stand seit Jan. 2025). Fokus bleibt auf US-Arbeitsmarktbericht (05.09.) und Fed-Sitzung (16.-17.09.).",
+    "decision": "Tagesbudget-Gutschrift fuer den 01.09. bereits im ersten Lauf des Tages erfolgt (freies Kapital weiterhin ca. 26.960,66 EUR). Kein Trade: NVDA-Position (einzige offene Position) auf Vorboersenkurs 219,14 USD aktualisiert (-4,37%, leichter Ruecksetzer ggue. letztem Lauf). Keine ueberzeugende neue Gelegenheit bei Krypto oder Xetra-Titeln; steigende Renditen und Oelpreise durch Nahost-Eskalation sprechen eher fuer Vorsicht als fuer neue spekulative Einstiege.",
+    "reasoning": "Seit dem letzten Lauf um 11:11 leichter Ruecksetzer bei NVDA (220,78 -> 219,14 USD) im Vorboersenhandel, US-Markt oeffnet erst um 15:30 MESZ. Bitcoin und Solana bewegen sich weiter seitwaerts ohne neuen Katalysator. Die Nahost-Eskalation vom Montag (Oelpreissprung, schwaechere US-Indizes, hoehere Renditen) liefert keinen klaren, spekulativ ueberzeugenden Einstiegspunkt - eher erhoehte Unsicherheit. Keine der Ausschlusslisten aus den Einstellungen ist relevant. Es wird auf einen Kauf verzichtet, da keine wirklich ueberzeugende Gelegenheit vorliegt.",
     "positionIds": [
       "pos-0010"
     ],
-    "portfolioValueEnd": 963.47,
+    "portfolioValueEnd": 956.32,
     "updates": [
       {
         "time": "00:11",
@@ -3250,6 +3250,11 @@
         "time": "11:11",
         "note": "Keine Aenderung - NVDA-Vorboersenkurs leicht erholt auf 220,78 USD (-3,65%), Bitcoin/Solana weiter seitwaerts, keine ueberzeugende Gelegenheit",
         "portfolioValue": 963.47
+      },
+      {
+        "time": "12:12",
+        "note": "Keine Aenderung - NVDA-Vorboerse auf 219,14 USD zurueckgekommen (-4,37%), Krypto seitwaerts (BTC ~78.000-79.000 USD, SOL ~103 USD), Nahost-Eskalation belastet US-Indizes/Oelpreis, kein neuer Katalysator fuer Kauf",
+        "portfolioValue": 956.32
       }
     ]
   }
