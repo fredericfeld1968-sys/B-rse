@@ -3183,9 +3183,9 @@
   },
   {
     "date": "2026-09-01",
-    "marketOverview": "Dienstag 22:10 Uhr (Boersenschluss): US-Maerkte schlossen tiefer im Bond-Sell-Off - Renditedruck (10J-Treasury ~4,78%) und die anhaltende Hormuz-Eskalation (US-Angriffe auf IRGC-Ziele auf Larak Island, iranische Vergeltung gegen US-Basen in Jordanien, zwei weitere Tankertreffer in der Strasse von Hormuz, Brent ~90,49 USD/WTI ~85,76 USD, jeweils +~2,8%) belasteten. NVDA schloss weiterhin unveraendert bei 220,78 USD (-3,65% ggue. Kaufkurs). Krypto tendiert schwaecher: Bitcoin knapp unter 78.000 USD, Solana ~101-103 USD, belastet von steigenden Zinserwartungen (66% Fed-Zinserhoehungswahrscheinlichkeit laut CME FedWatch) trotz positiver Solana-ETF-Zuflüsse (BSOL >1 Mrd. USD AUM).",
-    "decision": "Tagesbudget-Gutschrift fuer den 01.09. bereits im ersten Lauf des Tages erfolgt (freies Kapital weiterhin 26.960,66 EUR). Kein Trade: NVDA-Position (einzige offene Position) unveraendert bei 220,78 USD (-3,65%). Boersen sind mittlerweile geschlossen (22:00 Boersenschluss NYSE), Krypto tendiert wegen steigender Fed-Zinserwartungen schwaecher statt eine Kaufgelegenheit zu bieten - kein neuer Trade in diesem Lauf.",
-    "reasoning": "Seit dem letzten Lauf um 21:10 keine neuen Katalysatoren: Die Hormuz-Eskalation und der Renditedruck sind unveraendert bekannt und eingepreist, NVDA notiert weiter exakt bei 220,78 USD. Die US-Boersen haben inzwischen geschlossen, Aktien/ETFs/Rohstoffe sind damit nicht mehr handelbar. Bei Krypto (einzig moegliche Anlageklasse ausserhalb der Handelszeiten) ueberwiegen negative Signale (steigende Fed-Zinserwartungen von 66%, Bitcoin knapp unter 78.000 USD, Solana leicht schwaecher trotz ETF-Zuflüssen) - keine ueberzeugende Kaufgelegenheit im Sinne des spekulativen Kurzfrist-Profils. Keine Ausschlussliste betroffen. Die NVDA-Position bleibt unveraendert im Bestand.",
+    "marketOverview": "Dienstag 23:09 Uhr (nach Boersenschluss NYSE): Keine neuen Katalysatoren seit 22:10 - Bitcoin pendelt weiter zwischen ca. 77.600-78.800 USD, Solana bei ~103,77 USD, beide ohne klare Richtung. Renditedruck (10J-Treasury ~4,77%, Fed-Zinserhoehungswahrscheinlichkeit ~65%) und die anhaltende Hormuz-Eskalation (iranische Angriffe auf US-Drohnen und einen Luftwaffenstuetzpunkt in den VAE, Brent ~90,49 USD/WTI ~85,76 USD) bleiben die dominanten Themen. NVDA (einzige offene Position) bleibt ausserhalb der Handelszeiten unveraendert bei 220,78 USD (-3,65%).",
+    "decision": "Tagesbudget-Gutschrift fuer den 01.09. bereits im ersten Lauf des Tages erfolgt (freies Kapital weiterhin 26.960,66 EUR). Kein Trade: NVDA-Position (einzige offene Position) unveraendert bei 220,78 USD (-3,65%). Boersen sind weiterhin geschlossen (NYSE-Schluss 22:00), Krypto (BTC, SOL) zeigt keine neue, ueberzeugende Bewegung seit dem letzten Lauf - kein neuer Trade in diesem Lauf.",
+    "reasoning": "Seit dem letzten Lauf um 22:10 keine neuen Katalysatoren: Bitcoin und Solana bewegen sich weiter seitwaerts ohne klaren Trend, die Hormuz-Eskalation und der Renditedruck sind unveraendert bekannt und eingepreist. Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten nicht handelbar, bei Krypto (einzig moegliche Anlageklasse) fehlt eine ueberzeugende, spekulative Kurzfrist-Gelegenheit im Sinne des Risikoprofils. Keine Ausschlussliste betroffen. Die NVDA-Position bleibt unveraendert im Bestand.",
     "positionIds": [
       "pos-0010"
     ],
@@ -3304,6 +3304,11 @@
       {
         "time": "22:10",
         "note": "Keine Aenderung - Boersenschluss (NYSE), NVDA unveraendert 220,78 USD; Krypto (BTC <78.000 USD, SOL ~101-103 USD) schwaecher wegen steigender Fed-Zinserwartungen, keine ueberzeugende Gelegenheit",
+        "portfolioValue": 963.47
+      },
+      {
+        "time": "23:09",
+        "note": "Keine Aenderung - NVDA weiterhin bei 220,78 USD (Boersen geschlossen), BTC ~77.600-78.800 USD und SOL ~103,77 USD weiter seitwaerts ohne neuen Katalysator seit 22:10, keine ueberzeugende Gelegenheit",
         "portfolioValue": 963.47
       }
     ]
