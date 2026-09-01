@@ -3315,9 +3315,9 @@
   },
   {
     "date": "2026-09-02",
-    "marketOverview": "Mittwoch 00:09 Uhr: US-Maerkte schlossen am Dienstag deutlich im Minus (Dow -0,79%, S&P 500 -0,71%, Nasdaq -1,03%) im Zuge einer neuen Eskalation an der Strasse von Hormuz - zwei Oeltanker (saudisch, suedkoreanisch) wurden getroffen, Brent-Rohoel ueber 95 USD/Barrel. Die 10-Jahres-Rendite kletterte auf 4,79% (Hoechststand seit Januar 2025), die Fed-Zinserwartungen kippten Richtung Zinserhoehung (57-65% Wahrscheinlichkeit fuer +25 Bp im September). Krypto folgt der Risk-off-Stimmung: Bitcoin ~77.000-78.500 USD, Solana ~100-104 USD, beide im Tagesverlauf leicht ruecklaeufig. NVDA (einzige offene Position) unveraendert bei 220,78 USD (-3,65%), da US-Boersen ausserhalb der Handelszeiten geschlossen sind.",
-    "decision": "Tagesbudget-Gutschrift fuer den 02.09. in diesem ersten Lauf des Tages erfolgt (totalFreshCapitalEur 28.000 -> 29.000 EUR, freies Kapital jetzt 27.960,66 EUR). Kein Trade: NVDA unveraendert, Boersen (Aktien/ETFs/Rohstoffe) ausserhalb der Handelszeiten nicht handelbar; Krypto (BTC, SOL) zeigt lediglich eine Fortsetzung der bereits bekannten Risk-off-Abwaertsbewegung ohne neuen, ueberzeugenden Katalysator - kein Trade in diesem Lauf.",
-    "reasoning": "Um kurz nach Mitternacht sind NYSE/Nasdaq geschlossen, somit sind Aktien, ETFs und Rohstoffe nicht handelbar. Bei Krypto (einzig moegliche Anlageklasse) liegt zwar eine geopolitisch getriebene Risk-off-Bewegung vor (Hormuz-Eskalation, steigende Renditen, hawkishe Fed-Erwartungen), diese ist aber bereits seit den letzten Laeufen bekannt und bietet keine neue, ueberzeugende spekulative Kurzfrist-Gelegenheit (kein Ausbruch, keine Ueberreaktion zum Gegenhandeln). Die NVDA-Position bleibt unveraendert im Bestand, kein Stop-Loss-Niveau erreicht.",
+    "marketOverview": "Mittwoch 01:11 Uhr: Keine wesentliche Veraenderung seit dem letzten Lauf. US-Boersen bleiben ausserhalb der Handelszeiten geschlossen, NVDA notiert unveraendert bei 220,78 USD (Vortagesschluss). Krypto bewegt sich weiter im bekannten Risk-off-Rahmen: Bitcoin rund 77.000-78.000 USD, Solana rund 99,9 USD (leicht schwaecher, Wochenverlust) - beides ohne neuen Katalysator gegenueber dem 00:09-Lauf. Hormuz-Eskalation, hohe Anleiherenditen (10J 4,79%) und hawkishe Fed-Erwartungen bleiben die dominanten Markttreiber.",
+    "decision": "Tagesbudget fuer den 02.09. wurde bereits im ersten Lauf des Tages (00:09) gutgeschrieben (totalFreshCapitalEur 29.000 EUR, freies Kapital 27.960,66 EUR). In diesem Lauf erneut kein Trade: NVDA unveraendert, Boersen (Aktien/ETFs/Rohstoffe) ausserhalb der Handelszeiten nicht handelbar; Krypto (BTC, SOL) zeigt weiterhin nur die bereits bekannte Risk-off-Seitwaertsbewegung ohne neue, ueberzeugende Gelegenheit.",
+    "reasoning": "Kurz nach 01:00 Uhr sind NYSE/Nasdaq weiterhin geschlossen, somit bleiben Aktien, ETFs und Rohstoffe nicht handelbar. Bei Krypto (einzig moegliche Anlageklasse) hat sich seit dem letzten Lauf nichts Wesentliches veraendert - BTC und SOL bewegen sich im selben Risk-off-Rahmen wie zuvor, ohne Ausbruch oder Ueberreaktion, die einen spekulativen Kurzfrist-Einstieg rechtfertigen wuerde. Die offene NVDA-Position bleibt unveraendert, kein Stop-Loss-Niveau erreicht.",
     "positionIds": [
       "pos-0010"
     ],
@@ -3326,6 +3326,11 @@
       {
         "time": "00:09",
         "note": "Tagesbudget-Gutschrift 1000 EUR fuer 02.09. Keine Aenderung - NVDA weiterhin 220,78 USD (Boersen geschlossen), BTC ~77.000-78.500 USD und SOL ~100-104 USD im Risk-off-Modus (Hormuz-Eskalation, steigende Renditen) aber ohne neue ueberzeugende Gelegenheit",
+        "portfolioValue": 963.47
+      },
+      {
+        "time": "01:11",
+        "note": "Keine Aenderung - NVDA weiterhin 220,78 USD (Boersen geschlossen), BTC ~77.000-78.000 USD und SOL ~99,9 USD im Risk-off-Modus ohne neue ueberzeugende Gelegenheit",
         "portfolioValue": 963.47
       }
     ]
