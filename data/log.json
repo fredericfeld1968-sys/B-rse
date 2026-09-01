@@ -3183,13 +3183,13 @@
   },
   {
     "date": "2026-09-01",
-    "marketOverview": "Dienstag 14:30 Uhr: Xetra weiter offen, US-Markt oeffnet erst um 15:30 MESZ. NVDA-Vorboersenkurs bei ca. 219,14 USD (-4,37% ggue. Kaufkurs), praktisch unveraendert zum letzten Lauf. Bitcoin bei ca. 78.839 USD, Solana bei ca. 103,41 USD - Krypto weiter seitwaerts ohne neuen Katalysator. Geopolitische Lage bleibt angespannt: anhaltende US-Iran-Eskalation an der Strasse von Hormus (zwei weitere Oeltanker mit Projektilen beschossen, WTI bei ca. 86,6 USD, Brent nahe 90 USD), Nasdaq-Futures leicht im Minus. Marktumfeld bleibt risikoscheu, kein klarer spekulativer Einstiegspunkt erkennbar.",
-    "decision": "Tagesbudget-Gutschrift fuer den 01.09. bereits im ersten Lauf des Tages erfolgt (freies Kapital weiterhin ca. 26.960,66 EUR). Kein Trade: NVDA-Position (einzige offene Position) auf Vorboersenkurs 219,14 USD aktualisiert (-4,37%). Keine ueberzeugende neue Gelegenheit bei Krypto oder Xetra-Titeln; anhaltende Eskalation an der Strasse von Hormus (erneute Tankerangriffe, hohe Oelpreise) spricht weiter fuer Vorsicht statt neuer spekulativer Einstiege.",
-    "reasoning": "Seit dem letzten Lauf um 13:21 hat sich NVDA im Vorboersenhandel leicht von 218,22 auf 219,14 USD erholt, US-Markt oeffnet erst um 15:30 MESZ. Bitcoin (~78.839 USD) und Solana (~103,41 USD) bewegen sich weiter seitwaerts ohne neuen Katalysator. Die US-Iran-Eskalation an der Strasse von Hormus haelt an (weitere Tankerangriffe, US-Vergeltungsschlaege, Oelpreise weiter erhoeht), was gegen neue spekulative Long-Positionen im aktuellen Umfeld spricht. Keine der Ausschlusslisten aus den Einstellungen ist relevant. Es wird auf einen Kauf verzichtet, da keine wirklich ueberzeugende Gelegenheit vorliegt; die NVDA-Position bleibt ohne definierten Stop-Loss-Trigger (-4,37%) im Rahmen.",
+    "marketOverview": "Dienstag 15:22 Uhr: US-Markt oeffnet erst um 15:30 MESZ, NVDA notiert vorboerslich/letzter Schluss bei 220,78 USD (-3,65% ggue. Kaufkurs), leicht erholt gegenueber dem letzten Lauf (219,14 USD). Bitcoin bei ca. 78.839 USD, Solana bei ca. 103,41 USD - Krypto weiter seitwaerts, Inflationssorgen belasten laut Marktberichten leicht. Geopolitische Lage bleibt angespannt: erneute US-Iran-Eskalation an der Strasse von Hormus (zwei weitere Oeltanker beschossen, WTI ueber 86 USD, Brent nahe 90 USD), Dow-Futures und Nasdaq-Futures leicht im Minus, Marktstart in den September verlaeuft laut Analysten vorsichtig (erhoehte Anleiherenditen, neue Konjunkturdaten). Kein klarer spekulativer Einstiegspunkt erkennbar.",
+    "decision": "Tagesbudget-Gutschrift fuer den 01.09. bereits im ersten Lauf des Tages erfolgt (freies Kapital weiterhin ca. 26.960,66 EUR). Kein Trade: NVDA-Position (einzige offene Position) auf 220,78 USD aktualisiert (-3,65%, leichte Erholung ggue. letztem Lauf). Keine ueberzeugende neue Gelegenheit bei Krypto oder US-Titeln; anhaltende Eskalation an der Strasse von Hormus und vorsichtiger Marktstart in den September sprechen weiter fuer Zurueckhaltung statt neuer spekulativer Einstiege.",
+    "reasoning": "Seit dem letzten Lauf um 14:30 hat sich NVDA leicht von 219,14 auf 220,78 USD erholt (letzter Schlusskurs, US-Markt oeffnet erst um 15:30 MESZ). Bitcoin (~78.839 USD) und Solana (~103,41 USD) bewegen sich weiter seitwaerts, laut Marktberichten belasten anhaltende Inflationssorgen den Kryptomarkt leicht. Die US-Iran-Eskalation an der Strasse von Hormus haelt an (weitere Tankerangriffe Saudi/Suedkorea, US-Angriff auf eine Insel in Hormus, iranische Vergeltung gegen VAE und Jordanien), Oelpreise bleiben erhoeht (WTI >86 USD, Brent nahe 90 USD). Analysten beschreiben den Marktstart in den September als vorsichtig. Keine der Ausschlusslisten aus den Einstellungen ist relevant. Es wird auf einen Kauf verzichtet, da keine wirklich ueberzeugende Gelegenheit vorliegt; die NVDA-Position bleibt ohne definierten Stop-Loss-Trigger (-3,65%) im Rahmen.",
     "positionIds": [
       "pos-0010"
     ],
-    "portfolioValueEnd": 956.32,
+    "portfolioValueEnd": 963.47,
     "updates": [
       {
         "time": "00:11",
@@ -3265,6 +3265,11 @@
         "time": "14:30",
         "note": "Keine Aenderung - NVDA-Vorboerse leicht erholt auf 219,14 USD (-4,37%), Krypto seitwaerts (BTC ~78.839 USD, SOL ~103,41 USD), anhaltende Hormuz-Eskalation (weitere Tankerangriffe) belastet Maerkte weiter",
         "portfolioValue": 956.32
+      },
+      {
+        "time": "15:22",
+        "note": "Keine Aenderung - NVDA auf 220,78 USD aktualisiert (-3,65%, leichte Erholung), US-Markt oeffnet erst 15:30 MESZ, anhaltende Hormuz-Eskalation belastet Maerkte",
+        "portfolioValue": 963.47
       }
     ]
   }
