@@ -3183,9 +3183,9 @@
   },
   {
     "date": "2026-09-01",
-    "marketOverview": "Dienstag 06:09 Uhr: Boersen fuer Aktien/ETFs/Rohstoffe weiterhin geschlossen (Oeffnung Xetra 09:00, US-Markt 15:30 MESZ), nur Krypto grundsaetzlich handelbar. Bitcoin bei ca. 78.839 USD (praktisch unveraendert zum 05:08-Lauf), Solana bei ca. 103,77 USD - beide weiterhin seitwaerts. Bitcoin haelt sich ueber der psychologisch wichtigen 75.000-USD-Marke, Fokus bleibt auf US-Arbeitsmarktbericht (05.09.) und Fed-Sitzung (16.-17.09.).",
+    "marketOverview": "Dienstag 07:13 Uhr: Boersen fuer Aktien/ETFs/Rohstoffe weiterhin geschlossen (Oeffnung Xetra 09:00, US-Markt 15:30 MESZ), nur Krypto grundsaetzlich handelbar. Bitcoin bei ca. 78.500-79.100 USD (praktisch unveraendert zum 06:09-Lauf), Solana bei ca. 101,87-103,77 USD nach leichtem Ruecksetzer von der starken Vorwoche - beide weiterhin seitwaerts ohne neuen Katalysator. Fed-Chair Warsh warnte am 28.08. vor hartnaeckiger Inflation, was Zinssorgen leicht erhoeht; Fokus bleibt auf US-Arbeitsmarktbericht (05.09.) und Fed-Sitzung (16.-17.09.).",
     "decision": "Tagesbudget-Gutschrift fuer den 01.09. bereits im ersten Lauf des Tages erfolgt (freies Kapital weiterhin ca. 26.960,66 EUR). Kein Trade: NVDA-Position (einzige offene Position) unveraendert bei 217,55 USD / -5,06% (Boersen geschlossen, kein Verkauf ausserhalb der Handelszeiten moeglich). Kein Krypto-Kauf mangels ueberzeugender neuer Gelegenheit - BTC/SOL weiter seitwaerts ohne neuen Katalysator seit dem letzten Lauf.",
-    "reasoning": "Seit dem letzten Lauf um 05:08 hat sich die Lage nicht wesentlich veraendert: Bitcoin (~78.839 USD) und Solana (~103,77 USD) bewegen sich weiter seitwaerts ohne neuen eigenstaendigen Kurskatalysator. Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten nicht handelbar; die NVDA-Position bleibt zum letzten Schlusskurs (217,55 USD, -5,06%) unveraendert. Keine der Ausschlusslisten aus den Einstellungen ist relevant. Es wird auf einen Kauf verzichtet, da keine wirklich ueberzeugende Gelegenheit vorliegt.",
+    "reasoning": "Seit dem letzten Lauf um 06:09 hat sich die Lage nicht wesentlich veraendert: Bitcoin (~78.500-79.100 USD) bewegt sich seitwaerts, Solana (~101,87-103,77 USD) zeigt einen leichten technischen Ruecksetzer nach der starken Rally der Vorwoche, jedoch ohne neuen eigenstaendigen Kurskatalysator - lediglich Ueberkauftheit und geringere Liquiditaet. Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten nicht handelbar; die NVDA-Position bleibt zum letzten Schlusskurs (217,55 USD, -5,06%) unveraendert. Keine der Ausschlusslisten aus den Einstellungen ist relevant. Es wird auf einen Kauf verzichtet, da keine wirklich ueberzeugende Gelegenheit vorliegt.",
     "positionIds": [
       "pos-0010"
     ],
@@ -3224,6 +3224,11 @@
       {
         "time": "06:09",
         "note": "Keine Aenderung - BTC ~78.839 USD, SOL ~103,77 USD seitwaerts, kein neuer Katalysator seit letztem Lauf; Boersen geschlossen",
+        "portfolioValue": 949.38
+      },
+      {
+        "time": "07:13",
+        "note": "Keine Aenderung - BTC ~78.500-79.100 USD seitwaerts, SOL ~101,87-103,77 USD leichter Ruecksetzer nach Vorwochen-Rally (ueberkauft, kein neuer Katalysator), NVDA unveraendert bei 217,55 USD (Boersen geschlossen)",
         "portfolioValue": 949.38
       }
     ]
