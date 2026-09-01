@@ -3183,9 +3183,9 @@
   },
   {
     "date": "2026-09-01",
-    "marketOverview": "Dienstag 03:09 Uhr: Boersen fuer Aktien/ETFs/Rohstoffe weiterhin geschlossen (Oeffnung erst 15:30 MESZ), nur Krypto grundsaetzlich handelbar. Bitcoin hat sich von zwischenzeitlich ueber 81.000 USD auf ca. 78.000-79.000 USD zurueckgezogen (hawkishe Fed-Erwartungen, neue US-Luftschlaege nahe der Strasse von Hormus), Ethereum bei ca. 2.446 USD und Solana bei ca. 103,4 USD nahezu unveraendert zum letzten Lauf. Kein neuer eigenstaendiger Katalysator seit 02:12.",
-    "decision": "Tagesbudget-Gutschrift fuer den 01.09. bereits im ersten Lauf des Tages erfolgt (freies Kapital weiterhin ca. 26.960,66 EUR). Kein Trade: NVDA-Position (einzige offene Position) auf den Schlusskurs vom 31.08. (217,55 USD) aktualisiert, jetzt -5,06% (Boersen geschlossen bis Dienstag Boersenoeffnung 15:30 MESZ, kein Verkauf ausserhalb der Handelszeiten moeglich). Kein Krypto-Kauf mangels ueberzeugender neuer Gelegenheit - Markt in geopolitisch/zinsbedingter Konsolidierung ohne klaren Ausbruch.",
-    "reasoning": "Seit dem letzten Lauf um 02:12 hat sich die Lage nicht wesentlich veraendert: Bitcoin pendelt weiter im Bereich 78.000-79.000 USD nach dem Ruecksetzer von den 81.000 USD, Ethereum und Solana praktisch seitwaerts. Die geopolitische Lage (US-Luftschlaege nahe Hormus, hawkishe Fed-Erwartungen vor den Zinsentscheidungen von Bank of Canada und RBNZ am 02.09.) belastet die Risikostimmung, liefert aber kein klares Ausbruchs- oder Dip-Signal fuer eine neue spekulative Position. Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten nicht handelbar; die NVDA-Position wird lediglich zum Schlusskurs (217,55 USD, -5,06%) fortgeschrieben, ein Verkauf ist derzeit ohnehin nicht moeglich. Keine der Ausschlusslisten aus den Einstellungen ist relevant. Es wird auf einen Kauf verzichtet, da keine wirklich ueberzeugende Gelegenheit vorliegt.",
+    "marketOverview": "Dienstag 04:09 Uhr: Boersen fuer Aktien/ETFs/Rohstoffe weiterhin geschlossen (Oeffnung erst 15:30 MESZ), nur Krypto grundsaetzlich handelbar. Bitcoin bei ca. 78.000-79.000 USD, Ethereum bei ca. 2.446 USD und Solana bei ca. 102-103 USD praktisch unveraendert zum letzten Lauf um 03:09. Markt wartet auf Fed-Sitzung (16.-17.09., ~90% Erwartung fuer 25-Bp-Zinssenkung) und US-Arbeitsmarktbericht am 05.09.; kein neuer eigenstaendiger Katalysator seit dem letzten Lauf.",
+    "decision": "Tagesbudget-Gutschrift fuer den 01.09. bereits im ersten Lauf des Tages erfolgt (freies Kapital weiterhin ca. 26.960,66 EUR). Kein Trade: NVDA-Position (einzige offene Position) unveraendert bei 217,55 USD / -5,06% (Boersen geschlossen bis Dienstag Boersenoeffnung 15:30 MESZ, kein Verkauf ausserhalb der Handelszeiten moeglich). Kein Krypto-Kauf mangels ueberzeugender neuer Gelegenheit - Kryptomarkt seit mehreren Laeufen ohne klaren Ausbruch in enger Spanne.",
+    "reasoning": "Seit dem letzten Lauf um 03:09 hat sich die Lage nicht wesentlich veraendert: Bitcoin, Ethereum und Solana bewegen sich seitwaerts in der bereits bekannten Spanne, kein neuer Nachrichtenkatalysator. Der Markt fokussiert sich auf bevorstehende Makro-Termine (US-Arbeitsmarktbericht 05.09., Fed-Entscheidung 16.-17.09.) statt auf aktuelle Kursimpulse. Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten nicht handelbar; die NVDA-Position bleibt zum letzten Schlusskurs (217,55 USD, -5,06%) unveraendert, ein Verkauf ist derzeit ohnehin nicht moeglich. Keine der Ausschlusslisten aus den Einstellungen ist relevant. Es wird auf einen Kauf verzichtet, da keine wirklich ueberzeugende Gelegenheit vorliegt.",
     "positionIds": [
       "pos-0010"
     ],
@@ -3209,6 +3209,11 @@
       {
         "time": "03:09",
         "note": "Keine Aenderung - BTC ~78.000-79.000 USD (Ruecksetzer von 81.000 USD), ETH ~2.446 USD, SOL ~103,4 USD seitwaerts; NVDA auf Schlusskurs 217,55 USD aktualisiert (-5,06%), kein Verkauf moeglich (Boersen geschlossen)",
+        "portfolioValue": 949.38
+      },
+      {
+        "time": "04:09",
+        "note": "Keine Aenderung - BTC ~78.000-79.000 USD, ETH ~2.446 USD, SOL ~102-103 USD seitwaerts, kein neuer Katalysator seit letztem Lauf; Markt wartet auf NFP (05.09.) und Fed-Entscheidung (16.-17.09.)",
         "portfolioValue": 949.38
       }
     ]
