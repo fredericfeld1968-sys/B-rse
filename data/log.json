@@ -3315,9 +3315,9 @@
   },
   {
     "date": "2026-09-02",
-    "marketOverview": "Mittwoch 06:07 Uhr: Boersen weiterhin ausserhalb der Handelszeiten geschlossen, NVDA im Vorboersenhandel leicht schwaecher bei 219,14 USD (-0,74%). Krypto-Gesamtmarkt bei 2,75 Bio. USD (+0,2% in 24h) verharrt im Risk-off-Modus: Bitcoin ~77.874 USD (Jahresverlust -29%), Ethereum ~2.450 USD (-37% YTD), Solana ~103,29 USD. Marktbeobachter sprechen von 'Rektember'-Risiko fuer Bitcoin, da die Markterwartung fuer eine Fed-Zinserhoehung am 16.09. auf rund 60-66% gestiegen ist (Warsh-Rede in Jackson Hole); Arbeitsmarktbericht (04.09.) und CPI (11.09.) stehen als naechste Katalysatoren noch aus.",
-    "decision": "Tagesbudget fuer den 02.09. wurde bereits im ersten Lauf des Tages (00:09) gutgeschrieben. In diesem Lauf erneut kein Trade: Boersen (Aktien/ETFs/Rohstoffe) ausserhalb der Handelszeiten nicht handelbar, NVDA-Position lediglich mit aktuellem Vorboersenkurs aktualisiert. Krypto (BTC, ETH, SOL) bleibt im Risk-off-Modus ohne neue, ueberzeugende Gelegenheit - steigende Zinserhoehungserwartungen vor der Fed-Entscheidung am 16.09. belasten weiter.",
-    "reasoning": "Kurz nach 06:00 Uhr sind NYSE/Nasdaq weiterhin geschlossen. Bei Krypto bestaetigt die aktuelle Recherche unveraendert den Risk-off-Rahmen der letzten Laeufe: kein Ausbruch, kein bestaetigter Trend, stattdessen zunehmende Belastung durch steigende Fed-Zinserhoehungserwartungen (60-66% fuer 25bp am 16.09.) und die saisonale 'Rektember'-Warnung fuer Bitcoin. Die offene NVDA-Position (-4,37%) bleibt unter dem etablierten Stop-Loss-Schwellenwert (~-6 bis -7%, analog RHM) und wird daher gehalten.",
+    "marketOverview": "Mittwoch 07:13 Uhr: US-Boersen weiterhin geschlossen (Oeffnung 15:30 MESZ), NVDA im Vorboersenhandel unveraendert bei 219,14 USD (-0,74%). Marktumfeld bleibt risk-off: US-Iran-Konflikt an der Strasse von Hormus eskaliert erneut (Tanker-Beschuss, angedrohte weitere US-Schlaege), Brent ~91,5 USD (+1,1%), Fed-Zinserhoehungswahrscheinlichkeit fuer 16.09. laut CME FedWatch auf 68% gestiegen, S&P 500 (-0,71%) und Nasdaq (-1,03%) schlossen den Vortag im Minus. Krypto bleibt im Risk-off-Modus: Bitcoin ~77.650 USD, Solana ~99,7-102 USD, kein neuer Katalysator.",
+    "decision": "Tagesbudget fuer den 02.09. wurde bereits im ersten Lauf des Tages (00:09) gutgeschrieben. In diesem Lauf erneut kein Trade: US-Boersen (Aktien/ETFs/Rohstoffe) ausserhalb der Handelszeiten nicht handelbar, NVDA-Position unveraendert bei 219,14 USD aktualisiert. Krypto (BTC, SOL) bleibt angesichts eskalierender Iran-Spannungen und steigender Fed-Zinserhoehungserwartungen im Risk-off-Modus ohne ueberzeugende neue Gelegenheit.",
+    "reasoning": "Um 07:13 Uhr sind NYSE/Nasdaq weiterhin geschlossen (Oeffnung erst 15:30 MESZ). Die erneute Eskalation des US-Iran-Konflikts (Tanker-Beschuss in der Strasse von Hormus, angedrohte weitere US-Schlaege) sowie die gestiegene Fed-Zinserhoehungswahrscheinlichkeit (68%) sprechen aktuell gegen neue spekulative Risikopositionen, weder bei Krypto noch vorbereitend fuer die Boersenoeffnung. Die offene NVDA-Position (-4,37%) bleibt innerhalb der etablierten Stop-Loss-Toleranz (~-6 bis -7%, analog RHM) und wird gehalten.",
     "positionIds": [
       "pos-0010"
     ],
@@ -3356,6 +3356,11 @@
       {
         "time": "06:08",
         "note": "Keine Aenderung - NVDA Vorboersenkurs 219,14 USD (-0,74%, Boersen geschlossen), BTC ~77.874 USD und SOL ~103,29 USD weiter im Risk-off-Modus ('Rektember'-Warnung, steigende Fed-Zinserhoehungserwartungen) ohne neue ueberzeugende Gelegenheit",
+        "portfolioValue": 956.32
+      },
+      {
+        "time": "07:13",
+        "note": "Keine Aenderung - NVDA weiterhin 219,14 USD (Boersen geschlossen), BTC ~77.650 USD und SOL ~99,7-102 USD im Risk-off-Modus (Iran-Eskalation an der Strasse von Hormus, Tanker-Beschuss, 68% Fed-Zinserhoehungswahrscheinlichkeit) ohne neue ueberzeugende Gelegenheit",
         "portfolioValue": 956.32
       }
     ]
