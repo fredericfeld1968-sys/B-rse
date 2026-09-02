@@ -3315,13 +3315,13 @@
   },
   {
     "date": "2026-09-02",
-    "marketOverview": "Mittwoch 10:10 Uhr: US-Boersen weiterhin geschlossen (Oeffnung 15:30 MESZ), NVDA zuletzt um 218,22 USD (Vorboerse). Der US-Iran-Konflikt eskaliert weiter: neue US-Luftschlaege auf Iran als Vergeltung fuer Minenangriffe auf zwei Oeltanker in der Strasse von Hormuz, Teheran droht mit weiterer Vergeltung - Oelpreise (Brent) legen rund 2% zu, US-Staatsanleiherenditen erreichen mehrjaehrige Hochs, Fed-Gouverneur Barr signalisiert Offenheit fuer eine Zinserhoehung falls die Inflation nicht bald nachlaesst. Asiatische Boersen (Japan, Suedkorea) fallen deutlich, globale Aktienmaerkte im 'Iran-Doom-Loop' laut CNBC. Krypto-Gesamtmarkt (2,7 Bio. USD) faellt um 1,4%: Bitcoin bei ca. 77.000-78.000 USD (-1,6%), Solana weiterhin um 99,7-99,9 USD (Risk-off), waehrend einzelne Nischen-Altcoins (z.B. Arbitrum +25%) stark schwanken - kein belastbarer neuer Katalysator fuer BTC/SOL.",
-    "decision": "Tagesbudget fuer den 02.09. bereits im ersten Lauf (00:09) gutgeschrieben. Auch in diesem Lauf kein Trade: US-Boersen (Aktien/ETFs/Rohstoffe) ausserhalb der Handelszeiten nicht handelbar, NVDA-Position unveraendert bei 218,22 USD (-4,77%) innerhalb der Stop-Loss-Toleranz gehalten. Krypto (BTC, SOL) bleibt angesichts eskalierender Iran-US-Luftschlaege, steigender Oelpreise/Renditen und schwacher Risikostimmung ohne ueberzeugende neue Gelegenheit; ein isolierter Pump bei einem Nischen-Altcoin (Arbitrum) ist kein tragfaehiges Signal fuer BTC/SOL.",
-    "reasoning": "Um 10:10 Uhr sind NYSE/Nasdaq weiterhin geschlossen (Oeffnung erst 15:30 MESZ). Neue US-Luftschlaege gegen Iran als Vergeltung fuer Minenangriffe auf zwei Oeltanker in der Strasse von Hormuz verschaerfen die Lage weiter: Oelpreise und Anleiherenditen steigen, die Fed signalisiert erhoehte Zinserhoehungsbereitschaft, globale Aktienmaerkte (v.a. Asien) fallen deutlich. Dieses Umfeld spricht weiterhin klar gegen neue spekulative Risikopositionen. Der Krypto-Gesamtmarkt faellt parallel um 1,4%; BTC und SOL zeigen keine eigene Bewegung mit Katalysator, sondern folgen dem Risk-off-Trend. Der 25%-Sprung bei Arbitrum ist ein isolierter, bereits weit gelaufener Nischen-Pump ohne Relevanz fuer die gehaltenen Assets und wird nicht gejagt. Die offene NVDA-Position (-4,77%) bleibt innerhalb der etablierten Stop-Loss-Toleranz (~-6 bis -7%, analog RHM) und wird gehalten.",
+    "marketOverview": "Mittwoch 11:08 Uhr: US-Boersen weiterhin geschlossen (Oeffnung 15:30 MESZ), NVDA vorboerslich bei 219,14 USD (-0,7%, Vortagesschluss 220,78 USD). Der US-Iran-Konflikt bleibt eskaliert: nach den juengsten US-Luftschlaegen als Vergeltung fuer Minenangriffe auf zwei Oeltanker (saudisch, suedkoreanisch) in der Strasse von Hormuz spricht CNBC von einem 'Iran-Doom-Loop' - Oelpreise und Anleiherenditen (2J-Rendite 4,40%) bleiben erhoeht, der Markt preist eher eine Fed-Zinserhoehung als eine Senkung ein. Asiatische Boersen (Japan, Suedkorea) weiter deutlich im Minus. Krypto-Gesamtmarkt bleibt im Risk-off: Bitcoin ca. 77.600-78.000 USD, Solana ca. 99,7-102 USD - beide nahe der Stunden-/Tagesniveaus der letzten Laeufe, kein neuer eigenstaendiger Katalysator.",
+    "decision": "Tagesbudget fuer den 02.09. bereits im ersten Lauf (00:09) gutgeschrieben. Auch in diesem Lauf kein Trade: US-Boersen (Aktien/ETFs/Rohstoffe) ausserhalb der Handelszeiten nicht handelbar, NVDA-Position bei 219,14 USD (-4,37%) weiterhin klar innerhalb der Stop-Loss-Toleranz gehalten. Krypto (BTC, SOL) bewegt sich seitwaerts im Risk-off-Modus ohne ueberzeugende neue Gelegenheit.",
+    "reasoning": "Um 11:08 Uhr sind NYSE/Nasdaq weiterhin geschlossen (Oeffnung erst 15:30 MESZ), daher keine Handelbarkeit bei Aktien/ETFs/Rohstoffen. Der US-Iran-Konflikt bleibt nach den juengsten Luftschlaegen eskaliert, Oelpreise und Renditen erhoeht, die Fed signalisiert Offenheit fuer eine Zinserhoehung - dieses Umfeld spricht weiterhin klar gegen neue spekulative Risikopositionen. BTC und SOL bewegen sich nur leicht gegenueber den letzten Laeufen (BTC ~77.600-78.000, SOL ~99,7-102 USD) ohne eigenen Katalysator und bleiben damit ohne ueberzeugendes Setup. Die offene NVDA-Position (-4,37%) liegt weiterhin klar innerhalb der etablierten Stop-Loss-Toleranz (~-6 bis -7%) und wird gehalten.",
     "positionIds": [
       "pos-0010"
     ],
-    "portfolioValueEnd": 952.3,
+    "portfolioValueEnd": 956.32,
     "updates": [
       {
         "time": "00:09",
@@ -3377,6 +3377,11 @@
         "time": "10:10",
         "note": "Keine Aenderung - NVDA weiterhin 218,22 USD (Boersen geschlossen bis 15:30 MESZ), BTC ~77.000-78.000 USD (-1,6%) und SOL ~99,7-99,9 USD im Risk-off-Modus nach neuen US-Luftschlaegen gegen Iran (Vergeltung fuer Tankerangriffe in der Strasse von Hormuz); Krypto-Gesamtmarkt -1,4%, ohne ueberzeugende neue Gelegenheit",
         "portfolioValue": 952.3
+      },
+      {
+        "time": "11:08",
+        "note": "Keine Aenderung - NVDA 219,14 USD vorboerslich (-4,37%, Boersen geschlossen), BTC ~77.600-78.000 USD und SOL ~99,7-102 USD weiter im Risk-off-Modus (Iran-Eskalation) ohne neue ueberzeugende Gelegenheit",
+        "portfolioValue": 956.32
       }
     ]
   }
