@@ -3315,13 +3315,13 @@
   },
   {
     "date": "2026-09-02",
-    "marketOverview": "Mittwoch 14:18 Uhr: DAX weitet die Korrektur weiter aus (aktuell ca. 25.763 Punkte, -0,8%), naehert sich der 50-Tage-Linie. Oelpreise sind ueber 95 USD/Barrel (Brent) gesprungen (WTI Richtung 91 USD) nach neuen US-Luftschlaegen auf Iran (Larak-Insel, vermutete Verminung der Strasse von Hormus) und iranischem Vergeltungsbeschuss - die groesste Eskalation seit Wochen. US-Boersen weiterhin geschlossen (Oeffnung 15:30 MESZ), NVDA vorboerslich/regulaer bei ca. 218,33 USD (-4,72% seit Kauf), weiterhin klar innerhalb der Stop-Loss-Toleranz. Krypto setzt Risk-off fort: BTC ca. 76.600-77.400 USD (-1,5%), SOL ca. 99,7 USD, kein neues konkretes Setup.",
-    "decision": "Tagesbudget fuer den 02.09. bereits im ersten Lauf (00:09) gutgeschrieben. Auch in diesem Lauf (14:18) kein Trade: DAX-Korrektur weitet sich ohne Einzeltitel-Katalysator weiter aus, die Oel-Eskalation (Iran/Hormuz) verstaerkt das Risk-off-Umfeld zusaetzlich, US-Boersen (Aktien/ETFs/Rohstoffe) ausserhalb der Handelszeiten nicht handelbar, NVDA-Position bei 218,33 USD (-4,72%) weiterhin klar innerhalb der Stop-Loss-Toleranz gehalten. Krypto ohne ueberzeugendes neues Setup.",
-    "reasoning": "Um 14:18 Uhr sind NYSE/Nasdaq weiterhin geschlossen (Oeffnung erst 15:30 MESZ), Aktien/ETFs/Rohstoffe damit nicht handelbar. Der DAX ist zwar handelbar (Xetra), weitet seine Korrektur aber weiter aus (-0,8%) ohne erkennbaren Einzeltitel-Katalysator - kein Setup analog zu den bisherigen erfolgreichen Post-Earnings-Ueberreaktions-Trades. Die eskalierende Iran-Lage hat sich zusaetzlich verschaerft: Oel ist auf ueber 95 USD/Barrel (Brent) gesprungen, die groesste Rally seit Wochen nach neuen US-Luftschlaegen auf Larak und iranischer Vergeltung - ein klar risikoaverses Umfeld, das neue spekulative Positionen weiter ausschliesst. Die Kryptomaerkte bleiben im Risk-off (BTC -1,5% auf ca. 76.600-77.400 USD, SOL ~99,7 USD) ohne neue ueberzeugende Bewegung. Die offene NVDA-Position (218,33 USD, -4,72%) liegt weiterhin klar innerhalb der etablierten Stop-Loss-Toleranz (~-6 bis -7%) und wird gehalten.",
+    "marketOverview": "Mittwoch 15:16 Uhr: Iran-Eskalation an der Strasse von Hormuz spitzt sich weiter zu (Tankerangriffe, gegenseitige Militaerschlaege, mind. 11 Tote laut iranischen Angaben) - Brent ueber 94 USD/Barrel (+4%), WTI erstmals seit Ende Juli ueber 90 USD. DAX gibt 1,10% auf ca. 25.970 Punkte ab, MDAX/TecDAX noch schwaecher (-1,7%/-1,4%); einzig Versicherer und Chemie im Plus. US-Boersen oeffnen erst um 15:30 MESZ, NVDA vorboerslich bei 217,44 USD (-5,11% seit Kauf), weiterhin innerhalb der Stop-Loss-Toleranz. Krypto im Risk-off: BTC ca. 77.200 USD (-1,8 bis -2,3%), SOL ca. 99,7 USD (-3,55%).",
+    "decision": "Tagesbudget fuer den 02.09. bereits im ersten Lauf (00:09) gutgeschrieben. Auch in diesem Lauf (15:16) kein Trade: die Iran/Hormuz-Eskalation verschaerft sich weiter (Tankerangriffe, neue Luftschlaege), Oelpreise schiessen nach oben, DAX-Korrektur weitet sich aus, US-Boersen oeffnen erst in 14 Minuten. Kein ueberzeugendes Setup in irgendeiner Anlageklasse; NVDA-Position (217,44 USD, -5,11%) bleibt klar innerhalb der Stop-Loss-Toleranz und wird gehalten.",
+    "reasoning": "Um 15:16 Uhr ist die geopolitische Lage weiter eskaliert: Tankerangriffe und neue US-Luftschlaege gegen Iran (mind. 11 Tote laut iranischen Behoerden) treiben Brent auf ueber 94 USD/Barrel (+4% zum Vortag) und WTI erstmals seit Ende Juli ueber 90 USD. Der DAX (Xetra ist handelbar) weitet seine Korrektur mit -1,10% auf ca. 25.970 Punkte weiter aus, MDAX/TecDAX noch schwaecher, nur Versicherer und Chemiewerte im Plus - kein Post-Earnings-Ueberreaktions-Setup wie bei den bisherigen erfolgreichen Trades erkennbar. US-Boersen (NYSE/Nasdaq) oeffnen erst um 15:30 MESZ, Aktien/ETFs/Rohstoffe in diesem breiteren Segment daher noch nicht handelbar. Krypto bleibt im Risk-off (BTC -1,8 bis -2,3% auf ca. 77.200 USD, SOL -3,55% auf ca. 99,7 USD) ohne neue ueberzeugende Bewegung. Die offene NVDA-Position (217,44 USD, -5,11%) liegt weiterhin klar innerhalb der etablierten Stop-Loss-Toleranz (~-6 bis -7%) und wird gehalten. Bei derart breitem geopolitisch getriebenem Risk-off ueber alle Anlageklassen hinweg wird trotz hohem freien Kapital (~27.960 EUR) bewusst auf eine neue Position verzichtet.",
     "positionIds": [
       "pos-0010"
     ],
-    "portfolioValueEnd": 952.78,
+    "portfolioValueEnd": 948.9,
     "updates": [
       {
         "time": "00:09",
@@ -3397,6 +3397,11 @@
         "time": "14:18",
         "note": "Keine Aenderung - NVDA auf 218,33 USD (-4,72%), DAX-Korrektur weitet sich aus (-0,8%), Oel ueber 95 USD/Barrel nach neuer US-Iran-Eskalation (Larak-Luftschlaege), Krypto weiter Risk-off (BTC ~76.600-77.400 USD)",
         "portfolioValue": 952.78
+      },
+      {
+        "time": "15:16",
+        "note": "Keine Aenderung - Iran/Hormuz-Eskalation spitzt sich zu (Oel +4%), DAX-Korrektur weitet sich aus, US-Boersen oeffnen erst um 15:30 MESZ, Krypto im Risk-off ohne neues Setup. NVDA 217,44 USD (-5,11%) weiterhin innerhalb Stop-Loss-Toleranz",
+        "portfolioValue": 948.9
       }
     ]
   }
