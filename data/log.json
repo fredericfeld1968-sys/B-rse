@@ -3315,13 +3315,13 @@
   },
   {
     "date": "2026-09-02",
-    "marketOverview": "Mittwoch 16:15 Uhr: US-Boersen seit 15:30 MESZ leicht im Plus/gemischt trotz eskalierender Iran/Hormuz-Krise (Dow +0,37%, S&P 500 +0,06%, Nasdaq -0,06%, Russell 2000 -1,23%) - Oel bleibt hoch (Brent >94-95 USD, WTI ~90 USD) nach neuen Tankerangriffen und US-Luftschlaegen. DAX schliesst die Korrektur bei ca. -1,10%. NVDA notiert intraday bei 218,33 USD (-4,72% seit Kauf, innerhalb Stop-Loss-Toleranz). Krypto weiterhin im Risk-off: BTC ca. 77.100 USD (-1,8%), SOL ca. 99,9-103 USD.",
-    "decision": "Tagesbudget fuer den 02.09. bereits im ersten Lauf (00:09) gutgeschrieben. Auch im 16:15-Lauf kein Trade: US-Boersen sind zwar seit 15:30 MESZ offen, entwickeln sich aber uneinheitlich (Nasdaq leicht im Minus, Russell 2000 deutlich schwaecher) ohne ueberzeugendes Einzeltitel-Setup. NVDA (218,33 USD, -4,72%) bleibt klar innerhalb der Stop-Loss-Toleranz und wird gehalten.",
-    "reasoning": "Um 16:15 Uhr sind die US-Boersen seit 45 Minuten geoeffnet, zeigen aber ein gemischtes Bild ohne klare Risk-on-Signale: S&P 500 nahezu flach (+0,06%), Nasdaq leicht negativ (-0,06%), Russell 2000 deutlich schwaecher (-1,23%), waehrend Dow moderat zulegt (+0,37%) - kein breiter Post-Earnings- oder Ausbruchs-Katalysator wie bei den bisherigen erfolgreichen Trades erkennbar. Die Iran/Hormuz-Eskalation haelt unveraendert an (neue Tankerangriffe, Brent >94-95 USD, WTI ~90 USD), was weiterhin fuer ein risikoreiches Makroumfeld spricht. Die offene NVDA-Position hat sich von 217,44 auf 218,33 USD leicht erholt (-4,72% statt -5,11%), liegt aber weiterhin klar innerhalb der etablierten Stop-Loss-Toleranz (~-6 bis -7%) und wird gehalten, da keine fundamentale Verschlechterung vorliegt. Krypto bleibt im Risk-off (BTC ~77.100 USD, SOL ~99,9-103 USD) ohne neue ueberzeugende Bewegung. Bei diesem uneinheitlichen, geopolitisch belasteten Marktbild wird trotz hohem freien Kapital (~27.960 EUR) bewusst auf eine neue Position verzichtet.",
+    "marketOverview": "Mittwoch 17:11 Uhr: US-Boersen (seit 15:30 MESZ offen) moderat im Plus trotz eskalierender Iran/Hormuz-Krise - S&P 500 +0,21% (7.647,61), Dow +0,56% (53.060,57), Nasdaq nahezu flach +0,04% (26.110,72), Chip-Werte laut Berichten aber unter besonderem Druck. Oel bleibt hoch (Brent knapp ueber 95 USD, WTI ~91 USD) nach neuen US-Luftschlaegen und Vergeltungsdrohungen Irans; US-10-Jahres-Rendite auf 20-Monats-Hoch (4,81%). NVDA bei 217,44 USD (-5,11% seit Kauf), weiterhin klar innerhalb der Stop-Loss-Toleranz. Krypto stabil-schwach: BTC ~78.000 USD, SOL ~99,7 USD.",
+    "decision": "Tagesbudget fuer den 02.09. bereits im ersten Lauf (00:09) gutgeschrieben. Auch im 17:11-Lauf kein Trade: Maerkte insgesamt leicht positiv, aber ohne ueberzeugendes Einzeltitel-Setup - laut Marktberichten stehen Chip-Werte im aktuellen Risk-off-Umfeld (Iran-Eskalation, hohe Renditen) sogar unter besonderem Druck, was gegen einen Nachkauf bei NVDA spricht. NVDA (217,44 USD, -5,11%) bleibt innerhalb der Stop-Loss-Toleranz und wird gehalten.",
+    "reasoning": "Um 17:11 Uhr zeigen die US-Indizes ein moderat positives, aber uneinheitliches Bild (S&P 500 +0,21%, Dow +0,56%, Nasdaq nur +0,04%), waehrend Berichte explizit hervorheben, dass Tech- und insbesondere Chip-Werte unter dem aktuellen Makrodruck (Iran/Hormuz-Eskalation, Oel >95 USD, 10-Jahres-Rendite auf 20-Monats-Hoch von 4,81%) besonders leiden - das spricht gegen einen Aufstock-Kauf bei NVDA trotz des grossen freien Kapitals (~27.960 EUR). Die offene NVDA-Position notiert bei 217,44 USD (-5,11%), weiterhin klar innerhalb der etablierten Stop-Loss-Toleranz (~-6 bis -7%), ohne neue fundamentale Verschlechterung - wird gehalten. Auch bei Krypto (BTC ~78.000 USD, SOL ~99,7 USD) keine neue ueberzeugende Bewegung. Kein Einzeltitel-Setup erreicht die Ueberzeugungsschwelle fuer einen neuen spekulativen Trade in diesem Lauf.",
     "positionIds": [
       "pos-0010"
     ],
-    "portfolioValueEnd": 952.78,
+    "portfolioValueEnd": 948.9,
     "updates": [
       {
         "time": "00:09",
@@ -3407,6 +3407,11 @@
         "time": "16:15",
         "note": "Keine Aenderung - US-Boersen seit 15:30 MESZ offen, aber uneinheitlich (S&P 500 +0,06%, Nasdaq -0,06%, Russell 2000 -1,23%), NVDA leicht erholt auf 218,33 USD (-4,72%), Iran/Hormuz-Eskalation und hohe Oelpreise (Brent >94 USD) halten Risk-off aufrecht, Krypto weiter schwach (BTC ~77.100 USD)",
         "portfolioValue": 952.78
+      },
+      {
+        "time": "17:11",
+        "note": "Keine Aenderung - NVDA bei 217,44 USD (-5,11%), Chip-Werte laut Marktberichten unter besonderem Druck trotz insgesamt leicht positiver US-Indizes (Iran/Hormuz-Eskalation, Oel >95 USD, Renditen auf 20-Monats-Hoch), BTC ~78.000 USD und SOL ~99,7 USD stabil-schwach - keine ueberzeugende Gelegenheit",
+        "portfolioValue": 948.9
       }
     ]
   }
