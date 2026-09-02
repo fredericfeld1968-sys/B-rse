@@ -3315,13 +3315,13 @@
   },
   {
     "date": "2026-09-02",
-    "marketOverview": "Mittwoch 03:09 Uhr: Keine wesentliche Veraenderung gegenueber dem 02:10-Lauf. US-Boersen weiterhin ausserhalb der Handelszeiten geschlossen, NVDA nahezu unveraendert bei ca. 220,76 USD (Nachboerslicher Handel vom 31.08., regulaerer Schlusskurs 220,50 USD). Krypto bleibt im bekannten Risk-off-Rahmen: Bitcoin um 77.600-78.200 USD, Ethereum um 2.450-2.470 USD, Solana bei rund 99,7-99,9 USD. Hawkishe Fed-Erwartungen (rd. 66% Wahrscheinlichkeit fuer eine Zinserhoehung im September statt einer Senkung), US-10-Jahres-Renditen nahe Mehrjahreshoch sowie anhaltende Nahost-Spannungen bleiben die dominanten, unveraenderten Markttreiber - kein neuer Katalysator gegenueber dem letzten Lauf.",
+    "marketOverview": "Mittwoch 04:08 Uhr: Keine wesentliche Veraenderung gegenueber dem 03:09-Lauf. US-Boersen weiterhin ausserhalb der Handelszeiten geschlossen, NVDA nahezu unveraendert bei ca. 220,78 USD. Krypto bleibt im bekannten Risk-off-Rahmen: Bitcoin um 77.900-78.600 USD, Ethereum um 2.450-2.470 USD, Solana bei rund 99,7-99,9 USD, belastet durch anhaltende Fed-Zinserhoehungssorgen (Entscheidung 16.09.) und persistente Inflationssorgen. Kein neuer, unabhaengig bestaetigter Katalysator gegenueber den letzten Laeufen.",
     "decision": "Tagesbudget fuer den 02.09. wurde bereits im ersten Lauf des Tages (00:09) gutgeschrieben (totalFreshCapitalEur 29.000 EUR, freies Kapital 27.960,74 EUR). In diesem Lauf erneut kein Trade: NVDA praktisch unveraendert, Boersen (Aktien/ETFs/Rohstoffe) ausserhalb der Handelszeiten nicht handelbar; Krypto (BTC, ETH, SOL) zeigt weiterhin nur die bekannte Risk-off-Seitwaertsbewegung ohne neue, ueberzeugende Gelegenheit.",
-    "reasoning": "Kurz nach 03:00 Uhr sind NYSE/Nasdaq weiterhin geschlossen, somit bleiben Aktien, ETFs und Rohstoffe nicht handelbar. Bei Krypto (einzig moegliche Anlageklasse) hat sich seit dem letzten Lauf nichts Wesentliches veraendert - BTC pendelt weiter um 77.000-78.000 USD, SOL und ETH bewegen sich im etablierten Risk-off-Rahmen (Fed-Zinssorgen vor der Entscheidung am 16.09.), ohne Ausbruch oder Ueberreaktion, die einen spekulativen Kurzfrist-Einstieg rechtfertigen wuerde. Die offene NVDA-Position bleibt unveraendert, kein Stop-Loss-Niveau erreicht.",
+    "reasoning": "Kurz nach 04:00 Uhr sind NYSE/Nasdaq weiterhin geschlossen, somit bleiben Aktien, ETFs und Rohstoffe nicht handelbar. Bei Krypto (einzig moegliche Anlageklasse) hat sich seit dem letzten Lauf nichts Wesentliches veraendert - BTC pendelt weiter um 78.000 USD, SOL und ETH bewegen sich im etablierten Risk-off-Rahmen (Fed-Zinssorgen vor der Entscheidung am 16.09.), ohne Ausbruch oder Ueberreaktion, die einen spekulativen Kurzfrist-Einstieg rechtfertigen wuerde. Ein zweiter Suchdurchgang zu moeglichen Altcoin-Katalysatoren lieferte nur widerspruechliche/veraltete Artikel-Inhalte ohne verlaessliche Bestaetigung eines neuen Trends - daher keine Handlung. Die offene NVDA-Position bleibt unveraendert, kein Stop-Loss-Niveau erreicht.",
     "positionIds": [
       "pos-0010"
     ],
-    "portfolioValueEnd": 963.39,
+    "portfolioValueEnd": 963.47,
     "updates": [
       {
         "time": "00:09",
@@ -3342,6 +3342,11 @@
         "time": "03:09",
         "note": "Keine Aenderung - NVDA nahezu unveraendert 220,76 USD (Boersen geschlossen), BTC ~77.600-78.200 USD und SOL ~99,7-99,9 USD im Risk-off-Modus vor Fed-Entscheidung 16.09. ohne neue ueberzeugende Gelegenheit",
         "portfolioValue": 963.39
+      },
+      {
+        "time": "04:08",
+        "note": "Keine Aenderung - NVDA weiterhin ca. 220,78 USD (Boersen geschlossen), BTC ~77.900-78.600 USD und SOL ~99,7-99,9 USD im Risk-off-Modus vor Fed-Entscheidung 16.09. ohne neue ueberzeugende Gelegenheit",
+        "portfolioValue": 963.47
       }
     ]
   }
