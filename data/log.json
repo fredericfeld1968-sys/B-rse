@@ -3315,13 +3315,13 @@
   },
   {
     "date": "2026-09-02",
-    "marketOverview": "Mittwoch 21:08 Uhr: US-Boersen beenden die dreitaegige Verlustserie (S&P 500 +0,21% auf 7.647,61, Dow +0,56% auf 53.060,57, Nasdaq +0,04%), trotz weiter steigender Anleiherenditen (10J bei 4,81%, 20-Monats-Hoch) wegen der andauernden US-Iran-Eskalation an der Strasse von Hormuz. Nvidia sprang um rund 4% auf ca. 226-227 USD, nachdem Bloomberg eine sich konkretisierende ca. 14-Mrd.-USD-Uebernahme von Hugging Face vermeldete (Abschluss moeglicherweise noch diese Woche) - mehrfach unabhaengig bestaetigt (CNBC, Bloomberg, Quartz, 24/7 Wall St.). Krypto bleibt schwach (BTC ~78.500 USD, SOL ~103,7 USD, -1,6% in 24h) im Risk-off-Umfeld.",
-    "decision": "Tagesbudget fuer den 02.09. bereits im ersten Lauf (00:09) gutgeschrieben. Im 21:08-Lauf kein neuer Trade: NVDA-Position von -5,11% auf -1,16% erholt dank der Hugging-Face-Uebernahmenews, aber noch nicht im etablierten Gewinn-Zielbereich (7-8%) - Position wird weiter gehalten. Fuer Dell lagen widerspruechliche Kursangaben vor (teils +8% auf Berichte, teils -4% ggue. Vortagesschluss je nach Quelle) - mangels verlaesslicher Datenlage keine neue Position eroeffnet. Keine weiteren ueberzeugenden Gelegenheiten.",
-    "reasoning": "Die NVDA-Erholung basiert auf einem konkreten, mehrfach bestaetigten fundamentalen Katalysator (Hugging-Face-Deal), nicht auf blossem Sentiment - die Position bleibt daher im Rahmen der bestehenden Stop-Loss-Toleranz gehalten statt vorschnell glattgestellt zu werden, da sich die These gerade bestaetigt. Eine neue Position auf Basis der Dell-Zahlen wurde bewusst nicht eroeffnet, da die verfuegbaren Kursquellen sich innerhalb weniger Minuten widersprachen (Gewinn vs. Verlust ggue. Vortagesschluss) - passend zur Vorgabe, nur bei wirklich ueberzeugender und verlaesslicher Gelegenheit zu handeln.",
+    "marketOverview": "Mittwoch 22:09 Uhr: US-Boersen schliessen die dreitaegige Verlustserie mit Gewinnen ab (S&P 500 +0,21% auf 7.647,61, Dow +0,56% auf 53.060,57, Nasdaq +0,04% auf 26.110,72), trotz weiter steigender Anleiherenditen (10J bei 4,81%, hoechster Stand seit Nov. 2023) wegen der US-Iran-Eskalation und Oelpreisen ueber 93 USD. NVDA notiert bei ca. 224,72 USD (-1,93% seit Kauf) - leicht unter dem 21:08-Stand, Hugging-Face-Uebernahme-These bleibt intakt. Kryptomarkt liefert widerspruechliche Kursangaben je nach Quelle (BTC zwischen 76.500 und 80.700 USD, SOL ~99,9 USD) - keine verlaessliche Handelsgrundlage.",
+    "decision": "Tagesbudget fuer den 02.09. bereits im ersten Lauf (00:09) gutgeschrieben. Im 22:09-Lauf kein neuer Trade: NVDA-Position bei -1,93% (leicht schwaecher als im Vorlauf, aber Hugging-Face-These weiterhin intakt, kein Stop-Loss-Niveau) weiter gehalten. Keine neue Position eroeffnet, da die Boersen fuer Aktien/ETFs/Rohstoffe bereits geschlossen sind und die Krypto-Kursquellen sich stark widersprechen (BTC-Angaben zwischen 76.500 und 80.700 USD je nach Quelle) - keine verlaessliche, ueberzeugende Gelegenheit.",
+    "reasoning": "NVDA wird trotz leichtem Rueckgang gehalten, da der fundamentale Hugging-Face-Übernahme-Katalysator unveraendert ist und die Bewegung weit von jedem Stop-Loss-Niveau entfernt liegt. Fuer neue Positionen fehlt sowohl eine belastbare Handelsmoeglichkeit (Boersenschluss bei Aktien/ETFs/Rohstoffen) als auch eine verlaessliche, uebereinstimmende Datenlage bei Krypto - passend zur Vorgabe, nur bei wirklich ueberzeugender und verlaesslicher Gelegenheit zu handeln.",
     "positionIds": [
       "pos-0010"
     ],
-    "portfolioValueEnd": 988.44,
+    "portfolioValueEnd": 980.67,
     "updates": [
       {
         "time": "00:09",
@@ -3432,6 +3432,11 @@
         "time": "21:08",
         "note": "Keine Aenderung - NVDA erholt sich auf 226,50 USD (-1,16%, vorher -5,11%) dank bestaetigter Hugging-Face-Uebernahme (~14 Mrd. USD), aber noch nicht im Gewinnzielbereich. Dell-Kursdaten widerspruechlich, daher keine neue Position",
         "portfolioValue": 988.44
+      },
+      {
+        "time": "22:09",
+        "note": "Keine Aenderung - NVDA bei 224,72 USD (-1,93%) gehalten, Boersenschluss und widerspruechliche Krypto-Kurse ohne neue Gelegenheit",
+        "portfolioValue": 980.67
       }
     ]
   }
