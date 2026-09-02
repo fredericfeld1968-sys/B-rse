@@ -3315,9 +3315,9 @@
   },
   {
     "date": "2026-09-02",
-    "marketOverview": "Mittwoch 18:11 Uhr: US-Boersen weiterhin moderat uneinheitlich (S&P 500 +0,21% bei 7.647,61, Dow +0,56%, Nasdaq flach +0,04%), Chip-Werte laut Berichten unter besonderem Druck. Oel bleibt hoch (Brent ~95 USD, WTI ~91 USD) nach neuen US-Luftschlaegen gegen Iran und Vergeltungsdrohungen; US-10-Jahres-Rendite auf 20-Monats-Hoch (4,81%). NVDA unveraendert bei 217,44 USD (-5,11% seit Kauf), weiterhin klar innerhalb der Stop-Loss-Toleranz. Krypto weiter schwach (BTC ~77.100-78.000 USD, SOL ~99,7 USD), bei Altcoins (ETH, SOL, XRP) leichte Kapitalzufluesse, aber kein ueberzeugendes Einzeltitel-Setup.",
-    "decision": "Tagesbudget fuer den 02.09. bereits im ersten Lauf (00:09) gutgeschrieben. Auch im 18:11-Lauf kein Trade: NVDA-Kurs unveraendert bei 217,44 USD (-5,11%), bleibt innerhalb der Stop-Loss-Toleranz und wird gehalten. Kein neues, ueberzeugendes Einzeltitel-Setup bei Aktien, Krypto oder Rohstoffen im anhaltenden Iran/Hormuz-Risk-off-Umfeld.",
-    "reasoning": "Um 18:11 Uhr bleibt das Marktbild gegenueber dem 17:11-Lauf im Wesentlichen unveraendert: US-Indizes moderat uneinheitlich, Chip-Werte laut Marktberichten unter besonderem Druck durch die anhaltende Iran/Hormuz-Eskalation (Oel >95 USD, 10-Jahres-Rendite auf 20-Monats-Hoch von 4,81%) - das spricht weiterhin gegen einen Nachkauf bei NVDA trotz des grossen freien Kapitals (~27.960 EUR). Die offene NVDA-Position notiert unveraendert bei 217,44 USD (-5,11%), klar innerhalb der etablierten Stop-Loss-Toleranz, ohne neue fundamentale Verschlechterung - wird gehalten. Bei Krypto zeigen sich leichte Kapitalzufluesse in Altcoins (ETH, SOL, XRP), aber ohne konkretes, ueberzeugendes Einzeltitel-Setup fuer einen neuen spekulativen Trade. Kein Handel in diesem Lauf.",
+    "marketOverview": "Mittwoch 19:08 Uhr: US-Boersen weiterhin moderat uneinheitlich (S&P 500 +0,21% bei 7.647,61, Dow +0,56%, Nasdaq flach +0,04%), Chip-Werte laut Berichten unter besonderem Druck. Oel bleibt erhoeht (WTI ~89,7 USD) nach neuen US-Luftschlaegen gegen Iran und Vergeltungsdrohungen; US-10-Jahres-Rendite auf 20-Monats-Hoch (4,81%). NVDA unveraendert bei 217,44 USD (-5,11% seit Kauf), weiterhin klar innerhalb der Stop-Loss-Toleranz. Krypto weiter schwach-stabil (BTC >78.000 USD flach, SOL ~99,7 USD, ETH/TRX/DOGE leicht schwaecher, HYPE +4%), kein ueberzeugendes Einzeltitel-Setup.",
+    "decision": "Tagesbudget fuer den 02.09. bereits im ersten Lauf (00:09) gutgeschrieben. Auch im 19:08-Lauf kein Trade: NVDA-Kurs unveraendert bei 217,44 USD (-5,11%), bleibt innerhalb der Stop-Loss-Toleranz und wird gehalten. Kein neues, ueberzeugendes Einzeltitel-Setup bei Aktien, Krypto oder Rohstoffen im anhaltenden Iran/Hormuz-Risk-off-Umfeld.",
+    "reasoning": "Um 19:08 Uhr bleibt das Marktbild gegenueber dem 18:11-Lauf im Wesentlichen unveraendert: US-Indizes moderat uneinheitlich, Chip-Werte weiter unter besonderem Druck durch die anhaltende Iran/Hormuz-Eskalation (Oel weiter erhoeht, 10-Jahres-Rendite auf 20-Monats-Hoch von 4,81%) - das spricht weiterhin gegen einen Nachkauf bei NVDA trotz des grossen freien Kapitals (~27.960,66 EUR). Die offene NVDA-Position notiert unveraendert bei 217,44 USD (-5,11%), klar innerhalb der etablierten Stop-Loss-Toleranz, ohne neue fundamentale Verschlechterung - wird gehalten. Bei Krypto keine neuen ueberzeugenden Einzeltitel-Setups (BTC flach, SOL leicht schwaecher, nur HYPE mit +4%, aber kein Bestandteil der bisherigen Handelslogik). Kein Handel in diesem Lauf.",
     "positionIds": [
       "pos-0010"
     ],
@@ -3416,6 +3416,11 @@
       {
         "time": "18:11",
         "note": "Keine Aenderung - NVDA unveraendert bei 217,44 USD (-5,11%), weiterhin innerhalb Stop-Loss-Toleranz. US-Maerkte moderat uneinheitlich (S&P 500 +0,21%, Nasdaq flach), Chip-Werte laut Berichten unter besonderem Druck im Iran/Hormuz-Risk-off-Umfeld (Oel Brent ~95 USD, WTI ~91 USD, 10J-Rendite 20-Monats-Hoch 4,81%). Krypto weiter schwach (BTC ~77.100-78.000 USD, -1,4 bis -1,8% in 24h; Altcoin-Fluesse in ETH/SOL/XRP, aber kein konkretes Einzeltitel-Setup) - keine ueberzeugende Gelegenheit",
+        "portfolioValue": 948.9
+      },
+      {
+        "time": "19:08",
+        "note": "Keine Aenderung - NVDA unveraendert bei 217,44 USD (-5,11%), weiterhin innerhalb Stop-Loss-Toleranz. US-Maerkte moderat uneinheitlich, Chip-Werte unter Druck im Iran/Hormuz-Risk-off-Umfeld. Krypto flach-schwach (BTC >78.000 USD, SOL ~99,7 USD) ohne ueberzeugende Gelegenheit",
         "portfolioValue": 948.9
       }
     ]
