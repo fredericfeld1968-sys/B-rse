@@ -3315,13 +3315,13 @@
   },
   {
     "date": "2026-09-02",
-    "marketOverview": "Mittwoch 08:14 Uhr: US-Boersen weiterhin geschlossen (Oeffnung 15:30 MESZ), NVDA im Vorboersenhandel unveraendert bei 219,14 USD. Der US-Iran-Konflikt eskaliert erneut ('Groundhog Day' im Golf): CENTCOM griff am Dienstag iranische Ziele an, Teheran meldet eine Vergeltungsoperation gegen US-Vermoegenswerte in der Region. US-Renditen springen auf ein 20-Monats-Hoch (10J-Rendite 4,80%, 2J 4,40%), der Markt preist zunehmend eine hawkishe Fed fuer die Sitzung am 16.09. ein statt einer Zinssenkung. Krypto bleibt im Risk-off-Modus: Bitcoin ~77.650 USD, Solana ~103,29 USD (ETF-Zuflüsse von 153,87 Mio. USD in der Vorwoche stuetzen leicht, Rally aber ohne neue Teilnahme-Dynamik).",
-    "decision": "Tagesbudget fuer den 02.09. wurde bereits im ersten Lauf des Tages (00:09) gutgeschrieben. In diesem Lauf erneut kein Trade: US-Boersen (Aktien/ETFs/Rohstoffe) ausserhalb der Handelszeiten nicht handelbar, NVDA-Position unveraendert bei 219,14 USD. Krypto (BTC, SOL) bleibt angesichts der erneuten Iran-Eskalation (frische CENTCOM-Luftschlaege) und stark steigender Renditen/Fed-Zinserhoehungserwartungen im Risk-off-Modus ohne ueberzeugende neue Gelegenheit.",
-    "reasoning": "Um 08:14 Uhr sind NYSE/Nasdaq weiterhin geschlossen (Oeffnung erst 15:30 MESZ). Die frische Eskalationsrunde zwischen den USA und Iran (CENTCOM-Angriffe, iranische Vergeltungsoperation) sowie der Sprung der US-Renditen auf ein 20-Monats-Hoch bei gleichzeitig steigender Fed-Zinserhoehungswahrscheinlichkeit sprechen weiterhin klar gegen neue spekulative Risikopositionen, weder bei Krypto noch vorbereitend fuer die Boersenoeffnung. Die offene NVDA-Position (-4,37%) bleibt innerhalb der etablierten Stop-Loss-Toleranz (~-6 bis -7%, analog RHM) und wird gehalten.",
+    "marketOverview": "Mittwoch 09:13 Uhr: US-Boersen weiterhin geschlossen (Oeffnung 15:30 MESZ), NVDA im Vorboersenhandel leicht auf 218,22 USD gesunken. Der US-Iran-Konflikt bleibt eskaliert: CENTCOM-Luftschlaege und iranische Vergeltung gegen Jordanien/VAE treiben Oel (Brent ~94,5 USD) und die US-Renditen weiter nach oben (10J bei ca. 4,74-4,77%, 19-Monats-Hoch). Die Fed-Zinserhoehungswahrscheinlichkeit fuer die Sitzung am 16.09. liegt laut CME FedWatch nun bei rund 64% (Vorwoche 43%), Fed-Vertreter (Barr, Warsh) signalisieren Bereitschaft dazu. US-Aktienfutures pendeln nach drei roten Sessions in Folge nahezu unveraendert (S&P-Futures ~7.703, Nasdaq-Futures flach). Krypto bleibt im Risk-off-Modus: Bitcoin haelt sich ueber 78.000 USD (flach), Solana ist auf ca. 99,7-99,9 USD zurueckgefallen (-3,4%, Makro-Sorgen und technischer Widerstand) - kein neuer Katalysator.",
+    "decision": "Tagesbudget fuer den 02.09. wurde bereits im ersten Lauf des Tages (00:09) gutgeschrieben. In diesem Lauf erneut kein Trade: US-Boersen (Aktien/ETFs/Rohstoffe) ausserhalb der Handelszeiten nicht handelbar, NVDA-Position leicht auf 218,22 USD (-4,77%) nachgezogen aber innerhalb der Stop-Loss-Toleranz gehalten. Krypto (BTC, SOL) bleibt angesichts anhaltender Iran-Eskalation, steigender Renditen und wachsender Fed-Zinserhoehungswahrscheinlichkeit im Risk-off-Modus ohne ueberzeugende neue Gelegenheit.",
+    "reasoning": "Um 09:13 Uhr sind NYSE/Nasdaq weiterhin geschlossen (Oeffnung erst 15:30 MESZ). Die anhaltende Eskalation zwischen den USA und Iran (Vergeltungsschlaege gegen Jordanien/VAE), der Sprung der Fed-Zinserhoehungswahrscheinlichkeit auf ~64% und der weitere Renditeanstieg (10J auf 19-Monats-Hoch) sprechen weiterhin klar gegen neue spekulative Risikopositionen, weder bei Krypto noch vorbereitend fuer die Boersenoeffnung. Solana ist zudem seit dem Hoch weiter zurueckgefallen (-3,4%) ohne Bodenbildung. Die offene NVDA-Position (-4,77%) bleibt innerhalb der etablierten Stop-Loss-Toleranz (~-6 bis -7%, analog RHM) und wird gehalten.",
     "positionIds": [
       "pos-0010"
     ],
-    "portfolioValueEnd": 956.32,
+    "portfolioValueEnd": 952.30,
     "updates": [
       {
         "time": "00:09",
@@ -3367,6 +3367,11 @@
         "time": "08:14",
         "note": "Keine Aenderung - NVDA weiterhin 219,14 USD (Boersen geschlossen bis 15:30 MESZ), BTC ~77.650 USD und SOL ~103,29 USD unveraendert im Risk-off-Modus. Neue US-Iran-Luftschlaege (CENTCOM-Angriffe, iranische Vergeltung) treiben US-Renditen auf 20-Monats-Hoch (10J 4,80%), Fed-Zinserhoehungswahrscheinlichkeit fuer 16.09. steigt weiter - keine ueberzeugende Kauf-Gelegenheit",
         "portfolioValue": 956.32
+      },
+      {
+        "time": "09:13",
+        "note": "Keine Aenderung - NVDA im Vorboersenhandel leicht auf 218,22 USD gesunken (Boersen geschlossen bis 15:30 MESZ), BTC weiter ueber 78.000 USD flach, SOL auf ~99,7-99,9 USD zurueckgefallen (-3,4%). Iran-Eskalation haelt an (Vergeltung gegen Jordanien/VAE), Fed-Zinserhoehungswahrscheinlichkeit fuer 16.09. auf ~64% gestiegen - keine ueberzeugende Gelegenheit",
+        "portfolioValue": 952.30
       }
     ]
   }
