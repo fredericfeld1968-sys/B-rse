@@ -3315,9 +3315,9 @@
   },
   {
     "date": "2026-09-02",
-    "marketOverview": "Mittwoch 11:08 Uhr: US-Boersen weiterhin geschlossen (Oeffnung 15:30 MESZ), NVDA vorboerslich bei 219,14 USD (-0,7%, Vortagesschluss 220,78 USD). Der US-Iran-Konflikt bleibt eskaliert: nach den juengsten US-Luftschlaegen als Vergeltung fuer Minenangriffe auf zwei Oeltanker (saudisch, suedkoreanisch) in der Strasse von Hormuz spricht CNBC von einem 'Iran-Doom-Loop' - Oelpreise und Anleiherenditen (2J-Rendite 4,40%) bleiben erhoeht, der Markt preist eher eine Fed-Zinserhoehung als eine Senkung ein. Asiatische Boersen (Japan, Suedkorea) weiter deutlich im Minus. Krypto-Gesamtmarkt bleibt im Risk-off: Bitcoin ca. 77.600-78.000 USD, Solana ca. 99,7-102 USD - beide nahe der Stunden-/Tagesniveaus der letzten Laeufe, kein neuer eigenstaendiger Katalysator.",
-    "decision": "Tagesbudget fuer den 02.09. bereits im ersten Lauf (00:09) gutgeschrieben. Auch in diesem Lauf kein Trade: US-Boersen (Aktien/ETFs/Rohstoffe) ausserhalb der Handelszeiten nicht handelbar, NVDA-Position bei 219,14 USD (-4,37%) weiterhin klar innerhalb der Stop-Loss-Toleranz gehalten. Krypto (BTC, SOL) bewegt sich seitwaerts im Risk-off-Modus ohne ueberzeugende neue Gelegenheit.",
-    "reasoning": "Um 11:08 Uhr sind NYSE/Nasdaq weiterhin geschlossen (Oeffnung erst 15:30 MESZ), daher keine Handelbarkeit bei Aktien/ETFs/Rohstoffen. Der US-Iran-Konflikt bleibt nach den juengsten Luftschlaegen eskaliert, Oelpreise und Renditen erhoeht, die Fed signalisiert Offenheit fuer eine Zinserhoehung - dieses Umfeld spricht weiterhin klar gegen neue spekulative Risikopositionen. BTC und SOL bewegen sich nur leicht gegenueber den letzten Laeufen (BTC ~77.600-78.000, SOL ~99,7-102 USD) ohne eigenen Katalysator und bleiben damit ohne ueberzeugendes Setup. Die offene NVDA-Position (-4,37%) liegt weiterhin klar innerhalb der etablierten Stop-Loss-Toleranz (~-6 bis -7%) und wird gehalten.",
+    "marketOverview": "Mittwoch 12:10 Uhr: DAX korrigiert nach Rekordhoch weiter leicht (~-0,24% auf ca. 25.790-25.907 Punkte), Oel bleibt ueber 90 USD (WTI) nach dem Wochenendsprung, Gold faellt deutlich um -2,86% auf ca. 4.325 USD/oz - Zinserhoehungserwartungen (Fed-Hike-Wahrscheinlichkeit fuer die Sitzung am 15./16.09. auf ca. 70% gestiegen) druecken auf sichere Haefen. US-Boersen weiterhin geschlossen (Oeffnung 15:30 MESZ), NVDA vorboerslich unveraendert bei ca. 219,14 USD. Der Hormuz-Konflikt bleibt eskaliert (Meerenge faktisch fuer Handelsschiffe gesperrt), was Oel und Renditen weiter stuetzt. Krypto-Kursdaten aus verschiedenen Quellen widerspruechlich (BTC-Angaben zwischen ca. 76.500 und 80.000 USD), kein belastbares neues Signal.",
+    "decision": "Tagesbudget fuer den 02.09. bereits im ersten Lauf (00:09) gutgeschrieben. Auch in diesem Lauf kein Trade: DAX befindet sich in einer breiten Korrektur ohne Einzeltitel-Katalysator, US-Boersen (Aktien/ETFs/Rohstoffe) ausserhalb der Handelszeiten nicht handelbar, NVDA-Position bei 219,14 USD (-4,37%) weiterhin klar innerhalb der Stop-Loss-Toleranz gehalten. Krypto-Daten uneinheitlich/unzuverlaessig, kein ueberzeugendes Setup.",
+    "reasoning": "Um 12:10 Uhr sind NYSE/Nasdaq weiterhin geschlossen (Oeffnung erst 15:30 MESZ). Der DAX ist zwar handelbar, befindet sich aber in einer breiten, nachrichtenarmen Korrektur nach Rekordhoch (-0,24%) ohne ueberzeugendes Einzeltitel-Setup analog zu den bisherigen erfolgreichen Trades (Post-Earnings-Ueberreaktionen). Steigende Oelpreise (>90 USD), fallendes Gold (-2,86%) und eine auf ~70% gestiegene Fed-Hike-Wahrscheinlichkeit signalisieren anhaltendes Risk-off, was gegen neue spekulative Positionen spricht. Die aktuell abgerufenen Krypto-Kursdaten sind zwischen Quellen widerspruechlich (BTC 76.500-80.000 USD, Solana-Angaben teils offensichtlich fehlerhaft) und damit nicht belastbar genug fuer eine Handelsentscheidung. Die offene NVDA-Position (-4,37%) liegt weiterhin klar innerhalb der etablierten Stop-Loss-Toleranz (~-6 bis -7%) und wird gehalten.",
     "positionIds": [
       "pos-0010"
     ],
@@ -3381,6 +3381,11 @@
       {
         "time": "11:08",
         "note": "Keine Aenderung - NVDA 219,14 USD vorboerslich (-4,37%, Boersen geschlossen), BTC ~77.600-78.000 USD und SOL ~99,7-102 USD weiter im Risk-off-Modus (Iran-Eskalation) ohne neue ueberzeugende Gelegenheit",
+        "portfolioValue": 956.32
+      },
+      {
+        "time": "12:10",
+        "note": "Keine Aenderung - DAX-Korrektur (-0,24%) ohne Einzeltitel-Setup, Oel >90 USD, Gold -2,86% auf 4.325 USD, Fed-Hike-Wahrscheinlichkeit auf ~70% gestiegen, NVDA weiterhin 219,14 USD (Boersen-Oeffnung 15:30 MESZ), Krypto-Daten widerspruechlich",
         "portfolioValue": 956.32
       }
     ]
