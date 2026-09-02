@@ -3315,13 +3315,13 @@
   },
   {
     "date": "2026-09-02",
-    "marketOverview": "Mittwoch 20:09 Uhr: US-Boersen legen zu und durchbrechen die dreitaegige Verlustserie (S&P 500 +0,4-0,5%, Nasdaq +0,3%, Dow +233 Punkte/+0,4%), getragen von breiter Sektor-Erholung trotz weiter angespannter Iran/Hormuz-Lage. Oel bleibt erhoeht (Brent ~95,17 USD, +0,55%), US-10-Jahres-Rendite weiterhin nahe 20-Monats-Hoch (4,81%). ADP meldet mit nur 38.000 neuen Stellen im August den schwaechsten Monat seit Januar. NVDA unveraendert bei 217,44 USD (-5,11% seit Kauf), weiterhin klar innerhalb der Stop-Loss-Toleranz; die bereits seit 26./27.08. bekannten Uebernahmegespraeche Nvidia-Hugging Face (~12,9-14 Mrd. USD) sind kein neuer Kurstreiber. Krypto weiter schwach (BTC ~77.100-77.400 USD, -1,8% in 24h, Risk-off durch Iran-Eskalation), kein ueberzeugendes Einzeltitel-Setup.",
-    "decision": "Tagesbudget fuer den 02.09. bereits im ersten Lauf (00:09) gutgeschrieben. Auch im 20:09-Lauf kein Trade: NVDA-Kurs unveraendert bei 217,44 USD (-5,11%), bleibt innerhalb der Stop-Loss-Toleranz und wird gehalten. Trotz insgesamt freundlicherer US-Indizes kein neues, ueberzeugendes Einzeltitel-Setup bei Aktien, Krypto oder Rohstoffen.",
-    "reasoning": "Um 20:09 Uhr zeigen die US-Indizes eine Erholung (S&P 500/Nasdaq/Dow im Plus, Ende der dreitaegigen Verlustserie in Sicht), waehrend Oelpreise und Renditen wegen der anhaltenden Iran/Hormuz-Eskalation erhoeht bleiben und die ADP-Zahlen (38.000 neue Stellen, schwaechster Monat seit Januar) auf eine sich abkuehlende Arbeitsmarktlage hindeuten. Die offene NVDA-Position notiert unveraendert bei 217,44 USD (-5,11%), klar innerhalb der etablierten Stop-Loss-Toleranz, ohne neue fundamentale Verschlechterung - wird gehalten. Die Nvidia-Hugging-Face-Uebernahmegespraeche sind seit Ende August bekannt und bereits eingepreist, kein neuer Kaufimpuls. Bei Krypto bleibt BTC im Risk-off-Modus (~77.100 USD, -1,8% in 24h) ohne ueberzeugendes Setup. Trotz grossem freiem Kapital (~27.960,66 EUR) kein Handel in diesem Lauf, da keine wirklich ueberzeugende Gelegenheit vorliegt.",
+    "marketOverview": "Mittwoch 21:08 Uhr: US-Boersen beenden die dreitaegige Verlustserie (S&P 500 +0,21% auf 7.647,61, Dow +0,56% auf 53.060,57, Nasdaq +0,04%), trotz weiter steigender Anleiherenditen (10J bei 4,81%, 20-Monats-Hoch) wegen der andauernden US-Iran-Eskalation an der Strasse von Hormuz. Nvidia sprang um rund 4% auf ca. 226-227 USD, nachdem Bloomberg eine sich konkretisierende ca. 14-Mrd.-USD-Uebernahme von Hugging Face vermeldete (Abschluss moeglicherweise noch diese Woche) - mehrfach unabhaengig bestaetigt (CNBC, Bloomberg, Quartz, 24/7 Wall St.). Krypto bleibt schwach (BTC ~78.500 USD, SOL ~103,7 USD, -1,6% in 24h) im Risk-off-Umfeld.",
+    "decision": "Tagesbudget fuer den 02.09. bereits im ersten Lauf (00:09) gutgeschrieben. Im 21:08-Lauf kein neuer Trade: NVDA-Position von -5,11% auf -1,16% erholt dank der Hugging-Face-Uebernahmenews, aber noch nicht im etablierten Gewinn-Zielbereich (7-8%) - Position wird weiter gehalten. Fuer Dell lagen widerspruechliche Kursangaben vor (teils +8% auf Berichte, teils -4% ggue. Vortagesschluss je nach Quelle) - mangels verlaesslicher Datenlage keine neue Position eroeffnet. Keine weiteren ueberzeugenden Gelegenheiten.",
+    "reasoning": "Die NVDA-Erholung basiert auf einem konkreten, mehrfach bestaetigten fundamentalen Katalysator (Hugging-Face-Deal), nicht auf blossem Sentiment - die Position bleibt daher im Rahmen der bestehenden Stop-Loss-Toleranz gehalten statt vorschnell glattgestellt zu werden, da sich die These gerade bestaetigt. Eine neue Position auf Basis der Dell-Zahlen wurde bewusst nicht eroeffnet, da die verfuegbaren Kursquellen sich innerhalb weniger Minuten widersprachen (Gewinn vs. Verlust ggue. Vortagesschluss) - passend zur Vorgabe, nur bei wirklich ueberzeugender und verlaesslicher Gelegenheit zu handeln.",
     "positionIds": [
       "pos-0010"
     ],
-    "portfolioValueEnd": 948.9,
+    "portfolioValueEnd": 988.44,
     "updates": [
       {
         "time": "00:09",
@@ -3427,6 +3427,11 @@
         "time": "20:09",
         "note": "Keine Aenderung - NVDA unveraendert bei 217,44 USD (-5,11%), weiterhin innerhalb Stop-Loss-Toleranz. US-Indizes erholen sich (S&P 500/Nasdaq/Dow im Plus), Oel/Renditen bleiben wegen Iran-Eskalation erhoeht. Krypto weiter schwach (BTC ~77.100 USD) ohne ueberzeugende Gelegenheit",
         "portfolioValue": 948.9
+      },
+      {
+        "time": "21:08",
+        "note": "Keine Aenderung - NVDA erholt sich auf 226,50 USD (-1,16%, vorher -5,11%) dank bestaetigter Hugging-Face-Uebernahme (~14 Mrd. USD), aber noch nicht im Gewinnzielbereich. Dell-Kursdaten widerspruechlich, daher keine neue Position",
+        "portfolioValue": 988.44
       }
     ]
   }
