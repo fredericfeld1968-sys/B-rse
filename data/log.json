@@ -3315,13 +3315,13 @@
   },
   {
     "date": "2026-09-02",
-    "marketOverview": "Mittwoch 05:08 Uhr: Weiterhin keine wesentliche Veraenderung. US-Boersen ausserhalb der Handelszeiten geschlossen, NVDA unveraendert bei ca. 220,78 USD. Krypto-Gesamtmarkt legte am Vortag (01.09.) um 1,7% auf 2,73 Bio. USD zu (Bitcoin naeherte sich 79.000-80.700 USD, +28% im August), zeigt aber laut aktuellen Quellen seither wieder die bekannte Risk-off-Schwaeche: Bitcoin ~77.900-78.600 USD, Ethereum ~2.450-2.470 USD, Solana ~99,7-101,8 USD, belastet durch die auf 66,4% gestiegene Markterwartung einer Fed-Zinserhoehung am 16.09. Kein neuer, unabhaengig bestaetigter Katalysator gegenueber den letzten Laeufen.",
-    "decision": "Tagesbudget fuer den 02.09. wurde bereits im ersten Lauf des Tages (00:09) gutgeschrieben (totalFreshCapitalEur 29.000 EUR, freies Kapital 27.960,66 EUR). In diesem Lauf erneut kein Trade: NVDA unveraendert, Boersen (Aktien/ETFs/Rohstoffe) ausserhalb der Handelszeiten nicht handelbar; Krypto (BTC, ETH, SOL) zeigt weiterhin nur die bekannte Risk-off-Seitwaertsbewegung ohne neue, ueberzeugende Gelegenheit.",
-    "reasoning": "Kurz nach 05:00 Uhr sind NYSE/Nasdaq weiterhin geschlossen, somit bleiben Aktien, ETFs und Rohstoffe nicht handelbar. Bei Krypto (einzig moegliche Anlageklasse) bestaetigt die aktuelle Recherche den seit mehreren Laeufen bekannten Rahmen: trotz eines soliden Vortagesplus (Gesamtmarkt +1,7%, BTC-Augustplus +28%) hat sich seit dem letzten Lauf nichts Neues ergeben, das einen spekulativen Kurzfrist-Einstieg rechtfertigen wuerde - keine Ausbruchsbewegung, kein bestaetigter Trend, stattdessen weiter Belastung durch steigende Fed-Zinserwartungen vor der Entscheidung am 16.09. Die offene NVDA-Position bleibt unveraendert, kein Stop-Loss-Niveau erreicht.",
+    "marketOverview": "Mittwoch 06:07 Uhr: Boersen weiterhin ausserhalb der Handelszeiten geschlossen, NVDA im Vorboersenhandel leicht schwaecher bei 219,14 USD (-0,74%). Krypto-Gesamtmarkt bei 2,75 Bio. USD (+0,2% in 24h) verharrt im Risk-off-Modus: Bitcoin ~77.874 USD (Jahresverlust -29%), Ethereum ~2.450 USD (-37% YTD), Solana ~103,29 USD. Marktbeobachter sprechen von 'Rektember'-Risiko fuer Bitcoin, da die Markterwartung fuer eine Fed-Zinserhoehung am 16.09. auf rund 60-66% gestiegen ist (Warsh-Rede in Jackson Hole); Arbeitsmarktbericht (04.09.) und CPI (11.09.) stehen als naechste Katalysatoren noch aus.",
+    "decision": "Tagesbudget fuer den 02.09. wurde bereits im ersten Lauf des Tages (00:09) gutgeschrieben. In diesem Lauf erneut kein Trade: Boersen (Aktien/ETFs/Rohstoffe) ausserhalb der Handelszeiten nicht handelbar, NVDA-Position lediglich mit aktuellem Vorboersenkurs aktualisiert. Krypto (BTC, ETH, SOL) bleibt im Risk-off-Modus ohne neue, ueberzeugende Gelegenheit - steigende Zinserhoehungserwartungen vor der Fed-Entscheidung am 16.09. belasten weiter.",
+    "reasoning": "Kurz nach 06:00 Uhr sind NYSE/Nasdaq weiterhin geschlossen. Bei Krypto bestaetigt die aktuelle Recherche unveraendert den Risk-off-Rahmen der letzten Laeufe: kein Ausbruch, kein bestaetigter Trend, stattdessen zunehmende Belastung durch steigende Fed-Zinserhoehungserwartungen (60-66% fuer 25bp am 16.09.) und die saisonale 'Rektember'-Warnung fuer Bitcoin. Die offene NVDA-Position (-4,37%) bleibt unter dem etablierten Stop-Loss-Schwellenwert (~-6 bis -7%, analog RHM) und wird daher gehalten.",
     "positionIds": [
       "pos-0010"
     ],
-    "portfolioValueEnd": 963.47,
+    "portfolioValueEnd": 956.32,
     "updates": [
       {
         "time": "00:09",
@@ -3352,6 +3352,11 @@
         "time": "05:08",
         "note": "Keine Aenderung - NVDA weiterhin 220,78 USD (Boersen geschlossen), Krypto-Gesamtmarkt am Vortag +1,7% (BTC-Augustplus +28%), aktuell aber wieder BTC ~77.900-78.600 USD und SOL ~99,7-101,8 USD im Risk-off-Modus vor Fed-Entscheidung 16.09. ohne neue ueberzeugende Gelegenheit",
         "portfolioValue": 963.47
+      },
+      {
+        "time": "06:08",
+        "note": "Keine Aenderung - NVDA Vorboersenkurs 219,14 USD (-0,74%, Boersen geschlossen), BTC ~77.874 USD und SOL ~103,29 USD weiter im Risk-off-Modus ('Rektember'-Warnung, steigende Fed-Zinserhoehungserwartungen) ohne neue ueberzeugende Gelegenheit",
+        "portfolioValue": 956.32
       }
     ]
   }
