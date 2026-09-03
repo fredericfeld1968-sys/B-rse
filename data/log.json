@@ -3447,13 +3447,13 @@
   },
   {
     "date": "2026-09-03",
-    "marketOverview": "Donnerstag 16:16 Uhr: Nasdaq/Dow/S&P 500 haben die dreitaegige Verlustserie beendet und schlossen den Vortag im Plus (Dow +0,8% auf 53.061,95, Nasdaq +0,5% auf 26.217,83, S&P 500 +0,5% auf 7.666,60), gestuetzt von starken Tech-/KI-Werten trotz Iran-Eskalation und steigenden Oelpreisen/Anleiherenditen. NVDA hat sich seit dem Vorboersen-Tief (217,28 USD, -5,18%) deutlich erholt und notiert nun bei 224,72 USD (-1,93% seit Kauf) im regulaeren Nasdaq-Handel. Einzelwerte wie GitLab (+20% nach Zahlen) und HPE (+5,5%) zeigen starke Post-Earnings-Reaktionen, die aber bereits weitgehend eingepreist sind - kein frisches Dip-Setup. Krypto seitwaerts: Bitcoin ~77.900 USD, Ethereum ~2.480 USD, Solana ~103,7 USD (-1,6%), Chainlink nach Schwab-Listing-News konstruktiv. Kein bestaetigter Ausbruch, kein Ueberreaktions-Setup erkennbar.",
-    "decision": "Tagesbudget fuer den 03.09. bereits im ersten Lauf (00:10) gutgeschrieben. Kein Trade in diesem Lauf: NVDA-Position wird gehalten, da sich der Kurs von -5,18% deutlich auf -1,93% erholt hat - kein Stop-Loss-Grund, aber auch noch nicht in der etablierten Gewinnmitnahme-Zone (7-8%). Keine neue Position: GitLab/HPE-Rallyes sind bereits weit gelaufen (kein Dip mehr), Krypto zeigt keine klare Ausbruchsbewegung. Freies Kapital bleibt bis zu einer wirklich ueberzeugenden Gelegenheit ungenutzt.",
-    "reasoning": "Seit dem letzten Lauf (15:16) hat der Nasdaq reguraer eroeffnet und NVDA von 217,28 auf 224,72 USD zugelegt (-1,93% statt -5,18% seit Kauf) - passend zur breiten Markterholung nach dem Ende der dreitaegigen Verlustserie (Dow +0,8%, Nasdaq +0,5%, S&P 500 +0,5%, getrieben von starken KI-/Tech-Werten). Fuer eine neue Position fehlt weiterhin ein ueberzeugendes Setup: die grossen Einzeltitel-Bewegungen des Tages (GitLab +20%, HPE +5,5%) sind bereits abgeschlossene Reaktionen ohne Dip-Charakter, und der Kryptomarkt bewegt sich seitwaerts ohne bestaetigten Ausbruch. Freies Kapital bleibt bei ca. 28.960,66 EUR geschuetzt, bis eine echte Ueberreaktion oder ein bestaetigter Ausbruch erkennbar wird.",
+    "marketOverview": "Donnerstag 17:15 Uhr: Dow (+0,97% auf 53.574,95), Nasdaq (+1,14% auf 26.516,32) und S&P 500 legen weiter zu, gestuetzt von fallenden Anleiherenditen und Fed-Governor Wallers Aussagen zu nachlassendem Preisdruck. NVDA steigt nach der offiziell bestaetigten Uebernahme von Hugging Face fuer rund 12,93 Mrd. USD um bis zu +4,7% intraday auf ca. 227,51 USD und hat sich damit von -5,18% auf nur noch -0,72% seit Kauf erholt. Broadcom (AVGO) fiel nachboerslich um 5% wegen schwacher Q4-Guidance (34,8 statt 35,03 Mrd. USD erwartet trotz Ergebnis-/Umsatzbeat), hat sich aber im Tagesverlauf bereits von 364,25 auf 371,76 USD nahe an die Vor-Zahlen-Niveaus erholt - kein frischer Dip-Einstieg mehr. Krypto weiter seitwaerts (Bitcoin ~77.900 USD, Ethereum ~2.402 USD, Solana ~99-100 USD) ohne bestaetigten Ausbruch.",
+    "decision": "Tagesbudget fuer den 03.09. bereits im ersten Lauf (00:10) gutgeschrieben. Kein Trade in diesem Lauf: NVDA-Position wird gehalten, da sie sich dank der bestaetigten Hugging-Face-Uebernahme weiter auf -0,72% erholt hat - weder Stop-Loss-Grund noch in der etablierten Gewinnmitnahme-Zone (7-8%). Keine neue Position: der AVGO-Post-Earnings-Dip ist bereits groesstenteils zugelaufen (364,25 -> 371,76 USD), kein frueher Einstiegspunkt mehr, und Krypto zeigt weiterhin keine klare Ausbruchsbewegung. Freies Kapital bleibt bis zu einer wirklich ueberzeugenden Gelegenheit ungenutzt.",
+    "reasoning": "Seit dem letzten Lauf (16:16) wurde die Nvidia/Hugging-Face-Uebernahme (12,93 Mrd. USD) bestaetigt, was NVDA zusaetzlichen Auftrieb gab (224,72 -> 227,51 USD). Broadcom faellt trotz Ergebnis-/Umsatzbeat nachboerslich wegen einer nur leicht verfehlten Q4-Guidance, hat den Grossteil des Rueckgangs aber schon im heutigen Handel wieder aufgeholt (Tagesspanne 362,00-371,40 USD, aktuell 371,76 USD nahe Tageshoch) - fuer einen Dip-Kauf nach bekanntem erfolgreichem Muster (AMD, SpaceX, Palantir) ist der guenstige Einstiegspunkt damit bereits verpasst, zumal eine Guidance-Verfehlung eher fundamentaler Natur ist (vgl. Rheinmetall-Lehre) statt eines reinen Sell-the-news-Reflexes. Freies Kapital bleibt bei ca. 28.960,66 EUR geschuetzt, bis eine echte Ueberreaktion oder ein bestaetigter Ausbruch erkennbar wird.",
     "positionIds": [
       "pos-0010"
     ],
-    "portfolioValueEnd": 980.67,
+    "portfolioValueEnd": 992.84,
     "updates": [
       {
         "time": "00:10",
@@ -3539,6 +3539,11 @@
         "time": "16:16",
         "note": "Keine Aenderung - NVDA erholt sich deutlich auf -1,93% (vorher -5,18%) nach Nasdaq-Handelsstart, breiter Markt beendet Verlustserie, GitLab/HPE-Rallyes bereits gelaufen, Krypto seitwaerts ohne Setup",
         "portfolioValue": 980.67
+      },
+      {
+        "time": "17:15",
+        "note": "Keine Aenderung - NVDA erholt sich weiter auf -0,72% (Hugging-Face-Deal bestaetigt), AVGO-Dip bereits weitgehend zugelaufen, Krypto seitwaerts ohne Setup",
+        "portfolioValue": 992.84
       }
     ]
   }
