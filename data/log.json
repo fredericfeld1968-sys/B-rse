@@ -3447,13 +3447,13 @@
   },
   {
     "date": "2026-09-03",
-    "marketOverview": "Donnerstag 12:09 Uhr: NVDA unveraendert bei 224,72 USD (-1,93% seit Kauf) vor Nasdaq-Start um 15:30 MESZ, US-Maerkte gestern mit Erholung (S&P 500 +0,46% auf 7.667, Dow +0,56%) trotz erhoehter geopolitischer Spannungen nach neuen US-Angriffen auf Iran-Ziele und Oelpreisen auf Mehrmonatshoch. 10-Jahres-Rendite bei Jahreshoch (~4,8%), Fed-Entscheidung am 15./16.09. mit ca. 70% Wahrscheinlichkeit fuer eine Zinserhoehung eingepreist. Rheinmetall bei 1.094,40 EUR (+1,71% 24h, aber -4,52% auf 7 Tage) ohne klare Sondersituation. Bitcoin auf ~77.100 USD leicht zurueckgekommen vom Mehrmonatshoch (~80.000), Solana bei ~100,59 USD seitwaerts - beide ohne ueberzeugendes Kurzfrist-Setup.",
-    "decision": "Tagesbudget fuer den 03.09. bereits im ersten Lauf (00:10) gutgeschrieben. Kein Trade in diesem Lauf: NVDA-Position wird weiter gehalten (Stop-Loss-Schwelle nicht erreicht, stabil bei -1,93%). Trotz leichter US-Erholung am Vortag bleibt das Umfeld durch hohe Anleiherenditen und Iran-Eskalation risikobehaftet; kein Titel zeigt eine klare Sondersituation (Ueberreaktion oder bestaetigter Ausbruch).",
-    "reasoning": "Seit dem letzten Lauf (11:09) ist NVDA stabil bei 224,72 USD (-1,93%) vor dem Nasdaq-Handelsstart um 15:30 MESZ. Rheinmetall und DAX zeigen keine neue Dynamik. Bitcoin hat sich von seinem Mehrmonatshoch (~80.000 USD) leicht auf ~77.100 USD zurueckgezogen - eher ein Warnsignal als eine Kaufgelegenheit, zumal die 10-Jahres-Rendite auf Jahreshoch (~4,8%) gestiegen ist und die Fed-Entscheidung am 15./16.09. mit Zinserhoehungsrisiko naht. Ohne frischen, unabhaengig bestaetigten Katalysator bleibt freies Kapital geschuetzt (~28.960,66 EUR verfuegbar), bis sich eine wirklich ueberzeugende Gelegenheit zeigt.",
+    "marketOverview": "Donnerstag 13:12 Uhr: NVDA im US-Vorboersenhandel auf 218,22 USD zurueckgefallen (-4,77% seit Kauf), nach Rekord-Schluss der US-Indizes am Vortag (Dow +0,6% auf 53.061,95, Nasdaq +0,5% auf 26.217,83, S&P 500 +0,5% auf 7.666,60, NVDA im regulaeren Handel noch +3,35%). Oelpreis stabilisiert sich (WTI ~91 USD, Brent <96 USD) nach Trumps Aussage, neue Angriffe auf Iran blieben begrenzt; laut US-Energieministerium erreichte der Tankerverkehr durch die Strasse von Hormuz am Montag mit ueber 17 Mio. Barrel den hoechsten Stand seit Kriegsbeginn. Bitcoin bei ~77.700 USD (+1,4% 24h), Solana bei ~99-100 USD seitwaerts - beide ohne bestaetigten Ausbruch.",
+    "decision": "Tagesbudget fuer den 03.09. bereits im ersten Lauf (00:10) gutgeschrieben. Kein Trade in diesem Lauf: NVDA-Position wird trotz Ruecksetzer auf -4,77% weiter gehalten, da dieser Bereich in den Vortagen (bis -5,15%) bereits als innerhalb der Stop-Loss-Toleranz eingestuft wurde und keine neue fundamentale Verschlechterung vorliegt. Keine neue Position: trotz freundlichem US-Marktschluss zeigt kein Titel eine ueberzeugende Sondersituation (Ueberreaktion oder bestaetigter Ausbruch); Oel/Zins-Risiken (Iran-Eskalation, 10J-Rendite auf Jahreshoch, Fed-Entscheidung 15./16.09.) bleiben bestehen.",
+    "reasoning": "Seit dem letzten Lauf (12:09) ist NVDA im Vorboersenhandel von 224,72 auf 218,22 USD zurueckgefallen (-4,77% seit Kauf), obwohl die Aktie im regulaeren Handel am Vortag noch +3,35% gewann - ein Hinweis auf erhoehte Volatilitaet vor dem heutigen Nasdaq-Start (15:30 MESZ), aber kein Bruch der bisherigen Stop-Loss-Toleranz (Vortage bis -5,15% gehalten). Der breite Markt schloss am Vortag mit Rekordstaenden (Dow, Nasdaq, S&P 500 alle im Plus), getragen von starken Einzelwerten (Dell +15,8%, GitLab +10%, Nvidia +3,35%, Meta +2,38%). Oel steadyt sich nach Trumps deeskalierenden Aeusserungen, was tendenziell Entlastung fuer Risikoassets bedeutet, aber noch kein klares Kaufsignal fuer eine neue Position darstellt. Bitcoin (~77.700 USD, +1,4% 24h) und Solana (~99-100 USD) bewegen sich weiter seitwaerts ohne bestaetigten Ausbruch. Ohne frischen, unabhaengig bestaetigten Katalysator bleibt freies Kapital geschuetzt (~28.960,66 EUR verfuegbar), bis sich eine wirklich ueberzeugende Gelegenheit zeigt.",
     "positionIds": [
       "pos-0010"
     ],
-    "portfolioValueEnd": 980.67,
+    "portfolioValueEnd": 952.3,
     "updates": [
       {
         "time": "00:10",
@@ -3519,6 +3519,11 @@
         "time": "12:09",
         "note": "Keine Aenderung - NVDA stabil bei -1,93% vor Nasdaq-Start, Bitcoin von Mehrmonatshoch auf ~77.100 USD zurueckgekommen, Rheinmetall/DAX ohne neues Setup, US-Anleiherenditen auf Jahreshoch belasten Risikoappetit",
         "portfolioValue": 980.67
+      },
+      {
+        "time": "13:12",
+        "note": "Keine Aenderung - NVDA im Vorboersenhandel auf 218,22 USD zurueckgefallen (-4,77%, aber innerhalb der etablierten Stop-Loss-Toleranz), US-Maerkte schlossen Vortag auf Rekordniveau (Dow/Nasdaq/S&P 500 im Plus), Oel stabilisiert nach Trumps Deeskalations-Aussagen, Bitcoin ~77.700 USD und Solana ~99-100 USD weiter seitwaerts ohne Gelegenheit",
+        "portfolioValue": 952.3
       }
     ]
   }
