@@ -3447,13 +3447,13 @@
   },
   {
     "date": "2026-09-03",
-    "marketOverview": "Donnerstag 15:16 Uhr: NVDA im US-Vorboersenhandel weiterhin bei 217,28 USD (-5,18% seit Kauf), seit 14:18 unveraendert - Nasdaq-Start erst um 15:30 MESZ. Oelpreis zieht weiter an (Brent ~97,4 USD, WTI ~92,9 USD, jeweils +1,9-2,1%), da Iran laut Berichten Ziele nahe der Strasse von Hormus sowie US-Verbuendete in Bahrain, Jordanien, Kuwait und Irak angegriffen haben soll; gleichzeitig eroeffnen S&P-500-Futures leicht positiver nach dem Ende der Verlustserie. Krypto erholt sich leicht trotz steigender Oelpreise: Bitcoin ~77.900 USD (+~0,1%), Ethereum ~2.402 USD, Solana ~103,7 USD (-1,6% in 24h), XRP ~1,39 USD (-2,2%). Kein bestaetigter Ausbruch, kein Ueberreaktions-Setup erkennbar.",
-    "decision": "Tagesbudget fuer den 03.09. bereits im ersten Lauf (00:10) gutgeschrieben. Kein Trade in diesem Lauf: NVDA-Position wird trotz -5,18% weiter gehalten, da sich der Kurs seit 14:18 nicht bewegt hat und weiterhin innerhalb der an Vortagen akzeptierten Toleranz (bis -5,15%) liegt. Keine neue Position: Krypto zeigt zwar eine leichte Erholung bei Bitcoin/Ethereum, aber kein klares Setup; Oelpreise steigen weiter wegen der Iran-Eskalation, was Inflations-/Zinssorgen naehrt. Ausserhalb der Nasdaq-Handelszeit (noch vor 15:30 MESZ) sind Aktien/ETFs/Rohstoffe ohnehin nicht handelbar.",
-    "reasoning": "Seit dem letzten Lauf (14:18) ist NVDA im Vorboersenhandel unveraendert bei 217,28 USD (-5,18% seit Kauf) geblieben - keine neue Dynamik, die einen Stop-Loss rechtfertigen wuerde. Die Iran/Hormuz-Eskalation hat sich laut Berichten (Angriffe nahe Hormus sowie auf US-Verbuendete in Bahrain, Jordanien, Kuwait, Irak) eher verschaerft, was die Oelpreise weiter treibt (Brent +1,9%, WTI +2,1%) und Inflations-/Zinssorgen stuetzt; gleichzeitig zeigen sich die US-Aktienfutures nach dem Ende der Verlustserie leicht erholt. Der Kryptomarkt dreht leicht ins Plus (Bitcoin knapp behauptet ueber 77.800 USD, Ethereum uber 2.400 USD), waehrend Solana und XRP weiter im Minus notieren - insgesamt kein konkretes, ueberzeugendes Einzeltitel-Setup. Freies Kapital bleibt bei ca. 28.960,66 EUR geschuetzt, bis eine wirklich ueberzeugende Sondersituation (Ueberreaktion oder bestaetigter Ausbruch) erkennbar wird.",
+    "marketOverview": "Donnerstag 16:16 Uhr: Nasdaq/Dow/S&P 500 haben die dreitaegige Verlustserie beendet und schlossen den Vortag im Plus (Dow +0,8% auf 53.061,95, Nasdaq +0,5% auf 26.217,83, S&P 500 +0,5% auf 7.666,60), gestuetzt von starken Tech-/KI-Werten trotz Iran-Eskalation und steigenden Oelpreisen/Anleiherenditen. NVDA hat sich seit dem Vorboersen-Tief (217,28 USD, -5,18%) deutlich erholt und notiert nun bei 224,72 USD (-1,93% seit Kauf) im regulaeren Nasdaq-Handel. Einzelwerte wie GitLab (+20% nach Zahlen) und HPE (+5,5%) zeigen starke Post-Earnings-Reaktionen, die aber bereits weitgehend eingepreist sind - kein frisches Dip-Setup. Krypto seitwaerts: Bitcoin ~77.900 USD, Ethereum ~2.480 USD, Solana ~103,7 USD (-1,6%), Chainlink nach Schwab-Listing-News konstruktiv. Kein bestaetigter Ausbruch, kein Ueberreaktions-Setup erkennbar.",
+    "decision": "Tagesbudget fuer den 03.09. bereits im ersten Lauf (00:10) gutgeschrieben. Kein Trade in diesem Lauf: NVDA-Position wird gehalten, da sich der Kurs von -5,18% deutlich auf -1,93% erholt hat - kein Stop-Loss-Grund, aber auch noch nicht in der etablierten Gewinnmitnahme-Zone (7-8%). Keine neue Position: GitLab/HPE-Rallyes sind bereits weit gelaufen (kein Dip mehr), Krypto zeigt keine klare Ausbruchsbewegung. Freies Kapital bleibt bis zu einer wirklich ueberzeugenden Gelegenheit ungenutzt.",
+    "reasoning": "Seit dem letzten Lauf (15:16) hat der Nasdaq reguraer eroeffnet und NVDA von 217,28 auf 224,72 USD zugelegt (-1,93% statt -5,18% seit Kauf) - passend zur breiten Markterholung nach dem Ende der dreitaegigen Verlustserie (Dow +0,8%, Nasdaq +0,5%, S&P 500 +0,5%, getrieben von starken KI-/Tech-Werten). Fuer eine neue Position fehlt weiterhin ein ueberzeugendes Setup: die grossen Einzeltitel-Bewegungen des Tages (GitLab +20%, HPE +5,5%) sind bereits abgeschlossene Reaktionen ohne Dip-Charakter, und der Kryptomarkt bewegt sich seitwaerts ohne bestaetigten Ausbruch. Freies Kapital bleibt bei ca. 28.960,66 EUR geschuetzt, bis eine echte Ueberreaktion oder ein bestaetigter Ausbruch erkennbar wird.",
     "positionIds": [
       "pos-0010"
     ],
-    "portfolioValueEnd": 948.2,
+    "portfolioValueEnd": 980.67,
     "updates": [
       {
         "time": "00:10",
@@ -3534,6 +3534,11 @@
         "time": "15:16",
         "note": "Keine Aenderung - NVDA unveraendert bei 217,28 USD (-5,18%), Oelpreise ziehen wegen Iran-Eskalation (Angriffe nahe Hormus, auf US-Verbuendete) weiter an, Krypto leicht erholt (BTC ~77.900 USD) aber ohne ueberzeugendes Setup",
         "portfolioValue": 948.2
+      },
+      {
+        "time": "16:16",
+        "note": "Keine Aenderung - NVDA erholt sich deutlich auf -1,93% (vorher -5,18%) nach Nasdaq-Handelsstart, breiter Markt beendet Verlustserie, GitLab/HPE-Rallyes bereits gelaufen, Krypto seitwaerts ohne Setup",
+        "portfolioValue": 980.67
       }
     ]
   }
