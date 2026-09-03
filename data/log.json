@@ -3447,9 +3447,9 @@
   },
   {
     "date": "2026-09-03",
-    "marketOverview": "Donnerstag 08:20 Uhr: Xetra oeffnet erst in Kuerze (09:00 MESZ), NYSE/Nasdaq erst ab 15:30 MESZ - Aktien/ETFs/Rohstoffe weiter nicht handelbar. NVDA quotiert vorboerslich kaum veraendert bei 217,44 USD (-5,11% seit Kauf), nach starkem NASDAQ-Schlussstand am Vortag (S&P 500 +0,46%, Nasdaq +0,45%, Dow +0,56%) und Analystenstimmen mit langfristigem Kursziel 400+ USD. Kryptomarkt bleibt im breiten Risk-off: Bitcoin ~76.990 USD (-2,44%), Ethereum ~2.411 USD (-2,47%), Solana ~99,08 USD (-3,11%) - anhaltende Abgabe ohne Bodenbildung. Belastend bleiben die 10-Jahres-US-Rendite auf Mehrjahreshoch (4,818%) sowie anhaltend hohe Oelpreise durch die Straße von Hormus/Iran-Spannungen.",
-    "decision": "Tagesbudget fuer den 03.09. bereits im ersten Lauf (00:10) gutgeschrieben. Kein Trade: NVDA-Position wird weiter gehalten (Aktienmarkt vor Boersenoeffnung nicht handelbar, Kursbewegung weiterhin im Rahmen des bisherigen Rauschens). Keine neue Krypto-Position - BTC/ETH/SOL setzen die Konsolidierung mit leichten weiteren Abgaben fort, kein Ausverkaufs- oder Ausbruchssignal, das einen spekulativen Einstieg rechtfertigen wuerde.",
-    "reasoning": "NVDA-Kurs vorboerslich stabil bei 217,44 USD (-5,11%), identisch zum bereits mehrfach gehaltenen Niveau seit den fruehen Morgenstunden - kein neuer Stop-Loss-Anlass. Aktienhandel vor 09:00/15:30 MESZ ohnehin nicht moeglich. Bitcoin/Ethereum/Solana geben weiter moderat nach (-2,4% bis -3,1% in 24h) im Zuge hoher Anleiherenditen und Zinssorgen - eine fortgesetzte Abwaertsbewegung ohne erkennbare Uebertreibung oder Trendwende, die einen spekulativen Dip-Kauf rechtfertigen wuerde. Kapital bleibt geschuetzt, bis sich eine klarere Gelegenheit zeigt.",
+    "marketOverview": "Donnerstag 09:11 Uhr: Xetra hat um 09:00 MESZ eroeffnet - DAX-Werte (u.a. Rheinmetall) damit erstmals seit Wochenbeginn wieder handelbar, aber kein ueberzeugendes neues Setup erkennbar. NYSE/Nasdaq oeffnen erst um 15:30 MESZ. NVDA notiert vorboerslich unveraendert bei 217,44 USD (-5,11% seit Kauf); der Chipsektor bleibt unter Druck trotz Kursziel-Anhebungen einzelner Analysten auf 220+ USD. Kryptomarkt setzt den Risk-off fort (Bitcoin ~76.000-78.000 USD, Ethereum ~2.370-2.410 USD, Solana ~99 USD) im Zuge der eskalierenden US-Iran-Konfrontation (neue Luftschlaege, Vergeltungsdrohungen), hoher Oelpreise (Brent ~95,6 USD) und wachsender Erwartung einer Fed-Zinserhoehung Mitte September (10-Jahres-Rendite bei 4,82%, Mehrjahreshoch).",
+    "decision": "Tagesbudget fuer den 03.09. bereits im ersten Lauf (00:10) gutgeschrieben. Kein Trade: NVDA-Position wird weiter gehalten (Stop-Loss-Schwelle nicht erreicht, kein neuer fundamentaler Auslöser). Trotz Xetra-Eroeffnung keine neue Position - kein DAX-Titel zeigt eine ueberzeugende, spekulativ tragfaehige Sondersituation. Keine neue Krypto-Position, da der Ausverkauf (Iran-Eskalation, Fed-Zinsangst) ohne erkennbare Uebertreibung oder Bodenbildung weiterlaeuft.",
+    "reasoning": "NVDA bleibt bei 217,44 USD (-5,11%) im bekannten Rauschband, Nasdaq-Handel startet ohnehin erst 15:30 MESZ - kein Anlass fuer eine Entscheidung vor Handelsstart. Der DAX ist seit 09:00 MESZ handelbar, aber ohne eine klar erkennbare, stark abweichende Einzelchance (z.B. ueberzogener Abverkauf oder bestaetigter Ausbruch) waere ein Kauf reine Spekulation ohne Edge. Bitcoin/Ethereum/Solana setzen die moderate Abwaertsbewegung fort, getrieben von der US-Iran-Eskalation und steigender Fed-Hike-Wahrscheinlichkeit (~66% laut FedWatch) - ein Dip-Kauf waere verfrueht, solange keine Stabilisierung sichtbar ist. Freies Kapital bleibt geschuetzt (~28.960 EUR verfuegbar), bis sich eine wirklich ueberzeugende Gelegenheit zeigt.",
     "positionIds": [
       "pos-0010"
     ],
@@ -3498,6 +3498,11 @@
       {
         "time": "08:20",
         "note": "Keine Aenderung - Boersen noch geschlossen (Xetra ab 09:00), NVDA stabil -5,11%, BTC/ETH/SOL im fortgesetzten Risk-off (-2,4% bis -3,1%) ohne ueberzeugende Gelegenheit",
+        "portfolioValue": 948.9
+      },
+      {
+        "time": "09:11",
+        "note": "Keine Aenderung - Xetra seit 09:00 MESZ offen, aber kein ueberzeugendes DAX-Setup; NVDA unveraendert -5,11% vor Nasdaq-Start (15:30), BTC/ETH/SOL im fortgesetzten Risk-off (Iran-Eskalation, Fed-Zinsangst) ohne Gelegenheit",
         "portfolioValue": 948.9
       }
     ]
