@@ -3447,13 +3447,13 @@
   },
   {
     "date": "2026-09-03",
-    "marketOverview": "Donnerstag 17:15 Uhr: Dow (+0,97% auf 53.574,95), Nasdaq (+1,14% auf 26.516,32) und S&P 500 legen weiter zu, gestuetzt von fallenden Anleiherenditen und Fed-Governor Wallers Aussagen zu nachlassendem Preisdruck. NVDA steigt nach der offiziell bestaetigten Uebernahme von Hugging Face fuer rund 12,93 Mrd. USD um bis zu +4,7% intraday auf ca. 227,51 USD und hat sich damit von -5,18% auf nur noch -0,72% seit Kauf erholt. Broadcom (AVGO) fiel nachboerslich um 5% wegen schwacher Q4-Guidance (34,8 statt 35,03 Mrd. USD erwartet trotz Ergebnis-/Umsatzbeat), hat sich aber im Tagesverlauf bereits von 364,25 auf 371,76 USD nahe an die Vor-Zahlen-Niveaus erholt - kein frischer Dip-Einstieg mehr. Krypto weiter seitwaerts (Bitcoin ~77.900 USD, Ethereum ~2.402 USD, Solana ~99-100 USD) ohne bestaetigten Ausbruch.",
-    "decision": "Tagesbudget fuer den 03.09. bereits im ersten Lauf (00:10) gutgeschrieben. Kein Trade in diesem Lauf: NVDA-Position wird gehalten, da sie sich dank der bestaetigten Hugging-Face-Uebernahme weiter auf -0,72% erholt hat - weder Stop-Loss-Grund noch in der etablierten Gewinnmitnahme-Zone (7-8%). Keine neue Position: der AVGO-Post-Earnings-Dip ist bereits groesstenteils zugelaufen (364,25 -> 371,76 USD), kein frueher Einstiegspunkt mehr, und Krypto zeigt weiterhin keine klare Ausbruchsbewegung. Freies Kapital bleibt bis zu einer wirklich ueberzeugenden Gelegenheit ungenutzt.",
-    "reasoning": "Seit dem letzten Lauf (16:16) wurde die Nvidia/Hugging-Face-Uebernahme (12,93 Mrd. USD) bestaetigt, was NVDA zusaetzlichen Auftrieb gab (224,72 -> 227,51 USD). Broadcom faellt trotz Ergebnis-/Umsatzbeat nachboerslich wegen einer nur leicht verfehlten Q4-Guidance, hat den Grossteil des Rueckgangs aber schon im heutigen Handel wieder aufgeholt (Tagesspanne 362,00-371,40 USD, aktuell 371,76 USD nahe Tageshoch) - fuer einen Dip-Kauf nach bekanntem erfolgreichem Muster (AMD, SpaceX, Palantir) ist der guenstige Einstiegspunkt damit bereits verpasst, zumal eine Guidance-Verfehlung eher fundamentaler Natur ist (vgl. Rheinmetall-Lehre) statt eines reinen Sell-the-news-Reflexes. Freies Kapital bleibt bei ca. 28.960,66 EUR geschuetzt, bis eine echte Ueberreaktion oder ein bestaetigter Ausbruch erkennbar wird.",
+    "marketOverview": "US-Maerkte legen kraeftig zu (Dow +1,2%, S&P 500 +1%, Nasdaq +1,4%), nachdem Fed-Gouverneur Waller nachlassenden Preisdruck signalisierte und Rate-Hike-Wetten zurueckgefahren wurden (10J-Rendite -5 Bp auf 4,74%). Snowflake schoss nach starken Zahlen um +24%, Broadcom und HPE fielen trotz Gewinnueberraschung wegen schwacher Guidance. Krypto bleibt schwaecher (BTC in den hohen 70.000ern, SOL ~100 USD) belastet von Zinsangst und Iran-Spannungen. Naechster Katalysator: NFP-Bericht morgen (04.09.), danach dreitaegiges Labor-Day-Wochenende (Boersen am 07.09. geschlossen).",
+    "decision": "Tagesbudget fuer den 03.09. bereits im ersten Lauf (00:10) gutgeschrieben. Auch in diesem Lauf (18:09) kein Trade: NVDA hat sich im Zuge der breiten Fed-getriebenen Rally fast vollstaendig erholt (-0,24%, vorher -0,72%) - weder Stop-Loss-Grund noch in der etablierten Gewinnmitnahme-Zone (7-8%), Position wird gehalten. Der Snowflake-Ausbruch (+24%) ist bereits vollstaendig gelaufen und damit kein Dip-Kauf mehr, AVGO/HPE fallen trotz Zahlen wegen schwacher Guidance (kein 'Sell-the-news'-Ueberreaktionsmuster wie bei frueheren erfolgreichen Trades). Keine ueberzeugende neue Gelegenheit vor dem NFP-Bericht morgen und dem Labor-Day-Wochenende - freies Kapital bleibt bewusst geparkt.",
+    "reasoning": "Tagesbudget fuer den 03.09. bereits im ersten Lauf (00:10) gutgeschrieben. Auch in diesem Lauf (18:09) kein Trade: NVDA hat sich im Zuge der breiten Fed-getriebenen Rally fast vollstaendig erholt (-0,24%, vorher -0,72%) - weder Stop-Loss-Grund noch in der etablierten Gewinnmitnahme-Zone (7-8%), Position wird gehalten. Der Snowflake-Ausbruch (+24%) ist bereits vollstaendig gelaufen und damit kein Dip-Kauf mehr, AVGO/HPE fallen trotz Zahlen wegen schwacher Guidance (kein 'Sell-the-news'-Ueberreaktionsmuster wie bei frueheren erfolgreichen Trades). Keine ueberzeugende neue Gelegenheit vor dem NFP-Bericht morgen und dem Labor-Day-Wochenende - freies Kapital bleibt bewusst geparkt.",
     "positionIds": [
       "pos-0010"
     ],
-    "portfolioValueEnd": 992.84,
+    "portfolioValueEnd": 997.6,
     "updates": [
       {
         "time": "00:10",
@@ -3544,6 +3544,11 @@
         "time": "17:15",
         "note": "Keine Aenderung - NVDA erholt sich weiter auf -0,72% (Hugging-Face-Deal bestaetigt), AVGO-Dip bereits weitgehend zugelaufen, Krypto seitwaerts ohne Setup",
         "portfolioValue": 992.84
+      },
+      {
+        "time": "18:09",
+        "note": "Keine Aenderung - NVDA fast ausgeglichen (-0,24%) dank breiter Fed-Rally (Dow +1,2%, Nasdaq +1,4%), SNOW-Ausbruch (+24%) bereits gelaufen, AVGO/HPE trotz Zahlen im Minus (Guidance-Miss), keine ueberzeugende Gelegenheit vor NFP morgen und Labor-Day-Wochenende",
+        "portfolioValue": 997.6
       }
     ]
   }
