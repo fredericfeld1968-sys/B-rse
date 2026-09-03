@@ -3447,13 +3447,13 @@
   },
   {
     "date": "2026-09-03",
-    "marketOverview": "Donnerstag 05:08 Uhr: US-Boersen weiter geschlossen (naechste Sitzung ab 15:30 MESZ), NVDA-Schlusskurs unveraendert bei 217,44 USD (-5,11% seit Kauf). Bitcoin bei ca. 77.038 USD (-0,18% in 24h) weitgehend seitwaerts, Kryptomarkt bleibt im Risk-off: Fed-Zinsanhebungs-Wahrscheinlichkeit fuer den 16.09. liegt laut CME FedWatch bei 66-68%, nachdem Fed-Chef Warsh auf dem Jackson-Hole-Symposium eine hawkishe Haltung signalisiert hatte (rund 2,3 Bio. USD Marktkapitalisierung bei Gold, Silber, Aktien und Krypto seither ausradiert). Zusaetzlich belasten anhaltende US-Angriffe gegen den Iran und ein WTI-Oelpreis von ca. 88 USD/Barrel die Risikostimmung.",
-    "decision": "Tagesbudget fuer den 03.09. bereits im ersten Lauf (00:10) gutgeschrieben. Kein Trade: NVDA-Position wird weiter gehalten (Aktienmarkt ausserhalb der Handelszeiten nicht handelbar, aktuell -5,11%). Keine neue Krypto-Position - BTC/ETH/SOL bleiben im breiten Risk-off-Umfeld (Fed-Zinsangst, Iran-Oelpreisschock) ohne ueberzeugende Kaufgelegenheit.",
-    "reasoning": "NVDA notiert unveraendert bei 217,44 USD, Handel ausserhalb der US-Boersenzeiten ohnehin nicht moeglich. Bitcoin bewegt sich mit -0,18% in 24h nur seitwaerts, kein neuer Ausverkaufs- oder Erholungsimpuls, der einen spekulativen Dip-Kauf rechtfertigen wuerde. Die Fed-Zinsangst (66-68% Hike-Wahrscheinlichkeit) und der Iran-Oelpreisschock bleiben fundamentale Belastungsfaktoren fuer Krypto, kein Uebertreibungs-Reflex zum Gegensteuern. Kapital bleibt geschuetzt, bis sich eine klarere, ueberzeugende Gelegenheit zeigt.",
+    "marketOverview": "Donnerstag 06:08 Uhr: US-Boersen weiterhin geschlossen (Vorboerse; regulaerer Handel ab 15:30 MESZ). NVDA quotiert bei ca. 217,04 USD (-5,29% seit Kauf), kaum veraendert zum Vortagesschluss. Bitcoin bei ca. 77.140 USD (-0,06% in 24h), Ethereum ca. 2.386 USD (-0,91%), Solana ca. 101 USD - Kryptomarkt startet den September ('Rektember') im Risk-off: CME FedWatch sieht weiterhin 66% Wahrscheinlichkeit fuer eine Fed-Zinsanhebung am 16.09., WTI-Oel bei ca. 88 USD/Barrel (US-Reserve auf Tiefstand seit 1982) belastet zusaetzlich die Inflationssorgen.",
+    "decision": "Tagesbudget fuer den 03.09. bereits im ersten Lauf (00:10) gutgeschrieben. Kein Trade: NVDA-Position wird weiter gehalten (Aktienmarkt ausserhalb der Handelszeiten nicht handelbar, aktuell -5,29%, Bewegung im Rahmen des Rauschens). Keine neue Krypto-Position - BTC/ETH/SOL bewegen sich nur seitwaerts ohne Ausverkaufs- oder Erholungsimpuls, weiterhin belastet durch Fed-Zinsangst und Oelpreisschock, keine ueberzeugende Gelegenheit.",
+    "reasoning": "NVDA-Kurs praktisch unveraendert (217,04 vs. vorher 217,44 USD), Handel ausserhalb der US-Boersenzeiten ohnehin nicht moeglich, kein Anlass fuer eine Stop-Loss-Entscheidung bei dieser geringen Schwankung. Bitcoin (-0,06%), Ethereum (-0,91%) und Solana bewegen sich nur marginal, kein neuer Uebertreibungs- oder Erholungsreflex, der einen spekulativen Kauf rechtfertigen wuerde. Die Fed-Zinsangst (66% Hike-Wahrscheinlichkeit zum 16.09.) und der anhaltend hohe Oelpreis (Inflationsrisiko) bleiben fundamentale Belastungsfaktoren. Kapital bleibt geschuetzt, bis sich eine klarere Gelegenheit zeigt.",
     "positionIds": [
       "pos-0010"
     ],
-    "portfolioValueEnd": 948.89,
+    "portfolioValueEnd": 947.14,
     "updates": [
       {
         "time": "00:10",
@@ -3484,6 +3484,11 @@
         "time": "05:08",
         "note": "Keine Aenderung - Boersen weiter geschlossen, NVDA unveraendert -5,11%, BTC ~77.038 USD seitwaerts (-0,18%) im anhaltenden Fed-Zinsangst-Risk-off ohne ueberzeugende Krypto-Gelegenheit",
         "portfolioValue": 948.89
+      },
+      {
+        "time": "06:08",
+        "note": "Keine Aenderung - Boersen weiter geschlossen, NVDA quasi unveraendert (-5,29%), BTC/ETH/SOL nur seitwaerts im Fed-Rate-Hike-Risk-off ohne ueberzeugende Gelegenheit",
+        "portfolioValue": 947.14
       }
     ]
   }
