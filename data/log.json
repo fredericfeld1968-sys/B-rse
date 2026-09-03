@@ -3579,9 +3579,9 @@
   },
   {
     "date": "2026-09-04",
-    "marketOverview": "Neuer Tag: Tagesbudget-Gutschrift 1000 EUR (Gesamtkapital nun 31.000 EUR). US-Boersen weiterhin geschlossen (nach 22:00 MESZ), Aktien/ETFs/Rohstoffe nicht handelbar. NVDA nachboerslich unveraendert bei 225,39 USD (-1,64%). Bitcoin bei ueber 81.000 USD, aber Tages-RSI ~73 und Stunden-RSI ~80 zeigen deutlich ueberkaufte Lage, MACD auf 15-Min-Basis bereits negativ (Momentum-Erschoepfung). XRP mit starkem 24h-Plus (+9,4%), Bewegung ist jedoch bereits weitgehend gelaufen ohne frischen Einstiegspunkt.",
-    "decision": "Kein Trade in diesem Lauf. NVDA-Position unveraendert gehalten (-1,64%), kein Neueinstieg trotz BTC- und XRP-Staerke, da beide Bewegungen bereits weit gelaufen und ueberkauft/ohne frischen Katalysator sind.",
-    "reasoning": "Boersenzeiten fuer Aktien/ETFs/Rohstoffe vorbei (kurz nach Mitternacht MESZ), daher nur Krypto grundsaetzlich handelbar. Bitcoin bleibt nach der Rally der letzten Stunden charttechnisch ueberkauft (RSI 73-80) ohne neuen eigenstaendigen Katalysator seit dem letzten Lauf um 23:09. XRP-Anstieg (+9,4%) ist bereits eingepreist, kein ueberzeugender Einstiegspunkt mehr. Keine anderen ueberzeugenden Krypto-Gelegenheiten identifiziert.",
+    "marketOverview": "Tagesbudget-Gutschrift 1000 EUR bereits um 00:09 erfolgt (Gesamtkapital 31.000 EUR). US-/EU-Boersen weiterhin geschlossen, Aktien/ETFs/Rohstoffe nicht handelbar. NVDA nachboerslich unveraendert bei 225,39 USD (-1,64%). Bitcoin haelt sich bei ca. 80.970-81.140 USD, bleibt aber mit Tages-RSI ~73 und Stunden-RSI ~80 deutlich ueberkauft, seit 00:09 kein neuer Katalysator. SOL (~99 USD), ETH (~2.387 USD) und XRP (~1,34 USD) tendieren nach einer $369-Mio-Liquidationswelle leicht schwaecher.",
+    "decision": "Kein Trade in diesem Lauf (01:10). NVDA-Position unveraendert gehalten (-1,64%), kein Neueinstieg: BTC bleibt ueberkauft ohne frischen Katalysator, Alt-Coins (SOL/ETH/XRP) tendieren nach Liquidationswelle leicht schwaecher - keine ueberzeugende Gelegenheit seit dem letzten Lauf.",
+    "reasoning": "Boersenzeiten fuer Aktien/ETFs/Rohstoffe weiterhin vorbei, daher nur Krypto grundsaetzlich handelbar. Bitcoin verharrt charttechnisch ueberkauft (RSI 73-80) ohne neuen eigenstaendigen Katalysator seit dem letzten Lauf um 00:09. SOL, ETH und XRP zeigen alle ein leichtes 24h-Minus nach der juengsten Liquidationswelle - kein Einstiegssignal. Keine ueberzeugende Krypto-Gelegenheit identifiziert.",
     "positionIds": [
       "pos-0010"
     ],
@@ -3590,6 +3590,11 @@
       {
         "time": "00:09",
         "note": "Tagesbudget-Gutschrift 1000 EUR fuer 04.09. Keine Aenderung - Boersen geschlossen, NVDA unveraendert -1,64%, BTC/XRP-Staerke bereits gelaufen und ueberkauft ohne ueberzeugende Gelegenheit",
+        "portfolioValue": 983.59
+      },
+      {
+        "time": "01:10",
+        "note": "Keine Aenderung - Boersen fuer Aktien/ETFs/Rohstoffe weiterhin geschlossen, NVDA unveraendert -1,64%. BTC bei ca. 80.970 USD weiterhin ueberkauft (Tages-RSI ~73, Stunden-RSI ~80), kein neuer Katalysator seit 00:09. SOL (~99 USD), ETH (~2.387 USD) und XRP (~1,34 USD) alle leicht im Minus (24h) nach $369-Mio-Liquidationswelle - kein Einstiegssignal.",
         "portfolioValue": 983.59
       }
     ]
