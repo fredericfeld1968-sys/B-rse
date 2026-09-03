@@ -3447,13 +3447,13 @@
   },
   {
     "date": "2026-09-03",
-    "marketOverview": "Donnerstag 06:08 Uhr: US-Boersen weiterhin geschlossen (Vorboerse; regulaerer Handel ab 15:30 MESZ). NVDA quotiert bei ca. 217,04 USD (-5,29% seit Kauf), kaum veraendert zum Vortagesschluss. Bitcoin bei ca. 77.140 USD (-0,06% in 24h), Ethereum ca. 2.386 USD (-0,91%), Solana ca. 101 USD - Kryptomarkt startet den September ('Rektember') im Risk-off: CME FedWatch sieht weiterhin 66% Wahrscheinlichkeit fuer eine Fed-Zinsanhebung am 16.09., WTI-Oel bei ca. 88 USD/Barrel (US-Reserve auf Tiefstand seit 1982) belastet zusaetzlich die Inflationssorgen.",
-    "decision": "Tagesbudget fuer den 03.09. bereits im ersten Lauf (00:10) gutgeschrieben. Kein Trade: NVDA-Position wird weiter gehalten (Aktienmarkt ausserhalb der Handelszeiten nicht handelbar, aktuell -5,29%, Bewegung im Rahmen des Rauschens). Keine neue Krypto-Position - BTC/ETH/SOL bewegen sich nur seitwaerts ohne Ausverkaufs- oder Erholungsimpuls, weiterhin belastet durch Fed-Zinsangst und Oelpreisschock, keine ueberzeugende Gelegenheit.",
-    "reasoning": "NVDA-Kurs praktisch unveraendert (217,04 vs. vorher 217,44 USD), Handel ausserhalb der US-Boersenzeiten ohnehin nicht moeglich, kein Anlass fuer eine Stop-Loss-Entscheidung bei dieser geringen Schwankung. Bitcoin (-0,06%), Ethereum (-0,91%) und Solana bewegen sich nur marginal, kein neuer Uebertreibungs- oder Erholungsreflex, der einen spekulativen Kauf rechtfertigen wuerde. Die Fed-Zinsangst (66% Hike-Wahrscheinlichkeit zum 16.09.) und der anhaltend hohe Oelpreis (Inflationsrisiko) bleiben fundamentale Belastungsfaktoren. Kapital bleibt geschuetzt, bis sich eine klarere Gelegenheit zeigt.",
+    "marketOverview": "Donnerstag 07:09 Uhr: US-/EU-Boersen weiterhin geschlossen (vorboerslich; Xetra ab 09:00, NYSE/Nasdaq ab 15:30 MESZ). NVDA quotiert vorboerslich kaum veraendert bei ca. 217,28 USD (-5,18% seit Kauf). Bitcoin behauptet sich stabil ueber 78.000 USD, waehrend Ethereum, Solana (~100-101 USD) und weitere Altcoins leicht nachgeben - anhaltende Konsolidierung ohne klaren Impuls. Fed-Chef Warsh bekraeftigte zuletzt eine falkenhafte Haltung (Zinsentscheid 16.09., Markt preist rund 66-67% Hike-Wahrscheinlichkeit), zudem belasten anhaltend erhoehte Oelpreise (WTI ~85-86 USD, Brent ~90 USD) nach neuen US-Luftschlaegen gegen den Iran weiter die Inflations- und Zinssorgen.",
+    "decision": "Tagesbudget fuer den 03.09. bereits im ersten Lauf (00:10) gutgeschrieben. Kein Trade: NVDA-Position wird weiter gehalten (Aktien-/ETF-/Rohstoffmaerkte vor Boersenoeffnung nicht handelbar, Kursbewegung im Rahmen des Rauschens). Keine neue Krypto-Position - BTC haelt sich stabil, ETH/SOL/Altcoins geben nur leicht nach, keine ueberzeugende Ausbruchs- oder Ausverkaufsgelegenheit.",
+    "reasoning": "NVDA-Kurs vorboerslich praktisch unveraendert (217,28 vs. zuvor 217,04 USD), Aktienhandel ausserhalb der regulaeren Boersenzeiten ohnehin nicht moeglich, kein Anlass fuer eine Stop-Loss-Entscheidung bei dieser geringen Schwankung. Bitcoin bleibt oberhalb 78.000 USD stabil, Ethereum/Solana/Altcoins verlieren nur marginal an Boden - reine Konsolidierung ohne Uebertreibungs- oder Erholungsreflex, der einen spekulativen Kauf rechtfertigen wuerde. Fed-Zinsangst (Warsh-Rede, ~66-67% Hike-Wahrscheinlichkeit zum 16.09.) und anhaltend erhoehte Oelpreise nach den juengsten US-Luftschlaegen gegen den Iran bleiben fundamentale Belastungsfaktoren. Kapital bleibt geschuetzt, bis sich eine klarere Gelegenheit zeigt.",
     "positionIds": [
       "pos-0010"
     ],
-    "portfolioValueEnd": 947.14,
+    "portfolioValueEnd": 948.2,
     "updates": [
       {
         "time": "00:10",
@@ -3489,6 +3489,11 @@
         "time": "06:08",
         "note": "Keine Aenderung - Boersen weiter geschlossen, NVDA quasi unveraendert (-5,29%), BTC/ETH/SOL nur seitwaerts im Fed-Rate-Hike-Risk-off ohne ueberzeugende Gelegenheit",
         "portfolioValue": 947.14
+      },
+      {
+        "time": "07:09",
+        "note": "Keine Aenderung - Boersen vorboerslich geschlossen, NVDA kaum veraendert -5,18%, BTC stabil ueber 78.000 USD, ETH/SOL/Altcoins leicht schwaecher ohne ueberzeugende Gelegenheit",
+        "portfolioValue": 948.2
       }
     ]
   }
