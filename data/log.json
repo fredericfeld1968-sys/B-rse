@@ -3447,9 +3447,9 @@
   },
   {
     "date": "2026-09-03",
-    "marketOverview": "Donnerstag 03:08 Uhr: US-Boersen weiter geschlossen (naechste Sitzung ab 15:30 MESZ). NVDA-Schlusskurs vom Vortag bei 217,44 USD (-5,11% seit Kauf) im Sog eines breiteren Chip-/Tech-Sektor-Ruecksetzers. Bitcoin konsolidiert bei ca. 77.121 USD (-0,2% in 24h) nach starkem August (+24%), Binance-Reserven auf Jahreshoch (687.000 BTC). Solana fällt deutlich staerker auf 99,86 USD (-3,7% in 24h) im Zuge eines marktweiten Risk-off nach hawkishen Fed-Aussagen. Naechster wichtiger Termin: Senatsabstimmung ueber den Digital Asset Market Clarity Act am 15.09.",
-    "decision": "Tagesbudget fuer den 03.09. bereits im ersten Lauf (00:10) gutgeschrieben. Kein Trade: NVDA-Position wird weiter gehalten (Aktienmarkt ausserhalb der Handelszeiten nicht handelbar, aktuell -5,11%). Keine neue Krypto-Position - BTC/SOL zeigen risk-off-bedingte Schwaeche ohne ueberzeugende Kaufgelegenheit.",
-    "reasoning": "NVDA faellt mit dem breiteren Chip-/Tech-Sektor auf 217,44 USD (-5,11% seit Kauf), kann aber ausserhalb der US-Handelszeiten ohnehin nicht verkauft werden. Im Kryptomarkt dominiert nach hawkishen Fed-Kommentaren eine risk-off-Stimmung (SOL -3,7% in 24h, BNB aehnlich schwach); BTC konsolidiert nur seitwaerts ohne klaren Trigger. Damit keine wirklich ueberzeugende Gelegenheit fuer eine neue spekulative Position - Kapital bleibt geschuetzt, bis sich ein klareres Setup zeigt.",
+    "marketOverview": "Donnerstag 04:08 Uhr: US-Boersen weiter geschlossen (naechste Sitzung ab 15:30 MESZ), NVDA-Schlusskurs unveraendert bei 217,44 USD (-5,11% seit Kauf). Bitcoin faellt auf ca. 77.593 USD (-1,67%), Ethereum -2,32% auf 2.419 USD - marktweiter Risk-off-Ausverkauf zum September-Start. Treiber: Markt preist 66% Wahrscheinlichkeit fuer eine Fed-Zinsanhebung am 16.09. ein, globaler Anleihen-Ausverkauf (10Y-Rendite auf Hoch seit Januar 2025), Iran-Konflikt treibt Oelpreise (Brent > 90 USD). US-Arbeitsmarktbericht heute erwartet, CPI am 11.09.",
+    "decision": "Tagesbudget fuer den 03.09. bereits im ersten Lauf (00:10) gutgeschrieben. Kein Trade: NVDA-Position wird weiter gehalten (Aktienmarkt ausserhalb der Handelszeiten nicht handelbar, aktuell -5,11%). Keine neue Krypto-Position - BTC/ETH im breiten Risk-off-Ausverkauf (Fed-Zinsangst, Anleihen-Rout) ohne ueberzeugende Kaufgelegenheit.",
+    "reasoning": "NVDA notiert unveraendert bei 217,44 USD, Handel ausserhalb der US-Boersenzeiten ohnehin nicht moeglich. Der Kryptomarkt zeigt einen breiten, fundamental getriebenen Ausverkauf (Fed-Zinserhoehung am 16.09. mit 66% Wahrscheinlichkeit eingepreist, Anleihen-Rout, geopolitische Oelpreis-Sorgen) - kein spekulativer Dip-Kauf-Trigger, da der Abwaertsdruck fundamental und nicht nur ein kurzfristiger Uebertreibungs-Reflex ist. Kapital bleibt geschuetzt, bis sich eine klarere, ueberzeugende Gelegenheit zeigt.",
     "positionIds": [
       "pos-0010"
     ],
@@ -3473,6 +3473,11 @@
       {
         "time": "03:08",
         "note": "Keine Aenderung - Boersen weiter geschlossen, NVDA-Schlusskurs auf 217,44 USD gefallen (-5,11%) im Zuge eines Chip-Sektor-Ruecksetzers, BTC/SOL im risk-off nach hawkishen Fed-Aussagen ohne ueberzeugende Krypto-Gelegenheit",
+        "portfolioValue": 948.89
+      },
+      {
+        "time": "04:08",
+        "note": "Keine Aenderung - Boersen weiter geschlossen, NVDA unveraendert -5,11%, BTC/ETH im breiten Risk-off-Ausverkauf (Fed-Zinsangst, Anleihen-Rout) ohne ueberzeugende Krypto-Gelegenheit",
         "portfolioValue": 948.89
       }
     ]
