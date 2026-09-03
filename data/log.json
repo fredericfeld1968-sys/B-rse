@@ -3447,13 +3447,13 @@
   },
   {
     "date": "2026-09-03",
-    "marketOverview": "US-Maerkte legen kraeftig zu (Dow +1,2%, S&P 500 +1%, Nasdaq +1,4%), nachdem Fed-Gouverneur Waller nachlassenden Preisdruck signalisierte und Rate-Hike-Wetten zurueckgefahren wurden (10J-Rendite -5 Bp auf 4,74%). Snowflake schoss nach starken Zahlen um +24%, Broadcom und HPE fielen trotz Gewinnueberraschung wegen schwacher Guidance. Krypto bleibt schwaecher (BTC in den hohen 70.000ern, SOL ~100 USD) belastet von Zinsangst und Iran-Spannungen. Naechster Katalysator: NFP-Bericht morgen (04.09.), danach dreitaegiges Labor-Day-Wochenende (Boersen am 07.09. geschlossen).",
-    "decision": "Tagesbudget fuer den 03.09. bereits im ersten Lauf (00:10) gutgeschrieben. Auch in diesem Lauf (18:09) kein Trade: NVDA hat sich im Zuge der breiten Fed-getriebenen Rally fast vollstaendig erholt (-0,24%, vorher -0,72%) - weder Stop-Loss-Grund noch in der etablierten Gewinnmitnahme-Zone (7-8%), Position wird gehalten. Der Snowflake-Ausbruch (+24%) ist bereits vollstaendig gelaufen und damit kein Dip-Kauf mehr, AVGO/HPE fallen trotz Zahlen wegen schwacher Guidance (kein 'Sell-the-news'-Ueberreaktionsmuster wie bei frueheren erfolgreichen Trades). Keine ueberzeugende neue Gelegenheit vor dem NFP-Bericht morgen und dem Labor-Day-Wochenende - freies Kapital bleibt bewusst geparkt.",
-    "reasoning": "Tagesbudget fuer den 03.09. bereits im ersten Lauf (00:10) gutgeschrieben. Auch in diesem Lauf (18:09) kein Trade: NVDA hat sich im Zuge der breiten Fed-getriebenen Rally fast vollstaendig erholt (-0,24%, vorher -0,72%) - weder Stop-Loss-Grund noch in der etablierten Gewinnmitnahme-Zone (7-8%), Position wird gehalten. Der Snowflake-Ausbruch (+24%) ist bereits vollstaendig gelaufen und damit kein Dip-Kauf mehr, AVGO/HPE fallen trotz Zahlen wegen schwacher Guidance (kein 'Sell-the-news'-Ueberreaktionsmuster wie bei frueheren erfolgreichen Trades). Keine ueberzeugende neue Gelegenheit vor dem NFP-Bericht morgen und dem Labor-Day-Wochenende - freies Kapital bleibt bewusst geparkt.",
+    "marketOverview": "US-Indizes bauen die Fed-Rally weiter aus (Dow +0,6% auf 53.061,95, S&P 500 +0,5% auf 7.666,60, Nasdaq +0,5% auf 26.217,83), nachdem Fed-Gouverneur Waller nachlassenden Preisdruck signalisierte. Broadcom schlug die Erwartungen (EPS 3,32 vs. 3,24 USD), fiel aber wegen einer unter dem Konsens liegenden Q4-Umsatzguidance (34,8 statt erwarteter 35,03 Mrd. USD) - echte fundamentale Eintruebung, kein Sell-the-news-Ueberreaktionsmuster. NVDA hat sich fast vollstaendig erholt (227,35 USD, -0,79%). Iran griff US-Verbuendete (Jordanien, VAE, Kuwait) an, Oel und Renditen steigen, Maerkte ignorieren dies bislang. Krypto seitwaerts (BTC ~77.900 USD, SOL ~100 USD). Naechster Katalysator: NFP-Bericht morgen, danach dreitaegiges Labor-Day-Wochenende (Boersen am 07.09. geschlossen).",
+    "decision": "Tagesbudget fuer den 03.09. bereits im ersten Lauf (00:10) gutgeschrieben. Auch in diesem Lauf (19:20) kein Trade: NVDA bleibt mit -0,79% klar innerhalb der normalen Schwankungsbreite, weder Stop-Loss-Grund noch Gewinnmitnahme-Zone - Position wird gehalten. TLYS (+45%) und CHPT (+32%) sind bereits vollstaendig gelaufen, kein Dip-Einstieg mehr moeglich. AVGO faellt trotz Zahlen weiter wegen echter Guidance-Schwaeche (kein Ueberreaktionsmuster wie bei AMD/SpaceX/Palantir). BCPC (-86%) und RARE (-47%) sind fundamentale Klinik-/Unternehmenskatastrophen, keine spekulativen Kaufchancen. Keine ueberzeugende neue Gelegenheit vor NFP-Bericht morgen - freies Kapital bleibt bewusst geparkt.",
+    "reasoning": "Tagesbudget fuer den 03.09. bereits im ersten Lauf (00:10) gutgeschrieben. Auch in diesem Lauf (19:20) kein Trade: NVDA bleibt mit -0,79% klar innerhalb der normalen Schwankungsbreite, weder Stop-Loss-Grund noch Gewinnmitnahme-Zone - Position wird gehalten. TLYS (+45%) und CHPT (+32%) sind bereits vollstaendig gelaufen, kein Dip-Einstieg mehr moeglich. AVGO faellt trotz Zahlen weiter wegen echter Guidance-Schwaeche (kein Ueberreaktionsmuster wie bei AMD/SpaceX/Palantir). BCPC (-86%) und RARE (-47%) sind fundamentale Klinik-/Unternehmenskatastrophen, keine spekulativen Kaufchancen. Keine ueberzeugende neue Gelegenheit vor NFP-Bericht morgen - freies Kapital bleibt bewusst geparkt.",
     "positionIds": [
       "pos-0010"
     ],
-    "portfolioValueEnd": 997.6,
+    "portfolioValueEnd": 992.14,
     "updates": [
       {
         "time": "00:10",
@@ -3549,6 +3549,11 @@
         "time": "18:09",
         "note": "Keine Aenderung - NVDA fast ausgeglichen (-0,24%) dank breiter Fed-Rally (Dow +1,2%, Nasdaq +1,4%), SNOW-Ausbruch (+24%) bereits gelaufen, AVGO/HPE trotz Zahlen im Minus (Guidance-Miss), keine ueberzeugende Gelegenheit vor NFP morgen und Labor-Day-Wochenende",
         "portfolioValue": 997.6
+      },
+      {
+        "time": "19:20",
+        "note": "Keine Aenderung - NVDA bei -0,79% (227,35 USD) innerhalb normaler Schwankung, AVGO-Guidance-Miss kein Kaufmuster, TLYS/CHPT-Rallyes bereits gelaufen, BCPC/RARE fundamentale Einbrueche ohne Setup, Krypto seitwaerts",
+        "portfolioValue": 992.14
       }
     ]
   }
