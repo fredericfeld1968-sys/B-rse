@@ -3447,13 +3447,13 @@
   },
   {
     "date": "2026-09-03",
-    "marketOverview": "Donnerstag 13:12 Uhr: NVDA im US-Vorboersenhandel auf 218,22 USD zurueckgefallen (-4,77% seit Kauf), nach Rekord-Schluss der US-Indizes am Vortag (Dow +0,6% auf 53.061,95, Nasdaq +0,5% auf 26.217,83, S&P 500 +0,5% auf 7.666,60, NVDA im regulaeren Handel noch +3,35%). Oelpreis stabilisiert sich (WTI ~91 USD, Brent <96 USD) nach Trumps Aussage, neue Angriffe auf Iran blieben begrenzt; laut US-Energieministerium erreichte der Tankerverkehr durch die Strasse von Hormuz am Montag mit ueber 17 Mio. Barrel den hoechsten Stand seit Kriegsbeginn. Bitcoin bei ~77.700 USD (+1,4% 24h), Solana bei ~99-100 USD seitwaerts - beide ohne bestaetigten Ausbruch.",
-    "decision": "Tagesbudget fuer den 03.09. bereits im ersten Lauf (00:10) gutgeschrieben. Kein Trade in diesem Lauf: NVDA-Position wird trotz Ruecksetzer auf -4,77% weiter gehalten, da dieser Bereich in den Vortagen (bis -5,15%) bereits als innerhalb der Stop-Loss-Toleranz eingestuft wurde und keine neue fundamentale Verschlechterung vorliegt. Keine neue Position: trotz freundlichem US-Marktschluss zeigt kein Titel eine ueberzeugende Sondersituation (Ueberreaktion oder bestaetigter Ausbruch); Oel/Zins-Risiken (Iran-Eskalation, 10J-Rendite auf Jahreshoch, Fed-Entscheidung 15./16.09.) bleiben bestehen.",
-    "reasoning": "Seit dem letzten Lauf (12:09) ist NVDA im Vorboersenhandel von 224,72 auf 218,22 USD zurueckgefallen (-4,77% seit Kauf), obwohl die Aktie im regulaeren Handel am Vortag noch +3,35% gewann - ein Hinweis auf erhoehte Volatilitaet vor dem heutigen Nasdaq-Start (15:30 MESZ), aber kein Bruch der bisherigen Stop-Loss-Toleranz (Vortage bis -5,15% gehalten). Der breite Markt schloss am Vortag mit Rekordstaenden (Dow, Nasdaq, S&P 500 alle im Plus), getragen von starken Einzelwerten (Dell +15,8%, GitLab +10%, Nvidia +3,35%, Meta +2,38%). Oel steadyt sich nach Trumps deeskalierenden Aeusserungen, was tendenziell Entlastung fuer Risikoassets bedeutet, aber noch kein klares Kaufsignal fuer eine neue Position darstellt. Bitcoin (~77.700 USD, +1,4% 24h) und Solana (~99-100 USD) bewegen sich weiter seitwaerts ohne bestaetigten Ausbruch. Ohne frischen, unabhaengig bestaetigten Katalysator bleibt freies Kapital geschuetzt (~28.960,66 EUR verfuegbar), bis sich eine wirklich ueberzeugende Gelegenheit zeigt.",
+    "marketOverview": "Donnerstag 14:18 Uhr: NVDA im US-Vorboersenhandel bei 217,28 USD (-5,18% seit Kauf), kaum veraendert zum letzten Check (218,22 USD) - Nasdaq-Future tendiert vor Handelsstart (15:30 MESZ) leicht schwaecher wegen anhaltender US-Iran-Spannungen und hoher Anleiherenditen (10J bei 4,818%, Hoechststand seit Nov. 2023). Oelpreis (Brent) steigt weiter, da Iran laut Berichten US-Verbuendete im Nahen Osten ins Visier nimmt. Krypto klar im Risk-off: Bitcoin ~77.000 USD (-1,1%), Ethereum ~2.393 USD (-2,3%), Solana ~99 USD (-3,0%) - Marktbeobachter sprechen bereits von \"Rektember\". Kein bestaetigter Ausbruch, kein Ueberreaktions-Setup erkennbar.",
+    "decision": "Tagesbudget fuer den 03.09. bereits im ersten Lauf (00:10) gutgeschrieben. Kein Trade in diesem Lauf: NVDA-Position wird trotz -5,18% weiter gehalten, da dies innerhalb der bereits an Vortagen akzeptierten Toleranz (bis -5,15%) liegt und keine neue fundamentale Verschlechterung vorliegt - Kurs zudem stabil, kein weiterer Rutsch seit 13:12. Keine neue Position: Krypto insgesamt im Abwaertstrend (Bitcoin, Ethereum, Solana alle im Minus, keine Gelegenheit), und ausserhalb der Nasdaq-Handelszeit (noch vor 15:30 MESZ) sind Aktien/ETFs/Rohstoffe ohnehin nicht handelbar.",
+    "reasoning": "Seit dem letzten Lauf (13:12) ist NVDA im Vorboersenhandel von 218,22 auf 217,28 USD kaum veraendert (-0,07% Tagesbewegung, -5,18% seit Kauf) - keine neue Dynamik, die einen Stop-Loss rechtfertigen wuerde, zumal die Aktie in den Vortagen bereits bis zu -5,15% gehalten und sich danach wieder erholt hat. Der breitere Markt zeigt Vorsicht: TheStreet berichtet von leicht schwaecheren Nasdaq-Futures wegen des US-Iran-Konflikts, die Energiesekretaer-Aussage zu Rekord-Tankerverkehr durch Hormuz deutet auf anhaltend hohe Oelversorgung trotz Spannungen hin, was Inflations-/Zinssorgen (10J-Rendite 4,818%) weiter naehrt. Krypto zeigt ein klares Risk-off-Bild (Bitcoin, Ethereum, Solana alle im Minus, Netto-Abfluesse aus Bitcoin-ETFs), sodass sich auch dort keine ueberzeugende spekulative Gelegenheit bietet. Freies Kapital bleibt bei ca. 28.960,66 EUR geschuetzt, bis eine wirklich ueberzeugende Sondersituation (Ueberreaktion oder bestaetigter Ausbruch) erkennbar wird.",
     "positionIds": [
       "pos-0010"
     ],
-    "portfolioValueEnd": 952.3,
+    "portfolioValueEnd": 948.2,
     "updates": [
       {
         "time": "00:10",
@@ -3524,6 +3524,11 @@
         "time": "13:12",
         "note": "Keine Aenderung - NVDA im Vorboersenhandel auf 218,22 USD zurueckgefallen (-4,77%, aber innerhalb der etablierten Stop-Loss-Toleranz), US-Maerkte schlossen Vortag auf Rekordniveau (Dow/Nasdaq/S&P 500 im Plus), Oel stabilisiert nach Trumps Deeskalations-Aussagen, Bitcoin ~77.700 USD und Solana ~99-100 USD weiter seitwaerts ohne Gelegenheit",
         "portfolioValue": 952.3
+      },
+      {
+        "time": "14:18",
+        "note": "Keine Aenderung - NVDA stabil bei -5,18% (kaum veraendert seit 13:12), Krypto klar im Risk-off (BTC/ETH/SOL alle im Minus), keine ueberzeugende Gelegenheit",
+        "portfolioValue": 948.2
       }
     ]
   }
