@@ -3447,9 +3447,9 @@
   },
   {
     "date": "2026-09-03",
-    "marketOverview": "Donnerstag 04:08 Uhr: US-Boersen weiter geschlossen (naechste Sitzung ab 15:30 MESZ), NVDA-Schlusskurs unveraendert bei 217,44 USD (-5,11% seit Kauf). Bitcoin faellt auf ca. 77.593 USD (-1,67%), Ethereum -2,32% auf 2.419 USD - marktweiter Risk-off-Ausverkauf zum September-Start. Treiber: Markt preist 66% Wahrscheinlichkeit fuer eine Fed-Zinsanhebung am 16.09. ein, globaler Anleihen-Ausverkauf (10Y-Rendite auf Hoch seit Januar 2025), Iran-Konflikt treibt Oelpreise (Brent > 90 USD). US-Arbeitsmarktbericht heute erwartet, CPI am 11.09.",
-    "decision": "Tagesbudget fuer den 03.09. bereits im ersten Lauf (00:10) gutgeschrieben. Kein Trade: NVDA-Position wird weiter gehalten (Aktienmarkt ausserhalb der Handelszeiten nicht handelbar, aktuell -5,11%). Keine neue Krypto-Position - BTC/ETH im breiten Risk-off-Ausverkauf (Fed-Zinsangst, Anleihen-Rout) ohne ueberzeugende Kaufgelegenheit.",
-    "reasoning": "NVDA notiert unveraendert bei 217,44 USD, Handel ausserhalb der US-Boersenzeiten ohnehin nicht moeglich. Der Kryptomarkt zeigt einen breiten, fundamental getriebenen Ausverkauf (Fed-Zinserhoehung am 16.09. mit 66% Wahrscheinlichkeit eingepreist, Anleihen-Rout, geopolitische Oelpreis-Sorgen) - kein spekulativer Dip-Kauf-Trigger, da der Abwaertsdruck fundamental und nicht nur ein kurzfristiger Uebertreibungs-Reflex ist. Kapital bleibt geschuetzt, bis sich eine klarere, ueberzeugende Gelegenheit zeigt.",
+    "marketOverview": "Donnerstag 05:08 Uhr: US-Boersen weiter geschlossen (naechste Sitzung ab 15:30 MESZ), NVDA-Schlusskurs unveraendert bei 217,44 USD (-5,11% seit Kauf). Bitcoin bei ca. 77.038 USD (-0,18% in 24h) weitgehend seitwaerts, Kryptomarkt bleibt im Risk-off: Fed-Zinsanhebungs-Wahrscheinlichkeit fuer den 16.09. liegt laut CME FedWatch bei 66-68%, nachdem Fed-Chef Warsh auf dem Jackson-Hole-Symposium eine hawkishe Haltung signalisiert hatte (rund 2,3 Bio. USD Marktkapitalisierung bei Gold, Silber, Aktien und Krypto seither ausradiert). Zusaetzlich belasten anhaltende US-Angriffe gegen den Iran und ein WTI-Oelpreis von ca. 88 USD/Barrel die Risikostimmung.",
+    "decision": "Tagesbudget fuer den 03.09. bereits im ersten Lauf (00:10) gutgeschrieben. Kein Trade: NVDA-Position wird weiter gehalten (Aktienmarkt ausserhalb der Handelszeiten nicht handelbar, aktuell -5,11%). Keine neue Krypto-Position - BTC/ETH/SOL bleiben im breiten Risk-off-Umfeld (Fed-Zinsangst, Iran-Oelpreisschock) ohne ueberzeugende Kaufgelegenheit.",
+    "reasoning": "NVDA notiert unveraendert bei 217,44 USD, Handel ausserhalb der US-Boersenzeiten ohnehin nicht moeglich. Bitcoin bewegt sich mit -0,18% in 24h nur seitwaerts, kein neuer Ausverkaufs- oder Erholungsimpuls, der einen spekulativen Dip-Kauf rechtfertigen wuerde. Die Fed-Zinsangst (66-68% Hike-Wahrscheinlichkeit) und der Iran-Oelpreisschock bleiben fundamentale Belastungsfaktoren fuer Krypto, kein Uebertreibungs-Reflex zum Gegensteuern. Kapital bleibt geschuetzt, bis sich eine klarere, ueberzeugende Gelegenheit zeigt.",
     "positionIds": [
       "pos-0010"
     ],
@@ -3478,6 +3478,11 @@
       {
         "time": "04:08",
         "note": "Keine Aenderung - Boersen weiter geschlossen, NVDA unveraendert -5,11%, BTC/ETH im breiten Risk-off-Ausverkauf (Fed-Zinsangst, Anleihen-Rout) ohne ueberzeugende Krypto-Gelegenheit",
+        "portfolioValue": 948.89
+      },
+      {
+        "time": "05:08",
+        "note": "Keine Aenderung - Boersen weiter geschlossen, NVDA unveraendert -5,11%, BTC ~77.038 USD seitwaerts (-0,18%) im anhaltenden Fed-Zinsangst-Risk-off ohne ueberzeugende Krypto-Gelegenheit",
         "portfolioValue": 948.89
       }
     ]
