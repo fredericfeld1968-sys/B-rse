@@ -3447,9 +3447,9 @@
   },
   {
     "date": "2026-09-03",
-    "marketOverview": "Donnerstag 01:10 Uhr: US-Boersen weiter geschlossen (naechste Sitzung ab 15:30 MESZ). NVDA unveraendert bei 224,72 USD (-1,93%) auf dem Schlussstand der Dell-getriebenen Tech-Rally vom 02.09. Krypto weiter in Konsolidierung: BTC leicht auf ca. 78.240 USD gestiegen (+1,5% ggue. Vorstunde), SOL stabil bei ca. 99,86 USD - kein klarer neuer Katalysator, Markt bleibt vor moeglicher Fed-Zinsentscheidung zurueckhaltend.",
-    "decision": "Tagesbudget fuer den 03.09. bereits im ersten Lauf (00:10) gutgeschrieben. Kein Trade: NVDA-Position bei -1,93% weiter gehalten. Keine neue Position - Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten nicht handelbar, Krypto (BTC/SOL) zeigt trotz leichtem BTC-Anstieg keine wirklich ueberzeugende Gelegenheit.",
-    "reasoning": "NVDA wird unveraendert gehalten, keine neue Nachrichtenlage seit dem letzten Lauf. Boersen fuer Aktien/ETFs/Rohstoffe geschlossen. BTC legte leicht zu (~77.100 -> ~78.240 USD), SOL seitwaerts bei ~99,86 USD - beides ohne klaren Katalysator und damit keine ausreichend ueberzeugende Gelegenheit fuer eine spekulative Position, passend zur Vorgabe nur bei echter Ueberzeugung zu handeln.",
+    "marketOverview": "Donnerstag 02:10 Uhr: US-Boersen weiter geschlossen (naechste Sitzung ab 15:30 MESZ), NVDA unveraendert bei 224,72 USD (-1,93%). Bitcoin steady knapp ueber 78.000 USD nach dem starken August-Rallye (+24%), leichte Konsolidierung ohne klaren Katalysator; rund 48 Mio. USD BTC-Futures in den letzten 24h liquidiert. Solana seitwaerts bei ca. 99,86 USD. Markt richtet den Blick auf die Fed-Zinsentscheidung am 16.09. (erhoehte Hike-Wahrscheinlichkeit lt. CME FedWatch), was als Belastung fuer Risikoassets gilt.",
+    "decision": "Tagesbudget fuer den 03.09. bereits im ersten Lauf (00:10) gutgeschrieben. Kein Trade: NVDA-Position bei -1,93% weiter gehalten. Keine neue Position - Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten nicht handelbar, Krypto (BTC/SOL) zeigt weiterhin keine ueberzeugende Gelegenheit (BTC seitwaerts, erhoehtes Fed-Hike-Risiko als Belastung).",
+    "reasoning": "NVDA wird unveraendert gehalten, keine neue Nachrichtenlage seit dem letzten Lauf, Boersen fuer Aktien/ETFs/Rohstoffe geschlossen. BTC verharrt knapp ueber 78.000 USD ohne klaren Trigger, SOL seitwaerts bei ~99,86 USD; die erhoehte Wahrscheinlichkeit einer Fed-Zinsanhebung am 16.09. spricht eher gegen neue spekulative Risikopositionen im Kryptobereich. Damit keine ueberzeugende Gelegenheit, passend zur Vorgabe nur bei echter Ueberzeugung zu handeln.",
     "positionIds": [
       "pos-0010"
     ],
@@ -3463,6 +3463,11 @@
       {
         "time": "01:10",
         "note": "Keine Aenderung - Boersen geschlossen, NVDA unveraendert -1,93%, BTC leicht auf ~78.240 USD gestiegen aber keine ueberzeugende Krypto-Gelegenheit",
+        "portfolioValue": 980.67
+      },
+      {
+        "time": "02:10",
+        "note": "Keine Aenderung - Boersen geschlossen, NVDA unveraendert -1,93%, BTC/SOL seitwaerts ohne ueberzeugende Gelegenheit, Fed-Hike-Risiko am 16.09. belastet Kryptoausblick",
         "portfolioValue": 980.67
       }
     ]
