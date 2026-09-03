@@ -3447,13 +3447,13 @@
   },
   {
     "date": "2026-09-03",
-    "marketOverview": "Donnerstag 09:11 Uhr: Xetra hat um 09:00 MESZ eroeffnet - DAX-Werte (u.a. Rheinmetall) damit erstmals seit Wochenbeginn wieder handelbar, aber kein ueberzeugendes neues Setup erkennbar. NYSE/Nasdaq oeffnen erst um 15:30 MESZ. NVDA notiert vorboerslich unveraendert bei 217,44 USD (-5,11% seit Kauf); der Chipsektor bleibt unter Druck trotz Kursziel-Anhebungen einzelner Analysten auf 220+ USD. Kryptomarkt setzt den Risk-off fort (Bitcoin ~76.000-78.000 USD, Ethereum ~2.370-2.410 USD, Solana ~99 USD) im Zuge der eskalierenden US-Iran-Konfrontation (neue Luftschlaege, Vergeltungsdrohungen), hoher Oelpreise (Brent ~95,6 USD) und wachsender Erwartung einer Fed-Zinserhoehung Mitte September (10-Jahres-Rendite bei 4,82%, Mehrjahreshoch).",
-    "decision": "Tagesbudget fuer den 03.09. bereits im ersten Lauf (00:10) gutgeschrieben. Kein Trade: NVDA-Position wird weiter gehalten (Stop-Loss-Schwelle nicht erreicht, kein neuer fundamentaler Auslöser). Trotz Xetra-Eroeffnung keine neue Position - kein DAX-Titel zeigt eine ueberzeugende, spekulativ tragfaehige Sondersituation. Keine neue Krypto-Position, da der Ausverkauf (Iran-Eskalation, Fed-Zinsangst) ohne erkennbare Uebertreibung oder Bodenbildung weiterlaeuft.",
-    "reasoning": "NVDA bleibt bei 217,44 USD (-5,11%) im bekannten Rauschband, Nasdaq-Handel startet ohnehin erst 15:30 MESZ - kein Anlass fuer eine Entscheidung vor Handelsstart. Der DAX ist seit 09:00 MESZ handelbar, aber ohne eine klar erkennbare, stark abweichende Einzelchance (z.B. ueberzogener Abverkauf oder bestaetigter Ausbruch) waere ein Kauf reine Spekulation ohne Edge. Bitcoin/Ethereum/Solana setzen die moderate Abwaertsbewegung fort, getrieben von der US-Iran-Eskalation und steigender Fed-Hike-Wahrscheinlichkeit (~66% laut FedWatch) - ein Dip-Kauf waere verfrueht, solange keine Stabilisierung sichtbar ist. Freies Kapital bleibt geschuetzt (~28.960 EUR verfuegbar), bis sich eine wirklich ueberzeugende Gelegenheit zeigt.",
+    "marketOverview": "Donnerstag 10:10 Uhr: DAX notiert nach anfaenglichem 5-Wochen-Tief (25.728 Pkt.) bei rund 25.839-25.889 Punkten mit leicht positiver Vorboersen-Indikation; Rheinmetall erholt sich weiter auf ca. 1.093-1.094 EUR (+1,3-1,7%), aber ohne klar ueberzogene Sondersituation. NVDA notiert vorboerslich bei 219,07 USD (-4,39% seit Kauf, vorheriger Schluss 217,55 USD), Nasdaq-Handelsstart erst 15:30 MESZ. Fed-Vertreter Williams (NY Fed) sieht 'keine klaren Signale' fuer eine Septemberzinserhoehung, was Risikostimmung leicht stuetzt; ADP-Jobsdaten (+38.000, schwaechster Monat seit Januar) und weiter hohe Oelpreise (Brent ~95 USD) wegen der US-Iran-Eskalation daempfen dagegen. Kryptomarkt bleibt im Risk-off-Seitwaertstrend (Bitcoin ~77.000 USD, Solana ~100 USD) ohne erkennbare Bodenbildung.",
+    "decision": "Tagesbudget fuer den 03.09. bereits im ersten Lauf (00:10) gutgeschrieben. Kein Trade in diesem Lauf: NVDA-Position wird weiter gehalten (Stop-Loss-Schwelle nicht erreicht, leichte Erholung auf -4,39%). Trotz positiver Vorboersen-Indikation beim DAX und Rheinmetall-Erholung keine neue Position, da keine wirklich ueberzeugende, stark abweichende Einzelchance erkennbar ist. Keine neue Krypto-Position, da BTC/SOL weiter im Risk-off-Seitwaertstrend ohne Uebertreibung oder bestaetigte Bodenbildung verharren.",
+    "reasoning": "Die Datenlage seit dem letzten Lauf (09:11) hat sich nur graduell veraendert: NVDA leicht erholt auf 219,07 USD im Vorboersenhandel, aber Nasdaq oeffnet erst um 15:30 MESZ - kein Anlass fuer eine Entscheidung vor Handelsstart. DAX/Rheinmetall zeigen eine moderate technische Erholung nach dem 5-Wochen-Tief, aber ohne einen klar erkennbaren Ausloeser (ueberzogener Abverkauf oder bestaetigter Ausbruch), der einen spekulativen Einstieg rechtfertigen wuerde - Williams' entspannte Fed-Aussage stuetzt zwar die Risikostimmung leicht, reicht aber allein nicht als Kaufsignal. Bitcoin/Solana bleiben im Fed-Zinsangst- und Iran-Eskalations-Risk-off ohne Stabilisierungssignal. Freies Kapital bleibt geschuetzt (~29.460,66 EUR verfuegbar), bis sich eine wirklich ueberzeugende Gelegenheit zeigt.",
     "positionIds": [
       "pos-0010"
     ],
-    "portfolioValueEnd": 948.9,
+    "portfolioValueEnd": 956.11,
     "updates": [
       {
         "time": "00:10",
@@ -3504,6 +3504,11 @@
         "time": "09:11",
         "note": "Keine Aenderung - Xetra seit 09:00 MESZ offen, aber kein ueberzeugendes DAX-Setup; NVDA unveraendert -5,11% vor Nasdaq-Start (15:30), BTC/ETH/SOL im fortgesetzten Risk-off (Iran-Eskalation, Fed-Zinsangst) ohne Gelegenheit",
         "portfolioValue": 948.9
+      },
+      {
+        "time": "10:10",
+        "note": "Keine Aenderung - NVDA leicht erholt auf 219,07 USD (-4,39%, vorher -5,11%) im Vorboersenhandel, DAX/Rheinmetall moderate Erholung ohne ueberzeugendes Setup, BTC/SOL weiter im Risk-off-Seitwaertstrend ohne Gelegenheit",
+        "portfolioValue": 956.11
       }
     ]
   }
