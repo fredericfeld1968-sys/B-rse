@@ -3447,9 +3447,9 @@
   },
   {
     "date": "2026-09-03",
-    "marketOverview": "Donnerstag 11:09 Uhr: NVDA erholt sich weiter auf 224,72 USD (-1,93% seit Kauf, vorheriger Stand -4,39%), Nasdaq-Handelsstart erst 15:30 MESZ, US-Futures uneinheitlich (Nasdaq 100 leicht im Minus, Dow leicht im Plus) nach einer Erholung der US-Indizes am Vortag (S&P 500 und Nasdaq je +0,5%). DAX kaempft an der Nullinie (+0,1%), Rheinmetall bei ca. 1.094 EUR (+1,7% 24h) ohne klar ueberzogene Sondersituation. Bitcoin bei ~80.000 USD nahe Mehrmonatshoch, Solana bei ~103 USD leicht im Plus nach Ausbruch aus den 70er-Bereich Ende August - beide ohne eindeutig ueberzeugendes Kurzfrist-Setup.",
-    "decision": "Tagesbudget fuer den 03.09. bereits im ersten Lauf (00:10) gutgeschrieben. Kein Trade in diesem Lauf: NVDA-Position wird weiter gehalten (Stop-Loss-Schwelle nicht erreicht, Erholung auf -1,93%). Trotz insgesamt freundlicherer Stimmung (US-Erholung, Bitcoin nahe Mehrmonatshoch) keine neue Position, da kein Titel eine klare Sondersituation (Ueberreaktion oder bestaetigter Ausbruch) zeigt.",
-    "reasoning": "Seit dem letzten Lauf (10:10) hat sich NVDA weiter erholt (219,07 -> 224,72 USD), bleibt aber vor dem eigentlichen Nasdaq-Handelsstart um 15:30 MESZ ohne Handlungsbedarf. DAX und Rheinmetall zeigen nur eine moderate, bereits mehrfach beobachtete Erholung ohne neuen Katalysator. Bitcoin naehert sich mit ~80.000 USD einem Mehrmonatshoch, was fuer ein Momentum-Setup sprechen koennte, jedoch fehlt eine frische, unabhaengig bestaetigte Nachricht als Ausloeser - ein Kauf allein auf Basis der Naehe zu einer runden Marke waere spekulativ ohne klaren Edge. Freies Kapital bleibt geschuetzt (~28.960,66 EUR verfuegbar), bis sich eine wirklich ueberzeugende Gelegenheit zeigt.",
+    "marketOverview": "Donnerstag 12:09 Uhr: NVDA unveraendert bei 224,72 USD (-1,93% seit Kauf) vor Nasdaq-Start um 15:30 MESZ, US-Maerkte gestern mit Erholung (S&P 500 +0,46% auf 7.667, Dow +0,56%) trotz erhoehter geopolitischer Spannungen nach neuen US-Angriffen auf Iran-Ziele und Oelpreisen auf Mehrmonatshoch. 10-Jahres-Rendite bei Jahreshoch (~4,8%), Fed-Entscheidung am 15./16.09. mit ca. 70% Wahrscheinlichkeit fuer eine Zinserhoehung eingepreist. Rheinmetall bei 1.094,40 EUR (+1,71% 24h, aber -4,52% auf 7 Tage) ohne klare Sondersituation. Bitcoin auf ~77.100 USD leicht zurueckgekommen vom Mehrmonatshoch (~80.000), Solana bei ~100,59 USD seitwaerts - beide ohne ueberzeugendes Kurzfrist-Setup.",
+    "decision": "Tagesbudget fuer den 03.09. bereits im ersten Lauf (00:10) gutgeschrieben. Kein Trade in diesem Lauf: NVDA-Position wird weiter gehalten (Stop-Loss-Schwelle nicht erreicht, stabil bei -1,93%). Trotz leichter US-Erholung am Vortag bleibt das Umfeld durch hohe Anleiherenditen und Iran-Eskalation risikobehaftet; kein Titel zeigt eine klare Sondersituation (Ueberreaktion oder bestaetigter Ausbruch).",
+    "reasoning": "Seit dem letzten Lauf (11:09) ist NVDA stabil bei 224,72 USD (-1,93%) vor dem Nasdaq-Handelsstart um 15:30 MESZ. Rheinmetall und DAX zeigen keine neue Dynamik. Bitcoin hat sich von seinem Mehrmonatshoch (~80.000 USD) leicht auf ~77.100 USD zurueckgezogen - eher ein Warnsignal als eine Kaufgelegenheit, zumal die 10-Jahres-Rendite auf Jahreshoch (~4,8%) gestiegen ist und die Fed-Entscheidung am 15./16.09. mit Zinserhoehungsrisiko naht. Ohne frischen, unabhaengig bestaetigten Katalysator bleibt freies Kapital geschuetzt (~28.960,66 EUR verfuegbar), bis sich eine wirklich ueberzeugende Gelegenheit zeigt.",
     "positionIds": [
       "pos-0010"
     ],
@@ -3513,6 +3513,11 @@
       {
         "time": "11:09",
         "note": "Keine Aenderung - NVDA erholt auf -1,93% (vorher -4,39%), DAX/Rheinmetall moderate Erholung ohne Setup, Bitcoin nahe Mehrmonatshoch (~80.000 USD) aber ohne frischen Katalysator",
+        "portfolioValue": 980.67
+      },
+      {
+        "time": "12:09",
+        "note": "Keine Aenderung - NVDA stabil bei -1,93% vor Nasdaq-Start, Bitcoin von Mehrmonatshoch auf ~77.100 USD zurueckgekommen, Rheinmetall/DAX ohne neues Setup, US-Anleiherenditen auf Jahreshoch belasten Risikoappetit",
         "portfolioValue": 980.67
       }
     ]
