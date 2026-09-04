@@ -3579,13 +3579,14 @@
   },
   {
     "date": "2026-09-04",
-    "marketOverview": "Boersen (Aktien/ETFs/Rohstoffe) weiterhin geschlossen (Nacht auf Freitag). NVDA nachboerslich unveraendert bei 225,39 USD (-1,64%). Kryptomarkt uneinheitlich: Quellen zu BTC widersprechen sich stark (je nach Zeitpunkt/Anbieter zwischen ca. 77.000 und 81.700 USD), ETH ~2.386,77 USD (-1,0% 24h), SOL ~99,18 USD (-1,1% 24h), XRP ~1,34 USD (-1,5% 24h). Kein neuer, klar bestaetigter Katalysator seit dem letzten Lauf; naechster moeglicher Trigger fuer Kryptomarkt ist die erwartete CLARITY-Act-Abstimmung im Senat (Fenster 15.-18.09.).",
-    "decision": "Kein Trade in diesem Lauf (04:08). NVDA-Position unveraendert gehalten (-1,64%), kein Neueinstieg: Boersen fuer Aktien/ETFs/Rohstoffe geschlossen, und die BTC-Preisangaben verschiedener Quellen widersprechen sich zu stark fuer eine belastbare Handelsentscheidung; ETH/SOL/XRP weiterhin leicht im Minus (24h) ohne ueberzeugenden neuen Katalysator.",
-    "reasoning": "Handelszeiten schliessen Aktien/ETFs/Rohstoffe aus, daher waere nur Krypto moeglich. Die BTC-Kursangaben mehrerer Quellen (CoinDesk vs. Bybit vs. CNBC-Wochenrueckblick) weichen stark voneinander ab (77.000-81.700 USD) - keine verlaessliche Datenbasis fuer einen spekulativen Einstieg. ETH, SOL und XRP zeigen weiterhin negative 24h-Performance ohne frischen positiven Katalysator seit dem letzten Lauf (03:08). Daher keine neue Position eroeffnet.",
+    "marketOverview": "Boersen (Aktien/ETFs/Rohstoffe) weiterhin geschlossen (Nacht auf Freitag). NVDA nachboerslich leicht im Plus bei 229,62 USD (+0,21% seit Kauf). Kryptomarkt dreht in der Nacht klar ins Plus: BTC wieder ueber 77.500-80.800 USD (+ca. 4% 24h), ETH ~2.502,77 USD (+4,0%), SOL ~103,58 USD (+2,4%), XRP fuehrt mit ca. 1,34-1,44 USD (+3-5%) an. Laut CoinDesk sinkt die Fed-Zinserhoehungs-Wahrscheinlichkeit fuer die Sitzung am 15.09. von rund 70% auf 62% - dieser konkrete, namentlich benannte Ausloeser treibt die breite Erholung ueber alle Majors hinweg.",
+    "decision": "Neue spekulative Kurzfrist-Position in XRP (500 EUR) eroeffnet (05:08). NVDA-Position unveraendert gehalten (+0,21%). Aktien/ETFs/Rohstoffe weiterhin nicht handelbar (Boersen geschlossen), aber im Kryptomarkt lag erstmals seit mehreren Laeufen ein konkreter, mehrfach bestaetigter Katalysator mit klarer Bewegungsrichtung vor.",
+    "reasoning": "Anders als in den vorherigen Laeufen dieser Nacht (widerspruechliche BTC-Kursdaten ohne erkennbaren Ausloeser) zeigt sich jetzt ein breiter, mehrquellig bestaetigter Umschwung: BTC, ETH, SOL und XRP alle deutlich im 24h-Plus, mit einem konkret benannten fundamentalen Treiber (CoinDesk: Fed-Zinserhoehungs-Odds sinken von ~70% auf 62% vor der Sitzung am 15.09., XRP fuehrt die Bewegung an). Exakte Kursangaben schwanken weiterhin leicht zwischen Quellen (XRP 1,34-1,44 USD), aber Richtung und Ausloeser sind konsistent genug fuer eine spekulative, kurzfristige Momentum-Position passend zum Risikoprofil. Positionsgroesse bewusst moderat (500 EUR) angesichts der weiterhin nur maessig dovishen Odds (62% Hike-Wahrscheinlichkeit bleibt hoch) und der Kursunsicherheit zwischen Quellen. NVDA bleibt mit +0,21% nahezu unveraendert und wird ohne klares Signal gehalten.",
     "positionIds": [
-      "pos-0010"
+      "pos-0010",
+      "pos-0011"
     ],
-    "portfolioValueEnd": 983.59,
+    "portfolioValueEnd": 1502.05,
     "updates": [
       {
         "time": "00:09",
@@ -3611,6 +3612,11 @@
         "time": "04:08",
         "note": "Keine Aenderung - Boersen weiterhin geschlossen, NVDA unveraendert -1,64%. BTC-Kursangaben verschiedener Quellen widersprechen sich stark (77.000-81.700 USD), ETH/SOL/XRP weiterhin leicht im Minus (24h) ohne neuen Katalysator seit 03:08.",
         "portfolioValue": 983.59
+      },
+      {
+        "time": "05:08",
+        "note": "Kauf XRP 500 EUR (Krypto-Erleichterungsrally, Fed-Hike-Odds sinken auf 62% laut CoinDesk). NVDA unveraendert +0,21%.",
+        "portfolioValue": 1502.05
       }
     ]
   }
