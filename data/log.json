@@ -3579,9 +3579,9 @@
   },
   {
     "date": "2026-09-04",
-    "marketOverview": "US-Maerkte schlossen am Freitagnachmittag leicht schwaecher nach dem starken August-Jobsbericht (162.000 neue Stellen, Arbeitslosenquote unveraendert bei 4,1%): S&P 500 -0,34% auf 7.721,21, Dow -0,50%, Nasdaq -0,30%. NVDA notiert unveraendert bei 231,11 USD (+0,86% seit Kauf). Der Kryptomarkt bleibt in breiter Erleichterungsrally (Gesamtmarkt +5%, BTC ueber 80.800 USD, ETH ueber 2.499 USD); XRP haelt sich bei 1,45-1,46 USD (+5,84% seit Kauf) knapp unter der Widerstandszone 1,50-1,53 USD - noch kein bestaetigter Ausbruch.",
-    "decision": "Weiterhin keine neue Position eroeffnet und keine bestehende verkauft. NVDA und XRP bewegen sich seit dem letzten Lauf (20:08) praktisch unveraendert und erreichen keinen neuen Handlungspunkt; beide Positionen werden unveraendert gehalten.",
-    "reasoning": "Seit dem 20:08-Lauf keine neuen Kursbewegungen bei NVDA (231,11 USD, +0,86%) oder XRP (1,45 USD, +5,84%) - beide liegen weiterhin unterhalb etablierter Gewinnmitnahme-Schwellen bzw. zeigen keinen Bruch einer relevanten Marke. XRP testet die Widerstandszone 1,50-1,53 USD, hat sie aber noch nicht nachhaltig durchbrochen (Liquidationscluster laut Analysten genau in dieser Zone). Die Recherche liefert keinen neuen, eigenstaendig ueberzeugenden Katalysator seit dem letzten Lauf. Freies Kapital (rund 29.461 EUR) waere fuer eine neue Position ausreichend, aber es wird konsequent nicht um des Handelns willen gehandelt.",
+    "marketOverview": "US-Maerkte schlossen den Handelstag letztlich fester (S&P 500 +1,1% auf 7.747,71, Dow +1,2% auf 53.686,11, Nasdaq +1,4% auf 26.584,06), getragen von starker Tech-Performance nach dem gemischten aber insgesamt as-erwartet ausgefallenen August-Jobsbericht. NVDA schloss bei 231,11 USD (+0,86% seit Kauf), die Hugging-Face-Uebernahme (12,9 Mrd. USD) ist bereits eingepreist. Der Kryptomarkt bleibt in breiter Erleichterungsrally (BTC ca. 79.900-80.800 USD, Privacy-Coins wie Zcash/Dash mit Extremrallys von +16-20% als Ausreisser); XRP haelt sich bei 1,45 USD (+5,84% seit Kauf) weiterhin knapp unter der wichtigen Widerstandszone 1,50-1,53 USD, noch kein bestaetigter Ausbruch.",
+    "decision": "Weiterhin keine neue Position eroeffnet und keine bestehende verkauft. NVDA und XRP bewegen sich seit dem letzten Lauf (21:09) unveraendert und erreichen keinen neuen Handlungspunkt; beide Positionen werden unveraendert gehalten.",
+    "reasoning": "Seit dem 21:09-Lauf keine neuen Kursbewegungen bei NVDA (231,11 USD, +0,86%) oder XRP (1,45 USD, +5,84%) - beide liegen weiterhin unterhalb etablierter Gewinnmitnahme-Schwellen bzw. zeigen keinen Bruch einer relevanten Marke. XRP testet weiterhin die Widerstandszone 1,50-1,53 USD ohne nachhaltigen Durchbruch (naechster Katalysator: CLARITY-Act-Abstimmung im Senat am 15.09.). Die Extremrallys bei Privacy-Coins (Zcash +20%, Dash +19%) sind bereits weit gelaufen und werden als verspaetete, ueberhitzte Bewegung bewusst nicht mehr verfolgt (Grundsatz: fruehzeitig einsteigen, nicht am Top hinterherlaufen). Freies Kapital (rund 29.461 EUR) waere fuer eine neue Position ausreichend, aber es wird konsequent nicht um des Handelns willen gehandelt.",
     "positionIds": [
       "pos-0010",
       "pos-0011"
@@ -3696,6 +3696,11 @@
       {
         "time": "21:09",
         "note": "Keine Aenderung - NVDA/XRP identisch zum 20:08-Lauf (231,11 USD / 1,45 USD), kein neuer Katalysator; XRP-Widerstand 1,50-1,53 USD weiterhin nicht durchbrochen.",
+        "portfolioValue": 1537.75
+      },
+      {
+        "time": "22:09",
+        "note": "Keine Aenderung - NVDA/XRP identisch zum 21:09-Lauf (231,11 USD / 1,45 USD). US-Indizes schlossen final fester (S&P +1,1%), XRP-Widerstand 1,50-1,53 USD weiterhin nicht durchbrochen. Privacy-Coin-Rally (Zcash +20%) bereits zu weit gelaufen fuer einen Einstieg.",
         "portfolioValue": 1537.75
       }
     ]
