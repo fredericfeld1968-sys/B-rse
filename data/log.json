@@ -3579,14 +3579,14 @@
   },
   {
     "date": "2026-09-04",
-    "marketOverview": "Boersen (Aktien/ETFs/Rohstoffe) weiterhin geschlossen (Nacht auf Freitag). NVDA nachboerslich leicht im Plus bei 229,62 USD (+0,21% seit Kauf). Kryptomarkt dreht in der Nacht klar ins Plus: BTC wieder ueber 77.500-80.800 USD (+ca. 4% 24h), ETH ~2.502,77 USD (+4,0%), SOL ~103,58 USD (+2,4%), XRP fuehrt mit ca. 1,34-1,44 USD (+3-5%) an. Laut CoinDesk sinkt die Fed-Zinserhoehungs-Wahrscheinlichkeit fuer die Sitzung am 15.09. von rund 70% auf 62% - dieser konkrete, namentlich benannte Ausloeser treibt die breite Erholung ueber alle Majors hinweg.",
-    "decision": "Neue spekulative Kurzfrist-Position in XRP (500 EUR) eroeffnet (05:08). NVDA-Position unveraendert gehalten (+0,21%). Aktien/ETFs/Rohstoffe weiterhin nicht handelbar (Boersen geschlossen), aber im Kryptomarkt lag erstmals seit mehreren Laeufen ein konkreter, mehrfach bestaetigter Katalysator mit klarer Bewegungsrichtung vor.",
-    "reasoning": "Anders als in den vorherigen Laeufen dieser Nacht (widerspruechliche BTC-Kursdaten ohne erkennbaren Ausloeser) zeigt sich jetzt ein breiter, mehrquellig bestaetigter Umschwung: BTC, ETH, SOL und XRP alle deutlich im 24h-Plus, mit einem konkret benannten fundamentalen Treiber (CoinDesk: Fed-Zinserhoehungs-Odds sinken von ~70% auf 62% vor der Sitzung am 15.09., XRP fuehrt die Bewegung an). Exakte Kursangaben schwanken weiterhin leicht zwischen Quellen (XRP 1,34-1,44 USD), aber Richtung und Ausloeser sind konsistent genug fuer eine spekulative, kurzfristige Momentum-Position passend zum Risikoprofil. Positionsgroesse bewusst moderat (500 EUR) angesichts der weiterhin nur maessig dovishen Odds (62% Hike-Wahrscheinlichkeit bleibt hoch) und der Kursunsicherheit zwischen Quellen. NVDA bleibt mit +0,21% nahezu unveraendert und wird ohne klares Signal gehalten.",
+    "marketOverview": "Boersen (Aktien/ETFs/Rohstoffe) weiterhin geschlossen (Nacht auf Freitag, Europa oeffnet erst 09:00). NVDA schloss den regulaeren US-Handel bei 225,76 USD, nachboerslich leicht schwaecher bei 225,39 USD (-1,64% seit Kauf). Kryptomarkt bleibt in der Fed-getriebenen Erleichterungsrally: BTC ueber 80.800 USD (+3,86% 24h) auf sinkende Zinserwartungen und schwaecheren Dollar, XRP stabil bei ca. 1,37 USD (weiterhin gestuetzt durch die auf 62% gesunkenen Fed-Hike-Odds fuer die Sitzung am 15.09.). Kein neuer, ueber die 05:08-Position hinausgehender Katalysator erkennbar.",
+    "decision": "Keine neue Position eroeffnet. Die bereits um 05:08 eroeffnete XRP-Position (500 EUR) und NVDA werden unveraendert gehalten - die fortgesetzte Krypto-Staerke (BTC +3,86%) ist dieselbe Fed-Story wie beim XRP-Kauf, kein zusaetzliches eigenstaendiges Signal. Aktien/ETFs/Rohstoffe weiterhin nicht handelbar.",
+    "reasoning": "Um 06:08 hat sich am Kryptomarkt nichts grundlegend Neues gegenueber dem 05:08-Lauf ergeben: XRP notiert praktisch unveraendert bei 1,37 USD (Einstandskurs), BTC's Anstieg auf ueber 80.800 USD ist Fortsetzung derselben Fed-Zinssenkungs-Fantasie, die bereits die XRP-Position begruendet hat - kein unabhaengiger neuer Kaufanlass. NVDA schloss reguleaer bei 225,76 USD (-1,64% seit Kauf); ohne fundamentale Neuigkeit wird nach dem etablierten Muster (kein Verkauf ohne klaren Auslöser bei moderatem Verlust) weiter gehalten. Passend zur Anweisung, nur bei wirklich ueberzeugender Gelegenheit zu handeln, bleibt das Depot in diesem Lauf unveraendert.",
     "positionIds": [
       "pos-0010",
       "pos-0011"
     ],
-    "portfolioValueEnd": 1502.05,
+    "portfolioValueEnd": 1483.59,
     "updates": [
       {
         "time": "00:09",
@@ -3617,6 +3617,11 @@
         "time": "05:08",
         "note": "Kauf XRP 500 EUR (Krypto-Erleichterungsrally, Fed-Hike-Odds sinken auf 62% laut CoinDesk). NVDA unveraendert +0,21%.",
         "portfolioValue": 1502.05
+      },
+      {
+        "time": "06:08",
+        "note": "Keine Aenderung - XRP unveraendert bei Einstandskurs (1,37 USD), BTC-Anstieg (+3,86%) ist dieselbe Fed-Story wie beim 05:08-Kauf, kein neuer Katalysator. NVDA schloss regulaer bei 225,76 USD (-1,64%), Boersen fuer Aktien/ETFs/Rohstoffe weiterhin geschlossen.",
+        "portfolioValue": 1483.59
       }
     ]
   }
