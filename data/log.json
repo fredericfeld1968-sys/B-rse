@@ -3579,14 +3579,14 @@
   },
   {
     "date": "2026-09-04",
-    "marketOverview": "Europaeische Boersen (Stoxx 600) notieren seit Handelsstart leicht im Minus (~-0,18%), Chemiewerte fuehren die Verluste an; US-Futures gemischt (Dow -0,08%, S&P +0,08%, Nasdaq-100 +0,48%). Der entscheidende Katalysator des Tages, der US-Arbeitsmarktbericht fuer August (erwartet +53.000 Stellen), wird erst um 14:30 MESZ veroeffentlicht - die Fed-Zinserhoehungswahrscheinlichkeit fuer September ist zuletzt auf ca. 50-54% gefallen (Waller signalisiert Bereitschaft zur Zinspause). Oelpreis (WTI) leicht hoeher bei 91,93 USD, europ. Erdgas (TTF) nahe 3-Jahres-Hoch ueber 73 EUR/MWh. NVDA notiert bei 227,35 USD (-0,79% seit Kauf, praktisch am Einstand) vor US-Marktoeffnung um 15:30 MESZ. XRP bei 1,45 USD (+5,84% seit Kauf) nach einem Ausbruch ueber eine mehrtaegige Abwaertstrendlinie, aber weiterhin unterhalb des etablierten Gewinnmitnahme-Zielbereichs von 7-8%.",
-    "decision": "Weiterhin keine neue Position eroeffnet und keine bestehende verkauft. NVDA (-0,79%) und XRP (+5,84%) werden gehalten. Der entscheidende Katalysator (Payrolls-Bericht) steht erst um 14:30 MESZ an, die US-Boerse oeffnet erst um 15:30 MESZ - bis dahin kein eigenstaendiger Handlungsgrund.",
-    "reasoning": "NVDA hat sich leicht auf -0,79% erholt (227,35 vs. 229,15 USD Einstand), bleibt aber ohne Katalysator vor der US-Marktoeffnung - kein Handlungsdruck. XRP ist auf 1,45 USD gestiegen (+5,84%) nach einem technischen Ausbruch, hat den etablierten Ziel-Korridor von 7-8% aber noch nicht erreicht, daher weiterhin kein Verkauf. Europaeische Boersen sind zwar geoeffnet, zeigen aber nur leichte, wenig ueberzeugende Bewegungen (Stoxx -0,18%). Der Payrolls-Bericht um 14:30 MESZ und die US-Marktoeffnung um 15:30 MESZ sind die naechsten massgeblichen Katalysatoren; bis dahin wird das reichlich vorhandene freie Kapital geschont und auf spekulative Neupositionen verzichtet.",
+    "marketOverview": "US-Vorboerse ruhig vor dem August-Arbeitsmarktbericht (14:30 MESZ, erwartet +53.000 Stellen, Arbeitslosenquote 4,1%) - der Wall Street gestern noch ein starker Tag (S&P 500 +1,06% auf 7.747,71, Nasdaq +1,4%, Dow +1,18%). Europaeische Boersen leicht im Minus, US-Futures gemischt. NVDA vorboerslich bei ca. 226,03 USD (-1,36% seit Kauf), XRP bei 1,46 USD (+6,57% seit Kauf, naehert sich dem etablierten Zielbereich von 7-8%). US-Kassamarkt oeffnet erst um 15:30 MESZ - bis zum Payrolls-Bericht kein neuer eigenstaendiger Handlungsgrund.",
+    "decision": "Weiterhin keine neue Position eroeffnet und keine bestehende verkauft. NVDA (-1,36%) und XRP (+6,57%, noch unter dem 7-8%-Zielbereich) werden gehalten. Der entscheidende Katalysator (Payrolls-Bericht) steht erst um 14:30 MESZ an, die US-Boerse oeffnet erst um 15:30 MESZ - bis dahin kein Handlungsgrund.",
+    "reasoning": "NVDA notiert vorboerslich leicht schwaecher (226,03 vs. 229,15 USD Einstand, -1,36%), ohne neuen Katalysator vor der US-Marktoeffnung - kein Handlungsdruck bei so geringem Ausschlag. XRP ist auf 1,46 USD gestiegen (+6,57%), naehert sich dem etablierten Ziel-Korridor von 7-8%, hat ihn aber noch nicht erreicht, daher weiterhin kein Verkauf. Der Payrolls-Bericht um 14:30 MESZ und die US-Marktoeffnung um 15:30 MESZ sind die naechsten massgeblichen Katalysatoren; bis dahin wird das reichlich vorhandene freie Kapital geschont und auf spekulative Neupositionen verzichtet.",
     "positionIds": [
       "pos-0010",
       "pos-0011"
     ],
-    "portfolioValueEnd": 1521.34,
+    "portfolioValueEnd": 1519.23,
     "updates": [
       {
         "time": "00:09",
@@ -3647,6 +3647,11 @@
         "time": "11:09",
         "note": "Keine Aenderung - Europ. Boersen leicht im Minus (Stoxx -0,18%), US-Futures gemischt, Payrolls-Bericht erst um 14:30 MESZ. NVDA erholt auf -0,79% (227,35 USD), XRP nach technischem Ausbruch auf +5,84% (1,45 USD) gestiegen, Zielbereich 7-8% weiterhin nicht erreicht.",
         "portfolioValue": 1521.34
+      },
+      {
+        "time": "12:09",
+        "note": "Keine Aenderung - NVDA vorboerslich -1,36%, XRP +6,57% (naehert sich Zielbereich) gehalten, Payrolls-Bericht um 14:30 MESZ abgewartet",
+        "portfolioValue": 1519.23
       }
     ]
   }
