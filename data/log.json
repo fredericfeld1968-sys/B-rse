@@ -3579,14 +3579,14 @@
   },
   {
     "date": "2026-09-04",
-    "marketOverview": "US-Arbeitsmarktbericht fuer August (14:30 MESZ) fiel mit +162.000 Stellen deutlich staerker aus als die Erwartung von +53.000, Arbeitslosenquote stabil bei 4,1%. Nach kurzzeitiger Sorge vor einer restriktiveren Fed dämpfte eine zurueckhaltende Aeusserung von Fed-Gouverneur Waller (Praeferenz fuer unveraenderte Zinsen im September) die Reaktion; Renditen gaben nach, Aktien-Futures drehten insgesamt leicht positiv vor der US-Kassaeroeffnung um 15:30 MESZ. NVDA notiert vorboerslich mit leichtem Aufschlag bei ca. 232,50 USD (+1,46% seit Kauf), gestuetzt von generell freundlicher Tech-Stimmung. XRP haelt sich stabil bei ca. 1,45 USD (+5,84% seit Kauf), noch unterhalb der etablierten 7-8%-Zielspanne.",
-    "decision": "Weiterhin keine neue Position eroeffnet und keine bestehende verkauft. US-Kassamarkt fuer Aktien/ETFs/Rohstoffe war zum Zeitpunkt dieses Laufs noch nicht offen (Eroeffnung 15:30 MESZ); der Payrolls-Ueberraschungsschub ist bereits grossteils in die Futures eingepreist und bietet keine neue, eigenstaendig ueberzeugende Krypto-Gelegenheit. NVDA (+1,46%) und XRP (+5,84%) bleiben unterhalb ihrer jeweiligen Ziel-/Handlungsschwellen.",
-    "reasoning": "Der Jobs-Report kam deutlich staerker als erwartet (162k vs. 53k), was kurzfristig Zinssorgen ausloeste, aber durch dovishe Aeusserungen von Fed-Gouverneur Waller neutralisiert wurde - insgesamt ein bereits von den Maerkten verarbeitetes Ereignis ohne klaren neuen Handlungsimpuls fuer eine zusaetzliche spekulative Position. Da die US-Boerse fuer Aktien/ETFs/Rohstoffe erst um 15:30 MESZ oeffnet, waeren ohnehin nur Krypto-Trades moeglich; hierfuer liegt aber kein wirklich ueberzeugender, neuer Katalysator vor. Bestehende Positionen bleiben unveraendert gehalten.",
+    "marketOverview": "US-Kassamarkt oeffnete um 15:30 MESZ gemischt/leicht negativ nach dem starken Jobs-Bericht (+162k vs. +53k erwartet): Dow -0,4%, S&P 500 -0,2%, Nasdaq nahezu unveraendert, da hoehere Fed-Hike-Wahrscheinlichkeiten (58% laut CME FedWatch) die dovishen Waller-Aeusserungen teilweise wieder aufwiegen. NVDA notiert nahe Einstand bei ca. 229,50 USD (+0,15% seit Kauf). Der Kryptomarkt bleibt derweil in einer breiten Erleichterungsrally (Gesamtmarkt +4,7%, BTC ueber 81.000 USD): XRP fuehrt mit +7,52% (Tagesbasis) die Bewegung an und notiert bei ca. 1,4513 USD (+5,93% seit Kauf), damit weiterhin knapp unter der etablierten 7-8%-Zielspanne.",
+    "decision": "Weiterhin keine neue Position eroeffnet und keine bestehende verkauft. Der US-Aktienmarkt reagiert nach Kasseroeffnung gemischt/leicht negativ auf den Jobs-Bericht (hoehere Fed-Hike-Odds), was keinen ueberzeugenden Einstiegs- oder Ausstiegsanlass fuer NVDA liefert. XRP bleibt trotz starker Tagesperformance (+5,93% seit Kauf) unterhalb der etablierten Ziel-/Handlungsschwelle von 7-8% und wird weiter gehalten.",
+    "reasoning": "Der Jobs-Report loeste an der US-Boerse eine gemischte/leicht negative Reaktion aus (Dow -0,4%, S&P -0,2%), da die Fed-Hike-Wahrscheinlichkeit fuer September auf 58% gestiegen ist - kein klarer Handlungsimpuls fuer NVDA, das nahe seinem Einstandskurs verharrt. Der Kryptomarkt bleibt zwar in einer breiten, mehrfach bestaetigten Rally (Fed-Governor Waller dovish, ca. 415 Mio. USD Short-Liquidationen, starke ETF-Zufluesse bei BTC), doch die bestehende XRP-Position ist bereits investiert und noch nicht in der etablierten Gewinnmitnahme-Zone (7-8%). Freies Kapital (rund 29.461 EUR) waere ausreichend fuer eine neue Position, aber es liegt kein neuer, eigenstaendig ueberzeugender Katalysator fuer einen zusaetzlichen Kauf vor - bestehende Positionen werden konsequent gehalten.",
     "positionIds": [
       "pos-0010",
       "pos-0011"
     ],
-    "portfolioValueEnd": 1543.82,
+    "portfolioValueEnd": 1531.2,
     "updates": [
       {
         "time": "00:09",
@@ -3667,6 +3667,11 @@
         "time": "15:17",
         "note": "Keine Aenderung - Payrolls-Ueberraschung (+162k vs +53k erwartet) bereits eingepreist, Fed-Gouverneur Waller dovish, US-Kassamarkt oeffnet erst um 15:30 MESZ. NVDA +1,46%, XRP +5,84% gehalten, kein ueberzeugender neuer Krypto-Katalysator.",
         "portfolioValue": 1543.82
+      },
+      {
+        "time": "16:11",
+        "note": "Keine Aenderung - US-Kassamarkt seit 15:30 MESZ gemischt/leicht negativ (Dow -0,4%, S&P -0,2%) nach Jobs-Bericht, hoehere Fed-Hike-Odds (58%). NVDA nahe Einstand (+0,15%), XRP bei +5,93% weiterhin unter der 7-8%-Zielspanne, kein neuer Katalysator seit 15:17.",
+        "portfolioValue": 1531.2
       }
     ]
   }
