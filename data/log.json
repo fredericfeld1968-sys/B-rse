@@ -3579,14 +3579,14 @@
   },
   {
     "date": "2026-09-04",
-    "marketOverview": "US-Kassamarkt oeffnete um 15:30 MESZ gemischt/leicht negativ nach dem starken Jobs-Bericht (+162k vs. +53k erwartet): Dow -0,4%, S&P 500 -0,2%, Nasdaq nahezu unveraendert, da hoehere Fed-Hike-Wahrscheinlichkeiten (58% laut CME FedWatch) die dovishen Waller-Aeusserungen teilweise wieder aufwiegen. NVDA notiert nahe Einstand bei ca. 229,50 USD (+0,15% seit Kauf). Der Kryptomarkt bleibt derweil in einer breiten Erleichterungsrally (Gesamtmarkt +4,7%, BTC ueber 81.000 USD): XRP fuehrt mit +7,52% (Tagesbasis) die Bewegung an und notiert bei ca. 1,4513 USD (+5,93% seit Kauf), damit weiterhin knapp unter der etablierten 7-8%-Zielspanne.",
-    "decision": "Weiterhin keine neue Position eroeffnet und keine bestehende verkauft. Der US-Aktienmarkt reagiert nach Kasseroeffnung gemischt/leicht negativ auf den Jobs-Bericht (hoehere Fed-Hike-Odds), was keinen ueberzeugenden Einstiegs- oder Ausstiegsanlass fuer NVDA liefert. XRP bleibt trotz starker Tagesperformance (+5,93% seit Kauf) unterhalb der etablierten Ziel-/Handlungsschwelle von 7-8% und wird weiter gehalten.",
-    "reasoning": "Der Jobs-Report loeste an der US-Boerse eine gemischte/leicht negative Reaktion aus (Dow -0,4%, S&P -0,2%), da die Fed-Hike-Wahrscheinlichkeit fuer September auf 58% gestiegen ist - kein klarer Handlungsimpuls fuer NVDA, das nahe seinem Einstandskurs verharrt. Der Kryptomarkt bleibt zwar in einer breiten, mehrfach bestaetigten Rally (Fed-Governor Waller dovish, ca. 415 Mio. USD Short-Liquidationen, starke ETF-Zufluesse bei BTC), doch die bestehende XRP-Position ist bereits investiert und noch nicht in der etablierten Gewinnmitnahme-Zone (7-8%). Freies Kapital (rund 29.461 EUR) waere ausreichend fuer eine neue Position, aber es liegt kein neuer, eigenstaendig ueberzeugender Katalysator fuer einen zusaetzlichen Kauf vor - bestehende Positionen werden konsequent gehalten.",
+    "marketOverview": "US-Kassamarkt notiert am Nachmittag leicht erholt: NVDA profitiert weiter von der am Vortag bestaetigten Hugging-Face-Uebernahme (~12,93 Mrd. USD) und steht bei ca. 231,50 USD (+1,03% seit Kauf), der breite Markt bleibt nach dem starken Jobs-Bericht (+162k vs. +53k erwartet, Fed-Hike-Odds ~58-60%) aber uneinheitlich. Der Kryptomarkt (Gesamtmarkt +4,7%) bleibt in der Erleichterungsrally: BTC ueber 81.000 USD, XRP bei ca. 1,452 USD (+5,99% seit Kauf) weiterhin knapp unter der etablierten 7-8%-Zielspanne.",
+    "decision": "Weiterhin keine neue Position eroeffnet und keine bestehende verkauft. NVDA bewegt sich mit dem Gesamtmarkt seitwaerts ohne neuen eigenstaendigen Kaufimpuls seit der bereits eingepreisten Hugging-Face-Meldung. XRP bleibt trotz solider Tagesperformance (+5,99% seit Kauf) knapp unter der etablierten Ziel-/Handlungsschwelle von 7-8% und wird weiter gehalten.",
+    "reasoning": "Keine der beiden offenen Positionen erreicht einen klaren Handlungspunkt: NVDA (+1,03%) bleibt im Rahmen der ueblichen Tagesschwankung, die Hugging-Face-Uebernahme ist bereits am Vortag bekannt geworden und im Kurs verarbeitet - kein frischer Katalysator seit dem letzten Lauf. XRP (+5,99%) naehert sich der etablierten Gewinnmitnahme-Zone (7-8%, analog AMD, SpaceX, Solana, Palantir), hat sie aber noch nicht erreicht. Freies Kapital (rund 29.461 EUR) waere fuer eine neue Position ausreichend, es liegt jedoch kein neuer, eigenstaendig ueberzeugender Katalysator vor - bestehende Positionen werden konsequent gehalten, kein Handeln um des Handelns willen.",
     "positionIds": [
       "pos-0010",
       "pos-0011"
     ],
-    "portfolioValueEnd": 1531.2,
+    "portfolioValueEnd": 1540.19,
     "updates": [
       {
         "time": "00:09",
@@ -3672,6 +3672,11 @@
         "time": "16:11",
         "note": "Keine Aenderung - US-Kassamarkt seit 15:30 MESZ gemischt/leicht negativ (Dow -0,4%, S&P -0,2%) nach Jobs-Bericht, hoehere Fed-Hike-Odds (58%). NVDA nahe Einstand (+0,15%), XRP bei +5,93% weiterhin unter der 7-8%-Zielspanne, kein neuer Katalysator seit 15:17.",
         "portfolioValue": 1531.2
+      },
+      {
+        "time": "17:13",
+        "note": "Keine Aenderung - NVDA leicht auf +1,03% gestiegen (Hugging-Face-Deal bereits eingepreist), XRP bei +5,99% weiterhin knapp unter der 7-8%-Zielspanne, kein neuer Katalysator seit 16:11.",
+        "portfolioValue": 1540.19
       }
     ]
   }
