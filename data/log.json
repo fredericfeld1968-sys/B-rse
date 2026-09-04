@@ -3579,9 +3579,9 @@
   },
   {
     "date": "2026-09-04",
-    "marketOverview": "Boersen (Aktien/ETFs/Rohstoffe) weiterhin geschlossen (Nacht auf Freitag). NVDA nachboerslich unveraendert bei 225,39 USD (-1,64%, nach NVIDIA-Uebernahme von Hugging Face fuer 12,93 Mrd. USD gestern positiv aufgenommen). Bitcoin schwankt je nach Quelle zwischen 77.000 und 81.000 USD, weiterhin ohne klaren neuen Katalysator seit 01:10. SOL (~104 USD, +3,6%), ETH (~2.507 USD, +4,9%) und XRP (~1,45 USD, +7,4%) zeigen positive 24h-Bewegung, aber die XRP-Story (Flash-Crash-Liquidation) stammt noch vom 22.08. und ist kein frischer Katalysator.",
-    "decision": "Kein Trade in diesem Lauf (02:09). NVDA-Position unveraendert gehalten (-1,64%), kein Neueinstieg: Krypto-Kursbewegungen (SOL/ETH/XRP im Plus) beruhen auf aelteren, bereits eingepreisten Nachrichten - keine ueberzeugende frische Gelegenheit seit dem letzten Lauf.",
-    "reasoning": "Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten weiterhin nicht handelbar, nur Krypto grundsaetzlich moeglich. Die positiven 24h-Prozentzahlen bei SOL/ETH/XRP spiegeln bereits gelaufene Bewegungen wider (u.a. XRP-Erholung nach dem Flash-Crash vom 22.08.), kein neuer eigenstaendiger Kurstreiber seit 01:10. Bitcoin-Kurs uneinheitlich zwischen Quellen (77.000-81.000 USD) und ohne frischen Katalysator. Keine ueberzeugende Gelegenheit identifiziert, daher keine neue Position.",
+    "marketOverview": "Boersen (Aktien/ETFs/Rohstoffe) weiterhin geschlossen (Nacht auf Freitag). NVDA nachboerslich praktisch unveraendert bei 225,39 USD (-1,64%). Kryptomarkt insgesamt schwach: BTC bei ca. 80.974 USD (Stand Vortag), ETH ~2.386,77 USD (-1,0% 24h), SOL ~99,18 USD (-1,1% 24h), XRP ~1,34 USD (-1,5% 24h) - alle Top-Alts im Minus, Marktsentiment eher bearish (Prognosemaerkte sehen erhoehte Wahrscheinlichkeit fuer weitere Ruecksetzer bei ETH/SOL/XRP bis Jahresende), zudem Netto-Abfluesse aus XRP- und SOL-ETFs.",
+    "decision": "Kein Trade in diesem Lauf (03:08). NVDA-Position unveraendert gehalten (-1,64%), kein Neueinstieg: Boersen fuer Aktien/ETFs/Rohstoffe geschlossen, und der Kryptomarkt zeigt aktuell durchgehend negative 24h-Bewegungen ohne ueberzeugenden neuen Katalysator - keine gute Kaufgelegenheit erkennbar.",
+    "reasoning": "Handelszeiten schliessen Aktien/ETFs/Rohstoffe aus, daher waere nur Krypto moeglich. ETH, SOL und XRP notieren jedoch alle mit negativer 24h-Performance und Prognosemaerkte signalisieren erhoehtes Abwaertsrisiko bis Jahresende; zusaetzlich Netto-Abfluesse aus XRP-/SOL-ETFs. Kein frischer positiver Katalysator seit dem letzten Lauf (02:09) erkennbar, daher keine neue Position eroeffnet.",
     "positionIds": [
       "pos-0010"
     ],
@@ -3600,6 +3600,11 @@
       {
         "time": "02:09",
         "note": "Keine Aenderung - Boersen weiterhin geschlossen, NVDA unveraendert -1,64%. Krypto-Bewegungen (SOL +3,6%, ETH +4,9%, XRP +7,4%) beruhen auf bereits gelaufenen/aelteren Nachrichten, kein frischer Katalysator seit 01:10.",
+        "portfolioValue": 983.59
+      },
+      {
+        "time": "03:08",
+        "note": "Keine Aenderung - Boersen weiterhin geschlossen, NVDA unveraendert -1,64%. Kryptomarkt insgesamt schwach (ETH/SOL/XRP alle -1 bis -1,5% 24h, bearishe Prognosemarkt-Signale, ETF-Abfluesse), kein ueberzeugender Katalysator seit 02:09.",
         "portfolioValue": 983.59
       }
     ]
