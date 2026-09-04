@@ -3579,9 +3579,9 @@
   },
   {
     "date": "2026-09-04",
-    "marketOverview": "Boersen (Aktien/ETFs/Rohstoffe) weiterhin geschlossen (Nacht auf Freitag). NVDA nachboerslich praktisch unveraendert bei 225,39 USD (-1,64%). Kryptomarkt insgesamt schwach: BTC bei ca. 80.974 USD (Stand Vortag), ETH ~2.386,77 USD (-1,0% 24h), SOL ~99,18 USD (-1,1% 24h), XRP ~1,34 USD (-1,5% 24h) - alle Top-Alts im Minus, Marktsentiment eher bearish (Prognosemaerkte sehen erhoehte Wahrscheinlichkeit fuer weitere Ruecksetzer bei ETH/SOL/XRP bis Jahresende), zudem Netto-Abfluesse aus XRP- und SOL-ETFs.",
-    "decision": "Kein Trade in diesem Lauf (03:08). NVDA-Position unveraendert gehalten (-1,64%), kein Neueinstieg: Boersen fuer Aktien/ETFs/Rohstoffe geschlossen, und der Kryptomarkt zeigt aktuell durchgehend negative 24h-Bewegungen ohne ueberzeugenden neuen Katalysator - keine gute Kaufgelegenheit erkennbar.",
-    "reasoning": "Handelszeiten schliessen Aktien/ETFs/Rohstoffe aus, daher waere nur Krypto moeglich. ETH, SOL und XRP notieren jedoch alle mit negativer 24h-Performance und Prognosemaerkte signalisieren erhoehtes Abwaertsrisiko bis Jahresende; zusaetzlich Netto-Abfluesse aus XRP-/SOL-ETFs. Kein frischer positiver Katalysator seit dem letzten Lauf (02:09) erkennbar, daher keine neue Position eroeffnet.",
+    "marketOverview": "Boersen (Aktien/ETFs/Rohstoffe) weiterhin geschlossen (Nacht auf Freitag). NVDA nachboerslich unveraendert bei 225,39 USD (-1,64%). Kryptomarkt uneinheitlich: Quellen zu BTC widersprechen sich stark (je nach Zeitpunkt/Anbieter zwischen ca. 77.000 und 81.700 USD), ETH ~2.386,77 USD (-1,0% 24h), SOL ~99,18 USD (-1,1% 24h), XRP ~1,34 USD (-1,5% 24h). Kein neuer, klar bestaetigter Katalysator seit dem letzten Lauf; naechster moeglicher Trigger fuer Kryptomarkt ist die erwartete CLARITY-Act-Abstimmung im Senat (Fenster 15.-18.09.).",
+    "decision": "Kein Trade in diesem Lauf (04:08). NVDA-Position unveraendert gehalten (-1,64%), kein Neueinstieg: Boersen fuer Aktien/ETFs/Rohstoffe geschlossen, und die BTC-Preisangaben verschiedener Quellen widersprechen sich zu stark fuer eine belastbare Handelsentscheidung; ETH/SOL/XRP weiterhin leicht im Minus (24h) ohne ueberzeugenden neuen Katalysator.",
+    "reasoning": "Handelszeiten schliessen Aktien/ETFs/Rohstoffe aus, daher waere nur Krypto moeglich. Die BTC-Kursangaben mehrerer Quellen (CoinDesk vs. Bybit vs. CNBC-Wochenrueckblick) weichen stark voneinander ab (77.000-81.700 USD) - keine verlaessliche Datenbasis fuer einen spekulativen Einstieg. ETH, SOL und XRP zeigen weiterhin negative 24h-Performance ohne frischen positiven Katalysator seit dem letzten Lauf (03:08). Daher keine neue Position eroeffnet.",
     "positionIds": [
       "pos-0010"
     ],
@@ -3605,6 +3605,11 @@
       {
         "time": "03:08",
         "note": "Keine Aenderung - Boersen weiterhin geschlossen, NVDA unveraendert -1,64%. Kryptomarkt insgesamt schwach (ETH/SOL/XRP alle -1 bis -1,5% 24h, bearishe Prognosemarkt-Signale, ETF-Abfluesse), kein ueberzeugender Katalysator seit 02:09.",
+        "portfolioValue": 983.59
+      },
+      {
+        "time": "04:08",
+        "note": "Keine Aenderung - Boersen weiterhin geschlossen, NVDA unveraendert -1,64%. BTC-Kursangaben verschiedener Quellen widersprechen sich stark (77.000-81.700 USD), ETH/SOL/XRP weiterhin leicht im Minus (24h) ohne neuen Katalysator seit 03:08.",
         "portfolioValue": 983.59
       }
     ]
