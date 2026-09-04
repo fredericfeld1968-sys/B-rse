@@ -3579,14 +3579,14 @@
   },
   {
     "date": "2026-09-04",
-    "marketOverview": "US-Vorboerse weiterhin ruhig, letzter Handelstag (Do., 03.09.) schloss stark (S&P 500 +1,1% auf 7.747,71, Nasdaq +1,4%, Dow +1,2% dank dovisher Waller-Aeusserungen und sinkender Treasury-Renditen). Der August-Arbeitsmarktbericht (erwartet +53.000-58.000 Stellen, Arbeitslosenquote 4,1%) wird erst um 14:30 MESZ veroeffentlicht - noch keine Zahlen verfuegbar. NVDA vorboerslich unveraendert bei ca. 226,03 USD (-1,36% seit Kauf), XRP unveraendert bei 1,46 USD (+6,57% seit Kauf, knapp unter dem etablierten Zielbereich von 7-8%). US-Kassamarkt oeffnet erst um 15:30 MESZ.",
-    "decision": "Weiterhin keine neue Position eroeffnet und keine bestehende verkauft. NVDA (-1,36%) und XRP (+6,57%, noch unter dem 7-8%-Zielbereich) werden gehalten. Der entscheidende Katalysator (Payrolls-Bericht) steht erst um 14:30 MESZ an, die US-Boerse oeffnet erst um 15:30 MESZ - bis dahin weiterhin kein Handlungsgrund, keine neuen Marktbewegungen seit dem letzten Lauf.",
-    "reasoning": "Seit dem 12:09-Lauf hat sich an den Kursen nichts veraendert (NVDA weiterhin 226,03 USD vorboerslich, XRP weiterhin 1,46 USD) und es gibt keinen neuen eigenstaendigen Katalysator. XRP naehert sich dem Ziel-Korridor von 7-8%, hat ihn aber noch nicht erreicht, daher weiterhin kein Verkauf. Der Payrolls-Bericht um 14:30 MESZ und die US-Marktoeffnung um 15:30 MESZ bleiben die naechsten massgeblichen Katalysatoren; bis dahin wird das reichlich vorhandene freie Kapital geschont und auf spekulative Neupositionen verzichtet.",
+    "marketOverview": "US-Vorboerse etwas fester: NVDA vorboerslich bei 231,93 USD (+1,52% zum Vortagesschluss 228,45 USD), damit erstmals seit Kauf leicht im Plus (+1,21%). S&P-500- und Nasdaq-Futures leicht positiv (S&P +0,1%, Nasdaq 100 +0,5%) vor dem August-Arbeitsmarktbericht, der um 14:30 MESZ (8:30 ET) veroeffentlicht wird - noch keine Zahlen da. XRP bei ca. 1,45 USD (+5,84% seit Kauf), etwas unter dem Stand von 12:09/13:15 (1,46 USD). US-Kassamarkt oeffnet erst um 15:30 MESZ.",
+    "decision": "Weiterhin keine neue Position eroeffnet und keine bestehende verkauft. NVDA ist nun leicht positiv (+1,21%), XRP bei +5,84% noch unter dem etablierten 7-8%-Zielbereich. Der entscheidende Katalysator (Payrolls-Bericht) steht in wenigen Minuten (14:30 MESZ) an, die US-Boerse oeffnet erst um 15:30 MESZ - bis dahin kein Handlungsgrund.",
+    "reasoning": "Seit dem 13:15-Lauf hat sich wenig veraendert: NVDA legte leicht zu (jetzt +1,21% statt -1,36%), XRP gab leicht nach (+5,84% statt +6,57%). Kein neuer eigenstaendiger Katalysator, da der Payrolls-Bericht erst um 14:30 MESZ veroeffentlicht wird und somit zum Zeitpunkt dieses Laufs noch nicht vorliegt. Bis zur Veroeffentlichung und zur US-Marktoeffnung um 15:30 MESZ wird das freie Kapital geschont und auf spekulative Neupositionen verzichtet, um nicht unmittelbar vor einem moeglichen Volatilitaetsschub blind zu handeln.",
     "positionIds": [
       "pos-0010",
       "pos-0011"
     ],
-    "portfolioValueEnd": 1519.23,
+    "portfolioValueEnd": 1541.33,
     "updates": [
       {
         "time": "00:09",
@@ -3657,6 +3657,11 @@
         "time": "13:15",
         "note": "Keine Aenderung - Kurse unveraendert seit 12:09 (NVDA -1,36%, XRP +6,57%), Payrolls-Bericht erst um 14:30 MESZ, US-Kassamarkt oeffnet erst um 15:30 MESZ",
         "portfolioValue": 1519.23
+      },
+      {
+        "time": "14:17",
+        "note": "Keine Aenderung - NVDA vorboerslich auf +1,21% gedreht, XRP bei +5,84% (unter Zielbereich). Payrolls-Bericht (14:30 MESZ) und US-Marktoeffnung (15:30 MESZ) noch ausstehend, kein Handlungsgrund.",
+        "portfolioValue": 1541.33
       }
     ]
   }
