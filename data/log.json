@@ -3579,14 +3579,14 @@
   },
   {
     "date": "2026-09-04",
-    "marketOverview": "US-Kassamarkt notiert am Nachmittag leicht erholt: NVDA profitiert weiter von der am Vortag bestaetigten Hugging-Face-Uebernahme (~12,93 Mrd. USD) und steht bei ca. 231,50 USD (+1,03% seit Kauf), der breite Markt bleibt nach dem starken Jobs-Bericht (+162k vs. +53k erwartet, Fed-Hike-Odds ~58-60%) aber uneinheitlich. Der Kryptomarkt (Gesamtmarkt +4,7%) bleibt in der Erleichterungsrally: BTC ueber 81.000 USD, XRP bei ca. 1,452 USD (+5,99% seit Kauf) weiterhin knapp unter der etablierten 7-8%-Zielspanne.",
-    "decision": "Weiterhin keine neue Position eroeffnet und keine bestehende verkauft. NVDA bewegt sich mit dem Gesamtmarkt seitwaerts ohne neuen eigenstaendigen Kaufimpuls seit der bereits eingepreisten Hugging-Face-Meldung. XRP bleibt trotz solider Tagesperformance (+5,99% seit Kauf) knapp unter der etablierten Ziel-/Handlungsschwelle von 7-8% und wird weiter gehalten.",
-    "reasoning": "Keine der beiden offenen Positionen erreicht einen klaren Handlungspunkt: NVDA (+1,03%) bleibt im Rahmen der ueblichen Tagesschwankung, die Hugging-Face-Uebernahme ist bereits am Vortag bekannt geworden und im Kurs verarbeitet - kein frischer Katalysator seit dem letzten Lauf. XRP (+5,99%) naehert sich der etablierten Gewinnmitnahme-Zone (7-8%, analog AMD, SpaceX, Solana, Palantir), hat sie aber noch nicht erreicht. Freies Kapital (rund 29.461 EUR) waere fuer eine neue Position ausreichend, es liegt jedoch kein neuer, eigenstaendig ueberzeugender Katalysator vor - bestehende Positionen werden konsequent gehalten, kein Handeln um des Handelns willen.",
+    "marketOverview": "US-Maerkte zeigen sich am Nachmittag uneinheitlich: Nach dem starken Jobs-Bericht (+162k vs. +53k erwartet) sind die Fed-Hike-Erwartungen fuer die Septembersitzung gestiegen, NVDA gab die Vormittagsgewinne wieder ab und notiert bei ca. 227,19 USD (-0,86% seit Kauf). Der Kryptomarkt bleibt dagegen in der Erleichterungsrally (Gesamtmarkt +4,7%, BTC ueber 81.000 USD): XRP haelt sich bei ca. 1,455 USD (+6,20% seit Kauf) knapp unter der etablierten 7-8%-Zielspanne und der Widerstandszone 1,50-1,53 USD.",
+    "decision": "Weiterhin keine neue Position eroeffnet und keine bestehende verkauft. NVDA rutschte im Tagesverlauf leicht ins Minus (-0,86%), was innerhalb der ueblichen Schwankungsbreite liegt und kein Stop-Loss-Niveau erreicht. XRP naehert sich mit +6,20% weiter der etablierten Ziel-/Handlungsschwelle von 7-8%, hat sie aber noch nicht erreicht und wird weiter gehalten.",
+    "reasoning": "Keine der beiden offenen Positionen erreicht einen klaren Handlungspunkt: NVDA (-0,86%) bewegt sich nach dem Jobs-Bericht (hoehere Fed-Hike-Wahrscheinlichkeit, Dow -0,7%) im Rahmen der ueblichen Tagesschwankung ohne fundamentale Verschlechterung - kein Grund fuer einen Stop-Loss. XRP (+6,20%) naehert sich der Widerstandszone 1,50-1,53 USD und der etablierten Gewinnmitnahme-Zone (7-8%, analog AMD, SpaceX, Solana, Palantir), hat sie aber noch nicht erreicht. Freies Kapital (rund 29.461 EUR) waere fuer eine neue Position ausreichend, es liegt jedoch kein neuer, eigenstaendig ueberzeugender Katalysator vor (Jobs-Bericht bereits eingepreist, Krypto-Rally bereits ueber XRP-Position genutzt) - bestehende Positionen werden konsequent gehalten, kein Handeln um des Handelns willen.",
     "positionIds": [
       "pos-0010",
       "pos-0011"
     ],
-    "portfolioValueEnd": 1540.19,
+    "portfolioValueEnd": 1522.47,
     "updates": [
       {
         "time": "00:09",
@@ -3677,6 +3677,11 @@
         "time": "17:13",
         "note": "Keine Aenderung - NVDA leicht auf +1,03% gestiegen (Hugging-Face-Deal bereits eingepreist), XRP bei +5,99% weiterhin knapp unter der 7-8%-Zielspanne, kein neuer Katalysator seit 16:11.",
         "portfolioValue": 1540.19
+      },
+      {
+        "time": "18:10",
+        "note": "Keine Aenderung - NVDA nach Jobs-Bericht leicht ins Minus (-0,86%), XRP haelt sich bei +6,20% knapp unter der 7-8%-Zielspanne, kein neuer Katalysator seit 17:13",
+        "portfolioValue": 1522.47
       }
     ]
   }
