@@ -3579,14 +3579,14 @@
   },
   {
     "date": "2026-09-04",
-    "marketOverview": "US-Maerkte zeigen sich am Nachmittag uneinheitlich: Nach dem starken Jobs-Bericht (+162k vs. +53k erwartet) sind die Fed-Hike-Erwartungen fuer die Septembersitzung gestiegen, NVDA gab die Vormittagsgewinne wieder ab und notiert bei ca. 227,19 USD (-0,86% seit Kauf). Der Kryptomarkt bleibt dagegen in der Erleichterungsrally (Gesamtmarkt +4,7%, BTC ueber 81.000 USD): XRP haelt sich bei ca. 1,455 USD (+6,20% seit Kauf) knapp unter der etablierten 7-8%-Zielspanne und der Widerstandszone 1,50-1,53 USD.",
-    "decision": "Weiterhin keine neue Position eroeffnet und keine bestehende verkauft. NVDA rutschte im Tagesverlauf leicht ins Minus (-0,86%), was innerhalb der ueblichen Schwankungsbreite liegt und kein Stop-Loss-Niveau erreicht. XRP naehert sich mit +6,20% weiter der etablierten Ziel-/Handlungsschwelle von 7-8%, hat sie aber noch nicht erreicht und wird weiter gehalten.",
-    "reasoning": "Keine der beiden offenen Positionen erreicht einen klaren Handlungspunkt: NVDA (-0,86%) bewegt sich nach dem Jobs-Bericht (hoehere Fed-Hike-Wahrscheinlichkeit, Dow -0,7%) im Rahmen der ueblichen Tagesschwankung ohne fundamentale Verschlechterung - kein Grund fuer einen Stop-Loss. XRP (+6,20%) naehert sich der Widerstandszone 1,50-1,53 USD und der etablierten Gewinnmitnahme-Zone (7-8%, analog AMD, SpaceX, Solana, Palantir), hat sie aber noch nicht erreicht. Freies Kapital (rund 29.461 EUR) waere fuer eine neue Position ausreichend, es liegt jedoch kein neuer, eigenstaendig ueberzeugender Katalysator vor (Jobs-Bericht bereits eingepreist, Krypto-Rally bereits ueber XRP-Position genutzt) - bestehende Positionen werden konsequent gehalten, kein Handeln um des Handelns willen.",
+    "marketOverview": "US-Maerkte drehten am Nachmittag klar ins Plus: Dow +1,2% auf 53.686, Nasdaq +1,4%, S&P +1,1%, nachdem Fed-Gouverneur Waller signalisierte, die Zinsen im September eher stabil zu halten - die Hike-Wahrscheinlichkeit sank von ueber 60% auf rund 50%. NVDA drehte mit dem breiten Markt ins Plus (231,11 USD, +0,86% seit Kauf). Bitcoin haelt sich ueber 81.000 USD nach starken ETF-Zuflaeuen, XRP notiert bei 1,45 USD (+5,84% seit Kauf) weiterhin unter der Widerstandszone 1,50-1,53 USD und der etablierten 7-8%-Zielspanne.",
+    "decision": "Weiterhin keine neue Position eroeffnet und keine bestehende verkauft. NVDA drehte mit der breiten Marktrally am Nachmittag ins Plus (+0,86%), erreicht aber keinen Handlungspunkt. XRP naehert sich mit +5,84% weiter der Ziel-/Handlungsschwelle von 7-8%, hat sie aber noch nicht erreicht und wird weiter gehalten.",
+    "reasoning": "Keine der beiden offenen Positionen erreicht einen klaren Handlungspunkt: NVDA (+0,86%) profitiert von der breiten Nachmittagsrally (Waller-Kommentare daempfen Fed-Hike-Sorgen), liegt aber weit unter der etablierten Gewinnmitnahme-Zone. XRP (+5,84%) naehert sich der Widerstandszone 1,50-1,53 USD und der etablierten 7-8%-Zielspanne, hat sie aber noch nicht erreicht. Freies Kapital (rund 29.461 EUR) waere fuer eine neue Position ausreichend, jedoch liefert die Recherche (Snowflake- und HPE-Erdgebnisse bereits eingepreist bzw. gelaufen, Krypto-Rally bereits ueber XRP-Position genutzt) keinen neuen, eigenstaendig ueberzeugenden Katalysator - bestehende Positionen werden konsequent gehalten, kein Handeln um des Handelns willen.",
     "positionIds": [
       "pos-0010",
       "pos-0011"
     ],
-    "portfolioValueEnd": 1522.47,
+    "portfolioValueEnd": 1537.75,
     "updates": [
       {
         "time": "00:09",
@@ -3682,6 +3682,11 @@
         "time": "18:10",
         "note": "Keine Aenderung - NVDA nach Jobs-Bericht leicht ins Minus (-0,86%), XRP haelt sich bei +6,20% knapp unter der 7-8%-Zielspanne, kein neuer Katalysator seit 17:13",
         "portfolioValue": 1522.47
+      },
+      {
+        "time": "19:09",
+        "note": "Keine Aenderung - US-Marktrally am Nachmittag (Dow +1,2%, Waller daempft Fed-Hike-Sorgen), NVDA dreht auf +0,86%, XRP bei +5,84% weiterhin unter der 7-8%-Zielspanne",
+        "portfolioValue": 1537.75
       }
     ]
   }
