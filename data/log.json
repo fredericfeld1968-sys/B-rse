@@ -3579,14 +3579,14 @@
   },
   {
     "date": "2026-09-04",
-    "marketOverview": "Boersen (Aktien/ETFs/Rohstoffe) weiterhin geschlossen (Nacht auf Freitag, Europa oeffnet erst 09:00). NVDA schloss den regulaeren US-Handel bei 225,76 USD, nachboerslich leicht schwaecher bei 225,39 USD (-1,64% seit Kauf). Kryptomarkt bleibt in der Fed-getriebenen Erleichterungsrally: BTC ueber 80.800 USD (+3,86% 24h) auf sinkende Zinserwartungen und schwaecheren Dollar, XRP stabil bei ca. 1,37 USD (weiterhin gestuetzt durch die auf 62% gesunkenen Fed-Hike-Odds fuer die Sitzung am 15.09.). Kein neuer, ueber die 05:08-Position hinausgehender Katalysator erkennbar.",
-    "decision": "Keine neue Position eroeffnet. Die bereits um 05:08 eroeffnete XRP-Position (500 EUR) und NVDA werden unveraendert gehalten - die fortgesetzte Krypto-Staerke (BTC +3,86%) ist dieselbe Fed-Story wie beim XRP-Kauf, kein zusaetzliches eigenstaendiges Signal. Aktien/ETFs/Rohstoffe weiterhin nicht handelbar.",
-    "reasoning": "Um 06:08 hat sich am Kryptomarkt nichts grundlegend Neues gegenueber dem 05:08-Lauf ergeben: XRP notiert praktisch unveraendert bei 1,37 USD (Einstandskurs), BTC's Anstieg auf ueber 80.800 USD ist Fortsetzung derselben Fed-Zinssenkungs-Fantasie, die bereits die XRP-Position begruendet hat - kein unabhaengiger neuer Kaufanlass. NVDA schloss reguleaer bei 225,76 USD (-1,64% seit Kauf); ohne fundamentale Neuigkeit wird nach dem etablierten Muster (kein Verkauf ohne klaren Auslöser bei moderatem Verlust) weiter gehalten. Passend zur Anweisung, nur bei wirklich ueberzeugender Gelegenheit zu handeln, bleibt das Depot in diesem Lauf unveraendert.",
+    "marketOverview": "Europaeische Boersen oeffnen erst um 09:00 (aktuell 07:09), US-Handel folgt um 15:30 MESZ - Fokus liegt auf dem US-Arbeitsmarktbericht (August-Payrolls) heute Nachmittag, der die Fed-Zinsentscheidung am 15./16.09. praegen duerfte (Rate-Hike-Odds zuletzt auf ~50% gesunken nach dovishen Waller-Kommentaren). NVDA schloss gestern bei 228,45 USD (+1,80%), getrieben von der bestaetigten 12,9-Mrd-USD-Uebernahme von Hugging Face - Position damit nur noch -0,31% im Minus. Kryptomarkt bleibt staerker: BTC ueber 81.100 USD, XRP legte in 24h um +9,4% auf 1,46 USD zu (Ausbruch ueber die vorherige Abwaertstrendlinie, Rekord-ETF-Zufluesse von 110 Mio. USD diese Woche) - unsere XRP-Position liegt bei +6,57%, knapp unter dem etablierten Gewinnmitnahme-Zielbereich (7-8%).",
+    "decision": "Keine neue Position eroeffnet und keine bestehende verkauft. NVDA (-0,31%) und XRP (+6,57%) werden gehalten - XRP naehert sich dem etablierten Gewinnmitnahme-Zielbereich (7-8%), hat ihn aber noch nicht erreicht, und der naechste Widerstand liegt erst bei 1,54 USD. Aktien/ETFs/Rohstoffe sind vor Boersenoeffnung (09:00) nicht handelbar; eine neue Krypto-Position waere nur eine Wette auf dieselbe Fed-/Payrolls-Story wie XRP, daher kein eigenstaendiges Signal fuer einen zusaetzlichen Kauf.",
+    "reasoning": "NVDA-Kurserholung (225,39 -> 228,45 USD) beruht auf der am 03.09. bestaetigten Hugging-Face-Uebernahme (12,9 Mrd. USD) - eine positive strategische Nachricht, aber ohne akuten Handlungsdruck; Position bleibt mit -0,31% nahe der Nulllinie und wird planmaessig weitergehalten. XRP setzte den bereits um 05:08 begonnenen Anstieg fort und durchbrach eine mehrtaegige Abwaertstrendlinie (1,33 -> 1,46 USD, +9,4% in 24h), gestuetzt durch Rekord-ETF-Zufluesse (110 Mio. USD) und die anstehende CLARITY-Act-Abstimmung um den 15.09. - fundamental und technisch intakt, aber mit +6,57% seit Kauf noch unterhalb des etablierten Ziel-Korridors (7-8%, analog AMD, SpaceX, Solana, Palantir), daher noch kein Verkauf. Da Aktien/ETFs/Rohstoffe erst um 09:00 handelbar werden und der heutige Payrolls-Bericht erhebliche Marktbewegungen ausloesen kann, wird auf eine neue Position verzichtet, um nicht unmittelbar vor einem wichtigen Datenpunkt zu handeln.",
     "positionIds": [
       "pos-0010",
       "pos-0011"
     ],
-    "portfolioValueEnd": 1483.59,
+    "portfolioValueEnd": 1529.8,
     "updates": [
       {
         "time": "00:09",
@@ -3622,6 +3622,11 @@
         "time": "06:08",
         "note": "Keine Aenderung - XRP unveraendert bei Einstandskurs (1,37 USD), BTC-Anstieg (+3,86%) ist dieselbe Fed-Story wie beim 05:08-Kauf, kein neuer Katalysator. NVDA schloss regulaer bei 225,76 USD (-1,64%), Boersen fuer Aktien/ETFs/Rohstoffe weiterhin geschlossen.",
         "portfolioValue": 1483.59
+      },
+      {
+        "time": "07:09",
+        "note": "Keine Aenderung - Boersen oeffnen erst um 09:00, Payrolls-Bericht heute Nachmittag. NVDA erholt auf -0,31% (Hugging-Face-Uebernahme bestaetigt), XRP bei +6,57% knapp unter dem 7-8%-Zielbereich, wird gehalten.",
+        "portfolioValue": 1529.8
       }
     ]
   }
