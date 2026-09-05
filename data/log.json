@@ -3712,7 +3712,7 @@
   },
   {
     "date": "2026-09-05",
-    "marketOverview": "Wochenende: Boersen fuer Aktien, ETFs und Rohstoffe weiterhin geschlossen. Kryptomarkt konsolidiert: Bitcoin um 80.900-81.000 USD, Solana ca. 103,85 USD, XRP mit ca. 1,40 USD (-4% in 24h) unter dem Vortagesniveau und weiterhin klar unterhalb der Widerstandszone 1,48-1,53 USD. Marktkapitalisierung insgesamt nahezu unveraendert (+0,2% in 24h) - abwartende Stimmung vor dem US-Arbeitsmarktbericht (Nonfarm Payrolls) und der Fed-Sitzung sowie CLARITY-Act-Abstimmung am 15.09. (Erfolgswahrscheinlichkeit laut Polymarket nur noch ca. 15-20%, deutlich gesunken).",
+    "marketOverview": "Wochenende: Boersen fuer Aktien, ETFs und Rohstoffe weiterhin geschlossen. Kryptomarkt insgesamt schwaecher: Bitcoin auf ca. 76.657 USD gefallen (-1,6% 24h), Gesamtmarktkapitalisierung -1,3% auf 2,78 Bio. USD bei Volumen von 98,5 Mrd. USD. XRP haelt sich bei ca. 1,40 USD weiterhin unterhalb der Widerstandszone 1,48-1,53 USD, kein bestaetigter Ausbruch. Naechster grosser Katalysator (CLARITY-Act-Abstimmung, Fed-Entscheidung) erst am 15.09.",
     "decision": "Keine neue Position eroeffnet und keine bestehende verkauft. NVDA (Boerse geschlossen, Freitagsschluss) bleibt unveraendert bei 231,11 USD (+0,86%). XRP wird trotz leichter Abschwaechung auf ca. 1,40 USD (+2,19% seit Kauf, vorher +5,11%) weiter gehalten, da kein fundamentaler Bruch der These vorliegt, sondern nur eine normale Konsolidierung ohne bestaetigten Ausbruch in eine Richtung.",
     "reasoning": "Aktien/ETFs/Rohstoffe sind am Wochenende nicht handelbar. Im Kryptomarkt fehlt weiterhin ein bestaetigter Ausbruch: XRP hat sich von der Widerstandszone 1,48-1,53 USD weiter entfernt (-4% in 24h auf ca. 1,40 USD), der Gesamtmarkt bewegt sich kaum (+0,2%), und der naechste grosse Katalysator (CLARITY-Act-Abstimmung, Fed-Entscheidung) liegt erst am 15.09. Kein ueberzeugender Anlass fuer einen Verkauf (Gewinn +2,19% ist kein fundamentaler Bruch der These, nur normale Volatilitaet) oder einen Nachkauf. Freies Kapital (ca. 30.461 EUR) bleibt mangels Gelegenheit ungenutzt.",
     "positionIds": [
@@ -3749,6 +3749,11 @@
       {
         "time": "05:07",
         "note": "Keine Aenderung - Wochenende, Boersen fuer Aktien/ETFs/Rohstoffe weiterhin geschlossen. Kryptomarkt praktisch unveraendert seit letztem Lauf (BTC ca. 80.935 USD, XRP 1,40 USD -4% 24h, SOL 103,85 USD). Kein neuer bestaetigter Ausbruch oder Katalysator, daher kein Handel.",
+        "portfolioValue": 1519.5
+      },
+      {
+        "time": "06:09",
+        "note": "Keine Aenderung - Wochenende, Boersen fuer Aktien/ETFs/Rohstoffe weiterhin geschlossen. Bitcoin weiter schwaecher (ca. 76.657 USD, -1,6% 24h), Gesamtkryptomarkt -1,3% auf 2,78 Bio. USD; XRP bleibt bei ca. 1,40 USD unterhalb der Widerstandszone 1,48-1,53 USD ohne bestaetigten Ausbruch. SEC-Regulierungsvorschlag zu Transfer Agents ohne unmittelbaren Kurseinfluss. Kein Handel.",
         "portfolioValue": 1519.5
       }
     ]
