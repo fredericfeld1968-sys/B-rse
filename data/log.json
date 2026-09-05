@@ -3712,9 +3712,9 @@
   },
   {
     "date": "2026-09-05",
-    "marketOverview": "Wochenende: Boersen fuer Aktien, ETFs und Rohstoffe weiterhin geschlossen. Kryptomarkt insgesamt schwach: Bitcoin bei ca. 79.555 USD (-1,87% 24h), Solana ca. 101,85 USD (-2,0%), waehrend XRP mit ca. 1,45 USD (+6,15% 24h) weiterhin outperformt, aber die Widerstandszone 1,48-1,53 USD noch nicht bestaetigt durchbricht. CLARITY Act: naechste Cloture-Abstimmung im Senat am 15.09., Ausgang laut CNBC weiterhin unsicher (Streit um Ethik-/Geldwaesche-Regeln), kein neuer Katalysator seit gestern.",
-    "decision": "Keine neue Position eroeffnet und keine bestehende verkauft. NVDA (Boerse geschlossen, Wochenende) bleibt unveraendert bei 231,11 USD (+0,86%). XRP-Kurs auf aktuellen Stand (1,45 USD, +5,84% seit Kauf) aktualisiert und weiter gehalten, da kein fundamentaler Bruch der These vorliegt und die Widerstandszone 1,48-1,53 USD weiterhin nicht bestaetigt durchbrochen ist.",
-    "reasoning": "Aktien/ETFs/Rohstoffe sind am Wochenende nicht handelbar. Im Kryptomarkt hat sich seit dem letzten Lauf nichts Wesentliches veraendert: XRP haelt sich bei ca. 1,45 USD knapp unter der Widerstandszone 1,48-1,53 USD, BTC und SOL leicht schwaecher, kein neuer Katalysator vor der CLARITY-Act-Abstimmung am 15.09. Kein ueberzeugender Anlass fuer einen Verkauf (Gewinn +5,84% ist kein fundamentaler Bruch der These) oder einen Nachkauf. Freies Kapital bleibt mangels Gelegenheit ungenutzt.",
+    "marketOverview": "Wochenende: Boersen fuer Aktien, ETFs und Rohstoffe weiterhin geschlossen. Kryptomarkt: Bitcoin wieder ueber 81.000 USD, da Haendler die Wahrscheinlichkeit einer Fed-Zinserhoehung im September naeher an einen Muenzwurf heranruecken. XRP notiert bei ca. 1,45 USD (+6,6% 24h laut Yahoo Finance), angetrieben von ETF-Zuflüssen und Wal-Akkumulation, scheitert aber weiterhin an der seit Monaten intakten Widerstandszone 1,40-1,50 USD. CLARITY Act: Cloture-Abstimmung im Senat am 15.09. weiterhin mit unsicherem Ausgang.",
+    "decision": "Keine neue Position eroeffnet und keine bestehende verkauft. NVDA (Boerse geschlossen, Wochenende) bleibt unveraendert bei 231,11 USD (+0,86%). XRP bei ca. 1,45 USD (+5,84% seit Kauf) gehalten, da die Widerstandszone 1,40-1,50 USD laut aktueller Berichterstattung in diesem Jahr noch nie nachhaltig durchbrochen wurde und kein neuer fundamentaler Katalysator vorliegt.",
+    "reasoning": "Aktien/ETFs/Rohstoffe sind am Wochenende nicht handelbar. Im Kryptomarkt ist XRP zwar staerker als BTC/SOL, scheitert aber laut mehreren Quellen weiterhin an der Widerstandszone 1,40-1,50 USD, die im bisherigen Jahresverlauf nicht nachhaltig durchbrochen wurde - kein bestaetigter Ausbruch, der einen Nachkauf rechtfertigen wuerde. Der bestehende Gewinn (+5,84%) ist kein fundamentaler Bruch der urspruenglichen These, daher kein Verkauf. Freies Kapital (~30.460,66 EUR) bleibt mangels ueberzeugender Gelegenheit ungenutzt.",
     "positionIds": [
       "pos-0010",
       "pos-0011"
@@ -3769,6 +3769,11 @@
       {
         "time": "09:08",
         "note": "Keine Aenderung - Wochenende, Boersen fuer Aktien/ETFs/Rohstoffe weiterhin geschlossen. XRP bei ca. 1,45 USD (+5,84% seit Kauf) weiterhin knapp unter der Widerstandszone 1,48-1,53 USD, kein bestaetigter Ausbruch. BTC/SOL leicht schwaecher, kein neuer Katalysator vor der CLARITY-Act-Abstimmung am 15.09.",
+        "portfolioValue": 1537.75
+      },
+      {
+        "time": "10:08",
+        "note": "Keine Aenderung - Wochenende, kein bestaetigter Ausbruch. BTC wieder ueber 81.000 USD, XRP haelt sich bei ca. 1,45 USD weiterhin unter der seit Monaten intakten Widerstandszone 1,40-1,50 USD (laut BeInCrypto in diesem Jahr noch nie durchbrochen). Kein neuer Katalysator vor der CLARITY-Act-Abstimmung am 15.09.",
         "portfolioValue": 1537.75
       }
     ]
