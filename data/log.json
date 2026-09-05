@@ -3712,14 +3712,14 @@
   },
   {
     "date": "2026-09-05",
-    "marketOverview": "Wochenende: Boersen fuer Aktien, ETFs und Rohstoffe geschlossen. Kryptomarkt uneinheitlich - Bitcoin schwaecher bei ca. 79.830 USD (-2,16% in 24h), Solana fester bei ca. 103,85 USD (+3,74%), XRP haelt sich bei ca. 1,45 USD (+6,15% in 24h) weiterhin knapp unter der wichtigen Widerstandszone 1,48-1,53 USD - noch kein bestaetigter Ausbruch. Marktstimmung wird von steigenden Fed-Zinserhoehungserwartungen fuer die Sitzung am 15.09. (aktuell ca. 66% Wahrscheinlichkeit) gedaempft; die CLARITY-Act-Abstimmung im Senat (ebenfalls 15.09.) bleibt der naechste grosse Katalysator fuer XRP.",
-    "decision": "Keine neue Position eroeffnet und keine bestehende verkauft. NVDA (Boerse geschlossen) und XRP (kein bestaetigter Ausbruch ueber die Widerstandszone) werden unveraendert gehalten.",
-    "reasoning": "Aktien/ETFs/Rohstoffe sind am Wochenende nicht handelbar, NVDA bleibt daher unveraendert bei 231,11 USD (+0,86%). XRP notiert bei ca. 1,45 USD (+5,84% seit Kauf) weiterhin unterhalb der Barriere-Zone 1,48-1,50 USD ohne bestaetigten Ausbruch - kein Handlungsgrund. Bitcoin ist mit -2,16% eher schwach, Solana mit +3,74% zwar fester, aber ohne konkreten neuen Katalysator und ohne bestehende Position - es wird konsequent nicht um des Handelns willen gehandelt, sondern nur bei einer wirklich ueberzeugenden Gelegenheit. Freies Kapital (rund 30.461 EUR) waere ausreichend, wird aber mangels Gelegenheit nicht eingesetzt.",
+    "marketOverview": "Wochenende: Boersen fuer Aktien, ETFs und Rohstoffe weiterhin geschlossen. Kryptomarkt: Bitcoin bei ca. 77.900-78.000 USD, Solana bei ca. 103,30 USD (+3,0% 24h), XRP bei ca. 1,4528 USD (+6,64% in 24h) - naehert sich der Widerstandszone 1,48-1,53 USD weiter an, aber noch kein bestaetigter Ausbruch darueber. Die CLARITY-Act-Verfahrensabstimmung im Senat am 15.09. bleibt der naechste grosse Katalysator fuer XRP; laut XO Market liegt die Wahrscheinlichkeit einer Gesetzwerdung 2026 nur bei ca. 19,5%.",
+    "decision": "Keine neue Position eroeffnet und keine bestehende verkauft. NVDA (Boerse geschlossen, Freitagsschluss) und XRP (Aufwaertsbewegung, aber weiterhin kein bestaetigter Ausbruch ueber 1,48-1,53 USD) werden unveraendert gehalten.",
+    "reasoning": "Aktien/ETFs/Rohstoffe sind am Wochenende nicht handelbar, NVDA bleibt daher unveraendert bei 231,11 USD (+0,86%, Freitagsschluss). XRP notiert bei 1,4528 USD (+6,04% seit Kauf) und naehert sich der Barriere-Zone 1,48-1,50 USD weiter an, hat sie aber noch nicht ueberwunden - kein bestaetigter Ausbruch, daher kein Nachkauf. Bitcoin und Solana zeigen kein ausreichend starkes, neu bestaetigtes Signal fuer eine ueberzeugende neue Position. Freies Kapital (rund 30.461 EUR) waere ausreichend, wird aber mangels Gelegenheit nicht eingesetzt.",
     "positionIds": [
       "pos-0010",
       "pos-0011"
     ],
-    "portfolioValueEnd": 1537.75,
+    "portfolioValueEnd": 1538.77,
     "updates": [
       {
         "time": "00:09",
@@ -3730,6 +3730,11 @@
         "time": "01:08",
         "note": "Keine Aenderung - Wochenende, Boersen fuer Aktien/ETFs/Rohstoffe geschlossen. BTC leicht schwaecher (~79.800-80.900 USD), XRP unveraendert bei ca. 1,45 USD weiterhin unter der Widerstandszone 1,48-1,53 USD (kein bestaetigter Ausbruch), SOL stabil bei ca. 103,85 USD. Kein neuer ueberzeugender Katalysator seit dem letzten Lauf.",
         "portfolioValue": 1537.75
+      },
+      {
+        "time": "02:08",
+        "note": "Keine Aenderung. XRP steigt leicht auf 1,4528 USD (+6,64% 24h) und naehert sich der Widerstandszone 1,48-1,53 USD, ohne sie zu bestaetigen. NVDA unveraendert (Boerse geschlossen, Freitagsschluss). Kein Handel.",
+        "portfolioValue": 1538.77
       }
     ]
   }
