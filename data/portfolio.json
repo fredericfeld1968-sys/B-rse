@@ -179,10 +179,10 @@
     "reasoning": "Breiter, mehrfach unabhaengig bestaetigter Erleichterungs-Rally im Kryptomarkt in der Nacht auf Freitag: BTC wieder ueber 77.500-80.800 USD (+ca. 4% 24h), ETH +4,0%, SOL +2,4%, XRP fuehrt die Bewegung mit +3-5% an. Konkreter, namentlich benannter Ausloeser laut CoinDesk: Fed-Zinserhoehungs-Wahrscheinlichkeit fuer die Sitzung am 15.09. sinkt von rund 70% auf 62% (Warsh-Falkenhaftigkeit teilweise eingepreist/relativiert) - weniger restriktive Erwartungshaltung wirkt risikofreudig auf den Kryptomarkt. Da Aktien/ETFs/Rohstoffe um diese Nachtzeit nicht handelbar sind, spekulative kurzfristige Momentum-Position in XRP als klarem Bewegungsfuehrer.",
     "status": "open",
     "buyPrice": 1.37,
-    "currentPrice": 1.38,
-    "currentValue": 503.65,
-    "profitLoss": 3.65,
-    "profitLossPct": 0.73,
+    "currentPrice": 1.4,
+    "currentValue": 510.95,
+    "profitLoss": 10.95,
+    "profitLossPct": 2.19,
     "closedDate": null,
     "closeReasoning": null
   }

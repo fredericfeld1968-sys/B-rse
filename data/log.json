@@ -3712,14 +3712,14 @@
   },
   {
     "date": "2026-09-05",
-    "marketOverview": "Wochenende: Boersen fuer Aktien, ETFs und Rohstoffe weiterhin geschlossen. Kryptomarkt uneinheitlich mit leicht schwaecherer Tendenz - Bitcoin behauptet sich ueber 78.000 USD, XRP pendelt zwischen 1,34 und 1,40 USD in der etablierten Support-/Resistance-Zone 1,35-1,38 USD, Solana bei ca. 102 USD leicht schwaecher (-1,6%). Fed-Zinserhoehungs-Wahrscheinlichkeit fuer die Sitzung am 15./16.09. schwankt je nach Quelle stark (42-70%), naechster wichtiger Katalysator ist die US-Inflationsdaten (CPI) am 11.09. Kein neuer, eindeutiger Ausbruch oder Bruch bei XRP erkennbar.",
-    "decision": "Keine neue Position eroeffnet und keine bestehende verkauft. NVDA (Boerse geschlossen, Wochenende) bleibt unveraendert bei 231,11 USD (+0,86%). XRP-Position pendelt weiterhin knapp im Plus bei ca. 1,38 USD (+0,73% seit Kauf) innerhalb der Support-/Resistance-Zone 1,35-1,38 USD, ohne bestaetigten Ausbruch nach oben oder Bruch nach unten.",
-    "reasoning": "Aktien/ETFs/Rohstoffe sind am Wochenende nicht handelbar. Der Kryptomarkt bewegt sich weiterhin seitwaerts ohne neuen, ueberzeugenden Katalysator: XRP haelt sich in der etablierten Support-/Resistance-Zone, die Fed-Zinserwartungen bleiben uneinheitlich und der naechste relevante Termin (US-CPI am 11.09.) steht noch aus. Ein Verkauf der XRP-Position ist nicht gerechtfertigt, da sie leicht im Plus liegt und kein fundamentaler Bruch der Kaufthese vorliegt. Freies Kapital bleibt mangels ueberzeugender Gelegenheit ungenutzt.",
+    "marketOverview": "Wochenende: Boersen fuer Aktien, ETFs und Rohstoffe weiterhin geschlossen. Kryptomarkt uneinheitlich - Bitcoin behauptet sich ueber 78.000 USD, XRP leicht fester bei ca. 1,40 USD (Quellen streuen zwischen 1,38 und 1,45 USD), Solana und Ethereum unter Druck. Marktstimmung vorsichtig wegen Fed-Zinssorgen, Nettoabfluesse aus Bitcoin-ETFs 2026 bislang nur teilweise durch August-Zuflüsse ausgeglichen. Kein neuer, eindeutiger Ausbruch oder Bruch bei XRP erkennbar; naechster wichtiger Katalysator bleibt US-CPI am 11.09.",
+    "decision": "Keine neue Position eroeffnet und keine bestehende verkauft. NVDA (Boerse geschlossen, Wochenende) bleibt unveraendert bei 231,11 USD (+0,86%). XRP-Position leicht im Plus bei ca. 1,40 USD (+2,19% seit Kauf), weiterhin ohne bestaetigten Ausbruch aus der Range.",
+    "reasoning": "Aktien/ETFs/Rohstoffe sind am Wochenende nicht handelbar. Der Kryptomarkt bietet weiterhin keinen ueberzeugenden neuen Katalysator: XRP bewegt sich seitwaerts, die uebrigen Majors (BTC, ETH, SOL) tendieren eher schwaecher bei vorsichtiger Marktstimmung wegen Fed-Zinssorgen. Ein Verkauf der leicht positiven XRP-Position ist nicht gerechtfertigt, ein Zukauf mangels klarer Chance ebenfalls nicht. Freies Kapital bleibt mangels ueberzeugender Gelegenheit ungenutzt.",
     "positionIds": [
       "pos-0010",
       "pos-0011"
     ],
-    "portfolioValueEnd": 1512.2,
+    "portfolioValueEnd": 1519.5,
     "updates": [
       {
         "time": "00:09",
@@ -3805,6 +3805,11 @@
         "time": "16:08",
         "note": "Keine Aenderung - Wochenende, Boersen geschlossen. XRP bei ca. 1,38 USD (+0,73%) in der Support-/Resistance-Zone 1,35-1,38 USD, kein bestaetigter Ausbruch. NVDA unveraendert.",
         "portfolioValue": 1512.2
+      },
+      {
+        "time": "17:08",
+        "note": "Keine Aenderung - Wochenende, Boersen fuer Aktien/ETFs/Rohstoffe weiterhin geschlossen. XRP leicht fester auf ca. 1,40 USD (+2,19% seit Kauf), Kryptomarkt insgesamt uneinheitlich ohne ueberzeugenden neuen Katalysator.",
+        "portfolioValue": 1519.5
       }
     ]
   }
