@@ -3712,14 +3712,14 @@
   },
   {
     "date": "2026-09-05",
-    "marketOverview": "Wochenende: Boersen fuer Aktien, ETFs und Rohstoffe weiterhin geschlossen. Kryptomarkt: Bitcoin unter 80.000 USD nach Abpraller von einem Zwischenhoch bei ca. 81.500 USD. XRP notiert stabil bei ca. 1,45 USD (+5,7% 24h laut CoinGecko/CoinMarketCap), haengt aber weiterhin an der seit Monaten intakten Widerstandszone 1,40-1,50 USD fest. Fed-Zinsentscheidung erst am 15./16.09., naechster wichtiger Datenpunkt ist die US-CPI am 11.09. - Marktteilnehmer sind bei rd. 45-51% Wahrscheinlichkeit fuer eine Zinserhoehung uneinig.",
-    "decision": "Keine neue Position eroeffnet und keine bestehende verkauft. NVDA (Boerse geschlossen, Wochenende) bleibt unveraendert bei 231,11 USD (+0,86%). XRP bei ca. 1,45 USD (+5,84% seit Kauf) weiter gehalten, da die Widerstandszone 1,40-1,50 USD weiterhin nicht nachhaltig durchbrochen wurde und kein neuer fundamentaler Katalysator vorliegt.",
-    "reasoning": "Aktien/ETFs/Rohstoffe sind am Wochenende nicht handelbar. Im Kryptomarkt bleibt XRP zwar der staerkste Wert im Markt, scheitert aber laut mehreren unabhaengigen Quellen (CoinGecko, CoinMarketCap, Kraken) weiterhin an der Widerstandszone 1,40-1,50 USD - kein bestaetigter Ausbruch, der einen Nachkauf rechtfertigen wuerde. Der bestehende Gewinn (+5,84%) ist kein fundamentaler Bruch der urspruenglichen These, daher kein Verkauf. Freies Kapital (~30.460,66 EUR) bleibt mangels ueberzeugender Gelegenheit ungenutzt.",
+    "marketOverview": "Wochenende: Boersen fuer Aktien, ETFs und Rohstoffe weiterhin geschlossen. Kryptomarkt insgesamt schwaecher: Bitcoin ca. 79.555 USD (-1,87% 24h), Ethereum ca. 2.451 USD (-2,34%), Solana ca. 101,85 USD (-2,0%), XRP faellt auf ca. 1,40 USD (-3,6% 24h) und damit wieder an die Unterkante der seit Monaten intakten Widerstandszone 1,40-1,50 USD zurueck - weiterhin kein bestaetigter Ausbruch. Belastend wirken anhaltende ETF-Mittelabfluesse (netto 4,83 Mrd. USD aus Bitcoin-ETFs seit Jahresbeginn) und fehlende institutionelle Nachfrage vor der Fed-Sitzung am 15./16.09.",
+    "decision": "Keine neue Position eroeffnet und keine bestehende verkauft. NVDA (Boerse geschlossen, Wochenende) bleibt unveraendert bei 231,11 USD (+0,86%). XRP-Position wird mit gesunkenem Kurs von 1,40 USD (+2,19% seit Kauf, vorher +5,84%) weiter gehalten, da die urspruengliche Kaufthese (Momentum im risikofreudigen Marktumfeld) durch den heutigen breiten Krypto-Ruecksetzer nicht fundamental widerlegt ist und die Position weiterhin im Plus notiert.",
+    "reasoning": "Aktien/ETFs/Rohstoffe sind am Wochenende nicht handelbar. Im Kryptomarkt dreht die Stimmung von leicht positiv (Vorlauf) auf schwaecher: BTC, ETH, SOL und XRP notieren alle im Minus, XRP faellt von ca. 1,45 auf 1,40 USD zurueck und haengt weiter an der Unterkante der Widerstandszone 1,40-1,50 USD fest - kein bestaetigter Ausbruch, der einen Nachkauf rechtfertigen wuerde. Ein Verkauf ist ebenfalls nicht gerechtfertigt, da die Position trotz Ruecksetzer noch mit +2,19% im Plus liegt und kein fundamentaler Bruch der Kaufthese vorliegt. Freies Kapital bleibt mangels ueberzeugender Gelegenheit ungenutzt.",
     "positionIds": [
       "pos-0010",
       "pos-0011"
     ],
-    "portfolioValueEnd": 1537.75,
+    "portfolioValueEnd": 1519.5,
     "updates": [
       {
         "time": "00:09",
@@ -3780,6 +3780,11 @@
         "time": "11:08",
         "note": "Keine Aenderung - Wochenende, Boersen fuer Aktien/ETFs/Rohstoffe weiterhin geschlossen. XRP unveraendert bei ca. 1,45 USD (+5,7% 24h), haengt weiterhin unter der seit Monaten intakten Widerstandszone 1,40-1,50 USD fest, kein bestaetigter Ausbruch. BTC unter 80.000 USD nach Abpraller von ca. 81.500 USD. Fed-Zinsentscheidung erst am 15./16.09., CPI-Daten am 11.09. - kein neuer Katalysator seit dem letzten Lauf, daher kein Handel.",
         "portfolioValue": 1537.75
+      },
+      {
+        "time": "12:08",
+        "note": "Keine Aenderung - Wochenende, Boersen fuer Aktien/ETFs/Rohstoffe weiterhin geschlossen. Kryptomarkt insgesamt schwaecher (BTC ca. 79.555 USD -1,87%, ETH -2,34%, SOL -2,0%), XRP faellt auf 1,40 USD (-3,6% 24h) zurueck an die Unterkante der Widerstandszone 1,40-1,50 USD, kein bestaetigter Ausbruch. Kein Handel.",
+        "portfolioValue": 1519.5
       }
     ]
   }
