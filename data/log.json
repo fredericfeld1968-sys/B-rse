@@ -3712,14 +3712,14 @@
   },
   {
     "date": "2026-09-05",
-    "marketOverview": "Weiterhin Wochenende: Boersen fuer Aktien, ETFs und Rohstoffe geschlossen. Kryptomarkt uneinheitlich - je nach Quelle liegt Bitcoin zwischen ca. 79.600 und 81.300 USD (Spanne von leicht negativ bis +5% je 24h-Fenster), getrieben von starken ETF-Zuflaeufen der letzten drei Wochen (3,8 Mrd. USD) einerseits und Sorge vor einer moeglichen Fed-Zinserhoehung am 15./16.09. (Marktwahrscheinlichkeit 55-70%, 10-Jahres-Rendite bei ca. 4,78-4,81%) andererseits. XRP pendelt weiterhin zwischen 1,40 und 1,45 USD an der Unterkante der seit Monaten intakten Widerstandszone 1,40-1,50 USD, ohne bestaetigten Ausbruch nach oben oder unten.",
-    "decision": "Keine neue Position eroeffnet und keine bestehende verkauft. NVDA (Boerse geschlossen, Wochenende) bleibt unveraendert bei 231,11 USD (+0,86%). XRP-Position leicht im Plus bei 1,41 USD (+2,92% seit Kauf), da weiterhin kein bestaetigter Ausbruch aus der Widerstandszone 1,40-1,50 USD vorliegt und die Kaufthese nicht widerlegt ist.",
-    "reasoning": "Aktien/ETFs/Rohstoffe sind am Wochenende nicht handelbar. Die Kryptomarkt-Signale sind uneinheitlich und quellenabhaengig widerspruechlich (BTC laut verschiedenen Anbietern zwischen leicht negativ und +5% 24h) - das ist kein klarer, unabhaengig bestaetigter Katalysator, der einen Nachkauf rechtfertigen wuerde. XRP bleibt seit Stunden in der engen Spanne 1,40-1,45 USD ohne bestaetigten Ausbruch gefangen. Ein Verkauf ist ebenfalls nicht gerechtfertigt, da die Position im Plus liegt und kein fundamentaler Bruch der urspruenglichen Kaufthese vorliegt. Freies Kapital (ca. 30.460 EUR) bleibt mangels ueberzeugender Gelegenheit ungenutzt.",
+    "marketOverview": "Weiterhin Wochenende: Boersen fuer Aktien, ETFs und Rohstoffe geschlossen. Kryptomarkt leicht schwaecher - Bitcoin bei ca. 79.555 USD (-1,87% 24h), XRP bei 1,40 USD (-3,6% 24h) weiterhin unterhalb der seit Monaten intakten Widerstandszone 1,40-1,50 USD, Solana bei ca. 102 USD. Belastungsfaktor bleibt die steigende Wahrscheinlichkeit einer Fed-Zinserhoehung am 15./16.09. (je nach Quelle 45-68%), nachdem Fed-Gouverneur Warsh die Inflationslage als 'besorgniserregend' bezeichnet hatte.",
+    "decision": "Keine neue Position eroeffnet und keine bestehende verkauft. NVDA (Boerse geschlossen, Wochenende) bleibt unveraendert bei 231,11 USD (+0,86%). XRP-Position leicht im Plus bei 1,40 USD (+2,19% seit Kauf), da weiterhin kein bestaetigter Ausbruch aus der Widerstandszone 1,40-1,50 USD vorliegt und die Kaufthese nicht widerlegt ist.",
+    "reasoning": "Aktien/ETFs/Rohstoffe sind am Wochenende nicht handelbar. Der Kryptomarkt ist leicht schwaecher (BTC -1,87%, XRP -3,6% 24h) im Vorfeld steigender Zinserhoehungs-Erwartungen fuer die Fed-Sitzung am 15./16.09. - das ist kein neuer, ueberzeugender Katalysator fuer einen Nachkauf, sondern Fortsetzung des seit Stunden bekannten Bildes. XRP haengt weiterhin in der Spanne 1,40-1,45 USD ohne bestaetigten Ausbruch fest. Ein Verkauf ist ebenfalls nicht gerechtfertigt, da die Position im Plus liegt und kein fundamentaler Bruch der urspruenglichen Kaufthese vorliegt. Freies Kapital bleibt mangels ueberzeugender Gelegenheit ungenutzt.",
     "positionIds": [
       "pos-0010",
       "pos-0011"
     ],
-    "portfolioValueEnd": 1523.15,
+    "portfolioValueEnd": 1519.5,
     "updates": [
       {
         "time": "00:09",
@@ -3790,6 +3790,11 @@
         "time": "13:08",
         "note": "Keine Aenderung - Wochenende, Boersen fuer Aktien/ETFs/Rohstoffe weiterhin geschlossen. Kryptomarkt-Signale uneinheitlich (BTC je nach Quelle 79.600-81.300 USD), XRP pendelt weiter zwischen 1,40-1,45 USD ohne bestaetigten Ausbruch aus der Widerstandszone 1,40-1,50 USD. Kein Handel.",
         "portfolioValue": 1523.15
+      },
+      {
+        "time": "14:09",
+        "note": "Keine Aenderung - Wochenende, Boersen fuer Aktien/ETFs/Rohstoffe weiterhin geschlossen. BTC leicht schwaecher bei ca. 79.555 USD (-1,87% 24h), XRP bei 1,40 USD (-3,6% 24h) weiterhin unter der Widerstandszone 1,40-1,50 USD, kein bestaetigter Ausbruch. Steigende Fed-Zinserhoehungs-Erwartungen (15./16.09.) belasten Risikoappetit leicht. Kein Handel.",
+        "portfolioValue": 1519.5
       }
     ]
   }
