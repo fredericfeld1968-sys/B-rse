@@ -3712,14 +3712,14 @@
   },
   {
     "date": "2026-09-05",
-    "marketOverview": "Wochenende: Boersen fuer Aktien, ETFs und Rohstoffe weiterhin geschlossen. Kryptomarkt uneinheitlich: Bitcoin um 80.900-81.300 USD (24h-Vola durch Long-Liquidationen nach starken US-Arbeitsmarktdaten, die Fed-Zinssenkungshoffnungen daempfen), Solana ca. 100-104 USD, XRP bei ca. 1,44 USD und damit weiterhin unterhalb der Widerstandszone 1,48-1,53 USD - kein bestaetigter Ausbruch. Die CLARITY-Act-Abstimmung im Senat am 15.09. bleibt der naechste grosse Katalysator, Prognosemaerkte sehen die Erfolgswahrscheinlichkeit aktuell nur bei ca. 16-20%.",
-    "decision": "Keine neue Position eroeffnet und keine bestehende verkauft. NVDA (Boerse geschlossen, Freitagsschluss) und XRP (weiterhin kein bestaetigter Ausbruch ueber 1,48-1,53 USD, zudem leichte Abschwaechung nach starken US-Jobdaten) werden unveraendert gehalten.",
-    "reasoning": "Aktien/ETFs/Rohstoffe sind am Wochenende nicht handelbar, NVDA bleibt daher unveraendert bei 231,11 USD (+0,86%, Freitagsschluss). XRP notiert bei ca. 1,44 USD (+5,11% seit Kauf) und hat sich leicht von der Widerstandszone 1,48-1,50 USD entfernt, nachdem starke US-Arbeitsmarktdaten die Fed-Zinssenkungserwartungen gedaempft und im gesamten Kryptomarkt Long-Liquidationen ausgeloest haben (BTC kurzzeitig von ~81.340 auf ~79.660 USD). Kein bestaetigter Ausbruch, kein neuer ueberzeugender Katalysator - daher kein Nachkauf. Freies Kapital (rund 30.461 EUR) waere ausreichend, wird aber mangels Gelegenheit nicht eingesetzt.",
+    "marketOverview": "Wochenende: Boersen fuer Aktien, ETFs und Rohstoffe weiterhin geschlossen. Kryptomarkt konsolidiert: Bitcoin um 80.900-81.000 USD, Solana ca. 103,85 USD, XRP mit ca. 1,40 USD (-4% in 24h) unter dem Vortagesniveau und weiterhin klar unterhalb der Widerstandszone 1,48-1,53 USD. Marktkapitalisierung insgesamt nahezu unveraendert (+0,2% in 24h) - abwartende Stimmung vor dem US-Arbeitsmarktbericht (Nonfarm Payrolls) und der Fed-Sitzung sowie CLARITY-Act-Abstimmung am 15.09. (Erfolgswahrscheinlichkeit laut Polymarket nur noch ca. 15-20%, deutlich gesunken).",
+    "decision": "Keine neue Position eroeffnet und keine bestehende verkauft. NVDA (Boerse geschlossen, Freitagsschluss) bleibt unveraendert bei 231,11 USD (+0,86%). XRP wird trotz leichter Abschwaechung auf ca. 1,40 USD (+2,19% seit Kauf, vorher +5,11%) weiter gehalten, da kein fundamentaler Bruch der These vorliegt, sondern nur eine normale Konsolidierung ohne bestaetigten Ausbruch in eine Richtung.",
+    "reasoning": "Aktien/ETFs/Rohstoffe sind am Wochenende nicht handelbar. Im Kryptomarkt fehlt weiterhin ein bestaetigter Ausbruch: XRP hat sich von der Widerstandszone 1,48-1,53 USD weiter entfernt (-4% in 24h auf ca. 1,40 USD), der Gesamtmarkt bewegt sich kaum (+0,2%), und der naechste grosse Katalysator (CLARITY-Act-Abstimmung, Fed-Entscheidung) liegt erst am 15.09. Kein ueberzeugender Anlass fuer einen Verkauf (Gewinn +2,19% ist kein fundamentaler Bruch der These, nur normale Volatilitaet) oder einen Nachkauf. Freies Kapital (ca. 30.461 EUR) bleibt mangels Gelegenheit ungenutzt.",
     "positionIds": [
       "pos-0010",
       "pos-0011"
     ],
-    "portfolioValueEnd": 1534.1,
+    "portfolioValueEnd": 1519.5,
     "updates": [
       {
         "time": "00:09",
@@ -3740,6 +3740,11 @@
         "time": "03:08",
         "note": "Keine Aenderung - Wochenende weiterhin ohne Aktienhandel. XRP leicht schwaecher bei ca. 1,44 USD (weiterhin unter der Widerstandszone 1,48-1,53 USD), Kryptomarkt insgesamt uneinheitlich nach starken US-Jobdaten und Long-Liquidationen bei Bitcoin. Kein bestaetigter Ausbruch, kein Handel.",
         "portfolioValue": 1534.1
+      },
+      {
+        "time": "04:09",
+        "note": "Keine Aenderung - Wochenende, Boersen geschlossen. XRP schwaecher bei ca. 1,40 USD (-4% 24h, +2,19% seit Kauf), kein bestaetigter Ausbruch, BTC/SOL nahezu unveraendert.",
+        "portfolioValue": 1519.5
       }
     ]
   }
