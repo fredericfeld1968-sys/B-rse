@@ -3845,9 +3845,9 @@
   },
   {
     "date": "2026-09-06",
-    "marketOverview": "Sonntag frueh, Boersen fuer Aktien/ETFs/Rohstoffe weiterhin geschlossen. Kryptomarkt konsolidiert seitwaerts: Bitcoin ca. 80.000 USD (+0,57% 24h) nachdem Trader ihre Wetten auf eine Fed-Zinserhoehung im September auf ein Muenzwurf-Niveau zurueckgefahren haben, XRP leicht schwaecher bei ca. 1,42 USD ohne bestaetigten Ausbruch ueber die Widerstandszone 1,43-1,50 USD. Kein neuer Katalysator seit den letzten Laeufen; naechste Termine bleiben CPI (11.09.) und die Fed-Sitzung (16./17.09.).",
-    "decision": "Keine neue Position eroeffnet und keine bestehende verkauft. NVDA (Boerse wochenendbedingt geschlossen) bleibt unveraendert bei 231,11 USD (+0,86%). XRP-Position leicht auf 1,42 USD zurueckgegangen (+3,65% seit Kauf), weiterhin ohne klar bestaetigten Ausbruch aus der Widerstandszone 1,43-1,50 USD und noch unter der etablierten Gewinnmitnahme-Zielspanne (7-8%).",
-    "reasoning": "Aktien/ETFs/Rohstoffe sind am Wochenende nicht handelbar. Der Kryptomarkt bewegt sich seitwaerts ohne neuen Katalysator; Bitcoin haelt sich um 80.000 USD, XRP faellt leicht zurueck statt auszubrechen. Ohne ueberzeugende neue Gelegenheit bleibt das freie Kapital ungenutzt und die bestehenden Positionen werden unveraendert gehalten.",
+    "marketOverview": "Sonntag frueh, Boersen fuer Aktien/ETFs/Rohstoffe weiterhin geschlossen. Kryptomarkt konsolidiert seitwaerts: Bitcoin haelt sich in der Zone 76.500-79.000 USD, XRP bei ca. 1,40-1,42 USD ohne bestaetigten Ausbruch ueber die Widerstandszone 1,43-1,50 USD. Naechste Termine bleiben CPI (11.09.) und die Fed-Sitzung (16./17.09.), an der der Markt mit rund 90% Wahrscheinlichkeit eine Zinssenkung einpreist.",
+    "decision": "Keine neue Position eroeffnet und keine bestehende verkauft. NVDA (Boerse wochenendbedingt geschlossen) bleibt unveraendert bei 231,11 USD (+0,86%). XRP-Position weiterhin bei ca. 1,42 USD (+3,65% seit Kauf), noch ohne bestaetigten Ausbruch aus der Widerstandszone 1,43-1,50 USD und unter der etablierten Gewinnmitnahme-Zielspanne (7-8%).",
+    "reasoning": "Aktien/ETFs/Rohstoffe sind am Wochenende nicht handelbar. Der Kryptomarkt bewegt sich seit mehreren Laeufen seitwaerts ohne neuen Katalysator. Ohne ueberzeugende neue Gelegenheit bleibt das freie Kapital ungenutzt und die bestehenden Positionen werden unveraendert gehalten.",
     "positionIds": [
       "pos-0010",
       "pos-0011"
@@ -3877,6 +3877,11 @@
       {
         "time": "04:07",
         "note": "Keine Aenderung - XRP leicht auf 1,42 USD zurueckgefallen (+3,65% seit Kauf), Kryptomarkt seitwaerts (BTC ~80.000 USD, Trader preisen Fed-Zinserhoehung im September nur noch als Muenzwurf ein), kein bestaetigter Ausbruch, kein Handel.",
+        "portfolioValue": 1526.8
+      },
+      {
+        "time": "05:08",
+        "note": "Keine Aenderung - Sonntag frueh, Boersen fuer Aktien/ETFs/Rohstoffe weiterhin geschlossen. Kryptomarkt seitwaerts (BTC weiterhin in der Konsolidierungszone 76.500-79.000 USD, Marktkapitalisierung ca. 2,65-2,78 Bio. USD), XRP unveraendert bei ca. 1,40-1,42 USD ohne bestaetigten Ausbruch ueber die Widerstandszone 1,43-1,50 USD. Naechster Katalysator bleibt die Fed-Sitzung am 16./17.09. (Markt preist ~90% Wahrscheinlichkeit einer Zinssenkung ein). Kein neuer Katalysator seit 04:07, kein Handel.",
         "portfolioValue": 1526.8
       }
     ]
