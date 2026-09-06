@@ -3845,15 +3845,15 @@
   },
   {
     "date": "2026-09-06",
-    "marketOverview": "Krypto konsolidiert weiter seitwaerts am Sonntagnachmittag: Bitcoin haelt sich in der Zone 77.000-81.000 USD, fuer die Fed-Sitzung am 15./16.09. werden unter Kevin Warsh eher steigende Zinserwartungen eingepreist (Kalshi rd. 59-68% Wahrscheinlichkeit einer Erhoehung), naechster wichtiger Katalysator ist der US-CPI-Bericht am 11.09. Solana notiert bei ca. 106,51 USD, die Zielzone 110-113 USD wurde weiterhin nicht erreicht. XRP pendelt um 1,42 USD unterhalb der Widerstandszone 1,43-1,50 USD. Aktien, ETFs und Rohstoffe sind am Sonntag weiterhin nicht handelbar; kein neuer ueberzeugender Katalysator fuer einen Trade.",
-    "decision": "Kein Trade in diesem Lauf. Alle drei offenen Positionen (NVDA, XRP, SOL) im Kursverlauf weitgehend unveraendert gegenueber dem letzten Lauf; keine Stop-Loss- oder Zielzonen-Schwelle erreicht. Aktienmarkt am Sonntag geschlossen, Krypto zeigt keine ueberzeugende neue Gelegenheit.",
-    "reasoning": "SOL (106,51 USD, +4,05%) naehert sich der Zielzone 110-113 USD leicht an, aber noch kein bestaetigter Ausbruch. XRP (1,42 USD, +3,65%) bleibt unter der Widerstandszone 1,43-1,50 USD ohne Bestaetigung. NVDA unveraendert, da US-Boersen am Wochenende geschlossen sind. Freies Kapital (~30.961 EUR) bleibt reichlich vorhanden, aber ohne ueberzeugende Chance wird nicht spekulativ nachgekauft.",
+    "marketOverview": "Krypto konsolidiert weiter seitwaerts am Sonntagnachmittag: Bitcoin haelt sich um 79.800-81.000 USD, Solana pendelt in der Zone 104-106 USD (Zielzone 110-113 USD weiterhin nicht erreicht), XRP stabil bei 1,42-1,43 USD unterhalb der Widerstandszone 1,43-1,50 USD. Fed-Zinserhoehungssorgen fuer die Sitzung am 15./16.09. nehmen laut Marktberichten leicht zu (Wahrscheinlichkeit einer Erhoehung je nach Quelle 52-70%), was risikoreiche Anlagen leicht daempft; naechster wichtiger Katalysator bleibt der US-CPI-Bericht am 11.09. Aktien, ETFs und Rohstoffe sind am Sonntag weiterhin nicht handelbar; kein neuer ueberzeugender Katalysator fuer einen Trade.",
+    "decision": "Kein Trade in diesem Lauf. Alle drei offenen Positionen (NVDA, XRP, SOL) im Kursverlauf weitgehend unveraendert gegenueber dem letzten Lauf; keine Stop-Loss- oder Zielzonen-Schwelle erreicht. Aktienmarkt am Sonntag geschlossen, Krypto zeigt keine ueberzeugende neue Gelegenheit, zumal leicht zunehmende Fed-Zinserhoehungssorgen fuer Vorsicht sprechen.",
+    "reasoning": "SOL (105,20 USD, +2,77%) leicht unter dem Stand des Vorlaufs, Zielzone 110-113 USD weiterhin nicht erreicht, kein Stop-Loss beruehrt. XRP unveraendert bei 1,42 USD (+3,65%), weiterhin unter der Widerstandszone 1,43-1,50 USD. NVDA unveraendert, da US-Boersen am Wochenende geschlossen sind. Freies Kapital (~30.960 EUR) bleibt reichlich vorhanden, aber ohne ueberzeugende Chance und bei leicht steigenden Zinserhoehungssorgen wird nicht spekulativ nachgekauft.",
     "positionIds": [
       "pos-0010",
       "pos-0011",
       "pos-0012"
     ],
-    "portfolioValueEnd": 2043.8,
+    "portfolioValueEnd": 2037.4,
     "updates": [
       {
         "time": "00:07",
@@ -3934,6 +3934,11 @@
         "time": "15:10",
         "note": "Keine Aenderung - Solana leicht auf 106,51 USD gestiegen (+4,05%), naehert sich der Zielzone 110-113 USD an, aber noch kein bestaetigter Ausbruch. XRP leicht auf 1,42 USD zurueckgekommen (+3,65%), weiterhin unter der Widerstandszone 1,43-1,50 USD. Kein neuer Katalysator, kein Handel.",
         "portfolioValue": 2043.8
+      },
+      {
+        "time": "16:09",
+        "note": "Keine Aenderung - Solana leicht auf 105,20 USD zurueckgekommen (+2,77%, vorher 106,51 USD), Zielzone 110-113 USD weiterhin nicht erreicht. XRP unveraendert bei 1,42 USD (+3,65%). Fed-Zinserhoehungssorgen fuer die Sitzung am 15./16.09. nehmen laut Marktberichten leicht zu, daher zusaetzliche Zurueckhaltung bei Neukaeufen. Kein Handel.",
+        "portfolioValue": 2037.4
       }
     ]
   }
