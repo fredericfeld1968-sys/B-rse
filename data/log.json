@@ -3845,14 +3845,15 @@
   },
   {
     "date": "2026-09-06",
-    "marketOverview": "Sonntag frueh, Boersen fuer Aktien/ETFs/Rohstoffe weiterhin geschlossen. Kryptomarkt konsolidiert seitwaerts: Bitcoin haelt sich in der Zone 76.500-79.000 USD, XRP bei ca. 1,40-1,42 USD ohne bestaetigten Ausbruch ueber die Widerstandszone 1,43-1,50 USD. Naechste Termine bleiben CPI (11.09.) und die Fed-Sitzung (16./17.09.), an der der Markt mit rund 90% Wahrscheinlichkeit eine Zinssenkung einpreist.",
-    "decision": "Keine neue Position eroeffnet und keine bestehende verkauft. NVDA (Boerse wochenendbedingt geschlossen) bleibt unveraendert bei 231,11 USD (+0,86%). XRP-Position weiterhin bei ca. 1,42 USD (+3,65% seit Kauf), noch ohne bestaetigten Ausbruch aus der Widerstandszone 1,43-1,50 USD und unter der etablierten Gewinnmitnahme-Zielspanne (7-8%).",
-    "reasoning": "Aktien/ETFs/Rohstoffe sind am Wochenende nicht handelbar. Der Kryptomarkt bewegt sich seit mehreren Laeufen seitwaerts ohne neuen Katalysator. Ohne ueberzeugende neue Gelegenheit bleibt das freie Kapital ungenutzt und die bestehenden Positionen werden unveraendert gehalten.",
+    "marketOverview": "Sonntag frueh, Boersen fuer Aktien/ETFs/Rohstoffe weiterhin geschlossen. Bitcoin haelt sich um ca. 80.000-81.000 USD, Kryptomarkt insgesamt in 'Greed'-Stimmung (Fear&Greed 63-73). Solana durchbricht die seit Monaten intakte Widerstandszone 103-106 USD und haelt den Rueckzug auf ca. 102 USD als frische Unterstuetzung - mehrfach unabhaengig bestaetigter technischer Ausbruch, zusaetzlich gestuetzt durch eine von der Community beschlossene Reduktion der kuenftigen Token-Emission. XRP bleibt bei ca. 1,42 USD ohne bestaetigten Ausbruch ueber die Widerstandszone 1,43-1,50 USD.",
+    "decision": "Neue spekulative Position eroeffnet: Solana (SOL) fuer 500 EUR bei 102,36 USD, gestuetzt auf den bestaetigten Ausbruch aus der Widerstandszone 103-106 USD. NVDA (Boerse wochenendbedingt geschlossen) bei 230,36 USD (+0,53%), XRP unveraendert bei 1,42 USD (+3,65%) - beide bestehenden Positionen unveraendert gehalten.",
+    "reasoning": "Aktien/ETFs/Rohstoffe sind am Wochenende nicht handelbar. Fuer Solana liegt jedoch eine ueberzeugende, mehrfach unabhaengig bestaetigte technische und fundamentale Gelegenheit vor (Ausbruch aus monatelanger Widerstandszone plus angebotsseitig positive Tokenomics-Aenderung), weshalb passend zum spekulativen Risikoprofil eine kurzfristige Momentum-Position eroeffnet wird. Fuer NVDA und XRP gibt es keinen neuen Katalysator, beide bleiben unveraendert.",
     "positionIds": [
       "pos-0010",
-      "pos-0011"
+      "pos-0011",
+      "pos-0012"
     ],
-    "portfolioValueEnd": 1526.8,
+    "portfolioValueEnd": 2023.53,
     "updates": [
       {
         "time": "00:07",
@@ -3883,6 +3884,11 @@
         "time": "05:08",
         "note": "Keine Aenderung - Sonntag frueh, Boersen fuer Aktien/ETFs/Rohstoffe weiterhin geschlossen. Kryptomarkt seitwaerts (BTC weiterhin in der Konsolidierungszone 76.500-79.000 USD, Marktkapitalisierung ca. 2,65-2,78 Bio. USD), XRP unveraendert bei ca. 1,40-1,42 USD ohne bestaetigten Ausbruch ueber die Widerstandszone 1,43-1,50 USD. Naechster Katalysator bleibt die Fed-Sitzung am 16./17.09. (Markt preist ~90% Wahrscheinlichkeit einer Zinssenkung ein). Kein neuer Katalysator seit 04:07, kein Handel.",
         "portfolioValue": 1526.8
+      },
+      {
+        "time": "06:08",
+        "note": "Kauf Solana (SOL) 500 EUR bei 102,36 USD - bestaetigter Ausbruch aus der Widerstandszone 103-106 USD, Rueckzug auf ~102 USD haelt als Support. NVDA 230,36 USD (+0,53%), XRP unveraendert 1,42 USD (+3,65%).",
+        "portfolioValue": 2023.53
       }
     ]
   }
