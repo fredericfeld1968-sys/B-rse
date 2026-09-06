@@ -3845,9 +3845,9 @@
   },
   {
     "date": "2026-09-06",
-    "marketOverview": "Sonntag Nachmittag, Boersen fuer Aktien/ETFs/Rohstoffe weiterhin geschlossen. Bitcoin behauptet sich um ca. 80.000 USD nach der Erholung von den Junitiefs (~58.000 USD). Solana seitwaerts bei ca. 105,25 USD, Zielzone 110-113 USD weiterhin nicht erreicht. XRP leicht auf 1,43 USD gestiegen (+4,38% seit Kauf), aber weiterhin ohne bestaetigten Ausbruch ueber die Widerstandszone 1,43-1,50 USD. Maerkte warten auf CPI (11.09.) und FOMC-Entscheid (15./16.09.).",
-    "decision": "Keine neuen Trades in diesem Lauf. Bestehende Positionen unveraendert gehalten: NVDA (Boerse wochenendbedingt geschlossen) bei 230,36 USD (+0,53%), XRP nun bei 1,43 USD (+4,38%), Solana unveraendert bei 105,25 USD (+2,82%, Zielzone 110-113 USD weiterhin nicht erreicht).",
-    "reasoning": "Aktien/ETFs/Rohstoffe sind am Wochenende weiterhin nicht handelbar. XRP legt leicht auf 1,43 USD zu, bleibt aber unter der Widerstandszone 1,43-1,50 USD ohne bestaetigten Ausbruch - kein Handelssignal. Solana haelt sich stabil ueber der durchbrochenen Widerstandszone 103-106 USD, Zielzone 110-113 USD weiterhin nicht erreicht - kein Verkaufssignal. Kein neuer, wirklich ueberzeugender Katalysator seit dem letzten Lauf, daher keine Aenderung und keine neue Position trotz vorhandenem freiem Kapital.",
+    "marketOverview": "Krypto konsolidiert nach der starken August-Rally: Bitcoin haelt sich in der Zone 77.000-80.000 USD vor den Fed-Kommentaren im September, Short-Liquidationen von zeitweise über 1,2 Mrd. USD stuetzen den Kurs. Solana bewegt sich weiterhin seitwaerts um 103-106 USD, die Zielzone 110-113 USD wurde noch nicht erreicht. XRP verharrt bei rund 1,42-1,43 USD unterhalb der Widerstandszone 1,43-1,50 USD. Aktien, ETFs und Rohstoffe sind am Sonntag nicht handelbar; kein neuer ueberzeugender Katalysator fuer einen Trade.",
+    "decision": "Kein Trade in diesem Lauf. Alle drei offenen Positionen (NVDA, XRP, SOL) im Kursverlauf weitgehend unveraendert gegenueber dem letzten Lauf; keine Stop-Loss- oder Zielzonen-Schwelle erreicht. Aktienmarkt am Sonntag geschlossen, Krypto zeigt keine ueberzeugende neue Gelegenheit.",
+    "reasoning": "SOL (105,25 USD, +2,82%) haelt sich weiter unter der Zielzone 110-113 USD, kein Ausbruch. XRP (1,43 USD, +4,38%) bleibt unter der Widerstandszone 1,43-1,50 USD ohne Bestaetigung. NVDA unveraendert, da US-Boersen am Wochenende geschlossen sind. Freies Kapital (~30.960 EUR) bleibt reichlich vorhanden, aber ohne ueberzeugende Chance wird nicht spekulativ nachgekauft.",
     "positionIds": [
       "pos-0010",
       "pos-0011",
@@ -3923,6 +3923,11 @@
       {
         "time": "13:09",
         "note": "Keine Aenderung - XRP leicht auf 1,43 USD gestiegen (+4,38% seit Kauf), weiterhin unter der Widerstandszone 1,43-1,50 USD. Solana stabil bei 105,25 USD, Zielzone 110-113 USD nicht erreicht. Kein neuer Katalysator, kein Handel.",
+        "portfolioValue": 2041.3
+      },
+      {
+        "time": "14:09",
+        "note": "Keine Aenderung - Solana stabil bei 105,25 USD (+2,82%), XRP stabil bei 1,43 USD (+4,38%), beide weiterhin unter ihren jeweiligen Zielzonen. Aktienmarkt sonntags geschlossen. Kein neuer Katalysator, kein Handel.",
         "portfolioValue": 2041.3
       }
     ]
