@@ -196,10 +196,10 @@
     "reasoning": "Solana durchbricht die seit Monaten intakte Widerstandszone 103-106 USD mit deutlich erhoehtem Volumen und haelt den Rueckzug auf ca. 102 USD als frische Unterstuetzung - mehrfach unabhaengig bestaetigt (u.a. Coinpedia, Coin-Turk, BraveNewCoin). Zusaetzlicher fundamentaler Katalysator: Die Solana-Community hat eine deutliche Reduktion der kuenftigen Token-Emission beschlossen (angebotsseitig positiv). Breiter Krypto-Markt in 'Greed'-Stimmung (Fear&Greed 63-73), Analysten sehen bei Ueberwinden von 110,15 USD als naechstes Ziel 113 und darueber 120-132 USD. Da Aktien/ETFs/Rohstoffe am Wochenende nicht handelbar sind, spekulative Momentum-Position auf den bestaetigten Ausbruch.",
     "status": "open",
     "buyPrice": 102.36,
-    "currentPrice": 105.32,
-    "currentValue": 514.46,
-    "profitLoss": 14.46,
-    "profitLossPct": 2.89,
+    "currentPrice": 105.25,
+    "currentValue": 514.12,
+    "profitLoss": 14.12,
+    "profitLossPct": 2.82,
     "closedDate": null,
     "closeReasoning": null
   }

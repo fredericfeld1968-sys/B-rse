@@ -3845,15 +3845,15 @@
   },
   {
     "date": "2026-09-06",
-    "marketOverview": "Sonntag Vormittag, Boersen fuer Aktien/ETFs/Rohstoffe weiterhin geschlossen. Bitcoin bei ca. 79.847 USD (+0,13%), Solana zieht auf 105,32 USD an (+2,95% 24h), XRP unveraendert bei 1,42 USD (+0,84%). Fed-Zinsentscheid am 15./16.09. weiter im Fokus; Marktbeobachter sehen die Wahrscheinlichkeit einer Zinssenkung derzeit als gering ein, was den Risikoappetit im Kryptomarkt leicht daempft. Kein neuer, klar bestaetigter Ausbruch bei Solana (Zielzone weiterhin 110-113 USD) oder XRP (Widerstandszone weiterhin 1,43-1,50 USD).",
-    "decision": "Keine neuen Trades in diesem Lauf. Bestehende Positionen unveraendert gehalten: NVDA (Boerse wochenendbedingt geschlossen) bei 230,36 USD (+0,53%), XRP bei 1,42 USD (+3,65%), Solana leicht erholt auf 105,32 USD (+2,89%, Zielzone 110-113 USD weiterhin nicht erreicht).",
-    "reasoning": "Aktien/ETFs/Rohstoffe sind am Wochenende weiterhin nicht handelbar. Solana zieht seit dem letzten Lauf leicht von 104,5 auf 105,32 USD an, bleibt aber unterhalb der Zielzone 110-113 USD - kein Verkaufssignal, kein Stop-Loss-Niveau erreicht, Position wird weiter gehalten. XRP bleibt unveraendert ohne bestaetigten Ausbruch ueber die Widerstandszone 1,43-1,50 USD - kein Handelssignal. Kein neuer, wirklich ueberzeugender Katalysator seit dem letzten Lauf (Fed-Entscheid erst am 15./16.09.), daher keine Aenderung und keine neue Position trotz vorhandenem freiem Kapital.",
+    "marketOverview": "Sonntag Mittag, Boersen fuer Aktien/ETFs/Rohstoffe weiterhin geschlossen. Bitcoin bei ca. 79.969 USD (+0,39%), Solana seitwaerts bei 105,25 USD nach bestaetigtem Ausbruch ueber 103 USD, Zielzone 110-113 USD weiterhin nicht erreicht. XRP unveraendert bei 1,42 USD (+0,78%) unter der Widerstandszone 1,43-1,50 USD. Gesamtmarkt in Wartehaltung (Marktkap. 2,75 Bio. USD, +0,2% 24h) vor der Fed-Sitzung am 16.09., Zinserwartungen uneinheitlich.",
+    "decision": "Keine neuen Trades in diesem Lauf. Bestehende Positionen unveraendert gehalten: NVDA (Boerse wochenendbedingt geschlossen) bei 230,36 USD (+0,53%), XRP bei 1,42 USD (+3,65%), Solana bei 105,25 USD (+2,82%, Zielzone 110-113 USD weiterhin nicht erreicht).",
+    "reasoning": "Aktien/ETFs/Rohstoffe sind am Wochenende weiterhin nicht handelbar. Solana notiert nahezu unveraendert bei 105,25 USD, haelt sich ueber der durchbrochenen Widerstandszone 103-106 USD, aber die Zielzone 110-113 USD ist weiterhin nicht erreicht - kein Verkaufssignal, kein Stop-Loss beruehrt. XRP bleibt unveraendert unter der Widerstandszone 1,43-1,50 USD ohne bestaetigten Ausbruch - kein Handelssignal. Kein neuer, wirklich ueberzeugender Katalysator seit dem letzten Lauf (Fed-Entscheid erst am 16.09.), daher keine Aenderung und keine neue Position trotz vorhandenem freiem Kapital.",
     "positionIds": [
       "pos-0010",
       "pos-0011",
       "pos-0012"
     ],
-    "portfolioValueEnd": 2037.99,
+    "portfolioValueEnd": 2037.65,
     "updates": [
       {
         "time": "00:07",
@@ -3914,6 +3914,11 @@
         "time": "11:08",
         "note": "Keine Aenderung - Solana zieht leicht auf 105,32 USD an (+2,89%), Zielzone 110-113 USD weiterhin nicht erreicht; XRP unveraendert bei 1,42 USD unter Widerstandszone 1,43-1,50 USD. Kein neuer Katalysator, kein Handel.",
         "portfolioValue": 2037.99
+      },
+      {
+        "time": "12:09",
+        "note": "Keine Aenderung - Solana nahezu unveraendert bei 105,25 USD (+2,82%), Zielzone 110-113 USD weiterhin nicht erreicht. XRP unveraendert bei 1,42 USD unter Widerstandszone 1,43-1,50 USD. Gesamtmarkt in Wartehaltung vor der Fed-Sitzung am 16.09., kein neuer Katalysator, kein Handel.",
+        "portfolioValue": 2037.65
       }
     ]
   }
