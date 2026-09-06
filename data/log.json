@@ -3845,15 +3845,15 @@
   },
   {
     "date": "2026-09-06",
-    "marketOverview": "Krypto weiterhin in enger Konsolidierung am spaeten Sonntagabend: Bitcoin haelt sich stabil bei ca. 79.850 USD, Solana unveraendert bei 103,76 USD (weiterhin ueber der durchbrochenen Widerstandszone 103-106 USD, Zielzone 110-113 USD nicht erreicht), XRP unveraendert bei 1,42 USD unter der Widerstandszone 1,43-1,50 USD. Fed-Zinserwartungen fuer die Sitzung am 15./16.09. haben sich weiter Richtung Zinserhoehung verschoben (Marktpreisung ca. 59-68% fuer eine Anhebung, Cut-Wahrscheinlichkeit nur noch ~1%), was den Risikoappetit fuer Krypto zusaetzlich daempft. Aktien, ETFs und Rohstoffe bleiben sonntags geschlossen.",
-    "decision": "Kein Trade in diesem Lauf (21. Lauf des Tages). Alle drei offenen Positionen (NVDA, XRP, SOL) unveraendert; kein Stop-Loss und keine Zielzone erreicht. Zunehmend hawkishe Fed-Erwartungen sprechen zusaetzlich gegen einen spekulativen Neukauf ohne klaren Katalysator.",
-    "reasoning": "SOL unveraendert bei 103,76 USD (+1,37% seit Kauf), Zielzone 110-113 USD weiterhin nicht erreicht, kein Stop-Loss beruehrt. XRP unveraendert bei 1,42 USD (+3,65% seit Kauf), weiterhin unter der Widerstandszone 1,43-1,50 USD, kein bestaetigter Ausbruch. NVDA unveraendert, da US-Boersen am Wochenende geschlossen sind. Zusaetzlich hat sich die Fed-Erwartung weiter Richtung Zinserhoehung (59-68% Wahrscheinlichkeit) statt Senkung verschoben, was gegen einen risikofreudigen Neukauf ohne klaren Katalysator spricht. Freies Kapital bleibt reichlich vorhanden, aber ohne ueberzeugende neue Chance wird nicht spekulativ nachgekauft.",
+    "marketOverview": "Kryptomarkt spaet am Sonntagabend weiterhin in enger Konsolidierung: Bitcoin haelt sich stabil bei ca. 80.000 USD, Solana notiert bei rund 105,90 USD (+3,46% seit Kauf, ueber der durchbrochenen Widerstandszone 103-106 USD, Zielzone 110-113 USD weiterhin nicht erreicht), XRP bei ca. 1,41 USD (+2,92% seit Kauf) knapp unter der Widerstandszone 1,43-1,50 USD ohne bestaetigten Ausbruch. Fed-Zinserwartungen fuer die Sitzung am 16./17.09. bleiben uneinheitlich (CME FedWatch ca. 58% Anhebung, Polymarket-Trader dagegen mit knapper Mehrheit fuer unveraendert), naechster wichtiger Datenpunkt ist der US-CPI-Bericht am 11.09. Aktien, ETFs und Rohstoffe bleiben sonntags geschlossen.",
+    "decision": "Kein Trade in diesem Lauf (22. Lauf des Tages). Alle drei offenen Positionen (NVDA, XRP, SOL) unveraendert; kein Stop-Loss und keine Zielzone erreicht. Uneinheitliche Fed-Zinserwartungen liefern keinen klaren neuen Katalysator fuer einen spekulativen Neukauf.",
+    "reasoning": "SOL bei 105,90 USD (+3,46% seit Kauf) haelt sich ueber der durchbrochenen Widerstandszone 103-106 USD, Zielzone 110-113 USD weiterhin nicht erreicht, kein Stop-Loss beruehrt. XRP bei 1,41 USD (+2,92% seit Kauf) weiterhin knapp unter der Widerstandszone 1,43-1,50 USD, kein bestaetigter Ausbruch. NVDA unveraendert, da US-Boersen am Wochenende geschlossen sind. Die Fed-Zinserwartungen fuer die Sitzung am 16./17.09. sind uneinheitlich (CME vs. Polymarket widersprechen sich), was gegen einen risikofreudigen Neukauf ohne klaren Katalysator spricht. Freies Kapital bleibt reichlich vorhanden, aber ohne ueberzeugende neue Chance wird nicht spekulativ nachgekauft.",
     "positionIds": [
       "pos-0010",
       "pos-0011",
       "pos-0012"
     ],
-    "portfolioValueEnd": 2030.37,
+    "portfolioValueEnd": 2037.17,
     "updates": [
       {
         "time": "00:07",
@@ -3964,6 +3964,11 @@
         "time": "21:08",
         "note": "Keine Aenderung - Kryptomarkt unveraendert (BTC ~79.850 USD, SOL 103,76 USD, XRP 1,42 USD), kein neuer Katalysator. Fed-Zinserhoehungswahrscheinlichkeit fuer 15./16.09. weiter gestiegen (59-68%), zusaetzliche Zurueckhaltung bei Neukaeufen. Kein Handel.",
         "portfolioValue": 2030.37
+      },
+      {
+        "time": "22:08",
+        "note": "Keine Aenderung - Solana bei 105,90 USD (+3,46%) weiterhin ueber der durchbrochenen Widerstandszone, Zielzone 110-113 USD nicht erreicht. XRP bei 1,41 USD (+2,92%) knapp unter der Widerstandszone 1,43-1,50 USD, kein bestaetigter Ausbruch. Fed-Zinserwartungen uneinheitlich (CME vs. Polymarket), kein klarer neuer Katalysator, kein Handel.",
+        "portfolioValue": 2037.17
       }
     ]
   }
