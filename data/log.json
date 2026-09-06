@@ -3845,15 +3845,15 @@
   },
   {
     "date": "2026-09-06",
-    "marketOverview": "Krypto konsolidiert weiterhin am Sonntagabend nahe der juengsten Hochs: Solana pendelt in der Zone 102-107 USD (aktuell ca. 105,90 USD), Zielzone 110-113 USD weiterhin nicht erreicht - unterstuetzt durch die SEC-Anerkennung von SOL/BTC/ETH/XRP als Trust-faehige Assets (05.09.) und ein fuer 09.09. geplantes Solana-Netzwerk-Upgrade. XRP leicht auf 1,43 USD gestiegen, damit gerade am unteren Rand der Widerstandszone 1,43-1,50 USD, aber kein bestaetigter Ausbruch (24h ca. +1,16%, schwaecher als der breite Kryptomarkt). Bitcoin haelt sich bei ca. 80.000-82.300 USD nach starken ETF-Zuflussen (3,52 Mrd. USD im August); die Zone 80.000-82.300 USD bleibt die zentrale technische Widerstandsfrage. Naechste Katalysatoren bleiben CPI (11.09.) und FOMC (16./17.09.). Aktien, ETFs und Rohstoffe bleiben am Sonntag geschlossen.",
-    "decision": "Kein Trade in diesem Lauf. Alle drei offenen Positionen (NVDA, XRP, SOL) im Kursverlauf weitgehend unveraendert gegenueber dem letzten Lauf; keine Stop-Loss- oder Zielzonen-Schwelle erreicht. Aktienmarkt am Sonntag geschlossen, Krypto zeigt weiterhin keine ueberzeugende neue Gelegenheit.",
-    "reasoning": "SOL leicht auf 105,90 USD gestiegen (+3,46%), Zielzone 110-113 USD weiterhin nicht erreicht, kein Stop-Loss beruehrt. XRP leicht auf 1,43 USD gestiegen (+4,38%), erreicht damit gerade den unteren Rand der Widerstandszone 1,43-1,50 USD, aber noch kein bestaetigter Ausbruch. NVDA unveraendert, da US-Boersen am Wochenende geschlossen sind. Freies Kapital bleibt reichlich vorhanden, aber ohne ueberzeugende neue Chance wird nicht spekulativ nachgekauft.",
+    "marketOverview": "Krypto konsolidiert am Sonntagabend mit leichtem Ruecksetzer: Solana von 105,90 auf 103,76 USD zurueckgekommen (weiterhin ueber der durchbrochenen Widerstandszone 103-106 USD, Zielzone 110-113 USD nicht erreicht). XRP leicht auf 1,42 USD zurueckgefallen, weiterhin unter der Widerstandszone 1,43-1,50 USD ohne bestaetigten Ausbruch. Bitcoin haelt sich bei ca. 79.850 USD, zentrale Widerstandsfrage bleibt die Zone 80.000-82.300 USD; ein Token-Unlock (~1% Supply, ca. 820 Mio. USD) bei einem anderen Coin wird als Woche-Ereignis beobachtet, betrifft aber keine gehaltene Position. Aktien, ETFs und Rohstoffe bleiben sonntags geschlossen.",
+    "decision": "Kein Trade in diesem Lauf (20. Lauf des Tages). Alle drei offenen Positionen (NVDA, XRP, SOL) im Kursverlauf ohne neue Schwelle; kein Stop-Loss und keine Zielzone erreicht. Aktienmarkt am Sonntag weiterhin geschlossen, Krypto zeigt nur normales Rauschen ohne neue ueberzeugende Gelegenheit.",
+    "reasoning": "SOL von 105,90 auf 103,76 USD zurueckgekommen (+1,37% seit Kauf, vorher +3,46%), Zielzone 110-113 USD weiterhin nicht erreicht, kein Stop-Loss beruehrt. XRP leicht auf 1,42 USD zurueckgefallen (+3,65% seit Kauf), weiterhin unter der Widerstandszone 1,43-1,50 USD, kein bestaetigter Ausbruch. NVDA unveraendert, da US-Boersen am Wochenende geschlossen sind. Freies Kapital bleibt reichlich vorhanden, aber ohne ueberzeugende neue Chance wird nicht spekulativ nachgekauft.",
     "positionIds": [
       "pos-0010",
       "pos-0011",
       "pos-0012"
     ],
-    "portfolioValueEnd": 2044.47,
+    "portfolioValueEnd": 2030.37,
     "updates": [
       {
         "time": "00:07",
@@ -3954,6 +3954,11 @@
         "time": "19:08",
         "note": "Keine Aenderung - Solana leicht auf 105,90 USD gestiegen (+3,46%, vorher 105,30 USD), Zielzone 110-113 USD weiterhin nicht erreicht. XRP leicht auf 1,43 USD gestiegen (+4,38%), erreicht damit gerade den unteren Rand der Widerstandszone 1,43-1,50 USD, aber noch kein bestaetigter Ausbruch. Aktien/ETFs/Rohstoffe am Sonntagabend weiterhin geschlossen. Kein Handel.",
         "portfolioValue": 2044.47
+      },
+      {
+        "time": "20:08",
+        "note": "Keine Aenderung - Solana leicht auf 103,76 USD zurueckgekommen (+1,37%, vorher 105,90 USD), Zielzone 110-113 USD weiterhin nicht erreicht. XRP leicht auf 1,42 USD zurueckgefallen (+3,65%), weiterhin unter der Widerstandszone 1,43-1,50 USD. Kein neuer Katalysator, kein Handel.",
+        "portfolioValue": 2030.37
       }
     ]
   }
