@@ -3845,15 +3845,15 @@
   },
   {
     "date": "2026-09-06",
-    "marketOverview": "Krypto konsolidiert weiterhin am Sonntagabend nahe der juengsten Hochs: Solana pendelt in der Zone 103-106 USD (aktuell ca. 105,30 USD), Zielzone 110-113 USD weiterhin nicht erreicht - unterstuetzt durch die SEC-Anerkennung von SOL/BTC/ETH/XRP als Trust-faehige Assets (05.09.) und ein fuer 09.09. geplantes Solana-Netzwerk-Upgrade. XRP stabil bei 1,42 USD, weiterhin unter der Widerstandszone 1,43-1,50 USD (24h nur +1,16%, schwaecher als der breite Kryptomarkt). Bitcoin haelt sich bei ca. 79.800-80.000 USD nach starken ETF-Zuflussen (fast 1 Mrd. USD in der Woche bis 05.09.). Fed-Erwartungen bleiben uneinheitlich (Warsh verweist auf erhoehte PCE-Inflation von 3,7-4,1%), naechste Katalysatoren CPI (11.09.) und FOMC (16./17.09.). Aktien, ETFs und Rohstoffe bleiben am Sonntag geschlossen.",
+    "marketOverview": "Krypto konsolidiert weiterhin am Sonntagabend nahe der juengsten Hochs: Solana pendelt in der Zone 102-107 USD (aktuell ca. 105,90 USD), Zielzone 110-113 USD weiterhin nicht erreicht - unterstuetzt durch die SEC-Anerkennung von SOL/BTC/ETH/XRP als Trust-faehige Assets (05.09.) und ein fuer 09.09. geplantes Solana-Netzwerk-Upgrade. XRP leicht auf 1,43 USD gestiegen, damit gerade am unteren Rand der Widerstandszone 1,43-1,50 USD, aber kein bestaetigter Ausbruch (24h ca. +1,16%, schwaecher als der breite Kryptomarkt). Bitcoin haelt sich bei ca. 80.000-82.300 USD nach starken ETF-Zuflussen (3,52 Mrd. USD im August); die Zone 80.000-82.300 USD bleibt die zentrale technische Widerstandsfrage. Naechste Katalysatoren bleiben CPI (11.09.) und FOMC (16./17.09.). Aktien, ETFs und Rohstoffe bleiben am Sonntag geschlossen.",
     "decision": "Kein Trade in diesem Lauf. Alle drei offenen Positionen (NVDA, XRP, SOL) im Kursverlauf weitgehend unveraendert gegenueber dem letzten Lauf; keine Stop-Loss- oder Zielzonen-Schwelle erreicht. Aktienmarkt am Sonntag geschlossen, Krypto zeigt weiterhin keine ueberzeugende neue Gelegenheit.",
-    "reasoning": "SOL leicht auf 105,30 USD gestiegen (+2,87%), Zielzone 110-113 USD weiterhin nicht erreicht, kein Stop-Loss beruehrt. XRP unveraendert bei 1,42 USD (+3,65%), weiterhin unter der Widerstandszone 1,43-1,50 USD und mit schwaecherer 24h-Performance als der Gesamtmarkt. NVDA unveraendert, da US-Boersen am Wochenende geschlossen sind. Die SEC-Trust-Anerkennung vom 05.09. ist bereits eingepreist, kein neuer eigenstaendiger Kaufimpuls. Freies Kapital bleibt reichlich vorhanden (ca. 30.960 EUR), aber ohne ueberzeugende neue Chance wird nicht spekulativ nachgekauft.",
+    "reasoning": "SOL leicht auf 105,90 USD gestiegen (+3,46%), Zielzone 110-113 USD weiterhin nicht erreicht, kein Stop-Loss beruehrt. XRP leicht auf 1,43 USD gestiegen (+4,38%), erreicht damit gerade den unteren Rand der Widerstandszone 1,43-1,50 USD, aber noch kein bestaetigter Ausbruch. NVDA unveraendert, da US-Boersen am Wochenende geschlossen sind. Freies Kapital bleibt reichlich vorhanden, aber ohne ueberzeugende neue Chance wird nicht spekulativ nachgekauft.",
     "positionIds": [
       "pos-0010",
       "pos-0011",
       "pos-0012"
     ],
-    "portfolioValueEnd": 2037.89,
+    "portfolioValueEnd": 2044.47,
     "updates": [
       {
         "time": "00:07",
@@ -3949,6 +3949,11 @@
         "time": "18:08",
         "note": "Keine Aenderung - Solana leicht auf 105,30 USD gestiegen (+2,87%, vorher 104,50 USD), Zielzone 110-113 USD weiterhin nicht erreicht. XRP unveraendert bei 1,42 USD (+3,65%). SEC-Anerkennung von SOL/XRP/BTC/ETH als Trust-faehige Assets vom 05.09. bereits eingepreist, kein neuer Katalysator. Kein Handel.",
         "portfolioValue": 2037.89
+      },
+      {
+        "time": "19:08",
+        "note": "Keine Aenderung - Solana leicht auf 105,90 USD gestiegen (+3,46%, vorher 105,30 USD), Zielzone 110-113 USD weiterhin nicht erreicht. XRP leicht auf 1,43 USD gestiegen (+4,38%), erreicht damit gerade den unteren Rand der Widerstandszone 1,43-1,50 USD, aber noch kein bestaetigter Ausbruch. Aktien/ETFs/Rohstoffe am Sonntagabend weiterhin geschlossen. Kein Handel.",
+        "portfolioValue": 2044.47
       }
     ]
   }
