@@ -3979,9 +3979,9 @@
   },
   {
     "date": "2026-09-07",
-    "marketOverview": "US-Boersen bleiben wegen Labor Day den ganzen Tag geschlossen (NVDA daher weiterhin nicht handelbar, Kurs unveraendert). Kryptomarkt konsolidiert in Erwartung der PPI-Daten (Do.) und CPI-Daten (Fr.) vor der FOMC-Sitzung am 16.09.: Bitcoin haelt sich bei ca. 79.500-79.800 USD (-0,2 bis -1% 24h), Marktkapitalisierung gesamt ca. 2,77 Bio. USD, Fear&Greed-Index bei 71 (Greed). SOL leicht erholt auf ca. 106,50 USD (weiter unter Widerstand 107-110 USD), XRP stabil bei ca. 1,42 USD oberhalb der wichtigen gleitenden Durchschnitte.",
-    "decision": "Keine Aenderung im bisherigen Tagesverlauf. Tagesbudget wurde bereits um 00:09 gutgeschrieben. Kurse der offenen Positionen (NVDA, XRP, SOL) laufend aktualisiert, kein Kauf/Verkauf da NVDA feiertagsbedingt nicht handelbar ist und im Kryptomarkt weiterhin kein ueberzeugender Ausbruchs- oder Verkaufs-Katalysator vorliegt (Konsolidierung vor PPI/CPI-Daten diese Woche).",
-    "reasoning": "NVDA an US-Feiertag (Labor Day) weiterhin nicht handelbar, Kurs bleibt auf letztem Schlussstand. Kryptomarkt bewegt sich seitwaerts/leicht erholt ohne neuen bestaetigten Katalysator - Marktteilnehmer warten auf PPI (10.09.) und CPI (11.09.) vor der FOMC-Entscheidung (16.09.), daher erhoehte Zurueckhaltung. Bestehende offene Positionen (NVDA +0,53%, XRP +3,65%, SOL +4,04%) liegen weiterhin deutlich unter der etablierten Ziel-Spanne von 7-8% fuer Gewinnmitnahmen, daher weiter gehalten. Kein Verkaufsdruck erkennbar, keine neue ueberzeugende Kaufgelegenheit.",
+    "marketOverview": "US-Boersen bleiben wegen Labor Day den ganzen Tag geschlossen (NVDA daher weiterhin nicht handelbar, Kurs unveraendert). Geopolitisch spitzt sich die Lage zu: US-Kriegsschiffe griffen laut Berichten drei iranische Oeltanker an, Iran meldete Vergeltungsschlaege gegen mehrere Tanker/US-nahe Schiffe in der Strasse von Hormus - Brent-Rohoel legt daraufhin zu (+0,6%). Europaeische Aktien tendieren uneinheitlich, asiatische Maerkte (Nikkei +2,1%, Kospi +4,6%) deutlich im Plus (u.a. getrieben von OpenAIs neuem Modell GPT-6 Astra). Rheinmetall faellt nach der Umsatzprognose-Senkung (F126-Absage) weiter und notiert bei ca. 1.035 EUR (-3,4% am Freitag) - passt zur bereits erfolgten Verlust-Position (pos-0006) und ist daher kein Wiedereinstiegs-Kandidat. Kryptomarkt: Bitcoin zeigt widerspruechliche Signale um die 80.000-82.000-USD-Marke, SOL bei ca. 106,50 USD (+3% im Verlauf), XRP stabil bei 1,42 USD, Gesamtmarktkapitalisierung leicht ruecklaeufig (-0,17%).",
+    "decision": "Keine Aenderung im bisherigen Tagesverlauf. Tagesbudget wurde bereits um 00:09 gutgeschrieben. Kurse der offenen Positionen (NVDA, XRP, SOL) unveraendert zum letzten Lauf, kein Kauf/Verkauf: NVDA feiertagsbedingt nicht handelbar, die Iran/Hormus-Eskalation ist zwar ein Risikofaktor (Oelpreis-Impuls), liefert aber keinen konkreten, ueberzeugenden Handelskatalysator fuer die gehaltenen Positionen, und im Kryptomarkt bleibt der Ausbruch weiterhin unbestaetigt.",
+    "reasoning": "NVDA an US-Feiertag (Labor Day) weiterhin nicht handelbar, Kurs bleibt auf letztem Schlussstand. Die neue Eskalation an der Strasse von Hormus (US-Angriff auf iranische Tanker, iranische Vergeltung) erhoeht geopolitisches Risiko und stuetzt Oel/Gold als sicheren Hafen, ist aber kein direkter Kauf- oder Verkaufsimpuls fuer die aktuell gehaltenen Krypto-Positionen. Rheinmetall (frueher pos-0006 mit Verlust glattgestellt) faellt weiter auf fundamentale Probleme - klares Signal, hier keine neue Position einzugehen. Bestehende offene Positionen (NVDA +0,53%, XRP +3,65%, SOL +4,04%) liegen weiterhin deutlich unter der etablierten Ziel-Spanne von 7-8% fuer Gewinnmitnahmen, daher weiter gehalten. Kein Verkaufsdruck erkennbar, keine neue ueberzeugende Kaufgelegenheit.",
     "positionIds": [
       "pos-0010",
       "pos-0011",
@@ -4067,6 +4067,11 @@
       {
         "time": "15:17",
         "note": "Keine Aenderung - US-Boersen feiertagsbedingt (Labor Day) weiterhin geschlossen, NVDA unveraendert. SOL auf ca. 106,50 USD leicht erholt (+4,04% seit Kauf, weiter unter Widerstand 107-110 USD), XRP stabil bei ca. 1,42 USD (+3,65%). Markt wartet auf PPI/CPI diese Woche, kein Katalysator, kein Handel.",
+        "portfolioValue": 2043.75
+      },
+      {
+        "time": "16:12",
+        "note": "Keine Aenderung - neue Eskalation Iran/Strasse von Hormus (US griff iranische Tanker an, iranische Vergeltung) treibt Oelpreis, aber kein direkter Handelsimpuls fuer Portfolio. Rheinmetall faellt weiter (-3,4%, fundamental angeschlagen) - kein Wiedereinstieg. SOL/XRP/NVDA-Kurse unveraendert zu 15:17. Kein Handel.",
         "portfolioValue": 2043.75
       }
     ]
