@@ -3979,15 +3979,15 @@
   },
   {
     "date": "2026-09-07",
-    "marketOverview": "US-Boersen wegen Labor Day geschlossen, daher kaum Impulse. DAX startet schwach und faellt zwischenzeitlich unter 26.000 Punkte (Infineon, Siemens Energy, RWE staerker; Qiagen, Vonovia, SAP schwaecher), Handel insgesamt impulsarm. Kryptomarkt bleibt in einer risikoscheuen Grundstimmung: steigende Erwartungen an eine Fed-Zinserhoehung am 16.09. (rund 66% Wahrscheinlichkeit laut CME FedWatch) belasten Bitcoin und Altcoins, SOL pendelt weiter unterhalb der Widerstandszone 107-110 USD (aktuell ca. 105-106 USD), XRP leicht schwaecher bei ca. 1,40-1,41 USD. Kein ueberzeugender Katalysator fuer neue Positionen.",
-    "decision": "Keine Aenderung im Tagesverlauf bislang. Tagesbudget wurde um 00:09 gutgeschrieben. Kurse der offenen Positionen (NVDA, XRP, SOL) laufend aktualisiert, kein Kauf/Verkauf da an US-Feiertagen und im aktuellen risikoscheuen, impulsarmen Marktumfeld keine ueberzeugende Gelegenheit vorliegt.",
-    "reasoning": "NVDA an US-Feiertag (Labor Day) nicht handelbar, Kurs bleibt auf letztem Schlussstand. DAX schwach und ohne klare Richtung - kein Setup fuer eine neue Aktien-/ETF-/Rohstoffposition. SOL und XRP im Krypto-Markt seitwaerts bis leicht schwaecher, keine bestaetigten Ausbrueche oder Katalysatoren; steigende Fed-Zinserhoehungserwartungen daempfen die Risikofreude zusaetzlich. Bestehende offene Positionen (NVDA +0,53%, XRP +2,55%, SOL +3,46%) noch deutlich unter der etablierten Ziel-Spanne von 7-8% fuer Gewinnmitnahmen, daher weiter gehalten.",
+    "marketOverview": "US-Boersen bleiben wegen Labor Day den ganzen Tag geschlossen (NVDA daher nicht handelbar). DAX pendelt impulsarm knapp ueber 26.000 Punkten. Kryptomarkt konsolidiert nach dem Freitags-Schock durch die starken NFP-Zahlen (162.000 statt 56.000 erwartet): Bitcoin haelt sich um ca. 79.200 USD (-1,6%), SOL bewegt sich weiter in der Bandbreite 103,6-106,5 USD unterhalb der Widerstandszone 107-110 USD, XRP leicht schwaecher bei ca. 1,40-1,41 USD mit Liquidationsclustern um 1,43 USD. Fokus der Woche liegt auf CPI (11.09.) und FOMC-Entscheidung (16.09.), was die Risikofreude aktuell daempft.",
+    "decision": "Keine Aenderung im Tagesverlauf bislang. Tagesbudget wurde bereits um 00:09 gutgeschrieben. Kurse der offenen Positionen (NVDA, XRP, SOL) laufend aktualisiert, kein Kauf/Verkauf da NVDA feiertagsbedingt nicht handelbar ist und im Kryptomarkt weiterhin kein ueberzeugender Katalysator vorliegt (Konsolidierung nach NFP-Schock, Vorsicht vor CPI/FOMC).",
+    "reasoning": "NVDA an US-Feiertag (Labor Day) nicht handelbar, Kurs bleibt auf letztem Schlussstand. DAX schwach und ohne klare Richtung - kein Setup fuer eine neue Aktien-/ETF-/Rohstoffposition. SOL pendelt zwischen 103,6 und 106,5 USD ohne bestaetigten neuen Ausbruch, XRP leicht schwaecher mit Liquidationsrisiko um 1,43 USD - beide ohne klaren Katalysator fuer Kauf oder Verkauf. Bestehende offene Positionen (NVDA +0,53%, XRP +2,55%, SOL +2,53%) liegen weiterhin deutlich unter der etablierten Ziel-Spanne von 7-8% fuer Gewinnmitnahmen, daher weiter gehalten.",
     "positionIds": [
       "pos-0010",
       "pos-0011",
       "pos-0012"
     ],
-    "portfolioValueEnd": 2035.34,
+    "portfolioValueEnd": 2030.7,
     "updates": [
       {
         "time": "00:09",
@@ -4058,6 +4058,11 @@
         "time": "13:13",
         "note": "Keine Aenderung - US-Boersen feiertagsbedingt geschlossen (Labor Day), DAX schwach/impulsarm. SOL auf ca. 105,90 USD, XRP auf ca. 1,405 USD leicht nachgegeben. Kein Handel.",
         "portfolioValue": 2035.34
+      },
+      {
+        "time": "14:19",
+        "note": "Keine Aenderung - US-Boersen feiertagsbedingt (Labor Day) den ganzen Tag geschlossen, NVDA nicht handelbar. Kryptomarkt konsolidiert nach dem NFP-Schock vom Freitag: SOL leicht auf ca. 104,95 USD nachgegeben (weiter unter Widerstand 107-110 USD), XRP stabil bei ca. 1,405 USD mit Liquidationsrisiko um 1,43 USD. Kein ueberzeugender Katalysator, kein Handel.",
+        "portfolioValue": 2030.7
       }
     ]
   }
