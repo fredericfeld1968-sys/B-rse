@@ -3979,9 +3979,9 @@
   },
   {
     "date": "2026-09-07",
-    "marketOverview": "Bitcoin konsolidiert weiter zwischen 76.500 und 79.000 USD, erste Verteidigungslinie bei 77.000 USD, ein Ausbruch ueber 82.000 USD waere noetig fuer neues Momentum Richtung 84.000-85.000 USD. Solana legt im aktuellen Handelsabschnitt gut 3% auf ca. 106,50 USD zu und bewegt sich ueber allen wichtigen gleitenden Durchschnitten, naechste Huerde 108-110 USD. XRP haelt sich bei 1,42 USD stabil ueber dem 200-Tage-Durchschnitt (~1,35 USD), RSI bei moderaten 62 - noch nicht ueberhitzt, Widerstand bei 1,45 USD. Heute (Montag, 07.09.) ist Labor Day in den USA - Aktien-, ETF- und Rohstoffmaerkte bleiben ganztaegig geschlossen, Kryptomaerkte handeln wie ueblich durch.",
-    "decision": "Kein Trade in diesem Lauf. Tagesbudget-Gutschrift fuer den 07.09. wurde bereits im ersten Lauf des Tages (00:09) gebucht, daher keine erneute Gutschrift. NVDA, XRP unveraendert; SOL-Kurs auf 106,50 USD aktualisiert (+4,04% seit Kauf). Aktien-/ETF-/Rohstoffmaerkte sind wegen Labor Day (US-Feiertag) den ganzen Tag geschlossen; im Kryptomarkt liegt zwar eine leichte Aufwaertsbewegung vor (SOL +3% im aktuellen Abschnitt, Hyperliquid +4%), aber kein wirklich ueberzeugender neuer Ausbruch oder Katalysator seit dem letzten Lauf - SOL testet weiter dieselbe 108-110-USD-Huerde wie zuvor, XRP bleibt unter dem Widerstand bei 1,45 USD.",
-    "reasoning": "SOL bei 106,50 USD (+4,04% seit Kauf) haelt sich ueber der durchbrochenen Widerstandszone 103-106 USD, testet nun 108-110 USD als naechste Huerde, kein Stop-Loss beruehrt - weiter gehalten, Zielzone 110-113 USD noch nicht erreicht. XRP unveraendert bei 1,42 USD (+3,65% seit Kauf), RSI moderat bei 62 (nicht ueberhitzt), haelt sich ueber dem 200-Tage-Durchschnitt (~1,35 USD), aber noch unter dem Widerstand bei 1,45 USD - kein bestaetigter Ausbruch, daher kein Nachkauf. NVDA unveraendert (+0,53%), da US-Boersen wegen Labor Day komplett geschlossen sind. Freies Kapital ist reichlich vorhanden, aber ohne einen wirklich ueberzeugenden neuen Katalysator (moderates Plus bei SOL/HYPE reicht nicht, Aktien/ETFs/Rohstoffe feiertagsbedingt nicht handelbar) wird nicht nachgekauft.",
+    "marketOverview": "Bitcoin konsolidiert weiter zwischen 76.500 und 79.000 USD, globale Krypto-Marktkapitalisierung ca. 2,65-2,78 Bio. USD. Solana haelt sich bei ca. 106,50 USD ueber der durchbrochenen Widerstandszone 103-106 USD, der naechste Widerstand bei 108-110 USD wurde noch nicht ueberwunden (Polymarket sieht 51,5% Wahrscheinlichkeit fuer einen Ausbruch ueber 110 USD im September, getrieben von Governance-Votes SGP-0002/0003 zur Emissionsreduktion). XRP stabil bei 1,42 USD ueber dem 200-Tage-Durchschnitt, Widerstand bei 1,45 USD unveraendert. US-Aktien-, ETF- und Rohstoffmaerkte bleiben wegen Labor Day den ganzen Tag geschlossen; FOMC-Sitzung am 15.09. bleibt naechster grosser Katalysator.",
+    "decision": "Kein Trade in diesem Lauf. Tagesbudget-Gutschrift fuer den 07.09. bereits gebucht (00:09), keine erneute Gutschrift. NVDA unveraendert (Boerse feiertagsbedingt geschlossen), SOL und XRP praktisch unveraendert seit dem letzten Lauf (06:10) - kein bestaetigter Ausbruch ueber die jeweiligen Widerstaende (SOL 108-110 USD, XRP 1,45 USD), daher kein Nachkauf trotz reichlich freiem Kapital.",
+    "reasoning": "SOL bei 106,50 USD (+4,04% seit Kauf) haelt weiter ueber der Unterstuetzung 103-106 USD, testet aber noch nicht die 108-110-USD-Huerde - kein neuer Trigger seit dem letzten Lauf, daher weder Nachkauf noch Verkauf. XRP unveraendert bei 1,42 USD (+3,65%), bleibt unter dem Widerstand 1,45 USD, kein bestaetigter Ausbruch. NVDA unveraendert (+0,53%), da US-Boersen wegen Labor Day komplett geschlossen sind. Ohne einen wirklich ueberzeugenden neuen Katalysator wird nicht gehandelt.",
     "positionIds": [
       "pos-0010",
       "pos-0011",
@@ -4022,6 +4022,11 @@
       {
         "time": "06:10",
         "note": "Keine Aenderung. SOL-Kurs auf 106,50 USD aktualisiert (+4,04% seit Kauf, +3% im aktuellen Handelsabschnitt), testet Huerde 108-110 USD. XRP stabil bei 1,42 USD (RSI 62, Widerstand 1,45 USD), NVDA unveraendert (Labor Day, US-Boersen geschlossen). Kein ueberzeugender neuer Katalysator, kein Handel.",
+        "portfolioValue": 2043.75
+      },
+      {
+        "time": "07:10",
+        "note": "Keine Aenderung - SOL/XRP praktisch unveraendert seit 06:10, kein bestaetigter Ausbruch (SOL noch unter 108-110 USD, XRP unter 1,45 USD). US-Boersen wegen Labor Day geschlossen. Kein Handel.",
         "portfolioValue": 2043.75
       }
     ]
