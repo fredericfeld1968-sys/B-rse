@@ -3979,15 +3979,15 @@
   },
   {
     "date": "2026-09-07",
-    "marketOverview": "US-Boersen bleiben wegen Labor Day den ganzen Tag geschlossen (NVDA daher weiterhin nicht handelbar, Kurs unveraendert). Geopolitisch spitzt sich die Lage zu: US-Kriegsschiffe griffen laut Berichten drei iranische Oeltanker an, Iran meldete Vergeltungsschlaege gegen mehrere Tanker/US-nahe Schiffe in der Strasse von Hormus - Brent-Rohoel legt daraufhin zu (+0,6%). Europaeische Aktien tendieren uneinheitlich, asiatische Maerkte (Nikkei +2,1%, Kospi +4,6%) deutlich im Plus (u.a. getrieben von OpenAIs neuem Modell GPT-6 Astra). Rheinmetall faellt nach der Umsatzprognose-Senkung (F126-Absage) weiter und notiert bei ca. 1.035 EUR (-3,4% am Freitag) - passt zur bereits erfolgten Verlust-Position (pos-0006) und ist daher kein Wiedereinstiegs-Kandidat. Kryptomarkt: Bitcoin zeigt widerspruechliche Signale um die 80.000-82.000-USD-Marke, SOL bei ca. 106,50 USD (+3% im Verlauf), XRP stabil bei 1,42 USD, Gesamtmarktkapitalisierung leicht ruecklaeufig (-0,17%).",
-    "decision": "Keine Aenderung im bisherigen Tagesverlauf. Tagesbudget wurde bereits um 00:09 gutgeschrieben. Kurse der offenen Positionen (NVDA, XRP, SOL) unveraendert zum letzten Lauf, kein Kauf/Verkauf: NVDA feiertagsbedingt nicht handelbar, die Iran/Hormus-Eskalation ist zwar ein Risikofaktor (Oelpreis-Impuls), liefert aber keinen konkreten, ueberzeugenden Handelskatalysator fuer die gehaltenen Positionen, und im Kryptomarkt bleibt der Ausbruch weiterhin unbestaetigt.",
-    "reasoning": "NVDA an US-Feiertag (Labor Day) weiterhin nicht handelbar, Kurs bleibt auf letztem Schlussstand. Die neue Eskalation an der Strasse von Hormus (US-Angriff auf iranische Tanker, iranische Vergeltung) erhoeht geopolitisches Risiko und stuetzt Oel/Gold als sicheren Hafen, ist aber kein direkter Kauf- oder Verkaufsimpuls fuer die aktuell gehaltenen Krypto-Positionen. Rheinmetall (frueher pos-0006 mit Verlust glattgestellt) faellt weiter auf fundamentale Probleme - klares Signal, hier keine neue Position einzugehen. Bestehende offene Positionen (NVDA +0,53%, XRP +3,65%, SOL +4,04%) liegen weiterhin deutlich unter der etablierten Ziel-Spanne von 7-8% fuer Gewinnmitnahmen, daher weiter gehalten. Kein Verkaufsdruck erkennbar, keine neue ueberzeugende Kaufgelegenheit.",
+    "marketOverview": "US-Boersen bleiben wegen Labor Day den ganzen Tag geschlossen (NVDA daher weiterhin nicht handelbar, Kurs unveraendert bei 230,36 USD). Die Eskalation an der Strasse von Hormuz hat sich weiter verschaerft: US-Kriegsschiffe griffen laut Berichten drei iranische Tanker an, Iran feuerte im Gegenzug auf US-nahe Schiffe und kuendigt eine Sperrzone an - Brent-Rohoel kletterte am Morgen auf ueber 97 USD (+1,2%) und naehert sich der psychologisch wichtigen 100-USD-Marke. Rohstoffe/Aktien/ETFs bleiben ausserhalb der Handelszeiten (Feiertag) nicht handelbar, sodass die Eskalation trotz Sicherer-Hafen-Charakter (Gold) aktuell keinen umsetzbaren Impuls liefert. Kryptomarkt seitwaerts bis leicht schwaecher: Bitcoin gab um rund 1,4% auf ca. 79.400 USD nach, Ethereum -1,3% auf ca. 2.490 USD, Solana leicht auf ca. 105,70 USD nachgegeben (weiterhin unter Widerstand 107-110 USD), XRP knapp auf ca. 1,415 USD nachgegeben. Gesamtmarktkapitalisierung Krypto -0,3%. Kein bestaetigter neuer Ausbruch bei kleineren Altcoins mit ausreichend unabhaengiger Bestaetigung.",
+    "decision": "Keine Aenderung im bisherigen Tagesverlauf. Tagesbudget wurde bereits um 00:09 gutgeschrieben. NVDA feiertagsbedingt weiterhin nicht handelbar (Kurs unveraendert). XRP (+3,28%) und SOL (+3,26%) leicht nachgegeben, aber weiterhin klar unter der etablierten Ziel-Spanne von 7-8% fuer Gewinnmitnahmen - kein Verkaufsdruck. Die neue Hormuz-Eskalation (Brent >97 USD) ist ein Risikofaktor, liefert aber mangels handelbarer Rohstoff-/Aktienmaerkte am Feiertag keinen umsetzbaren Kaufimpuls; im Kryptomarkt bleibt jeder moegliche Ausbruch (u.a. bei kleineren Altcoins wie RAY/ORCA/JUP) unzureichend unabhaengig bestaetigt fuer eine spekulative Position. Kein Kauf/Verkauf.",
+    "reasoning": "NVDA an US-Feiertag (Labor Day) weiterhin nicht handelbar, Kurs bleibt auf letztem Schlussstand (230,36 USD, +0,53%). Die weitere Eskalation an der Strasse von Hormuz (gegenseitige Tanker-Angriffe, angekuendigte iranische Sperrzone, Brent auf 97+ USD) erhoeht das geopolitische Risiko und stuetzt klassische Sicherer-Hafen-Anlagen wie Gold - da Rohstoffe/Aktien/ETFs am Feiertag jedoch nicht handelbar sind, laesst sich daraus aktuell keine Position eroeffnen. XRP (+3,28%) und SOL (+3,26%) haben im Tagesverlauf leicht nachgegeben und liegen weiterhin deutlich unter der etablierten Ziel-Spanne von 7-8% fuer Gewinnmitnahmen, daher weiter gehalten. Kleinere Altcoin-Ausreisser (RAY, ORCA, JUP) stammen aus wenig belastbaren Quellen ohne breite unabhaengige Bestaetigung und passen nicht zum Muster bisher erfolgreicher, mehrfach bestaetigter Ausbrueche - kein Neueinstieg. Kein Verkaufsdruck erkennbar, keine ueberzeugende neue Kaufgelegenheit.",
     "positionIds": [
       "pos-0010",
       "pos-0011",
       "pos-0012"
     ],
-    "portfolioValueEnd": 2043.75,
+    "portfolioValueEnd": 2038.01,
     "updates": [
       {
         "time": "00:09",
@@ -4073,6 +4073,11 @@
         "time": "16:12",
         "note": "Keine Aenderung - neue Eskalation Iran/Strasse von Hormus (US griff iranische Tanker an, iranische Vergeltung) treibt Oelpreis, aber kein direkter Handelsimpuls fuer Portfolio. Rheinmetall faellt weiter (-3,4%, fundamental angeschlagen) - kein Wiedereinstieg. SOL/XRP/NVDA-Kurse unveraendert zu 15:17. Kein Handel.",
         "portfolioValue": 2043.75
+      },
+      {
+        "time": "17:09",
+        "note": "Keine Aenderung - Hormuz-Eskalation spitzt sich weiter zu (Brent >97 USD), aber Rohstoffe/Aktien feiertagsbedingt nicht handelbar. SOL auf 105,70 USD (+3,26%) und XRP auf 1,415 USD (+3,28%) leicht nachgegeben, BTC -1,4% auf ca. 79.400 USD. NVDA unveraendert (Labor Day). Kein Handel.",
+        "portfolioValue": 2038.01
       }
     ]
   }
