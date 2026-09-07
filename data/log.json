@@ -3979,15 +3979,15 @@
   },
   {
     "date": "2026-09-07",
-    "marketOverview": "US-Boersen bleiben wegen Labor Day den ganzen Tag geschlossen (NVDA daher nicht handelbar). DAX pendelt impulsarm knapp ueber 26.000 Punkten. Kryptomarkt konsolidiert nach dem Freitags-Schock durch die starken NFP-Zahlen (162.000 statt 56.000 erwartet): Bitcoin haelt sich um ca. 79.200 USD (-1,6%), SOL bewegt sich weiter in der Bandbreite 103,6-106,5 USD unterhalb der Widerstandszone 107-110 USD, XRP leicht schwaecher bei ca. 1,40-1,41 USD mit Liquidationsclustern um 1,43 USD. Fokus der Woche liegt auf CPI (11.09.) und FOMC-Entscheidung (16.09.), was die Risikofreude aktuell daempft.",
-    "decision": "Keine Aenderung im Tagesverlauf bislang. Tagesbudget wurde bereits um 00:09 gutgeschrieben. Kurse der offenen Positionen (NVDA, XRP, SOL) laufend aktualisiert, kein Kauf/Verkauf da NVDA feiertagsbedingt nicht handelbar ist und im Kryptomarkt weiterhin kein ueberzeugender Katalysator vorliegt (Konsolidierung nach NFP-Schock, Vorsicht vor CPI/FOMC).",
-    "reasoning": "NVDA an US-Feiertag (Labor Day) nicht handelbar, Kurs bleibt auf letztem Schlussstand. DAX schwach und ohne klare Richtung - kein Setup fuer eine neue Aktien-/ETF-/Rohstoffposition. SOL pendelt zwischen 103,6 und 106,5 USD ohne bestaetigten neuen Ausbruch, XRP leicht schwaecher mit Liquidationsrisiko um 1,43 USD - beide ohne klaren Katalysator fuer Kauf oder Verkauf. Bestehende offene Positionen (NVDA +0,53%, XRP +2,55%, SOL +2,53%) liegen weiterhin deutlich unter der etablierten Ziel-Spanne von 7-8% fuer Gewinnmitnahmen, daher weiter gehalten.",
+    "marketOverview": "US-Boersen bleiben wegen Labor Day den ganzen Tag geschlossen (NVDA daher weiterhin nicht handelbar, Kurs unveraendert). Kryptomarkt konsolidiert in Erwartung der PPI-Daten (Do.) und CPI-Daten (Fr.) vor der FOMC-Sitzung am 16.09.: Bitcoin haelt sich bei ca. 79.500-79.800 USD (-0,2 bis -1% 24h), Marktkapitalisierung gesamt ca. 2,77 Bio. USD, Fear&Greed-Index bei 71 (Greed). SOL leicht erholt auf ca. 106,50 USD (weiter unter Widerstand 107-110 USD), XRP stabil bei ca. 1,42 USD oberhalb der wichtigen gleitenden Durchschnitte.",
+    "decision": "Keine Aenderung im bisherigen Tagesverlauf. Tagesbudget wurde bereits um 00:09 gutgeschrieben. Kurse der offenen Positionen (NVDA, XRP, SOL) laufend aktualisiert, kein Kauf/Verkauf da NVDA feiertagsbedingt nicht handelbar ist und im Kryptomarkt weiterhin kein ueberzeugender Ausbruchs- oder Verkaufs-Katalysator vorliegt (Konsolidierung vor PPI/CPI-Daten diese Woche).",
+    "reasoning": "NVDA an US-Feiertag (Labor Day) weiterhin nicht handelbar, Kurs bleibt auf letztem Schlussstand. Kryptomarkt bewegt sich seitwaerts/leicht erholt ohne neuen bestaetigten Katalysator - Marktteilnehmer warten auf PPI (10.09.) und CPI (11.09.) vor der FOMC-Entscheidung (16.09.), daher erhoehte Zurueckhaltung. Bestehende offene Positionen (NVDA +0,53%, XRP +3,65%, SOL +4,04%) liegen weiterhin deutlich unter der etablierten Ziel-Spanne von 7-8% fuer Gewinnmitnahmen, daher weiter gehalten. Kein Verkaufsdruck erkennbar, keine neue ueberzeugende Kaufgelegenheit.",
     "positionIds": [
       "pos-0010",
       "pos-0011",
       "pos-0012"
     ],
-    "portfolioValueEnd": 2030.7,
+    "portfolioValueEnd": 2043.75,
     "updates": [
       {
         "time": "00:09",
@@ -4063,6 +4063,11 @@
         "time": "14:19",
         "note": "Keine Aenderung - US-Boersen feiertagsbedingt (Labor Day) den ganzen Tag geschlossen, NVDA nicht handelbar. Kryptomarkt konsolidiert nach dem NFP-Schock vom Freitag: SOL leicht auf ca. 104,95 USD nachgegeben (weiter unter Widerstand 107-110 USD), XRP stabil bei ca. 1,405 USD mit Liquidationsrisiko um 1,43 USD. Kein ueberzeugender Katalysator, kein Handel.",
         "portfolioValue": 2030.7
+      },
+      {
+        "time": "15:17",
+        "note": "Keine Aenderung - US-Boersen feiertagsbedingt (Labor Day) weiterhin geschlossen, NVDA unveraendert. SOL auf ca. 106,50 USD leicht erholt (+4,04% seit Kauf, weiter unter Widerstand 107-110 USD), XRP stabil bei ca. 1,42 USD (+3,65%). Markt wartet auf PPI/CPI diese Woche, kein Katalysator, kein Handel.",
+        "portfolioValue": 2043.75
       }
     ]
   }
