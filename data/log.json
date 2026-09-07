@@ -3979,15 +3979,15 @@
   },
   {
     "date": "2026-09-07",
-    "marketOverview": "Bitcoin bewegt sich mit gemischten Signalen unter Druck durch steigende Fed-Zinserhoehungserwartungen fuer die FOMC-Sitzung am 15./16.09. (CME FedWatch ca. 58% Hike-Wahrscheinlichkeit) und eine erneute US-Iran-Spannungslage. Solana legte im laufenden Handel auf ca. 106,50 USD zu (+3% intraday), XRP verharrt bei 1,42 USD knapp unter der Widerstandszone 1,43-1,50 USD ohne bestaetigten Ausbruch. Positiv: Die SEC erweiterte die Nasdaq-Texas-Regel 5711(d) explizit um Bitcoin, Ether, Solana und XRP als anerkannte Digital-Asset-Trusts inkl. neuer '15%-Regel' fuer Portfolio-Flexibilitaet. Aktien-, ETF- und Rohstoffmaerkte bleiben nachts/am fruehen Montagmorgen geschlossen.",
-    "decision": "Kein Trade in diesem Lauf. Tagesbudget-Gutschrift von 1000 EUR fuer den 07.09. wurde bereits im ersten Lauf des Tages (00:09) gebucht. NVDA und XRP unveraendert, SOL-Kurs auf aktuellen Stand (~106,50 USD) aktualisiert. Ausserhalb der Handelszeiten fuer Aktien/ETFs/Rohstoffe (Montag frueh, 03:10 Uhr); die positive SEC-Nachricht ist kein kurzfristiger Preiskatalysator und rechtfertigt keinen Neuzukauf ohne bestaetigten technischen Ausbruch.",
-    "reasoning": "SOL bei ca. 106,50 USD (+4,04% seit Kauf) baut die Position ueber der durchbrochenen Widerstandszone 103-106 USD weiter aus, Zielzone 110-113 USD noch nicht erreicht, kein Stop-Loss beruehrt. XRP unveraendert bei 1,42 USD (+3,65% seit Kauf), weiterhin knapp unter der Widerstandszone 1,43-1,50 USD, kein bestaetigter Ausbruch. NVDA unveraendert, da US- und europaeische Boersen ausserhalb der Handelszeiten liegen. Die SEC-Regelaenderung (Nasdaq Texas 5711(d)) ist eine mittelfristig positive strukturelle Nachricht, aber kein kurzfristiges Handelssignal; angesichts steigender Fed-Hike-Erwartungen und Iran-Spannungen bleibt das Risiko fuer neue spekulative Krypto-Einstiege erhoeht. Freies Kapital ist nach der Tagesgutschrift reichlich vorhanden (~31.960 EUR), aber ohne ueberzeugende neue Chance wird nicht nachgekauft.",
+    "marketOverview": "Bitcoin konsolidiert bei ca. 80.000 USD, wartet auf US-CPI (11.09.) und FOMC-Entscheidung (15./16.09.) als naechste grosse Katalysatoren; die Marke 82.300 USD bleibt Widerstand. Solana pullt leicht von 106,50 auf 105,44 USD zurueck (weiterhin ueber der durchbrochenen Zone 103-106 USD), XRP verharrt stabil bei 1,42 USD knapp unter der Widerstandszone 1,43-1,50 USD. Keine neuen bestaetigten Ausbrueche. Aktien-, ETF- und Rohstoffmaerkte bleiben in den fruehen Montagmorgenstunden (Europe/Berlin) weiterhin geschlossen.",
+    "decision": "Kein Trade in diesem Lauf. Tagesbudget-Gutschrift fuer den 07.09. wurde bereits im ersten Lauf des Tages (00:09) gebucht, daher keine erneute Gutschrift. NVDA und XRP unveraendert, SOL-Kurs auf aktuellen Stand (~105,44 USD) aktualisiert. Weiterhin ausserhalb der Handelszeiten fuer Aktien/ETFs/Rohstoffe; kein neuer, ueberzeugender Krypto-Katalysator seit dem letzten Lauf.",
+    "reasoning": "SOL bei ca. 105,44 USD (+3,01% seit Kauf) pullt leicht von 106,50 USD zurueck, bleibt aber ueber der durchbrochenen Widerstandszone 103-106 USD; Zielzone 110-113 USD noch nicht erreicht, kein Stop-Loss beruehrt, daher weiter gehalten. XRP unveraendert bei 1,42 USD (+3,65% seit Kauf), weiterhin knapp unter der Widerstandszone 1,43-1,50 USD ohne bestaetigten Ausbruch. NVDA unveraendert, da US- und europaeische Boersen ausserhalb der Handelszeiten liegen. Freies Kapital ist reichlich vorhanden, aber ohne ueberzeugende neue Chance (Kryptomarkt wartet auf CPI/FOMC, keine bestaetigten Ausbrueche) wird nicht nachgekauft.",
     "positionIds": [
       "pos-0010",
       "pos-0011",
       "pos-0012"
     ],
-    "portfolioValueEnd": 2043.75,
+    "portfolioValueEnd": 2038.57,
     "updates": [
       {
         "time": "00:09",
@@ -4008,6 +4008,11 @@
         "time": "03:10",
         "note": "Keine Aenderung; SOL-Kurs auf ~106,50 USD aktualisiert (+4,04% seit Kauf, weiter ueber Widerstandszone 103-106 USD). SEC-Regelaenderung (Nasdaq Texas 5711(d)) positiv fuer BTC/ETH/SOL/XRP als Trust-Assets, aber kein kurzfristiger Kaufkatalysator. Steigende Fed-Hike-Erwartungen (FOMC 15./16.09.) und Iran-Spannungen daempfen Risikobereitschaft. Kein Handel.",
         "portfolioValue": 2043.75
+      },
+      {
+        "time": "04:07",
+        "note": "Keine Aenderung, SOL-Kurs leicht auf ~105,44 USD aktualisiert (Ruecksetzer von 106,50 USD, Zielzone 110-113 USD noch nicht erreicht). Kryptomarkt wartet auf US-CPI (11.09.) und FOMC (15./16.09.), kein neuer Katalysator. Aktien/ETFs/Rohstoffe weiterhin ausserhalb der Handelszeiten. Kein Handel.",
+        "portfolioValue": 2038.57
       }
     ]
   }
