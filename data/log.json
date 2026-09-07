@@ -3979,15 +3979,15 @@
   },
   {
     "date": "2026-09-07",
-    "marketOverview": "Bitcoin konsolidiert bei ca. 79.800-82.000 USD nahe der 80.000er-Marke (Fear&Greed 74, 'Greed'), Gesamtmarktkapitalisierung leicht ruecklaeufig (-0,17%) bei rund 2,17-2,65 Bio. USD; Altcoin-Open-Interest hat BTC erstmals seit Dezember 2024 ueberholt. Solana bei ca. 106,50 USD weiterhin knapp unter der Widerstandszone 107-108,50 USD, noch kein bestaetigter Ausbruch. XRP stabil bei 1,42 USD zwischen Unterstuetzung 1,35-1,36 USD und Widerstand 1,43-1,45 USD (RSI ~62, nicht ueberhitzt); CLARITY-Act-Abstimmung im Senat wurde vom 15.09. verschoben. US-Aktien-, ETF- und Rohstoffmaerkte bleiben wegen Labor Day den ganzen Tag geschlossen; NVDA-Kurs daher unveraendert.",
-    "decision": "Kein Trade in diesem Lauf (10:10). Tagesbudget-Gutschrift fuer den 07.09. bereits um 00:09 gebucht, keine erneute Gutschrift. NVDA unveraendert (Boerse feiertagsbedingt geschlossen), SOL leicht auf 106,50 USD nachgegeben (+4,04% seit Kauf), weiterhin ohne bestaetigten Ausbruch ueber die Widerstandszone 107-108,50 USD. XRP unveraendert bei 1,42 USD, weiterhin zwischen Unterstuetzung und Widerstand eingeklemmt. Kein Nachkauf trotz reichlich freiem Kapital, da weiterhin kein wirklich ueberzeugender neuer Katalysator vorliegt.",
-    "reasoning": "SOL testet die kritische Widerstandszone 107-108,50 USD weiterhin ohne ueberzeugenden Ausbruch (aktuell 106,50 USD, leicht unter dem Stand des Vorlaufs) - kein Nachkauf, kein Verkauf der bestehenden Position. XRP verharrt bei 1,42 USD zwischen den etablierten Marken, RSI ~62 signalisiert weder Ueberhitzung noch klares Kaufsignal. NVDA unveraendert, da US-Boersen wegen Labor Day komplett geschlossen sind. CLARITY-Act-Verschiebung auf unbestimmt nach dem 15.09. verringert kurzfristigen regulatorischen Katalysator fuer XRP. Ohne einen wirklich ueberzeugenden neuen Katalysator wird diszipliniert nicht gehandelt.",
+    "marketOverview": "Bitcoin bei ca. 81.275 USD (Fear&Greed 74, 'Greed'), Gesamtmarktkapitalisierung leicht ruecklaeufig (-0,17%) bei rund 2,17 Bio. USD. Solana leicht auf 105,44 USD zurueckgefallen, weiterhin ohne bestaetigten Ausbruch ueber die Widerstandszone 107-108,50 USD. XRP stabil bei 1,42 USD, wartet auf das CLARITY-Act-Senatsvotum am 15.09. US-Boersen (Aktien/ETFs/Rohstoffe) bleiben wegen Labor Day den ganzen Tag geschlossen.",
+    "decision": "Kein Trade in diesem Lauf (11:09). Tagesbudget-Gutschrift fuer den 07.09. bereits um 00:09 gebucht, keine erneute Gutschrift. NVDA unveraendert (Boerse feiertagsbedingt geschlossen), SOL auf 105,44 USD leicht nachgegeben (+3,01% seit Kauf), weiterhin ohne bestaetigten Ausbruch. XRP unveraendert bei 1,42 USD (+3,65% seit Kauf).",
+    "reasoning": "SOL testet die kritische Widerstandszone 107-108,50 USD weiterhin ohne ueberzeugenden Ausbruch (aktuell 105,44 USD, leicht schwaecher als im Vorlauf) - kein Nachkauf, kein Verkauf der bestehenden Position. XRP verharrt bei 1,42 USD zwischen den etablierten Marken, wartet auf den CLARITY-Act-Senatsentscheid am 15.09. als naechsten moeglichen Katalysator. Da heute (07.09.) in den USA Labor Day ist, bleiben Aktien/ETFs/Rohstoffe den gesamten Tag ungehandelt; fuer Krypto liegt keine wirklich ueberzeugende neue Gelegenheit vor, daher kein Handel.",
     "positionIds": [
       "pos-0010",
       "pos-0011",
       "pos-0012"
     ],
-    "portfolioValueEnd": 2043.75,
+    "portfolioValueEnd": 2038.6,
     "updates": [
       {
         "time": "00:09",
@@ -4043,6 +4043,11 @@
         "time": "10:10",
         "note": "Keine Aenderung - SOL leicht auf 106,50 USD nachgegeben (weiter unter Widerstand 107-108,50 USD), XRP unveraendert bei 1,42 USD, NVDA feiertagsbedingt unveraendert. Kein Handel.",
         "portfolioValue": 2043.75
+      },
+      {
+        "time": "11:09",
+        "note": "Keine Aenderung - SOL auf 105,44 USD leicht nachgegeben (weiterhin unter Widerstand 107-108,50 USD), XRP unveraendert bei 1,42 USD, NVDA feiertagsbedingt unveraendert (Labor Day). Kein Handel.",
+        "portfolioValue": 2038.6
       }
     ]
   }
