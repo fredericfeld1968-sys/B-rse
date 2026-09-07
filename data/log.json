@@ -4110,5 +4110,24 @@
         "portfolioValue": 2036.22
       }
     ]
+  },
+  {
+    "date": "2026-09-08",
+    "marketOverview": "US-Boersen, ETFs und Rohstoffe nachts/ausserboerslich nicht handelbar. Kryptomarkt konsolidiert: Bitcoin haelt sich in der Bandbreite 76.500-79.000 USD, Solana gab von 105,70 auf 103,83 USD leicht nach (Widerstand 106 USD haelt), XRP stabil bei 1,41 USD in der Spanne 1,27-1,61 USD ohne Ausbruch. Gesamtmarktkapitalisierung Krypto ca. 2,65-2,78 Bio. USD, keine neuen unabhaengig bestaetigten Katalysatoren.",
+    "decision": "Tagesbudget wurde um 00:09 gutgeschrieben (totalFreshCapitalEur 34.000 -> 35.000 EUR). Keine Trades: NVDA (Markt geschlossen, Kurs unveraendert 230,36 USD), XRP (+2,92%) und SOL (jetzt +1,44%, leicht nachgegeben) bleiben klar unter der etablierten Ziel-Spanne von 7-8% fuer Gewinnmitnahmen - kein Verkaufsdruck. Kein neuer, ausreichend unabhaengig bestaetigter Kaufimpuls im Kryptomarkt (Altcoin-Bewegungen wie Dash/NEAR/Pons einzeln, ohne breite Bestaetigung). Kein Kauf/Verkauf.",
+    "reasoning": "Nachts sind nur Kryptowerte handelbar. Die offenen Krypto-Positionen (XRP, SOL) liegen mit +2,92% bzw. +1,44% deutlich unter der bisher etablierten Gewinnmitnahme-Spanne von 7-8%, ein Stop-Loss-Niveau wird ebenfalls nicht beruehrt. Fuer eine neue spekulative Position fehlt ein hinreichend stark und mehrfach unabhaengig bestaetigter Katalysator (BTC/SOL/XRP bewegen sich seitwaerts in etablierten Ranges). Daher heute bislang keine Aktion ausser der turnusmaessigen Kursaktualisierung und Tagesbudget-Gutschrift.",
+    "positionIds": [
+      "pos-0010",
+      "pos-0011",
+      "pos-0012"
+    ],
+    "portfolioValueEnd": 2027.06,
+    "updates": [
+      {
+        "time": "00:09",
+        "note": "Tagesbudget gutgeschrieben (+1000 EUR). SOL auf 103,83 USD nachgegeben (+1,44%), XRP stabil bei 1,41 USD (+2,92%), NVDA nachts unveraendert. Keine Aenderung, kein Kauf/Verkauf.",
+        "portfolioValue": 2027.06
+      }
+    ]
   }
 ]
