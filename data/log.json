@@ -3979,8 +3979,8 @@
   },
   {
     "date": "2026-09-07",
-    "marketOverview": "Kryptomarkt zum Wochenstart weiterhin in enger Konsolidierung ohne neuen Katalysator: Bitcoin haelt sich bei ca. 79.900-80.000 USD, Solana pendelt um 104-106 USD (Widerstandszone 103-106 USD weiterhin als Unterstuetzung bestaetigt, Zielzone 110-113 USD nicht erreicht), XRP bei ca. 1,40-1,43 USD weiterhin knapp unter der Widerstandszone 1,43-1,50 USD. Fed-Zinserwartungen fuer die Sitzung am 15./16.09. bleiben gespalten (CME ca. 58% Erhoehung vs. Polymarket ca. 51% unveraendert), naechster wichtiger Datenpunkt bleibt der US-CPI-Bericht am 11.09. Aktien, ETFs und Rohstoffe sind kurz nach Mitternacht (Boersen in Europa und den USA geschlossen) weiterhin nicht handelbar.",
-    "decision": "Kein Trade in diesem Lauf. Tagesbudget-Gutschrift von 1000 EUR fuer den 07.09. wurde bereits im ersten Lauf des Tages (00:09) gebucht. Alle drei offenen Positionen (NVDA, XRP, SOL) unveraendert bzw. nur mit leicht aktualisiertem SOL-Kurs; kein Stop-Loss und keine Zielzone erreicht.",
+    "marketOverview": "Bitcoin haelt sich stabil bei rund 79.900 USD (-1,8% in 24h, aber weiterhin deutlich ueber den Tiefs von Ende August dank starker ETF-Zuflaeuse). Solana notiert bei 105,44 USD, XRP bei 1,42 USD - beide nahe den Stunden zuvor beobachteten Werten. Kein neuer makrooekonomischer oder geopolitischer Impuls seit den letzten Laeufen; US-Arbeitsmarktdaten hatten zuletzt kurzzeitig fuer Druck gesorgt, wurden aber durch starke ETF-Zuflaeuse und eine schwaechere US-Dollar-Tendenz kompensiert. Aktien-, ETF- und Rohstoffmaerkte sind nachts geschlossen.",
+    "decision": "Kein Trade in diesem Lauf. Tagesbudget-Gutschrift von 1000 EUR fuer den 07.09. wurde bereits im ersten Lauf des Tages (00:09) gebucht. Alle drei offenen Positionen (NVDA, XRP, SOL) unveraendert, da sich seit dem letzten Lauf keine relevanten Kursbewegungen ergeben haben. Ausserhalb der Handelszeiten fuer Aktien/ETFs/Rohstoffe (Montag frueh, 02:09 Uhr); Kryptomarkt zeigt keinen neuen ueberzeugenden Katalysator fuer einen Neuzukauf.",
     "reasoning": "SOL bei ca. 105,44 USD (+3,01% seit Kauf) haelt sich weiterhin ueber der durchbrochenen Widerstandszone 103-106 USD, Zielzone 110-113 USD nicht erreicht, kein Stop-Loss beruehrt. XRP unveraendert bei 1,42 USD (+3,65% seit Kauf), weiterhin knapp unter der Widerstandszone 1,43-1,50 USD, kein bestaetigter Ausbruch. NVDA unveraendert, da US- und europaeische Boersen ausserhalb der Handelszeiten liegen. Fed-Zinserwartungen bleiben gespalten ohne neuen Impuls seit dem letzten Lauf. Freies Kapital ist nach der Tagesgutschrift reichlich vorhanden (~31.960 EUR), aber ohne ueberzeugende neue Chance wird nicht spekulativ nachgekauft.",
     "positionIds": [
       "pos-0010",
@@ -3997,6 +3997,11 @@
       {
         "time": "01:09",
         "note": "Keine Aenderung - Kryptomarkt praktisch unveraendert seit 00:09 (BTC ~79.900 USD, SOL leicht auf 105,44 USD, XRP unveraendert 1,42 USD), kein neuer Katalysator. Aktien/ETFs/Rohstoffe weiterhin ausserhalb der Handelszeiten. Kein Handel.",
+        "portfolioValue": 2038.58
+      },
+      {
+        "time": "02:09",
+        "note": "Keine Aenderung - Kryptomarkt seit 01:09 praktisch unveraendert (BTC ~79.900 USD, SOL 105,44 USD, XRP 1,42 USD), kein neuer Katalysator. Aktien/ETFs/Rohstoffe weiterhin ausserhalb der Handelszeiten (Montag frueh nachts). Kein Handel.",
         "portfolioValue": 2038.58
       }
     ]
