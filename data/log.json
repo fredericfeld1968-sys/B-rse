@@ -4113,15 +4113,15 @@
   },
   {
     "date": "2026-09-08",
-    "marketOverview": "US-Boersen, ETFs und Rohstoffe nachts nicht handelbar. Kryptomarkt konsolidiert weiter: Bitcoin haelt sich um 79.960 USD in der Bandbreite 76.500-79.000/82.000 USD, Solana gab leicht von 103,83 auf 103,31 USD nach, XRP stabil bei 1,41 USD. Ueberraschend starke US-Arbeitsmarktdaten (Nonfarm Payrolls +162k vs. 56k erwartet) naehren wieder Zinserhoehungserwartungen fuer September, was Treasury-Renditen und Dollar stuetzt und eher risikodaempfend auf Krypto wirkt. Gesamtmarktkapitalisierung Krypto ca. 2,65-2,78 Bio. USD, keine neuen unabhaengig bestaetigten Kaufkatalysatoren.",
-    "decision": "Tagesbudget wurde bereits um 00:09 gutgeschrieben (totalFreshCapitalEur 34.000 -> 35.000 EUR), heute keine weitere Gutschrift. Keine Trades: NVDA (Markt geschlossen, unveraendert 230,36 USD), XRP (+2,92%) und SOL (jetzt +0,93%, weiter leicht nachgegeben) bleiben klar unter der etablierten Ziel-Spanne von 7-8% fuer Gewinnmitnahmen - kein Verkaufsdruck, kein Stop-Loss-Niveau beruehrt. Kein neuer, ausreichend unabhaengig bestaetigter Kaufimpuls; ueberraschend starke Nonfarm-Payrolls-Daten naehren Zinserhoehungserwartungen und wirken eher risikodaempfend auf Krypto. Kein Kauf/Verkauf.",
-    "reasoning": "Nachts sind nur Kryptowerte handelbar. Die offenen Krypto-Positionen (XRP, SOL) liegen mit +2,92% bzw. +0,93% deutlich unter der bisher etablierten Gewinnmitnahme-Spanne von 7-8%, ein Stop-Loss-Niveau wird ebenfalls nicht beruehrt. Fuer eine neue spekulative Position fehlt ein hinreichend stark und mehrfach unabhaengig bestaetigter Katalysator - im Gegenteil daempfen die ueberraschend starken US-Arbeitsmarktdaten (Nonfarm Payrolls +162k) mit steigenden Zinserhoehungserwartungen die Risikofreude am Kryptomarkt. Daher weiterhin keine Aktion ausser der turnusmaessigen Kursaktualisierung.",
+    "marketOverview": "Nachts weiterhin nur Krypto handelbar. Bitcoin konsolidiert knapp unter 80.000 USD (zuletzt ca. 79.863 USD, leicht schwaecher, Fear&Greed bei 71/Greed), Solana zog auf rund 105,70 USD an (+40% im 30-Tage-Fenster), XRP stabil bei 1,41 USD. Die Rate-Hike-Wahrscheinlichkeit fuer September stieg zuletzt auf rund 58%, was leicht risikodaempfend wirkt; Hauptkatalysatoren (US-CPI am 11.09., FOMC Mitte September) stehen noch aus. Keine neuen, stark unabhaengig bestaetigten Kauf- oder Verkaufsimpulse.",
+    "decision": "Tagesbudget wurde bereits um 00:09 gutgeschrieben (34.000 -> 35.000 EUR), keine weitere Gutschrift heute. Weiterhin keine Trades: NVDA nachts unveraendert (Markt geschlossen), SOL zog auf +3,26% an (weiter deutlich unter der etablierten 7-8%-Zielspanne), XRP stabil bei +2,92%. Kein Stop-Loss-Niveau beruehrt, kein neuer ueberzeugender Kaufkatalysator trotz Recherche (Rate-Hike-Erwartungen wirken eher risikodaempfend). Kein Kauf/Verkauf in diesem Lauf.",
+    "reasoning": "Ausserhalb der Boersenzeiten sind nur Kryptowerte handelbar. Beide offenen Krypto-Positionen (SOL +3,26%, XRP +2,92%) liegen weiterhin klar unter der bisher etablierten Gewinnmitnahme-Spanne von 7-8%, ein Stop-Loss-Niveau wird nicht beruehrt. Fuer eine neue spekulative Position fehlt ein hinreichend stark und mehrfach unabhaengig bestaetigter Katalysator; die Marktlage bleibt eine ruhige Konsolidierung mit leicht steigenden Zinserhoehungserwartungen. Daher weiterhin keine Aktion ausser der turnusmaessigen Kursaktualisierung.",
     "positionIds": [
       "pos-0010",
       "pos-0011",
       "pos-0012"
     ],
-    "portfolioValueEnd": 2024.52,
+    "portfolioValueEnd": 2036.19,
     "updates": [
       {
         "time": "00:09",
@@ -4132,6 +4132,11 @@
         "time": "01:09",
         "note": "Keine Aenderung: SOL leicht auf 103,31 USD nachgegeben (+0,93%), XRP/NVDA unveraendert. Staerkere US-Arbeitsmarktdaten daempfen Risikoappetit, kein Kauf/Verkauf.",
         "portfolioValue": 2024.52
+      },
+      {
+        "time": "02:09",
+        "note": "Keine Aenderung: SOL auf 105,70 USD gestiegen (+3,26%), XRP/NVDA unveraendert. Kein neuer Kaufimpuls, kein Kauf/Verkauf.",
+        "portfolioValue": 2036.19
       }
     ]
   }
