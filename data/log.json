@@ -4113,15 +4113,15 @@
   },
   {
     "date": "2026-09-08",
-    "marketOverview": "US-Boersen bleiben im Minus (Dow ca. -1%, S&P 500 ca. -0,4%, Nasdaq ca. -0,1%), belastet durch die eskalierende Iran/Hormuz-Oel-Rally (Brent nahe 97-100 USD) und den sich verschaerfenden US-Kanada-Handelskrieg. NVDA leicht auf 230,36 USD erholt, Krypto seitwaerts (SOL ~103,31 USD, XRP stabil bei 1,41 USD, Bitcoin weiter unter 80.000 USD gedeckelt).",
-    "decision": "Tagesbudget bereits um 00:09 gutgeschrieben, seitdem keine weitere Gutschrift. Weiterhin keine Trades: NVDA +0,53%, XRP +2,92%, SOL +0,93% - alle klar unter der etablierten 7-8%-Zielspanne, kein Stop-Loss beruehrt. Kein hinreichend ueberzeugender Kauf-Katalysator (US-Aktien im Minus wegen Oel-Rally/Handelskrieg, einziger nennenswerter Ausreisser 8x8 (+55%) lag bereits Stunden zurueck und passt nicht zum Momentum-Kriterium). Kein Kauf/Verkauf in diesem Lauf.",
-    "reasoning": "Seit dem 19:08-Lauf kaum Bewegung: NVDA auf 230,36 USD leicht erholt (+0,53% seit Kauf), XRP unveraendert bei 1,41 USD (+2,92%), SOL leicht auf 103,31 USD gestiegen (+0,93%). Die US-Indizes bleiben im Minus wegen der eskalierenden Iran/Hormuz-Oel-Rally und dem US-Kanada-Handelskrieg. Alle drei offenen Positionen bleiben klar unter der Gewinnmitnahme-Zielspanne, kein Stop-Loss-Niveau beruehrt. Freies Kapital bleibt sehr hoch (ca. 32.960 EUR), aber ohne ueberzeugende neue Gelegenheit wird gemaess Strategie weiterhin nicht investiert.",
+    "marketOverview": "US-Indizes schliessen nahe den Tagestiefs im Minus (Dow ca. -1,15% auf 52.800, S&P 500 ca. -0,15%, Nasdaq ca. -0,48%) belastet durch die eskalierende Iran/Hormuz-Oel-Rally und den sich verschaerfenden US-Kanada-Handelskrieg zum Start einer feiertagsverkuerzten Woche. NVDA bei 230,36 USD stabil, Krypto seitwaerts (SOL ~103,31 USD, XRP ~1,40 USD, Bitcoin ~81.000 USD).",
+    "decision": "Tagesbudget bereits um 00:09 gutgeschrieben, seitdem keine weitere Gutschrift. Weiterhin keine Trades: NVDA +0,53%, XRP +2,19%, SOL +0,93% - alle klar unter der etablierten 7-8%-Zielspanne, kein Stop-Loss beruehrt. Intel (INTC, +5,5%) hat zwar einen echten fundamentalen Katalysator (Nvidia-Beteiligung von ~30 Mrd. USD, Preiserhoehungen, Analysten-Upgrade), die Bewegung ist jedoch bereits ueber den Handelstag gelaufen und der US-Handelsschluss steht kurz bevor - kein ueberzeugender Einstiegszeitpunkt mehr. Kein Kauf/Verkauf in diesem Lauf.",
+    "reasoning": "Seit dem 20:07-Lauf kaum Bewegung: NVDA unveraendert bei 230,36 USD (+0,53%), XRP minimal auf 1,40 USD nachgegeben (+2,19% statt +2,92%), SOL unveraendert bei 103,31 USD (+0,93%). Die US-Indizes bleiben im Minus wegen der eskalierenden Iran/Hormuz-Oel-Rally und dem US-Kanada-Handelskrieg. Einziger nennenswerter Ausreisser am Markt ist Intel (+5,5% dank Nvidia-Investment und Preiserhoehungsplaenen), doch mit unter einer Stunde bis Handelsschluss und einer bereits vollstaendig gelaufenen Tagesbewegung fehlt ein ueberzeugender Einstiegszeitpunkt fuer einen neuen Momentum-Kauf. Alle drei offenen Positionen bleiben klar unter der Gewinnmitnahme-Zielspanne, kein Stop-Loss-Niveau beruehrt. Freies Kapital bleibt sehr hoch (ca. 32.960 EUR), aber ohne ueberzeugende neue Gelegenheit wird gemaess Strategie weiterhin nicht investiert.",
     "positionIds": [
       "pos-0010",
       "pos-0011",
       "pos-0012"
     ],
-    "portfolioValueEnd": 2024.52,
+    "portfolioValueEnd": 2020.87,
     "updates": [
       {
         "time": "00:09",
@@ -4222,6 +4222,11 @@
         "time": "20:07",
         "note": "Keine Aenderung: NVDA auf 230,36 USD leicht erholt (+0,53%), SOL auf 103,31 USD gestiegen (+0,93%), XRP unveraendert bei 1,41 USD (+2,92%). Oel-Rally (Iran/Hormuz) und US-Kanada-Handelskrieg-Eskalation halten Risikoappetit gedaempft, kein Kauf/Verkauf.",
         "portfolioValue": 2024.52
+      },
+      {
+        "time": "21:08",
+        "note": "Keine Aenderung: NVDA unveraendert bei 230,36 USD (+0,53%), XRP leicht auf 1,40 USD nachgegeben (+2,19%), SOL unveraendert bei 103,31 USD (+0,93%). INTC (+5,5%, Nvidia-Investment) als einziger Marktausreisser geprueft, aber Bewegung bereits gelaufen und Handelsschluss nah - kein Kauf/Verkauf.",
+        "portfolioValue": 2020.87
       }
     ]
   }
