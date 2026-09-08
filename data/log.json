@@ -4113,15 +4113,15 @@
   },
   {
     "date": "2026-09-08",
-    "marketOverview": "US-Boersen schliessen den Handelstag im Minus (Oel-Rally durch US-Iran-Eskalation Richtung 100 USD/Barrel, eskalierender US-Kanada-Handelskrieg); Nasdaq/Dow belastet. Krypto bleibt seitwaerts bis leicht schwaecher (Bitcoin unter 80.000 USD, SOL ~103,3 USD, XRP ~1,40 USD) im Sog der geopolitischen Unsicherheit vor der Fed-Sitzung am 15.09.",
-    "decision": "Tagesbudget bereits um 00:09 gutgeschrieben, seitdem keine weitere Gutschrift. Ueber den gesamten Handelstag keine Trades: NVDA +0,53%, XRP +2,19%, SOL +0,93% - alle klar unter der etablierten 7-8%-Zielspanne, kein Stop-Loss beruehrt. US-Handelsschluss erreicht ohne ueberzeugende neue Kaufgelegenheit (Intel-Move bereits gelaufen). Kein Kauf/Verkauf in diesem Lauf.",
-    "reasoning": "Seit dem 21:08-Lauf keine relevante Bewegung: NVDA unveraendert bei 230,36 USD, XRP unveraendert bei 1,40 USD, SOL unveraendert bei 103,31 USD. US-Boersen sind mittlerweile geschlossen (Handelsschluss 22:00 MESZ), Aktien/ETFs/Rohstoffe damit bis morgen nicht mehr handelbar - nur Krypto koennte bewegt werden. Der Kryptomarkt zeigt aber keinen ueberzeugenden neuen Katalysator: Bitcoin bleibt unter Druck durch die anhaltende US-Iran-Eskalation (Oel Richtung 100 USD), SOL und XRP bewegen sich seitwaerts ohne klaren Trigger. Alle drei offenen Positionen bleiben klar unter der Gewinnmitnahme-Zielspanne, kein Stop-Loss-Niveau beruehrt. Freies Kapital bleibt sehr hoch, aber ohne ueberzeugende Gelegenheit wird gemaess Strategie weiterhin nicht investiert.",
+    "marketOverview": "US-Boersen bleiben nach Handelsschluss stabil im Minus (Oel-Rally durch US-Iran-Eskalation Richtung 100 USD/Barrel, US-Kanada-Handelskrieg). Krypto zeigt am spaeten Abend leichte Erholung: Bitcoin weiter unter 80.000-81.000 USD, SOL legt auf ca. 103,98 USD zu (+1,58% seit Kauf), XRP stabil bei 1,40 USD - Fear&Greed-Index bleibt mit 69-74 im Greed-Bereich, Vorsicht vor der Fed-Sitzung am 15.09. dominiert weiterhin.",
+    "decision": "Tagesbudget bereits um 00:09 gutgeschrieben, seitdem keine weitere Gutschrift. Ueber den gesamten Handelstag keine Trades: NVDA +0,53%, XRP +2,19%, SOL +1,58% - alle klar unter der etablierten 7-8%-Zielspanne, kein Stop-Loss beruehrt. Aktien/ETFs/Rohstoffe seit 22:00 MESZ nicht mehr handelbar; auch im Krypto-Markt kein ueberzeugender neuer Katalysator. Kein Kauf/Verkauf in diesem Lauf.",
+    "reasoning": "Seit dem 22:08-Lauf nur minimale Bewegung: SOL von 103,31 auf 103,98 USD gestiegen (+0,65%), XRP und NVDA unveraendert. Die geopolitische Grosswetterlage (US-Iran-Eskalation, Oelpreis Richtung 100 USD, US-Kanada-Handelskrieg) bleibt belastend, der Kryptomarkt zeigt sich davon unbeeindruckt mit weiterhin erhoehtem Fear&Greed-Wert (Greed-Zone), aber ohne konkreten neuen Trigger fuer eine Positionsveraenderung. Alle drei offenen Positionen liegen weiterhin klar unter der Gewinnmitnahme-Zielspanne (7-8%), kein Stop-Loss-Niveau beruehrt. Freies Kapital bleibt sehr hoch (~33.000 EUR), aber ohne ueberzeugende Gelegenheit wird gemaess Strategie weiterhin nicht investiert.",
     "positionIds": [
       "pos-0010",
       "pos-0011",
       "pos-0012"
     ],
-    "portfolioValueEnd": 2020.87,
+    "portfolioValueEnd": 2024.14,
     "updates": [
       {
         "time": "00:09",
@@ -4232,6 +4232,11 @@
         "time": "22:08",
         "note": "US-Handelsschluss erreicht (22:00 MESZ), keine Aenderung: NVDA unveraendert 230,36 USD, XRP unveraendert 1,40 USD, SOL unveraendert 103,31 USD. Oel-Rally (Iran-Eskalation) und Handelskrieg-Sorgen halten an, kein Kauf/Verkauf.",
         "portfolioValue": 2020.87
+      },
+      {
+        "time": "23:09",
+        "note": "Keine Aenderung: SOL auf 103,98 USD gestiegen (+1,58%), XRP/NVDA unveraendert. Iran/Oel-Eskalation und Vor-FOMC-Vorsicht daempfen weiterhin Risikoappetit, kein Kauf/Verkauf.",
+        "portfolioValue": 2024.14
       }
     ]
   }
