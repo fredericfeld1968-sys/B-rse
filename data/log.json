@@ -4113,15 +4113,15 @@
   },
   {
     "date": "2026-09-08",
-    "marketOverview": "Boersen (Aktien/ETFs/Rohstoffe) weiterhin geschlossen (Xetra oeffnet erst 09:00 MESZ). US-Iran-Eskalation an der Strasse von Hormuz spitzt sich weiter zu: Iran meldet Angriffe auf drei Oeltanker sowie US-nahe Schiffe als Vergeltung fuer den US-Angriff am Wochenende, gleichzeitig stehen Verhandlungen mit Oman ueber eine temporaere sichere Route kurz vor Abschluss. Brent naehert sich 97 USD, WTI ueber 92 USD, asiatische Aktien tendieren schwaecher. Bitcoin konsolidiert bei ca. 79.860 USD nach mehrfachem Scheitern an 82.000 USD. Solana leicht auf 103,31 USD nachgegeben, XRP legt auf 1,45 USD zu (+1,3% 24h) vor dem CLARITY-Act-Votum am 15.09. NVDA vorboerslich stabil bei ca. 230,36 USD.",
-    "decision": "Tagesbudget bereits um 00:09 gutgeschrieben, heute keine weitere Gutschrift. Weiterhin keine Trades: NVDA leicht im Plus (+0,53%, Markt noch geschlossen), SOL bei +0,95% weiter klar unter der etablierten 7-8%-Zielspanne. XRP naehert sich mit +5,84% der Zielspanne, aber noch nicht erreicht - kein Stop-Loss beruehrt. Trotz weiterer geopolitischer Eskalation (Iran-Tanker-Vergeltung, Oel Richtung 100 USD) kein hinreichend klarer, spekulativ handelbarer Krypto-Katalysator. Kein Kauf/Verkauf in diesem Lauf.",
-    "reasoning": "Ausserhalb der Boersenzeiten sind nur Kryptowerte handelbar. Von den offenen Krypto-Positionen liegt XRP mit +5,84% am naechsten an der bisherigen Gewinnmitnahme-Spanne von 7-8%, hat sie aber noch nicht erreicht; SOL bei nur +0,95%. Kein Stop-Loss-Niveau wird beruehrt. Die weitere Eskalation an der Strasse von Hormuz (Tanker-Vergeltungsschlaege) wirkt eher belastend auf Risikoassets (Bitcoin scheitert weiter an 82.000 USD) und liefert keinen klaren spekulativen Kauf-Trigger fuer Krypto. Aktien/ETFs/Rohstoffe sind vor Handelsbeginn (09:00 MESZ) ohnehin nicht handelbar. Daher weiterhin keine Aktion ausser der turnusmaessigen Kursaktualisierung.",
+    "marketOverview": "Xetra ist seit 09:00 MESZ geoeffnet, US-Boersen oeffnen erst um 15:30 MESZ. Oel setzt den Anstieg fort (Brent ~97,20 USD, WTI ~92,56 USD) nach weiterer Eskalation an der Strasse von Hormuz (USA zerstoerten am Wochenende einen von drei angegriffenen iranischen Oeltankern, Iran droht mit neuer Sperrzone). US-Aktienfutures leicht schwaecher, Fed-Zinserhoehungswahrscheinlichkeit fuer naechste Woche bei ca. 60%, was Risikoassets belastet. Bitcoin unter 80.000 USD (~79.100 USD), Solana ~103,9 USD, XRP auf ~1,39 USD zurueckgekommen (vor CLARITY-Act-Votum am 15.09.). NVDA stabil bei 230,36 USD, Ex-Dividende am 10.09.",
+    "decision": "Tagesbudget bereits um 00:09 gutgeschrieben, heute keine weitere Gutschrift. Weiterhin keine Trades: NVDA nur +0,53%, SOL +1,48%, XRP auf +1,46% zurueckgekommen (Fed-Zinssorgen draengen Kryptomarkt) - alle klar unter der etablierten 7-8%-Zielspanne, kein Stop-Loss beruehrt. Trotz Xetra-Handelsbeginn kein hinreichend ueberzeugender neuer Kauf-Katalysator (Oel-Rally bereits gut bekannt, keine neue Aktien-Sondersituation identifiziert). Kein Kauf/Verkauf in diesem Lauf.",
+    "reasoning": "Mit Xetra-Handelsbeginn waeren nun grundsaetzlich auch Aktien/ETFs handelbar, es fehlt aber eine wirklich ueberzeugende, neue Gelegenheit (kein frischer Ergebnis- oder Sondersituations-Trigger gefunden). Bei den Krypto-Positionen ist XRP von +5,84% auf +1,46% zurueckgefallen, SOL bei +1,48% - beide weit von der Gewinnmitnahme-Zielspanne entfernt, kein Stop-Loss-Niveau beruehrt. Steigende Fed-Zinserhoehungswahrscheinlichkeit (~60%) und die Oel-Rally durch die Hormuz-Eskalation wirken eher belastend auf Risikoassets, liefern aber keinen klaren spekulativen Kauf-Trigger. Daher weiterhin keine Aktion ausser der turnusmaessigen Kursaktualisierung.",
     "positionIds": [
       "pos-0010",
       "pos-0011",
       "pos-0012"
     ],
-    "portfolioValueEnd": 2039.23,
+    "portfolioValueEnd": 2019.96,
     "updates": [
       {
         "time": "00:09",
@@ -4162,6 +4162,11 @@
         "time": "08:14",
         "note": "Keine Aenderung: XRP auf 1,45 USD gestiegen (+5,84% seit Kauf, naehert sich Zielspanne), SOL auf 103,31 USD nachgegeben (+0,95%), NVDA vorboerslich stabil. Iran-Tanker-Eskalation, kein Kauf/Verkauf.",
         "portfolioValue": 2039.23
+      },
+      {
+        "time": "09:09",
+        "note": "Xetra-Handelsbeginn (09:00 MESZ), aber keine ueberzeugende neue Gelegenheit. XRP auf 1,39 USD zurueckgekommen (+1,46%, Fed-Zinssorgen), SOL leicht auf 103,87 USD erholt (+1,48%), NVDA stabil bei 230,36 USD. Oel-Rally (Brent ~97 USD) durch Hormuz-Eskalation haelt an. Kein Kauf/Verkauf.",
+        "portfolioValue": 2019.96
       }
     ]
   }
