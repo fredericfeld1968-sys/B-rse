@@ -4113,15 +4113,15 @@
   },
   {
     "date": "2026-09-08",
-    "marketOverview": "Xetra weiter geoeffnet, US-Boersen oeffnen erst um 15:30 MESZ. Oel bleibt erhoeht (Brent nahe 100 USD, WTI ~93 USD) trotz Meldungen ueber einen moeglichen Iran-Oman-Deal zur Hormuz-Schifffahrt; Fed-Zinserhoehungssorgen vor dem CPI-Termin am Freitag belasten weiter (starker US-Arbeitsmarktbericht). Bitcoin erneut an der 82.000-USD-Marke gescheitert, aktuell ca. 79.100-79.400 USD; SOL konsolidiert bei ca. 103,3-104,0 USD; XRP stabil bei 1,39-1,40 USD vor dem CLARITY-Act-Votum am 15.09. NVDA vorboerslich weiter stabil bei 230,36 USD.",
-    "decision": "Tagesbudget bereits um 00:09 gutgeschrieben, heute keine weitere Gutschrift. Weiterhin keine Trades: NVDA +0,53%, SOL +1,11%, XRP +2,19% - alle klar unter der etablierten 7-8%-Zielspanne, kein Stop-Loss beruehrt. Kein neuer, hinreichend ueberzeugender Kauf-Katalysator seit dem letzten Lauf (Hormuz-Deeskalationshoffnung und Fed-Sorgen bereits eingepreist). Kein Kauf/Verkauf in diesem Lauf.",
-    "reasoning": "Seit dem 10:09-Lauf kaum Bewegung: SOL leicht auf ca. 103,5 USD nachgegeben (+1,11%), XRP/NVDA praktisch unveraendert. Bitcoin scheitert erneut an der 82.000-USD-Marke, Krypto-Marktkapitalisierung leicht ruecklaeufig (-1,1%), Fear&Greed bei 69 (Greed, leicht abgekuehlt von 71). Am Aktienmarkt keine neue Sondersituation - Oel-Thema und Zollstreit bereits bekannt, US-Boersen noch geschlossen. Alle drei offenen Positionen bleiben klar unter Gewinnmitnahme-Zielspanne, kein Stop-Loss-Niveau beruehrt. Daher weiterhin keine Aktion ausser der turnusmaessigen Kursaktualisierung.",
+    "marketOverview": "Xetra weiter geoeffnet (DAX ca. 25.999 Pkt., nahezu unveraendert), US-Boersen oeffnen erst um 15:30 MESZ; US-Futures und QQQ leicht im Plus (+0,08%) dank Erholung bei ausgewaehlten Halbleiterwerten, Gesamtmarkt bleibt aber vorsichtig wegen hoher Oelpreise (Nahost-Spannungen) und Fed-Zinssorgen vor dem CPI-Termin am Freitag. Bitcoin ist unter die 79.000-USD-Marke gerutscht (ca. 78.560 USD, -1,55% in 24h) nach starkem US-Arbeitsmarktbericht und steigenden Anleiherenditen - die 78.000-USD-Unterstuetzung ist der naechste wichtige Level. SOL konsolidiert bei ca. 103,3-104,1 USD (Whales eroeffnen vor dem Netzwerk-Upgrade am 09.09. Long-Positionen), XRP stabil bei 1,39-1,40 USD vor dem CLARITY-Act-Votum am 15.09. NVDA vorboerslich weiter stabil bei 230,36 USD.",
+    "decision": "Tagesbudget bereits um 00:09 gutgeschrieben, seitdem keine weitere Gutschrift. Weiterhin keine Trades: NVDA +0,53%, SOL +1,41%, XRP +2,19% - alle klar unter der etablierten 7-8%-Zielspanne, kein Stop-Loss beruehrt. Kein neuer, hinreichend ueberzeugender Kauf-Katalysator seit dem letzten Lauf (Bitcoin-Schwaeche unter 79k ist kein bestaetigter Ausbruch, sondern Fortsetzung der Ablehnung an 82k; Aktienmarkt ohne neue Sondersituation vor US-Marktoeffnung). Kein Kauf/Verkauf in diesem Lauf.",
+    "reasoning": "Seit dem 11:09-Lauf kaum Bewegung bei den offenen Positionen (NVDA/XRP/SOL alle in engem Band). Bitcoin ist weiter unter Druck (jetzt ca. 78.560 USD, -1,55% in 24h) nach starkem US-Jobsbericht und steigenden Renditen - das ist ein Abwaerts-, kein Aufwaertskatalysator und passt nicht ins etablierte Ausbruchs-Kaufmuster. Am Aktienmarkt ist QQQ vorboerslich nur marginal im Plus (+0,08%), keine Einzeltitel-Sondersituation erkennbar; US-Kassamarkt oeffnet erst um 15:30 MESZ. Freies Kapital ist mit rund 32.960 EUR sehr hoch, aber ohne ueberzeugende, klar bestaetigte Gelegenheit wird gemaess Strategie nicht investiert - spekulativ heisst gezielte Chancen nutzen, nicht Kapital pro forma platzieren. Alle drei offenen Positionen bleiben klar unter Gewinnmitnahme-Zielspanne, kein Stop-Loss-Niveau beruehrt. Daher weiterhin keine Aktion ausser der turnusmaessigen Kursaktualisierung.",
     "positionIds": [
       "pos-0010",
       "pos-0011",
       "pos-0012"
     ],
-    "portfolioValueEnd": 2021.8,
+    "portfolioValueEnd": 2023.26,
     "updates": [
       {
         "time": "00:09",
@@ -4177,6 +4177,11 @@
         "time": "11:09",
         "note": "Keine Aenderung: SOL auf 103,50 USD leicht nachgegeben (+1,11%), XRP/NVDA nahezu unveraendert. Bitcoin erneut an 82.000-USD-Marke gescheitert, Oel-Rally (Hormuz) haelt trotz Deeskalationshoffnung an. Kein Kauf/Verkauf.",
         "portfolioValue": 2021.8
+      },
+      {
+        "time": "12:10",
+        "note": "Keine Aenderung: NVDA stabil bei 230,36 USD (+0,53%), SOL auf 103,80 USD (+1,41%), XRP stabil bei 1,40 USD (+2,19%). Bitcoin unter 79.000 USD gerutscht (Jobs-Bericht/Renditen), kein Kauftrigger. Kein Kauf/Verkauf.",
+        "portfolioValue": 2023.26
       }
     ]
   }
