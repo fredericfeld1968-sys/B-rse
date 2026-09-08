@@ -4113,9 +4113,9 @@
   },
   {
     "date": "2026-09-08",
-    "marketOverview": "Xetra weiterhin offen, US-Boersen oeffnen erst um 15:30 MESZ; US-Futures leicht schwaecher (Dow -0,7%, S&P 500 -0,2%) wegen steigender Oelpreise (Brent naehert sich 100 USD/Barrel) im Zuge der Iran-Spannungen an der Strasse von Hormus sowie Sorgen um Inflation und den Fed-Zinspfad vor den CPI-Daten am Freitag und Oracle-Zahlen diese Woche. NVDA vorboerslich stabil bei 230,36 USD. Bitcoin bleibt unter 82.000 USD gedeckelt (ca. 79.860 USD), SOL konsolidiert bei ca. 103,3 USD vor dem Netzwerk-Upgrade am 09.09., XRP stabil bei ca. 1,41 USD vor dem CLARITY-Act-Votum am 15.09.",
-    "decision": "Tagesbudget bereits um 00:09 gutgeschrieben, seitdem keine weitere Gutschrift. Weiterhin keine Trades: NVDA +0,53%, XRP +2,92%, SOL +0,93% - alle klar unter der etablierten 7-8%-Zielspanne, kein Stop-Loss beruehrt. Kein neuer, hinreichend ueberzeugender Kauf-Katalysator: steigende Oelpreise und Fed-Sorgen wirken eher risikodaempfend als als Kaufsignal. Kein Kauf/Verkauf in diesem Lauf.",
-    "reasoning": "Seit dem 12:10-Lauf kaum Bewegung bei den offenen Positionen (NVDA/XRP/SOL alle in engem Band, SOL leicht auf 103,31 USD nachgegeben). US-Boersen weiterhin geschlossen (Oeffnung erst 15:30 MESZ), Futures schwaecher wegen Oel-Rally (Iran/Hormuz) und Fed-Zinssorgen vor dem CPI-Termin am Freitag - kein klares Kaufsignal, eher Risikoscheu. Freies Kapital bleibt sehr hoch, aber ohne ueberzeugende, klar bestaetigte Gelegenheit wird gemaess Strategie nicht investiert. Alle drei offenen Positionen bleiben klar unter der Gewinnmitnahme-Zielspanne, kein Stop-Loss-Niveau beruehrt. Daher weiterhin keine Aktion ausser der turnusmaessigen Kursaktualisierung.",
+    "marketOverview": "Xetra weiterhin offen, US-Boersen oeffnen erst um 15:30 MESZ; US-Futures weiter schwaecher (Dow, S&P 500 im Minus), da Oel wegen der eskalierenden Iran-Spannungen an der Strasse von Hormus (US-Angriff auf iranische Tanker, iranische Raketenandrohung gegen US-Kriegsschiffe) weiter Richtung 95-100 USD/Barrel steigt. Zusaetzlich belasten Sorgen vor der naechsten Fed-Sitzung (in zwei Wochen) nach dem starken Jobsbericht die Stimmung. NVDA vorboerslich weiter stabil bei 230,36 USD, Bitcoin bei ca. 79.860 USD weiterhin unter 82.000 USD gedeckelt, SOL konsolidiert um 102-103 USD vor dem Netzwerk-Upgrade am 09.09., XRP stabil bei ca. 1,41 USD.",
+    "decision": "Tagesbudget bereits um 00:09 gutgeschrieben, seitdem keine weitere Gutschrift. Weiterhin keine Trades: NVDA +0,53%, XRP +2,92%, SOL +0,93% - alle klar unter der etablierten 7-8%-Zielspanne, kein Stop-Loss beruehrt. Kein neuer, hinreichend ueberzeugender Kauf-Katalysator: die Oel-Rally (Iran/Hormuz) und Fed-Zinssorgen vor den CPI-Daten wirken weiterhin risikodaempfend statt als Kaufsignal. Kein Kauf/Verkauf in diesem Lauf.",
+    "reasoning": "Seit dem 13:10-Lauf keine wesentliche Bewegung bei den offenen Positionen (NVDA/XRP/SOL praktisch unveraendert). US-Boersen weiterhin geschlossen (Oeffnung erst 15:30 MESZ), US-Futures schwaecher wegen der anhaltenden Iran/Hormuz-Eskalation (Oelpreis Richtung 95-100 USD) und Fed-Zinssorgen nach dem starken Jobsbericht - dieselbe Gemengelage wie in den vorherigen Laeufen, kein neues, unabhaengig bestaetigtes Kaufsignal. Freies Kapital bleibt sehr hoch, aber ohne ueberzeugende Gelegenheit wird gemaess Strategie nicht investiert. Alle drei offenen Positionen bleiben klar unter der Gewinnmitnahme-Zielspanne, kein Stop-Loss-Niveau beruehrt. Daher weiterhin keine Aktion ausser der turnusmaessigen Kursaktualisierung.",
     "positionIds": [
       "pos-0010",
       "pos-0011",
@@ -4186,6 +4186,11 @@
       {
         "time": "13:10",
         "note": "Keine Aenderung: SOL auf 103,31 USD leicht nachgegeben (+0,93%), XRP stabil bei 1,41 USD (+2,92%), NVDA vorboerslich unveraendert bei 230,36 USD (+0,53%). Oel-Rally (Brent nahe 100 USD, Iran/Hormuz) und Fed-Zinssorgen vor CPI daempfen Risikoappetit, kein neuer Kauf-Katalysator, kein Kauf/Verkauf.",
+        "portfolioValue": 2024.52
+      },
+      {
+        "time": "14:17",
+        "note": "Keine Aenderung: NVDA stabil bei 230,36 USD (+0,53%), XRP stabil bei 1,41 USD (+2,92%), SOL um 103,31 USD (+0,93%). Oel-Rally (Iran/Hormuz) und Fed-Zinssorgen vor CPI/Fed-Sitzung halten an, kein neuer Kauf-Katalysator, kein Kauf/Verkauf.",
         "portfolioValue": 2024.52
       }
     ]
