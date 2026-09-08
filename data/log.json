@@ -4239,5 +4239,24 @@
         "portfolioValue": 2024.14
       }
     ]
+  },
+  {
+    "date": "2026-09-09",
+    "marketOverview": "Risikoscheue Grundstimmung vor der FOMC-Sitzung am 15.-16.09.: Zinserhoehungswahrscheinlichkeit laut Fed-Funds-Futures bei rund 58%, nachdem staerker als erwartete Arbeitsmarktdaten (+162.000 Stellen im August) einen hawkishen Ausblick stuetzen. Kryptomarkt konsolidiert leicht schwaecher (BTC ~78.475 USD, ETH ~2.484 USD, SOL ~103,4-103,6 USD, XRP ~1,40 USD) vor den anstehenden US-Inflationsdaten (PPI 10.09., CPI 11.09.). Spot-Bitcoin-ETFs verzeichneten in der Vorwoche dennoch ca. 987 Mio. USD Nettozufluesse. Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten (fruehe Nacht) nicht handelbar.",
+    "decision": "Tagesbudget gutgeschrieben (Gesamtkapital jetzt 36.000 EUR). Kein Kauf/Verkauf - SOL-Kurs leicht auf 103,50 USD aktualisiert, NVDA/XRP unveraendert.",
+    "reasoning": "Nur Krypto ausserhalb der Handelszeiten bewegbar, aber kein ueberzeugender frischer Katalysator: Marktstimmung ist risk-off vor der FOMC-Sitzung, Kurse leicht ruecklaeufig bis seitwaerts ohne klare Bewegungsrichtung. Bestehende offene Positionen (NVDA, XRP, SOL) werden gehalten, da keine der Verkaufsschwellen (deutlicher Gewinn/Verlust, Trendbruch) erreicht ist.",
+    "positionIds": [
+      "pos-0010",
+      "pos-0011",
+      "pos-0012"
+    ],
+    "portfolioValueEnd": 2021.8,
+    "updates": [
+      {
+        "time": "00:10",
+        "note": "Neuer Tag: Tagesbudget gutgeschrieben (+1.000 EUR), SOL-Kurs aktualisiert (103,50 USD), kein Trade (Risk-off vor FOMC 15.-16.09., nur Krypto handelbar)",
+        "portfolioValue": 2021.8
+      }
+    ]
   }
 ]
