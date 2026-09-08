@@ -4113,15 +4113,15 @@
   },
   {
     "date": "2026-09-08",
-    "marketOverview": "US-Boersen im Handel (seit 15:30 MESZ): Dow ca. -1,15%, Nasdaq ca. -0,48%, S&P 500 ca. -0,15% - belastet durch weiter steigende Oelpreise (Brent nahe 99-100 USD) wegen der Iran/Hormuz-Eskalation (geplante maritime Sperrzone) und den sich verschaerfenden US-Kanada-Handelskrieg. Apple, Alphabet und Microsoft fuehren die Verluste an. NVDA notiert bei ca. 230,36 USD, Bitcoin/SOL/XRP bewegen sich seitwaerts (SOL ~103,3 USD, XRP ~1,40 USD) ohne neuen Kryptokatalysator.",
-    "decision": "Tagesbudget bereits um 00:09 gutgeschrieben, seitdem keine weitere Gutschrift. Weiterhin keine Trades: NVDA +0,53%, XRP +2,19%, SOL +0,93% - alle klar unter der etablierten 7-8%-Zielspanne, kein Stop-Loss beruehrt. Weiterhin kein hinreichend ueberzeugender Kauf-Katalysator angesichts des risikodaempfenden Umfelds (Oel-Rally, Handelskrieg-Eskalation). Kein Kauf/Verkauf in diesem Lauf.",
-    "reasoning": "Seit dem 16:10-Lauf keine wesentliche Bewegung: NVDA leicht von 231,98 auf 230,36 USD nachgegeben (Tagesgewinn schrumpft auf +0,53%), SOL/XRP nahezu unveraendert. Die US-Indizes bleiben im Minus (Dow -1,15%) wegen Oelpreisanstieg und Handelskrieg-Eskalation - kein Umfeld fuer neue spekulative Kaeufe. Alle drei offenen Positionen bleiben klar unter der Gewinnmitnahme-Zielspanne, kein Stop-Loss-Niveau beruehrt. Freies Kapital bleibt sehr hoch, aber ohne ueberzeugende Gelegenheit wird gemaess Strategie nicht investiert.",
+    "marketOverview": "US-Boersen im Handel: Dow ca. -1%, S&P 500 ca. -0,4%, Nasdaq ca. -0,1% - weiterhin belastet durch die Iran/Hormuz-Eskalation (Brent nahe 100 USD, WTI nahe 93 USD) und den sich verschaerfenden US-Kanada-Handelskrieg (kanadische Vergeltungszoelle auf ca. 20 Mrd. USD US-Waren seit heute in Kraft). Fed-Zinserhoehung naechste Woche wird mit ca. 60% Wahrscheinlichkeit eingepreist. NVDA stabil bei 230,36 USD, Krypto seitwaerts (SOL ~102,93 USD, XRP ~1,41 USD, Bitcoin weiter unter 82.000 USD gedeckelt).",
+    "decision": "Tagesbudget bereits um 00:09 gutgeschrieben, seitdem keine weitere Gutschrift. Weiterhin keine Trades: NVDA +0,53%, XRP +2,92%, SOL +0,56% - alle klar unter der etablierten 7-8%-Zielspanne, kein Stop-Loss beruehrt. Weiterhin kein hinreichend ueberzeugender Kauf-Katalysator angesichts des risikodaempfenden Umfelds (Oel-Rally, Handelskrieg-Eskalation, Fed-Zinssorgen). Kein Kauf/Verkauf in diesem Lauf.",
+    "reasoning": "Seit dem 17:10-Lauf kaum Bewegung: NVDA unveraendert bei 230,36 USD, XRP leicht auf 1,41 USD gestiegen (+2,92%), SOL leicht auf 102,93 USD nachgegeben (+0,56%). Die US-Indizes bleiben im Minus (Dow -1%) wegen anhaltender Oel-Rally (Iran/Hormuz) und eskalierendem US-Kanada-Handelskrieg, zusaetzlich belastet die hohe Fed-Zinserhoehungswahrscheinlichkeit (~60%) die Risikobereitschaft. Alle drei offenen Positionen bleiben klar unter der Gewinnmitnahme-Zielspanne, kein Stop-Loss-Niveau beruehrt. Freies Kapital bleibt sehr hoch (ca. 32.960 EUR), aber ohne ueberzeugende Gelegenheit wird gemaess Strategie nicht investiert.",
     "positionIds": [
       "pos-0010",
       "pos-0011",
       "pos-0012"
     ],
-    "portfolioValueEnd": 2020.87,
+    "portfolioValueEnd": 2022.66,
     "updates": [
       {
         "time": "00:09",
@@ -4207,6 +4207,11 @@
         "time": "17:10",
         "note": "Keine Aenderung: NVDA auf 230,36 USD nachgegeben (+0,53%), SOL/XRP nahezu unveraendert. US-Indizes im Minus (Oel-Rally, US-Kanada-Handelskrieg), kein Kauf/Verkauf.",
         "portfolioValue": 2020.87
+      },
+      {
+        "time": "18:10",
+        "note": "Keine Aenderung: NVDA unveraendert bei 230,36 USD (+0,53%), XRP auf 1,41 USD gestiegen (+2,92%), SOL leicht auf 102,93 USD nachgegeben (+0,56%). Oel-Rally (Iran/Hormuz) und US-Kanada-Handelskrieg-Eskalation halten Risikoappetit gedaempft, kein Kauf/Verkauf.",
+        "portfolioValue": 2022.66
       }
     ]
   }
