@@ -4113,15 +4113,15 @@
   },
   {
     "date": "2026-09-08",
-    "marketOverview": "Weiterhin nur Krypto handelbar (vor Boerseneroeffnung Europa/USA). Bitcoin konsolidiert bei ca. 79.200-79.900 USD nach dem Rueckgang durch den robusten US-Arbeitsmarktbericht, Gesamtmarkt insgesamt seitwaerts. XRP stabil bei ca. 1,40 USD (leicht unter Vortag), Solana minimal auf ca. 103,90 USD erholt (+0,6 Punkte ggue. letztem Lauf). Keine neuen Katalysatoren; Markt wartet weiter auf US-CPI (11.09.) und FOMC (Mitte September).",
-    "decision": "Tagesbudget bereits um 00:09 gutgeschrieben, heute keine weitere Gutschrift. Weiterhin keine Trades: NVDA nachts unveraendert (Markt geschlossen), SOL bei +1,50% und XRP bei +2,19% beide weiter klar unter der etablierten 7-8%-Zielspanne, kein Stop-Loss beruehrt. Kein neuer ueberzeugender Kaufkatalysator. Kein Kauf/Verkauf in diesem Lauf.",
-    "reasoning": "Ausserhalb der Boersenzeiten sind nur Kryptowerte handelbar. Beide offenen Krypto-Positionen (SOL +1,50%, XRP +2,19%) liegen weiterhin klar unter der bisherigen Gewinnmitnahme-Spanne von 7-8%, ein Stop-Loss-Niveau wird nicht beruehrt. Fuer eine neue spekulative Position fehlt ein hinreichend stark und mehrfach unabhaengig bestaetigter Katalysator; der Kryptomarkt bewegt sich seitwaerts vor CPI/FOMC. Daher weiterhin keine Aktion ausser der turnusmaessigen Kursaktualisierung.",
+    "marketOverview": "Boersen (Aktien/ETFs/Rohstoffe) noch geschlossen (Vorboerse). Bitcoin konsolidiert bei ca. 79.800-80.000 USD nach mehrfachem Scheitern an der 82.000-USD-Marke, belastet durch hawkishe Fed-Kommentare (Warsh) vor der Sitzung am 15.09. XRP stabil bei ca. 1,40 USD, Solana leicht auf ca. 103,83 USD nachgegeben (-2% ggue. Vortag). NVDA vorboerslich bei ca. 231 USD, keine neuen Kurstreiber. Insgesamt seitwaertsgerichteter, abwartender Markt vor US-CPI (11.09.) und FOMC.",
+    "decision": "Tagesbudget bereits um 00:09 gutgeschrieben, heute keine weitere Gutschrift. Weiterhin keine Trades: NVDA vorboerslich leicht im Plus (+0,84%, Markt geschlossen), SOL bei +1,44% und XRP bei +2,19% beide weiter klar unter der etablierten 7-8%-Zielspanne, kein Stop-Loss beruehrt. Kein neuer ueberzeugender Kaufkatalysator. Kein Kauf/Verkauf in diesem Lauf.",
+    "reasoning": "Ausserhalb der Boersenzeiten sind nur Kryptowerte handelbar. Beide offenen Krypto-Positionen (SOL +1,44%, XRP +2,19%) liegen weiterhin klar unter der bisherigen Gewinnmitnahme-Spanne von 7-8%, ein Stop-Loss-Niveau wird nicht beruehrt. Bitcoin scheitert wiederholt an der 82.000-USD-Marke und die Fed-Erwartung ist zuletzt hawkisher geworden, was gegen eine neue spekulative Krypto-Position spricht. Fuer eine neue Position fehlt ein hinreichend stark und mehrfach unabhaengig bestaetigter Katalysator. Daher weiterhin keine Aktion ausser der turnusmaessigen Kursaktualisierung.",
     "positionIds": [
       "pos-0010",
       "pos-0011",
       "pos-0012"
     ],
-    "portfolioValueEnd": 2023.75,
+    "portfolioValueEnd": 2026.56,
     "updates": [
       {
         "time": "00:09",
@@ -4147,6 +4147,11 @@
         "time": "05:08",
         "note": "Keine Aenderung: SOL leicht auf 103,90 USD erholt (+1,50%), XRP stabil bei 1,40 USD (+2,19%), NVDA nachts unveraendert. Kein neuer Katalysator, kein Kauf/Verkauf.",
         "portfolioValue": 2023.75
+      },
+      {
+        "time": "06:08",
+        "note": "Keine Aenderung: SOL auf 103,83 USD nachgegeben (-2% 24h), XRP stabil bei 1,40 USD, NVDA vorboerslich leicht im Plus. Bitcoin scheitert weiter an 82.000 USD, hawkishe Fed-Erwartung. Kein Kauf/Verkauf.",
+        "portfolioValue": 2026.56
       }
     ]
   }
