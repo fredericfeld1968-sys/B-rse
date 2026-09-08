@@ -4113,9 +4113,9 @@
   },
   {
     "date": "2026-09-08",
-    "marketOverview": "US-Indizes schliessen nahe den Tagestiefs im Minus (Dow ca. -1,15% auf 52.800, S&P 500 ca. -0,15%, Nasdaq ca. -0,48%) belastet durch die eskalierende Iran/Hormuz-Oel-Rally und den sich verschaerfenden US-Kanada-Handelskrieg zum Start einer feiertagsverkuerzten Woche. NVDA bei 230,36 USD stabil, Krypto seitwaerts (SOL ~103,31 USD, XRP ~1,40 USD, Bitcoin ~81.000 USD).",
-    "decision": "Tagesbudget bereits um 00:09 gutgeschrieben, seitdem keine weitere Gutschrift. Weiterhin keine Trades: NVDA +0,53%, XRP +2,19%, SOL +0,93% - alle klar unter der etablierten 7-8%-Zielspanne, kein Stop-Loss beruehrt. Intel (INTC, +5,5%) hat zwar einen echten fundamentalen Katalysator (Nvidia-Beteiligung von ~30 Mrd. USD, Preiserhoehungen, Analysten-Upgrade), die Bewegung ist jedoch bereits ueber den Handelstag gelaufen und der US-Handelsschluss steht kurz bevor - kein ueberzeugender Einstiegszeitpunkt mehr. Kein Kauf/Verkauf in diesem Lauf.",
-    "reasoning": "Seit dem 20:07-Lauf kaum Bewegung: NVDA unveraendert bei 230,36 USD (+0,53%), XRP minimal auf 1,40 USD nachgegeben (+2,19% statt +2,92%), SOL unveraendert bei 103,31 USD (+0,93%). Die US-Indizes bleiben im Minus wegen der eskalierenden Iran/Hormuz-Oel-Rally und dem US-Kanada-Handelskrieg. Einziger nennenswerter Ausreisser am Markt ist Intel (+5,5% dank Nvidia-Investment und Preiserhoehungsplaenen), doch mit unter einer Stunde bis Handelsschluss und einer bereits vollstaendig gelaufenen Tagesbewegung fehlt ein ueberzeugender Einstiegszeitpunkt fuer einen neuen Momentum-Kauf. Alle drei offenen Positionen bleiben klar unter der Gewinnmitnahme-Zielspanne, kein Stop-Loss-Niveau beruehrt. Freies Kapital bleibt sehr hoch (ca. 32.960 EUR), aber ohne ueberzeugende neue Gelegenheit wird gemaess Strategie weiterhin nicht investiert.",
+    "marketOverview": "US-Boersen schliessen den Handelstag im Minus (Oel-Rally durch US-Iran-Eskalation Richtung 100 USD/Barrel, eskalierender US-Kanada-Handelskrieg); Nasdaq/Dow belastet. Krypto bleibt seitwaerts bis leicht schwaecher (Bitcoin unter 80.000 USD, SOL ~103,3 USD, XRP ~1,40 USD) im Sog der geopolitischen Unsicherheit vor der Fed-Sitzung am 15.09.",
+    "decision": "Tagesbudget bereits um 00:09 gutgeschrieben, seitdem keine weitere Gutschrift. Ueber den gesamten Handelstag keine Trades: NVDA +0,53%, XRP +2,19%, SOL +0,93% - alle klar unter der etablierten 7-8%-Zielspanne, kein Stop-Loss beruehrt. US-Handelsschluss erreicht ohne ueberzeugende neue Kaufgelegenheit (Intel-Move bereits gelaufen). Kein Kauf/Verkauf in diesem Lauf.",
+    "reasoning": "Seit dem 21:08-Lauf keine relevante Bewegung: NVDA unveraendert bei 230,36 USD, XRP unveraendert bei 1,40 USD, SOL unveraendert bei 103,31 USD. US-Boersen sind mittlerweile geschlossen (Handelsschluss 22:00 MESZ), Aktien/ETFs/Rohstoffe damit bis morgen nicht mehr handelbar - nur Krypto koennte bewegt werden. Der Kryptomarkt zeigt aber keinen ueberzeugenden neuen Katalysator: Bitcoin bleibt unter Druck durch die anhaltende US-Iran-Eskalation (Oel Richtung 100 USD), SOL und XRP bewegen sich seitwaerts ohne klaren Trigger. Alle drei offenen Positionen bleiben klar unter der Gewinnmitnahme-Zielspanne, kein Stop-Loss-Niveau beruehrt. Freies Kapital bleibt sehr hoch, aber ohne ueberzeugende Gelegenheit wird gemaess Strategie weiterhin nicht investiert.",
     "positionIds": [
       "pos-0010",
       "pos-0011",
@@ -4226,6 +4226,11 @@
       {
         "time": "21:08",
         "note": "Keine Aenderung: NVDA unveraendert bei 230,36 USD (+0,53%), XRP leicht auf 1,40 USD nachgegeben (+2,19%), SOL unveraendert bei 103,31 USD (+0,93%). INTC (+5,5%, Nvidia-Investment) als einziger Marktausreisser geprueft, aber Bewegung bereits gelaufen und Handelsschluss nah - kein Kauf/Verkauf.",
+        "portfolioValue": 2020.87
+      },
+      {
+        "time": "22:08",
+        "note": "US-Handelsschluss erreicht (22:00 MESZ), keine Aenderung: NVDA unveraendert 230,36 USD, XRP unveraendert 1,40 USD, SOL unveraendert 103,31 USD. Oel-Rally (Iran-Eskalation) und Handelskrieg-Sorgen halten an, kein Kauf/Verkauf.",
         "portfolioValue": 2020.87
       }
     ]
