@@ -4242,15 +4242,15 @@
   },
   {
     "date": "2026-09-09",
-    "marketOverview": "Risk-off haelt an: US-Futures uneinheitlich (S&P 500 +0,10% auf 7.681 Punkte), DAX bei ca. 25.926 Punkten (-0,3%) im Xetra-Handel, belastet von eskalierender Nahost-Lage (WTI >93, Brent >98 USD) und dem US-Kanada-Zollstreit (kanadische Vergeltungszoelle seit Dienstag in Kraft). Fed-Zinserhoehungserwartungen fuer die Sitzung am 15.-16.09. bleiben erhoeht (CME FedWatch ca. 58-60%), CPI-Bericht am 11.09. im Fokus. Krypto uneinheitlich: BTC ca. 78.000-78.900 USD, SOL ca. 104 USD (Transaction-V1-Upgrade heute live), XRP ca. 1,41-1,42 USD vor der CLARITY-Act-Abstimmung am 15.09. NVDA vorboerslich/Vortagesschluss bei ca. 225,73 USD.",
-    "decision": "Xetra ist seit 09:00 geoeffnet, US-Handel startet erst 15:30. Kein Kauf/Verkauf in diesem Lauf - NVDA/XRP/SOL-Kurse aktualisiert.",
-    "reasoning": "Trotz Marktoeffnung in Europa kein ueberzeugender, klar begruendbarer Impuls fuer eine Neuposition: DAX leicht im Minus, geopolitisches Risk-off (Nahost, US-Kanada-Zollstreit) und steigende Fed-Zinserhoehungserwartungen vor dem CPI-Bericht (11.09.) sprechen eher fuer Zurueckhaltung. Bei den offenen Positionen (NVDA -1,49%, XRP +3,28%, SOL +1,60%) ist weder die etablierte Gewinnschwelle (~7-8%) noch ein Stop-Loss-Niveau erreicht - Positionen werden gehalten.",
+    "marketOverview": "Risk-off haelt an: S&P 500 ca. 7.681 Punkte (+0,10%), DAX Xetra ca. 25.926 Punkte (-0,3%), belastet von eskalierender Nahost-Lage (WTI >93, Brent >98 USD) und US-Kanada-Zollstreit. Fed-Zinserhoehungserwartungen fuer die Sitzung am 15.-16.09. bleiben erhoeht (CME FedWatch ca. 58-60%), CPI-Bericht am 11.09. im Fokus. Krypto seitwaerts: SOL ca. 104 USD, XRP ca. 1,39-1,42 USD vor der CLARITY-Act-Abstimmung am 15.09. NVDA vorboerslich/Vortagesschluss unveraendert bei 225,73 USD.",
+    "decision": "Xetra seit 09:00 geoeffnet, US-Handel startet erst 15:30. Weiterhin kein Kauf/Verkauf in diesem Lauf - Kurse marginal aktualisiert (XRP leicht gestiegen).",
+    "reasoning": "Kaum Kursbewegung seit dem letzten Lauf vor einer Stunde, kein neuer ueberzeugender Impuls fuer eine Neuposition: DAX leicht im Minus, geopolitisches Risk-off (Nahost, US-Kanada-Zollstreit) und steigende Fed-Zinserhoehungserwartungen vor dem CPI-Bericht (11.09.) sprechen weiter eher fuer Zurueckhaltung. Bei den offenen Positionen (NVDA -1,49%, XRP +2,19%, SOL +1,60%) ist weder die etablierte Gewinnschwelle (~7-8%) noch ein Stop-Loss-Niveau erreicht - Positionen werden gehalten.",
     "positionIds": [
       "pos-0010",
       "pos-0011",
       "pos-0012"
     ],
-    "portfolioValueEnd": 2009.51,
+    "portfolioValueEnd": 2004.04,
     "updates": [
       {
         "time": "00:10",
@@ -4301,6 +4301,11 @@
         "time": "09:09",
         "note": "Xetra-Handel offen, kein Trade (kein ueberzeugender Impuls, Risk-off/Fed-Sorgen), NVDA/XRP/SOL-Kurse aktualisiert",
         "portfolioValue": 2009.51
+      },
+      {
+        "time": "10:09",
+        "note": "Keine Aenderung, XRP-Kurs leicht aktualisiert (1,40 USD, +2,19%), kein Trade (kein ueberzeugender Impuls)",
+        "portfolioValue": 2004.04
       }
     ]
   }
