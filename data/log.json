@@ -4242,15 +4242,15 @@
   },
   {
     "date": "2026-09-09",
-    "marketOverview": "Krypto-Markt in vorsichtig positiver Stimmung: Fed-Zinserhoehungswahrscheinlichkeit fuer die FOMC-Sitzung am 15.-16.09. laut CME FedWatch bei ca. 58% (Gouverneur Waller haelt dagegen fuer Zinspause), Gesamt-Marktkapitalisierung im September bereits +17,6% auf 2,70 Bio. USD, staerkster ETF-Monat des Jahres mit rund 987 Mio. USD Netto-Zuflaeuffen bei Bitcoin-ETFs letzte Woche. BTC bei ca. 78.000-80.000 USD, XRP bei ca. 1,41-1,42 USD (+2,1% 24h), SOL bei ca. 104 USD (-0,6% 24h). NVDA vorboerslich bei ca. 230,80 USD. Aktien/ETFs/Rohstoffe sind zu dieser Vorboersenstunde weiterhin nicht handelbar.",
-    "decision": "Tagesbudget bereits um 00:10 gutgeschrieben (Gesamtkapital 36.000 EUR). Kein Kauf/Verkauf in diesem Lauf - NVDA/XRP/SOL-Kurse aktualisiert.",
-    "reasoning": "Ausserhalb der Boersenzeiten weiterhin nur Krypto bewegbar. Trotz starker September-Rally im Krypto-Markt (Gesamt-Marktkapitalisierung +17,6%, robuste ETF-Zuflaeuffe) ueberwiegt kurzfristig die gestiegene Fed-Zinserhoehungswahrscheinlichkeit (58%) als risikodaempfender Faktor - keine wirklich ueberzeugende neue Einstiegsgelegenheit. Bei den offenen Positionen (NVDA +0,72%, XRP +3,28%, SOL +1,60%) ist die etablierte Gewinnschwelle (~7-8%) fuer eine Glattstellung noch nicht erreicht. Bestehende Positionen werden gehalten, freies Kapital bleibt mangels ueberzeugender Gelegenheit ungenutzt.",
+    "marketOverview": "Risk-off-Stimmung uebergreifend: US-Aktienfutures leicht positiv (US500 +0,10%), aber belastet von Nahost-Eskalation (Iran droht mit neuer Rakete, WTI >93 USD, Brent >98 USD), eskalierendem US-Kanada-Handelskrieg (kanadische Vergeltungszoelle seit Mitternacht) und steigenden Fed-Zinserhoehungserwartungen fuer die FOMC-Sitzung am 15.-16.09. (CME FedWatch ca. 58-60%, Polymarket ca. 52%); entscheidend wird der CPI-Bericht am 11.09. Krypto leicht ruecklaeufig: BTC ca. 78.475 USD (-0,9%), SOL ca. 103,4 USD (-0,6%), XRP haelt sich mit ca. 1,41 USD (+2,0%) am besten. NVDA vorboerslich bei ca. 231,41 USD (+0,5%). Xetra/Wall-Street-Handelszeiten haben noch nicht begonnen, daher aktuell nur Krypto grundsaetzlich handelbar.",
+    "decision": "Tagesbudget bereits fruehmorgens gutgeschrieben (Gesamtkapital 36.000 EUR). Kein Kauf/Verkauf in diesem Lauf - NVDA/XRP/SOL-Kurse aktualisiert.",
+    "reasoning": "Vorboerslich sind Aktien/ETFs/Rohstoffe weiterhin nicht handelbar, nur Krypto grundsaetzlich bewegbar. Der Kryptomarkt zeigt aber kein ueberzeugendes neues Signal (BTC/SOL leicht im Minus, gestiegene Fed-Zinserhoehungs-wahrscheinlichkeit wirkt risikodaempfend) - keine neue Position gerechtfertigt. Bei den offenen Positionen (NVDA +0,99%, XRP +2,92%, SOL +0,99%) ist die etablierte Gewinnschwelle (~7-8%) fuer eine Glattstellung noch nicht erreicht, ein Stop-Loss-Niveau wird ebenfalls nicht beruehrt. Bestehende Positionen werden gehalten.",
     "positionIds": [
       "pos-0010",
       "pos-0011",
       "pos-0012"
     ],
-    "portfolioValueEnd": 2031.61,
+    "portfolioValueEnd": 2029.39,
     "updates": [
       {
         "time": "00:10",
@@ -4291,6 +4291,11 @@
         "time": "07:09",
         "note": "Keine Aenderung, NVDA/XRP/SOL-Kurse aktualisiert, kein Trade (Fed-Zinserhoehungswahrscheinlichkeit 58%, kein ueberzeugender Impuls, Aktien/ETFs/Rohstoffe vorboerslich nicht handelbar)",
         "portfolioValue": 2031.61
+      },
+      {
+        "time": "08:14",
+        "note": "Keine Aenderung, NVDA/XRP/SOL-Kurse aktualisiert, kein Trade (Fed-Zinserhoehungswahrscheinlichkeit ~58%, Nahost-/Handelskonflikt-Risk-off, Aktien/ETFs/Rohstoffe vorboerslich nicht handelbar)",
+        "portfolioValue": 2029.39
       }
     ]
   }
