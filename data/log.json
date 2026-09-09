@@ -4242,15 +4242,15 @@
   },
   {
     "date": "2026-09-09",
-    "marketOverview": "Risikoscheue Grundstimmung vor der FOMC-Sitzung am 15.-16.09.: Rate-Hike-Wahrscheinlichkeit liegt weiterhin bei ueber 60%. Bitcoin pendelt um 78.900-79.900 USD, XRP legt leicht auf 1,41 USD zu (Fokus auf die 1,50-USD-Marke vor der Fed-Entscheidung), Solana haelt sich bei 103,98 USD knapp vor dem Transaction-V1-Mainnet-Update. Maerkte warten weiterhin auf US-Erzeugerpreise (10.09.) und Verbraucherpreise (11.09.). Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten (Nacht) weiterhin nicht handelbar.",
-    "decision": "Tagesbudget bereits um 00:10 gutgeschrieben (Gesamtkapital 36.000 EUR). Kein Kauf/Verkauf in diesem Lauf - XRP-Kurs leicht auf 1,41 USD aktualisiert, NVDA/SOL unveraendert.",
-    "reasoning": "Ausserhalb der Boersenzeiten nur Krypto bewegbar. Weder bei XRP (leichtes Plus, kein Ausbruch) noch bei SOL (seitwaerts vor dem Transaction-V1-Update) liegt ein ueberzeugender Handelsimpuls vor; die bestehenden Positionen (NVDA, XRP, SOL) werden gehalten, da keine Verkaufsschwelle erreicht ist. Freies Kapital (ca. 33.960 EUR) bleibt mangels ueberzeugender Gelegenheit ungenutzt.",
+    "marketOverview": "Weiterhin risikoscheue Grundstimmung vor der FOMC-Sitzung am 15.-16.09. (Rate-Hike-Wahrscheinlichkeit ca. 58-60%). Bitcoin pendelt nachts um 78.500-79.900 USD, XRP haelt sich stabil bei 1,41 USD, Solana notiert bei ca. 104 USD knapp vor dem Transaction-V1-Mainnet-Upgrade (09.09.) - Analysten sehen das Upgrade als technischen, keinen direkten Preiskatalysator, Widerstand bleibt bei 115-116 USD. Maerkte warten weiter auf US-Erzeugerpreise (10.09.) und Verbraucherpreise (11.09.). Aktien/ETFs/Rohstoffe sind zu dieser Nachtstunde nicht handelbar.",
+    "decision": "Tagesbudget bereits um 00:10 gutgeschrieben (Gesamtkapital 36.000 EUR). Kein Kauf/Verkauf in diesem Lauf - NVDA-Kurs im US-Nachhandel leicht auf 232,92 USD gestiegen, SOL-Kurs auf 104,30 USD aktualisiert, XRP unveraendert bei 1,41 USD.",
+    "reasoning": "Ausserhalb der Boersenzeiten nur Krypto bewegbar. Das anstehende Solana-Transaction-V1-Upgrade ist laut Marktbeobachtern bereits eingepreist und gilt als technischer statt direkter Preiskatalysator - kein ueberzeugender Kaufimpuls. Bei XRP und SOL liegt kein Ausbruch ueber die etablierten Widerstaende vor, bei keiner offenen Position (NVDA +1,65%, XRP +2,92%, SOL +1,90%) ist die Gewinnschwelle fuer eine Glattstellung erreicht. Bestehende Positionen werden gehalten. Freies Kapital (ca. 33.960 EUR) bleibt mangels ueberzeugender Gelegenheit ungenutzt.",
     "positionIds": [
       "pos-0010",
       "pos-0011",
       "pos-0012"
     ],
-    "portfolioValueEnd": 2027.79,
+    "portfolioValueEnd": 2040.53,
     "updates": [
       {
         "time": "00:10",
@@ -4266,6 +4266,11 @@
         "time": "02:09",
         "note": "Keine Aenderung, XRP-Kurs leicht aktualisiert (1,41 USD, +2,92%), kein Trade",
         "portfolioValue": 2027.79
+      },
+      {
+        "time": "03:09",
+        "note": "Keine Aenderung, NVDA-Kurs nachbörslich aktualisiert (232,92 USD, +1,65%), SOL-Kurs aktualisiert (104,30 USD), kein Trade (Solana-Upgrade als technischer Katalysator eingepreist)",
+        "portfolioValue": 2040.53
       }
     ]
   }
