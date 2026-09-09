@@ -4242,15 +4242,16 @@
   },
   {
     "date": "2026-09-09",
-    "marketOverview": "Risk-off haelt an: S&P 500 ca. 7.681 Punkte (+0,10%) nach Dow-Einbruch von -1,18% am Vortag, belastet von eskalierender Nahost-Lage (WTI ca. 94,66 USD, Brent nahe 98 USD) und neuen US-Iran-Zwischenfaellen sowie Houthi-Angriffen auf saudische Energieinfrastruktur. US-Futures notieren Mittwochfrueh nahezu unveraendert. Krypto seitwaerts bis leicht fester: SOL ca. 104 USD, XRP ca. 1,39-1,42 USD vor der CLARITY-Act-Abstimmung am 15.09. NVDA unveraendert bei 225,73 USD (Vortagesschluss).",
-    "decision": "Xetra seit 09:00 geoeffnet, US-Handel startet erst 15:30 MESZ. Weiterhin kein Kauf/Verkauf in diesem Lauf - nur SOL-Kurs marginal aktualisiert.",
-    "reasoning": "Kaum Kursbewegung seit dem letzten Lauf vor einer Stunde, kein neuer ueberzeugender Impuls fuer eine Neuposition: anhaltendes geopolitisches Risk-off (Nahost-Eskalation, steigende Oelpreise) und erhoehte Fed-Zinserhoehungserwartungen vor dem CPI-Bericht am 11.09. sprechen weiter eher fuer Zurueckhaltung. Bei den offenen Positionen (NVDA -1,49%, XRP +2,19%, SOL +1,90%) ist weder die etablierte Gewinnschwelle (~7-8%) noch ein Stop-Loss-Niveau erreicht - Positionen werden gehalten.",
+    "marketOverview": "Nahost-Eskalation treibt den Oelpreis auf ein Mehrmonatshoch: Brent kurzzeitig bei 100 USD/Barrel, aktuell ca. 98,59 USD (+1,7-2,3%), nach Houthi-Angriff auf die saudische Jazan-Raffinerie und US-Angriffen auf iranische Oeltanker sowie gemeldeten Explosionen am Exporthub Kharg Island; US-Diesel auf Rekordhoch (5,90 USD/Gallone). Energiewerte (Exxon, Chevron) legen deutlich zu. S&P 500 bei ca. 7.681 Punkten (+0,10%), Nasdaq-Futures leicht im Plus trotz Risk-off; US-Handel startet erst 15:30 MESZ. Gold faellt auf ca. 4.395 USD/oz (Fed-Zinserhoehungserwartungen vor CPI-Bericht am 11.09.). Krypto seitwaerts: XRP ca. 1,42-1,45 USD, SOL ca. 104 USD.",
+    "decision": "Neue spekulative Position in Brent Crude Oil (600 EUR) eroeffnet - bestaetigte Eskalation im Nahen Osten (Houthi-Angriff auf saudische Jazan-Raffinerie, US-Angriffe auf iranische Oeltanker, Berichte ueber Explosionen am Exporthub Kharg Island) treibt Brent erstmals seit Ende Juli auf ~98,59 USD/Barrel. Ansonsten weiterhin kein Verkauf: NVDA/XRP/SOL-Kurse aktualisiert, keine der bestehenden Positionen erreicht die etablierte Gewinn- (~7-8%) oder Stop-Loss-Schwelle.",
+    "reasoning": "Brent-Rally ist durch mehrere unabhaengige Quellen bestaetigt und fundamental getrieben (echte Angriffe auf Energieinfrastruktur in Saudi-Arabien und Iran, nicht blosses Sentiment) - passend zum spekulativen Kurzfrist-Profil und analog zum erfolgreichen Gold-Momentum-Trade im August. Xetra ist seit 09:00 geoeffnet, US-Handel startet erst um 15:30 MESZ, daher bleibt eine US-Aktienposition (z.B. Exxon/Chevron trotz Rallye) fuer diesen Lauf ausserhalb der Handelszeiten. Bei den Bestandspositionen (NVDA +0,81%, XRP +3,65%, SOL +1,60%) ist weder Gewinnschwelle noch Stop-Loss erreicht - werden gehalten.",
     "positionIds": [
       "pos-0010",
       "pos-0011",
-      "pos-0012"
+      "pos-0012",
+      "pos-0013"
     ],
-    "portfolioValueEnd": 2005.51,
+    "portfolioValueEnd": 2634.33,
     "updates": [
       {
         "time": "00:10",
@@ -4311,6 +4312,11 @@
         "time": "11:09",
         "note": "Keine Aenderung, SOL-Kurs leicht aktualisiert (104,30 USD), kein Trade (Risk-off vor CPI-Bericht 11.09., anhaltende Nahost-Eskalation)",
         "portfolioValue": 2005.51
+      },
+      {
+        "time": "12:09",
+        "note": "Kauf Brent Crude Oil 600 EUR (Nahost-Eskalation, Brent bei ~98,59 USD erstmals seit Juli nahe 100 USD), NVDA/XRP/SOL-Kurse aktualisiert",
+        "portfolioValue": 2634.33
       }
     ]
   }
