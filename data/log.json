@@ -4242,15 +4242,15 @@
   },
   {
     "date": "2026-09-09",
-    "marketOverview": "Solana hat das Transaction-V1-Upgrade am 09.09. wie geplant aktiviert (Kapazitaetserhoehung, laut Analysten kein direkter Kurskatalysator) - Reaktion bleibt gedaempft, SOL pendelt weiter um 103-105 USD. Bitcoin bei rund 78.000-80.000 USD, Spot-BTC-ETFs verzeichneten in der Vorwoche ca. 987 Mio. USD Nettozufluesse trotz wieder steigender Zinserhoehungs-Wahrscheinlichkeit (CME FedWatch pendelt 50-58% fuer die FOMC-Sitzung am 15.-16.09., getrieben von starken US-Arbeitsmarktdaten). XRP stabil bei ca. 1,40 USD. NVDA im Vorboersenhandel bei ca. 231,50 USD. Maerkte warten weiter auf US-Erzeugerpreise (10.09.) und Verbraucherpreise (11.09.). Aktien/ETFs/Rohstoffe sind zu dieser Vorboersenstunde nicht handelbar.",
-    "decision": "Tagesbudget bereits um 00:10 gutgeschrieben (Gesamtkapital 36.000 EUR). Kein Kauf/Verkauf in diesem Lauf - NVDA-, XRP- und SOL-Kurse aktualisiert.",
-    "reasoning": "Ausserhalb der Boersenzeiten nur Krypto bewegbar. Das Solana-Upgrade ist wie erwartet ohne signifikanten Kursausschlag ueber die Buehne gegangen (Analysten bestaetigen: technischer, kein direkter Preiskatalysator) - kein ueberzeugender neuer Impuls. Bei keiner offenen Position (NVDA +1,01%, XRP +2,19%, SOL +2,58%) ist die etablierte Gewinnschwelle (~7-8%) fuer eine Glattstellung erreicht. Bestehende Positionen werden gehalten. Freies Kapital bleibt mangels ueberzeugender Gelegenheit ungenutzt.",
+    "marketOverview": "Krypto-Markt vorsichtig: Fed-Zinserhoehungswahrscheinlichkeit fuer die FOMC-Sitzung am 15.-16.09. auf ueber 60% gestiegen (starke US-Arbeitsmarktdaten), zusaetzlich belastet ein Bitcoin-Liquid-Network-Exploit die Stimmung leicht. BTC haelt sich bei ca. 78.000-80.000 USD, SOL leicht ruecklaeufig bei ca. 104,30 USD nach dem Transaction-V1-Upgrade, XRP stabil bei ca. 1,39-1,40 USD. NVDA vorboerslich bei ca. 231,47 USD. Aktien/ETFs/Rohstoffe sind zu dieser Vorboersenstunde weiterhin nicht handelbar.",
+    "decision": "Tagesbudget bereits um 00:10 gutgeschrieben (Gesamtkapital 36.000 EUR). Kein Kauf/Verkauf in diesem Lauf - SOL-Kurs aktualisiert.",
+    "reasoning": "Ausserhalb der Boersenzeiten weiterhin nur Krypto bewegbar. Steigende Fed-Zinserhoehungswahrscheinlichkeit (>60%) und ein Bitcoin-Exploit wirken eher risikodaempfend statt eine ueberzeugende neue Kaufgelegenheit zu bieten. Bei keiner offenen Position (NVDA +1,01%, XRP +2,19%, SOL +1,90%) ist die etablierte Gewinnschwelle (~7-8%) fuer eine Glattstellung erreicht. Bestehende Positionen werden gehalten, freies Kapital bleibt mangels ueberzeugender Gelegenheit ungenutzt.",
     "positionIds": [
       "pos-0010",
       "pos-0011",
       "pos-0012"
     ],
-    "portfolioValueEnd": 2033.97,
+    "portfolioValueEnd": 2030.55,
     "updates": [
       {
         "time": "00:10",
@@ -4281,6 +4281,11 @@
         "time": "05:09",
         "note": "Solana-Upgrade ohne Kursausschlag vollzogen, NVDA/XRP/SOL-Kurse leicht aktualisiert, kein Trade (kein ueberzeugender Impuls, Aktien/ETFs/Rohstoffe vorboerslich nicht handelbar)",
         "portfolioValue": 2033.97
+      },
+      {
+        "time": "06:08",
+        "note": "Keine Aenderung, SOL-Kurs leicht ruecklaeufig aktualisiert (104,30 USD), Fed-Zinserhoehungswahrscheinlichkeit auf >60% gestiegen, kein Trade (kein ueberzeugender Impuls, Aktien/ETFs/Rohstoffe vorboerslich nicht handelbar)",
+        "portfolioValue": 2030.55
       }
     ]
   }
