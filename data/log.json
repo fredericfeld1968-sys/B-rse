@@ -4242,16 +4242,16 @@
   },
   {
     "date": "2026-09-09",
-    "marketOverview": "Nahost-Eskalation treibt den Oelpreis auf ein Mehrmonatshoch: Brent kurzzeitig bei 100 USD/Barrel, aktuell ca. 98,59 USD (+1,7-2,3%), nach Houthi-Angriff auf die saudische Jazan-Raffinerie und US-Angriffen auf iranische Oeltanker sowie gemeldeten Explosionen am Exporthub Kharg Island; US-Diesel auf Rekordhoch (5,90 USD/Gallone). Energiewerte (Exxon, Chevron) legen deutlich zu. S&P 500 bei ca. 7.681 Punkten (+0,10%), Nasdaq-Futures leicht im Plus trotz Risk-off; US-Handel startet erst 15:30 MESZ. Gold faellt auf ca. 4.395 USD/oz (Fed-Zinserhoehungserwartungen vor CPI-Bericht am 11.09.). Krypto seitwaerts: XRP ca. 1,42-1,45 USD, SOL ca. 104 USD.",
-    "decision": "Neue spekulative Position in Brent Crude Oil (600 EUR) eroeffnet - bestaetigte Eskalation im Nahen Osten (Houthi-Angriff auf saudische Jazan-Raffinerie, US-Angriffe auf iranische Oeltanker, Berichte ueber Explosionen am Exporthub Kharg Island) treibt Brent erstmals seit Ende Juli auf ~98,59 USD/Barrel. Ansonsten weiterhin kein Verkauf: NVDA/XRP/SOL-Kurse aktualisiert, keine der bestehenden Positionen erreicht die etablierte Gewinn- (~7-8%) oder Stop-Loss-Schwelle.",
-    "reasoning": "Brent-Rally ist durch mehrere unabhaengige Quellen bestaetigt und fundamental getrieben (echte Angriffe auf Energieinfrastruktur in Saudi-Arabien und Iran, nicht blosses Sentiment) - passend zum spekulativen Kurzfrist-Profil und analog zum erfolgreichen Gold-Momentum-Trade im August. Xetra ist seit 09:00 geoeffnet, US-Handel startet erst um 15:30 MESZ, daher bleibt eine US-Aktienposition (z.B. Exxon/Chevron trotz Rallye) fuer diesen Lauf ausserhalb der Handelszeiten. Bei den Bestandspositionen (NVDA +0,81%, XRP +3,65%, SOL +1,60%) ist weder Gewinnschwelle noch Stop-Loss erreicht - werden gehalten.",
+    "marketOverview": "Nahost-Eskalation dominiert weiter: Brent Crude bei ca. 99,30 USD/Barrel (nahe der 100-USD-Marke) nach US-Angriffen auf iranische Oeltanker und Houthi-Angriffen auf saudische Energieanlagen. US-Aktienmaerkte gaben am Dienstag deutlich nach (Dow -628 Pkt/-1,18%, S&P 500 -0,58% auf 7.673, Nasdaq -0,32%), US-Handel heute startet erst um 15:30 MESZ, Futures weiter unter Druck. NVDA leicht schwaecher (ca. 227,80 USD, -0,59% seit Kauf) im Sog der allgemeinen Chip-/Tech-Schwaeche, kein spezifischer negativer Katalysator. Krypto seitwaerts: XRP ca. 1,41 USD (+2,92%), SOL ca. 104,00 USD (+1,60%).",
+    "decision": "Kein weiterer Trade in diesem Lauf. Vor einer Stunde bereits neue Position in Brent Crude Oil (600 EUR) eroeffnet - die Nahost-Eskalation bleibt der dominante Katalysator, aber keine wesentlich neue Entwicklung seit dem letzten Lauf, die einen zusaetzlichen Trade rechtfertigt. Bestehende Positionen (NVDA, XRP, SOL, BRENT) erreichen weder die etablierte Gewinnschwelle (~7-8%) noch eine Stop-Loss-Schwelle und werden gehalten. Kurse aller vier offenen Positionen aktualisiert.",
+    "reasoning": "Die Oel-/Nahost-These wurde bereits im 12:09-Lauf mit der Brent-Position umgesetzt; eine zusaetzliche Position auf denselben Katalysator waere redundantes Klumpenrisiko ohne neue Information. US-Boersen oeffnen erst um 15:30 MESZ, daher bleiben US-Einzelaktien (z.B. Exxon/Chevron als Oel-Profiteure) fuer diesen Lauf ausserhalb der Handelszeiten. NVDA (-0,59%), XRP (+2,92%) und SOL (+1,60%) bewegen sich im normalen Rauschen ohne klaren Handelsimpuls. Passend zur Vorgabe, nur bei wirklich ueberzeugender Gelegenheit zu handeln, wird in diesem Lauf nichts unternommen.",
     "positionIds": [
       "pos-0010",
       "pos-0011",
       "pos-0012",
       "pos-0013"
     ],
-    "portfolioValueEnd": 2634.33,
+    "portfolioValueEnd": 2621.04,
     "updates": [
       {
         "time": "00:10",
@@ -4317,6 +4317,11 @@
         "time": "12:09",
         "note": "Kauf Brent Crude Oil 600 EUR (Nahost-Eskalation, Brent bei ~98,59 USD erstmals seit Juli nahe 100 USD), NVDA/XRP/SOL-Kurse aktualisiert",
         "portfolioValue": 2634.33
+      },
+      {
+        "time": "13:13",
+        "note": "Keine Aenderung, NVDA leicht schwaecher (-0,59%), XRP/SOL/Brent-Kurse aktualisiert, kein Trade (keine neue Gelegenheit seit Brent-Kauf vor einer Stunde)",
+        "portfolioValue": 2621.04
       }
     ]
   }
