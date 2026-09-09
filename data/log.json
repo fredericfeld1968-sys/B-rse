@@ -4242,16 +4242,16 @@
   },
   {
     "date": "2026-09-09",
-    "marketOverview": "Nahost-Eskalation dominiert weiter: Brent Crude bei ca. 99,30 USD/Barrel (nahe der 100-USD-Marke) nach US-Angriffen auf iranische Oeltanker und Houthi-Angriffen auf saudische Energieanlagen. US-Aktienmaerkte gaben am Dienstag deutlich nach (Dow -628 Pkt/-1,18%, S&P 500 -0,58% auf 7.673, Nasdaq -0,32%), US-Handel heute startet erst um 15:30 MESZ, Futures weiter unter Druck. NVDA leicht schwaecher (ca. 227,80 USD, -0,59% seit Kauf) im Sog der allgemeinen Chip-/Tech-Schwaeche, kein spezifischer negativer Katalysator. Krypto seitwaerts: XRP ca. 1,41 USD (+2,92%), SOL ca. 104,00 USD (+1,60%).",
-    "decision": "Kein weiterer Trade in diesem Lauf. Vor einer Stunde bereits neue Position in Brent Crude Oil (600 EUR) eroeffnet - die Nahost-Eskalation bleibt der dominante Katalysator, aber keine wesentlich neue Entwicklung seit dem letzten Lauf, die einen zusaetzlichen Trade rechtfertigt. Bestehende Positionen (NVDA, XRP, SOL, BRENT) erreichen weder die etablierte Gewinnschwelle (~7-8%) noch eine Stop-Loss-Schwelle und werden gehalten. Kurse aller vier offenen Positionen aktualisiert.",
-    "reasoning": "Die Oel-/Nahost-These wurde bereits im 12:09-Lauf mit der Brent-Position umgesetzt; eine zusaetzliche Position auf denselben Katalysator waere redundantes Klumpenrisiko ohne neue Information. US-Boersen oeffnen erst um 15:30 MESZ, daher bleiben US-Einzelaktien (z.B. Exxon/Chevron als Oel-Profiteure) fuer diesen Lauf ausserhalb der Handelszeiten. NVDA (-0,59%), XRP (+2,92%) und SOL (+1,60%) bewegen sich im normalen Rauschen ohne klaren Handelsimpuls. Passend zur Vorgabe, nur bei wirklich ueberzeugender Gelegenheit zu handeln, wird in diesem Lauf nichts unternommen.",
+    "marketOverview": "Brent Crude durchbricht erstmals seit Juli die Marke von 100 USD/Barrel (aktuell ca. 100,44 USD, Tagesplus +2,6%) nach anhaltenden US-Iran-Schlagabtausch-Meldungen; Goldman Sachs haelt bei weiterer Eskalation sogar 120 USD fuer moeglich. US-Boersen oeffnen erst um 15:30 MESZ, S&P-500-Futures leicht im Plus (~7.681 Pkt., +0,10%) nach dem Rueckgang vom Dienstag (Dow -1,18%), Marktteilnehmer warten auf US-Inflationsdaten. NVDA weiter schwach (225,73 USD, -1,49% seit Kauf) im Sog der allgemeinen Tech-/Chip-Schwaeche. Krypto seitwaerts: XRP ca. 1,41 USD (+2,92%), SOL ca. 104,00 USD (+1,60%).",
+    "decision": "Kein weiterer Trade in diesem Lauf. Brent hat zwar erstmals die 100-USD-Marke ueberschritten, doch dieselbe Nahost-Eskalations-These wurde bereits um 12:09 mit der bestehenden Brent-Position (aktuell +1,88%) umgesetzt - eine weitere Position auf denselben Katalysator waere redundantes Klumpenrisiko. NVDA (-1,49%), XRP (+2,92%), SOL (+1,60%) und BRENT (+1,88%) erreichen weder die etablierte Gewinnschwelle (~7-8%) noch eine Stop-Loss-Schwelle und werden gehalten. Kurse aller vier offenen Positionen aktualisiert.",
+    "reasoning": "Obwohl Brent psychologisch wichtige 100-USD-Marke durchbricht, ist dies dieselbe Entwicklung, die bereits vor gut zwei Stunden zum Kauf gefuehrt hat - kein neuer, unabhaengiger Katalysator, der eine zusaetzliche Position rechtfertigen wuerde. Xetra und Rohstoffmaerkte sind zwar handelbar, aber ohne wirklich ueberzeugende neue Gelegenheit wird passend zur Vorgabe nichts unternommen. US-Boersen oeffnen erst um 15:30 MESZ.",
     "positionIds": [
       "pos-0010",
       "pos-0011",
       "pos-0012",
       "pos-0013"
     ],
-    "portfolioValueEnd": 2621.04,
+    "portfolioValueEnd": 2618.94,
     "updates": [
       {
         "time": "00:10",
@@ -4322,6 +4322,11 @@
         "time": "13:13",
         "note": "Keine Aenderung, NVDA leicht schwaecher (-0,59%), XRP/SOL/Brent-Kurse aktualisiert, kein Trade (keine neue Gelegenheit seit Brent-Kauf vor einer Stunde)",
         "portfolioValue": 2621.04
+      },
+      {
+        "time": "14:17",
+        "note": "Keine Aenderung, Brent erstmals ueber 100 USD (+1,88% seit Kauf), NVDA/XRP/SOL/Brent-Kurse aktualisiert, kein Trade (Oel-These bereits mit Brent-Position abgedeckt)",
+        "portfolioValue": 2618.94
       }
     ]
   }
