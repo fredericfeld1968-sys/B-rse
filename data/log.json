@@ -4242,15 +4242,15 @@
   },
   {
     "date": "2026-09-09",
-    "marketOverview": "Risikoscheue Grundstimmung vor der FOMC-Sitzung am 15.-16.09.: Rate-Hike-Wahrscheinlichkeit laut CME FedWatch bei ca. 56-58%. Bitcoin haengt bei knapp unter 80.000 USD fest, SOL leicht fester auf 103,98 USD (u.a. gestuetzt durch den heutigen Solana-Transaction-V1-Launch), XRP unveraendert bei 1,40 USD. Maerkte warten auf US-Erzeugerpreise (10.09.) und Verbraucherpreise (11.09.). Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten (fruehe Nacht) weiterhin nicht handelbar.",
-    "decision": "Tagesbudget bereits um 00:10 gutgeschrieben (Gesamtkapital 36.000 EUR). Kein Kauf/Verkauf in diesem Lauf - SOL-Kurs leicht auf 103,98 USD aktualisiert, NVDA/XRP unveraendert.",
-    "reasoning": "Ausserhalb der Boersenzeiten nur Krypto bewegbar. Der Solana-Transaction-V1-Launch ist positiv, aber kein ueberzeugender Kauf-/Verkaufsimpuls fuer die bestehende SOL-Position; SOL/XRP bewegen sich nur geringfuegig, kein Trendbruch. Bestehende offene Positionen (NVDA, XRP, SOL) werden gehalten, da keine Verkaufsschwelle erreicht ist. Freies Kapital (ca. 33.960 EUR) bleibt mangels ueberzeugender Gelegenheit ungenutzt.",
+    "marketOverview": "Risikoscheue Grundstimmung vor der FOMC-Sitzung am 15.-16.09.: Rate-Hike-Wahrscheinlichkeit liegt weiterhin bei ueber 60%. Bitcoin pendelt um 78.900-79.900 USD, XRP legt leicht auf 1,41 USD zu (Fokus auf die 1,50-USD-Marke vor der Fed-Entscheidung), Solana haelt sich bei 103,98 USD knapp vor dem Transaction-V1-Mainnet-Update. Maerkte warten weiterhin auf US-Erzeugerpreise (10.09.) und Verbraucherpreise (11.09.). Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten (Nacht) weiterhin nicht handelbar.",
+    "decision": "Tagesbudget bereits um 00:10 gutgeschrieben (Gesamtkapital 36.000 EUR). Kein Kauf/Verkauf in diesem Lauf - XRP-Kurs leicht auf 1,41 USD aktualisiert, NVDA/SOL unveraendert.",
+    "reasoning": "Ausserhalb der Boersenzeiten nur Krypto bewegbar. Weder bei XRP (leichtes Plus, kein Ausbruch) noch bei SOL (seitwaerts vor dem Transaction-V1-Update) liegt ein ueberzeugender Handelsimpuls vor; die bestehenden Positionen (NVDA, XRP, SOL) werden gehalten, da keine Verkaufsschwelle erreicht ist. Freies Kapital (ca. 33.960 EUR) bleibt mangels ueberzeugender Gelegenheit ungenutzt.",
     "positionIds": [
       "pos-0010",
       "pos-0011",
       "pos-0012"
     ],
-    "portfolioValueEnd": 2024.14,
+    "portfolioValueEnd": 2027.79,
     "updates": [
       {
         "time": "00:10",
@@ -4261,6 +4261,11 @@
         "time": "01:09",
         "note": "Keine Aenderung, SOL-Kurs leicht aktualisiert (103,98 USD, +1,58%), kein Trade",
         "portfolioValue": 2024.14
+      },
+      {
+        "time": "02:09",
+        "note": "Keine Aenderung, XRP-Kurs leicht aktualisiert (1,41 USD, +2,92%), kein Trade",
+        "portfolioValue": 2027.79
       }
     ]
   }
