@@ -4242,16 +4242,16 @@
   },
   {
     "date": "2026-09-09",
-    "marketOverview": "Brent Crude klettert nach US-Angriffen auf iranische Oeltanker und Houthi-Attacken auf saudische Energieanlagen erstmals ueber 100,76 USD/Barrel; US-10-Jahres-Rendite auf 4,82% (hoechster Schlussstand seit 2023), Fed-Zinserhoehungswahrscheinlichkeit fuer die Sitzung naechste Woche bei ca. 60%. US-Aktienfutures stabilisieren sich nach dem Rueckgang vom Dienstag, Markt wartet auf US-Inflationsdaten; Xetra-Handel bereits offen, NYSE/Nasdaq oeffnen erst um 15:30 MESZ. Krypto im risk-off-Modus: Bitcoin unter 80.000 USD (Gewinnmitnahmen nach dem Oelschock), Solana leicht ruecklaeufig (103,33 USD), XRP als einziger grosser Coin im Plus (1,43 USD, +2,7% 24h) getrieben von Visas Stablecoin-Karten-Programm und der bevorstehenden CLARITY-Act-Abstimmung im Senat am 15.09.",
-    "decision": "Kein weiterer Trade in diesem Lauf. Die Oel-Eskalationsthese ist bereits mit der bestehenden Brent-Position (+2,2%) abgedeckt, eine zweite Position auf denselben Katalysator waere Klumpenrisiko. NVDA (-1,49%), XRP (+4,38%), SOL (+0,95%) und BRENT (+2,2%) erreichen weder die etablierte Gewinnschwelle (~7-8%) noch eine Stop-Loss-Schwelle und werden gehalten. US-Boersen (NYSE/Nasdaq) sind vor 15:30 MESZ noch nicht handelbar, daher aktuell keine neue Aktienposition moeglich; kein ueberzeugender neuer Krypto-Impuls jenseits der bereits gehaltenen Titel. Kurse aller vier offenen Positionen aktualisiert.",
-    "reasoning": "Trotz des psychologisch bedeutsamen Durchbruchs ueber 100 USD/Barrel bei Brent gibt es keinen neuen, unabhaengigen Katalysator gegenueber dem bereits um 12:09 getaetigten Brent-Kauf. Der generelle Risk-off-Ton (steigende Renditen, Fed-Sorgen, fallender Bitcoin) liefert kein ueberzeugendes Setup fuer eine neue spekulative Position; passend zur Vorgabe wird nur bei wirklich ueberzeugender Gelegenheit gehandelt, daher bleibt es bei Kursaktualisierungen ohne Trade.",
+    "marketOverview": "NYSE/Nasdaq seit 15:30 MESZ offen, Dow/Nasdaq/S&P 500 leicht im Minus (~-0.3 bis -0.5%) nach Iran-Eskalation: USA versenkten laut CENTCOM fuenf iranische Tanker, Iran griff daraufhin 10 Schiffe nahe Hormuz sowie die US-Basis Al-Azraq in Jordanien an. Brent Crude kletterte weiter auf ca. 102 USD/Barrel (+3.5% seit Kauf der Position), WTI ueber 95 USD. Chipwerte insgesamt schwach (Marvell -5%, Arm -3%), NVDA leicht ruecklaeufig auf ca. 224.85 USD im Sog der Sektor-Schwaeche. Krypto bleibt im Risk-off (Bitcoin unter 80.000 USD), XRP haelt sich mit +5.1% seit Kauf dank anhaltend positiver Visa-Stablecoin-Nachrichten (Settlement-Volumen ueber 20 Mrd. USD Laufrate) am staerksten, SOL nahezu unveraendert.",
+    "decision": "Kein weiterer Trade in diesem Lauf. Die Oel-Eskalationsthese ist bereits mit der bestehenden Brent-Position (+2,2%) abgedeckt, eine zweite Position auf denselben Katalysator waere Klumpenrisiko. NVDA (-1,49%), XRP (+4,38%), SOL (+0,95%) und BRENT (+2,2%) erreichen weder die etablierte Gewinnschwelle (~7-8%) noch eine Stop-Loss-Schwelle und werden gehalten. US-Boersen (NYSE/Nasdaq) sind vor 15:30 MESZ noch nicht handelbar, daher aktuell keine neue Aktienposition moeglich; kein ueberzeugender neuer Krypto-Impuls jenseits der bereits gehaltenen Titel. Kurse aller vier offenen Positionen aktualisiert. [16:11] Kurse aller vier offenen Positionen nach Marktoeffnung aktualisiert (NVDA -1.88%, XRP +5.11%, SOL +0.72%, BRENT +3.46%). Kein neuer Trade: Die Oel-Eskalationsthese ist bereits ueber die bestehende Brent-Position abgedeckt (zweite Position waere Klumpenrisiko), Verteidigungswerte (RTX/LMT/NOC) zeigen keine tagesaktuell bestaetigte, unabhaengige Kursreaktion auf die neuesten Ereignisse - die verfuegbaren Berichte sind aelteren Datums. Chipsektor-Schwaeche ist ein negativer, kein Kauf-Impuls. Keine der vier Positionen erreicht Gewinn- (~7-8%) oder Stop-Loss-Schwelle.",
+    "reasoning": "Trotz des psychologisch bedeutsamen Durchbruchs ueber 100 USD/Barrel bei Brent gibt es keinen neuen, unabhaengigen Katalysator gegenueber dem bereits um 12:09 getaetigten Brent-Kauf. Der generelle Risk-off-Ton (steigende Renditen, Fed-Sorgen, fallender Bitcoin) liefert kein ueberzeugendes Setup fuer eine neue spekulative Position; passend zur Vorgabe wird nur bei wirklich ueberzeugender Gelegenheit gehandelt, daher bleibt es bei Kursaktualisierungen ohne Trade. Ergaenzung 16:11: Trotz weiter eskalierendem Nahost-Konflikt (Tankerkrieg, Angriff auf US-Basis in Jordanien) bleibt die bestehende Brent-Position die sauberste, bereits vorhandene Abbildung dieser These. Eine zusaetzliche spekulative Position auf Verteidigungswerte wuerde auf unbestaetigten/aelteren Quellen beruhen (kein tagesaktueller, unabhaengig bestaetigter Kursausschlag zu RTX/LMT/NOC gefunden) und widerspricht der Vorgabe, nur bei wirklich ueberzeugender Gelegenheit zu handeln.",
     "positionIds": [
       "pos-0010",
       "pos-0011",
       "pos-0012",
       "pos-0013"
     ],
-    "portfolioValueEnd": 2624.92,
+    "portfolioValueEnd": 2631.16,
     "updates": [
       {
         "time": "00:10",
@@ -4332,6 +4332,11 @@
         "time": "15:14",
         "note": "Keine Aenderung, Brent ueber 100 USD (+2,2%), XRP/SOL-Kurse aktualisiert (XRP +4,38% dank Visa-Stablecoin-News, SOL +0,95%), kein Trade (Oel-These bereits abgedeckt, US-Boersen erst ab 15:30 MESZ handelbar)",
         "portfolioValue": 2624.92
+      },
+      {
+        "time": "16:11",
+        "note": "Keine Aenderung. Kurse aktualisiert nach NYSE/Nasdaq-Oeffnung (NVDA -1.88%, XRP +5.11%, SOL +0.72%, BRENT +3.46% bei Oelpreis ca. 102 USD nach weiterer Iran-Eskalation), kein Trade (Oel-These bereits abgedeckt, Verteidigungswerte ohne tagesaktuelle Bestaetigung)",
+        "portfolioValue": 2631.16
       }
     ]
   }
