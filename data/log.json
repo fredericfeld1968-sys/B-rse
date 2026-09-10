@@ -4378,9 +4378,9 @@
   },
   {
     "date": "2026-09-10",
-    "marketOverview": "US-Boersen bleiben unter Druck: Dow -0,8%, Nasdaq -0,6%, S&P 500 -0,5% am Mittwoch nach heisser PPI-Zahl (+0,4% MoM, Jahresrate 5,4%), 10-Jahres-Rendite auf Mehrjahreshoch (4,845%). Markt preist inzwischen 70% Wahrscheinlichkeit fuer eine Zinserhoehung naechste Woche ein (vorher 62%), CPI-Bericht folgt morgen (Freitag). Brent haelt sich bei ca. 101,25 USD/Barrel (hoechster Schlusskurs seit Mai) nach anhaltenden US-Iran-Gefechten in der Strasse von Hormuz; Goldman Sachs sieht bei weiterer Eskalation Potenzial bis 120 USD. XRP (1,39 USD) und SOL (100,94 USD) leicht schwaecher, META (655,63 USD) und NVDA (223,67 USD) unveraendert.",
-    "decision": "Kein Trade. Keine offene Position erreicht eine Handlungsschwelle (Gewinnmitnahme 7-8% oder fundamentaler Stop-Loss): BRENT +2,70%, META +1,50%, XRP +1,46%, SOL -1,39%, NVDA -2,39% - alle im ueblichen Schwankungsbereich. Keine ueberzeugende neue Kauf-Gelegenheit: risikoaverses Umfeld vor morgigem CPI-Bericht und naechster FOMC-Sitzung, steigende Zinserhoehungswahrscheinlichkeit belastet Risikoassets breit; die einzige klare Bewegung (Oelpreis-Anstieg durch Iran-Eskalation) ist ueber die bestehende BRENT-Position bereits abgedeckt.",
-    "reasoning": "Tagesbudget bereits heute gutgeschrieben (lastGrantDate=2026-09-10), kein erneuter Grant. Kursaktualisierung fuer XRP (1,43 -> 1,39 USD); META, NVDA, SOL, BRENT gegenueber letztem Lauf unveraendert (verlaessliche aktuelle Quellen zeigten keine signifikante Abweichung). Freies Kapital weiterhin 33.760,66 EUR; trotz vorhandenem freiem Kapital kein Kauf, da keine Position Verkaufs-Schwellenwerte erreicht und das Marktumfeld (hartnaeckige Inflation, steigende Renditen, Risikoaversion vor CPI) keine ueberzeugende neue Gelegenheit bietet.",
+    "marketOverview": "US-Boersen bleiben unter Druck: S&P 500 -0,59%, Dow -0,35%, Nasdaq -0,97% ahead of dem CPI-Bericht morgen; PPI kam mit 5,4% Jahresrate leicht ueber Erwartung, Zinserhoehungswahrscheinlichkeit fuer die FOMC-Sitzung naechste Woche liegt bei 62-70%. Oel eskaliert deutlich: Brent durchbrach 105-107 USD/Barrel (TradingEconomics, CNBC) - hoechster Stand seit 19. Mai - nach fortgesetzten US-Iran-Gefechten an der Strasse von Hormuz (Houthi-Angriffe auf saudische Energieanlagen, Tankerverkehr auf ~10 Schiffe/Tag gefallen); Chevron auf 52-Wochen-Hoch. Krypto risikoscheu vor der Fed-Sitzung: BTC ~78.000 USD, XRP (1,36 USD) und SOL (99,69 USD) leicht schwaecher. META (653,69 USD) und NVDA (223,67 USD, Ex-Dividende) nahezu unveraendert. Intel -6% nach parabolischer Rally durch Gewinnmitnahmen und dilutive 20-Mrd-USD-Kapitalerhoehung - echte fundamentale Gegenwinde, kein reflexhafter Sell-the-news.",
+    "decision": "Verkauf BRENT (pos-0013): Gewinnmitnahme bei +8,59% (98,59 -> 107,06 USD/Barrel), nach vier Handelstagen im etablierten Zielbereich (7-9%). Keine weiteren Trades: NVDA (-2,39%), META (+1,20%), XRP (-1,00%), SOL (-2,61%) bleiben im ueblichen Schwankungsbereich ohne Handlungsschwelle. Keine ueberzeugende neue Kauf-Gelegenheit identifiziert - Intel-Dip beruht auf echten fundamentalen Gegenwinden (Kapitalerhoehung, PC-Nachfrage-Sorgen), passt nicht zum bisher erfolgreichen 'Sell-the-news trotz starker Fundamentaldaten'-Muster; Chevron-Rally ist ein langsamer Grind statt eines klaren Dip/Breakout-Setups. Marktumfeld insgesamt risikoavers vor morgigem CPI und naechster FOMC-Sitzung.",
+    "reasoning": "Tagesbudget bereits heute gutgeschrieben (lastGrantDate=2026-09-10), kein erneuter Grant. Brent Crude wurde durch mehrere unabhaengige Quellen bestaetigt bei 105-107 USD/Barrel gehandelt (TradingEconomics live 107,06, Fortune 105,20 um 8:00 ET, CNBC 'above $105... highest since May 19') - damit klar ueber der etablierten Gewinnmitnahme-Schwelle von 7-8%, Position glattgestellt. Freies Kapital nach dem Trade: 34.360,66 EUR (vorher 33.760,66 EUR, + 600 EUR zurueckgefuehrtes Kapital aus BRENT). Trotz hohem freiem Kapital kein Neukauf, da das Marktumfeld (Risikoaversion vor CPI/FOMC, gemischte Krypto-Signale) keine wirklich ueberzeugende neue Gelegenheit bietet; der einzige naeher geprüfte Kandidat (Intel-Dip) hat echte fundamentale Gegenwinde statt eines reflexhaften Sell-the-news-Musters.",
     "positionIds": [
       "pos-0010",
       "pos-0014",
@@ -4388,7 +4388,7 @@
       "pos-0012",
       "pos-0013"
     ],
-    "portfolioValueEnd": 3201.66,
+    "portfolioValueEnd": 2565.27,
     "updates": [
       {
         "time": "00:09",
@@ -4484,6 +4484,11 @@
         "time": "18:10",
         "note": "Keine Aenderung, Kurs aktualisiert (XRP 1,43 -> 1,39 USD); Brent haelt 101,25 USD nach Iran-Eskalation, Aktienmarkt risikoscheu vor morgigem CPI",
         "portfolioValue": 3201.66
+      },
+      {
+        "time": "19:08",
+        "note": "Verkauf BRENT +8,59% (Gewinnmitnahme, Oel auf Hoch seit Mai); Kurse NVDA/META/XRP/SOL aktualisiert, keine weiteren Aenderungen",
+        "portfolioValue": 2565.27
       }
     ]
   }
