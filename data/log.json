@@ -4378,9 +4378,9 @@
   },
   {
     "date": "2026-09-10",
-    "marketOverview": "US-Boersen im NYSE-Nachmittagshandel leicht im Minus (S&P 500 -0,5% auf 7.636, Nasdaq -0,6%, Dow -0,8%) - Inflationssorgen und steigende Anleiherenditen belasten, Energiewerte legen dagegen zu. Brent haelt sich stabil bei ca. 101,25 USD/Barrel (Iran-US-Eskalation an der Strasse von Hormuz haelt an, keine neue Zuspitzung seit dem letzten Lauf). META (653,69 USD) leicht ruecklaeufig vom Vormittagshoch, NVDA (223,67 USD) etwas erholt vom Dividenden-Ex-Effekt. Krypto insgesamt schwaecher vor morgigen US-Inflationsdaten und der Fed-Sitzung am 15./16.09.: SOL auf 100,85 USD, XRP auf ca. 1,40 USD zurueckgefallen (Markt preist wieder hoehere Zinserhoehungswahrscheinlichkeit ein).",
-    "decision": "Kein Trade. Keine offene Position erreicht eine Handlungsschwelle (Gewinnmitnahme 7-8% oder fundamentaler Stop-Loss): BRENT +2,70%, META +1,20%, XRP +2,19%, SOL -1,44%, NVDA -2,39% - allesamt im ueblichen Schwankungsbereich. Keine ueberzeugende neue Kauf-Gelegenheit: risikoaverses Umfeld vor PPI/CPI und FOMC-Sitzung naechste Woche, keine klare neue Chance.",
-    "reasoning": "Tagesbudget bereits heute gutgeschrieben (lastGrantDate=2026-09-10), kein erneuter Grant. Kursaktualisierung fuer NVDA (220,76 -> 223,67 USD), META (662,90 -> 653,69 USD), XRP (1,45 -> 1,40 USD) und SOL (100,94 -> 100,85 USD); BRENT (101,25 USD) unveraendert. Freies Kapital weiterhin ca. 33.760,66 EUR (kein Trade in diesem Lauf); trotz vorhandenem freiem Kapital kein Kauf, da keine Position Verkaufs-Schwellenwerte erreicht und keine ueberzeugende neue Gelegenheit vorliegt vor den anstehenden Inflationsdaten und der FOMC-Sitzung.",
+    "marketOverview": "US-Boersen im NYSE-Vormittagshandel deutlich schwaecher (S&P 500 -0,59%, Nasdaq -0,97%, Dow -0,35%, Russell 2000 -1,32%) nach staerker als erwarteter PPI-Zahl (+0,4% MoM) und vor dem CPI-Bericht morgen sowie der FOMC-Sitzung am 16.09. - Tech/Wachstumswerte unter Druck. Brent haelt sich bei 101,25 USD/Barrel (hoechster Stand seit Mai) nach fortgesetzten US-Iran-Angriffen an der Strasse von Hormuz. META (655,63 USD) und XRP (1,43 USD) legen leicht zu, SOL (100,94 USD) knapp behauptet, NVDA (223,67 USD) unveraendert.",
+    "decision": "Kein Trade. Keine offene Position erreicht eine Handlungsschwelle (Gewinnmitnahme 7-8% oder fundamentaler Stop-Loss): XRP +4,38%, BRENT +2,70%, META +1,50%, SOL -1,39%, NVDA -2,39% - allesamt im ueblichen Schwankungsbereich. Keine ueberzeugende neue Kauf-Gelegenheit: risikoaverses Umfeld vor morgigem CPI-Bericht und naechster FOMC-Sitzung, breiter Rueckgang bei Tech-/Wachstumswerten spricht gegen neue spekulative Kaeufe.",
+    "reasoning": "Tagesbudget bereits heute gutgeschrieben (lastGrantDate=2026-09-10), kein erneuter Grant. Kursaktualisierung fuer META (653,69 -> 655,63 USD), XRP (1,40 -> 1,43 USD) und SOL (100,85 -> 100,94 USD); NVDA (223,67 USD) und BRENT (101,25 USD) unveraendert. Freies Kapital weiterhin ca. 33.760,66 EUR; trotz vorhandenem freiem Kapital kein Kauf, da keine Position Verkaufs-Schwellenwerte erreicht und das Marktumfeld (schwache US-Boersen vor Inflationsdaten) keine ueberzeugende neue Gelegenheit bietet.",
     "positionIds": [
       "pos-0010",
       "pos-0014",
@@ -4388,7 +4388,7 @@
       "pos-0012",
       "pos-0013"
     ],
-    "portfolioValueEnd": 3203.06,
+    "portfolioValueEnd": 3216.26,
     "updates": [
       {
         "time": "00:09",
@@ -4474,6 +4474,11 @@
         "time": "16:09",
         "note": "Keine Aenderung, Kurse aktualisiert (NVDA +1,3% auf 223,67 USD, META -1,4% auf 653,69 USD, XRP -3,4% auf 1,40 USD, SOL -0,1% auf 100,85 USD); US-Boersen im Nachmittagshandel leicht im Minus, kein neuer Katalysator.",
         "portfolioValue": 3203.06
+      },
+      {
+        "time": "17:09",
+        "note": "Keine Aenderung, Kurse aktualisiert (META, XRP, SOL); Maerkte schwaecher vor CPI-Bericht morgen",
+        "portfolioValue": 3216.26
       }
     ]
   }
