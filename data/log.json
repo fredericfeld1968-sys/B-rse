@@ -4378,9 +4378,9 @@
   },
   {
     "date": "2026-09-10",
-    "marketOverview": "Kryptomarkt weiter in ruhiger Nachtphase vor Fed-Sitzung am 15./16.09.: XRP leicht auf ca. 1,42 USD zurueckgekommen (vorher 1,45 USD), SOL nahezu unveraendert bei ca. 104 USD, Bitcoin haelt sich um 78.500-79.700 USD. Die Wahrscheinlichkeit einer Fed-Zinserhoehung am 15./16.09. ist laut CME FedWatch zuletzt auf rund 58-60% gestiegen (nach dem schwachen Jobs-Bericht), was tendenziell als Gegenwind fuer Krypto gilt; institutionelle Bitcoin-ETF-Zuflüsse (~987 Mio. USD in der Woche zum 04.09.) wirken aber stabilisierend. Kein eigenstaendiger neuer Katalysator. Aktien/ETFs/Rohstoffe bleiben ausserhalb der Handelszeiten (03:07 MESZ, Nacht) unveraendert: NVDA 226,27 USD, META 650,20 USD, Brent 101,14 USD/Barrel.",
-    "decision": "Kein Trade. XRP hat sich von den vorherigen +5,84% leicht auf +3,65% zurueckgezogen, SOL nahezu unveraendert (+1,62%); beide bleiben unter der etablierten Ziel-Spanne fuer Gewinnmitnahmen. Angesichts steigender Fed-Zinserhoehungswahrscheinlichkeit als Gegenwind fuer Krypto und fehlendem eigenstaendigem Katalysator keine ueberzeugende Gelegenheit fuer einen Neukauf; nachts waeren ohnehin nur Krypto-Trades moeglich.",
-    "reasoning": "Tagesbudget bereits heute gutgeschrieben (kein erneuter Grant, lastGrantDate=2026-09-10). Kursaktualisierung fuer XRP und SOL basierend auf aktuellen Marktdaten; NVDA/META/BRENT unveraendert seit letztem Lauf (ausserhalb Handelszeiten). Keine Position erreicht Schwellenwerte fuer Verkauf, keine hinreichend ueberzeugende neue Krypto-Gelegenheit fuer einen Kauf gefunden - insbesondere angesichts des Gegenwinds durch steigende Zinserhoehungswahrscheinlichkeit.",
+    "marketOverview": "Kryptomarkt leicht im Minus in der spaeten Nacht vor der Fed-Sitzung am 15./16.09.: Bitcoin ca. 78.070 USD (-0,83%), Ethereum ca. 2.462,85 USD (-1,25%), XRP ca. 1,38 USD (-2,37%), Solana ca. 101,07 USD (-2,34%). Alle vier bleiben trotz der Erholung seit den Sommertiefs fuer 2026 im Minus. Die Fed-Zinserhoehungswahrscheinlichkeit fuer die Sitzung am 15./16.09. schwankt zwischen ca. 50% und 70% (je nach Quelle/Zeitpunkt) und wird als Gegenwind fuer Krypto gewertet, waehrend anhaltend starke Bitcoin-ETF-Zufluesse (986,9 Mio. USD in der Woche zum 04.09.) stabilisierend wirken. Aktien/ETFs/Rohstoffe bleiben ausserhalb der Handelszeiten (04:08 MESZ, Nacht) unveraendert: NVDA 226,27 USD, META 650,20 USD, Brent 101,14 USD/Barrel.",
+    "decision": "Kein Trade. XRP (+0,73%) und SOL (-1,26%) sind beide leicht zurueckgekommen und liegen damit klar unter der etablierten Ziel-Spanne fuer Gewinnmitnahmen bzw. im leichten Minus ohne Stop-Loss-Relevanz. Angesichts eines insgesamt leicht ruecklaeufigen, unentschlossenen Kryptomarkts vor der Fed-Sitzung und fehlendem eigenstaendigem Katalysator keine ueberzeugende Gelegenheit fuer einen Neukauf; nachts waeren ohnehin nur Krypto-Trades moeglich.",
+    "reasoning": "Tagesbudget bereits heute gutgeschrieben (kein erneuter Grant, lastGrantDate=2026-09-10). Kursaktualisierung fuer XRP und SOL basierend auf aktuellen Marktdaten (beide leicht ruecklaeufig); NVDA/META/BRENT unveraendert seit letztem Lauf (ausserhalb Handelszeiten). Keine Position erreicht Schwellenwerte fuer Verkauf, keine hinreichend ueberzeugende neue Krypto-Gelegenheit fuer einen Kauf gefunden - Marktstimmung vor der Fed-Entscheidung eher gedaempft.",
     "positionIds": [
       "pos-0010",
       "pos-0014",
@@ -4388,7 +4388,7 @@
       "pos-0012",
       "pos-0013"
     ],
-    "portfolioValueEnd": 3233.29,
+    "portfolioValueEnd": 3204.28,
     "updates": [
       {
         "time": "00:09",
@@ -4409,6 +4409,11 @@
         "time": "03:07",
         "note": "Keine Aenderung, Kurse aktualisiert (XRP, SOL); Fed-Zinserhoehungswahrscheinlichkeit auf ~58-60% gestiegen (Gegenwind)",
         "portfolioValue": 3233.29
+      },
+      {
+        "time": "04:08",
+        "note": "Keine Aenderung, Kurse aktualisiert (XRP, SOL); Kryptomarkt insgesamt leicht ruecklaeufig vor Fed-Sitzung",
+        "portfolioValue": 3204.28
       }
     ]
   }
