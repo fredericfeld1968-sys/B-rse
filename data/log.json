@@ -4378,9 +4378,9 @@
   },
   {
     "date": "2026-09-10",
-    "marketOverview": "US-Maerkte schliessen den dritten Tag in Folge schwaecher (S&P 500 -0,59%, Nasdaq -0,97%, Dow -0,35%) belastet von einer heissen PPI-Zahl (Erzeugerpreise +5,4% YoY, ueber Erwartung) und anhaltend hohem Oelpreis (Brent >102 USD) vor dem CPI-Bericht am Freitag (Konsens +0,4% MoM/+3,4% YoY), der die naechste Fed-Entscheidung praegen duerfte. NVDA (223,67 USD, -2,4% seit Kauf) und META (~644,80 USD, -0,2% seit Kauf) bewegen sich im ueblichen Schwankungsbereich ohne neue Katalysatoren. Krypto leicht gemischt: XRP stabil (1,385 USD, +1,1%), SOL leicht schwaecher (101,00 USD, -1,3%).",
-    "decision": "Kein Trade in diesem Lauf. Bereits heute Gewinnmitnahme bei BRENT (+8,59%) realisiert; die vier verbleibenden offenen Positionen (NVDA, META, XRP, SOL) bewegen sich alle im ueblichen Schwankungsbereich, weit entfernt von den etablierten Ziel-/Stop-Schwellen. Angesichts der breiten, inflations- und oelpreisgetriebenen Risikoaversion an den Aktienmaerkten kurz vor dem morgigen CPI-Bericht wird trotz hohem freiem Kapital (ca. 34.362 EUR) auf einen Neukauf verzichtet, da keine wirklich ueberzeugende Gelegenheit erkennbar ist.",
-    "reasoning": "Tagesbudget bereits heute gutgeschrieben (lastGrantDate=2026-09-10), kein erneuter Grant in diesem Lauf. Kurse aller vier offenen Positionen anhand mehrerer Quellen aktualisiert (Investing.com/TradingEconomics fuer NVDA, Marktbericht fuer META, CoinDesk/Coinbase fuer XRP, CoinGecko/Coinbase fuer SOL). Keine Position naeherte sich den etablierten Gewinnmitnahme- (7-9%) oder Stop-Loss-Schwellen (~-6,5%), daher keine Verkaeufe. Markt insgesamt in Risikoaversion (heisse PPI-Zahl, hoher Oelpreis, CPI morgen) - kein Dip/Breakout-Setup mit ausreichender Ueberzeugung fuer einen Neukauf identifiziert trotz reichlich freiem Kapital.",
+    "marketOverview": "US-Maerkte schliessen den dritten Tag in Folge schwaecher (S&P 500 -0,59%, Nasdaq -0,97%, Dow -0,35%), belastet von einer heissen PPI-Zahl und hohem Oelpreis vor dem CPI-Bericht am Freitag. NVDA gab nachboerslich weiter nach (217,89 USD, -4,9% seit Kauf), META stabil (645,83 USD, -0,01%). Kryptomarkt insgesamt leicht schwaecher (Gesamt-Marktkap -1%), Bitcoin scheitert an der 80.000-USD-Marke (~78-79k USD); XRP haelt sich stabil (1,39 USD, +1,5%), SOL leicht schwaecher (102,00 USD, -0,35%). Keine ueberzeugende neue Handelsgelegenheit erkennbar.",
+    "decision": "Kein Trade in diesem Lauf (22:09). Bereits heute Gewinnmitnahme bei BRENT (+8,59%) realisiert; die vier verbleibenden offenen Positionen (NVDA, META, XRP, SOL) bewegen sich weiterhin im ueblichen Schwankungsbereich, keine nahe an Ziel- oder Stop-Schwellen. US-Boersen sind nach Handelsschluss (22:00 MESZ) nicht mehr handelbar, Krypto zeigt keine ueberzeugende Breakout-Gelegenheit, daher trotz hohem freiem Kapital (ca. 34.361 EUR) kein Neukauf.",
+    "reasoning": "Tagesbudget bereits heute gutgeschrieben (lastGrantDate=2026-09-10), kein erneuter Grant in diesem Lauf. Kurse aller vier offenen Positionen aktualisiert (Investing.com fuer NVDA, Marktbericht fuer META, CoinMarketCap/Coinbase fuer XRP, Coinbase/CoinGecko fuer SOL). NVDA (-4,91%) und SOL (-0,35%) noch weit von Stop-Schwellen entfernt, META/XRP nahezu unveraendert. Kein Handel: US-Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten, Kryptomarkt ohne klaren neuen Katalysator (Bitcoin scheitert an 80k-Widerstand, Gesamtmarkt leicht schwaecher).",
     "positionIds": [
       "pos-0010",
       "pos-0011",
@@ -4388,7 +4388,7 @@
       "pos-0013",
       "pos-0014"
     ],
-    "portfolioValueEnd": 2573.96,
+    "portfolioValueEnd": 2556.32,
     "updates": [
       {
         "time": "00:09",
@@ -4499,6 +4499,11 @@
         "time": "21:09",
         "note": "Keine Aenderung, Kurse aktualisiert (NVDA, META, XRP, SOL)",
         "portfolioValue": 2573.96
+      },
+      {
+        "time": "22:09",
+        "note": "Keine Aenderung, Kurse aktualisiert (NVDA -2,7%, META/XRP/SOL nahezu unveraendert); Boersenschluss, Krypto ohne ueberzeugenden Katalysator",
+        "portfolioValue": 2556.32
       }
     ]
   }
