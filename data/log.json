@@ -4378,9 +4378,9 @@
   },
   {
     "date": "2026-09-10",
-    "marketOverview": "US-Maerkte setzen die dreitaegige Schwaechephase fort (Dow -0,77% auf 52.380,66, S&P500 -0,48%), belastet von steigenden Anleiherenditen (10J nahe 52-Wochen-Hoch) und Brent ueber 101 USD/Barrel wegen der Iran-Eskalation; US-Kassamarkt oeffnet erst um 15:30 MESZ, daher bisher nur Vorboerse verfuegbar. Krypto insgesamt leicht ruecklaeufig (Gesamtmarktkap. -0,9%, Bitcoin ca. 78.000 USD), Sentiment aber weiter in Greed-Zone (Fear&Greed 69) nach der starken September-Rally.",
-    "decision": "Kein Trade. Keine offene Position erreicht eine Handlungsschwelle (Gewinnmitnahme 7-8% oder fundamentaler Stop-Loss): BRENT +2,70% und XRP +2,19% weiterhin im gruenen, aber unterhalb der Zielspanne; META +1,20%, NVDA -2,39% und SOL -1,39% im ueblichen Schwankungsbereich ohne fundamentale Verschlechterung. Keine ueberzeugende neue Kauf-Gelegenheit gefunden (Maerkte leicht schwaecher, kein klarer Katalysator vor Fed-Sitzung), US-Kassamarkt zudem noch nicht geoeffnet.",
-    "reasoning": "Tagesbudget bereits heute gutgeschrieben (lastGrantDate=2026-09-10, kein erneuter Grant in diesem Lauf). Kursaktualisierung fuer NVDA (223,67, vorboerslich, US-Markt noch geschlossen), META (653,69), XRP (1,40), SOL (100,94, unveraendert) und BRENT (101,25). Freies Kapital bleibt bei ca. 33.760,66 EUR unveraendert (kein Trade in diesem Lauf); trotz vorhandenem freiem Kapital wird nicht um des Handelns willen gehandelt - keine Position erreicht Verkaufs-Schwellenwerte, keine ueberzeugende neue Gelegenheit, Markt insgesamt in leichter Schwaechephase (dritter Verlusttag in Folge) ohne klaren neuen Trade-Impuls.",
+    "marketOverview": "US-Maerkte setzten am 09.09. die dreitaegige Schwaechephase fort (Dow -0,77%, S&P500 -0,48%, Nasdaq -0,64%), belastet von steigenden Anleiherenditen (10J bei 4,857% nach verdreifachtem Treasury-Rueckkaufprogramm) und weiter steigendem Oelpreis wegen der Iran-Eskalation (US griff drei iranische Oeltanker an, nachdem Iran zuvor ballistische Raketen auf US-Kriegsschiffe abfeuerte). Fed-Zinserhoehungswahrscheinlichkeit fuer die Sitzung am 15.-16.09. liegt bei rund 59%. US-Kassamarkt oeffnet erst um 15:30 MESZ, daher NVDA/META weiter mit vorboerslichen/Schlusskursen. Brent kletterte weiter auf ca. 102,23 USD/Barrel. Krypto leicht ruecklaeufig (Bitcoin ca. 77.800 USD, SOL 101 USD, XRP 1,38 USD).",
+    "decision": "Kein Trade. Keine offene Position erreicht eine Handlungsschwelle (Gewinnmitnahme 7-8% oder fundamentaler Stop-Loss): BRENT +3,69% weiterhin staerkster Gewinner aber unterhalb der Zielspanne, META +1,20% und XRP +0,73% leicht im Plus, NVDA -2,39% und SOL -1,33% im ueblichen Schwankungsbereich ohne fundamentale Verschlechterung. Keine ueberzeugende neue Kauf-Gelegenheit vor Boerseneroeffnung (15:30 MESZ) und vor der Fed-Sitzung naechste Woche; Markt in dritter Verlustphase in Folge, kein klarer neuer Katalysator.",
+    "reasoning": "Tagesbudget bereits heute gutgeschrieben (lastGrantDate=2026-09-10), kein erneuter Grant. Kursaktualisierung fuer XRP (1,38 USD, CoinGecko), SOL (101,00 USD, CoinGecko) und BRENT (102,23 USD, Yahoo Finance BZ=F); NVDA (223,67) und META (653,69) unveraendert, da US-Kassamarkt vor 15:30 MESZ noch nicht geoeffnet ist und Yahoo dieselben vorboerslichen/Schlusswerte wie im letzten Lauf liefert. Freies Kapital unveraendert bei 33.760,66 EUR (kein Trade in diesem Lauf); trotz vorhandenem freiem Kapital kein Kauf, da keine Position Verkaufs-Schwellenwerte erreicht und keine ueberzeugende neue Gelegenheit vor Markteroeffnung vorliegt.",
     "positionIds": [
       "pos-0010",
       "pos-0014",
@@ -4388,7 +4388,7 @@
       "pos-0012",
       "pos-0013"
     ],
-    "portfolioValueEnd": 3203.5,
+    "portfolioValueEnd": 3202.46,
     "updates": [
       {
         "time": "00:09",
@@ -4454,6 +4454,11 @@
         "time": "12:09",
         "note": "Keine Aenderung, Kurse aktualisiert (NVDA/META/XRP/BRENT; SOL unveraendert)",
         "portfolioValue": 3203.5
+      },
+      {
+        "time": "13:12",
+        "note": "Keine Aenderung, Kurse aktualisiert (XRP, SOL, BRENT; NVDA/META vorboerslich unveraendert)",
+        "portfolioValue": 3202.46
       }
     ]
   }
