@@ -4514,21 +4514,26 @@
   },
   {
     "date": "2026-09-11",
-    "marketOverview": "Nachts (00:10 MESZ) sind US-Aktien, ETFs und Rohstoffe ausserhalb der Handelszeiten, daher nur Krypto beobachtet. Bitcoin haelt sich bei ca. 78.500 USD (rund 34% ueber dem Junitief), XRP ist auf ca. 1,36 USD leicht zurueckgekommen (24h-Spanne 1,34-1,42 USD), Solana bewegt sich seitwaerts um ca. 102 USD. Die Fed-Zinserhoehungswahrscheinlichkeit fuer die Sitzung am 15./16.09. liegt laut CME FedWatch je nach Quelle zwischen 56% und 66% - ein Gegenwind fuer Krypto und Risikoassets, da hoehere Zinsen tendenziell belasten. Kein klarer neuer Breakout-Katalysator erkennbar.",
-    "decision": "Kein Trade in diesem Lauf (00:10). Neues Tagesbudget wurde gutgeschrieben (totalFreshCapitalEur 37.000 -> 38.000 EUR). Kurse der offenen Krypto-Positionen XRP und SOL aktualisiert, NVDA/META unveraendert da US-Boersen geschlossen. Keine Position nahe Ziel- oder Stop-Schwelle, keine ueberzeugende neue Gelegenheit trotz hohem freiem Kapital (ca. 35.361 EUR) - erhoehte Fed-Zinserhoehungswahrscheinlichkeit vor dem FOMC-Meeting wirkt als Gegenwind auf Krypto, kein Handel ausserhalb der Handelszeiten bei Aktien/ETFs/Rohstoffen moeglich.",
-    "reasoning": "XRP von 1,38 auf 1,36 USD aktualisiert (-0,73% seit Kauf, via CoinDesk/CoinGecko/Coinbase/Kraken), SOL von 100,85 auf ca. 102,00 USD aktualisiert (-0,35% seit Kauf, Mittelwert mehrerer Quellen: CoinGecko 104,02, Kraken 103,92, Coinbase 100,85, Bitget 99,78). NVDA und META bleiben auf dem letzten Stand vom Vortag, da US-Boersen nachts geschlossen sind. Keine Position ist nahe am etablierten Ziel-Gewinnbereich (7-9%) oder einer Stop-Schwelle. Kein Neukauf, da der Kryptomarkt vor dem FOMC-Meeting durch steigende Zinserhoehungswahrscheinlichkeit gedaempft ist und keine ueberzeugende, mehrfach bestaetigte Breakout-Gelegenheit vorliegt.",
+    "marketOverview": "Nachts (01:09 MESZ) weiterhin ausserhalb der Handelszeiten fuer Aktien/ETFs/Rohstoffe, daher nur Krypto beobachtet. Bitcoin bei ca. 77.191 USD leicht ruecklaeufig, Solana bei ca. 100,85 USD (-1,5% seit Kauf), XRP unveraendert bei 1,36 USD. Die FOMC-Zinserhoehungswahrscheinlichkeit fuer die Sitzung am 15./16.09. bleibt mit 60-70% erhoeht (u.a. getrieben durch starke PPI-Inflation), was als Gegenwind fuer Krypto wirkt. Kein neuer Breakout-Katalysator erkennbar.",
+    "decision": "Kein Trade in diesem Lauf (01:09). Kurs der offenen Solana-Position leicht aktualisiert (-1,47%), XRP unveraendert, NVDA/META unveraendert da US-Boersen geschlossen. Keine Position nahe Ziel- oder Stop-Schwelle, kein Handel ausserhalb der Handelszeiten bei Aktien/ETFs/Rohstoffen moeglich, keine ueberzeugende neue Krypto-Gelegenheit angesichts erhoehter Zinserhoehungswahrscheinlichkeit vor dem FOMC-Meeting.",
+    "reasoning": "SOL von 102,00 auf 100,85 USD aktualisiert (-1,47% seit Kauf, Coinbase). XRP unveraendert bei 1,36 USD (Vorlauf-Wert weiterhin aktuell). NVDA und META bleiben auf dem letzten Stand, da US-Boersen nachts geschlossen sind. Keine Position ist nahe am etablierten Ziel-Gewinnbereich (7-9%) oder einer Stop-Schwelle. Kein Neukauf, da der Kryptomarkt vor dem FOMC-Meeting durch die erhoehte Zinserhoehungswahrscheinlichkeit (PPI-Inflation auf Jahreshoch) gedaempft bleibt und keine mehrfach bestaetigte Breakout-Gelegenheit vorliegt.",
     "positionIds": [
       "pos-0010",
       "pos-0014",
       "pos-0011",
       "pos-0012"
     ],
-    "portfolioValueEnd": 2567.5,
+    "portfolioValueEnd": 2561.89,
     "updates": [
       {
         "time": "00:10",
         "note": "Keine Aenderung, Kurse aktualisiert (XRP, SOL); Tagesbudget gutgeschrieben",
         "portfolioValue": 2567.5
+      },
+      {
+        "time": "01:09",
+        "note": "Keine Aenderung, SOL-Kurs aktualisiert",
+        "portfolioValue": 2561.89
       }
     ]
   }
