@@ -4378,9 +4378,9 @@
   },
   {
     "date": "2026-09-10",
-    "marketOverview": "US-Maerkte schliessen den dritten Tag in Folge schwaecher (S&P 500 -0,59%, Nasdaq -0,97%, Dow -0,35%), belastet von einer heissen PPI-Zahl und hohem Oelpreis vor dem CPI-Bericht am Freitag. NVDA gab nachboerslich weiter nach (217,89 USD, -4,9% seit Kauf), META stabil (645,83 USD, -0,01%). Kryptomarkt insgesamt leicht schwaecher (Gesamt-Marktkap -1%), Bitcoin scheitert an der 80.000-USD-Marke (~78-79k USD); XRP haelt sich stabil (1,39 USD, +1,5%), SOL leicht schwaecher (102,00 USD, -0,35%). Keine ueberzeugende neue Handelsgelegenheit erkennbar.",
-    "decision": "Kein Trade in diesem Lauf (22:09). Bereits heute Gewinnmitnahme bei BRENT (+8,59%) realisiert; die vier verbleibenden offenen Positionen (NVDA, META, XRP, SOL) bewegen sich weiterhin im ueblichen Schwankungsbereich, keine nahe an Ziel- oder Stop-Schwellen. US-Boersen sind nach Handelsschluss (22:00 MESZ) nicht mehr handelbar, Krypto zeigt keine ueberzeugende Breakout-Gelegenheit, daher trotz hohem freiem Kapital (ca. 34.361 EUR) kein Neukauf.",
-    "reasoning": "Tagesbudget bereits heute gutgeschrieben (lastGrantDate=2026-09-10), kein erneuter Grant in diesem Lauf. Kurse aller vier offenen Positionen aktualisiert (Investing.com fuer NVDA, Marktbericht fuer META, CoinMarketCap/Coinbase fuer XRP, Coinbase/CoinGecko fuer SOL). NVDA (-4,91%) und SOL (-0,35%) noch weit von Stop-Schwellen entfernt, META/XRP nahezu unveraendert. Kein Handel: US-Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten, Kryptomarkt ohne klaren neuen Katalysator (Bitcoin scheitert an 80k-Widerstand, Gesamtmarkt leicht schwaecher).",
+    "marketOverview": "Nach US-Boersenschluss bleibt die Lage vor dem FOMC-Meeting (15.-16.09.) angespannt: Die Wahrscheinlichkeit einer Fed-Zinserhoehung im September wird von mehreren Quellen wieder hoeher eingeschaetzt (CME FedWatch ca. 58-70%), was auf Kryptowaehrungen und Risikoassets tendenziell belastend wirkt. Bitcoin haelt sich unter der 80.000-USD-Marke, XRP (~1,38 USD) und SOL (~100,85 USD) zeigen leichte Schwaeche ohne neuen Katalysator. NVDA schloss regulaer bei 223,67 USD und gab nachboerslich leicht auf 222,96 USD nach.",
+    "decision": "Kein Trade in diesem Lauf (23:10). Tagesbudget bereits heute gutgeschrieben, kein erneuter Grant. Bereits heute Gewinnmitnahme bei BRENT (+8,59%) realisiert; die vier verbleibenden offenen Positionen (NVDA, META, XRP, SOL) bewegen sich weiterhin im ueblichen Schwankungsbereich, keine nahe an Ziel- oder Stop-Schwellen. US-Boersen/ETFs/Rohstoffe sind ausserhalb der Handelszeiten nicht handelbar; Krypto zeigt vor dem FOMC-Meeting keine ueberzeugende neue Breakout-Gelegenheit, eher leichten Gegenwind durch steigende Zinserhoehungswahrscheinlichkeit. Trotz hohem freiem Kapital (ca. 34.361 EUR) daher kein Neukauf.",
+    "reasoning": "Kurse aller vier offenen Positionen aktualisiert (NVDA nachboerslich via Investing.com/TradingEconomics, XRP via CoinDesk/CoinGecko/Kraken, SOL via Yahoo Finance/Coinbase, META unveraendert). Keine Position nahe Ziel-Gewinnbereich (7-9%) oder Stop-Schwelle. Kein Handel: Aktien/ETFs/Rohstoffe ausserhalb Handelszeiten nicht handelbar; Kryptomarkt insgesamt schwach vor dem FOMC-Meeting am 15./16.09. (steigende Zinserhoehungs-Wahrscheinlichkeit laut CME FedWatch), keine ueberzeugende neue Gelegenheit erkennbar.",
     "positionIds": [
       "pos-0010",
       "pos-0011",
@@ -4388,7 +4388,7 @@
       "pos-0013",
       "pos-0014"
     ],
-    "portfolioValueEnd": 2556.32,
+    "portfolioValueEnd": 2569.18,
     "updates": [
       {
         "time": "00:09",
@@ -4504,6 +4504,11 @@
         "time": "22:09",
         "note": "Keine Aenderung, Kurse aktualisiert (NVDA -2,7%, META/XRP/SOL nahezu unveraendert); Boersenschluss, Krypto ohne ueberzeugenden Katalysator",
         "portfolioValue": 2556.32
+      },
+      {
+        "time": "23:10",
+        "note": "Keine Aenderung, Kurse aktualisiert (NVDA, XRP, SOL); Krypto schwach vor FOMC-Meeting (Zinserhoehungssorgen), keine ueberzeugende Gelegenheit.",
+        "portfolioValue": 2569.18
       }
     ]
   }
