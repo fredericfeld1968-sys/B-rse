@@ -4378,9 +4378,9 @@
   },
   {
     "date": "2026-09-10",
-    "marketOverview": "Kryptomarkt vor der Fed-Sitzung (15./16.09.) weiterhin uneinheitlich: Bitcoin pendelt um ca. 78.500-79.200 USD, Fear&Greed-Index bei 73 ('Greed'). CME FedWatch sieht die Wahrscheinlichkeit einer Zinserhoehung inzwischen bei ueber 58%, waehrend Polymarket knapp auf eine unveraenderte Zinsentscheidung tendiert (51% vs. 45%) - die Unsicherheit belastet risikoreichere Altcoins leicht. XRP haelt sich stabil bei ca. 1,42 USD (weiterhin oberhalb der 1,33-1,36-USD-Unterstuetzungszone), Solana gibt dagegen leicht auf ca. 100,85 USD nach (von 101,50 USD) und naehert sich damit fast dem Einstandskurs. US-Aktien, ETFs und Rohstoffe sind vor Boersenoeffnung unveraendert zu den Schlusskursen vom 09.09. (NVDA 225,73 USD, META 653,69 USD, Brent 100,71 USD/Barrel).",
-    "decision": "Kein Trade. Keine offene Position erreicht eine Handlungsschwelle (Gewinnmitnahme 7-8% oder fundamentaler Stop-Loss): XRP +3,65%, BRENT +2,15%, META +1,20% weiterhin im gruenen, aber unterhalb der Zielspanne; SOL -1,48% und NVDA -1,49% im ueblichen Schwankungsbereich. Ausserhalb der Handelszeiten (vor Boersenoeffnung) waere ohnehin nur Krypto handelbar - dort aber kein neuer, eigenstaendig ueberzeugender Katalysator (Markt vor Fed-Entscheidung/Inflationsdaten verhalten, keine bestaetigte Ausbruchsbewegung).",
-    "reasoning": "Tagesbudget bereits heute gutgeschrieben (lastGrantDate=2026-09-10, kein erneuter Grant in diesem Lauf). Kursaktualisierung fuer die Krypto-Positionen (XRP unveraendert bei 1,42 USD, SOL von 101,50 auf 100,85 USD gesenkt); Aktien/ETFs/Rohstoffe bleiben vor Boersenoeffnung auf den Schlusskursen vom 09.09. Freies Kapital (~33.760,66 EUR) waere fuer neue Positionen ausreichend, aber es wird konsequent nicht um des Handelns willen gehandelt - keine Position erreicht Verkaufs-Schwellenwerte, keine ueberzeugende neue Krypto-Gelegenheit gefunden.",
+    "marketOverview": "Kryptomarkt weiterhin uneinheitlich vor der Fed-Sitzung (15./16.09.): Bitcoin um ca. 79.600-80.000 USD, Fear&Greed bei 73 (Greed). Fed-Zinserhoehungswahrscheinlichkeit laut CME FedWatch bei rund 58%, staerkere US-Arbeitsmarktdaten und hoehere Energiepreise/Anleiherenditen naehren Zinssorgen. XRP stabil bei ca. 1,42 USD, Solana leicht erholt auf ca. 102,00 USD (von 100,85 USD). US-Aktien, ETFs und Rohstoffe vorbörslich unveraendert zu den Schlusskursen vom 09.09. (NVDA 225,73 USD, META 653,69 USD, Brent 100,71 USD/Barrel).",
+    "decision": "Kein Trade. Keine offene Position erreicht eine Handlungsschwelle (Gewinnmitnahme 7-8% oder fundamentaler Stop-Loss): XRP +3,65%, BRENT +2,15%, META +1,20% weiterhin im gruenen, aber unterhalb der Zielspanne; SOL -0,35% und NVDA -1,49% im ueblichen Schwankungsbereich. Vorboerslich waere ohnehin nur Krypto handelbar - dort aber kein neuer, eigenstaendig ueberzeugender Katalysator (Markt vor Fed-Entscheidung uneinheitlich, widerspruechliche Kursquellen, keine bestaetigte Ausbruchsbewegung).",
+    "reasoning": "Tagesbudget bereits heute gutgeschrieben (lastGrantDate=2026-09-10, kein erneuter Grant in diesem Lauf). Kursaktualisierung fuer SOL (100,85 -> 102,00 USD); XRP unveraendert bei 1,42 USD. Aktien/ETFs/Rohstoffe bleiben vorboerslich auf den Schlusskursen vom 09.09. Freies Kapital (~33.760,66 EUR) waere fuer neue Positionen ausreichend, aber es wird konsequent nicht um des Handelns willen gehandelt - keine Position erreicht Verkaufs-Schwellenwerte, keine ueberzeugende neue Krypto-Gelegenheit gefunden.",
     "positionIds": [
       "pos-0010",
       "pos-0014",
@@ -4388,7 +4388,7 @@
       "pos-0012",
       "pos-0013"
     ],
-    "portfolioValueEnd": 3216.07,
+    "portfolioValueEnd": 3221.69,
     "updates": [
       {
         "time": "00:09",
@@ -4429,6 +4429,11 @@
         "time": "07:09",
         "note": "Keine Aenderung, SOL-Kurs aktualisiert (101,50 -> 100,85 USD)",
         "portfolioValue": 3216.07
+      },
+      {
+        "time": "08:12",
+        "note": "Keine Aenderung, SOL-Kurs aktualisiert (100,85 -> 102,00 USD)",
+        "portfolioValue": 3221.69
       }
     ]
   }
