@@ -4378,9 +4378,9 @@
   },
   {
     "date": "2026-09-10",
-    "marketOverview": "US-Boersen schlossen am 09.09. im Minus (S&P 500 -0,48%, Dow -0,77%, Nasdaq -0,64%), belastet durch steigende Oelpreise, hoehere Anleiherenditen und Iran-Eskalation. Brent Crude kletterte weiter auf ca. 101,25 USD/Barrel (Houthi-Angriffe auf saudische Anlagen, US-Aktionen gegen iranische Tanker). Fed-Zinserhoehungswahrscheinlichkeit fuer die Sitzung am 15./16.09. bei ca. 58-59%, entscheidend wird die August-CPI-Zahl am 11.09. Kryptomarkt uneinheitlich: XRP legt auf ca. 1,42 USD zu (+3% 24h), Solana seitwaerts um ca. 102 USD. NVDA und META vorboerslich stabil (223,67 USD bzw. 655,63 USD), US-Kassamarkt oeffnet erst um 15:30 MESZ.",
-    "decision": "Kein Trade. Keine offene Position erreicht eine Handlungsschwelle (Gewinnmitnahme 7-8% oder fundamentaler Stop-Loss): BRENT +2,70%, XRP +3,65%, META +1,50% weiterhin im gruenen, aber unterhalb der Zielspanne; SOL -0,06% und NVDA -2,39% im ueblichen Schwankungsbereich ohne fundamentale Verschlechterung. US-Aktien/ETFs/Rohstoffe vor US-Boersenoeffnung (15:30 MESZ) nur eingeschraenkt bzw. vorboerslich bewertbar; im Kryptomarkt kein neuer, eigenstaendig ueberzeugender Katalysator vor der Fed-Sitzung.",
-    "reasoning": "Tagesbudget bereits heute gutgeschrieben (lastGrantDate=2026-09-10, kein erneuter Grant in diesem Lauf). Kursaktualisierung fuer NVDA (225,73 -> 223,67 USD), META (653,69 -> 655,63 USD), XRP (1,39 -> 1,42 USD), SOL (103,00 -> 102,30 USD) und BRENT (100,71 -> 101,25 USD). Freies Kapital bleibt bei ca. 33.760,66 EUR unveraendert (kein Trade in diesem Lauf), ausreichend fuer neue Positionen, aber es wird konsequent nicht um des Handelns willen gehandelt - keine Position erreicht Verkaufs-Schwellenwerte, keine ueberzeugende neue Gelegenheit gefunden.",
+    "marketOverview": "US-Futures leicht positiv (Dow +0,33%, S&P +0,18%) nach Erholung von der Dreitagesschwaeche; August-CPI kam wie erwartet herein und staerkt die Erwartung einer Fed-Zinssenkung am 15./16.09., gleichzeitig belasten hoehere Anleiherenditen (10J-Rendite ca. 4,86%, hoechster Stand seit Nov. 2023) nach angekuendigtem Treasury-Rueckkauf. Brent Crude bleibt geopolitisch getrieben ueber 101 USD/Barrel (Iran-Spannungen). Krypto uneinheitlich: XRP legt leicht auf ca. 1,43 USD zu, Solana gibt um rund 1,3% auf ca. 100,94 USD nach. NVDA/META vorboerslich nahezu unveraendert, US-Kassamarkt oeffnet erst um 15:30 MESZ.",
+    "decision": "Kein Trade. Keine offene Position erreicht eine Handlungsschwelle (Gewinnmitnahme 7-8% oder fundamentaler Stop-Loss): XRP +4,38% und BRENT +2,95% weiterhin im gruenen Bereich, aber unterhalb der Zielspanne; META +1,22%, NVDA -2,03% und SOL -1,39% im ueblichen Schwankungsbereich ohne fundamentale Verschlechterung. US-Kassamarkt vor Oeffnung (15:30 MESZ) nur vorboerslich bewertbar, kein neuer eigenstaendig ueberzeugender Handelskatalysator vor der Fed-Sitzung und der morgigen CPI-Einordnung.",
+    "reasoning": "Tagesbudget bereits heute gutgeschrieben (lastGrantDate=2026-09-10, kein erneuter Grant in diesem Lauf). Kursaktualisierung fuer NVDA (223,67 -> 224,50 USD), META (655,63 -> 653,80 USD), XRP (1,42 -> 1,43 USD), SOL (102,30 -> 100,94 USD) und BRENT (101,25 -> 101,50 USD). Freies Kapital bleibt bei ca. 33.760,66 EUR unveraendert (kein Trade in diesem Lauf); trotz vorhandenem freiem Kapital wird nicht um des Handelns willen gehandelt - keine Position erreicht Verkaufs-Schwellenwerte, keine ueberzeugende neue Gelegenheit gefunden, US-Aktienmarkt zudem noch nicht geoeffnet.",
     "positionIds": [
       "pos-0010",
       "pos-0014",
@@ -4388,7 +4388,7 @@
       "pos-0012",
       "pos-0013"
     ],
-    "portfolioValueEnd": 3219.26,
+    "portfolioValueEnd": 3219.7,
     "updates": [
       {
         "time": "00:09",
@@ -4444,6 +4444,11 @@
         "time": "10:09",
         "note": "Keine Aenderung, Kurse aktualisiert (NVDA, META, XRP, SOL, BRENT)",
         "portfolioValue": 3219.26
+      },
+      {
+        "time": "11:07",
+        "note": "Keine Aenderung, Kurse aktualisiert (NVDA/META/XRP/SOL/BRENT)",
+        "portfolioValue": 3219.7
       }
     ]
   }
