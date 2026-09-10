@@ -4378,9 +4378,9 @@
   },
   {
     "date": "2026-09-10",
-    "marketOverview": "US-Boersen schliessen dritten Tag in Folge leicht schwaecher (S&P 500 -0,5% auf 7.636, Dow -0,8%, Nasdaq -0,6%), belastet von Zinssorgen vor dem CPI-Bericht morgen (Konsens: +0,4% MoM, +3,4% YoY) sowie anhaltend hohen Oelpreisen nach der eskalierenden Iran-Krise an der Strasse von Hormuz. Brent haelt sich nach der heutigen Gewinnmitnahme (BRENT-Position glattgestellt) weiter ueber 100 USD/Barrel. NVDA (224,37 USD, -2,1% seit Kauf) und META (655,63 USD, +1,5% seit Kauf) bewegen sich im ueblichen Schwankungsbereich, keine neuen Katalysatoren. Krypto uneinheitlich vor der naechsten Fed-Sitzung: XRP leicht fester (1,39 USD, +1,5%), SOL leicht schwaecher (101,06 USD, -1,3%).",
-    "decision": "Verkauf BRENT (pos-0013): Gewinnmitnahme bei +8,59% (98,59 -> 107,06 USD/Barrel), nach vier Handelstagen im etablierten Zielbereich (7-9%). Keine weiteren Trades: NVDA (-2,39%), META (+1,20%), XRP (-1,00%), SOL (-2,61%) bleiben im ueblichen Schwankungsbereich ohne Handlungsschwelle. Keine ueberzeugende neue Kauf-Gelegenheit identifiziert - Intel-Dip beruht auf echten fundamentalen Gegenwinden (Kapitalerhoehung, PC-Nachfrage-Sorgen), passt nicht zum bisher erfolgreichen 'Sell-the-news trotz starker Fundamentaldaten'-Muster; Chevron-Rally ist ein langsamer Grind statt eines klaren Dip/Breakout-Setups. Marktumfeld insgesamt risikoavers vor morgigem CPI und naechster FOMC-Sitzung.",
-    "reasoning": "Tagesbudget bereits heute gutgeschrieben (lastGrantDate=2026-09-10), kein erneuter Grant. Brent Crude wurde durch mehrere unabhaengige Quellen bestaetigt bei 105-107 USD/Barrel gehandelt (TradingEconomics live 107,06, Fortune 105,20 um 8:00 ET, CNBC 'above $105... highest since May 19') - damit klar ueber der etablierten Gewinnmitnahme-Schwelle von 7-8%, Position glattgestellt. Freies Kapital nach dem Trade: 34.360,66 EUR (vorher 33.760,66 EUR, + 600 EUR zurueckgefuehrtes Kapital aus BRENT). Trotz hohem freiem Kapital kein Neukauf, da das Marktumfeld (Risikoaversion vor CPI/FOMC, gemischte Krypto-Signale) keine wirklich ueberzeugende neue Gelegenheit bietet; der einzige naeher geprüfte Kandidat (Intel-Dip) hat echte fundamentale Gegenwinde statt eines reflexhaften Sell-the-news-Musters.",
+    "marketOverview": "US-Maerkte schliessen den dritten Tag in Folge schwaecher (S&P 500 -0,59%, Nasdaq -0,97%, Dow -0,35%) belastet von einer heissen PPI-Zahl (Erzeugerpreise +5,4% YoY, ueber Erwartung) und anhaltend hohem Oelpreis (Brent >102 USD) vor dem CPI-Bericht am Freitag (Konsens +0,4% MoM/+3,4% YoY), der die naechste Fed-Entscheidung praegen duerfte. NVDA (223,67 USD, -2,4% seit Kauf) und META (~644,80 USD, -0,2% seit Kauf) bewegen sich im ueblichen Schwankungsbereich ohne neue Katalysatoren. Krypto leicht gemischt: XRP stabil (1,385 USD, +1,1%), SOL leicht schwaecher (101,00 USD, -1,3%).",
+    "decision": "Kein Trade in diesem Lauf. Bereits heute Gewinnmitnahme bei BRENT (+8,59%) realisiert; die vier verbleibenden offenen Positionen (NVDA, META, XRP, SOL) bewegen sich alle im ueblichen Schwankungsbereich, weit entfernt von den etablierten Ziel-/Stop-Schwellen. Angesichts der breiten, inflations- und oelpreisgetriebenen Risikoaversion an den Aktienmaerkten kurz vor dem morgigen CPI-Bericht wird trotz hohem freiem Kapital (ca. 34.362 EUR) auf einen Neukauf verzichtet, da keine wirklich ueberzeugende Gelegenheit erkennbar ist.",
+    "reasoning": "Tagesbudget bereits heute gutgeschrieben (lastGrantDate=2026-09-10), kein erneuter Grant in diesem Lauf. Kurse aller vier offenen Positionen anhand mehrerer Quellen aktualisiert (Investing.com/TradingEconomics fuer NVDA, Marktbericht fuer META, CoinDesk/Coinbase fuer XRP, CoinGecko/Coinbase fuer SOL). Keine Position naeherte sich den etablierten Gewinnmitnahme- (7-9%) oder Stop-Loss-Schwellen (~-6,5%), daher keine Verkaeufe. Markt insgesamt in Risikoaversion (heisse PPI-Zahl, hoher Oelpreis, CPI morgen) - kein Dip/Breakout-Setup mit ausreichender Ueberzeugung fuer einen Neukauf identifiziert trotz reichlich freiem Kapital.",
     "positionIds": [
       "pos-0010",
       "pos-0011",
@@ -4388,7 +4388,7 @@
       "pos-0013",
       "pos-0014"
     ],
-    "portfolioValueEnd": 2589.11,
+    "portfolioValueEnd": 2573.96,
     "updates": [
       {
         "time": "00:09",
@@ -4494,6 +4494,11 @@
         "time": "20:08",
         "note": "Keine Aenderung, Kurse aktualisiert (NVDA -2,1%, META +1,5%, XRP +1,5%, SOL -1,3%); Maerkte leicht schwaecher vor morgigem CPI-Bericht, keine ueberzeugende neue Gelegenheit.",
         "portfolioValue": 2589.11
+      },
+      {
+        "time": "21:09",
+        "note": "Keine Aenderung, Kurse aktualisiert (NVDA, META, XRP, SOL)",
+        "portfolioValue": 2573.96
       }
     ]
   }
