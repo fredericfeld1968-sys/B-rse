@@ -4549,6 +4549,11 @@
         "time": "04:08",
         "note": "Keine Aenderung, XRP-Kurs aktualisiert (1,36 USD); Markt konsolidiert vor US-CPI-Bericht",
         "portfolioValue": 2561.89
+      },
+      {
+        "time": "05:08",
+        "note": "Keine Aenderung, Kurse bestaetigt (XRP 1,36 USD, SOL 100,85 USD); Markt konsolidiert vor US-CPI-Bericht (14:30 MESZ)",
+        "portfolioValue": 2561.89
       }
     ]
   }
