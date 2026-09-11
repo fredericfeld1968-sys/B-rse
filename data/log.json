@@ -4514,16 +4514,16 @@
   },
   {
     "date": "2026-09-11",
-    "marketOverview": "Vor dem heutigen US-CPI-Bericht (08:30 Uhr ET / 14:30 MESZ) konsolidiert der Kryptomarkt seitwaerts: Bitcoin pendelt zwischen ca. 76.700 und 78.500 USD (aktuell ca. 77.200-78.400 USD, phasenweise unter 78.000 USD), XRP notiert bei ca. 1,36 USD, Solana bei ca. 100,9-101 USD. Wall Street erwartet fuer August eine Jahresteuerung von rund 3,4% (Kern-CPI 2,4%); ein staerker als erwarteter Wert wuerde hoehere Zinserwartungen und damit Gegenwind fuer Krypto bedeuten, ein schwaecherer Wert koennte die Risikobereitschaft staerken. Das FOMC-Meeting folgt am 15./16.09. US-Aktien/ETFs/Rohstoffe sind nachts weiterhin nicht handelbar.",
-    "decision": "Kein Trade in diesem Lauf (04:08). XRP-Kurs leicht auf 1,36 USD aktualisiert (-0,73% seit Kauf), SOL unveraendert bei 100,85 USD bestaetigt (-1,47%), NVDA/META unveraendert (US-Boersen weiterhin geschlossen). Keine Position nahe Ziel- oder Stop-Schwelle. Kein Neukauf, da der Markt vor dem heutigen CPI-Bericht (14:30 MESZ) seitwaerts konsolidiert und keine mehrfach bestaetigte Breakout-Gelegenheit vorliegt.",
-    "reasoning": "XRP legt minimal auf 1,36 USD zu (vorheriger Stand 1,35 USD), SOL bleibt bei 100,85 USD stabil. NVDA und META unveraendert, da US-Boersen nachts geschlossen sind. Keine Position ist nahe am etablierten Ziel-Gewinnbereich (7-9%) oder einer Stop-Schwelle. Angesichts des bevorstehenden CPI-Berichts (Konsens ca. 3,4% YoY, Kern 2,4%) und der moeglichen Marktbewegung danach wird auf einen Neukauf verzichtet, um nicht unmittelbar vor einem moeglichen Volatilitaetsschub in eine Richtung positioniert zu sein. Freies Kapital von ca. 35.360,66 EUR bleibt fuer eine ueberzeugendere Gelegenheit nach dem CPI-Bericht vorgehalten.",
+    "marketOverview": "Vor dem heutigen US-CPI-Bericht (08:30 Uhr ET / 14:30 MESZ) bleibt die Stimmung vorsichtig: Bitcoin korrigiert auf ca. 76.900-77.300 USD (-1,6% in 24h, Marktkapitalisierung -1,9% auf 2,7 Bio. USD), Ethereum konsolidiert um 2.441 USD, XRP testet mit 1,36 USD die kritische Unterstuetzungszone 1,33-1,36 USD, Solana haelt sich bei ca. 100,85 USD. Belastend wirkt der ueberraschend heisse PPI-Wert vom Vortag (5,4% vs. 5,3% erwartet), der Gold/Silber kurzzeitig ueber 490 Mrd. USD Marktwert kostete; die EZB erhoehte zudem die Zinsen um 25 Bp auf 2,65%. NVDA schloss gestern bei 218,40 USD (-4,7% seit Kauf), META bei 644,38 USD (-0,2%). US-Boersen sind vor Handelsbeginn weiterhin geschlossen.",
+    "decision": "Kein Trade in diesem Lauf (06:08). NVDA- und META-Kurse auf den Schlussstand vom 10.09. aktualisiert (NVDA 218,40 USD/-4,69%, META 644,38 USD/-0,24%), XRP (1,36 USD/-0,73%) und SOL (100,85 USD/-1,47%) bestaetigt. Keine Position nahe einer etablierten Ziel- oder Stop-Schwelle. Kein Neukauf, da der Kryptomarkt nach dem heissen PPI-Wert und vor dem heutigen CPI-Bericht insgesamt vorsichtig/leicht abwaertsgerichtet ist (Bitcoin -1,6%, XRP an kritischer Unterstuetzung) - keine ueberzeugende, mehrfach bestaetigte Gelegenheit.",
+    "reasoning": "Der PPI-Ueberraschungswert vom Vortag (5,4% vs. 5,3% erwartet) hat die Risikobereitschaft insgesamt gedaempft: Bitcoin faellt auf ca. 76.900-77.300 USD, die globale Krypto-Marktkapitalisierung sinkt um 1,9% auf 2,7 Bio. USD, Sentiment kuehlt auf 'Greed 56' ab. XRP notiert bei 1,36 USD direkt an der seit Tagen beobachteten kritischen Unterstuetzung 1,33-1,36 USD (Bruch nach unten wuerde weiteres Abwaertsrisiko signalisieren, ist aber noch nicht bestaetigt) - kein Verkaufsgrund, aber auch keine Nachkauf-Gelegenheit. SOL bleibt bei 100,85 USD stabil. NVDA (-4,69%) und META (-0,24%) sind auf Basis der gestrigen US-Schlusskurse aktualisiert, aber ausserhalb der Handelszeiten (US-Boersen vor Eroeffnung) nicht handelbar. Angesichts des in rund 8 Stunden anstehenden CPI-Berichts (Konsens Kern-CPI 2,4% YoY, 0,2% MoM) - eines der wichtigsten Markt-Events der Woche - ist es sinnvoller, keine neue spekulative Position kurz vor diesem Volatilitaetsereignis einzugehen. Freies Kapital von ca. 35.360,66 EUR bleibt fuer eine ueberzeugendere Gelegenheit nach der CPI-Veroeffentlichung vorgehalten.",
     "positionIds": [
       "pos-0010",
       "pos-0014",
       "pos-0011",
       "pos-0012"
     ],
-    "portfolioValueEnd": 2561.89,
+    "portfolioValueEnd": 2540.64,
     "updates": [
       {
         "time": "00:10",
@@ -4554,6 +4554,11 @@
         "time": "05:08",
         "note": "Keine Aenderung, Kurse bestaetigt (XRP 1,36 USD, SOL 100,85 USD); Markt konsolidiert vor US-CPI-Bericht (14:30 MESZ)",
         "portfolioValue": 2561.89
+      },
+      {
+        "time": "06:08",
+        "note": "Keine Aenderung. NVDA/META auf Schlusskurs 10.09. aktualisiert (-4,69% / -0,24%), XRP/SOL bestaetigt; Markt vorsichtig vor US-CPI-Bericht (14:30 MESZ) nach heissem PPI-Wert",
+        "portfolioValue": 2540.64
       }
     ]
   }
