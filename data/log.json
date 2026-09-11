@@ -4514,16 +4514,16 @@
   },
   {
     "date": "2026-09-11",
-    "marketOverview": "Fruehmorgens (03:08 MESZ) weiterhin ausserhalb der Handelszeiten fuer Aktien/ETFs/Rohstoffe, daher nur Krypto beobachtet. Bitcoin haelt sich bei ca. 77.000-77.600 USD, Kaeufer verteidigen diese Zone vor dem heutigen US-CPI-Bericht (13:30 Uhr ET) und dem FOMC-Meeting am 15./16.09. XRP notiert unveraendert bei ca. 1,35 USD (-1,46% seit Kauf), Solana bei ca. 100,85 USD (-1,47% seit Kauf). Die Wahrscheinlichkeit einer Zinserhoehung im September liegt laut CME FedWatch bei rund 62%, was den Risikoappetit im Kryptomarkt weiterhin daempft. Kein neuer Breakout-Katalysator erkennbar, Markt handelt seitwaerts vor dem Inflationsdatum.",
-    "decision": "Kein Trade in diesem Lauf (03:08). XRP- und SOL-Kurse im Rahmen der normalen Schwankungsbreite bestaetigt (praktisch unveraendert), NVDA/META unveraendert (US-Boersen weiterhin geschlossen). Keine Position nahe Ziel- oder Stop-Schwelle, kein Aktien-/ETF-/Rohstoffhandel ausserhalb der Handelszeiten moeglich, keine ueberzeugende neue Krypto-Gelegenheit vor dem heutigen CPI-Bericht.",
-    "reasoning": "XRP bei 1,35 USD und SOL bei 100,85 USD bestaetigt, beide praktisch unveraendert gegenueber dem letzten Lauf (02:09). NVDA und META bleiben auf dem letzten Stand, da US-Boersen nachts geschlossen sind. Keine Position ist nahe am etablierten Ziel-Gewinnbereich (7-9%) oder einer Stop-Schwelle. Kein Neukauf, da der Kryptomarkt vor dem heutigen US-CPI-Bericht (13:30 Uhr ET) und dem FOMC-Meeting (15./16.09.) durch erhoehte Zinserhoehungserwartungen (~62% laut FedWatch) gedaempft bleibt und keine mehrfach bestaetigte Breakout-Gelegenheit vorliegt. Freies Kapital von ca. 35.360,66 EUR bleibt fuer eine ueberzeugendere Gelegenheit vorgehalten.",
+    "marketOverview": "Vor dem heutigen US-CPI-Bericht (08:30 Uhr ET / 14:30 MESZ) konsolidiert der Kryptomarkt seitwaerts: Bitcoin pendelt zwischen ca. 76.700 und 78.500 USD (aktuell ca. 77.200-78.400 USD, phasenweise unter 78.000 USD), XRP notiert bei ca. 1,36 USD, Solana bei ca. 100,9-101 USD. Wall Street erwartet fuer August eine Jahresteuerung von rund 3,4% (Kern-CPI 2,4%); ein staerker als erwarteter Wert wuerde hoehere Zinserwartungen und damit Gegenwind fuer Krypto bedeuten, ein schwaecherer Wert koennte die Risikobereitschaft staerken. Das FOMC-Meeting folgt am 15./16.09. US-Aktien/ETFs/Rohstoffe sind nachts weiterhin nicht handelbar.",
+    "decision": "Kein Trade in diesem Lauf (04:08). XRP-Kurs leicht auf 1,36 USD aktualisiert (-0,73% seit Kauf), SOL unveraendert bei 100,85 USD bestaetigt (-1,47%), NVDA/META unveraendert (US-Boersen weiterhin geschlossen). Keine Position nahe Ziel- oder Stop-Schwelle. Kein Neukauf, da der Markt vor dem heutigen CPI-Bericht (14:30 MESZ) seitwaerts konsolidiert und keine mehrfach bestaetigte Breakout-Gelegenheit vorliegt.",
+    "reasoning": "XRP legt minimal auf 1,36 USD zu (vorheriger Stand 1,35 USD), SOL bleibt bei 100,85 USD stabil. NVDA und META unveraendert, da US-Boersen nachts geschlossen sind. Keine Position ist nahe am etablierten Ziel-Gewinnbereich (7-9%) oder einer Stop-Schwelle. Angesichts des bevorstehenden CPI-Berichts (Konsens ca. 3,4% YoY, Kern 2,4%) und der moeglichen Marktbewegung danach wird auf einen Neukauf verzichtet, um nicht unmittelbar vor einem moeglichen Volatilitaetsschub in eine Richtung positioniert zu sein. Freies Kapital von ca. 35.360,66 EUR bleibt fuer eine ueberzeugendere Gelegenheit nach dem CPI-Bericht vorgehalten.",
     "positionIds": [
       "pos-0010",
       "pos-0014",
       "pos-0011",
       "pos-0012"
     ],
-    "portfolioValueEnd": 2558.24,
+    "portfolioValueEnd": 2561.89,
     "updates": [
       {
         "time": "00:10",
@@ -4544,6 +4544,11 @@
         "time": "03:08",
         "note": "Keine Aenderung, Kurse bestaetigt (XRP, SOL); Markt ruhig vor US-CPI-Bericht",
         "portfolioValue": 2558.24
+      },
+      {
+        "time": "04:08",
+        "note": "Keine Aenderung, XRP-Kurs aktualisiert (1,36 USD); Markt konsolidiert vor US-CPI-Bericht",
+        "portfolioValue": 2561.89
       }
     ]
   }
