@@ -4781,5 +4781,23 @@
         "portfolioValue": 2554.43
       }
     ]
+  },
+  {
+    "date": "2026-09-13",
+    "marketOverview": "Krypto seitwaerts bis leicht positiv (SOL ~102,6 USD, XRP ~1,36 USD) ohne klaren neuen Katalysator; Bitcoin bewegt sich um die 77.000-80.000-USD-Marke. Fed-Zinserhoehungswahrscheinlichkeit fuer die FOMC-Sitzung am 15.-16.09. bleibt je nach Datenquelle uneinheitlich erhoeht (rund 50-87%), der Senat stimmt am 15.09. ueber den CLARITY Act ab (Ausgang unsicher, 60 Stimmen noetig). Aktien, ETFs und Rohstoffe sind wochenendbedingt nicht handelbar.",
+    "decision": "Keine Trades. Tagesbudget (1.000 EUR) gutgeschrieben, XRP- und SOL-Kurse aktualisiert. Kein ueberzeugender Kryptokatalysator, Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten (Wochenende).",
+    "reasoning": "Die naechtlichen/wochenendlichen Kursbewegungen bei XRP und SOL sind gering und ohne bestaetigten fundamentalen Ausloeser (gemischte, teils widerspruechliche Berichte zu FOMC-Odds und CLARITY-Act-Fortschritt). Passend zum spekulativen Profil wird auf einen klaren, mehrfach bestaetigten Katalysator gewartet, statt auf Basis unsicherer Signale zu handeln. Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten ohnehin nicht handelbar.",
+    "positionIds": [
+      "pos-0011",
+      "pos-0012"
+    ],
+    "portfolioValueEnd": 2555.22,
+    "updates": [
+      {
+        "time": "00:09",
+        "note": "Keine Aenderung, Tagesbudget +1000 EUR gutgeschrieben, XRP/SOL-Kurse aktualisiert; Wochenende - Aktien/ETFs/Rohstoffe nicht handelbar, kein ueberzeugender Kryptokatalysator vor FOMC (15.-16.09.) und CLARITY-Act-Senatsabstimmung (15.09.)",
+        "portfolioValue": 2555.22
+      }
+    ]
   }
 ]
