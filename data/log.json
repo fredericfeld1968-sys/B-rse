@@ -4649,16 +4649,16 @@
   },
   {
     "date": "2026-09-12",
-    "marketOverview": "US-Boersen bleiben bis Montag geschlossen (Wochenende). Kryptomarkt tendiert vor der FOMC-Sitzung am 15./16.09. leicht schwaecher: Bitcoin ca. 77.200-79.250 USD (uneinheitliche Quellen, Tendenz leicht positiv 24h), Solana gibt die psychologische 100-USD-Marke kurzzeitig auf (aktuell ca. 99,8-100,5 USD), XRP seitwaerts bei ca. 1,34-1,35 USD. Gesamter Kryptomarkt -1,7% in 24h (Marktkap. 2,71 Bio. USD). CME FedWatch sieht die Wahrscheinlichkeit einer Fed-Zinserhoehung am 16.09. weiterhin bei ca. 60-66%. Neue, aber noch nicht kursrelevante Entwicklungen: SEC-Aenderung bei Nasdaq-Rule 5711(d) erkennt BTC/ETH/SOL/XRP explizit als commodity-based-trust-faehig an; ueberarbeiteter Clarity Act vor Verfahrensabstimmung am 15.09.; Bitcoin-ETFs mit staerkstem Tagesabfluss seit Juli (-282,6 Mio. USD am 10.09.). Kein akuter, kursbewegender Katalysator seit dem letzten Lauf.",
-    "decision": "Lauf 07:08: Kein Trade. Tagesbudget bereits im 00:08-Lauf gutgeschrieben (keine erneute Gutschrift). SOL-Kurs auf ca. 100,50 USD aktualisiert (-1,82% seit Kauf, Verlust der 100-USD-Marke); XRP leicht auf 1,35 USD aktualisiert (-1,46% seit Kauf). NVDA und META unveraendert (Wochenende, nicht handelbar). Keine Position nahe der etablierten Ziel- (7-9%) oder Stop-Schwelle (~-6%). Kein Neukauf, da kein neuer, mehrfach bestaetigter Katalysator vorliegt (SEC-Regelaenderung und Clarity-Act-Abstimmung sind bereits bekannt/eingepreist, ETF-Abfluss ist kein klares Kaufsignal); freies Kapital wird vorgehalten.",
-    "reasoning": "Wochenende, daher sind nur Kryptowerte handelbar. Recherche zu BTC, SOL und XRP zeigt keinen frischen, mehrfach unabhaengig bestaetigten Kurskatalysator - lediglich bereits bekannte, noch nicht wirksame regulatorische Entwicklungen (SEC-Rule-Aenderung, Clarity-Act-Verfahrensabstimmung erst am 15.09.). Alle offenen Positionen bleiben innerhalb der ueblichen Schwankungsbreite, keine Zielschwelle wird erreicht.",
+    "marketOverview": "US-Boersen bleiben bis Montag geschlossen (Wochenende). Kryptomarkt tendiert vor der FOMC-Sitzung am 15./16.09. weiter leicht schwaecher: Bitcoin ca. 77.237 USD, Solana faellt unter die 100-USD-Marke auf 99,39 USD, XRP seitwaerts/leicht schwaecher bei 1,34 USD (-0,9% 24h). FOMC-Erwartungen bleiben gespalten: CME FedWatch sieht die Wahrscheinlichkeit einer Zinserhoehung am 16.09. bei ca. 58%, nachdem staerkere US-Arbeitsmarktdaten (162.000 neue Stellen im August) und hohe Energiepreise die restriktiven Erwartungen wieder angeheizt haben; Fed-Gouverneur Waller hatte zuvor fuer eine Zinspause plaediert. Spot-Bitcoin-ETFs verzeichneten in der Vorwoche dennoch rund 987 Mio. USD Nettozuflüsse. Kein neuer, kursbewegender Katalysator seit dem letzten Lauf (07:08).",
+    "decision": "Lauf 08:08: Kein Trade. Tagesbudget bereits im 00:08-Lauf gutgeschrieben (keine erneute Gutschrift). XRP- und SOL-Kurse aktualisiert (XRP 1,34 USD/-2,19%, SOL 99,39 USD/-2,90% seit Kauf); NVDA und META unveraendert (Wochenende, nicht handelbar). Keine Position nahe der etablierten Ziel- (7-9%) oder Stop-Schwelle (~-6%). Kein Neukauf, da weiterhin kein frischer, mehrfach bestaetigter Katalysator vorliegt - lediglich bereits bekannte, gemischte FOMC-Zinserwartungen; freies Kapital wird vorgehalten.",
+    "reasoning": "Wochenende, daher sind nur Kryptowerte handelbar. Recherche zu BTC, SOL und XRP zeigt keinen neuen, unabhaengig bestaetigten Kurskatalysator gegenueber dem 07:08-Lauf - lediglich fortgesetzte Unsicherheit rund um die FOMC-Sitzung am 15./16.09. (Zinserhoehungswahrscheinlichkeit ca. 58%, gemischte Signale zwischen starken Arbeitsmarktdaten und Waller-Kommentaren fuer eine Pause). Alle offenen Positionen bleiben innerhalb der ueblichen Schwankungsbreite, keine Zielschwelle wird erreicht.",
     "positionIds": [
       "pos-0010",
       "pos-0014",
       "pos-0011",
       "pos-0012"
     ],
-    "portfolioValueEnd": 2540.58,
+    "portfolioValueEnd": 2531.52,
     "updates": [
       {
         "time": "00:08",
@@ -4699,6 +4699,11 @@
         "time": "07:08",
         "note": "Keine Aenderung, XRP/SOL-Kurse aktualisiert (SOL unter 100 USD); kein neuer Katalysator vor FOMC",
         "portfolioValue": 2540.58
+      },
+      {
+        "time": "08:08",
+        "note": "Keine Aenderung, XRP/SOL-Kurse aktualisiert (SOL unter 99,5 USD, FOMC-Unsicherheit haelt an); kein neuer Katalysator",
+        "portfolioValue": 2531.52
       }
     ]
   }
