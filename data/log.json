@@ -4649,8 +4649,8 @@
   },
   {
     "date": "2026-09-12",
-    "marketOverview": "Wochenende, Boersen geschlossen. Kryptomarkt gemischt: Bitcoin ca. 77.300 USD (+0,4% 24h) seitwaerts, Ethereum mit +2,3% staerkster Mover (getrieben von 216 Mio. USD ETF-Zufluss und Short-Eindeckungen), Solana ca. 99,39 USD (+0,9%), XRP ca. 1,34 USD (-0,9%, ETF-Zuflüsse bei Null). Fear&Greed-Index 71-74 (Greed). SEC/Nasdaq-Regelaenderung erkennt BTC/ETH/SOL/XRP als Commodity-Trust-faehig an (positiv, aber nur inkrementell). Die eigentlichen Katalysatoren (Clarity-Act-Verfahrensabstimmung 15.09., FOMC-Entscheid 16.09.) stehen noch bevor; Zinserwartungen bleiben je nach Quelle uneinheitlich (Cut-Wahrscheinlichkeit ca. 87% laut einigen Daten, JPMorgan sieht wegen Iran-bedingter Energiekosten auch Hike-Risiko bis 66%).",
-    "decision": "Lauf 16:08: Kein Trade. Tagesbudget bereits heute gutgeschrieben (keine erneute Gutschrift). XRP (1,34 USD/-2,19% seit Kauf) und SOL (99,39 USD/-2,90% seit Kauf) aktualisiert; NVDA und META unveraendert (Wochenende, nicht handelbar). Keine Position nahe der etablierten Ziel- (7-9%) oder Stop-Schwelle (~-6%). Kein Neukauf: ETH-Move (+2,3%) ist der einzige nennenswerte Ausschlag, beruht aber auf einem einzelnen ETF-Zuflusstag plus Short-Squeeze statt bestaetigtem Ausbruch; kein unabhaengig bestaetigter, ueberzeugender Katalysator. Freies Kapital (ca. 36.361 EUR) wird vorgehalten bis Klarheit nach Clarity-Act-Abstimmung (15.09.) und FOMC (16.09.). | Lauf 17:09: Weiterhin kein Trade. Fed-Zinserhoehungswahrscheinlichkeit fuer FOMC (15.-16.09.) laut Polymarket auf 83% gestiegen (deutlich hoeherer Konsens als zuvor) - macht Kryptomarkt kurzfristig eher risikoscheu, ist aber kein Kaufkatalysator. XRP (1,37 USD) wieder auf Kaufniveau (P/L ca. 0%), SOL (102,18 USD) leicht schwaecher (-0,18%). Keine Position nahe Ziel- oder Stop-Schwelle. NVDA/META unveraendert (Wochenende).",
+    "marketOverview": "Wochenende, Boersen weiterhin geschlossen. Kryptomarkt leicht risikofreudig: Bitcoin ca. 77.300 USD (+0,3% 24h), Ethereum staerkster Mover (+3%, ETF-Zufluesse), Solana auf ca. 103,20 USD erholt (+2% 24h), XRP stabil bei 1,37-1,39 USD (+3% 24h laut mehreren Quellen). Globale Krypto-Marktkapitalisierung ca. 2,74 Billionen USD (+1%). Haupttreiber bleiben makroökonomische Erwartungen vor dem FOMC-Entscheid (16.09.) - Fed-Zinserhoehungswahrscheinlichkeit je nach Quelle 57-87% - sowie die anstehende CLARITY-Act-Abstimmung (15.09.). Kein neuer, eigenstaendiger Kaufkatalysator erkennbar.",
+    "decision": "Lauf 16:08: Kein Trade. Tagesbudget bereits heute gutgeschrieben (keine erneute Gutschrift). XRP (1,34 USD/-2,19% seit Kauf) und SOL (99,39 USD/-2,90% seit Kauf) aktualisiert; NVDA und META unveraendert (Wochenende, nicht handelbar). Keine Position nahe der etablierten Ziel- (7-9%) oder Stop-Schwelle (~-6%). Kein Neukauf: ETH-Move (+2,3%) ist der einzige nennenswerte Ausschlag, beruht aber auf einem einzelnen ETF-Zuflusstag plus Short-Squeeze statt bestaetigtem Ausbruch; kein unabhaengig bestaetigter, ueberzeugender Katalysator. Freies Kapital (ca. 36.361 EUR) wird vorgehalten bis Klarheit nach Clarity-Act-Abstimmung (15.09.) und FOMC (16.09.). | Lauf 17:09: Weiterhin kein Trade. Fed-Zinserhoehungswahrscheinlichkeit fuer FOMC (15.-16.09.) laut Polymarket auf 83% gestiegen (deutlich hoeherer Konsens als zuvor) - macht Kryptomarkt kurzfristig eher risikoscheu, ist aber kein Kaufkatalysator. XRP (1,37 USD) wieder auf Kaufniveau (P/L ca. 0%), SOL (102,18 USD) leicht schwaecher (-0,18%). Keine Position nahe Ziel- oder Stop-Schwelle. NVDA/META unveraendert (Wochenende). | Lauf 18:08: Weiterhin kein Trade. SOL leicht erholt auf ca. 103,20 USD (+0,82% seit Kauf), XRP stabil bei 1,37 USD. Kein neuer, unabhaengig bestaetigter Katalysator seit dem letzten Lauf; ETH-Staerke (+3%) bleibt Einzelphaenomen ohne Uebertragung auf BTC/SOL/XRP. Keine Position nahe Ziel- oder Stop-Schwelle. NVDA/META unveraendert (Wochenende).",
     "reasoning": "Wochenende, daher nur Krypto handelbar. Recherche zu BTC/ETH/SOL/XRP zeigt gemischtes Bild: BTC flach, ETH als einziger echter Ausschlag (+2,3%, ETF-Zufluss + Short-Liquidationen, kein organisches Muster), SOL leicht positiv (+0,9% 24h, aber seit Kauf -2,9%), XRP leicht negativ bei fehlenden institutionellen ETF-Zufluessen. Kein spezifischer, unabhaengig bestaetigter Einzelkatalysator, der einen spekulativen Neukauf rechtfertigen wuerde; die naechsten echten Entscheidungspunkte (Clarity Act 15.09., FOMC 16.09.) liegen noch 3-4 Tage voraus. Keine offene Position erreicht Ziel- oder Stop-Schwelle. Update 17:09: US-CPI (3,4% YoY) bereits eingepreist; neue Entwicklung ist die gestiegene Fed-Hike-Wahrscheinlichkeit (83% laut Polymarket) vor dem FOMC-Entscheid am 16.09., was fuer Krypto tendenziell belastend ist. Kein eigenstaendiger, unabhaengig bestaetigter Kaufkatalysator vorhanden, daher weiterhin kein Neukauf; bestehende Positionen bleiben unveraendert im Rahmen der Zielspannen.",
     "positionIds": [
       "pos-0010",
@@ -4658,7 +4658,7 @@
       "pos-0011",
       "pos-0012"
     ],
-    "portfolioValueEnd": 2556.09,
+    "portfolioValueEnd": 2561.07,
     "updates": [
       {
         "time": "00:08",
@@ -4749,6 +4749,11 @@
         "time": "17:09",
         "note": "Keine Aenderung, XRP/SOL-Kurse aktualisiert (Fed-Hike-Wahrscheinlichkeit auf 83% gestiegen); kein neuer Katalysator",
         "portfolioValue": 2556.09
+      },
+      {
+        "time": "18:08",
+        "note": "Keine Aenderung, SOL-Kurs aktualisiert (leicht staerker, ~103,20 USD); ETH bleibt staerkster Mover (+3%), aber kein bestaetigter Einzelkatalysator seit 17:09; Fed-Hike-Odds weiterhin erhoeht (57-87% je nach Quelle) vor FOMC 16.09.",
+        "portfolioValue": 2561.07
       }
     ]
   }
