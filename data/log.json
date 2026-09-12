@@ -4649,16 +4649,16 @@
   },
   {
     "date": "2026-09-12",
-    "marketOverview": "US-Boersen bleiben bis Montag geschlossen (Wochenende). Kryptomarkt seitwaerts: Bitcoin konsolidiert bei ca. 77.300-80.000 USD, Solana bei 101,63 USD (+1,6% 24h), XRP bei 1,34 USD (-0,9% 24h). Die FOMC-Zinserhoehungswahrscheinlichkeit fuer die Sitzung am 16.09. wird von verschiedenen Quellen uneinheitlich zwischen 49% (Polymarket) und 68% (CME FedWatch, Tageshoch) beziffert - kein klarer neuer Schock, sondern weiter volatile, sich range-bewegende Erwartungen. SEC erkennt BTC, ETH, SOL und XRP offiziell als Commodity-Assets unter der Nasdaq-Regel 5711(d) an; Ether-ETFs verzeichnen mit +216 Mio. USD den staerksten Tageszufluss des Monats.",
-    "decision": "Lauf 12:08: Kein Trade. Tagesbudget bereits im 00:08-Lauf gutgeschrieben (keine erneute Gutschrift). XRP (1,34 USD/-2,19% seit Kauf) und SOL (101,63 USD/-0,71% seit Kauf) leicht aktualisiert; NVDA und META unveraendert (Wochenende, nicht handelbar). Keine Position nahe der etablierten Ziel- (7-9%) oder Stop-Schwelle (~-6%). Kein Neukauf: FOMC-Wahrscheinlichkeiten schwanken je nach Quelle (49-68%) ohne klaren neuen Trend, die SEC-Nasdaq-Regeleinstufung ist regulatorisches Hintergrundrauschen ohne unmittelbaren Kursimpuls; freies Kapital wird vorgehalten.",
-    "reasoning": "Wochenende, daher sind nur Kryptowerte handelbar. Recherche zu BTC, SOL und XRP zeigt gegenueber dem 11:07-Lauf keine neue, unabhaengig bestaetigte Kursbewegung - lediglich Seitwaertsbewegung im ueblichen Rahmen. Die FOMC-Zinserwartungen werden von verschiedenen Quellen (CME FedWatch, Kalshi, Polymarket) uneinheitlich zwischen 49% und 68% beziffert, was eher auf Unsicherheit als auf einen klaren Trend hindeutet - kein Handelsanlass. Alle offenen Positionen bleiben innerhalb der ueblichen Schwankungsbreite, keine Zielschwelle wird erreicht.",
+    "marketOverview": "US-Boersen bleiben bis Montag geschlossen (Wochenende). Kryptomarkt weiter seitwaerts: Bitcoin um ca. 77.000-82.000 USD je nach Quelle, Solana bei ca. 101,6-104 USD, XRP bei ca. 1,35-1,37 USD. US-August-CPI traf mit 3,4% die Erwartungen; die FOMC-Zinserhoehungswahrscheinlichkeit fuer die Sitzung am 15./16.09. wird weiterhin uneinheitlich zwischen 59% (Kalshi) und 87% (andere Quellen) beziffert - kein klarer neuer Schock. Spot-Bitcoin-ETFs verzeichneten in der Vorwoche rund 987 Mio. USD Nettozufluesse, Ether-ETFs bleiben ebenfalls gefragt.",
+    "decision": "Lauf 13:08: Kein Trade. Tagesbudget bereits im 00:08-Lauf gutgeschrieben (keine erneute Gutschrift). XRP (1,35 USD/-1,46% seit Kauf) und SOL (102,50 USD/+0,14% seit Kauf) leicht aktualisiert; NVDA und META unveraendert (Wochenende, nicht handelbar). Keine Position nahe der etablierten Ziel- (7-9%) oder Stop-Schwelle (~-6%). Kein Neukauf: CPI-Daten trafen Erwartungen, FOMC-Wahrscheinlichkeiten bleiben quellenabhaengig uneinheitlich (59-87%) ohne klaren neuen Trend - kein ueberzeugender Handelsanlass; freies Kapital (ca. 36.361 EUR) wird vorgehalten.",
+    "reasoning": "Wochenende, daher sind nur Kryptowerte handelbar. Recherche zu BTC, SOL und XRP zeigt gegenueber dem 12:08-Lauf keine neue, unabhaengig bestaetigte Kursbewegung - weiterhin Seitwaertskonsolidierung. US-CPI fuer August kam wie erwartet bei 3,4% herein, was kurzzeitig Volatilitaet ausloeste, sich aber schnell wieder beruhigte; die FOMC-Zinserwartungen streuen je nach Quelle weiterhin stark (59-87%), was eher auf Unsicherheit als auf einen klaren Trend hindeutet. Keine offene Position erreicht die etablierte Ziel- oder Stop-Schwelle, daher keine Verkaeufe. Kein neuer, eigenstaendig ueberzeugender Katalysator fuer einen Neukauf identifiziert.",
     "positionIds": [
       "pos-0010",
       "pos-0014",
       "pos-0011",
       "pos-0012"
     ],
-    "portfolioValueEnd": 2542.45,
+    "portfolioValueEnd": 2550.35,
     "updates": [
       {
         "time": "00:08",
@@ -4724,6 +4724,11 @@
         "time": "12:08",
         "note": "Keine Aenderung, XRP/SOL-Kurse aktualisiert (leicht schwaecher); FOMC-Wahrscheinlichkeit je nach Quelle uneinheitlich (49-68%), kein neuer Katalysator",
         "portfolioValue": 2542.45
+      },
+      {
+        "time": "13:08",
+        "note": "Keine Aenderung, XRP/SOL-Kurse aktualisiert; CPI traf Erwartungen, FOMC-Wahrscheinlichkeit weiter uneinheitlich (59-87%), kein neuer Katalysator",
+        "portfolioValue": 2550.35
       }
     ]
   }
