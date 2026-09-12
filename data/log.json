@@ -4649,16 +4649,16 @@
   },
   {
     "date": "2026-09-12",
-    "marketOverview": "US-Boersen bleiben bis Montag geschlossen (Wochenende). Kryptomarkt bewegt sich am Vormittag seitwaerts vor der FOMC-Sitzung am 15./16.09.: Bitcoin pendelt um 77.200-77.500 USD nach einem am Freitag gescheiterten Ausbruchsversuch Richtung 79.500 USD, Solana notiert um 101-102 USD (leicht schwaecher, Spanne 99-105 USD je Boerse), XRP bei rund 1,35 USD (uneinheitlich, 1,34-1,36 USD je Boerse). Die Zinserhoehungswahrscheinlichkeit fuer die Sitzung am 16.09. ist laut CME FedWatch weiter auf rund 60-68% gestiegen (Anstieg von ca. 44% Ende August), getrieben von hartnaeckiger Inflation (PCE 3,7%) und der Warsh-Rede; Spot-Bitcoin-ETFs verzeichneten dennoch rund 987 Mio. USD Wochenzufluesse. Kein neuer, eigenstaendiger Kursimpuls seit dem letzten Lauf (09:09).",
-    "decision": "Lauf 10:08: Kein Trade. Tagesbudget bereits im 00:08-Lauf gutgeschrieben (keine erneute Gutschrift). XRP- und SOL-Kurse aktualisiert (XRP 1,35 USD/-1,46% seit Kauf, SOL 102,21 USD/-0,15% seit Kauf); NVDA und META unveraendert (Wochenende, nicht handelbar). Keine Position nahe der etablierten Ziel- (7-9%) oder Stop-Schwelle (~-6%). Kein Neukauf: die gestiegene Zinserhoehungswahrscheinlichkeit (60-68%) ist bereits seit mehreren Laeufen bekannt und kein neuer, unabhaengig bestaetigter Katalysator; freies Kapital (~36.360 EUR) wird vorgehalten.",
-    "reasoning": "Wochenende, daher sind nur Kryptowerte handelbar. Recherche zu BTC, SOL und XRP zeigt keinen neuen, unabhaengig bestaetigten Kurskatalysator gegenueber dem 09:09-Lauf - lediglich eine leichte, uneinheitliche Seitwaertsbewegung nach dem gescheiterten BTC-Ausbruchsversuch vom Freitag. Die weiter steigende FOMC-Zinserhoehungswahrscheinlichkeit ist bereits bekannt und preist sich schrittweise ein, kein abrupter neuer Schock. Alle offenen Positionen bleiben innerhalb der ueblichen Schwankungsbreite, keine Zielschwelle wird erreicht.",
+    "marketOverview": "US-Boersen bleiben bis Montag geschlossen (Wochenende). Kryptomarkt bewegt sich seitwaerts: Bitcoin bei rund 77.000-77.500 USD, Solana bei ca. 101,5 USD (leicht schwaecher), XRP stabil bei rund 1,35 USD. Die Zinserhoehungswahrscheinlichkeit fuer die FOMC-Sitzung am 15./16.09. liegt laut mehreren Quellen inzwischen bei 85-87% (deutlich gestiegen von ca. 48% Anfang August), getrieben von hartnaeckiger August-Inflation und starken Arbeitsmarktdaten (+162.000 Stellen). Kein neuer, eigenstaendiger Kursimpuls seit dem letzten Lauf (10:08).",
+    "decision": "Lauf 11:07: Kein Trade. Tagesbudget bereits im 00:08-Lauf gutgeschrieben (keine erneute Gutschrift). SOL-Kurs leicht aktualisiert (101,57 USD/-0,77% seit Kauf); XRP (1,35 USD/-1,46%), NVDA und META unveraendert (Wochenende, nicht handelbar). Keine Position nahe der etablierten Ziel- (7-9%) oder Stop-Schwelle (~-6%). Kein Neukauf: die weiter gestiegene Zinserhoehungswahrscheinlichkeit (85-87%) ist ein bekannter, sich schrittweise einpreisender Trend und kein abrupter, unabhaengig bestaetigter neuer Katalysator fuer eine Krypto-Position; freies Kapital wird vorgehalten.",
+    "reasoning": "Wochenende, daher sind nur Kryptowerte handelbar. Recherche zu BTC, SOL und XRP zeigt keine neue, unabhaengig bestaetigte Kursbewegung gegenueber dem 10:08-Lauf - lediglich leichte Seitwaertsbewegung. Die Fed-Zinserhoehungswahrscheinlichkeit ist zwar auf 85-87% gestiegen, dieser Trend ist jedoch bereits seit Tagen bekannt und preist sich schrittweise ein, kein abrupter Schock, der eine Handelsreaktion rechtfertigt. Alle offenen Positionen bleiben innerhalb der ueblichen Schwankungsbreite, keine Zielschwelle wird erreicht.",
     "positionIds": [
       "pos-0010",
       "pos-0014",
       "pos-0011",
       "pos-0012"
     ],
-    "portfolioValueEnd": 2548.94,
+    "portfolioValueEnd": 2545.81,
     "updates": [
       {
         "time": "00:08",
@@ -4714,6 +4714,11 @@
         "time": "10:08",
         "note": "Keine Aenderung, XRP/SOL-Kurse aktualisiert (leicht schwaecher); kein neuer Katalysator, Zinserhoehungswahrscheinlichkeit steigt weiter vor FOMC",
         "portfolioValue": 2548.94
+      },
+      {
+        "time": "11:07",
+        "note": "Keine Aenderung, SOL-Kurs aktualisiert (101,57 USD); Fed-Zinserhoehungswahrscheinlichkeit bei 85-87% vor FOMC, kein neuer Katalysator",
+        "portfolioValue": 2545.81
       }
     ]
   }
