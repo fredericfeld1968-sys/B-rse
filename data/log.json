@@ -4649,16 +4649,16 @@
   },
   {
     "date": "2026-09-12",
-    "marketOverview": "US-Boersen bleiben bis Montag geschlossen (Wochenende). Der Kryptomarkt zeigt sich stabil bis leicht uneinheitlich ohne neuen Katalysator: Bitcoin haelt sich um ca. 77.800 USD nach dem in etwa erwarteten CPI-Bericht, XRP notiert bei ca. 1,34 USD (-0,9% 24h), Solana pendelt um ca. 102 USD. Im Fokus bleibt die FOMC-Sitzung am 15./16.09.: die Wahrscheinlichkeit einer Zinserhoehung ist zuletzt auf rund 68% gestiegen (Reuters/CME FedWatch), was als leichter Gegenwind fuer Risikoanlagen gilt.",
-    "decision": "Lauf 01:08: Kein Trade. Tagesbudget wurde bereits im 00:08-Lauf gutgeschrieben (keine erneute Gutschrift). SOL-Kurs auf 102,18 USD aktualisiert (nahezu unveraendert, -0,18% seit Kauf). NVDA und META unveraendert, da US-Boersen am Wochenende geschlossen sind. Keine Position nahe der etablierten Ziel- (7-9%) oder Stop-Schwelle (~-6%). Kein Neukauf, da ausser gestiegenen Fed-Zinserhoehungserwartungen (68%) kein neuer, mehrfach bestaetigter Katalysator vorliegt; freies Kapital (ca. 36.360,66 EUR) wird vorgehalten.",
-    "reasoning": "Da es Wochenende ist, sind nur Kryptowerte handelbar. Die Recherche ergab keine ueberzeugende neue Gelegenheit: BTC/XRP/SOL bewegen sich seitwaerts, der einzige relevante Marktimpuls (steigende Fed-Zinserhoehungswahrscheinlichkeit vor der FOMC-Sitzung am 15./16.09.) ist eher ein Risiko- als ein Kaufsignal. Bestehende offene Positionen bleiben alle innerhalb der ueblichen Schwankungsbreite.",
+    "marketOverview": "US-Boersen bleiben bis Montag geschlossen (Wochenende). Der Kryptomarkt zeigt sich leicht risikoscheu vor der FOMC-Sitzung am 15./16.09.: Bitcoin bei ca. 77.100-77.800 USD, Ethereum um 2.469-2.500 USD, XRP unveraendert bei ca. 1,34 USD (-0,9% 24h), Solana leicht schwaecher bei ca. 100,99 USD (vorher 102,18 USD). Die Wahrscheinlichkeit einer Fed-Zinserhoehung ist laut CME FedWatch/Reuters weiter auf rund 68-70% gestiegen (hoehere PPI-Daten, robuste Arbeitsmarktzahlen), was leichten Gegenwind fuer Risikoanlagen bedeutet.",
+    "decision": "Lauf 02:08: Kein Trade. Tagesbudget wurde bereits im 00:08-Lauf gutgeschrieben (keine erneute Gutschrift). SOL-Kurs auf 100,99 USD aktualisiert (-1,34% seit Kauf, weiterhin deutlich innerhalb der ueblichen Schwankungsbreite). XRP, NVDA und META unveraendert. Keine Position nahe der etablierten Ziel- (7-9%) oder Stop-Schwelle (~-6%). Kein Neukauf, da weiterhin kein neuer, mehrfach bestaetigter Katalysator vorliegt und steigende Fed-Zinserhoehungserwartungen (68-70%) eher ein Risiko- als ein Kaufsignal sind; freies Kapital (ca. 36.360,66 EUR) wird vorgehalten.",
+    "reasoning": "Wochenende, daher sind nur Kryptowerte handelbar. Die Recherche bestaetigt das Bild des 01:08-Laufs: seitwaertsgerichteter, leicht risikoscheuer Kryptomarkt vor der FOMC-Sitzung, kein ueberzeugender neuer Trigger fuer Kauf oder Verkauf. Bestehende offene Positionen bleiben alle innerhalb der ueblichen Schwankungsbreite, keine Schwelle wird erreicht.",
     "positionIds": [
       "pos-0010",
       "pos-0014",
       "pos-0011",
       "pos-0012"
     ],
-    "portfolioValueEnd": 2545.14,
+    "portfolioValueEnd": 2539.33,
     "updates": [
       {
         "time": "00:08",
@@ -4669,6 +4669,11 @@
         "time": "01:08",
         "note": "Keine Aenderung, SOL-Kurs aktualisiert; kein neuer Katalysator (Fed-Zinserhoehungserwartung 68% vor FOMC)",
         "portfolioValue": 2545.14
+      },
+      {
+        "time": "02:08",
+        "note": "Keine Aenderung, SOL-Kurs aktualisiert (100,99 USD); kein neuer Katalysator vor FOMC-Sitzung",
+        "portfolioValue": 2539.33
       }
     ]
   }
