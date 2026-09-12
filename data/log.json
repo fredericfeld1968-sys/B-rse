@@ -4649,16 +4649,16 @@
   },
   {
     "date": "2026-09-12",
-    "marketOverview": "US-Boersen bleiben bis Montag geschlossen (Wochenende). Kryptomarkt weiter seitwaerts: Bitcoin um ca. 77.000-82.000 USD je nach Quelle, Solana bei ca. 101,6-104 USD, XRP bei ca. 1,35-1,37 USD. US-August-CPI traf mit 3,4% die Erwartungen; die FOMC-Zinserhoehungswahrscheinlichkeit fuer die Sitzung am 15./16.09. wird weiterhin uneinheitlich zwischen 59% (Kalshi) und 87% (andere Quellen) beziffert - kein klarer neuer Schock. Spot-Bitcoin-ETFs verzeichneten in der Vorwoche rund 987 Mio. USD Nettozufluesse, Ether-ETFs bleiben ebenfalls gefragt.",
-    "decision": "Lauf 13:08: Kein Trade. Tagesbudget bereits im 00:08-Lauf gutgeschrieben (keine erneute Gutschrift). XRP (1,35 USD/-1,46% seit Kauf) und SOL (102,50 USD/+0,14% seit Kauf) leicht aktualisiert; NVDA und META unveraendert (Wochenende, nicht handelbar). Keine Position nahe der etablierten Ziel- (7-9%) oder Stop-Schwelle (~-6%). Kein Neukauf: CPI-Daten trafen Erwartungen, FOMC-Wahrscheinlichkeiten bleiben quellenabhaengig uneinheitlich (59-87%) ohne klaren neuen Trend - kein ueberzeugender Handelsanlass; freies Kapital (ca. 36.361 EUR) wird vorgehalten.",
-    "reasoning": "Wochenende, daher sind nur Kryptowerte handelbar. Recherche zu BTC, SOL und XRP zeigt gegenueber dem 12:08-Lauf keine neue, unabhaengig bestaetigte Kursbewegung - weiterhin Seitwaertskonsolidierung. US-CPI fuer August kam wie erwartet bei 3,4% herein, was kurzzeitig Volatilitaet ausloeste, sich aber schnell wieder beruhigte; die FOMC-Zinserwartungen streuen je nach Quelle weiterhin stark (59-87%), was eher auf Unsicherheit als auf einen klaren Trend hindeutet. Keine offene Position erreicht die etablierte Ziel- oder Stop-Schwelle, daher keine Verkaeufe. Kein neuer, eigenstaendig ueberzeugender Katalysator fuer einen Neukauf identifiziert.",
+    "marketOverview": "US-Boersen bleiben bis Montag geschlossen (Wochenende). Kryptomarkt weiter seitwaerts: Bitcoin um ca. 77.000-82.000 USD je nach Quelle (CoinGabbar: 77.269 USD, +0,6% 24h), Solana bei ca. 100,99-104,02 USD (Median ca. 101,8), XRP bei ca. 1,34-1,36 USD. Gesamtmarktkapitalisierung ca. 2,73 Bio. USD (+0,8%). US-August-CPI traf mit 3,4% die Erwartungen; die FOMC-Zinserhoehungswahrscheinlichkeit fuer die Sitzung am 15./16.09. bleibt quellenabhaengig uneinheitlich (59-87%) - kein klarer neuer Schock oder Trendwechsel.",
+    "decision": "Lauf 14:08: Kein Trade. Tagesbudget bereits gutgeschrieben (keine erneute Gutschrift). XRP (1,353 USD/-1,24% seit Kauf) und SOL (101,80 USD/-0,55% seit Kauf) leicht aktualisiert; NVDA und META unveraendert (Wochenende, nicht handelbar). Keine Position nahe der etablierten Ziel- (7-9%) oder Stop-Schwelle (~-6%). Kein Neukauf: Kryptomarkt seitwaerts ohne neuen unabhaengig bestaetigten Katalysator, FOMC-Wahrscheinlichkeiten bleiben uneinheitlich - kein ueberzeugender Handelsanlass; freies Kapital (ca. 36.361 EUR) wird vorgehalten.",
+    "reasoning": "Wochenende, daher sind nur Kryptowerte handelbar. Recherche zu BTC, SOL und XRP zeigt gegenueber dem 13:08-Lauf keine neue, unabhaengig bestaetigte Kursbewegung - weiterhin Seitwaertskonsolidierung bei insgesamt leicht positiver Marktstimmung (Gesamtmarktkap. +0,8%). Keine offene Position erreicht die etablierte Ziel- oder Stop-Schwelle, daher keine Verkaeufe. Kein neuer, eigenstaendig ueberzeugender Katalysator fuer einen Neukauf identifiziert.",
     "positionIds": [
       "pos-0010",
       "pos-0014",
       "pos-0011",
       "pos-0012"
     ],
-    "portfolioValueEnd": 2550.35,
+    "portfolioValueEnd": 2548.03,
     "updates": [
       {
         "time": "00:08",
@@ -4729,6 +4729,11 @@
         "time": "13:08",
         "note": "Keine Aenderung, XRP/SOL-Kurse aktualisiert; CPI traf Erwartungen, FOMC-Wahrscheinlichkeit weiter uneinheitlich (59-87%), kein neuer Katalysator",
         "portfolioValue": 2550.35
+      },
+      {
+        "time": "14:08",
+        "note": "Keine Aenderung, XRP/SOL-Kurse aktualisiert; Kryptomarkt seitwaerts mit leicht positiver Gesamtstimmung, kein neuer Katalysator vor FOMC",
+        "portfolioValue": 2548.03
       }
     ]
   }
