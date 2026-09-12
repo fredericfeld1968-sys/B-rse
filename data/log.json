@@ -4649,16 +4649,16 @@
   },
   {
     "date": "2026-09-12",
-    "marketOverview": "US-Boersen bleiben bis Montag geschlossen (Wochenende). Kryptomarkt zeigt leichte Erholung vor der FOMC-Sitzung am 15./16.09.: Bitcoin bei ca. 77.140 USD (+0,4% 24h), XRP bei 1,353 USD (+0,6% 24h), Solana bei 102,04 USD (+2,7% 24h). Die Wahrscheinlichkeit einer Fed-Zinserhoehung liegt laut CME FedWatch weiterhin bei rund 66-70% (Gov. Waller votiert dagegen), PCE-Inflation bei 3,7% treibt die Erwartung. Kein neuer, mehrfach bestaetigter Katalysator fuer eine grosse Bewegung.",
-    "decision": "Lauf 03:08: Kein Trade. Tagesbudget wurde bereits im 00:08-Lauf gutgeschrieben (keine erneute Gutschrift). XRP- und SOL-Kurse aktualisiert (XRP 1,353 USD, -1,24% seit Kauf; SOL 102,04 USD, -0,31% seit Kauf, leichte Erholung). NVDA und META unveraendert (Wochenende, nicht handelbar). Keine Position nahe der etablierten Ziel- (7-9%) oder Stop-Schwelle (~-6%). Kein Neukauf, da weiterhin kein neuer, mehrfach bestaetigter Katalysator vorliegt; freies Kapital wird vorgehalten.",
-    "reasoning": "Wochenende, daher sind nur Kryptowerte handelbar. Die Recherche zeigt eine leichte Erholung bei XRP/SOL/BTC gegenueber dem letzten Lauf, aber keinen neuen, unabhaengig bestaetigten Trigger fuer Kauf oder Verkauf. Alle offenen Positionen bleiben innerhalb der ueblichen Schwankungsbreite, keine Zielschwelle wird erreicht.",
+    "marketOverview": "US-Boersen bleiben bis Montag geschlossen (Wochenende). Kryptomarkt bewegt sich seitwaerts vor der FOMC-Sitzung am 15./16.09.: Bitcoin haelt sich unter 82.000 USD, XRP bei ca. 1,35 USD (leicht schwaecher), Solana bei ca. 102-103 USD (uneinheitlich je nach Boerse, tendenziell leicht fester). CME FedWatch sieht die Wahrscheinlichkeit einer Fed-Zinserhoehung am 16.09. weiterhin bei rund 60-66% (PCE-Inflation 3,7%), Polymarket teils bis 72%. Kein neuer, mehrfach bestaetigter Katalysator seit dem letzten Lauf.",
+    "decision": "Lauf 04:08: Kein Trade. Tagesbudget bereits im 00:08-Lauf gutgeschrieben (keine erneute Gutschrift). XRP- und SOL-Kurse aktualisiert (XRP 1,35 USD, -1,46% seit Kauf; SOL 102,50 USD, +0,14% seit Kauf). NVDA und META unveraendert (Wochenende, nicht handelbar). Keine Position nahe der etablierten Ziel- (7-9%) oder Stop-Schwelle (~-6%). Kein Neukauf, da weiterhin kein neuer, mehrfach bestaetigter Katalysator vorliegt; freies Kapital wird vorgehalten.",
+    "reasoning": "Wochenende, daher sind nur Kryptowerte handelbar. Die Recherche zeigt ein weitgehend unveraendertes Bild gegenueber dem letzten Lauf (leichte Gegenbewegungen bei XRP/SOL innerhalb der ueblichen Schwankungsbreite), aber keinen neuen, unabhaengig bestaetigten Trigger fuer Kauf oder Verkauf. Alle offenen Positionen bleiben innerhalb der ueblichen Schwankungsbreite, keine Zielschwelle wird erreicht.",
     "positionIds": [
       "pos-0010",
       "pos-0014",
       "pos-0011",
       "pos-0012"
     ],
-    "portfolioValueEnd": 2549.21,
+    "portfolioValueEnd": 2550.35,
     "updates": [
       {
         "time": "00:08",
@@ -4679,6 +4679,11 @@
         "time": "03:08",
         "note": "Keine Aenderung, XRP/SOL-Kurse aktualisiert (leichte Erholung); kein neuer Katalysator vor FOMC",
         "portfolioValue": 2549.21
+      },
+      {
+        "time": "04:08",
+        "note": "Keine Aenderung, XRP/SOL-Kurse aktualisiert; kein neuer Katalysator vor FOMC",
+        "portfolioValue": 2550.35
       }
     ]
   }
