@@ -4784,14 +4784,14 @@
   },
   {
     "date": "2026-09-13",
-    "marketOverview": "Bitcoin haelt sich am Sonntagvormittag knapp ueber 77.000 USD (aktuell ca. 77.320 USD, -0,4% 24h), nachdem die Wahrscheinlichkeit einer Fed-Zinserhoehung am 16.09. laut aktuellen Berichten auf rund 87% gestiegen ist (restriktiver als zuletzt angenommen). Die CLARITY-Act-Erfolgswahrscheinlichkeit vor der Abstimmung am 15.09. ist im Wochenverlauf von rund 28% auf nur noch 15% gefallen. XRP (1,36 USD, -0,6% 24h) und SOL (102,04 USD, +1% 24h) bleiben gegenueber dem letzten Lauf praktisch unveraendert. Gesamtmarktkapitalisierung ca. 2,75 Billionen USD (+0,2% 24h) - ein wartender, kein bewegter Markt. Aktien, ETFs und Rohstoffe bleiben wochenendbedingt nicht handelbar.",
-    "decision": "Keine Trades. Tagesbudget wurde bereits heute frueh gutgeschrieben (keine erneute Gutschrift). XRP (1,36 USD) und SOL (102,04 USD) gegenueber dem letzten Lauf unveraendert bestaetigt. Steigende Fed-Zinserhoehungswahrscheinlichkeit (87%) und sinkende CLARITY-Act-Erfolgsaussichten (nur noch 15%) sind eindeutig Risikofaktoren, kein Kaufkatalysator. Kein ueberzeugender Kryptokatalysator; Markt wartet weiter auf CLARITY-Act-Votum (15.09.) und FOMC (16.09.).",
-    "reasoning": "Weder bei XRP noch bei SOL hat sich der Kurs seit dem letzten Lauf nennenswert bewegt. Die zunehmend restriktive Zinserwartung (Fed-Hike-Wahrscheinlichkeit jetzt 87%) in Kombination mit den deutlich gesunkenen CLARITY-Act-Erfolgsaussichten (15% statt 28%) spricht eher fuer erhoehtes Rueckschlagsrisiko als fuer eine neue Long-Position. Aktien/ETFs/Rohstoffe sind wochenendbedingt ohnehin nicht handelbar, daher bleibt es bei reinen Kursbestaetigungen ohne Positionsaenderung.",
+    "marketOverview": "Bitcoin haelt sich am Sonntagvormittag bei ca. 77.243 USD, XRP bei 1,36 USD und SOL bei ca. 101,9 USD - alle drei praktisch unveraendert gegenueber dem letzten Lauf. Vor dem CLARITY-Act-Cloture-Votum am 15.09. (Erfolgsaussichten laut Polymarket auf nur noch ca. 15-16% gefallen, von 82% im Februar) und der FOMC-Zinsentscheidung am 16.09. (Basisszenario: 25-Basispunkte-Hike bei ca. 58% Wahrscheinlichkeit) herrscht ein abwartender, range-gebundener Kryptomarkt. Aktien, ETFs und Rohstoffe bleiben wochenendbedingt nicht handelbar.",
+    "decision": "Keine Trades. Tagesbudget wurde bereits heute frueh gutgeschrieben (keine erneute Gutschrift). XRP (1,362 USD) und SOL (101,87 USD) minimal aktualisiert, beide weiterhin im etablierten Seitwaertsbereich. Sowohl die stark gefallenen CLARITY-Act-Erfolgsaussichten (~15%) als auch die unsichere FOMC-Entscheidung sind Risikofaktoren vor den Ereignissen am 15./16.09., kein Kaufkatalysator - daher keine neue Position.",
+    "reasoning": "Weder XRP noch SOL zeigen eine ueberzeugende Bewegung; beide bewegen sich seit Stunden im selben engen Band. Mit zwei bedeutenden, noch unsicheren Ereignissen (CLARITY-Act-Votum, FOMC-Entscheidung) in den naechsten 2-3 Tagen ist das Chance-Risiko-Verhaeltnis fuer eine neue spekulative Kurzfrist-Position aktuell unguenstig. Aktien/ETFs/Rohstoffe sind wochenendbedingt ohnehin nicht handelbar.",
     "positionIds": [
       "pos-0011",
       "pos-0012"
     ],
-    "portfolioValueEnd": 2551.76,
+    "portfolioValueEnd": 2551.66,
     "updates": [
       {
         "time": "00:09",
@@ -4842,6 +4842,11 @@
         "time": "09:08",
         "note": "Keine Aenderung. XRP (1,36 USD) und SOL (102,04 USD) unveraendert; Fed-Hike-Wahrscheinlichkeit auf 87% gestiegen, CLARITY-Act-Erfolgsaussichten auf 15% gesunken - beides Risikofaktoren, kein Kaufkatalysator. Wochenende - Aktien/ETFs/Rohstoffe nicht handelbar.",
         "portfolioValue": 2551.76
+      },
+      {
+        "time": "10:08",
+        "note": "Keine Aenderung. XRP (1,362 USD) und SOL (101,87 USD) minimal aktualisiert; kein neuer Krypto-Katalysator vor CLARITY-Act-Votum (15.09., Erfolgsaussichten nur noch ~15%) und FOMC-Entscheidung (16.09.); Wochenende - Aktien/ETFs/Rohstoffe nicht handelbar.",
+        "portfolioValue": 2551.66
       }
     ]
   }
