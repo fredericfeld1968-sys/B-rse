@@ -4784,14 +4784,14 @@
   },
   {
     "date": "2026-09-13",
-    "marketOverview": "XRP erholt sich deutlich auf rund 1,42 USD (+1,7% 24h laut mehreren Quellen), Solana seitwaerts bei ca. 101,85 USD (-1,3% 24h), Bitcoin um 78-80 USD. Die CLARITY-Act-Cloture-Abstimmung am 15.09. bleibt mit nur noch ca. 19,5% Erfolgswahrscheinlichkeit der zentrale Unsicherheitsfaktor, dicht gefolgt von der FOMC-Zinsentscheidung am 15.-16.09. Aktien, ETFs und Rohstoffe bleiben wochenendbedingt nicht handelbar.",
-    "decision": "Keine Trades. Tagesbudget wurde heute bereits gutgeschrieben (keine erneute Gutschrift). XRP-Position hat sich auf +3,65% erholt, SOL naeherungsweise unveraendert bei -0,50%. Trotz der XRP-Erholung kein klarer neuer Kaufkatalysator und kein Verkaufssignal (Zielspanne 7-9% noch nicht erreicht); angesichts der unmittelbar bevorstehenden binaeren Ereignisse (CLARITY-Act-Votum 15.09., FOMC 15.-16.09.) werden bestehende Positionen gehalten, keine neue Position eroeffnet.",
-    "reasoning": "XRP legte gegenueber dem letzten Lauf spuerbar zu (1,36 -> 1,42 USD), was die Position wieder deutlich ins Plus bringt, jedoch ohne einen konkreten neuen fundamentalen Ausloeser - eher allgemeine Markterholung. Da die Zielspanne fuer Gewinnmitnahmen beim spekulativen Kurzfrist-Profil bei ca. 7-9% liegt, ist +3,65% noch kein Verkaufssignal. SOL bewegt sich weiter seitwaerts ohne neuen Impuls. Mit CLARITY-Act-Cloture-Abstimmung (15.09., Erfolgsaussichten nur noch ~19,5%) und FOMC-Entscheidung (15.-16.09.) unmittelbar bevorstehend waere ein Trade jetzt reine Spekulation auf den Ausgang zweier binaerer Ereignisse ohne belastbaren Vorteil. Aktien/ETFs/Rohstoffe bleiben wochenendbedingt nicht handelbar.",
+    "marketOverview": "XRP pendelt weiter um 1,35-1,36 USD (verschiedene Quellen zeigen 1,34-1,37 USD), Solana seitwaerts bei ca. 101,85 USD (-1,3% 24h). Bitcoin haelt sich bei ca. 77.300 USD (+0,6% 24h), Ethereum bei ca. 2.539 USD (+2,8% 24h). CME FedWatch preist die Fed-Zinserhoehung am 16.09. inzwischen mit 87% Wahrscheinlichkeit ein. Senat hat am 10.09. eine ueberarbeitete 630-seitige CLARITY-Act-Fassung veroeffentlicht vor der Cloture-Abstimmung am 15.09.; Ausgang weiterhin unsicher. Aktien, ETFs und Rohstoffe bleiben wochenendbedingt nicht handelbar.",
+    "decision": "Keine Trades in diesem Lauf. Tagesbudget wurde heute bereits gutgeschrieben (keine erneute Gutschrift). XRP-Kurs hat sich gegenueber dem Vorlauf wieder leicht abgeschwaecht (1,42 -> 1,36 USD, jetzt -0,73% statt zuvor +3,65%), SOL unveraendert bei -0,50%. Kein neuer Kauf- oder Verkaufskatalysator; angesichts der unmittelbar bevorstehenden binaeren Ereignisse (CLARITY-Act-Cloture-Votum 15.09., FOMC-Entscheidung 15.-16.09., Fed-Hike-Wahrscheinlichkeit bei 87%) werden bestehende Positionen gehalten, keine neue Position eroeffnet.",
+    "reasoning": "XRP-Kurs ist je nach Quelle uneinheitlich (1,34-1,37 USD), im Mittel niedriger als beim letzten Lauf (1,42 USD) - Position wieder leicht im Minus (-0,73%), aber weit von jeder Stop-Loss-Schwelle entfernt. SOL bewegt sich weiter seitwaerts ohne neuen Impuls (-0,50%). Kein neuer fundamentaler Krypto-Katalysator seit dem letzten Lauf; die bekannten Risikofaktoren (Fed-Hike-Wahrscheinlichkeit 87%, CLARITY-Act-Cloture-Abstimmung mit unsicherem Ausgang am 15.09.) sind bereits eingepreist und rechtfertigen keine neue spekulative Position. Aktien/ETFs/Rohstoffe bleiben wochenendbedingt nicht handelbar. Passend zur Linie der bisherigen Laeufe heute (durchgehend 'keine Aenderung') wird auch in diesem Lauf nicht gehandelt.",
     "positionIds": [
       "pos-0011",
       "pos-0012"
     ],
-    "portfolioValueEnd": 2572.73,
+    "portfolioValueEnd": 2550.83,
     "updates": [
       {
         "time": "00:09",
@@ -4877,6 +4877,11 @@
         "time": "16:09",
         "note": "Keine Aenderung. XRP deutlich erholt auf 1,42 USD (+3,65% seit Kauf), SOL leicht schwaecher auf 101,85 USD (-0,50%); kein neuer Handelskatalysator vor CLARITY-Act-Votum (15.09., nur noch ~19,5% Erfolgsaussicht) und FOMC (15.-16.09.); Wochenende - Aktien/ETFs/Rohstoffe nicht handelbar.",
         "portfolioValue": 2572.73
+      },
+      {
+        "time": "17:07",
+        "note": "Keine Aenderung. XRP-Kurs auf 1,36 USD aktualisiert (-0,73%, vorher +3,65%), SOL unveraendert bei 101,85 USD (-0,50%); kein neuer Krypto-Katalysator vor CLARITY-Act-Cloture-Votum (15.09.) und FOMC (15.-16.09., Fed-Hike-Wahrscheinlichkeit 87%); Wochenende - Aktien/ETFs/Rohstoffe nicht handelbar.",
+        "portfolioValue": 2550.83
       }
     ]
   }
