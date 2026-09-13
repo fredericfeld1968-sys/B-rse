@@ -4785,13 +4785,13 @@
   {
     "date": "2026-09-13",
     "marketOverview": "Bitcoin haelt sich bei ca. 77.000-77.300 USD nach dem hoeheren August-CPI, das die Fed-Zinserhoehungs-Wahrscheinlichkeit fuer den 16.09. auf 87% getrieben hat. Solana ist im Tagesverlauf weiter abgeschwaecht auf ca. 100,2 USD (vorher 101,85 USD), XRP unveraendert bei ca. 1,36 USD (-0,6% 24h). Am 15.09. steht die CLARITY-Act-Cloture-Abstimmung im Senat an (630-seitige ueberarbeitete Fassung, Ausgang unsicher), am 15.-16.09. die FOMC-Entscheidung. Aktien, ETFs und Rohstoffe bleiben wochenendbedingt nicht handelbar.",
-    "decision": "Keine Trades in diesem Lauf (18:08). Tagesbudget wurde heute bereits gutgeschrieben (keine erneute Gutschrift). SOL hat sich gegenueber dem letzten Lauf weiter abgeschwaecht (101,85 -> 100,23 USD, jetzt -2,08% statt -0,50%), XRP unveraendert bei -0,73%. Kein neuer Kauf- oder Verkaufskatalysator; angesichts der unmittelbar bevorstehenden binaeren Ereignisse (CLARITY-Act-Cloture-Votum 15.09., FOMC-Entscheidung 15.-16.09., Fed-Hike-Wahrscheinlichkeit 87%) werden bestehende Positionen gehalten, keine neue Position eroeffnet.",
-    "reasoning": "SOL setzt die seitwaertige/leicht schwaechere Tendenz fort und rutscht erstmals im Tagesverlauf klar unter die 101-USD-Marke auf 100,23 USD (-2,08% seit Kauf), bleibt aber weit von jeder Stop-Loss-Schwelle entfernt. XRP bestaetigt unveraendert bei 1,36 USD (-0,73%). Kein neuer fundamentaler Krypto-Katalysator seit dem letzten Lauf; die bekannten Risikofaktoren (Fed-Hike-Wahrscheinlichkeit 87%, CLARITY-Act-Cloture-Abstimmung mit unsicherem Ausgang am 15.09.) sind bereits eingepreist und rechtfertigen keine neue spekulative Position. Aktien/ETFs/Rohstoffe bleiben wochenendbedingt nicht handelbar. Passend zur Linie der bisherigen Laeufe heute (durchgehend keine Aenderung) wird auch in diesem Lauf nicht gehandelt.",
+    "decision": "Keine Trades in diesem Lauf (19:07). Tagesbudget wurde heute bereits gutgeschrieben (keine erneute Gutschrift). SOL und XRP nur minimal veraendert (SOL -2,61%, XRP -1,46%); keine neue Nachricht mit klarem Kauf- oder Verkaufskatalysator seit dem letzten Lauf. Angesichts der unmittelbar bevorstehenden binaeren Ereignisse (CLARITY-Act-Cloture-Votum 15.09., FOMC-Entscheidung 15.-16.09., Fed-Hike-Wahrscheinlichkeit 87%) werden bestehende Positionen gehalten, keine neue Position eroeffnet.",
+    "reasoning": "SOL bewegt sich seitwaerts um die 99,7-100 USD-Marke (-2,61% seit Kauf); trotz eines 7-taegigen ETF-Zufluss-Streaks und eines Netzwerk-Upgrades (Transaction v1) sehen Analysten den Titel bereits nahe ueberkauft (RSI), was gegen ein Nachkaufen spricht, aber auch kein Verkaufssignal fuer die bestehende Position darstellt (kein Stop-Loss erreicht). XRP bestaetigt bei rund 1,35 USD (-1,46%), gestuetzt von einem dritten Tag XRP-Fonds-Zufluessen in Folge, aber ohne neuen Kurskatalysator. Kein neuer fundamentaler Krypto-Katalysator seit dem letzten Lauf um 18:08; die bekannten Risikofaktoren (Fed-Hike-Wahrscheinlichkeit 87%, CLARITY-Act-Cloture-Abstimmung am 15.09. mit stark gesunkenen Erfolgsaussichten) sind bereits eingepreist und rechtfertigen keine neue spekulative Position. Aktien/ETFs/Rohstoffe bleiben wochenendbedingt nicht handelbar. Passend zur durchgehenden Linie des Tages wird auch in diesem Lauf nicht gehandelt.",
     "positionIds": [
       "pos-0011",
       "pos-0012"
     ],
-    "portfolioValueEnd": 2542.92,
+    "portfolioValueEnd": 2536.63,
     "updates": [
       {
         "time": "00:09",
@@ -4887,6 +4887,11 @@
         "time": "18:08",
         "note": "Keine Aenderung. SOL-Kurs auf 100,23 USD abgeschwaecht (-2,08%, vorher -0,50%), XRP unveraendert bei 1,36 USD (-0,73%); kein neuer Krypto-Katalysator vor CLARITY-Act-Cloture-Votum (15.09.) und FOMC (15.-16.09., Fed-Hike-Wahrscheinlichkeit 87%); Wochenende - Aktien/ETFs/Rohstoffe nicht handelbar.",
         "portfolioValue": 2542.92
+      },
+      {
+        "time": "19:07",
+        "note": "Keine Aenderung. SOL leicht auf 99,69 USD abgeschwaecht (-2,61%), XRP auf 1,35 USD (-1,46%); trotz ETF-Zufluessen (7 Tage in Folge) und Netzwerk-Upgrade bei SOL kein ueberzeugender Kaufimpuls, da Position bereits im Minus und RSI laut Analysten nahe ueberkauft; kein Verkaufsdruck. Wochenende - Aktien/ETFs/Rohstoffe nicht handelbar.",
+        "portfolioValue": 2536.63
       }
     ]
   }
