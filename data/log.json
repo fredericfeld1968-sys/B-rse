@@ -4784,9 +4784,9 @@
   },
   {
     "date": "2026-09-13",
-    "marketOverview": "Bitcoin pendelt am Sonntagvormittag zwischen 78.600 und 80.000 USD, nachdem eine hoehere Kerninflation (CPI) die Chancen auf eine restriktivere Fed-Haltung erhoeht und BTC unter 80.000 USD gehalten hat; Ethereum bei ca. 2.500 USD. XRP (1,36 USD) und SOL (102,04 USD) bleiben gegenueber den letzten Laeufen unveraendert. Am Rande: Symbiosis-Exploit auf einer Bitcoin-Bridge (grossteils zurueckgeholt), Blockstream hat ~85% der bei Liquid Network gestohlenen BTC wiederbeschafft, 18. BRICS-Gipfel (12.-13.09.) tagt. Keine dieser Meldungen liefert einen ueberzeugenden Kaufkatalysator. Aktien, ETFs und Rohstoffe bleiben wochenendbedingt nicht handelbar; Markt wartet weiter auf CLARITY-Act-Votum (15.09.) und FOMC (16.09.).",
-    "decision": "Keine Trades. Tagesbudget wurde bereits fruehe heute gutgeschrieben (keine erneute Gutschrift). XRP (1,36 USD) und SOL (102,04 USD) gegenueber dem letzten Lauf unveraendert bestaetigt. Hoehere Kerninflation (CPI) und sinkende CLARITY-Act-Passwahrscheinlichkeit sind eher Risikofaktoren als Kaufkatalysatoren. Kein ueberzeugender Kryptokatalysator; Markt wartet weiter auf CLARITY-Act-Votum (15.09.) und FOMC (16.09.).",
-    "reasoning": "Weder bei XRP noch bei SOL hat sich der Kurs seit dem letzten Lauf bewegt. Die neue Nachrichtenlage (hoehere Kerninflation, steigende Zinserhoehungswahrscheinlichkeit, sinkende CLARITY-Act-Passwahrscheinlichkeit) spricht eher fuer erhoehtes Rueckschlagsrisiko als fuer eine neue Long-Position. Aktien/ETFs/Rohstoffe sind wochenendbedingt ohnehin nicht handelbar, daher bleibt es bei reinen Kursbestaetigungen ohne Positionsaenderung.",
+    "marketOverview": "Bitcoin haelt sich am Sonntagvormittag knapp ueber 77.000 USD (aktuell ca. 77.320 USD, -0,4% 24h), nachdem die Wahrscheinlichkeit einer Fed-Zinserhoehung am 16.09. laut aktuellen Berichten auf rund 87% gestiegen ist (restriktiver als zuletzt angenommen). Die CLARITY-Act-Erfolgswahrscheinlichkeit vor der Abstimmung am 15.09. ist im Wochenverlauf von rund 28% auf nur noch 15% gefallen. XRP (1,36 USD, -0,6% 24h) und SOL (102,04 USD, +1% 24h) bleiben gegenueber dem letzten Lauf praktisch unveraendert. Gesamtmarktkapitalisierung ca. 2,75 Billionen USD (+0,2% 24h) - ein wartender, kein bewegter Markt. Aktien, ETFs und Rohstoffe bleiben wochenendbedingt nicht handelbar.",
+    "decision": "Keine Trades. Tagesbudget wurde bereits heute frueh gutgeschrieben (keine erneute Gutschrift). XRP (1,36 USD) und SOL (102,04 USD) gegenueber dem letzten Lauf unveraendert bestaetigt. Steigende Fed-Zinserhoehungswahrscheinlichkeit (87%) und sinkende CLARITY-Act-Erfolgsaussichten (nur noch 15%) sind eindeutig Risikofaktoren, kein Kaufkatalysator. Kein ueberzeugender Kryptokatalysator; Markt wartet weiter auf CLARITY-Act-Votum (15.09.) und FOMC (16.09.).",
+    "reasoning": "Weder bei XRP noch bei SOL hat sich der Kurs seit dem letzten Lauf nennenswert bewegt. Die zunehmend restriktive Zinserwartung (Fed-Hike-Wahrscheinlichkeit jetzt 87%) in Kombination mit den deutlich gesunkenen CLARITY-Act-Erfolgsaussichten (15% statt 28%) spricht eher fuer erhoehtes Rueckschlagsrisiko als fuer eine neue Long-Position. Aktien/ETFs/Rohstoffe sind wochenendbedingt ohnehin nicht handelbar, daher bleibt es bei reinen Kursbestaetigungen ohne Positionsaenderung.",
     "positionIds": [
       "pos-0011",
       "pos-0012"
@@ -4836,6 +4836,11 @@
       {
         "time": "08:08",
         "note": "Keine Aenderung. XRP (1,36 USD) und SOL (102,04 USD) unveraendert; BTC schwankt zwischen 78.600-80.000 USD nach hoeherer Kerninflation (CPI), kein neuer Handelskatalysator; Wochenende - Aktien/ETFs/Rohstoffe nicht handelbar.",
+        "portfolioValue": 2551.76
+      },
+      {
+        "time": "09:08",
+        "note": "Keine Aenderung. XRP (1,36 USD) und SOL (102,04 USD) unveraendert; Fed-Hike-Wahrscheinlichkeit auf 87% gestiegen, CLARITY-Act-Erfolgsaussichten auf 15% gesunken - beides Risikofaktoren, kein Kaufkatalysator. Wochenende - Aktien/ETFs/Rohstoffe nicht handelbar.",
         "portfolioValue": 2551.76
       }
     ]
