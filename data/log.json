@@ -4784,14 +4784,14 @@
   },
   {
     "date": "2026-09-13",
-    "marketOverview": "Bitcoin haelt sich stabil bei ca. 77.000-77.300 USD nach dem hoeheren August-CPI, das die Fed-Zinserhoehungs-Wahrscheinlichkeit fuer den 16.09. auf 87% getrieben hat. Solana erholt sich leicht auf ca. 100,7 USD (vorher 99,7 USD), XRP unveraendert bei ca. 1,36 USD. Am 15.09. steht die CLARITY-Act-Cloture-Abstimmung im Senat an (Erfolgsaussichten laut Wettmaerkten auf nur noch ca. 15% gefallen), am 15.-16.09. die FOMC-Entscheidung. Der globale Kryptomarkt (2,75 Bio. USD) bewegt sich kaum (+0,2% 24h) - ein abwartender Markt vor diesem verdichteten Risikofenster. Aktien, ETFs und Rohstoffe bleiben wochenendbedingt nicht handelbar.",
-    "decision": "Keine Trades in diesem Lauf (20:07). Tagesbudget wurde heute bereits gutgeschrieben (keine erneute Gutschrift). SOL und XRP nur minimal veraendert (SOL -1,59%, XRP -0,73%, beide leicht erholt gegenueber dem Vorlauf); keine neue Nachricht mit klarem Kauf- oder Verkaufskatalysator seit dem letzten Lauf. Angesichts der unmittelbar bevorstehenden binaeren Ereignisse (CLARITY-Act-Cloture-Votum 15.09., FOMC-Entscheidung 15.-16.09., Fed-Hike-Wahrscheinlichkeit 87%) werden bestehende Positionen gehalten, keine neue Position eroeffnet.",
-    "reasoning": "SOL erholt sich leicht von 99,69 auf 100,73 USD (-1,59% seit Kauf, vorher -2,61%); der Kryptomarkt insgesamt verharrt nahezu unveraendert (Gesamtmarktkapitalisierung +0,2% 24h) - kein neuer fundamentaler Katalysator, der ein Nachkaufen oder eine Gewinnmitnahme rechtfertigen wuerde (kein Stop-Loss erreicht). XRP stabil bei 1,36 USD (-0,73%), ebenfalls ohne neuen Kurstreiber. Die bekannten Risikofaktoren (Fed-Hike-Wahrscheinlichkeit 87%, CLARITY-Act-Erfolgsaussichten auf ~15% gefallen) sind bereits eingepreist; angesichts des vor der Tuer stehenden, stark richtungsentscheidenden Ereignis-Clusters (FOMC + CLARITY-Votum binnen 48 Stunden) ist ein spekulativer Neueinstieg jetzt nicht ueberzeugend genug. Aktien/ETFs/Rohstoffe bleiben wochenendbedingt nicht handelbar. Passend zur durchgehenden Linie des Tages wird auch in diesem Lauf nicht gehandelt.",
+    "marketOverview": "Bitcoin haelt sich stabil um 77.000-80.000 USD vor dem verdichteten Risikofenster (CLARITY-Act-Cloture-Votum 15.09., Erfolgsaussichten nur noch ca. 15-16%; FOMC-Entscheidung 16.09., 25-Bp-Hike mit ca. 58% Wahrscheinlichkeit als Basisszenario). Solana leicht erholt auf ca. 100,98 USD (Coinbase), XRP stabil bei ca. 1,36 USD. SEC-Regelaenderung (Nasdaq Texas Rule 5711(d)) erkennt BTC/ETH/SOL/XRP explizit als commodity-based-trust-faehige Digitalwerte an - mittelfristig positiv, aber kein kurzfristiger Kurskatalysator. Aktien, ETFs und Rohstoffe bleiben wochenendbedingt nicht handelbar.",
+    "decision": "Keine Trades in diesem Lauf (21:08). Tagesbudget wurde heute bereits gutgeschrieben (keine erneute Gutschrift). SOL leicht erholt (-1,35%, vorher -1,59%), XRP unveraendert (-0,73%); kein neuer Kauf- oder Verkaufskatalysator seit dem letzten Lauf, kein Stop-Loss erreicht. Angesichts der unmittelbar bevorstehenden binaeren Ereignisse (CLARITY-Act-Cloture-Votum 15.09., FOMC-Entscheidung 16.09.) werden bestehende Positionen gehalten, keine neue Position eroeffnet.",
+    "reasoning": "SOL steigt leicht von 100,73 auf ca. 100,98 USD (-1,35% seit Kauf, vorher -1,59%); Kryptomarkt insgesamt ohne neuen fundamentalen Katalysator (SEC-Regelaenderung zu BTC/ETH/SOL/XRP als commodity-based-trust-Assets ist mittelfristig positiv, aber kein kurzfristiger Kaufimpuls). XRP stabil bei 1,36 USD (-0,73%), ebenfalls ohne neuen Kurstreiber. Kein Stop-Loss erreicht, kein ueberzeugendes Momentum fuer einen Neueinstieg angesichts des unmittelbar bevorstehenden, richtungsentscheidenden Ereignis-Clusters (FOMC + CLARITY-Votum binnen 48 Stunden). Aktien/ETFs/Rohstoffe bleiben wochenendbedingt nicht handelbar. Passend zur durchgehenden Linie des Tages wird auch in diesem Lauf nicht gehandelt.",
     "positionIds": [
       "pos-0011",
       "pos-0012"
     ],
-    "portfolioValueEnd": 2545.36,
+    "portfolioValueEnd": 2546.58,
     "updates": [
       {
         "time": "00:09",
@@ -4897,6 +4897,11 @@
         "time": "20:07",
         "note": "Keine Aenderung. SOL leicht erholt auf 100,73 USD (-1,59%, vorher -2,61%), XRP stabil bei 1,36 USD (-0,73%); Kryptomarkt insgesamt fast unveraendert (+0,2% 24h), kein neuer Katalysator vor CLARITY-Act-Cloture-Votum (15.09.) und FOMC (15.-16.09., Fed-Hike-Wahrscheinlichkeit 87%); Wochenende - Aktien/ETFs/Rohstoffe nicht handelbar.",
         "portfolioValue": 2545.36
+      },
+      {
+        "time": "21:08",
+        "note": "Keine Aenderung. SOL leicht erholt auf 100,98 USD (-1,35%, vorher -1,59%), XRP unveraendert bei 1,36 USD (-0,73%); SEC erkennt BTC/ETH/SOL/XRP per Regelaenderung explizit als commodity-based-trust-Assets an (mittelfristig positiv, kein kurzfristiger Katalysator); kein Stop-Loss erreicht. Wochenende - Aktien/ETFs/Rohstoffe nicht handelbar.",
+        "portfolioValue": 2546.58
       }
     ]
   }
