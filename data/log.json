@@ -4917,21 +4917,26 @@
   },
   {
     "date": "2026-09-14",
-    "marketOverview": "Kryptomarkt bewegt sich weiterhin in enger Spanne ohne neuen Impuls: Bitcoin bei ca. 77.200-77.400 USD (24h nahezu unveraendert, weiter gedeckelt durch hohe Anleiherenditen von 4,97% und ETF-Abfluesse), Solana stabil bei rund 101 USD, XRP bei ca. 1,37 USD. Der Markt verharrt vor zwei binaeren Grossereignissen: CLARITY-Act-Cloture-Abstimmung im Senat am 15.09. (2:15pm ET, 60-Stimmen-Huerde) und FOMC-Zinsentscheid am 16.09. (~85-87% Wahrscheinlichkeit fuer 25-Bp-Hike). Aktien, ETFs und Rohstoffe sind um diese Nachtzeit (Montag 00:08 Uhr) noch nicht handelbar.",
-    "decision": "Kein Trade in diesem ersten Lauf des Tages (00:08). Tagesbudget wurde soeben gutgeschrieben (+1000 EUR). Bestehende offene Positionen (NVDA, META, XRP, SOL) wurden auf aktuelle Kurse aktualisiert, keine Stop-Loss-Schwelle erreicht. Kein ueberzeugender neuer Kryptokatalysator vor den anstehenden Grossereignissen (CLARITY-Act-Votum 15.09., FOMC 16.09.), Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten.",
-    "reasoning": "Die Kursniveaus bei BTC (~77.300 USD), SOL (~101 USD) und XRP (~1,37 USD) sind gegenueber dem letzten Lauf praktisch unveraendert - kein neuer fundamentaler oder technischer Ausloeser fuer eine spekulative Position. Angesichts der unmittelbar bevorstehenden richtungsentscheidenden Ereignisse (CLARITY-Act-Cloture-Abstimmung am 15.09., FOMC-Entscheid am 16.09. mit hoher Hike-Wahrscheinlichkeit) ist Zurueckhaltung sinnvoller als eine Position auf gut Glueck einzugehen. Bei den offenen Positionen: NVDA (-4,74%) und SOL (-1,35%) liegen im moderaten Verlustbereich, aber noch deutlich innerhalb der ueblichen Volatilitaetsspanne und ohne fundamentale Verschlechterung - kein Stop-Loss-Grund. META (+0,33%) und XRP (0,0%) nahezu am Einstandskurs. Alle vier Positionen werden unveraendert gehalten.",
+    "marketOverview": "Kryptomarkt bleibt praktisch bewegungslos: Solana notiert bei ca. 102,04 USD (nahezu unveraendert, +1% 24h laut Marktdaten), XRP bei ca. 1,36 USD (-0,6% 24h). Der Markt verharrt weiter reglos vor den zwei richtungsentscheidenden Terminen: CLARITY-Act-Cloture-Abstimmung im Senat am 15.09. (2:15pm ET), wobei die Erfolgsaussichten laut Polymarket zuletzt auf nur noch rund 16-20% gefallen sind, sowie der FOMC-Zinsentscheid am 16.09. Aktien, ETFs und Rohstoffe bleiben um diese Nachtzeit (Montag 01:08 Uhr) ausserhalb der Handelszeiten.",
+    "decision": "Kein Trade in diesem Lauf (01:08). Tagesbudget wurde bereits im ersten Lauf des Tages (00:08) gutgeschrieben, keine erneute Gutschrift. Offene Krypto-Positionen (SOL, XRP) auf leicht aktualisierte Kurse gebracht, beide praktisch unveraendert und ohne Stop-Loss-Relevanz. NVDA und META bleiben ausserhalb der US-Handelszeiten unveraendert. Kein ueberzeugender neuer Katalysator vor CLARITY-Act-Votum und FOMC, daher keine neue Position.",
+    "reasoning": "Seit dem letzten Lauf vor rund einer Stunde hat sich an den Kursen kaum etwas veraendert: SOL bewegt sich von 100,98 auf 102,04 USD (+1,05%), XRP von 1,37 auf 1,36 USD (-0,7%) - beides innerhalb der ueblichen Schwankungsbreite und ohne neuen fundamentalen Ausloeser. Die Polymarket-Erfolgswahrscheinlichkeit fuer den CLARITY Act ist zuletzt von frueheren Hochs auf nur noch 16-20% gefallen, was Zurueckhaltung im Kryptomarkt zusaetzlich stuetzt. NVDA (-4,74%) und SOL (-0,31%) liegen weiterhin im moderaten, unauffaelligen Bereich ohne Stop-Loss-Grund; META (+0,33%) und XRP (-0,73%) nahe am Einstand. Aktien/ETFs/Rohstoffe sind um 01:08 Uhr Nachts nicht handelbar. Alle vier offenen Positionen werden unveraendert gehalten, keine neue Position eroeffnet.",
     "positionIds": [
       "pos-0010",
       "pos-0014",
       "pos-0011",
       "pos-0012"
     ],
-    "portfolioValueEnd": 2547.83,
+    "portfolioValueEnd": 2549.36,
     "updates": [
       {
         "time": "00:08",
         "note": "Keine Aenderung, Tagesbudget +1000 EUR gutgeschrieben. NVDA/META/XRP-Kurse aktualisiert (SOL unveraendert); kein ueberzeugender Kryptokatalysator vor CLARITY-Act-Votum (15.09.) und FOMC (16.09.), Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten.",
         "portfolioValue": 2547.83
+      },
+      {
+        "time": "01:08",
+        "note": "Keine Aenderung. SOL/XRP-Kurse leicht aktualisiert (SOL 102,04, XRP 1,36), NVDA/META unveraendert (ausserhalb US-Handelszeiten). Kein neuer Katalysator vor CLARITY-Act-Votum (15.09.) und FOMC (16.09.).",
+        "portfolioValue": 2549.36
       }
     ]
   }
