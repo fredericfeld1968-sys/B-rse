@@ -4784,9 +4784,9 @@
   },
   {
     "date": "2026-09-13",
-    "marketOverview": "Kryptomarkt bewegt sich am Sonntagmorgen weiter seitwaerts vor der CLARITY-Act-Cloture-Abstimmung im Senat (15.09.) und der FOMC-Sitzung (16.09.). Laut Galaxy Research ist die Wahrscheinlichkeit einer Verabschiedung des CLARITY Act 2026 von rund 60% im Juli auf nur noch ca. 10% gefallen (neue, 630-seitige Fassung zielt zusaetzlich auf 'decentralized-in-name-only'-Protokolle mit CFTC-Registrierungspflicht ab). BTC bei ca. 77.300 USD, XRP unveraendert bei 1,36 USD (-0,6% 24h), SOL bei 102,04 USD (+1% 24h) - beide trotz +30% im Monatsvergleich weiterhin im Jahresvergleich im Minus. Keine neuen markttreibenden Nachrichten seit dem letzten Lauf; Aktien, ETFs und Rohstoffe bleiben wochenendbedingt nicht handelbar.",
-    "decision": "Keine Trades. Tagesbudget wurde bereits fruehe heute gutgeschrieben (keine erneute Gutschrift). XRP (1,36 USD) und SOL (102,04 USD) gegenueber dem letzten Lauf unveraendert bestaetigt. Neue Information (sinkende CLARITY-Act-Passwahrscheinlichkeit auf ~10%) ist eher ein Risikofaktor als ein Kaufkatalysator und rechtfertigt keine neue spekulative Position. Kein ueberzeugender Kryptokatalysator; Markt wartet weiter auf CLARITY-Act-Votum (15.09.) und FOMC (16.09.).",
-    "reasoning": "Weder bei XRP noch bei SOL hat sich der Kurs seit dem letzten Lauf nennenswert bewegt. Die neue Nachrichtenlage (Galaxy Research: CLARITY-Act-Passwahrscheinlichkeit faellt von 60% auf 10%) spricht eher fuer erhoehtes Rueckschlagsrisiko bei XRP als fuer eine neue Long-Position - daher keine zusaetzliche spekulative Wette vor der Abstimmung. Aktien/ETFs/Rohstoffe sind wochenendbedingt ohnehin nicht handelbar, daher bleibt es bei reinen Kursbestaetigungen ohne Positionsaenderung.",
+    "marketOverview": "Bitcoin pendelt am Sonntagvormittag zwischen 78.600 und 80.000 USD, nachdem eine hoehere Kerninflation (CPI) die Chancen auf eine restriktivere Fed-Haltung erhoeht und BTC unter 80.000 USD gehalten hat; Ethereum bei ca. 2.500 USD. XRP (1,36 USD) und SOL (102,04 USD) bleiben gegenueber den letzten Laeufen unveraendert. Am Rande: Symbiosis-Exploit auf einer Bitcoin-Bridge (grossteils zurueckgeholt), Blockstream hat ~85% der bei Liquid Network gestohlenen BTC wiederbeschafft, 18. BRICS-Gipfel (12.-13.09.) tagt. Keine dieser Meldungen liefert einen ueberzeugenden Kaufkatalysator. Aktien, ETFs und Rohstoffe bleiben wochenendbedingt nicht handelbar; Markt wartet weiter auf CLARITY-Act-Votum (15.09.) und FOMC (16.09.).",
+    "decision": "Keine Trades. Tagesbudget wurde bereits fruehe heute gutgeschrieben (keine erneute Gutschrift). XRP (1,36 USD) und SOL (102,04 USD) gegenueber dem letzten Lauf unveraendert bestaetigt. Hoehere Kerninflation (CPI) und sinkende CLARITY-Act-Passwahrscheinlichkeit sind eher Risikofaktoren als Kaufkatalysatoren. Kein ueberzeugender Kryptokatalysator; Markt wartet weiter auf CLARITY-Act-Votum (15.09.) und FOMC (16.09.).",
+    "reasoning": "Weder bei XRP noch bei SOL hat sich der Kurs seit dem letzten Lauf bewegt. Die neue Nachrichtenlage (hoehere Kerninflation, steigende Zinserhoehungswahrscheinlichkeit, sinkende CLARITY-Act-Passwahrscheinlichkeit) spricht eher fuer erhoehtes Rueckschlagsrisiko als fuer eine neue Long-Position. Aktien/ETFs/Rohstoffe sind wochenendbedingt ohnehin nicht handelbar, daher bleibt es bei reinen Kursbestaetigungen ohne Positionsaenderung.",
     "positionIds": [
       "pos-0011",
       "pos-0012"
@@ -4831,6 +4831,11 @@
       {
         "time": "07:08",
         "note": "Keine Aenderung. XRP (1,36 USD) und SOL (102,04 USD) gegenueber letztem Lauf bestaetigt unveraendert; neue Nachricht zu sinkender CLARITY-Act-Passwahrscheinlichkeit (Galaxy Research: ~10% statt 60%) ist Risikofaktor, kein Kaufkatalysator. Wochenende - Aktien/ETFs/Rohstoffe nicht handelbar.",
+        "portfolioValue": 2551.76
+      },
+      {
+        "time": "08:08",
+        "note": "Keine Aenderung. XRP (1,36 USD) und SOL (102,04 USD) unveraendert; BTC schwankt zwischen 78.600-80.000 USD nach hoeherer Kerninflation (CPI), kein neuer Handelskatalysator; Wochenende - Aktien/ETFs/Rohstoffe nicht handelbar.",
         "portfolioValue": 2551.76
       }
     ]
