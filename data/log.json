@@ -4784,16 +4784,13 @@
   },
   {
     "date": "2026-09-13",
-    "marketOverview": [
-      "Kryptomarkt bewegt sich weiterhin seitwaerts im Wartemodus vor der Fed-Zinsentscheidung (16.09.) und der CLARITY-Act-Verfahrensabstimmung im Senat (15.09., Polymarket-Erfolgswahrscheinlichkeit nur noch ca. 16%, nachdem Senatsrepublikaner am 10.09. eine ueberarbeitete 630-seitige Fassung vorgelegt haben). BTC ~77.232 USD (leicht schwaecher ggue. Vorlauf), SOL ~102,04 USD (leicht fester), XRP ~1,36 USD (leicht schwaecher) - keine neuen fundamentalen Ausloeser seit dem letzten Lauf. Aktien, ETFs und Rohstoffe bleiben wochenendbedingt nicht handelbar."
-    ],
-    "decision": "Keine Trades. Tagesbudget wurde bereits fruehe heute gutgeschrieben (keine erneute Gutschrift). XRP- und SOL-Kurse minimal aktualisiert (XRP 1,36 USD, SOL 102,04 USD). Kein neuer, ueberzeugender Kryptokatalysator seit dem letzten Lauf; Markt wartet weiter auf FOMC (16.09.) und CLARITY-Act-Verfahrensabstimmung (15.09.).",
-    "reasoning": "Die Kursbewegungen bei XRP und SOL seit dem letzten Lauf sind minimal (unter 1%) und ohne neuen fundamentalen Ausloeser. Die anstehenden Grossereignisse (FOMC, CLARITY-Act-Votum) liegen noch 2-3 Tage voraus und rechtfertigen aktuell keine spekulative Vorab-Wette. Aktien/ETFs/Rohstoffe sind wochenendbedingt ohnehin nicht handelbar, daher bleibt es bei reinen Kursaktualisierungen ohne Positionsaenderung.",
+    "marketOverview": "Kryptomarkt bleibt am Sonntagmorgen im Wartemodus vor FOMC (16.09.) und der CLARITY-Act-Verfahrensabstimmung im Senat (15.09.). BTC konsolidiert bei ca. 77.100-77.300 USD (CoinShares: CPI-Daten liefern keinen dovishen Impuls, BTC bleibt unter 80.000 USD), SOL stabil bei ca. 102 USD, XRP schwaecher bei ca. 1,35 USD (-4,2% in 24h) ohne neuen fundamentalen Ausloeser. Ein Symbiosis-Bridge-Exploit (~15 BTC) bleibt ein isoliertes Ereignis ohne Marktbreitenwirkung. Aktien, ETFs und Rohstoffe bleiben wochenendbedingt nicht handelbar.",
+    "decision": "Keine Trades. Tagesbudget wurde bereits fruehe heute gutgeschrieben (keine erneute Gutschrift). XRP-Kurs auf 1,35 USD aktualisiert (leichter Rueckgang), SOL unveraendert bei 102,04 USD. Kein neuer, ueberzeugender Kryptokatalysator seit dem letzten Lauf; Markt wartet weiter auf FOMC (16.09.) und CLARITY-Act-Verfahrensabstimmung (15.09.).",
+    "reasoning": "Die Kursbewegung bei XRP (-4,2% in 24h) ist zwar staerker als bei SOL, aber ohne konkreten neuen Ausloeser (CoinDesk/CoinGecko zeigen reine Fortsetzung der Seitwaertsbewegung, kein Ereignis). Die anstehenden Grossereignisse (FOMC, CLARITY-Act-Votum) liegen noch 2-3 Tage voraus und rechtfertigen aktuell keine spekulative Vorab-Wette. Aktien/ETFs/Rohstoffe sind wochenendbedingt ohnehin nicht handelbar, daher bleibt es bei reinen Kursaktualisierungen ohne Positionsaenderung.",
     "positionIds": [
-      "pos-0011",
-      "pos-0012"
+      "pos-0011"
     ],
-    "portfolioValueEnd": 2551.76,
+    "portfolioValueEnd": 2548.11,
     "updates": [
       {
         "time": "00:09",
@@ -4809,6 +4806,11 @@
         "time": "02:08",
         "note": "Keine Aenderung. XRP/SOL-Kurse minimal aktualisiert (XRP 1,36 USD, SOL 102,04 USD); kein neuer Krypto-Katalysator, Wochenende - Aktien/ETFs/Rohstoffe nicht handelbar.",
         "portfolioValue": 2551.76
+      },
+      {
+        "time": "03:07",
+        "note": "Keine Aenderung. XRP-Kurs leicht schwaecher aktualisiert (1,35 USD, -4,2% 24h), SOL unveraendert (102,04 USD); kein neuer Krypto-Katalysator, Wochenende - Aktien/ETFs/Rohstoffe nicht handelbar.",
+        "portfolioValue": 2548.11
       }
     ]
   }
