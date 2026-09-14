@@ -4917,17 +4917,17 @@
   },
   {
     "date": "2026-09-14",
-    "marketOverview": "US-Maerkte im Risk-Off-Modus: Nasdaq 100 -1,7%, S&P 500 -0,7% nach branchenweitem Chip-Ausverkauf, ausgeloest durch Amodeis (Anthropic) oeffentlichen Aufruf zur Verlangsamung der KI-Entwicklung (von Altman/OpenAI und Musk unterstuetzt; OpenAI-IPO verschoben). Brent Crude bei 109,44 USD nahe 4-Monats-Hoch nach saudischer Pipeline-Abschaltung und Houthi-Angriffen/Besetzung von Perim-Insel im Bab-el-Mandeb. Krypto-Markt seitwaerts-fest (XRP 1,39, SOL 102,00, BTC ~77.500 USD) vor CLARITY-Act-Prozedurabstimmung (15.09.) und FOMC-Zinsentscheid (16.09., Markt preist ~85% Zinsanhebung).",
-    "decision": "Tagesbilanz: Ein Trade - NVDA-Stop-Loss (-72,40 EUR) nach strukturellem Bruch der urspruenglichen Kaufthese durch branchenweite KI-Sicherheitsdebatte. META, XRP, SOL, BRENT unveraendert gehalten und Kurse laufend aktualisiert. Keine Neukaeufe angesichts bevorstehender Grossereignisse (FOMC, CLARITY Act) trotz hohem freiem Kapital.",
-    "reasoning": "Risikomanagement hat Vorrang vor Neuinvestitionen: NVDA-Verlustbegrenzung konsequent nach etabliertem Stop-Loss-Muster (vgl. Rheinmetall) umgesetzt, sobald die fundamentale Kaufthese durch eine echte strukturelle Nachricht (Amodei-Essay, branchenweiter Chip-Abverkauf) widerlegt war, statt auf Erholung zu hoffen. Restliche offene Positionen (META, XRP, SOL, BRENT) zeigen kein Ausloese-Signal fuer Gewinnmitnahme oder Stop-Loss. Mit FOMC-Entscheid und CLARITY-Act-Votum binnen 48 Stunden bevorstehend, werden keine neuen spekulativen Positionen eroeffnet, um nicht zusaetzliches Ereignisrisiko auf zwei Fronten (Zinspfad, Krypto-Regulierung) einzugehen.",
+    "marketOverview": "Krypto insgesamt stabil bis leicht positiv (BTC ca. 77.500-78.000 USD, SOL ~101,90 USD, XRP ~1,40 USD) vor den grossen Katalysatoren CLARITY-Act-Verfahrensabstimmung (15./16.09.) und FOMC-Zinsentscheid (16.09., Erhoehungswahrscheinlichkeit laut CME FedWatch zuletzt auf ueber 86% gestiegen). Oel (Brent) haelt sich nach der Saudi-Pipeline-Abschaltung und Houthi-Eskalation weiter auf mehrmonatigem Hochniveau (ca. 107-109 USD/Barrel). US-Boersen (NYSE/Nasdaq) sind fuer heute geschlossen, Tech-Sektor bleibt nach dem Amodei-Ausverkauf und dem NVDA-Stop-Loss vorsichtig.",
+    "decision": "Kein neuer Trade in diesem Lauf (22:08): Nach dem NVDA-Stop-Loss um 21:10 keine neuen ueberzeugenden Signale in der knappen Stunde seither. Boersen fuer Aktien/ETFs/Rohstoffe geschlossen, Krypto (SOL/XRP) bewegt sich nur im normalen Rauschen ohne klaren Ausbruch. Alle offenen Positionen (META, XRP, SOL, BRENT) auf aktuellen Marktstand gebracht.",
+    "reasoning": "Vor den beiden grossen bevorstehenden Katalysatoren (CLARITY-Act-Abstimmung, FOMC-Entscheid am 16.09.) bleibt die bereits mehrfach begruendete Zurueckhaltung bei Neu-Investments angemessen. Kursupdates: META unveraendert bei Schlusskurs 661,03 USD (+2,34%); XRP auf 1,40 USD (+2,19%) leicht gestiegen (CLARITY-Act-Vorfreude); SOL auf 101,90 USD (-0,45%) im Rauschen; BRENT auf 108,90 USD (+1,30%) nahe mehrmonatigem Hoch, Eskalationsthese an der Strasse von Hormuz/Ost-West-Pipeline bleibt intakt. Freies Kapital unveraendert bei 38.688,26 EUR.",
     "positionIds": [
-      "pos-0010",
-      "pos-0014",
       "pos-0011",
       "pos-0012",
+      "pos-0013",
+      "pos-0014",
       "pos-0015"
     ],
-    "portfolioValueEnd": 2230.41,
+    "portfolioValueEnd": 2230.55,
     "updates": [
       {
         "time": "00:08",
@@ -5038,6 +5038,11 @@
         "time": "21:10",
         "note": "Verkauf NVDA (Stop-Loss, -72,40 EUR / -7,24%): Anthropic-CEO Amodei ruft in vielbeachtetem Essay zu langsamerer KI-Modellentwicklung auf (Sicherheitsbedenken), Altman/Musk stimmen zu, Altman verschiebt OpenAI-IPO. Weltweiter Chip-Ausverkauf (Intel -7%, AMD -6%, SK Hynix -7%, HPE -8%) bestaetigt strukturelle Verschlechterung der urspruenglichen Post-Earnings-These. META unveraendert bei 661,03 USD (+2,34%). BRENT (109,44 USD, +1,80%) haelt Niveau nahe 4-Monats-Hoch vor Saudi-Pipeline-Abschaltung/Houthi-Eskalation. XRP (1,39 USD, +1,46%) und SOL (102,00 USD, -0,35%) leicht aktualisiert vor morgigem CLARITY-Act-Votum und FOMC-Entscheidung (16.09.). Kein Neukauf trotz hohem freiem Kapital (38.688,26 EUR) - Markt vor zwei grossen Katalysatoren (FOMC, CLARITY Act) zu unsicher fuer neue spekulative Positionen.",
         "portfolioValue": 2230.41
+      },
+      {
+        "time": "22:08",
+        "note": "Keine Aenderung. XRP auf 1,40 USD (+2,19%) und BRENT auf 108,90 USD (+1,30%) leicht gestiegen, SOL auf 101,90 USD (-0,45%) im Rauschen, META unveraendert bei Schlusskurs 661,03 USD (+2,34%). Boersen fuer Aktien/Rohstoffe geschlossen, kein ueberzeugender Krypto-Katalysator vor CLARITY-Act-Votum/FOMC.",
+        "portfolioValue": 2230.55
       }
     ]
   }
