@@ -4917,9 +4917,9 @@
   },
   {
     "date": "2026-09-14",
-    "marketOverview": "Krypto insgesamt stabil bis leicht positiv (BTC ca. 77.500-78.000 USD, SOL ~101,90 USD, XRP ~1,40 USD) vor den grossen Katalysatoren CLARITY-Act-Verfahrensabstimmung (15./16.09.) und FOMC-Zinsentscheid (16.09., Erhoehungswahrscheinlichkeit laut CME FedWatch zuletzt auf ueber 86% gestiegen). Oel (Brent) haelt sich nach der Saudi-Pipeline-Abschaltung und Houthi-Eskalation weiter auf mehrmonatigem Hochniveau (ca. 107-109 USD/Barrel). US-Boersen (NYSE/Nasdaq) sind fuer heute geschlossen, Tech-Sektor bleibt nach dem Amodei-Ausverkauf und dem NVDA-Stop-Loss vorsichtig.",
-    "decision": "Kein neuer Trade in diesem Lauf (22:08): Nach dem NVDA-Stop-Loss um 21:10 keine neuen ueberzeugenden Signale in der knappen Stunde seither. Boersen fuer Aktien/ETFs/Rohstoffe geschlossen, Krypto (SOL/XRP) bewegt sich nur im normalen Rauschen ohne klaren Ausbruch. Alle offenen Positionen (META, XRP, SOL, BRENT) auf aktuellen Marktstand gebracht.",
-    "reasoning": "Vor den beiden grossen bevorstehenden Katalysatoren (CLARITY-Act-Abstimmung, FOMC-Entscheid am 16.09.) bleibt die bereits mehrfach begruendete Zurueckhaltung bei Neu-Investments angemessen. Kursupdates: META unveraendert bei Schlusskurs 661,03 USD (+2,34%); XRP auf 1,40 USD (+2,19%) leicht gestiegen (CLARITY-Act-Vorfreude); SOL auf 101,90 USD (-0,45%) im Rauschen; BRENT auf 108,90 USD (+1,30%) nahe mehrmonatigem Hoch, Eskalationsthese an der Strasse von Hormuz/Ost-West-Pipeline bleibt intakt. Freies Kapital unveraendert bei 38.688,26 EUR.",
+    "marketOverview": "Krypto weiter im Rauschen vor den Katalysatoren CLARITY-Act-Cloture-Votum (15.09., Erfolgsaussichten laut Polymarket nur noch ca. 16%) und FOMC-Zinsentscheid (16.09., Markt preist ca. 85,5% Wahrscheinlichkeit fuer eine Zinserhoehung statt Senkung ein): BTC ca. 77.100-77.500 USD, SOL ~101,92 USD (+1,3% 24h), XRP ~1,40 USD (+3,9% 24h). Brent haelt sich nach der Saudi-Pipeline-Abschaltung und Houthi-Eskalation weiter nahe einem 4-Monats-Hoch (ca. 106-108,5 USD/Barrel). US-Boersen (NYSE/Nasdaq) sind zu dieser Nachtstunde geschlossen.",
+    "decision": "Kein neuer Trade in diesem Lauf (23:08): Kein ueberzeugender neuer Katalysator gegenueber dem 22:08-Lauf, Krypto bewegt sich weiter im normalen Rauschen vor CLARITY-Act-Votum und FOMC, Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten. Alle offenen Positionen (META, XRP, SOL, BRENT) auf aktuellen Marktstand gebracht.",
+    "reasoning": "Vor den beiden grossen bevorstehenden Katalysatoren (CLARITY-Act-Votum 15.09., FOMC-Entscheid 16.09.) bleibt Zurueckhaltung bei Neu-Investments angemessen. Kursupdates: SOL auf 101,92 USD (-0,43%) leicht erholt, XRP unveraendert bei 1,40 USD (+2,19%), BRENT auf 108,50 USD (+0,93%) nahe 4-Monats-Hoch, Eskalationsthese an der Strasse von Hormuz/Ost-West-Pipeline bleibt intakt, META unveraendert bei Schlusskurs 661,03 USD (+2,34%, US-Markt geschlossen). Freies Kapital unveraendert bei 38.688,26 EUR.",
     "positionIds": [
       "pos-0011",
       "pos-0012",
@@ -4927,7 +4927,7 @@
       "pos-0014",
       "pos-0015"
     ],
-    "portfolioValueEnd": 2230.55,
+    "portfolioValueEnd": 2228.42,
     "updates": [
       {
         "time": "00:08",
@@ -5043,6 +5043,11 @@
         "time": "22:08",
         "note": "Keine Aenderung. XRP auf 1,40 USD (+2,19%) und BRENT auf 108,90 USD (+1,30%) leicht gestiegen, SOL auf 101,90 USD (-0,45%) im Rauschen, META unveraendert bei Schlusskurs 661,03 USD (+2,34%). Boersen fuer Aktien/Rohstoffe geschlossen, kein ueberzeugender Krypto-Katalysator vor CLARITY-Act-Votum/FOMC.",
         "portfolioValue": 2230.55
+      },
+      {
+        "time": "23:08",
+        "note": "Keine Aenderung. SOL auf 101,92 USD (-0,43%) leicht erholt, XRP unveraendert bei 1,40 USD (+2,19%), BRENT auf 108,50 USD (+0,93%) leicht aktualisiert, META unveraendert bei Schlusskurs 661,03 USD (US-Markt geschlossen). Kein ueberzeugender neuer Katalysator vor CLARITY-Act-Votum und FOMC.",
+        "portfolioValue": 2228.42
       }
     ]
   }
