@@ -4917,16 +4917,16 @@
   },
   {
     "date": "2026-09-14",
-    "marketOverview": "Kryptomarkt bleibt praktisch unveraendert und weiter reglos vor den zwei richtungsentscheidenden Terminen: CLARITY-Act-Cloture-Abstimmung im Senat am 15.09. (Erfolgsaussichten laut Polymarket nur noch ca. 16-20%) und FOMC-Zinsentscheid am 16.09. (Marktpreisung laut Coin Bureau/CNBC zuletzt bei rund 87% Wahrscheinlichkeit einer weiteren Zinserhoehung). Solana notiert bei ca. 101,50 USD (leicht schwaecher, -0,8% seit Kauf), XRP bei ca. 1,34 USD (-2,2% seit Kauf, laut CoinMarketCap 24h -1,84%). Bitcoin bei rund 78.300 USD weiter im Jahresvergleich deutlich im Minus. Aktien, ETFs und Rohstoffe bleiben um diese Nachtzeit (Montag 02:08 Uhr) ausserhalb der Handelszeiten.",
-    "decision": "Kein Trade in diesem Lauf (02:08). Tagesbudget wurde bereits im ersten Lauf des Tages (00:08) gutgeschrieben, keine erneute Gutschrift. Offene Krypto-Positionen (SOL, XRP) auf aktuelle Kurse gebracht (SOL -0,84%, XRP -2,19%, beide ohne Stop-Loss-Relevanz beim spekulativen Kurzfrist-Profil). NVDA und META bleiben ausserhalb der US-Handelszeiten unveraendert. Kein ueberzeugender neuer Katalysator vor CLARITY-Act-Votum und FOMC, daher keine neue Position.",
-    "reasoning": "Marktlage seit dem letzten Lauf (01:08) praktisch unveraendert; die kleinen Kursbewegungen bei SOL/XRP liegen im normalen Rauschen und rechtfertigen weder eine Gewinnmitnahme noch einen Stop-Loss. Ohne neuen fundamentalen Katalysator und ausserhalb der Handelszeiten fuer Aktien/ETFs/Rohstoffe wird auf eine Positionsaenderung verzichtet.",
+    "marketOverview": "Kryptomarkt bleibt in ruhiger Seitwaertsbewegung vor den beiden richtungsentscheidenden Terminen: CLARITY-Act-Cloture-Abstimmung im Senat am 15.09. (Erfolgsaussichten laut Polymarket weiter nur ca. 16% laut Fool/CNBC) und FOMC-Zinsentscheid am 16.09. (Faellt in eine Sitzung 15.-16.09.; Marktpreisung fuer eine weitere Zinserhoehung laut mehreren Quellen zwischen 60% und 87%, klar erhoeht seit Ende August). Bitcoin notiert bei ca. 77.150-77.360 USD (-0,2% 24h, -3,6% Wochensicht laut CoinGecko/OKX), Solana bei ca. 100,98-101,50 USD, XRP bei ca. 1,34 USD (-1,8% 24h). Spot-Bitcoin-ETFs verzeichneten in der Vorwoche dennoch rund 987 Mio. USD Nettozufluesse. Aktien, ETFs und Rohstoffe bleiben um diese Nachtzeit (Montag 03:08 Uhr) ausserhalb der Handelszeiten.",
+    "decision": "Kein Trade in diesem Lauf (03:08). Tagesbudget wurde bereits im ersten Lauf des Tages (00:08) gutgeschrieben, keine erneute Gutschrift. Offene Krypto-Position SOL leicht auf aktuellen Kurs (101,00 USD) gebracht, XRP unveraendert bei 1,34 USD. NVDA und META bleiben ausserhalb der US-Handelszeiten unveraendert. Kein ueberzeugender neuer Katalysator vor CLARITY-Act-Votum und FOMC, daher keine neue Position.",
+    "reasoning": "Die Marktlage seit dem letzten Lauf (02:08) ist praktisch unveraendert; die leichte SOL-Bewegung liegt im normalen Rauschen und rechtfertigt weder Gewinnmitnahme noch Stop-Loss. Erhoehte Zinserhoehungs-Wahrscheinlichkeit vor dem FOMC-Entscheid (16.09.) und die auf ~16% gefallenen CLARITY-Act-Erfolgsaussichten sprechen eher fuer Vorsicht als fuer neue spekulative Krypto-Einstiege. Ausserhalb der Handelszeiten fuer Aktien/ETFs/Rohstoffe wird daher auf jede Positionsaenderung verzichtet.",
     "positionIds": [
       "pos-0010",
       "pos-0014",
       "pos-0011",
       "pos-0012"
     ],
-    "portfolioValueEnd": 2539.42,
+    "portfolioValueEnd": 2536.98,
     "updates": [
       {
         "time": "00:08",
@@ -4942,6 +4942,11 @@
         "time": "02:08",
         "note": "Keine Aenderung. SOL/XRP-Kurse aktualisiert (SOL 101,50, XRP 1,34), NVDA/META unveraendert (ausserhalb US-Handelszeiten). Kein neuer Katalysator vor CLARITY-Act-Votum (15.09.) und FOMC (16.09.).",
         "portfolioValue": 2539.42
+      },
+      {
+        "time": "03:08",
+        "note": "Keine Aenderung. SOL-Kurs leicht aktualisiert (101,00 USD), XRP unveraendert (1,34 USD), NVDA/META unveraendert (ausserhalb US-Handelszeiten). Kein neuer Katalysator vor CLARITY-Act-Votum (15.09.) und FOMC (16.09.).",
+        "portfolioValue": 2536.98
       }
     ]
   }
