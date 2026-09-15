@@ -5053,16 +5053,16 @@
   },
   {
     "date": "2026-09-15",
-    "marketOverview": "AI-/Chip-Ausverkauf haelt an (US-10J-Rendite bei ueber 5%, hoechster Stand seit 2007), Brent Crude stabil hoch bei 107,46 USD/Barrel (Saudi-Pipeline-Abschaltung, Hormuz-Blockade). DAX tendiert am Nachmittag schwaecher (Infineon/Siemens Energy weiter unter Druck). Krypto (BTC ~77-78k, XRP 1,42 USD, SOL ~102,50 USD) seitwaerts vor der heutigen CLARITY-Act-Cloture-Abstimmung im US-Senat (20:15 MESZ) und dem morgigen FOMC-Entscheid (Hike-Wahrscheinlichkeit laut CME FedWatch ~92%).",
-    "decision": "Keine neuen Trades im 15:09-Lauf. Kursupdate SOL (+0,14%) leicht erholt; META, XRP und BRENT praktisch unveraendert. Alle vier offenen Positionen bleiben deutlich innerhalb der etablierten Stop-Loss-/Take-Profit-Bandbreiten, kein Handlungsdruck vor den beiden anstehenden Katalysatoren.",
-    "reasoning": "US-Boersen oeffnen erst um 15:30 MESZ, CLARITY-Act-Cloture-Votum (20:15 MESZ) und FOMC-Entscheid (16.09.) stehen noch aus - beides Ereignisse mit hohem Ueberraschungspotential fuer Krypto- und Aktienmaerkte. Passend zum spekulativen, aber diszipliniert-abwartenden Muster des heutigen Tages wird auf eine Bestaetigung eines der Katalysatoren gewartet, statt vor der Entscheidung ins Risiko zu gehen.",
+    "marketOverview": "AI-/Chip-Ausverkauf setzt sich fort (Nasdaq -0,56%, Halbleiter-Index -5,9% am Vortag), Brent Crude weiter hoch bei ca. 107,46 USD/Barrel (Saudi-Pipeline-Abschaltung, Hormuz-Blockade). META dagegen stark: Schlusskurs 14.09. bei 665,60 USD (+2,7%) nach 'Muse'-Agenten-Launch, haelt sich auch zu Handelsbeginn heute stabil. Krypto uneinheitlich: BTC ~76.700 USD (-1,3%), SOL auf 104,57 USD (+3% 24h) erholt, XRP bei 1,42 USD (+6% 24h) vor der heutigen CLARITY-Act-Cloture-Abstimmung im US-Senat (20:15 MESZ) - laut Prognosemaerkten nur 24-26% Chance auf die noetigen 60 Stimmen. FOMC-Entscheid folgt morgen (16.09.).",
+    "decision": "Keine neuen Trades im 16:08-Lauf. Kursupdate META (+3,05%, gestuetzt durch Muse-Launch und starken Vortagesschluss) und SOL (+2,16%, Erholung im 24h-Krypto-Aufschwung) nach oben angepasst; XRP und BRENT praktisch unveraendert. Alle vier offenen Positionen bleiben deutlich innerhalb der etablierten Stop-Loss-/Take-Profit-Bandbreiten. Kein Neueinstieg vor den beiden unmittelbar bevorstehenden Katalysatoren (CLARITY-Act-Cloture-Votum heute Abend, FOMC morgen) - insbesondere bei der laut Prognosemaerkten nur 24-26%igen Erfolgswahrscheinlichkeit des CLARITY Act ist das Risiko eines Fehlsignals zu hoch fuer einen spekulativen Neukauf in Krypto oder AI-Chip-Werten.",
+    "reasoning": "Der fortgesetzte AI-/Chip-Ausverkauf (ausgeloest durch Amodeis Sicherheits-Essay) spricht gegen neue Tech-/Halbleiter-Positionen, waehrend die Brent-Rally bereits über die bestehende Position abgedeckt ist. Bei Krypto ist die CLARITY-Act-Cloture-Abstimmung (60-Stimmen-Huerde, nur 24-26% Erfolgswahrscheinlichkeit laut Prognosemaerkten) ein binäres Ereignis mit hohem Ueberraschungspotential in beide Richtungen - ein Neueinstieg wenige Stunden davor waere reine Spekulation ohne Edge. Passend zum spekulativen, aber diszipliniert-abwartenden Muster des Tages wird auf die Bestaetigung eines der beiden Katalysatoren gewartet.",
     "positionIds": [
       "pos-0011",
       "pos-0012",
       "pos-0014",
       "pos-0015"
     ],
-    "portfolioValueEnd": 2217.28,
+    "portfolioValueEnd": 2247.12,
     "updates": [
       {
         "time": "00:08",
@@ -5143,6 +5143,11 @@
         "time": "15:09",
         "note": "Keine Aenderung - SOL leicht auf 102,50 USD erholt (+0,14%), META/XRP/BRENT unveraendert. US-Boersenoeffnung erst 15:30 MESZ, CLARITY-Act-Cloture-Votum heute Abend (20:15 MESZ) und FOMC morgen bleiben die entscheidenden Katalysatoren - kein ueberzeugender Trade.",
         "portfolioValue": 2217.28
+      },
+      {
+        "time": "16:08",
+        "note": "Keine Aenderung - META auf 665,60 USD (+3,05% seit Kauf) nach starkem Vortagesschluss (Muse-Launch) aktualisiert, SOL auf 104,57 USD (+2,16%) im Zuge der 24h-Krypto-Erholung erhoeht. XRP/BRENT nahezu unveraendert. Kein Neueinstieg vor CLARITY-Act-Cloture-Votum (20:15 MESZ) und FOMC (16.09.).",
+        "portfolioValue": 2247.12
       }
     ]
   }
