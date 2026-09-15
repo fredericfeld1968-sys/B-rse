@@ -5053,16 +5053,16 @@
   },
   {
     "date": "2026-09-15",
-    "marketOverview": "META faellt heute leicht auf 644,38 USD (-1,4%), belastet vom breiten AI-/Chip-Sektor-Ausverkauf trotz positivem Goldman-Sachs-Kommentar zu 'Muse'. SOL bei 101,92 USD (-0,4% zum Kaufkurs), XRP unveraendert bei 1,42 USD, Brent stabil bei 107,46 USD/Barrel. Die US-10-Jahres-Rendite markiert mit 5,04% ein Mehrjahreshoch, Aktienfutures leicht schwaecher vor der heutigen CLARITY-Act-Cloture-Abstimmung im Senat (14:15 ET) und dem FOMC-Entscheid morgen (16.09., Hike-Wahrscheinlichkeit laut CME FedWatch aktuell rund 60%).",
-    "decision": "Keine neuen Trades im 14:10-Lauf. Kursupdates fuer META (-0,24%) und SOL (-0,43%); XRP und BRENT praktisch unveraendert. Alle vier offenen Positionen liegen weit innerhalb der etablierten Stop-Loss-/Take-Profit-Bandbreiten (~-6% bis +8%), kein Handlungsdruck.",
-    "reasoning": "Vor den beiden entscheidenden Katalysatoren (CLARITY-Act-Cloture heute Abend, FOMC-Entscheid morgen) gibt es keine ueberzeugende neue Gelegenheit. Der AI-/Chip-Ausverkauf belastet META leicht, ist aber kein Stop-Loss-Ereignis; SOL/XRP/BRENT bewegen sich seitwaerts. Passend zum spekulativen Profil wird auf Bestaetigung eines der beiden Katalysatoren gewartet, statt vorschnell zu handeln.",
+    "marketOverview": "AI-/Chip-Ausverkauf haelt an (US-10J-Rendite bei ueber 5%, hoechster Stand seit 2007), Brent Crude stabil hoch bei 107,46 USD/Barrel (Saudi-Pipeline-Abschaltung, Hormuz-Blockade). DAX tendiert am Nachmittag schwaecher (Infineon/Siemens Energy weiter unter Druck). Krypto (BTC ~77-78k, XRP 1,42 USD, SOL ~102,50 USD) seitwaerts vor der heutigen CLARITY-Act-Cloture-Abstimmung im US-Senat (20:15 MESZ) und dem morgigen FOMC-Entscheid (Hike-Wahrscheinlichkeit laut CME FedWatch ~92%).",
+    "decision": "Keine neuen Trades im 15:09-Lauf. Kursupdate SOL (+0,14%) leicht erholt; META, XRP und BRENT praktisch unveraendert. Alle vier offenen Positionen bleiben deutlich innerhalb der etablierten Stop-Loss-/Take-Profit-Bandbreiten, kein Handlungsdruck vor den beiden anstehenden Katalysatoren.",
+    "reasoning": "US-Boersen oeffnen erst um 15:30 MESZ, CLARITY-Act-Cloture-Votum (20:15 MESZ) und FOMC-Entscheid (16.09.) stehen noch aus - beides Ereignisse mit hohem Ueberraschungspotential fuer Krypto- und Aktienmaerkte. Passend zum spekulativen, aber diszipliniert-abwartenden Muster des heutigen Tages wird auf eine Bestaetigung eines der Katalysatoren gewartet, statt vor der Entscheidung ins Risiko zu gehen.",
     "positionIds": [
       "pos-0011",
       "pos-0012",
       "pos-0014",
       "pos-0015"
     ],
-    "portfolioValueEnd": 2214.45,
+    "portfolioValueEnd": 2217.28,
     "updates": [
       {
         "time": "00:08",
@@ -5138,6 +5138,11 @@
         "time": "14:10",
         "note": "Keine Aenderung. META auf 644,38 USD (-0,24% seit Kauf) im Zuge des AI-/Chip-Ausverkaufs, SOL auf 101,92 USD (-0,43%); XRP (1,42 USD) und BRENT (107,46 USD) unveraendert. CLARITY-Act-Cloture-Votum (14:15 ET) und FOMC-Entscheid (16.09.) bleiben die entscheidenden ausstehenden Katalysatoren.",
         "portfolioValue": 2214.45
+      },
+      {
+        "time": "15:09",
+        "note": "Keine Aenderung - SOL leicht auf 102,50 USD erholt (+0,14%), META/XRP/BRENT unveraendert. US-Boersenoeffnung erst 15:30 MESZ, CLARITY-Act-Cloture-Votum heute Abend (20:15 MESZ) und FOMC morgen bleiben die entscheidenden Katalysatoren - kein ueberzeugender Trade.",
+        "portfolioValue": 2217.28
       }
     ]
   }
