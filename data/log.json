@@ -5053,16 +5053,16 @@
   },
   {
     "date": "2026-09-15",
-    "marketOverview": "CLARITY-Act-Cloture-Abstimmung im US-Senat laeuft/steht kurz bevor (14:15 ET/20:15 MESZ); finales Ergebnis in Presseberichten noch nicht bestaetigt. FOMC-Zinsentscheid folgt morgen (16.09.) mit weiterhin rund 90% Wahrscheinlichkeit einer Zinserhoehung. Breiter Markt leicht schwaecher (Dow -0,8%, S&P 500 -0,5%, Nasdaq -0,7%) im Zuge steigender Anleiherenditen (10Y auf Mehrjahreshoch), einzelne AI-Werte (AMD +2%, Qualcomm +4%) stuetzen gegen den Trend. Brent bleibt nahe 107,5 USD/Barrel (Saudi-Pipeline-Abschaltung, Hormuz-Blockade ungeloest), Krypto seitwaerts (SOL ~102, XRP ~1,41) vor dem noch unklaren Senatsvotum.",
-    "decision": "Keine neuen Trades im 20:08-Lauf. Kursupdate META (646,50 USD, +0,09% seit Kauf), SOL (102,20 USD, -0,16%), XRP (1,41 USD, +2,92%, unveraendert) und BRENT (107,46 USD, -0,04%, unveraendert). Alle vier offenen Positionen bleiben klar innerhalb der etablierten Stop-Loss-/Take-Profit-Bandbreiten. Kein Neueinstieg: das Ergebnis des CLARITY-Act-Cloture-Votums ist noch nicht zuverlaessig bestaetigt und der FOMC-Entscheid morgen mit hoher Zinserhoehungswahrscheinlichkeit spricht weiterhin gegen neue spekulative Positionen ohne klaren Edge.",
-    "reasoning": "Zwei unmittelbar bevorstehende, binaere Katalysatoren (CLARITY-Act-Ergebnis noch unbestaetigt, FOMC-Entscheid morgen mit ~90% Hike-Wahrscheinlichkeit) sprechen weiterhin gegen einen spekulativen Neueinstieg. Die Markt-Suchergebnisse liefern teils widerspruechliche/veraltete Kursstaende (z.B. META zwischen 644 und 665 USD je nach Quelle), daher werden die Kurse konservativ nahe am zuletzt bestaetigten Niveau fortgeschrieben. Bestehende Positionen bleiben unveraendert im Rahmen, kein Handlungsdruck.",
+    "marketOverview": "US-Maerkte leicht im Minus vor der Fed-Zinsentscheidung am 16.09. (Nasdaq -0,7%, Dow -0,7%, S&P 500 -0,4%); 10-Jahres-Rendite nahe 5%, Markt preist mit ~88% eine Zinserhoehung um 25 Bp ein (hawkishe Warsh-Rede, starke Arbeitsmarktdaten, CPI weiter erhoeht) - Dow damit im September bereits ueber -2%, staerkster Monatsrueckgang seit 2008. Belastungsfaktor bleibt die AI-Sicherheitsdebatte nach Amodeis Essay. Oel bleibt fest: Brent bei ca. 107,5-108 USD/Barrel (4-Monats-Hoch), getrieben von der weiterhin abgeschalteten saudischen Ost-West-Pipeline und anhaltenden Houthi-/Iran-Spannungen am Golf. Krypto-Gesamtmarkt +3% auf 2,77 Bio. USD (Greed-Index 69), rutscht aber am Morgen vor dem FOMC-Meeting wieder leicht ab (BTC ~77.000-78.000 USD); XRP-Momentum laut Analysten spuerbar abgeflaut.",
+    "decision": "Keine Trades in diesem Lauf. Offene Positionen (META, XRP, SOL, BRENT) liegen alle nahe am Einstand bzw. mit kleinem Gewinn (0,3-3,0%) und damit unterhalb der etablierten Gewinnmitnahme-Schwelle (7-8%); keine davon hat ihre These entwertet, daher werden alle gehalten. Keine neue Position eroeffnet: Aktien/ETFs stehen wegen der morgigen, mit ~88% erwarteten Fed-Zinserhoehung und dem bereits schwachen September (Dow -2%) unter Druck - kein ueberzeugendes Setup; Oel-Thema ist mit der bestehenden BRENT-Position bereits abgedeckt; Krypto verliert vor dem FOMC-Meeting an Schwung. Freies Kapital bleibt fuer eine ueberzeugendere Gelegenheit verfuegbar.",
+    "reasoning": "Keine Trades in diesem Lauf. Offene Positionen (META, XRP, SOL, BRENT) liegen alle nahe am Einstand bzw. mit kleinem Gewinn (0,3-3,0%) und damit unterhalb der etablierten Gewinnmitnahme-Schwelle (7-8%); keine davon hat ihre These entwertet, daher werden alle gehalten. Keine neue Position eroeffnet: Aktien/ETFs stehen wegen der morgigen, mit ~88% erwarteten Fed-Zinserhoehung und dem bereits schwachen September (Dow -2%) unter Druck - kein ueberzeugendes Setup; Oel-Thema ist mit der bestehenden BRENT-Position bereits abgedeckt; Krypto verliert vor dem FOMC-Meeting an Schwung. Freies Kapital bleibt fuer eine ueberzeugendere Gelegenheit verfuegbar.",
     "positionIds": [
+      "pos-0014",
       "pos-0011",
       "pos-0012",
-      "pos-0014",
       "pos-0015"
     ],
-    "portfolioValueEnd": 2214.14,
+    "portfolioValueEnd": 2225.77,
     "updates": [
       {
         "time": "00:08",
@@ -5168,6 +5168,11 @@
         "time": "20:08",
         "note": "Keine Aenderung - Kursupdate META (646,50 USD, +0,09%), SOL (102,20 USD, -0,16%); XRP/BRENT unveraendert. CLARITY-Act-Ergebnis noch nicht bestaetigt, FOMC morgen - kein neuer Trade.",
         "portfolioValue": 2214.14
+      },
+      {
+        "time": "21:08",
+        "note": "Keine Aenderung - Kurse aktualisiert, kein ueberzeugender neuer Trade vor der Fed-Entscheidung",
+        "portfolioValue": 2225.77
       }
     ]
   }
