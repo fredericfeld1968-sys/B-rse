@@ -5053,16 +5053,16 @@
   },
   {
     "date": "2026-09-15",
-    "marketOverview": "AI-/Chip-Ausverkauf bleibt praesent, Fokus liegt fast vollstaendig auf zwei bevorstehenden Katalysatoren: CLARITY-Act-Cloture-Abstimmung im US-Senat heute 14:15 ET/20:15 MESZ (Erfolgschance laut Polymarket nur noch rund 18%, da mind. 7 Demokraten noetig waeren) und der FOMC-Zinsentscheid morgen (16.09.) mit auf ~90% gestiegener Wahrscheinlichkeit einer Zinserhoehung, begleitet von einer 10-Jahres-Rendite auf 19-Jahres-Hoch (~5,04%). META notiert bei 644,38 USD (-1,42% auf Tagesbasis), Brent haelt sich stabil bei 107,46 USD/Barrel (Saudi-Pipeline-Abschaltung, Hormuz-Blockade ungeloest). Krypto zeigt leichte Ermuedung: SOL bei rund 101,80 USD (Tagesregime laut Cryptonomist weiterhin bullisch, aber MACD-Warnsignal), XRP stabil bei 1,42 USD vor dem noch ausstehenden Votum.",
-    "decision": "Keine neuen Trades im 18:09-Lauf. Kursupdate META (-0,24% seit Kauf, Tagesverlust im Zuge des anhaltenden AI-/Chip-Sektor-Drucks) und SOL (-0,55%, leichte weitere Abkuehlung); XRP und BRENT nahezu unveraendert. Alle vier offenen Positionen bleiben klar innerhalb der etablierten Stop-Loss-/Take-Profit-Bandbreiten. Kein Neueinstieg: CLARITY-Act-Cloture-Votum steht in wenigen Stunden noch aus (laut Polymarket nur ~18% Erfolgschance) und der FOMC-Entscheid morgen mit stark gestiegener Zinserhoehungswahrscheinlichkeit sprechen weiterhin gegen neue spekulative Positionen ohne klaren Edge.",
-    "reasoning": "Zwei unmittelbar bevorstehende, binaere Katalysatoren (CLARITY-Act-Cloture-Ergebnis noch offen, FOMC-Entscheid morgen mit ~90% Hike-Wahrscheinlichkeit) sprechen weiterhin gegen einen spekulativen Neueinstieg ohne Edge. Der Chip-Ausverkauf haelt an, ohne neuen positiven Katalysator ist ein Rebound-Kauf verfrueht. Bestehende Positionen werden nur mit aktuellen Kursen fortgeschrieben.",
+    "marketOverview": "CLARITY-Act-Cloture-Abstimmung im US-Senat steht unmittelbar bevor (14:15 ET/20:15 MESZ, Erfolgschance laut Polymarket weiterhin nur ca. 18-19,5%), FOMC-Zinsentscheid folgt morgen (16.09.) mit rund 90% Wahrscheinlichkeit einer Zinserhoehung. Der AI-/Chip-Ausverkauf haelt an (Philadelphia Semiconductor Index laut Bloomberg -5,9%, Nvidia -3,4%, Intel -5,6%), Nasdaq 100 -0,8%. META pendelt um 648 USD (leichte Erholung von den Tagestiefs), Brent stabil bei 107,46 USD/Barrel (Saudi-Pipeline-Abschaltung, Hormuz-Blockade weiter ungeloest). Krypto seitwaerts: SOL um 102 USD, XRP um 1,41 USD vor dem noch ausstehenden Senatsvotum.",
+    "decision": "Keine neuen Trades im 19:09-Lauf. Kursupdate META (648,00 USD, +0,32% seit Kauf, leichte Erholung von den Tagestiefs), SOL (102,10 USD, -0,25%), XRP (1,41 USD, +2,92%) und BRENT (107,46 USD, -0,04%, unveraendert). Alle vier offenen Positionen bleiben klar innerhalb der etablierten Stop-Loss-/Take-Profit-Bandbreiten. Kein Neueinstieg: CLARITY-Act-Cloture-Votum steht in wenigen Minuten noch aus (Polymarket weiterhin nur ca. 18-19,5% Erfolgschance) und der FOMC-Entscheid morgen mit stark gestiegener Zinserhoehungswahrscheinlichkeit sprechen weiterhin gegen neue spekulative Positionen ohne klaren Edge.",
+    "reasoning": "Zwei unmittelbar bevorstehende, binaere Katalysatoren (CLARITY-Act-Cloture-Ergebnis in Kuerze, FOMC-Entscheid morgen mit ~90% Hike-Wahrscheinlichkeit) sprechen weiterhin gegen einen spekulativen Neueinstieg ohne Edge. Der Chip-Ausverkauf haelt an (Philly Semi -5,9%), ohne neuen positiven Katalysator waere ein Rebound-Kauf verfrueht - analog zur bereits gescheiterten NVDA-Position. Bestehende Positionen werden nur mit aktuellen Kursen fortgeschrieben.",
     "positionIds": [
       "pos-0011",
       "pos-0012",
       "pos-0014",
       "pos-0015"
     ],
-    "portfolioValueEnd": 2213.86,
+    "portfolioValueEnd": 2215.04,
     "updates": [
       {
         "time": "00:08",
@@ -5158,6 +5158,11 @@
         "time": "18:09",
         "note": "Keine Aenderung. Kursupdate META (644,38 USD, -0,24% seit Kauf, Tagesminus -1,42% im AI-/Chip-Ausverkauf) und SOL (101,80 USD, -0,55%, leichte Abkuehlung nach Bullenphase); XRP (1,42 USD) und BRENT (107,46 USD) nahezu unveraendert. CLARITY-Act-Cloture-Votum (14:15 ET/20:15 MESZ, Polymarket nur ~18% Erfolgschance) steht noch aus, FOMC-Entscheid morgen mit ~90% Hike-Wahrscheinlichkeit. Kein ueberzeugender neuer Trade.",
         "portfolioValue": 2213.86
+      },
+      {
+        "time": "19:09",
+        "note": "Keine Aenderung. Kursupdate META (648,00 USD, +0,32% seit Kauf, leichte Erholung von 644,38 USD) und SOL (102,10 USD, -0,25%); XRP (1,41 USD, +2,92%) und BRENT (107,46 USD, -0,04%) nahezu unveraendert. CLARITY-Act-Cloture-Votum im Senat steht in wenigen Minuten (20:15 MESZ, Polymarket ca. 18-19,5% Erfolgschance) noch aus, FOMC-Entscheid morgen mit ~90% Hike-Wahrscheinlichkeit. Anhaltender Chip-Sektor-Ausverkauf (Philly Semi -5,9%) spricht weiterhin gegen einen verfruehten Rebound-Kauf. Kein ueberzeugender neuer Trade.",
+        "portfolioValue": 2215.04
       }
     ]
   }
