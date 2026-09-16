@@ -5188,16 +5188,16 @@
   },
   {
     "date": "2026-09-16",
-    "marketOverview": "FOMC-Zinsentscheid heute um 20:00 MESZ weiterhin dominierender Markttreiber (Hike-Wahrscheinlichkeit ca. 85-91%). US-Boersen oeffnen erst um 15:30 MESZ, noch keine regulaeren Kurse. Krypto leicht erholt: Bitcoin ca. 76.900 USD, XRP wieder auf 1,40 USD (+3,9% 24h) trotz gescheitertem CLARITY-Act-Vote im Senat, Solana bei ca. 101,92 USD (+1,3% 24h). Brent Crude leicht ruecklaeufig auf 107,77 USD/Barrel, Nahost-Risikopraemie haelt aber grundsaetzlich an.",
-    "decision": "Keine Trades in diesem Lauf (13:08). Tagesbudget war bereits zuvor gutgeschrieben, capital.json unveraendert (totalFreshCapitalEur 43.000 EUR, freies Kapital weiterhin 40.688,26 EUR). Offene Positionen aktualisiert: XRP erholt auf 1,40 USD (+2,19%, wieder im Plus), SOL nahezu flach auf 101,92 USD (-0,43%), BRENT leicht ruecklaeufig auf 107,77 USD (+0,25%). META unveraendert (670,52 USD, US-Markt noch nicht offen).",
-    "reasoning": "Kein neuer Trade: US-Aktien/ETFs/Rohstoffmaerkte fuer US-Titel oeffnen erst um 15:30 MESZ, die FOMC-Entscheidung selbst faellt erst um 20:00 MESZ - ein Neueinstieg jetzt waere reine Spekulation auf den Fed-Ausgang. Der gescheiterte CLARITY-Act-Vote im Senat sorgt fuer keine klare Handelschance in Krypto, da die Reaktion gemischt und ohne starken Trend ausfaellt. Keine der offenen Positionen erreicht die etablierten Stop-Loss- oder Gewinnmitnahme-Schwellen. Kein ueberzeugender Neueinstieg vor der Fed-Entscheidung heute Abend.",
+    "marketOverview": "FOMC-Zinsentscheid weiterhin erst um 20:00 MESZ ausstehend, Markt preist rund 85-93% Wahrscheinlichkeit einer Zinserhoehung um 25 Basispunkte ein. US-Boersen oeffnen erst um 15:30 MESZ, noch keine regulaeren Kurse. Krypto uneinheitlich/leicht schwaecher: XRP auf rund 1,35 USD zurueckgekommen, SOL um rund 100 USD mit starker Streuung zwischen den Boersen (96-105 USD). Brent Crude stabil bei 107,77 USD/Barrel, Nahost-Risikopraemie haelt an.",
+    "decision": "Keine Trades in diesem Lauf (14:12). Tagesbudget war bereits zuvor gutgeschrieben, capital.json unveraendert (totalFreshCapitalEur 43.000 EUR, freies Kapital weiterhin 40.688,26 EUR). Offene Positionen aktualisiert: XRP auf 1,35 USD (-1,46%), SOL auf 99,80 USD (-2,50%) im Zuge breiter Krypto-Schwaeche vor FOMC. META (670,52 USD, +3,81%) und BRENT (107,77 USD, +0,25%) unveraendert (US-Markt noch nicht offen bzw. keine neue Kursinfo).",
+    "reasoning": "Kein neuer Trade: US-Aktien/ETFs/Rohstoffmaerkte fuer US-Titel oeffnen erst um 15:30 MESZ, die FOMC-Entscheidung selbst faellt erst um 20:00 MESZ - ein Neueinstieg jetzt waere reine Spekulation auf den Fed-Ausgang. Die Krypto-Kurse (XRP, SOL) zeigen uneinheitliche Signale ueber verschiedene Boersen ohne klaren, ueberzeugenden Trend. Keine der offenen Positionen erreicht die etablierten Stop-Loss- oder Gewinnmitnahme-Schwellen.",
     "positionIds": [
       "pos-0014",
       "pos-0011",
       "pos-0012",
       "pos-0015"
     ],
-    "portfolioValueEnd": 2233.16,
+    "portfolioValueEnd": 2204.56,
     "updates": [
       {
         "time": "00:08",
@@ -5268,6 +5268,11 @@
         "time": "13:08",
         "note": "Keine Aenderung. XRP auf 1,40 USD (+2,19%) erholt trotz gescheitertem CLARITY-Act-Vote, SOL nahezu flach auf 101,92 USD (-0,43%), BRENT leicht ruecklaeufig auf 107,77 USD (+0,25%). META unveraendert (US-Markt noch geschlossen). Kein Trade vor FOMC-Entscheidung heute Abend (20:00 MESZ).",
         "portfolioValue": 2233.16
+      },
+      {
+        "time": "14:12",
+        "note": "Keine Aenderung. XRP auf 1,35 USD (-1,46%) und SOL auf 99,80 USD (-2,50%) im Zuge breiter Krypto-Schwaeche vor FOMC zurueckgekommen. META/BRENT unveraendert. Kein Trade rund 6 Stunden vor der FOMC-Entscheidung (20:00 MESZ), US-Boersen oeffnen erst um 15:30 MESZ.",
+        "portfolioValue": 2204.56
       }
     ]
   }
