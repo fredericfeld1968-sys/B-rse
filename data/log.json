@@ -5188,16 +5188,16 @@
   },
   {
     "date": "2026-09-16",
-    "marketOverview": "FOMC-Zinsentscheid heute (16.09., 20:00 MESZ) bleibt der dominierende Markttreiber; Hike-Wahrscheinlichkeiten laut verschiedenen Quellen weiterhin uneinheitlich (grob 50-90%), der Markt preist erhoehte Unsicherheit vor der Entscheidung ein. Kryptomarkt naechtlich leicht schwankend: XRP knapp unter der 1,37-USD-Marke auf ca. 1,36 USD zurueckgekommen (ETF-Zuflussserie haelt laut CoinDesk weiter an), Solana leicht erholt auf ca. 103,5 USD. US-Boersen, Xetra und Rohstoffmaerkte bleiben zu dieser Nachtstunde weiterhin geschlossen.",
-    "decision": "Keine Trades in diesem Lauf (06:07). Tagesbudget fuer den 16.09. bereits zuvor gutgeschrieben, capital.json unveraendert (totalFreshCapitalEur 43.000 EUR, freies Kapital weiterhin 40.688,26 EUR). Offene Positionen aktualisiert: XRP leicht zurueckgekommen auf -0,73% (1,36 USD), SOL leicht erholt auf +1,11% (103,50 USD). META (+2,94%, Markt geschlossen) und BRENT (-0,01%, nachts nicht gehandelt) unveraendert. Alle Werte klar innerhalb der etablierten Gewinn-/Stop-Loss-Schwellen.",
-    "reasoning": "Kein neuer Trade: Aktien/ETFs/Rohstoffe sind um diese Nachtzeit nicht handelbar. Ein Krypto-Neueinstieg ist trotz vorhandenem freien Kapital nicht ueberzeugend, da rund 14 Stunden vor der FOMC-Entscheidung die Hike-Odds weiterhin uneinheitlich eingeschaetzt werden und kein neuer, klarer fundamentaler Katalysator vorliegt - ein Einstieg jetzt waere reine Spekulation auf den Ausgang des Zinsentscheids. Freies Kapital bleibt fuer eine ueberzeugendere Gelegenheit verfuegbar.",
+    "marketOverview": "FOMC-Zinsentscheid heute (16.09., 20:00 MESZ) bleibt der dominierende Markttreiber; Hike-Wahrscheinlichkeit laut CME FedWatch und weiteren Quellen zuletzt auf rund 84-91% gestiegen (hawkishe Erwartungshaltung nach starken Inflations- und Arbeitsmarktdaten). Kryptomarkt insgesamt leicht im Minus vor der Entscheidung: Bitcoin bei ca. 76.941 USD, XRP bei 1,40 USD (leicht erholt), Solana bei 100,74 USD (leicht zurueckgekommen). Brent Crude stabil bei 107,49 USD/Barrel (Nahost-Praemie haelt). US-Boersen, Xetra und Terminmaerkte fuer Rohstoffe/Aktien vor Handelsbeginn weiterhin geschlossen bzw. im Vorfeld ruhig.",
+    "decision": "Keine Trades in diesem Lauf (07:08). Tagesbudget fuer den 16.09. bereits zuvor gutgeschrieben, capital.json unveraendert (totalFreshCapitalEur 43.000 EUR, freies Kapital weiterhin 40.688,26 EUR). Offene Positionen aktualisiert: XRP leicht erholt auf +2,19% (1,40 USD), SOL leicht zurueckgekommen auf -1,58% (100,74 USD). META (+2,94%, Markt geschlossen) und BRENT (-0,01%, 107,49 USD, praktisch unveraendert) unveraendert. Alle Werte klar innerhalb der etablierten Gewinn-/Stop-Loss-Schwellen.",
+    "reasoning": "Kein neuer Trade: Aktien/ETFs/Rohstoffe sind vor Handelsbeginn (Xetra 9:00, US-Boersen 15:30 MESZ) nicht handelbar. Ein Krypto-Neueinstieg ist trotz vorhandenem freien Kapital nicht ueberzeugend, da rund 13 Stunden vor der FOMC-Entscheidung die Hike-Odds weiter gestiegen (hawkisher) sind und der gesamte Kryptomarkt uneinheitlich bis leicht schwaecher tendiert - ein Einstieg jetzt waere reine Spekulation auf den Ausgang des Zinsentscheids. Freies Kapital bleibt fuer eine ueberzeugendere Gelegenheit nach der FOMC-Entscheidung verfuegbar.",
     "positionIds": [
       "pos-0014",
       "pos-0011",
       "pos-0012",
       "pos-0015"
     ],
-    "portfolioValueEnd": 2219.47,
+    "portfolioValueEnd": 2220.59,
     "updates": [
       {
         "time": "00:08",
@@ -5233,6 +5233,11 @@
         "time": "06:07",
         "note": "Keine Aenderung. XRP auf 1,36 USD (-0,73%) leicht zurueckgekommen, SOL auf 103,50 USD (+1,11%) leicht erholt. META/BRENT unveraendert (Maerkte geschlossen). Kein Trade rund 14 Stunden vor der FOMC-Entscheidung heute Abend, Aktien/ETFs/Rohstoffe nachts nicht handelbar.",
         "portfolioValue": 2219.47
+      },
+      {
+        "time": "07:08",
+        "note": "Keine Aenderung. XRP auf 1,40 USD (+2,19%) leicht erholt, SOL auf 100,74 USD (-1,58%) leicht zurueckgekommen im Zuge marktweit leicht schwaecherer Kryptostimmung. META/BRENT unveraendert (Maerkte geschlossen). Fed-Hike-Odds weiter auf 84-91% gestiegen; kein Trade rund 13 Stunden vor der FOMC-Entscheidung heute Abend, Aktien/ETFs/Rohstoffe vor Handelsbeginn nicht handelbar.",
+        "portfolioValue": 2220.59
       }
     ]
   }
