@@ -5188,16 +5188,16 @@
   },
   {
     "date": "2026-09-16",
-    "marketOverview": "Fed hob den Leitzins um 25bp auf 3,75-4,00% an; Warsh betonte anhaltend hohe Inflation und stellte einen weiteren Zinsschritt 2026 in Aussicht. Die US-Boersen schlossen gemischt-negativ (Dow -1,2%, S&P -0,5%, Nasdaq nahezu flach). Krypto blieb unter Druck: Bitcoin fiel auf rund 76.000 USD, nachdem der Senat den CLARITY Act in einer knappen Abstimmung (49-50) ablehnte; SOL notiert bei ca. 97,31 USD (-4,93% seit Kauf pos-0012). META haelt sich mit 672,63 USD (+4,13%) robust, BRENT legte auf 108,34 USD (+0,78%) weiter zu (Saudi-Pipeline-Stoerungen).",
-    "decision": "Lauf 22:07: Keine neue Transaktion. XRP-Position (pos-0011) wurde bereits im vorherigen Lauf per Stop-Loss geschlossen. META (+4,13%), SOL (-4,93%) und BRENT (+0,78%) bleiben offen und wurden auf aktuelle Kurse aktualisiert. Kein Neukauf, da US-Boersen nach Handelsschluss (22:00 CEST) fuer Aktien/ETFs/Rohstoffe nicht mehr handelbar sind und der Kryptomarkt nach gescheitertem CLARITY-Act-Votum und hawkishem Fed-Ton in einer unklaren, nicht ueberzeugenden Abwaertsbewegung steckt. Freies Kapital weiterhin 41.155,41 EUR, Gewinn-Topf 326,62 EUR.",
-    "reasoning": "Keine der offenen Positionen hat eine Schwelle erreicht: META bleibt unter der Gewinnmitnahme-Zone (7-9%) bei 4,13% - weiter halten. SOL naehert sich mit -4,93% der Stop-Loss-Zone (~-6,5 bis -7,5%), hat sie aber noch nicht erreicht - engmaschig beobachten, kein Handeln noetig. BRENT bei +0,78% klar unter der Zielzone - halten, Nahost-Risikopraemie (Saudi-Pipelinestoerungen) stuetzt weiter. Kein Neukauf: Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten (NYSE/Nasdaq seit 22:00 CEST geschlossen) nicht handelbar; im Kryptomarkt fehlt nach dem gescheiterten CLARITY-Act-Votum und der hawkishen Fed-Pressekonferenz eine klar ueberzeugende Long- oder Dip-Kauf-Gelegenheit - der Markt verdaut die Nachrichten noch ohne erkennbare Bodenbildung.",
+    "marketOverview": "Nach dem Fed-Zinsschritt (+25bp auf 3,75-4,00%) und Warshs hawkischer Pressekonferenz (Inflation weiterhin \"zu hoch\") pendelten die US-Indizes um die Nulllinie; der S&P gab fruehe Gewinne ab. Krypto bleibt schwach: Bitcoin haelt sich um 76.000 USD nach dem gescheiterten CLARITY-Act-Votum (49-50), SOL notiert bei ca. 96,80 USD (-5,43% seit Kauf pos-0012) und naehert sich der Stop-Loss-Zone. META schloss bei 674,31 USD (+4,40%), Brent bei 107,77 USD (+0,25%) nach Saudi-Pipeline-Stoerungen.",
+    "decision": "Lauf 23:08: Keine neue Transaktion. META (+4,40%), SOL (-5,43%) und BRENT (+0,25%) bleiben offen und wurden auf aktuelle Kurse aktualisiert. Kein Neukauf, da US-Boersen ausserhalb der Handelszeiten (nach 22:00 CEST) fuer Aktien/ETFs/Rohstoffe geschlossen sind und der Kryptomarkt nach gescheitertem CLARITY-Act-Votum und hawkischer Fed-Pressekonferenz weiter richtungslos-schwach bleibt, ohne ueberzeugendes Setup. Freies Kapital weiterhin 41.155,41 EUR, Gewinn-Topf 326,62 EUR.",
+    "reasoning": "META bleibt mit +4,40% unter der Gewinnmitnahme-Zone (7-9%) - weiter halten. SOL naehert sich mit -5,43% der Stop-Loss-Zone (~-6,5 bis -7,5%), hat sie aber noch nicht erreicht - engmaschig beobachten, noch kein Verkaufssignal. BRENT bei +0,25% klar unter der Zielzone - halten, Nahost-Risikopraemie stuetzt weiter. Kein Neukauf: Aktien/ETFs/Rohstoffe nicht handelbar (Boersen geschlossen); im Kryptomarkt fehlt nach der hawkischen Fed-Pressekonferenz und dem gescheiterten CLARITY-Act-Votum weiterhin eine klar ueberzeugende Long- oder Dip-Kauf-Gelegenheit.",
     "positionIds": [
       "pos-0014",
       "pos-0011",
       "pos-0012",
       "pos-0015"
     ],
-    "portfolioValueEnd": 1704.83,
+    "portfolioValueEnd": 1700.72,
     "updates": [
       {
         "time": "00:08",
@@ -5313,6 +5313,11 @@
         "time": "22:07",
         "note": "Keine Aenderung. META auf 672,63 USD (+4,13%) leicht zurueckgekommen, SOL auf 97,31 USD (-4,93%) naeher an die Stop-Loss-Zone geruckt, BRENT auf 108,34 USD (+0,78%) weiter gestiegen (Saudi-Pipeline-Stoerungen). Kein Trade: US-Boersen seit 22:00 CEST geschlossen, Kryptomarkt nach gescheitertem CLARITY-Act-Votum ohne ueberzeugende neue Gelegenheit.",
         "portfolioValue": 1704.83
+      },
+      {
+        "time": "23:08",
+        "note": "Keine Aenderung. META auf 674,31 USD (+4,40%), SOL auf 96,80 USD (-5,43%, naehert sich Stop-Loss-Zone), BRENT auf 107,77 USD (+0,25%) aktualisiert. Kein Trade: Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten, Kryptomarkt nach Fed-Pressekonferenz weiter ohne ueberzeugendes Setup.",
+        "portfolioValue": 1700.72
       }
     ]
   }
