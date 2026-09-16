@@ -5188,16 +5188,16 @@
   },
   {
     "date": "2026-09-16",
-    "marketOverview": "FOMC-Zinsentscheid heute um 20:00 MESZ (14:00 ET) weiterhin dominierender Markttreiber; Hike-Wahrscheinlichkeit laut Faelligkeitsmaerkten bei ca. 91-93%. US-Boersen oeffnen erst um 15:30 MESZ, Futures leicht im Plus vor der Entscheidung. Kryptomarkt bleibt risikoscheu: Bitcoin ca. 75.900 USD (-1,4% 24h), XRP weiterhin schwach bei 1,29 USD (-8,1% 24h), Solana leicht erholt auf 97,31 USD (-4,0% 24h). Brent Crude bei ca. 109,21 USD/Barrel, Nahost-Versorgungskrise (abgeschaltete Ost-West-Pipeline Saudi-Arabiens, Angriffe nahe Strasse von Hormuz) haelt die Risikopraemie hoch.",
-    "decision": "Keine Trades in diesem Lauf (12:08). Tagesbudget bereits zuvor gutgeschrieben, capital.json unveraendert (totalFreshCapitalEur 43.000 EUR, freies Kapital weiterhin 40.688,26 EUR). Offene Positionen aktualisiert: SOL nun -4,93% (97,31 USD, leichte Erholung), BRENT nun +1,59% (109,21 USD, Nahost-Praemie haelt an). META und XRP gegenueber dem letzten Lauf unveraendert (US-Markt noch geschlossen bzw. keine neue verlaessliche Kursbewegung).",
-    "reasoning": "Kein neuer Trade: US-Aktien/ETFs/Rohstoffmaerkte fuer US-Titel oeffnen erst um 15:30 MESZ, die FOMC-Entscheidung selbst faellt erst um 20:00 MESZ - ein Neueinstieg jetzt waere reine Spekulation auf den Fed-Ausgang. SOL und BRENT entwickeln sich moderat in aehnliche/positive Richtung, ohne die etablierten Stop-Loss- oder Gewinnmitnahme-Schwellen zu erreichen. XRP (-5,84% seit Kauf) bleibt unterhalb der Stop-Loss-Schwelle und wird weiter beobachtet. Kein ueberzeugender Neueinstieg vor der Fed-Entscheidung heute Abend.",
+    "marketOverview": "FOMC-Zinsentscheid heute um 20:00 MESZ weiterhin dominierender Markttreiber (Hike-Wahrscheinlichkeit ca. 85-91%). US-Boersen oeffnen erst um 15:30 MESZ, noch keine regulaeren Kurse. Krypto leicht erholt: Bitcoin ca. 76.900 USD, XRP wieder auf 1,40 USD (+3,9% 24h) trotz gescheitertem CLARITY-Act-Vote im Senat, Solana bei ca. 101,92 USD (+1,3% 24h). Brent Crude leicht ruecklaeufig auf 107,77 USD/Barrel, Nahost-Risikopraemie haelt aber grundsaetzlich an.",
+    "decision": "Keine Trades in diesem Lauf (13:08). Tagesbudget war bereits zuvor gutgeschrieben, capital.json unveraendert (totalFreshCapitalEur 43.000 EUR, freies Kapital weiterhin 40.688,26 EUR). Offene Positionen aktualisiert: XRP erholt auf 1,40 USD (+2,19%, wieder im Plus), SOL nahezu flach auf 101,92 USD (-0,43%), BRENT leicht ruecklaeufig auf 107,77 USD (+0,25%). META unveraendert (670,52 USD, US-Markt noch nicht offen).",
+    "reasoning": "Kein neuer Trade: US-Aktien/ETFs/Rohstoffmaerkte fuer US-Titel oeffnen erst um 15:30 MESZ, die FOMC-Entscheidung selbst faellt erst um 20:00 MESZ - ein Neueinstieg jetzt waere reine Spekulation auf den Fed-Ausgang. Der gescheiterte CLARITY-Act-Vote im Senat sorgt fuer keine klare Handelschance in Krypto, da die Reaktion gemischt und ohne starken Trend ausfaellt. Keine der offenen Positionen erreicht die etablierten Stop-Loss- oder Gewinnmitnahme-Schwellen. Kein ueberzeugender Neueinstieg vor der Fed-Entscheidung heute Abend.",
     "positionIds": [
       "pos-0014",
       "pos-0011",
       "pos-0012",
       "pos-0015"
     ],
-    "portfolioValueEnd": 2178.51,
+    "portfolioValueEnd": 2233.16,
     "updates": [
       {
         "time": "00:08",
@@ -5263,6 +5263,11 @@
         "time": "12:08",
         "note": "Keine Aenderung. SOL auf 97,31 USD (-4,93%) leicht erholt, BRENT auf 109,21 USD (+1,59%) im Zuge anhaltender Nahost-Risikopraemie aktualisiert. META/XRP unveraendert. Kein Trade vor FOMC-Entscheidung heute Abend (20:00 MESZ), US-Boersen noch geschlossen.",
         "portfolioValue": 2178.51
+      },
+      {
+        "time": "13:08",
+        "note": "Keine Aenderung. XRP auf 1,40 USD (+2,19%) erholt trotz gescheitertem CLARITY-Act-Vote, SOL nahezu flach auf 101,92 USD (-0,43%), BRENT leicht ruecklaeufig auf 107,77 USD (+0,25%). META unveraendert (US-Markt noch geschlossen). Kein Trade vor FOMC-Entscheidung heute Abend (20:00 MESZ).",
+        "portfolioValue": 2233.16
       }
     ]
   }
