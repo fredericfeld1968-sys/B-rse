@@ -5188,16 +5188,16 @@
   },
   {
     "date": "2026-09-16",
-    "marketOverview": "FOMC-Zinsentscheid ist gefallen: Die Fed erhoehte den Leitzins einstimmig um 25 Basispunkte auf 3,75-4,00% - die erste Erhoehung seit 2023. Aktienmaerkte reagierten mit einer moderaten Erleichterungs-Rally, da die Erhoehung breit erwartet worden war (S&P 500 +0,3%, Nasdaq +0,7-0,8%). META bei 676,87 USD (+4,79%) profitiert davon und naehert sich der etablierten Gewinnmitnahme-Zone. Krypto reagierte dagegen negativ auf den restriktiveren Zinsschritt: XRP fiel auf 1,29 USD (-5,84%), SOL auf 97,34 USD (-4,90%), beide naeher an der Stop-Loss-Schwelle als zuvor, aber noch nicht darueber. BRENT nahezu unveraendert bei 107,20 USD (-0,28%). Die entscheidende Pressekonferenz von Fed-Chair Kevin Warsh (20:30 MESZ) mit Ausblick auf den weiteren Zinspfad steht noch aus und duerfte richtungsweisender sein als die Entscheidung selbst.",
-    "decision": "Keine Trades in diesem Lauf (20:08), unmittelbar nach der FOMC-Entscheidung. Tagesbudget bereits zuvor gutgeschrieben, capital.json unveraendert (totalFreshCapitalEur 43.000 EUR, freies Kapital weiterhin 40.688,26 EUR). Offene Positionen aktualisiert: META auf 676,87 USD (+4,79%), XRP auf 1,29 USD (-5,84%), SOL auf 97,34 USD (-4,90%), BRENT auf 107,20 USD (-0,28%).",
-    "reasoning": "Kein neuer Trade und keine Positionsschliessung: Die Zinsentscheidung selbst (25bp-Hike auf 3,75-4,00%) war breit erwartet und bereits eingepreist: Aktien reagierten nur moderat positiv, waehrend die eigentlich richtungsweisende Warsh-Pressekonferenz (20:30 MESZ) noch aussteht - ein Neueinstieg jetzt waere reine Spekulation auf deren Ausgang. XRP (-5,84%) und SOL (-4,90%) sind durch den restriktiveren Zinsschritt naeher an die Stop-Loss-Schwelle (~ -6,5% bis -7,5%) herangerueckt, haben sie aber noch nicht erreicht - werden daher weiter gehalten und nach der Pressekonferenz neu bewertet. META (+4,79%) liegt noch unter der etablierten Gewinnmitnahme-Zone (7-9%) und bleibt offen. BRENT (-0,28%) unveraendert gehalten.",
+    "marketOverview": "Fed hebt Leitzins wie erwartet um 25 Basispunkte auf 3,75-4,00% an (erste Erhoehung seit 2023). In seiner Pressekonferenz (20:30 MESZ) betonte Fed-Chair Kevin Warsh anhaltend hohe Inflation (\"underlying trends have not meaningfully improved\") und stellte einen weiteren Zinsschritt fuer 2026 in Aussicht - die Maerkte reagierten darauf verhalten negativ: S&P 500 -0,3%, Dow Jones -0,9%, Nasdaq nahe der Nulllinie. META haelt sich mit 678,00 USD (+4,97% seit Kauf) robust nahe der Tagesspanne. Krypto reagierte auf den hawkishen Ton und das gescheiterte Senats-Votum zum CLARITY Act negativ: XRP fiel auf 1,28 USD, SOL auf 98,37 USD. BRENT nahezu unveraendert bei 107,65 USD.",
+    "decision": "Lauf 21:09: XRP-Position (pos-0011) mit Stop-Loss bei -6,57% (467,15 EUR, -32,85 EUR Verlust) geschlossen - Kursverfall nach hawkishem FOMC-Entscheid und gescheitertem CLARITY-Act-Votum im Senat ohne Erholungsanzeichen. Kein Neukauf in diesem Lauf, da nach der FOMC-Entscheidung keine klar ueberzeugende Gelegenheit vorliegt (Maerkte verdauen hawkishe Fed-Kommunikation, Richtung uneinheitlich). META (+4,97%), SOL (-3,90%) und BRENT (+0,14%) bleiben offen und wurden auf aktuelle Kurse aktualisiert. Freies Kapital nun 41.155,41 EUR, Gewinn-Topf 326,62 EUR.",
+    "reasoning": "XRP-Verkauf: Position erreichte mit -6,57% die seit Nachmittag beobachtete Stop-Loss-Zone (~-6,5% bis -7,5%, analog Rheinmetall/NVIDIA). Zusaetzlich neuer konkreter Negativ-Katalysator (gescheitertes CLARITY-Act-Votum) ohne Anzeichen kurzfristiger Erholung - konsequente Verlustbegrenzung passend zum spekulativen Kurzfrist-Profil. META bleibt unter der etablierten Gewinnmitnahme-Zone (7-9%) bei 4,97% - wird weiter gehalten. SOL hat sich von -4,90% auf -3,90% leicht erholt und damit von der Stop-Loss-Schwelle entfernt - kein Handlungsbedarf. BRENT nahezu unveraendert (+0,14%) - kein Handlungsbedarf. Kein Neukauf: Nach der hawkishen Warsh-Pressekonferenz (Inflation weiterhin zu hoch, weiterer Zinsschritt 2026 signalisiert) und der gemischten/leicht negativen Marktreaktion (S&P -0,3%, Dow -0,9%) fehlt eine wirklich ueberzeugende neue Gelegenheit; ein Neueinstieg jetzt waere reine Spekulation auf die kurzfristige Verdauung der Fed-Kommunikation.",
     "positionIds": [
       "pos-0014",
       "pos-0011",
       "pos-0012",
       "pos-0015"
     ],
-    "portfolioValueEnd": 2173.36,
+    "portfolioValueEnd": 1711.15,
     "updates": [
       {
         "time": "00:08",
@@ -5303,6 +5303,11 @@
         "time": "20:08",
         "note": "Keine Aenderung. FOMC hebt Leitzins um 25bp auf 3,75-4,00% an (erste Erhoehung seit 2023), Aktien reagieren moderat positiv (S&P +0,3%), META auf 676,87 USD (+4,79%). Krypto reagiert negativ: XRP auf 1,29 USD (-5,84%), SOL auf 97,34 USD (-4,90%), beide naeher an Stop-Loss aber noch nicht erreicht. BRENT nahezu unveraendert (107,20 USD, -0,28%). Kein Trade vor der richtungsweisenden Warsh-Pressekonferenz (20:30 MESZ).",
         "portfolioValue": 2173.36
+      },
+      {
+        "time": "21:09",
+        "note": "Verkauf XRP 500 EUR (Stop-Loss bei -6,57%, realisierter Verlust -32,85 EUR) nach hawkishem FOMC-Entscheid und gescheitertem CLARITY-Act-Votum. Kein Neukauf. META 678,00 USD (+4,97%), SOL 98,37 USD (-3,90%), BRENT 107,65 USD (+0,14%) aktualisiert.",
+        "portfolioValue": 1711.15
       }
     ]
   }
