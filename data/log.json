@@ -5188,16 +5188,16 @@
   },
   {
     "date": "2026-09-16",
-    "marketOverview": "Fed hebt Leitzins wie erwartet um 25 Basispunkte auf 3,75-4,00% an (erste Erhoehung seit 2023). In seiner Pressekonferenz (20:30 MESZ) betonte Fed-Chair Kevin Warsh anhaltend hohe Inflation (\"underlying trends have not meaningfully improved\") und stellte einen weiteren Zinsschritt fuer 2026 in Aussicht - die Maerkte reagierten darauf verhalten negativ: S&P 500 -0,3%, Dow Jones -0,9%, Nasdaq nahe der Nulllinie. META haelt sich mit 678,00 USD (+4,97% seit Kauf) robust nahe der Tagesspanne. Krypto reagierte auf den hawkishen Ton und das gescheiterte Senats-Votum zum CLARITY Act negativ: XRP fiel auf 1,28 USD, SOL auf 98,37 USD. BRENT nahezu unveraendert bei 107,65 USD.",
-    "decision": "Lauf 21:09: XRP-Position (pos-0011) mit Stop-Loss bei -6,57% (467,15 EUR, -32,85 EUR Verlust) geschlossen - Kursverfall nach hawkishem FOMC-Entscheid und gescheitertem CLARITY-Act-Votum im Senat ohne Erholungsanzeichen. Kein Neukauf in diesem Lauf, da nach der FOMC-Entscheidung keine klar ueberzeugende Gelegenheit vorliegt (Maerkte verdauen hawkishe Fed-Kommunikation, Richtung uneinheitlich). META (+4,97%), SOL (-3,90%) und BRENT (+0,14%) bleiben offen und wurden auf aktuelle Kurse aktualisiert. Freies Kapital nun 41.155,41 EUR, Gewinn-Topf 326,62 EUR.",
-    "reasoning": "XRP-Verkauf: Position erreichte mit -6,57% die seit Nachmittag beobachtete Stop-Loss-Zone (~-6,5% bis -7,5%, analog Rheinmetall/NVIDIA). Zusaetzlich neuer konkreter Negativ-Katalysator (gescheitertes CLARITY-Act-Votum) ohne Anzeichen kurzfristiger Erholung - konsequente Verlustbegrenzung passend zum spekulativen Kurzfrist-Profil. META bleibt unter der etablierten Gewinnmitnahme-Zone (7-9%) bei 4,97% - wird weiter gehalten. SOL hat sich von -4,90% auf -3,90% leicht erholt und damit von der Stop-Loss-Schwelle entfernt - kein Handlungsbedarf. BRENT nahezu unveraendert (+0,14%) - kein Handlungsbedarf. Kein Neukauf: Nach der hawkishen Warsh-Pressekonferenz (Inflation weiterhin zu hoch, weiterer Zinsschritt 2026 signalisiert) und der gemischten/leicht negativen Marktreaktion (S&P -0,3%, Dow -0,9%) fehlt eine wirklich ueberzeugende neue Gelegenheit; ein Neueinstieg jetzt waere reine Spekulation auf die kurzfristige Verdauung der Fed-Kommunikation.",
+    "marketOverview": "Fed hob den Leitzins um 25bp auf 3,75-4,00% an; Warsh betonte anhaltend hohe Inflation und stellte einen weiteren Zinsschritt 2026 in Aussicht. Die US-Boersen schlossen gemischt-negativ (Dow -1,2%, S&P -0,5%, Nasdaq nahezu flach). Krypto blieb unter Druck: Bitcoin fiel auf rund 76.000 USD, nachdem der Senat den CLARITY Act in einer knappen Abstimmung (49-50) ablehnte; SOL notiert bei ca. 97,31 USD (-4,93% seit Kauf pos-0012). META haelt sich mit 672,63 USD (+4,13%) robust, BRENT legte auf 108,34 USD (+0,78%) weiter zu (Saudi-Pipeline-Stoerungen).",
+    "decision": "Lauf 22:07: Keine neue Transaktion. XRP-Position (pos-0011) wurde bereits im vorherigen Lauf per Stop-Loss geschlossen. META (+4,13%), SOL (-4,93%) und BRENT (+0,78%) bleiben offen und wurden auf aktuelle Kurse aktualisiert. Kein Neukauf, da US-Boersen nach Handelsschluss (22:00 CEST) fuer Aktien/ETFs/Rohstoffe nicht mehr handelbar sind und der Kryptomarkt nach gescheitertem CLARITY-Act-Votum und hawkishem Fed-Ton in einer unklaren, nicht ueberzeugenden Abwaertsbewegung steckt. Freies Kapital weiterhin 41.155,41 EUR, Gewinn-Topf 326,62 EUR.",
+    "reasoning": "Keine der offenen Positionen hat eine Schwelle erreicht: META bleibt unter der Gewinnmitnahme-Zone (7-9%) bei 4,13% - weiter halten. SOL naehert sich mit -4,93% der Stop-Loss-Zone (~-6,5 bis -7,5%), hat sie aber noch nicht erreicht - engmaschig beobachten, kein Handeln noetig. BRENT bei +0,78% klar unter der Zielzone - halten, Nahost-Risikopraemie (Saudi-Pipelinestoerungen) stuetzt weiter. Kein Neukauf: Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten (NYSE/Nasdaq seit 22:00 CEST geschlossen) nicht handelbar; im Kryptomarkt fehlt nach dem gescheiterten CLARITY-Act-Votum und der hawkishen Fed-Pressekonferenz eine klar ueberzeugende Long- oder Dip-Kauf-Gelegenheit - der Markt verdaut die Nachrichten noch ohne erkennbare Bodenbildung.",
     "positionIds": [
       "pos-0014",
       "pos-0011",
       "pos-0012",
       "pos-0015"
     ],
-    "portfolioValueEnd": 1711.15,
+    "portfolioValueEnd": 1704.83,
     "updates": [
       {
         "time": "00:08",
@@ -5308,6 +5308,11 @@
         "time": "21:09",
         "note": "Verkauf XRP 500 EUR (Stop-Loss bei -6,57%, realisierter Verlust -32,85 EUR) nach hawkishem FOMC-Entscheid und gescheitertem CLARITY-Act-Votum. Kein Neukauf. META 678,00 USD (+4,97%), SOL 98,37 USD (-3,90%), BRENT 107,65 USD (+0,14%) aktualisiert.",
         "portfolioValue": 1711.15
+      },
+      {
+        "time": "22:07",
+        "note": "Keine Aenderung. META auf 672,63 USD (+4,13%) leicht zurueckgekommen, SOL auf 97,31 USD (-4,93%) naeher an die Stop-Loss-Zone geruckt, BRENT auf 108,34 USD (+0,78%) weiter gestiegen (Saudi-Pipeline-Stoerungen). Kein Trade: US-Boersen seit 22:00 CEST geschlossen, Kryptomarkt nach gescheitertem CLARITY-Act-Votum ohne ueberzeugende neue Gelegenheit.",
+        "portfolioValue": 1704.83
       }
     ]
   }
