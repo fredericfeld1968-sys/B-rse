@@ -5188,16 +5188,16 @@
   },
   {
     "date": "2026-09-16",
-    "marketOverview": "FOMC-Zinsentscheid heute (16.09.) um 20:00 MESZ (14:00 EDT) weiterhin der dominierende Markttreiber; Wahrscheinlichkeit fuer eine Anhebung um 25 Bp je nach Quelle 60-88%, Fed Funds Range aktuell 3,50-3,75%, hohe PCE-Inflation (3,7%) als Haupttreiber der Hike-Erwartung. Kryptomarkt insgesamt weiterhin rot auf Tages- und Wochensicht: Bitcoin haengt bei ca. 77.000-79.000 USD fest, XRP bei ca. 1,37-1,40 USD, Solana bei ca. 101-105 USD (deutliche Kurs-Diskrepanzen zwischen Plattformen zeigen hohe Unsicherheit). Zusaetzlicher Belastungsfaktor fuer XRP: die Senats-Abstimmung zum CLARITY Act gilt laut Marktberichten als 'in ernsthaften Schwierigkeiten', waehrend Solana von Beobachtern aktuell als der robustere Hold vor der FOMC-Entscheidung eingeschaetzt wird. US-Boersen, Xetra und Rohstoffmaerkte bleiben zu dieser Nachtstunde weiterhin geschlossen.",
-    "decision": "Keine Trades in diesem Lauf (04:07). Tagesbudget fuer den 16.09. bereits zuvor gutgeschrieben, capital.json unveraendert (totalFreshCapitalEur 43.000 EUR, freies Kapital weiterhin 40.688,26 EUR). Offene Positionen aktualisiert: XRP leicht auf +1,46% gestiegen (1,37 -> 1,39 USD), SOL nahezu unveraendert bei -0,35% (101,00 -> 102,00 USD) im Rahmen der weiterhin unsicheren Kryptostimmung vor der FOMC-Entscheidung heute Abend. META (+2,94%, Markt geschlossen) und BRENT (-0,01%, nachts nicht gehandelt) unveraendert. Alle Werte klar innerhalb der etablierten Gewinn-/Stop-Loss-Schwellen. Kein neuer Trade: Aktien/ETFs/Rohstoffe sind um diese Nachtzeit nicht handelbar, und ein Krypto-Neueinstieg rund 16 Stunden vor der mit Spannung erwarteten FOMC-Entscheidung waere reines Risiko ohne ueberzeugenden neuen Katalysator (XRP zudem durch das ins Stocken geratene CLARITY-Act-Votum belastet). Freies Kapital bleibt fuer eine ueberzeugendere Gelegenheit verfuegbar.",
-    "reasoning": "Keine Trades in diesem Lauf (04:07). Tagesbudget fuer den 16.09. bereits zuvor gutgeschrieben, capital.json unveraendert (totalFreshCapitalEur 43.000 EUR, freies Kapital weiterhin 40.688,26 EUR). Offene Positionen aktualisiert: XRP leicht auf +1,46% gestiegen (1,37 -> 1,39 USD), SOL nahezu unveraendert bei -0,35% (101,00 -> 102,00 USD) im Rahmen der weiterhin unsicheren Kryptostimmung vor der FOMC-Entscheidung heute Abend. META (+2,94%, Markt geschlossen) und BRENT (-0,01%, nachts nicht gehandelt) unveraendert. Alle Werte klar innerhalb der etablierten Gewinn-/Stop-Loss-Schwellen. Kein neuer Trade: Aktien/ETFs/Rohstoffe sind um diese Nachtzeit nicht handelbar, und ein Krypto-Neueinstieg rund 16 Stunden vor der mit Spannung erwarteten FOMC-Entscheidung waere reines Risiko ohne ueberzeugenden neuen Katalysator (XRP zudem durch das ins Stocken geratene CLARITY-Act-Votum belastet). Freies Kapital bleibt fuer eine ueberzeugendere Gelegenheit verfuegbar.",
+    "marketOverview": "FOMC-Zinsentscheid heute (16.09.) um 20:00 MESZ weiterhin der dominierende Markttreiber; die Wahrscheinlichkeit fuer eine Zinsanhebung um 25 Bp ist laut aktuellen Quellen (CME FedWatch, Kalshi, Polymarket) zuletzt auf 84-91% gestiegen (zuvor 60-88%) - ein zunehmend hawkishes Signal, das Risikoassets tendenziell belastet. Kryptomarkt zeigt sich uneinheitlich: XRP pendelt weiterhin um 1,35-1,42 USD (CoinDesk/OKX ~1,386 USD, +1% 24h), gestuetzt von anhaltenden ETF-Zufluessen (11 Tage in Folge, kumuliert 1,68 Mrd. USD) und der fuer 15.09. terminierten Senats-Abstimmung zum CLARITY Act. Solana erholt sich leicht auf ca. 100-105 USD (Coinbase/Crypto.com ~104,5 USD, CoinMarketCap ~100,4 USD, im Schnitt +2-3% 24h). US-Boersen, Xetra und Rohstoffmaerkte bleiben zu dieser Nachtstunde weiterhin geschlossen.",
+    "decision": "Keine Trades in diesem Lauf (05:08). Tagesbudget fuer den 16.09. bereits zuvor gutgeschrieben, capital.json unveraendert (totalFreshCapitalEur 43.000 EUR, freies Kapital weiterhin 40.688,26 EUR). Offene Positionen aktualisiert: XRP unveraendert bei +1,46% (1,39 USD), SOL leicht erholt auf +0,14% (102,00 -> 102,50 USD). META (+2,94%, Markt geschlossen) und BRENT (-0,01%, nachts nicht gehandelt) unveraendert. Alle Werte klar innerhalb der etablierten Gewinn-/Stop-Loss-Schwellen.",
+    "reasoning": "Kein neuer Trade: Aktien/ETFs/Rohstoffe sind um diese Nachtzeit nicht handelbar. Ein Krypto-Neueinstieg ist trotz vorhandenem freien Kapital nicht ueberzeugend, da die Fed-Zinserhoehungswahrscheinlichkeit zuletzt weiter auf 84-91% gestiegen ist (hawkisher als in den Vorlaeufen) - ein zunehmend bearisher Belastungsfaktor fuer Risikoassets rund 15 Stunden vor der Entscheidung. Ohne einen klaren, neuen fundamentalen Katalysator waere ein Einstieg jetzt reine Spekulation gegen die zuletzt gestiegenen Hike-Odds. Freies Kapital bleibt fuer eine ueberzeugendere Gelegenheit verfuegbar.",
     "positionIds": [
       "pos-0014",
       "pos-0011",
       "pos-0012",
       "pos-0015"
     ],
-    "portfolioValueEnd": 2223.09,
+    "portfolioValueEnd": 2225.53,
     "updates": [
       {
         "time": "00:08",
@@ -5223,6 +5223,11 @@
         "time": "04:07",
         "note": "Keine Aenderung. XRP auf 1,39 USD (+1,46%) leicht gestiegen, SOL auf 102,00 USD (-0,35%) nahezu unveraendert. META/BRENT unveraendert (Maerkte geschlossen). Kein Trade rund 16 Stunden vor der FOMC-Entscheidung, Aktien/ETFs/Rohstoffe nachts nicht handelbar; XRP zusaetzlich durch ins Stocken geratenes CLARITY-Act-Votum belastet.",
         "portfolioValue": 2223.09
+      },
+      {
+        "time": "05:08",
+        "note": "Keine Aenderung. Fed-Hike-Odds auf 84-91% gestiegen (hawkisher), daher weiterhin kein Krypto-Trade vor FOMC. XRP unveraendert bei 1,39 USD (+1,46%), SOL leicht erholt auf 102,50 USD (+0,14%). META/BRENT unveraendert (Maerkte geschlossen).",
+        "portfolioValue": 2225.53
       }
     ]
   }
