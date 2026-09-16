@@ -5188,16 +5188,16 @@
   },
   {
     "date": "2026-09-16",
-    "marketOverview": "FOMC-Zinsentscheid heute (16.09., 20:00 MESZ / 14:00 ET) bleibt dominierender Markttreiber; Hike-Wahrscheinlichkeit laut Faelligkeitsmaerkten weiterhin bei ca. 93%, 10-Jahres-Rendite auf mehrjaehrigem Hoch. US-Boersen oeffnen erst um 15:30 MESZ, Pre-Market-Indikation fuer META bei ca. 670,52 USD (+3,8% ggue. Kaufkurs). Krypto klar risikoscheu vor dem Fed-Entscheid: Bitcoin auf ca. 75.600-76.900 USD gefallen (-2,6% 24h), XRP brach auf 1,29 USD ein (-9,5% 24h), Solana auf 96,52 USD nachgegeben. Brent Crude stabil bei ca. 107,5 USD/Barrel, Nahost-Risikopraemie haelt an.",
-    "decision": "Keine Trades in diesem Lauf (11:07). Tagesbudget bereits zuvor gutgeschrieben, capital.json unveraendert (totalFreshCapitalEur 43.000 EUR, freies Kapital weiterhin 40.688,26 EUR). Offene Positionen aktualisiert: META +3,81% (670,52 USD, Pre-Market-Indikation), XRP nun -5,84% (1,29 USD, deutlicher Krypto-Ruecksetzer vor FOMC), SOL nun -5,71% (96,52 USD, ebenfalls Krypto-Schwaeche), BRENT nahezu unveraendert bei -0,01% (107,49 USD).",
-    "reasoning": "Kein neuer Trade: US-Aktien/ETFs/Rohstoffmaerkte fuer US-Titel oeffnen erst um 15:30 MESZ, rund 9 Stunden vor der FOMC-Entscheidung; ein Neueinstieg jetzt waere reine Spekulation auf den Fed-Ausgang. XRP und SOL sind im Zuge der breiten Risikoscheu vor der Zinsentscheidung deutlich zurueckgekommen (-5,84% bzw. -5,71%), liegen aber noch unterhalb der bisher etablierten Stop-Loss-Schwelle (-6,5% bis -7,2%, analog Rheinmetall/NVDA) und ohne neue fundamentale Verschlechterung - der Ruecksetzer wird als FOMC-bedingte Vorsicht statt struktureller Bruch gewertet, daher werden beide Positionen zunaechst weiter gehalten und in den kommenden Laeufen engmaschig beobachtet. Kein ueberzeugender Neueinstieg vor der Fed-Entscheidung heute Abend.",
+    "marketOverview": "FOMC-Zinsentscheid heute um 20:00 MESZ (14:00 ET) weiterhin dominierender Markttreiber; Hike-Wahrscheinlichkeit laut Faelligkeitsmaerkten bei ca. 91-93%. US-Boersen oeffnen erst um 15:30 MESZ, Futures leicht im Plus vor der Entscheidung. Kryptomarkt bleibt risikoscheu: Bitcoin ca. 75.900 USD (-1,4% 24h), XRP weiterhin schwach bei 1,29 USD (-8,1% 24h), Solana leicht erholt auf 97,31 USD (-4,0% 24h). Brent Crude bei ca. 109,21 USD/Barrel, Nahost-Versorgungskrise (abgeschaltete Ost-West-Pipeline Saudi-Arabiens, Angriffe nahe Strasse von Hormuz) haelt die Risikopraemie hoch.",
+    "decision": "Keine Trades in diesem Lauf (12:08). Tagesbudget bereits zuvor gutgeschrieben, capital.json unveraendert (totalFreshCapitalEur 43.000 EUR, freies Kapital weiterhin 40.688,26 EUR). Offene Positionen aktualisiert: SOL nun -4,93% (97,31 USD, leichte Erholung), BRENT nun +1,59% (109,21 USD, Nahost-Praemie haelt an). META und XRP gegenueber dem letzten Lauf unveraendert (US-Markt noch geschlossen bzw. keine neue verlaessliche Kursbewegung).",
+    "reasoning": "Kein neuer Trade: US-Aktien/ETFs/Rohstoffmaerkte fuer US-Titel oeffnen erst um 15:30 MESZ, die FOMC-Entscheidung selbst faellt erst um 20:00 MESZ - ein Neueinstieg jetzt waere reine Spekulation auf den Fed-Ausgang. SOL und BRENT entwickeln sich moderat in aehnliche/positive Richtung, ohne die etablierten Stop-Loss- oder Gewinnmitnahme-Schwellen zu erreichen. XRP (-5,84% seit Kauf) bleibt unterhalb der Stop-Loss-Schwelle und wird weiter beobachtet. Kein ueberzeugender Neueinstieg vor der Fed-Entscheidung heute Abend.",
     "positionIds": [
       "pos-0014",
       "pos-0011",
       "pos-0012",
       "pos-0015"
     ],
-    "portfolioValueEnd": 2165.06,
+    "portfolioValueEnd": 2178.51,
     "updates": [
       {
         "time": "00:08",
@@ -5258,6 +5258,11 @@
         "time": "11:07",
         "note": "Keine Aenderung. XRP auf 1,29 USD eingebrochen (-5,84% seit Kauf, -9,5% in 24h) und SOL auf 96,52 USD (-5,71%) im Zuge breiter Krypto-Risikoscheu vor der FOMC-Entscheidung heute Abend zurueckgekommen, beide noch unter der Stop-Loss-Schwelle, werden aber engmaschig beobachtet. META Pre-Market-Indikation 670,52 USD (+3,81%), BRENT nahezu flach (107,49 USD, -0,01%). Kein Trade vor FOMC, Aktienmaerkte noch geschlossen.",
         "portfolioValue": 2165.06
+      },
+      {
+        "time": "12:08",
+        "note": "Keine Aenderung. SOL auf 97,31 USD (-4,93%) leicht erholt, BRENT auf 109,21 USD (+1,59%) im Zuge anhaltender Nahost-Risikopraemie aktualisiert. META/XRP unveraendert. Kein Trade vor FOMC-Entscheidung heute Abend (20:00 MESZ), US-Boersen noch geschlossen.",
+        "portfolioValue": 2178.51
       }
     ]
   }
