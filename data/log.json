@@ -5188,16 +5188,16 @@
   },
   {
     "date": "2026-09-16",
-    "marketOverview": "FOMC-Zinsentscheid heute (16.09.) um ca. 20:00 MESZ weiterhin mit Spannung erwartet (Markterwartung Anhebung um 25 Bp bei 68-91%, Fed Funds Range aktuell 3,50-3,75%). Kryptomarkt insgesamt schwaecher als in den Vorstunden: Bitcoin bei ca. 76.941 USD, Solana bei ca. 104,57 USD (leicht erholt), XRP bei ca. 1,35 USD (-4,2% in 24h) - laut 24/7 Wall St. und Yahoo Finance sind praktisch alle grossen Coins auf Tages- und Wochensicht im Minus, da Anleger vor der Fed-Entscheidung Risiko reduzieren. US-Boersen, Xetra und Rohstoffmaerkte bleiben zu dieser Nachtstunde geschlossen.",
-    "decision": "Keine Trades in diesem Lauf (02:08). Tagesbudget fuer den 16.09. bereits zuvor gutgeschrieben, capital.json unveraendert (totalFreshCapitalEur 43.000 EUR, freies Kapital weiterhin 40.688,26 EUR). Offene Positionen aktualisiert: SOL von -1,58% auf +2,16% erholt (100,74 -> 104,57 USD), XRP von +2,92% auf -1,46% gedreht (1,41 -> 1,35 USD, -4,2% in 24h) im Zuge der insgesamt schwaecheren Kryptostimmung vor der FOMC-Entscheidung. META (+2,94%, Markt geschlossen) und BRENT (-0,01%, nachts nicht gehandelt) unveraendert. Alle Werte klar innerhalb der etablierten Gewinn-/Stop-Loss-Schwellen. Kein neuer Trade: Aktien/ETFs/Rohstoffe sind um diese Nachtzeit nicht handelbar, und ein Krypto-Neueinstieg rund 18 Stunden vor der mit Spannung erwarteten FOMC-Entscheidung waere reines Risiko ohne ueberzeugenden neuen Katalysator - insbesondere da hohe Zinserhoehungswahrscheinlichkeit (68-91%) bei einer Ueberraschung zu deutlichen Krypto-Liquidationen fuehren koennte. Freies Kapital bleibt fuer eine ueberzeugendere Gelegenheit verfuegbar.",
-    "reasoning": "Keine Trades in diesem Lauf (02:08). Tagesbudget fuer den 16.09. bereits zuvor gutgeschrieben, capital.json unveraendert (totalFreshCapitalEur 43.000 EUR, freies Kapital weiterhin 40.688,26 EUR). Offene Positionen aktualisiert: SOL von -1,58% auf +2,16% erholt (100,74 -> 104,57 USD), XRP von +2,92% auf -1,46% gedreht (1,41 -> 1,35 USD, -4,2% in 24h) im Zuge der insgesamt schwaecheren Kryptostimmung vor der FOMC-Entscheidung. META (+2,94%, Markt geschlossen) und BRENT (-0,01%, nachts nicht gehandelt) unveraendert. Alle Werte klar innerhalb der etablierten Gewinn-/Stop-Loss-Schwellen. Kein neuer Trade: Aktien/ETFs/Rohstoffe sind um diese Nachtzeit nicht handelbar, und ein Krypto-Neueinstieg rund 18 Stunden vor der mit Spannung erwarteten FOMC-Entscheidung waere reines Risiko ohne ueberzeugenden neuen Katalysator - insbesondere da hohe Zinserhoehungswahrscheinlichkeit (68-91%) bei einer Ueberraschung zu deutlichen Krypto-Liquidationen fuehren koennte. Freies Kapital bleibt fuer eine ueberzeugendere Gelegenheit verfuegbar.",
+    "marketOverview": "FOMC-Zinsentscheid heute (16.09.) um ca. 20:00 MESZ weiterhin mit Spannung erwartet (Markterwartung fuer eine Anhebung um 25 Bp je nach Quelle 54-85%, Fed Funds Range aktuell 3,50-3,75%). Kryptomarkt bleibt insgesamt schwach/uneinheitlich vor der Entscheidung: XRP leicht erholt auf ca. 1,37 USD, Solana mit leichtem Rueckgang auf ca. 101 USD (Kurse je nach Boerse zwischen 99,78 und 104,57 USD, deutliche Diskrepanz zwischen Plattformen zeigt hohe Unsicherheit). US-Boersen, Xetra und Rohstoffmaerkte bleiben zu dieser Nachtstunde geschlossen.",
+    "decision": "Keine Trades in diesem Lauf (03:08). Tagesbudget fuer den 16.09. bereits zuvor gutgeschrieben, capital.json unveraendert (totalFreshCapitalEur 43.000 EUR, freies Kapital weiterhin 40.688,26 EUR). Offene Positionen aktualisiert: XRP von -1,46% auf 0,00% erholt (1,35 -> 1,37 USD), SOL von +2,16% auf -1,33% leicht zurueckgekommen (104,57 -> 101,00 USD) im Rahmen der insgesamt unsicheren, schwankenden Kryptostimmung vor der FOMC-Entscheidung. META (+2,94%, Markt geschlossen) und BRENT (-0,01%, nachts nicht gehandelt) unveraendert. Alle Werte klar innerhalb der etablierten Gewinn-/Stop-Loss-Schwellen. Kein neuer Trade: Aktien/ETFs/Rohstoffe sind um diese Nachtzeit nicht handelbar, und ein Krypto-Neueinstieg rund 17 Stunden vor der mit Spannung erwarteten FOMC-Entscheidung waere reines Risiko ohne ueberzeugenden neuen Katalysator. Freies Kapital bleibt fuer eine ueberzeugendere Gelegenheit verfuegbar.",
+    "reasoning": "Keine Trades in diesem Lauf (03:08). Tagesbudget fuer den 16.09. bereits zuvor gutgeschrieben, capital.json unveraendert (totalFreshCapitalEur 43.000 EUR, freies Kapital weiterhin 40.688,26 EUR). Offene Positionen aktualisiert: XRP von -1,46% auf 0,00% erholt (1,35 -> 1,37 USD), SOL von +2,16% auf -1,33% leicht zurueckgekommen (104,57 -> 101,00 USD) im Rahmen der insgesamt unsicheren, schwankenden Kryptostimmung vor der FOMC-Entscheidung. META (+2,94%, Markt geschlossen) und BRENT (-0,01%, nachts nicht gehandelt) unveraendert. Alle Werte klar innerhalb der etablierten Gewinn-/Stop-Loss-Schwellen. Kein neuer Trade: Aktien/ETFs/Rohstoffe sind um diese Nachtzeit nicht handelbar, und ein Krypto-Neueinstieg rund 17 Stunden vor der mit Spannung erwarteten FOMC-Entscheidung waere reines Risiko ohne ueberzeugenden neuen Katalysator. Freies Kapital bleibt fuer eine ueberzeugendere Gelegenheit verfuegbar.",
     "positionIds": [
       "pos-0014",
       "pos-0011",
       "pos-0012",
       "pos-0015"
     ],
-    "portfolioValueEnd": 2221.05,
+    "portfolioValueEnd": 2210.91,
     "updates": [
       {
         "time": "00:08",
@@ -5213,6 +5213,11 @@
         "time": "02:08",
         "note": "Keine Aenderung. SOL auf 104,57 USD (+2,16%) erholt, XRP auf 1,35 USD (-1,46%) im Zuge schwaecherer Kryptostimmung vor FOMC gedreht. META/BRENT unveraendert (Maerkte geschlossen). Kein Trade vor FOMC-Entscheidung heute Abend.",
         "portfolioValue": 2221.05
+      },
+      {
+        "time": "03:08",
+        "note": "Keine Aenderung. XRP auf 1,37 USD (0,00%) leicht erholt, SOL auf 101,00 USD (-1,33%) leicht zurueckgekommen im Rahmen der schwankenden Kryptostimmung vor der FOMC-Entscheidung heute Abend. META/BRENT unveraendert (Maerkte geschlossen). Kein Trade vor FOMC-Entscheidung, Aktien/ETFs/Rohstoffe nachts nicht handelbar.",
+        "portfolioValue": 2210.91
       }
     ]
   }
