@@ -5188,16 +5188,16 @@
   },
   {
     "date": "2026-09-16",
-    "marketOverview": "FOMC-Zinsentscheid faellt heute um 20:00 MESZ (14:00 ET) - Markt preist mit ~93% Wahrscheinlichkeit eine Zinserhoehung um 25 Basispunkte auf 3,75-4,00% ein (CPI 3,4% YoY, anhaltend hohe Energiepreise durch Iran-Konflikt). US-Boersen leicht im Plus (S&P +0,2%, Nasdaq +0,4%). META notiert bei 670,52 USD, Dividenden-Ex-Datum 21.09. angekuendigt, Muse-AI-Launch laut Zuckerberg wegen Sicherheits-/Alignment-Pruefung verschoben. Krypto erholt sich leicht vor der Fed-Entscheidung: XRP 1,40 USD (+3,9% 24h, CLARITY-Act-Cloture-Votum am 15.09.), SOL 101,92 USD (+1,3% 24h), BTC stabil um 80.000 USD. Brent Crude leicht ruecklaeufig auf 107,64 USD/Barrel (steigende US-Lagerbestaende), bleibt aber nahe Mehrmonatshoch wegen Nahost-Eskalation (Houthi-Angriffe, saudische Pipeline-Abschaltung).",
-    "decision": "Keine Trades in diesem Lauf (16:08). Tagesbudget war bereits zuvor gutgeschrieben, capital.json unveraendert (totalFreshCapitalEur 43.000 EUR, freies Kapital weiterhin 40.688,26 EUR). Offene Positionen aktualisiert: META auf 670,52 USD (+3,81%), XRP auf 1,40 USD (+2,19%, erholt), SOL auf 101,92 USD (-0,43%, erholt), BRENT auf 107,64 USD (+0,13%).",
-    "reasoning": "Kein neuer Trade: Die FOMC-Zinsentscheidung faellt erst um 20:00 MESZ - ein Neueinstieg in Aktien, ETFs oder Rohstoffe wenige Stunden vor diesem grossen Katalysator waere reine Spekulation auf den Fed-Ausgang und wird bewusst vermieden. Krypto (XRP, SOL) erholt sich zwar leicht, liefert aber kein ueberzeugendes eigenstaendiges Kaufsignal vor dem gleichen Katalysator. Keine der offenen Positionen erreicht die etablierten Stop-Loss- (-6% bis -7%) oder Gewinnmitnahme-Schwellen (7-9%): META +3,81%, XRP +2,19%, SOL -0,43%, BRENT +0,13% - alle werden unveraendert gehalten und nach der Fed-Entscheidung heute Abend neu bewertet.",
+    "marketOverview": "FOMC-Zinsentscheid faellt heute um 20:00 MESZ (14:00 ET) - Markt preist mit ~93% Wahrscheinlichkeit eine Zinserhoehung um 25 Basispunkte auf 3,75-4,00% ein (CPI 3,4% YoY, hohe Energiepreise durch Iran-Konflikt, 10-Jahres-Rendite auf 2007er-Hoch). US-Boersen leicht im Plus vor der Entscheidung (S&P +0,25%, Nasdaq +0,44%, Dow +0,15%), staerkere Einzelhandelsumsaetze (+1,2% im August) stuetzen. META stabil bei 670,52 USD (Dividenden-Ex-Datum 21.09., Muse-AI-Launch verschoben). Krypto vor der Fed-Entscheidung leicht schwaecher: XRP 1,35 USD (-4,2% 24h laut CoinGecko), SOL 102,30 USD (+1,8% 24h). Brent Crude auf 107,06 USD/Barrel (-1,55%) nach ueberraschend starkem US-Lagerbestandsanstieg (+7,1 Mio. Barrel), bleibt aber nahe Mehrmonatshoch wegen der saudischen Pipeline-Abschaltung nach Drohnenangriffen.",
+    "decision": "Keine Trades in diesem Lauf (17:08). Tagesbudget war bereits zuvor gutgeschrieben, capital.json unveraendert (totalFreshCapitalEur 43.000 EUR, freies Kapital weiterhin 40.688,26 EUR). Offene Positionen aktualisiert: META unveraendert bei 670,52 USD (+3,81%), XRP auf 1,35 USD (-1,46%), SOL auf 102,30 USD (-0,06%), BRENT auf 107,06 USD (-0,41%).",
+    "reasoning": "Kein neuer Trade: Die FOMC-Zinsentscheidung faellt erst in rund drei Stunden (20:00 MESZ) - ein Neueinstieg in Aktien, ETFs oder Rohstoffe kurz vor diesem grossen Katalysator waere reine Spekulation auf den Fed-Ausgang und wird bewusst vermieden. Krypto (XRP, SOL) zeigt kein ueberzeugendes eigenstaendiges Kaufsignal, XRP tendiert vor der Entscheidung sogar leicht schwaecher. Keine der offenen Positionen erreicht die etablierten Stop-Loss- (-6% bis -7%) oder Gewinnmitnahme-Schwellen (7-9%): META +3,81%, XRP -1,46%, SOL -0,06%, BRENT -0,41% - alle werden unveraendert gehalten und nach der Fed-Entscheidung heute Abend neu bewertet.",
     "positionIds": [
       "pos-0014",
       "pos-0011",
       "pos-0012",
       "pos-0015"
     ],
-    "portfolioValueEnd": 2232.43,
+    "portfolioValueEnd": 2212.8,
     "updates": [
       {
         "time": "00:08",
@@ -5283,6 +5283,11 @@
         "time": "16:08",
         "note": "Keine Aenderung vor FOMC-Entscheidung (20:00 MESZ). META 670,52 USD (+3,81%), XRP 1,40 USD (+2,19%, erholt), SOL 101,92 USD (-0,43%, erholt), BRENT 107,64 USD (+0,13%). Kein Trade, da Neupositionen kurz vor dem grossen Zins-Katalysator reine Spekulation waeren.",
         "portfolioValue": 2232.43
+      },
+      {
+        "time": "17:08",
+        "note": "Keine Aenderung. META unveraendert (670,52 USD, +3,81%). XRP auf 1,35 USD (-1,46%) vor FOMC leicht zurueckgekommen, SOL auf 102,30 USD (-0,06%) nahezu unveraendert, BRENT auf 107,06 USD (-0,41%) leicht ruecklaeufig (steigende US-Lagerbestaende). FOMC-Entscheidung erst um 20:00 MESZ, kein Trade vor dem Katalysator.",
+        "portfolioValue": 2212.8
       }
     ]
   }
