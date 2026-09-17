@@ -5323,9 +5323,9 @@
   },
   {
     "date": "2026-09-17",
-    "marketOverview": "US-Maerkte vor Handelsstart mit leichter Erholung (Dow-Futures +0,2%, S&P/Nasdaq-Futures +0,3-0,5%) nach dem Fed-Zinsschritt vom Vortag; Warsh betont weiter anhaltend hohe Inflation. META klettert im Tagesverlauf auf ca. 680,90 USD (+5,42% seit Kauf), SOL seitwaerts bei 99,79 USD (-2,51%, weiter richtungslos nach gescheitertem CLARITY-Act-Votum), BRENT unveraendert bei 107,77 USD (+0,25%) - Iran-Krieg haelt WTI/Brent nahe Mehrmonatshoch, Ethereum stabilisiert sich um 2.400-2.500 USD nach breiterem Krypto-Rueckgang. Keine neuen, mehrfach bestaetigten Einzelkatalysatoren mit klarer Kursbewegung gefunden.",
-    "decision": "Kein neuer Trade in diesem Lauf. Kurse aktualisiert: META auf 680,90 USD (+5,42%), SOL unveraendert 99,79 USD (-2,51%), BRENT unveraendert 107,77 USD (+0,25%). Keine Position erreicht die etablierten Gewinnmitnahme- (7-9%) oder Stop-Loss-Schwellen (-6,5% bis -7,5%).",
-    "reasoning": "Europaeische Boersen offen, US-Maerkte oeffnen erst um 15:30 MESZ - Krypto und Brent-Future durchgehend handelbar. Marktbild bleibt nach dem hawkishen Fed-Zinsschritt fragmentiert und vorsichtig; keine neue, mehrfach unabhaengig bestaetigte Nachricht mit klarem, ausreichend starkem Kurstreiber fuer eine ueberzeugende neue Position gefunden (Stock-Mover-Screening zeigte nur kleinere Einzelwerte ohne Relevanz fuers Risikoprofil). Gemaess Vorgabe wird ohne wirklich ueberzeugende Gelegenheit nichts unternommen; die drei offenen Positionen bleiben innerhalb der etablierten Bandbreite ohne Schwellenwert-Ueberschreitung.",
+    "marketOverview": "US-Futures leicht im Plus (Dow +0,2%, S&P/Nasdaq +0,3-0,5%) nach dem Fed-Zinsschritt vom Vortag; Warsh-Rhetorik bleibt restriktiv (16 von 18 Fed-Mitgliedern erwarten weitere Zinsschritte 2026). META unveraendert bei 680,90 USD (+5,42% seit Kauf), SOL seitwaerts bei 99,79 USD (-2,51%, weiter richtungslos nach gescheitertem CLARITY-Act-Votum), BRENT unveraendert bei 107,77 USD (+0,25%) - Nahost-Eskalation haelt Oel nahe Mehrmonatshoch, WTI +3,2% auf 103,29 USD im Monatsvergleich +20%. Bitcoin bei 76.200 USD (+0,7%), Ethereum stabil um 2.418 USD (+0,8%) nach Fed-Entscheid. Keine neuen, mehrfach bestaetigten Einzelkatalysatoren mit klarer Kursbewegung gefunden (Generac +33% nach Amazon-Deal ausserhalb Risikoprofil/Ausschluesse-Fokus).",
+    "decision": "Kein neuer Trade in diesem Lauf. Kurse bestaetigt unveraendert: META 680,90 USD (+5,42%), SOL 99,79 USD (-2,51%), BRENT 107,77 USD (+0,25%). Keine Position erreicht die etablierten Gewinnmitnahme- (7-9%) oder Stop-Loss-Schwellen (-6,5% bis -7,5%).",
+    "reasoning": "Europaeische Boersen offen, US-Maerkte oeffnen erst um 15:30 MESZ - Krypto und Brent-Future durchgehend handelbar. Marktbild bleibt nach dem hawkishen Fed-Zinsschritt fragmentiert und vorsichtig; keine neue, mehrfach unabhaengig bestaetigte Nachricht mit klarem, ausreichend starkem Kurstreiber fuer eine ueberzeugende neue Position gefunden. Gemaess Vorgabe wird ohne wirklich ueberzeugende Gelegenheit nichts unternommen; die drei offenen Positionen bleiben innerhalb der etablierten Bandbreite ohne Schwellenwert-Ueberschreitung.",
     "positionIds": [
       "pos-0014",
       "pos-0012",
@@ -5391,6 +5391,11 @@
       {
         "time": "11:07",
         "note": "Keine Aenderung. META auf 680,90 USD (+5,42%) gestiegen, SOL unveraendert 99,79 USD (-2,51%) und BRENT unveraendert 107,77 USD (+0,25%) aktualisiert. Kein Trade: keine ueberzeugende neue Gelegenheit, Marktbild nach Fed-Zinsschritt weiter fragmentiert.",
+        "portfolioValue": 1721.44
+      },
+      {
+        "time": "12:08",
+        "note": "Keine Aenderung. META unveraendert 680,90 USD (+5,42%), SOL unveraendert 99,79 USD (-2,51%) und BRENT unveraendert 107,77 USD (+0,25%) bestaetigt. Kein Trade: keine neue ueberzeugende Gelegenheit, US-Futures nur leicht im Plus nach Fed-Zinsschritt.",
         "portfolioValue": 1721.44
       }
     ]
