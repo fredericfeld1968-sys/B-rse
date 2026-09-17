@@ -5323,15 +5323,15 @@
   },
   {
     "date": "2026-09-17",
-    "marketOverview": "Der Kryptomarkt bleibt nach dem gescheiterten CLARITY-Act-Votum und dem hawkishen Fed-Zinsschritt (25bp auf 3,75-4,00%) vom Vortag richtungslos bis leicht schwaechelnd: Bitcoin notiert bei rund 76.400 USD (-2,2% in 24h), Ethereum bei ca. 2.449 USD (-1,8%), Solana bei ca. 98 USD (-1,0%). Die Bank of Japan tagt bis Freitag und stellt einen weiteren Unsicherheitsfaktor fuer die globale Geldpolitik dar. Europaeische Boersen und Rohstoffmaerkte oeffnen erst um 9:00 Uhr, META notiert im US-Vorboersenhandel bei 676,80 USD.",
-    "decision": "Kein neuer Trade in diesem Lauf. Kurse der drei offenen Positionen aktualisiert: META im Vorboersenhandel bei 676,80 USD (+4,78%), SOL auf 98,00 USD (-4,26%, naehert sich weiterhin nicht der Stop-Loss-Schwelle), BRENT bei 107,77 USD (+0,25%). Keine Position erreicht die etablierten Gewinnmitnahme- (7-9%) oder Stop-Loss-Schwellen (-6,5% bis -7,5%).",
-    "reasoning": "Vor Handelsstart der europaeischen Boersen (9:00 Uhr) sind Aktien, ETFs und Rohstoffe nicht handelbar, nur Krypto. Der Kryptomarkt bleibt nach dem gescheiterten CLARITY-Act-Votum und der hawkishen Fed-Entscheidung richtungslos ohne ueberzeugendes neues Setup; die bevorstehende BOJ-Entscheidung am Freitag sorgt zusaetzlich fuer Zurueckhaltung. Daher keine neue Position und keine Anpassung der bestehenden.",
+    "marketOverview": "Der Kryptomarkt bleibt nach dem gescheiterten CLARITY-Act-Votum und der hawkishen Fed-Entscheidung vom Vortag weiter unter Druck: Bitcoin faellt auf rund 75.800 USD (-1,5%), Ethereum auf ca. 2.398-2.450 USD, XRP fiel binnen 24h um fast 8%. Die Bank of Japan tagt bis Freitag mit einer erwarteten Zinsanhebung um 25 Basispunkte auf 1,25% (hoechster Satz seit 31 Jahren) - ein weiterer Unsicherheitsfaktor, der globale Carry-Trades und Risikoassets belasten koennte. Brent Crude gibt leicht auf 105,70 USD/Barrel nach, da Saudi-Arabien laut Marktberichten zusaetzliche Rohoel-Lieferungen ueber Oman anbietet und Sorgen um Nahost-Lieferengpaesse etwas nachlassen. Europaeische Boersen und Rohstoffmaerkte oeffnen erst um 9:00 Uhr, META notiert im US-Vorboersenhandel unveraendert bei 676,80 USD.",
+    "decision": "Kein neuer Trade in diesem Lauf. Kurse der drei offenen Positionen aktualisiert: META im Vorboersenhandel unveraendert bei 676,80 USD (+4,78%), SOL auf 98,50 USD (-3,77%, leicht erholt), BRENT auf 105,70 USD (-1,67%, Rueckgang nach Saudi-Zusatzlieferungen ueber Oman). Keine Position erreicht die etablierten Gewinnmitnahme- (7-9%) oder Stop-Loss-Schwellen (-6,5% bis -7,5%).",
+    "reasoning": "Vor Handelsstart der europaeischen Boersen (9:00 Uhr) sind Aktien, ETFs und Rohstoffe nicht handelbar, nur Krypto. Der Kryptomarkt bleibt nach dem gescheiterten CLARITY-Act-Votum und der hawkishen Fed-Entscheidung weiterhin schwach bis richtungslos (BTC -1,5%, XRP -8%), ohne bestaetigten neuen Ausbruch; einzelne bullishe Stimmen (z.B. grosse geleverage Long-Position auf ETH) sind kein ausreichend ueberzeugendes, breit bestaetigtes Setup. Die bevorstehende BOJ-Zinsentscheidung am Freitag sorgt zusaetzlich fuer Zurueckhaltung. Daher keine neue Position und keine Anpassung der bestehenden.",
     "positionIds": [
       "pos-0014",
       "pos-0012",
       "pos-0015"
     ],
-    "portfolioValueEnd": 1708.89,
+    "portfolioValueEnd": 1699.77,
     "updates": [
       {
         "time": "00:08",
@@ -5372,6 +5372,11 @@
         "time": "07:08",
         "note": "Keine Aenderung. META im Vorboersenhandel bei 676,80 USD (+4,78%), SOL auf 98,00 USD (-4,26%, CoinGecko/Coinbase/TradingView-Mittel) und BRENT auf 107,77 USD (+0,25%) aktualisiert. Kein Trade: Europaeische Boersen/Rohstoffe oeffnen erst um 9:00 Uhr, Kryptomarkt bleibt nach gescheitertem CLARITY-Act-Votum und hawkishem Fed-Entscheid richtungslos ohne ueberzeugendes Setup; BOJ-Entscheidung am Freitag steht noch aus.",
         "portfolioValue": 1708.89
+      },
+      {
+        "time": "08:08",
+        "note": "Keine Aenderung. META im Vorboersenhandel unveraendert 676,80 USD (+4,78%), SOL auf 98,50 USD (-3,77%, leicht erholt) und BRENT auf 105,70 USD (-1,67%, Rueckgang nach Saudi-Zusatzlieferungen ueber Oman) aktualisiert. Kein Trade: Europaeische Boersen/Rohstoffe oeffnen erst um 9:00 Uhr, Kryptomarkt bleibt nach gescheitertem CLARITY-Act-Votum und hawkishem Fed-Entscheid schwach; BOJ-Entscheidung am Freitag steht noch aus.",
+        "portfolioValue": 1699.77
       }
     ]
   }
