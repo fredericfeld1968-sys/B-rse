@@ -5323,15 +5323,15 @@
   },
   {
     "date": "2026-09-17",
-    "marketOverview": "Seit 9:00 Uhr sind die europaeischen Boersen wieder geoeffnet, US-Maerkte oeffnen erst um 15:30 MESZ. Solana erholt sich leicht auf 99,90 USD (+2,6% in 24h laut CoinGecko), Bitcoin steht bei rund 76.565 USD (+0,8%) - der Kryptomarkt bleibt nach dem gescheiterten CLARITY-Act-Votum und der hawkishen Fed-Entscheidung insgesamt vorsichtig. Brent Crude gibt weiter nach auf 104,18 USD/Barrel (-1,6%), nachdem zusaetzliche Rohoellieferungen ueber Oman die Sorge um Nahost-Lieferengpaesse etwas gedaempft haben. META notiert beim letzten verfuegbaren Kurs bei 673,31 USD. Die Bank of Japan tagt weiter bis Freitag mit einer moeglichen Zinsanhebung, was als Unsicherheitsfaktor fuer globale Risikoassets im Raum steht.",
-    "decision": "Kein neuer Trade in diesem Lauf. Kurse der drei offenen Positionen aktualisiert: META auf 673,31 USD (+4,24%), SOL auf 99,90 USD (-2,40%, leicht erholt), BRENT auf 104,18 USD (-3,09%, weiterer Rueckgang durch Oman-Zusatzlieferungen). Keine Position erreicht die etablierten Gewinnmitnahme- (7-9%) oder Stop-Loss-Schwellen (-6,5% bis -7,5%).",
-    "reasoning": "Europaeische Boersen sind seit 9:00 Uhr geoeffnet, US-Maerkte oeffnen erst um 15:30 MESZ - Brent (Future) und Krypto sind rund um die Uhr handelbar. Aktuelle, verlaessliche Direktkursdaten (Yahoo Finance, CoinGecko) wurden eingeholt, eine vertiefte Nachrichtenrecherche lieferte in diesem Lauf jedoch keine neuen, hinreichend bestaetigten Katalysatoren. Ohne eine wirklich ueberzeugende neue Gelegenheit wird gemaess Vorgabe nichts unternommen; die drei offenen Positionen bewegen sich weiterhin innerhalb der etablierten Bandbreite ohne Schwellenwert-Ueberschreitung.",
+    "marketOverview": "US-Maerkte weiter unter dem Eindruck des Fed-Zinsschritts vom Vortag (Dow -1,21%, S&P500 -0,45%); Fed-Chair Warsh betont anhaltend hohe Inflation, Markt preist zwei weitere Zinsschritte 2026 ein. META notiert bei 678,63 USD, SOL bei 99,79 USD (leichte Erholung im Kryptomarkt trotz weiter richtungslos nach gescheitertem CLARITY-Act-Votum), BRENT bei 107,77 USD (Saudi-Arabien stellt Teilreparatur der Ost-West-Pipeline in Aussicht, Trump signalisiert moegliches baldiges Ende des Iran-Konflikts - beides leicht entlastend fuer die Oelpreis-Risikopraemie). Keine neuen, hinreichend bestaetigten Handelskatalysatoren.",
+    "decision": "Kein neuer Trade in diesem Lauf. Kurse der drei offenen Positionen aktualisiert: META auf 678,63 USD (+5,06%), SOL auf 99,79 USD (-2,51%), BRENT auf 107,77 USD (+0,25%, leichte Erholung). Keine Position erreicht die etablierten Gewinnmitnahme- (7-9%) oder Stop-Loss-Schwellen (-6,5% bis -7,5%).",
+    "reasoning": "Europaeische Boersen seit 9:00 Uhr offen, US-Maerkte oeffnen erst um 15:30 MESZ - Krypto und Brent-Future sind durchgehend handelbar. Marktbild bleibt fragmentiert und vorsichtig nach dem hawkishen Fed-Zinsschritt; aktuelle Direktkurse eingeholt, aber keine neue, mehrfach bestaetigte Nachricht mit klarem Kurstreiber fuer eine ueberzeugende neue Position gefunden. Gemaess Vorgabe wird ohne wirklich ueberzeugende Gelegenheit nichts unternommen; die drei offenen Positionen bleiben innerhalb der etablierten Bandbreite ohne Schwellenwert-Ueberschreitung.",
     "positionIds": [
       "pos-0014",
       "pos-0012",
       "pos-0015"
     ],
-    "portfolioValueEnd": 1694.89,
+    "portfolioValueEnd": 1719.33,
     "updates": [
       {
         "time": "00:08",
@@ -5382,6 +5382,11 @@
         "time": "09:08",
         "note": "Keine Aenderung. Boersen in Europa seit 9:00 Uhr offen, META 673,31 USD (+4,24%), SOL 99,90 USD (-2,40%) und BRENT 104,18 USD (-3,09%, Rueckgang durch Oman-Zusatzlieferungen) aktualisiert. Kein Trade: keine ueberzeugende neue Gelegenheit bestaetigt.",
         "portfolioValue": 1694.89
+      },
+      {
+        "time": "10:08",
+        "note": "Keine Aenderung. META 678,63 USD (+5,06%), SOL 99,79 USD (-2,51%) und BRENT 107,77 USD (+0,25%, leichte Erholung durch Saudi-Pipeline-Teilreparatur) aktualisiert. Kein Trade: Marktbild nach Fed-Zinsschritt fragmentiert, keine neue ueberzeugende Gelegenheit.",
+        "portfolioValue": 1719.33
       }
     ]
   }
