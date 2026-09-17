@@ -5323,15 +5323,15 @@
   },
   {
     "date": "2026-09-17",
-    "marketOverview": "Fed hob am 16.09. den Leitzins um 25bp auf 3,75-4,00% an (erste Erhoehung seit 2023) - restriktiver als von vielen erhofft, CLARITY Act scheiterte im Senat. Krypto bleibt seither unter Druck: Bitcoin konsolidiert um 76.000-80.000 USD ohne klare Richtung, SOL leicht erholt auf ca. 102,30 USD (+1,8% 24h) nach Verkaufsdruck der Vortage. Boersen (NYSE/Nasdaq, Rohstoffmaerkte) sind um diese Nachtzeit geschlossen; META notiert nachboerslich bei 644,38 USD (-1,42%), Brent bei 107,77 USD.",
-    "decision": "Kein Trade in diesem Lauf. Bestehende offene Positionen (META, SOL, BRENT) auf aktuellen Marktstand gebracht, keine Position erreicht Gewinn- oder Stop-Loss-Schwelle. Kryptomarkt bietet nach dem hawkishen Fed-Entscheid kein ueberzeugendes neues Setup.",
-    "reasoning": "Ausserhalb der Handelszeiten sind nur Krypto-Trades zulaesig. SOL zeigt zwar eine leichte 24h-Erholung (+1,8%), jedoch ohne klaren neuen fundamentalen Katalysator und bei weiterhin gedaempfter Marktstimmung nach dem restriktiven Fed-Zinsschritt und dem gescheiterten CLARITY-Act-Votum. Da keine wirklich ueberzeugende Gelegenheit vorliegt, wird passend zur Vorgabe nichts unternommen.",
+    "marketOverview": "Nach dem hawkishen Fed-Zinsschritt (25bp auf 3,75-4,00%, 16 von 18 Mitgliedern erwarten mindestens eine weitere Erhoehung) zeigt sich der Kryptomarkt in einer leichten Erleichterungsrally: Bitcoin notiert knapp ueber 76.000 USD (+1,3%), Ethereum nahe 2.400 USD (+1,6%), getrieben von der Einschaetzung, dass der Zinserhoehungszyklus sich dem Ende naehert. Solana bleibt nach dem gescheiterten CLARITY-Act-Votum im Senat richtungslos und schwankt zwischen 97 und 102 USD ohne klaren Trend. Boersen und Rohstoffmaerkte sind vor Europa-Handelsstart weiterhin geschlossen.",
+    "decision": "Kein neuer Trade in diesem Lauf. Kurse der drei offenen Positionen aktualisiert: META +4,83% (Erholung im US-Premarket auf 677,09 USD), SOL -1,43% (weiterhin richtungslos um 100 USD), BRENT +0,25% (kaum veraendert bei 107,77 USD/Barrel). Keine Position erreicht die etablierten Gewinnmitnahme- (7-9%) oder Stop-Loss-Schwellen (-6,5% bis -7,5%).",
+    "reasoning": "Ausserhalb der Boersenzeiten sind nur Kryptowerte handelbar. Die Erleichterungsrally bei BTC/ETH nach dem Fed-Entscheid ist moderat (+1,3-1,6%) und faellt angesichts des weiterhin hawkishen Ausblicks (weitere Zinsschritte in Aussicht gestellt) nicht als ueberzeugendes neues Setup auf. Fuer die gehaltene SOL-Position gibt es keinen frischen Katalysator, der ueber das bereits eingepreiste Transaction-V1-Update und den erwarteten Alpenglow-Upgrade (Ziel Oktober) hinausgeht. Daher keine neue Position und keine Anpassung der bestehenden.",
     "positionIds": [
       "pos-0014",
       "pos-0012",
       "pos-0015"
     ],
-    "portfolioValueEnd": 1699.79,
+    "portfolioValueEnd": 1723.33,
     "updates": [
       {
         "time": "00:08",
@@ -5357,6 +5357,11 @@
         "time": "04:08",
         "note": "Keine Aenderung. META 644,38 USD (-0,24%), SOL 102,30 USD (-0,06%) und BRENT 107,77 USD (+0,25%) aktualisiert. Kein Trade: Aktien/ETFs/Rohstoffe nachts nicht handelbar, Kryptomarkt nach hawkishem Fed-Entscheid ohne ueberzeugendes Setup.",
         "portfolioValue": 1699.79
+      },
+      {
+        "time": "05:07",
+        "note": "Keine Aenderung. META 677,09 USD (+4,83%, Erholung im Premarket), SOL 100,90 USD (-1,43%, weiterhin richtungslos nach gescheitertem CLARITY-Act-Votum) und BRENT 107,77 USD (+0,25%) aktualisiert. Kein Trade: Boersen/Rohstoffe vor Europa-Handelsstart geschlossen, Krypto-Erleichterungsrally nach hawkishem Fed-Entscheid ohne ueberzeugendes neues Setup.",
+        "portfolioValue": 1723.33
       }
     ]
   }
