@@ -5323,15 +5323,15 @@
   },
   {
     "date": "2026-09-17",
-    "marketOverview": "Breite Erleichterungsrally haelt an: Dow +0,7%, S&P 500 +1,0%, Nasdaq +1,4-1,7% nach dem hawkishen Fed-Zinsschritt (3,75-4,00%), getrieben von fallenden Renditen und nachgebenden Oelpreisen (Brent ~103 USD, Entspannung bei Hormuz-Lieferrisiken) sowie starken Chipwerten (+3%). Kein neuer Einzeltitel-Katalysator mit aussergewoehnlichem Ausschlag gefunden - Bewegungen bei APA/ROG/AEMD sind duenn gehandelte Nebenwerte ohne belastbares Setup. META unveraendert bei 682,20 USD (+5,62%, weiter unter der 7-9%-Zielspanne). SOL notiert stabil bei rund 100,15 USD (-2,16%), Handel in engem Band um die 100-USD-Marke ohne klares Richtungssignal.",
-    "decision": "Kein neuer Trade in diesem Lauf (19:07). META (pos-0014) und SOL (pos-0012) bleiben offen, Kurse aktualisiert (META unveraendert 682,20 USD/+5,62%, SOL leicht auf 100,15 USD/-2,16%). Stop-Loss-Verkauf BRENT (pos-0015) von 14:13 bleibt der einzige Trade des Tages.",
-    "reasoning": "META bleibt mit +5,62% weiterhin unter der etablierten 7-9%-Gewinnmitnahme-Zielspanne, kein Verkaufssignal. SOL bewegt sich kaum (-2,16% statt zuvor -2,23%), weit von der Stop-Loss-Schwelle (-6,5% bis -7,5%) entfernt, keine Aktion noetig. Fuer Neukaeufe weiterhin kein ueberzeugendes Setup: Die breite Markterholung nach dem Fed-Entscheid ist marktweit und erwartungsgemaess, ohne bestaetigten Einzeltitel-Ausbruch wie beim etablierten AMD-/Palantir-/NVDA-Muster; die einzigen auffaelligen Mover (APA, ROG, AEMD) sind duenn gehandelte Nebenwerte ohne belastbaren, unabhaengig bestaetigten Katalysator. Kryptomarkt richtungslos um die 100-USD-Marke bei SOL, kein Momentum-Signal. Freies Kapital von 42.706,91 EUR bleibt daher bis zu einer wirklich ueberzeugenden Gelegenheit ungenutzt.",
+    "marketOverview": "Breite Erleichterungsrally setzt sich am Nachmittag fort: S&P 500 +1,0% auf 7.596 Punkte, Nasdaq fuehrt mit +1,6% (Chip-Index +3%), Russell 2000 +1,1% - getrieben von fallenden Renditen und nachgebenden Oelpreisen nach dem hawkishen Fed-Zinsschritt (3,75-4,00%). Brent Crude faellt weiter auf ca. 103 USD/Barrel (-2,1% bis -2,6%), da Saudi-Arabien eine teilweise Wiederinbetriebnahme der beschaedigten Ost-West-Pipeline binnen Tagen in Aussicht stellt - Bestaetigung der bereits beim BRENT-Stop-Loss um 14:13 erkannten Deeskalation. Auffaellige Einzeltitel-Mover (TCOM nach Q2-Zahlen, COHR nach CEO-Wechsel, AEMD +495% als duenn gehandelter Nebenwert) bieten kein zum etablierten Muster passendes, ueberzeugendes Setup. Bitcoin stabil bei ca. 76.200 USD (+0,7%), SOL in enger Handelsspanne um 100 USD ohne klares Richtungssignal.",
+    "decision": "Kein neuer Trade in diesem Lauf (20:08). META (pos-0014) und SOL (pos-0012) bleiben offen, Kurse aktualisiert (META 677,87 USD/+4,95%, SOL 100,59 USD/-1,73%). Stop-Loss-Verkauf BRENT (pos-0015) von 14:13 bleibt der einzige Trade des Tages.",
+    "reasoning": "META bleibt mit +4,95% weiterhin unter der etablierten 7-9%-Gewinnmitnahme-Zielspanne, kein Verkaufssignal. SOL bewegt sich mit -1,73% kaum und ist weit von der Stop-Loss-Schwelle (-6,5% bis -7,5%) entfernt, keine Aktion noetig. Fuer Neukaeufe weiterhin kein ueberzeugendes Setup: Die Nachmittagsrally ist marktweit und folgt direkt aus dem bereits verarbeiteten Fed-Entscheid, ohne neuen bestaetigten Einzeltitel-Ausbruch nach dem etablierten AMD-/Palantir-/NVDA-Muster. Die auffaelligsten Mover (TCOM, COHR, AEMD) sind entweder bereits eingepreiste Q2-Zahlen, ein reiner Personalie-Katalysator ohne belastbare Kursangabe oder ein duenn gehandelter Nebenwert - keiner davon erfuellt die Bar fuer eine spekulative Kurzfrist-Position. Freies Kapital von 42.706,91 EUR bleibt daher bis zu einer wirklich ueberzeugenden Gelegenheit ungenutzt.",
     "positionIds": [
       "pos-0014",
       "pos-0012",
       "pos-0015"
     ],
-    "portfolioValueEnd": 1122.9,
+    "portfolioValueEnd": 1121.03,
     "updates": [
       {
         "time": "00:08",
@@ -5432,6 +5432,11 @@
         "time": "19:07",
         "note": "Keine Aenderung (META 682,20 USD/+5,62%, SOL 100,15 USD/-2,16%)",
         "portfolioValue": 1122.9
+      },
+      {
+        "time": "20:08",
+        "note": "Keine Aenderung. META 677,87 USD (+4,95%) und SOL 100,59 USD (-1,73%) aktualisiert. Kein Trade: kein ueberzeugendes neues Setup (TCOM/COHR/AEMD-Mover ohne belastbaren Katalysator), Brent-Deeskalation bestaetigt gestrigen Stop-Loss.",
+        "portfolioValue": 1121.03
       }
     ]
   }
