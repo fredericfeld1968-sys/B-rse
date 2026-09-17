@@ -247,10 +247,10 @@
     "reasoning": "Neue, konkrete Eskalationsstufe ueber die bereits am 09.-10.09. gehandelte Situation hinaus: Saudi-Arabien hat nach Drohnenangriffen die grosse Ost-West-Pipeline (Kapazitaet ca. 7 Mio. Barrel/Tag, zentrale Umgehungsroute der Strasse von Hormuz) vorsorglich abgeschaltet; zusaetzlich haben Houthi-Kraefte saudische Ziele angegriffen und die Insel Perim in der Bab-el-Mandeb-Strasse besetzt. Brent stieg dadurch nach einem Wochenplus von rund 9% weiter auf ca. 106-110 USD/Barrel (mehrfach unabhaengig bestaetigt: Bloomberg, CNBC, Fortune, Al Jazeera) - das hoechste Niveau seit Monaten. Analog zum erfolgreichen Brent-Trade vom 09.-10.09. (+8,59%) und dem Gold-Trade im August spekulative kurzfristige Momentum-Position auf die weiter eskalierende Nahost-Versorgungskrise.",
     "status": "open",
     "buyPrice": 107.5,
-    "currentPrice": 107.77,
-    "currentValue": 601.51,
-    "profitLoss": 1.51,
-    "profitLossPct": 0.25,
+    "currentPrice": 105.81,
+    "currentValue": 590.57,
+    "profitLoss": -9.43,
+    "profitLossPct": -1.57,
     "closedDate": null,
     "closeReasoning": null
   }
