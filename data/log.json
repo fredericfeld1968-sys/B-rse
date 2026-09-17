@@ -5457,19 +5457,24 @@
   },
   {
     "date": "2026-09-18",
-    "marketOverview": "Nach dem hawkishen Fed-Zinsschritt (25bp auf 3,75-4,00%) stabilisieren sich die Maerkte: US-Aktienfutures leicht positiv, Bitcoin bei rund 76.200 USD (+0,73%) und Ethereum bei ca. 2.418 USD (+0,82%) nur moderat im Plus. Zcash-Rally (+17-21% durch NU7-Governance-Votum) ist bereits deutlich extended und kein neuer Einstiegspunkt. Solana pendelt seit dem Nachmittag um die 101-102-USD-Marke, Oel (Brent) bleibt wegen Nahost-Spannungen erhoeht bei ca. 102 USD.",
+    "marketOverview": "Der Kryptomarkt konsolidiert nach dem hawkishen Fed-Zinsschritt und der gescheiterten Senatsabstimmung zum Digital Asset Market Clarity Act (49-50): Bitcoin haelt sich bei rund 76.300 USD, Ethereum bei ca. 2.440-2.450 USD, beide nur leicht veraendert. Solana pendelt weiter um die 101-USD-Marke. Aktien, ETFs und Rohstoffe sind zu dieser Nachtstunde ausserhalb der Handelszeiten; META schloss den regulaeren Handel bei 681,43 USD (-0,13%) minimal leichter.",
     "decision": "Keine Aenderung",
-    "reasoning": "Kurz nach Mitternacht sind Aktien, ETFs und Rohstoffe ausserhalb der Handelszeiten - nur Krypto waere bewegbar. Es gibt jedoch kein wirklich ueberzeugendes neues Setup: Der grosse Zcash-Spike ist bereits zu weit gelaufen (siehe Vorlauf um 23:08), BTC/ETH/SOL bewegen sich nur leicht nach dem Fed-Entscheid. SOL (pos-0012) und META (pos-0014) bleiben innerhalb der etablierten Halteband, weder Gewinnmitnahme- noch Stop-Loss-Schwelle erreicht.",
+    "reasoning": "Kurz nach Mitternacht sind Aktien, ETFs und Rohstoffe ausserhalb der Handelszeiten - nur Krypto waere bewegbar. Es gibt jedoch kein wirklich ueberzeugendes neues Setup: der Kryptomarkt konsolidiert nach dem Fed-Entscheid und der gescheiterten CLARITY-Act-Abstimmung ohne klare Richtung. SOL (pos-0012) und META (pos-0014) bleiben innerhalb der etablierten Halteband, weder Gewinnmitnahme- noch Stop-Loss-Schwelle erreicht.",
     "positionIds": [
       "pos-0012",
       "pos-0014"
     ],
-    "portfolioValueEnd": 1130.3,
+    "portfolioValueEnd": 1127.32,
     "updates": [
       {
         "time": "00:10",
         "note": "Keine Aenderung. SOL auf 101,65 USD (-0,69% seit Kauf) aktualisiert, META unveraendert (682,27 USD/+5,63%, Boersen geschlossen). Kein Trade: kurz nach Mitternacht nur Krypto handelbar, kein ueberzeugendes neues Setup (Zcash-Spike +17-21% bereits zu weit gelaufen, BTC/SOL nur leicht im Plus nach Fed-Zinsentscheid).",
         "portfolioValue": 1130.3
+      },
+      {
+        "time": "01:08",
+        "note": "Keine Aenderung. SOL auf 101,20 USD (-1,13%) und META auf den Boersenschlusskurs 681,43 USD (+5,50%) aktualisiert. Kein Trade: Kryptomarkt konsolidiert nach Fed-Zinsschritt und abgelehntem CLARITY-Act-Votum im Senat, kein ueberzeugendes neues Setup.",
+        "portfolioValue": 1127.32
       }
     ]
   }
