@@ -5323,15 +5323,15 @@
   },
   {
     "date": "2026-09-17",
-    "marketOverview": "US-Boersen sind seit 22:00 CEST regulaer geschlossen (Nasdaq +1,6%, S&P 500 +1,0% zum Handelsschluss, Chip-Index nach hawkishem Fed-Zinsschritt weiter fest). Im Kryptomarkt herrscht nach dem hawkishen FOMC-Dot-Plot (16 von 18 Mitgliedern erwarten mindestens einen weiteren Zinsschritt 2026) gedaempfte, leicht positive Stimmung: Bitcoin bei ca. 76.200 USD (+0,7-0,8%), Ethereum ca. 2.418 USD (+0,8%), SOL seitwaerts um 100-101 USD ohne klares Richtungssignal. Der Circle-Arc-Mainnet-Start sorgte kurzzeitig fuer spekulative Ausschlaege bei Nebenwerten (teils -38% bis -54% Pullback), ohne uebertragbares Signal fuer bestehende Positionen.",
-    "decision": "Kein neuer Trade in diesem Lauf (22:07). META (pos-0014) und SOL (pos-0012) bleiben offen, Kurse aktualisiert (META 676,34 USD/+4,71%, SOL 100,83 USD/-1,50%). Stop-Loss-Verkauf BRENT (pos-0015) von 14:13 bleibt der einzige Trade des Tages.",
-    "reasoning": "META bleibt mit +4,71% weiterhin unter der etablierten 7-9%-Gewinnmitnahme-Zielspanne, kein Verkaufssignal. SOL bewegt sich mit -1,50% kaum und ist weit von der Stop-Loss-Schwelle (-6,5% bis -7,5%) entfernt, keine Aktion noetig. Aktien/ETFs/Rohstoffe sind nach Handelsschluss (22:00 CEST) nicht mehr handelbar, hoechstens Krypto waere moeglich gewesen - der Kryptomarkt zeigt jedoch nur eine schwache, breite Erholung ohne einen einzelnen ueberzeugenden Katalysator (kein bestaetigter Ausbruch, kein klarer Dip-Kauf-Kandidat). Freies Kapital von 42.706,91 EUR bleibt daher weiterhin ungenutzt, bis sich eine wirklich ueberzeugende Gelegenheit bietet.",
+    "marketOverview": "US-Boersen bleiben nach Handelsschluss (22:00 CEST) geschlossen; Nasdaq/S&P schlossen nach dem hawkishen Fed-Zinsschritt (25bp auf 3,75-4,00%, Dot-Plot mit weiterem Zinsschritt 2026) fest. Im Kryptomarkt leicht positive, aber gedaempfte Stimmung: Bitcoin ca. 76.200-76.600 USD (+0,7-0,9% 24h), Ethereum ca. 2.418 USD (+0,8%), Fear&Greed neutral bei 50. Zcash sprang nach einer bekanntgewordenen Paradigm-Beteiligung um +23% auf ein Rekordhoch - bereits stark ueberdehnt, kein Dip-Kauf-Setup. SOL bewegt sich weiterhin seitwaerts um 100-101 USD ohne klares Richtungssignal.",
+    "decision": "Kein neuer Trade in diesem Lauf (23:08). META (pos-0014) und SOL (pos-0012) bleiben offen, Kurse aktualisiert (META 682.27 USD/5.63%, SOL 101.50 USD/-0.84%). Stop-Loss-Verkauf BRENT (pos-0015) von 14:13 bleibt der einzige Trade des Tages.",
+    "reasoning": "META bleibt mit +5,63% weiterhin unter der etablierten 7-9%-Gewinnmitnahme-Zielspanne, kein Verkaufssignal. SOL bewegt sich mit -0,84% kaum und ist weit von der Stop-Loss-Schwelle (-6,5% bis -7,5%) entfernt, keine Aktion noetig. Aktien/ETFs/Rohstoffe sind nach Handelsschluss nicht mehr handelbar, im Kryptomarkt gibt es trotz leicht positiver Grundstimmung keinen einzelnen ueberzeugenden Katalysator (Zcash-Spike bereits zu weit gelaufen, kein bestaetigter neuer Ausbruch, kein Dip-Kauf-Kandidat). Freies Kapital von 42.706,91 EUR bleibt daher weiterhin ungenutzt, bis sich eine wirklich ueberzeugende Gelegenheit bietet.",
     "positionIds": [
       "pos-0014",
       "pos-0012",
       "pos-0015"
     ],
-    "portfolioValueEnd": 1120.79,
+    "portfolioValueEnd": 1129.57,
     "updates": [
       {
         "time": "00:08",
@@ -5447,6 +5447,11 @@
         "time": "22:07",
         "note": "Keine Aenderung. META 676,34 USD (+4,71%), SOL 100,83 USD (-1,50%) aktualisiert. Kein Trade: US-Boersen seit 22:00 CEST geschlossen, im Kryptomarkt kein ueberzeugendes neues Setup (hawkisher Fed-Dot-Plot als Gegenwind, keine klaren Katalysatoren).",
         "portfolioValue": 1120.79
+      },
+      {
+        "time": "23:08",
+        "note": "Keine Aenderung. META auf 682,27 USD (+5,63%) und SOL auf 101,50 USD (-0,84%) aktualisiert. Kein Trade: Kryptomarkt reagiert nur gedaempft positiv auf den hawkishen Fed-Zinsschritt, Zcash-Spike (+23%) bereits zu weit gelaufen fuer einen Einstieg.",
+        "portfolioValue": 1129.57
       }
     ]
   }
