@@ -5323,15 +5323,15 @@
   },
   {
     "date": "2026-09-17",
-    "marketOverview": "Dow (+0,7%), S&P 500 (+1,0%) und Nasdaq (+1,4-1,7%) setzen die Erholung nach dem hawkishen Fed-Zinsschritt vom Vortag (Hike auf 3,75-4,00%, Warsh signalisiert moeglichen weiteren Schritt 2026) fort, getragen von fallenden Renditen und Oelpreisen sowie den 'Magnificent Seven' (Nvidia, Amazon je +2%, Microsoft +1%). Kein neuer Einzeltitel-Katalysator mit aussergewoehnlichem Ausschlag gefunden - die Rally bleibt breit und marktweit. META notiert unveraendert bei 682,20 USD (+5,62%, weiter unter der 7-9%-Zielspanne). Kryptomarkt neutral (Fear&Greed 50): Bitcoin 76.200 USD (+0,7%), SOL bei rund 100,08 USD (-2,23% seit Kauf) mit erlahmendem MACD-Momentum trotz weiterhin bullischer EMA-Struktur.",
-    "decision": "Kein neuer Trade in diesem Lauf (18:08). META (pos-0014) und SOL (pos-0012) bleiben offen, Kurse aktualisiert (META unveraendert 682,20 USD/+5,62%, SOL minimal auf 100,08 USD/-2,23%). Stop-Loss-Verkauf BRENT (pos-0015) von 14:13 bleibt der einzige Trade des Tages.",
-    "reasoning": "META bleibt mit +5,62% weiterhin unter der etablierten 7-9%-Gewinnmitnahme-Zielspanne, kein Verkaufssignal. SOL bewegt sich kaum (-2,23% statt zuvor -2,16%), weit von der Stop-Loss-Schwelle (-6,5% bis -7,5%) entfernt, keine Aktion noetig - zudem signalisiert der fading MACD eher Seitwaertsbewegung als eine neue Kaufgelegenheit. Fuer Neukaeufe weiterhin kein ueberzeugendes Setup: Die fortgesetzte Markterholung ist breit angelegt und erwartungsgemaess nach dem Fed-Entscheid, ohne bestaetigten Einzeltitel-Ausbruch wie beim historischen AMD-/Palantir-/NVDA-Muster. Kryptomarkt neutral (Fear&Greed 50), kein Momentum-Signal. Freies Kapital von 42.706,91 EUR bleibt daher bis zu einer wirklich ueberzeugenden Gelegenheit ungenutzt.",
+    "marketOverview": "Breite Erleichterungsrally haelt an: Dow +0,7%, S&P 500 +1,0%, Nasdaq +1,4-1,7% nach dem hawkishen Fed-Zinsschritt (3,75-4,00%), getrieben von fallenden Renditen und nachgebenden Oelpreisen (Brent ~103 USD, Entspannung bei Hormuz-Lieferrisiken) sowie starken Chipwerten (+3%). Kein neuer Einzeltitel-Katalysator mit aussergewoehnlichem Ausschlag gefunden - Bewegungen bei APA/ROG/AEMD sind duenn gehandelte Nebenwerte ohne belastbares Setup. META unveraendert bei 682,20 USD (+5,62%, weiter unter der 7-9%-Zielspanne). SOL notiert stabil bei rund 100,15 USD (-2,16%), Handel in engem Band um die 100-USD-Marke ohne klares Richtungssignal.",
+    "decision": "Kein neuer Trade in diesem Lauf (19:07). META (pos-0014) und SOL (pos-0012) bleiben offen, Kurse aktualisiert (META unveraendert 682,20 USD/+5,62%, SOL leicht auf 100,15 USD/-2,16%). Stop-Loss-Verkauf BRENT (pos-0015) von 14:13 bleibt der einzige Trade des Tages.",
+    "reasoning": "META bleibt mit +5,62% weiterhin unter der etablierten 7-9%-Gewinnmitnahme-Zielspanne, kein Verkaufssignal. SOL bewegt sich kaum (-2,16% statt zuvor -2,23%), weit von der Stop-Loss-Schwelle (-6,5% bis -7,5%) entfernt, keine Aktion noetig. Fuer Neukaeufe weiterhin kein ueberzeugendes Setup: Die breite Markterholung nach dem Fed-Entscheid ist marktweit und erwartungsgemaess, ohne bestaetigten Einzeltitel-Ausbruch wie beim etablierten AMD-/Palantir-/NVDA-Muster; die einzigen auffaelligen Mover (APA, ROG, AEMD) sind duenn gehandelte Nebenwerte ohne belastbaren, unabhaengig bestaetigten Katalysator. Kryptomarkt richtungslos um die 100-USD-Marke bei SOL, kein Momentum-Signal. Freies Kapital von 42.706,91 EUR bleibt daher bis zu einer wirklich ueberzeugenden Gelegenheit ungenutzt.",
     "positionIds": [
       "pos-0014",
       "pos-0012",
       "pos-0015"
     ],
-    "portfolioValueEnd": 1122.56,
+    "portfolioValueEnd": 1122.9,
     "updates": [
       {
         "time": "00:08",
@@ -5427,6 +5427,11 @@
         "time": "18:08",
         "note": "Keine Aenderung (META 682,20 USD/+5,62%, SOL 100,08 USD/-2,23%)",
         "portfolioValue": 1122.56
+      },
+      {
+        "time": "19:07",
+        "note": "Keine Aenderung (META 682,20 USD/+5,62%, SOL 100,15 USD/-2,16%)",
+        "portfolioValue": 1122.9
       }
     ]
   }
