@@ -5323,15 +5323,15 @@
   },
   {
     "date": "2026-09-17",
-    "marketOverview": "US-Futures leicht im Plus (Dow +0,2%, S&P/Nasdaq +0,3-0,5%) nach dem hawkishen Fed-Zinsschritt vom Vortag (25bp auf 3,75-4,00%, 16 von 18 Fed-Mitgliedern erwarten 2026 weitere Schritte); S&P 500 bei 7.596 Punkten (+0,59%). META bei 680,90 USD (+5,42% seit Kauf, Rueckenwind durch JPMorgan-Upgrade und Bernstein-Kursziel 800 USD wegen 'Muse'-KI-Agent), SOL seitwaerts bei 99,79 USD (-2,51%, weiter richtungslos nach gescheitertem CLARITY-Act-Votum). BRENT gibt auf 105,81 USD nach (-1,57% seit Kauf, CNBC: Oelpreise faellen weiter, da Saudi-Arabien nach dem Pipeline-Angriff Ersatzlieferungen per Schiff-zu-Schiff-Transfer an asiatische Raffinerien anbietet und die Eskalationsangst damit etwas nachlaesst). Bitcoin bei 76.200 USD (+0,73%). Keine neuen, mehrfach bestaetigten Einzelkatalysatoren mit ausreichend starker Kursbewegung fuer eine neue Position gefunden (groesste Tagesgewinner APA Corp und Rogers Corp liegen ausserhalb eines klaren, spekulativen Kurzfrist-Setups).",
-    "decision": "Kein neuer Trade in diesem Lauf. Kurse aktualisiert: META 680,90 USD (+5,42%, unveraendert), SOL 99,79 USD (-2,51%, unveraendert), BRENT auf 105,81 USD gesenkt (-1,57%, vorher +0,25%) wegen nachlassender Lieferausfall-Sorgen durch saudische Ersatzlieferungen. Keine Position erreicht die etablierten Gewinnmitnahme- (7-9%) oder Stop-Loss-Schwellen (-6,5% bis -7,5%).",
-    "reasoning": "Europaeische Boersen offen, US-Maerkte oeffnen erst um 15:30 MESZ - Krypto und Brent-Future durchgehend handelbar. Die Brent-Position zeigt erstmals eine Bewegung ins Minus, da Saudi-Arabien die durch den Pipeline-Angriff ausgeloesten Lieferausfallsorgen mit Schiff-zu-Schiff-Ersatzlieferungen abfedert - die Eskalationsthese schwaecht sich leicht ab, liegt aber mit -1,57% noch deutlich innerhalb der Bandbreite, keine Stop-Loss-Schwelle erreicht. Kein neuer, mehrfach unabhaengig bestaetigter Katalysator mit klarer, ausreichend starker Kursbewegung gefunden; gemaess Vorgabe wird ohne wirklich ueberzeugende Gelegenheit nichts unternommen.",
+    "marketOverview": "US-Futures/S&P 500 leicht im Minus (-0,45% auf 7.551,81 Punkte) nach dem hawkishen Fed-Zinsschritt vom Vortag. META bei 673,31 USD (+4,24% seit Kauf, +0,46% zum Vortagesschluss), gestuetzt durch das JPMorgan-Upgrade auf 'Overweight' (Kursziel 820 USD) und starke fruehe Nutzungszahlen des 'Muse'-KI-Agenten (Bloomberg, IBTimes). SOL bei 100,54 USD (-1,78% seit Kauf, +3,13% intraday), Bitcoin bei 76.599 USD (+0,92%). BRENT brach dagegen auf 98,81 USD/Barrel ein (-1,94% zum Vortagesschluss, -8,08% seit Kauf) - Saudi-Arabien weitet laut mehreren unabhaengigen Quellen (CNBC, Rigzone, FXEmpire, Business Recorder, Gulf News) Schiff-zu-Schiff-Ersatzlieferungen ueber Sohar/Oman aus, was die Hormuz-Eskalationsthese deutlich abschwaecht.",
+    "decision": "Stop-Loss-Verkauf BRENT (pos-0015) bei -8,08%: Schwelle klar ueberschritten, mehrfach unabhaengig bestaetigter De-Eskalations-Katalysator (Saudi-Ersatzlieferungen ueber Oman). Realisierter Verlust -48,50 EUR. META und SOL bleiben offen, Kurse aktualisiert (META 673,31 USD/+4,24%, SOL 100,54 USD/-1,78%). Kein neuer Kauf in diesem Lauf, keine ausreichend ueberzeugende neue Gelegenheit identifiziert.",
+    "reasoning": "Europaeische Boersen offen, US-Maerkte oeffnen um 15:30 MESZ - Aktien/ETFs/Rohstoffe damit handelbar. Brent faellt live (Yahoo Finance BZ=F) auf 98,81 USD (Vortagesschluss 100,76 USD), womit der Verlust seit Kauf (107,50 USD) auf -8,08% steigt und die etablierte Stop-Loss-Bandbreite (-6,5% bis -7,5%, analog Rheinmetall, NVIDIA, XRP) klar ueberschritten wird. Der Rueckgang ist durch mehrere unabhaengige Quellen bestaetigt (CNBC, Rigzone, FXEmpire, Business Recorder, Businessday NG, Shafaq News, Gulf News): Saudi-Arabien bietet verstaerkt Schiff-zu-Schiff-Transfers via Sohar/Oman an, um den Ausfall der beschaedigten Ost-West-Pipeline zu kompensieren - die urspruengliche Eskalationsthese (Straße von Hormus) schwaecht sich damit strukturell ab, kein blosser Tagesrauschen. Passend zum spekulativen Kurzfrist-Profil wird konsequent glattgestellt. Fuer META (JPMorgan-Upgrade bereits eingepreist, Gewinn 4,24% noch unter der 7-9%-Zielspanne) und SOL (kein neuer Katalysator) besteht kein Handlungsbedarf. Keine neue ueberzeugende Kaufgelegenheit gefunden (groesste Marktbewegung war der Oelpreisverfall, der bereits gehandelt wurde); freies Kapital von 42.706,91 EUR bleibt bis zu einer wirklich ueberzeugenden Gelegenheit ungenutzt.",
     "positionIds": [
       "pos-0014",
       "pos-0012",
       "pos-0015"
     ],
-    "portfolioValueEnd": 1710.51,
+    "portfolioValueEnd": 1116.55,
     "updates": [
       {
         "time": "00:08",
@@ -5402,6 +5402,11 @@
         "time": "13:09",
         "note": "Keine Aenderung. META unveraendert 680,90 USD (+5,42%), SOL unveraendert 99,79 USD (-2,51%). BRENT auf 105,81 USD gesenkt (-1,57%, vorher +0,25%) - Oelpreise faellen laut CNBC, da Saudi-Arabien nach Pipeline-Angriff Ersatzlieferungen per Schiff an asiatische Raffinerien anbietet. Kein Trade: keine ueberzeugende neue Gelegenheit, keine Schwelle erreicht.",
         "portfolioValue": 1710.51
+      },
+      {
+        "time": "14:13",
+        "note": "Stop-Loss-Verkauf BRENT bei 98,81 USD (-8,08%, realisierter Verlust -48,50 EUR) wegen Saudi-Ersatzlieferungen ueber Oman (Hormuz-Eskalation schwaecht sich ab). META auf 673,31 USD (+4,24%) und SOL auf 100,54 USD (-1,78%) aktualisiert. Kein neuer Kauf.",
+        "portfolioValue": 1116.55
       }
     ]
   }
