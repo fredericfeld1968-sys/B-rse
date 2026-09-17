@@ -5323,15 +5323,15 @@
   },
   {
     "date": "2026-09-17",
-    "marketOverview": "Nach dem hawkishen Fed-Zinsschritt (25bp auf 3,75-4,00%, 16 von 18 Mitgliedern erwarten mindestens eine weitere Erhoehung) zeigt sich der Kryptomarkt in einer leichten Erleichterungsrally: Bitcoin notiert knapp ueber 76.000 USD (+1,3%), Ethereum nahe 2.400 USD (+1,6%), getrieben von der Einschaetzung, dass der Zinserhoehungszyklus sich dem Ende naehert. Solana bleibt nach dem gescheiterten CLARITY-Act-Votum im Senat richtungslos und schwankt zwischen 97 und 102 USD ohne klaren Trend. Boersen und Rohstoffmaerkte sind vor Europa-Handelsstart weiterhin geschlossen.",
-    "decision": "Kein neuer Trade in diesem Lauf. Kurse der drei offenen Positionen aktualisiert: META +4,83% (Erholung im US-Premarket auf 677,09 USD), SOL -1,43% (weiterhin richtungslos um 100 USD), BRENT +0,25% (kaum veraendert bei 107,77 USD/Barrel). Keine Position erreicht die etablierten Gewinnmitnahme- (7-9%) oder Stop-Loss-Schwellen (-6,5% bis -7,5%).",
-    "reasoning": "Ausserhalb der Boersenzeiten sind nur Kryptowerte handelbar. Die Erleichterungsrally bei BTC/ETH nach dem Fed-Entscheid ist moderat (+1,3-1,6%) und faellt angesichts des weiterhin hawkishen Ausblicks (weitere Zinsschritte in Aussicht gestellt) nicht als ueberzeugendes neues Setup auf. Fuer die gehaltene SOL-Position gibt es keinen frischen Katalysator, der ueber das bereits eingepreiste Transaction-V1-Update und den erwarteten Alpenglow-Upgrade (Ziel Oktober) hinausgeht. Daher keine neue Position und keine Anpassung der bestehenden.",
+    "marketOverview": "Nach dem hawkishen Fed-Zinsschritt vom Vortag (25bp auf 3,75-4,00%) bleibt der Kryptomarkt richtungslos: Bitcoin pendelt um 75.800-76.000 USD, Ethereum um 2.400-2.520 USD. Solana faellt weiter zurueck auf ca. 97-98 USD (vom Sonntagshoch bei 102 USD), ohne neuen fundamentalen Katalysator - die zuvor gemeldete Grayscale-Multi-Asset-ETF-Zulassung stellte sich bei naeherer Pruefung als einjaehrige Altmeldung (17.09.2025) heraus und nicht als aktuelle Nachricht. Boersen und Rohstoffmaerkte bleiben vor Europa-Handelsstart geschlossen.",
+    "decision": "Kein neuer Trade in diesem Lauf. Kurse der drei offenen Positionen aktualisiert: META unveraendert bei 677,09 USD (+4,83%, Boerse geschlossen, keine neuen Daten), SOL auf 97,80 USD gefallen (-4,49%, naehert sich aber noch nicht der Stop-Loss-Schwelle), BRENT leicht auf 108,00 USD gestiegen (+0,47%). Keine Position erreicht die etablierten Gewinnmitnahme- (7-9%) oder Stop-Loss-Schwellen (-6,5% bis -7,5%).",
+    "reasoning": "Ausserhalb der Boersenzeiten sind nur Kryptowerte handelbar. Eine zunaechst vielversprechend wirkende Meldung ueber eine neue Grayscale-Multi-Asset-Krypto-ETF-Zulassung wurde bei Gegenpruefung als einjaehrige Altmeldung (September 2025) identifiziert und daher nicht als Kaufanlass gewertet - Quellenpruefung bleibt zentral. Ansonsten kein ueberzeugendes neues Setup: Der Kryptomarkt bleibt nach dem hawkishen Fed-Entscheid und dem gescheiterten CLARITY-Act-Votum richtungslos bis leicht schwaechelnd. Daher keine neue Position und keine Anpassung der bestehenden.",
     "positionIds": [
       "pos-0014",
       "pos-0012",
       "pos-0015"
     ],
-    "portfolioValueEnd": 1723.33,
+    "portfolioValueEnd": 1709.27,
     "updates": [
       {
         "time": "00:08",
@@ -5362,6 +5362,11 @@
         "time": "05:07",
         "note": "Keine Aenderung. META 677,09 USD (+4,83%, Erholung im Premarket), SOL 100,90 USD (-1,43%, weiterhin richtungslos nach gescheitertem CLARITY-Act-Votum) und BRENT 107,77 USD (+0,25%) aktualisiert. Kein Trade: Boersen/Rohstoffe vor Europa-Handelsstart geschlossen, Krypto-Erleichterungsrally nach hawkishem Fed-Entscheid ohne ueberzeugendes neues Setup.",
         "portfolioValue": 1723.33
+      },
+      {
+        "time": "06:08",
+        "note": "Keine Aenderung. META unveraendert 677,09 USD (Boerse geschlossen), SOL auf 97,80 USD gefallen (-4,49%, CoinGecko/OKX/Crypto.com), BRENT leicht auf 108,00 USD (+0,47%) aktualisiert. Eine vermeintliche Grayscale-Multi-Asset-ETF-Meldung entpuppte sich als Altmeldung von 2025 - kein echter Katalysator. Kein Trade: Boersen vor Europa-Handelsstart geschlossen, Kryptomarkt ohne ueberzeugendes neues Setup.",
+        "portfolioValue": 1709.27
       }
     ]
   }
