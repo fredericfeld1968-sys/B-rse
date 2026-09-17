@@ -5323,15 +5323,15 @@
   },
   {
     "date": "2026-09-17",
-    "marketOverview": "US-Maerkte weiter unter dem Eindruck des Fed-Zinsschritts vom Vortag (Dow -1,21%, S&P500 -0,45%); Fed-Chair Warsh betont anhaltend hohe Inflation, Markt preist zwei weitere Zinsschritte 2026 ein. META notiert bei 678,63 USD, SOL bei 99,79 USD (leichte Erholung im Kryptomarkt trotz weiter richtungslos nach gescheitertem CLARITY-Act-Votum), BRENT bei 107,77 USD (Saudi-Arabien stellt Teilreparatur der Ost-West-Pipeline in Aussicht, Trump signalisiert moegliches baldiges Ende des Iran-Konflikts - beides leicht entlastend fuer die Oelpreis-Risikopraemie). Keine neuen, hinreichend bestaetigten Handelskatalysatoren.",
-    "decision": "Kein neuer Trade in diesem Lauf. Kurse der drei offenen Positionen aktualisiert: META auf 678,63 USD (+5,06%), SOL auf 99,79 USD (-2,51%), BRENT auf 107,77 USD (+0,25%, leichte Erholung). Keine Position erreicht die etablierten Gewinnmitnahme- (7-9%) oder Stop-Loss-Schwellen (-6,5% bis -7,5%).",
-    "reasoning": "Europaeische Boersen seit 9:00 Uhr offen, US-Maerkte oeffnen erst um 15:30 MESZ - Krypto und Brent-Future sind durchgehend handelbar. Marktbild bleibt fragmentiert und vorsichtig nach dem hawkishen Fed-Zinsschritt; aktuelle Direktkurse eingeholt, aber keine neue, mehrfach bestaetigte Nachricht mit klarem Kurstreiber fuer eine ueberzeugende neue Position gefunden. Gemaess Vorgabe wird ohne wirklich ueberzeugende Gelegenheit nichts unternommen; die drei offenen Positionen bleiben innerhalb der etablierten Bandbreite ohne Schwellenwert-Ueberschreitung.",
+    "marketOverview": "US-Maerkte vor Handelsstart mit leichter Erholung (Dow-Futures +0,2%, S&P/Nasdaq-Futures +0,3-0,5%) nach dem Fed-Zinsschritt vom Vortag; Warsh betont weiter anhaltend hohe Inflation. META klettert im Tagesverlauf auf ca. 680,90 USD (+5,42% seit Kauf), SOL seitwaerts bei 99,79 USD (-2,51%, weiter richtungslos nach gescheitertem CLARITY-Act-Votum), BRENT unveraendert bei 107,77 USD (+0,25%) - Iran-Krieg haelt WTI/Brent nahe Mehrmonatshoch, Ethereum stabilisiert sich um 2.400-2.500 USD nach breiterem Krypto-Rueckgang. Keine neuen, mehrfach bestaetigten Einzelkatalysatoren mit klarer Kursbewegung gefunden.",
+    "decision": "Kein neuer Trade in diesem Lauf. Kurse aktualisiert: META auf 680,90 USD (+5,42%), SOL unveraendert 99,79 USD (-2,51%), BRENT unveraendert 107,77 USD (+0,25%). Keine Position erreicht die etablierten Gewinnmitnahme- (7-9%) oder Stop-Loss-Schwellen (-6,5% bis -7,5%).",
+    "reasoning": "Europaeische Boersen offen, US-Maerkte oeffnen erst um 15:30 MESZ - Krypto und Brent-Future durchgehend handelbar. Marktbild bleibt nach dem hawkishen Fed-Zinsschritt fragmentiert und vorsichtig; keine neue, mehrfach unabhaengig bestaetigte Nachricht mit klarem, ausreichend starkem Kurstreiber fuer eine ueberzeugende neue Position gefunden (Stock-Mover-Screening zeigte nur kleinere Einzelwerte ohne Relevanz fuers Risikoprofil). Gemaess Vorgabe wird ohne wirklich ueberzeugende Gelegenheit nichts unternommen; die drei offenen Positionen bleiben innerhalb der etablierten Bandbreite ohne Schwellenwert-Ueberschreitung.",
     "positionIds": [
       "pos-0014",
       "pos-0012",
       "pos-0015"
     ],
-    "portfolioValueEnd": 1719.33,
+    "portfolioValueEnd": 1721.44,
     "updates": [
       {
         "time": "00:08",
@@ -5387,6 +5387,11 @@
         "time": "10:08",
         "note": "Keine Aenderung. META 678,63 USD (+5,06%), SOL 99,79 USD (-2,51%) und BRENT 107,77 USD (+0,25%, leichte Erholung durch Saudi-Pipeline-Teilreparatur) aktualisiert. Kein Trade: Marktbild nach Fed-Zinsschritt fragmentiert, keine neue ueberzeugende Gelegenheit.",
         "portfolioValue": 1719.33
+      },
+      {
+        "time": "11:07",
+        "note": "Keine Aenderung. META auf 680,90 USD (+5,42%) gestiegen, SOL unveraendert 99,79 USD (-2,51%) und BRENT unveraendert 107,77 USD (+0,25%) aktualisiert. Kein Trade: keine ueberzeugende neue Gelegenheit, Marktbild nach Fed-Zinsschritt weiter fragmentiert.",
+        "portfolioValue": 1721.44
       }
     ]
   }
