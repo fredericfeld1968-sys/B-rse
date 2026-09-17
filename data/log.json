@@ -5324,14 +5324,14 @@
   {
     "date": "2026-09-17",
     "marketOverview": "Breite Erleichterungsrally setzt sich am Nachmittag fort: S&P 500 +1,0% auf 7.596 Punkte, Nasdaq fuehrt mit +1,6% (Chip-Index +3%), Russell 2000 +1,1% - getrieben von fallenden Renditen und nachgebenden Oelpreisen nach dem hawkishen Fed-Zinsschritt (3,75-4,00%). Brent Crude faellt weiter auf ca. 103 USD/Barrel (-2,1% bis -2,6%), da Saudi-Arabien eine teilweise Wiederinbetriebnahme der beschaedigten Ost-West-Pipeline binnen Tagen in Aussicht stellt - Bestaetigung der bereits beim BRENT-Stop-Loss um 14:13 erkannten Deeskalation. Auffaellige Einzeltitel-Mover (TCOM nach Q2-Zahlen, COHR nach CEO-Wechsel, AEMD +495% als duenn gehandelter Nebenwert) bieten kein zum etablierten Muster passendes, ueberzeugendes Setup. Bitcoin stabil bei ca. 76.200 USD (+0,7%), SOL in enger Handelsspanne um 100 USD ohne klares Richtungssignal.",
-    "decision": "Kein neuer Trade in diesem Lauf (20:08). META (pos-0014) und SOL (pos-0012) bleiben offen, Kurse aktualisiert (META 677,87 USD/+4,95%, SOL 100,59 USD/-1,73%). Stop-Loss-Verkauf BRENT (pos-0015) von 14:13 bleibt der einzige Trade des Tages.",
-    "reasoning": "META bleibt mit +4,95% weiterhin unter der etablierten 7-9%-Gewinnmitnahme-Zielspanne, kein Verkaufssignal. SOL bewegt sich mit -1,73% kaum und ist weit von der Stop-Loss-Schwelle (-6,5% bis -7,5%) entfernt, keine Aktion noetig. Fuer Neukaeufe weiterhin kein ueberzeugendes Setup: Die Nachmittagsrally ist marktweit und folgt direkt aus dem bereits verarbeiteten Fed-Entscheid, ohne neuen bestaetigten Einzeltitel-Ausbruch nach dem etablierten AMD-/Palantir-/NVDA-Muster. Die auffaelligsten Mover (TCOM, COHR, AEMD) sind entweder bereits eingepreiste Q2-Zahlen, ein reiner Personalie-Katalysator ohne belastbare Kursangabe oder ein duenn gehandelter Nebenwert - keiner davon erfuellt die Bar fuer eine spekulative Kurzfrist-Position. Freies Kapital von 42.706,91 EUR bleibt daher bis zu einer wirklich ueberzeugenden Gelegenheit ungenutzt.",
+    "decision": "Kein neuer Trade in diesem Lauf (21:08). META (pos-0014) und SOL (pos-0012) bleiben offen, Kurse aktualisiert (META 677,87 USD/+4,95%, SOL 100,30 USD/-2,01%). Stop-Loss-Verkauf BRENT (pos-0015) von 14:13 bleibt der einzige Trade des Tages.",
+    "reasoning": "META bleibt mit +4,95% weiterhin unter der etablierten 7-9%-Gewinnmitnahme-Zielspanne, kein Verkaufssignal. SOL bewegt sich mit -2,01% kaum und ist weit von der Stop-Loss-Schwelle (-6,5% bis -7,5%) entfernt, keine Aktion noetig. Fuer Neukaeufe erneut kein ueberzeugendes Setup: Die Chip-Sektor-Rally (AMD +7% dritte Session in Folge, Broadcom +3%, Nvidia +2%) ist zwar auffaellig, aber AMD ist bereits +156% seit Jahresbeginn gelaufen und drei Tage in Folge gestiegen - eine reine sektorweite Erleichterung nach dem Fed-Entscheid ohne neuen Einzeltitel-Katalysator, kein frischer Dip- oder bestaetigter-Ausbruch-Einstieg wie beim etablierten AMD-/Palantir-/NVDA-Muster. Freies Kapital von 42.706,91 EUR bleibt daher weiterhin ungenutzt, bis sich eine wirklich ueberzeugende Gelegenheit bietet.",
     "positionIds": [
       "pos-0014",
       "pos-0012",
       "pos-0015"
     ],
-    "portfolioValueEnd": 1121.03,
+    "portfolioValueEnd": 1119.62,
     "updates": [
       {
         "time": "00:08",
@@ -5437,6 +5437,11 @@
         "time": "20:08",
         "note": "Keine Aenderung. META 677,87 USD (+4,95%) und SOL 100,59 USD (-1,73%) aktualisiert. Kein Trade: kein ueberzeugendes neues Setup (TCOM/COHR/AEMD-Mover ohne belastbaren Katalysator), Brent-Deeskalation bestaetigt gestrigen Stop-Loss.",
         "portfolioValue": 1121.03
+      },
+      {
+        "time": "21:08",
+        "note": "Keine Aenderung. META unveraendert 677,87 USD (+4,95%), SOL auf 100,30 USD (-2,01%) aktualisiert. Chip-Sektor-Rally (AMD +7% dritte Session in Folge, Broadcom +3%, Nvidia +2%, Nasdaq +1,69%) nach hawkishem Fed-Zinsschritt geprueft, aber kein Kauf: AMD ist mit +156% seit Jahresbeginn und drei starken Tagen in Folge bereits deutlich extended (reine Sektor-Erleichterung, kein neuer Einzeltitel-Katalysator) - passt nicht zum etablierten Dip-Kauf-/bestaetigter-Ausbruch-Muster.",
+        "portfolioValue": 1119.62
       }
     ]
   }
