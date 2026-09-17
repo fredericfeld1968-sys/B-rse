@@ -5323,15 +5323,15 @@
   },
   {
     "date": "2026-09-17",
-    "marketOverview": "Maerkte verdauen weiter den hawkishen Fed-Zinsschritt (25bp auf 3,75-4,00%, 16 von 18 FOMC-Mitgliedern erwarten 2026 noch eine weitere Erhoehung), reagieren nun aber leicht positiv: S&P 500 +0,59% auf 7.596 Punkte, Nasdaq-Futures im Plus. META notiert stabil bei 682,20 USD (+5,62% seit Kauf), weiterhin unter der 7-9%-Zielspanne. Kryptomarkt insgesamt im breiten Rebound nach Abklingen der Regulierungs-Unsicherheit (CLARITY-Act-Ablehnung): Bitcoin 76.460 USD (+1,5%), SOL 100,01 USD (+3,0% auf Tagesbasis, aber weiterhin -2,30% seit Kauf am 06.09.). Gold seitwaerts leicht unter 4.300 USD nach dem Zinsschritt, keine neuen extremen Einzeltitel-Bewegungen gefunden.",
-    "decision": "Kein neuer Trade in diesem Lauf (16:08). META (pos-0014) und SOL (pos-0012) bleiben offen, Kurse aktualisiert (META unveraendert 682,20 USD/+5,62%, SOL auf 100,01 USD/-2,30% erholt). Stop-Loss-Verkauf BRENT (pos-0015) von 14:13 bleibt der einzige Trade des Tages.",
-    "reasoning": "META bleibt mit +5,62% weiterhin unter der etablierten 7-9%-Gewinnmitnahme-Zielspanne, kein Verkaufssignal. SOL erholt sich im Tagesverlauf leicht (-2,30% statt zuvor -1,04% bzw. schlechter im Tagesverlauf) und ist weit von der Stop-Loss-Schwelle (-6,5% bis -7,5%) entfernt, keine Aktion noetig. Fuer Neukaeufe weiterhin kein ausreichend ueberzeugendes Setup: Der breite Markt zeigt nur eine maessige, bereits erwartete Erholung nach dem Fed-Entscheid (S&P +0,59%), keine bestaetigten grossen Einzeltitel-Ausbrueche wie beim historischen AMD-/Palantir-/NVDA-Muster. Der Kryptomarkt-Rebound (BTC +1,5%, SOL +3,0% intraday) ist breit angelegt und Nachrichtenlage-getrieben (Fed-Klarheit), aber nicht auf ein einzelnes Instrument mit aussergewoehnlichem, konkret benennbarem Katalysator fokussiert. Gold seitwaerts, kein Momentum. Freies Kapital von 42.706,91 EUR bleibt daher bis zu einer wirklich ueberzeugenden Gelegenheit ungenutzt.",
+    "marketOverview": "S&P 500 und Nasdaq setzen die Erholung nach dem hawkishen Fed-Zinsschritt vom Vortag fort (S&P +1,0%, Nasdaq +1,4%, Dow +0,7%), da Fed-Chef Warshs entschlossener Ton gegen die Inflation die Maerkte beruhigt. Kein einzelner Titel mit aussergewoehnlichem, klar belegtem Einzelkatalysator gefunden - die Rally ist breit und Sentiment-getrieben. META notiert stabil bei 682,20 USD (+5,62%, weiter unter der 7-9%-Zielspanne). Kryptomarkt neutral (Fear&Greed 50): Bitcoin 76.400 USD (+0,6%), SOL leicht erholt auf 100,15 USD (-2,16% seit Kauf). Oelmarkt bleibt volatil durch anhaltende Hormuz-/Rotes-Meer-Spannungen, aber ohne neue akute Eskalationsstufe seit dem Brent-Stop-Loss von 14:13.",
+    "decision": "Kein neuer Trade in diesem Lauf (17:08). META (pos-0014) und SOL (pos-0012) bleiben offen, Kurse aktualisiert (META unveraendert 682,20 USD/+5,62%, SOL leicht erholt auf 100,15 USD/-2,16%). Stop-Loss-Verkauf BRENT (pos-0015) von 14:13 bleibt der einzige Trade des Tages.",
+    "reasoning": "META bleibt mit +5,62% weiterhin unter der etablierten 7-9%-Gewinnmitnahme-Zielspanne, kein Verkaufssignal. SOL erholt sich weiter leicht (-2,16% statt zuvor -2,30%) und ist weit von der Stop-Loss-Schwelle (-6,5% bis -7,5%) entfernt, keine Aktion noetig. Fuer Neukaeufe weiterhin kein ausreichend ueberzeugendes Setup: Die fortgesetzte Markterholung (S&P +1,0%, Nasdaq +1,4%) ist breit angelegt und erwartungsgemaess nach dem Fed-Entscheid, ohne bestaetigten Einzeltitel-Ausbruch wie beim historischen AMD-/Palantir-/NVDA-Muster. Der Kryptomarkt ist mit Fear&Greed 50 neutral, kein Momentum-Signal. Freies Kapital von 42.706,91 EUR bleibt daher bis zu einer wirklich ueberzeugenden Gelegenheit ungenutzt.",
     "positionIds": [
       "pos-0014",
       "pos-0012",
       "pos-0015"
     ],
-    "portfolioValueEnd": 1122.22,
+    "portfolioValueEnd": 1122.9,
     "updates": [
       {
         "time": "00:08",
@@ -5417,6 +5417,11 @@
         "time": "16:08",
         "note": "Keine Aenderung. META unveraendert 682,20 USD (+5,62%, weiter unter 7-9%-Zielspanne), SOL auf 100,01 USD erholt (-2,30%, vorher -1,04% Vortagesbasis) aktualisiert. Kein Trade: kein ueberzeugendes neues Setup trotz breitem, aber nachrichtengetriebenem Krypto-Rebound (BTC +1,5%) und maessiger Aktienmarkt-Erholung (S&P +0,59%) nach dem Fed-Zinsschritt.",
         "portfolioValue": 1122.22
+      },
+      {
+        "time": "17:08",
+        "note": "Keine Aenderung. Maerkte setzen Erholung nach Fed-Zinsschritt fort (S&P +1,0%, Nasdaq +1,4%). META unveraendert 682,20 USD (+5,62%), SOL auf 100,15 USD (-2,16%, leicht erholt) aktualisiert. Kein Trade: keine ueberzeugende neue Einzeltitel-Gelegenheit, Rally breit und Sentiment-getrieben.",
+        "portfolioValue": 1122.9
       }
     ]
   }
