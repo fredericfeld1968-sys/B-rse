@@ -5323,15 +5323,15 @@
   },
   {
     "date": "2026-09-17",
-    "marketOverview": "Bitcoin verharrt bei rund 78.000-80.000 USD, gestuetzt von Stablecoin-Kaeufern, die auf ein Ende der Fed-Unsicherheit warten; das gescheiterte CLARITY-Act-Votum bleibt ein struktureller Belastungsfaktor fuer den gesamten Kryptomarkt. Solana pendelt weiter seitwaerts um 97-98 USD ohne neuen Katalysator. META schloss die Sitzung vom 16.09. bei ca. 678,63 USD (+5,06% seit Kauf) - die Muse-Produktzyklus-These bleibt intakt. Brent Crude haelt sich bei ca. 108,50 USD/Barrel, getrieben von anhaltenden Foerderausfaellen in Saudi-Arabien (Ost-West-Pipeline, niedrigste Foerderung seit 1990) und schwindenden chinesischen sowie US-Lagerbestaenden.",
-    "decision": "Lauf 00:08 (neuer Tag): Tagesbudget +1000 EUR gutgeschrieben (freies Kapital 42.155,41 EUR). Lauf 01:07: Keine neue Transaktion, Kurse aktualisiert. Lauf 02:08: Keine neue Transaktion. META (+2,88%), SOL (-4,45%) und BRENT (+0,67%) bleiben offen, Kurse aktualisiert (freies Kapital weiterhin 42.155,41 EUR). Kein Neukauf: Boersen fuer Aktien/ETFs/Rohstoffe nachts geschlossen, und im Kryptomarkt fehlt nach dem gescheiterten CLARITY-Act-Votum und der restriktiven Fed weiterhin ein ueberzeugendes Setup fuer eine neue spekulative Position. Lauf 03:08: Keine neue Transaktion. META (+5,06%), SOL (-5,09%) und BRENT (+0,93%) bleiben offen, Kurse aktualisiert (freies Kapital weiterhin 42.155,41 EUR). Kein Neukauf: Boersen fuer Aktien/ETFs/Rohstoffe nachts geschlossen, und im Kryptomarkt fehlt weiterhin ein ueberzeugendes neues Setup fuer eine spekulative Position.",
-    "reasoning": "SOL notiert bei -5,09% weiterhin unter der Stop-Loss-Zone (~-6,5 bis -7,5%) - weiter halten, engmaschig beobachten. META bei +5,06% naehert sich der Gewinnmitnahme-Zone (7-9%), aber noch nicht erreicht - halten, Muse-Launch-These bleibt intakt. BRENT bei +0,93% leicht im Plus, Nahost-Angebotsrisiko (Saudi-Foerderausfaelle, sinkende Lagerbestaende) bleibt fundamental intakt - halten. Kein Neukauf: Aktien/ETFs/Rohstoffe nachts nicht handelbar; im Kryptomarkt bietet die aktuelle richtungslose Lage weiterhin keine ueberzeugende Chance fuer eine neue spekulative Position.",
+    "marketOverview": "Fed hob am 16.09. den Leitzins um 25bp auf 3,75-4,00% an (erste Erhoehung seit 2023) - restriktiver als von vielen erhofft, CLARITY Act scheiterte im Senat. Krypto bleibt seither unter Druck: Bitcoin konsolidiert um 76.000-80.000 USD ohne klare Richtung, SOL leicht erholt auf ca. 102,30 USD (+1,8% 24h) nach Verkaufsdruck der Vortage. Boersen (NYSE/Nasdaq, Rohstoffmaerkte) sind um diese Nachtzeit geschlossen; META notiert nachboerslich bei 644,38 USD (-1,42%), Brent bei 107,77 USD.",
+    "decision": "Kein Trade in diesem Lauf. Bestehende offene Positionen (META, SOL, BRENT) auf aktuellen Marktstand gebracht, keine Position erreicht Gewinn- oder Stop-Loss-Schwelle. Kryptomarkt bietet nach dem hawkishen Fed-Entscheid kein ueberzeugendes neues Setup.",
+    "reasoning": "Ausserhalb der Handelszeiten sind nur Krypto-Trades zulaesig. SOL zeigt zwar eine leichte 24h-Erholung (+1,8%), jedoch ohne klaren neuen fundamentalen Katalysator und bei weiterhin gedaempfter Marktstimmung nach dem restriktiven Fed-Zinsschritt und dem gescheiterten CLARITY-Act-Votum. Da keine wirklich ueberzeugende Gelegenheit vorliegt, wird passend zur Vorgabe nichts unternommen.",
     "positionIds": [
       "pos-0014",
       "pos-0012",
       "pos-0015"
     ],
-    "portfolioValueEnd": 1710.51,
+    "portfolioValueEnd": 1699.79,
     "updates": [
       {
         "time": "00:08",
@@ -5352,6 +5352,11 @@
         "time": "03:08",
         "note": "Keine Aenderung. META 678,63 USD (+5,06%), SOL 97,15 USD (-5,09%) und BRENT 108,50 USD (+0,93%) aktualisiert. Kein Trade: Aktien/ETFs/Rohstoffe nachts nicht handelbar, Kryptomarkt bleibt ohne ueberzeugendes Setup.",
         "portfolioValue": 1710.51
+      },
+      {
+        "time": "04:08",
+        "note": "Keine Aenderung. META 644,38 USD (-0,24%), SOL 102,30 USD (-0,06%) und BRENT 107,77 USD (+0,25%) aktualisiert. Kein Trade: Aktien/ETFs/Rohstoffe nachts nicht handelbar, Kryptomarkt nach hawkishem Fed-Entscheid ohne ueberzeugendes Setup.",
+        "portfolioValue": 1699.79
       }
     ]
   }
