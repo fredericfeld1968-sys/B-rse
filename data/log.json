@@ -5323,15 +5323,15 @@
   },
   {
     "date": "2026-09-17",
-    "marketOverview": "Nach dem hawkishen Fed-Zinsschritt vom Vortag (25bp auf 3,75-4,00%) bleibt der Kryptomarkt richtungslos: Bitcoin pendelt um 75.800-76.000 USD, Ethereum um 2.400-2.520 USD. Solana faellt weiter zurueck auf ca. 97-98 USD (vom Sonntagshoch bei 102 USD), ohne neuen fundamentalen Katalysator - die zuvor gemeldete Grayscale-Multi-Asset-ETF-Zulassung stellte sich bei naeherer Pruefung als einjaehrige Altmeldung (17.09.2025) heraus und nicht als aktuelle Nachricht. Boersen und Rohstoffmaerkte bleiben vor Europa-Handelsstart geschlossen.",
-    "decision": "Kein neuer Trade in diesem Lauf. Kurse der drei offenen Positionen aktualisiert: META unveraendert bei 677,09 USD (+4,83%, Boerse geschlossen, keine neuen Daten), SOL auf 97,80 USD gefallen (-4,49%, naehert sich aber noch nicht der Stop-Loss-Schwelle), BRENT leicht auf 108,00 USD gestiegen (+0,47%). Keine Position erreicht die etablierten Gewinnmitnahme- (7-9%) oder Stop-Loss-Schwellen (-6,5% bis -7,5%).",
-    "reasoning": "Ausserhalb der Boersenzeiten sind nur Kryptowerte handelbar. Eine zunaechst vielversprechend wirkende Meldung ueber eine neue Grayscale-Multi-Asset-Krypto-ETF-Zulassung wurde bei Gegenpruefung als einjaehrige Altmeldung (September 2025) identifiziert und daher nicht als Kaufanlass gewertet - Quellenpruefung bleibt zentral. Ansonsten kein ueberzeugendes neues Setup: Der Kryptomarkt bleibt nach dem hawkishen Fed-Entscheid und dem gescheiterten CLARITY-Act-Votum richtungslos bis leicht schwaechelnd. Daher keine neue Position und keine Anpassung der bestehenden.",
+    "marketOverview": "Der Kryptomarkt bleibt nach dem gescheiterten CLARITY-Act-Votum und dem hawkishen Fed-Zinsschritt (25bp auf 3,75-4,00%) vom Vortag richtungslos bis leicht schwaechelnd: Bitcoin notiert bei rund 76.400 USD (-2,2% in 24h), Ethereum bei ca. 2.449 USD (-1,8%), Solana bei ca. 98 USD (-1,0%). Die Bank of Japan tagt bis Freitag und stellt einen weiteren Unsicherheitsfaktor fuer die globale Geldpolitik dar. Europaeische Boersen und Rohstoffmaerkte oeffnen erst um 9:00 Uhr, META notiert im US-Vorboersenhandel bei 676,80 USD.",
+    "decision": "Kein neuer Trade in diesem Lauf. Kurse der drei offenen Positionen aktualisiert: META im Vorboersenhandel bei 676,80 USD (+4,78%), SOL auf 98,00 USD (-4,26%, naehert sich weiterhin nicht der Stop-Loss-Schwelle), BRENT bei 107,77 USD (+0,25%). Keine Position erreicht die etablierten Gewinnmitnahme- (7-9%) oder Stop-Loss-Schwellen (-6,5% bis -7,5%).",
+    "reasoning": "Vor Handelsstart der europaeischen Boersen (9:00 Uhr) sind Aktien, ETFs und Rohstoffe nicht handelbar, nur Krypto. Der Kryptomarkt bleibt nach dem gescheiterten CLARITY-Act-Votum und der hawkishen Fed-Entscheidung richtungslos ohne ueberzeugendes neues Setup; die bevorstehende BOJ-Entscheidung am Freitag sorgt zusaetzlich fuer Zurueckhaltung. Daher keine neue Position und keine Anpassung der bestehenden.",
     "positionIds": [
       "pos-0014",
       "pos-0012",
       "pos-0015"
     ],
-    "portfolioValueEnd": 1709.27,
+    "portfolioValueEnd": 1708.89,
     "updates": [
       {
         "time": "00:08",
@@ -5367,6 +5367,11 @@
         "time": "06:08",
         "note": "Keine Aenderung. META unveraendert 677,09 USD (Boerse geschlossen), SOL auf 97,80 USD gefallen (-4,49%, CoinGecko/OKX/Crypto.com), BRENT leicht auf 108,00 USD (+0,47%) aktualisiert. Eine vermeintliche Grayscale-Multi-Asset-ETF-Meldung entpuppte sich als Altmeldung von 2025 - kein echter Katalysator. Kein Trade: Boersen vor Europa-Handelsstart geschlossen, Kryptomarkt ohne ueberzeugendes neues Setup.",
         "portfolioValue": 1709.27
+      },
+      {
+        "time": "07:08",
+        "note": "Keine Aenderung. META im Vorboersenhandel bei 676,80 USD (+4,78%), SOL auf 98,00 USD (-4,26%, CoinGecko/Coinbase/TradingView-Mittel) und BRENT auf 107,77 USD (+0,25%) aktualisiert. Kein Trade: Europaeische Boersen/Rohstoffe oeffnen erst um 9:00 Uhr, Kryptomarkt bleibt nach gescheitertem CLARITY-Act-Votum und hawkishem Fed-Entscheid richtungslos ohne ueberzeugendes Setup; BOJ-Entscheidung am Freitag steht noch aus.",
+        "portfolioValue": 1708.89
       }
     ]
   }
