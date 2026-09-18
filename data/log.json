@@ -5457,14 +5457,14 @@
   },
   {
     "date": "2026-09-18",
-    "marketOverview": "NYSE/Nasdaq weiterhin geschlossen (Handelsstart 15:30 MESZ), US-Futures nur marginal veraendert. Oel (Brent) faellt dritten Tag in Folge auf ca. 101,2 USD/Barrel - Saudi-Arabien meldet Teilwiederherstellung der beschaedigten Ost-West-Pipeline, Eskalationsthese schwaecht sich weiter ab. Gold pendelt in der Spanne 4.255-4.376 USD ohne klaren Ausbruch. Bitcoin stabil bei ca. 76.400 USD, Solana konsolidiert bei ca. 100,85 USD (SEC nennt SOL nun als ETF-Kernasset, langfristig positiv, aber kein kurzfristiger Kurssprung).",
-    "decision": "Keine neuen Trades heute bislang. Tagesgutschrift bereits um 00:10 verbucht. Laufende Positionen META (+5,63%) und SOL (-1,48%) im moderaten Rahmen, keine Stop-Loss- oder Gewinnmitnahme-Schwelle erreicht. Auch um 13:08 kein ueberzeugendes neues Setup.",
-    "reasoning": "13:08 MESZ: META auf 682,31 USD (+5,63%, Boersen vor Handelsbeginn geschlossen) und SOL auf 100,85 USD (-1,48% seit Kauf) aktualisiert. Oelpreis faellt weiter (De-Eskalation Hormuz/Pipeline-Teilreparatur), kein Setup fuer Rohstoff-Trade. Gold ohne Ausbruch aus der Range. Kryptomarkt (BTC ~76.400 USD, SOL konsolidierend trotz positiver SEC-ETF-Nachricht) zeigt kein ueberzeugendes neues Momentum. US-Aktienfutures nur marginal im Plus, NYSE/Nasdaq noch nicht handelbar. Kein Kauf: kein hinreichend bestaetigtes Momentum in Aktien, ETFs, Krypto oder Rohstoffen.",
+    "marketOverview": "NYSE/Nasdaq weiterhin geschlossen (Handelsstart 15:30 MESZ), US-Futures deutlich positiv (S&P +1,94%, Nasdaq +2,62%) getragen von Halbleiterwerten nach starkem Nvidia-Ausblick. Krypto-Markt in breiter Rally: Bitcoin dritten Tag in Folge im Plus (ca. 76.600-78.100 USD), Layer-2/DeFi-Altcoins (Starknet, Arbitrum, NEAR) mit teils zweistelligen Tagesgewinnen nach nachlassender Fed-Nervositaet. Solana konsolidiert bei ca. 101,50 USD (+5,55% in 24h) trotz eigener Position leicht im Minus seit Kauf.",
+    "decision": "Keine neuen Trades heute bislang. Tagesgutschrift bereits um 00:10 verbucht. Laufende Positionen META (+5,63%) und SOL (-0,84%) im moderaten Rahmen, keine Stop-Loss- oder Gewinnmitnahme-Schwelle erreicht. Auch um 14:13 kein Kauf: die staerksten Altcoin-Bewegungen (NEAR +22%, Starknet/Arbitrum +17%) sind bereits weit gelaufen, kein ueberzeugender fruehzeitiger Einstieg mehr; Aktien/ETFs/Rohstoffe vor Boersenoeffnung (15:30 MESZ) nicht handelbar.",
+    "reasoning": "14:13 MESZ: SOL auf 101,50 USD (-0,84% seit Kauf) aktualisiert, META unveraendert (682,31 USD/+5,63%, Boersen noch geschlossen). Kryptomarkt zeigt breite Alt-Season-Rally (Fed-Nervositaet abgebaut), jedoch bereits stark gelaufene Bewegungen bei NEAR/Starknet/Arbitrum (+17-22%) - Nachkauf zu diesem Zeitpunkt waere ein verspaetetes Chasing mit ungünstigem Chance-Risiko-Verhaeltnis, kein Einstieg. Aktien/ETFs/Rohstoffe vor US-Boersenoeffnung (15:30 MESZ) nicht handelbar. Kein Kauf, keine Verkaeufe.",
     "positionIds": [
       "pos-0012",
       "pos-0014"
     ],
-    "portfolioValueEnd": 1126.42,
+    "portfolioValueEnd": 1129.6,
     "updates": [
       {
         "time": "00:10",
@@ -5535,6 +5535,11 @@
         "time": "13:08",
         "note": "Keine Aenderung. META auf 682,31 USD (+5,63%) und SOL auf 100,85 USD (-1,48%) aktualisiert. Kein Trade: Oelpreis faellt weiter (De-Eskalation), Gold ohne Ausbruch, Kryptomarkt konsolidiert trotz positiver SOL-ETF-Nachricht (SEC), NYSE/Nasdaq noch geschlossen (ab 15:30 MESZ), kein ueberzeugendes neues Setup.",
         "portfolioValue": 1126.42
+      },
+      {
+        "time": "14:13",
+        "note": "Keine Aenderung. SOL auf 101,50 USD (-0,84% seit Kauf) aktualisiert, META unveraendert (682,31 USD/+5,63%). Kein Trade: Altcoin-Rally (NEAR/Starknet/Arbitrum) bereits zu weit gelaufen fuer ueberzeugenden Einstieg, Aktien/ETFs/Rohstoffe vor Boersenoeffnung nicht handelbar.",
+        "portfolioValue": 1129.6
       }
     ]
   }
