@@ -5457,14 +5457,14 @@
   },
   {
     "date": "2026-09-18",
-    "marketOverview": "US-Futures leicht positiv (S&P +0,04%, Nasdaq100 +0,51%), NYSE/Nasdaq oeffnen erst um 15:30 MESZ. DAX/Xetra notiert am Mittag fester. Bitcoin stabil bei ca. 76.580 USD, SOL leicht ruecklaeufig auf 101,27 USD. Premarket-Mover weiterhin duenne Kleinstwerte (DLXY, SNYR, TPST) ohne belastbare Bestaetigung, keine neuen 6-8%-Bewegungen in liquiden Einzelwerten.",
-    "decision": "Keine neuen Trades heute bislang. Tagesgutschrift bereits um 00:10 verbucht. Laufende Positionen META (+5,49%) und SOL (-1,06%) im moderaten Rahmen, keine Stop-Loss- oder Gewinnmitnahme-Schwelle erreicht. Auch um 12:08 kein ueberzeugendes neues Setup.",
-    "reasoning": "12:08 MESZ: SOL auf 101,27 USD (-1,06% seit Kauf) aktualisiert, META unveraendert (681,37 USD/+5,49%, NYSE/Nasdaq erst ab 15:30 MESZ handelbar). US-Futures nur leicht im Plus, kein hinreichend bestaetigtes Setup fuer einen Kauf. Premarket-Mover weiterhin zu duenn/unzuverlaessig. Kryptomarkt (BTC ~76.580 USD, SOL leicht ruecklaeufig) konsolidiert ohne neuen Ausbruch. Kein Kauf: kein ueberzeugendes, mehrfach unabhaengig bestaetigtes Momentum in Aktien, ETFs, Krypto oder Rohstoffen.",
+    "marketOverview": "NYSE/Nasdaq weiterhin geschlossen (Handelsstart 15:30 MESZ), US-Futures nur marginal veraendert. Oel (Brent) faellt dritten Tag in Folge auf ca. 101,2 USD/Barrel - Saudi-Arabien meldet Teilwiederherstellung der beschaedigten Ost-West-Pipeline, Eskalationsthese schwaecht sich weiter ab. Gold pendelt in der Spanne 4.255-4.376 USD ohne klaren Ausbruch. Bitcoin stabil bei ca. 76.400 USD, Solana konsolidiert bei ca. 100,85 USD (SEC nennt SOL nun als ETF-Kernasset, langfristig positiv, aber kein kurzfristiger Kurssprung).",
+    "decision": "Keine neuen Trades heute bislang. Tagesgutschrift bereits um 00:10 verbucht. Laufende Positionen META (+5,63%) und SOL (-1,48%) im moderaten Rahmen, keine Stop-Loss- oder Gewinnmitnahme-Schwelle erreicht. Auch um 13:08 kein ueberzeugendes neues Setup.",
+    "reasoning": "13:08 MESZ: META auf 682,31 USD (+5,63%, Boersen vor Handelsbeginn geschlossen) und SOL auf 100,85 USD (-1,48% seit Kauf) aktualisiert. Oelpreis faellt weiter (De-Eskalation Hormuz/Pipeline-Teilreparatur), kein Setup fuer Rohstoff-Trade. Gold ohne Ausbruch aus der Range. Kryptomarkt (BTC ~76.400 USD, SOL konsolidierend trotz positiver SEC-ETF-Nachricht) zeigt kein ueberzeugendes neues Momentum. US-Aktienfutures nur marginal im Plus, NYSE/Nasdaq noch nicht handelbar. Kein Kauf: kein hinreichend bestaetigtes Momentum in Aktien, ETFs, Krypto oder Rohstoffen.",
     "positionIds": [
       "pos-0012",
       "pos-0014"
     ],
-    "portfolioValueEnd": 1127.61,
+    "portfolioValueEnd": 1126.42,
     "updates": [
       {
         "time": "00:10",
@@ -5530,6 +5530,11 @@
         "time": "12:08",
         "note": "Keine Aenderung. SOL auf 101,27 USD (-1,06% seit Kauf) aktualisiert, META unveraendert (681,37 USD/+5,49%, NYSE/Nasdaq noch geschlossen). Kein Trade: US-Futures nur leicht im Plus, keine ueberzeugende, mehrfach bestaetigte Gelegenheit.",
         "portfolioValue": 1127.61
+      },
+      {
+        "time": "13:08",
+        "note": "Keine Aenderung. META auf 682,31 USD (+5,63%) und SOL auf 100,85 USD (-1,48%) aktualisiert. Kein Trade: Oelpreis faellt weiter (De-Eskalation), Gold ohne Ausbruch, Kryptomarkt konsolidiert trotz positiver SOL-ETF-Nachricht (SEC), NYSE/Nasdaq noch geschlossen (ab 15:30 MESZ), kein ueberzeugendes neues Setup.",
+        "portfolioValue": 1126.42
       }
     ]
   }
