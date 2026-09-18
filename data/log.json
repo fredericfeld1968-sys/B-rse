@@ -5457,15 +5457,15 @@
   },
   {
     "date": "2026-09-18",
-    "marketOverview": "US-Boersen mit fragmentiertem Bild: Dow/S&P leicht im Minus (steigende 10y-Renditen nahe 5%, Optionsverfall), Nasdaq dank Chip-/KI-Werten (ARM, INTC, MRVL) knapp behauptet. Oel und Gold weiter im Ruecksetzer nach Fed-Zinsschritt. Bitcoin durchbricht am Nachmittag die Marke von 80.000 USD (aktuell ca. 81.000 USD) mit Short-Squeeze (~183 Mio. USD Liquidationen) und regulatorischem Rueckenwind (SEC-Zulassungen fuer Krypto-ETPs, Grayscale-Multi-Asset-Fonds, Goldman-BTC-ETF-Antrag) - erstes klares Ausbruchssignal des heutigen Laufs.",
-    "decision": "Neue spekulative Momentum-Position in Bitcoin (800 EUR) auf den bestaetigten Ausbruch ueber die 80.000-USD-Marke. META (+4,26%) und SOL (-0,84%) bleiben unveraendert innerhalb der etablierten Bandbreite (weder Stop-Loss noch Gewinnziel erreicht) weiter gehalten.",
-    "reasoning": "18:08 MESZ: Bitcoin durchbricht mehrfach unabhaengig bestaetigt (CoinDesk, Yahoo Finance, Cryptonews, Exchangerates.org) die seit 07.09. haltende Widerstandsmarke von 80.000 USD und steigt auf ca. 81.000 USD, begleitet von einer Short-Squeeze (~183 Mio. USD Liquidationen/Stunde) und frischem regulatorischen Rueckenwind (SEC-Beschleunigung bei Krypto-ETP-Listings, Grayscale Digital Large Cap Fund, Goldman-Sachs-BTC-ETF-Antrag) - Muster analog zum erfolgreichen BTC-Trade vom 19.08. Daher spekulativer Einstieg mit 800 EUR bei 81.000 USD. META auf 673,42 USD (+4,26% seit Kauf) und SOL auf 101,50 USD (-0,84% seit Kauf) aktualisiert; beide bewegen sich weiter im normalen Rahmen ohne Handlungsbedarf.",
+    "marketOverview": "US-Boersen freitagabends uneinheitlich (S&P/Dow leicht im Minus nahe 5% 10y-Rendite, Nasdaq/Chipwerte fester, Berkshire-Fuehrungswechsel Buffett->Howard Buffett im Fokus). Bitcoin haelt den Ausbruch ueber 80.000 USD (aktuell ca. 80.800 USD) nach dem Short-Squeeze weitgehend. Solana naehert sich der Widerstandszone 106-108 USD (SEC-Innovation-Exemption fuer tokenisierte Boersen als moeglicher SOL-Katalysator), Meta (Muse-App auf Platz 1 im App Store, Goldman-Kursziel 725 USD) leicht ruecklaeufig auf 678 USD nach starkem Wochengewinn.",
+    "decision": "Neue spekulative Momentum-Position in Bitcoin (800 EUR) auf den bestaetigten Ausbruch ueber die 80.000-USD-Marke bleibt bestehen. META (+5,0%), SOL (+3,3%) und BTC (-0,25%) bewegen sich weiter innerhalb der etablierten Bandbreite (weder Stop-Loss noch Gewinnziel erreicht) und werden unveraendert gehalten.",
+    "reasoning": "18:08 MESZ: Bitcoin durchbricht mehrfach unabhaengig bestaetigt (CoinDesk, Yahoo Finance, Cryptonews, Exchangerates.org) die seit 07.09. haltende Widerstandsmarke von 80.000 USD und steigt auf ca. 81.000 USD, begleitet von einer Short-Squeeze (~183 Mio. USD Liquidationen/Stunde) und frischem regulatorischen Rueckenwind (SEC-Beschleunigung bei Krypto-ETP-Listings, Grayscale Digital Large Cap Fund, Goldman-Sachs-BTC-ETF-Antrag) - Muster analog zum erfolgreichen BTC-Trade vom 19.08. Daher spekulativer Einstieg mit 800 EUR bei 81.000 USD. META auf 673,42 USD (+4,26% seit Kauf) und SOL auf 101,50 USD (-0,84% seit Kauf) aktualisiert; beide bewegen sich weiter im normalen Rahmen ohne Handlungsbedarf. | 19:08 MESZ: META auf 678,23 USD (+5,0%), SOL auf 105,73 USD (+3,29%, naehert sich der 106-108-USD-Widerstandszone) und BTC auf 80.800 USD (-0,25%, haelt den Ausbruch) aktualisiert. Kein Trade: Altcoin-/L2-Rally (Starknet, Arbitrum +17%, BNB-Hoch) bereits vor Stunden gelaufen und damit fuer einen ueberzeugenden Neueinstieg zu weit fortgeschritten, keine der drei offenen Positionen erreicht Stop-Loss- oder Gewinnschwelle.",
     "positionIds": [
       "pos-0012",
       "pos-0014",
       "pos-0016"
     ],
-    "portfolioValueEnd": 1921.34,
+    "portfolioValueEnd": 1944.49,
     "updates": [
       {
         "time": "00:10",
@@ -5561,6 +5561,11 @@
         "time": "18:08",
         "note": "Kauf Bitcoin 800 EUR bei 81.000 USD (bestaetigter Ausbruch ueber 80.000 USD, Short-Squeeze). META auf 673,42 USD (+4,26%) und SOL auf 101,50 USD (-0,84%) aktualisiert.",
         "portfolioValue": 1921.34
+      },
+      {
+        "time": "19:08",
+        "note": "Keine Aenderung. META auf 678,23 USD (+5,0%), SOL auf 105,73 USD (+3,29%) und BTC auf 80.800 USD (-0,25%) aktualisiert. Kein Trade: Altcoin-Rally (Starknet/Arbitrum/BNB) bereits zu weit gelaufen, keine Position an Stop-Loss- oder Gewinnschwelle.",
+        "portfolioValue": 1944.49
       }
     ]
   }
