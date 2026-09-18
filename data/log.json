@@ -5457,14 +5457,14 @@
   },
   {
     "date": "2026-09-18",
-    "marketOverview": "US-Boersen oeffnen um 15:30 MESZ; Futures nahezu unveraendert (S&P -0,1%, Nasdaq +0,1%, Dow -0,3%) nach dem Fed-Zinsschritt vom Mittwoch, 10-Jahres-Rendite bei knapp 5%. Krypto-Markt uneinheitlich: Bitcoin im September bislang nur -1,5%, Fear&Greed bei 56 (Greed); Solana-Kurs je nach Quelle stark schwankend (101-106 USD), keine belastbare neue Bewegung erkennbar. Oel/Gold gegenlaeufig: Brent faellt weiter auf Deeskalationshoffnung (Hormuz), Gold steigt Richtung 4.400 USD als Reaktion auf die fallenden Renditen.",
-    "decision": "Keine neuen Trades heute. Tagesgutschrift bereits um 00:10 verbucht. META (+5,63%) und SOL (-0,45%) bewegen sich weiter im moderaten Rahmen ohne Stop-Loss- oder Gewinnmitnahme-Schwelle. Kein Neueinstieg: SOL-Kursdaten uneinheitlich zwischen Quellen (101-106 USD), Brent nach zwei Stop-Losses in Folge zu unzuverlaessig, US-Boersen erst ab 15:30 MESZ handelbar.",
-    "reasoning": "15:09 MESZ: SOL auf 101,90 USD (-0,45% seit Kauf) aktualisiert (Kursdaten zwischen Quellen widerspruechlich, konservativ nahe bisherigem Niveau belassen), META bestaetigt unveraendert bei 682,31 USD (+5,63%, CNBC/Nasdaq-Quote). Kein Kauf: keine neue, mehrfach uebereinstimmend bestaetigte Chance - SOL-Preisdaten zu widerspruechlich fuer ein Signal, Brent nach zwei Stop-Loss-Trades in Folge (09.-10.09. und 14.-17.09.) aktuell kein belastbares Setup, Aktien/ETFs/Rohstoffe vor US-Handelsstart (15:30 MESZ) ohnehin nicht handelbar. Keine Verkaeufe.",
+    "marketOverview": "US-Boersen seit 15:30 MESZ geoeffnet, Stimmung leicht risikofreudig: Nasdaq-100 +0,3-0,5%, S&P 500 knapp behauptet, nach dem Fed-Zinsschritt und der BoJ-Erhoehung auf 1,25% diese Woche. Brent faellt weiter auf rund 101-102 USD/Barrel (Saudi-Arabien restauriert die beschaedigte Ost-West-Pipeline schneller als erwartet), Gold dagegen auf Wochenhoch bei knapp 4.380-4.440 USD/oz. Kryptomarkt uneinheitlich: Bitcoin erholt sich auf ca. 78.000 USD (+2%), Solana-Kursdaten bleiben je nach Quelle stark widersprechend (SOL zwischen 100,85 und 105,73 USD je nach Boerse).",
+    "decision": "Keine neuen Trades heute. Tagesgutschrift bereits fruehmorgens verbucht (lastGrantDate war bereits heute). META (+5,82%) und SOL (-1,13%) bewegen sich weiter im moderaten Rahmen ohne Stop-Loss- oder Gewinnmitnahme-Schwelle. Kein Neueinstieg: keine Bewegung am Markt erreicht die etablierte Ueberzeugungsschwelle (mehrfach bestaetigter Katalysator mit >5% Kursreaktion) - Oel faellt auf Deeskalation, Gold steigt nur moderat, Krypto ohne klares Signal, US-Aktien insgesamt nur leicht im Plus.",
+    "reasoning": "16:08 MESZ: META auf 683,50 USD (+5,82% seit Kauf) aktualisiert (Nasdaq oeffnete nach Fed- und BoJ-Zinsentscheidungen leicht positiv, Muse-KI-Agent-These bleibt intakt), SOL auf 101,20 USD (-1,13% seit Kauf) aktualisiert (Kursdaten zwischen Boersen weiterhin stark widersprechend, 100,85 bis 105,73 USD - konservativ im unteren Bereich belassen). Kein Kauf: keine neue, mehrfach uebereinstimmend bestaetigte Chance mit ausreichender Staerke - Brent faellt weiter (Pipeline-Reparatur, De-Eskalation), Gold-Anstieg (+1%) zu schwach fuer neuen Momentum-Einstieg, Kryptomarkt ohne klaren Ausbruch, US-Einzelwerte (z.B. INTC +1,15% premarket) zu schwach fuer ein spekulatives Signal. Keine Verkaeufe: beide offenen Positionen bewegen sich innerhalb der etablierten Bandbreite.",
     "positionIds": [
       "pos-0012",
       "pos-0014"
     ],
-    "portfolioValueEnd": 1131.55,
+    "portfolioValueEnd": 1129.24,
     "updates": [
       {
         "time": "00:10",
@@ -5545,6 +5545,11 @@
         "time": "15:09",
         "note": "Keine Aenderung. SOL auf 101,90 USD (-0,45% seit Kauf) aktualisiert, META bestaetigt unveraendert (682,31 USD/+5,63%). Kein Trade: SOL-Kursdaten zwischen Quellen widerspruechlich, kein verlaessliches neues Setup; US-Boersen oeffnen erst um 15:30 MESZ.",
         "portfolioValue": 1131.55
+      },
+      {
+        "time": "16:08",
+        "note": "Keine Aenderung. META auf 683,50 USD (+5,82%) und SOL auf 101,20 USD (-1,13%) aktualisiert. Kein Trade: US-Boersen seit 15:30 MESZ offen, aber keine Bewegung erreicht die Ueberzeugungsschwelle (Oel faellt, Gold nur moderat im Plus, Krypto ohne klares Signal).",
+        "portfolioValue": 1129.24
       }
     ]
   }
