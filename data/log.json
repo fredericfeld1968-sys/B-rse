@@ -5457,14 +5457,14 @@
   },
   {
     "date": "2026-09-18",
-    "marketOverview": "Fed hat am 16.09. den Leitzins um 25bp auf 3,75-4,00% angehoben (hawkish, 16 von 18 Notenbankern erwarten bis Jahresende einen weiteren Schritt); Aktienmaerkte erholten sich am 17.09. um rund 1%, gestuetzt durch nachgebende Oelpreise (Brent ca. 104 USD, Nahost-Lieferstoerungen entschaerfen sich) und leicht sinkende Renditen. Kryptomarkt bleibt saisonal ('Rektember') vorsichtig: Bitcoin um 78.000 USD, SOL nahezu unveraendert um 101 USD trotz regulatorisch positiver Nachrichten (SEC-Innovation-Exemption, tokenisierte Bankeinlagen in Kanada anerkannt). Boersen (Aktien/ETFs/Rohstoffe) oeffnen erst um 09:00 MESZ (Xetra) bzw. 15:30 MESZ (NYSE/Nasdaq), aktuell also ausserhalb der Handelszeiten.",
-    "decision": "Keine neuen Trades heute bislang. Tagesgutschrift bereits um 00:10 verbucht. Laufende Positionen META (+5,63%) und SOL (-1,33%) im moderaten Rahmen, keine Stop-Loss- oder Gewinnmitnahme-Schwelle erreicht. Kein ueberzeugendes neues Setup im aktuell einzig handelbaren Krypto-Markt.",
-    "reasoning": "08:08 MESZ: SOL auf 101,00 USD (-1,33% seit Kauf) aktualisiert, META unveraendert (682,31 USD/+5,63%, Boersen vor Handelsbeginn geschlossen). Kryptomarkt (BTC ca. 77.000-78.000 USD, SOL ca. 100-101 USD) bewegt sich nach dem hawkishen Fed-Entscheid weiter seitwaerts ohne klar bestaetigten neuen Ausbruch. US-Futures deuten zwar auf einen risikofreudigen, tech-getriebenen Handelsstart hin (S&P- und Nasdaq-100-Futures im Plus), Aktien/ETFs/Rohstoffe sind jedoch erst ab 09:00 MESZ (Xetra) bzw. 15:30 MESZ (NYSE/Nasdaq) handelbar. Kein Kauf: keine der recherchierten Kryptowerte zeigt einen ueberzeugenden, mehrfach unabhaengig bestaetigten Ausbruch.",
+    "marketOverview": "Fed hat am 16.09. den Leitzins um 25bp auf 3,75-4,00% angehoben (hawkish, weiterer Schritt im Jahresverlauf erwartet); Aktienmaerkte erholten sich am 17.09. deutlich (S&P 500 +1,1%, Nasdaq +1,7%). Xetra (DAX ca. 25.717 Punkte) ist seit 09:00 MESZ geoeffnet und notiert nahezu unveraendert, NYSE/Nasdaq oeffnen erst um 15:30 MESZ. Brent Crude faellt weiter auf ca. 100-105 USD/Barrel, da Saudi-Arabien Teile der beschaedigten Ost-West-Pipeline wieder in Betrieb nimmt und Ersatzlieferungen ueber Oman anbietet - die Nahost-Eskalation entschaerft sich vorerst. Kryptomarkt bleibt seitwaerts (BTC ca. 76.500-77.000 USD, SOL ca. 100-101 USD), kein neuer bestaetigter Ausbruch.",
+    "decision": "Keine neuen Trades heute bislang. Tagesgutschrift bereits um 00:10 verbucht. Laufende Positionen META (+5,49%) und SOL (-1,48%) im moderaten Rahmen, keine Stop-Loss- oder Gewinnmitnahme-Schwelle erreicht. Trotz Xetra-Handelsbeginn kein ueberzeugendes neues Setup.",
+    "reasoning": "09:08 MESZ: META auf 681,37 USD (+5,49% seit Kauf, leichter Ruecksetzer nach Handelsschluss NYSE) und SOL auf 100,85 USD (-1,48% seit Kauf) aktualisiert. Xetra ist seit 09:00 MESZ geoeffnet (DAX ca. 25.717 Punkte, kaum veraendert), aber kein einzelner Titel zeigt einen klaren, mehrfach bestaetigten Ausbruch. Brent Crude faellt weiter Richtung 100-105 USD (Entspannung an der Hormuz-Front), kein Rohstoff-Setup. Kein Kauf: kein ueberzeugendes, mehrfach unabhaengig bestaetigtes Momentum in Aktien, ETFs, Krypto oder Rohstoffen.",
     "positionIds": [
-      "pos-0014",
-      "pos-0012"
+      "pos-0012",
+      "pos-0014"
     ],
-    "portfolioValueEnd": 1127.15,
+    "portfolioValueEnd": 1125.55,
     "updates": [
       {
         "time": "00:10",
@@ -5510,6 +5510,11 @@
         "time": "08:08",
         "note": "Keine Aenderung. SOL auf 101,00 USD (-1,33% seit Kauf) aktualisiert, META unveraendert (682,31 USD/+5,63%, Boersen geschlossen). Kein Trade: Kryptomarkt konsolidiert weiter seitwaerts, US-Aktienfutures zwar risikofreudig vor Handelsbeginn, aber noch nicht handelbar.",
         "portfolioValue": 1127.15
+      },
+      {
+        "time": "09:08",
+        "note": "Keine Aenderung. META auf 681,37 USD (+5,49%) und SOL auf 100,85 USD (-1,48%) aktualisiert. Xetra seit 09:00 MESZ geoeffnet, aber kein ueberzeugendes neues Setup; NYSE/Nasdaq noch geschlossen.",
+        "portfolioValue": 1125.55
       }
     ]
   }
