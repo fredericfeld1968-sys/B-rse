@@ -5457,14 +5457,14 @@
   },
   {
     "date": "2026-09-18",
-    "marketOverview": "Kryptomarkt konsolidiert weiter seitwaerts vor der BoJ-Zinsentscheidung (Ergebnis heute ca. 08:30 MESZ erwartet, Markt preist eine Anhebung auf 1,25% ein): Bitcoin stabil bei ca. 76.200-76.400 USD, Solana leicht erholt auf ca. 100,6-101,5 USD (verschiedene Boersen), 24h leicht im Plus. Kein neuer Katalysator seit dem letzten Lauf. Aktien, ETFs und Rohstoffe bleiben um diese Nachtstunde ausserhalb der Handelszeiten; META unveraendert beim Schlusskurs von 681,43 USD (+5,50%).",
+    "marketOverview": "Kryptomarkt konsolidiert weiter seitwaerts vor der heute erwarteten BoJ-Zinsentscheidung (Anhebung auf 1,25% erwartet, Pressekonferenz ca. 15:30 JST/08:30 MESZ): Bitcoin stabil bei ca. 76.500-77.000 USD (+1,8% 24h), Solana leicht im Plus bei ca. 101,3-101,6 USD (+3,0-3,4% 24h) ueber mehrere Boersen gemittelt. Kein neuer Katalysator seit dem letzten Lauf. Aktien, ETFs und Rohstoffe bleiben um diese Nachtstunde ausserhalb der Handelszeiten; META unveraendert beim Schlusskurs von 681,43 USD (+5,50%).",
     "decision": "Keine Aenderung",
-    "reasoning": "Ausserhalb der Handelszeiten fuer Aktien/ETFs/Rohstoffe ist nur Krypto bewegbar. Der Kryptomarkt bleibt in enger Konsolidierung vor der BoJ-Entscheidung spaeter heute, kein ueberzeugendes neues Setup. SOL (pos-0012) bei -1,13% und META (pos-0014) bei +5,50% liegen beide klar innerhalb des etablierten Halte-Korridors (Stop-Loss ca. -6,5% bis -7,5%, Gewinnmitnahme ca. 7-9%).",
+    "reasoning": "Ausserhalb der Handelszeiten fuer Aktien/ETFs/Rohstoffe ist nur Krypto bewegbar. Der Kryptomarkt bleibt in enger Konsolidierung vor der BoJ-Entscheidung spaeter heute, kein ueberzeugendes neues Setup. SOL (pos-0012) bei -0,94% und META (pos-0014) bei +5,50% liegen beide klar innerhalb des etablierten Halte-Korridors (Stop-Loss ca. -6,5% bis -7,5%, Gewinnmitnahme ca. 7-9%).",
     "positionIds": [
       "pos-0012",
       "pos-0014"
     ],
-    "portfolioValueEnd": 1127.32,
+    "portfolioValueEnd": 1128.3,
     "updates": [
       {
         "time": "00:10",
@@ -5490,6 +5490,11 @@
         "time": "04:08",
         "note": "Keine Aenderung. SOL auf 101,20 USD (-1,13% seit Kauf) aktualisiert, META unveraendert (681,43 USD/+5,50%, Boersen geschlossen). Kein Trade: Kryptomarkt konsolidiert weiter vor der BoJ-Zinsentscheidung, kein ueberzeugendes neues Setup.",
         "portfolioValue": 1127.32
+      },
+      {
+        "time": "05:08",
+        "note": "Keine Aenderung. SOL leicht auf 101,40 USD (-0,94% seit Kauf, gemittelt ueber mehrere Boersen) aktualisiert, META unveraendert (681,43 USD/+5,50%, Boersen geschlossen). Kein Trade: Kryptomarkt konsolidiert weiter seitwaerts vor der BoJ-Zinsentscheidung (Pressekonferenz ca. 08:30 MESZ), kein ueberzeugendes neues Setup.",
+        "portfolioValue": 1128.3
       }
     ]
   }
