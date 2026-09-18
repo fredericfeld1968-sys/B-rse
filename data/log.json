@@ -5458,13 +5458,13 @@
   {
     "date": "2026-09-18",
     "marketOverview": "Fed hat am 16.09. den Leitzins um 25bp auf 3,75-4,00% angehoben (hawkish, 16 von 18 Notenbankern erwarten bis Jahresende einen weiteren Schritt); Aktienmaerkte erholten sich am 17.09. um rund 1%, gestuetzt durch nachgebende Oelpreise (Brent ca. 104 USD, Nahost-Lieferstoerungen entschaerfen sich) und leicht sinkende Renditen. Kryptomarkt bleibt saisonal ('Rektember') vorsichtig: Bitcoin um 78.000 USD, SOL nahezu unveraendert um 101 USD trotz regulatorisch positiver Nachrichten (SEC-Innovation-Exemption, tokenisierte Bankeinlagen in Kanada anerkannt). Boersen (Aktien/ETFs/Rohstoffe) oeffnen erst um 09:00 MESZ (Xetra) bzw. 15:30 MESZ (NYSE/Nasdaq), aktuell also ausserhalb der Handelszeiten.",
-    "decision": "Keine neuen Trades heute bislang. Tagesgutschrift bereits um 00:10 verbucht. Laufende Positionen META (+5,63%) und SOL (-1,04%) im moderaten Rahmen, keine Stop-Loss- oder Gewinnmitnahme-Schwelle erreicht. Kein ueberzeugendes neues Setup im aktuell einzig handelbaren Krypto-Markt.",
-    "reasoning": "07:10 MESZ: META-Schlusskurs von Xetra/US-Vortag auf 682,31 USD aktualisiert (+5,63% seit Kauf, Boersen aktuell geschlossen). SOL auf 101,30 USD aktualisiert (-1,04% seit Kauf), Kryptomarkt bewegt sich nach der hawkishen Fed-Entscheidung seitwaerts ohne klaren neuen Katalysator. Kein Kauf: keine der recherchierten Kryptowerte zeigt einen klar bestaetigten, mehrfach unabhaengig belegten Ausbruch wie beim bisherigen Handelsmuster gefordert; Aktien/ETFs/Rohstoffe vor Handelsbeginn nicht handelbar.",
+    "decision": "Keine neuen Trades heute bislang. Tagesgutschrift bereits um 00:10 verbucht. Laufende Positionen META (+5,63%) und SOL (-1,33%) im moderaten Rahmen, keine Stop-Loss- oder Gewinnmitnahme-Schwelle erreicht. Kein ueberzeugendes neues Setup im aktuell einzig handelbaren Krypto-Markt.",
+    "reasoning": "08:08 MESZ: SOL auf 101,00 USD (-1,33% seit Kauf) aktualisiert, META unveraendert (682,31 USD/+5,63%, Boersen vor Handelsbeginn geschlossen). Kryptomarkt (BTC ca. 77.000-78.000 USD, SOL ca. 100-101 USD) bewegt sich nach dem hawkishen Fed-Entscheid weiter seitwaerts ohne klar bestaetigten neuen Ausbruch. US-Futures deuten zwar auf einen risikofreudigen, tech-getriebenen Handelsstart hin (S&P- und Nasdaq-100-Futures im Plus), Aktien/ETFs/Rohstoffe sind jedoch erst ab 09:00 MESZ (Xetra) bzw. 15:30 MESZ (NYSE/Nasdaq) handelbar. Kein Kauf: keine der recherchierten Kryptowerte zeigt einen ueberzeugenden, mehrfach unabhaengig bestaetigten Ausbruch.",
     "positionIds": [
       "pos-0014",
       "pos-0012"
     ],
-    "portfolioValueEnd": 1128.62,
+    "portfolioValueEnd": 1127.15,
     "updates": [
       {
         "time": "00:10",
@@ -5505,6 +5505,11 @@
         "time": "07:10",
         "note": "Keine Aenderung. META auf 682,31 USD (+5,63%) und SOL auf 101,30 USD (-1,04%) aktualisiert (Boersen vor Handelsbeginn geschlossen). Kein Trade: kein ueberzeugendes neues Krypto-Setup nach hawkishem Fed-Entscheid.",
         "portfolioValue": 1128.62
+      },
+      {
+        "time": "08:08",
+        "note": "Keine Aenderung. SOL auf 101,00 USD (-1,33% seit Kauf) aktualisiert, META unveraendert (682,31 USD/+5,63%, Boersen geschlossen). Kein Trade: Kryptomarkt konsolidiert weiter seitwaerts, US-Aktienfutures zwar risikofreudig vor Handelsbeginn, aber noch nicht handelbar.",
+        "portfolioValue": 1127.15
       }
     ]
   }
