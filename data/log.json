@@ -5457,15 +5457,15 @@
   },
   {
     "date": "2026-09-18",
-    "marketOverview": "US-Boersen freitagabends uneinheitlich (S&P/Dow leicht im Minus nahe 5% 10y-Rendite, Nasdaq/Chipwerte fester, Berkshire-Fuehrungswechsel Buffett->Howard Buffett im Fokus). Bitcoin haelt den Ausbruch ueber 80.000 USD (aktuell ca. 80.800 USD) nach dem Short-Squeeze weitgehend. Solana naehert sich der Widerstandszone 106-108 USD (SEC-Innovation-Exemption fuer tokenisierte Boersen als moeglicher SOL-Katalysator), Meta (Muse-App auf Platz 1 im App Store, Goldman-Kursziel 725 USD) leicht ruecklaeufig auf 678 USD nach starkem Wochengewinn.",
-    "decision": "Neue spekulative Momentum-Position in Bitcoin (800 EUR) auf den bestaetigten Ausbruch ueber die 80.000-USD-Marke bleibt bestehen. META (+5,0%), SOL (+3,3%) und BTC (-0,25%) bewegen sich weiter innerhalb der etablierten Bandbreite (weder Stop-Loss noch Gewinnziel erreicht) und werden unveraendert gehalten.",
-    "reasoning": "18:08 MESZ: Bitcoin durchbricht mehrfach unabhaengig bestaetigt (CoinDesk, Yahoo Finance, Cryptonews, Exchangerates.org) die seit 07.09. haltende Widerstandsmarke von 80.000 USD und steigt auf ca. 81.000 USD, begleitet von einer Short-Squeeze (~183 Mio. USD Liquidationen/Stunde) und frischem regulatorischen Rueckenwind (SEC-Beschleunigung bei Krypto-ETP-Listings, Grayscale Digital Large Cap Fund, Goldman-Sachs-BTC-ETF-Antrag) - Muster analog zum erfolgreichen BTC-Trade vom 19.08. Daher spekulativer Einstieg mit 800 EUR bei 81.000 USD. META auf 673,42 USD (+4,26% seit Kauf) und SOL auf 101,50 USD (-0,84% seit Kauf) aktualisiert; beide bewegen sich weiter im normalen Rahmen ohne Handlungsbedarf. | 19:08 MESZ: META auf 678,23 USD (+5,0%), SOL auf 105,73 USD (+3,29%, naehert sich der 106-108-USD-Widerstandszone) und BTC auf 80.800 USD (-0,25%, haelt den Ausbruch) aktualisiert. Kein Trade: Altcoin-/L2-Rally (Starknet, Arbitrum +17%, BNB-Hoch) bereits vor Stunden gelaufen und damit fuer einen ueberzeugenden Neueinstieg zu weit fortgeschritten, keine der drei offenen Positionen erreicht Stop-Loss- oder Gewinnschwelle.",
+    "marketOverview": "US-Boersen freitagabends leicht uneinheitlich (S&P500 +0,11%, Dow -0,13%, Nasdaq +0,39%, Halbleiter/SMH +3% nach starken Broadcom/Micron/Marvell-AI-Ausblicken; Buffett-Nachfolge durch Howard Buffett im Fokus). Bitcoin haelt den Ausbruch ueber 80.000 USD (~80.800 USD), Solana testet die Widerstandszone 106-108 USD (RSI zeigt bereits ueberkaufte Warnsignale), Gold markiert mit ~4.380-4.420 USD/oz ein Wochenhoch. Kein Einzeltitel zeigt einen frischen, mehrfach bestaetigten Ausreisser wie bei frueheren Trades.",
+    "decision": "Kein neuer Trade um 20:08 MESZ. META (+5,63%), SOL (+3,47%) und BTC (-0,25%) bleiben unveraendert gehalten - keine Position erreicht Stop-Loss- oder Gewinnschwelle, und trotz Semiconductor-Rally (+3%) sowie Gold-Wochenhoch fehlt ein ueberzeugender, frisch bestaetigter Einzelkatalysator fuer einen Neueinstieg.",
+    "reasoning": "18:08 MESZ: Bitcoin durchbricht mehrfach unabhaengig bestaetigt (CoinDesk, Yahoo Finance, Cryptonews, Exchangerates.org) die seit 07.09. haltende Widerstandsmarke von 80.000 USD und steigt auf ca. 81.000 USD, begleitet von einer Short-Squeeze (~183 Mio. USD Liquidationen/Stunde) und frischem regulatorischen Rueckenwind (SEC-Beschleunigung bei Krypto-ETP-Listings, Grayscale Digital Large Cap Fund, Goldman-Sachs-BTC-ETF-Antrag) - Muster analog zum erfolgreichen BTC-Trade vom 19.08. Daher spekulativer Einstieg mit 800 EUR bei 81.000 USD. META auf 673,42 USD (+4,26% seit Kauf) und SOL auf 101,50 USD (-0,84% seit Kauf) aktualisiert; beide bewegen sich weiter im normalen Rahmen ohne Handlungsbedarf. | 19:08 MESZ: META auf 678,23 USD (+5,0%), SOL auf 105,73 USD (+3,29%, naehert sich der 106-108-USD-Widerstandszone) und BTC auf 80.800 USD (-0,25%, haelt den Ausbruch) aktualisiert. Kein Trade: Altcoin-/L2-Rally (Starknet, Arbitrum +17%, BNB-Hoch) bereits vor Stunden gelaufen und damit fuer einen ueberzeugenden Neueinstieg zu weit fortgeschritten, keine der drei offenen Positionen erreicht Stop-Loss- oder Gewinnschwelle. | 20:08 MESZ: META auf 682,31 USD (+5,63%), SOL auf 105,91 USD (+3,47%, testet 106-108-USD-Widerstand mit ueberkauften RSI-Warnsignalen laut Cryptonomist) und BTC auf 80.800 USD (-0,25%) aktualisiert. Recherche zu Halbleiter-Rally (SMH +3%, Broadcom/Micron/Marvell-AI-Ausblicke) und Gold-Wochenhoch (~4.380-4.420 USD/oz) ergab keinen frischen, mehrfach unabhaengig bestaetigten Einzelkatalysator mit vergleichbarer Ueberzeugungskraft wie bei frueheren Trades (z.B. AMD-/NVDA-Dip, Brent-Eskalation) - Chip-Rally ist breit getragener, bereits bekannter Trend ohne klaren Tages-Ausloeser, Gold-Anstieg moderat ohne neue Eskalation. Daher kein Trade, alle drei offenen Positionen unveraendert gehalten.",
     "positionIds": [
       "pos-0012",
       "pos-0014",
       "pos-0016"
     ],
-    "portfolioValueEnd": 1944.49,
+    "portfolioValueEnd": 1949.17,
     "updates": [
       {
         "time": "00:10",
@@ -5566,6 +5566,11 @@
         "time": "19:08",
         "note": "Keine Aenderung. META auf 678,23 USD (+5,0%), SOL auf 105,73 USD (+3,29%) und BTC auf 80.800 USD (-0,25%) aktualisiert. Kein Trade: Altcoin-Rally (Starknet/Arbitrum/BNB) bereits zu weit gelaufen, keine Position an Stop-Loss- oder Gewinnschwelle.",
         "portfolioValue": 1944.49
+      },
+      {
+        "time": "20:08",
+        "note": "Keine Aenderung. META auf 682,31 USD (+5,63%), SOL auf 105,91 USD (+3,47%) und BTC auf 80.800 USD (-0,25%) aktualisiert. Kein Trade: Halbleiter-Rally (SMH +3%) und Gold-Wochenhoch ohne frischen, ueberzeugenden Einzelkatalysator; keine Position an Stop-Loss- oder Gewinnschwelle.",
+        "portfolioValue": 1949.17
       }
     ]
   }
