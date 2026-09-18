@@ -5591,20 +5591,25 @@
   },
   {
     "date": "2026-09-19",
-    "marketOverview": "Krypto-Markt setzt die breite Alt-Rally fort: Bitcoin haelt sich stabil um 80.850-80.900 USD nach dem Ausbruch ueber 80.000 USD, Solana notiert bei ca. 106 USD (+7-8% in den letzten 24h) im Rahmen einer marktweiten Rotation in Layer-2/DeFi-Titel (Starknet, Arbitrum je +17-30%). Aktien, ETFs und Rohstoffe sind zum Berichtszeitpunkt (Samstagnacht) ausserboerslich, keine neuen Kurse verfuegbar. Kein neuer, eigenstaendig ueberzeugender Einzelkatalysator fuer eine Neuposition; die laufende Altcoin-Rally ist fuer einen Neueinstieg bereits weit fortgeschritten.",
-    "decision": "Keine Aenderung. Tagesbudget von 1.000 EUR gutgeschrieben (totalFreshCapitalEur jetzt 46.000 EUR). Offene Positionen (META, SOL, BTC) aktualisiert, keine erreicht Stop-Loss- oder Gewinnschwelle.",
-    "reasoning": "Samstagnacht 00:08 MESZ: Aktien/ETFs/Rohstoffe nicht handelbar (Wochenende). Krypto waere handelbar, aber die laufende Altcoin-/L2-Rally (Starknet/Arbitrum) ist bereits weit gelaufen und kein neues, unabhaengig bestaetigtes Setup bietet eine ueberzeugende Einstiegschance. SOL (+3,74%) und META (+5,0%) liegen unter der etablierten Gewinn-Zielzone (7-9%), BTC (-0,18%) und keine Position nahe der Stop-Loss-Schwelle (~-6,5 bis -7,5%). Daher kein Trade in diesem Lauf.",
+    "marketOverview": "Breite Krypto-Erleichterungsrally in der Nacht auf Samstag: Bitcoin klettert auf ca. 81.100 USD (+6% in 24h), Solana schiesst auf ca. 113 USD (+11,5%), Ethereum (+7,3%) und XRP (+8,9%) ziehen mit. Ausloeser ist die neue SEC-'Innovation Exemption' fuer tokenisierte US-Aktien (veroeffentlicht am 17.09., zwei Tage nach dem gescheiterten CLARITY-Act-Votum im US-Senat, 49:50), die als regulatorischer Ersatzkatalysator wirkt. Aktien, ETFs und Rohstoffe sind zum Berichtszeitpunkt (Samstagnacht) ausserboerslich, keine neuen Kurse verfuegbar.",
+    "decision": "Solana-Position (pos-0012) mit +52,66 EUR (+10,53%) Gewinn glattgestellt - ueber der etablierten Zielspanne (7-9%) nach ueberhitztem 24h-Anstieg. BTC (pos-0016, +0,12%) unveraendert gehalten, META (pos-0014) am Wochenende unveraendert. Kein Neukauf: die breite BTC/ETH/XRP-Rally ist ebenfalls bereits weit gelaufen, kein frisches, eigenstaendig ueberzeugendes Setup fuer einen Neueinstieg. Tagesbudget wurde bereits im 00:08-Lauf gutgeschrieben (totalFreshCapitalEur unveraendert bei 46.000 EUR).",
+    "reasoning": "Samstagnacht 01:08 MESZ: Aktien/ETFs/Rohstoffe weiterhin nicht handelbar (Wochenende), nur Krypto bewegt. Solana uebertrifft mit +10,53% seit Kauf klar die etablierte Gewinn-Zielzone (7-9%, analog AMD, SpaceX, Palantir, Brent, Bitcoin) und ist nach einem zweistelligen 24h-Plus kurzfristig ueberhitzt - Gewinnmitnahme passend zum spekulativen Kurzfrist-Profil. BTC (+0,12%) liegt nahe am Einstand, weder Gewinnschwelle noch Stop-Loss (~-6,5 bis -7,5%) erreicht, Ausbruchsthese ueber 80.000 USD bleibt intakt - Position wird gehalten. Fuer einen Neueinstieg in BTC/ETH/XRP ist die aktuelle Rally-Bewegung (bereits +6% bis +8,9% in 24h) zu weit gelaufen, um noch als ueberzeugender frischer Einstiegspunkt zu gelten; kein Trade ausserhalb der SOL-Gewinnmitnahme.",
     "positionIds": [
       "pos-0012",
       "pos-0014",
       "pos-0016"
     ],
-    "portfolioValueEnd": 1947.24,
+    "portfolioValueEnd": 1430.94,
     "updates": [
       {
         "time": "00:08",
         "note": "Tagesbudget +1.000 EUR gutgeschrieben. SOL auf 106,19 USD (+3,74%), BTC auf 80.850 USD (-0,18%) aktualisiert, META unveraendert (Boersen am Wochenende geschlossen). Kein Trade: Altcoin-Rally bereits weit gelaufen, kein ueberzeugendes neues Setup, keine Position an Stop-Loss-/Gewinnschwelle.",
         "portfolioValue": 1947.24
+      },
+      {
+        "time": "01:08",
+        "note": "Verkauf SOL: +52,66 EUR (+10,53%) Gewinnmitnahme nach ueberhitzter Nacht-Rally (Ausloeser: SEC 'Innovation Exemption'). BTC auf 81.094 USD (+0,12%) aktualisiert und gehalten, META unveraendert (Wochenende). Kein Neukauf.",
+        "portfolioValue": 1430.94
       }
     ]
   }
