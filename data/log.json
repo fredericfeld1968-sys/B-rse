@@ -5457,14 +5457,14 @@
   },
   {
     "date": "2026-09-18",
-    "marketOverview": "Fed hat am 16.09. den Leitzins um 25bp auf 3,75-4,00% angehoben (hawkish, weiterer Schritt im Jahresverlauf erwartet); Aktienmaerkte erholten sich am 17.09. deutlich (S&P 500 +1,1%, Nasdaq +1,7%). Xetra (DAX ca. 25.717 Punkte) ist seit 09:00 MESZ geoeffnet und notiert nahezu unveraendert, NYSE/Nasdaq oeffnen erst um 15:30 MESZ. Brent Crude faellt weiter auf ca. 100-105 USD/Barrel, da Saudi-Arabien Teile der beschaedigten Ost-West-Pipeline wieder in Betrieb nimmt und Ersatzlieferungen ueber Oman anbietet - die Nahost-Eskalation entschaerft sich vorerst. Kryptomarkt bleibt seitwaerts (BTC ca. 76.500-77.000 USD, SOL ca. 100-101 USD), kein neuer bestaetigter Ausbruch.",
-    "decision": "Keine neuen Trades heute bislang. Tagesgutschrift bereits um 00:10 verbucht. Laufende Positionen META (+5,49%) und SOL (-1,48%) im moderaten Rahmen, keine Stop-Loss- oder Gewinnmitnahme-Schwelle erreicht. Trotz Xetra-Handelsbeginn kein ueberzeugendes neues Setup.",
-    "reasoning": "09:08 MESZ: META auf 681,37 USD (+5,49% seit Kauf, leichter Ruecksetzer nach Handelsschluss NYSE) und SOL auf 100,85 USD (-1,48% seit Kauf) aktualisiert. Xetra ist seit 09:00 MESZ geoeffnet (DAX ca. 25.717 Punkte, kaum veraendert), aber kein einzelner Titel zeigt einen klaren, mehrfach bestaetigten Ausbruch. Brent Crude faellt weiter Richtung 100-105 USD (Entspannung an der Hormuz-Front), kein Rohstoff-Setup. Kein Kauf: kein ueberzeugendes, mehrfach unabhaengig bestaetigtes Momentum in Aktien, ETFs, Krypto oder Rohstoffen.",
+    "marketOverview": "Fed hat am 16.09. den Leitzins um 25bp auf 3,75-4,00% angehoben; Aktienmaerkte erholten sich am 17.09. (S&P 500 +1,1%, Nasdaq +1,7%). Xetra ist seit 09:00 MESZ geoeffnet und notiert leicht im Plus (DAX/FTSE je ca. +0,4%), NYSE/Nasdaq oeffnen erst um 15:30 MESZ. Brent Crude bleibt nach dem Stop-Loss am 17.09. um ca. 100-105 USD/Barrel (Saudi-Ersatzlieferungen ueber Oman, Nahost-Eskalation entschaerft sich). Kryptomarkt seitwaerts (BTC ca. 77.000 USD, Fear&Greed 69/Greed; SOL ca. 101 USD), kein neuer bestaetigter Ausbruch; CLARITY Act im Senat weiter gescheitert.",
+    "decision": "Keine neuen Trades heute bislang. Tagesgutschrift bereits um 00:10 verbucht. Laufende Positionen META (+5,49%) und SOL (-1,13%) im moderaten Rahmen, keine Stop-Loss- oder Gewinnmitnahme-Schwelle erreicht. Auch um 10:08 kein ueberzeugendes neues Setup (Xetra offen, NYSE/Nasdaq noch geschlossen).",
+    "reasoning": "10:08 MESZ: SOL auf 101,20 USD (-1,13% seit Kauf) aktualisiert, META unveraendert (681,37 USD/+5,49%, NYSE/Nasdaq erst ab 15:30 MESZ handelbar). Premarket-Mover in den USA (APA, ACM Research, Rogers Corp) sind nur duenn/einzelquellig bestaetigt und passen nicht zum etablierten Muster mehrfach unabhaengig bestaetigter 6-8%-Bewegungen. Kryptomarkt konsolidiert weiter seitwaerts ohne neuen Ausbruch. Kein Kauf: kein ueberzeugendes, mehrfach unabhaengig bestaetigtes Momentum in Aktien, ETFs, Krypto oder Rohstoffen.",
     "positionIds": [
       "pos-0012",
       "pos-0014"
     ],
-    "portfolioValueEnd": 1125.55,
+    "portfolioValueEnd": 1127.27,
     "updates": [
       {
         "time": "00:10",
@@ -5515,6 +5515,11 @@
         "time": "09:08",
         "note": "Keine Aenderung. META auf 681,37 USD (+5,49%) und SOL auf 100,85 USD (-1,48%) aktualisiert. Xetra seit 09:00 MESZ geoeffnet, aber kein ueberzeugendes neues Setup; NYSE/Nasdaq noch geschlossen.",
         "portfolioValue": 1125.55
+      },
+      {
+        "time": "10:08",
+        "note": "Keine Aenderung. SOL auf 101,20 USD (-1,13%) aktualisiert, META unveraendert (681,37 USD/+5,49%, NYSE/Nasdaq noch geschlossen bis 15:30 MESZ). Kein Trade: keine ueberzeugende, mehrfach bestaetigte Chance (US-Premarket-Mover wie APA/ACMR/ROG zu duenn bestaetigt, Kryptomarkt seitwaerts).",
+        "portfolioValue": 1127.27
       }
     ]
   }
