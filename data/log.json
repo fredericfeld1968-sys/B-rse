@@ -5457,14 +5457,14 @@
   },
   {
     "date": "2026-09-18",
-    "marketOverview": "US-Futures fester (S&P/Nasdaq-Futures deutlich im Plus) nach dem Fed-Zinsschritt vom 16.09., DAX/Xetra notiert um die Mittagszeit bei ca. 25.670 Punkten (+0,5%). NYSE/Nasdaq oeffnen erst um 15:30 MESZ, META daher weiter zum letzten Schlusskurs 681,37 USD (+5,49%) gefuehrt. Bitcoin konsolidiert bei ca. 75.800-77.000 USD nach dem gescheiterten CLARITY-Act-Votum, SOL seitwaerts um 101-102 USD. Keine neuen, mehrfach unabhaengig bestaetigten 6-8%-Bewegungen in Einzelwerten oder Krypto erkennbar; Premarket-Mover sind duennes Kleinstkapital (DLXY, SNYR) ohne belastbare Bestaetigung.",
-    "decision": "Keine neuen Trades heute bislang. Tagesgutschrift bereits um 00:10 verbucht. Laufende Positionen META (+5,49%) und SOL (-0,84%) im moderaten Rahmen, keine Stop-Loss- oder Gewinnmitnahme-Schwelle erreicht. Auch um 11:08 kein ueberzeugendes neues Setup (Xetra offen, NYSE/Nasdaq noch geschlossen).",
-    "reasoning": "11:08 MESZ: SOL auf 101,50 USD (-0,84% seit Kauf) aktualisiert, META unveraendert (681,37 USD/+5,49%, NYSE/Nasdaq erst ab 15:30 MESZ handelbar). US-Futures zwar deutlich im Plus, aber vorboersliche Futures-Bewegungen allein sind kein hinreichend bestaetigtes Setup fuer einen Kauf. Premarket-Mover (DLXY, SNYR, TPST) sind extrem duenne Kleinstwerte ohne seriöse mehrfache Bestaetigung und passen nicht zum etablierten Handelsmuster. Kryptomarkt konsolidiert weiter seitwaerts ohne neuen Ausbruch. Kein Kauf: kein ueberzeugendes, mehrfach unabhaengig bestaetigtes Momentum in Aktien, ETFs, Krypto oder Rohstoffen.",
+    "marketOverview": "US-Futures leicht positiv (S&P +0,04%, Nasdaq100 +0,51%), NYSE/Nasdaq oeffnen erst um 15:30 MESZ. DAX/Xetra notiert am Mittag fester. Bitcoin stabil bei ca. 76.580 USD, SOL leicht ruecklaeufig auf 101,27 USD. Premarket-Mover weiterhin duenne Kleinstwerte (DLXY, SNYR, TPST) ohne belastbare Bestaetigung, keine neuen 6-8%-Bewegungen in liquiden Einzelwerten.",
+    "decision": "Keine neuen Trades heute bislang. Tagesgutschrift bereits um 00:10 verbucht. Laufende Positionen META (+5,49%) und SOL (-1,06%) im moderaten Rahmen, keine Stop-Loss- oder Gewinnmitnahme-Schwelle erreicht. Auch um 12:08 kein ueberzeugendes neues Setup.",
+    "reasoning": "12:08 MESZ: SOL auf 101,27 USD (-1,06% seit Kauf) aktualisiert, META unveraendert (681,37 USD/+5,49%, NYSE/Nasdaq erst ab 15:30 MESZ handelbar). US-Futures nur leicht im Plus, kein hinreichend bestaetigtes Setup fuer einen Kauf. Premarket-Mover weiterhin zu duenn/unzuverlaessig. Kryptomarkt (BTC ~76.580 USD, SOL leicht ruecklaeufig) konsolidiert ohne neuen Ausbruch. Kein Kauf: kein ueberzeugendes, mehrfach unabhaengig bestaetigtes Momentum in Aktien, ETFs, Krypto oder Rohstoffen.",
     "positionIds": [
       "pos-0012",
       "pos-0014"
     ],
-    "portfolioValueEnd": 1128.73,
+    "portfolioValueEnd": 1127.61,
     "updates": [
       {
         "time": "00:10",
@@ -5525,6 +5525,11 @@
         "time": "11:08",
         "note": "Keine Aenderung. SOL auf 101,50 USD (-0,84%) aktualisiert, META unveraendert (681,37 USD/+5,49%, NYSE/Nasdaq noch geschlossen). Kein Trade: US-Futures im Plus, aber kein hinreichend bestaetigtes Setup; Premarket-Mover zu duenn/unzuverlaessig.",
         "portfolioValue": 1128.73
+      },
+      {
+        "time": "12:08",
+        "note": "Keine Aenderung. SOL auf 101,27 USD (-1,06% seit Kauf) aktualisiert, META unveraendert (681,37 USD/+5,49%, NYSE/Nasdaq noch geschlossen). Kein Trade: US-Futures nur leicht im Plus, keine ueberzeugende, mehrfach bestaetigte Gelegenheit.",
+        "portfolioValue": 1127.61
       }
     ]
   }
