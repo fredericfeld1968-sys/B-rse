@@ -5457,14 +5457,14 @@
   },
   {
     "date": "2026-09-18",
-    "marketOverview": "Der Kryptomarkt konsolidiert nach dem hawkishen Fed-Zinsschritt und der gescheiterten Senatsabstimmung zum Digital Asset Market Clarity Act (49-50): Bitcoin haelt sich bei rund 76.300 USD, Ethereum bei ca. 2.440-2.450 USD, beide nur leicht veraendert. Solana pendelt weiter um die 101-USD-Marke. Aktien, ETFs und Rohstoffe sind zu dieser Nachtstunde ausserhalb der Handelszeiten; META schloss den regulaeren Handel bei 681,43 USD (-0,13%) minimal leichter.",
+    "marketOverview": "Kryptomarkt konsolidiert weiter nach dem hawkishen Fed-Zinsschritt und der gescheiterten CLARITY-Act-Abstimmung im Senat: Bitcoin pendelt um 76.400-77.600 USD, Solana bei ca. 100,85 USD (leicht schwaecher, -1,48% seit Kauf von pos-0012). Naechster moeglicher Katalysator ist die Bank-of-Japan-Zinsentscheidung (17.-18.09.), die bei einer erwarteten Anhebung auf 1,25% Risikoassets belasten koennte. Aktien, ETFs und Rohstoffe bleiben zu dieser Nachtstunde ausserhalb der Handelszeiten; META unveraendert beim Schlusskurs von 681,43 USD (+5,50%).",
     "decision": "Keine Aenderung",
-    "reasoning": "Kurz nach Mitternacht sind Aktien, ETFs und Rohstoffe ausserhalb der Handelszeiten - nur Krypto waere bewegbar. Es gibt jedoch kein wirklich ueberzeugendes neues Setup: der Kryptomarkt konsolidiert nach dem Fed-Entscheid und der gescheiterten CLARITY-Act-Abstimmung ohne klare Richtung. SOL (pos-0012) und META (pos-0014) bleiben innerhalb der etablierten Halteband, weder Gewinnmitnahme- noch Stop-Loss-Schwelle erreicht.",
+    "reasoning": "Ausserhalb der Handelszeiten fuer Aktien/ETFs/Rohstoffe ist nur Krypto bewegbar. Der Kryptomarkt bleibt richtungslos in Konsolidierung, kein ueberzeugendes neues Setup. SOL (pos-0012) bei -1,48% und META (pos-0014) bei +5,50% liegen beide klar innerhalb des etablierten Halte-Korridors (Stop-Loss ca. -6,5% bis -7,5%, Gewinnmitnahme ca. 7-9%).",
     "positionIds": [
       "pos-0012",
       "pos-0014"
     ],
-    "portfolioValueEnd": 1127.32,
+    "portfolioValueEnd": 1125.61,
     "updates": [
       {
         "time": "00:10",
@@ -5475,6 +5475,11 @@
         "time": "01:08",
         "note": "Keine Aenderung. SOL auf 101,20 USD (-1,13%) und META auf den Boersenschlusskurs 681,43 USD (+5,50%) aktualisiert. Kein Trade: Kryptomarkt konsolidiert nach Fed-Zinsschritt und abgelehntem CLARITY-Act-Votum im Senat, kein ueberzeugendes neues Setup.",
         "portfolioValue": 1127.32
+      },
+      {
+        "time": "02:08",
+        "note": "Keine Aenderung. SOL auf 100,85 USD (-1,48%) aktualisiert, META unveraendert (681,43 USD/+5,50%, Boersen geschlossen). Kein Trade: Kryptomarkt konsolidiert weiter ohne klares Setup, BoJ-Zinsentscheidung noch offen.",
+        "portfolioValue": 1125.61
       }
     ]
   }
