@@ -5591,14 +5591,14 @@
   },
   {
     "date": "2026-09-19",
-    "marketOverview": "Samstagmittag, 12:08 MESZ: Aktien/ETFs/Rohstoffe weiterhin wochenendbedingt geschlossen, nur Krypto handelbar. Bitcoin bewegt sich weiterhin seitwaerts um ca. 80.850 USD (CoinDesk ~80.861, CoinGecko ~80.846 USD), keine neue eigenstaendige Bewegung. XRP (+5,4%), ETH (+4%) und SOL (+9% auf ca. 110,66 USD) setzen die bereits mehrfach gehandelte Krypto-Erleichterungsrally fort (CFTC schickt neue Kryptomarkt-Regeln ans Weisse Haus nach gescheitertem CLARITY-Act-Votum, SEC oeffnet Weg fuer tokenisierte Aktien, breite Altcoin-Rally u.a. UNI +24%, ARB +10%). Da dieselbe, bereits heute frueh gehandelte Rally (SOL-Gewinnmitnahme um 01:08) ohne frischen eigenstaendigen Katalysator weiterlaeuft, kein neues Setup.",
-    "decision": "Keine Aenderung in diesem Lauf. BTC-Position (pos-0016) auf ca. 80.850 USD aktualisiert (-0,19% seit Kauf), META (pos-0014) unveraendert (Boersen am Wochenende geschlossen, weiterhin +3,07% seit Kauf). Kein Neukauf: Altcoin-Staerke (XRP/ETH/SOL) ist Fortsetzung derselben, bereits heute gehandelten Rally, kein frisches, eigenstaendiges Setup.",
-    "reasoning": "12:08 MESZ, Samstagmittag: Aktien/ETFs/Rohstoffe weiterhin nicht handelbar (Wochenende). BTC seit dem letzten Lauf (11:08, 80.861 USD) praktisch unveraendert bei ca. 80.850 USD (-0,19% seit Kauf) - kein Stop-Loss erreicht, wird gehalten. META notiert weiterhin zum letzten verfuegbaren Kurs (665,75 USD, Freitagsschluss, +3,07% seit Kauf), deutlich unter der etablierten Gewinnmitnahme-Schwelle (7-9%) - wird gehalten, Boerse ohnehin geschlossen. SOL (+9% auf 110,66 USD), XRP (+5,4%) und ETH (+4%) setzen zwar die Altcoin-Rally fort, doch dieselbe Bewegung wurde bereits um 01:08 MESZ per SOL-Gewinnmitnahme gehandelt (SEC-Innovation-Exemption-These) - ein erneuter Einstieg jetzt waere verspaetete Trendfolge ohne frischen Katalysator. Freies Kapital weiterhin reichlich vorhanden (ca. 44.400 EUR), aber keine ueberzeugende neue Gelegenheit erkennbar, daher keine Trades.",
+    "marketOverview": "Samstagnachmittag, 13:08 MESZ: Aktien/ETFs/Rohstoffe weiterhin wochenendbedingt geschlossen, nur Krypto handelbar. Bitcoin bewegt sich weiterhin seitwaerts um ca. 80.850-81.300 USD (CoinDesk ~80.861, CoinGecko ~80.846, CoinMarketCap ~81.295 USD), keine neue eigenstaendige Bewegung. Der Gesamt-Kryptomarkt liegt bei ca. 2,66 Bio. USD (+2%), Altcoin-Rally (angefuehrt von NEAR +30%, UNI +26%, APT +18%, SOL +7,8% auf ca. 106 USD, XRP +5,4% auf 1,33 USD) setzt sich fort, getrieben von der bereits mehrfach gehandelten CFTC-Regelwerk-Reaktion nach gescheitertem CLARITY-Act-Votum. Kein frischer, bisher ungehandelter Katalysator seit dem letzten Lauf erkennbar.",
+    "decision": "Keine Aenderung in diesem Lauf. BTC-Position (pos-0016) auf ca. 80.950 USD aktualisiert (-0,06% seit Kauf, praktisch kostendeckend), META (pos-0014) unveraendert (Boersen am Wochenende geschlossen, weiterhin +3,07% seit Kauf). Kein Neukauf: Altcoin-Staerke (SOL/XRP/NEAR/UNI) ist Fortsetzung derselben, bereits heute mehrfach gehandelten Rally ohne frischen eigenstaendigen Katalysator.",
+    "reasoning": "13:08 MESZ, Samstagnachmittag: Aktien/ETFs/Rohstoffe weiterhin nicht handelbar (Wochenende). BTC seit dem letzten Lauf (12:08, 80.850 USD) praktisch unveraendert bei ca. 80.950 USD (Mittelwert CoinDesk/CoinGecko/CoinMarketCap, -0,06% seit Kauf) - kein Stop-Loss erreicht, Position wird gehalten. META notiert weiterhin zum letzten verfuegbaren Kurs (665,75 USD, Freitagsschluss, +3,07% seit Kauf), deutlich unter der etablierten Gewinnmitnahme-Schwelle (7-9%) - wird gehalten, Boerse ohnehin geschlossen. Die Altcoin-Rally (SOL +7,8%, XRP +5,4%, NEAR +30%, UNI +26%) ist dieselbe, bereits um 01:08 und seither mehrfach gehandelte/beobachtete CFTC-Regelwerk-Bewegung nach dem gescheiterten CLARITY-Act-Votum - kein frischer, eigenstaendiger Katalysator. Freies Kapital weiterhin reichlich vorhanden (ca. 44.400 EUR), aber keine ueberzeugende neue Gelegenheit erkennbar, daher keine Trades.",
     "positionIds": [
       "pos-0014",
       "pos-0016"
     ],
-    "portfolioValueEnd": 1416.94,
+    "portfolioValueEnd": 1417.93,
     "updates": [
       {
         "time": "00:08",
@@ -5664,6 +5664,11 @@
         "time": "12:08",
         "note": "Keine Aenderung. BTC auf 80.850 USD (-0,19%) aktualisiert, META unveraendert (Wochenende, weiterhin +3,07%). Altcoin-Rally (SOL/XRP/ETH) ist Fortsetzung der bereits gehandelten Bewegung, kein frischer Katalysator.",
         "portfolioValue": 1416.94
+      },
+      {
+        "time": "13:08",
+        "note": "Keine Aenderung. BTC auf 80.950 USD (-0,06%) aktualisiert, META unveraendert (Wochenende, +3,07%). Kein Trade: Altcoin-Rally (SOL/XRP/NEAR/UNI) ist Fortsetzung der bereits gehandelten CFTC-Regelwerk-Bewegung, kein frischer Katalysator.",
+        "portfolioValue": 1417.93
       }
     ]
   }
