@@ -5724,19 +5724,24 @@
   },
   {
     "date": "2026-09-20",
-    "marketOverview": "Sonntag, 00:08 MESZ: Aktien/ETFs/Rohstoffe wochenendbedingt weiterhin geschlossen, nur Krypto handelbar. Bitcoin haelt sich nach dem bestaetigten Ausbruch ueber 80.000 USD vom Freitag bei rund 81.350-81.450 USD, gestuetzt durch anhaltende Spot-ETF-Zuflüsse (~433 Mio. USD am Freitag, angefuehrt von Fidelity FBTC) und neue CFTC-/SEC-Regelwerksschritte. Solana konsolidiert nach der SEC-\"Innovation Exemption\" und dem Block-Zeit-Upgrade auf 250ms weiterhin oberhalb von 110 USD. Der gescheiterte CLARITY-Act-Senatsvotum bleibt als Hintergrundrisiko bestehen, hat aber keine neue Marktreaktion ausgeloest.",
-    "decision": "Kein neuer Trade um 00:08 MESZ. BTC (pos-0016) auf ca. 81.450 USD (+0,56% seit Kauf) aktualisiert, META (pos-0014) bleibt unveraendert beim Freitagsschlusskurs 668,00 USD (+3,42%, Boerse wochenendbedingt geschlossen). Keine Position erreicht Stop-Loss- oder Gewinnschwelle, kein frischer eigenstaendiger Katalysator seit dem letzten Lauf.",
-    "reasoning": "00:08 MESZ, Sonntagfrueh: Nur Krypto handelbar. BTC bewegt sich seit dem letzten Lauf (23:07 Samstag) nur marginal (81.393,75 -> ca. 81.450 USD), weiterhin klar unterhalb der etablierten Gewinnmitnahme-Zielspanne (7-9%) und weit von einer Stop-Loss-Schwelle entfernt. META ist ohnehin nicht handelbar (Wochenende). Die bekannten Treiber (ETF-Zufluesse, SEC/CFTC-Regelwerk, Solana-Netzwerk-Upgrade) sind bereits in frueheren Laeufen eingepreist und gehandelt worden; kein neuer, mehrfach unabhaengig bestaetigter Einzelkatalysator mit vergleichbarer Ueberzeugungskraft wie bei frueheren Trades erkennbar. Freies Kapital reichlich vorhanden, aber keine ueberzeugende neue Gelegenheit, daher kein Trade.",
+    "marketOverview": "Sonntag, 01:08 MESZ: Aktien/ETFs/Rohstoffe weiterhin wochenendbedingt geschlossen, nur Krypto handelbar. Bitcoin bewegt sich seitwaerts um ca. 81.350-81.400 USD (CoinDesk 81.354, CoinGecko 81.396, Coinbase 81.394), 24h-Aenderung nur +0,18%, kein neuer Katalysator seit dem letzten Lauf. Solana haelt sich nach dem Block-Zeit-Upgrade (250ms) und der SEC-Innovation-Exemption weiter oberhalb von 105 USD. Der gescheiterte CLARITY-Act-Senatsvotum bleibt Hintergrundthema, die CFTC hat unterdessen ein neues Regelwerkspaket zur Pruefung ans Weisse Haus geschickt - bislang ohne akute Marktreaktion.",
+    "decision": "Kein neuer Trade um 01:08 MESZ. BTC (pos-0016) auf ca. 81.400 USD (+0,49% seit Kauf) leicht nach oben aktualisiert, META (pos-0014) bleibt wochenendbedingt unveraendert beim Freitagsschlusskurs 668,00 USD (+3,42%). Keine Position erreicht Stop-Loss- oder Gewinnschwelle, kein neuer eigenstaendiger Katalysator seit dem 00:08-Lauf.",
+    "reasoning": "01:08 MESZ, Sonntagfrueh: Nur Krypto handelbar. BTC bewegt sich seit dem letzten Lauf (00:08) nur marginal (81.450 -> ca. 81.400 USD, +0,18% in 24h laut CoinDesk), weiterhin klar unterhalb der etablierten Gewinnmitnahme-Zielspanne (7-9%) und weit von einer Stop-Loss-Schwelle entfernt. META ist ohnehin nicht handelbar (Wochenende). Keine neuen, mehrfach unabhaengig bestaetigten Katalysatoren mit vergleichbarer Ueberzeugungskraft wie bei frueheren Trades erkennbar (Linera-Shutdown und schrumpfende Stablecoin-Angebote auf einzelnen L1-Chains sind kein handelbares Signal fuer die gehaltenen Positionen). Freies Kapital reichlich vorhanden, aber keine ueberzeugende neue Gelegenheit, daher kein Trade.",
     "positionIds": [
       "pos-0014",
       "pos-0016"
     ],
-    "portfolioValueEnd": 1424.95,
+    "portfolioValueEnd": 1424.46,
     "updates": [
       {
         "time": "00:08",
         "note": "Tagesbudget +1.000 EUR gutgeschrieben. BTC auf ca. 81.450 USD (+0,56% seit Kauf) aktualisiert, META unveraendert (Wochenende, +3,42%). Kein Trade: kein neuer Katalysator seit dem letzten Lauf, Boersen weiterhin geschlossen.",
         "portfolioValue": 1424.95
+      },
+      {
+        "time": "01:08",
+        "note": "Kein Trade: BTC leicht auf ca. 81.400 USD aktualisiert (+0,49%), META unveraendert (Wochenende, +3,42%). Kein neuer Katalysator seit dem letzten Lauf.",
+        "portfolioValue": 1424.46
       }
     ]
   }
