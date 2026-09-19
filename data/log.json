@@ -5591,14 +5591,14 @@
   },
   {
     "date": "2026-09-19",
-    "marketOverview": "Samstagabend, 16:08 MESZ: Aktien/ETFs/Rohstoffe weiterhin wochenendbedingt geschlossen, nur Krypto handelbar. Bitcoin notiert bei ca. 80.845,96 USD (CoinGecko), praktisch unveraendert zum letzten Lauf (-0,2% seit Kauf). Der Gesamt-Kryptomarkt bleibt bei ca. 2,86 Bio. USD mit weiter bullishem Sentiment (Fear&Greed ~71), die bereits mehrfach gehandelte Altcoin-/Layer-2-Rally (Starknet, Arbitrum, NEAR, ATOM, CRV, BCH, SUI) haelt an, liefert aber weiterhin keinen frischen, bisher ungehandelten Katalysator fuer eine neue Position.",
-    "decision": "Keine Aenderung in diesem Lauf. BTC-Position (pos-0016) auf ca. 80.845,96 USD aktualisiert (-0,19% seit Kauf, weiterhin praktisch kostendeckend), META (pos-0014) unveraendert bei 668,57 USD (+3,51% seit Kauf, Boerse ohnehin wochenendbedingt geschlossen). Kein Neukauf: dieselbe, bereits mehrfach gehandelte Altcoin-/Layer-2-Rally ohne frischen eigenstaendigen Katalysator, keine Position an Stop-Loss- oder Gewinnschwelle.",
-    "reasoning": "16:08 MESZ, Samstagabend: Aktien/ETFs/Rohstoffe weiterhin nicht handelbar (Wochenende), nur Krypto bewegbar. BTC seit dem letzten Lauf (15:08, ~80.834 USD) minimal fester bei ca. 80.845,96 USD (CoinGecko, -0,19% seit Kauf) - kein Stop-Loss erreicht, Position wird gehalten. META unveraendert bei 668,57 USD (+3,51% seit Kauf), deutlich unter der etablierten Gewinnmitnahme-Schwelle (7-9%) - wird gehalten, Boerse ohnehin geschlossen. Die Altcoin-/Layer-2-Rally (Starknet, Arbitrum, NEAR, ATOM, CRV, BCH, SUI) ist dieselbe, bereits mehrfach beobachtete Bewegung im Zuge der Post-Fed-Entspannung - kein frischer, eigenstaendiger Katalysator. Freies Kapital weiterhin reichlich vorhanden (ca. 44.407 EUR), aber keine ueberzeugende neue Gelegenheit erkennbar, daher keine Trades.",
+    "marketOverview": "Samstagabend, 17:08 MESZ: Aktien/ETFs/Rohstoffe weiterhin wochenendbedingt geschlossen, nur Krypto handelbar. Bitcoin legt leicht zu auf ca. 81.300 USD (+0,4% seit Kauf), Gesamtmarkt bleibt bullish (BTC 24h +1,5%, ETH +3,3%, SOL +2,9%). Die Altcoin-/Layer-2-Rally weitet sich zwar aus (NEAR, BCH, SUI, Morpho, CRV, Starknet, Arbitrum), bleibt aber dieselbe bereits mehrfach gehandelte Post-Fed-Bewegung ohne neuen, eigenstaendigen Katalysator; auch die Zcash-Privacy-Rally (NU7-Upgrade, Paradigm-Holding) ist mit +37% Wochenplus bereits sehr weit gelaufen.",
+    "decision": "Keine Aenderung in diesem Lauf. BTC-Position (pos-0016) auf ca. 81.300 USD aktualisiert (+0,37% seit Kauf, wieder leicht im Plus), META (pos-0014) unveraendert bei 668,57 USD (+3,51% seit Kauf, Boerse wochenendbedingt geschlossen). Kein Neukauf: die beobachteten Altcoin-Bewegungen sind Fortsetzungen bereits mehrfach gehandelter/abgelehnter Rallys ohne frischen eigenstaendigen Katalysator, keine Position an Stop-Loss- oder Gewinnschwelle.",
+    "reasoning": "17:08 MESZ, Samstagabend: Aktien/ETFs/Rohstoffe weiterhin nicht handelbar (Wochenende), nur Krypto bewegbar. BTC seit dem letzten Lauf leicht fester bei ca. 81.300 USD (CoinGecko/CoinMarketCap, +0,37% seit Kauf) - kein Stop-Loss, keine Gewinnschwelle erreicht, Position wird gehalten. META unveraendert bei 668,57 USD (+3,51% seit Kauf), deutlich unter der etablierten Gewinnmitnahme-Schwelle (7-9%) - wird gehalten, Boerse ohnehin geschlossen. Neue Recherche zeigt weiterhin dieselben, bereits mehrfach am heutigen Tag bewerteten und verworfenen Bewegungen (NEAR-Airdrop-Rally, BCH-ETF-Filing, SUI/Morpho/CRV-Staerke, Zcash-Privacy-Rally seit NU7-Vote) - keine davon liefert einen frischen, unabhaengig bestaetigten, bisher ungehandelten Katalysator. Freies Kapital weiterhin reichlich vorhanden (ca. 44.407 EUR), aber keine ueberzeugende neue Gelegenheit erkennbar, daher keine Trades.",
     "positionIds": [
       "pos-0014",
       "pos-0016"
     ],
-    "portfolioValueEnd": 1419.52,
+    "portfolioValueEnd": 1424.0,
     "updates": [
       {
         "time": "00:08",
@@ -5684,6 +5684,11 @@
         "time": "16:08",
         "note": "Keine Aenderung. BTC auf 80.845,96 USD (-0,19%) aktualisiert, META unveraendert (Wochenende, +3,51%). Kein Trade: dieselbe bereits gehandelte Altcoin-Rally ohne frischen Katalysator, Boersen am Wochenende geschlossen.",
         "portfolioValue": 1419.52
+      },
+      {
+        "time": "17:08",
+        "note": "Keine Aenderung. BTC auf ca. 81.300 USD (+0,37%) aktualisiert, META unveraendert (Wochenende, +3,51%). Kein Trade: Altcoin-/Layer-2-Rally und Zcash-Privacy-Rally bereits mehrfach gehandelte Bewegungen ohne frischen Katalysator.",
+        "portfolioValue": 1424.0
       }
     ]
   }
