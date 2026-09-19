@@ -5591,14 +5591,14 @@
   },
   {
     "date": "2026-09-19",
-    "marketOverview": "Samstagmorgen, 05:08 MESZ: Aktien/ETFs/Rohstoffe weiterhin wochenendbedingt geschlossen, nur Krypto handelbar. Bitcoin klettert weiter leicht auf ca. 81.283 USD (+5,15% in 24h laut CoinDesk) und haelt sich damit ueber der Ausbruchsmarke von 80.000 USD; kein neuer eigenstaendiger Katalysator seit dem letzten Lauf. SOL/ETH/XRP setzen die bereits seit Stunden laufende Altcoin-Rally fort (SOL ca. 106-113 USD, XRP ca. 1,33-1,40 USD), sind jedoch nach der eigenen SOL-Gewinnmitnahme (01:08) und dem XRP-Stop-Loss (16.09.) kein ueberzeugender Wiedereinstieg.",
-    "decision": "Keine Aenderung in diesem Lauf. BTC-Position (pos-0016) minimal im Plus (+0,35%) nach leichtem weiteren Anstieg auf ca. 81.283 USD - Ausbruchsthese ueber 80.000 USD bleibt intakt, Position wird gehalten. META (pos-0014) unveraendert, da die Boerse am Wochenende geschlossen ist. Kein Neukauf: keine wirklich ueberzeugende neue Gelegenheit, da die laufende Altcoin-Rally bereits weit gelaufen und teils bereits gehandelt ist.",
-    "reasoning": "05:08 MESZ, Samstagmorgen: Aktien/ETFs/Rohstoffe nicht handelbar. BTC-Kurs seit dem letzten Lauf (04:07) nur marginal gestiegen (~81.166 -> ~81.283 USD, +0,14%), kein neuer eigenstaendiger Katalysator - Fortsetzung des seit gestern laufenden Ausbruchs ueber 80.000 USD. Freies Kapital weiterhin reichlich vorhanden (~44.400 EUR), aber kein neues, eigenstaendig ueberzeugendes Setup erkennbar, daher keine Trades.",
+    "marketOverview": "Samstagmorgen, 06:08 MESZ: Aktien/ETFs/Rohstoffe weiterhin wochenendbedingt geschlossen, nur Krypto handelbar. Bitcoin pendelt seitwaerts um ca. 80.957 USD (CoinDesk/CoinGecko-Range 80.300-81.300 USD), haelt sich aber weiter ueber der Ausbruchsmarke von 80.000 USD; kein neuer eigenstaendiger Katalysator. Uebergeordnet: Bitcoin auf Kurs fuer erstes positives Quartal seit einem Jahr trotz Zinssorgen, Oelpreisanstieg und starkem Dollar; Layer-2/DeFi-Token (Starknet, Arbitrum) fuehren eine breitere Altcoin-Bewegung an, die aber bereits mehrfach gehandelt wurde.",
+    "decision": "Keine Aenderung in diesem Lauf. BTC-Position (pos-0016) minimal im Minus (-0,05%) nach leichtem Ruecksetzer auf ca. 80.957 USD - Ausbruchsthese ueber 80.000 USD bleibt aber intakt, Position wird gehalten. META (pos-0014) unveraendert, da die Boerse am Wochenende geschlossen ist. Kein Neukauf: keine wirklich ueberzeugende neue Gelegenheit erkennbar.",
+    "reasoning": "06:08 MESZ, Samstagmorgen: Aktien/ETFs/Rohstoffe nicht handelbar. BTC-Kurs seit dem letzten Lauf (05:08) leicht von ~81.283 auf ~80.957 USD gefallen (-0,4%), reine Randbewegung ohne neuen Katalysator. Freies Kapital weiterhin reichlich vorhanden (~44.400 EUR), aber kein neues, eigenstaendig ueberzeugendes Setup erkennbar, daher keine Trades.",
     "positionIds": [
       "pos-0014",
       "pos-0016"
     ],
-    "portfolioValueEnd": 1432.81,
+    "portfolioValueEnd": 1429.59,
     "updates": [
       {
         "time": "00:08",
@@ -5629,6 +5629,11 @@
         "time": "05:08",
         "note": "Keine Aenderung. BTC auf ca. 81.283 USD (+0,14% seit letztem Lauf) aktualisiert, META unveraendert (Wochenende). Kein Trade: keine neue ueberzeugende Gelegenheit.",
         "portfolioValue": 1432.81
+      },
+      {
+        "time": "06:08",
+        "note": "Keine Aenderung. BTC auf 80.957,40 USD (-0,05%) aktualisiert (leichte Randbewegung), META unveraendert (Wochenende). Kein Trade: keine neue ueberzeugende Gelegenheit.",
+        "portfolioValue": 1429.59
       }
     ]
   }
