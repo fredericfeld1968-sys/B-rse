@@ -5591,14 +5591,14 @@
   },
   {
     "date": "2026-09-19",
-    "marketOverview": "Krypto bleibt in der Nacht auf Samstag der einzige handelbare Markt (Aktien/ETFs/Rohstoffe wochenendbedingt geschlossen). Bitcoin notiert stabil bei rund 80.800-81.300 USD (mehrere Quellen: CoinMarketCap, CoinDesk, CoinGecko, TradingView), kaum veraendert zum Vorlauf. Solana zeigt nach dem starken Ausbruch auf ueber 113 USD nun eine leichte Konsolidierung mit stark schwankenden Kursangaben zwischen ca. 105 und 113 USD je nach Boerse - passend zur ueberhitzten Lage, die bereits zur SOL-Gewinnmitnahme im letzten Lauf gefuehrt hat. Der CLARITY-Act-Ausfall im Senat vom 15.09. wirkt weiterhin nach, wurde aber durch die neue SEC-'Innovation Exemption' vom 17.09. teils kompensiert.",
-    "decision": "Keine Aenderung in diesem Lauf. BTC-Position (pos-0016) minimal im Minus (-0,19%) und damit weit von der Stop-Loss-Schwelle entfernt - Ausbruchsthese ueber 80.000 USD bleibt intakt, Position wird gehalten. META (pos-0014) unveraendert, da Nasdaq am Wochenende geschlossen ist. Kein Neukauf: nach der SOL-Gewinnmitnahme vor einer Stunde gibt es keine neue, eigenstaendig ueberzeugende Gelegenheit - BTC/SOL-Rally ist bereits weit gelaufen und SOL zeigt erste Anzeichen einer Konsolidierung.",
-    "reasoning": "02:07 MESZ, Samstagnacht: Aktien/ETFs/Rohstoffe nicht handelbar. BTC-Kurs seit dem letzten Lauf (01:08) nahezu unveraendert (~81.000 USD), kein neuer Katalysator. Ein erneuter Einstieg in SOL nach der gerade erst realisierten Gewinnmitnahme waere prozyklisch und wuerde der eigenen ueberhitzt-These widersprechen. Freies Kapital ist reichlich vorhanden, aber es gilt: nur bei wirklich ueberzeugender Gelegenheit handeln - diese liegt aktuell nicht vor.",
+    "marketOverview": "Samstagnacht, 03:08 MESZ: Aktien/ETFs/Rohstoffe weiterhin wochenendbedingt geschlossen, nur Krypto handelbar. Bitcoin bewegt sich seitwaerts um 80.850-81.170 USD (CoinDesk, Forbes, diverse Ticker), keine klare neue Richtung. Solana konsolidiert nach dem starken Nacht-Ausbruch auf ueber 113 USD weiter bei stark schwankenden Kursangaben (105-113 USD je nach Quelle). Keine neuen, unabhaengig bestaetigten Katalysatoren seit dem letzten Lauf - die kursierenden Altcoin-Meldungen (Uniswap, VeChain) sind bereits mehrere Tage alt und kein frischer Impuls.",
+    "decision": "Keine Aenderung in diesem Lauf. BTC-Position (pos-0016) minimal im Plus (+0,12%) nach leichtem Kursanstieg auf ca. 81.100 USD - Ausbruchsthese ueber 80.000 USD bleibt intakt, Position wird gehalten. META (pos-0014) unveraendert, da Nasdaq am Wochenende geschlossen ist. Kein Neukauf: keine neue, eigenstaendig ueberzeugende Gelegenheit erkennbar - vorhandene Marktmeldungen sind entweder bereits eingepreist oder zu alt/unbestaetigt fuer einen frischen spekulativen Einstieg.",
+    "reasoning": "03:08 MESZ, Samstagnacht: Aktien/ETFs/Rohstoffe nicht handelbar. BTC-Kurs seit dem letzten Lauf (02:07) leicht gestiegen (~80.850 -> ~81.100 USD), kein neuer eigenstaendiger Katalysator, nur allgemeines Marktrauschen. Ein erneuter Einstieg in SOL nach der vor zwei Stunden realisierten Gewinnmitnahme waere weiterhin prozyklisch. Freies Kapital ist reichlich vorhanden (~44.400 EUR), aber es gilt: nur bei wirklich ueberzeugender Gelegenheit handeln - diese liegt aktuell nicht vor, daher keine Trades.",
     "positionIds": [
       "pos-0014",
       "pos-0016"
     ],
-    "portfolioValueEnd": 1428.53,
+    "portfolioValueEnd": 1431.0,
     "updates": [
       {
         "time": "00:08",
@@ -5614,6 +5614,11 @@
         "time": "02:07",
         "note": "Keine Aenderung. BTC auf 80.850 USD (-0,19%) aktualisiert, META unveraendert (Wochenende). Kein Trade: keine ueberzeugende neue Gelegenheit nach der SOL-Gewinnmitnahme vor einer Stunde.",
         "portfolioValue": 1428.53
+      },
+      {
+        "time": "03:08",
+        "note": "Keine Aenderung. BTC auf 81.100 USD (+0,12%) aktualisiert, META unveraendert (Wochenende). Kein Trade: keine neue ueberzeugende Gelegenheit.",
+        "portfolioValue": 1431.0
       }
     ]
   }
