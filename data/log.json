@@ -5591,14 +5591,14 @@
   },
   {
     "date": "2026-09-19",
-    "marketOverview": "Samstagvormittag, 09:08 MESZ: Aktien/ETFs/Rohstoffe weiterhin wochenendbedingt geschlossen, nur Krypto handelbar. Bitcoin pendelt weiter um die 80.800-81.000 USD-Marke (Quellen leicht uneinheitlich zwischen 76.400 und 81.000 USD je nach Snapshot-Zeitpunkt, CoinGecko/CoinDesk zuletzt ~80.850 USD), Markt insgesamt stabil nach dem verpuffenden Fed-Zinsschritt und dem gescheiterten CLARITY-Act-Votum vom 16.09. - Layer-2-/DeFi-Token (Starknet, Arbitrum, Uniswap, Pendle) fuehren weiterhin eine bereits laufende Altcoin-Rally an, ohne neuen eigenstaendigen Katalysator seit dem letzten Lauf. META-Kurs (Freitagsschluss) mit 665,75 USD niedriger als der zuvor erfasste Intraday-Stand von 678,23 USD erfasst.",
-    "decision": "Keine Aenderung in diesem Lauf. BTC-Position (pos-0016) auf 80.850 USD aktualisiert (-0,19% seit Kauf), META (pos-0014) auf 665,75 USD (Freitagsschluss, +3,07% seit Kauf) aktualisiert - beide Positionen bleiben unter den etablierten Schwellen und werden gehalten. Kein Neukauf: keine neue, eigenstaendig ueberzeugende Gelegenheit seit dem 08:08-Lauf, DeFi-/Altcoin-Staerke bleibt eine bereits gehandelte Folgebewegung.",
-    "reasoning": "09:08 MESZ, Samstagvormittag: Aktien/ETFs/Rohstoffe weiterhin nicht handelbar (Wochenende). BTC seit dem letzten Lauf (08:08, 81.010 USD) leicht auf ca. 80.850 USD zurueckgegangen (-0,2%), Position damit nahezu kostendeckend (-0,19%) - kein Stop-Loss erreicht, wird gehalten. META notiert mit dem aktuellsten verfuegbaren Kurs (665,75 USD, Freitagsschluss) bei +3,07% seit Kauf, ebenfalls weit unter der etablierten Gewinnmitnahme-Schwelle (7-9%) - wird gehalten, Boerse ohnehin geschlossen. Freies Kapital weiterhin reichlich vorhanden, aber keine neue ueberzeugende Gelegenheit erkennbar (Krypto-Altcoin-Rally ist Folgebewegung bereits gehandelter News), daher keine Trades.",
+    "marketOverview": "Samstagvormittag, 10:08 MESZ: Aktien/ETFs/Rohstoffe weiterhin wochenendbedingt geschlossen, nur Krypto handelbar. Bitcoin bewegt sich weiter seitwaerts um 80.800-81.300 USD (je nach Quelle: CoinDesk ~80.860, CoinGecko ~80.850, CoinMarketCap ~81.295, Coinbase ~80.335 USD), keine neue eigenstaendige Bewegung seit dem 09:08-Lauf. Die bereits mehrfach gehandelte SEC-'Innovation Exemption'-Nachricht (Tokenized-Stock-Handelserleichterung) treibt weiterhin Layer-2-/DeFi-Werte sowie insbesondere Zcash (ZEC, +37% in der letzten Woche, ATH-Region) - dieser Trend ist jedoch bereits stark gelaufen und kein frischer Katalysator mehr.",
+    "decision": "Keine Aenderung in diesem Lauf. BTC-Position (pos-0016) auf ca. 80.834 USD aktualisiert (-0,2% seit Kauf), META (pos-0014) unveraendert (Boersen am Wochenende geschlossen, weiterhin +3,07% seit Kauf). Kein Neukauf: keine neue, eigenstaendig ueberzeugende Gelegenheit - die Zcash-/Altcoin-Staerke ist bereits eine seit Tagen laufende, weit fortgeschrittene Bewegung (ZEC +37%/Woche) und damit kein frisches Setup mehr.",
+    "reasoning": "10:08 MESZ, Samstagvormittag: Aktien/ETFs/Rohstoffe weiterhin nicht handelbar (Wochenende). BTC seit dem letzten Lauf (09:08, 80.850 USD) praktisch unveraendert bei ca. 80.834 USD (-0,2% seit Kauf) - kein Stop-Loss erreicht, wird gehalten. META notiert weiterhin zum letzten verfuegbaren Kurs (665,75 USD, Freitagsschluss, +3,07% seit Kauf), deutlich unter der etablierten Gewinnmitnahme-Schwelle (7-9%) - wird gehalten, Boerse ohnehin geschlossen. Zcash (ZEC) zeigt zwar weiterhin starkes Momentum (+37% in der letzten Woche, +5,5% heute), doch die Bewegung ist bereits seit dem 25.08. (Grayscale-ETF-Filing) weit fortgeschritten und stark ueberhitzt - ein Einstieg jetzt waere ein verspaeteter Trendfolge-Kauf ohne frischen Katalysator, kein ueberzeugendes neues Setup passend zur bisherigen Strategie (Kauf bei bestaetigtem frischen Ausbruch, nicht nach wochenlanger Rally). Freies Kapital weiterhin reichlich vorhanden, aber keine ueberzeugende neue Gelegenheit erkennbar, daher keine Trades.",
     "positionIds": [
       "pos-0014",
       "pos-0016"
     ],
-    "portfolioValueEnd": 1416.94,
+    "portfolioValueEnd": 1416.78,
     "updates": [
       {
         "time": "00:08",
@@ -5649,6 +5649,11 @@
         "time": "09:08",
         "note": "Keine Aenderung. BTC auf 80.850 USD (-0,19%) aktualisiert, META auf 665,75 USD (Freitagsschluss, +3,07%) aktualisiert. Kein Trade: keine neue ueberzeugende Gelegenheit, Boersen (Aktien/ETFs/Rohstoffe) wochenendbedingt geschlossen.",
         "portfolioValue": 1416.94
+      },
+      {
+        "time": "10:08",
+        "note": "Keine Aenderung. BTC auf 80.834 USD (-0,2%) aktualisiert, META unveraendert (Wochenende). Kein Trade: Zcash-Rally (+37%/Woche) bereits weit gelaufen, kein frischer Katalysator, keine ueberzeugende neue Gelegenheit.",
+        "portfolioValue": 1416.78
       }
     ]
   }
