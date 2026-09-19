@@ -5591,14 +5591,14 @@
   },
   {
     "date": "2026-09-19",
-    "marketOverview": "Samstagnachmittag, 14:09 MESZ: Aktien/ETFs/Rohstoffe weiterhin wochenendbedingt geschlossen, nur Krypto handelbar. Bitcoin bewegt sich weiterhin seitwaerts um ca. 80.850-81.295 USD (CoinGecko 80.845,96, CoinMarketCap 81.294,97, CoinDesk 80.861,35, Kraken 80.888 USD), keine neue eigenstaendige Bewegung seit dem letzten Lauf. Der Gesamt-Kryptomarkt liegt weiterhin bei ca. 2,7-2,8 Bio. USD, die bereits mehrfach gehandelte Altcoin-Rally (SOL, XRP, NEAR, UNI, HYPE) nach dem gescheiterten CLARITY-Act-Votum und der leichten Post-Fed-Entspannung haelt an, liefert aber keinen frischen, bisher ungehandelten Katalysator.",
-    "decision": "Keine Aenderung in diesem Lauf. BTC-Position (pos-0016) auf ca. 80.972,57 USD aktualisiert (-0,03% seit Kauf, praktisch kostendeckend), META (pos-0014) auf 668,57 USD aktualisiert (+3,51% seit Kauf, Boersen am Wochenende ohnehin geschlossen). Kein Neukauf: dieselbe, bereits mehrfach heute gehandelte Altcoin-Rally ohne frischen eigenstaendigen Katalysator, keine Position an Stop-Loss- oder Gewinnschwelle.",
-    "reasoning": "14:09 MESZ, Samstagnachmittag: Aktien/ETFs/Rohstoffe weiterhin nicht handelbar (Wochenende), nur Krypto bewegbar. BTC seit dem letzten Lauf (13:08, ~80.950 USD) praktisch unveraendert bei ca. 80.972 USD (Mittelwert CoinGecko/CoinMarketCap/CoinDesk/Kraken, -0,03% seit Kauf) - kein Stop-Loss erreicht, Position wird gehalten. META notiert bei 668,57 USD (+3,51% seit Kauf), deutlich unter der etablierten Gewinnmitnahme-Schwelle (7-9%) - wird gehalten, Boerse ohnehin geschlossen. Die Altcoin-Rally (SOL, XRP, NEAR, UNI, HYPE) ist dieselbe, bereits seit den fruehen Morgenstunden mehrfach gehandelte/beobachtete Bewegung (CFTC-Regelwerk-Reaktion nach gescheitertem CLARITY-Act-Votum, leichte Post-Fed-Entspannung) - kein frischer, eigenstaendiger Katalysator. Freies Kapital weiterhin reichlich vorhanden (ca. 44.407 EUR), aber keine ueberzeugende neue Gelegenheit erkennbar, daher keine Trades.",
+    "marketOverview": "Samstagnachmittag, 15:08 MESZ: Aktien/ETFs/Rohstoffe weiterhin wochenendbedingt geschlossen, nur Krypto handelbar. Bitcoin bewegt sich weiterhin seitwaerts, leicht schwaecher um ca. 80.335-81.295 USD je nach Quelle (Mittelwert ca. 80.834 USD; CoinMarketCap 81.294,97, CoinGecko 80.845,96, CoinDesk 80.861,35, Coinbase 80.335,49), keine neue eigenstaendige Bewegung seit dem letzten Lauf. Der Gesamt-Kryptomarkt liegt weiterhin bei ca. 2,77 Bio. USD; die bereits mehrfach gehandelte Altcoin-Rally (SOL auf 110,84 USD +10%, XRP +7,2% auf 1,38 USD, HYPE +12,3% auf 91,31 USD) nach dem gescheiterten CLARITY-Act-Votum und der Post-Fed-Entspannung haelt an, liefert aber weiterhin keinen frischen, bisher ungehandelten Katalysator.",
+    "decision": "Keine Aenderung in diesem Lauf. BTC-Position (pos-0016) auf ca. 80.834 USD aktualisiert (-0,2% seit Kauf, praktisch kostendeckend), META (pos-0014) unveraendert bei 668,57 USD (+3,51% seit Kauf, Boersen am Wochenende ohnehin geschlossen). Kein Neukauf: dieselbe, bereits den ganzen Tag gehandelte Altcoin-Rally ohne frischen eigenstaendigen Katalysator, keine Position an Stop-Loss- oder Gewinnschwelle.",
+    "reasoning": "15:08 MESZ, Samstagnachmittag: Aktien/ETFs/Rohstoffe weiterhin nicht handelbar (Wochenende), nur Krypto bewegbar. BTC seit dem letzten Lauf (14:09, ~80.973 USD) leicht schwaecher bei ca. 80.834 USD (Mittelwert CoinMarketCap/CoinGecko/CoinDesk/Coinbase, -0,2% seit Kauf) - kein Stop-Loss erreicht, Position wird gehalten. META unveraendert bei 668,57 USD (+3,51% seit Kauf), deutlich unter der etablierten Gewinnmitnahme-Schwelle (7-9%) - wird gehalten, Boerse ohnehin geschlossen. Die Altcoin-Rally (SOL, XRP, HYPE) ist dieselbe, bereits seit den fruehen Morgenstunden mehrfach gehandelte/beobachtete Bewegung (CFTC-Regelwerk-Reaktion nach gescheitertem CLARITY-Act-Votum, Post-Fed-Entspannung) - kein frischer, eigenstaendiger Katalysator. Freies Kapital weiterhin reichlich vorhanden (ca. 44.407 EUR), aber keine ueberzeugende neue Gelegenheit erkennbar, daher keine Trades.",
     "positionIds": [
       "pos-0014",
       "pos-0016"
     ],
-    "portfolioValueEnd": 1420.77,
+    "portfolioValueEnd": 1419.4,
     "updates": [
       {
         "time": "00:08",
@@ -5674,6 +5674,11 @@
         "time": "14:09",
         "note": "Keine Aenderung. BTC auf 80.972,57 USD (-0,03%), META auf 668,57 USD (+3,51%) aktualisiert. Kein Trade: dieselbe bereits gehandelte Altcoin-Rally ohne frischen Katalysator, Boersen am Wochenende geschlossen.",
         "portfolioValue": 1420.77
+      },
+      {
+        "time": "15:08",
+        "note": "Keine Aenderung. BTC auf 80.834 USD (-0,2%) aktualisiert (leichter Ruecksetzer), META unveraendert (Wochenende, +3,51%). Kein Trade: dieselbe bereits gehandelte Altcoin-Rally ohne frischen Katalysator, Boersen am Wochenende geschlossen.",
+        "portfolioValue": 1419.4
       }
     ]
   }
