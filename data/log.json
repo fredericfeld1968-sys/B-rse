@@ -5591,14 +5591,14 @@
   },
   {
     "date": "2026-09-19",
-    "marketOverview": "Samstagmorgen, 06:08 MESZ: Aktien/ETFs/Rohstoffe weiterhin wochenendbedingt geschlossen, nur Krypto handelbar. Bitcoin pendelt seitwaerts um ca. 80.957 USD (CoinDesk/CoinGecko-Range 80.300-81.300 USD), haelt sich aber weiter ueber der Ausbruchsmarke von 80.000 USD; kein neuer eigenstaendiger Katalysator. Uebergeordnet: Bitcoin auf Kurs fuer erstes positives Quartal seit einem Jahr trotz Zinssorgen, Oelpreisanstieg und starkem Dollar; Layer-2/DeFi-Token (Starknet, Arbitrum) fuehren eine breitere Altcoin-Bewegung an, die aber bereits mehrfach gehandelt wurde.",
-    "decision": "Keine Aenderung in diesem Lauf. BTC-Position (pos-0016) minimal im Minus (-0,05%) nach leichtem Ruecksetzer auf ca. 80.957 USD - Ausbruchsthese ueber 80.000 USD bleibt aber intakt, Position wird gehalten. META (pos-0014) unveraendert, da die Boerse am Wochenende geschlossen ist. Kein Neukauf: keine wirklich ueberzeugende neue Gelegenheit erkennbar.",
-    "reasoning": "06:08 MESZ, Samstagmorgen: Aktien/ETFs/Rohstoffe nicht handelbar. BTC-Kurs seit dem letzten Lauf (05:08) leicht von ~81.283 auf ~80.957 USD gefallen (-0,4%), reine Randbewegung ohne neuen Katalysator. Freies Kapital weiterhin reichlich vorhanden (~44.400 EUR), aber kein neues, eigenstaendig ueberzeugendes Setup erkennbar, daher keine Trades.",
+    "marketOverview": "Samstagmorgen, 07:08 MESZ: Aktien/ETFs/Rohstoffe weiterhin wochenendbedingt geschlossen, nur Krypto handelbar. Bitcoin leicht schwaecher bei ca. 80.335-80.861 USD (Coinbase/CoinDesk/CoinGecko-Range), haelt sich aber weiter ueber der psychologischen Marke von 80.000 USD nach Japans Zinserhoehung auf 1,25% (31-Jahres-Hoch). Solana (+7,8% laut Coinbase) und XRP (+5,4%) zeigen weiter Staerke, jedoch handelt es sich um dieselbe bereits mehrfach gehandelte Altcoin-Bewegung (SOL-Position wurde bereits um 01:08 mit +10,53% glattgestellt) ohne neuen eigenstaendigen Katalysator.",
+    "decision": "Keine Aenderung in diesem Lauf. BTC-Position (pos-0016) minimal im Minus (-0,49%) nach leichtem Ruecksetzer auf ca. 80.600 USD - Ausbruchsthese ueber 80.000 USD bleibt aber intakt, Position wird gehalten. META (pos-0014) unveraendert, da die Boerse am Wochenende geschlossen ist. Kein Neukauf: SOL/XRP-Staerke ist bereits bekannte, mehrfach gehandelte Bewegung ohne neuen Katalysator, keine ueberzeugende neue Gelegenheit.",
+    "reasoning": "07:08 MESZ, Samstagmorgen: Aktien/ETFs/Rohstoffe nicht handelbar. BTC seit dem letzten Lauf (06:08) leicht von ~80.957 auf ~80.600 USD gefallen (-0,44%), reine Randbewegung. SOL (+7,8%) und XRP (+5,4%) zeigen zwar Staerke, aber SOL-Position wurde bereits vor einer Stunde mit ueberzeugendem Gewinn (+10,53%) glattgestellt - ein erneuter Einstieg in dieselbe, bereits weit gelaufene Bewegung waere kein neues, eigenstaendiges Setup. Freies Kapital weiterhin reichlich vorhanden, aber keine ueberzeugende neue Gelegenheit, daher keine Trades.",
     "positionIds": [
       "pos-0014",
       "pos-0016"
     ],
-    "portfolioValueEnd": 1429.59,
+    "portfolioValueEnd": 1426.06,
     "updates": [
       {
         "time": "00:08",
@@ -5634,6 +5634,11 @@
         "time": "06:08",
         "note": "Keine Aenderung. BTC auf 80.957,40 USD (-0,05%) aktualisiert (leichte Randbewegung), META unveraendert (Wochenende). Kein Trade: keine neue ueberzeugende Gelegenheit.",
         "portfolioValue": 1429.59
+      },
+      {
+        "time": "07:08",
+        "note": "Keine Aenderung. BTC auf 80.600 USD (-0,44%) aktualisiert (leichter Ruecksetzer), META unveraendert (Wochenende). Kein Trade: SOL/XRP-Staerke bereits bekannte, mehrfach gehandelte Bewegung ohne neuen Katalysator.",
+        "portfolioValue": 1426.06
       }
     ]
   }
