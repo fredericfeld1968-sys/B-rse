@@ -5591,14 +5591,14 @@
   },
   {
     "date": "2026-09-19",
-    "marketOverview": "Samstagabend, 18:08 MESZ: Aktien/ETFs/Rohstoffe weiterhin wochenendbedingt geschlossen, nur Krypto handelbar. Bitcoin leicht fester bei ca. 81.396 USD (Sentiment Fear&Greed 71 Greed, Gesamtmarkt +5,2% auf 2,86 Bio. USD, ETH +6%). Die Altcoin-Rally (StarkNet, Gravity u.a.) läuft unvermindert weiter, bleibt aber eine bereits mehrfach gehandelte/abgelehnte Bewegung ohne neuen, unabhängig bestätigten Katalysator für ein neues Investment.",
-    "decision": "Keine Aenderung in diesem Lauf. BTC-Position (pos-0016) auf ca. 81.396 USD aktualisiert (+0,49% seit Kauf), META (pos-0014) auf Freitagsschlusskurs 668,00 USD aktualisiert (+3,42% seit Kauf, Boerse wochenendbedingt geschlossen). Kein Neukauf: keine Position an Stop-Loss- oder Gewinnschwelle, keine ueberzeugende neue Gelegenheit.",
-    "reasoning": "18:08 MESZ, Samstagabend: Aktien/ETFs/Rohstoffe weiterhin nicht handelbar (Wochenende), nur Krypto bewegbar. BTC seit dem letzten Lauf leicht fester bei ca. 81.396 USD (CoinGecko, +1,5% 24h) - weder Stop-Loss noch Gewinnschwelle (7-9%) erreicht, Position wird gehalten. META auf Freitagsschlusskurs 668,00 USD aktualisiert (+3,42% seit Kauf), deutlich unter der Gewinnmitnahme-Schwelle - wird gehalten, Boerse ohnehin geschlossen. Die weiterlaufende Altcoin-Rally (StarkNet +33,5%, Gravity +57,4%) ist bereits weit gelaufen und bietet keinen frischen Einstiegspunkt, sondern eher ein Chasing-Risiko. Freies Kapital weiterhin reichlich vorhanden (ca. 44.407 EUR), aber keine ueberzeugende neue Gelegenheit erkennbar, daher keine Trades.",
+    "marketOverview": "Samstagabend, 19:08 MESZ: Aktien/ETFs/Rohstoffe weiterhin wochenendbedingt geschlossen, nur Krypto handelbar. Bitcoin seitwaerts bei ca. 81.300 USD (Sentiment Fear&Greed 71 Greed, Gesamtmarkt ca. 2,86 Bio. USD, ETH +4%, SOL +7,8%, XRP +5,4%). Die Altcoin-Rally laeuft unvermindert weiter, bleibt aber dieselbe bereits mehrfach heute gehandelte/abgelehnte Bewegung ohne neuen, unabhaengig bestaetigten Katalysator.",
+    "decision": "Keine Aenderung in diesem Lauf. BTC-Position (pos-0016) auf ca. 81.300 USD aktualisiert (+0,37% seit Kauf), META (pos-0014) unveraendert bei Freitagsschlusskurs 668,00 USD (+3,42% seit Kauf, Boerse wochenendbedingt geschlossen). Kein Neukauf: keine Position an Stop-Loss- oder Gewinnschwelle, keine neue ueberzeugende Gelegenheit.",
+    "reasoning": "19:08 MESZ, Samstagabend: Aktien/ETFs/Rohstoffe weiterhin nicht handelbar (Wochenende), nur Krypto bewegbar. BTC seit dem letzten Lauf leicht schwaecher bei ca. 81.300 USD - weder Stop-Loss noch Gewinnschwelle (7-9%) erreicht, Position wird gehalten. META unveraendert bei 668,00 USD (+3,42% seit Kauf), deutlich unter der Gewinnmitnahme-Schwelle, Boerse ohnehin geschlossen. Die weiterlaufende Altcoin-Rally (ETH +4%, SOL +7,8%, XRP +5,4%) ist dieselbe bereits mehrfach heute gehandelte/abgelehnte Bewegung ohne frischen Katalysator - Chasing-Risiko statt neuer Chance. Freies Kapital weiterhin reichlich vorhanden (ca. 44.407 EUR), aber keine ueberzeugende neue Gelegenheit erkennbar, daher keine Trades.",
     "positionIds": [
       "pos-0014",
       "pos-0016"
     ],
-    "portfolioValueEnd": 1424.42,
+    "portfolioValueEnd": 1423.47,
     "updates": [
       {
         "time": "00:08",
@@ -5694,6 +5694,11 @@
         "time": "18:08",
         "note": "Keine Aenderung. BTC auf 81.396 USD (+0,49%) aktualisiert, META auf Freitagsschluss 668,00 USD (+3,42%) aktualisiert. Kein Trade: keine ueberzeugende neue Gelegenheit, Altcoin-Rally bereits weit gelaufen.",
         "portfolioValue": 1424.42
+      },
+      {
+        "time": "19:08",
+        "note": "Keine Aenderung. BTC auf 81.300 USD (-0,12%) aktualisiert, META unveraendert (Wochenende, +3,42%). Kein Trade: dieselbe bereits gehandelte Altcoin-Rally ohne frischen Katalysator, Boersen am Wochenende geschlossen.",
+        "portfolioValue": 1423.47
       }
     ]
   }
