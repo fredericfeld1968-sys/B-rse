@@ -5591,14 +5591,14 @@
   },
   {
     "date": "2026-09-19",
-    "marketOverview": "Samstagabend, 21:07 MESZ: Aktien/ETFs/Rohstoffe weiterhin wochenendbedingt geschlossen, nur Krypto handelbar. Bitcoin seitwaerts bei ca. 81.350 USD (Coinbase/Statista), Gesamt-Kryptomarkt +5,2% auf 2,86 Bio. USD (Fear&Greed 71), Layer-2/DeFi-Token (Starknet, Arbitrum) und einzelne Altcoins (Tezos +37%, Ondo +13,6% nach SEC Innovation Exemption) mit starken Ausschlaegen. Kein neuer, unabhaengig bestaetigter Katalysator seit dem letzten Lauf - dieselbe bereits bekannte SEC-Tokenisierungs-Rally treibt weiter.",
-    "decision": "Keine Aenderung in diesem Lauf. BTC-Position (pos-0016) auf ca. 81.350 USD aktualisiert (+0,43% seit Kauf), META (pos-0014) unveraendert bei Freitagsschlusskurs 668,00 USD (+3,42% seit Kauf, Boerse wochenendbedingt geschlossen). Kein Neukauf: keine Position an Stop-Loss- oder Gewinnschwelle, Tezos-Pump (+37%) und juengste Altcoin-Bewegungen bereits weit gelaufen (Chasing-Risiko), kein frischer eigenstaendiger Katalysator.",
-    "reasoning": "21:07 MESZ, Samstagabend: Aktien/ETFs/Rohstoffe weiterhin nicht handelbar (Wochenende), nur Krypto bewegbar. BTC seit dem letzten Lauf marginal fester bei ca. 81.350 USD - weder Stop-Loss noch Gewinnschwelle (7-9%) erreicht, Position wird gehalten. META unveraendert bei 668,00 USD (+3,42% seit Kauf), deutlich unter der Gewinnmitnahme-Schwelle, Boerse ohnehin geschlossen. Tezos (+37% in 24h) und weitere Layer-2/DeFi-Token sind bereits stark gelaufene Bewegungen ohne neuen eigenstaendigen Katalysator (dieselbe SEC-Tokenisierungs-/Innovation-Exemption-Story wie in frueheren Laeufen) - Chasing-Risiko statt neuer Chance. Freies Kapital weiterhin reichlich vorhanden (ca. 44.407 EUR), aber keine ueberzeugende neue Gelegenheit erkennbar, daher keine Trades.",
+    "marketOverview": "Samstagabend, 22:07 MESZ: Aktien/ETFs/Rohstoffe weiterhin wochenendbedingt geschlossen, nur Krypto handelbar. Bitcoin nahezu unveraendert bei ca. 81.400 USD (CoinGecko/Coinbase/CoinMarketCap), Gesamt-Kryptomarkt weiter bei ca. 2,8-2,86 Bio. USD (Fear&Greed 71-78), Altcoin-Season-Index auf Mehrmonatshoch (NEAR +50%, Tezos +48% in 7 Tagen). Kein neuer, eigenstaendiger Katalysator seit dem letzten Lauf (CFTC-Rulemaking-Paket ans White House bereits bekannt, Sicherheitsvorfaelle bei Haruko und nordkoreanischen Hackern ohne direkten Bezug zu gehaltenen Positionen).",
+    "decision": "Keine Aenderung in diesem Lauf. BTC-Position (pos-0016) auf ca. 81.400 USD aktualisiert (+0,49% seit Kauf), META (pos-0014) unveraendert bei Freitagsschlusskurs 668,00 USD (+3,42% seit Kauf, Boerse wochenendbedingt geschlossen). Kein Neukauf: keine Position an Stop-Loss- oder Gewinnschwelle, Altcoin-Rally bereits weit gelaufen (Chasing-Risiko), kein frischer eigenstaendiger Katalysator.",
+    "reasoning": "22:07 MESZ, Samstagabend: Aktien/ETFs/Rohstoffe weiterhin nicht handelbar (Wochenende), nur Krypto bewegbar. BTC seit dem letzten Lauf praktisch unveraendert bei ca. 81.400 USD - weder Stop-Loss noch Gewinnschwelle (7-9%) erreicht, Position wird gehalten. META unveraendert bei 668,00 USD (+3,42% seit Kauf), deutlich unter der Gewinnmitnahme-Schwelle, Boerse ohnehin geschlossen. Die fortgesetzte Altcoin-/Layer-2-Rally (NEAR, Tezos, Zcash) ist dieselbe bereits mehrfach gehandelte SEC-Tokenisierungs-Story ohne neuen eigenstaendigen Katalysator - Chasing-Risiko statt neuer Chance. Sicherheitsvorfaelle (Haruko-Hack, nordkoreanische Hacker-Kampagne) sind negative Meldungen ohne direkten, handelbaren Bezug zu gehaltenen Positionen. Freies Kapital weiterhin reichlich vorhanden (ca. 44.407 EUR), aber keine ueberzeugende neue Gelegenheit erkennbar, daher keine Trades.",
     "positionIds": [
       "pos-0014",
       "pos-0016"
     ],
-    "portfolioValueEnd": 1423.97,
+    "portfolioValueEnd": 1424.46,
     "updates": [
       {
         "time": "00:08",
@@ -5709,6 +5709,11 @@
         "time": "21:07",
         "note": "Keine Aenderung. BTC auf 81.350 USD (+0,43%) aktualisiert, META unveraendert (Wochenende, +3,42%). Kein Trade: Tezos/Altcoin-Rally bereits weit gelaufen (Chasing-Risiko), kein frischer Katalysator, Boersen am Wochenende geschlossen.",
         "portfolioValue": 1423.97
+      },
+      {
+        "time": "22:07",
+        "note": "Keine Aenderung. BTC auf 81.400 USD (+0,49% seit Kauf) aktualisiert, META unveraendert (Wochenende, +3,42%). Kein Trade: dieselbe bereits gehandelte Altcoin-Rally (NEAR, Tezos, Zcash) ohne frischen Katalysator; Haruko-Hack und Nordkorea-Hacker-Kampagne ohne direkten Bezug zu gehaltenen Positionen.",
+        "portfolioValue": 1424.46
       }
     ]
   }
