@@ -5591,14 +5591,14 @@
   },
   {
     "date": "2026-09-19",
-    "marketOverview": "Samstagvormittag, 11:08 MESZ: Aktien/ETFs/Rohstoffe weiterhin wochenendbedingt geschlossen, nur Krypto handelbar. Bitcoin bewegt sich weiterhin seitwaerts um 80.800-81.300 USD (CoinDesk ~80.861, CoinGecko ~80.846, CoinMarketCap ~81.295 USD), keine eigenstaendige neue Bewegung. XRP (+8-9%), ETH (+6%) und SOL (+7%) setzen die bereits bekannte, mehrfach gehandelte Krypto-Erleichterungsrally fort (Fed-Zinsschritt vom 16.09., SEC-Innovation-Exemption, Kurzschluss-Squeeze); bei XRP kommt als zusaetzlicher Fundamentalkatalysator die RippleX-Integration des Machine-Payments-Protocol (mit Stripe/Tempo) hinzu. Da diese Bewegung dieselbe, bereits heute frueh via SOL-Position gehandelte Rally fortsetzt und XRP erst vor drei Tagen per Stop-Loss glattgestellt wurde, kein eigenstaendig neuer, ueberzeugender Katalysator.",
-    "decision": "Keine Aenderung in diesem Lauf. BTC-Position (pos-0016) auf ca. 80.861 USD aktualisiert (-0,17% seit Kauf), META (pos-0014) unveraendert (Boersen am Wochenende geschlossen, weiterhin +3,07% seit Kauf). Kein Neukauf: XRP/ETH/SOL-Staerke ist Fortsetzung derselben, bereits heute gehandelten Krypto-Rally (SOL-Gewinnmitnahme um 01:08), kein frisches, eigenstaendiges Setup.",
-    "reasoning": "10:08 MESZ, Samstagvormittag: Aktien/ETFs/Rohstoffe weiterhin nicht handelbar (Wochenende). BTC seit dem letzten Lauf (09:08, 80.850 USD) praktisch unveraendert bei ca. 80.834 USD (-0,2% seit Kauf) - kein Stop-Loss erreicht, wird gehalten. META notiert weiterhin zum letzten verfuegbaren Kurs (665,75 USD, Freitagsschluss, +3,07% seit Kauf), deutlich unter der etablierten Gewinnmitnahme-Schwelle (7-9%) - wird gehalten, Boerse ohnehin geschlossen. Zcash (ZEC) zeigt zwar weiterhin starkes Momentum (+37% in der letzten Woche, +5,5% heute), doch die Bewegung ist bereits seit dem 25.08. (Grayscale-ETF-Filing) weit fortgeschritten und stark ueberhitzt - ein Einstieg jetzt waere ein verspaeteter Trendfolge-Kauf ohne frischen Katalysator, kein ueberzeugendes neues Setup passend zur bisherigen Strategie (Kauf bei bestaetigtem frischen Ausbruch, nicht nach wochenlanger Rally). Freies Kapital weiterhin reichlich vorhanden, aber keine ueberzeugende neue Gelegenheit erkennbar, daher keine Trades.",
+    "marketOverview": "Samstagmittag, 12:08 MESZ: Aktien/ETFs/Rohstoffe weiterhin wochenendbedingt geschlossen, nur Krypto handelbar. Bitcoin bewegt sich weiterhin seitwaerts um ca. 80.850 USD (CoinDesk ~80.861, CoinGecko ~80.846 USD), keine neue eigenstaendige Bewegung. XRP (+5,4%), ETH (+4%) und SOL (+9% auf ca. 110,66 USD) setzen die bereits mehrfach gehandelte Krypto-Erleichterungsrally fort (CFTC schickt neue Kryptomarkt-Regeln ans Weisse Haus nach gescheitertem CLARITY-Act-Votum, SEC oeffnet Weg fuer tokenisierte Aktien, breite Altcoin-Rally u.a. UNI +24%, ARB +10%). Da dieselbe, bereits heute frueh gehandelte Rally (SOL-Gewinnmitnahme um 01:08) ohne frischen eigenstaendigen Katalysator weiterlaeuft, kein neues Setup.",
+    "decision": "Keine Aenderung in diesem Lauf. BTC-Position (pos-0016) auf ca. 80.850 USD aktualisiert (-0,19% seit Kauf), META (pos-0014) unveraendert (Boersen am Wochenende geschlossen, weiterhin +3,07% seit Kauf). Kein Neukauf: Altcoin-Staerke (XRP/ETH/SOL) ist Fortsetzung derselben, bereits heute gehandelten Rally, kein frisches, eigenstaendiges Setup.",
+    "reasoning": "12:08 MESZ, Samstagmittag: Aktien/ETFs/Rohstoffe weiterhin nicht handelbar (Wochenende). BTC seit dem letzten Lauf (11:08, 80.861 USD) praktisch unveraendert bei ca. 80.850 USD (-0,19% seit Kauf) - kein Stop-Loss erreicht, wird gehalten. META notiert weiterhin zum letzten verfuegbaren Kurs (665,75 USD, Freitagsschluss, +3,07% seit Kauf), deutlich unter der etablierten Gewinnmitnahme-Schwelle (7-9%) - wird gehalten, Boerse ohnehin geschlossen. SOL (+9% auf 110,66 USD), XRP (+5,4%) und ETH (+4%) setzen zwar die Altcoin-Rally fort, doch dieselbe Bewegung wurde bereits um 01:08 MESZ per SOL-Gewinnmitnahme gehandelt (SEC-Innovation-Exemption-These) - ein erneuter Einstieg jetzt waere verspaetete Trendfolge ohne frischen Katalysator. Freies Kapital weiterhin reichlich vorhanden (ca. 44.400 EUR), aber keine ueberzeugende neue Gelegenheit erkennbar, daher keine Trades.",
     "positionIds": [
       "pos-0014",
       "pos-0016"
     ],
-    "portfolioValueEnd": 1417.05,
+    "portfolioValueEnd": 1416.94,
     "updates": [
       {
         "time": "00:08",
@@ -5659,6 +5659,11 @@
         "time": "11:08",
         "note": "Keine Aenderung. BTC auf 80.861 USD (-0,17%) aktualisiert, META unveraendert (Wochenende). Kein Trade: XRP/ETH/SOL-Staerke ist Fortsetzung derselben, bereits heute frueh gehandelten Rally, kein frischer Katalysator.",
         "portfolioValue": 1417.05
+      },
+      {
+        "time": "12:08",
+        "note": "Keine Aenderung. BTC auf 80.850 USD (-0,19%) aktualisiert, META unveraendert (Wochenende, weiterhin +3,07%). Altcoin-Rally (SOL/XRP/ETH) ist Fortsetzung der bereits gehandelten Bewegung, kein frischer Katalysator.",
+        "portfolioValue": 1416.94
       }
     ]
   }
