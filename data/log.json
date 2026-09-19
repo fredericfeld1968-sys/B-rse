@@ -5591,14 +5591,14 @@
   },
   {
     "date": "2026-09-19",
-    "marketOverview": "Samstagmorgen, 08:08 MESZ: Aktien/ETFs/Rohstoffe weiterhin wochenendbedingt geschlossen, nur Krypto handelbar. Bitcoin erholt sich leicht auf ca. 81.010 USD (+4,6% in 24h laut CoinGecko), womit die Marke von 81.000 USD wieder erreicht ist. Der breite Krypto-Markt bleibt in Kauflaune: Solana notiert bei ca. 111,87 USD (+6,2% 24h, Sieben-Monats-Hoch) nach dem Blockzeit-Cut auf 250ms und der SEC-Innovation-Exemption; Layer-2-/DeFi-Token wie Jupiter, Raydium und Meteora legen laut CoinDesk zusaetzlich 15-20% zu. Da die SOL-Position bereits vor Stunden mit +10,53% glattgestellt wurde und die DeFi-Token-Bewegung eine bereits weit gelaufene Folgebewegung derselben Nachricht ohne eigenstaendigen neuen Katalysator ist, wird kein Neueinstieg vorgenommen.",
-    "decision": "Keine Aenderung in diesem Lauf. BTC-Position (pos-0016) auf 81.010 USD aktualisiert und damit nahezu kostendeckend (+0,01%) - Ausbruchsthese ueber 80.000 USD bleibt intakt, Position wird gehalten. META (pos-0014) unveraendert, da die Boerse am Wochenende geschlossen ist. Kein Neukauf: Die DeFi-/Altcoin-Staerke (JUP, RAY, MET) ist eine bereits weit gelaufene Folgebewegung derselben SEC-Nachricht, kein eigenstaendiges neues Setup.",
-    "reasoning": "08:08 MESZ, Samstagmorgen: Aktien/ETFs/Rohstoffe nicht handelbar. BTC seit dem letzten Lauf (07:08) von ca. 80.600 auf 81.010 USD gestiegen (+0,51%), Position damit wieder nahe Einstand. Kein Stop-Loss und keine Gewinnschwelle erreicht, daher gehalten. Solana und weitere DeFi-Token (Jupiter, Raydium, Meteora) legen zwar kraeftig zu, aber dies ist dieselbe bereits gehandelte und mit Gewinn geschlossene SEC-Innovation-Exemption-Bewegung (SOL-Position wurde bereits um 01:08 mit +10,53% verkauft) - ein Einstieg jetzt waere verspaetetes Aufspringen auf eine bereits ueberhitzte Bewegung, kein neues eigenstaendiges Setup. Freies Kapital weiterhin reichlich vorhanden, aber keine ueberzeugende neue Gelegenheit, daher keine Trades.",
+    "marketOverview": "Samstagvormittag, 09:08 MESZ: Aktien/ETFs/Rohstoffe weiterhin wochenendbedingt geschlossen, nur Krypto handelbar. Bitcoin pendelt weiter um die 80.800-81.000 USD-Marke (Quellen leicht uneinheitlich zwischen 76.400 und 81.000 USD je nach Snapshot-Zeitpunkt, CoinGecko/CoinDesk zuletzt ~80.850 USD), Markt insgesamt stabil nach dem verpuffenden Fed-Zinsschritt und dem gescheiterten CLARITY-Act-Votum vom 16.09. - Layer-2-/DeFi-Token (Starknet, Arbitrum, Uniswap, Pendle) fuehren weiterhin eine bereits laufende Altcoin-Rally an, ohne neuen eigenstaendigen Katalysator seit dem letzten Lauf. META-Kurs (Freitagsschluss) mit 665,75 USD niedriger als der zuvor erfasste Intraday-Stand von 678,23 USD erfasst.",
+    "decision": "Keine Aenderung in diesem Lauf. BTC-Position (pos-0016) auf 80.850 USD aktualisiert (-0,19% seit Kauf), META (pos-0014) auf 665,75 USD (Freitagsschluss, +3,07% seit Kauf) aktualisiert - beide Positionen bleiben unter den etablierten Schwellen und werden gehalten. Kein Neukauf: keine neue, eigenstaendig ueberzeugende Gelegenheit seit dem 08:08-Lauf, DeFi-/Altcoin-Staerke bleibt eine bereits gehandelte Folgebewegung.",
+    "reasoning": "09:08 MESZ, Samstagvormittag: Aktien/ETFs/Rohstoffe weiterhin nicht handelbar (Wochenende). BTC seit dem letzten Lauf (08:08, 81.010 USD) leicht auf ca. 80.850 USD zurueckgegangen (-0,2%), Position damit nahezu kostendeckend (-0,19%) - kein Stop-Loss erreicht, wird gehalten. META notiert mit dem aktuellsten verfuegbaren Kurs (665,75 USD, Freitagsschluss) bei +3,07% seit Kauf, ebenfalls weit unter der etablierten Gewinnmitnahme-Schwelle (7-9%) - wird gehalten, Boerse ohnehin geschlossen. Freies Kapital weiterhin reichlich vorhanden, aber keine neue ueberzeugende Gelegenheit erkennbar (Krypto-Altcoin-Rally ist Folgebewegung bereits gehandelter News), daher keine Trades.",
     "positionIds": [
       "pos-0014",
       "pos-0016"
     ],
-    "portfolioValueEnd": 1430.11,
+    "portfolioValueEnd": 1416.94,
     "updates": [
       {
         "time": "00:08",
@@ -5644,6 +5644,11 @@
         "time": "08:08",
         "note": "Keine Aenderung. BTC auf 81.010 USD (+0,51% seit letztem Lauf) aktualisiert, Position fast kostendeckend. META unveraendert (Wochenende). Kein Trade: DeFi-/Altcoin-Rally (JUP, RAY, MET) ist Folgebewegung derselben bereits gehandelten SEC-News, kein neues Setup.",
         "portfolioValue": 1430.11
+      },
+      {
+        "time": "09:08",
+        "note": "Keine Aenderung. BTC auf 80.850 USD (-0,19%) aktualisiert, META auf 665,75 USD (Freitagsschluss, +3,07%) aktualisiert. Kein Trade: keine neue ueberzeugende Gelegenheit, Boersen (Aktien/ETFs/Rohstoffe) wochenendbedingt geschlossen.",
+        "portfolioValue": 1416.94
       }
     ]
   }
