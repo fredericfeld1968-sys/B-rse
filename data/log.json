@@ -5591,15 +5591,14 @@
   },
   {
     "date": "2026-09-19",
-    "marketOverview": "Breite Krypto-Erleichterungsrally in der Nacht auf Samstag: Bitcoin klettert auf ca. 81.100 USD (+6% in 24h), Solana schiesst auf ca. 113 USD (+11,5%), Ethereum (+7,3%) und XRP (+8,9%) ziehen mit. Ausloeser ist die neue SEC-'Innovation Exemption' fuer tokenisierte US-Aktien (veroeffentlicht am 17.09., zwei Tage nach dem gescheiterten CLARITY-Act-Votum im US-Senat, 49:50), die als regulatorischer Ersatzkatalysator wirkt. Aktien, ETFs und Rohstoffe sind zum Berichtszeitpunkt (Samstagnacht) ausserboerslich, keine neuen Kurse verfuegbar.",
-    "decision": "Solana-Position (pos-0012) mit +52,66 EUR (+10,53%) Gewinn glattgestellt - ueber der etablierten Zielspanne (7-9%) nach ueberhitztem 24h-Anstieg. BTC (pos-0016, +0,12%) unveraendert gehalten, META (pos-0014) am Wochenende unveraendert. Kein Neukauf: die breite BTC/ETH/XRP-Rally ist ebenfalls bereits weit gelaufen, kein frisches, eigenstaendig ueberzeugendes Setup fuer einen Neueinstieg. Tagesbudget wurde bereits im 00:08-Lauf gutgeschrieben (totalFreshCapitalEur unveraendert bei 46.000 EUR).",
-    "reasoning": "Samstagnacht 01:08 MESZ: Aktien/ETFs/Rohstoffe weiterhin nicht handelbar (Wochenende), nur Krypto bewegt. Solana uebertrifft mit +10,53% seit Kauf klar die etablierte Gewinn-Zielzone (7-9%, analog AMD, SpaceX, Palantir, Brent, Bitcoin) und ist nach einem zweistelligen 24h-Plus kurzfristig ueberhitzt - Gewinnmitnahme passend zum spekulativen Kurzfrist-Profil. BTC (+0,12%) liegt nahe am Einstand, weder Gewinnschwelle noch Stop-Loss (~-6,5 bis -7,5%) erreicht, Ausbruchsthese ueber 80.000 USD bleibt intakt - Position wird gehalten. Fuer einen Neueinstieg in BTC/ETH/XRP ist die aktuelle Rally-Bewegung (bereits +6% bis +8,9% in 24h) zu weit gelaufen, um noch als ueberzeugender frischer Einstiegspunkt zu gelten; kein Trade ausserhalb der SOL-Gewinnmitnahme.",
+    "marketOverview": "Krypto bleibt in der Nacht auf Samstag der einzige handelbare Markt (Aktien/ETFs/Rohstoffe wochenendbedingt geschlossen). Bitcoin notiert stabil bei rund 80.800-81.300 USD (mehrere Quellen: CoinMarketCap, CoinDesk, CoinGecko, TradingView), kaum veraendert zum Vorlauf. Solana zeigt nach dem starken Ausbruch auf ueber 113 USD nun eine leichte Konsolidierung mit stark schwankenden Kursangaben zwischen ca. 105 und 113 USD je nach Boerse - passend zur ueberhitzten Lage, die bereits zur SOL-Gewinnmitnahme im letzten Lauf gefuehrt hat. Der CLARITY-Act-Ausfall im Senat vom 15.09. wirkt weiterhin nach, wurde aber durch die neue SEC-'Innovation Exemption' vom 17.09. teils kompensiert.",
+    "decision": "Keine Aenderung in diesem Lauf. BTC-Position (pos-0016) minimal im Minus (-0,19%) und damit weit von der Stop-Loss-Schwelle entfernt - Ausbruchsthese ueber 80.000 USD bleibt intakt, Position wird gehalten. META (pos-0014) unveraendert, da Nasdaq am Wochenende geschlossen ist. Kein Neukauf: nach der SOL-Gewinnmitnahme vor einer Stunde gibt es keine neue, eigenstaendig ueberzeugende Gelegenheit - BTC/SOL-Rally ist bereits weit gelaufen und SOL zeigt erste Anzeichen einer Konsolidierung.",
+    "reasoning": "02:07 MESZ, Samstagnacht: Aktien/ETFs/Rohstoffe nicht handelbar. BTC-Kurs seit dem letzten Lauf (01:08) nahezu unveraendert (~81.000 USD), kein neuer Katalysator. Ein erneuter Einstieg in SOL nach der gerade erst realisierten Gewinnmitnahme waere prozyklisch und wuerde der eigenen ueberhitzt-These widersprechen. Freies Kapital ist reichlich vorhanden, aber es gilt: nur bei wirklich ueberzeugender Gelegenheit handeln - diese liegt aktuell nicht vor.",
     "positionIds": [
-      "pos-0012",
       "pos-0014",
       "pos-0016"
     ],
-    "portfolioValueEnd": 1430.94,
+    "portfolioValueEnd": 1428.53,
     "updates": [
       {
         "time": "00:08",
@@ -5610,6 +5609,11 @@
         "time": "01:08",
         "note": "Verkauf SOL: +52,66 EUR (+10,53%) Gewinnmitnahme nach ueberhitzter Nacht-Rally (Ausloeser: SEC 'Innovation Exemption'). BTC auf 81.094 USD (+0,12%) aktualisiert und gehalten, META unveraendert (Wochenende). Kein Neukauf.",
         "portfolioValue": 1430.94
+      },
+      {
+        "time": "02:07",
+        "note": "Keine Aenderung. BTC auf 80.850 USD (-0,19%) aktualisiert, META unveraendert (Wochenende). Kein Trade: keine ueberzeugende neue Gelegenheit nach der SOL-Gewinnmitnahme vor einer Stunde.",
+        "portfolioValue": 1428.53
       }
     ]
   }
