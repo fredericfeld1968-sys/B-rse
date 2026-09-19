@@ -5591,14 +5591,14 @@
   },
   {
     "date": "2026-09-19",
-    "marketOverview": "Samstagnacht, 03:08 MESZ: Aktien/ETFs/Rohstoffe weiterhin wochenendbedingt geschlossen, nur Krypto handelbar. Bitcoin bewegt sich seitwaerts um 80.850-81.170 USD (CoinDesk, Forbes, diverse Ticker), keine klare neue Richtung. Solana konsolidiert nach dem starken Nacht-Ausbruch auf ueber 113 USD weiter bei stark schwankenden Kursangaben (105-113 USD je nach Quelle). Keine neuen, unabhaengig bestaetigten Katalysatoren seit dem letzten Lauf - die kursierenden Altcoin-Meldungen (Uniswap, VeChain) sind bereits mehrere Tage alt und kein frischer Impuls.",
-    "decision": "Keine Aenderung in diesem Lauf. BTC-Position (pos-0016) minimal im Plus (+0,12%) nach leichtem Kursanstieg auf ca. 81.100 USD - Ausbruchsthese ueber 80.000 USD bleibt intakt, Position wird gehalten. META (pos-0014) unveraendert, da Nasdaq am Wochenende geschlossen ist. Kein Neukauf: keine neue, eigenstaendig ueberzeugende Gelegenheit erkennbar - vorhandene Marktmeldungen sind entweder bereits eingepreist oder zu alt/unbestaetigt fuer einen frischen spekulativen Einstieg.",
-    "reasoning": "03:08 MESZ, Samstagnacht: Aktien/ETFs/Rohstoffe nicht handelbar. BTC-Kurs seit dem letzten Lauf (02:07) leicht gestiegen (~80.850 -> ~81.100 USD), kein neuer eigenstaendiger Katalysator, nur allgemeines Marktrauschen. Ein erneuter Einstieg in SOL nach der vor zwei Stunden realisierten Gewinnmitnahme waere weiterhin prozyklisch. Freies Kapital ist reichlich vorhanden (~44.400 EUR), aber es gilt: nur bei wirklich ueberzeugender Gelegenheit handeln - diese liegt aktuell nicht vor, daher keine Trades.",
+    "marketOverview": "Samstagnacht/frueher Morgen, 04:07 MESZ: Aktien/ETFs/Rohstoffe weiterhin wochenendbedingt geschlossen, nur Krypto handelbar. Breite Krypto-Erleichterungsrally haelt an (BTC ca. 81.166 USD, +6% 24h; ETH +7,68%; XRP 1,40 USD, +8,43%; SOL 113,82 USD, +12,84%), Markt schuettelt gescheiterten CLARITY-Act und BoJ-Zinserhoehung ab (CoinDesk, CoinGabbar). SOL und XRP sind nach der bereits laufenden Rally und den in den letzten Stunden realisierten Trades (SOL-Gewinnmitnahme um 01:08, XRP-Stop-Loss am 16.09.) kein ueberzeugender Wiedereinstieg mehr - beide liefen bereits deutlich weiter.",
+    "decision": "Keine Aenderung in diesem Lauf. BTC-Position (pos-0016) minimal im Plus (+0,2%) nach leichtem Kursanstieg auf ca. 81.166 USD - Ausbruchsthese ueber 80.000 USD bleibt intakt, Position wird gehalten. META (pos-0014) unveraendert, da Nasdaq am Wochenende geschlossen ist. Kein Neukauf: die laufende Altcoin-Rally (SOL/XRP) ist bereits weit gelaufen und ein Wiedereinstieg kurz nach eigener Gewinnmitnahme/Stop-Loss waere prozyklisch, daher keine wirklich ueberzeugende neue Gelegenheit.",
+    "reasoning": "04:07 MESZ, Samstagnacht: Aktien/ETFs/Rohstoffe nicht handelbar. BTC-Kurs seit dem letzten Lauf (03:08) minimal gestiegen (~81.100 -> ~81.166 USD), kein neuer eigenstaendiger Katalysator. Breite Krypto-Rally (BTC/ETH/XRP/SOL) laeuft bereits seit Stunden und ist grossteils in den vorherigen Laeufen bereits eingepreist bzw. gehandelt worden (SOL-Gewinnmitnahme 01:08, XRP-Stop-Loss 16.09.). Freies Kapital reichlich vorhanden (~44.400 EUR), aber kein neues, eigenstaendig ueberzeugendes Setup erkennbar, daher keine Trades.",
     "positionIds": [
       "pos-0014",
       "pos-0016"
     ],
-    "portfolioValueEnd": 1431.0,
+    "portfolioValueEnd": 1431.65,
     "updates": [
       {
         "time": "00:08",
@@ -5619,6 +5619,11 @@
         "time": "03:08",
         "note": "Keine Aenderung. BTC auf 81.100 USD (+0,12%) aktualisiert, META unveraendert (Wochenende). Kein Trade: keine neue ueberzeugende Gelegenheit.",
         "portfolioValue": 1431.0
+      },
+      {
+        "time": "04:07",
+        "note": "Keine Aenderung. BTC auf 81.165,92 USD (+0,2%) aktualisiert, META unveraendert (Wochenende). Breite Krypto-Rally (SOL/XRP) bereits weit gelaufen, kein Neukauf.",
+        "portfolioValue": 1431.65
       }
     ]
   }
