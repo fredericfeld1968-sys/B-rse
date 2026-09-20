@@ -5724,14 +5724,14 @@
   },
   {
     "date": "2026-09-20",
-    "marketOverview": "Sonntag, 11:08 MESZ: Boersen/ETFs/Rohstoffe weiterhin wochenendbedingt geschlossen, nur Krypto handelbar. Bitcoin seitwaerts bei ca. 81.280 USD (+0,35% seit Kauf, Fear&Greed-Index 71), Solana konsolidiert nach dem Ausbruch der letzten Tage in einer breiten Spanne zwischen ca. 100 und 114 USD je nach Boerse (Quellen uneinheitlich), Ethereum ca. 2.622-2.633 USD. Keine neuen eigenstaendigen Katalysatoren seit dem 10:08-Lauf: CLARITY-Act-Rueckschlag und SEC-Innovation-Exemption bleiben bereits eingepreiste Themen; Deutsche-Bank-Custody-Plaene und CFTC-Einreichungen (Coinbase Derivatives, Kalshi) sind laengerfristige Strukturthemen ohne kurzfristigen Preis-Trigger.",
-    "decision": "Kein neuer Trade um 11:08 MESZ. BTC (pos-0016) leicht auf ca. 81.280 USD (+0,35% seit Kauf) aktualisiert, META (pos-0014) bleibt wochenendbedingt unveraendert beim Freitagsschlusskurs 668,00 USD (+3,42%). Keine ueberzeugende neue Gelegenheit erkennbar.",
-    "reasoning": "11:08 MESZ, Sonntagvormittag: Nur Krypto handelbar. BTC bewegt sich seit dem letzten Lauf (10:08) nur marginal (ca. 81.260 -> 81.280 USD), weiterhin klar unterhalb der etablierten Gewinnmitnahme-Zielspanne (7-9%) und weit von einer Stop-Loss-Schwelle entfernt. META ist ohnehin nicht handelbar (Wochenende). Solana-Kurse werden je nach Quelle stark uneinheitlich gemeldet (100-114 USD) ohne klaren, frisch bestaetigten Ausbruchskatalysator seit dem letzten Lauf - fuer einen spekulativen Neukauf reicht das nicht als ueberzeugende, verlaessliche Gelegenheit. Freies Kapital liegt bei ca. 45.406,91 EUR und bleibt fuer eine zukuenftige ueberzeugende Chance verfuegbar. Daher keine Aktion in diesem Lauf.",
+    "marketOverview": "Sonntag, 12:08 MESZ: Boersen/ETFs/Rohstoffe weiterhin wochenendbedingt geschlossen, nur Krypto handelbar. Bitcoin nahezu unveraendert bei ca. 81.277 USD (+0,34% seit Kauf), Solana hat sich von der Freitag-Rally auf ca. 108,56 USD zurueckgezogen (-2,9%), Ethereum bei ca. 2.580 USD (-1,8%) und XRP bei ca. 1,38 USD (-2,8%) - insgesamt leicht risikoaverse Stimmung ohne neuen eigenstaendigen Katalysator seit dem letzten Lauf. Naechster Makro-Trigger bleibt das Ende der US-Haushaltsfinanzierung am 30.09.",
+    "decision": "Kein neuer Trade um 12:08 MESZ. BTC (pos-0016) auf ca. 81.277 USD (+0,34% seit Kauf) aktualisiert, META (pos-0014) bleibt wochenendbedingt unveraendert beim Freitagsschlusskurs 668,00 USD (+3,42%). Keine ueberzeugende neue Gelegenheit erkennbar.",
+    "reasoning": "12:08 MESZ, Sonntagmittag: Nur Krypto handelbar. BTC bewegt sich seit dem letzten Lauf (11:08) nur marginal (ca. 81.280 -> 81.277 USD), weiterhin klar unterhalb der etablierten Gewinnmitnahme-Zielspanne (7-9%) und weit von einer Stop-Loss-Schwelle entfernt. Solana, Ethereum und XRP zeigen leichte Ruecksetzer ohne neuen fundamentalen Ausloeser - kein bestaetigter Ausbruch, der einen spekulativen Neukauf rechtfertigen wuerde. META ist ohnehin nicht handelbar (Wochenende). Freies Kapital liegt bei ca. 45.406,91 EUR und bleibt fuer eine zukuenftige ueberzeugende Chance verfuegbar. Daher keine Aktion in diesem Lauf.",
     "positionIds": [
       "pos-0014",
       "pos-0016"
     ],
-    "portfolioValueEnd": 1423.28,
+    "portfolioValueEnd": 1423.25,
     "updates": [
       {
         "time": "00:08",
@@ -5792,6 +5792,11 @@
         "time": "11:08",
         "note": "Kein Trade: BTC leicht auf ca. 81.280 USD aktualisiert (+0,35%), META unveraendert (Wochenende, +3,42%). Solana-Kurse uneinheitlich (100-114 USD je nach Boerse), kein neuer bestaetigter Katalysator.",
         "portfolioValue": 1423.28
+      },
+      {
+        "time": "12:08",
+        "note": "Kein Trade: BTC nahezu unveraendert auf ca. 81.277 USD aktualisiert (+0,34%), META unveraendert (Wochenende, +3,42%). Kein neuer Katalysator seit dem letzten Lauf.",
+        "portfolioValue": 1423.25
       }
     ]
   }
