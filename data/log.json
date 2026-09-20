@@ -5724,14 +5724,14 @@
   },
   {
     "date": "2026-09-20",
-    "marketOverview": "Sonntag, 01:08 MESZ: Aktien/ETFs/Rohstoffe weiterhin wochenendbedingt geschlossen, nur Krypto handelbar. Bitcoin bewegt sich seitwaerts um ca. 81.350-81.400 USD (CoinDesk 81.354, CoinGecko 81.396, Coinbase 81.394), 24h-Aenderung nur +0,18%, kein neuer Katalysator seit dem letzten Lauf. Solana haelt sich nach dem Block-Zeit-Upgrade (250ms) und der SEC-Innovation-Exemption weiter oberhalb von 105 USD. Der gescheiterte CLARITY-Act-Senatsvotum bleibt Hintergrundthema, die CFTC hat unterdessen ein neues Regelwerkspaket zur Pruefung ans Weisse Haus geschickt - bislang ohne akute Marktreaktion.",
-    "decision": "Kein neuer Trade um 01:08 MESZ. BTC (pos-0016) auf ca. 81.400 USD (+0,49% seit Kauf) leicht nach oben aktualisiert, META (pos-0014) bleibt wochenendbedingt unveraendert beim Freitagsschlusskurs 668,00 USD (+3,42%). Keine Position erreicht Stop-Loss- oder Gewinnschwelle, kein neuer eigenstaendiger Katalysator seit dem 00:08-Lauf.",
-    "reasoning": "01:08 MESZ, Sonntagfrueh: Nur Krypto handelbar. BTC bewegt sich seit dem letzten Lauf (00:08) nur marginal (81.450 -> ca. 81.400 USD, +0,18% in 24h laut CoinDesk), weiterhin klar unterhalb der etablierten Gewinnmitnahme-Zielspanne (7-9%) und weit von einer Stop-Loss-Schwelle entfernt. META ist ohnehin nicht handelbar (Wochenende). Keine neuen, mehrfach unabhaengig bestaetigten Katalysatoren mit vergleichbarer Ueberzeugungskraft wie bei frueheren Trades erkennbar (Linera-Shutdown und schrumpfende Stablecoin-Angebote auf einzelnen L1-Chains sind kein handelbares Signal fuer die gehaltenen Positionen). Freies Kapital reichlich vorhanden, aber keine ueberzeugende neue Gelegenheit, daher kein Trade.",
+    "marketOverview": "Sonntag, 02:07 MESZ: Aktien/ETFs/Rohstoffe weiterhin wochenendbedingt geschlossen, nur Krypto handelbar. Bitcoin konsolidiert seitwaerts bei ca. 81.245-81.468 USD (CoinMarketCap, CoinGecko, CoinDesk), 24h-Performance weiterhin deutlich positiv (+0,7% bis +6% je nach Referenzzeitpunkt), aber seit dem letzten Lauf (01:08) kein neuer eigenstaendiger Kurskatalysator - der bereits gehandelte Ausbruch ueber 80.000 USD und der \"Golden Cross\" bleiben Hintergrundthema. Solana haelt sich weiter oberhalb von 105 USD, CLARITY-Act-Scheitern und CFTC-Regelwerksvorlage vom 17.09. bleiben ohne akute neue Marktreaktion.",
+    "decision": "Kein neuer Trade um 02:07 MESZ. BTC (pos-0016) leicht auf ca. 81.300 USD (+0,37% seit Kauf) aktualisiert, META (pos-0014) bleibt wochenendbedingt unveraendert beim Freitagsschlusskurs 668,00 USD (+3,42%). Keine Position erreicht Stop-Loss- oder Gewinnschwelle, kein neuer eigenstaendiger Katalysator seit dem 01:08-Lauf.",
+    "reasoning": "02:07 MESZ, Sonntagfrueh: Nur Krypto handelbar. BTC bewegt sich seit dem letzten Lauf (01:08) nur marginal (ca. 81.400 -> 81.300 USD), weiterhin klar unterhalb der etablierten Gewinnmitnahme-Zielspanne (7-9%) und weit von einer Stop-Loss-Schwelle entfernt. META ist ohnehin nicht handelbar (Wochenende). Keine neuen, mehrfach unabhaengig bestaetigten Katalysatoren mit vergleichbarer Ueberzeugungskraft wie bei frueheren Trades erkennbar. Freies Kapital reichlich vorhanden, aber keine ueberzeugende neue Gelegenheit, daher kein Trade.",
     "positionIds": [
       "pos-0014",
       "pos-0016"
     ],
-    "portfolioValueEnd": 1424.46,
+    "portfolioValueEnd": 1424.21,
     "updates": [
       {
         "time": "00:08",
@@ -5742,6 +5742,11 @@
         "time": "01:08",
         "note": "Kein Trade: BTC leicht auf ca. 81.400 USD aktualisiert (+0,49%), META unveraendert (Wochenende, +3,42%). Kein neuer Katalysator seit dem letzten Lauf.",
         "portfolioValue": 1424.46
+      },
+      {
+        "time": "02:07",
+        "note": "Kein Trade: BTC leicht auf ca. 81.300 USD aktualisiert (+0,37%), META unveraendert (Wochenende, +3,42%). Kein neuer Katalysator seit dem letzten Lauf.",
+        "portfolioValue": 1424.21
       }
     ]
   }
