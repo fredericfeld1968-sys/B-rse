@@ -5724,15 +5724,15 @@
   },
   {
     "date": "2026-09-20",
-    "marketOverview": "Sonntag, 19:09 MESZ: Boersen/ETFs/Rohstoffe weiterhin wochenendbedingt geschlossen, nur Krypto handelbar. Bitcoin leicht auf ca. 81.150 USD (+0,18% seit Kauf pos-0016) erholt (Spanne der Quellen 80.617-81.469 USD), Fear&Greed bei 71, BTC-ETF-Zuflüsse am Freitag mit 433 Mio. USD solide. Avalanche (AVAX) weiterhin stabil bei ca. 9,71 USD (-1,42% seit Kauf pos-0017) - Paxos-Integration und NYSE/ICE-Tokenisierungs-Katalysator bleiben fundamental intakt, aber ohne neuen Kurstrigger vor dem Helicon-Upgrade am 22.09. Keine neuen, bisher ungehandelten Katalysatoren identifiziert (u.a. ZRO/BR-Token-Unlocks, Bastion-OCC-Zulassung, Coinbase-Perp-Filing - keine davon ausreichend kursrelevant fuer AVAX/BTC/META). META bleibt wochenendbedingt beim bestaetigten Freitagsschlusskurs von 668,55 USD (+3,50%).",
-    "decision": "Um 19:09 MESZ kein neuer Trade. BTC (pos-0016) auf ca. 81.150 USD (+0,18%) aktualisiert, AVAX (pos-0017) unveraendert bei 9,71 USD (-1,42%), META (pos-0014) auf den bestaetigten Freitagsschlusskurs 668,55 USD (+3,50%) praezisiert. Depotwert am Ende dieses Laufs: 2013.97 EUR (3 offene Positionen).",
-    "reasoning": "19:09 MESZ, Sonntagabend: Nur Krypto handelbar. Weder BTC noch AVAX haben seit dem 18:08-Lauf ein Stop-Loss-Niveau erreicht oder eine bestehende These widerlegt. Recherche zu aktuellen Krypto-Schlagzeilen (Token-Unlocks ZRO/BR, Bastion-OCC-Zulassung, Coinbase-Perpetuals-Filing, Hyperliquid-Borrowing) liefert keinen neuen, ueberzeugenden Katalysator fuer eine Zusatzposition - die zuletzt gehandelte Solana-Rally basiert weiterhin auf demselben, bereits am 19.09. gehandelten und glattgestellten SEC-Innovation-Exemption-Katalysator. Freies Kapital von ca. 44.806,91 EUR bleibt unveraendert und weit ausreichend fuer kuenftige ueberzeugende Gelegenheiten.",
+    "marketOverview": "Sonntag, 20:07 MESZ: Boersen/ETFs/Rohstoffe weiterhin wochenendbedingt geschlossen, nur Krypto handelbar. Bitcoin leicht auf ca. 81.395,92 USD (+0,49% seit Kauf pos-0016) erholt (Quellenspanne 80.617-81.442 USD, CoinGecko/OKX/Coinbase), Markt insgesamt konsolidierend nach der Vorwoche (Ethereum ca. 2.600 USD, 88% der Top-200-Coins im Plus laut CoinCodex). Avalanche (AVAX) unveraendert bei ca. 9,71 USD (-1,42% seit Kauf pos-0017) - Paxos-Integration und Helicon-Upgrade (22.09.) bleiben fundamental intakt, aber bereits eingepreist/gehandelt, kein neuer Trigger. Ein Mikrocap-Token ('Gravity/G', angeblich +78,65% laut CoinCodex 'Coin des Tages') konnte nicht durch weitere unabhaengige Quellen bestaetigt werden - keine belastbare Kauf-Grundlage. META bleibt wochenendbedingt beim bestaetigten Freitagsschlusskurs von 668,55 USD (+3,50%).",
+    "decision": "Um 20:07 MESZ kein neuer Trade. BTC (pos-0016) auf ca. 81.395,92 USD (+0,49%) aktualisiert, AVAX (pos-0017) unveraendert bei 9,71 USD (-1,42%), META (pos-0014) unveraendert (Wochenende, +3,50%). Depotwert am Ende dieses Laufs: 2016.40 EUR (3 offene Positionen).",
+    "reasoning": "20:07 MESZ, Sonntagabend: Nur Krypto handelbar. Weder BTC noch AVAX haben seit dem 19:09-Lauf ein Stop-Loss-Niveau erreicht oder eine bestehende These widerlegt - AVAX bleibt mit -1,42% deutlich innerhalb der Toleranz, BTC mit +0,49% deutlich unter der etablierten Gewinnmitnahme-Zielspanne (7-9%). Ein auffaelliger Mikrocap-Ausreisser ('Gravity/G') liess sich nicht durch mehrere unabhaengige, serioese Quellen verifizieren und wird passend zur Sorgfaltspflicht nicht gehandelt. Freies Kapital von ca. 44.806,91 EUR bleibt unveraendert und weit ausreichend fuer kuenftige ueberzeugende Gelegenheiten.",
     "positionIds": [
       "pos-0014",
       "pos-0016",
       "pos-0017"
     ],
-    "portfolioValueEnd": 2013.97,
+    "portfolioValueEnd": 2016.4,
     "updates": [
       {
         "time": "00:08",
@@ -5833,6 +5833,11 @@
         "time": "19:09",
         "note": "Kein Trade: BTC auf ca. 81.150 USD aktualisiert (+0,18%), AVAX unveraendert (-1,42%), META-Kurs auf bestaetigten Freitagsschluss praezisiert (668,55 USD, +3,50%). Kein neuer Katalysator seit dem letzten Lauf.",
         "portfolioValue": 2013.97
+      },
+      {
+        "time": "20:07",
+        "note": "Keine Aenderung. BTC auf ca. 81.395,92 USD (+0,49%) aktualisiert, AVAX unveraendert bei ca. 9,71 USD (-1,42%), META wochenendbedingt unveraendert. Kein verifizierter neuer Katalysator (Mikrocap-Geruecht 'Gravity/G' nicht bestaetigt).",
+        "portfolioValue": 2016.4
       }
     ]
   }
