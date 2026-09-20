@@ -264,10 +264,10 @@
     "reasoning": "Bitcoin durchbricht am Nachmittag des 18.09. die seit dem 07.09. haltende psychologische und technische Widerstandsmarke von 80.000 USD und steigt auf ca. 81.000 USD (mehrfach unabhaengig bestaetigt: CoinDesk, Yahoo Finance, Cryptonews, Exchangerates.org, Coinspectator) - begleitet von einer Short-Squeeze mit rund 183 Mio. USD liquidierten Short-Positionen innerhalb einer Stunde. Zusaetzlicher regulatorischer Rueckenwind: Die SEC hat beschleunigte generische Listing-Standards fuer Krypto-ETPs sowie den Grayscale Digital Large Cap Fund (BTC/ETH/SOL/XRP/ADA) zugelassen, Goldman Sachs hat zudem eine eigene Bitcoin-ETF-Anmeldung eingereicht. Das Muster entspricht dem erfolgreichen BTC-Ausbruchstrade vom 19.08. (bestaetigter Ausbruch + Short-Liquidationen). Spekulative Momentum-Position auf die Fortsetzung des bestaetigten Ausbruchs ueber 80.000 USD.",
     "status": "open",
     "buyPrice": 81000,
-    "currentPrice": 81395.92,
-    "currentValue": 803.91,
-    "profitLoss": 3.91,
-    "profitLossPct": 0.49,
+    "currentPrice": 81084,
+    "currentValue": 800.83,
+    "profitLoss": 0.83,
+    "profitLossPct": 0.1,
     "closedDate": null,
     "closeReasoning": null
   },
@@ -279,13 +279,13 @@
     "assetClass": "Krypto",
     "amount": 600,
     "reasoning": "Bestaetigter, mehrfach unabhaengig belegter Ausbruch: AVAX steigt innerhalb von 24h um rund 15-30% auf ueber 9,70-10,73 USD (hoechster Stand seit fast neun Monaten), nachdem bekannt wurde, dass die NYSE (ueber Muttergesellschaft ICE) Avalanche als Blockchain-Basis fuer ihre geplante 24/7-Handelsplattform fuer tokenisierte Wertpapiere evaluiert. Zusaetzliche institutionelle Katalysatoren: New York Life Investment Management legt einen tokenisierten Fonds auf Avalanche auf, Janus Henderson wird Validator, Paxos unterstuetzt AVAX-Transaktionen; ausserdem senkt das anstehende Helicon-Mainnet-Upgrade (22.09.) die Staking-Lockup-Zeit von 14 Tagen auf 48 Stunden. Mehrfach unabhaengig bestaetigt (TradersUnion, CryptoTimes, TradingKey, Criptolog). Da Aktien/ETFs/Rohstoffe am Sonntag nicht handelbar sind, spekulative Momentum-Position auf den bestaetigten institutionellen Ausbruch, analog zum erfolgreichen BTC-80k-Ausbruchstrade vom 18.09.",
-    "status": "open",
+    "status": "closed",
     "buyPrice": 9.85,
-    "currentPrice": 9.71,
-    "currentValue": 591.47,
-    "profitLoss": -8.53,
-    "profitLossPct": -1.42,
-    "closedDate": null,
-    "closeReasoning": null
+    "currentPrice": 11.09,
+    "currentValue": 675.53,
+    "profitLoss": 75.53,
+    "profitLossPct": 12.59,
+    "closedDate": "2026-09-20",
+    "closeReasoning": "Gewinnmitnahme: AVAX ist seit dem letzten Lauf (20:07, ~9,71 USD) direkt per CoinGecko-API live verifiziert auf 11,09 USD gesprungen (+13,55% in 24h laut API, Timestamp 19:08:40 UTC) - mehrfach unabhaengig bestaetigt (CryptoTimes, TradingKey, Bloomingbit, jeweils 20.09.), getrieben von der NYSE/ICE-Tokenisierungs-Evaluierung sowie dem bevorstehenden Helicon-Mainnet-Upgrade (22.09., Staking-Lockup 14 Tage -> 48h). Seit Kauf (9,85 USD) ergibt sich ein Gewinn von +12,59% - deutlich ueber der etablierten Zielspanne (7-9%, analog Solana +10,53%, Bitcoin +9,6%). Da die Bewegung bereits stark gelaufen und kurzfristig ueberhitzt ist (Risiko eines 'Sell the news' zum Upgrade-Termin, ICE/NYSE-Deal offiziell noch nicht bestaetigt), wird passend zum spekulativen Kurzfrist-Profil konsequent glattgestellt."
   }
 ]

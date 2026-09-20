@@ -5724,15 +5724,15 @@
   },
   {
     "date": "2026-09-20",
-    "marketOverview": "Sonntag, 20:07 MESZ: Boersen/ETFs/Rohstoffe weiterhin wochenendbedingt geschlossen, nur Krypto handelbar. Bitcoin leicht auf ca. 81.395,92 USD (+0,49% seit Kauf pos-0016) erholt (Quellenspanne 80.617-81.442 USD, CoinGecko/OKX/Coinbase), Markt insgesamt konsolidierend nach der Vorwoche (Ethereum ca. 2.600 USD, 88% der Top-200-Coins im Plus laut CoinCodex). Avalanche (AVAX) unveraendert bei ca. 9,71 USD (-1,42% seit Kauf pos-0017) - Paxos-Integration und Helicon-Upgrade (22.09.) bleiben fundamental intakt, aber bereits eingepreist/gehandelt, kein neuer Trigger. Ein Mikrocap-Token ('Gravity/G', angeblich +78,65% laut CoinCodex 'Coin des Tages') konnte nicht durch weitere unabhaengige Quellen bestaetigt werden - keine belastbare Kauf-Grundlage. META bleibt wochenendbedingt beim bestaetigten Freitagsschlusskurs von 668,55 USD (+3,50%).",
-    "decision": "Um 20:07 MESZ kein neuer Trade. BTC (pos-0016) auf ca. 81.395,92 USD (+0,49%) aktualisiert, AVAX (pos-0017) unveraendert bei 9,71 USD (-1,42%), META (pos-0014) unveraendert (Wochenende, +3,50%). Depotwert am Ende dieses Laufs: 2016.40 EUR (3 offene Positionen).",
-    "reasoning": "20:07 MESZ, Sonntagabend: Nur Krypto handelbar. Weder BTC noch AVAX haben seit dem 19:09-Lauf ein Stop-Loss-Niveau erreicht oder eine bestehende These widerlegt - AVAX bleibt mit -1,42% deutlich innerhalb der Toleranz, BTC mit +0,49% deutlich unter der etablierten Gewinnmitnahme-Zielspanne (7-9%). Ein auffaelliger Mikrocap-Ausreisser ('Gravity/G') liess sich nicht durch mehrere unabhaengige, serioese Quellen verifizieren und wird passend zur Sorgfaltspflicht nicht gehandelt. Freies Kapital von ca. 44.806,91 EUR bleibt unveraendert und weit ausreichend fuer kuenftige ueberzeugende Gelegenheiten.",
+    "marketOverview": "Sonntag, 21:10 MESZ: Boersen/ETFs/Rohstoffe weiterhin wochenendbedingt geschlossen, nur Krypto handelbar. Avalanche (AVAX) ist seit dem letzten Lauf (20:07, ~9,71 USD) per CoinGecko-API live auf 11,09 USD gesprungen (+13,55% in 24h) - mehrfach unabhaengig bestaetigt (CryptoTimes, TradingKey, Bloomingbit), getrieben von der NYSE/ICE-Tokenisierungs-Evaluierung sowie dem bevorstehenden Helicon-Mainnet-Upgrade (22.09.). Bitcoin bleibt stabil bei ca. 81.084 USD (-0,37% 24h laut CoinGecko-API). Andere Top-Coins (ETH, SOL, XRP, LINK, ADA, DOGE) zeigen keine nennenswerte Bewegung (jeweils zwischen -0,3% und -3,3% in 24h) - kein weiterer neuer Katalysator. META bleibt wochenendbedingt beim Freitagsschlusskurs von 668,55 USD (+3,50%).",
+    "decision": "Um 21:10 MESZ Verkauf AVAX (pos-0017): Gewinnmitnahme bei 11,09 USD (+12,59%, live per CoinGecko-API bestaetigt) nach starkem, mehrfach unabhaengig bestaetigtem Ausbruch. BTC (pos-0016) auf 81.084 USD (+0,10%) aktualisiert, META (pos-0014) wochenendbedingt unveraendert (+3,50%). Kein Neukauf: keine weitere ueberzeugende, mehrfach bestaetigte Gelegenheit im uebrigen Kryptomarkt gefunden; ein erneuter Einstieg in AVAX nach dem bereits gelaufenen +13,5%-Tagesplus waere verspaetetes Chasing mit 'Sell the news'-Risiko vor dem Upgrade am 22.09. Depotwert am Ende dieses Laufs: 1421,85 EUR (2 offene Positionen).",
+    "reasoning": "21:10 MESZ, Sonntagabend: Nur Krypto handelbar. AVAX (pos-0017) hat seit dem 20:07-Lauf (9,71 USD) einen direkt per CoinGecko-API live verifizierten Sprung auf 11,09 USD hingelegt (+13,55% in 24h laut API), mehrfach unabhaengig durch Nachrichtenquellen bestaetigt (CryptoTimes, TradingKey, Bloomingbit) und mit konkretem fundamentalem Katalysator (Ava-Labs-Praesident bestaetigt NYSE/ICE-Tokenisierungstests, Helicon-Mainnet-Upgrade 22.09.). Der Gewinn von +12,59% liegt deutlich ueber der etablierten Zielspanne (7-9%, analog Solana +10,53%, Bitcoin +9,6%) - passend zum spekulativen Kurzfrist-Profil wird konsequent glattgestellt, zumal der NYSE/ICE-Deal offiziell noch nicht unterschrieben ist und zum Upgrade-Termin ein 'Sell the news'-Risiko besteht. BTC und META zeigen keine Stop-Loss- oder Zielmarken-Ausloesung. Freies Kapital von ca. 45.406,91 EUR ist nach der Gewinnmitnahme weiter deutlich ausreichend fuer kuenftige ueberzeugende Gelegenheiten; kein Neukauf, da ausser AVAX (bereits gehandelt) kein weiterer Coin ein mehrfach bestaetigtes, ueberzeugendes Signal zeigt (ETH/SOL/XRP/LINK/ADA/DOGE allesamt leicht negativ, keine neuen Katalysatoren).",
     "positionIds": [
       "pos-0014",
       "pos-0016",
       "pos-0017"
     ],
-    "portfolioValueEnd": 2016.4,
+    "portfolioValueEnd": 1421.85,
     "updates": [
       {
         "time": "00:08",
@@ -5838,6 +5838,11 @@
         "time": "20:07",
         "note": "Keine Aenderung. BTC auf ca. 81.395,92 USD (+0,49%) aktualisiert, AVAX unveraendert bei ca. 9,71 USD (-1,42%), META wochenendbedingt unveraendert. Kein verifizierter neuer Katalysator (Mikrocap-Geruecht 'Gravity/G' nicht bestaetigt).",
         "portfolioValue": 2016.4
+      },
+      {
+        "time": "21:10",
+        "note": "Verkauf AVAX (+12,59%, Gewinnmitnahme nach live-bestaetigtem +13,5%-Sprung auf 11,09 USD). BTC auf 81.084 USD aktualisiert (+0,10%). Kein Neukauf.",
+        "portfolioValue": 1421.85
       }
     ]
   }
