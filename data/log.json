@@ -5855,5 +5855,23 @@
         "portfolioValue": 1421.86
       }
     ]
+  },
+  {
+    "date": "2026-09-21",
+    "marketOverview": "Montag, 00:08 MESZ: Boersen/ETFs/Rohstoffe noch nicht geoeffnet (Handelsbeginn Europa ca. 09:00, USA 15:30 MESZ), nur Krypto handelbar. Bitcoin bewegt sich seitwaerts bei ca. 81.150 USD (mehrere Quellen: CoinMarketCap 81.074, CoinGecko 81.199, Bitget 81.230), 7-Tage-Plus von rund 5% intakt, aber -0,2% in den letzten 24h. Altcoin-Markt insgesamt lebhaft (Marktkap. >1,07 Bio. USD), Tezos (XTZ) mit starkem 24h-Plus von rund 37%, jedoch laut mehreren Quellen (CoinMarketCap) 'getrieben durch spekulative Dynamik und Altcoin-Rotation, kein Einzelkatalysator' und bereits 5% vom Hoch zurueckgezogen - kein belastbares, fundamental bestaetigtes Kaufsignal, sondern Chasing-Risiko nach bereits gelaufener Bewegung. META schliesst unveraendert beim Freitagsschluss von 668,55 USD (+3,50% seit Kauf), da vorboersen.",
+    "decision": "00:08 MESZ: Tagesbudget-Gutschrift (+1.000 EUR, neues Kalendertag). BTC (pos-0016) auf 81.150 USD aktualisiert (+0,19% seit Kauf), META (pos-0014) unveraendert (Boersen geschlossen). Kein Trade: einziger auffaelliger Altcoin-Mover (Tezos) ist laut Quellenlage reine spekulative Rotation ohne Einzelkatalysator und bereits im Rueckzug vom Hoch - kein ueberzeugendes, mehrfach bestaetigtes Signal. Depotwert am Ende dieses Laufs: 1422,50 EUR (2 offene Positionen).",
+    "reasoning": "00:08 MESZ: Neuer Kalendertag, daher einmalige Tagesbudget-Gutschrift von 1.000 EUR (totalFreshCapitalEur jetzt 48.000 EUR, freies Kapital ca. 46.406,91 EUR - weiterhin reichlich fuer kuenftige Gelegenheiten). Marktrecherche zu Krypto (da Aktien/ETFs/Rohstoffe noch geschlossen): Bitcoin bewegt sich seit Stunden seitwaerts um 81.000-81.200 USD ohne neuen Katalysator, passend zur BTC-Position unveraendert gehalten (noch weit unter der etablierten Ziel-Spanne von 7-9%). Tezos (XTZ) faellt mit +37% in 24h zwar stark auf, wird aber von CoinMarketCap explizit als 'spekulative Dynamik und Altcoin-Rotation ohne Einzelkatalysator' eingeordnet und hat bereits 5% vom Hoch der letzten Stunden verloren - ein verspaeteter Einstieg waere reines Chasing mit hohem Rueckschlagsrisiko, kein mehrfach bestaetigter fundamentaler Katalysator wie bei den bisher erfolgreichen Trades (AVAX/NYSE-Tokenisierung, Bitcoin-80k-Ausbruch). META bleibt wochenendbedingt/vorboersen unveraendert bei 668,55 USD (+3,5%), keine Stop-Loss- oder Zielmarken-Ausloesung. Passend zum disziplinierten spekulativen Profil daher kein Neukauf in diesem Lauf.",
+    "positionIds": [
+      "pos-0014",
+      "pos-0016"
+    ],
+    "portfolioValueEnd": 1422.5,
+    "updates": [
+      {
+        "time": "00:08",
+        "note": "Tagesbudget +1.000 EUR gutgeschrieben (freies Kapital ca. 46.406,91 EUR). BTC auf ca. 81.150 USD aktualisiert (+0,19%), META vorboersen/wochenendbedingt unveraendert (668,55 USD, +3,50%). Kein Trade: Tezos-Pump (+37%) laut Quellen reine spekulative Rotation ohne Einzelkatalysator und bereits im Rueckzug vom Hoch, kein ueberzeugendes Signal.",
+        "portfolioValue": 1422.5
+      }
+    ]
   }
 ]
