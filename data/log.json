@@ -5724,14 +5724,15 @@
   },
   {
     "date": "2026-09-20",
-    "marketOverview": "Sonntag, 13:08 MESZ: Boersen/ETFs/Rohstoffe weiterhin wochenendbedingt geschlossen, nur Krypto handelbar. Bitcoin nahezu unveraendert bei ca. 81.261 USD (+0,32% seit Kauf), Ethereum bei ca. 2.633 USD leicht fester, Solana und XRP weiterhin gestuetzt durch die SEC-Innovation-Exemption vom 18.09., aber ohne neuen eigenstaendigen Kurstrigger seit dem letzten Lauf. Fear&Greed-Index bei 71 (Greed). Naechster Makro-Trigger bleibt das Ende der US-Haushaltsfinanzierung am 30.09.",
-    "decision": "Kein neuer Trade um 13:08 MESZ. BTC (pos-0016) auf ca. 81.261 USD (+0,32% seit Kauf) aktualisiert, META (pos-0014) bleibt wochenendbedingt unveraendert beim Freitagsschlusskurs 668,00 USD (+3,42%). Keine ueberzeugende neue Gelegenheit erkennbar.",
-    "reasoning": "13:08 MESZ, Sonntagmittag: Nur Krypto handelbar. BTC bewegt sich seit dem letzten Lauf (12:08) nur marginal (ca. 81.277 -> 81.261 USD), weiterhin klar unterhalb der etablierten Gewinnmitnahme-Zielspanne (7-9%) und weit von einer Stop-Loss-Schwelle entfernt. Keine neuen bestaetigten Katalysatoren bei Solana/Ethereum/XRP seit dem letzten Lauf, die einen spekulativen Neukauf rechtfertigen wuerden. META ist ohnehin nicht handelbar (Wochenende). Freies Kapital liegt unveraendert bei ca. 45.406,91 EUR und bleibt fuer eine zukuenftige ueberzeugende Chance verfuegbar. Daher keine Aktion in diesem Lauf.",
+    "marketOverview": "Sonntag, 14:08 MESZ: Boersen/ETFs/Rohstoffe weiterhin wochenendbedingt geschlossen, nur Krypto handelbar. Bitcoin konsolidiert weiter bei ca. 81.420 USD (+0,52% seit Kauf). Neuer, mehrfach unabhaengig bestaetigter institutioneller Katalysator bei Avalanche (AVAX): Die NYSE (ueber Muttergesellschaft ICE) evaluiert Avalanche als Blockchain-Basis fuer eine geplante 24/7-Handelsplattform fuer tokenisierte Wertpapiere; zusaetzlich legt New York Life einen tokenisierten Fonds auf Avalanche auf, Janus Henderson wird Validator und Paxos unterstuetzt AVAX-Transaktionen. AVAX schoss dadurch um rund 15-30% auf ueber 9,70-10,73 USD, hoechster Stand seit fast neun Monaten. Fear&Greed-Index bleibt bei 71 (Greed).",
+    "decision": "Um 14:08 MESZ Kauf Avalanche (AVAX) fuer 600 EUR bei 9,85 USD (pos-0017) aufgrund des bestaetigten NYSE/ICE-Tokenisierungs-Katalysators. BTC (pos-0016) auf ca. 81.420 USD (+0,52% seit Kauf) aktualisiert, META (pos-0014) bleibt wochenendbedingt unveraendert beim Freitagsschlusskurs 668,00 USD (+3,42%). Depotwert am Ende dieses Laufs: 2.024,66 EUR (3 offene Positionen).",
+    "reasoning": "14:08 MESZ, Sonntagnachmittag: Nur Krypto handelbar. BTC und META bieten weiterhin keine ueberzeugende Aktionsschwelle (kein Stop-Loss, kein Gewinnmitnahme-Ziel erreicht). Bei Avalanche liegt dagegen ein echter, mehrfach unabhaengig bestaetigter fundamentaler Katalysator vor (institutionelle NYSE/ICE-Tokenisierungs-Pruefung, New-York-Life-Fonds, Janus-Henderson-Validator, Paxos-Integration) - kein blosses Sentiment, sondern ein neues, bisher nicht gehandeltes Setup, analog zum erfolgreichen BTC-80k-Ausbruchstrade vom 18.09. Passend zum spekulativen Risikoprofil (kurzfristiges Trading ausdruecklich erlaubt) wird eine Momentum-Position von 600 EUR eroeffnet; freies Kapital von zuvor ca. 45.406,91 EUR wird dadurch nur geringfuegig auf ca. 44.806,91 EUR reduziert und bleibt weit ausreichend fuer kuenftige Gelegenheiten. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [
       "pos-0014",
-      "pos-0016"
+      "pos-0016",
+      "pos-0017"
     ],
-    "portfolioValueEnd": 1423.08,
+    "portfolioValueEnd": 2024.66,
     "updates": [
       {
         "time": "00:08",
@@ -5802,6 +5803,11 @@
         "time": "13:08",
         "note": "Kein Trade: BTC leicht auf ca. 81.261 USD aktualisiert (+0,32%), META unveraendert (Wochenende, +3,42%). Kein neuer Katalysator seit dem letzten Lauf.",
         "portfolioValue": 1423.08
+      },
+      {
+        "time": "14:08",
+        "note": "Kauf Avalanche (AVAX) 600 EUR bei 9,85 USD (bestaetigter NYSE/ICE-Tokenisierungs-Katalysator, +15-30% in 24h). BTC auf ca. 81.420 USD (+0,52%) aktualisiert, META unveraendert (Wochenende, +3,42%).",
+        "portfolioValue": 2024.66
       }
     ]
   }
