@@ -5724,14 +5724,14 @@
   },
   {
     "date": "2026-09-20",
-    "marketOverview": "Sonntag, 05:08 MESZ: Aktien/ETFs/Rohstoffe weiterhin wochenendbedingt geschlossen, nur Krypto handelbar. Bitcoin bewegt sich weiterhin seitwaerts in der engen Bandbreite 81.300-81.500 USD (CoinMarketCap, CoinGecko, CoinDesk), Solana hat sich nach dem Ausbruch vom 19.09. bei ueber 106-113 USD stabilisiert (Rekord bei On-Chain-Aktivitaet, ueber 5 Mrd. Transaktionen im September), XRP bei ca. 1,33 USD (+5,4% 24h) trotz gescheiterter CLARITY-Act-Abstimmung. Kein neuer eigenstaendiger Katalysator seit dem letzten Lauf (04:07); Marktlage bleibt unveraendert von der Iran/Israel-Eskalation und der gescheiterten CLARITY-Act-Abstimmung im Hintergrund geformt.",
-    "decision": "Kein neuer Trade um 05:08 MESZ. BTC (pos-0016) leicht auf ca. 81.410 USD (+0,51% seit Kauf) aktualisiert, META (pos-0014) bleibt wochenendbedingt unveraendert beim Freitagsschlusskurs 668,00 USD (+3,42%). Keine Position erreicht Stop-Loss- oder Gewinnschwelle, kein neuer eigenstaendiger Katalysator seit dem 04:07-Lauf.",
-    "reasoning": "05:08 MESZ, Sonntagfrueh: Nur Krypto handelbar. BTC bewegt sich seit dem letzten Lauf (04:07) nur marginal (ca. 81.420 -> 81.410 USD), weiterhin klar unterhalb der etablierten Gewinnmitnahme-Zielspanne (7-9%) und weit von einer Stop-Loss-Schwelle entfernt. META ist ohnehin nicht handelbar (Wochenende). Keine neuen, mehrfach unabhaengig bestaetigten Katalysatoren mit vergleichbarer Ueberzeugungskraft wie bei frueheren Trades erkennbar. Freies Kapital reichlich vorhanden (ca. 45.400 EUR), aber keine ueberzeugende neue Gelegenheit, daher kein Trade.",
+    "marketOverview": "Sonntag, 06:07 MESZ: Aktien/ETFs/Rohstoffe weiterhin wochenendbedingt geschlossen, nur Krypto handelbar. Bitcoin bewegt sich weiterhin seitwaerts um ca. 81.400-81.470 USD (CoinMarketCap, CoinDesk, Coinbase), leicht erholt gegenueber dem letzten Lauf. Solana konsolidiert nach dem Ausbruch vom 18./19.09. weiterhin oberhalb von 105 USD (Block-Zeit-Reduktion auf 250ms, SEC-Innovation-Exemption vom 18.09.), XRP bei ca. 1,42 USD nach der gescheiterten CLARITY-Act-Abstimmung vom 15./16.09. weiterhin mit starken ETF-Zuflüssen (9 Wochen in Folge, ueber 1,7 Mrd. USD). Kein neuer eigenstaendiger Katalysator seit dem letzten Lauf (05:08); Marktlage bleibt unveraendert von der Iran/Israel-Eskalation und der gescheiterten CLARITY-Act-Abstimmung im Hintergrund geformt.",
+    "decision": "Kein neuer Trade um 06:07 MESZ. BTC (pos-0016) leicht auf ca. 81.468,69 USD (+0,58% seit Kauf) aktualisiert, META (pos-0014) bleibt wochenendbedingt unveraendert beim Freitagsschlusskurs 668,00 USD (+3,42%). Keine Position erreicht Stop-Loss- oder Gewinnschwelle, kein neuer eigenstaendiger Katalysator seit dem 05:08-Lauf.",
+    "reasoning": "06:07 MESZ, Sonntagfrueh: Nur Krypto handelbar. BTC bewegt sich seit dem letzten Lauf (05:08) nur marginal (ca. 81.410 -> 81.468,69 USD), weiterhin klar unterhalb der etablierten Gewinnmitnahme-Zielspanne (7-9%) und weit von einer Stop-Loss-Schwelle entfernt. META ist ohnehin nicht handelbar (Wochenende). Die zuletzt recherchierten Solana- und XRP-Nachrichten (Block-Zeit-Reduktion, SEC-Exemption, CLARITY-Act-Abstimmung, ETF-Zufluesse) sind bereits mehrere Tage alt und kein neuer eigenstaendiger Kaufimpuls. Freies Kapital reichlich vorhanden (ca. 45.400 EUR), aber keine ueberzeugende neue Gelegenheit, daher kein Trade.",
     "positionIds": [
       "pos-0014",
       "pos-0016"
     ],
-    "portfolioValueEnd": 1424.56,
+    "portfolioValueEnd": 1425.14,
     "updates": [
       {
         "time": "00:08",
@@ -5762,6 +5762,11 @@
         "time": "05:08",
         "note": "Kein Trade: BTC leicht auf ca. 81.410 USD aktualisiert (+0,51%), META unveraendert (Wochenende, +3,42%). Kein neuer Katalysator seit dem letzten Lauf.",
         "portfolioValue": 1424.56
+      },
+      {
+        "time": "06:07",
+        "note": "Kein Trade: BTC leicht auf ca. 81.468,69 USD aktualisiert (+0,58%), META unveraendert (Wochenende, +3,42%). Kein neuer Katalysator seit dem letzten Lauf.",
+        "portfolioValue": 1425.14
       }
     ]
   }
