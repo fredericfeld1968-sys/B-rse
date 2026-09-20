@@ -5724,14 +5724,14 @@
   },
   {
     "date": "2026-09-20",
-    "marketOverview": "Sonntag, 09:07 MESZ: Boersen/ETFs/Rohstoffe weiterhin wochenendbedingt geschlossen, nur Krypto handelbar. Bitcoin bewegt sich weiter seitwaerts um ca. 81.300-81.800 USD (CoinDesk, Vietnam.vn), 7-Tages-Plus rund +5,3%, Golden Cross weiterhin intakt, RSI (55) aber noch ohne klare Bestaetigung der Erholung. Kein neuer eigenstaendiger Katalysator seit dem 07:07/08:08-Lauf - SEC-Innovation-Exemption und Solana-Blockzeit-Upgrade vom 18.09. bereits eingepreist. Kein neuer Trigger fuer diesen Lauf.",
-    "decision": "Kein neuer Trade um 09:07 MESZ. BTC (pos-0016) leicht auf ca. 81.450 USD (+0,56% seit Kauf) aktualisiert, META (pos-0014) bleibt wochenendbedingt unveraendert beim Freitagsschlusskurs 668,00 USD (+3,42%). Keine Position erreicht Stop-Loss- oder Gewinnschwelle, kein neuer eigenstaendiger Katalysator fuer einen Neukauf.",
-    "reasoning": "09:07 MESZ, Sonntagvormittag: Nur Krypto handelbar. BTC bewegt sich seit dem letzten Lauf (08:08) nur marginal (ca. 81.430 -> 81.450 USD), weiterhin klar unterhalb der etablierten Gewinnmitnahme-Zielspanne (7-9%) und weit von einer Stop-Loss-Schwelle entfernt. META ist ohnehin nicht handelbar (Wochenende). Fuer einen spekulativen Neukauf fehlt weiterhin eine wirklich ueberzeugende, frische Gelegenheit - der Solana-/Ethereum-Katalysator vom 18./19.09. ist bereits einige Tage alt und liefert keinen neuen Impuls. Daher keine Aktion in diesem Lauf.",
+    "marketOverview": "Sonntag, 10:08 MESZ: Boersen/ETFs/Rohstoffe weiterhin wochenendbedingt geschlossen, nur Krypto handelbar. Bitcoin notiert bei ca. 81.260 USD (+0,46% Tagesplus, Fear&Greed-Index bei 71), Solana legt kurzfristig +3% in 3 Stunden zu (Altcoin-Rally, Block-Zeit-Upgrade vom 18.09., institutionelle Kaeufe), Ethereum (-1,76%) und XRP (-2,79%) leicht schwaecher. Der CLARITY-Act-Rueckschlag im Senat vom 16.09. sowie die SEC-Innovation-Exemption vom 17./18.09. bleiben die dominanten, bereits eingepreisten Themen - kein neuer eigenstaendiger Katalysator seit dem 09:07-Lauf.",
+    "decision": "Kein neuer Trade um 10:08 MESZ. BTC (pos-0016) leicht auf ca. 81.260,70 USD (+0,32% seit Kauf) aktualisiert, META (pos-0014) bleibt wochenendbedingt unveraendert beim Freitagsschlusskurs 668,00 USD (+3,42%). Solanas kurzfristige +3%-Bewegung basiert auf bereits bekannten, eingepreisten Katalysatoren und gilt nicht als hinreichend ueberzeugende neue Gelegenheit fuer einen Neukauf.",
+    "reasoning": "10:08 MESZ, Sonntagvormittag: Nur Krypto handelbar. BTC bewegt sich seit dem letzten Lauf (09:07) nur marginal (ca. 81.450 -> 81.260 USD), weiterhin klar unterhalb der etablierten Gewinnmitnahme-Zielspanne (7-9%) und weit von einer Stop-Loss-Schwelle entfernt. META ist ohnehin nicht handelbar (Wochenende). Solanas +3%-Schub in 3 Stunden beruht auf den bereits am 18./19.09. bekannten Themen (Block-Zeit-Upgrade, SEC-Innovation-Exemption) und liefert keinen neuen, eigenstaendigen Trigger. Fuer einen spekulativen Neukauf fehlt eine wirklich ueberzeugende, frische Gelegenheit. Freies Kapital liegt bei ca. 45.406,91 EUR und bleibt fuer eine zukuenftige ueberzeugende Chance verfuegbar. Daher keine Aktion in diesem Lauf.",
     "positionIds": [
       "pos-0014",
       "pos-0016"
     ],
-    "portfolioValueEnd": 1424.95,
+    "portfolioValueEnd": 1423.08,
     "updates": [
       {
         "time": "00:08",
@@ -5782,6 +5782,11 @@
         "time": "09:07",
         "note": "Kein Trade: BTC leicht auf ca. 81.450 USD aktualisiert (+0,56%), META unveraendert (Wochenende, +3,42%). Kein neuer Katalysator seit dem letzten Lauf.",
         "portfolioValue": 1424.95
+      },
+      {
+        "time": "10:08",
+        "note": "Kein Trade: BTC leicht auf ca. 81.260 USD aktualisiert (+0,32%), META unveraendert (Wochenende, +3,42%). Solana-Kurzfrist-Rally (+3%/3h) beruht auf bereits eingepreisten Katalysatoren, kein neuer Trigger.",
+        "portfolioValue": 1423.08
       }
     ]
   }
