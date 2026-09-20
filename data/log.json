@@ -5724,9 +5724,9 @@
   },
   {
     "date": "2026-09-20",
-    "marketOverview": "Sonntag, 16:08 MESZ: Boersen/ETFs/Rohstoffe weiterhin wochenendbedingt geschlossen, nur Krypto handelbar. Bitcoin steigt leicht auf ca. 81.395,92 USD (+0,49% seit Kauf pos-0016), weit von jeder Schwelle entfernt. Avalanche (AVAX) gibt den Grossteil des vorherigen Ausbruchsschubs wieder ab und faellt auf ca. 9,71 USD (-1,42% seit Kauf pos-0017) - die kurzfristige NYSE/ICE-Ausbruchsbewegung hat sich binnen einer Stunde deutlich abgeschwaecht, aber kein Stop-Loss-Niveau erreicht. META bleibt wochenendbedingt unveraendert beim Freitagsschlusskurs 668,00 USD (+3,42%).",
-    "decision": "Um 16:08 MESZ kein neuer Trade. BTC (pos-0016) auf ca. 81.395,92 USD (+0,49% seit Kauf) aktualisiert, AVAX (pos-0017) auf ca. 9,71 USD (-1,42% seit Kauf) aktualisiert, META (pos-0014) wochenendbedingt unveraendert. Depotwert am Ende dieses Laufs: 2.015,89 EUR (3 offene Positionen).",
-    "reasoning": "16:08 MESZ, Sonntagnachmittag: Nur Krypto handelbar. AVAX hat sich vom Hoch der letzten Stunde (10,44 USD, +5,99%) deutlich zurueckgezogen und notiert nun knapp im Minus (-1,42%) - kein Stop-Loss-Niveau erreicht, die institutionelle NYSE/ICE-Ausbruchsthese bleibt fundamental intakt, daher wird nicht vorschnell glattgestellt. BTC bewegt sich nur geringfuegig im Plus, weit von jeder Schwelle entfernt. Kein neuer, bisher ungehandelter Katalysator mit ausreichender Ueberzeugungskraft fuer eine zusaetzliche Position identifiziert (allgemeine Krypto-Nachrichtenlage - Deutsche Bank Custody-Plaene, Hyperliquid-Borrowing, Bastion-OCC-Antrag - ohne unmittelbaren Handelsimpuls); freies Kapital von ca. 44.806,91 EUR bleibt unveraendert und weit ausreichend fuer kuenftige Gelegenheiten.",
+    "marketOverview": "Sonntag, 17:07 MESZ: Boersen/ETFs/Rohstoffe weiterhin wochenendbedingt geschlossen, nur Krypto handelbar. Bitcoin seitwaerts bei ca. 81.395,92 USD (+0,49% seit Kauf pos-0016), weit von jeder Schwelle entfernt. Avalanche (AVAX) stabilisiert sich bei ca. 9,71 USD (-1,42% seit Kauf pos-0017), keine neue Bewegung seit dem letzten Lauf - der NYSE/ICE-Ausbruchsschub bleibt fundamental intakt, aber ohne neuen Kurstrigger. Altcoin-Markt insgesamt in leichter Erholung (Altcoin Season Index bei 48), jedoch kein neuer, bisher ungehandelter Katalysator. META bleibt wochenendbedingt unveraendert beim Freitagsschlusskurs 668,00 USD (+3,42%).",
+    "decision": "Um 17:07 MESZ kein neuer Trade. BTC (pos-0016) unveraendert bei ca. 81.395,92 USD (+0,49%), AVAX (pos-0017) unveraendert bei ca. 9,71 USD (-1,42%), META (pos-0014) wochenendbedingt unveraendert. Depotwert am Ende dieses Laufs: 2.015,89 EUR (3 offene Positionen).",
+    "reasoning": "17:07 MESZ, Sonntagnachmittag: Nur Krypto handelbar. AVAX und BTC bewegen sich gegenueber dem 16:08-Lauf praktisch nicht, kein Stop-Loss-Niveau erreicht, keine der bestehenden Thesen widerlegt. Kein neuer, bisher ungehandelter Katalysator mit ausreichender Ueberzeugungskraft fuer eine zusaetzliche Position identifiziert (Altcoin-Season-Index steigt leicht, aber ohne konkreten handelbaren Einzeltitel-Trigger). Freies Kapital von ca. 44.806,91 EUR bleibt unveraendert und weit ausreichend fuer kuenftige Gelegenheiten.",
     "positionIds": [
       "pos-0014",
       "pos-0016",
@@ -5817,6 +5817,11 @@
       {
         "time": "16:08",
         "note": "Keine Aenderung. BTC auf ca. 81.395,92 USD (+0,49%) aktualisiert, AVAX auf ca. 9,71 USD (-1,42%, Ruecksetzer vom Stundenhoch) aktualisiert, META wochenendbedingt unveraendert.",
+        "portfolioValue": 2015.89
+      },
+      {
+        "time": "17:07",
+        "note": "Keine Aenderung. BTC unveraendert bei ca. 81.395,92 USD (+0,49%), AVAX unveraendert bei ca. 9,71 USD (-1,42%), META wochenendbedingt unveraendert.",
         "portfolioValue": 2015.89
       }
     ]
