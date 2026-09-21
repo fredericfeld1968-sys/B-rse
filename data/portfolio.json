@@ -264,10 +264,10 @@
     "reasoning": "Bitcoin durchbricht am Nachmittag des 18.09. die seit dem 07.09. haltende psychologische und technische Widerstandsmarke von 80.000 USD und steigt auf ca. 81.000 USD (mehrfach unabhaengig bestaetigt: CoinDesk, Yahoo Finance, Cryptonews, Exchangerates.org, Coinspectator) - begleitet von einer Short-Squeeze mit rund 183 Mio. USD liquidierten Short-Positionen innerhalb einer Stunde. Zusaetzlicher regulatorischer Rueckenwind: Die SEC hat beschleunigte generische Listing-Standards fuer Krypto-ETPs sowie den Grayscale Digital Large Cap Fund (BTC/ETH/SOL/XRP/ADA) zugelassen, Goldman Sachs hat zudem eine eigene Bitcoin-ETF-Anmeldung eingereicht. Das Muster entspricht dem erfolgreichen BTC-Ausbruchstrade vom 19.08. (bestaetigter Ausbruch + Short-Liquidationen). Spekulative Momentum-Position auf die Fortsetzung des bestaetigten Ausbruchs ueber 80.000 USD.",
     "status": "open",
     "buyPrice": 81000,
-    "currentPrice": 81400,
-    "currentValue": 803.95,
-    "profitLoss": 3.95,
-    "profitLossPct": 0.49,
+    "currentPrice": 85035,
+    "currentValue": 839.85,
+    "profitLoss": 39.85,
+    "profitLossPct": 4.98,
     "closedDate": null,
     "closeReasoning": null
   },
@@ -287,5 +287,22 @@
     "profitLossPct": 12.59,
     "closedDate": "2026-09-20",
     "closeReasoning": "Gewinnmitnahme: AVAX ist seit dem letzten Lauf (20:07, ~9,71 USD) direkt per CoinGecko-API live verifiziert auf 11,09 USD gesprungen (+13,55% in 24h laut API, Timestamp 19:08:40 UTC) - mehrfach unabhaengig bestaetigt (CryptoTimes, TradingKey, Bloomingbit, jeweils 20.09.), getrieben von der NYSE/ICE-Tokenisierungs-Evaluierung sowie dem bevorstehenden Helicon-Mainnet-Upgrade (22.09., Staking-Lockup 14 Tage -> 48h). Seit Kauf (9,85 USD) ergibt sich ein Gewinn von +12,59% - deutlich ueber der etablierten Zielspanne (7-9%, analog Solana +10,53%, Bitcoin +9,6%). Da die Bewegung bereits stark gelaufen und kurzfristig ueberhitzt ist (Risiko eines 'Sell the news' zum Upgrade-Termin, ICE/NYSE-Deal offiziell noch nicht bestaetigt), wird passend zum spekulativen Kurzfrist-Profil konsequent glattgestellt."
+  },
+  {
+    "id": "pos-0018",
+    "date": "2026-09-21",
+    "asset": "Bitcoin",
+    "ticker": "BTC",
+    "assetClass": "Krypto",
+    "amount": 700,
+    "reasoning": "Bitcoin durchbricht am Nachmittag des 21.09. erstmals seit dem 31. Januar die Marke von 84.000 USD und steigt bis auf ca. 85.035 USD (+5-6% seit gestern) - mehrfach unabhaengig bestaetigt (CoinDesk, BeInCrypto, TECHi, CryptoTicker, Coinpedia). Treiber ist laut CoinDesk ein Short-Squeeze von rund 648 Mio. USD liquidierten Short-Positionen, kombiniert mit echten Spot-Zuflüssen (US-Spot-Bitcoin-ETFs zogen 593 Mio. USD an) bei niedrigen Funding-Rates - also spot-getriebene Nachfrage und kein reiner Leverage-Squeeze. Zusaetzlich faellt Brent Crude den vierten Tag in Folge (Deeskalations-Hoffnung Iran), was Risikoappetit staerkt. Bereits gehaltene Position pos-0016 (Kauf bei 81.000 USD) profitiert von der Bewegung (+4,98%); da dieser frische, mehrfach bestaetigte Ausbruch ueber das bisherige 81.000-82.000-Niveau hinausgeht (erstmals seit Januar), spekulative Aufstockung auf den bestaetigten Momentum-Ausbruch.",
+    "status": "open",
+    "buyPrice": 85035,
+    "currentPrice": 85035,
+    "currentValue": 700,
+    "profitLoss": 0,
+    "profitLossPct": 0,
+    "closedDate": null,
+    "closeReasoning": null
   }
 ]
