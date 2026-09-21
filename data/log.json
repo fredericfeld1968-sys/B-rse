@@ -5990,5 +5990,24 @@
         "portfolioValue": 2138.12
       }
     ]
+  },
+  {
+    "date": "2026-09-22",
+    "marketOverview": "Bitcoin durchbricht in der Nacht auf den 22.09. weiter nach oben auf ca. 86.540 USD (erstmals seit Ende Januar, angetrieben von anhaltenden Short-Squeeze-Effekten und robusten Spot-ETF-Zufluessen), waehrend Hyperliquid (HYPE) nach dem juengsten Allzeithoch (95,97 USD) leicht auf ca. 93,00 USD konsolidiert. Die 81. UN-Generalversammlung (22.-28.09.) mit erwarteter iranischer Teilnahme sowie anhaltende Spannungen um die Strasse von Hormuz halten das geopolitische Risiko hoch. Aktien-, ETF- und Rohstoffmaerkte sind um diese Nachtzeit (00:08 MESZ, Dienstag) geschlossen, gehandelt werden kann ausschliesslich Krypto.",
+    "decision": "Keine Aenderung. Erster Lauf des Tages: Kursaktualisierung der drei offenen Positionen (BTC pos-0016 +6,84%, BTC pos-0018 +1,77%, HYPE pos-0019 -1,40%), alle klar innerhalb des etablierten Haltebandes (Ziel 7-9%, Stop-Loss ca. -6,5 bis -7,5%). Kein Trade: keine der Positionen erreicht eine Schwelle, kein ueberzeugender neuer Katalysator jenseits der bereits gehaltenen Assets, Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten.",
+    "reasoning": "pos-0016 (BTC, 6,84%) liegt knapp unter der etablierten Gewinnmitnahme-Schwelle von 7%, daher weiter gehalten. pos-0018 (BTC, 1,77%) und pos-0019 (HYPE, -1,40%) sind noch deutlich innerhalb des Haltebandes. Fuer Neukaeufe wurde recherchiert (ETF-Fluesse, Altcoin-Bewegungen, geopolitische Lage), jedoch keine ueberzeugende, frische, mehrfach bestaetigte Gelegenheit identifiziert, die ueber die bereits gehaltenen BTC-/HYPE-Positionen hinausgeht.",
+    "positionIds": [
+      "pos-0016",
+      "pos-0018",
+      "pos-0019"
+    ],
+    "portfolioValueEnd": 2158.68,
+    "updates": [
+      {
+        "time": "00:08",
+        "note": "Keine Aenderung. BTC-Positionen auf 86.540 USD aktualisiert (pos-0016 +6,84%, pos-0018 +1,77%), HYPE auf 93,01 USD aktualisiert (-1,40%). Kein Trade: keine Position erreicht eine Schwelle, kein neuer ueberzeugender Katalysator, Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten.",
+        "portfolioValue": 2158.68
+      }
+    ]
   }
 ]
