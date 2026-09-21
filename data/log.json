@@ -5993,20 +5993,25 @@
   },
   {
     "date": "2026-09-22",
-    "marketOverview": "Bitcoin durchbricht in der Nacht auf den 22.09. weiter nach oben auf ca. 86.540 USD (erstmals seit Ende Januar, angetrieben von anhaltenden Short-Squeeze-Effekten und robusten Spot-ETF-Zufluessen), waehrend Hyperliquid (HYPE) nach dem juengsten Allzeithoch (95,97 USD) leicht auf ca. 93,00 USD konsolidiert. Die 81. UN-Generalversammlung (22.-28.09.) mit erwarteter iranischer Teilnahme sowie anhaltende Spannungen um die Strasse von Hormuz halten das geopolitische Risiko hoch. Aktien-, ETF- und Rohstoffmaerkte sind um diese Nachtzeit (00:08 MESZ, Dienstag) geschlossen, gehandelt werden kann ausschliesslich Krypto.",
-    "decision": "Keine Aenderung. Erster Lauf des Tages: Kursaktualisierung der drei offenen Positionen (BTC pos-0016 +6,84%, BTC pos-0018 +1,77%, HYPE pos-0019 -1,40%), alle klar innerhalb des etablierten Haltebandes (Ziel 7-9%, Stop-Loss ca. -6,5 bis -7,5%). Kein Trade: keine der Positionen erreicht eine Schwelle, kein ueberzeugender neuer Katalysator jenseits der bereits gehaltenen Assets, Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten.",
-    "reasoning": "pos-0016 (BTC, 6,84%) liegt knapp unter der etablierten Gewinnmitnahme-Schwelle von 7%, daher weiter gehalten. pos-0018 (BTC, 1,77%) und pos-0019 (HYPE, -1,40%) sind noch deutlich innerhalb des Haltebandes. Fuer Neukaeufe wurde recherchiert (ETF-Fluesse, Altcoin-Bewegungen, geopolitische Lage), jedoch keine ueberzeugende, frische, mehrfach bestaetigte Gelegenheit identifiziert, die ueber die bereits gehaltenen BTC-/HYPE-Positionen hinausgeht.",
+    "marketOverview": "Bitcoin konsolidiert in der Nacht auf den 22.09. knapp unter dem jüngsten Mehrmonatshoch bei ca. 86.400 USD (CoinDesk zuletzt 86.354,98 USD), nachdem der Ausbruch über 84.000-85.000 USD durch Spot-ETF-Zuflüsse und Short-Squeezes befeuert wurde. Hyperliquid (HYPE) markiert bei 95,73 USD ein neues Allzeithoch (+5% in 24h), getrieben von der Kraken/Bitnomial-Futures-Partnerschaft und starkem On-Chain-Revenue-Wachstum. Die breitere Altcoin-Rotation (AVAX, NEAR, ARB, INJ) haelt an, der Altcoin-Season-Index bleibt mit 46 aber noch unter der Altseason-Schwelle von 75. Aktien/ETFs/Rohstoffe sind um diese Nachtzeit nicht handelbar.",
+    "decision": "Keine Aenderung. Zweiter Lauf des Tages: Kursaktualisierung der drei offenen Positionen (BTC pos-0016 +6,67%, BTC pos-0018 +1,61%, HYPE pos-0019 +1,48%), alle weiterhin klar innerhalb des etablierten Haltebandes (Gewinnmitnahme ~7-9%, Stop-Loss ~-6,5% bis -7,5%). Kein neuer, wirklich ueberzeugender Katalysator seit dem letzten Lauf identifiziert; ausserhalb der Boersenzeiten sind ohnehin nur Krypto-Trades moeglich.",
+    "reasoning": "pos-0016 (BTC, +6,67%) naehert sich der Gewinnmitnahme-Schwelle, liegt aber noch knapp darunter - weiter gehalten. pos-0018 (BTC, +1,61%) und pos-0019 (HYPE, +1,48%) sind noch deutlich innerhalb des Haltebandes. Recherchierte Altcoin-Bewegungen (AVAX/NEAR/ARB/INJ-Rotation) sind bereits mehrere Tage alt bzw. teils schon gehandelt (vgl. pos-0017, geschlossen 20.09.) und liefern keinen frischen, unbestaetigten Katalysator fuer eine neue Position. Daher kein Trade in diesem Lauf.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
       "pos-0019"
     ],
-    "portfolioValueEnd": 2158.68,
+    "portfolioValueEnd": 2173.47,
     "updates": [
       {
         "time": "00:08",
         "note": "Keine Aenderung. BTC-Positionen auf 86.540 USD aktualisiert (pos-0016 +6,84%, pos-0018 +1,77%), HYPE auf 93,01 USD aktualisiert (-1,40%). Kein Trade: keine Position erreicht eine Schwelle, kein neuer ueberzeugender Katalysator, Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten.",
         "portfolioValue": 2158.68
+      },
+      {
+        "time": "01:08",
+        "note": "Keine Aenderung. BTC-Positionen auf 86.400 USD aktualisiert (pos-0016 +6,67%, pos-0018 +1,61%), HYPE auf 95,73 USD aktualisiert (+1,48%, neues ATH). Kein Trade: keine Position erreicht eine Schwelle, kein neuer ueberzeugender Katalysator, Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten.",
+        "portfolioValue": 2173.47
       }
     ]
   }
