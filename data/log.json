@@ -6125,5 +6125,25 @@
         "portfolioValue": 2767.56
       }
     ]
+  },
+  {
+    "date": "2026-09-23",
+    "marketOverview": "US-Boersen weiterhin ausserhalb der Handelszeiten (Mitternacht MESZ), nur Krypto handelbar. Bitcoin pendelt stabil um 86.100-86.200 USD (leicht -0,5% in 24h) nachdem die Short-Squeeze-Welle vom Wochenende ausgelaufen ist. Hyperliquid durchbricht sein bisheriges Allzeithoch (95,99 USD) und steigt auf ca. 97,20 USD (+4,5% in 24h), getrieben von der Kraken/Bitnomial-Futures-Partnerschaft und starker Lending-Nachfrage. Dogecoin konsolidiert nahe 0,0998 USD nach der Rally der Vortage; Glassnode-Altcoin-Cycle-Signal bleibt auf 'Altseason'.",
+    "decision": "00:08-Lauf (erster Lauf des neuen Tages): Tagesbudget von 1.000 EUR gutgeschrieben (totalFreshCapitalEur nun 50.000 EUR). Keine Aenderung an den offenen Positionen: BTC (pos-0016 +6,35%, pos-0018 +1,30%), HYPE (pos-0019 +3,04%, trotz neuem ATH noch unter Zielspanne) und DOGE (pos-0020 +1,34%) wurden auf aktuelle Kurse aktualisiert, keine Position erreicht die Zielspanne (7-9%) oder den Stop-Loss (-6,5% bis -7,5%). Kein neuer, bislang ungehandelter Einzeltitel-Katalysator gefunden (HYPE-ATH-Bruch ist Fortsetzung einer bereits gehaltenen Position, Dogecoin-Pump vom Wochenende bereits eingepreist). Kein Trade.",
+    "reasoning": "Diszipliniertes Abwarten passend zum bisherigen Muster: Alle vier offenen Positionen liegen weiterhin klar innerhalb der Halte-Zone zwischen Stop-Loss und Zielspanne. HYPE hat zwar sein bisheriges Allzeithoch von 95,99 USD auf 97,20 USD durchbrochen, dies ist jedoch Fortsetzung des bereits gehaltenen, seit dem 21.09. laufenden institutionellen Momentums (Kraken/Bitnomial-Partnerschaft, Lending-Launch) und kein neuer, noch nicht gehandelter Katalysator, der eine zusaetzliche Position rechtfertigen wuerde. Aktien/ETFs/Rohstoffe sind um Mitternacht MESZ nicht handelbar. Freies Kapital (~47.107 EUR nach Tagesbudget-Gutschrift) bleibt bewusst ungenutzt, da sich keine ueberzeugende neue Gelegenheit bietet.",
+    "positionIds": [
+      "pos-0016",
+      "pos-0018",
+      "pos-0019",
+      "pos-0020"
+    ],
+    "portfolioValueEnd": 2786.18,
+    "updates": [
+      {
+        "time": "00:08",
+        "note": "Keine Aenderung. Tagesbudget (1.000 EUR) gutgeschrieben. BTC-Positionen auf 86.141 USD aktualisiert (pos-0016 +6,35%, pos-0018 +1,30%), HYPE auf neues ATH 97,20 USD aktualisiert (+3,04% seit Kauf), DOGE auf 0,099819 USD aktualisiert (+1,34%). Kein Trade: keine Position erreicht eine Schwelle, kein neuer ueberzeugender Einzeltitel-Katalysator, Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten.",
+        "portfolioValue": 2786.18
+      }
+    ]
   }
 ]
