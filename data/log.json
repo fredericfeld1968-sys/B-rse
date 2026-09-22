@@ -5993,15 +5993,16 @@
   },
   {
     "date": "2026-09-22",
-    "marketOverview": "DAX legt weiter zu auf ca. 25.608 Punkte (+1,2%), Euro Stoxx 50 bei 6.322 (+1,4%); Nasdaq/S&P schlossen gestern auf Rekordhoch (Nasdaq +2,26% auf 27.122, S&P +1,49% auf 7.764,70, angefuehrt von Meta +11%), getragen von KI-Chip-Optimismus (AMD nahe 1 Bio. USD Marktkapitalisierung), fallenden Renditen und Oelpreis-Ruecksetzer nach Hoffnung auf diplomatische Loesung im US-Iran-Konflikt (Brent knapp ueber 100 USD). US-Boersen oeffnen erst um 15:30 MESZ. Bitcoin seitwaerts bei ca. 86.624 USD (+6,5% 24h, ueber 648 Mio. USD Short-Liquidationen seit 21.09.), HYPE zieht sich von seinem ATH (95,97 USD) leicht auf ca. 94,33 USD zurueck.",
-    "decision": "Bislang heute (00:08-12:08): Keine Trades. Tagesbudget wurde bereits um 00:08 gutgeschrieben. Alle drei offenen Krypto-Positionen (2x BTC, 1x HYPE) laufend auf aktuelle Kurse gebracht; pos-0016 (BTC) bleibt bei +6,94% knapp unterhalb der Zielspanne (7-9%), pos-0019 (HYPE) zieht sich vom ATH auf Einstandsniveau zurueck (+0,0%). Die breite Nasdaq-/AMD-Rally (AMD nahe 1 Bio. USD Marktkapitalisierung) ist bereits marktweit bekannt und eingepreist, US-Boersen zudem noch nicht geoeffnet (Start 15:30 MESZ) - im 12:08-Lauf kein neuer, hinreichend ueberzeugender Einzelkatalysator identifiziert.",
-    "reasoning": "pos-0016 (BTC, Kauf 81.000 USD) bei 86.624 USD weiterhin +6,94% - nah an, aber noch unterhalb der etablierten Zielspanne (7-9%). pos-0018 (BTC, Kauf 85.035 USD) bei 86.624 USD unveraendert +1,87%. pos-0019 (HYPE, Kauf 94,33 USD) zieht sich von 95,73 USD auf 94,33 USD zurueck (CoinGecko) - wieder auf Einstandsniveau (+0,0%), weder Ziel- noch Stop-Loss-Schwelle erreicht. Der breite AI-Chip-Rally-Trend (AMD nahe 1 Bio. USD Marktkapitalisierung, Nasdaq-Rekordschluss gestern) ist bereits mehrfach ueberprueft und als 'bereits eingepreist, kein frischer Einzeltitel-Katalysator' verworfen worden; US-Kassamarkt zudem noch geschlossen (Oeffnung erst 15:30 MESZ), sodass nur europaeische Aktien/ETFs oder Krypto handelbar waeren. Kein Trade in diesem Lauf.",
+    "marketOverview": "US-Aktien setzen die Rekordjagd fort (Nasdaq +2,26% auf 27.122 Punkte, S&P 500 +1,49% auf 7.764,70 am Montagsschluss, angefuehrt von Meta +11% und einer breiten KI-Chip-Rally); Dienstag oeffnen die US-Boersen erst um 15:30 MESZ, Futures/Russell 2000 leicht positiv. Bitcoin haelt sich stabil bei ca. 86.600 USD (+6,5% 24h). Glassnode meldet einen frischen Wechsel des Altcoin-Cycle-Signals von 'Bitcoin-Season' zu 'Altcoin-Season' (81,25/100) - breite Teilnahme ueber den Altcoin-Markt (XRP +6%, Solana +4,5%) und eine Memecoin-Rally (Dogecoin +12-14%, PEPE +28%, SHIB +7%).",
+    "decision": "Heute (00:08-13:08): Tagesbudget wurde bereits um 00:08 gutgeschrieben. Bestehende Krypto-Positionen (2x BTC, 1x HYPE) laufend auf aktuelle Kurse gebracht; pos-0016 (BTC) bei +6,91% weiterhin knapp unterhalb der Zielspanne, pos-0018 (BTC) +1,84%, pos-0019 (HYPE) nahe Einstandsniveau (+0,18%) - keine dieser drei Positionen erreicht Ziel- oder Stop-Loss-Schwelle. Um 13:08 neue spekulative Position eroeffnet: DOGE (600 EUR) auf Basis eines mehrfach bestaetigten technischen Ausbruchs (+12-14%, Whale-Kaeufe, Wolfe-Wave) eingebettet in Glassnode's frisch geflipptes Altcoin-Season-Signal.",
+    "reasoning": "pos-0016 (BTC, Kauf 81.000 USD) bei 86.600 USD weiterhin +6,91% - nah an, aber noch unterhalb der etablierten Zielspanne (7-9%), daher gehalten. pos-0018 (BTC, Kauf 85.035 USD) bei 86.600 USD +1,84%, deutlich im Halteband. pos-0019 (HYPE, Kauf 94,33 USD) bei 94,50 USD praktisch am Einstandsniveau (+0,18%), weder Ziel- noch Stop-Loss-Schwelle erreicht. Neue Position pos-0020 (DOGE, Kauf 0,0985 USD): Dreiecks-Ausbruch mit Whale-Kaeufen (>360 Mio. DOGE/24h) und Wolfe-Wave-Signal, mehrfach unabhaengig bestaetigt (cryptonews.net, coingabbar, cryptotimes.io), zusaetzlich gestuetzt durch Glassnode's frisch geflipptes Altcoin-Cycle-Signal (81,25/100, mehrfach unabhaengig bestaetigt) und eine breite Memecoin-Rally (PEPE +28%, SHIB +7%). US-Kassamarkt fuer Aktien/ETFs/Rohstoffe erst ab 15:30 MESZ geoeffnet, daher spekulative Kurzfrist-Position im Kryptosegment passend zum Risikoprofil.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
-      "pos-0019"
+      "pos-0019",
+      "pos-0020"
     ],
-    "portfolioValueEnd": 2168.63,
+    "portfolioValueEnd": 2769.27,
     "updates": [
       {
         "time": "00:08",
@@ -6067,6 +6068,11 @@
         "time": "12:08",
         "note": "Keine Aenderung. BTC-Positionen unveraendert bei 86.624 USD (pos-0016 +6,94%, pos-0018 +1,87%), HYPE auf 94,33 USD aktualisiert (Rueckzug vom ATH, +0,0%). AMD/Nasdaq-Chiprally und Greenland-Nebenwerte geprueft, aber verworfen: bereits marktweit bekannt bzw. rein spekulativ ohne fundamentale Substanz; US-Boersen erst ab 15:30 MESZ geoeffnet. Kein Trade.",
         "portfolioValue": 2168.63
+      },
+      {
+        "time": "13:08",
+        "note": "Kauf DOGE 600 EUR (Dreiecks-Ausbruch +12-14%, Whale-Kaeufe, Wolfe-Wave, eingebettet in Glassnode Altcoin-Season-Signal). BTC-Positionen auf 86.600 USD aktualisiert (pos-0016 +6,91%, pos-0018 +1,84%), HYPE auf 94,50 USD aktualisiert (+0,18%).",
+        "portfolioValue": 2769.27
       }
     ]
   }
