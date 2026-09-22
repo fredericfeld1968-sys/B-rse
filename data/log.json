@@ -5993,15 +5993,15 @@
   },
   {
     "date": "2026-09-22",
-    "marketOverview": "Bitcoin pendelt nach dem Achtmonatshoch bei rund 85.000-86.500 USD leicht seitwaerts (aktuell ca. 85.457,75 USD, CoinDesk), gestuetzt durch Strategys ersten Bitcoin-Kauf seit drei Wochen (75,7 Mio. USD) und einen Short-Squeeze von 648 Mio. USD - der Titel gilt aber bereits als ueberkauft (RSI im ueberkauften Bereich). HYPE konsolidiert knapp unter seinem Allzeithoch bei ca. 93,66 USD (-0,71% seit Kauf von pos-0019), das Helicon-Mainnet-Upgrade ist fuer 15:00 UTC (17:00 MESZ) terminiert und damit bereits bekannt/eingepreist. Aktien/ETFs/Rohstoffe sind um 07:09 MESZ vor Boersenoeffnung weiterhin nicht handelbar.",
-    "decision": "Bislang heute (00:08-07:09): Keine Trades. Tagesbudget wurde bereits um 00:08 gutgeschrieben. Alle drei offenen Krypto-Positionen (2x BTC, 1x HYPE) wurden fortlaufend auf aktuelle Kurse gebracht; keine Position hat die etablierte Zielspanne (~7-9% Gewinn) oder die Stop-Loss-Schwelle (~-6,5% bis -7,5%) erreicht. Kein neuer, hinreichend ueberzeugender Katalysator fuer eine Neuposition (Helicon-Upgrade ist bereits bekannt und eingepreist); ausserhalb der Boersenzeiten ohnehin nur Krypto handelbar.",
-    "reasoning": "pos-0016 (BTC, Kauf 81.000 USD) bei 85.457,75 USD nun +5,50% - innerhalb der Zielspanne aber noch nicht am oberen Ende (7-9%), daher noch keine Gewinnmitnahme. pos-0018 (BTC, Kauf 85.035 USD) bei 85.457,75 USD nun +0,50% - kaum bewegt. pos-0019 (HYPE, Kauf 94,33 USD) bei 93,66 USD nun -0,71% - im normalen Schwankungsbereich, weit von der Stop-Loss-Schwelle entfernt. Fuer neue Positionen fehlt ein frischer, mehrfach unabhaengig bestaetigter Katalysator: die bekannten Themen (Saylor-Kauf, Kurzsqueeze, Avalanche-Helicon-Upgrade um 17:00 MESZ) sind bereits vorab bekannt bzw. eingepreist und damit kein 'ueberzeugender' neuer Handelsanlass im Sinne der Vorgaben. Aktien/ETFs/Rohstoffe sind vor Boersenoeffnung nicht handelbar.",
+    "marketOverview": "Bitcoin pendelt weiter seitwaerts knapp unter dem Achtmonatshoch bei ca. 85.330 USD (+4,5% in 24h laut CoinGecko), gestuetzt durch Iran-Deeskalationshoffnungen (fallende Oelpreise) und eine breite Risikofreude nach der besten Wall-Street-Session seit Anfang August (Tech-/Chip-Rally, Meta-KI-Agent-Enthusiasmus). HYPE konsolidiert knapp unter ATH bei ca. 93,72 USD (-0,3% in 24h), das Helicon-Mainnet-Upgrade (17:00 MESZ) bleibt eingepreist. Aktien/ETFs/Rohstoffe sind um 08:08 MESZ vor Boersenoeffnung weiterhin nicht handelbar.",
+    "decision": "Bislang heute (00:08-08:08): Keine Trades. Tagesbudget wurde bereits um 00:08 gutgeschrieben. Alle drei offenen Krypto-Positionen (2x BTC, 1x HYPE) wurden fortlaufend auf aktuelle Kurse gebracht; keine Position hat die etablierte Zielspanne (~7-9% Gewinn) oder die Stop-Loss-Schwelle (~-6,5% bis -7,5%) erreicht. Kein neuer, hinreichend ueberzeugender Einzelkatalysator fuer eine Neuposition; ausserhalb der Boersenzeiten ohnehin nur Krypto handelbar.",
+    "reasoning": "pos-0016 (BTC, Kauf 81.000 USD) bei 85.329,72 USD nun +5,35% - innerhalb der Zielspanne, aber noch nicht am oberen Ende. pos-0018 (BTC, Kauf 85.035 USD) bei 85.329,72 USD nun +0,35% - kaum bewegt. pos-0019 (HYPE, Kauf 94,33 USD) bei 93,72 USD nun -0,65% - im normalen Schwankungsbereich, weit von der Stop-Loss-Schwelle entfernt. Die allgemeine Markt-Rally (Tech/Chips, Oel-Deeskalation) ist bereits breit bekannt und kein neuer, einzeltitelbezogener Katalysator im Sinne der Vorgaben. Aktien/ETFs/Rohstoffe sind vor Boersenoeffnung nicht handelbar.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
       "pos-0019"
     ],
-    "portfolioValueEnd": 2143.25,
+    "portfolioValueEnd": 2141.31,
     "updates": [
       {
         "time": "00:08",
@@ -6042,6 +6042,11 @@
         "time": "07:09",
         "note": "Keine Aenderung. BTC-Positionen auf 85.457,75 USD aktualisiert (pos-0016 +5,50%, pos-0018 +0,50%), HYPE auf 93,66 USD aktualisiert (-0,71%). Kein Trade: keine Position erreicht eine Schwelle, Helicon-Upgrade (17:00 MESZ) ist bereits bekannt/eingepreist, Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten.",
         "portfolioValue": 2143.25
+      },
+      {
+        "time": "08:08",
+        "note": "Keine Aenderung. BTC-Positionen auf 85.329,72 USD aktualisiert (pos-0016 +5,35%, pos-0018 +0,35%), HYPE auf 93,72 USD aktualisiert (-0,65%). Kein Trade: keine Position erreicht eine Schwelle, kein neuer ueberzeugender Einzelkatalysator, Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten.",
+        "portfolioValue": 2141.31
       }
     ]
   }
