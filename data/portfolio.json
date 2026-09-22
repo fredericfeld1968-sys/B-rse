@@ -315,10 +315,10 @@
     "reasoning": "HYPE markiert am 21.09. sein drittes Allzeithoch innerhalb einer Woche (aktuell ca. 94,33 USD, +17,3% in 7 Tagen, +3,6% in 24h) - mehrfach unabhaengig bestaetigt (Yahoo Finance, AOL, 247wallst, BigGo Finance, Motley Fool, CryptoTicker). Konkrete, frische Katalysatoren: institutionelle Akkumulation ueber 385 Mio. USD durch Hyperliquid Strategies (4,28 Mio. HYPE in drei Wochen), Launch einer neuen Lending-Funktion am 18.09. (269 Mio. USD Kreditvolumen am ersten Tag), sowie eine Kraken/Bitnomial-Partnerschaft fuer regulierte Perpetual-Futures mit HYPE-Einsatz. Anders als die bereits mehrfach heute verworfenen AI-Altcoin-Bewegungen (SAGA/LAT/VVV/ARC/RENDER) handelt es sich um einen fundamental unterlegten, noch nicht gehandelten institutionellen Nachfrageschub. Spekulative Momentum-Position auf die Fortsetzung des bestaetigten Ausbruchs.",
     "status": "open",
     "buyPrice": 94.33,
-    "currentPrice": 95.73,
-    "currentValue": 608.9,
-    "profitLoss": 8.9,
-    "profitLossPct": 1.48,
+    "currentPrice": 94.33,
+    "currentValue": 600.0,
+    "profitLoss": 0.0,
+    "profitLossPct": 0.0,
     "closedDate": null,
     "closeReasoning": null
   }
