@@ -5993,16 +5993,16 @@
   },
   {
     "date": "2026-09-22",
-    "marketOverview": "US-Maerkte nahe Rekordhoch: Nasdaq und S&P 500 leicht im Plus, Halbleiterindex im sechsten Gewinntag in Folge (AMD/Intel-Rally vom Vortag haelt an), Oelpreis (Brent ~99-101 USD) faellt weiter auf Hoffnung einer diplomatischen Loesung an der Strasse von Hormuz. Fed bleibt nach der Zinsanhebung vom 17.09. (3,75-4,00%) hawkish, 10-Jahres-Rendite bei ca. 5,0%. Krypto bleibt stark: Bitcoin ueber 86.000 USD (Kurse zuletzt im Januar gesehen), getrieben von institutionellen Kaeufen (Strategy, Strive) und Short-Eindeckungen; Gold leicht ruecklaeufig auf nachlassende Geopolitik-Praemie.",
-    "decision": "Tagesverlauf 22.09.: Um 13:08 Kauf DOGE (600 EUR) nach bestaetigtem Dreiecks-Ausbruch und Altcoin-Season-Signal. Alle anderen Laeufe (00:08 bis 17:08) ohne Aenderung: offene Positionen (BTC x2, HYPE, DOGE) kontinuierlich aktualisiert, keine Position erreichte Zielspanne oder Stop-Loss, kein weiterer ueberzeugender Einzeltitel-Katalysator gefunden trotz starker, aber bereits bekannter/eingepreister marktbreiter Rallys (Chip-Sektor, Krypto).",
-    "reasoning": "Diszipliniertes Abwarten ausserhalb bestaetigter Schwellen: Bestehende Positionen (pos-0016 BTC +6,51%, pos-0018 BTC +1,46%, pos-0019 HYPE +0,48%, pos-0020 DOGE +1,55%) liegen noch unterhalb der etablierten Ziel-Spanne von 7-9% bzw. weit von der Stop-Loss-Schwelle entfernt, daher werden sie gehalten. Neue Kaufkandidaten (AMD/Chip-Rally, allgemeine Nasdaq-Staerke) wurden geprueft, aber als bereits marktweit bekannt und eingepreist verworfen - kein frischer, einzeltitelspezifischer Katalysator im Sinne des bisherigen erfolgreichen Handelsmusters gefunden.",
+    "marketOverview": "US-Maerkte am Nachmittag uneinheitlich nahe Rekordniveau: Nasdaq +0,4%, S&P 500 kaum veraendert, Dow leicht im Minus; Hintergrund ist Trumps UN-Rede mit Verweis auf moegliches US-Iran-Abkommen erst nach den Midterms im November, was Hoffnung auf eine diplomatische Loesung an der Strasse von Hormuz naehrt und Oel weiter unter 99 USD/Barrel drueckt. Chip-Sektor markiert sechsten Gewinntag in Folge. Krypto bleibt der staerkste Markt: Gesamtmarktkapitalisierung wieder ueber 3 Billionen USD (erstmals seit Januar), Bitcoin stabil um 86.000-86.700 USD (+6-7% 24h), getrieben von US-Anleihe-Rueckkaeufen, Short-Eindeckungen und institutioneller Nachfrage; HYPE und DOGE konsolidieren nahe ihren juengsten Hochs ohne neuen eigenstaendigen Katalysator.",
+    "decision": "Tagesverlauf 22.09.: Um 13:08 Kauf DOGE (600 EUR) nach bestaetigtem Dreiecks-Ausbruch und Altcoin-Season-Signal. Alle anderen Laeufe (00:08 bis 18:08) ohne Aenderung: offene Positionen (BTC x2, HYPE, DOGE) kontinuierlich aktualisiert, keine Position erreichte Zielspanne (7-9%) oder Stop-Loss (-6,5% bis -8%), kein weiterer ueberzeugender Einzeltitel-Katalysator gefunden trotz starker, aber bereits bekannter/eingepreister marktbreiter Rallys (Chip-Sektor, Krypto).",
+    "reasoning": "Diszipliniertes Abwarten ausserhalb bestaetigter Schwellen: Bestehende Positionen (pos-0016 BTC +6,54%, pos-0018 BTC +1,49%, pos-0019 HYPE -0,03%, pos-0020 DOGE +1,36%) liegen weiterhin unterhalb der etablierten Ziel-Spanne bzw. weit von der Stop-Loss-Schwelle entfernt, daher werden sie gehalten. HYPE und DOGE zeigen am Nachmittag keine neue Dynamik (HYPE nahe Vortagesschluss, DOGE-Kurs je nach Boerse 0,093-0,10 USD ohne klaren frischen Trigger), BTC konsolidiert nahe 86.300 USD ohne neuen Einzelkatalysator seit dem letzten Lauf. Freies Kapital (~46.100 EUR) bleibt bewusst ungenutzt, da kein neuer, unabhaengig bestaetigter Katalysator im Sinne des bisherigen erfolgreichen Handelsmusters identifiziert wurde.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
       "pos-0019",
       "pos-0020"
     ],
-    "portfolioValueEnd": 2774.48,
+    "portfolioValueEnd": 2770.73,
     "updates": [
       {
         "time": "00:08",
@@ -6093,6 +6093,11 @@
         "time": "17:08",
         "note": "Keine Aenderung. BTC-Positionen auf 86.276 USD aktualisiert (pos-0016 +6,51%, pos-0018 +1,46%), HYPE auf 94,78 USD aktualisiert (+0,48%), DOGE auf 0,100025 USD aktualisiert (+1,55%). Kein Trade: keine Position erreicht die Zielspanne (7-9%) oder Stop-Loss (-6,5% bis -7,5%); US-Markt setzt die Chip-/AI-Rally (Nasdaq nahe Rekordhoch, 6. Gewinntag der Halbleiter in Folge) fort, aber ohne frischen Einzeltitel-Katalysator (AMD-Rekordlauf bereits vom Vortag bekannt/eingepreist). Oelpreis faellt weiter auf Hormuz-Deeskalationshoffnung.",
         "portfolioValue": 2774.48
+      },
+      {
+        "time": "18:08",
+        "note": "Keine Aenderung. BTC-Positionen auf 86.300 USD aktualisiert (pos-0016 +6,54%, pos-0018 +1,49%), HYPE auf 94,30 USD (-0,03%), DOGE auf 0,09984 USD (+1,36%). Kein Trade: keine Position erreicht eine Schwelle, kein neuer ueberzeugender Katalysator seit dem 17:08-Lauf (US-Maerkte nahe Rekordhoch, Oel faellt auf Hormuz-Diplomatiehoffnung).",
+        "portfolioValue": 2770.73
       }
     ]
   }
