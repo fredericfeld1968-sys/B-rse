@@ -5457,15 +5457,15 @@
   },
   {
     "date": "2026-09-18",
-    "marketOverview": "US-Boersen freitagabends leicht uneinheitlich (S&P500 +0,11%, Dow -0,13%, Nasdaq +0,39%, Halbleiter/SMH +3% nach starken Broadcom/Micron/Marvell-AI-Ausblicken; Buffett-Nachfolge durch Howard Buffett im Fokus). Bitcoin haelt den Ausbruch ueber 80.000 USD (~80.800 USD), Solana testet die Widerstandszone 106-108 USD (RSI zeigt bereits ueberkaufte Warnsignale), Gold markiert mit ~4.380-4.420 USD/oz ein Wochenhoch. Kein Einzeltitel zeigt einen frischen, mehrfach bestaetigten Ausreisser wie bei frueheren Trades.",
-    "decision": "Kein neuer Trade um 20:08 MESZ. META (+5,63%), SOL (+3,47%) und BTC (-0,25%) bleiben unveraendert gehalten - keine Position erreicht Stop-Loss- oder Gewinnschwelle, und trotz Semiconductor-Rally (+3%) sowie Gold-Wochenhoch fehlt ein ueberzeugender, frisch bestaetigter Einzelkatalysator fuer einen Neueinstieg.",
-    "reasoning": "18:08 MESZ: Bitcoin durchbricht mehrfach unabhaengig bestaetigt (CoinDesk, Yahoo Finance, Cryptonews, Exchangerates.org) die seit 07.09. haltende Widerstandsmarke von 80.000 USD und steigt auf ca. 81.000 USD, begleitet von einer Short-Squeeze (~183 Mio. USD Liquidationen/Stunde) und frischem regulatorischen Rueckenwind (SEC-Beschleunigung bei Krypto-ETP-Listings, Grayscale Digital Large Cap Fund, Goldman-Sachs-BTC-ETF-Antrag) - Muster analog zum erfolgreichen BTC-Trade vom 19.08. Daher spekulativer Einstieg mit 800 EUR bei 81.000 USD. META auf 673,42 USD (+4,26% seit Kauf) und SOL auf 101,50 USD (-0,84% seit Kauf) aktualisiert; beide bewegen sich weiter im normalen Rahmen ohne Handlungsbedarf. | 19:08 MESZ: META auf 678,23 USD (+5,0%), SOL auf 105,73 USD (+3,29%, naehert sich der 106-108-USD-Widerstandszone) und BTC auf 80.800 USD (-0,25%, haelt den Ausbruch) aktualisiert. Kein Trade: Altcoin-/L2-Rally (Starknet, Arbitrum +17%, BNB-Hoch) bereits vor Stunden gelaufen und damit fuer einen ueberzeugenden Neueinstieg zu weit fortgeschritten, keine der drei offenen Positionen erreicht Stop-Loss- oder Gewinnschwelle. | 20:08 MESZ: META auf 682,31 USD (+5,63%), SOL auf 105,91 USD (+3,47%, testet 106-108-USD-Widerstand mit ueberkauften RSI-Warnsignalen laut Cryptonomist) und BTC auf 80.800 USD (-0,25%) aktualisiert. Recherche zu Halbleiter-Rally (SMH +3%, Broadcom/Micron/Marvell-AI-Ausblicke) und Gold-Wochenhoch (~4.380-4.420 USD/oz) ergab keinen frischen, mehrfach unabhaengig bestaetigten Einzelkatalysator mit vergleichbarer Ueberzeugungskraft wie bei frueheren Trades (z.B. AMD-/NVDA-Dip, Brent-Eskalation) - Chip-Rally ist breit getragener, bereits bekannter Trend ohne klaren Tages-Ausloeser, Gold-Anstieg moderat ohne neue Eskalation. Daher kein Trade, alle drei offenen Positionen unveraendert gehalten.",
+    "marketOverview": "US-Boersen bleiben seit 22:00 MESZ geschlossen. Bitcoin konsolidiert nach kurzzeitigem Test von 81.258 USD bei rund 80.900 USD in einer Bull-Flag-Formation (Ziel laut Technikern ~93.000 USD bei bestaetigtem Ausbruch); Short-Liquidationen von ueber 200 Mio. USD stuetzten die Bewegung im Tagesverlauf. Solana profitiert von einer Derivate-getriebenen Rally und haelt sich ueber 105 USD. Der breite Altcoin-Markt (NEAR, Arbitrum, Uniswap, Aptos) legt kraeftig zweistellig zu, getrieben von der neuen SEC-Innovationsausnahme fuer tokenisierte US-Aktien - die Bewegung ist jedoch bereits weit fortgeschritten.",
+    "decision": "Kein neuer Trade um 22:07 MESZ. META (+5,00%), SOL (+4,05%) und BTC (+0,06%) bleiben unveraendert gehalten - keine Position erreicht Stop-Loss- oder Gewinnschwelle (Zielbereich 7-9%), und trotz der kraeftigen Arbitrum-/Altcoin-Rally (ARB +26% heute) wird nicht mehr eingestiegen, da diese Bewegung bereits Stunden laeuft und wiederholt als zu weit fortgeschritten fuer einen ueberzeugenden Neueinstieg eingestuft wurde. | 23:08 MESZ: Weiterhin kein Trade - Altcoin-Rally bereits zu weit gelaufen, BTC-Ausbruch ueber 81.258 USD nicht bestaetigt gehalten, keine Position an Stop-Loss- oder Gewinnschwelle. META (+5,00%), SOL (+5,02%) und BTC (-0,12%) unveraendert gehalten.",
+    "reasoning": "18:08 MESZ: Bitcoin durchbricht mehrfach unabhaengig bestaetigt (CoinDesk, Yahoo Finance, Cryptonews, Exchangerates.org) die seit 07.09. haltende Widerstandsmarke von 80.000 USD und steigt auf ca. 81.000 USD, begleitet von einer Short-Squeeze (~183 Mio. USD Liquidationen/Stunde) und frischem regulatorischen Rueckenwind (SEC-Beschleunigung bei Krypto-ETP-Listings, Grayscale Digital Large Cap Fund, Goldman-Sachs-BTC-ETF-Antrag) - Muster analog zum erfolgreichen BTC-Trade vom 19.08. Daher spekulativer Einstieg mit 800 EUR bei 81.000 USD. META auf 673,42 USD (+4,26% seit Kauf) und SOL auf 101,50 USD (-0,84% seit Kauf) aktualisiert; beide bewegen sich weiter im normalen Rahmen ohne Handlungsbedarf. | 19:08 MESZ: META auf 678,23 USD (+5,0%), SOL auf 105,73 USD (+3,29%, naehert sich der 106-108-USD-Widerstandszone) und BTC auf 80.800 USD (-0,25%, haelt den Ausbruch) aktualisiert. Kein Trade: Altcoin-/L2-Rally (Starknet, Arbitrum +17%, BNB-Hoch) bereits vor Stunden gelaufen und damit fuer einen ueberzeugenden Neueinstieg zu weit fortgeschritten, keine der drei offenen Positionen erreicht Stop-Loss- oder Gewinnschwelle. | 20:08 MESZ: META auf 682,31 USD (+5,63%), SOL auf 105,91 USD (+3,47%, testet 106-108-USD-Widerstand mit ueberkauften RSI-Warnsignalen laut Cryptonomist) und BTC auf 80.800 USD (-0,25%) aktualisiert. Recherche zu Halbleiter-Rally (SMH +3%, Broadcom/Micron/Marvell-AI-Ausblicke) und Gold-Wochenhoch (~4.380-4.420 USD/oz) ergab keinen frischen, mehrfach unabhaengig bestaetigten Einzelkatalysator mit vergleichbarer Ueberzeugungskraft wie bei frueheren Trades (z.B. AMD-/NVDA-Dip, Brent-Eskalation) - Chip-Rally ist breit getragener, bereits bekannter Trend ohne klaren Tages-Ausloeser, Gold-Anstieg moderat ohne neue Eskalation. Daher kein Trade, alle drei offenen Positionen unveraendert gehalten. | 21:08 MESZ: META auf 683,00 USD (+5,76%), SOL auf 107,80 USD (+5,32%, setzt Rally nach Block-Zeit-Reduktion auf 250ms und neuer SEC-Innovationsausnahme fort, naehert sich aber noch nicht der etablierten 7-9%-Gewinnzone) und BTC auf 80.900 USD (-0,12%, haelt den Ausbruch ueber 80.000 USD mit rund +5% 24h) aktualisiert. Kein Trade: US-Boersen schliessen in Kuerze (22:00 MESZ), keine der drei offenen Positionen an Stop-Loss- oder Gewinnschwelle, und keine neue, mehrfach unabhaengig bestaetigte Einzelgelegenheit mit vergleichbarer Ueberzeugungskraft wie bei frueheren Trades identifiziert. | 22:07 MESZ: US-Boersen seit 22:00 MESZ geschlossen, nur Krypto handelbar. BTC auf 81.050 USD (+0,06% seit Kauf), SOL auf 106,50 USD (+4,05%, weiterhin in der 106-108-USD-Widerstandszone mit ueberkauften Signalen) und META auf 678,23 USD (+5,00%, Boersenschluss) aktualisiert. Kein Trade: Die kraeftige Arbitrum-/Layer-2-Rally (ARB +26% heute, +53% Wochenplus, Standard-Chartered-Kursziel 10 USD bis 2030, Robinhood-Chain-Umsatz 5x) ist bereits seit dem Nachmittag bekannt und mehrfach als zu weit fortgeschritten fuer einen ueberzeugenden Neueinstieg eingestuft worden; keine der drei offenen Positionen an Stop-Loss- oder Gewinnschwelle. | 23:08 MESZ: Keine Aenderung. BTC auf 80.900 USD (-0,12% seit Kauf, kurzer Pullback nach Test der Tageshochs bei 81.258 USD, Bull-Flag-Struktur mit Ziel ~93.000 USD noch nicht bestaetigt durchbrochen) und SOL auf 107,50 USD (+5,02%, Derivate-getriebene Rally haelt an) aktualisiert, META unveraendert (678,23 USD/+5,00%, Boersen seit 22:00 MESZ geschlossen). Kein Trade: Die Altcoin-Rally (NEAR +31%, ARB +30%, UNI +25%, APT +21%) lief bereits den ganzen Abend und ist fuer einen Neueinstieg zu weit fortgeschritten; BTC hat den Ausbruch ueber 81.258 USD noch nicht bestaetigt gehalten. Keine offene Position erreicht Stop-Loss- oder Gewinnschwelle.",
     "positionIds": [
       "pos-0012",
       "pos-0014",
       "pos-0016"
     ],
-    "portfolioValueEnd": 1949.17,
+    "portfolioValueEnd": 1954.13,
     "updates": [
       {
         "time": "00:10",
@@ -5571,6 +5571,528 @@
         "time": "20:08",
         "note": "Keine Aenderung. META auf 682,31 USD (+5,63%), SOL auf 105,91 USD (+3,47%) und BTC auf 80.800 USD (-0,25%) aktualisiert. Kein Trade: Halbleiter-Rally (SMH +3%) und Gold-Wochenhoch ohne frischen, ueberzeugenden Einzelkatalysator; keine Position an Stop-Loss- oder Gewinnschwelle.",
         "portfolioValue": 1949.17
+      },
+      {
+        "time": "21:08",
+        "note": "Keine Aenderung. META auf 683,00 USD (+5,76%), SOL auf 107,80 USD (+5,32%, Rally nach Block-Zeit-Cut und SEC-Ausnahme) und BTC auf 80.900 USD (-0,12%) aktualisiert. Kein Trade: keine Position an Stop-Loss-/Gewinnschwelle, kein neuer ueberzeugender Katalysator kurz vor US-Handelsschluss.",
+        "portfolioValue": 1960.15
+      },
+      {
+        "time": "22:07",
+        "note": "Keine Aenderung. BTC auf 81.050 USD (+0,06%), SOL auf 106,50 USD (+4,05%) und META auf 678,23 USD (+5,00%) aktualisiert. Kein Trade: Arbitrum-Rally (+26% heute) bereits zu weit gelaufen fuer Neueinstieg, keine Position an Stop-Loss-/Gewinnschwelle.",
+        "portfolioValue": 1950.72
+      },
+      {
+        "time": "23:08",
+        "note": "Keine Aenderung. BTC auf 80.900 USD (-0,12% seit Kauf, kurzer Pullback nach Test der Tageshochs bei 81.258 USD, Bull-Flag-Struktur mit Ziel ~93.000 USD noch nicht bestaetigt durchbrochen) und SOL auf 107,50 USD (+5,02%, Derivate-getriebene Rally haelt an) aktualisiert, META unveraendert (678,23 USD/+5,00%, Boersen seit 22:00 MESZ geschlossen). Kein Trade: Die Altcoin-Rally (NEAR +31%, ARB +30%, UNI +25%, APT +21%) lief bereits den ganzen Abend und ist fuer einen Neueinstieg zu weit fortgeschritten; BTC hat den Ausbruch ueber 81.258 USD noch nicht bestaetigt gehalten. Keine offene Position erreicht Stop-Loss- oder Gewinnschwelle.",
+        "portfolioValue": 1954.13
+      }
+    ]
+  },
+  {
+    "date": "2026-09-19",
+    "marketOverview": "Samstagabend, 23:07 MESZ: Aktien/ETFs/Rohstoffe weiterhin wochenendbedingt geschlossen, nur Krypto handelbar. Bitcoin nahezu unveraendert bei ca. 81.394 USD (Coinbase/CoinDesk, Range 81.200-81.400), CFTC-Regelwerk-Paket an das Weisse Haus bleibt der bekannte Regulierungs-Hintergrund ohne neue Entwicklung. Neu hinzugekommen ist die Leitzinsanhebung der Bank of Japan um 25bp auf 1,25% (hoechster Stand seit rund 31 Jahren) im Rahmen eines globalen geldpolitischen Straffungstrends - bislang ohne erkennbaren direkten Effekt auf Krypto-Kurse.",
+    "decision": "Keine Aenderung in diesem Lauf. BTC-Position (pos-0016) auf ca. 81.394 USD aktualisiert (+0,49% seit Kauf), META (pos-0014) unveraendert bei Freitagsschlusskurs 668,00 USD (+3,42% seit Kauf, Boerse wochenendbedingt geschlossen). Kein Neukauf: keine Position an Stop-Loss- oder Gewinnschwelle, kein frischer eigenstaendiger Katalysator (BoJ-Zinsschritt ohne direkten Krypto-Bezug).",
+    "reasoning": "23:07 MESZ, Samstagabend: Aktien/ETFs/Rohstoffe weiterhin nicht handelbar (Wochenende), nur Krypto bewegbar. BTC seit dem letzten Lauf praktisch unveraendert bei ca. 81.394 USD - weder Stop-Loss noch Gewinnschwelle (7-9%) erreicht, Position wird gehalten. META unveraendert bei 668,00 USD (+3,42% seit Kauf), deutlich unter der Gewinnmitnahme-Schwelle, Boerse ohnehin geschlossen. Die BoJ-Zinsanhebung auf 1,25% ist ein globales geldpolitisches Signal, aber ohne konkreten, unmittelbaren Krypto-Katalysator - kein Handlungsanlass. Freies Kapital weiterhin reichlich vorhanden, aber keine ueberzeugende neue Gelegenheit erkennbar, daher keine Trades.",
+    "positionIds": [
+      "pos-0014",
+      "pos-0016"
+    ],
+    "portfolioValueEnd": 1424.4,
+    "updates": [
+      {
+        "time": "00:08",
+        "note": "Tagesbudget +1.000 EUR gutgeschrieben. SOL auf 106,19 USD (+3,74%), BTC auf 80.850 USD (-0,18%) aktualisiert, META unveraendert (Boersen am Wochenende geschlossen). Kein Trade: Altcoin-Rally bereits weit gelaufen, kein ueberzeugendes neues Setup, keine Position an Stop-Loss-/Gewinnschwelle.",
+        "portfolioValue": 1947.24
+      },
+      {
+        "time": "01:08",
+        "note": "Verkauf SOL: +52,66 EUR (+10,53%) Gewinnmitnahme nach ueberhitzter Nacht-Rally (Ausloeser: SEC 'Innovation Exemption'). BTC auf 81.094 USD (+0,12%) aktualisiert und gehalten, META unveraendert (Wochenende). Kein Neukauf.",
+        "portfolioValue": 1430.94
+      },
+      {
+        "time": "02:07",
+        "note": "Keine Aenderung. BTC auf 80.850 USD (-0,19%) aktualisiert, META unveraendert (Wochenende). Kein Trade: keine ueberzeugende neue Gelegenheit nach der SOL-Gewinnmitnahme vor einer Stunde.",
+        "portfolioValue": 1428.53
+      },
+      {
+        "time": "03:08",
+        "note": "Keine Aenderung. BTC auf 81.100 USD (+0,12%) aktualisiert, META unveraendert (Wochenende). Kein Trade: keine neue ueberzeugende Gelegenheit.",
+        "portfolioValue": 1431.0
+      },
+      {
+        "time": "04:07",
+        "note": "Keine Aenderung. BTC auf 81.165,92 USD (+0,2%) aktualisiert, META unveraendert (Wochenende). Breite Krypto-Rally (SOL/XRP) bereits weit gelaufen, kein Neukauf.",
+        "portfolioValue": 1431.65
+      },
+      {
+        "time": "05:08",
+        "note": "Keine Aenderung. BTC auf ca. 81.283 USD (+0,14% seit letztem Lauf) aktualisiert, META unveraendert (Wochenende). Kein Trade: keine neue ueberzeugende Gelegenheit.",
+        "portfolioValue": 1432.81
+      },
+      {
+        "time": "06:08",
+        "note": "Keine Aenderung. BTC auf 80.957,40 USD (-0,05%) aktualisiert (leichte Randbewegung), META unveraendert (Wochenende). Kein Trade: keine neue ueberzeugende Gelegenheit.",
+        "portfolioValue": 1429.59
+      },
+      {
+        "time": "07:08",
+        "note": "Keine Aenderung. BTC auf 80.600 USD (-0,44%) aktualisiert (leichter Ruecksetzer), META unveraendert (Wochenende). Kein Trade: SOL/XRP-Staerke bereits bekannte, mehrfach gehandelte Bewegung ohne neuen Katalysator.",
+        "portfolioValue": 1426.06
+      },
+      {
+        "time": "08:08",
+        "note": "Keine Aenderung. BTC auf 81.010 USD (+0,51% seit letztem Lauf) aktualisiert, Position fast kostendeckend. META unveraendert (Wochenende). Kein Trade: DeFi-/Altcoin-Rally (JUP, RAY, MET) ist Folgebewegung derselben bereits gehandelten SEC-News, kein neues Setup.",
+        "portfolioValue": 1430.11
+      },
+      {
+        "time": "09:08",
+        "note": "Keine Aenderung. BTC auf 80.850 USD (-0,19%) aktualisiert, META auf 665,75 USD (Freitagsschluss, +3,07%) aktualisiert. Kein Trade: keine neue ueberzeugende Gelegenheit, Boersen (Aktien/ETFs/Rohstoffe) wochenendbedingt geschlossen.",
+        "portfolioValue": 1416.94
+      },
+      {
+        "time": "10:08",
+        "note": "Keine Aenderung. BTC auf 80.834 USD (-0,2%) aktualisiert, META unveraendert (Wochenende). Kein Trade: Zcash-Rally (+37%/Woche) bereits weit gelaufen, kein frischer Katalysator, keine ueberzeugende neue Gelegenheit.",
+        "portfolioValue": 1416.78
+      },
+      {
+        "time": "11:08",
+        "note": "Keine Aenderung. BTC auf 80.861 USD (-0,17%) aktualisiert, META unveraendert (Wochenende). Kein Trade: XRP/ETH/SOL-Staerke ist Fortsetzung derselben, bereits heute frueh gehandelten Rally, kein frischer Katalysator.",
+        "portfolioValue": 1417.05
+      },
+      {
+        "time": "12:08",
+        "note": "Keine Aenderung. BTC auf 80.850 USD (-0,19%) aktualisiert, META unveraendert (Wochenende, weiterhin +3,07%). Altcoin-Rally (SOL/XRP/ETH) ist Fortsetzung der bereits gehandelten Bewegung, kein frischer Katalysator.",
+        "portfolioValue": 1416.94
+      },
+      {
+        "time": "13:08",
+        "note": "Keine Aenderung. BTC auf 80.950 USD (-0,06%) aktualisiert, META unveraendert (Wochenende, +3,07%). Kein Trade: Altcoin-Rally (SOL/XRP/NEAR/UNI) ist Fortsetzung der bereits gehandelten CFTC-Regelwerk-Bewegung, kein frischer Katalysator.",
+        "portfolioValue": 1417.93
+      },
+      {
+        "time": "14:09",
+        "note": "Keine Aenderung. BTC auf 80.972,57 USD (-0,03%), META auf 668,57 USD (+3,51%) aktualisiert. Kein Trade: dieselbe bereits gehandelte Altcoin-Rally ohne frischen Katalysator, Boersen am Wochenende geschlossen.",
+        "portfolioValue": 1420.77
+      },
+      {
+        "time": "15:08",
+        "note": "Keine Aenderung. BTC auf 80.834 USD (-0,2%) aktualisiert (leichter Ruecksetzer), META unveraendert (Wochenende, +3,51%). Kein Trade: dieselbe bereits gehandelte Altcoin-Rally ohne frischen Katalysator, Boersen am Wochenende geschlossen.",
+        "portfolioValue": 1419.4
+      },
+      {
+        "time": "16:08",
+        "note": "Keine Aenderung. BTC auf 80.845,96 USD (-0,19%) aktualisiert, META unveraendert (Wochenende, +3,51%). Kein Trade: dieselbe bereits gehandelte Altcoin-Rally ohne frischen Katalysator, Boersen am Wochenende geschlossen.",
+        "portfolioValue": 1419.52
+      },
+      {
+        "time": "17:08",
+        "note": "Keine Aenderung. BTC auf ca. 81.300 USD (+0,37%) aktualisiert, META unveraendert (Wochenende, +3,51%). Kein Trade: Altcoin-/Layer-2-Rally und Zcash-Privacy-Rally bereits mehrfach gehandelte Bewegungen ohne frischen Katalysator.",
+        "portfolioValue": 1424.0
+      },
+      {
+        "time": "18:08",
+        "note": "Keine Aenderung. BTC auf 81.396 USD (+0,49%) aktualisiert, META auf Freitagsschluss 668,00 USD (+3,42%) aktualisiert. Kein Trade: keine ueberzeugende neue Gelegenheit, Altcoin-Rally bereits weit gelaufen.",
+        "portfolioValue": 1424.42
+      },
+      {
+        "time": "19:08",
+        "note": "Keine Aenderung. BTC auf 81.300 USD (-0,12%) aktualisiert, META unveraendert (Wochenende, +3,42%). Kein Trade: dieselbe bereits gehandelte Altcoin-Rally ohne frischen Katalysator, Boersen am Wochenende geschlossen.",
+        "portfolioValue": 1423.47
+      },
+      {
+        "time": "20:07",
+        "note": "Keine Aenderung. BTC auf 81.393,75 USD (+0,49%) aktualisiert, META unveraendert (Wochenende, +3,42%). Kein Trade: dieselbe bereits gehandelte Altcoin-Rally ohne frischen Katalysator, Boersen am Wochenende geschlossen.",
+        "portfolioValue": 1424.4
+      },
+      {
+        "time": "21:07",
+        "note": "Keine Aenderung. BTC auf 81.350 USD (+0,43%) aktualisiert, META unveraendert (Wochenende, +3,42%). Kein Trade: Tezos/Altcoin-Rally bereits weit gelaufen (Chasing-Risiko), kein frischer Katalysator, Boersen am Wochenende geschlossen.",
+        "portfolioValue": 1423.97
+      },
+      {
+        "time": "22:07",
+        "note": "Keine Aenderung. BTC auf 81.400 USD (+0,49% seit Kauf) aktualisiert, META unveraendert (Wochenende, +3,42%). Kein Trade: dieselbe bereits gehandelte Altcoin-Rally (NEAR, Tezos, Zcash) ohne frischen Katalysator; Haruko-Hack und Nordkorea-Hacker-Kampagne ohne direkten Bezug zu gehaltenen Positionen.",
+        "portfolioValue": 1424.46
+      },
+      {
+        "time": "23:07",
+        "note": "Keine Aenderung. BTC auf 81.393,75 USD (+0,49%) aktualisiert, META unveraendert (Wochenende, +3,42%). Kein Trade: BoJ-Zinsanhebung auf 1,25% ohne direkten Krypto-Katalysator, keine ueberzeugende neue Gelegenheit.",
+        "portfolioValue": 1424.4
+      }
+    ]
+  },
+  {
+    "date": "2026-09-20",
+    "marketOverview": "Sonntag, 23:07 MESZ: Boersen/ETFs/Rohstoffe weiterhin wochenendbedingt geschlossen, nur Krypto handelbar. Bitcoin leicht schwaecher bei ca. 81.085 USD, praktisch seitwaerts seit der AVAX-Gewinnmitnahme um 21:10. Altcoin-Season-Index weiter bei 48 (kein Ausbruch in echte Altcoin-Season). Multicoin-Gruender warnt vor moeglicher Korrektur bei zu optimistischer Marktstimmung; ein Altcoin wurde Opfer eines Hacks (Risikowarnung, kein Kaufsignal). Keine neuen, mehrfach bestaetigten Katalysatoren fuer Aktien/Krypto seit dem letzten Lauf. META bleibt wochenendbedingt beim Freitagsschlusskurs von 668,55 USD (+3,50%).",
+    "decision": "Um 21:10 MESZ Verkauf AVAX (pos-0017): Gewinnmitnahme bei 11,09 USD (+12,59%, live per CoinGecko-API bestaetigt) nach starkem, mehrfach unabhaengig bestaetigtem Ausbruch. BTC (pos-0016) auf 81.084 USD (+0,10%) aktualisiert, META (pos-0014) wochenendbedingt unveraendert (+3,50%). Kein Neukauf: keine weitere ueberzeugende, mehrfach bestaetigte Gelegenheit im uebrigen Kryptomarkt gefunden; ein erneuter Einstieg in AVAX nach dem bereits gelaufenen +13,5%-Tagesplus waere verspaetetes Chasing mit 'Sell the news'-Risiko vor dem Upgrade am 22.09. Depotwert am Ende dieses Laufs: 1421,85 EUR (2 offene Positionen). | 22:08 MESZ: Kein weiterer Trade. BTC-Kurs auf 81.203 USD aktualisiert (+0,25% seit Kauf). Kein neuer, mehrfach bestaetigter Katalysator gefunden, der einen Kauf rechtfertigt. Depotwert am Ende dieses Laufs: 1423.02 EUR (2 offene Positionen). | 23:07 MESZ: Kein Trade. BTC-Kurs auf 81.085,46 USD aktualisiert (leicht schwaecher). Weiterhin kein mehrfach bestaetigter Katalysator fuer einen Neukauf; Warnsignale (Korrekturwarnung, Altcoin-Hack) sprechen eher fuer Zurueckhaltung. Depotwert am Ende dieses Laufs: 1421,86 EUR (2 offene Positionen).",
+    "reasoning": "21:10 MESZ, Sonntagabend: Nur Krypto handelbar. AVAX (pos-0017) hat seit dem 20:07-Lauf (9,71 USD) einen direkt per CoinGecko-API live verifizierten Sprung auf 11,09 USD hingelegt (+13,55% in 24h laut API), mehrfach unabhaengig durch Nachrichtenquellen bestaetigt (CryptoTimes, TradingKey, Bloomingbit) und mit konkretem fundamentalem Katalysator (Ava-Labs-Praesident bestaetigt NYSE/ICE-Tokenisierungstests, Helicon-Mainnet-Upgrade 22.09.). Der Gewinn von +12,59% liegt deutlich ueber der etablierten Zielspanne (7-9%, analog Solana +10,53%, Bitcoin +9,6%) - passend zum spekulativen Kurzfrist-Profil wird konsequent glattgestellt, zumal der NYSE/ICE-Deal offiziell noch nicht unterschrieben ist und zum Upgrade-Termin ein 'Sell the news'-Risiko besteht. BTC und META zeigen keine Stop-Loss- oder Zielmarken-Ausloesung. Freies Kapital von ca. 45.406,91 EUR ist nach der Gewinnmitnahme weiter deutlich ausreichend fuer kuenftige ueberzeugende Gelegenheiten; kein Neukauf, da ausser AVAX (bereits gehandelt) kein weiterer Coin ein mehrfach bestaetigtes, ueberzeugendes Signal zeigt (ETH/SOL/XRP/LINK/ADA/DOGE allesamt leicht negativ, keine neuen Katalysatoren). 22:08 MESZ: BTC-Live-Kurs per CoinGecko-API auf 81.203 USD aktualisiert (-0,24% 24h) - keine relevante Bewegung seit dem letzten Lauf (81.084 USD). Marktsuche nach neuen Krypto-Katalysatoren (Altcoin-News, Marktueberblick) ergab keine mehrfach unabhaengig bestaetigte, ueberzeugende Kaufgelegenheit; ein gemeldeter Altcoin-Hack ist ein Risikosignal, kein Kaufanlass. META bleibt wochenendbedingt unveraendert. Passend zum spekulativen Profil wird auf eine erzwungene Neuposition ohne echten Katalysator verzichtet. 23:07 MESZ: BTC-Kurs auf 81.085,46 USD aktualisiert, minimal schwaecher als um 22:08. Erneute Marktsuche (Bitcoin- und Altcoin-News) ergab keinen neuen, mehrfach unabhaengig bestaetigten Katalysator; stattdessen ueberwiegen Warnsignale (Multicoin-Gruender warnt vor Korrektur bei ueberhitzter Stimmung, ein weiterer Altcoin-Hack gemeldet). Passend zum disziplinierten, aber nicht impulsiven spekulativen Profil bleibt es bei keiner neuen Position; freies Kapital von weiterhin ca. 45.406,91 EUR steht fuer kuenftige, wirklich ueberzeugende Gelegenheiten bereit.",
+    "positionIds": [
+      "pos-0014",
+      "pos-0016",
+      "pos-0017"
+    ],
+    "portfolioValueEnd": 1421.86,
+    "updates": [
+      {
+        "time": "00:08",
+        "note": "Tagesbudget +1.000 EUR gutgeschrieben. BTC auf ca. 81.450 USD (+0,56% seit Kauf) aktualisiert, META unveraendert (Wochenende, +3,42%). Kein Trade: kein neuer Katalysator seit dem letzten Lauf, Boersen weiterhin geschlossen.",
+        "portfolioValue": 1424.95
+      },
+      {
+        "time": "01:08",
+        "note": "Kein Trade: BTC leicht auf ca. 81.400 USD aktualisiert (+0,49%), META unveraendert (Wochenende, +3,42%). Kein neuer Katalysator seit dem letzten Lauf.",
+        "portfolioValue": 1424.46
+      },
+      {
+        "time": "02:07",
+        "note": "Kein Trade: BTC leicht auf ca. 81.300 USD aktualisiert (+0,37%), META unveraendert (Wochenende, +3,42%). Kein neuer Katalysator seit dem letzten Lauf.",
+        "portfolioValue": 1424.21
+      },
+      {
+        "time": "03:07",
+        "note": "Kein Trade: BTC leicht auf ca. 81.400 USD aktualisiert (+0,49%), META unveraendert (Wochenende, +3,42%). Kein neuer Katalysator seit dem letzten Lauf.",
+        "portfolioValue": 1424.46
+      },
+      {
+        "time": "04:07",
+        "note": "Kein Trade: BTC leicht auf ca. 81.420 USD aktualisiert (+0,52%), META unveraendert (Wochenende, +3,42%). Kein neuer Katalysator seit dem letzten Lauf.",
+        "portfolioValue": 1424.66
+      },
+      {
+        "time": "05:08",
+        "note": "Kein Trade: BTC leicht auf ca. 81.410 USD aktualisiert (+0,51%), META unveraendert (Wochenende, +3,42%). Kein neuer Katalysator seit dem letzten Lauf.",
+        "portfolioValue": 1424.56
+      },
+      {
+        "time": "06:07",
+        "note": "Kein Trade: BTC leicht auf ca. 81.468,69 USD aktualisiert (+0,58%), META unveraendert (Wochenende, +3,42%). Kein neuer Katalysator seit dem letzten Lauf.",
+        "portfolioValue": 1425.14
+      },
+      {
+        "time": "07:07",
+        "note": "Kein Trade: BTC leicht auf ca. 81.395,92 USD aktualisiert (+0,49%), META unveraendert (Wochenende, +3,42%). Kein neuer Katalysator seit dem letzten Lauf.",
+        "portfolioValue": 1424.42
+      },
+      {
+        "time": "08:08",
+        "note": "Kein Trade: BTC leicht auf ca. 81.430 USD aktualisiert (+0,53%), META unveraendert (Wochenende, +3,42%). Kein neuer Katalysator seit dem letzten Lauf.",
+        "portfolioValue": 1424.76
+      },
+      {
+        "time": "09:07",
+        "note": "Kein Trade: BTC leicht auf ca. 81.450 USD aktualisiert (+0,56%), META unveraendert (Wochenende, +3,42%). Kein neuer Katalysator seit dem letzten Lauf.",
+        "portfolioValue": 1424.95
+      },
+      {
+        "time": "10:08",
+        "note": "Kein Trade: BTC leicht auf ca. 81.260 USD aktualisiert (+0,32%), META unveraendert (Wochenende, +3,42%). Solana-Kurzfrist-Rally (+3%/3h) beruht auf bereits eingepreisten Katalysatoren, kein neuer Trigger.",
+        "portfolioValue": 1423.08
+      },
+      {
+        "time": "11:08",
+        "note": "Kein Trade: BTC leicht auf ca. 81.280 USD aktualisiert (+0,35%), META unveraendert (Wochenende, +3,42%). Solana-Kurse uneinheitlich (100-114 USD je nach Boerse), kein neuer bestaetigter Katalysator.",
+        "portfolioValue": 1423.28
+      },
+      {
+        "time": "12:08",
+        "note": "Kein Trade: BTC nahezu unveraendert auf ca. 81.277 USD aktualisiert (+0,34%), META unveraendert (Wochenende, +3,42%). Kein neuer Katalysator seit dem letzten Lauf.",
+        "portfolioValue": 1423.25
+      },
+      {
+        "time": "13:08",
+        "note": "Kein Trade: BTC leicht auf ca. 81.261 USD aktualisiert (+0,32%), META unveraendert (Wochenende, +3,42%). Kein neuer Katalysator seit dem letzten Lauf.",
+        "portfolioValue": 1423.08
+      },
+      {
+        "time": "14:08",
+        "note": "Kauf Avalanche (AVAX) 600 EUR bei 9,85 USD (bestaetigter NYSE/ICE-Tokenisierungs-Katalysator, +15-30% in 24h). BTC auf ca. 81.420 USD (+0,52%) aktualisiert, META unveraendert (Wochenende, +3,42%).",
+        "portfolioValue": 2024.66
+      },
+      {
+        "time": "15:08",
+        "note": "Kein Trade: BTC auf ca. 80.582 USD aktualisiert (-0,52% seit Kauf), AVAX auf ca. 10,44 USD aktualisiert (+5,99% seit Kauf, noch unter Zielspanne 7-9%), META unveraendert (Wochenende, +3,42%).",
+        "portfolioValue": 2052.32
+      },
+      {
+        "time": "16:08",
+        "note": "Keine Aenderung. BTC auf ca. 81.395,92 USD (+0,49%) aktualisiert, AVAX auf ca. 9,71 USD (-1,42%, Ruecksetzer vom Stundenhoch) aktualisiert, META wochenendbedingt unveraendert.",
+        "portfolioValue": 2015.89
+      },
+      {
+        "time": "17:07",
+        "note": "Keine Aenderung. BTC unveraendert bei ca. 81.395,92 USD (+0,49%), AVAX unveraendert bei ca. 9,71 USD (-1,42%), META wochenendbedingt unveraendert.",
+        "portfolioValue": 2015.89
+      },
+      {
+        "time": "18:08",
+        "note": "Keine Aenderung. BTC leicht auf ca. 81.260,70 USD (+0,32%) aktualisiert, AVAX unveraendert bei ca. 9,71 USD (-1,42%), META wochenendbedingt unveraendert. Solana-Rally (+11,5%) beruht auf bereits gehandeltem Katalysator, kein neuer Trigger.",
+        "portfolioValue": 2014.55
+      },
+      {
+        "time": "19:09",
+        "note": "Kein Trade: BTC auf ca. 81.150 USD aktualisiert (+0,18%), AVAX unveraendert (-1,42%), META-Kurs auf bestaetigten Freitagsschluss praezisiert (668,55 USD, +3,50%). Kein neuer Katalysator seit dem letzten Lauf.",
+        "portfolioValue": 2013.97
+      },
+      {
+        "time": "20:07",
+        "note": "Keine Aenderung. BTC auf ca. 81.395,92 USD (+0,49%) aktualisiert, AVAX unveraendert bei ca. 9,71 USD (-1,42%), META wochenendbedingt unveraendert. Kein verifizierter neuer Katalysator (Mikrocap-Geruecht 'Gravity/G' nicht bestaetigt).",
+        "portfolioValue": 2016.4
+      },
+      {
+        "time": "21:10",
+        "note": "Verkauf AVAX (+12,59%, Gewinnmitnahme nach live-bestaetigtem +13,5%-Sprung auf 11,09 USD). BTC auf 81.084 USD aktualisiert (+0,10%). Kein Neukauf.",
+        "portfolioValue": 1421.85
+      },
+      {
+        "time": "22:08",
+        "note": "Kein Trade: BTC auf ca. 81.203 USD aktualisiert (-0,24% 24h), praktisch unveraendert seit 21:10. Kein neuer bestaetigter Katalysator (Altcoin-Season-Index bei 48, kein Ausbruch). META wochenendbedingt unveraendert bei Freitagsschluss.",
+        "portfolioValue": 1423.02
+      },
+      {
+        "time": "23:07",
+        "note": "Kein Trade: BTC auf ca. 81.085 USD aktualisiert (leicht schwaecher, -0,14% seit 22:08), META wochenendbedingt unveraendert. Kein neuer, mehrfach bestaetigter Katalysator (Altcoin-Season-Index weiter bei 48, Warnung vor Korrektur von Multicoin-Gruender, ein gehackter Altcoin als Risikosignal).",
+        "portfolioValue": 1421.86
+      }
+    ]
+  },
+  {
+    "date": "2026-09-21",
+    "marketOverview": "Montag, 23:08 MESZ: US-Boersen fuer den Tag geschlossen, Nasdaq nahe Rekordstand dank Chip-Rally, vierter Tag in Folge fallende Oelpreise (Iran-Deeskalationshoffnung vor Trump-Xi-Gipfel 24.09.). Krypto-Gesamtmarktkapitalisierung ca. 2,88 Bio. USD, Fear&Greed-Index bei 70 (Greed). Bitcoin haelt sich nahe 85.000 USD nach dem ersten Ausbruch ueber diese Marke seit 31. Januar (Short-Squeeze, Spot-ETF-Zufluesse). Hyperliquid (HYPE) konsolidiert knapp unter seinem Allzeithoch (~95,97 USD) bei ca. 93-95 USD. Breite, bereits mehrfach beobachtete AI-Altcoin-Rotation (SAGA/LAT/VVV/ARC/RENDER, jetzt auch Dogecoin) ohne neuen fundamentalen Einzelkatalysator.",
+    "decision": "00:08 MESZ: Tagesbudget-Gutschrift (+1.000 EUR, neues Kalendertag). BTC (pos-0016) auf 81.150 USD aktualisiert (+0,19% seit Kauf), META (pos-0014) unveraendert (Boersen geschlossen). Kein Trade: einziger auffaelliger Altcoin-Mover (Tezos) ist laut Quellenlage reine spekulative Rotation ohne Einzelkatalysator und bereits im Rueckzug vom Hoch - kein ueberzeugendes, mehrfach bestaetigtes Signal. Depotwert am Ende dieses Laufs: 1422,50 EUR (2 offene Positionen). 01:08 MESZ: BTC (pos-0016) auf 81.092 USD aktualisiert (+0,11% seit Kauf), META (pos-0014) unveraendert (Boersen weiterhin geschlossen). Kein Trade: ARB-Nachricht ist ein 2030-Langfristkursziel ohne kurzfristigen Katalysator, INJ-Rally ist bereits zwei Tage alt und aktuell leicht ruecklaeufig - kein ueberzeugendes neues Setup. Depotwert am Ende dieses Laufs: 1421,93 EUR (2 offene Positionen). 02:08 MESZ: BTC (pos-0016) auf 80.616,76 USD aktualisiert (-0,47% seit Kauf), META (pos-0014) unveraendert (Boersen weiterhin geschlossen). Kein Trade: AVAX-Rally ist die bereits gestern gehandelte und vereinnahmte Story (Position pos-0017 wurde bei +12,59% verkauft) mit stark widerspruechlichen Kursangaben zwischen Exchanges, ZAMA ist ein extrem kleiner, hochvolatiler Micro-Cap mit unzuverlaessigen Kursdaten - beides kein belastbares neues Signal. Depotwert am Ende dieses Laufs: 1417.23 EUR (2 offene Positionen). 03:07 MESZ: BTC (pos-0016) auf 81.100 USD aktualisiert (+0,12% seit Kauf), META (pos-0014) unveraendert (Boersen weiterhin geschlossen). Kein Trade: keine der beobachteten Altcoin-Bewegungen (ARB, VET, ICP, SKY) bietet einen frischen, mehrfach unabhaengig bestaetigten Katalysator, der ueber bereits verworfene oder blosse Rotationsbewegungen hinausgeht. Depotwert am Ende dieses Laufs: 1422,01 EUR (2 offene Positionen). 04:08 MESZ: BTC (pos-0016) auf 81.190 USD aktualisiert (+0,23% seit Kauf), META (pos-0014) unveraendert (Boersen weiterhin geschlossen). Kein Trade: AVAX/ARB/INJ/ICP sind allesamt bereits bekannte, teils schon verworfene oder vereinnahmte Bewegungen ohne frischen Einzelkatalysator. Depotwert am Ende dieses Laufs: 1422,90 EUR (2 offene Positionen). 05:08 MESZ: BTC (pos-0016) auf 81.700 USD aktualisiert (+0,86% seit Kauf), META (pos-0014) unveraendert (Boersen weiterhin geschlossen). Kein Trade: H.R. 8957-Ausschussvotum ist ein langfristiges Legislativsignal ohne kurzfristigen Kurs-Trigger, die bekannte Altcoin-Rally (NEAR/Tezos/ARB/UNI/ENA/ZEC) bereits mehrfach als zu weit gelaufen verworfen, Harmony/Backpack als unzuverlaessige Micro-Caps ausgeschlossen. Depotwert am Ende dieses Laufs: 1427,93 EUR (2 offene Positionen). 06:08 MESZ: BTC (pos-0016) auf 81.150 USD aktualisiert (+0,19% seit Kauf), META (pos-0014) unveraendert (Boersen weiterhin geschlossen). Kein Trade: AI-Altcoin-Rally (SAGA/LAT/VVV/ARC/RENDER) ohne mehrfach unabhaengig bestaetigte, belastbare Kursbasis und bereits an frueheren Terminen aehnlich verworfen. Depotwert am Ende dieses Laufs: 1422.5 EUR (2 offene Positionen). 07:08 MESZ: BTC (pos-0016) auf 81.300 USD aktualisiert (+0,37% seit Kauf), META (pos-0014) unveraendert (Boersen weiterhin geschlossen). Kein Trade: Altcoin-Rally sowie Backpack/Harmony sind bereits bekannte, verworfene Bewegungen ohne frischen Katalysator. Depotwert am Ende dieses Laufs: 1423,98 EUR (2 offene Positionen). 08:12 MESZ: BTC (pos-0016) auf 81.200 USD aktualisiert (+0,25% seit Kauf), META (pos-0014) unveraendert (Boersen weiterhin geschlossen, Dividenden-Ex-Datum ohne Kurseffekt). Kein Trade: Altcoin Season Index steigt nur langsam (46) und die genannten Bewegungen (Solana-Wochenplus, XRP-Golden-Cross-Naehe) sind bereits bekannt bzw. ohne kurzfristigen Trigger - kein neues, mehrfach unabhaengig bestaetigtes Setup. Depotwert am Ende dieses Laufs: 1423,00 EUR (2 offene Positionen). 09:08 MESZ: BTC (pos-0016) auf 81.100 USD aktualisiert (+0,12% seit Kauf), META (pos-0014) unveraendert (US-Boerse erst ab 15:30 MESZ). Kein Trade: allgemein positive Aktienfutures und Nahost-Spannungen sind bereits bekannte, fortlaufende Themen ohne frischen, mehrfach unabhaengig bestaetigten Einzelkatalysator. Depotwert am Ende dieses Laufs: 1422,01 EUR (2 offene Positionen). 10:08 MESZ: BTC (pos-0016) auf 81.500 USD aktualisiert (+0,62% seit Kauf), META (pos-0014) auf 668,57 USD aktualisiert (+3,51% seit Kauf, Boersen jetzt in Europa offen, aber Kurs praktisch unveraendert zum Freitagsschluss). Kein Trade: keine neue, ueberzeugende Gelegenheit - die AI-Altcoin-Rally (SAGA/LAT/VVV/ARC/RENDER) ist dieselbe bereits mehrfach heute verworfene Bewegung ohne belastbare, mehrfach unabhaengig bestaetigte Kursbasis bei liquidem Titel. Depotwert am Ende dieses Laufs: 1425,98 EUR (2 offene Positionen). 11:08 MESZ: Keine Aenderung. META (pos-0014) auf 665,75 USD aktualisiert (+3,07% seit Kauf, leichter Rueckgang zum letzten Lauf), BTC (pos-0016) auf 81.510 USD aktualisiert (+0,63% seit Kauf). Kein Trade: SOL-/AVAX-Momentum bereits mehrfach gehandelt und vereinnahmt (pos-0012, pos-0017), heutige Bewegung nur noch +0,8% ohne frischen Katalysator; Trump-Xi-Gipfel erst am 24.09., zu frueh fuer ein belastbares Handelssignal. Depotwert am Ende dieses Laufs: 1423,46 EUR (2 offene Positionen). 12:09 MESZ: Keine Aenderung. META auf 665,75 USD unveraendert (+3,07% seit Kauf), BTC auf 81.300 USD aktualisiert (+0,37% seit Kauf, Konsolidierung im Bereich 80.860-81.780 USD). Kein Trade: NEAR-Rally (+24-86% je nach Zeitraum) ist eine bereits seit dem 17./18.09. bekannte, mehrfach in frueheren Laeufen verworfene Bewegung, kein frischer Katalysator; Trump-Xi-Gipfel-Optimismus (positive Vorgespraeche, Bessent) treibt breite Indizes, aber ohne neuen Einzeltitel-Katalysator bereits eingepreist. Depotwert am Ende dieses Laufs: 1421.38 EUR (2 offene Positionen). 13:09 MESZ: Keine Aenderung. META (pos-0014) auf 668,57 USD aktualisiert (+3,51% seit Kauf), BTC (pos-0016) auf 81.400 USD aktualisiert (+0,49% seit Kauf). Kein Trade: AI-Altcoin-Rotation (SAGA/LAT/VVV/ARC/RENDER) sowie AVAX/ARB-Bewegungen sind bereits mehrfach heute verworfene, bekannte Stories ohne frischen, mehrfach unabhaengig bestaetigten Einzelkatalysator; Trump-Xi-Gipfel-Optimismus bereits breit in Futures eingepreist. Depotwert am Ende dieses Laufs: 1424,99 EUR (2 offene Positionen). 14:14 MESZ: Kauf Bitcoin +700 EUR (pos-0018) bei 85.035 USD - bestaetigter, mehrfach unabhaengig belegter Ausbruch ueber 84.000-85.000 USD (erstmals seit 31. Januar), getrieben von einem 648-Mio.-USD-Short-Squeeze und echten Spot-ETF-Zufluessen (593 Mio. USD), begleitet von einem vierten Tag in Folge fallendem Oelpreis (Iran-Deeskalation). Bestehende Position pos-0016 auf 85.035 USD aktualisiert (+4,98% seit Kauf, noch unter der etablierten Ziel-Spanne von 7-9%, daher gehalten statt verkauft). META (pos-0014) unveraendert bei 668,57 USD (US-Boerse oeffnet erst um 15:30 MESZ). Depotwert am Ende dieses Laufs: 2160.89 EUR (3 offene Positionen). 15:12 MESZ: BTC (pos-0016, pos-0018) auf 83.869 USD aktualisiert (+3,54%/-1,37%). META unveraendert (668,57 USD, Boerse noch geschlossen). Kein Trade: AI-Altcoin-Rally bereits zu weit gelaufen, kein neuer ueberzeugender Katalysator. Depotwert am Ende dieses Laufs: 2139,78 EUR (3 offene Positionen). 16:08 MESZ: META (pos-0014) auf 680,73 USD aktualisiert (+5,39% seit Kauf, Ex-Dividenden-Tag, Vorfreude auf Connect-Event), BTC pos-0016 auf 84.950 USD (+4,88%) und pos-0018 auf 84.950 USD (-0,10%) aktualisiert - beide noch klar innerhalb der Halteband ohne Erreichen von Ziel- oder Stop-Loss-Schwelle. Kein Trade: Intel (INTC) zeigt zwar mehrfach vermeldete Kursgewinne (AUO-Micro-LED-Kooperation, AI-Turnaround, Kurszielanhebung), die Quellenlage zur aktuellen Preisbewegung ist jedoch widerspruechlich (mehrere Quellen zeigen INTC nahezu unveraendert zum Vortagesschluss von 108,60 USD statt der behaupteten +5-6%) - kein ausreichend verlaessliches, frisches Signal fuer einen Einstieg. Depotwert am Ende dieses Laufs: 2170,65 EUR (3 offene Positionen). 17:10 MESZ: Verkauf META (pos-0014) bei 709,69 USD, +9,87% seit Kauf (Gewinn 59,24 EUR) - Wells-Fargo-Kurszielanhebung (640->796 USD) und Meta-Connect-Vorfreude trieben die Aktie um +6,7% auf ein neues Niveau, damit klar ueber der etablierten Ziel-Spanne (7-9%). BTC (pos-0016) auf 84.900 USD aktualisiert (+4,81% seit Kauf), BTC (pos-0018) auf 84.900 USD aktualisiert (-0,16% seit Kauf) - beide innerhalb des Halteband. Kein Neukauf: der Chip-Rally-Move (Micron) ist durch widerspruechliche Kursangaben (Tagesangaben verwechselten Freitag/Montag) nicht ausreichend verlaesslich fuer einen Einstieg. Depotwert am Ende dieses Laufs: 1537,41 EUR (2 offene Positionen). 18:08 MESZ: Keine Aenderung. BTC (pos-0016) auf 85.825 USD aktualisiert (+5,96% seit Kauf), BTC (pos-0018) auf 85.825 USD aktualisiert (+0,93% seit Kauf) - beide klar innerhalb des Haltebandes ohne Erreichen von Ziel- oder Stop-Loss-Schwelle. Kein Trade: Der bestaetigte Chip-Rally-Move (AMD +9,0%, Intel +13,8%) ist trotz mehrfacher Quellenbestaetigung bereits ueber die etablierte Ziel-Gewinnspanne (7-9%) hinausgelaufen - ein Einstieg jetzt waere ein Kauf nahe des ueblichen eigenen Exit-Niveaus mit erhoehtem Rueckschlagsrisiko (Gewinnmitnahmen anderer Marktteilnehmer nach so einem schnellen Tagesplus), daher kein neuer Kauf. 19:09 MESZ: Kauf Hyperliquid (HYPE) +600 EUR (pos-0019) bei 94,33 USD - drittes Allzeithoch in einer Woche, mehrfach unabhaengig bestaetigt (Yahoo Finance, AOL, 247wallst, BigGo Finance, Motley Fool, CryptoTicker), gestuetzt durch konkrete institutionelle Akkumulation (385 Mio. USD durch Hyperliquid Strategies), neue Lending-Funktion (269 Mio. USD Volumen am ersten Tag) und Kraken/Bitnomial-Partnerschaft - ein fundamental unterlegter, noch nicht gehandelter Nachfrageschub, anders als die bereits mehrfach heute verworfene AI-Altcoin-Rally. BTC (pos-0016) auf 85.200 USD aktualisiert (+5,19% seit Kauf), BTC (pos-0018) auf 85.200 USD aktualisiert (+0,19% seit Kauf) - beide innerhalb des Haltebandes, kein Verkauf. Depotwert am Ende dieses Laufs: 2142,84 EUR (3 offene Positionen). 20:09 MESZ: Keine Aenderung. BTC (pos-0016, pos-0018) und HYPE (pos-0019) aktualisiert, alle drei klar innerhalb des Haltebandes. Kein Trade: die einzigen beobachteten neuen Bewegungen (AMD-Chip-Rally, Meta-Petal-Kabel, AI-Altcoin-Rotation) sind bereits in frueheren Laeufen heute verworfene oder nicht mehr handelbare (Meta bereits verkauft) Stories. Depotwert am Ende dieses Laufs: 2146,55 EUR (3 offene Positionen). 21:07 MESZ: Keine Aenderung. BTC (pos-0016) auf 85.110 USD aktualisiert (+5,07% seit Kauf), BTC (pos-0018) auf 85.110 USD aktualisiert (+0,09% seit Kauf), HYPE (pos-0019) auf 95,73 USD aktualisiert (+1,48% seit Kauf, nahe Allzeithoch 95,97 USD) - alle drei klar innerhalb des Haltebandes (Ziel 7-9%, Stop-Loss ca. -6,5 bis -7,5%). Kein Trade: GEMI-Rally (+31%) beruht auf widerspruechlichen, teils tagealten Begruendungen (SEC-Tokenisierung, Uebernahmespekulation, 'Breakthrough'-Meldung je nach Quelle) ohne belastbaren frischen Einzelkatalysator; die Altcoin-Rotation (Backpack, AI-Altcoins) bleibt die bereits mehrfach heute verworfene, unzuverlaessige Bewegung. Depotwert am Ende dieses Laufs: 2150,11 EUR (3 offene Positionen). 22:08 MESZ: Keine Aenderung. BTC (pos-0016) unveraendert bei 85.110 USD (+5,07% seit Kauf), BTC (pos-0018) unveraendert bei 85.110 USD (+0,09% seit Kauf), HYPE (pos-0019) unveraendert bei 95,73 USD (+1,48% seit Kauf) - keine belastbare neue Kursquelle fuer eine Aenderung, Werte bleiben klar im Halteband (Ziel 7-9%, Stop-Loss ca. -6,5 bis -7,5%). Kein Trade: AI-Altcoin-Rotation (SAGA/LAT/VVV/ARC/RENDER) bleibt die bereits mehrfach heute verworfene Bewegung ohne frischen Einzelkatalysator (reine Kapitalrotation laut Marktbeobachtern). US-Boersen schliessen mit Nasdaq-Rekordnaehe (Chip-Rally, sinkende Oelpreise) - kein neues Signal fuer das Krypto-Portfolio. Depotwert am Ende dieses Laufs: 2150,11 EUR (3 offene Positionen). 23:08 MESZ: Keine Aenderung. BTC (pos-0016) auf 84.950 USD aktualisiert (+4,88% seit Kauf), BTC (pos-0018) auf 84.950 USD aktualisiert (-0,10% seit Kauf), HYPE (pos-0019) auf 94,30 USD aktualisiert (-0,03% seit Kauf) - alle drei klar innerhalb des Haltebandes (Ziel 7-9%, Stop-Loss ca. -6,5 bis -7,5%). Kein Trade: Boersen fuer Aktien/ETFs/Rohstoffe seit 22:00 MESZ geschlossen, nur Krypto handelbar. Die einzige auffaellige neue Bewegung (Dogecoin +5,3%) ist Teil derselben, bereits mehrfach heute verworfenen Short-Squeeze-getriebenen Altcoin-Rotation (SAGA/LAT/VVV/ARC/RENDER) ohne frischen Einzelkatalysator - kein ueberzeugendes neues Setup.",
+    "reasoning": "Keine der drei offenen Positionen (BTC x2, HYPE) hat die etablierte Ziel- (7-9%) oder Stop-Loss-Schwelle (-6,5 bis -7,5%) erreicht, daher werden alle gehalten. Boersen fuer Aktien/ETFs/Rohstoffe sind seit 22:00 MESZ geschlossen. Kein neuer Kauf: die einzige frische Bewegung (Dogecoin) ist Teil derselben, bereits mehrfach heute verworfenen Altcoin-Rotation ohne belastbaren Einzelkatalysator. Freies Kapital bleibt bei ca. 45.706,91 EUR, weiterhin ausreichend fuer kuenftige ueberzeugende Gelegenheiten.",
+    "positionIds": [
+      "pos-0014",
+      "pos-0016",
+      "pos-0018",
+      "pos-0019"
+    ],
+    "portfolioValueEnd": 2138.12,
+    "updates": [
+      {
+        "time": "00:08",
+        "note": "Tagesbudget +1.000 EUR gutgeschrieben (freies Kapital ca. 46.406,91 EUR). BTC auf ca. 81.150 USD aktualisiert (+0,19%), META vorboersen/wochenendbedingt unveraendert (668,55 USD, +3,50%). Kein Trade: Tezos-Pump (+37%) laut Quellen reine spekulative Rotation ohne Einzelkatalysator und bereits im Rueckzug vom Hoch, kein ueberzeugendes Signal.",
+        "portfolioValue": 1422.5
+      },
+      {
+        "time": "01:08",
+        "note": "Keine Aenderung. BTC auf 81.092 USD aktualisiert (+0,11%), META unveraendert (Boersen geschlossen). Kein Trade: ARB-Ziel ist Langfristprognose (2030), INJ-Rally von vor zwei Tagen bereits ruecklaeufig - kein ueberzeugendes neues Setup.",
+        "portfolioValue": 1421.93
+      },
+      {
+        "time": "02:08",
+        "note": "Keine Aenderung. BTC auf 80.616,76 USD aktualisiert (-0,47%), META unveraendert (Boersen geschlossen). Kein Trade: AVAX-Rally ist bereits gestern vereinnahmte Story mit widerspruechlichen Kursdaten, ZAMA ist unzuverlaessiger Micro-Cap.",
+        "portfolioValue": 1417.23
+      },
+      {
+        "time": "03:07",
+        "note": "Keine Aenderung, BTC-Kurs aktualisiert",
+        "portfolioValue": 1422.01
+      },
+      {
+        "time": "04:08",
+        "note": "Keine Aenderung. BTC auf 81.190 USD aktualisiert (+0,23%), META unveraendert (Boersen geschlossen). Kein Trade: AVAX/ARB/INJ/ICP sind bereits bekannte oder verworfene Bewegungen ohne frischen Katalysator.",
+        "portfolioValue": 1422.9
+      },
+      {
+        "time": "05:08",
+        "note": "Keine Aenderung. BTC auf 81.700 USD aktualisiert (+0,86%), META unveraendert (668,55 USD, Boersen geschlossen). Kein Trade: H.R. 8957-Ausschussvotum ohne Kurzfrist-Trigger, Altcoin-Rally bereits bekannt/verworfen, Harmony/Backpack als unzuverlaessige Micro-Caps ausgeschlossen.",
+        "portfolioValue": 1427.93
+      },
+      {
+        "time": "06:08",
+        "note": "Keine Aenderung. BTC auf 81.150 USD aktualisiert (+0,19%), META unveraendert (668,55 USD, Boersen geschlossen). Kein Trade: AI-Altcoin-Mover (SAGA/LAT/VVV/ARC/RENDER) ohne belastbare, mehrfach bestaetigte Kursbasis.",
+        "portfolioValue": 1422.5
+      },
+      {
+        "time": "07:08",
+        "note": "Keine Aenderung. BTC auf 81.300 USD aktualisiert (+0,37%), META unveraendert (668,55 USD, Boersen geschlossen). Kein Trade: Altcoin-Rally und Backpack/Harmony bereits bekannte, verworfene Bewegungen ohne frischen Katalysator.",
+        "portfolioValue": 1423.98
+      },
+      {
+        "time": "08:12",
+        "note": "Keine Aenderung. BTC auf ca. 81.200 USD aktualisiert (+0,25%), META unveraendert (668,55 USD, Boersen weiterhin geschlossen). Kein Trade: Altcoin Season Index nur leicht gestiegen (46), keine neuen mehrfach bestaetigten Katalysatoren.",
+        "portfolioValue": 1423.0
+      },
+      {
+        "time": "09:08",
+        "note": "Keine Aenderung. BTC auf 81.100 USD aktualisiert (-0,12%), META unveraendert (US-Boerse erst ab 15:30 MESZ). Kein Trade: positive Futures/Nahost-Spannung bereits bekannt, kein frischer Einzelkatalysator.",
+        "portfolioValue": 1422.01
+      },
+      {
+        "time": "10:08",
+        "note": "Keine Aenderung. BTC auf 81.500 USD aktualisiert (+0,62%), META auf 668,57 USD aktualisiert (+3,51%, Boersen Europa jetzt offen aber Kurs unveraendert). Kein Trade: AI-Altcoin-Rally (SAGA/LAT/VVV/ARC/RENDER) bereits mehrfach heute verworfen, kein frischer Katalysator.",
+        "portfolioValue": 1425.98
+      },
+      {
+        "time": "11:08",
+        "note": "Keine Aenderung. META auf 665,75 USD aktualisiert (+3,07%), BTC auf 81.510 USD (+0,63%). Kein Trade: SOL/AVAX-Momentum bereits vereinnahmt, kein frischer Katalysator; Trump-Xi-Gipfel erst 24.09.",
+        "portfolioValue": 1423.46
+      },
+      {
+        "time": "12:09",
+        "note": "Keine Aenderung. META auf 665,75 USD unveraendert (+3,07% seit Kauf), BTC auf 81.300 USD aktualisiert (+0,37% seit Kauf, Konsolidierung im Bereich 80.860-81.780 USD). Kein Trade: NEAR-Rally (+24-86% je nach Zeitraum) ist eine bereits seit dem 17./18.09. bekannte, mehrfach in frueheren Laeufen verworfene Bewegung, kein frischer Katalysator; Trump-Xi-Gipfel-Optimismus (positive Vorgespraeche, Bessent) treibt breite Indizes, aber ohne neuen Einzeltitel-Katalysator bereits eingepreist.",
+        "portfolioValue": 1421.38
+      },
+      {
+        "time": "13:09",
+        "note": "Keine Aenderung. META auf 668,57 USD aktualisiert (+3,51%), BTC auf 81.400 USD aktualisiert (+0,49%). Kein Trade: AI-Altcoin-Rotation und AVAX/ARB-Bewegungen bereits mehrfach heute verworfen, kein frischer Katalysator.",
+        "portfolioValue": 1424.99
+      },
+      {
+        "time": "14:14",
+        "note": "Kauf Bitcoin +700 EUR (pos-0018, bei 85.035 USD): bestaetigter Ausbruch ueber 84.000-85.000 USD (erstmals seit 31. Januar), 648 Mio. USD Short-Liquidationen plus echte Spot-ETF-Zuflusse (593 Mio. USD). Bestehende BTC-Position pos-0016 auf 85.035 USD aktualisiert (+4,98%). META unveraendert (668,57 USD, US-Boerse oeffnet erst 15:30 MESZ).",
+        "portfolioValue": 2160.89
+      },
+      {
+        "time": "15:12",
+        "note": "Keine Aenderung. BTC auf 83.869 USD aktualisiert (pos-0016 +3,54%, pos-0018 -1,37%, leichter Ruecksetzer vom Tageshoch nahe 85.000 USD). META unveraendert bei 668,57 USD (US-Boerse oeffnet erst 15:30 MESZ). Kein Trade: die stark laufende AI-Altcoin-Rally (SAGA +57%, LAT +49% in 24h) ist bereits zu weit gelaufen fuer einen neuen Einstieg, kein frischer, ueberzeugender Katalysator seit dem letzten Kauf um 14:14.",
+        "portfolioValue": 2139.78
+      },
+      {
+        "time": "16:08",
+        "note": "Keine Aenderung. META auf 680,73 USD aktualisiert (+5,39%, Ex-Dividenden-Tag), BTC pos-0016 auf 84.950 USD (+4,88%), pos-0018 auf 84.950 USD (-0,10%). Kein Trade: INTC-Rally (+5-6%, AUO/AI-Turnaround) durch widerspruechliche Live-Kursdaten nicht ausreichend bestaetigt.",
+        "portfolioValue": 2170.65
+      },
+      {
+        "time": "17:10",
+        "note": "Verkauf META +59,24 EUR Gewinn (pos-0014, +9,87%, Wells-Fargo-Kurszielanhebung + Connect-Event-Vorfreude). BTC-Positionen aktualisiert (pos-0016 +4,81%, pos-0018 -0,16%). Kein Neukauf: Micron-Chip-Rally-Daten widerspruechlich.",
+        "portfolioValue": 1537.41
+      },
+      {
+        "time": "18:08",
+        "note": "Keine Aenderung. BTC (pos-0016) auf 85.825 USD aktualisiert (+5,96% seit Kauf), BTC (pos-0018) auf 85.825 USD aktualisiert (+0,93% seit Kauf) - beide klar innerhalb des Haltebandes ohne Erreichen von Ziel- oder Stop-Loss-Schwelle. Kein Trade: Der bestaetigte Chip-Rally-Move (AMD +9,0%, Intel +13,8%) ist trotz mehrfacher Quellenbestaetigung bereits ueber die etablierte Ziel-Gewinnspanne (7-9%) hinausgelaufen - ein Einstieg jetzt waere ein Kauf nahe des ueblichen eigenen Exit-Niveaus mit erhoehtem Rueckschlagsrisiko (Gewinnmitnahmen anderer Marktteilnehmer nach so einem schnellen Tagesplus), daher kein neuer Kauf.",
+        "portfolioValue": 1554.15
+      },
+      {
+        "time": "19:09",
+        "note": "Kauf Hyperliquid +600 EUR (pos-0019, bei 94,33 USD) - drittes Allzeithoch in einer Woche, institutionelle Akkumulation (385 Mio. USD), neue Lending-Funktion, Kraken/Bitnomial-Partnerschaft. BTC-Positionen aktualisiert (pos-0016 +5,19%, pos-0018 +0,19%), beide gehalten.",
+        "portfolioValue": 2142.84
+      },
+      {
+        "time": "20:09",
+        "note": "Keine Aenderung. BTC (pos-0016) auf 85.100 USD aktualisiert (+5,06% seit Kauf), BTC (pos-0018) auf 85.100 USD aktualisiert (+0,08% seit Kauf), HYPE (pos-0019) auf 95,20 USD aktualisiert (+0,92% seit Kauf) - alle drei klar innerhalb des Haltebandes (Ziel 7-9%, Stop-Loss ca. -6,5 bis -7,5%). Kein Trade: AMD-Rally (Allzeithoch >610 USD, 1 Bio. USD Marktkapitalisierung, Intel/Arm +10%, PHLX-Halbleiterindex +3%) ist dieselbe bereits um 18:08 verworfene, zu weit gelaufene Chip-Story; Meta-\"Petal\"-Subsea-Kabel-Ankuendigung betrifft die bereits verkaufte Position (pos-0014); AI-Altcoin-Rotation (SAGA/LAT/VVV/ARC/RENDER) bleibt die bereits mehrfach heute verworfene, unbestaetigte Bewegung ohne belastbare Kursbasis.",
+        "portfolioValue": 2146.55
+      },
+      {
+        "time": "21:07",
+        "note": "Keine Aenderung. BTC (pos-0016) auf 85.110 USD aktualisiert (+5,07% seit Kauf), BTC (pos-0018) auf 85.110 USD aktualisiert (+0,09% seit Kauf), HYPE (pos-0019) auf 95,73 USD aktualisiert (+1,48% seit Kauf, nahe Allzeithoch 95,97 USD) - alle drei klar innerhalb des Haltebandes (Ziel 7-9%, Stop-Loss ca. -6,5 bis -7,5%). Kein Trade: GEMI-Rally (+31%) beruht auf widerspruechlichen, teils tagealten Begruendungen (SEC-Tokenisierung, Uebernahmespekulation, 'Breakthrough'-Meldung je nach Quelle) ohne belastbaren frischen Einzelkatalysator; die Altcoin-Rotation (Backpack, AI-Altcoins) bleibt die bereits mehrfach heute verworfene, unzuverlaessige Bewegung.",
+        "portfolioValue": 2150.11
+      },
+      {
+        "time": "22:08",
+        "note": "Keine Aenderung. BTC/HYPE-Kurse bestaetigt unveraendert (85.110 USD bzw. 95,73 USD), kein ueberzeugendes neues Setup (AI-Altcoin-Rotation bereits mehrfach verworfen).",
+        "portfolioValue": 2150.11
+      },
+      {
+        "time": "23:08",
+        "note": "Keine Aenderung. BTC-Positionen auf 84.950 USD (+4,88%/-0,10%), HYPE auf 94,30 USD (-0,03%) aktualisiert - alle im Halteband. Kein Trade: Boersen seit 22:00 MESZ geschlossen, einzige neue Bewegung (Dogecoin) Teil der bereits mehrfach verworfenen Altcoin-Rotation.",
+        "portfolioValue": 2138.12
+      }
+    ]
+  },
+  {
+    "date": "2026-09-22",
+    "marketOverview": "US-Maerkte nahe Rekordhoch: Nasdaq und S&P 500 leicht im Plus, Halbleiterindex im sechsten Gewinntag in Folge (AMD/Intel-Rally vom Vortag haelt an), Oelpreis (Brent ~99-101 USD) faellt weiter auf Hoffnung einer diplomatischen Loesung an der Strasse von Hormuz. Fed bleibt nach der Zinsanhebung vom 17.09. (3,75-4,00%) hawkish, 10-Jahres-Rendite bei ca. 5,0%. Krypto bleibt stark: Bitcoin ueber 86.000 USD (Kurse zuletzt im Januar gesehen), getrieben von institutionellen Kaeufen (Strategy, Strive) und Short-Eindeckungen; Gold leicht ruecklaeufig auf nachlassende Geopolitik-Praemie.",
+    "decision": "Tagesverlauf 22.09.: Um 13:08 Kauf DOGE (600 EUR) nach bestaetigtem Dreiecks-Ausbruch und Altcoin-Season-Signal. Alle anderen Laeufe (00:08 bis 17:08) ohne Aenderung: offene Positionen (BTC x2, HYPE, DOGE) kontinuierlich aktualisiert, keine Position erreichte Zielspanne oder Stop-Loss, kein weiterer ueberzeugender Einzeltitel-Katalysator gefunden trotz starker, aber bereits bekannter/eingepreister marktbreiter Rallys (Chip-Sektor, Krypto).",
+    "reasoning": "Diszipliniertes Abwarten ausserhalb bestaetigter Schwellen: Bestehende Positionen (pos-0016 BTC +6,51%, pos-0018 BTC +1,46%, pos-0019 HYPE +0,48%, pos-0020 DOGE +1,55%) liegen noch unterhalb der etablierten Ziel-Spanne von 7-9% bzw. weit von der Stop-Loss-Schwelle entfernt, daher werden sie gehalten. Neue Kaufkandidaten (AMD/Chip-Rally, allgemeine Nasdaq-Staerke) wurden geprueft, aber als bereits marktweit bekannt und eingepreist verworfen - kein frischer, einzeltitelspezifischer Katalysator im Sinne des bisherigen erfolgreichen Handelsmusters gefunden.",
+    "positionIds": [
+      "pos-0016",
+      "pos-0018",
+      "pos-0019",
+      "pos-0020"
+    ],
+    "portfolioValueEnd": 2774.48,
+    "updates": [
+      {
+        "time": "00:08",
+        "note": "Keine Aenderung. BTC-Positionen auf 86.540 USD aktualisiert (pos-0016 +6,84%, pos-0018 +1,77%), HYPE auf 93,01 USD aktualisiert (-1,40%). Kein Trade: keine Position erreicht eine Schwelle, kein neuer ueberzeugender Katalysator, Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten.",
+        "portfolioValue": 2158.68
+      },
+      {
+        "time": "01:08",
+        "note": "Keine Aenderung. BTC-Positionen auf 86.400 USD aktualisiert (pos-0016 +6,67%, pos-0018 +1,61%), HYPE auf 95,73 USD aktualisiert (+1,48%, neues ATH). Kein Trade: keine Position erreicht eine Schwelle, kein neuer ueberzeugender Katalysator, Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten.",
+        "portfolioValue": 2173.47
+      },
+      {
+        "time": "02:08",
+        "note": "Keine Aenderung. BTC (pos-0016, pos-0018) und HYPE (pos-0019) gegenueber dem 01:08-Lauf weitgehend unveraendert (BTC ~86.400 USD, HYPE ~95,73 USD nahe ATH). Kein neuer bestaetigter Katalysator seit letztem Lauf; ausserhalb der Handelszeiten sind ohnehin nur Krypto-Trades moeglich, keine Position erreicht eine Schwelle.",
+        "portfolioValue": 2173.47
+      },
+      {
+        "time": "03:07",
+        "note": "Keine Aenderung. BTC-Positionen auf 85.788,78 USD aktualisiert (pos-0016 +5,91%, pos-0018 +0,89%), HYPE auf 93,18 USD aktualisiert (-1,22%). Kein Trade: Aptos/Morpho-Rallys sind bereits mehrere Tage alte, marktbreite Bewegungen ohne frischen Einzelkatalysator.",
+        "portfolioValue": 2146.2
+      },
+      {
+        "time": "04:08",
+        "note": "Keine Aenderung. BTC-Positionen auf 84.320 USD aktualisiert (pos-0016 +4,10%, pos-0018 -0,84%), HYPE auf 95,73 USD aktualisiert (+1,48%). Kein Trade: keine Position erreicht eine Schwelle (Zielband ~7-9%, Stop-Loss ~-6,5% bis -7,5%); Bitnomial/Kraken-HYPE-Perps-Nachricht sowie Aptos-/Morpho-Rallys sind bereits bekannte, mehrere Tage alte Bewegungen ohne frischen Einzelkatalysator. Ausserhalb der Boersenzeiten sind ohnehin nur Krypto-Trades moeglich.",
+        "portfolioValue": 2135.8
+      },
+      {
+        "time": "05:09",
+        "note": "Keine Aenderung. BTC-Positionen auf 85.635 USD aktualisiert (pos-0016 +5,72%, pos-0018 +0,71%; CoinGecko-API live), HYPE auf 92,61 USD aktualisiert (-1,82%). Kein Trade: keine Position erreicht eine Schwelle, kein neuer ueberzeugender Katalysator, Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten.",
+        "portfolioValue": 2139.78
+      },
+      {
+        "time": "06:07",
+        "note": "Keine Aenderung. BTC-Positionen auf 86.200 USD aktualisiert (pos-0016 +6,42%, pos-0018 +1,37%), HYPE auf 94,50 USD aktualisiert (+0,18%). Kein Trade: pos-0016 naehert sich der Zielspanne, hat sie aber noch nicht erreicht; kein neuer ueberzeugender Katalysator; Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten.",
+        "portfolioValue": 2162.03
+      },
+      {
+        "time": "07:09",
+        "note": "Keine Aenderung. BTC-Positionen auf 85.457,75 USD aktualisiert (pos-0016 +5,50%, pos-0018 +0,50%), HYPE auf 93,66 USD aktualisiert (-0,71%). Kein Trade: keine Position erreicht eine Schwelle, Helicon-Upgrade (17:00 MESZ) ist bereits bekannt/eingepreist, Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten.",
+        "portfolioValue": 2143.25
+      },
+      {
+        "time": "08:08",
+        "note": "Keine Aenderung. BTC-Positionen auf 85.329,72 USD aktualisiert (pos-0016 +5,35%, pos-0018 +0,35%), HYPE auf 93,72 USD aktualisiert (-0,65%). Kein Trade: keine Position erreicht eine Schwelle, kein neuer ueberzeugender Einzelkatalysator, Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten.",
+        "portfolioValue": 2141.31
+      },
+      {
+        "time": "09:08",
+        "note": "Keine Aenderung. Boersen seit 09:00 MESZ offen (DAX +1,2%). BTC-Positionen auf 86.400 USD aktualisiert (pos-0016 +6,67%, pos-0018 +1,61%), HYPE auf 95,73 USD aktualisiert (+1,48%). Kandidat ams-OSRAM (+20-24% Kurssprung wegen KI-VCSEL-Durchbruch) geprueft, aber verworfen: Bewegung bereits zu weit gelaufen, Analysten-Kursziel unter aktuellem Kurs.",
+        "portfolioValue": 2173.47
+      },
+      {
+        "time": "10:08",
+        "note": "Keine Aenderung. BTC-Positionen auf 86.624 USD aktualisiert (pos-0016 +6,94%, pos-0018 +1,87%), HYPE auf 93,50 USD aktualisiert (-0,88%). Neue Kandidaten geprueft und verworfen: Sazerac-Uebernahme eines deutschen Spirituosenherstellers (+22%, Arbitrage bereits eingepreist) und Groenland-Nebenwerte GRML/GLND/CRML (+140-155% Premarket nach US-Daenemark-Sicherheitsabkommen, rein spekulativ ohne fundamentale Substanz). Kein Trade: keine Position erreicht eine Schwelle.",
+        "portfolioValue": 2163.35
+      },
+      {
+        "time": "11:07",
+        "note": "Keine Aenderung. HYPE (pos-0019) auf 95,73 USD aktualisiert (+1,48%, nahe ATH 95,97 USD), BTC-Positionen unveraendert bei 86.624 USD (pos-0016 +6,94%, pos-0018 +1,87%). Nasdaq-Rekordhoch und DAX +1,2% geprueft, aber kein frischer Einzeltitel-Katalysator gefunden - bereits marktweit eingepreiste Rally, kein Trade.",
+        "portfolioValue": 2177.53
+      },
+      {
+        "time": "12:08",
+        "note": "Keine Aenderung. BTC-Positionen unveraendert bei 86.624 USD (pos-0016 +6,94%, pos-0018 +1,87%), HYPE auf 94,33 USD aktualisiert (Rueckzug vom ATH, +0,0%). AMD/Nasdaq-Chiprally und Greenland-Nebenwerte geprueft, aber verworfen: bereits marktweit bekannt bzw. rein spekulativ ohne fundamentale Substanz; US-Boersen erst ab 15:30 MESZ geoeffnet. Kein Trade.",
+        "portfolioValue": 2168.63
+      },
+      {
+        "time": "13:08",
+        "note": "Kauf DOGE 600 EUR (Dreiecks-Ausbruch +12-14%, Whale-Kaeufe, Wolfe-Wave, eingebettet in Glassnode Altcoin-Season-Signal). BTC-Positionen auf 86.600 USD aktualisiert (pos-0016 +6,91%, pos-0018 +1,84%), HYPE auf 94,50 USD aktualisiert (+0,18%).",
+        "portfolioValue": 2769.27
+      },
+      {
+        "time": "14:08",
+        "note": "Keine Aenderung. BTC-Positionen auf 85.958 USD aktualisiert (pos-0016 +6,12%, pos-0018 +1,09%), HYPE auf 95,44 USD aktualisiert (+1,18%), DOGE auf 0,098037 USD aktualisiert (-0,47%). Kein Trade: keine Position erreicht eine Schwelle, kein neuer ueberzeugender Katalysator seit dem DOGE-Kauf um 13:08.",
+        "portfolioValue": 2760.81
+      },
+      {
+        "time": "15:10",
+        "note": "Keine Aenderung. BTC-Positionen auf 86.137 USD aktualisiert (pos-0016 +6,34%, pos-0018 +1,30%), HYPE auf 95,89 USD aktualisiert (+1,65%), DOGE auf 0,100344 USD aktualisiert (+1,87%, CoinGecko live). Kein Trade: keine Position erreicht eine Schwelle (Zielband 7-9%, Stop-Loss -6,5% bis -7,5%). US-Vorboersenhandel vor Handelsstart (15:30 MESZ) verhalten (Nasdaq-100-Futures flach, S&P-Futures leicht im Plus) nach Montags-Rekordrally (Nasdaq +2,26%, Meta +11-12%, AMD/Intel-Chiprally); Trump-Xi-Gipfel erst ab Mittwoch, Bessent-Aussagen zu 'sehr erfolgreichen' Handelsgespraechen bereits bekannt/eingepreist. Kein frischer Einzeltitel-Katalysator gefunden.",
+        "portfolioValue": 2780.96
+      },
+      {
+        "time": "16:08",
+        "note": "Keine Aenderung. BTC-Positionen auf 86.178 USD aktualisiert (pos-0016 +6,39%, pos-0018 +1,34%), HYPE auf 95,47 USD (+1,21%), DOGE auf 0,100132 USD (+1,66%). Kein Trade: keine Position erreicht eine Schwelle, US-Markt setzt die Montags-Rally nur verhalten fort ohne frischen Einzelkatalysator.",
+        "portfolioValue": 2777.74
+      },
+      {
+        "time": "17:08",
+        "note": "Keine Aenderung. BTC-Positionen auf 86.276 USD aktualisiert (pos-0016 +6,51%, pos-0018 +1,46%), HYPE auf 94,78 USD aktualisiert (+0,48%), DOGE auf 0,100025 USD aktualisiert (+1,55%). Kein Trade: keine Position erreicht die Zielspanne (7-9%) oder Stop-Loss (-6,5% bis -7,5%); US-Markt setzt die Chip-/AI-Rally (Nasdaq nahe Rekordhoch, 6. Gewinntag der Halbleiter in Folge) fort, aber ohne frischen Einzeltitel-Katalysator (AMD-Rekordlauf bereits vom Vortag bekannt/eingepreist). Oelpreis faellt weiter auf Hormuz-Deeskalationshoffnung.",
+        "portfolioValue": 2774.48
       }
     ]
   }
