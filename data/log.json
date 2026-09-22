@@ -5993,16 +5993,16 @@
   },
   {
     "date": "2026-09-22",
-    "marketOverview": "US-Maerkte am Nachmittag uneinheitlich nahe Rekordniveau: Nasdaq +0,4%, S&P 500 kaum veraendert, Dow leicht im Minus; Hintergrund ist Trumps UN-Rede mit Verweis auf moegliches US-Iran-Abkommen erst nach den Midterms im November, was Hoffnung auf eine diplomatische Loesung an der Strasse von Hormuz naehrt und Oel weiter unter 99 USD/Barrel drueckt. Chip-Sektor markiert sechsten Gewinntag in Folge. Krypto bleibt der staerkste Markt: Gesamtmarktkapitalisierung wieder ueber 3 Billionen USD (erstmals seit Januar), Bitcoin stabil um 86.000-86.700 USD (+6-7% 24h), getrieben von US-Anleihe-Rueckkaeufen, Short-Eindeckungen und institutioneller Nachfrage; HYPE und DOGE konsolidieren nahe ihren juengsten Hochs ohne neuen eigenstaendigen Katalysator.",
-    "decision": "Tagesverlauf 22.09.: Um 13:08 Kauf DOGE (600 EUR) nach bestaetigtem Dreiecks-Ausbruch und Altcoin-Season-Signal. Alle anderen Laeufe (00:08 bis 18:08) ohne Aenderung: offene Positionen (BTC x2, HYPE, DOGE) kontinuierlich aktualisiert, keine Position erreichte Zielspanne (7-9%) oder Stop-Loss (-6,5% bis -8%), kein weiterer ueberzeugender Einzeltitel-Katalysator gefunden trotz starker, aber bereits bekannter/eingepreister marktbreiter Rallys (Chip-Sektor, Krypto).",
-    "reasoning": "Diszipliniertes Abwarten ausserhalb bestaetigter Schwellen: Bestehende Positionen (pos-0016 BTC +6,54%, pos-0018 BTC +1,49%, pos-0019 HYPE -0,03%, pos-0020 DOGE +1,36%) liegen weiterhin unterhalb der etablierten Ziel-Spanne bzw. weit von der Stop-Loss-Schwelle entfernt, daher werden sie gehalten. HYPE und DOGE zeigen am Nachmittag keine neue Dynamik (HYPE nahe Vortagesschluss, DOGE-Kurs je nach Boerse 0,093-0,10 USD ohne klaren frischen Trigger), BTC konsolidiert nahe 86.300 USD ohne neuen Einzelkatalysator seit dem letzten Lauf. Freies Kapital (~46.100 EUR) bleibt bewusst ungenutzt, da kein neuer, unabhaengig bestaetigter Katalysator im Sinne des bisherigen erfolgreichen Handelsmusters identifiziert wurde.",
+    "marketOverview": "US-Maerkte am fruehen Abend uneinheitlich nahe Rekordniveau: Nasdaq +0,4% nach Rekordhoch am Vortag, S&P 500 kaum veraendert, Dow -0,4%. Trump bekraeftigte in seiner UN-Rede, ein US-Iran-Abkommen sei erst nach den Midterms im November denkbar - das naehrt Hoffnung auf eine diplomatische Loesung an der Strasse von Hormuz und drueckt Oel weiter unter 99 USD/Barrel. Einzelwerte wie Viking Therapeutics (+25%, starke Adipositas-Studiendaten) und AutoZone (+5%, starke Q4-Zahlen) bewegen sich stark, sind aber ausserhalb des aktuellen Anlagefokus. Krypto bleibt fester: Bitcoin stabil um 86.100-86.400 USD (+6-7% 24h), Dogecoin weiterhin mit kraeftigem Plus (+13-15% 24h) nach bestaetigtem Ausbruch, HYPE konsolidiert nahe seinen juengsten Hochs ohne neuen eigenstaendigen Katalysator.",
+    "decision": "Tagesverlauf 22.09.: Um 13:08 Kauf DOGE (600 EUR) nach bestaetigtem Dreiecks-Ausbruch und Altcoin-Season-Signal. Alle anderen Laeufe (00:08 bis 18:08) ohne Aenderung: offene Positionen (BTC x2, HYPE, DOGE) kontinuierlich aktualisiert, keine Position erreichte Zielspanne (7-9%) oder Stop-Loss (-6,5% bis -8%), kein weiterer ueberzeugender Einzeltitel-Katalysator gefunden trotz starker, aber bereits bekannter/eingepreister marktbreiter Rallys (Chip-Sektor, Krypto). 19:08 weiterhin ohne Aenderung: keine Position erreichte Zielspanne oder Stop-Loss, kein neuer ueberzeugender Katalysator seit 18:08.",
+    "reasoning": "Diszipliniertes Abwarten: Bestehende Positionen (pos-0016 BTC +6,35%, pos-0018 BTC +1,31%, pos-0019 HYPE -0,03%, pos-0020 DOGE +1,36%) liegen weiterhin unterhalb der etablierten Ziel-Spanne (7-9%) bzw. weit von der Stop-Loss-Schwelle (-6,5% bis -7,5%) entfernt, daher werden sie gehalten. Seit dem 18:08-Lauf kein neuer, unabhaengig bestaetigter Einzeltitel-Katalysator: die UN-Rede und die Oel-Deeskalationshoffnung sind bereits marktweit eingepreist, Viking Therapeutics und AutoZone passen nicht zum bisherigen Handelsmuster (Momentum-Dip-Kauf bzw. bestaetigter Ausbruch mit klarem Katalysator). Freies Kapital (~46.107 EUR) bleibt bewusst ungenutzt.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
       "pos-0019",
       "pos-0020"
     ],
-    "portfolioValueEnd": 2770.73,
+    "portfolioValueEnd": 2767.95,
     "updates": [
       {
         "time": "00:08",
@@ -6098,6 +6098,11 @@
         "time": "18:08",
         "note": "Keine Aenderung. BTC-Positionen auf 86.300 USD aktualisiert (pos-0016 +6,54%, pos-0018 +1,49%), HYPE auf 94,30 USD (-0,03%), DOGE auf 0,09984 USD (+1,36%). Kein Trade: keine Position erreicht eine Schwelle, kein neuer ueberzeugender Katalysator seit dem 17:08-Lauf (US-Maerkte nahe Rekordhoch, Oel faellt auf Hormuz-Diplomatiehoffnung).",
         "portfolioValue": 2770.73
+      },
+      {
+        "time": "19:08",
+        "note": "Keine Aenderung. BTC-Positionen auf 86.146,58 USD aktualisiert (pos-0016 +6,35%, pos-0018 +1,31%), HYPE auf 94,30 USD aktualisiert (-0,03%), DOGE auf 0,09984 USD aktualisiert (+1,36%). Kein Trade: keine Position erreicht eine Schwelle, kein neuer ueberzeugender Katalysator seit dem 18:08-Lauf (Trumps UN-Rede und Oel-Deeskalationshoffnung bereits eingepreist).",
+        "portfolioValue": 2767.95
       }
     ]
   }
