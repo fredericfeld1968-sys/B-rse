@@ -5993,15 +5993,15 @@
   },
   {
     "date": "2026-09-22",
-    "marketOverview": "Bitcoin pendelt weiter seitwaerts knapp unter dem Achtmonatshoch bei ca. 85.330 USD (+4,5% in 24h laut CoinGecko), gestuetzt durch Iran-Deeskalationshoffnungen (fallende Oelpreise) und eine breite Risikofreude nach der besten Wall-Street-Session seit Anfang August (Tech-/Chip-Rally, Meta-KI-Agent-Enthusiasmus). HYPE konsolidiert knapp unter ATH bei ca. 93,72 USD (-0,3% in 24h), das Helicon-Mainnet-Upgrade (17:00 MESZ) bleibt eingepreist. Aktien/ETFs/Rohstoffe sind um 08:08 MESZ vor Boersenoeffnung weiterhin nicht handelbar.",
-    "decision": "Bislang heute (00:08-08:08): Keine Trades. Tagesbudget wurde bereits um 00:08 gutgeschrieben. Alle drei offenen Krypto-Positionen (2x BTC, 1x HYPE) wurden fortlaufend auf aktuelle Kurse gebracht; keine Position hat die etablierte Zielspanne (~7-9% Gewinn) oder die Stop-Loss-Schwelle (~-6,5% bis -7,5%) erreicht. Kein neuer, hinreichend ueberzeugender Einzelkatalysator fuer eine Neuposition; ausserhalb der Boersenzeiten ohnehin nur Krypto handelbar.",
-    "reasoning": "pos-0016 (BTC, Kauf 81.000 USD) bei 85.329,72 USD nun +5,35% - innerhalb der Zielspanne, aber noch nicht am oberen Ende. pos-0018 (BTC, Kauf 85.035 USD) bei 85.329,72 USD nun +0,35% - kaum bewegt. pos-0019 (HYPE, Kauf 94,33 USD) bei 93,72 USD nun -0,65% - im normalen Schwankungsbereich, weit von der Stop-Loss-Schwelle entfernt. Die allgemeine Markt-Rally (Tech/Chips, Oel-Deeskalation) ist bereits breit bekannt und kein neuer, einzeltitelbezogener Katalysator im Sinne der Vorgaben. Aktien/ETFs/Rohstoffe sind vor Boersenoeffnung nicht handelbar.",
+    "marketOverview": "Boersen in Europa seit 09:00 MESZ geoeffnet (DAX eroeffnete +1,2% bei ca. 25.608 Punkten, angefuehrt von Infineon +3,5%, Siemens +3,1%). Grosser Einzeltitel-Katalysator: ams-OSRAM sprang bereits gestern (21.09.) um ca. +20-24% auf ueber 20 CHF nach einem Duennschicht-VCSEL-Technologiedurchbruch fuer KI-Rechenzentren (ECOC-2026-Demo mit Partner BizLink, positiv von UBS bewertet) und legt laut Berichten auch heute weiter zu - der Move ist jedoch bereits sehr weit gelaufen (Analysten-Kursziel im Schnitt bei 17,39 CHF, also UNTER dem aktuellen Kurs, Rating im Schnitt nur 'Neutral'), daher kein Kauf. Bitcoin notiert weiter fest bei ca. 86.400 USD (+6-7% 24h, Fear&Greed 71 'Greed', ETF-Zuflüsse und Strategy-Nachkaeufe), HYPE nahe Allzeithoch bei 95,73 USD. US-Maerkte (Nasdaq-Rekord gestern getrieben von Meta 'Muse' und Chip-Rally AMD/Intel) oeffnen erst um 15:30 MESZ.",
+    "decision": "Bislang heute (00:08-09:08): Keine Trades. Tagesbudget wurde bereits um 00:08 gutgeschrieben. Alle drei offenen Krypto-Positionen (2x BTC, 1x HYPE) laufend auf aktuelle Kurse gebracht; pos-0016 (BTC) naehert sich mit +6,67% der etablierten Zielspanne (7-9%), hat sie aber noch nicht erreicht. Seit Boersenoeffnung (09:00 MESZ) neu gepruefter Kandidat ams-OSRAM (+20-24% Kurssprung) wird NICHT gekauft: die Bewegung ist bereits zu weit gelaufen (Analysten-Kursziel unter aktuellem Kurs, Rating nur neutral) und passt nicht ins Muster der bisherigen erfolgreichen Trades (frischer Breakout mit anschliessend steigenden Kurszielen).",
+    "reasoning": "pos-0016 (BTC, Kauf 81.000 USD) bei 86.400 USD nun +6,67% - naeher an der Zielspanne, aber noch nicht ausreichend fuer eine Gewinnmitnahme. pos-0018 (BTC, Kauf 85.035 USD) bei 86.400 USD nun +1,61%. pos-0019 (HYPE, Kauf 94,33 USD) bei 95,73 USD nun +1,48% - deutlich unter der Stop-Loss-Schwelle. ams-OSRAM wurde als moeglicher Neukauf geprueft, aber verworfen: der Kurssprung (+20-24% seit Montag) ist fundamental durch einen echten Technologiedurchbruch (Duennschicht-VCSEL fuer KI) gestuetzt, jedoch bereits sehr weit gelaufen; das durchschnittliche Analysten-Kursziel (17,39 CHF) liegt UNTER dem aktuellen Kurs (~20-21 CHF), Gesamtrating nur 'Neutral' (2 Kaufen, 3 Verkaufen) - ein klares Warnsignal gegen eine Anschlussposition auf bereits stark gestiegenem Niveau. DAX-Rally (+1,2%) ist marktbreit ohne neuen, einzeltitelspezifischen Frischkatalysator ausserhalb ams-OSRAM.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
       "pos-0019"
     ],
-    "portfolioValueEnd": 2141.31,
+    "portfolioValueEnd": 2173.47,
     "updates": [
       {
         "time": "00:08",
@@ -6047,6 +6047,11 @@
         "time": "08:08",
         "note": "Keine Aenderung. BTC-Positionen auf 85.329,72 USD aktualisiert (pos-0016 +5,35%, pos-0018 +0,35%), HYPE auf 93,72 USD aktualisiert (-0,65%). Kein Trade: keine Position erreicht eine Schwelle, kein neuer ueberzeugender Einzelkatalysator, Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten.",
         "portfolioValue": 2141.31
+      },
+      {
+        "time": "09:08",
+        "note": "Keine Aenderung. Boersen seit 09:00 MESZ offen (DAX +1,2%). BTC-Positionen auf 86.400 USD aktualisiert (pos-0016 +6,67%, pos-0018 +1,61%), HYPE auf 95,73 USD aktualisiert (+1,48%). Kandidat ams-OSRAM (+20-24% Kurssprung wegen KI-VCSEL-Durchbruch) geprueft, aber verworfen: Bewegung bereits zu weit gelaufen, Analysten-Kursziel unter aktuellem Kurs.",
+        "portfolioValue": 2173.47
       }
     ]
   }
