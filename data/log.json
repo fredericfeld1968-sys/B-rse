@@ -5993,15 +5993,15 @@
   },
   {
     "date": "2026-09-22",
-    "marketOverview": "Boersen in Europa seit 09:00 MESZ geoeffnet (DAX eroeffnete +1,2% bei ca. 25.608 Punkten, angefuehrt von Infineon +3,5%, Siemens +3,1%). Grosser Einzeltitel-Katalysator: ams-OSRAM sprang bereits gestern (21.09.) um ca. +20-24% auf ueber 20 CHF nach einem Duennschicht-VCSEL-Technologiedurchbruch fuer KI-Rechenzentren (ECOC-2026-Demo mit Partner BizLink, positiv von UBS bewertet) und legt laut Berichten auch heute weiter zu - der Move ist jedoch bereits sehr weit gelaufen (Analysten-Kursziel im Schnitt bei 17,39 CHF, also UNTER dem aktuellen Kurs, Rating im Schnitt nur 'Neutral'), daher kein Kauf. Bitcoin notiert weiter fest bei ca. 86.400 USD (+6-7% 24h, Fear&Greed 71 'Greed', ETF-Zuflüsse und Strategy-Nachkaeufe), HYPE nahe Allzeithoch bei 95,73 USD. US-Maerkte (Nasdaq-Rekord gestern getrieben von Meta 'Muse' und Chip-Rally AMD/Intel) oeffnen erst um 15:30 MESZ.",
-    "decision": "Bislang heute (00:08-09:08): Keine Trades. Tagesbudget wurde bereits um 00:08 gutgeschrieben. Alle drei offenen Krypto-Positionen (2x BTC, 1x HYPE) laufend auf aktuelle Kurse gebracht; pos-0016 (BTC) naehert sich mit +6,67% der etablierten Zielspanne (7-9%), hat sie aber noch nicht erreicht. Seit Boersenoeffnung (09:00 MESZ) neu gepruefter Kandidat ams-OSRAM (+20-24% Kurssprung) wird NICHT gekauft: die Bewegung ist bereits zu weit gelaufen (Analysten-Kursziel unter aktuellem Kurs, Rating nur neutral) und passt nicht ins Muster der bisherigen erfolgreichen Trades (frischer Breakout mit anschliessend steigenden Kurszielen).",
-    "reasoning": "pos-0016 (BTC, Kauf 81.000 USD) bei 86.400 USD nun +6,67% - naeher an der Zielspanne, aber noch nicht ausreichend fuer eine Gewinnmitnahme. pos-0018 (BTC, Kauf 85.035 USD) bei 86.400 USD nun +1,61%. pos-0019 (HYPE, Kauf 94,33 USD) bei 95,73 USD nun +1,48% - deutlich unter der Stop-Loss-Schwelle. ams-OSRAM wurde als moeglicher Neukauf geprueft, aber verworfen: der Kurssprung (+20-24% seit Montag) ist fundamental durch einen echten Technologiedurchbruch (Duennschicht-VCSEL fuer KI) gestuetzt, jedoch bereits sehr weit gelaufen; das durchschnittliche Analysten-Kursziel (17,39 CHF) liegt UNTER dem aktuellen Kurs (~20-21 CHF), Gesamtrating nur 'Neutral' (2 Kaufen, 3 Verkaufen) - ein klares Warnsignal gegen eine Anschlussposition auf bereits stark gestiegenem Niveau. DAX-Rally (+1,2%) ist marktbreit ohne neuen, einzeltitelspezifischen Frischkatalysator ausserhalb ams-OSRAM.",
+    "marketOverview": "DAX legt um 0,7% auf 25.485 Punkte zu und stabilisiert sich an der 100-Tage-Linie; Brent Crude faellt den vierten Handelstag in Folge (Hoffnung auf diplomatische Loesung im Iran-Konflikt, Pezeshkian bei der UN-Generalversammlung), was die Boersen stuetzt. In den USA sprang der Nasdaq gestern auf ein Rekordhoch (+2,26%), getrieben von Meta/Chip-Rally; Greenland-nahe US-Nebenwerte (GRML, GLND, CRML) explodierten im Premarket nach einem US-Sicherheitsabkommen mit Daenemark/Groenland (+140-155%), sind aber bereits extrem weit gelaufen und ohne konkrete kommerzielle Katalysatoren - reine Spekulation auf Kleinstwerte. Bitcoin bei ca. 86.624 USD (+6,5% 24h), HYPE konsolidiert nahe ATH um 92-95 USD nach drei starken Tagen.",
+    "decision": "Bislang heute (00:08-10:08): Keine Trades. Tagesbudget wurde bereits um 00:08 gutgeschrieben. Alle drei offenen Krypto-Positionen (2x BTC, 1x HYPE) laufend auf aktuelle Kurse gebracht; pos-0016 (BTC) naehert sich mit +6,94% weiter der Zielspanne (7-9%), hat sie aber noch nicht erreicht. Seit Boersenoeffnung gepruefte Kandidaten - ams-OSRAM (09:08, bereits zu weit gelaufen), ein deutscher Spirituosenhersteller nach Sazerac-Uebernahmeangebot (+22%, Arbitrage bereits eingepreist) und die stark gehypten Groenland-Nebenwerte (+140-155% Premarket, rein spekulativ ohne fundamentale Substanz) - wurden allesamt verworfen: keiner passt ins etablierte Muster eines frischen, noch nicht vollstaendig eingepreisten Breakouts.",
+    "reasoning": "pos-0016 (BTC, Kauf 81.000 USD) bei 86.624 USD nun +6,94% - sehr nah an der Zielspanne (7-9%), aber noch nicht ausreichend fuer eine Gewinnmitnahme. pos-0018 (BTC, Kauf 85.035 USD) bei 86.624 USD nun +1,87%. pos-0019 (HYPE, Kauf 94,33 USD) bei ca. 93,50 USD nun -0,88% - im neutralen Bereich, weder Ziel- noch Stop-Loss-Schwelle erreicht. Neue Kandidaten prueft: Sazerac/deutscher Spirituosenhersteller-Deal ist eine bereits abgeschlossene M&A-Arbitrage-Situation (Kurs bewegt sich nun eng um den Angebotspreis, kein Momentum-Trade mehr); Groenland-Nebenwerte (GRML/GLND/CRML) sind Kleinstwerte mit extremer, bereits mehrtaegiger Kurs-Explosion (+140-155%) rein auf geopolitische Spekulation ohne bestaetigte kommerzielle Aussicht - zu hohes Rueckschlagsrisiko fuer einen Einstieg auf diesem Niveau. Kein Trade in diesem Lauf.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
       "pos-0019"
     ],
-    "portfolioValueEnd": 2173.47,
+    "portfolioValueEnd": 2163.35,
     "updates": [
       {
         "time": "00:08",
@@ -6052,6 +6052,11 @@
         "time": "09:08",
         "note": "Keine Aenderung. Boersen seit 09:00 MESZ offen (DAX +1,2%). BTC-Positionen auf 86.400 USD aktualisiert (pos-0016 +6,67%, pos-0018 +1,61%), HYPE auf 95,73 USD aktualisiert (+1,48%). Kandidat ams-OSRAM (+20-24% Kurssprung wegen KI-VCSEL-Durchbruch) geprueft, aber verworfen: Bewegung bereits zu weit gelaufen, Analysten-Kursziel unter aktuellem Kurs.",
         "portfolioValue": 2173.47
+      },
+      {
+        "time": "10:08",
+        "note": "Keine Aenderung. BTC-Positionen auf 86.624 USD aktualisiert (pos-0016 +6,94%, pos-0018 +1,87%), HYPE auf 93,50 USD aktualisiert (-0,88%). Neue Kandidaten geprueft und verworfen: Sazerac-Uebernahme eines deutschen Spirituosenherstellers (+22%, Arbitrage bereits eingepreist) und Groenland-Nebenwerte GRML/GLND/CRML (+140-155% Premarket nach US-Daenemark-Sicherheitsabkommen, rein spekulativ ohne fundamentale Substanz). Kein Trade: keine Position erreicht eine Schwelle.",
+        "portfolioValue": 2163.35
       }
     ]
   }
