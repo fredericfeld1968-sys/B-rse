@@ -5993,16 +5993,16 @@
   },
   {
     "date": "2026-09-22",
-    "marketOverview": "US-Maerkte am fruehen Abend uneinheitlich nahe Rekordniveau: Nasdaq +0,4% nach Rekordhoch am Vortag, S&P 500 kaum veraendert, Dow -0,4%. Trump bekraeftigte in seiner UN-Rede, ein US-Iran-Abkommen sei erst nach den Midterms im November denkbar - das naehrt Hoffnung auf eine diplomatische Loesung an der Strasse von Hormuz und drueckt Oel weiter unter 99 USD/Barrel. Einzelwerte wie Viking Therapeutics (+25%, starke Adipositas-Studiendaten) und AutoZone (+5%, starke Q4-Zahlen) bewegen sich stark, sind aber ausserhalb des aktuellen Anlagefokus. Krypto bleibt fester: Bitcoin stabil um 86.100-86.400 USD (+6-7% 24h), Dogecoin weiterhin mit kraeftigem Plus (+13-15% 24h) nach bestaetigtem Ausbruch, HYPE konsolidiert nahe seinen juengsten Hochs ohne neuen eigenstaendigen Katalysator.",
-    "decision": "Tagesverlauf 22.09.: Um 13:08 Kauf DOGE (600 EUR) nach bestaetigtem Dreiecks-Ausbruch und Altcoin-Season-Signal. Alle anderen Laeufe (00:08 bis 18:08) ohne Aenderung: offene Positionen (BTC x2, HYPE, DOGE) kontinuierlich aktualisiert, keine Position erreichte Zielspanne (7-9%) oder Stop-Loss (-6,5% bis -8%), kein weiterer ueberzeugender Einzeltitel-Katalysator gefunden trotz starker, aber bereits bekannter/eingepreister marktbreiter Rallys (Chip-Sektor, Krypto). 19:08 weiterhin ohne Aenderung: keine Position erreichte Zielspanne oder Stop-Loss, kein neuer ueberzeugender Katalysator seit 18:08.",
-    "reasoning": "Diszipliniertes Abwarten: Bestehende Positionen (pos-0016 BTC +6,35%, pos-0018 BTC +1,31%, pos-0019 HYPE -0,03%, pos-0020 DOGE +1,36%) liegen weiterhin unterhalb der etablierten Ziel-Spanne (7-9%) bzw. weit von der Stop-Loss-Schwelle (-6,5% bis -7,5%) entfernt, daher werden sie gehalten. Seit dem 18:08-Lauf kein neuer, unabhaengig bestaetigter Einzeltitel-Katalysator: die UN-Rede und die Oel-Deeskalationshoffnung sind bereits marktweit eingepreist, Viking Therapeutics und AutoZone passen nicht zum bisherigen Handelsmuster (Momentum-Dip-Kauf bzw. bestaetigter Ausbruch mit klarem Katalysator). Freies Kapital (~46.107 EUR) bleibt bewusst ungenutzt.",
+    "marketOverview": "US-Maerkte am spaeten Nachmittag uneinheitlich nahe Rekordniveau: Nasdaq Composite auf neuem Rekordhoch (~27.272 Punkte), getrieben von der fortgesetzten Chip-/AI-Rally (AMD erstmals ueber 1 Bio. USD Marktkapitalisierung, Intel +12%, Arm +17%, Qualcomm +9%) und Meta (+~12% seit gestern) nach dem Muse-KI-Agenten-Hype. Dow leicht im Minus, Bankensektor schwach (-1,8%). Oelpreis faellt weiter unter 99 USD/Barrel nach Trumps UN-Rede (Iran-Deal erst nach Midterms). Krypto bleibt fest: Bitcoin stabil um 86.500-86.600 USD (+~6,5-7% 24h, erstmals seit Januar ueber 85.000 USD gehalten), Hyperliquid markiert mit 96,80 USD ein neues Allzeithoch (+4,3% 24h), Dogecoin konsolidiert nach starkem Ausbruch bei rund 0,0996 USD (+1,9% 24h).",
+    "decision": "Tagesverlauf 22.09.: Um 13:08 Kauf DOGE (600 EUR) nach bestaetigtem Dreiecks-Ausbruch und Altcoin-Season-Signal. Alle anderen Laeufe (00:08 bis 20:08) ohne Aenderung: offene Positionen (BTC x2, HYPE, DOGE) kontinuierlich aktualisiert, keine Position erreichte die Zielspanne (7-9%) oder den Stop-Loss (-6,5% bis -8%), kein weiterer ueberzeugender Einzeltitel-Katalysator gefunden trotz starker, aber bereits bekannter/eingepreister marktbreiter Rallys (Chip-Sektor, Krypto). 20:08 weiterhin ohne Aenderung: HYPE markiert zwar ein neues Allzeithoch (96,80 USD), liegt seit unserem Kauf (94,33 USD) aber erst bei +2,6% und damit klar unter der Zielspanne; kein neuer, bislang ungehandelter Katalysator seit 19:08.",
+    "reasoning": "Diszipliniertes Abwarten: Bestehende Positionen (pos-0016 BTC +6,90%, pos-0018 BTC +1,83%, pos-0019 HYPE +2,62%, pos-0020 DOGE +1,08%) liegen weiterhin unterhalb der etablierten Ziel-Spanne (7-9%) bzw. weit von der Stop-Loss-Schwelle (-6,5% bis -7,5%) entfernt, daher werden sie gehalten. Seit dem 19:08-Lauf kein neuer, unabhaengig bestaetigter Einzeltitel-Katalysator: AMD-Marktkapitalisierung ueber 1 Bio. USD, Intel/Arm/Qualcomm-Chiprally und der Meta-Anstieg sind bereits seit dem Vortag bekannte, eingepreiste Bewegungen (Meta-Position bereits am 21.09. mit Gewinn glattgestellt); Viking Therapeutics und AutoZone passen weiterhin nicht zum etablierten Handelsmuster (Momentum-Dip-Kauf bzw. bestaetigter Ausbruch mit frischem, noch nicht gehandeltem Katalysator). Freies Kapital (~46.107 EUR) bleibt bewusst ungenutzt.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
       "pos-0019",
       "pos-0020"
     ],
-    "portfolioValueEnd": 2767.95,
+    "portfolioValueEnd": 2790.28,
     "updates": [
       {
         "time": "00:08",
@@ -6103,6 +6103,11 @@
         "time": "19:08",
         "note": "Keine Aenderung. BTC-Positionen auf 86.146,58 USD aktualisiert (pos-0016 +6,35%, pos-0018 +1,31%), HYPE auf 94,30 USD aktualisiert (-0,03%), DOGE auf 0,09984 USD aktualisiert (+1,36%). Kein Trade: keine Position erreicht eine Schwelle, kein neuer ueberzeugender Katalysator seit dem 18:08-Lauf (Trumps UN-Rede und Oel-Deeskalationshoffnung bereits eingepreist).",
         "portfolioValue": 2767.95
+      },
+      {
+        "time": "20:08",
+        "note": "Keine Aenderung. BTC-Positionen auf 86.593 USD aktualisiert (pos-0016 +6,90%, pos-0018 +1,83%), HYPE auf 96,80 USD aktualisiert (neues Allzeithoch, +2,62% seit Kauf), DOGE auf 0,099567 USD aktualisiert (+1,08%). Kein Trade: keine Position erreicht die Zielspanne (7-9%) oder den Stop-Loss; AMD>1Bio.USD-Marktkapitalisierung, Intel/Arm/Qualcomm-Chiprally und Meta-Anstieg sind bereits bekannte, eingepreiste Bewegungen vom Vortag ohne frischen Einzelkatalysator.",
+        "portfolioValue": 2790.28
       }
     ]
   }
