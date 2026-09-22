@@ -5993,15 +5993,15 @@
   },
   {
     "date": "2026-09-22",
-    "marketOverview": "DAX legt um 0,7% auf 25.485 Punkte zu und stabilisiert sich an der 100-Tage-Linie; Brent Crude faellt den vierten Handelstag in Folge (Hoffnung auf diplomatische Loesung im Iran-Konflikt, Pezeshkian bei der UN-Generalversammlung), was die Boersen stuetzt. In den USA sprang der Nasdaq gestern auf ein Rekordhoch (+2,26%), getrieben von Meta/Chip-Rally; Greenland-nahe US-Nebenwerte (GRML, GLND, CRML) explodierten im Premarket nach einem US-Sicherheitsabkommen mit Daenemark/Groenland (+140-155%), sind aber bereits extrem weit gelaufen und ohne konkrete kommerzielle Katalysatoren - reine Spekulation auf Kleinstwerte. Bitcoin bei ca. 86.624 USD (+6,5% 24h), HYPE konsolidiert nahe ATH um 92-95 USD nach drei starken Tagen.",
-    "decision": "Bislang heute (00:08-10:08): Keine Trades. Tagesbudget wurde bereits um 00:08 gutgeschrieben. Alle drei offenen Krypto-Positionen (2x BTC, 1x HYPE) laufend auf aktuelle Kurse gebracht; pos-0016 (BTC) naehert sich mit +6,94% weiter der Zielspanne (7-9%), hat sie aber noch nicht erreicht. Seit Boersenoeffnung gepruefte Kandidaten - ams-OSRAM (09:08, bereits zu weit gelaufen), ein deutscher Spirituosenhersteller nach Sazerac-Uebernahmeangebot (+22%, Arbitrage bereits eingepreist) und die stark gehypten Groenland-Nebenwerte (+140-155% Premarket, rein spekulativ ohne fundamentale Substanz) - wurden allesamt verworfen: keiner passt ins etablierte Muster eines frischen, noch nicht vollstaendig eingepreisten Breakouts.",
-    "reasoning": "pos-0016 (BTC, Kauf 81.000 USD) bei 86.624 USD nun +6,94% - sehr nah an der Zielspanne (7-9%), aber noch nicht ausreichend fuer eine Gewinnmitnahme. pos-0018 (BTC, Kauf 85.035 USD) bei 86.624 USD nun +1,87%. pos-0019 (HYPE, Kauf 94,33 USD) bei ca. 93,50 USD nun -0,88% - im neutralen Bereich, weder Ziel- noch Stop-Loss-Schwelle erreicht. Neue Kandidaten prueft: Sazerac/deutscher Spirituosenhersteller-Deal ist eine bereits abgeschlossene M&A-Arbitrage-Situation (Kurs bewegt sich nun eng um den Angebotspreis, kein Momentum-Trade mehr); Groenland-Nebenwerte (GRML/GLND/CRML) sind Kleinstwerte mit extremer, bereits mehrtaegiger Kurs-Explosion (+140-155%) rein auf geopolitische Spekulation ohne bestaetigte kommerzielle Aussicht - zu hohes Rueckschlagsrisiko fuer einen Einstieg auf diesem Niveau. Kein Trade in diesem Lauf.",
+    "marketOverview": "DAX legt weiter zu auf ca. 25.608 Punkte (+1,2%), Euro Stoxx 50 bei 6.322 (+1,4%); der Nasdaq schloss gestern auf Rekordhoch (+2,1%, angefuehrt von Meta +11,8%, Tesla, Nvidia), getragen von KI-Optimismus, fallenden US-Renditen und schwaecherem Dollar. Oel hat sich nach einem Vier-Tage-Rutsch von ueber 9% stabilisiert (Brent knapp ueber 100 USD, WTI nahe 96 USD), da Hoffnung auf eine diplomatische Loesung im US-Iran-Konflikt besteht (Trump-Xi-Gipfel im Weissen Haus am Donnerstag, UN-Generalversammlungswoche). Bitcoin weiter bei ca. 86.624 USD (+6,5% 24h), getrieben von ETF-Zufluessen und Short-Covering. HYPE markierte gestern ein neues Allzeithoch bei 95,97 USD und notiert aktuell um 95,73 USD - Analysten sehen als naechstes Ziel 100 USD nach dem Bitnomial/Kraken-Perps-Listing.",
+    "decision": "Bislang heute (00:08-11:07): Keine Trades. Tagesbudget wurde bereits um 00:08 gutgeschrieben. Alle drei offenen Krypto-Positionen (2x BTC, 1x HYPE) laufend auf aktuelle Kurse gebracht; pos-0016 (BTC) bleibt bei +6,94% knapp unterhalb der Zielspanne (7-9%). pos-0019 (HYPE) dreht mit neuem Kursupdate (95,73 USD, nahe ATH) leicht ins Plus (+1,48%). Seit Boersenoeffnung gepruefte Kandidaten (ams-OSRAM, Sazerac-Spirituosenarbitrage, Groenland-Nebenwerte) bleiben verworfen; im 11:07-Lauf kein neuer, hinreichend ueberzeugender Einzelkatalysator identifiziert trotz breiter Rekordrally an Nasdaq/DAX - diese Bewegung ist bereits marktweit bekannt und eingepreist.",
+    "reasoning": "pos-0016 (BTC, Kauf 81.000 USD) bei 86.624 USD weiterhin +6,94% - nah an, aber noch unterhalb der etablierten Zielspanne (7-9%). pos-0018 (BTC, Kauf 85.035 USD) bei 86.624 USD unveraendert +1,87%. pos-0019 (HYPE, Kauf 94,33 USD) aktualisiert auf 95,73 USD (neues 24h-Hoch nahe ATH 95,97 USD) nun +1,48% - im neutralen Bereich, weder Ziel- noch Stop-Loss-Schwelle erreicht. Die aktuelle Nasdaq-/DAX-Rekordrally (KI-Optimismus, fallende Renditen) ist ein breiter, bereits mehrtaegig laufender und medial vollstaendig eingepreister Trend ohne frischen Einzeltitel-Katalysator - passt nicht ins etablierte Erfolgsmuster (unerwarteter, noch nicht eingepreister Schub bei einem einzelnen Titel). Oelpreis-Deeskalation (Brent knapp ueber 100, faellt seit vier Tagen) ist das Gegenteil einer Momentum-Chance fuer einen Rohstoff-Trade. Kein Trade in diesem Lauf.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
       "pos-0019"
     ],
-    "portfolioValueEnd": 2163.35,
+    "portfolioValueEnd": 2177.53,
     "updates": [
       {
         "time": "00:08",
@@ -6057,6 +6057,11 @@
         "time": "10:08",
         "note": "Keine Aenderung. BTC-Positionen auf 86.624 USD aktualisiert (pos-0016 +6,94%, pos-0018 +1,87%), HYPE auf 93,50 USD aktualisiert (-0,88%). Neue Kandidaten geprueft und verworfen: Sazerac-Uebernahme eines deutschen Spirituosenherstellers (+22%, Arbitrage bereits eingepreist) und Groenland-Nebenwerte GRML/GLND/CRML (+140-155% Premarket nach US-Daenemark-Sicherheitsabkommen, rein spekulativ ohne fundamentale Substanz). Kein Trade: keine Position erreicht eine Schwelle.",
         "portfolioValue": 2163.35
+      },
+      {
+        "time": "11:07",
+        "note": "Keine Aenderung. HYPE (pos-0019) auf 95,73 USD aktualisiert (+1,48%, nahe ATH 95,97 USD), BTC-Positionen unveraendert bei 86.624 USD (pos-0016 +6,94%, pos-0018 +1,87%). Nasdaq-Rekordhoch und DAX +1,2% geprueft, aber kein frischer Einzeltitel-Katalysator gefunden - bereits marktweit eingepreiste Rally, kein Trade.",
+        "portfolioValue": 2177.53
       }
     ]
   }
