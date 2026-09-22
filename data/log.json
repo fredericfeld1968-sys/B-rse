@@ -5993,16 +5993,16 @@
   },
   {
     "date": "2026-09-22",
-    "marketOverview": "US-Aktien setzten am Montag die Rekordjagd fort (Nasdaq +2,26%, S&P 500 +1,49%), angefuehrt von Meta (+11%) und einer breiten KI-Chip-Rally (AMD ueber 1 Bio. USD Marktkapitalisierung); US-Kassamarkt oeffnet Dienstag erst um 15:30 MESZ. Bitcoin pendelt um 86.000 USD (BTC 85.958 USD, +1,0% 24h laut CoinGecko), Glassnode bestaetigt weiterhin den frischen Wechsel zu \"Altcoin-Season\" (Fear&Greed-Index bei 78), jedoch ohne neuen Einzelkatalysator seit dem DOGE-Kauf um 13:08.",
-    "decision": "Heute (00:08-14:08): Tagesbudget wurde bereits um 00:08 gutgeschrieben. Bestehende Krypto-Positionen (2x BTC, 1x HYPE, 1x DOGE) laufend auf aktuelle Kurse gebracht; keine Position erreicht die Ziel- (7-9%) oder Stop-Loss-Schwelle (-6,5% bis -7,5%). Um 13:08 wurde DOGE (600 EUR) gekauft; seither kein weiterer Trade, da kein neuer ueberzeugender Katalysator vorliegt.",
-    "reasoning": "pos-0016 (BTC, Kauf 81.000 USD) bei 85.958 USD +6,12% - naeherte sich zuvor der Zielspanne, liegt nun nach leichtem Ruecksetzer wieder etwas darunter. pos-0018 (BTC, Kauf 85.035 USD) bei 85.958 USD +1,09%. pos-0019 (HYPE, Kauf 94,33 USD) bei 95,44 USD +1,18%. pos-0020 (DOGE, Kauf 0,0985 USD) bei 0,098037 USD -0,47%. Keine dieser vier Positionen erreicht eine Handlungsschwelle. Recherche (CoinGecko Live-Preise, aktuelle Marktberichte) liefert keinen neuen, noch nicht gehandelten Einzelkatalysator; die Altcoin-Season-These und die US-Tech-Rally sind bereits im Portfolio abgebildet bzw. eingepreist. Europaeische Boersen sind zwar geoeffnet, aber ohne frischen Aktien-/ETF-/Rohstoff-Katalysator kein Kauf. Kein Trade in diesem Lauf.",
+    "marketOverview": "US-Aktien-Futures notieren am Dienstagnachmittag verhalten vor Handelsstart um 15:30 MESZ (Nasdaq-100-Futures flach, S&P-Futures leicht im Plus), nach der Rekordrally vom Montag (Nasdaq +2,26% auf ATH, S&P 500 +1,49%, getragen von Meta +11-12% und einer breiten KI-Chip-Rally, AMD ueber 1 Bio. USD Marktkapitalisierung). Vorfreude auf den Trump-Xi-Gipfel (ab Mittwoch in Washington) und faellende Oelpreise stuetzen die Stimmung. Bitcoin (86.137 USD, CoinGecko live) haelt sich nahe seinem hoechsten Stand seit Januar, getrieben von institutionellen Kaeufen und Short-Covering; DOGE und HYPE leicht im Plus, insgesamt aber ohne neuen Einzelkatalysator seit dem DOGE-Kauf um 13:08.",
+    "decision": "Heute (00:08-15:10): Tagesbudget wurde bereits um 00:08 gutgeschrieben. Bestehende Krypto-Positionen (2x BTC, 1x HYPE, 1x DOGE) laufend auf aktuelle Kurse gebracht; keine Position erreicht die Ziel- (7-9%) oder Stop-Loss-Schwelle (-6,5% bis -7,5%). Um 13:08 wurde DOGE (600 EUR) gekauft; seither kein weiterer Trade, da kein neuer ueberzeugender Katalysator vorliegt (US-Boersen oeffnen erst um 15:30 MESZ, Trump-Xi-Gipfel erst ab Mittwoch).",
+    "reasoning": "pos-0016 (BTC, Kauf 81.000 USD) bei 86.137 USD +6,34%. pos-0018 (BTC, Kauf 85.035 USD) bei 86.137 USD +1,30%. pos-0019 (HYPE, Kauf 94,33 USD) bei 95,89 USD +1,65%. pos-0020 (DOGE, Kauf 0,0985 USD) bei 0,100344 USD +1,87%. Keine dieser vier Positionen erreicht eine Handlungsschwelle. Recherche (CoinGecko Live-Preise, aktuelle Marktberichte zu US-Vorboersenhandel, Trump-Xi-Gipfel) liefert keinen neuen, noch nicht gehandelten Einzelkatalysator; die Montags-Rally und die Gipfel-Vorfreude sind bereits eingepreist bzw. im Portfolio abgebildet. US-Boersen sind noch nicht geoeffnet (ab 15:30 MESZ), daher aktuell ohnehin nur Krypto handelbar. Kein Trade in diesem Lauf.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
       "pos-0019",
       "pos-0020"
     ],
-    "portfolioValueEnd": 2760.81,
+    "portfolioValueEnd": 2780.96,
     "updates": [
       {
         "time": "00:08",
@@ -6078,6 +6078,11 @@
         "time": "14:08",
         "note": "Keine Aenderung. BTC-Positionen auf 85.958 USD aktualisiert (pos-0016 +6,12%, pos-0018 +1,09%), HYPE auf 95,44 USD aktualisiert (+1,18%), DOGE auf 0,098037 USD aktualisiert (-0,47%). Kein Trade: keine Position erreicht eine Schwelle, kein neuer ueberzeugender Katalysator seit dem DOGE-Kauf um 13:08.",
         "portfolioValue": 2760.81
+      },
+      {
+        "time": "15:10",
+        "note": "Keine Aenderung. BTC-Positionen auf 86.137 USD aktualisiert (pos-0016 +6,34%, pos-0018 +1,30%), HYPE auf 95,89 USD aktualisiert (+1,65%), DOGE auf 0,100344 USD aktualisiert (+1,87%, CoinGecko live). Kein Trade: keine Position erreicht eine Schwelle (Zielband 7-9%, Stop-Loss -6,5% bis -7,5%). US-Vorboersenhandel vor Handelsstart (15:30 MESZ) verhalten (Nasdaq-100-Futures flach, S&P-Futures leicht im Plus) nach Montags-Rekordrally (Nasdaq +2,26%, Meta +11-12%, AMD/Intel-Chiprally); Trump-Xi-Gipfel erst ab Mittwoch, Bessent-Aussagen zu 'sehr erfolgreichen' Handelsgespraechen bereits bekannt/eingepreist. Kein frischer Einzeltitel-Katalysator gefunden.",
+        "portfolioValue": 2780.96
       }
     ]
   }
