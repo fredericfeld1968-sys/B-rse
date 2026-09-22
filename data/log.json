@@ -5993,9 +5993,9 @@
   },
   {
     "date": "2026-09-22",
-    "marketOverview": "Bitcoin konsolidiert in der Nacht auf den 22.09. knapp unter dem jüngsten Mehrmonatshoch bei ca. 86.400 USD (CoinDesk zuletzt 86.354,98 USD), nachdem der Ausbruch über 84.000-85.000 USD durch Spot-ETF-Zuflüsse und Short-Squeezes befeuert wurde. Hyperliquid (HYPE) markiert bei 95,73 USD ein neues Allzeithoch (+5% in 24h), getrieben von der Kraken/Bitnomial-Futures-Partnerschaft und starkem On-Chain-Revenue-Wachstum. Die breitere Altcoin-Rotation (AVAX, NEAR, ARB, INJ) haelt an, der Altcoin-Season-Index bleibt mit 46 aber noch unter der Altseason-Schwelle von 75. Aktien/ETFs/Rohstoffe sind um diese Nachtzeit nicht handelbar.",
-    "decision": "Keine Aenderung. Zweiter Lauf des Tages: Kursaktualisierung der drei offenen Positionen (BTC pos-0016 +6,67%, BTC pos-0018 +1,61%, HYPE pos-0019 +1,48%), alle weiterhin klar innerhalb des etablierten Haltebandes (Gewinnmitnahme ~7-9%, Stop-Loss ~-6,5% bis -7,5%). Kein neuer, wirklich ueberzeugender Katalysator seit dem letzten Lauf identifiziert; ausserhalb der Boersenzeiten sind ohnehin nur Krypto-Trades moeglich.",
-    "reasoning": "pos-0016 (BTC, +6,67%) naehert sich der Gewinnmitnahme-Schwelle, liegt aber noch knapp darunter - weiter gehalten. pos-0018 (BTC, +1,61%) und pos-0019 (HYPE, +1,48%) sind noch deutlich innerhalb des Haltebandes. Recherchierte Altcoin-Bewegungen (AVAX/NEAR/ARB/INJ-Rotation) sind bereits mehrere Tage alt bzw. teils schon gehandelt (vgl. pos-0017, geschlossen 20.09.) und liefern keinen frischen, unbestaetigten Katalysator fuer eine neue Position. Daher kein Trade in diesem Lauf.",
+    "marketOverview": "Bitcoin konsolidiert in der Nacht auf den 22.09. weiter knapp unter dem Mehrmonatshoch bei ca. 86.400 USD (CoinDesk zuletzt 86.354,98 USD, vereinzelte Berichte ueber kurzzeitige Spitzen bis 87.000 USD), gestuetzt durch anhaltende Spot-ETF-Zuflüsse und Short-Squeezes seit dem Ausbruch ueber 84.000-85.000 USD. Hyperliquid (HYPE) haelt sein Allzeithoch von 95,73-95,97 USD (+19% in 7 Tagen), getrieben von der Kraken/Bitnomial-Futures-Partnerschaft und starkem On-Chain-Revenue-Wachstum (fuehrend in 2026 mit 429 Mio. USD). Die US-2-Jahres-Rendite bleibt mit ~4,76% erhoeht, Brent stabilisiert sich um 104 USD nach teilweiser Erholung saudischer Oelexporte. Am 22.09. beginnt die 81. UN-Generalversammlung. Aktien/ETFs/Rohstoffe sind um diese Nachtzeit nicht handelbar.",
+    "decision": "Keine Aenderung. Dritter Lauf des Tages: Kursbestaetigung der drei offenen Positionen (BTC pos-0016 +6,67%, BTC pos-0018 +1,61%, HYPE pos-0019 +1,48%), alle weiterhin klar innerhalb des etablierten Haltebandes (Gewinnmitnahme ~7-9%, Stop-Loss ~-6,5% bis -7,5%). Kein neuer, wirklich ueberzeugender Katalysator seit dem letzten Lauf identifiziert; ausserhalb der Boersenzeiten sind ohnehin nur Krypto-Trades moeglich.",
+    "reasoning": "pos-0016 (BTC, +6,67%) bleibt knapp unter der Gewinnmitnahme-Schwelle - weiter gehalten. pos-0018 (BTC, +1,61%) und pos-0019 (HYPE, +1,48%, nahe ATH) sind deutlich innerhalb des Haltebandes. Marktrecherche (BTC-Konsolidierung knapp unter 86.400-87.000 USD, HYPE-ATH bei 95,73-95,97 USD, Brent stabil um 104 USD nach teilweiser saudischer Export-Erholung, erhoehte US-Zinsen (2J-Rendite ~4,76%) bei UN-Generalversammlungsbeginn) liefert keinen frischen, unbestaetigten Katalysator fuer eine neue Position. Daher kein Trade in diesem Lauf.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
@@ -6011,6 +6011,11 @@
       {
         "time": "01:08",
         "note": "Keine Aenderung. BTC-Positionen auf 86.400 USD aktualisiert (pos-0016 +6,67%, pos-0018 +1,61%), HYPE auf 95,73 USD aktualisiert (+1,48%, neues ATH). Kein Trade: keine Position erreicht eine Schwelle, kein neuer ueberzeugender Katalysator, Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten.",
+        "portfolioValue": 2173.47
+      },
+      {
+        "time": "02:08",
+        "note": "Keine Aenderung. BTC (pos-0016, pos-0018) und HYPE (pos-0019) gegenueber dem 01:08-Lauf weitgehend unveraendert (BTC ~86.400 USD, HYPE ~95,73 USD nahe ATH). Kein neuer bestaetigter Katalysator seit letztem Lauf; ausserhalb der Handelszeiten sind ohnehin nur Krypto-Trades moeglich, keine Position erreicht eine Schwelle.",
         "portfolioValue": 2173.47
       }
     ]
