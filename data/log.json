@@ -5993,16 +5993,16 @@
   },
   {
     "date": "2026-09-22",
-    "marketOverview": "US-Aktien setzen die Rekordjagd fort (Nasdaq +2,26% auf 27.122 Punkte, S&P 500 +1,49% auf 7.764,70 am Montagsschluss, angefuehrt von Meta +11% und einer breiten KI-Chip-Rally); Dienstag oeffnen die US-Boersen erst um 15:30 MESZ, Futures/Russell 2000 leicht positiv. Bitcoin haelt sich stabil bei ca. 86.600 USD (+6,5% 24h). Glassnode meldet einen frischen Wechsel des Altcoin-Cycle-Signals von 'Bitcoin-Season' zu 'Altcoin-Season' (81,25/100) - breite Teilnahme ueber den Altcoin-Markt (XRP +6%, Solana +4,5%) und eine Memecoin-Rally (Dogecoin +12-14%, PEPE +28%, SHIB +7%).",
-    "decision": "Heute (00:08-13:08): Tagesbudget wurde bereits um 00:08 gutgeschrieben. Bestehende Krypto-Positionen (2x BTC, 1x HYPE) laufend auf aktuelle Kurse gebracht; pos-0016 (BTC) bei +6,91% weiterhin knapp unterhalb der Zielspanne, pos-0018 (BTC) +1,84%, pos-0019 (HYPE) nahe Einstandsniveau (+0,18%) - keine dieser drei Positionen erreicht Ziel- oder Stop-Loss-Schwelle. Um 13:08 neue spekulative Position eroeffnet: DOGE (600 EUR) auf Basis eines mehrfach bestaetigten technischen Ausbruchs (+12-14%, Whale-Kaeufe, Wolfe-Wave) eingebettet in Glassnode's frisch geflipptes Altcoin-Season-Signal.",
-    "reasoning": "pos-0016 (BTC, Kauf 81.000 USD) bei 86.600 USD weiterhin +6,91% - nah an, aber noch unterhalb der etablierten Zielspanne (7-9%), daher gehalten. pos-0018 (BTC, Kauf 85.035 USD) bei 86.600 USD +1,84%, deutlich im Halteband. pos-0019 (HYPE, Kauf 94,33 USD) bei 94,50 USD praktisch am Einstandsniveau (+0,18%), weder Ziel- noch Stop-Loss-Schwelle erreicht. Neue Position pos-0020 (DOGE, Kauf 0,0985 USD): Dreiecks-Ausbruch mit Whale-Kaeufen (>360 Mio. DOGE/24h) und Wolfe-Wave-Signal, mehrfach unabhaengig bestaetigt (cryptonews.net, coingabbar, cryptotimes.io), zusaetzlich gestuetzt durch Glassnode's frisch geflipptes Altcoin-Cycle-Signal (81,25/100, mehrfach unabhaengig bestaetigt) und eine breite Memecoin-Rally (PEPE +28%, SHIB +7%). US-Kassamarkt fuer Aktien/ETFs/Rohstoffe erst ab 15:30 MESZ geoeffnet, daher spekulative Kurzfrist-Position im Kryptosegment passend zum Risikoprofil.",
+    "marketOverview": "US-Aktien setzten am Montag die Rekordjagd fort (Nasdaq +2,26%, S&P 500 +1,49%), angefuehrt von Meta (+11%) und einer breiten KI-Chip-Rally (AMD ueber 1 Bio. USD Marktkapitalisierung); US-Kassamarkt oeffnet Dienstag erst um 15:30 MESZ. Bitcoin pendelt um 86.000 USD (BTC 85.958 USD, +1,0% 24h laut CoinGecko), Glassnode bestaetigt weiterhin den frischen Wechsel zu \"Altcoin-Season\" (Fear&Greed-Index bei 78), jedoch ohne neuen Einzelkatalysator seit dem DOGE-Kauf um 13:08.",
+    "decision": "Heute (00:08-14:08): Tagesbudget wurde bereits um 00:08 gutgeschrieben. Bestehende Krypto-Positionen (2x BTC, 1x HYPE, 1x DOGE) laufend auf aktuelle Kurse gebracht; keine Position erreicht die Ziel- (7-9%) oder Stop-Loss-Schwelle (-6,5% bis -7,5%). Um 13:08 wurde DOGE (600 EUR) gekauft; seither kein weiterer Trade, da kein neuer ueberzeugender Katalysator vorliegt.",
+    "reasoning": "pos-0016 (BTC, Kauf 81.000 USD) bei 85.958 USD +6,12% - naeherte sich zuvor der Zielspanne, liegt nun nach leichtem Ruecksetzer wieder etwas darunter. pos-0018 (BTC, Kauf 85.035 USD) bei 85.958 USD +1,09%. pos-0019 (HYPE, Kauf 94,33 USD) bei 95,44 USD +1,18%. pos-0020 (DOGE, Kauf 0,0985 USD) bei 0,098037 USD -0,47%. Keine dieser vier Positionen erreicht eine Handlungsschwelle. Recherche (CoinGecko Live-Preise, aktuelle Marktberichte) liefert keinen neuen, noch nicht gehandelten Einzelkatalysator; die Altcoin-Season-These und die US-Tech-Rally sind bereits im Portfolio abgebildet bzw. eingepreist. Europaeische Boersen sind zwar geoeffnet, aber ohne frischen Aktien-/ETF-/Rohstoff-Katalysator kein Kauf. Kein Trade in diesem Lauf.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
       "pos-0019",
       "pos-0020"
     ],
-    "portfolioValueEnd": 2769.27,
+    "portfolioValueEnd": 2760.81,
     "updates": [
       {
         "time": "00:08",
@@ -6073,6 +6073,11 @@
         "time": "13:08",
         "note": "Kauf DOGE 600 EUR (Dreiecks-Ausbruch +12-14%, Whale-Kaeufe, Wolfe-Wave, eingebettet in Glassnode Altcoin-Season-Signal). BTC-Positionen auf 86.600 USD aktualisiert (pos-0016 +6,91%, pos-0018 +1,84%), HYPE auf 94,50 USD aktualisiert (+0,18%).",
         "portfolioValue": 2769.27
+      },
+      {
+        "time": "14:08",
+        "note": "Keine Aenderung. BTC-Positionen auf 85.958 USD aktualisiert (pos-0016 +6,12%, pos-0018 +1,09%), HYPE auf 95,44 USD aktualisiert (+1,18%), DOGE auf 0,098037 USD aktualisiert (-0,47%). Kein Trade: keine Position erreicht eine Schwelle, kein neuer ueberzeugender Katalysator seit dem DOGE-Kauf um 13:08.",
+        "portfolioValue": 2760.81
       }
     ]
   }
