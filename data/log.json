@@ -5993,15 +5993,15 @@
   },
   {
     "date": "2026-09-22",
-    "marketOverview": "Bitcoin legt weiter zu und notiert laut CoinGecko-API live bei 85.635 USD (+5,28% in 24h), nach dem Ausbruch ueber 84.000-85.000 USD vom Vortag; Spot-ETF-Zufluesse und niedrige Funding-Rates stuetzen die Bewegung. HYPE pendelt nahe seinem Allzeithoch bei 92,61 USD (-0,54% in 24h) nach der starken Rally der letzten Woche. Insgesamt starker September fuer Krypto (Gesamtmarktkapitalisierung +17,6% im Monat, laut Marktueberblick). Aktien/ETFs/Rohstoffe sind um diese Nachtzeit (05:09 MESZ, vor Boersenoeffnung) nicht handelbar.",
-    "decision": "Bislang heute (00:08-05:09): Keine Trades. Tagesbudget wurde bereits um 00:08 gutgeschrieben. Alle drei offenen Krypto-Positionen (2x BTC, 1x HYPE) wurden fortlaufend auf aktuelle Kurse gebracht, keine erreichte die etablierte Gewinnmitnahme- (~7-9%) oder Stop-Loss-Schwelle (~-6,5% bis -7,5%). Kein neuer, hinreichend ueberzeugender Katalysator fuer eine Neuposition; ausserhalb der Boersenzeiten ohnehin nur Krypto handelbar.",
-    "reasoning": "pos-0016 (BTC, Kauf 81.000 USD) bei 85.635 USD nun +5,72% - noch unterhalb der Zielspanne. pos-0018 (BTC, Kauf 85.035 USD) bei 85.635 USD nun +0,71% - kaum bewegt. pos-0019 (HYPE, Kauf 94,33 USD) bei 92,61 USD nun -1,82% - im normalen Schwankungsbereich, keine Stop-Loss-Relevanz. Keine der drei Positionen rechtfertigt eine Aktion. Fuer neue Positionen fehlt ein frischer, mehrfach unabhaengig bestaetigter Katalysator; bekannte Themen (SEC-Tokenisierungs-Pilot, TON-Unlock, Fed-Rede) sind entweder bereits eingepreist oder nicht handelsrelevant genug fuer das spekulative Kurzfrist-Profil.",
+    "marketOverview": "Bitcoin konsolidiert nach dem Achtmonatshoch bei rund 85.000-87.000 USD (CoinDesk/CoinMarketCap, aktuell ca. 86.200 USD); Michael Saylors Strategy taetigte am 21.09. den ersten Bitcoin-Kauf seit drei Wochen (75,7 Mio. USD), was das Vertrauen stuetzt. HYPE haelt sich nahe seinem Allzeithoch (94,33-95,97 USD, aktuell ca. 94,50 USD) nach der starken Rally der letzten Woche. Broader Risk-on-Stimmung mit Blick auf den bevorstehenden Trump-Xi-Gipfel, Brent faellt den vierten Tag in Folge. Aktien/ETFs/Rohstoffe sind um diese Nachtzeit (06:07 MESZ, vor Boersenoeffnung) weiterhin nicht handelbar.",
+    "decision": "Bislang heute (00:08-06:07): Keine Trades. Tagesbudget wurde bereits um 00:08 gutgeschrieben. Alle drei offenen Krypto-Positionen (2x BTC, 1x HYPE) wurden fortlaufend auf aktuelle Kurse gebracht; pos-0016 (BTC) naehert sich mit +6,42% der etablierten Gewinnmitnahme-Zielspanne (~7-9%), hat sie aber noch nicht erreicht. Kein neuer, hinreichend ueberzeugender Katalysator fuer eine Neuposition; ausserhalb der Boersenzeiten ohnehin nur Krypto handelbar.",
+    "reasoning": "pos-0016 (BTC, Kauf 81.000 USD) bei 86.200 USD nun +6,42% - knapp unterhalb der etablierten Zielspanne (7-9%), daher noch keine Gewinnmitnahme. pos-0018 (BTC, Kauf 85.035 USD) bei 86.200 USD nun +1,37% - kaum bewegt. pos-0019 (HYPE, Kauf 94,33 USD) bei 94,50 USD nun +0,18% - im normalen Schwankungsbereich, keine Aktion noetig. Fuer neue Positionen fehlt ein frischer, mehrfach unabhaengig bestaetigter Katalysator; die bekannten Themen (Saylor-Kauf, Trump-Xi-Gipfel, fallendes Brent) sind bereits eingepreist bzw. nicht handelsrelevant genug fuer das spekulative Kurzfrist-Profil. Aktien/ETFs/Rohstoffe sind vor Boersenoeffnung nicht handelbar.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
       "pos-0019"
     ],
-    "portfolioValueEnd": 2139.78,
+    "portfolioValueEnd": 2162.03,
     "updates": [
       {
         "time": "00:08",
@@ -6032,6 +6032,11 @@
         "time": "05:09",
         "note": "Keine Aenderung. BTC-Positionen auf 85.635 USD aktualisiert (pos-0016 +5,72%, pos-0018 +0,71%; CoinGecko-API live), HYPE auf 92,61 USD aktualisiert (-1,82%). Kein Trade: keine Position erreicht eine Schwelle, kein neuer ueberzeugender Katalysator, Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten.",
         "portfolioValue": 2139.78
+      },
+      {
+        "time": "06:07",
+        "note": "Keine Aenderung. BTC-Positionen auf 86.200 USD aktualisiert (pos-0016 +6,42%, pos-0018 +1,37%), HYPE auf 94,50 USD aktualisiert (+0,18%). Kein Trade: pos-0016 naehert sich der Zielspanne, hat sie aber noch nicht erreicht; kein neuer ueberzeugender Katalysator; Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten.",
+        "portfolioValue": 2162.03
       }
     ]
   }
