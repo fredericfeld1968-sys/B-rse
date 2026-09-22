@@ -5993,15 +5993,15 @@
   },
   {
     "date": "2026-09-22",
-    "marketOverview": "Bitcoin konsolidiert in der Nacht auf den 22.09. bei ca. 85.789 USD (CoinGecko, +5,1% in 24h, Tagesrange 80.907-87.330 USD) nach dem Ausbruch ueber 84.000-85.000 USD, gestuetzt durch anhaltende Spot-ETF-Zufluesse und Short-Squeezes. Hyperliquid (HYPE) gibt leicht auf ca. 93,18 USD nach (-1,0% in 24h) und konsolidiert damit knapp unter seinem Allzeithoch (95,97 USD). Breite Altcoin-Rotation haelt an (Aptos +22% nach Confidential-APT-Launch, Morpho +18%) - beides bereits einige Tage laufende, marktbreite Bewegungen ohne frischen Einzelkatalysator. Am 22.09. beginnt die 81. UN-Generalversammlung. Aktien/ETFs/Rohstoffe sind um diese Nachtzeit weiterhin nicht handelbar.",
-    "decision": "Keine Aenderung. Dritter Lauf des Tages: Kursbestaetigung der drei offenen Positionen (BTC pos-0016 +6,67%, BTC pos-0018 +1,61%, HYPE pos-0019 +1,48%), alle weiterhin klar innerhalb des etablierten Haltebandes (Gewinnmitnahme ~7-9%, Stop-Loss ~-6,5% bis -7,5%). Kein neuer, wirklich ueberzeugender Katalysator seit dem letzten Lauf identifiziert; ausserhalb der Boersenzeiten sind ohnehin nur Krypto-Trades moeglich. 03:07 MESZ: BTC-Positionen auf 85.788,78 USD aktualisiert (pos-0016 +5,91%, pos-0018 +0,89%), HYPE (pos-0019) auf 93,18 USD aktualisiert (-1,22%). Kein Trade: Aptos-Rally (+22%) und Morpho-Rally (+18%) sind bereits mehrere Tage alte, marktbreite Rotationsbewegungen ohne frischen Einzelkatalysator - kein ueberzeugendes neues Setup. Depotwert am Ende dieses Laufs: 2146.20 EUR (3 offene Positionen).",
-    "reasoning": "pos-0016 (BTC, +5,91%) und pos-0018 (BTC, +0,89%) bleiben deutlich unter der Gewinnmitnahme-Schwelle (~7-9%) - weiter gehalten. pos-0019 (HYPE, -1,22%) liegt klar innerhalb des Haltebandes, weit von der Stop-Loss-Schwelle (~-6,5% bis -7,5%) entfernt. Marktrecherche (BTC-Erholung auf ~85.789 USD, HYPE-Konsolidierung knapp unter ATH, breite aber bereits einige Tage laufende Altcoin-Rotation ohne frischen Katalysator) liefert keinen ueberzeugenden Ansatzpunkt fuer eine neue Position. Ausserhalb der Boersenzeiten sind ohnehin nur Krypto-Trades moeglich. Daher kein Trade in diesem Lauf.",
+    "marketOverview": "Bitcoin bewegt sich in der Nacht auf den 22.09. je nach Boerse zwischen ca. 81.000 und 86.350 USD (Coinbase ca. 84.320 USD), nach dem Ausbruch ueber 84.000-85.000 USD am Vortag, weiterhin gestuetzt durch Spot-ETF-Zufluesse und Short-Squeezes. Hyperliquid (HYPE) steigt auf ca. 95,73 USD (+5% in 24h, nahe am Allzeithoch 95,97 USD), getrieben von der geplanten Bitnomial/Kraken-CFTC-regulierten HYPE-Perps-Notierung sowie Rekord-Open-Interest (>8 Mrd. USD). Breite Altcoin-Rotation (Aptos, Morpho) haelt an, ist aber bereits mehrere Tage alt ohne frischen Einzelkatalysator. Aktien/ETFs/Rohstoffe sind um diese Nachtzeit weiterhin nicht handelbar.",
+    "decision": "Keine Aenderung. Vierter Lauf des Tages: Kursaktualisierung der drei offenen Positionen (BTC pos-0016 +4,10%, BTC pos-0018 -0,84%, HYPE pos-0019 +1,48%), alle klar innerhalb des etablierten Haltebandes (Gewinnmitnahme ~7-9%, Stop-Loss ~-6,5% bis -7,5%). Kein neuer ueberzeugender Katalysator seit dem letzten Lauf; ausserhalb der Boersenzeiten sind ohnehin nur Krypto-Trades moeglich. Depotwert am Ende dieses Laufs: 2135.8 EUR (3 offene Positionen).",
+    "reasoning": "pos-0016 (BTC, +4,10%) und pos-0018 (BTC, -0,84%) bleiben innerhalb des Haltebandes, weder Zielband noch Stop-Loss erreicht. pos-0019 (HYPE, +1,48%) liegt ebenfalls klar innerhalb des Haltebandes. Marktrecherche liefert keinen neuen, ueberzeugenden Ansatzpunkt fuer eine zusaetzliche Position (Bitnomial/Kraken-HYPE-Perps und Aptos-/Morpho-Rally sind bereits bekannte, laufende Bewegungen ohne frischen Einzelkatalysator). Ausserhalb der Boersenzeiten sind ohnehin nur Krypto-Trades moeglich. Daher kein Trade in diesem Lauf.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
       "pos-0019"
     ],
-    "portfolioValueEnd": 2146.2,
+    "portfolioValueEnd": 2135.8,
     "updates": [
       {
         "time": "00:08",
@@ -6022,6 +6022,11 @@
         "time": "03:07",
         "note": "Keine Aenderung. BTC-Positionen auf 85.788,78 USD aktualisiert (pos-0016 +5,91%, pos-0018 +0,89%), HYPE auf 93,18 USD aktualisiert (-1,22%). Kein Trade: Aptos/Morpho-Rallys sind bereits mehrere Tage alte, marktbreite Bewegungen ohne frischen Einzelkatalysator.",
         "portfolioValue": 2146.2
+      },
+      {
+        "time": "04:08",
+        "note": "Keine Aenderung. BTC-Positionen auf 84.320 USD aktualisiert (pos-0016 +4,10%, pos-0018 -0,84%), HYPE auf 95,73 USD aktualisiert (+1,48%). Kein Trade: keine Position erreicht eine Schwelle (Zielband ~7-9%, Stop-Loss ~-6,5% bis -7,5%); Bitnomial/Kraken-HYPE-Perps-Nachricht sowie Aptos-/Morpho-Rallys sind bereits bekannte, mehrere Tage alte Bewegungen ohne frischen Einzelkatalysator. Ausserhalb der Boersenzeiten sind ohnehin nur Krypto-Trades moeglich.",
+        "portfolioValue": 2135.8
       }
     ]
   }
