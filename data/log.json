@@ -6128,16 +6128,16 @@
   },
   {
     "date": "2026-09-23",
-    "marketOverview": "Bitcoin konsolidiert nahe 86.150-86.400 USD nach der Rally der letzten Tage; Gesamtmarktkapitalisierung Krypto weiter im Aufwind (+5,47%), Altcoin-Season-Signal (Glassnode) bleibt aktiv. HYPE knapp unter dem ATH von 95,97 USD (21.09.), DOGE haelt den Ausbruch vom 22.09. (+12% Whale-Kaeufe) bei ca. 0,099 USD. Broad-Market-Rotation in AI/GPU-Altcoins (RENDER, TAO) und Deflations-Tokens (POL); Aktien/ETFs/Rohstoffe nachts und am Wochenende nicht handelbar.",
-    "decision": "02:09-Lauf: Kein Trade. Tagesbudget wurde bereits im 00:08-Lauf gutgeschrieben, daher keine erneute Gutschrift. Alle vier offenen Positionen (BTC pos-0016 +6,37%, BTC pos-0018 +1,32%, HYPE pos-0019 +0,59%, DOGE pos-0020 +0,51%) auf aktuelle Kurse aktualisiert. Keine Position erreicht die etablierte Zielspanne (7-9%) oder den Stop-Loss (-6,5% bis -7,5%). Kein neuer, ueberzeugender Katalysator fuer eine zusaetzliche Position gefunden; Aktien/ETFs/Rohstoffe sind um diese Nachtzeit nicht handelbar.",
-    "reasoning": "Diszipliniertes Abwarten: Freies Kapital (~47.107 EUR) bleibt bewusst ungenutzt. pos-0016 naehert sich mit +6,37% weiter der Zielspanne (7-9%), aber noch nicht erreicht - Halten passend zum bisherigen Muster. HYPE konsolidiert nach ATH (95,97 USD am 21.09.) leicht unter dem Hoch, kein Stop-Loss-Niveau. Marktweite Altcoin-Bewegungen (RENDER, TAO, POL, ZEC) sind bereits weitgehend gelaufen und nicht mehrfach frisch bestaetigt genug fuer eine neue spekulative Position um diese Nachtzeit.",
+    "marketOverview": "Bitcoin konsolidiert nahe 86.150-86.220 USD, Gesamtmarktkapitalisierung Krypto weiter im Aufwind (+5,47% laut Marktdaten) nach dem Verdauen von Fed-Zinsschritt, BoJ-Zinserhoehung und dem gescheiterten Clarity-Act-Votum; Brent auf Monatstief stuetzt Risikoappetit. HYPE konsolidiert knapp unter dem ATH-Bereich (~94-95 USD), DOGE haelt den Ausbruch vom 22.09. bei ca. 0,099 USD. Aktien/ETFs/Rohstoffe nachts nicht handelbar.",
+    "decision": "03:08-Lauf: Kein Trade. Tagesbudget bereits im 00:08-Lauf gutgeschrieben, keine erneute Gutschrift. Alle vier offenen Positionen (BTC pos-0016 +6,45%, BTC pos-0018 +1,40%, HYPE pos-0019 +0,18%, DOGE pos-0020 +0,51%) auf aktuelle Kurse aktualisiert. Keine Position erreicht die etablierte Zielspanne (7-9%) oder den Stop-Loss (-6,5% bis -7,5%). Kein neuer, ueberzeugender Katalysator; Aktien/ETFs/Rohstoffe um diese Nachtzeit nicht handelbar.",
+    "reasoning": "Diszipliniertes Abwarten: Freies Kapital (~47.107 EUR) bleibt bewusst ungenutzt. pos-0016 naehert sich mit +6,45% weiter der Zielspanne (7-9%), aber noch nicht erreicht - Halten passend zum bisherigen Muster. HYPE und DOGE bewegen sich seitwaerts ohne neuen Katalysator. Marktweite Bewegungen sind bereits weitgehend eingepreist; kein frischer, mehrfach bestaetigter Einzeltitel-Katalysator um diese Nachtzeit.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
       "pos-0019",
       "pos-0020"
     ],
-    "portfolioValueEnd": 2766.77,
+    "portfolioValueEnd": 2765.52,
     "updates": [
       {
         "time": "00:08",
@@ -6153,6 +6153,11 @@
         "time": "02:09",
         "note": "Keine Aenderung. BTC auf 86.156,56 USD aktualisiert (pos-0016 +6,37%, pos-0018 +1,32%), HYPE auf 94,89 USD aktualisiert (leichter Rueckzug vom ATH, +0,59%), DOGE stabil bei 0,0990 USD (+0,51%). Kein Trade: keine offene Position erreicht Zielspanne (7-9%) oder Stop-Loss-Schwelle, kein neuer ueberzeugender Einzeltitel-Katalysator seit dem 01:07-Lauf; Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten (Nacht).",
         "portfolioValue": 2766.77
+      },
+      {
+        "time": "03:08",
+        "note": "Keine Aenderung. BTC auf 86.224,45 USD aktualisiert (pos-0016 +6,45%, pos-0018 +1,40%), HYPE auf 94,50 USD aktualisiert (+0,18%), DOGE stabil bei 0,0990 USD (+0,51%). Kein Trade: keine Position erreicht Zielspanne oder Stop-Loss, kein neuer Katalysator, Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten.",
+        "portfolioValue": 2765.52
       }
     ]
   }
