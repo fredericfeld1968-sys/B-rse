@@ -6128,16 +6128,16 @@
   },
   {
     "date": "2026-09-23",
-    "marketOverview": "Bitcoin steigt auf ca. 86.354 USD (CoinGecko, +1,13% 24h), Hyperliquid auf 97,05 USD (+2,79% 24h) und Dogecoin auf 0,10182 USD (+2,29% 24h) - alle drei Positionen legen seit dem 08:08-Lauf leicht zu, keine erreicht aber die Zielspanne (7-9%). An den Aktienmaerkten hat Xetra um 09:00 MESZ geoeffnet; US-Futures leicht im Plus (Nasdaq-100 +0,14%, S&P +0,12%) nach neuem Nasdaq-Rekordschluss gestern, da Brent-Oel um rund 2% auf ca. 98 USD faellt (Hoffnung auf US-Iran-Deeskalation) und Renditen nachgeben. Einziger nennenswerter Einzeltitel-Termin heute ist General Mills vor Handelsbeginn (defensiver Basiskonsum-Titel, erwarteter Umsatzrueckgang) - kein spekulativ ueberzeugender Katalysator. Fed-Reden um 16:05/16:20 MESZ als naechster Marktimpuls.",
-    "decision": "Tagesverlauf 23.09. (bisher): 00:08 bis 08:08 durchgehend kein Trade - Tagesbudget im 00:08-Lauf einmalig gutgeschrieben, alle vier offenen Positionen (BTC pos-0016, BTC pos-0018, HYPE pos-0019, DOGE pos-0020) laufend aktualisiert, keine Position erreichte die Zielspanne (7-9%) oder den Stop-Loss (-6,5% bis -7,5%), Aktien/ETFs/Rohstoffe vor 09:00 MESZ nicht handelbar. 09:07-Lauf (erster Lauf nach Xetra-Eroeffnung): weiterhin kein Trade - BTC pos-0016 naehert sich mit +6,61% weiter der Zielspanne, aber noch nicht erreicht; HYPE (+2,88%) und DOGE (+3,37%) legen leicht zu, aber ebenfalls unterhalb der Zielspanne; kein ueberzeugender frischer Einzeltitel-Katalysator bei Aktien/ETFs/Rohstoffen trotz Marktoeffnung gefunden (Brent faellt auf Deeskalationshoffnung, einziger Earnings-Termin General Mills ist defensiv/wenig spekulativ).",
-    "reasoning": "Diszipliniertes Abwarten: Freies Kapital (~47.106,91 EUR) bleibt bewusst ungenutzt. Trotz Marktoeffnung an der Xetra (09:00 MESZ) wurde bei der Recherche kein einzeltitelspezifischer, ueberzeugender Kaufkatalysator gefunden - die verfuegbaren Nachrichten (Brent-Ruecksetzer auf Deeskalationshoffnung, defensive General-Mills-Zahlen) rechtfertigen kein spekulatives Engagement. Bei den offenen Krypto-Positionen bleibt BTC pos-0016 mit +6,61% am naechsten an der etablierten Zielspanne (7-9%), hat sie aber noch nicht erreicht; keine Position ist nahe am Stop-Loss. Passend zum spekulativen, aber diszipliniert-selektiven Profil wird abgewartet.",
+    "marketOverview": "Bitcoin pendelt bei ca. 86.106 USD (CoinGecko, +0,73% 24h), Hyperliquid bei 96,19 USD (+1,46% 24h) und Dogecoin bei 0,1004 USD (+1,40% 24h) - alle drei Positionen leicht im Plus, keine nahe der Zielspanne (7-9%) oder dem Stop-Loss. An den Aktienmaerkten laeuft der Nasdaq-100-Rekordlauf (Chip-Rally, AMD ueber 1 Bio. USD Marktkapitalisierung) weiter, AMD selbst zeigt heute aber ein uneinheitliches Bild (Praemarket -4,5%, im regulaeren Handel wieder auf ca. 623 USD) - keine klare, neue Einzeltitel-Chance. Brent bleibt nahe 98-99 USD auf Deeskalationshoffnung im Iran-Konflikt (Trump: 'sehr gutes' Treffen mit iranischen Vertretern bei der UN-Generalversammlung). DAX schloss gestern kaum veraendert bei 25.600 Punkten, keine neuen deutschen Kurstreiber. Fed-Reden um 16:05/16:20 MESZ als naechster Marktimpuls.",
+    "decision": "Tagesverlauf 23.09. (bisher): 00:08 bis 08:08 durchgehend kein Trade - Tagesbudget im 00:08-Lauf einmalig gutgeschrieben, alle vier offenen Positionen (BTC pos-0016, BTC pos-0018, HYPE pos-0019, DOGE pos-0020) laufend aktualisiert, keine Position erreichte die Zielspanne (7-9%) oder den Stop-Loss (-6,5% bis -7,5%), Aktien/ETFs/Rohstoffe vor 09:00 MESZ nicht handelbar. 09:07-Lauf (erster Lauf nach Xetra-Eroeffnung): weiterhin kein Trade - BTC pos-0016 naehert sich mit +6,61% weiter der Zielspanne, aber noch nicht erreicht; HYPE (+2,88%) und DOGE (+3,37%) legen leicht zu, aber ebenfalls unterhalb der Zielspanne; kein ueberzeugender frischer Einzeltitel-Katalysator bei Aktien/ETFs/Rohstoffen trotz Marktoeffnung gefunden (Brent faellt auf Deeskalationshoffnung, einziger Earnings-Termin General Mills ist defensiv/wenig spekulativ). 10:09-Lauf: weiterhin kein Trade - BTC pos-0016 (+6,30%), BTC pos-0018 (+1,26%), HYPE pos-0019 (+1,97%) und DOGE pos-0020 (+1,96%) aktualisiert, keine Position erreicht Zielspanne (7-9%) oder Stop-Loss; kein neuer ueberzeugender Einzeltitel-Katalysator (AMD-Bild uneinheitlich, keine frischen Nachrichten seit 09:07).",
+    "reasoning": "Diszipliniertes Abwarten: Freies Kapital (~47.106,91 EUR) bleibt bewusst ungenutzt. Der fortgesetzte Nasdaq-Chip-Rally-Trend (AMD >1 Bio. USD) ist bereits seit dem 21./22.09. bekannt und kein frischer Katalysator mehr; AMD selbst zeigt heute ein widerspruechliches Kursbild ohne klare Richtung, daher kein Dip-Kauf. Bei den Krypto-Positionen bleibt BTC pos-0016 mit +6,30% am naechsten an der Zielspanne, hat sie aber noch nicht erreicht; keine Position ist nahe am Stop-Loss. Passend zum spekulativen, aber diszipliniert-selektiven Profil wird weiter abgewartet.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
       "pos-0019",
       "pos-0020"
     ],
-    "portfolioValueEnd": 2801.26,
+    "portfolioValueEnd": 2782.85,
     "updates": [
       {
         "time": "00:08",
@@ -6188,6 +6188,11 @@
         "time": "09:07",
         "note": "Keine Aenderung. Xetra hat um 09:00 MESZ geoeffnet, aber kein ueberzeugender Einzeltitel-Katalysator gefunden (Brent -2% auf Deeskalationshoffnung, einziger Earnings-Termin General Mills defensiv). BTC auf 86.354 USD aktualisiert (pos-0016 +6,61%, pos-0018 +1,55%), HYPE auf 97,05 USD aktualisiert (+2,88%), DOGE auf 0,10182 USD aktualisiert (+3,37%). Kein Trade: keine Position erreicht Zielspanne (7-9%) oder Stop-Loss.",
         "portfolioValue": 2801.26
+      },
+      {
+        "time": "10:09",
+        "note": "Keine Aenderung. BTC auf 86.106 USD aktualisiert (pos-0016 +6,30%, pos-0018 +1,26%), HYPE auf 96,19 USD (+1,97%), DOGE auf 0,100412 USD (+1,96%). Kein Trade: keine Position erreicht Zielspanne (7-9%) oder Stop-Loss, AMD-Kursbild uneinheitlich (kein ueberzeugender neuer Katalysator).",
+        "portfolioValue": 2782.85
       }
     ]
   }
