@@ -6128,9 +6128,9 @@
   },
   {
     "date": "2026-09-23",
-    "marketOverview": "BTC erholt sich deutlich von 83.926 auf ca. 86.400 USD (+ca. 2,9%, mehrfach bestaetigt: Coinbase, MetaMask, Fortune), HYPE stabilisiert sich bei ca. 95,50 USD, DOGE erholt sich auf 0,09921 USD (+1,27% 24h) nach Naeherung an die Stop-Loss-Zone im letzten Lauf. BCH konsolidiert nahe 348 USD nach dem CME-Futures-Ausbruch (Listing 19.10.). Glassnode meldet ein neues Altcoin-Season-Signal, XRP zeigt nach starkem 7-Tage-Lauf (+24%) aber bereits ueberkaufte Tageswerte (RSI ~70) und kuehlt sich ab - kein sauberer neuer Einstiegspunkt. US-Aktienmarkt (noch bis 22:00 MESZ offen) bleibt im breiten, moderaten Abverkauf: S&P 500 -0,10%, Dow -0,30%, Nasdaq -0,15%, belastet von 10-Jahres-Renditen auf dem hoechsten Stand seit 2007 und anhaltenden Fed-Zinserhoehungserwartungen. Vereinzelte Einzeltitel-Gewinner (Cracker Barrel, Butterfly Network, Quantum-Computing-Werte) ohne branchenweiten Charakter.",
-    "decision": "Kein Trade in diesem Lauf. Alle offenen Positionen auf aktuelle Kurse aktualisiert: pos-0016 BTC +6,67% (naehert sich der Zielspanne 7-9%, aber noch nicht erreicht), pos-0018 BTC +1,61%, pos-0019 HYPE +1,24% (Erholung von -1,86%), pos-0020 DOGE +0,72% (deutliche Erholung von -6,41%, damit aus der Stop-Loss-Naehe heraus), pos-0021 BCH +2,36%. Keine Position hat die Zielspanne (7-9% Gewinn) oder die Stop-Loss-Schwelle (-6,5% bis -7,5%) erreicht. Kein neuer, wirklich ueberzeugender Kaufkatalysator: US-Aktienmarkt im breiten, unspezifischen Renditen-getriebenen Abverkauf ohne Einzeltitel-Sondersituation, XRP-Breakout bereits ueberkauft und in Konsolidierung, Xetra geschlossen. Passend zur Vorgabe wird nichts erzwungen.",
-    "reasoning": "pos-0016 BTC wird engmaschig beobachtet, da +6,67% nahe an der etablierten Zielspanne (7-9%) liegt; bei weiterem Anstieg im naechsten Lauf voraussichtliche Gewinnmitnahme. Freies Kapital bleibt reichlich vorhanden (~46.500 EUR), aber ohne ueberzeugende Einzeltitel- oder Markt-Sondersituation (breiter Renditen-Abverkauf bei Aktien, ueberkaufte/konsolidierende Krypto-Breakouts) wird laut Vorgabe abgewartet.",
+    "marketOverview": "US-Aktienmaerkte klar im Risk-off-Modus: Dow -0,6%, S&P 500 -0,7%, Nasdaq -1% nach zwei Rekordtagen in Folge, da die 10-jaehrige US-Rendite erstmals seit 2007 wieder ueber 5% springt und Oelpreise wegen der angespannten US-Iran-Diplomatie (Treffen bei der UN-Generalversammlung) sowie des bevorstehenden Trump-Xi-Gipfels steigen. Krypto zeigt sich seit dem letzten Lauf stabil bis leicht schwaecher: Bitcoin gibt von rund 86.400 auf ca. 85.700 USD nach, HYPE/BCH/DOGE bewegen sich seitwaerts nahe ihren juengsten Hochs (BCH weiter getrieben von der CME-Futures-Ankuendigung).",
+    "decision": "Kein Trade in diesem Lauf. Fuenf offene Krypto-Positionen (BTC x2, HYPE, DOGE, BCH) bleiben unveraendert im Bestand, da keine der Bewegungen die etablierten Stop-Loss- oder Gewinnmitnahme-Schwellen (ca. -6,5% bis -7,5% bzw. +7-9%) erreicht. Angesichts des breiten Risk-off-Tages an den US-Boersen (Dow/S&P/Nasdaq im Minus, steigende Renditen) wird auf neue Aktien-/ETF-/Rohstoffpositionen verzichtet; keine ueberzeugende neue Krypto-Gelegenheit erkennbar.",
+    "reasoning": "Alle offenen Positionen (pos-0016, pos-0018, pos-0019, pos-0020, pos-0021) liegen mit +0,7% bis +5,8% moderat im Plus und bieten weder Anlass fuer eine Stop-Loss-Reaktion noch fuer eine Gewinnmitnahme im etablierten Zielbereich. Der heutige breite Aktienmarkt-Ausverkauf (steigende Renditen, Oelpreis-Sorgen, geopolitische Unsicherheit) ist kein Umfeld fuer neue spekulative Aktienkaeufe; freies Kapital wird bewusst nicht eingesetzt, bis sich eine klar ueberzeugende Gelegenheit (Ausbruch, Ueberreaktion) zeigt.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
@@ -6138,7 +6138,7 @@
       "pos-0020",
       "pos-0021"
     ],
-    "portfolioValueEnd": 3390.47,
+    "portfolioValueEnd": 3367.55,
     "updates": [
       {
         "time": "00:08",
@@ -6244,6 +6244,11 @@
         "time": "20:08",
         "note": "Keine Aenderung. BTC auf 86.400 USD erholt (pos-0016 +6,67%, naehert sich Zielspanne; pos-0018 +1,61%), HYPE auf 95,50 USD (+1,24%), DOGE auf 0,09921 USD erholt (+0,72%, aus Stop-Loss-Naehe heraus), BCH auf 348,00 USD (+2,36%). Kein Trade: keine Position erreicht Zielspanne oder Stop-Loss, US-Aktienmarkt im breiten Renditen-Abverkauf ohne Einzeltitel-Katalysator, XRP-Breakout bereits ueberkauft.",
         "portfolioValue": 3390.47
+      },
+      {
+        "time": "21:07",
+        "note": "Keine Aenderung, Kurse aktualisiert (BTC leicht ruecklaeufig auf ~85.700, HYPE/BCH/DOGE stabil) - US-Aktienmaerkte im Risk-off (Dow/S&P/Nasdaq im Minus)",
+        "portfolioValue": 3367.55
       }
     ]
   }
