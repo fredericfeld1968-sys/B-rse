@@ -6128,16 +6128,16 @@
   },
   {
     "date": "2026-09-23",
-    "marketOverview": "Bitcoin bewegt sich weiterhin seitwaerts um ca. 86.150-86.650 USD (je nach Quelle, CoinDesk/CoinGecko/Coinbase), leicht ueber dem Stand des letzten Laufs, ohne neuen Einzeltitel-Katalysator. Krypto-Gesamtmarktkapitalisierung ca. 2,94-3,03 Bio. USD in breiter, aber ueberwiegend bereits bekannter Altcoin-Rally (u.a. Sei, Ondo, Raydium, Filecoin bewegen sich staerker als unsere Positionen). Hyperliquid (94,89 USD) und Dogecoin (0,0999 USD) konsolidieren nahe ihren juengsten Hochs; der vielzitierte '1,2-Mrd-USD-HYPE-Unlock' ist bereits Ende August verarbeitet, der naechste planmaessige Unlock folgt erst am 29.09. Aktien/ETFs/Rohstoffe weiterhin ausserhalb der Handelszeiten (07:07 MESZ, vor Boersenoeffnung).",
-    "decision": "Tagesverlauf 23.09. (bisher): 00:08 bis 06:07 durchgehend kein Trade - Tagesbudget wurde im 00:08-Lauf einmalig gutgeschrieben, alle vier offenen Positionen (BTC pos-0016, BTC pos-0018, HYPE pos-0019, DOGE pos-0020) laufend auf aktuelle Kurse aktualisiert, keine Position erreichte die Zielspanne (7-9%) oder den Stop-Loss (-6,5% bis -7,5%), kein neuer ueberzeugender Einzeltitel-Katalysator, Aktien/ETFs/Rohstoffe nachts nicht handelbar. 07:07-Lauf: weiterhin kein Trade - Kurse praktisch unveraendert seit 06:07 (BTC ca. +6,4%, HYPE +0,6%, DOGE +1,4% seit Kauf), keine Schwelle erreicht, kein frischer Katalysator, Boersen weiterhin geschlossen.",
-    "reasoning": "Diszipliniertes Abwarten: Freies Kapital (~47.107 EUR) bleibt bewusst ungenutzt, da keine der vier offenen Positionen eine Zielschwelle erreicht und kein neuer, einzeltitelspezifischer und ueberzeugender Katalysator vorliegt. pos-0016 (BTC) naehert sich mit +6,42% weiter der Zielspanne (7-9%), aber noch nicht erreicht. Aktien/ETFs/Rohstoffe sind vor Boersenoeffnung nicht handelbar, daher kommt ohnehin nur Krypto infrage - hier fehlt aber eine wirklich ueberzeugende Einzelgelegenheit.",
+    "marketOverview": "Bitcoin bewegt sich weiterhin seitwaerts um ca. 86.200-86.600 USD (CoinDesk/CoinGecko), keine neue Einzeltitel-Nachricht seit dem 07:07-Lauf. Kryptomarkt insgesamt stabil (Gesamtmarktkapitalisierung ca. 2,78-3,0 Bio. USD je nach Quelle) nach dem restriktiven Fed-Zinsschritt vom 16.09. und dem gescheiterten CLARITY-Act-Votum; Spot-Bitcoin-ETFs verzeichneten in der Vorwoche dennoch rund 987 Mio. USD Nettozuflüsse. Hyperliquid (94,89 USD) und Dogecoin (0,0999 USD) konsolidieren weiterhin knapp unter ihren juengsten Hochs. Aktien/ETFs/Rohstoffe weiterhin ausserhalb der Handelszeiten (08:08 MESZ, Xetra oeffnet erst 09:00 MESZ).",
+    "decision": "Tagesverlauf 23.09. (bisher): 00:08 bis 06:07 durchgehend kein Trade - Tagesbudget wurde im 00:08-Lauf einmalig gutgeschrieben, alle vier offenen Positionen (BTC pos-0016, BTC pos-0018, HYPE pos-0019, DOGE pos-0020) laufend auf aktuelle Kurse aktualisiert, keine Position erreichte die Zielspanne (7-9%) oder den Stop-Loss (-6,5% bis -7,5%), kein neuer ueberzeugender Einzeltitel-Katalysator, Aktien/ETFs/Rohstoffe nachts nicht handelbar. 07:07-Lauf: weiterhin kein Trade - Kurse praktisch unveraendert seit 06:07 (BTC ca. +6,4%, HYPE +0,6%, DOGE +1,4% seit Kauf), keine Schwelle erreicht, kein frischer Katalysator, Boersen weiterhin geschlossen. 08:08-Lauf: weiterhin kein Trade - BTC pos-0016 naehert sich mit +6,54% der Zielspanne (7-9%), aber noch nicht erreicht; HYPE und DOGE praktisch unveraendert seit 07:07, kein frischer Katalysator, Boersen weiterhin geschlossen.",
+    "reasoning": "Diszipliniertes Abwarten: Freies Kapital (~47.107 EUR) bleibt bewusst ungenutzt, da keine der vier offenen Positionen eine Zielschwelle erreicht (BTC pos-0016 mit +6,54% am naechsten) und kein neuer, einzeltitelspezifischer und ueberzeugender Katalysator vorliegt. Aktien/ETFs/Rohstoffe sind vor Boersenoeffnung (Xetra 09:00 MESZ) nicht handelbar, daher kommt ohnehin nur Krypto infrage - hier fehlt aber eine wirklich ueberzeugende Einzelgelegenheit.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
       "pos-0019",
       "pos-0020"
     ],
-    "portfolioValueEnd": 2773.04,
+    "portfolioValueEnd": 2774.85,
     "updates": [
       {
         "time": "00:08",
@@ -6178,6 +6178,11 @@
         "time": "07:07",
         "note": "Keine Aenderung. BTC auf 86.200 USD aktualisiert (pos-0016 +6,42%, pos-0018 +1,37%), HYPE stabil bei 94,89 USD (+0,59%), DOGE stabil bei 0,0999 USD (+1,42%). Kein Trade: keine Position erreicht Zielspanne (7-9%) oder Stop-Loss, kein neuer Katalysator seit 06:07, Aktien/ETFs/Rohstoffe weiterhin vor Boersenoeffnung nicht handelbar.",
         "portfolioValue": 2773.04
+      },
+      {
+        "time": "08:08",
+        "note": "Keine Aenderung. BTC auf 86.300 USD aktualisiert (pos-0016 +6,54%, pos-0018 +1,49%), HYPE stabil bei 94,89 USD (+0,59%), DOGE stabil bei 0,0999 USD (+1,42%). Kein Trade: keine Position erreicht Zielspanne (7-9%) oder Stop-Loss, kein neuer Katalysator seit 07:07, Aktien/ETFs/Rohstoffe weiterhin vor Boersenoeffnung (Xetra 09:00 MESZ) nicht handelbar.",
+        "portfolioValue": 2774.85
       }
     ]
   }
