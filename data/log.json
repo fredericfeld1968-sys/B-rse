@@ -6128,9 +6128,9 @@
   },
   {
     "date": "2026-09-23",
-    "marketOverview": "US-Boersen (NYSE/Nasdaq) haben soeben um 22:00 MESZ nach einem Risk-off-Tag (10-Jahres-Rendite auf 19-Jahres-Hoch, Dow/S&P/Nasdaq im Minus) geschlossen. Krypto insgesamt uneinheitlich: Bitcoin gibt weiter nach (Pullback Richtung 84.000 USD, verschiedene Boersen zeigen 84.000-86.800 USD, 24h leicht negativ), waehrend Bitcoin Cash (CME-Futures-Listing ab 19.10.) mit +28-29% Tagesplus Top-Gainer bleibt und Hyperliquid (regulierte Perps, neues Lending-Feature) ein frisches Allzeithoch von 97,99 USD markiert. Fear&Greed je nach Anbieter 64-76 (Greed bis Extreme Greed), Kapital rotiert laut CoinDesk verstaerkt in BCH und Zcash.",
-    "decision": "Kein Trade in diesem Lauf. Fuenf offene Krypto-Positionen (BTC x2, HYPE, DOGE, BCH) bleiben unveraendert im Bestand: BTC pos-0016 (+4,07%) und pos-0018 (-0,86%) nach Pullback Richtung 84.300 USD, HYPE (+3,36%) trotz neuem ATH noch unter der Zielspanne, DOGE (+1,02%) und BCH (+0,89%) seitwaerts. Keine Position erreicht die etablierten Schwellen (+7-9% bzw. -6,5% bis -7,5%). Kein neuer, von den bereits gehaltenen Coins (BCH/HYPE) unabhaengiger ueberzeugender Katalysator gefunden; US-Kassamarkt gerade geschlossen, daher weiterhin nur Krypto handelbar.",
-    "reasoning": "Recherche bestaetigt fuer BCH und HYPE weiterhin die bereits gehandelten Katalysatoren (CME-Futures-Listing bzw. regulierte Perps/Lending/ATH), aber ohne neue, davon unabhaengige dritte Gelegenheit. BTC/DOGE bewegen sich makrogetrieben (steigende Renditen, ~60%-Erwartung eines weiteren Zinsschritts) ohne coinspezifischen Einzelkatalysator. Da keine offene Position die Ziel- oder Stop-Loss-Schwelle erreicht und keine neue ueberzeugende Gelegenheit vorliegt, wird das freie Kapital (~46.500 EUR) bewusst nicht eingesetzt.",
+    "marketOverview": "US-Boersen bleiben nach dem Risk-off-Schluss (22:00 MESZ) geschlossen; 10-Jahres-Rendite auf 19-Jahres-Hoch, Markt preist ~60% Wahrscheinlichkeit fuer einen weiteren Zinsschritt ein. Bitcoin pendelt um 84.300-84.400 USD (leicht negativ 24h), Bitcoin Cash bleibt mit rund +29-31% 24h klarer Top-Gainer (CME-Futures-Listing ab 19.10.), Hyperliquid haelt sich nahe seinem frischen Allzeithoch (~96 USD, 18 Mrd. USD Open Interest), Dogecoin seitwaerts um 0,099 USD nach leichtem Ruecksetzer. Kapitalrotation laut CoinDesk weiterhin verstaerkt in BCH und Zcash.",
+    "decision": "Kein Trade in diesem Lauf. Fuenf offene Krypto-Positionen (BTC x2, HYPE, DOGE, BCH) bleiben unveraendert im Bestand: BTC pos-0016 (+4,14%) und pos-0018 (-0,80%) nahe Vorlauf-Niveau um 84.355 USD, HYPE (+1,77%) leichter Ruecksetzer vom ATH, DOGE (+0,51%) und BCH (+2,26%) beide nur leicht veraendert. Keine Position erreicht die etablierten Schwellen (+7-9% bzw. -6,5% bis -7,5%). Kein neuer, von den bereits gehaltenen Coins unabhaengiger ueberzeugender Katalysator gefunden; US-Kassamarkt weiterhin geschlossen, daher nur Krypto handelbar.",
+    "reasoning": "Recherche bestaetigt fuer BCH und HYPE weiterhin die bereits gehandelten Katalysatoren (CME-Futures-Listing bzw. regulierte Perps/ATH/Open-Interest-Rekord), aber ohne neue, davon unabhaengige dritte Gelegenheit. BTC/DOGE bewegen sich weiterhin makrogetrieben (hohe Renditen, Zinserwartungen) ohne coinspezifischen Einzelkatalysator. Da keine offene Position eine Ziel- oder Stop-Loss-Schwelle erreicht und keine neue ueberzeugende Gelegenheit vorliegt, wird das freie Kapital (~46.500 EUR) bewusst nicht eingesetzt.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
@@ -6138,7 +6138,7 @@
       "pos-0020",
       "pos-0021"
     ],
-    "portfolioValueEnd": 3358.1,
+    "portfolioValueEnd": 3354.79,
     "updates": [
       {
         "time": "00:08",
@@ -6254,6 +6254,11 @@
         "time": "22:09",
         "note": "Keine Aenderung. US-Boersen soeben geschlossen (22:00 MESZ). BTC auf 84.300 USD aktualisiert (pos-0016 +4,07%, pos-0018 -0,86%, Pullback von den Vortageshoechst), HYPE auf 97,50 USD (+3,36%, nahe neuem ATH 97,99), DOGE auf 0,0995 USD (+1,02%), BCH auf 343,00 USD (+0,89%). Kein Trade: keine Position erreicht Zielspanne (7-9%) oder Stop-Loss, kein neuer, von BCH/HYPE unabhaengiger Katalysator gefunden.",
         "portfolioValue": 3358.1
+      },
+      {
+        "time": "23:08",
+        "note": "Keine Aenderung. BTC auf 84.355 USD aktualisiert (pos-0016 +4,14%, pos-0018 -0,80%), HYPE auf 96,00 USD (+1,77%), DOGE auf 0,0990 USD (+0,51%), BCH auf 347,68 USD (+2,26%). Kein Trade: keine Position erreicht eine Schwelle, kein neuer Einzeltitel-Katalysator, US-Aktienmarkt ausserhalb der Handelszeiten.",
+        "portfolioValue": 3354.79
       }
     ]
   }
