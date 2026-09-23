@@ -6129,19 +6129,20 @@
   {
     "date": "2026-09-23",
     "marketOverview": [
-      "Bitcoin konsolidiert um 86.200-86.650 USD (CoinGecko/CoinDesk), +1% in 24h, +13% zur Vorwoche - Spot-Zufluesse bleiben stark, aber weitgehend eingepreist. Glassnode bestaetigte am 22.09. den Wechsel zu 'Altcoin Season' (Index 81+), breite Gewinne bei Altcoins (XRP +17% Woche, Zcash +4,3%, Bittensor +7,9%), jedoch ohne einen einzelnen, neuen Katalysator fuer die Depot-Positionen. HYPE haelt sich knapp unter ATH (94,89 USD), DOGE stabil um 0,0999 USD nach dem Ausbruch vom 22.09. Aktien/ETFs/Rohstoffe nachts weiterhin nicht handelbar (05:07 MESZ)."
+      "Bitcoin haelt sich stabil bei 86.303 USD (+0,8% 24h, CoinGabbar/CoinMarketCap), naeher an der Zielspanne (7-9%) aber noch nicht erreicht; Marktkapitalisierung Krypto gesamt 3,03 Bio. USD (+0,5%). Kein neuer Katalysator seit dem 05:07-Lauf. HYPE stabil bei 94,89 USD (-0% zum Vortag, knapp unter ATH 95,97 USD), DOGE stabil um 0,0999 USD. Aktien/ETFs/Rohstoffe weiterhin ausserhalb der Handelszeiten (06:07 MESZ, vor Boersenoeffnung)."
     ],
     "decision": [
-      "05:07-Lauf: Kein Trade. Tagesbudget bereits im 00:08-Lauf gutgeschrieben. Alle vier offenen Positionen (BTC pos-0016 +6,54%, BTC pos-0018 +1,49%, HYPE pos-0019 +0,59%, DOGE pos-0020 +1,42%) auf aktuelle Kurse aktualisiert. Keine Position erreicht die etablierte Zielspanne (7-9%) oder den Stop-Loss (-6,5% bis -7,5%). Trotz breiter 'Altcoin Season'-Meldung kein neuer, einzeltitelbezogener und ueberzeugender Katalysator seit dem 04:07-Lauf; Aktien/ETFs/Rohstoffe um diese Nachtzeit nicht handelbar."
+      "05:07-Lauf: Kein Trade. Tagesbudget bereits im 00:08-Lauf gutgeschrieben. Alle vier offenen Positionen (BTC pos-0016 +6,54%, BTC pos-0018 +1,49%, HYPE pos-0019 +0,59%, DOGE pos-0020 +1,42%) auf aktuelle Kurse aktualisiert. Keine Position erreicht die etablierte Zielspanne (7-9%) oder den Stop-Loss (-6,5% bis -7,5%). Trotz breiter 'Altcoin Season'-Meldung kein neuer, einzeltitelbezogener und ueberzeugender Katalysator seit dem 04:07-Lauf; Aktien/ETFs/Rohstoffe um diese Nachtzeit nicht handelbar.",
+      "06:07-Lauf: Kein Trade. Tagesbudget bereits im 00:08-Lauf gutgeschrieben. Alle vier offenen Positionen (BTC pos-0016 +6,55%, BTC pos-0018 +1,49%, HYPE pos-0019 +0,59%, DOGE pos-0020 +1,42%) auf aktuelle Kurse aktualisiert. Keine Position erreicht die etablierte Zielspanne (7-9%) oder den Stop-Loss (-6,5% bis -7,5%). Kein neuer, einzeltitelbezogener Katalysator seit dem 05:07-Lauf; Aktien/ETFs/Rohstoffe weiterhin nicht handelbar."
     ],
-    "reasoning": "Diszipliniertes Abwarten: Freies Kapital (~47.107 EUR) bleibt bewusst ungenutzt. pos-0016 naehert sich mit +6,54% weiter der Zielspanne (7-9%), aber noch nicht erreicht - Halten passend zum bisherigen Muster. HYPE (knapp unter ATH) und DOGE (stabil nach Ausbruch) zeigen keine frische, einzeltitelspezifische Bewegung; die 'Altcoin Season'-Meldung ist ein breites Makro-Signal ohne konkreten neuen Handelsauslöser fuer ein bestimmtes Asset. Kein Kauf, da keine wirklich ueberzeugende Einzelgelegenheit vorliegt.",
+    "reasoning": "Diszipliniertes Abwarten: Freies Kapital (~47.107 EUR) bleibt bewusst ungenutzt. pos-0016 naehert sich mit +6,55% weiter der Zielspanne (7-9%), aber noch nicht erreicht - Halten passend zum bisherigen Muster. HYPE (knapp unter ATH) und DOGE (stabil nach Ausbruch) zeigen keine frische, einzeltitelspezifische Bewegung seit dem letzten Lauf. Kein Kauf, da keine wirklich ueberzeugende Einzelgelegenheit vorliegt und Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten sind.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
       "pos-0019",
       "pos-0020"
     ],
-    "portfolioValueEnd": 2774.85,
+    "portfolioValueEnd": 2774.91,
     "updates": [
       {
         "time": "00:08",
@@ -6172,6 +6173,11 @@
         "time": "05:07",
         "note": "Keine Aenderung. BTC auf 86.300 USD aktualisiert (pos-0016 +6,54%, pos-0018 +1,49%), HYPE auf 94,89 USD aktualisiert (+0,59%, knapp unter ATH), DOGE auf 0,0999 USD aktualisiert (+1,42%). Kein Trade: keine Position erreicht Zielspanne (7-9%) oder Stop-Loss, kein neuer einzeltitelspezifischer Katalysator trotz breiter Altcoin-Season-Meldung; Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten.",
         "portfolioValue": 2774.85
+      },
+      {
+        "time": "06:07",
+        "note": "Keine Aenderung. BTC auf 86.303,07 USD aktualisiert (pos-0016 +6,55%, pos-0018 +1,49%), HYPE stabil bei 94,89 USD (+0,59%), DOGE stabil bei 0,0999 USD (+1,42%). Kein Trade: keine Position erreicht Zielspanne (7-9%) oder Stop-Loss, kein neuer Katalysator, Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten.",
+        "portfolioValue": 2774.91
       }
     ]
   }
