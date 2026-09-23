@@ -6264,9 +6264,9 @@
   },
   {
     "date": "2026-09-24",
-    "marketOverview": "US-Boersen bleiben nach dem gestrigen Risk-off-Schluss geschlossen (naechste Oeffnung Xetra 09:00, NYSE/Nasdaq 15:30 MESZ); 10-Jahres-Rendite auf 19-Jahres-Hoch, Markt preist weiter ~60% Wahrscheinlichkeit fuer einen weiteren Fed-Zinsschritt ein. Bitcoin notiert stabil um 84.350 USD, Hyperliquid haelt sich bei rund 96 USD nahe seinem ATH, Dogecoin seitwaerts um 0,0995 USD, Bitcoin Cash bleibt mit weiterhin ueber +30% in 24h klarer Top-Gainer (CME-Futures-Listing ab 19.10.). Solana markierte am 21.09. bei rund 117 USD den hoechsten Stand seit Januar, XRP bleibt trotz Erholung auf Jahressicht klar im Minus (CLARITY Act weiter im Senat blockiert).",
-    "decision": "Kein Trade in diesem Lauf. Tagesbudget (1.000 EUR) fuer 24.09. gutgeschrieben (Gesamtkapital nun 51.000 EUR). Fuenf offene Krypto-Positionen (BTC x2, HYPE, DOGE, BCH) bleiben unveraendert im Bestand, nur Kurse aktualisiert: BTC pos-0016 (+4,14%) und pos-0018 (-0,80%) nahe Vorlauf-Niveau, HYPE (+2,05%), DOGE (+1,03%), BCH (+3,92%). Keine Position erreicht die etablierten Schwellen (Ziel +7-9%, Stop-Loss -6,5% bis -7,5%).",
-    "reasoning": "Kurz nach Mitternacht MESZ sind Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten, daher hoechstens Krypto bewegbar. Recherche zu BTC/HYPE/DOGE/BCH sowie SOL/ETH/XRP liefert keinen neuen, von den bereits gehaltenen Positionen unabhaengigen ueberzeugenden Katalysator - BCH-Rally und HYPE-Staerke sind bereits gehandelte, bekannte Themen. Freies Kapital liegt bei ca. 47.507 EUR, wird aber mangels ueberzeugender Gelegenheit bewusst nicht eingesetzt.",
+    "marketOverview": "Breiter, aber nicht dramatischer Krypto-Abverkauf in der Nacht auf den 24.09.: BTC bei ca. 84.524 USD (-2,1% in 24h), ETH 2.688 USD (-2,7%), SOL 115,10 USD (-3,3%), XRP 1,50 USD (-4,9%), AVAX 10,31 USD (-9,2%), DOGE 0,0927 USD (-8,3%), HYPE 93,99 USD (-3,8%), BCH 337,39 USD (-1,3%). Die Bewegung wirkt wie ein generelles Risk-off/Gewinnmitnahme nach der starken Rally der Vorwoche (BTC nahe Januar-Hoch, HYPE-Allzeithoch, BCH-CME-Futures-Rally) und nicht wie eine einzelne, neue fundamentale Nachricht. Aktien-, ETF- und Rohstoffmaerkte sind um diese Nachtzeit (01:xx MESZ) geschlossen.",
+    "decision": "Kein Trade in diesem Lauf (01:10 MESZ). Tagesbudget fuer den 24.09. wurde bereits im vorherigen Lauf (00:08) gutgeschrieben. Kurse aller offenen Positionen aktualisiert.",
+    "reasoning": "Der breite Krypto-Rueckgang betrifft praktisch alle Assetklassen gleichzeitig ohne klar erkennbaren, unabhaengig bestaetigten Einzelausloeser - passt damit nicht in das bisher erfolgreiche Muster (Dip-Kauf nach eindeutigem, ueberzogenem Sell-the-news bei einem einzelnen Titel). Keine offene Position hat die etablierte Stop-Loss-Schwelle von ca. -6,5 bis -7,5% erreicht (DOGE mit -5,88% am naechsten). Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten. Daher bewusst kein Kauf und kein Verkauf in diesem Lauf.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
@@ -6274,12 +6274,17 @@
       "pos-0020",
       "pos-0021"
     ],
-    "portfolioValueEnd": 3369.52,
+    "portfolioValueEnd": 3288.56,
     "updates": [
       {
         "time": "00:08",
         "note": "Keine Aenderung. Tagesbudget (1.000 EUR) fuer 24.09. gutgeschrieben. BTC stabil bei 84.355 USD (pos-0016 +4,14%, pos-0018 -0,80%), HYPE auf 96,26 USD (+2,05%), DOGE auf 0,09951 USD (+1,03%), BCH auf 353,33 USD (+3,92%, weiterhin +31% in 24h). Kein Trade: keine Position erreicht eine Schwelle, kein neuer unabhaengiger Katalysator (SOL/ETH/XRP-Recherche ohne frische Gelegenheit), Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten.",
         "portfolioValue": 3369.52
+      },
+      {
+        "time": "01:10",
+        "note": "Keine Aenderung. Breiter Krypto-Risk-off (BTC -2,1%, DOGE -8,3%, AVAX -9,2% in 24h), kein klarer Einzelausloeser, keine Position erreicht Stop-Loss (DOGE pos-0020 am naechsten mit -5,88%). Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten.",
+        "portfolioValue": 3288.56
       }
     ]
   }
