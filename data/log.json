@@ -6137,7 +6137,7 @@
       "pos-0019",
       "pos-0020"
     ],
-    "portfolioValueEnd": 2782.85,
+    "portfolioValueEnd": 2781.83,
     "updates": [
       {
         "time": "00:08",
@@ -6193,6 +6193,11 @@
         "time": "10:09",
         "note": "Keine Aenderung. BTC auf 86.106 USD aktualisiert (pos-0016 +6,30%, pos-0018 +1,26%), HYPE auf 96,19 USD (+1,97%), DOGE auf 0,100412 USD (+1,96%). Kein Trade: keine Position erreicht Zielspanne (7-9%) oder Stop-Loss, AMD-Kursbild uneinheitlich (kein ueberzeugender neuer Katalysator).",
         "portfolioValue": 2782.85
+      },
+      {
+        "time": "11:08",
+        "note": "Keine Aenderung. BTC auf 86.224,45 USD aktualisiert (pos-0016 +6,45%, pos-0018 +1,40%), HYPE auf 96,26 USD (+2,05%), DOGE auf 0,099839 USD (+1,36%). Kein Trade: keine Position erreicht Zielspanne (7-9%) oder Stop-Loss (BTC pos-0016 mit +6,45% knapp unter der Zielschwelle). US-Futures nur marginal im Plus (Oel faellt auf Iran-Deeskalationshoffnung, Nasdaq-Rekord dank Chipwerten), Xetra offen aber kein ueberzeugender Einzeltitel-Katalysator, US-Markt oeffnet erst um 15:30 MESZ.",
+        "portfolioValue": 2781.83
       }
     ]
   }
