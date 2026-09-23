@@ -6128,16 +6128,16 @@
   },
   {
     "date": "2026-09-23",
-    "marketOverview": "Bitcoin bewegt sich weiterhin seitwaerts um ca. 86.200-86.600 USD (CoinDesk/CoinGecko), keine neue Einzeltitel-Nachricht seit dem 07:07-Lauf. Kryptomarkt insgesamt stabil (Gesamtmarktkapitalisierung ca. 2,78-3,0 Bio. USD je nach Quelle) nach dem restriktiven Fed-Zinsschritt vom 16.09. und dem gescheiterten CLARITY-Act-Votum; Spot-Bitcoin-ETFs verzeichneten in der Vorwoche dennoch rund 987 Mio. USD Nettozuflüsse. Hyperliquid (94,89 USD) und Dogecoin (0,0999 USD) konsolidieren weiterhin knapp unter ihren juengsten Hochs. Aktien/ETFs/Rohstoffe weiterhin ausserhalb der Handelszeiten (08:08 MESZ, Xetra oeffnet erst 09:00 MESZ).",
-    "decision": "Tagesverlauf 23.09. (bisher): 00:08 bis 06:07 durchgehend kein Trade - Tagesbudget wurde im 00:08-Lauf einmalig gutgeschrieben, alle vier offenen Positionen (BTC pos-0016, BTC pos-0018, HYPE pos-0019, DOGE pos-0020) laufend auf aktuelle Kurse aktualisiert, keine Position erreichte die Zielspanne (7-9%) oder den Stop-Loss (-6,5% bis -7,5%), kein neuer ueberzeugender Einzeltitel-Katalysator, Aktien/ETFs/Rohstoffe nachts nicht handelbar. 07:07-Lauf: weiterhin kein Trade - Kurse praktisch unveraendert seit 06:07 (BTC ca. +6,4%, HYPE +0,6%, DOGE +1,4% seit Kauf), keine Schwelle erreicht, kein frischer Katalysator, Boersen weiterhin geschlossen. 08:08-Lauf: weiterhin kein Trade - BTC pos-0016 naehert sich mit +6,54% der Zielspanne (7-9%), aber noch nicht erreicht; HYPE und DOGE praktisch unveraendert seit 07:07, kein frischer Katalysator, Boersen weiterhin geschlossen.",
-    "reasoning": "Diszipliniertes Abwarten: Freies Kapital (~47.107 EUR) bleibt bewusst ungenutzt, da keine der vier offenen Positionen eine Zielschwelle erreicht (BTC pos-0016 mit +6,54% am naechsten) und kein neuer, einzeltitelspezifischer und ueberzeugender Katalysator vorliegt. Aktien/ETFs/Rohstoffe sind vor Boersenoeffnung (Xetra 09:00 MESZ) nicht handelbar, daher kommt ohnehin nur Krypto infrage - hier fehlt aber eine wirklich ueberzeugende Einzelgelegenheit.",
+    "marketOverview": "Bitcoin steigt auf ca. 86.354 USD (CoinGecko, +1,13% 24h), Hyperliquid auf 97,05 USD (+2,79% 24h) und Dogecoin auf 0,10182 USD (+2,29% 24h) - alle drei Positionen legen seit dem 08:08-Lauf leicht zu, keine erreicht aber die Zielspanne (7-9%). An den Aktienmaerkten hat Xetra um 09:00 MESZ geoeffnet; US-Futures leicht im Plus (Nasdaq-100 +0,14%, S&P +0,12%) nach neuem Nasdaq-Rekordschluss gestern, da Brent-Oel um rund 2% auf ca. 98 USD faellt (Hoffnung auf US-Iran-Deeskalation) und Renditen nachgeben. Einziger nennenswerter Einzeltitel-Termin heute ist General Mills vor Handelsbeginn (defensiver Basiskonsum-Titel, erwarteter Umsatzrueckgang) - kein spekulativ ueberzeugender Katalysator. Fed-Reden um 16:05/16:20 MESZ als naechster Marktimpuls.",
+    "decision": "Tagesverlauf 23.09. (bisher): 00:08 bis 08:08 durchgehend kein Trade - Tagesbudget im 00:08-Lauf einmalig gutgeschrieben, alle vier offenen Positionen (BTC pos-0016, BTC pos-0018, HYPE pos-0019, DOGE pos-0020) laufend aktualisiert, keine Position erreichte die Zielspanne (7-9%) oder den Stop-Loss (-6,5% bis -7,5%), Aktien/ETFs/Rohstoffe vor 09:00 MESZ nicht handelbar. 09:07-Lauf (erster Lauf nach Xetra-Eroeffnung): weiterhin kein Trade - BTC pos-0016 naehert sich mit +6,61% weiter der Zielspanne, aber noch nicht erreicht; HYPE (+2,88%) und DOGE (+3,37%) legen leicht zu, aber ebenfalls unterhalb der Zielspanne; kein ueberzeugender frischer Einzeltitel-Katalysator bei Aktien/ETFs/Rohstoffen trotz Marktoeffnung gefunden (Brent faellt auf Deeskalationshoffnung, einziger Earnings-Termin General Mills ist defensiv/wenig spekulativ).",
+    "reasoning": "Diszipliniertes Abwarten: Freies Kapital (~47.106,91 EUR) bleibt bewusst ungenutzt. Trotz Marktoeffnung an der Xetra (09:00 MESZ) wurde bei der Recherche kein einzeltitelspezifischer, ueberzeugender Kaufkatalysator gefunden - die verfuegbaren Nachrichten (Brent-Ruecksetzer auf Deeskalationshoffnung, defensive General-Mills-Zahlen) rechtfertigen kein spekulatives Engagement. Bei den offenen Krypto-Positionen bleibt BTC pos-0016 mit +6,61% am naechsten an der etablierten Zielspanne (7-9%), hat sie aber noch nicht erreicht; keine Position ist nahe am Stop-Loss. Passend zum spekulativen, aber diszipliniert-selektiven Profil wird abgewartet.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
       "pos-0019",
       "pos-0020"
     ],
-    "portfolioValueEnd": 2774.85,
+    "portfolioValueEnd": 2801.26,
     "updates": [
       {
         "time": "00:08",
@@ -6183,6 +6183,11 @@
         "time": "08:08",
         "note": "Keine Aenderung. BTC auf 86.300 USD aktualisiert (pos-0016 +6,54%, pos-0018 +1,49%), HYPE stabil bei 94,89 USD (+0,59%), DOGE stabil bei 0,0999 USD (+1,42%). Kein Trade: keine Position erreicht Zielspanne (7-9%) oder Stop-Loss, kein neuer Katalysator seit 07:07, Aktien/ETFs/Rohstoffe weiterhin vor Boersenoeffnung (Xetra 09:00 MESZ) nicht handelbar.",
         "portfolioValue": 2774.85
+      },
+      {
+        "time": "09:07",
+        "note": "Keine Aenderung. Xetra hat um 09:00 MESZ geoeffnet, aber kein ueberzeugender Einzeltitel-Katalysator gefunden (Brent -2% auf Deeskalationshoffnung, einziger Earnings-Termin General Mills defensiv). BTC auf 86.354 USD aktualisiert (pos-0016 +6,61%, pos-0018 +1,55%), HYPE auf 97,05 USD aktualisiert (+2,88%), DOGE auf 0,10182 USD aktualisiert (+3,37%). Kein Trade: keine Position erreicht Zielspanne (7-9%) oder Stop-Loss.",
+        "portfolioValue": 2801.26
       }
     ]
   }
