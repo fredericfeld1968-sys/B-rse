@@ -6128,16 +6128,20 @@
   },
   {
     "date": "2026-09-23",
-    "marketOverview": "Bitcoin konsolidiert seitwaerts um 86.150-86.230 USD nach dem 44%-Q3-Anstieg; Bitcoin-ETFs verzeichneten am 22.09. mit 998,9 Mio. USD den staerksten Zufluss-Tag 2026 (bereits eingepreist). HYPE haelt sich knapp unter dem ATH-Bereich (~94 USD), DOGE stabil um 0,0995-0,0997 USD nach dem Ausbruch vom 22.09. Aktien/ETFs/Rohstoffe nachts weiterhin nicht handelbar.",
-    "decision": "04:07-Lauf: Kein Trade. Tagesbudget bereits im 00:08-Lauf gutgeschrieben, keine erneute Gutschrift. Alle vier offenen Positionen (BTC pos-0016 +6,39%, BTC pos-0018 +1,35%, HYPE pos-0019 +0,07%, DOGE pos-0020 +1,22%) auf aktuelle Kurse aktualisiert. Keine Position erreicht die etablierte Zielspanne (7-9%) oder den Stop-Loss (-6,5% bis -7,5%). Kein neuer, ueberzeugender Katalysator seit dem 03:08-Lauf; Aktien/ETFs/Rohstoffe um diese Nachtzeit nicht handelbar.",
-    "reasoning": "Diszipliniertes Abwarten: Freies Kapital (~47.107 EUR) bleibt bewusst ungenutzt. pos-0016 bleibt mit +6,39% nahe der Zielspanne (7-9%), aber noch nicht erreicht - Halten passend zum bisherigen Muster. HYPE und DOGE bewegen sich seitwaerts ohne neuen Einzeltitel-Katalysator. Die ETF-Zufluss-Meldung vom 22.09. ist bereits im aktuellen Kursniveau eingepreist. Kein frischer, mehrfach bestaetigter Katalysator um diese Nachtzeit.",
+    "marketOverview": [
+      "Bitcoin konsolidiert um 86.200-86.650 USD (CoinGecko/CoinDesk), +1% in 24h, +13% zur Vorwoche - Spot-Zufluesse bleiben stark, aber weitgehend eingepreist. Glassnode bestaetigte am 22.09. den Wechsel zu 'Altcoin Season' (Index 81+), breite Gewinne bei Altcoins (XRP +17% Woche, Zcash +4,3%, Bittensor +7,9%), jedoch ohne einen einzelnen, neuen Katalysator fuer die Depot-Positionen. HYPE haelt sich knapp unter ATH (94,89 USD), DOGE stabil um 0,0999 USD nach dem Ausbruch vom 22.09. Aktien/ETFs/Rohstoffe nachts weiterhin nicht handelbar (05:07 MESZ)."
+    ],
+    "decision": [
+      "05:07-Lauf: Kein Trade. Tagesbudget bereits im 00:08-Lauf gutgeschrieben. Alle vier offenen Positionen (BTC pos-0016 +6,54%, BTC pos-0018 +1,49%, HYPE pos-0019 +0,59%, DOGE pos-0020 +1,42%) auf aktuelle Kurse aktualisiert. Keine Position erreicht die etablierte Zielspanne (7-9%) oder den Stop-Loss (-6,5% bis -7,5%). Trotz breiter 'Altcoin Season'-Meldung kein neuer, einzeltitelbezogener und ueberzeugender Katalysator seit dem 04:07-Lauf; Aktien/ETFs/Rohstoffe um diese Nachtzeit nicht handelbar."
+    ],
+    "reasoning": "Diszipliniertes Abwarten: Freies Kapital (~47.107 EUR) bleibt bewusst ungenutzt. pos-0016 naehert sich mit +6,54% weiter der Zielspanne (7-9%), aber noch nicht erreicht - Halten passend zum bisherigen Muster. HYPE (knapp unter ATH) und DOGE (stabil nach Ausbruch) zeigen keine frische, einzeltitelspezifische Bewegung; die 'Altcoin Season'-Meldung ist ein breites Makro-Signal ohne konkreten neuen Handelsauslöser fuer ein bestimmtes Asset. Kein Kauf, da keine wirklich ueberzeugende Einzelgelegenheit vorliegt.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
       "pos-0019",
       "pos-0020"
     ],
-    "portfolioValueEnd": 2768.35,
+    "portfolioValueEnd": 2774.85,
     "updates": [
       {
         "time": "00:08",
@@ -6163,6 +6167,11 @@
         "time": "04:07",
         "note": "Keine Aenderung. BTC auf 86.180 USD aktualisiert (pos-0016 +6,39%, pos-0018 +1,35%), HYPE auf 94,40 USD aktualisiert (+0,07%), DOGE auf 0,0997 USD aktualisiert (+1,22%). Kein Trade: keine Position erreicht Zielspanne oder Stop-Loss, kein neuer Katalysator, Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten.",
         "portfolioValue": 2768.35
+      },
+      {
+        "time": "05:07",
+        "note": "Keine Aenderung. BTC auf 86.300 USD aktualisiert (pos-0016 +6,54%, pos-0018 +1,49%), HYPE auf 94,89 USD aktualisiert (+0,59%, knapp unter ATH), DOGE auf 0,0999 USD aktualisiert (+1,42%). Kein Trade: keine Position erreicht Zielspanne (7-9%) oder Stop-Loss, kein neuer einzeltitelspezifischer Katalysator trotz breiter Altcoin-Season-Meldung; Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten.",
+        "portfolioValue": 2774.85
       }
     ]
   }
