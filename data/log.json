@@ -6128,9 +6128,9 @@
   },
   {
     "date": "2026-09-23",
-    "marketOverview": "Breiter, aber moderater Krypto-Ruecksetzer am Abend: BTC faellt von ca. 86.600 auf 83.926 USD (-2,9% laut CoinGecko), HYPE auf 92,58 USD (-3,0%), DOGE auf 0,0922 USD (-7,4% in 24h) - getrieben von einer abkuehlenden Short-Squeeze-Rally, steigenden US-Anleiherenditen (10Y bei ueber 5,1%, hoechster Stand seit 2007) und Fed-Zinserhoehungserwartungen. US-Aktienmaerkte (S&P 500, Dow) geben um rund 0,65% nach, belastet durch die Renditen sowie US-Iran-Spannungen trotz eines als 'sehr gut' bezeichneten Treffens am Rande der UN-Generalversammlung. Gegenlaeufig: Bitcoin Cash (BCH) setzt seine CME-Futures-getriebene Rally fort und steigt weiter auf ca. 350,70 USD (+6,9% seit dem letzten Lauf).",
-    "decision": "Kein Trade in diesem Lauf. Alle offenen Positionen wurden auf aktuelle Kurse aktualisiert: pos-0016 BTC +3,61%, pos-0018 BTC -1,30%, pos-0019 HYPE -1,86%, pos-0020 DOGE -6,41% (naehert sich der etablierten Stop-Loss-Zone von -6,5% bis -7,5%, aber noch nicht eindeutig ueberschritten), pos-0021 BCH weiterhin im Plus bei +3,15%. Keine Position hat die Zielspanne (7-9% Gewinn) oder eindeutig die Stop-Loss-Schwelle erreicht. Der Ruecksetzer wird von mehreren Quellen als Abkuehlung einer ueberhitzten Short-Squeeze-Rally und nicht als fundamentale Trendwende eingeordnet, daher wird abgewartet statt vorschnell glattzustellen.",
-    "reasoning": "DOGE (pos-0020) wird engmaschig beobachtet, da -6,41% nahe an der historisch verwendeten Stop-Loss-Zone liegt; ein weiterer Ruecksetzer wuerde im naechsten Lauf zur Glattstellung fuehren. Kein neuer, ueberzeugender Kaufkatalysator identifiziert: US-Aktienmarkt zwar offen (bis 22:00 MESZ), aber im breiten Abverkauf (steigende Renditen, keine Einzeltitel-Sondersituation); Xetra bereits geschlossen. Freies Kapital bleibt reichlich vorhanden, aber ohne wirklich ueberzeugende Gelegenheit wird laut Vorgabe nichts erzwungen.",
+    "marketOverview": "BTC erholt sich deutlich von 83.926 auf ca. 86.400 USD (+ca. 2,9%, mehrfach bestaetigt: Coinbase, MetaMask, Fortune), HYPE stabilisiert sich bei ca. 95,50 USD, DOGE erholt sich auf 0,09921 USD (+1,27% 24h) nach Naeherung an die Stop-Loss-Zone im letzten Lauf. BCH konsolidiert nahe 348 USD nach dem CME-Futures-Ausbruch (Listing 19.10.). Glassnode meldet ein neues Altcoin-Season-Signal, XRP zeigt nach starkem 7-Tage-Lauf (+24%) aber bereits ueberkaufte Tageswerte (RSI ~70) und kuehlt sich ab - kein sauberer neuer Einstiegspunkt. US-Aktienmarkt (noch bis 22:00 MESZ offen) bleibt im breiten, moderaten Abverkauf: S&P 500 -0,10%, Dow -0,30%, Nasdaq -0,15%, belastet von 10-Jahres-Renditen auf dem hoechsten Stand seit 2007 und anhaltenden Fed-Zinserhoehungserwartungen. Vereinzelte Einzeltitel-Gewinner (Cracker Barrel, Butterfly Network, Quantum-Computing-Werte) ohne branchenweiten Charakter.",
+    "decision": "Kein Trade in diesem Lauf. Alle offenen Positionen auf aktuelle Kurse aktualisiert: pos-0016 BTC +6,67% (naehert sich der Zielspanne 7-9%, aber noch nicht erreicht), pos-0018 BTC +1,61%, pos-0019 HYPE +1,24% (Erholung von -1,86%), pos-0020 DOGE +0,72% (deutliche Erholung von -6,41%, damit aus der Stop-Loss-Naehe heraus), pos-0021 BCH +2,36%. Keine Position hat die Zielspanne (7-9% Gewinn) oder die Stop-Loss-Schwelle (-6,5% bis -7,5%) erreicht. Kein neuer, wirklich ueberzeugender Kaufkatalysator: US-Aktienmarkt im breiten, unspezifischen Renditen-getriebenen Abverkauf ohne Einzeltitel-Sondersituation, XRP-Breakout bereits ueberkauft und in Konsolidierung, Xetra geschlossen. Passend zur Vorgabe wird nichts erzwungen.",
+    "reasoning": "pos-0016 BTC wird engmaschig beobachtet, da +6,67% nahe an der etablierten Zielspanne (7-9%) liegt; bei weiterem Anstieg im naechsten Lauf voraussichtliche Gewinnmitnahme. Freies Kapital bleibt reichlich vorhanden (~46.500 EUR), aber ohne ueberzeugende Einzeltitel- oder Markt-Sondersituation (breiter Renditen-Abverkauf bei Aktien, ueberkaufte/konsolidierende Krypto-Breakouts) wird laut Vorgabe abgewartet.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
@@ -6138,7 +6138,7 @@
       "pos-0020",
       "pos-0021"
     ],
-    "portfolioValueEnd": 3289.09,
+    "portfolioValueEnd": 3390.47,
     "updates": [
       {
         "time": "00:08",
@@ -6239,6 +6239,11 @@
         "time": "19:07",
         "note": "Keine Aenderung. Breiter Krypto-Ruecksetzer: BTC auf 83.926 USD aktualisiert (pos-0016 +3,61%, pos-0018 -1,30%), HYPE auf 92,58 USD (-1,86%), DOGE auf 0,092187 USD (-6,41%, naehert sich Stop-Loss-Zone), BCH auf 350,70 USD (+3,15%, CME-Futures-Rally haelt an). Kein Trade: keine Position erreicht Zielspanne oder eindeutig Stop-Loss, Ruecksetzer laut Marktkommentaren eine Abkuehlung der Short-Squeeze-Rally, keine fundamentale Wende; US-Aktienmarkt im breiten Abverkauf ohne Einzeltitel-Katalysator.",
         "portfolioValue": 3289.09
+      },
+      {
+        "time": "20:08",
+        "note": "Keine Aenderung. BTC auf 86.400 USD erholt (pos-0016 +6,67%, naehert sich Zielspanne; pos-0018 +1,61%), HYPE auf 95,50 USD (+1,24%), DOGE auf 0,09921 USD erholt (+0,72%, aus Stop-Loss-Naehe heraus), BCH auf 348,00 USD (+2,36%). Kein Trade: keine Position erreicht Zielspanne oder Stop-Loss, US-Aktienmarkt im breiten Renditen-Abverkauf ohne Einzeltitel-Katalysator, XRP-Breakout bereits ueberkauft.",
+        "portfolioValue": 3390.47
       }
     ]
   }
