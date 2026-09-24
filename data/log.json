@@ -6264,9 +6264,9 @@
   },
   {
     "date": "2026-09-24",
-    "marketOverview": "Risk-off haelt am Abend an: US-Indizes bleiben im Minus (S&P 500 -0,76% auf 7.706, Dow -1,03% auf 51.512, Nasdaq -0,69% auf 26.936), getrieben von weiter steigenden Anleiherenditen (10-Jahres-Rendite ca. 5,14%) und wachsenden Fed-Zinserhoehungs-Erwartungen fuer Oktober (~69-70%). Brent Crude klettert weiter auf 102,21 USD (+3,34% 24h) im Zuge der anhaltenden Hormuz-Blockade (Tag 207, kaum Schiffsverkehr). Bitcoin haelt sich stabil um 83.993 USD nach der Abweisung bei ueber 87.000 USD, HYPE gibt nach starkem ATH-Lauf weiter nach (-3,6% seit Kauf), BCH konsolidiert nach dem CME-Futures-Ausbruch (-7,8% in 24h laut CoinGecko).",
-    "decision": "Kein Trade im 20:07-Lauf (21. Lauf des Tages). Tagesbudget fuer den 24.09. bereits um 00:08 gutgeschrieben. Kurse aller offenen Positionen aktualisiert: BTC (pos-0016 +3,70%, pos-0018 -1,23%), HYPE (pos-0019 -3,60%), BCH (pos-0021 -2,12%). Keine Position hat eine Stop-Loss- oder Take-Profit-Schwelle erreicht. Zuvor im Tagesverlauf: DOGE per Stop-Loss bei -6,50% verkauft (15:08).",
-    "reasoning": "Anhaltend risikoaverses Makroumfeld ohne neuen, mehrfach unabhaengig bestaetigten Katalysator seit dem letzten Lauf (19:11). Der Brent-Anstieg (+3,34% 24h auf 102,21 USD) ist lediglich Fortsetzung der bereits zweimal gehandelten und beide Male mit Stop-Loss bzw. Take-Profit beendeten Hormuz-These ohne erkennbare neue Eskalationsstufe - kein ausreichend frischer Katalysator fuer eine dritte Position. Alle vier offenen Positionen bewegen sich innerhalb der Bandbreite (BTC +3,7%/-1,2%, HYPE -3,6%, BCH -2,1%), keine nahe der Stop-Loss- (-6,5% bis -7,5%) oder Take-Profit-Schwelle (+7% bis +9%). Freies Kapital von rund 48.068 EUR bleibt mangels ueberzeugender Gelegenheit ungenutzt.",
+    "marketOverview": "Risk-off haelt an: US-10-Jahres-Rendite bei ca. 5,14% (19-Jahres-Hoch), Fed-Vertreter Williams und Paulson signalisieren weitere Zinserhoehungen moeglich (~69% Wahrscheinlichkeit fuer Oktober laut CME FedWatch). S&P 500 knapp behauptet um 7.699-7.706 Punkte. Brent Crude bei 102,21 USD (+3,34% 24h) im Zuge der anhaltenden Hormuz-Blockade (Tag 207, kaum Schiffsverkehr, ein Tanker vor der Strasse beschossen). Krypto-Gesamtmarkt leicht schwaecher (-2,6% 24h, Fear&Greed weiter bei 71/Greed): Bitcoin stabil um 83.993-84.092 USD, HYPE nach ATH-Lauf weiter leicht schwaecher (~90,93 USD), BCH stabil um 332,77 USD nach dem CME-Futures-Ausbruch.",
+    "decision": "Kein Trade im 21:09-Lauf (22. Lauf des Tages). Tagesbudget fuer den 24.09. bereits um 00:08 gutgeschrieben. Kurse aller offenen Positionen geprueft, gegenueber dem 20:07-Lauf unveraendert (BTC pos-0016 +3,70%, pos-0018 -1,23%, HYPE pos-0019 -3,60%, BCH pos-0021 -2,12%). Keine Position hat eine Stop-Loss- oder Take-Profit-Schwelle erreicht. Zuvor im Tagesverlauf: DOGE per Stop-Loss bei -6,50% verkauft (15:08).",
+    "reasoning": "Seit dem letzten Lauf (20:07) keine relevante Kursbewegung bei den offenen Positionen und kein neuer, mehrfach unabhaengig bestaetigter Katalysator. Die Hormuz-/Brent-These bleibt unveraendert (weiterhin keine neue Eskalationsstufe, Diplomatie zwischen Iran und den USA laeuft laut Berichten weiter, aber ohne Ergebnis) und wurde bereits zweimal gehandelt (Take-Profit bzw. Stop-Loss). Krypto-Gesamtmarkt leicht risikoavers (-2,6% 24h) ohne klaren neuen Einzelausloeser (Raydium/Bittensor-Bewegungen sind nur schwach bestaetigt und nicht signifikant genug). Alle vier offenen Positionen bewegen sich weiterhin innerhalb der Bandbreite, keine nahe der Stop-Loss- (-6,5% bis -7,5%) oder Take-Profit-Schwelle (+7% bis +9%). Freies Kapital von rund 48.068 EUR bleibt mangels ueberzeugender Gelegenheit ungenutzt; US-Aktienmarkt schliesst in Kuerze (22:00 MESZ), kein Grund fuer einen kurzfristigen Einstieg mehr in den letzten Handelsminuten.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
@@ -6379,6 +6379,11 @@
       {
         "time": "20:07",
         "note": "Keine Aenderung. BTC stabil bei 83.993 USD (pos-0016 +3,70%, pos-0018 -1,23%), HYPE weiter schwaecher auf 90,93 USD (-3,60%, CoinGecko), BCH auf 332,77 USD (-2,12%, -7,8% in 24h laut CoinGecko). Keine Schwelle erreicht, kein neuer bestaetigter Katalysator (Brent +3,34% 24h auf 102,21 USD ist Fortsetzung der bereits zweimal gehandelten Hormuz-These ohne neue Eskalation), US-Aktienmarkt weiter im Minus (Renditen auf Mehrjahrzehnte-Hoch).",
+        "portfolioValue": 2686.61
+      },
+      {
+        "time": "21:09",
+        "note": "Keine Aenderung. BTC stabil bei 83.993 USD (pos-0016 +3,70%, pos-0018 -1,23%), HYPE stabil bei 90,93 USD (-3,60%), BCH stabil bei 332,77 USD (-2,12%). Keine Schwelle erreicht, kein neuer bestaetigter Katalysator seit dem 20:07-Lauf, Hormuz-Diplomatie ohne Ergebnis, US-Aktienmarkt vor Handelsschluss (22:00 MESZ) weiter im Minus.",
         "portfolioValue": 2686.61
       }
     ]
