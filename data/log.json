@@ -6264,9 +6264,9 @@
   },
   {
     "date": "2026-09-24",
-    "marketOverview": "Breiter, aber nicht dramatischer Krypto-Abverkauf in der Nacht auf den 24.09.: BTC bei ca. 84.524 USD (-2,1% in 24h), ETH 2.688 USD (-2,7%), SOL 115,10 USD (-3,3%), XRP 1,50 USD (-4,9%), AVAX 10,31 USD (-9,2%), DOGE 0,0927 USD (-8,3%), HYPE 93,99 USD (-3,8%), BCH 337,39 USD (-1,3%). Die Bewegung wirkt wie ein generelles Risk-off/Gewinnmitnahme nach der starken Rally der Vorwoche (BTC nahe Januar-Hoch, HYPE-Allzeithoch, BCH-CME-Futures-Rally) und nicht wie eine einzelne, neue fundamentale Nachricht. Aktien-, ETF- und Rohstoffmaerkte sind um diese Nachtzeit (01:xx MESZ) geschlossen.",
-    "decision": "Kein Trade in diesem Lauf (01:10 MESZ). Tagesbudget fuer den 24.09. wurde bereits im vorherigen Lauf (00:08) gutgeschrieben. Kurse aller offenen Positionen aktualisiert.",
-    "reasoning": "Der breite Krypto-Rueckgang betrifft praktisch alle Assetklassen gleichzeitig ohne klar erkennbaren, unabhaengig bestaetigten Einzelausloeser - passt damit nicht in das bisher erfolgreiche Muster (Dip-Kauf nach eindeutigem, ueberzogenem Sell-the-news bei einem einzelnen Titel). Keine offene Position hat die etablierte Stop-Loss-Schwelle von ca. -6,5 bis -7,5% erreicht (DOGE mit -5,88% am naechsten). Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten. Daher bewusst kein Kauf und kein Verkauf in diesem Lauf.",
+    "marketOverview": "Makro-getriebener Risk-off setzt sich fort: Die 10-jaehrige US-Staatsanleihenrendite stieg am 23.09. erstmals seit 19 Jahren ueber 5%, nachdem starke September-PMI-Daten die Erwartung eines weiteren Fed-Zinsschritts erhoehten (CryptoSlate, Benzinga, TradingView). Bitcoin haelt sich bei ca. 84.400 USD (unter dem gescheiterten 87.000-USD-Widerstand), Analysten sehen eine neue Handelsspanne 80.000-95.000 USD. Innerhalb der Krypto-Positionen zeigt sich kein einheitliches Bild mehr: DOGE (+1,0%) und BCH (+2,3%) erholen sich leicht, HYPE (-0,85%) und BTC-Zweitposition (-0,75%) leicht schwaecher. Aktien-, ETF- und Rohstoffmaerkte sind um diese Nachtzeit (02:xx MESZ) weiterhin geschlossen.",
+    "decision": "Kein Trade in diesem Lauf (02:08 MESZ). Tagesbudget fuer den 24.09. wurde bereits im Lauf um 00:08 gutgeschrieben. Kurse aller offenen Positionen aktualisiert.",
+    "reasoning": "Keine offene Position erreicht die etablierte Take-Profit- (7-9%) oder Stop-Loss-Schwelle (-6,5 bis -7,5%); die Bewegungen seit dem letzten Lauf sind gering (BTC pos-0016 +4,20%, BTC pos-0018 -0,75%, HYPE -0,85%, DOGE +1,02%, BCH +2,26%). Der dominante frische Makro-Katalysator (19-Jahres-Hoch bei US-Renditen) ist ein Risiko- statt Kaufsignal und spricht gegen neue spekulative Krypto-Positionen. Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten. Daher bewusst kein Kauf und kein Verkauf in diesem Lauf.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
@@ -6274,7 +6274,7 @@
       "pos-0020",
       "pos-0021"
     ],
-    "portfolioValueEnd": 3288.56,
+    "portfolioValueEnd": 3342.92,
     "updates": [
       {
         "time": "00:08",
@@ -6285,6 +6285,11 @@
         "time": "01:10",
         "note": "Keine Aenderung. Breiter Krypto-Risk-off (BTC -2,1%, DOGE -8,3%, AVAX -9,2% in 24h), kein klarer Einzelausloeser, keine Position erreicht Stop-Loss (DOGE pos-0020 am naechsten mit -5,88%). Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten.",
         "portfolioValue": 3288.56
+      },
+      {
+        "time": "02:08",
+        "note": "Keine Aenderung. US-10-Jahres-Rendite auf 19-Jahres-Hoch (>5%) sorgt fuer anhaltenden Makro-Risk-off; BTC stabil bei ca. 84.400 USD, DOGE (+1,0%) und BCH (+2,3%) leicht erholt, HYPE (-0,85%) leicht schwaecher. Keine Position an Schwelle, Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten.",
+        "portfolioValue": 3342.92
       }
     ]
   }
