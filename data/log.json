@@ -6264,9 +6264,9 @@
   },
   {
     "date": "2026-09-24",
-    "marketOverview": "Kein neuer bestaetigter Einzelkatalysator seit dem letzten Lauf; Makro-Risk-off haelt an (US-10-Jahres-Rendite weiter nahe 19-Jahres-Hoch >5%). Bitcoin stabil bei ca. 84.360 USD (ETF-Zuflüsse zuletzt stark, 999 Mio. USD am 21.09.), Krypto-Gesamtmarkt auf Wochensicht weiter im Plus (HYPE +23,4% 7d, DOGE, BCH +61% 7d dank CME-Futures-Ankuendigung). Im Fokus heute: Trump-Xi-Treffen im Weissen Haus, moegliche Volatilitaet im Tagesverlauf. Aktien-, ETF- und Rohstoffmaerkte weiterhin ausserhalb der Handelszeiten (04:xx MESZ).",
-    "decision": "Kein Trade in diesem Lauf (04:08 MESZ). Tagesbudget fuer den 24.09. bereits um 00:08 gutgeschrieben. Kurse aller offenen Positionen aktualisiert.",
-    "reasoning": "Keine offene Position erreicht die etablierte Take-Profit- (7-9%) oder Stop-Loss-Schwelle (-6,5 bis -7,5%): BTC pos-0016 +4,15%, BTC pos-0018 -0,79%, HYPE +1,77%, DOGE +1,08%, BCH +2,26%. Seit dem letzten Lauf ist kein frischer, unabhaengig bestaetigter Katalysator hinzugekommen (Preise fuer HYPE und BCH unveraendert, BTC/DOGE nur marginal bewegt). Das anstehende Trump-Xi-Treffen ist ein moeglicher Volatilitaetstreiber, aber noch kein eingetretenes, handelbares Ereignis. Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten. Daher bewusst kein Kauf und kein Verkauf in diesem Lauf.",
+    "marketOverview": "Kein frischer, mehrfach unabhaengig bestaetigter Einzelkatalysator seit dem letzten Lauf. Bitcoin leicht schwaecher bei ca. 84.350 USD (-2 bis -3% in 24h laut CoinDesk), HYPE bei 93,53 USD nach ATH von 97,99 USD am Vortag leicht zurueckgekommen, DOGE stabil um 0,099 USD, BCH weiter bei ca. 350 USD nach dem CME-Futures-Ausbruch. Berichte ueber eine breite Altcoin-Rally (UNI, NEAR, ZEC) sind widerspruechlich datiert und nicht zuverlaessig als aktuelles Ereignis bestaetigbar. Aktien-, ETF- und Rohstoffmaerkte weiterhin ausserhalb der Handelszeiten (05:xx MESZ).",
+    "decision": "Kein Trade in diesem Lauf (05:07 MESZ). Tagesbudget fuer den 24.09. bereits um 00:08 gutgeschrieben. Kurse aller offenen Positionen aktualisiert.",
+    "reasoning": "Keine offene Position erreicht die etablierte Take-Profit- (7-9%) oder Stop-Loss-Schwelle (-6,5 bis -7,5%): BTC pos-0016 +4,14%, BTC pos-0018 -0,81%, HYPE -0,85%, DOGE +0,81%, BCH +3,09%. Die kursierenden Meldungen zu einer breiten Altcoin-Rally (UNI +31%, NEAR +26%, ZEC +10%) konnten nicht mit einem konsistenten, aktuellen Zeitstempel bestaetigt werden (widerspruechliche BTC-Preisangaben je nach Quelle) und werden daher nicht als handelbare Gelegenheit gewertet. Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten. Daher bewusst kein Kauf und kein Verkauf in diesem Lauf.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
@@ -6274,7 +6274,7 @@
       "pos-0020",
       "pos-0021"
     ],
-    "portfolioValueEnd": 3358.28,
+    "portfolioValueEnd": 3345.78,
     "updates": [
       {
         "time": "00:08",
@@ -6300,6 +6300,11 @@
         "time": "04:08",
         "note": "Keine Aenderung. BTC stabil bei 84.360 USD (pos-0016 +4,15%, pos-0018 -0,79%), HYPE unveraendert bei 96,00 USD (+1,77%), DOGE leicht auf 0,09956 USD (+1,08%), BCH unveraendert bei 347,68 USD (+2,26%). Kein Trade: keine Position an Schwelle, kein neuer Katalysator, Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten.",
         "portfolioValue": 3358.28
+      },
+      {
+        "time": "05:07",
+        "note": "Keine Aenderung. BTC leicht schwaecher auf 84.350 USD (pos-0016 +4,14%, pos-0018 -0,81%), HYPE auf 93,53 USD (-0,85%) nach ATH-Rueckgang, DOGE stabil 0,0993 USD (+0,81%), BCH bei 350,50 USD (+3,09%). Keine Position an Schwelle, keine ausreichend bestaetigte neue Gelegenheit (widerspruechliche Altcoin-Rally-Meldungen), Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten.",
+        "portfolioValue": 3345.78
       }
     ]
   }
