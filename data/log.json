@@ -6397,5 +6397,25 @@
         "portfolioValue": 2686.61
       }
     ]
+  },
+  {
+    "date": "2026-09-25",
+    "marketOverview": "Kryptomarkt bleibt in der Nacht auf Freitag risikoavers: Bitcoin pendelt stabil um 84.000-84.400 USD (nach kurzem Test der 87.000-USD-Marke am Mittwoch, jetzt Unterstuetzung bei 83.600-83.800 USD), Hyperliquid unveraendert bei 90,93 USD, Bitcoin Cash leicht erholt auf ca. 335 USD. Treiber bleibt der starke US-PMI (58,4, schnellstes Wachstum seit 2021), der die Erwartung einer weiteren Fed-Zinserhoehung im Oktober auf rund 69,7% (CME) treibt und Risikoassets belastet. Aktien/ETFs/Rohstoffe sind ausserhalb der US-Handelszeiten nicht handelbar.",
+    "decision": "Keine Trades. Tagesbudget von 1.000 EUR fuer den 25.09. gutgeschrieben. Alle vier offenen Positionen (BTC pos-0016 +3,77%, BTC pos-0018 -1,16%, HYPE pos-0019 -3,60%, BCH pos-0021 -1,47%) bewegen sich innerhalb der ueblichen Schwankungsbreite ohne Take-Profit- oder Stop-Loss-Schwelle.",
+    "reasoning": "Kein neuer bestaetigter Katalysator seit dem letzten Lauf (23:09 Vortag). Der Kryptomarkt bleibt naechtlich risikoavers (hohe Fed-Zinserhoehungs-Erwartungen, staerkere PMI-Daten), keine der offenen Positionen hat eine Handlungsschwelle erreicht. Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten nicht handelbar, daher bewusst keine neue Position trotz hohem freiem Kapital (~49.068 EUR) - abgewartet wird eine wirklich ueberzeugende Gelegenheit.",
+    "positionIds": [
+      "pos-0016",
+      "pos-0018",
+      "pos-0019",
+      "pos-0021"
+    ],
+    "portfolioValueEnd": 2691.57,
+    "updates": [
+      {
+        "time": "00:08",
+        "note": "Keine Aenderung. Tagesbudget 1.000 EUR gutgeschrieben. BTC stabil bei ca. 84.050 USD (pos-0016 +3,77%, pos-0018 -1,16%), HYPE unveraendert bei 90,93 USD (-3,60%), BCH leicht fester auf 335,00 USD (-1,47%). Keine Schwelle erreicht, Markt weiter risikoavers (hohe Fed-Zinserhoehungs-Erwartungen), Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten.",
+        "portfolioValue": 2691.57
+      }
+    ]
   }
 ]
