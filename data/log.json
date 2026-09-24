@@ -6264,9 +6264,9 @@
   },
   {
     "date": "2026-09-24",
-    "marketOverview": "Kryptomarkt bleibt risikoavers: Bitcoin faellt weiter auf ca. 83.993 USD (-2,1% ggue. Vortag), nachdem der US-September-PMI mit 58,4 das schnellste Wachstum seit 2021 zeigte und die Fed-Zinserhoehungs-Erwartungen fuer Oktober auf rund 69,7% (CME) trieb. HYPE (-3,6%) und BCH (-2,1%) konsolidieren nach den starken Vortagesbewegungen (NYSE/ICE-Tokenisierungsnews bzw. CME-Futures-Ankuendigung) weiter seitwaerts. US-Boersen sind seit 22:00 MESZ geschlossen, europaeische Boersen sind bereits seit dem Nachmittag zu.",
-    "decision": "Verkauf DOGE 600 EUR per Stop-Loss um 15:08 (-38,98 EUR, -6,50%). Ansonsten den ganzen Tag ueber keine weiteren Trades: BTC-Positionen (pos-0016 +3,70%, pos-0018 -1,23%), HYPE (pos-0019 -3,60%) und BCH (pos-0021 -2,12%) bewegen sich seit den Nachmittagsstunden kaum noch und haben keine Take-Profit- oder Stop-Loss-Schwelle erreicht. Kein neuer, mehrfach bestaetigter Katalysator seit dem 21:09-Lauf.",
-    "reasoning": "Nach dem DOGE-Stop-Loss um 15:08 blieb der Markt den restlichen Tag in einem risikoaversen, weitgehend richtungslosen Zustand (starke US-PMI-Daten erhoehen Zinserhoehungs-Erwartungen, US-Aktienmaerkte den ganzen Nachmittag im Minus). Keine der vier verbleibenden offenen Positionen hat seit Stunden eine Take-Profit- oder Stop-Loss-Schwelle erreicht; ohne einen frischen, mehrfach unabhaengig bestaetigten Katalysator wird passend zum spekulativen, aber diszipliniert regelbasierten Profil auf weitere Trades verzichtet.",
+    "marketOverview": "Kryptomarkt setzt die breite Korrektur fort: Bitcoin notiert bei ca. 83.993 USD (-2,5% in 24h), Ethereum -2,8%, insgesamt rund 425 Mio. USD Liquidationen ueber Nacht (u.a. Dash -9%, Zcash -10,9%, VeChain -7,5%). Ausloeser bleibt makrooekonomisch (steigende Anleiherenditen, Fed-Zinserhoehungs-Erwartungen fuer Oktober auf rund 75%). HYPE (90,93 USD) und BCH (332,77 USD) konsolidieren weiter seitwaerts ohne neue eigene Katalysatoren. US- und europaeische Boersen sind seit den Abendstunden geschlossen.",
+    "decision": "Verkauf DOGE 600 EUR per Stop-Loss um 15:08 (-38,98 EUR, -6,50%). Ansonsten den ganzen Tag ueber keine weiteren Trades: BTC-Positionen (pos-0016 +3,69%, pos-0018 -1,23%), HYPE (pos-0019 -3,60%) und BCH (pos-0021 -2,12%) bewegen sich seit dem Nachmittag kaum noch und haben keine Take-Profit- oder Stop-Loss-Schwelle erreicht. Auch im 23:09-Lauf kein neuer, mehrfach bestaetigter Katalysator - der breite Krypto-Risk-off (425 Mio. USD Liquidationen) bietet keine ueberzeugende, spezifisch auf unsere Positionen bezogene Chance.",
+    "reasoning": "Der Markt bleibt bis in die spaeten Abendstunden risikoavers (staerkere US-PMI-Daten, hohe Zinserhoehungs-Erwartungen, breite Altcoin-Liquidationswelle). Keine der vier verbleibenden offenen Positionen hat seit Stunden eine Take-Profit- oder Stop-Loss-Schwelle erreicht, und der aktuelle marktweite Ausverkauf ist ein diffuses Makro-Risiko ohne einzelnen, mehrfach unabhaengig bestaetigten Katalysator fuer eine neue Position - passend zum spekulativen, aber diszipliniert regelbasierten Profil wird daher weiterhin auf Trades verzichtet.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
@@ -6389,6 +6389,11 @@
       {
         "time": "22:11",
         "note": "Keine Aenderung. BTC stabil bei 83.993 USD (pos-0016 +3,70%, pos-0018 -1,23%), HYPE stabil bei 90,93 USD (-3,60%), BCH stabil bei 332,77 USD (-2,12%). Keine Schwelle erreicht, kein neuer bestaetigter Katalysator seit dem 21:09-Lauf. US-PMI staerker als erwartet (58,4) erhoeht Fed-Zinserhoehungs-Erwartungen (CME 69,7% fuer Oktober-Hike) - Markt bleibt risikoavers. US-Boerse seit 22:00 MESZ geschlossen, nur Krypto handelbar.",
+        "portfolioValue": 2686.61
+      },
+      {
+        "time": "23:09",
+        "note": "Keine Aenderung. Breite Krypto-Korrektur haelt an (BTC -2,5% in 24h, marktweite Liquidationen ~425 Mio. USD), BTC/HYPE/BCH-Positionen ohne wesentliche Kursbewegung seit dem 22:11-Lauf, keine Schwelle erreicht. Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten.",
         "portfolioValue": 2686.61
       }
     ]
