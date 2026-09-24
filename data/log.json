@@ -6264,9 +6264,9 @@
   },
   {
     "date": "2026-09-24",
-    "marketOverview": "Makro-getriebener Risk-off setzt sich fort: Die 10-jaehrige US-Staatsanleihenrendite stieg am 23.09. erstmals seit 19 Jahren ueber 5%, nachdem starke September-PMI-Daten die Erwartung eines weiteren Fed-Zinsschritts erhoehten (CryptoSlate, Benzinga, TradingView). Bitcoin haelt sich bei ca. 84.400 USD (unter dem gescheiterten 87.000-USD-Widerstand), Analysten sehen eine neue Handelsspanne 80.000-95.000 USD. Innerhalb der Krypto-Positionen zeigt sich kein einheitliches Bild mehr: DOGE (+1,0%) und BCH (+2,3%) erholen sich leicht, HYPE (-0,85%) und BTC-Zweitposition (-0,75%) leicht schwaecher. Aktien-, ETF- und Rohstoffmaerkte sind um diese Nachtzeit (02:xx MESZ) weiterhin geschlossen.",
-    "decision": "Kein Trade in diesem Lauf (02:08 MESZ). Tagesbudget fuer den 24.09. wurde bereits im Lauf um 00:08 gutgeschrieben. Kurse aller offenen Positionen aktualisiert.",
-    "reasoning": "Keine offene Position erreicht die etablierte Take-Profit- (7-9%) oder Stop-Loss-Schwelle (-6,5 bis -7,5%); die Bewegungen seit dem letzten Lauf sind gering (BTC pos-0016 +4,20%, BTC pos-0018 -0,75%, HYPE -0,85%, DOGE +1,02%, BCH +2,26%). Der dominante frische Makro-Katalysator (19-Jahres-Hoch bei US-Renditen) ist ein Risiko- statt Kaufsignal und spricht gegen neue spekulative Krypto-Positionen. Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten. Daher bewusst kein Kauf und kein Verkauf in diesem Lauf.",
+    "marketOverview": "Makro-Risk-off haelt an: US-10-Jahres-Rendite bei ueber 5% (19-Jahres-Hoch) nach starken September-PMI-Daten, was Fed-Zinssorgen schuert und risikoreiche Assets belastet (Benzinga, BeInCrypto, Yahoo Finance, mehrfach unabhaengig bestaetigt). Bitcoin haelt sich bei ca. 84.500 USD. Dennoch bleibt der Krypto-Gesamtmarkt auf Wochensicht klar im Plus (Gesamtmarkt +13,4% laut CoinGecko): HYPE +23,4% 7d (SEC Innovation Exemption fuer On-Chain-Aktienhandel), DOGE +24,3% 7d, BCH +61,3% 7d (CME-Futures-Ankuendigung). Kein neuer, ueber die bereits gehandelten Kataloge hinausgehender Katalysator identifiziert. Aktien-, ETF- und Rohstoffmaerkte sind um diese Nachtzeit (03:xx MESZ) weiterhin geschlossen.",
+    "decision": "Kein Trade in diesem Lauf (03:08 MESZ). Tagesbudget fuer den 24.09. wurde bereits um 00:08 gutgeschrieben. Kurse aller offenen Positionen aktualisiert.",
+    "reasoning": "Keine offene Position erreicht die etablierte Take-Profit- (7-9%) oder Stop-Loss-Schwelle (-6,5 bis -7,5%): BTC pos-0016 +4,32%, BTC pos-0018 -0,63%, HYPE +1,77%, DOGE +0,97%, BCH +2,26%. Trotz starker Wochenperformance der Altcoins (HYPE/DOGE/BCH) ist seit dem letzten Lauf kein frischer, unabhaengig bestaetigter Einzelkatalysator hinzugekommen, der eine neue spekulative Position rechtfertigen wuerde; der dominante Makro-Treiber (19-Jahres-Hoch bei US-Renditen) bleibt ein Risiko- statt ein Kaufsignal. Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten. Daher bewusst kein Kauf und kein Verkauf in diesem Lauf.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
@@ -6274,7 +6274,7 @@
       "pos-0020",
       "pos-0021"
     ],
-    "portfolioValueEnd": 3342.92,
+    "portfolioValueEnd": 3360.21,
     "updates": [
       {
         "time": "00:08",
@@ -6290,6 +6290,11 @@
         "time": "02:08",
         "note": "Keine Aenderung. US-10-Jahres-Rendite auf 19-Jahres-Hoch (>5%) sorgt fuer anhaltenden Makro-Risk-off; BTC stabil bei ca. 84.400 USD, DOGE (+1,0%) und BCH (+2,3%) leicht erholt, HYPE (-0,85%) leicht schwaecher. Keine Position an Schwelle, Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten.",
         "portfolioValue": 3342.92
+      },
+      {
+        "time": "03:08",
+        "note": "Keine Aenderung. BTC bei 84.500 USD (pos-0016 +4,32%, pos-0018 -0,63%), HYPE auf 96,00 USD (+1,77%), DOGE auf 0,09946 USD (+0,97%), BCH stabil bei 347,68 USD (+2,26%). Kein Trade: keine Position an Schwelle, kein frischer Katalysator trotz starker Wochenperformance der Altcoins, Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten.",
+        "portfolioValue": 3360.21
       }
     ]
   }
