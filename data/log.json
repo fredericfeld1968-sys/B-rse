@@ -6264,9 +6264,9 @@
   },
   {
     "date": "2026-09-24",
-    "marketOverview": "Risk-off haelt an: US-10-Jahres-Rendite bei ca. 5,14% (19-Jahres-Hoch), Fed-Vertreter Williams und Paulson signalisieren weitere Zinserhoehungen moeglich (~69% Wahrscheinlichkeit fuer Oktober laut CME FedWatch). S&P 500 knapp behauptet um 7.699-7.706 Punkte. Brent Crude bei 102,21 USD (+3,34% 24h) im Zuge der anhaltenden Hormuz-Blockade (Tag 207, kaum Schiffsverkehr, ein Tanker vor der Strasse beschossen). Krypto-Gesamtmarkt leicht schwaecher (-2,6% 24h, Fear&Greed weiter bei 71/Greed): Bitcoin stabil um 83.993-84.092 USD, HYPE nach ATH-Lauf weiter leicht schwaecher (~90,93 USD), BCH stabil um 332,77 USD nach dem CME-Futures-Ausbruch.",
-    "decision": "Kein Trade im 21:09-Lauf (22. Lauf des Tages). Tagesbudget fuer den 24.09. bereits um 00:08 gutgeschrieben. Kurse aller offenen Positionen geprueft, gegenueber dem 20:07-Lauf unveraendert (BTC pos-0016 +3,70%, pos-0018 -1,23%, HYPE pos-0019 -3,60%, BCH pos-0021 -2,12%). Keine Position hat eine Stop-Loss- oder Take-Profit-Schwelle erreicht. Zuvor im Tagesverlauf: DOGE per Stop-Loss bei -6,50% verkauft (15:08).",
-    "reasoning": "Seit dem letzten Lauf (20:07) keine relevante Kursbewegung bei den offenen Positionen und kein neuer, mehrfach unabhaengig bestaetigter Katalysator. Die Hormuz-/Brent-These bleibt unveraendert (weiterhin keine neue Eskalationsstufe, Diplomatie zwischen Iran und den USA laeuft laut Berichten weiter, aber ohne Ergebnis) und wurde bereits zweimal gehandelt (Take-Profit bzw. Stop-Loss). Krypto-Gesamtmarkt leicht risikoavers (-2,6% 24h) ohne klaren neuen Einzelausloeser (Raydium/Bittensor-Bewegungen sind nur schwach bestaetigt und nicht signifikant genug). Alle vier offenen Positionen bewegen sich weiterhin innerhalb der Bandbreite, keine nahe der Stop-Loss- (-6,5% bis -7,5%) oder Take-Profit-Schwelle (+7% bis +9%). Freies Kapital von rund 48.068 EUR bleibt mangels ueberzeugender Gelegenheit ungenutzt; US-Aktienmarkt schliesst in Kuerze (22:00 MESZ), kein Grund fuer einen kurzfristigen Einstieg mehr in den letzten Handelsminuten.",
+    "marketOverview": "Kryptomarkt bleibt risikoavers: Bitcoin faellt weiter auf ca. 83.993 USD (-2,1% ggue. Vortag), nachdem der US-September-PMI mit 58,4 das schnellste Wachstum seit 2021 zeigte und die Fed-Zinserhoehungs-Erwartungen fuer Oktober auf rund 69,7% (CME) trieb. HYPE (-3,6%) und BCH (-2,1%) konsolidieren nach den starken Vortagesbewegungen (NYSE/ICE-Tokenisierungsnews bzw. CME-Futures-Ankuendigung) weiter seitwaerts. US-Boersen sind seit 22:00 MESZ geschlossen, europaeische Boersen sind bereits seit dem Nachmittag zu.",
+    "decision": "Verkauf DOGE 600 EUR per Stop-Loss um 15:08 (-38,98 EUR, -6,50%). Ansonsten den ganzen Tag ueber keine weiteren Trades: BTC-Positionen (pos-0016 +3,70%, pos-0018 -1,23%), HYPE (pos-0019 -3,60%) und BCH (pos-0021 -2,12%) bewegen sich seit den Nachmittagsstunden kaum noch und haben keine Take-Profit- oder Stop-Loss-Schwelle erreicht. Kein neuer, mehrfach bestaetigter Katalysator seit dem 21:09-Lauf.",
+    "reasoning": "Nach dem DOGE-Stop-Loss um 15:08 blieb der Markt den restlichen Tag in einem risikoaversen, weitgehend richtungslosen Zustand (starke US-PMI-Daten erhoehen Zinserhoehungs-Erwartungen, US-Aktienmaerkte den ganzen Nachmittag im Minus). Keine der vier verbleibenden offenen Positionen hat seit Stunden eine Take-Profit- oder Stop-Loss-Schwelle erreicht; ohne einen frischen, mehrfach unabhaengig bestaetigten Katalysator wird passend zum spekulativen, aber diszipliniert regelbasierten Profil auf weitere Trades verzichtet.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
@@ -6384,6 +6384,11 @@
       {
         "time": "21:09",
         "note": "Keine Aenderung. BTC stabil bei 83.993 USD (pos-0016 +3,70%, pos-0018 -1,23%), HYPE stabil bei 90,93 USD (-3,60%), BCH stabil bei 332,77 USD (-2,12%). Keine Schwelle erreicht, kein neuer bestaetigter Katalysator seit dem 20:07-Lauf, Hormuz-Diplomatie ohne Ergebnis, US-Aktienmarkt vor Handelsschluss (22:00 MESZ) weiter im Minus.",
+        "portfolioValue": 2686.61
+      },
+      {
+        "time": "22:11",
+        "note": "Keine Aenderung. BTC stabil bei 83.993 USD (pos-0016 +3,70%, pos-0018 -1,23%), HYPE stabil bei 90,93 USD (-3,60%), BCH stabil bei 332,77 USD (-2,12%). Keine Schwelle erreicht, kein neuer bestaetigter Katalysator seit dem 21:09-Lauf. US-PMI staerker als erwartet (58,4) erhoeht Fed-Zinserhoehungs-Erwartungen (CME 69,7% fuer Oktober-Hike) - Markt bleibt risikoavers. US-Boerse seit 22:00 MESZ geschlossen, nur Krypto handelbar.",
         "portfolioValue": 2686.61
       }
     ]
