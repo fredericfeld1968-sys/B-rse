@@ -6264,9 +6264,9 @@
   },
   {
     "date": "2026-09-24",
-    "marketOverview": "Kein frischer, mehrfach unabhaengig bestaetigter Einzelkatalysator seit dem letzten Lauf. Bitcoin leicht schwaecher bei ca. 84.350 USD (-2 bis -3% in 24h laut CoinDesk), HYPE bei 93,53 USD nach ATH von 97,99 USD am Vortag leicht zurueckgekommen, DOGE stabil um 0,099 USD, BCH weiter bei ca. 350 USD nach dem CME-Futures-Ausbruch. Berichte ueber eine breite Altcoin-Rally (UNI, NEAR, ZEC) sind widerspruechlich datiert und nicht zuverlaessig als aktuelles Ereignis bestaetigbar. Aktien-, ETF- und Rohstoffmaerkte weiterhin ausserhalb der Handelszeiten (05:xx MESZ).",
-    "decision": "Kein Trade in diesem Lauf (05:07 MESZ). Tagesbudget fuer den 24.09. bereits um 00:08 gutgeschrieben. Kurse aller offenen Positionen aktualisiert.",
-    "reasoning": "Keine offene Position erreicht die etablierte Take-Profit- (7-9%) oder Stop-Loss-Schwelle (-6,5 bis -7,5%): BTC pos-0016 +4,14%, BTC pos-0018 -0,81%, HYPE -0,85%, DOGE +0,81%, BCH +3,09%. Die kursierenden Meldungen zu einer breiten Altcoin-Rally (UNI +31%, NEAR +26%, ZEC +10%) konnten nicht mit einem konsistenten, aktuellen Zeitstempel bestaetigt werden (widerspruechliche BTC-Preisangaben je nach Quelle) und werden daher nicht als handelbare Gelegenheit gewertet. Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten. Daher bewusst kein Kauf und kein Verkauf in diesem Lauf.",
+    "marketOverview": "Breiter Krypto-Risk-off am fruehen Morgen: BTC faellt auf ca. 83.864 USD (-3,3% in 24h), HYPE auf 91,48 USD (-5,6%), DOGE auf 0,0931 USD (-10,2%) - deutlich schwaecher als die letzten Laeufe. BCH haelt sich stabil bei 340,33 USD (+0,5%). Treiber ist ein hawkisher US-PMI (58,4, schnellste Expansion seit 2021, Input-Preise auf Mehrjahreshoch), der die Markterwartung fuer eine Fed-Zinserhoehung im Oktober auf rund 70% hochtrieb. Zusaetzlich im Fokus: das zweite Trump-Xi-Treffen im Weissen Haus heute. Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten (vorboersliche Stunde in Europa/den USA).",
+    "decision": "Kein Trade in diesem Lauf (06:07 MESZ). Tagesbudget fuer den 24.09. bereits um 00:08 gutgeschrieben. Kurse aller offenen Positionen aktualisiert (BTC/HYPE/DOGE im Risk-off deutlich schwaecher, BCH stabil).",
+    "reasoning": "Keine offene Position erreicht die etablierte Take-Profit- (7-9%) oder Stop-Loss-Schwelle (-6,5 bis -7,5%): BTC pos-0016 +3,54%, BTC pos-0018 -1,38%, HYPE -3,02%, DOGE -5,45% (naeheste an der Schwelle, aber noch nicht erreicht), BCH +0,10%. Der breite Risk-off (hawkishe PMI-Daten, steigende Fed-Zinserwartung) spricht gegen neue spekulative Long-Positionen in diesem Umfeld; kein einzelner, mehrfach unabhaengig bestaetigter neuer Ausbruchskatalysator identifiziert. Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten, daher kein Zugriff auf diese Anlageklassen in diesem Lauf.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
@@ -6274,7 +6274,7 @@
       "pos-0020",
       "pos-0021"
     ],
-    "portfolioValueEnd": 3345.78,
+    "portfolioValueEnd": 3268.42,
     "updates": [
       {
         "time": "00:08",
@@ -6305,6 +6305,11 @@
         "time": "05:07",
         "note": "Keine Aenderung. BTC leicht schwaecher auf 84.350 USD (pos-0016 +4,14%, pos-0018 -0,81%), HYPE auf 93,53 USD (-0,85%) nach ATH-Rueckgang, DOGE stabil 0,0993 USD (+0,81%), BCH bei 350,50 USD (+3,09%). Keine Position an Schwelle, keine ausreichend bestaetigte neue Gelegenheit (widerspruechliche Altcoin-Rally-Meldungen), Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten.",
         "portfolioValue": 3345.78
+      },
+      {
+        "time": "06:07",
+        "note": "Keine Aenderung. Breiter Krypto-Risk-off nach hawkishem US-PMI (Fed-Zinserhoehungswahrscheinlichkeit Oktober ~70%): BTC auf 83.864 USD (-3,3%), HYPE auf 91,48 USD (-5,6%), DOGE auf 0,0931 USD (-10,2%, naeheste an Stop-Loss mit -5,45%), BCH stabil bei 340,33 USD (+0,5%). Keine Position an Schwelle, kein neuer Ausbruchskatalysator in diesem risikoaversen Umfeld, Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten.",
+        "portfolioValue": 3268.42
       }
     ]
   }
