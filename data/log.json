@@ -6264,9 +6264,9 @@
   },
   {
     "date": "2026-09-24",
-    "marketOverview": "Breiter Krypto-Risk-off am fruehen Morgen: BTC faellt auf ca. 83.864 USD (-3,3% in 24h), HYPE auf 91,48 USD (-5,6%), DOGE auf 0,0931 USD (-10,2%) - deutlich schwaecher als die letzten Laeufe. BCH haelt sich stabil bei 340,33 USD (+0,5%). Treiber ist ein hawkisher US-PMI (58,4, schnellste Expansion seit 2021, Input-Preise auf Mehrjahreshoch), der die Markterwartung fuer eine Fed-Zinserhoehung im Oktober auf rund 70% hochtrieb. Zusaetzlich im Fokus: das zweite Trump-Xi-Treffen im Weissen Haus heute. Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten (vorboersliche Stunde in Europa/den USA).",
-    "decision": "Kein Trade in diesem Lauf (06:07 MESZ). Tagesbudget fuer den 24.09. bereits um 00:08 gutgeschrieben. Kurse aller offenen Positionen aktualisiert (BTC/HYPE/DOGE im Risk-off deutlich schwaecher, BCH stabil).",
-    "reasoning": "Keine offene Position erreicht die etablierte Take-Profit- (7-9%) oder Stop-Loss-Schwelle (-6,5 bis -7,5%): BTC pos-0016 +3,54%, BTC pos-0018 -1,38%, HYPE -3,02%, DOGE -5,45% (naeheste an der Schwelle, aber noch nicht erreicht), BCH +0,10%. Der breite Risk-off (hawkishe PMI-Daten, steigende Fed-Zinserwartung) spricht gegen neue spekulative Long-Positionen in diesem Umfeld; kein einzelner, mehrfach unabhaengig bestaetigter neuer Ausbruchskatalysator identifiziert. Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten, daher kein Zugriff auf diese Anlageklassen in diesem Lauf.",
+    "marketOverview": "Nach dem naechtlichen Krypto-Risk-off (hawkisher US-PMI, Fed-Hikewahrscheinlichkeit Oktober ~70%, US-Renditen auf 19-Jahres-Hoch) leichte Erholung am Morgen: BTC auf ca. 84.261 USD (+0,5% ggue. 06:07), HYPE auf 92,58 USD (+1,2%), DOGE auf 0,09478 USD (+1,8%), BCH auf 343,88 USD (+1,0%). Kein frischer, unabhaengig bestaetigter Ausbruchskatalysator - lediglich eine technische Gegenbewegung nach dem Abverkauf. Aktien/ETFs/Rohstoffe weiterhin ausserhalb der Handelszeiten (vorboersliche Stunde in Europa).",
+    "decision": "Kein Trade im 07:07-Lauf. Tagesbudget fuer den 24.09. bereits um 00:08 gutgeschrieben. Kurse aller offenen Positionen aktualisiert (leichte Erholung nach dem naechtlichen Risk-off: BTC/HYPE/DOGE/BCH alle im Plus ggue. 06:07).",
+    "reasoning": "Keine offene Position erreicht die etablierte Take-Profit- (7-9%) oder Stop-Loss-Schwelle (-6,5 bis -7,5%): BTC pos-0016 +4,03%, BTC pos-0018 -0,91%, HYPE -1,85%, DOGE -3,77% (Erholung von -5,45%), BCH +1,14%. Die Erholung ist eine unspezifische Gegenbewegung ohne neuen, mehrfach unabhaengig bestaetigten Katalysator; zudem steht bei HYPE am 29.09. ein grosses Token-Unlock (1,2 Mrd. USD) bevor, das fuer Zurueckhaltung bei Neuengagements in HYPE spricht. Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten, daher kein Zugriff auf diese Anlageklassen in diesem Lauf.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
@@ -6274,7 +6274,7 @@
       "pos-0020",
       "pos-0021"
     ],
-    "portfolioValueEnd": 3268.42,
+    "portfolioValueEnd": 3298.92,
     "updates": [
       {
         "time": "00:08",
@@ -6310,6 +6310,11 @@
         "time": "06:07",
         "note": "Keine Aenderung. Breiter Krypto-Risk-off nach hawkishem US-PMI (Fed-Zinserhoehungswahrscheinlichkeit Oktober ~70%): BTC auf 83.864 USD (-3,3%), HYPE auf 91,48 USD (-5,6%), DOGE auf 0,0931 USD (-10,2%, naeheste an Stop-Loss mit -5,45%), BCH stabil bei 340,33 USD (+0,5%). Keine Position an Schwelle, kein neuer Ausbruchskatalysator in diesem risikoaversen Umfeld, Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten.",
         "portfolioValue": 3268.42
+      },
+      {
+        "time": "07:07",
+        "note": "Keine Aenderung. Leichte Erholung nach dem naechtlichen Risk-off (BTC 84.261, HYPE 92,58, DOGE 0,09478, BCH 343,88, alle leicht im Plus ggue. 06:07). Kein frischer Katalysator, Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten.",
+        "portfolioValue": 3298.92
       }
     ]
   }
