@@ -6400,16 +6400,16 @@
   },
   {
     "date": "2026-09-25",
-    "marketOverview": "Bitcoin behauptet sich stabil um 84.200 USD trotz eines starken US-PMI (schnellstes Wachstum seit 2021), der die Fed-Zinserhoehungswahrscheinlichkeit fuer Oktober auf rund 70% und die 10-Jahres-Rendite auf ein 19-Jahres-Hoch (~5,1-5,15%) treibt. Gold faellt weiter auf ca. 4.271 USD (Wochenminus ueber 2,5%), Oel erholt sich leicht auf Iran-Rhetorik zur Strasse von Hormuz. US-Indizes bewegen sich per Vortagesschluss nur wenig (S&P 500 -0,02%, Dow -0,31%, Nasdaq +0,01%); Xetra ist seit 09:00 MESZ geoeffnet, jedoch weiterhin ohne ueberzeugenden Einzelkatalysator. HYPE erholt sich auf ca. 94,40 USD (Binance-Spotlisting seit 24.09.), BCH konsolidiert nach der CME-Futures-Rally bei ca. 332,77 USD.",
-    "decision": "Keine neuen Trades heute (Stand 11:10 MESZ). Tagesbudget 1.000 EUR bereits um 00:08 gutgeschrieben. Offene Positionen (BTC x2, HYPE, BCH) laufend auf aktuelle Kurse gebracht; keine Position hat bislang Stop-Loss (-6,5 bis -7,5%) oder Gewinnschwelle (7-9%) erreicht.",
-    "reasoning": "Trotz laufendem Xetra-Handel kein neuer, unabhaengig bestaetigter Einzelkatalysator gefunden; Makroumfeld bleibt risikoavers (hohe Fed-Zinserhoehungswahrscheinlichkeit, Renditen auf 19-Jahres-Hoch, Gold unter Druck). Alle vier offenen Positionen bewegen sich im normalen Schwankungsband (BTC +3,95%/-0,98%, HYPE +0,07%, BCH -2,12%), daher bewusst kein Trade.",
+    "marketOverview": "Bitcoin behauptet sich stabil um 84.250 USD trotz Rekord-Anleiherenditen (10-Jahres-Rendite ~5,20%, 30-Jahre auf hoechstem Stand seit 2004) infolge hoher Oelpreise und Inflationssorgen; Fed-Zinserhoehungs-Wahrscheinlichkeit fuer Oktober bleibt bei rund 70%. Der globale Kryptomarkt zeigte zuletzt Schwaeche (Gesamt-Marktkap. zeitweise -3,3%), HYPE haelt sich nahe Allzeithoch bei ca. 94,50 USD, BCH konsolidiert nach der CME-Futures-Rally bei ca. 336,50 USD. Xetra und US-Boersen geoeffnet, aber ohne ueberzeugenden neuen Einzelkatalysator; Anleger bleiben angesichts der Renditerally vorsichtig.",
+    "decision": "Keine neuen Trades heute (Stand 12:09 MESZ). Tagesbudget 1.000 EUR bereits um 00:08 gutgeschrieben. Offene Positionen (BTC x2, HYPE, BCH) laufend auf aktuelle Kurse gebracht; keine Position hat bislang Stop-Loss (-6,5 bis -7,5%) oder Gewinnschwelle (7-9%) erreicht.",
+    "reasoning": "Kein neuer, unabhaengig bestaetigter Katalysator seit dem letzten Lauf; Makroumfeld bleibt risikoavers (Anleiherenditen auf mehrjahrzehnte-Hoch, Fed-Zinserhoehungssorgen, schwacher globaler Kryptomarkt). Alle vier offenen Positionen bewegen sich im normalen Schwankungsband (BTC +4,01%/-0,92%, HYPE +0,18%, BCH -1,03%), daher bewusst kein Trade.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
       "pos-0019",
       "pos-0021"
     ],
-    "portfolioValueEnd": 2712.44,
+    "portfolioValueEnd": 2720.56,
     "updates": [
       {
         "time": "00:08",
@@ -6470,6 +6470,11 @@
         "time": "11:10",
         "note": "Keine Aenderung. BTC stabil auf 84.200 USD (pos-0016 +3,95%, pos-0018 -0,98%), HYPE erholt auf 94,40 USD (+0,07%) nach Binance-Spotlisting, BCH auf 332,77 USD (-2,12%) nach CME-Futures-Rally-Konsolidierung. Keine Schwelle erreicht, Makroumfeld weiter risikoavers (hohe Fed-Zinserhoehungs-Erwartungen, Renditen auf 19-Jahres-Hoch), kein ueberzeugender neuer Katalysator fuer Aktien/ETFs/Rohstoffe trotz laufendem Xetra-Handel.",
         "portfolioValue": 2712.44
+      },
+      {
+        "time": "12:09",
+        "note": "Keine Aenderung. Kurse aktualisiert (BTC 84.250 USD: pos-0016 +4,01%, pos-0018 -0,92%; HYPE 94,50 USD +0,18%; BCH 336,50 USD -1,03%). Kein neuer Katalysator, Renditen auf Mehrjahrzehnte-Hoch belasten Risikoappetit weiter.",
+        "portfolioValue": 2720.56
       }
     ]
   }
