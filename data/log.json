@@ -6400,16 +6400,16 @@
   },
   {
     "date": "2026-09-25",
-    "marketOverview": "Bitcoin steht bei ca. 84.379 USD, nachdem ein starker US-PMI (58,4, schnellstes Wachstum seit 2021) die Wahrscheinlichkeit einer Fed-Zinserhoehung im Oktober auf 69,7% steigen liess und die US-Renditen auf ein 19-Jahres-Hoch trieb (10J 5,225%, 30J 5,502%). Das belastet Risikoassets: US-Futures nahezu unveraendert, Dow vor der vierten Verlustwoche in Folge. HYPE konsolidiert weiter bei ca. 91 USD nach dem Allzeithoch vom 23.09., BCH pendelt bei rund 344 USD nach der CME-Futures-Rally. Xetra hat um 09:00 MESZ eroeffnet, Aktien/ETFs/Rohstoffe sind damit wieder handelbar, jedoch ohne ueberzeugenden Einzelkatalysator in einem klar risikoaversen Zinsumfeld.",
-    "decision": "Keine neuen Trades heute bisher. Tagesbudget 1.000 EUR bereits um 00:08 gutgeschrieben. Offene Positionen (BTC x2, HYPE, BCH) werden laufend auf aktuelle Kurse gebracht; keine Position hat bislang Stop-Loss (-6,5 bis -7,5%) oder Gewinnschwelle (7-9%) erreicht.",
-    "reasoning": "Steigende Fed-Zinserhoehungs-Erwartungen (69,7% fuer Oktober) und Renditen auf 19-Jahres-Hoch sprechen gegen neue spekulative Long-Positionen; alle vier offenen Positionen bewegen sich weiter im normalen Schwankungsband (BTC +4,17%/-0,77%, HYPE -3,32%, BCH +1,19%). Trotz Xetra-Eroeffnung kein unabhaengig bestaetigter, ueberzeugender Einzelkatalysator gefunden, daher bewusst kein Trade.",
+    "marketOverview": "Bitcoin pendelt nach einem kurzen Ruecksetzer unter 84.000 USD wieder bei ca. 84.150 USD; der starke US-PMI (58,4, schnellstes Wachstum seit 2021) treibt die Wahrscheinlichkeit einer Fed-Zinserhoehung im Oktober auf rund 70% und die US-Renditen auf ein 19-Jahres-Hoch (10J ueber 5,2%). Auch Gold und Silber fallen deutlich (Gold unter 4.300 USD, Silber -3%), US-Aktienindizes schlossen gestern niedriger, Nasdaq beendete seine Rekordserie. Xetra ist seit 09:00 MESZ geoeffnet, Aktien/ETFs/Rohstoffe sind damit handelbar, jedoch weiterhin ohne ueberzeugenden Einzelkatalysator in einem klar risikoaversen, zinssensitiven Marktumfeld. HYPE konsolidiert bei ca. 92 USD, BCH bei ca. 338 USD nach der CME-Futures-Rally der letzten Tage.",
+    "decision": "Keine neuen Trades heute (Stand 10:09 MESZ). Tagesbudget 1.000 EUR bereits um 00:08 gutgeschrieben. Offene Positionen (BTC x2, HYPE, BCH) laufend auf aktuelle Kurse gebracht; keine Position hat bislang Stop-Loss (-6,5 bis -7,5%) oder Gewinnschwelle (7-9%) erreicht.",
+    "reasoning": "Trotz Handelsstart an europaeischen Boersen kein neuer, unabhaengig bestaetigter Einzelkatalysator gefunden. Das Makroumfeld bleibt klar risikoavers (Fed-Zinserhoehungswahrscheinlichkeit fuer Oktober ~70%, Renditen auf 19-Jahres-Hoch, Gold/Silber und US-Aktien unter Druck), was gegen neue spekulative Long-Positionen spricht. Alle vier offenen Positionen bewegen sich weiter im normalen Schwankungsband (BTC +3,89%/-1,04%, HYPE -2,47%, BCH -0,59%), daher bewusst kein Trade.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
       "pos-0019",
       "pos-0021"
     ],
-    "portfolioValueEnd": 2715.17,
+    "portfolioValueEnd": 2705.49,
     "updates": [
       {
         "time": "00:08",
@@ -6460,6 +6460,11 @@
         "time": "09:08",
         "note": "Kein Trade. Xetra hat eroeffnet (Aktien/ETFs/Rohstoffe wieder handelbar), aber Fed-Zinserhoehungs-Sorgen (Renditen 19-Jahres-Hoch) sprechen gegen neue Positionen. BTC 84.379 USD (pos-0016 +4,17%, pos-0018 -0,77%), HYPE 91,20 USD (-3,32%), BCH 344,02 USD (+1,19%) - keine Schwelle erreicht.",
         "portfolioValue": 2715.17
+      },
+      {
+        "time": "10:09",
+        "note": "Kein Trade. Xetra weiter geoeffnet, aber kein neuer Katalysator; Makroumfeld bleibt risikoavers (Fed-Zinserhoehungserwartung ~70%, Renditen auf 19-Jahres-Hoch, Gold/Silber und US-Aktien unter Druck). BTC 84.150 USD (pos-0016 +3,89%, pos-0018 -1,04%), HYPE 92,00 USD (-2,47%), BCH 338,00 USD (-0,59%) - keine Schwelle erreicht.",
+        "portfolioValue": 2705.49
       }
     ]
   }
