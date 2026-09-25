@@ -6401,8 +6401,8 @@
   {
     "date": "2026-09-25",
     "marketOverview": "US-Aktien leicht im Plus (S&P500 +0,3%, Nasdaq +0,3%, Dow +216 Pkt.) am letzten Tag des Trump-Xi-Staatsbesuchs (Tee-Empfang, Nationalarchiv-Besuch); Oel faellt weiter auf Hoffnung einer Hormuz-Wiederoeffnung (Iran-Aussenminister Araghchi bietet Deal binnen 7 Tagen an), Anleiherenditen von Mehrjahrzehnte-Hochs zurueck. Kryptomarkt in breiter Altcoin-Season-Rally (Altcoin-Index hoechster Stand seit >3 Monaten, 93 von 100 CoinDesk-100-Titeln im Plus), Bitcoin-ETF-Zuflüsse 2026 erstmals wieder positiv (+800 Mio. USD).",
-    "decision": "Neue Position: Kauf Quant (QNT) 700 EUR nach bestaetigtem institutionellem Ausbruch (The-Clearing-House-Partnerschaft mit 25 US-Banken). Bestehende Krypto-Positionen (BTC x2, HYPE, BCH) unveraendert gehalten, Kurse fortlaufend aktualisiert; keine Verkaeufe.",
-    "reasoning": "QNT sprang nach der Ankündigung, dass The Clearing House Quant als Interoperabilitaets-Layer fuer sein neues tokenisiertes Einlagen-Netzwerk im US-Bankensystem (25 Institute, Launch H1 2027) ausgewaehlt hat, von ca. 70 auf ueber 90 USD (+35-40% in 24h, Volumen +718%), mehrfach unabhaengig bestaetigt (KuCoin, Cryptonomist, CoinCodex, Blockonomi, Coinpedia) - ein echter fundamentaler institutioneller Katalysator analog zu den erfolgreichen AVAX/NYSE- und BCH/CME-Trades. Bei sehr hohem freiem Kapital (~49.000 EUR) und passend zum spekulativen Risikoprofil daher Neuposition mit engem Risikomanagement (Ziel 7-10% Gewinn, Stop-Loss ca. -6,5 bis -7,5%, analog bisherigem Muster). Bestehende BTC/HYPE/BCH-Positionen zeigen keine neuen Schwellenwert-Ereignisse (Kursbewegungen im ueblichen Rahmen), daher unveraendert gehalten.",
+    "decision": "Neue Position: Kauf Quant (QNT) 700 EUR nach bestaetigtem institutionellem Ausbruch (The-Clearing-House-Partnerschaft mit 25 US-Banken). Bestehende Krypto-Positionen (BTC x2, HYPE, BCH, QNT) unveraendert gehalten, Kurse fortlaufend aktualisiert; keine Verkaeufe.",
+    "reasoning": "QNT sprang nach der Ankuendigung, dass The Clearing House Quant als Interoperabilitaets-Layer fuer sein neues tokenisiertes Einlagen-Netzwerk im US-Bankensystem (25 Institute, Launch H1 2027) ausgewaehlt hat, von ca. 70 auf ueber 90 USD (+35-40% in 24h, Volumen +718%), mehrfach unabhaengig bestaetigt (KuCoin, Cryptonomist, CoinCodex, Blockonomi, Coinpedia) - ein echter fundamentaler institutioneller Katalysator analog zu den erfolgreichen AVAX/NYSE- und BCH/CME-Trades. Bei sehr hohem freiem Kapital (~48.400 EUR) und passend zum spekulativen Risikoprofil daher Neuposition mit engem Risikomanagement (Ziel 7-10% Gewinn, Stop-Loss ca. -6,5 bis -7,5%, analog bisherigem Muster). Bestehende BTC/HYPE/BCH/QNT-Positionen zeigen im 18:08-Lauf keine neuen Schwellenwert-Ereignisse (Kursbewegungen im ueblichen Rahmen, QNT nach dem Kauf stabil um 95 USD), daher unveraendert gehalten. US-Aktien im spaeten Nachmittagshandel (S&P/Nasdaq je +0,3-0,6%) ohne einzeltitelspezifischen Katalysator, der ein spekulatives Risiko-Ertrags-Profil rechtfertigt.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
@@ -6410,7 +6410,7 @@
       "pos-0021",
       "pos-0022"
     ],
-    "portfolioValueEnd": 3425.66,
+    "portfolioValueEnd": 3410.85,
     "updates": [
       {
         "time": "00:08",
@@ -6501,6 +6501,11 @@
         "time": "17:08",
         "note": "Kauf Quant (QNT) 700 EUR nach bestaetigtem institutionellem Ausbruch (Clearing-House-Partnerschaft, +35-40% in 24h). BTC (84.300 USD: pos-0016 +4,07%, pos-0018 -0,86%), HYPE auf 94,33 USD (0,00%, zurueck auf Einstand), BCH auf 339,49 USD (-0,15%) aktualisiert.",
         "portfolioValue": 3425.66
+      },
+      {
+        "time": "18:08",
+        "note": "Keine Aenderung. QNT nach Kauf stabil auf 95,25 USD (+0,36%), BTC auf 84.150 USD (pos-0016 +3,89%, pos-0018 -1,04%), HYPE auf 93,90 USD (-0,46%), BCH auf 332,77 USD (-2,12%). Keine Schwelle erreicht, US-Aktienmarkt ohne einzeltitelspezifischen Katalysator, kein neuer Trade.",
+        "portfolioValue": 3410.85
       }
     ]
   }
