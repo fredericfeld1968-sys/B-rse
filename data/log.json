@@ -6400,16 +6400,16 @@
   },
   {
     "date": "2026-09-25",
-    "marketOverview": "Nacht auf Freitag, 01:08 MESZ: Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten. Bitcoin stabil um 84.100 USD (leicht fester ggue. Vorlauf), Hyperliquid weiter schwach bei 90,11 USD (-5,7% 24h) trotz Rekord-Open-Interest von 18 Mrd. USD, Bitcoin Cash konsolidiert uneinheitlich um 335-344 USD je nach Quelle. Marktweite Altcoin-Meldungen zu einer $160-Mrd.-Cap-Rally liegen vor, laut Datumshinweisen der Quellen aber nicht eindeutig als frisches, auf diese Nacht bezogenes Ereignis verifizierbar - kein einzelner, mehrfach unabhaengig bestaetigter Katalysator mit Tagesbezug gefunden.",
-    "decision": "Keine Trades. Tagesbudget von 1.000 EUR fuer den 25.09. gutgeschrieben. Alle vier offenen Positionen (BTC pos-0016 +3,77%, BTC pos-0018 -1,16%, HYPE pos-0019 -3,60%, BCH pos-0021 -1,47%) bewegen sich innerhalb der ueblichen Schwankungsbreite ohne Take-Profit- oder Stop-Loss-Schwelle. | Kein neuer Trade um 01:08 MESZ (keine der offenen Positionen erreicht Stop-Loss- oder Gewinnschwelle; kein ueberzeugender, frisch bestaetigter Katalysator gefunden).",
-    "reasoning": "Kein neuer bestaetigter Katalysator seit dem letzten Lauf (23:09 Vortag). Der Kryptomarkt bleibt naechtlich risikoavers (hohe Fed-Zinserhoehungs-Erwartungen, staerkere PMI-Daten), keine der offenen Positionen hat eine Handlungsschwelle erreicht. Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten nicht handelbar, daher bewusst keine neue Position trotz hohem freiem Kapital (~49.068 EUR) - abgewartet wird eine wirklich ueberzeugende Gelegenheit. | 01:08 MESZ: BTC (pos-0016 +3,83%, pos-0018 -1,10%) auf 84.100 USD, HYPE (pos-0019 -4,47%) auf 90,11 USD, BCH (pos-0021 -0,88%) auf 337,00 USD aktualisiert. Recherche zu einer moeglichen Altcoin-/Memecoin-Rally (Pepe, Sui, Dogecoin, XRP, Solana) ergab widerspruechliche/nicht eindeutig tagesaktuelle Quellenlage ohne klaren, frischen Einzelkatalysator; HYPE-Rekord-Open-Interest (18 Mrd. USD, 23.09.) ist bereits mehrere Tage alt und kein neuer Ausloeser. Keine Position erreicht die etablierte Stop-Loss- (-6,5 bis -7,5%) oder Gewinnschwelle (7-9%). Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten nicht handelbar. Daher kein Trade, alle vier offenen Positionen unveraendert gehalten.",
+    "marketOverview": "Nacht auf Freitag, 02:08 MESZ: Aktien/ETFs/Rohstoffe weiter ausserhalb der Handelszeiten. Bitcoin stabil-fester bei ca. 84.493 USD (+0,11% 24h laut CoinGecko), Hyperliquid bei 92,28 USD (-2,02% 24h) nach der jüngsten Konsolidierung vom Allzeithoch (97,99 USD am 23.09.), Bitcoin Cash bei 337,54 USD (-0,17% 24h) unveraendert seitwaerts. Kein neuer, mehrfach unabhaengig bestaetigter Einzelkatalysator fuer diese Nachtstunde gefunden; Bitcoin-Dominanz bleibt ueber 60%, breite Altcoin-Season bislang nicht bestaetigt.",
+    "decision": "Keine Trades. Tagesbudget von 1.000 EUR fuer den 25.09. gutgeschrieben. Alle vier offenen Positionen (BTC pos-0016 +3,77%, BTC pos-0018 -1,16%, HYPE pos-0019 -3,60%, BCH pos-0021 -1,47%) bewegen sich innerhalb der ueblichen Schwankungsbreite ohne Take-Profit- oder Stop-Loss-Schwelle. | Kein neuer Trade um 01:08 MESZ (keine der offenen Positionen erreicht Stop-Loss- oder Gewinnschwelle; kein ueberzeugender, frisch bestaetigter Katalysator gefunden). | Kein neuer Trade um 02:08 MESZ (keine der offenen Positionen erreicht Stop-Loss- oder Gewinnschwelle; kein ueberzeugender, frisch bestaetigter Katalysator gefunden).",
+    "reasoning": "Kein neuer bestaetigter Katalysator seit dem letzten Lauf (23:09 Vortag). Der Kryptomarkt bleibt naechtlich risikoavers (hohe Fed-Zinserhoehungs-Erwartungen, staerkere PMI-Daten), keine der offenen Positionen hat eine Handlungsschwelle erreicht. Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten nicht handelbar, daher bewusst keine neue Position trotz hohem freiem Kapital (~49.068 EUR) - abgewartet wird eine wirklich ueberzeugende Gelegenheit. | 01:08 MESZ: BTC (pos-0016 +3,83%, pos-0018 -1,10%) auf 84.100 USD, HYPE (pos-0019 -4,47%) auf 90,11 USD, BCH (pos-0021 -0,88%) auf 337,00 USD aktualisiert. Recherche zu einer moeglichen Altcoin-/Memecoin-Rally (Pepe, Sui, Dogecoin, XRP, Solana) ergab widerspruechliche/nicht eindeutig tagesaktuelle Quellenlage ohne klaren, frischen Einzelkatalysator; HYPE-Rekord-Open-Interest (18 Mrd. USD, 23.09.) ist bereits mehrere Tage alt und kein neuer Ausloeser. Keine Position erreicht die etablierte Stop-Loss- (-6,5 bis -7,5%) oder Gewinnschwelle (7-9%). Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten nicht handelbar. Daher kein Trade, alle vier offenen Positionen unveraendert gehalten. | 02:08 MESZ: BTC (pos-0016 +4,31%, pos-0018 -0,64%) auf 84.493 USD, HYPE (pos-0019 -2,17%) auf 92,28 USD, BCH (pos-0021 -0,72%) auf 337,54 USD aktualisiert (Live-Kurse via CoinGecko API). Keine Position erreicht die etablierte Stop-Loss- (-6,5 bis -7,5%) oder Gewinnschwelle (7-9%). Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten nicht handelbar, kein ueberzeugender frischer Krypto-Katalysator identifiziert. Daher kein Trade, alle vier offenen Positionen unveraendert gehalten.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
       "pos-0019",
       "pos-0021"
     ],
-    "portfolioValueEnd": 2690.8,
+    "portfolioValueEnd": 2712.68,
     "updates": [
       {
         "time": "00:08",
@@ -6420,6 +6420,11 @@
         "time": "01:08",
         "note": "Keine Aenderung. BTC auf 84.100 USD (pos-0016 +3,83%, pos-0018 -1,10%), HYPE auf 90,11 USD (-4,47%), BCH auf 337,00 USD (-0,88%) aktualisiert. Kein klarer Katalysator, Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten.",
         "portfolioValue": 2690.8
+      },
+      {
+        "time": "02:08",
+        "note": "Keine Aenderung. BTC auf 84.493 USD (pos-0016 +4,31%, pos-0018 -0,64%), HYPE auf 92,28 USD (-2,17%), BCH auf 337,54 USD (-0,72%). Keine Schwelle erreicht, kein neuer Katalysator, Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten.",
+        "portfolioValue": 2712.68
       }
     ]
   }
