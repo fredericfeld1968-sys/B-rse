@@ -6400,16 +6400,16 @@
   },
   {
     "date": "2026-09-25",
-    "marketOverview": "Bitcoin stabilisiert sich bei ca. 84.187 USD (+0,13% 24h), der breite Kryptomarkt zeigt sich nach der Konsolidierung der Nacht wieder etwas ruhiger. HYPE bleibt nach dem starken Lauf der Vorwoche in Konsolidierung bei 92,09 USD, BCH pendelt seitwaerts um 332,76 USD nach der CME-Futures-Rally vom 22.09. USA und China verlaengern den Handels-Waffenstillstand bis Mitte Januar, Fed-Vertreter Kashkari betont weiter erhoehte Inflation. Aktien/ETFs/Rohstoffe sind vor Handelsbeginn (Xetra ab 09:00 MESZ) weiterhin nicht handelbar.",
+    "marketOverview": "Bitcoin steht bei ca. 84.379 USD, nachdem ein starker US-PMI (58,4, schnellstes Wachstum seit 2021) die Wahrscheinlichkeit einer Fed-Zinserhoehung im Oktober auf 69,7% steigen liess und die US-Renditen auf ein 19-Jahres-Hoch trieb (10J 5,225%, 30J 5,502%). Das belastet Risikoassets: US-Futures nahezu unveraendert, Dow vor der vierten Verlustwoche in Folge. HYPE konsolidiert weiter bei ca. 91 USD nach dem Allzeithoch vom 23.09., BCH pendelt bei rund 344 USD nach der CME-Futures-Rally. Xetra hat um 09:00 MESZ eroeffnet, Aktien/ETFs/Rohstoffe sind damit wieder handelbar, jedoch ohne ueberzeugenden Einzelkatalysator in einem klar risikoaversen Zinsumfeld.",
     "decision": "Keine neuen Trades heute bisher. Tagesbudget 1.000 EUR bereits um 00:08 gutgeschrieben. Offene Positionen (BTC x2, HYPE, BCH) werden laufend auf aktuelle Kurse gebracht; keine Position hat bislang Stop-Loss (-6,5 bis -7,5%) oder Gewinnschwelle (7-9%) erreicht.",
-    "reasoning": "Kein neuer, unabhaengig bestaetigter Einzelkatalysator seit dem letzten Lauf. Alle vier offenen Positionen bewegen sich weiter im normalen Schwankungsband (BTC +3,93%/-1,00%, HYPE -2,37%, BCH -2,13%). Vor Handelsbeginn fuer Aktien/ETFs/Rohstoffe und ohne ueberzeugende neue Krypto-Gelegenheit wird bewusst nicht gehandelt.",
+    "reasoning": "Steigende Fed-Zinserhoehungs-Erwartungen (69,7% fuer Oktober) und Renditen auf 19-Jahres-Hoch sprechen gegen neue spekulative Long-Positionen; alle vier offenen Positionen bewegen sich weiter im normalen Schwankungsband (BTC +4,17%/-0,77%, HYPE -3,32%, BCH +1,19%). Trotz Xetra-Eroeffnung kein unabhaengig bestaetigter, ueberzeugender Einzelkatalysator gefunden, daher bewusst kein Trade.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
       "pos-0019",
       "pos-0021"
     ],
-    "portfolioValueEnd": 2697.49,
+    "portfolioValueEnd": 2715.17,
     "updates": [
       {
         "time": "00:08",
@@ -6455,6 +6455,11 @@
         "time": "08:08",
         "note": "Kein Trade (BTC auf 84.187 USD erholt: pos-0016 +3,93%, pos-0018 -1,00%; HYPE auf 92,09 USD -2,37%; BCH auf 332,76 USD -2,13% - alle im normalen Schwankungsband, kein neuer Katalysator, Aktien/ETFs/Rohstoffe vor Handelsbeginn)",
         "portfolioValue": 2697.49
+      },
+      {
+        "time": "09:08",
+        "note": "Kein Trade. Xetra hat eroeffnet (Aktien/ETFs/Rohstoffe wieder handelbar), aber Fed-Zinserhoehungs-Sorgen (Renditen 19-Jahres-Hoch) sprechen gegen neue Positionen. BTC 84.379 USD (pos-0016 +4,17%, pos-0018 -0,77%), HYPE 91,20 USD (-3,32%), BCH 344,02 USD (+1,19%) - keine Schwelle erreicht.",
+        "portfolioValue": 2715.17
       }
     ]
   }
