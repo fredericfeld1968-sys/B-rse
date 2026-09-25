@@ -6536,9 +6536,9 @@
   },
   {
     "date": "2026-09-26",
-    "marketOverview": "Samstagfrueh, 00:08 MESZ: Aktien/ETFs/Rohstoffe seit Boersenschluss Freitag nicht handelbar, nur Krypto aktiv. Bitcoin stabil bei ca. 83.872 USD (-0,5% 24h) nach starker Wochenperformance, Fed-Zinserwartungen bremsen weiter. QNT bleibt nach dem Clearing-House-Ausbruch mit +6,7% 24h der staerkste Titel im Portfolio (97,12 USD), HYPE konsolidiert bei 91,84 USD, BCH seitwaerts bei 340,14 USD. Insgesamt ruhiger Wochenendhandel ohne neuen Einzeltitel-Katalysator.",
-    "decision": "Kein neuer Trade in diesem Lauf. Alle offenen Positionen (BTC x2, HYPE, BCH, QNT) bleiben innerhalb des etablierten Haltebands (-6,5% bis +7-9%): BTC pos-0016 +3,55%, pos-0018 -1,37%, HYPE -2,64%, BCH +0,04%, QNT +2,33%. Keine Schwelle erreicht, kein ueberzeugender frischer Katalysator fuer eine Neuposition am fruehen Samstagmorgen.",
-    "reasoning": "Kursaktualisierung 00:08 MESZ (CoinGecko live): BTC 83.872 USD, HYPE 91,84 USD, BCH 340,14 USD, QNT 97,12 USD. Keine Position erreicht Gewinnmitnahme- (~7-9%) oder Stop-Loss-Schwelle (~-6,5% bis -7,5%). Freies Kapital nach Tagesbudget-Gutschrift (+1000 EUR) sehr hoch (~49.368 EUR), aber ohne ueberzeugende neue Gelegenheit (ruhiger Wochenendhandel, keine frische Einzeltitel-Story) wird nicht investiert.",
+    "marketOverview": "Samstagfrueh, 01:10 MESZ: Aktien/ETFs/Rohstoffe weiterhin ausserhalb der Handelszeiten (Wochenende), nur Krypto aktiv. Bitcoin stabil bei ca. 84.180 USD, Gesamtmarkt in Greed-Stimmung (Fear&Greed 71), breite Altcoin-Rally (u.a. ONDO +30%, Backpack +28%). QNT konsolidiert nach dem Clearing-House-Ausbruch leicht auf ca. 95,58 USD (Analysten warnen vor Overbought-Ruecksetzer), BCH pausiert nach dem CME-Futures-Sprung bei ca. 333 USD (Warnungen vor Pullback wegen ueberhitztem RSI), HYPE leicht erholt auf 93,50 USD. Kein neuer Einzeltitel-Katalysator, der eine frische Position rechtfertigen wuerde.",
+    "decision": "Kein neuer Trade in diesem Lauf. Alle offenen Positionen (BTC x2, HYPE, BCH, QNT) bleiben innerhalb des etablierten Haltebands (-6,5% bis +7-9%): BTC pos-0016 +3,93%, pos-0018 -1,01%, HYPE -0,88%, BCH -2,06%, QNT +0,71%. Keine Schwelle erreicht; trotz breiter Altcoin-Rally kein hinreichend ueberzeugender, noch nicht gehandelter Einzeltitel-Katalysator fuer eine Neuposition am fruehen Samstagmorgen.",
+    "reasoning": "Kursaktualisierung 01:10 MESZ (Marktrecherche/Kreuzcheck mehrerer Quellen): BTC ~84.180 USD, HYPE ~93,50 USD, BCH ~333,00 USD, QNT ~95,58 USD. QNT und BCH zeigen laut mehreren Analysten (Cryptonomist, CryptoTicker) Overbought-Signale nach ihren jeweiligen institutionellen Katalysatoren (Clearing House / CME-Futures) und damit erhoehtes Ruecksetzer-Risiko, weshalb trotz Gewinnchance kein Nachkauf erfolgt und die Gewinnmitnahme-Schwelle (~7-9%) noch nicht erreicht ist. Freies Kapital bleibt bei ca. 49.368 EUR sehr hoch, aber ohne ueberzeugende neue Einzeltitel-Gelegenheit (ruhiger Wochenendhandel) wird nicht investiert.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
@@ -6546,12 +6546,17 @@
       "pos-0021",
       "pos-0022"
     ],
-    "portfolioValueEnd": 3419.52,
+    "portfolioValueEnd": 3411.69,
     "updates": [
       {
         "time": "00:08",
         "note": "Keine Aenderung. Neuer Tag, Tagesbudget gutgeschrieben. Kursupdate BTC/HYPE/BCH/QNT, alle Positionen im Halteband.",
         "portfolioValue": 3419.52
+      },
+      {
+        "time": "01:10",
+        "note": "Keine Aenderung. Kursupdate BTC/HYPE/BCH/QNT, alle Positionen im Halteband (Overbought-Warnungen bei QNT/BCH beachtet).",
+        "portfolioValue": 3411.69
       }
     ]
   }
