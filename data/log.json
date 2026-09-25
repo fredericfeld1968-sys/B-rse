@@ -6400,16 +6400,16 @@
   },
   {
     "date": "2026-09-25",
-    "marketOverview": "Bitcoin konsolidiert nach dem Ruecksetzer von ueber 87.000 USD (hoechster Stand seit Januar) im Bereich um 84.100 USD; der breite Kryptomarkt bleibt mit -2,7% auf 2,84 Bio. USD unter leichtem Verkaufsdruck (rund 510 Mio. USD Liquidationen), Fokus richtet sich auf die Fed-Rede von Cleveland-Fed-Praesidentin Hammack am 26.09. Aktien/ETFs/Rohstoffe sind vor Handelsbeginn (Europa ab 09:00, US ab 15:30 MESZ) weiterhin nicht handelbar.",
+    "marketOverview": "Bitcoin stabilisiert sich bei ca. 84.187 USD (+0,13% 24h), der breite Kryptomarkt zeigt sich nach der Konsolidierung der Nacht wieder etwas ruhiger. HYPE bleibt nach dem starken Lauf der Vorwoche in Konsolidierung bei 92,09 USD, BCH pendelt seitwaerts um 332,76 USD nach der CME-Futures-Rally vom 22.09. USA und China verlaengern den Handels-Waffenstillstand bis Mitte Januar, Fed-Vertreter Kashkari betont weiter erhoehte Inflation. Aktien/ETFs/Rohstoffe sind vor Handelsbeginn (Xetra ab 09:00 MESZ) weiterhin nicht handelbar.",
     "decision": "Keine neuen Trades heute bisher. Tagesbudget 1.000 EUR bereits um 00:08 gutgeschrieben. Offene Positionen (BTC x2, HYPE, BCH) werden laufend auf aktuelle Kurse gebracht; keine Position hat bislang Stop-Loss (-6,5 bis -7,5%) oder Gewinnschwelle (7-9%) erreicht.",
-    "reasoning": "Kein neuer, unabhaengig bestaetigter Einzelkatalysator seit dem letzten Lauf. HYPE nach starkem Lauf der Vorwoche weiter in Konsolidierung (-4,06% seit Kauf), BTC und BCH nahezu unveraendert. Ohne ueberzeugende Gelegenheit und ausserhalb der Handelszeiten fuer Aktien/ETFs/Rohstoffe wird bewusst nicht gehandelt.",
+    "reasoning": "Kein neuer, unabhaengig bestaetigter Einzelkatalysator seit dem letzten Lauf. Alle vier offenen Positionen bewegen sich weiter im normalen Schwankungsband (BTC +3,93%/-1,00%, HYPE -2,37%, BCH -2,13%). Vor Handelsbeginn fuer Aktien/ETFs/Rohstoffe und ohne ueberzeugende neue Krypto-Gelegenheit wird bewusst nicht gehandelt.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
       "pos-0019",
       "pos-0021"
     ],
-    "portfolioValueEnd": 2691.78,
+    "portfolioValueEnd": 2697.49,
     "updates": [
       {
         "time": "00:08",
@@ -6450,6 +6450,11 @@
         "time": "07:09",
         "note": "Kein Trade (BTC ca. 84.100 USD nahezu unveraendert, HYPE weiter schwaecher auf 90,50 USD -4,06%, BCH stabil auf 336,00 USD -1,21% - keine Schwelle erreicht, kein neuer Katalysator, Aktien/ETFs/Rohstoffe vor Handelsstart)",
         "portfolioValue": 2691.78
+      },
+      {
+        "time": "08:08",
+        "note": "Kein Trade (BTC auf 84.187 USD erholt: pos-0016 +3,93%, pos-0018 -1,00%; HYPE auf 92,09 USD -2,37%; BCH auf 332,76 USD -2,13% - alle im normalen Schwankungsband, kein neuer Katalysator, Aktien/ETFs/Rohstoffe vor Handelsbeginn)",
+        "portfolioValue": 2697.49
       }
     ]
   }
