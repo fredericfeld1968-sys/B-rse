@@ -6400,16 +6400,16 @@
   },
   {
     "date": "2026-09-25",
-    "marketOverview": "Bitcoin pendelt um ca. 84.150 USD (leicht schwaecher, Marktkap. -0,7%), Hyperliquid (HYPE) gibt nach starkem Wochenlauf auf ca. 90,93 USD nach (-4,6% in 24h laut CoinGecko), Bitcoin Cash konsolidiert die CME-Futures-Rally bei ca. 344 USD. An den US-Boersen dominiert Tech/KI-Sentiment (Nasdaq/QQQ leicht im Plus, Meta +4,5% auf Rekordkurs nach Kurszielanhebungen), waehrend 10-Jahres-Renditen weiter steigen (+0,94% heute) und die Fed nach der Zinserhoehung vom 16.09. weitere Schritte signalisiert; Gold faellt unter 4.300 USD (starker Dollar).",
-    "decision": "Keine neuen Trades heute (Stand 13:08 MESZ). Tagesbudget 1.000 EUR bereits um 00:08 gutgeschrieben (kein weiterer Grant heute). Offene Positionen (BTC x2, HYPE, BCH) laufend auf aktuelle Kurse gebracht; keine Position hat bislang Stop-Loss (-6,5 bis -7,5%) oder Gewinnschwelle (7-9%) erreicht.",
-    "reasoning": "Kein neuer, unabhaengig bestaetigter Einzelkatalysator seit dem letzten Lauf. Meta legt zwar +4,5% zu, jedoch ohne frischen, heute erstmals gemeldeten Ausloeser (fortgesetztes Muse-/Kurszielanhebungs-Momentum, das bereits am 09.-21.09. gehandelt und mit +9,87% Gewinn realisiert wurde) - kein neuer Trade. Makroumfeld bleibt risikoavers (Renditen auf Mehrjahres-Hoch, Fed-Falkenhaftigkeit, schwaecherer globaler Kryptomarkt), Gold faellt unter 4.300 USD. Alle vier offenen Positionen bewegen sich im normalen Schwankungsband (BTC +3,89%/-1,04%, HYPE -3,60%, BCH +1,19%), daher bewusst kein Trade.",
+    "marketOverview": "Bitcoin notiert um ca. 84.100-85.200 USD (Quellen leicht uneinheitlich, Wochenplus nahe 10%), Hyperliquid (HYPE) erholt sich leicht auf ca. 92,50 USD nach der Schwaeche der letzten Stunden, Bitcoin Cash konsolidiert weiter um 340 USD nach der CME-Futures-Rally. An den US-/EU-Boersen dominiert leichter Optimismus (Nasdaq/QQQ +0,5%, gestuetzt von KI-/Halbleiter-Nachfrage), die 10-Jahres-Rendite bleibt mit 5,17% erhoeht. Hoffnung auf einen Hormuz-Deal drueckt Brent unter 105 USD; zusaetzlich findet heute ein Trump-Xi-Treffen statt, das fuer Marktbewegung sorgen koennte, aber noch ohne konkretes Ergebnis.",
+    "decision": "Keine neuen Trades heute (Stand 14:13 MESZ, 15. Lauf des Tages). Tagesbudget 1.000 EUR bereits um 00:08 gutgeschrieben (kein weiterer Grant heute). Offene Positionen (BTC x2, HYPE, BCH) laufend auf aktuelle Kurse gebracht; keine Position hat bislang Stop-Loss (-6,5 bis -7,5%) oder Gewinnschwelle (7-9%) erreicht.",
+    "reasoning": "Kein neuer, unabhaengig bestaetigter Einzelkatalysator seit dem letzten Lauf. Das anstehende Trump-Xi-Treffen und die Hormuz-Deal-Hoffnung sind bereits bekannte, im Markt eingepreiste Themen ohne konkretes neues Ergebnis; Aktienmarkt-Optimismus (Nasdaq +0,5%) ist moderat und liefert keinen ueberzeugenden Einzeltitel-Einstiegspunkt. Alle vier offenen Positionen bewegen sich weiter im normalen Schwankungsband (BTC +3,85%/-1,07%, HYPE -1,94%, BCH +0,04%), daher bewusst kein Trade.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
       "pos-0019",
       "pos-0021"
     ],
-    "portfolioValueEnd": 2709.3,
+    "portfolioValueEnd": 2711.92,
     "updates": [
       {
         "time": "00:08",
@@ -6480,6 +6480,11 @@
         "time": "13:08",
         "note": "Keine Aenderung. BTC auf 84.150 USD (pos-0016 +3,89%, pos-0018 -1,04%), HYPE nach CoinGecko-Live-Daten auf 90,93 USD nachgebend (-3,60%), BCH auf 344,02 USD (+1,19%). Meta +4,5% auf Rekordkurs, aber kein frischer Einzelkatalysator; keine Schwelle erreicht, kein Trade.",
         "portfolioValue": 2709.3
+      },
+      {
+        "time": "14:13",
+        "note": "Keine Aenderung. BTC auf ca. 84.122 USD (pos-0016 +3,85%, pos-0018 -1,07%), HYPE erholt auf 92,50 USD (-1,94%), BCH stabil auf 340,13 USD (+0,04%). Trump-Xi-Treffen und Hormuz-Deal-Hoffnung stuetzen Markt leicht, aber kein neuer Einzelkatalysator; keine Schwelle erreicht.",
+        "portfolioValue": 2711.92
       }
     ]
   }
