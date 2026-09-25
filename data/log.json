@@ -6400,9 +6400,9 @@
   },
   {
     "date": "2026-09-25",
-    "marketOverview": "US-Aktien leicht im Plus (S&P500 +0,3%, Nasdaq +0,3%, Dow +216 Pkt.) am letzten Tag des Trump-Xi-Staatsbesuchs (Tee-Empfang, Nationalarchiv-Besuch); Oel faellt weiter auf Hoffnung einer Hormuz-Wiederoeffnung (Iran-Aussenminister Araghchi bietet Deal binnen 7 Tagen an), Anleiherenditen von Mehrjahrzehnte-Hochs zurueck. Kryptomarkt in breiter Altcoin-Season-Rally (Altcoin-Index hoechster Stand seit >3 Monaten, 93 von 100 CoinDesk-100-Titeln im Plus), Bitcoin-ETF-Zuflüsse 2026 erstmals wieder positiv (+800 Mio. USD).",
-    "decision": "Neue Position: Kauf Quant (QNT) 700 EUR nach bestaetigtem institutionellem Ausbruch (The-Clearing-House-Partnerschaft mit 25 US-Banken). Bestehende Krypto-Positionen (BTC x2, HYPE, BCH, QNT) unveraendert gehalten, Kurse fortlaufend aktualisiert; keine Verkaeufe.",
-    "reasoning": "QNT sprang nach der Ankuendigung, dass The Clearing House Quant als Interoperabilitaets-Layer fuer sein neues tokenisiertes Einlagen-Netzwerk im US-Bankensystem (25 Institute, Launch H1 2027) ausgewaehlt hat, von ca. 70 auf ueber 90 USD (+35-40% in 24h, Volumen +718%), mehrfach unabhaengig bestaetigt (KuCoin, Cryptonomist, CoinCodex, Blockonomi, Coinpedia) - ein echter fundamentaler institutioneller Katalysator analog zu den erfolgreichen AVAX/NYSE- und BCH/CME-Trades. Bei sehr hohem freiem Kapital (~48.400 EUR) und passend zum spekulativen Risikoprofil daher Neuposition mit engem Risikomanagement (Ziel 7-10% Gewinn, Stop-Loss ca. -6,5 bis -7,5%, analog bisherigem Muster). Bestehende BTC/HYPE/BCH/QNT-Positionen zeigen im 18:08-Lauf keine neuen Schwellenwert-Ereignisse (Kursbewegungen im ueblichen Rahmen, QNT nach dem Kauf stabil um 95 USD), daher unveraendert gehalten. US-Aktien im spaeten Nachmittagshandel (S&P/Nasdaq je +0,3-0,6%) ohne einzeltitelspezifischen Katalysator, der ein spekulatives Risiko-Ertrags-Profil rechtfertigt.",
+    "marketOverview": "US-Aktienmaerkte leicht im Plus (Dow +0,9%) am letzten Tag des Xi-Staatsbesuchs (Tee-Termin mit Trump), getragen von KI-Fantasie: Akamai schoss nach 11,6-Mrd-USD-Anthropic-Deal zeitweise bis +16% hoch, hat sich aber bis Mittag auf rund +8% zurueckgebildet - Bewegung bereits weit gelaufen, kein frischer Einstieg mehr. Brent faellt weiter auf ca. 105 USD (Hormuz-Deeskalationshoffnung), stuetzt Risikoappetit. Krypto uneinheitlich: BTC pendelt um 84.900 USD (US-Spot-ETF-Zufluesse +714,75 Mio. USD), HYPE (-0,63%) und BCH (-2,09%) leicht schwaecher, QNT haelt sich nach dem institutionellen Ausbruch stabil (+0,36%).",
+    "decision": "Kein neuer Trade in diesem Lauf. Bestehende offene Positionen (BTC x2, HYPE, BCH, QNT) liegen alle innerhalb der etablierten Halteband (-6,5% bis +7%), keine Schwelle erreicht. Der einzige neue Katalysator des Tages (Akamai/Anthropic) ist bereits von +16% auf +8% zurueckgekommen - kein ueberzeugender frischer Einstieg mehr, daher keine neue Position.",
+    "reasoning": "Kursaktualisierung: BTC 84.900 USD (pos-0016 +4,81%, pos-0018 -0,16%), HYPE 93,74 USD (-0,63%), BCH 332,88 USD (-2,09%), QNT 95,25 USD (unveraendert, +0,36%). Keine Position erreicht die Gewinnmitnahme- (~7-9%) oder Stop-Loss-Schwelle (~-6,5% bis -7,5%). Freies Kapital bleibt hoch (ca. 48.368 EUR), aber ohne ueberzeugende neue Gelegenheit wird nicht investiert.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
@@ -6410,7 +6410,7 @@
       "pos-0021",
       "pos-0022"
     ],
-    "portfolioValueEnd": 3410.85,
+    "portfolioValueEnd": 3423.62,
     "updates": [
       {
         "time": "00:08",
@@ -6506,6 +6506,11 @@
         "time": "18:08",
         "note": "Keine Aenderung. QNT nach Kauf stabil auf 95,25 USD (+0,36%), BTC auf 84.150 USD (pos-0016 +3,89%, pos-0018 -1,04%), HYPE auf 93,90 USD (-0,46%), BCH auf 332,77 USD (-2,12%). Keine Schwelle erreicht, US-Aktienmarkt ohne einzeltitelspezifischen Katalysator, kein neuer Trade.",
         "portfolioValue": 3410.85
+      },
+      {
+        "time": "19:08",
+        "note": "Keine Aenderung. BTC auf 84.900 USD (pos-0016 +4,81%, pos-0018 -0,16%), HYPE auf 93,74 USD (-0,63%), BCH auf 332,88 USD (-2,09%), QNT stabil (+0,36%). Akamai/Anthropic-Rally bereits von +16% auf +8% abgeflaut, kein ueberzeugender Neueinstieg.",
+        "portfolioValue": 3423.62
       }
     ]
   }
