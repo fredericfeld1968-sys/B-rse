@@ -6533,5 +6533,26 @@
         "portfolioValue": 3413.83
       }
     ]
+  },
+  {
+    "date": "2026-09-26",
+    "marketOverview": "Samstagfrueh, 00:08 MESZ: Aktien/ETFs/Rohstoffe seit Boersenschluss Freitag nicht handelbar, nur Krypto aktiv. Bitcoin stabil bei ca. 83.872 USD (-0,5% 24h) nach starker Wochenperformance, Fed-Zinserwartungen bremsen weiter. QNT bleibt nach dem Clearing-House-Ausbruch mit +6,7% 24h der staerkste Titel im Portfolio (97,12 USD), HYPE konsolidiert bei 91,84 USD, BCH seitwaerts bei 340,14 USD. Insgesamt ruhiger Wochenendhandel ohne neuen Einzeltitel-Katalysator.",
+    "decision": "Kein neuer Trade in diesem Lauf. Alle offenen Positionen (BTC x2, HYPE, BCH, QNT) bleiben innerhalb des etablierten Haltebands (-6,5% bis +7-9%): BTC pos-0016 +3,55%, pos-0018 -1,37%, HYPE -2,64%, BCH +0,04%, QNT +2,33%. Keine Schwelle erreicht, kein ueberzeugender frischer Katalysator fuer eine Neuposition am fruehen Samstagmorgen.",
+    "reasoning": "Kursaktualisierung 00:08 MESZ (CoinGecko live): BTC 83.872 USD, HYPE 91,84 USD, BCH 340,14 USD, QNT 97,12 USD. Keine Position erreicht Gewinnmitnahme- (~7-9%) oder Stop-Loss-Schwelle (~-6,5% bis -7,5%). Freies Kapital nach Tagesbudget-Gutschrift (+1000 EUR) sehr hoch (~49.368 EUR), aber ohne ueberzeugende neue Gelegenheit (ruhiger Wochenendhandel, keine frische Einzeltitel-Story) wird nicht investiert.",
+    "positionIds": [
+      "pos-0016",
+      "pos-0018",
+      "pos-0019",
+      "pos-0021",
+      "pos-0022"
+    ],
+    "portfolioValueEnd": 3419.52,
+    "updates": [
+      {
+        "time": "00:08",
+        "note": "Keine Aenderung. Neuer Tag, Tagesbudget gutgeschrieben. Kursupdate BTC/HYPE/BCH/QNT, alle Positionen im Halteband.",
+        "portfolioValue": 3419.52
+      }
+    ]
   }
 ]
