@@ -6400,16 +6400,16 @@
   },
   {
     "date": "2026-09-25",
-    "marketOverview": "Bitcoin notiert um ca. 84.100-85.200 USD (Quellen leicht uneinheitlich, Wochenplus nahe 10%), Hyperliquid (HYPE) erholt sich leicht auf ca. 92,50 USD nach der Schwaeche der letzten Stunden, Bitcoin Cash konsolidiert weiter um 340 USD nach der CME-Futures-Rally. An den US-/EU-Boersen dominiert leichter Optimismus (Nasdaq/QQQ +0,5%, gestuetzt von KI-/Halbleiter-Nachfrage), die 10-Jahres-Rendite bleibt mit 5,17% erhoeht. Hoffnung auf einen Hormuz-Deal drueckt Brent unter 105 USD; zusaetzlich findet heute ein Trump-Xi-Treffen statt, das fuer Marktbewegung sorgen koennte, aber noch ohne konkretes Ergebnis.",
-    "decision": "Keine neuen Trades heute (Stand 14:13 MESZ, 15. Lauf des Tages). Tagesbudget 1.000 EUR bereits um 00:08 gutgeschrieben (kein weiterer Grant heute). Offene Positionen (BTC x2, HYPE, BCH) laufend auf aktuelle Kurse gebracht; keine Position hat bislang Stop-Loss (-6,5 bis -7,5%) oder Gewinnschwelle (7-9%) erreicht.",
-    "reasoning": "Kein neuer, unabhaengig bestaetigter Einzelkatalysator seit dem letzten Lauf. Das anstehende Trump-Xi-Treffen und die Hormuz-Deal-Hoffnung sind bereits bekannte, im Markt eingepreiste Themen ohne konkretes neues Ergebnis; Aktienmarkt-Optimismus (Nasdaq +0,5%) ist moderat und liefert keinen ueberzeugenden Einzeltitel-Einstiegspunkt. Alle vier offenen Positionen bewegen sich weiter im normalen Schwankungsband (BTC +3,85%/-1,07%, HYPE -1,94%, BCH +0,04%), daher bewusst kein Trade.",
+    "marketOverview": "Bitcoin notiert stabil um ca. 84.100-85.200 USD (CoinGecko 84.122 USD, Wochenplus nahe 10%), Hyperliquid (HYPE) hat sich auf 94,33 USD erholt (wieder auf Einstandsniveau von pos-0019), Bitcoin Cash konsolidiert weiter um 338 USD nach der CME-Futures-Rally. An den US-Boersen (noch vor NYSE-Handelsstart 15:30 MESZ) zeigen Futures leichten Optimismus (Nasdaq-Futures +0,66%, S&P-Futures +0,4%, Chipwerte fester), waehrend die 10-Jahres-Rendite bei erhoehten 5,17% verharrt. Brent faellt unter 105 USD auf Hoffnung eines phasenweisen US-Iran-Deals zur Wiederoeffnung der Strasse von Hormuz. Trump und Xi treffen sich heute zu einem Tee-Termin und besuchen gemeinsam das National Archives zum Abschluss von Xis Staatsbesuch - Handelsthemen stehen auf der Agenda, bislang aber ohne konkretes Ergebnis.",
+    "decision": "Keine neuen Trades heute (Stand 15:08 MESZ, 16. Lauf des Tages). Tagesbudget 1.000 EUR bereits um 00:08 gutgeschrieben (kein weiterer Grant heute, lastGrantDate bereits heute). Offene Positionen (BTC x2, HYPE, BCH) auf aktuelle Kurse gebracht; keine Position hat bislang Stop-Loss (-6,5 bis -7,5%) oder Gewinnschwelle (7-9%) erreicht.",
+    "reasoning": "Kein neuer, unabhaengig bestaetigter Einzelkatalysator seit dem letzten Lauf. Aktien-Futures sind vor NYSE-Handelsstart nur moderat positiv (Nasdaq +0,66%) ohne ueberzeugenden Einzeltitel-Einstiegspunkt; der fallende Oelpreis (Hormuz-Deal-Hoffnung) liefert kein Long-Momentum wie bei fruegeren Eskalations-Trades. Das Trump-Xi-Treffen ist ein bekanntes, bereits eingepreistes Ereignis ohne konkretes Ergebnis. Alle vier offenen Krypto-Positionen bewegen sich im normalen Schwankungsband (BTC +3,85%/-1,07%, HYPE 0,00%, BCH -0,62%), daher bewusst kein Trade - trotz hohem freiem Kapital wird nur bei einer wirklich ueberzeugenden Gelegenheit gehandelt.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
       "pos-0019",
       "pos-0021"
     ],
-    "portfolioValueEnd": 2711.92,
+    "portfolioValueEnd": 2719.6,
     "updates": [
       {
         "time": "00:08",
@@ -6485,6 +6485,11 @@
         "time": "14:13",
         "note": "Keine Aenderung. BTC auf ca. 84.122 USD (pos-0016 +3,85%, pos-0018 -1,07%), HYPE erholt auf 92,50 USD (-1,94%), BCH stabil auf 340,13 USD (+0,04%). Trump-Xi-Treffen und Hormuz-Deal-Hoffnung stuetzen Markt leicht, aber kein neuer Einzelkatalysator; keine Schwelle erreicht.",
         "portfolioValue": 2711.92
+      },
+      {
+        "time": "15:08",
+        "note": "Keine Aenderung. BTC stabil auf 84.122 USD (pos-0016 +3,85%, pos-0018 -1,07%), HYPE erholt auf 94,33 USD (0,00%, zurueck auf Einstand), BCH auf 337,89 USD (-0,62%). Kein ueberzeugender neuer Katalysator, Aktienmarkt vor NYSE-Handelsstart, Oelpreis faellt auf Hormuz-Deal-Hoffnung.",
+        "portfolioValue": 2719.6
       }
     ]
   }
