@@ -6400,16 +6400,16 @@
   },
   {
     "date": "2026-09-25",
-    "marketOverview": "Bitcoin behauptet sich stabil um 84.250 USD trotz Rekord-Anleiherenditen (10-Jahres-Rendite ~5,20%, 30-Jahre auf hoechstem Stand seit 2004) infolge hoher Oelpreise und Inflationssorgen; Fed-Zinserhoehungs-Wahrscheinlichkeit fuer Oktober bleibt bei rund 70%. Der globale Kryptomarkt zeigte zuletzt Schwaeche (Gesamt-Marktkap. zeitweise -3,3%), HYPE haelt sich nahe Allzeithoch bei ca. 94,50 USD, BCH konsolidiert nach der CME-Futures-Rally bei ca. 336,50 USD. Xetra und US-Boersen geoeffnet, aber ohne ueberzeugenden neuen Einzelkatalysator; Anleger bleiben angesichts der Renditerally vorsichtig.",
-    "decision": "Keine neuen Trades heute (Stand 12:09 MESZ). Tagesbudget 1.000 EUR bereits um 00:08 gutgeschrieben. Offene Positionen (BTC x2, HYPE, BCH) laufend auf aktuelle Kurse gebracht; keine Position hat bislang Stop-Loss (-6,5 bis -7,5%) oder Gewinnschwelle (7-9%) erreicht.",
-    "reasoning": "Kein neuer, unabhaengig bestaetigter Katalysator seit dem letzten Lauf; Makroumfeld bleibt risikoavers (Anleiherenditen auf mehrjahrzehnte-Hoch, Fed-Zinserhoehungssorgen, schwacher globaler Kryptomarkt). Alle vier offenen Positionen bewegen sich im normalen Schwankungsband (BTC +4,01%/-0,92%, HYPE +0,18%, BCH -1,03%), daher bewusst kein Trade.",
+    "marketOverview": "Bitcoin pendelt um ca. 84.150 USD (leicht schwaecher, Marktkap. -0,7%), Hyperliquid (HYPE) gibt nach starkem Wochenlauf auf ca. 90,93 USD nach (-4,6% in 24h laut CoinGecko), Bitcoin Cash konsolidiert die CME-Futures-Rally bei ca. 344 USD. An den US-Boersen dominiert Tech/KI-Sentiment (Nasdaq/QQQ leicht im Plus, Meta +4,5% auf Rekordkurs nach Kurszielanhebungen), waehrend 10-Jahres-Renditen weiter steigen (+0,94% heute) und die Fed nach der Zinserhoehung vom 16.09. weitere Schritte signalisiert; Gold faellt unter 4.300 USD (starker Dollar).",
+    "decision": "Keine neuen Trades heute (Stand 13:08 MESZ). Tagesbudget 1.000 EUR bereits um 00:08 gutgeschrieben (kein weiterer Grant heute). Offene Positionen (BTC x2, HYPE, BCH) laufend auf aktuelle Kurse gebracht; keine Position hat bislang Stop-Loss (-6,5 bis -7,5%) oder Gewinnschwelle (7-9%) erreicht.",
+    "reasoning": "Kein neuer, unabhaengig bestaetigter Einzelkatalysator seit dem letzten Lauf. Meta legt zwar +4,5% zu, jedoch ohne frischen, heute erstmals gemeldeten Ausloeser (fortgesetztes Muse-/Kurszielanhebungs-Momentum, das bereits am 09.-21.09. gehandelt und mit +9,87% Gewinn realisiert wurde) - kein neuer Trade. Makroumfeld bleibt risikoavers (Renditen auf Mehrjahres-Hoch, Fed-Falkenhaftigkeit, schwaecherer globaler Kryptomarkt), Gold faellt unter 4.300 USD. Alle vier offenen Positionen bewegen sich im normalen Schwankungsband (BTC +3,89%/-1,04%, HYPE -3,60%, BCH +1,19%), daher bewusst kein Trade.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
       "pos-0019",
       "pos-0021"
     ],
-    "portfolioValueEnd": 2720.56,
+    "portfolioValueEnd": 2709.3,
     "updates": [
       {
         "time": "00:08",
@@ -6475,6 +6475,11 @@
         "time": "12:09",
         "note": "Keine Aenderung. Kurse aktualisiert (BTC 84.250 USD: pos-0016 +4,01%, pos-0018 -0,92%; HYPE 94,50 USD +0,18%; BCH 336,50 USD -1,03%). Kein neuer Katalysator, Renditen auf Mehrjahrzehnte-Hoch belasten Risikoappetit weiter.",
         "portfolioValue": 2720.56
+      },
+      {
+        "time": "13:08",
+        "note": "Keine Aenderung. BTC auf 84.150 USD (pos-0016 +3,89%, pos-0018 -1,04%), HYPE nach CoinGecko-Live-Daten auf 90,93 USD nachgebend (-3,60%), BCH auf 344,02 USD (+1,19%). Meta +4,5% auf Rekordkurs, aber kein frischer Einzelkatalysator; keine Schwelle erreicht, kein Trade.",
+        "portfolioValue": 2709.3
       }
     ]
   }
