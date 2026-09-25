@@ -6400,16 +6400,17 @@
   },
   {
     "date": "2026-09-25",
-    "marketOverview": "Bitcoin konsolidiert um ca. 84.300 USD (Spanne 84.000-85.200 USD, Wochenplus nahe 10%). US-Aktienmaerkte nach Handelsstart nahezu unveraendert (S&P 500 -0,02%, Nasdaq +0,01%, Dow -0,31%): Meta (+4,5%) und Alphabet fuehren, Nvidia und Microsoft leicht schwaecher. Brent faellt weiter auf Hoffnung eines Hormuz-Deals. Am Kryptomarkt laeuft eine breite Altcoin-Rally (Altcoin-Season-Index auf 3-Monats-Hoch), am auffaelligsten Zcash (ZEC), das nach der Grayscale-ETF-Story bereits +2.800% seit dem Sommer verzeichnet und nahe seinem Allzeithoch (~1.500-1.600 USD) notiert - fuer einen Neueinstieg zu ueberhitzt. HYPE (93,48 USD) und BCH (332,77 USD) bewegen sich im normalen Schwankungsband.",
-    "decision": "Keine neuen Trades heute (Stand 16:08 MESZ, 17. Lauf des Tages). Tagesbudget bereits um 00:08 gutgeschrieben (kein weiterer Grant heute). Offene Positionen (BTC x2, HYPE, BCH) auf aktuelle Kurse gebracht; keine Position hat bislang Stop-Loss (-6,5 bis -7,5%) oder Gewinnschwelle (7-9%) erreicht.",
-    "reasoning": "Kein neuer, unabhaengig bestaetigter Einzelkatalysator seit dem letzten Lauf. Der Aktienmarkt ist nach Handelsstart praktisch flach (S&P 500 -0,02%), kein ueberzeugender Einzeltitel-Einstiegspunkt. Die auffaelligste Kryptobewegung (Zcash) ist bereits parabolisch weit gelaufen (+2.800% seit Sommer, nahe Allzeithoch) - ein Einstieg jetzt waere ein verspaeteter Blow-off-Top-Kauf, kein bestaetigter Fruehausbruch wie bei den bisherigen erfolgreichen Trades, daher bewusst kein Kauf. Alle vier offenen Positionen bewegen sich im normalen Schwankungsband (BTC +4,07%/-0,86%, HYPE -0,90%, BCH -2,12%), daher weiterhin kein Trade.",
+    "marketOverview": "US-Aktien leicht im Plus (S&P500 +0,3%, Nasdaq +0,3%, Dow +216 Pkt.) am letzten Tag des Trump-Xi-Staatsbesuchs (Tee-Empfang, Nationalarchiv-Besuch); Oel faellt weiter auf Hoffnung einer Hormuz-Wiederoeffnung (Iran-Aussenminister Araghchi bietet Deal binnen 7 Tagen an), Anleiherenditen von Mehrjahrzehnte-Hochs zurueck. Kryptomarkt in breiter Altcoin-Season-Rally (Altcoin-Index hoechster Stand seit >3 Monaten, 93 von 100 CoinDesk-100-Titeln im Plus), Bitcoin-ETF-Zuflüsse 2026 erstmals wieder positiv (+800 Mio. USD).",
+    "decision": "Neue Position: Kauf Quant (QNT) 700 EUR nach bestaetigtem institutionellem Ausbruch (The-Clearing-House-Partnerschaft mit 25 US-Banken). Bestehende Krypto-Positionen (BTC x2, HYPE, BCH) unveraendert gehalten, Kurse fortlaufend aktualisiert; keine Verkaeufe.",
+    "reasoning": "QNT sprang nach der Ankündigung, dass The Clearing House Quant als Interoperabilitaets-Layer fuer sein neues tokenisiertes Einlagen-Netzwerk im US-Bankensystem (25 Institute, Launch H1 2027) ausgewaehlt hat, von ca. 70 auf ueber 90 USD (+35-40% in 24h, Volumen +718%), mehrfach unabhaengig bestaetigt (KuCoin, Cryptonomist, CoinCodex, Blockonomi, Coinpedia) - ein echter fundamentaler institutioneller Katalysator analog zu den erfolgreichen AVAX/NYSE- und BCH/CME-Trades. Bei sehr hohem freiem Kapital (~49.000 EUR) und passend zum spekulativen Risikoprofil daher Neuposition mit engem Risikomanagement (Ziel 7-10% Gewinn, Stop-Loss ca. -6,5 bis -7,5%, analog bisherigem Muster). Bestehende BTC/HYPE/BCH-Positionen zeigen keine neuen Schwellenwert-Ereignisse (Kursbewegungen im ueblichen Rahmen), daher unveraendert gehalten.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
       "pos-0019",
-      "pos-0021"
+      "pos-0021",
+      "pos-0022"
     ],
-    "portfolioValueEnd": 2708.39,
+    "portfolioValueEnd": 3425.66,
     "updates": [
       {
         "time": "00:08",
@@ -6495,6 +6496,11 @@
         "time": "16:08",
         "note": "Keine Aenderung. BTC auf ca. 84.300 USD (pos-0016 +4,07%, pos-0018 -0,86%), HYPE auf 93,48 USD (-0,90%), BCH auf 332,77 USD (-2,12%). Zcash-Rally (+2.800% seit Sommer, ATH-nah) zu ueberhitzt fuer Neueinstieg, sonst kein neuer Katalysator, keine Schwelle erreicht.",
         "portfolioValue": 2708.39
+      },
+      {
+        "time": "17:08",
+        "note": "Kauf Quant (QNT) 700 EUR nach bestaetigtem institutionellem Ausbruch (Clearing-House-Partnerschaft, +35-40% in 24h). BTC (84.300 USD: pos-0016 +4,07%, pos-0018 -0,86%), HYPE auf 94,33 USD (0,00%, zurueck auf Einstand), BCH auf 339,49 USD (-0,15%) aktualisiert.",
+        "portfolioValue": 3425.66
       }
     ]
   }
