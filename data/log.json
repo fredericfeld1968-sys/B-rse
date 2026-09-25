@@ -6400,9 +6400,9 @@
   },
   {
     "date": "2026-09-25",
-    "marketOverview": "US-Maerkte am Freitagabend geschlossen (Handelsschluss 22:00 CEST); Oel (Brent) weiter nahe 105 USD auf Hormuz-Deeskalationshoffnung. Krypto-Markt insgesamt leicht schwaecher: BTC pendelt um 83.900-84.000 USD (leicht ruecklaeufig, -0,5% 24h), HYPE gibt weiter nach auf ca. 91,5 USD (-3,1% 24h), BCH stabil bei ca. 340 USD, QNT haelt sich nach dem Clearing-House-Ausbruch weiter ueber 97 USD (+12,6% 24h laut CoinGecko), Tages-RSI aber weiterhin ueberkauft.",
-    "decision": "Kein neuer Trade in diesem Lauf. Bestehende offene Positionen (BTC x2, HYPE, BCH, QNT) bleiben innerhalb des etablierten Haltebands (-6,5% bis +7-9%). HYPE rutscht mit -3,01% weiter ins Minus, aber klar ueber der Stop-Loss-Schwelle; QNT konsolidiert leicht von den Tageshochs, bleibt aber deutlich im Plus. Ausserhalb der Handelszeiten (Boersenschluss, Wochenende steht bevor) sind Aktien/ETFs/Rohstoffe ohnehin nicht handelbar; fuer Krypto kein ueberzeugender frischer Katalysator.",
-    "reasoning": "Kursaktualisierung 22:09 (CoinGecko live): BTC 83.937 USD (pos-0016 +3,63%, pos-0018 -1,29%), HYPE 91,49 USD (-3,01%), BCH 340,14 USD (+0,04%), QNT 97,22 USD (+2,43%). Keine Position erreicht die Gewinnmitnahme- (~7-9%) oder Stop-Loss-Schwelle (~-6,5% bis -7,5%). Freies Kapital bleibt hoch, aber ohne neue ueberzeugende Gelegenheit (US-Markt bereits geschlossen, Krypto-Bewegungen unauffaellig) wird nicht investiert.",
+    "marketOverview": "Krypto bleibt am spaeten Freitagabend die einzig handelbare Anlageklasse (US-/EU-Boersen seit 22:00 CEST geschlossen, Wochenende steht bevor). Bitcoin konsolidiert bei ca. 83.667 USD (-0,8% 24h) nach starker Wochenperformance (+10%), Fed-Zinserhoehungs-Erwartungen bremsen weiter. HYPE gibt mit -2,0% 24h auf 91,37 USD nach, BCH stabil bei 338,46 USD. QNT haelt sich nach dem Clearing-House-Ausbruch weiter deutlich im Plus (+12,6% 24h) bei 97,66 USD, Altcoin-Rally insgesamt breit (Fear&Greed 71-72, Greed), aber kein neuer Einzelkatalysator seit dem letzten Lauf.",
+    "decision": "Kein neuer Trade in diesem Lauf. Alle offenen Positionen (BTC x2, HYPE, BCH, QNT) bleiben innerhalb des etablierten Haltebands (-6,5% bis +7-9%): BTC pos-0016 +3,29%, pos-0018 -1,61%, HYPE -3,14%, BCH -0,45%, QNT +2,90%. Keine Schwelle erreicht, kein ueberzeugender frischer Katalysator fuer eine Neuposition um diese Uhrzeit (Boersen geschlossen, Krypto-Markt ohne Einzeltitel-Ausreisser seit dem 22:09-Lauf).",
+    "reasoning": "Kursaktualisierung 23:10 MESZ (CoinGecko live): BTC 83.667 USD, HYPE 91,37 USD, BCH 338,46 USD, QNT 97,66 USD. Keine Position erreicht Gewinnmitnahme- (~7-9%) oder Stop-Loss-Schwelle (~-6,5% bis -7,5%). Freies Kapital bleibt sehr hoch (~48.368 EUR), aber ohne ueberzeugende neue Gelegenheit (Bitget-Hack bereits eingepreist/abgefedert, keine frische Einzeltitel-Story) wird nicht investiert.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
@@ -6410,7 +6410,7 @@
       "pos-0021",
       "pos-0022"
     ],
-    "portfolioValueEnd": 3419.21,
+    "portfolioValueEnd": 3413.83,
     "updates": [
       {
         "time": "00:08",
@@ -6526,6 +6526,11 @@
         "time": "22:09",
         "note": "Keine Aenderung. BTC 83.937 USD (pos-0016 +3,63%, pos-0018 -1,29%), HYPE weiter schwaecher auf 91,49 USD (-3,01%), BCH stabil bei 340,14 USD, QNT haelt bei 97,22 USD (+2,43%). Keine Schwelle erreicht, US-Markt bereits geschlossen (Boersenschluss 22:00 CEST), kein neuer Katalysator.",
         "portfolioValue": 3419.21
+      },
+      {
+        "time": "23:10",
+        "note": "Keine Aenderung. BTC 83.667 USD (pos-0016 +3,29%, pos-0018 -1,61%), HYPE 91,37 USD (-3,14%), BCH 338,46 USD (-0,45%), QNT 97,66 USD (+2,90%). Keine Schwelle erreicht, Boersen geschlossen, kein neuer Krypto-Katalysator.",
+        "portfolioValue": 3413.83
       }
     ]
   }
