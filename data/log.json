@@ -6400,16 +6400,16 @@
   },
   {
     "date": "2026-09-25",
-    "marketOverview": "Bitcoin pendelt nach einem kurzen Ruecksetzer unter 84.000 USD wieder bei ca. 84.150 USD; der starke US-PMI (58,4, schnellstes Wachstum seit 2021) treibt die Wahrscheinlichkeit einer Fed-Zinserhoehung im Oktober auf rund 70% und die US-Renditen auf ein 19-Jahres-Hoch (10J ueber 5,2%). Auch Gold und Silber fallen deutlich (Gold unter 4.300 USD, Silber -3%), US-Aktienindizes schlossen gestern niedriger, Nasdaq beendete seine Rekordserie. Xetra ist seit 09:00 MESZ geoeffnet, Aktien/ETFs/Rohstoffe sind damit handelbar, jedoch weiterhin ohne ueberzeugenden Einzelkatalysator in einem klar risikoaversen, zinssensitiven Marktumfeld. HYPE konsolidiert bei ca. 92 USD, BCH bei ca. 338 USD nach der CME-Futures-Rally der letzten Tage.",
-    "decision": "Keine neuen Trades heute (Stand 10:09 MESZ). Tagesbudget 1.000 EUR bereits um 00:08 gutgeschrieben. Offene Positionen (BTC x2, HYPE, BCH) laufend auf aktuelle Kurse gebracht; keine Position hat bislang Stop-Loss (-6,5 bis -7,5%) oder Gewinnschwelle (7-9%) erreicht.",
-    "reasoning": "Trotz Handelsstart an europaeischen Boersen kein neuer, unabhaengig bestaetigter Einzelkatalysator gefunden. Das Makroumfeld bleibt klar risikoavers (Fed-Zinserhoehungswahrscheinlichkeit fuer Oktober ~70%, Renditen auf 19-Jahres-Hoch, Gold/Silber und US-Aktien unter Druck), was gegen neue spekulative Long-Positionen spricht. Alle vier offenen Positionen bewegen sich weiter im normalen Schwankungsband (BTC +3,89%/-1,04%, HYPE -2,47%, BCH -0,59%), daher bewusst kein Trade.",
+    "marketOverview": "Bitcoin behauptet sich stabil um 84.200 USD trotz eines starken US-PMI (schnellstes Wachstum seit 2021), der die Fed-Zinserhoehungswahrscheinlichkeit fuer Oktober auf rund 70% und die 10-Jahres-Rendite auf ein 19-Jahres-Hoch (~5,1-5,15%) treibt. Gold faellt weiter auf ca. 4.271 USD (Wochenminus ueber 2,5%), Oel erholt sich leicht auf Iran-Rhetorik zur Strasse von Hormuz. US-Indizes bewegen sich per Vortagesschluss nur wenig (S&P 500 -0,02%, Dow -0,31%, Nasdaq +0,01%); Xetra ist seit 09:00 MESZ geoeffnet, jedoch weiterhin ohne ueberzeugenden Einzelkatalysator. HYPE erholt sich auf ca. 94,40 USD (Binance-Spotlisting seit 24.09.), BCH konsolidiert nach der CME-Futures-Rally bei ca. 332,77 USD.",
+    "decision": "Keine neuen Trades heute (Stand 11:10 MESZ). Tagesbudget 1.000 EUR bereits um 00:08 gutgeschrieben. Offene Positionen (BTC x2, HYPE, BCH) laufend auf aktuelle Kurse gebracht; keine Position hat bislang Stop-Loss (-6,5 bis -7,5%) oder Gewinnschwelle (7-9%) erreicht.",
+    "reasoning": "Trotz laufendem Xetra-Handel kein neuer, unabhaengig bestaetigter Einzelkatalysator gefunden; Makroumfeld bleibt risikoavers (hohe Fed-Zinserhoehungswahrscheinlichkeit, Renditen auf 19-Jahres-Hoch, Gold unter Druck). Alle vier offenen Positionen bewegen sich im normalen Schwankungsband (BTC +3,95%/-0,98%, HYPE +0,07%, BCH -2,12%), daher bewusst kein Trade.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
       "pos-0019",
       "pos-0021"
     ],
-    "portfolioValueEnd": 2705.49,
+    "portfolioValueEnd": 2712.44,
     "updates": [
       {
         "time": "00:08",
@@ -6465,6 +6465,11 @@
         "time": "10:09",
         "note": "Kein Trade. Xetra weiter geoeffnet, aber kein neuer Katalysator; Makroumfeld bleibt risikoavers (Fed-Zinserhoehungserwartung ~70%, Renditen auf 19-Jahres-Hoch, Gold/Silber und US-Aktien unter Druck). BTC 84.150 USD (pos-0016 +3,89%, pos-0018 -1,04%), HYPE 92,00 USD (-2,47%), BCH 338,00 USD (-0,59%) - keine Schwelle erreicht.",
         "portfolioValue": 2705.49
+      },
+      {
+        "time": "11:10",
+        "note": "Keine Aenderung. BTC stabil auf 84.200 USD (pos-0016 +3,95%, pos-0018 -0,98%), HYPE erholt auf 94,40 USD (+0,07%) nach Binance-Spotlisting, BCH auf 332,77 USD (-2,12%) nach CME-Futures-Rally-Konsolidierung. Keine Schwelle erreicht, Makroumfeld weiter risikoavers (hohe Fed-Zinserhoehungs-Erwartungen, Renditen auf 19-Jahres-Hoch), kein ueberzeugender neuer Katalysator fuer Aktien/ETFs/Rohstoffe trotz laufendem Xetra-Handel.",
+        "portfolioValue": 2712.44
       }
     ]
   }
