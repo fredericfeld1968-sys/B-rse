@@ -6536,17 +6536,18 @@
   },
   {
     "date": "2026-09-26",
-    "marketOverview": "Bitcoin haelt sich am Samstagmorgen stabil um 83.900-84.000 USD, nachdem die Fed am 24.09. die Zinsen um 25 Basispunkte auf 3,75-4,00% angehoben hat - der Markt reagierte widerstandsfaehig statt panisch. Der Bitget-Hack (352 Mio. USD) wird durch einen Schutzfonds aufgefangen und bleibt ohne groesseren Marktimpact. Cardano (ADA) und weitere Altcoins (Flare, Chainlink) zeigen frisches institutionelles Momentum (Mastercard/Fireblocks-Integration), der Altcoin-Season-Index steht auf einem Mehrmonatshoch. Quant (QNT) bleibt nach dem Clearing-House-Deal stark ueberkauft (RSI ~78-79), Hyperliquid (HYPE) konsolidiert nahe 91,5 USD, Bitcoin Cash (BCH) haelt das Niveau nach der CME-Futures-Ankuendigung.",
-    "decision": "Kein Trade in diesem Lauf (06:07). Wochenende/Nacht, Fed-Zinserhoehung vom 24.09. sorgt weiter fuer vorsichtige Marktstimmung (\"Rektember\"-Narrativ); keine offene Position erreicht Stop-Loss- oder Take-Profit-Schwelle. Cardano-Mastercard/Fireblocks-Nachricht ist bereits zwei Tage alt und im Kurs eingepreist (+8,5% bereits gelaufen) - kein frischer, ueberzeugender Einstieg. Alle offenen Positionen (BTC x2, HYPE, BCH, QNT) bleiben im Halteband; Kurse aktualisiert.",
-    "reasoning": "QNT (+4,75%) naehert sich der Zielspanne, ist aber laut Cryptonomist/CMC weiterhin extrem ueberkauft (RSI ~78-79) und noch klar unter der etablierten Take-Profit-Schwelle (7-9%) - Position bleibt offen. BTC-Positionen (+3,63%/-1,29%) und HYPE (-2,98%) unveraendert im Halteband, BCH nahezu flach (-0,19%). Kein Stop-Loss ausgeloest. Marktweit dominiert nach dem Fed-Zinsschritt vom 24.09. (25bp auf 3,75-4,00%) eine vorsichtige, aber nicht panische Stimmung (BTC haelt sich stabil ueber 83.000 USD trotz 'Rektember'-Saisonalitaet); der Bitget-Hack (352 Mio. USD) bleibt marktseitig gut absorbiert. Ohne einen wirklich frischen, mehrfach unabhaengig bestaetigten Katalysator wird bewusst nicht neu investiert, obwohl freies Kapital reichlich vorhanden waere.",
+    "marketOverview": "Der globale Kryptomarkt legt am Samstagmorgen leicht zu (Gesamt-Marktkap. ~2,98 Billionen USD, +0,3%), Sentiment bleibt bei 'Greed' (74). Bitcoin konsolidiert stabil um 83.900-84.000 USD nach der Fed-Zinserhoehung vom 24.09. (25bp auf 3,75-4,00%). Der Altcoin-Season-Index kletterte binnen einer Woche um ueber 31% auf 59 - klare Kapitalrotation in Altcoins. Quant (QNT) sprang nach dem Clearing-House-Deal und ersten UK-Bank-Livetransaktionen auf ueber 102 USD (Tages-RSI 78-82, stark ueberkauft). Ethena (ENA) legte nach der Ankuendigung einer Integration tokenisierter US-Aktien/Equity-Perpetuals ueber Binance's bStocks-Plattform um 12-18% zu. HYPE konsolidiert nahe 91,5-93,5 USD nach Binance-Spot-Listing (24.09.) und ETF-Zufluessen; BCH haelt das Niveau um 339 USD nach der CME-Futures-Ankuendigung.",
+    "decision": "Lauf 07:08: Gewinnmitnahme QNT (+8,02%, ueberkauft, Zielspanne erreicht) und spekulative Neuposition Ethena (ENA, 700 EUR) auf den bestaetigten institutionellen Katalysator (Binance-Tokenized-Equities-Integration). Kumulierte Tageszusammenfassung: waehrend der Nacht/des Wochenendes bislang sechs Laeufe ohne Handel (Kursupdates BTC/HYPE/BCH/QNT), im siebten Lauf (07:08) dann Gewinnmitnahme bei QNT sowie Neueinstieg in ENA. Alle uebrigen offenen Positionen (BTC x2, HYPE, BCH) bleiben unveraendert im Halteband.",
+    "reasoning": "QNT erreichte mit +8,02% seit Kauf die etablierte Take-Profit-Zielspanne (7-9%) bei gleichzeitig extremer Ueberkauftheit (Tages-RSI 78-82, weit ausserhalb des oberen Bollinger-Bands laut Cryptonomist/CMC) - konsequente Gewinnmitnahme vor dem Sibos-Finanzkongress (29.09.), analog zu AVAX/Solana/Meta. Freies Kapital lag bereits vor dieser Transaktion bei rund 49.368 EUR (grosses Polster aus taeglicher Budgetgutschrift, das mangels ueberzeugender Gelegenheiten in den letzten Tagen nicht vollstaendig investiert wurde). Der ENA-Katalysator (Binance bStocks / tokenisierte Aktien im USDe-Basis-Trade, vom Ethena-Risk-Committee freigegeben) ist ein echter, mehrfach unabhaengig bestaetigter fundamentaler Ausloeser und passt zum bisher erfolgreichen Muster institutioneller Partnerschafts-Trades (AVAX/NYSE-ICE, QNT/Clearing House, BCH/CME). Positionsgroesse (700 EUR) bewusst konsistent mit bisherigen Trades gehalten, trotz des grossen freien Kapitalpolsters, um die Konzentration pro Einzeltrade nicht zu erhoehen. BTC-Positionen (+3,67%/-1,25%), HYPE (-1,94%) und BCH (-0,15%) bleiben klar innerhalb des Halte-Korridors, keine Stop-Loss- oder Take-Profit-Schwelle erreicht. Da Aktien/ETFs/Rohstoffe am Wochenende nicht handelbar sind, beschraenkt sich jede Aktivitaet auf Krypto.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
       "pos-0019",
       "pos-0021",
-      "pos-0022"
+      "pos-0022",
+      "pos-0023"
     ],
-    "portfolioValueEnd": 3434.23,
+    "portfolioValueEnd": 3408.12,
     "updates": [
       {
         "time": "00:08",
@@ -6582,6 +6583,11 @@
         "time": "06:07",
         "note": "Keine Aenderung. Kursupdate BTC/HYPE/BCH/QNT (BTC 83.937, HYPE 91,52, BCH ~339,35, QNT 99,42), alle Positionen im Halteband. ADA-Mastercard-News ist bereits eingepreist, kein neuer Einstieg.",
         "portfolioValue": 3434.23
+      },
+      {
+        "time": "07:08",
+        "note": "Gewinnmitnahme QNT (+8,02%, ueberkauft), Neukauf Ethena (ENA) 700 EUR auf Binance-Tokenized-Equities-Katalysator. Kursupdate BTC/HYPE/BCH.",
+        "portfolioValue": 3408.12
       }
     ]
   }
