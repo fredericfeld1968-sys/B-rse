@@ -6669,5 +6669,26 @@
         "portfolioValue": 3434.59
       }
     ]
+  },
+  {
+    "date": "2026-09-27",
+    "marketOverview": "Bitcoin verharrt stabil um rund 84.000 USD, Gesamtmarktkapitalisierung nahe 2,98 Bio. USD, Sentiment weiter im Greed-Bereich. Die Altcoin-Rally der Vortage konsolidiert seitwaerts (HYPE ~91,5 USD, BCH ~342 USD, ENA ~0,27 USD nach dem starken Ethena-bStocks-Kurssprung vom Vortag) ohne neue Einzeltitel-Kataloge. Da es Sonntagnacht ist, sind Aktien, ETFs und Rohstoffe nicht handelbar; Fokus liegt auf Krypto.",
+    "decision": "Kein Trade in diesem Lauf (00:08). Neuer Kalendertag, Tagesbudget von 1.000 EUR gutgeschrieben (Gesamt-Neugeld nun 54.000 EUR). Alle 5 offenen Positionen (BTC x2, HYPE, BCH, ENA) bewegen sich weiterhin im etablierten Halte-Korridor, keine erreicht Stop-Loss- oder Gewinnmitnahme-Schwelle. Kein hinreichend ueberzeugender neuer Katalysator fuer einen Neueinstieg identifiziert.",
+    "reasoning": "BTC unveraendert bei ca. 84.000 USD (Positionen weiter bei +3,70%/-1,22%), HYPE bei 91,52 USD (-2,98%), BCH bei 342,18 USD (+0,64%), ENA bei 0,27 USD (+3,93%) - keine Position nahe einer Handlungsschwelle. Freies Kapital liegt nach Tagesbudget-Gutschrift bei rund 50.368 EUR, aber ohne ueberzeugende Gelegenheit ausserhalb der Boersenzeiten wird bewusst nicht investiert.",
+    "positionIds": [
+      "pos-0016",
+      "pos-0018",
+      "pos-0019",
+      "pos-0021",
+      "pos-0023"
+    ],
+    "portfolioValueEnd": 3434.59,
+    "updates": [
+      {
+        "time": "00:08",
+        "note": "Keine Aenderung. Neuer Tag, Tagesbudget gutgeschrieben. Kursupdate BTC/HYPE/BCH/ENA, alle Positionen im Halteband.",
+        "portfolioValue": 3434.59
+      }
+    ]
   }
 ]
