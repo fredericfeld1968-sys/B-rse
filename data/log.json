@@ -6536,18 +6536,17 @@
   },
   {
     "date": "2026-09-26",
-    "marketOverview": "Der globale Kryptomarkt legt am Samstagmorgen leicht zu (Gesamt-Marktkap. ~2,98 Billionen USD, +0,3%), Sentiment bleibt bei 'Greed' (74). Bitcoin konsolidiert stabil um 83.900-84.000 USD nach der Fed-Zinserhoehung vom 24.09. (25bp auf 3,75-4,00%). Der Altcoin-Season-Index kletterte binnen einer Woche um ueber 31% auf 59 - klare Kapitalrotation in Altcoins. Quant (QNT) sprang nach dem Clearing-House-Deal und ersten UK-Bank-Livetransaktionen auf ueber 102 USD (Tages-RSI 78-82, stark ueberkauft). Ethena (ENA) legte nach der Ankuendigung einer Integration tokenisierter US-Aktien/Equity-Perpetuals ueber Binance's bStocks-Plattform um 12-18% zu. HYPE konsolidiert nahe 91,5-93,5 USD nach Binance-Spot-Listing (24.09.) und ETF-Zufluessen; BCH haelt das Niveau um 339 USD nach der CME-Futures-Ankuendigung.",
-    "decision": "Lauf 07:08: Gewinnmitnahme QNT (+8,02%, ueberkauft, Zielspanne erreicht) und spekulative Neuposition Ethena (ENA, 700 EUR) auf den bestaetigten institutionellen Katalysator (Binance-Tokenized-Equities-Integration). Kumulierte Tageszusammenfassung: waehrend der Nacht/des Wochenendes bislang sechs Laeufe ohne Handel (Kursupdates BTC/HYPE/BCH/QNT), im siebten Lauf (07:08) dann Gewinnmitnahme bei QNT sowie Neueinstieg in ENA. Alle uebrigen offenen Positionen (BTC x2, HYPE, BCH) bleiben unveraendert im Halteband.",
-    "reasoning": "QNT erreichte mit +8,02% seit Kauf die etablierte Take-Profit-Zielspanne (7-9%) bei gleichzeitig extremer Ueberkauftheit (Tages-RSI 78-82, weit ausserhalb des oberen Bollinger-Bands laut Cryptonomist/CMC) - konsequente Gewinnmitnahme vor dem Sibos-Finanzkongress (29.09.), analog zu AVAX/Solana/Meta. Freies Kapital lag bereits vor dieser Transaktion bei rund 49.368 EUR (grosses Polster aus taeglicher Budgetgutschrift, das mangels ueberzeugender Gelegenheiten in den letzten Tagen nicht vollstaendig investiert wurde). Der ENA-Katalysator (Binance bStocks / tokenisierte Aktien im USDe-Basis-Trade, vom Ethena-Risk-Committee freigegeben) ist ein echter, mehrfach unabhaengig bestaetigter fundamentaler Ausloeser und passt zum bisher erfolgreichen Muster institutioneller Partnerschafts-Trades (AVAX/NYSE-ICE, QNT/Clearing House, BCH/CME). Positionsgroesse (700 EUR) bewusst konsistent mit bisherigen Trades gehalten, trotz des grossen freien Kapitalpolsters, um die Konzentration pro Einzeltrade nicht zu erhoehen. BTC-Positionen (+3,67%/-1,25%), HYPE (-1,94%) und BCH (-0,15%) bleiben klar innerhalb des Halte-Korridors, keine Stop-Loss- oder Take-Profit-Schwelle erreicht. Da Aktien/ETFs/Rohstoffe am Wochenende nicht handelbar sind, beschraenkt sich jede Aktivitaet auf Krypto.",
+    "marketOverview": "Krypto-Markt konsolidiert am Samstagvormittag nahe der Bereiche vom Vorlauf (Gesamtmarktkap. ~2,98-3,0 Bio. USD, Sentiment weiter Greed). Bitcoin haelt sich stabil bei rund 83.900-84.000 USD nach der Fed-Zinserhoehung vom 24.09.; Spot-BTC-ETFs verzeichneten am 22.09. mit fast 1 Mrd. USD Zufluss den staerksten Tag 2026. HYPE (91,52 USD) und ENA (0,2574 USD, leicht unter Kaufkurs) konsolidieren nach ihren juengsten Ausbruechen, BCH haelt das Niveau um 343 USD vor dem CME-Futures-Start am 19.10. Keine neuen, ueberzeugenden Katalysatoren seit dem letzten Lauf; da Wochenende, sind Aktien/ETFs/Rohstoffe ohnehin nicht handelbar.",
+    "decision": "Lauf 08:09: Kein Handel. Alle offenen Positionen (BTC x2, HYPE, BCH, ENA) bleiben unveraendert im Halteband, keine Stop-Loss- oder Take-Profit-Schwelle erreicht. Kumulierte Tageszusammenfassung: Nach sechs handelsfreien Naechten Laeufen kam es im siebten Lauf (07:08) zur Gewinnmitnahme bei QNT (+8,02%) und Neueinstieg in ENA (700 EUR); der achte Lauf (08:09) bestaetigt lediglich Kursupdates ohne weitere Transaktion.",
+    "reasoning": "Keine der offenen Positionen hat seit dem letzten Lauf eine Handlungsschwelle erreicht: BTC-Positionen +3,67%/-1,25%, HYPE -2,98%, BCH +0,91%, ENA -0,92% - alle klar innerhalb des etablierten Halte-Korridors (Stop-Loss ca. -6,5 bis -7,5%, Take-Profit ca. 7-9%). Es liegt kein neuer, unabhaengig bestaetigter fundamentaler Katalysator vor, der eine weitere Position rechtfertigen wuerde; freies Kapital bleibt mit rund 49.362 EUR hoch, wird aber mangels ueberzeugender Gelegenheit nicht zwangsweise investiert. Da Samstagvormittag, sind Aktien/ETFs/Rohstoffe ohnehin nicht handelbar - Fokus bleibt auf Krypto-Beobachtung.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
       "pos-0019",
       "pos-0021",
-      "pos-0022",
       "pos-0023"
     ],
-    "portfolioValueEnd": 3408.12,
+    "portfolioValueEnd": 3401.79,
     "updates": [
       {
         "time": "00:08",
@@ -6588,6 +6587,11 @@
         "time": "07:08",
         "note": "Gewinnmitnahme QNT (+8,02%, ueberkauft), Neukauf Ethena (ENA) 700 EUR auf Binance-Tokenized-Equities-Katalysator. Kursupdate BTC/HYPE/BCH.",
         "portfolioValue": 3408.12
+      },
+      {
+        "time": "08:09",
+        "note": "Keine Aenderung. Kursupdate BTC/HYPE/BCH/ENA (BTC 83.974, HYPE 91,52, BCH 343,10, ENA 0,2574), alle Positionen im Halteband.",
+        "portfolioValue": 3401.79
       }
     ]
   }
