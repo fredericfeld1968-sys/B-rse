@@ -6536,9 +6536,9 @@
   },
   {
     "date": "2026-09-26",
-    "marketOverview": "Krypto-Gesamtmarkt bei rund 2,98 Bio. USD (+0,3% in 24h), Fear&Greed-Index bei 74 (Greed). Bitcoin konsolidiert nahe 84.000 USD (-0,8% 24h) bei 56,5% Marktdominanz, waehrend Kapital selektiv in Compute- und DeFi-Token rotiert (CoinDesk Computing Index +9,5%, DeFi Select Index +8,7%) sowie in XRP (+40% Volumen) und Solana. Ethena (ENA) bleibt nach institutionellem Ausbruch (tokenisierte US-Aktien im USDe-Basis-Trade) mit +4,85% seit Kauf in Fuehrung; Bitget-Hack (351,6 Mio. USD) wurde vom Markt kaum beachtet (Schutzfonds deckt Verlust). Aktien/ETFs/Rohstoffe an diesem Samstag ausserhalb der Handelszeiten.",
-    "decision": "Kein Trade in diesem Lauf. Alle 5 offenen Positionen (BTC x2, HYPE, BCH, ENA) liegen innerhalb des etablierten Halte-Korridors (-6,5% bis +7-9%), keine erreicht Stop-Loss- oder Gewinnmitnahme-Schwelle. Ausserhalb der Boersenzeiten (Wochenende) sind nur Krypto-Trades moeglich; da keine ueberzeugende neue Gelegenheit vorliegt (nur breite Index-Rotation, keine konkrete Einzeltitel-Story wie bei bisherigen Trades), bleibt das Portfolio unveraendert.",
-    "reasoning": "ENA (+4,85%) und BTC pos-0016 (+3,70%) entwickeln sich positiv, aber noch unterhalb der ueblichen Ziel-Spanne von 7-9%. HYPE (-2,97%) und BTC pos-0018 (-1,22%) liegen im moderaten Minus, aber weit von der Stop-Loss-Schwelle (-6,5% bis -7,5%) entfernt. BCH stagniert nahezu unveraendert. Freies Kapital ist mit ca. 49.368 EUR sehr hoch, es wird aber bewusst kein Kapital eingesetzt, da keine wirklich ueberzeugende, frisch bestaetigte Einzelchance identifiziert wurde (Policy: nur bei ueberzeugender Gelegenheit handeln).",
+    "marketOverview": "Krypto-Gesamtmarkt bei rund 2,98 Bio. USD (+0,3% in 24h), Fear&Greed-Index bei 74 (Greed), Altcoin-Season-Index bei 48. Bitcoin pendelt um 83.970-84.030 USD nach kurzzeitigem Ausflug ueber 86.000 USD. HYPE (91,53 USD) und BCH (342,18 USD) nahezu unveraendert seit dem letzten Lauf, ENA leicht auf ca. 0,267 USD zurueckgekommen (nach starkem institutionellem Ausbruch am Vortag). Aktien/ETFs/Rohstoffe an diesem Samstag weiterhin ausserhalb der Handelszeiten.",
+    "decision": "Kein Trade in diesem Lauf. Alle 5 offenen Positionen (BTC x2, HYPE, BCH, ENA) liegen weiterhin innerhalb des etablierten Halte-Korridors (-6,5% bis +7-9%), keine erreicht Stop-Loss- oder Gewinnmitnahme-Schwelle. Ausserhalb der Boersenzeiten (Wochenende) sind nur Krypto-Trades moeglich; da keine neue, ueberzeugende Einzeltitel-Gelegenheit identifiziert wurde (nur bereits bekannte, breite Marktbewegungen), bleibt das Portfolio unveraendert.",
+    "reasoning": "ENA (+2,77%) und BTC pos-0016 (+3,67%) bleiben leicht positiv, aber unterhalb der ueblichen Ziel-Spanne von 7-9%. HYPE (-2,97%) und BTC pos-0018 (-1,25%) liegen im moderaten Minus, weit von der Stop-Loss-Schwelle (-6,5% bis -7,5%) entfernt. BCH stagniert nahezu unveraendert (+0,64%). Freies Kapital bleibt mit ca. 49.368 EUR sehr hoch, es wird aber bewusst kein Kapital eingesetzt, da keine wirklich ueberzeugende, frisch bestaetigte Einzelchance identifiziert wurde (Policy: nur bei ueberzeugender Gelegenheit handeln).",
     "positionIds": [
       "pos-0016",
       "pos-0018",
@@ -6546,7 +6546,7 @@
       "pos-0021",
       "pos-0023"
     ],
-    "portfolioValueEnd": 3130.0,
+    "portfolioValueEnd": 3426.09,
     "updates": [
       {
         "time": "00:08",
@@ -6622,6 +6622,11 @@
         "time": "14:09",
         "note": "Keine Aenderung. Kursupdate BTC/HYPE/ENA (BTC 84.000, HYPE 91,53, ENA 0,2724 nach DeFi-getriebener Rally), BCH unveraendert bei 342,18. Alle offenen Positionen weiterhin im Halteband, kein Katalysator stark genug fuer Kauf oder Verkauf.",
         "portfolioValue": 3130.0
+      },
+      {
+        "time": "15:08",
+        "note": "Keine Aenderung. Kursupdate BTC/HYPE/BCH/ENA (BTC 83.974, HYPE 91,53, BCH 342,18, ENA 0,267), alle Positionen im Halteband.",
+        "portfolioValue": 3426.09
       }
     ]
   }
