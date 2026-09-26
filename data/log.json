@@ -6536,9 +6536,9 @@
   },
   {
     "date": "2026-09-26",
-    "marketOverview": "Bitcoin konsolidiert seit Mitternacht UTC nahe 84.200 USD nach dem Sprung auf fast 87.000 USD am Dienstag; der Altcoin-Markt zeigt breite Staerke (93 von 100 CoinDesk-100-Titeln im Plus, Altcoin-Season-Index auf 3-Monats-Hoch), angefuehrt von Compute- und DeFi-Token. Quant bleibt nach dem Clearing-House-Deal ueberkauft (RSI ~81) und leicht ueber 95 USD, Hyperliquid gibt nach der jüngsten ATH-Serie auf ca. 91,5 USD nach, Bitcoin Cash haelt seine starke Wochenperformance (+31% 7T) bei rund 342 USD. Der Bitget-Hack (351,6 Mio. USD, durch Schutzfonds gedeckt) wurde vom Markt kaum beachtet.",
-    "decision": "Kein Trade in diesem Lauf (04:07). Wochenende/Nacht: nur Krypto handelbar, keine Position erreicht Stop-Loss- oder Take-Profit-Schwelle, keine neue, unabhaengig bestaetigte Gelegenheit ueberzeugend genug fuer einen Neueinstieg. Alle offenen Positionen (BTC x2, HYPE, BCH, QNT) bleiben im Halteband; Kurse aktualisiert.",
-    "reasoning": "HYPE (-2,98%) und BTC pos-0018 (-0,98%) noch deutlich innerhalb der Halteband-Toleranz (Stop-Loss erst ab ca. -6,5%); QNT trotz Overbought-RSI (~81) noch ohne Umkehrsignal, BCH und BTC pos-0016 leicht positiv. Freies Kapital ist mit knapp 49.368 EUR sehr hoch, aber ohne eine wirklich ueberzeugende, mehrfach unabhaengig bestaetigte neue Gelegenheit wird laut Vorgabe bewusst nicht investiert.",
+    "marketOverview": "Bitcoin konsolidiert am Samstagmorgen weiter nahe 83.900-84.000 USD nach dem Ruecksetzer von den Wochenhochs bei fast 87.000 USD. Der Altcoin-Markt bleibt insgesamt fest (Altcoin-Season-Index auf mehrmonatigem Hoch bei ca. 48, angefuehrt von NEAR, Tezos, Arbitrum, Uniswap, Ethena, Zcash mit Wochenplus ueber 40%). Quant (QNT) haelt sein Niveau um 95 USD nach dem Clearing-House-Deal, Hyperliquid (HYPE) stabil bei ca. 91,5 USD nach der juengsten ATH-Serie, Bitcoin Cash (BCH) legt nach dem CME-Futures-Listing weiter leicht zu (~344 USD). Der Bitget-Hack (351,6 Mio. USD) bleibt vom Markt weitgehend unbeachtet, da ein Schutzfonds die Verluste deckt.",
+    "decision": "Kein Trade in diesem Lauf (05:08). Wochenende/Nacht: nur Krypto handelbar, keine offene Position erreicht Stop-Loss- oder Take-Profit-Schwelle, keine neue, unabhaengig bestaetigte Gelegenheit ueberzeugend genug fuer einen Neueinstieg. Alle offenen Positionen (BTC x2, HYPE, BCH, QNT) bleiben im Halteband; Kurse aktualisiert.",
+    "reasoning": "HYPE (-2,95%) und BTC pos-0018 (-1,30%) weiterhin deutlich innerhalb der Halteband-Toleranz (Stop-Loss erst ab ca. -6,5%); BTC pos-0016, BCH und QNT leicht im Plus, keine davon nahe an einer Take-Profit-Schwelle (7-9%). Freies Kapital bleibt sehr hoch, aber ohne eine wirklich ueberzeugende, mehrfach unabhaengig bestaetigte neue Gelegenheit wird laut Vorgabe bewusst nicht investiert.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
@@ -6546,7 +6546,7 @@
       "pos-0021",
       "pos-0022"
     ],
-    "portfolioValueEnd": 3413.36,
+    "portfolioValueEnd": 3412.16,
     "updates": [
       {
         "time": "00:08",
@@ -6572,6 +6572,11 @@
         "time": "04:07",
         "note": "Keine Aenderung. Kursupdate BTC/HYPE/BCH/QNT (BTC 84.200, HYPE 91,52, BCH 342,18, QNT 95,27), alle Positionen im Halteband.",
         "portfolioValue": 3413.36
+      },
+      {
+        "time": "05:08",
+        "note": "Keine Aenderung. Kursupdate BTC/HYPE/BCH/QNT (BTC 83.937, HYPE 91,52, BCH 344,02, QNT 95,25), alle Positionen im Halteband.",
+        "portfolioValue": 3412.16
       }
     ]
   }
