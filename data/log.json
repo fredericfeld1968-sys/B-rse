@@ -6536,9 +6536,9 @@
   },
   {
     "date": "2026-09-26",
-    "marketOverview": "Krypto-Markt konsolidiert am Samstagvormittag nahe der Bereiche vom Vorlauf (Gesamtmarktkap. ~2,98-3,0 Bio. USD, Sentiment weiter Greed). Bitcoin haelt sich stabil bei rund 83.900-84.000 USD nach der Fed-Zinserhoehung vom 24.09.; Spot-BTC-ETFs verzeichneten am 22.09. mit fast 1 Mrd. USD Zufluss den staerksten Tag 2026. HYPE (91,52 USD) und ENA (0,2574 USD, leicht unter Kaufkurs) konsolidieren nach ihren juengsten Ausbruechen, BCH haelt das Niveau um 343 USD vor dem CME-Futures-Start am 19.10. Keine neuen, ueberzeugenden Katalysatoren seit dem letzten Lauf; da Wochenende, sind Aktien/ETFs/Rohstoffe ohnehin nicht handelbar.",
-    "decision": "Lauf 08:09: Kein Handel. Alle offenen Positionen (BTC x2, HYPE, BCH, ENA) bleiben unveraendert im Halteband, keine Stop-Loss- oder Take-Profit-Schwelle erreicht. Kumulierte Tageszusammenfassung: Nach sechs handelsfreien Naechten Laeufen kam es im siebten Lauf (07:08) zur Gewinnmitnahme bei QNT (+8,02%) und Neueinstieg in ENA (700 EUR); der achte Lauf (08:09) bestaetigt lediglich Kursupdates ohne weitere Transaktion.",
-    "reasoning": "Keine der offenen Positionen hat seit dem letzten Lauf eine Handlungsschwelle erreicht: BTC-Positionen +3,67%/-1,25%, HYPE -2,98%, BCH +0,91%, ENA -0,92% - alle klar innerhalb des etablierten Halte-Korridors (Stop-Loss ca. -6,5 bis -7,5%, Take-Profit ca. 7-9%). Es liegt kein neuer, unabhaengig bestaetigter fundamentaler Katalysator vor, der eine weitere Position rechtfertigen wuerde; freies Kapital bleibt mit rund 49.362 EUR hoch, wird aber mangels ueberzeugender Gelegenheit nicht zwangsweise investiert. Da Samstagvormittag, sind Aktien/ETFs/Rohstoffe ohnehin nicht handelbar - Fokus bleibt auf Krypto-Beobachtung.",
+    "marketOverview": "Krypto-Markt konsolidiert am Samstagvormittag mit weiter positivem Sentiment (Gesamtmarktkap. ~2,98 Bio. USD, +0,3%, Fear&Greed 74 'Greed'). Bitcoin haelt sich stabil um 84.000 USD (leicht -0,8% in 24h) nach dem kurzzeitigen Ausflug ueber 86.000 USD diese Woche; ETF-Zuflüsse und ein Short-Squeeze stuetzen weiter die technische Lage (erster Wochenschluss ueber der 50-Wochen-Linie seit 45 Wochen). Breite Altseason-Rally haelt an (93 von 100 CoinDesk-100-Werten im Plus, Altcoin-Season-Index auf 3-Monats-Hoch), angefuehrt von Compute-/DeFi-Token; QNT (bereits gestern glattgestellt) legte nochmals +39% zu. Der Markt steckte den 351,6-Mio.-USD-Bitget-Hack weg (Verlust durch 464-Mio.-USD-Schutzfonds gedeckt). Eigene offene Positionen: HYPE erholt sich leicht auf 93,48 USD (Binance-Spotlisting seit 24.09.), ENA legt auf 0,2672 USD zu (USDe-Ausweitung auf Binance/Aave), BCH haelt ca. 342 USD vor dem CME-Futures-Start am 19.10.",
+    "decision": "Lauf 09:08: Kein Handel. Alle offenen Positionen (BTC x2, HYPE, BCH, ENA) bleiben innerhalb des Halte-Korridors, keine Stop-Loss- oder Take-Profit-Schwelle erreicht. Kumulierte Tageszusammenfassung: Nach der Gewinnmitnahme bei QNT (+8,02%) und dem Neueinstieg in ENA im siebten Lauf (07:08) bestaetigen der achte (08:09) und neunte Lauf (09:08) lediglich Kursupdates ohne weitere Transaktion.",
+    "reasoning": "Keine der offenen Positionen hat seit dem letzten Lauf eine Handlungsschwelle erreicht: BTC +3,70%/-1,22%, HYPE -0,90%, BCH +0,64%, ENA +2,85% - alle klar innerhalb des etablierten Halte-Korridors (Stop-Loss ca. -6,5 bis -7,5%, Take-Profit ca. 7-9%). Die breite Altseason-Rally (u.a. erneuter QNT-Sprung um +39%) ist bereits weit gelaufen und bietet keinen neuen, unabhaengig bestaetigten Einzelkatalysator, der ein frisches Engagement rechtfertigen wuerde - Nachkaufen in eine bereits stark ueberhitzte Bewegung passt nicht zum disziplinierten Ausbruchs-/Dip-Muster dieses Portfolios. Freies Kapital bleibt mit rund 49.368 EUR hoch, wird aber mangels ueberzeugender Gelegenheit nicht zwangsweise investiert. Da Samstagvormittag, sind Aktien/ETFs/Rohstoffe ohnehin nicht handelbar - Fokus bleibt auf Krypto-Beobachtung.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
@@ -6546,7 +6546,7 @@
       "pos-0021",
       "pos-0023"
     ],
-    "portfolioValueEnd": 3401.79,
+    "portfolioValueEnd": 3439.5,
     "updates": [
       {
         "time": "00:08",
@@ -6592,6 +6592,11 @@
         "time": "08:09",
         "note": "Keine Aenderung. Kursupdate BTC/HYPE/BCH/ENA (BTC 83.974, HYPE 91,52, BCH 343,10, ENA 0,2574), alle Positionen im Halteband.",
         "portfolioValue": 3401.79
+      },
+      {
+        "time": "09:08",
+        "note": "Keine Aenderung. Kursupdate BTC/HYPE/BCH/ENA (BTC 84.000, HYPE 93,48, BCH 342,18, ENA 0,2672), alle Positionen im Halteband trotz breiter Altseason-Rally.",
+        "portfolioValue": 3439.5
       }
     ]
   }
