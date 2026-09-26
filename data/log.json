@@ -6536,9 +6536,9 @@
   },
   {
     "date": "2026-09-26",
-    "marketOverview": "Samstagfrueh, 03:08 MESZ: Aktien/ETFs/Rohstoffe weiterhin ausserhalb der Handelszeiten (Wochenende), nur Krypto aktiv. Bitcoin stabil bei ca. 83.937 USD (24h-Spanne 83.230-85.208 USD), ETF-Zuflüsse 2026 erstmals wieder positiv. HYPE bei ca. 94,33 USD (+1% in 24h), knapp unter dem Allzeithoch von 97,99 USD (23.09.). BCH pendelt je Boerse zwischen 332,88 und 344,02 USD (Mittel ~337,5 USD). QNT bleibt nach dem Clearing-House-Ausbruch weiter sehr stark und stieg auf ca. 97,84 USD, RSI14 aber inzwischen extrem ueberkauft (81,89 laut Cryptonomist) - kein Nachkauf-Kandidat. Breite Altcoin-Season-Stimmung (Altcoin-Index nahe 3-Monats-Hoch), aber kein neuer Einzeltitel-Katalysator, der eine frische Position rechtfertigen wuerde.",
-    "decision": "Kein neuer Trade in diesem Lauf. Alle offenen Positionen (BTC x2, HYPE, BCH, QNT) bleiben innerhalb des etablierten Haltebands (-6,5% bis +7-9%): BTC pos-0016 +3,63%, pos-0018 -1,29%, HYPE 0,00%, BCH -0,74%, QNT +3,09%. Keine Schwelle erreicht; QNT bleibt trotz weiter steigendem Kurs wegen extremer Overbought-Warnung (RSI ~82) kein Kandidat fuer Nachkauf oder Gewinnmitnahme, und keine ueberzeugende neue Einzeltitel-Gelegenheit am fruehen Samstagmorgen.",
-    "reasoning": "Kursaktualisierung 03:08 MESZ (Kreuzcheck mehrerer Quellen: CoinMarketCap, CoinGecko, Coinbase, Crypto.com, Kraken, Cryptonomist): BTC unveraendert ~83.937 USD, HYPE unveraendert ~94,33 USD, BCH ~337,5 USD (Mittel, leicht erholt), QNT ~97,84 USD (weiter gestiegen, aber RSI14 81,89 - extrem ueberkauft). Keine frischen fundamentalen Katalysatoren fuer neue Positionen gefunden; Freies Kapital bleibt sehr hoch, aber ohne ueberzeugende neue Einzeltitel-Gelegenheit im ruhigen Wochenendhandel wird nicht investiert.",
+    "marketOverview": "Bitcoin konsolidiert seit Mitternacht UTC nahe 84.200 USD nach dem Sprung auf fast 87.000 USD am Dienstag; der Altcoin-Markt zeigt breite Staerke (93 von 100 CoinDesk-100-Titeln im Plus, Altcoin-Season-Index auf 3-Monats-Hoch), angefuehrt von Compute- und DeFi-Token. Quant bleibt nach dem Clearing-House-Deal ueberkauft (RSI ~81) und leicht ueber 95 USD, Hyperliquid gibt nach der jüngsten ATH-Serie auf ca. 91,5 USD nach, Bitcoin Cash haelt seine starke Wochenperformance (+31% 7T) bei rund 342 USD. Der Bitget-Hack (351,6 Mio. USD, durch Schutzfonds gedeckt) wurde vom Markt kaum beachtet.",
+    "decision": "Kein Trade in diesem Lauf (04:07). Wochenende/Nacht: nur Krypto handelbar, keine Position erreicht Stop-Loss- oder Take-Profit-Schwelle, keine neue, unabhaengig bestaetigte Gelegenheit ueberzeugend genug fuer einen Neueinstieg. Alle offenen Positionen (BTC x2, HYPE, BCH, QNT) bleiben im Halteband; Kurse aktualisiert.",
+    "reasoning": "HYPE (-2,98%) und BTC pos-0018 (-0,98%) noch deutlich innerhalb der Halteband-Toleranz (Stop-Loss erst ab ca. -6,5%); QNT trotz Overbought-RSI (~81) noch ohne Umkehrsignal, BCH und BTC pos-0016 leicht positiv. Freies Kapital ist mit knapp 49.368 EUR sehr hoch, aber ohne eine wirklich ueberzeugende, mehrfach unabhaengig bestaetigte neue Gelegenheit wird laut Vorgabe bewusst nicht investiert.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
@@ -6546,7 +6546,7 @@
       "pos-0021",
       "pos-0022"
     ],
-    "portfolioValueEnd": 3437.15,
+    "portfolioValueEnd": 3413.36,
     "updates": [
       {
         "time": "00:08",
@@ -6567,6 +6567,11 @@
         "time": "03:08",
         "note": "Keine Aenderung. Kursupdate BTC/HYPE/BCH/QNT (BTC 83.937, HYPE 94,33, BCH ~337,5, QNT ~97,84), alle Positionen im Halteband, QNT weiterhin extrem ueberkauft (RSI ~82).",
         "portfolioValue": 3437.15
+      },
+      {
+        "time": "04:07",
+        "note": "Keine Aenderung. Kursupdate BTC/HYPE/BCH/QNT (BTC 84.200, HYPE 91,52, BCH 342,18, QNT 95,27), alle Positionen im Halteband.",
+        "portfolioValue": 3413.36
       }
     ]
   }
