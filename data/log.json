@@ -6536,9 +6536,9 @@
   },
   {
     "date": "2026-09-26",
-    "marketOverview": "Krypto-Gesamtmarkt bei ca. 2,98 Bio. USD (+0,3%), Fear&Greed-Index bei 74 (Greed). Bitcoin stabilisiert sich bei ca. 84.020 USD (-0,8% 24h) nach dem Ruecksetzer vom Wochenhoch, steigende US-Anleiherenditen bremsen weiter. HYPE bei ca. 91,80 USD, BCH bei ca. 343 USD (Volumen weiter ruecklaeufig), ENA bei ca. 0,265 USD. Bitget hat den Hack-Schaden auf 387,5 Mio. USD revidiert, deckt ihn aber ueber den Schutzfonds; keine groesseren Marktverwerfungen. Aktien/ETFs/Rohstoffe bleiben am Samstagabend ausserhalb der Handelszeiten.",
-    "decision": "Kein Trade in diesem Lauf (20:09). Alle 5 offenen Positionen (BTC x2, HYPE, BCH, ENA) bewegen sich kaum und bleiben klar innerhalb des etablierten Halte-Korridors (-6,5% bis +7-9%), keine erreicht Stop-Loss- oder Gewinnmitnahme-Schwelle. Ausserhalb der Boersenzeiten (Wochenende) sind nur Krypto-Trades moeglich; es liegt kein neuer, hinreichend ueberzeugender Einzeltitel-Katalysator vor, daher bleibt das Portfolio unveraendert.",
-    "reasoning": "BTC pos-0016 (+3,73%) bleibt unveraendert stabil um 84.020 USD, BTC pos-0018 (-1,19%) ebenso. HYPE (-2,68%) und BCH (+0,89%) sowie ENA (+2,00%) bewegen sich nur leicht, deutlich innerhalb der Bandbreite. Freies Kapital bleibt mit ca. 49.367,93 EUR sehr hoch, wird aber bewusst nicht eingesetzt, da am Samstagabend kein frisch bestaetigter, ueberzeugender Katalysator vorliegt (Policy: nur bei wirklich ueberzeugender Gelegenheit handeln).",
+    "marketOverview": "Krypto-Gesamtmarkt bei ca. 2,98 Bio. USD, Fear&Greed weiter im Greed-Bereich. Bitcoin haelt sich stabil um 84.000 USD nach dem Ruecksetzer vom Wochenhoch (87.363 USD), Widerstand bleibt intakt. HYPE bei ca. 91,90 USD trotz fortgesetzter institutioneller Akkumulation (Hyperliquid Strategies kaufte 494.000 HYPE / ~45,8 Mio. USD in 16h), BCH bei ca. 342 USD (Volumen weiter ruecklaeufig nach dem CME-Futures-Spike), ENA bei ca. 0,267 USD nach der Binance-bStocks-Ankuendigung. Keine neuen marktbewegenden Nachrichten seit dem letzten Lauf; Aktien/ETFs/Rohstoffe bleiben am Samstagabend ausserhalb der Handelszeiten.",
+    "decision": "Kein Trade in diesem Lauf (21:07). Alle 5 offenen Positionen (BTC x2, HYPE, BCH, ENA) bewegen sich weiterhin klar innerhalb des etablierten Halte-Korridors (-6,5% bis +7-9%), keine erreicht Stop-Loss- oder Gewinnmitnahme-Schwelle. Ausserhalb der Boersenzeiten (Wochenende) sind nur Krypto-Trades moeglich; trotz der fortgesetzten institutionellen HYPE-Akkumulation liegt kein frischer, hinreichend ueberzeugender Einzeltitel-Katalysator vor, daher bleibt das Portfolio unveraendert.",
+    "reasoning": "BTC pos-0016 (+3,70%) und BTC pos-0018 (-1,22%) bleiben stabil um 84.000 USD. HYPE (-2,58%) bewegt sich trotz der grossen Hyperliquid-Strategies-Kaeufe (494.000 HYPE in 16h) kaum, da der Effekt bereits teilweise eingepreist scheint. BCH (+0,59%) und ENA (+2,77%) bewegen sich ebenfalls nur leicht. Freies Kapital bleibt mit ca. 49.367,93 EUR sehr hoch, wird aber bewusst nicht eingesetzt, da am Samstagabend kein frisch bestaetigter, ueberzeugender Katalysator vorliegt (Policy: nur bei wirklich ueberzeugender Gelegenheit handeln).",
     "positionIds": [
       "pos-0016",
       "pos-0018",
@@ -6546,7 +6546,7 @@
       "pos-0021",
       "pos-0023"
     ],
-    "portfolioValueEnd": 3424.7,
+    "portfolioValueEnd": 3428.6,
     "updates": [
       {
         "time": "00:08",
@@ -6652,6 +6652,11 @@
         "time": "20:09",
         "note": "Keine Aenderung. Kursupdate BTC/HYPE/BCH/ENA, alle Positionen weiterhin klar im Halteband, kein neuer Katalysator am Samstagabend.",
         "portfolioValue": 3424.7
+      },
+      {
+        "time": "21:07",
+        "note": "Keine Aenderung. Kursupdate BTC/HYPE/BCH/ENA (BTC 84.000, HYPE 91,90, BCH 342, ENA 0,267), alle Positionen im Halteband.",
+        "portfolioValue": 3428.6
       }
     ]
   }
