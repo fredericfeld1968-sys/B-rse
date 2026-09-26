@@ -6536,9 +6536,9 @@
   },
   {
     "date": "2026-09-26",
-    "marketOverview": "Krypto-Markt bewegt sich am Samstagmittag weiter seitwaerts bei unveraendert hohem Sentiment (Fear&Greed 74, Gesamtmarktkap. ~2,98 Bio. USD, +0,5% in 24h). Bitcoin notiert stabil um 83.937-83.974 USD (-0,3 bis -0,7% auf Tagessicht, +3,4% Wochensicht), HYPE (~91,5-92,5 USD), BCH (~340-344 USD) und ENA (~0,26 USD) bewegen sich kaum zum letzten Lauf. Auffaelligster Ausreisser ist der kleine Altcoin Aerodrome (AERO, +25% laut CoinCodex), der jedoch ausserhalb der ueblichen Liquiditaets-/Bekanntheitsschwelle liegt und nicht als belastbare Kaufgelegenheit eingestuft wird. Aktien/ETFs/Rohstoffe bleiben am Wochenende nicht handelbar.",
-    "decision": "Lauf 11:08: Kein Handel. Alle offenen Positionen (BTC x2, HYPE, BCH, ENA) bleiben innerhalb des Halte-Korridors, keine Stop-Loss- oder Take-Profit-Schwelle erreicht. Kumulierte Tageszusammenfassung: Nach der Gewinnmitnahme bei QNT (+8,02%) und dem Neueinstieg in ENA im siebten Lauf (07:08) bestaetigen der achte bis elfte Lauf (08:09-11:08) lediglich Kursupdates ohne weitere Transaktion.",
-    "reasoning": "Keine der offenen Positionen hat seit dem letzten Lauf eine Handlungsschwelle erreicht: BTC +3,64%/-1,28%, HYPE -1,94%, BCH ~0%, ENA +1,23% - alle klar innerhalb des etablierten Halte-Korridors (Stop-Loss ca. -6,5 bis -7,5%, Take-Profit ca. 7-9%). Der einzige auffaellige Marktausreisser (AERO +25%) ist ein kleiner, wenig liquider Altcoin ohne unabhaengig bestaetigten fundamentalen Katalysator und wird daher nicht gehandelt. Da Samstagmittag, sind Aktien/ETFs/Rohstoffe ohnehin nicht handelbar - Fokus bleibt auf Krypto-Beobachtung.",
+    "marketOverview": "Krypto-Markt zeigt am Samstagmittag zunehmend Altseason-Dynamik: Fear&Greed bei 74, Gesamtmarktkap. leicht im Plus. Bitcoin bleibt stabil um 83.950-84.000 USD (nahe Wochenhoch), waehrend Altcoins breit avancieren (93 von 100 CoinDesk-100-Titeln im Plus). Staerkster Ausreisser ist Ethena (ENA), das um +23,6% auf ca. 0,2724 USD springt (Katalysator: geplante Integration tokenisierter US-Aktien in den USDe-Basis-Trade via Binance bStocks) - die bereits am Vormittag (07:08) eroeffnete ENA-Position (Kauf 0,2598 USD) partizipiert direkt mit nun +4,85%. HYPE (~91,52 USD) und BCH (~342 USD) bewegen sich seitwaerts. Aktien/ETFs/Rohstoffe bleiben am Wochenende nicht handelbar.",
+    "decision": "Lauf 12:08: Kein Handel. Alle offenen Positionen (BTC x2, HYPE, BCH, ENA) bleiben innerhalb des Halte-Korridors; ENA (+4,85%) naehert sich der Zielspanne (7-9%), hat sie aber noch nicht erreicht. Kumulierte Tageszusammenfassung: Nach der Gewinnmitnahme bei QNT (+8,02%) und dem Neueinstieg in Ethena (ENA) im siebten Lauf (07:08) bestaetigen der achte bis zwoelfte Lauf (08:09-12:08) lediglich Kursupdates ohne weitere Transaktion; ENA entwickelt sich seither deutlich positiv (+23,6% Tagesplus).",
+    "reasoning": "Keine der offenen Positionen hat seit dem letzten Lauf eine Handlungsschwelle erreicht: BTC +3,67%/-1,25%, HYPE -2,98%, BCH +0,64%, ENA +4,85% - alle innerhalb des etablierten Halte-Korridors (Stop-Loss ca. -6,5 bis -7,5%, Take-Profit ca. 7-9%). ENA zeigt zwar starkes Momentum (+23,6% Tagesplus auf Marktebene, Katalysator: Binance-bStocks-Integration tokenisierter Aktien in den USDe-Basis-Trade), die eigene Position liegt aber erst bei +4,85% und damit noch unterhalb der etablierten Gewinnmitnahme-Schwelle - daher Halten statt vorzeitiger Gewinnmitnahme. Andere Altcoin-Bewegungen (ADA/Mastercard, Quant-Nachfolgebewegung, Flare, Chainlink) sind entweder bereits eingepreist oder bieten keinen neuen, unabhaengig bestaetigten Katalysator fuer eine Neuposition. Da Samstagmittag, sind Aktien/ETFs/Rohstoffe ohnehin nicht handelbar - Fokus bleibt auf Krypto-Beobachtung.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
@@ -6546,7 +6546,7 @@
       "pos-0021",
       "pos-0023"
     ],
-    "portfolioValueEnd": 3416.2,
+    "portfolioValueEnd": 3440.58,
     "updates": [
       {
         "time": "00:08",
@@ -6607,6 +6607,11 @@
         "time": "11:08",
         "note": "Keine Aenderung. Kursupdate BTC/HYPE/BCH/ENA, alle Positionen im Halteband.",
         "portfolioValue": 3416.2
+      },
+      {
+        "time": "12:08",
+        "note": "Keine Aenderung. Kursupdate BTC/HYPE/BCH/ENA (BTC 83.974, HYPE 91,52, BCH 342,18, ENA 0,2724 nach +23,6% Tagesplus), alle Positionen im Halteband.",
+        "portfolioValue": 3440.58
       }
     ]
   }
