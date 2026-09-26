@@ -6536,9 +6536,9 @@
   },
   {
     "date": "2026-09-26",
-    "marketOverview": "Bitcoin konsolidiert am Samstagmorgen weiter nahe 83.900-84.000 USD nach dem Ruecksetzer von den Wochenhochs bei fast 87.000 USD. Der Altcoin-Markt bleibt insgesamt fest (Altcoin-Season-Index auf mehrmonatigem Hoch bei ca. 48, angefuehrt von NEAR, Tezos, Arbitrum, Uniswap, Ethena, Zcash mit Wochenplus ueber 40%). Quant (QNT) haelt sein Niveau um 95 USD nach dem Clearing-House-Deal, Hyperliquid (HYPE) stabil bei ca. 91,5 USD nach der juengsten ATH-Serie, Bitcoin Cash (BCH) legt nach dem CME-Futures-Listing weiter leicht zu (~344 USD). Der Bitget-Hack (351,6 Mio. USD) bleibt vom Markt weitgehend unbeachtet, da ein Schutzfonds die Verluste deckt.",
-    "decision": "Kein Trade in diesem Lauf (05:08). Wochenende/Nacht: nur Krypto handelbar, keine offene Position erreicht Stop-Loss- oder Take-Profit-Schwelle, keine neue, unabhaengig bestaetigte Gelegenheit ueberzeugend genug fuer einen Neueinstieg. Alle offenen Positionen (BTC x2, HYPE, BCH, QNT) bleiben im Halteband; Kurse aktualisiert.",
-    "reasoning": "HYPE (-2,95%) und BTC pos-0018 (-1,30%) weiterhin deutlich innerhalb der Halteband-Toleranz (Stop-Loss erst ab ca. -6,5%); BTC pos-0016, BCH und QNT leicht im Plus, keine davon nahe an einer Take-Profit-Schwelle (7-9%). Freies Kapital bleibt sehr hoch, aber ohne eine wirklich ueberzeugende, mehrfach unabhaengig bestaetigte neue Gelegenheit wird laut Vorgabe bewusst nicht investiert.",
+    "marketOverview": "Bitcoin haelt sich am Samstagmorgen stabil um 83.900-84.000 USD, nachdem die Fed am 24.09. die Zinsen um 25 Basispunkte auf 3,75-4,00% angehoben hat - der Markt reagierte widerstandsfaehig statt panisch. Der Bitget-Hack (352 Mio. USD) wird durch einen Schutzfonds aufgefangen und bleibt ohne groesseren Marktimpact. Cardano (ADA) und weitere Altcoins (Flare, Chainlink) zeigen frisches institutionelles Momentum (Mastercard/Fireblocks-Integration), der Altcoin-Season-Index steht auf einem Mehrmonatshoch. Quant (QNT) bleibt nach dem Clearing-House-Deal stark ueberkauft (RSI ~78-79), Hyperliquid (HYPE) konsolidiert nahe 91,5 USD, Bitcoin Cash (BCH) haelt das Niveau nach der CME-Futures-Ankuendigung.",
+    "decision": "Kein Trade in diesem Lauf (06:07). Wochenende/Nacht, Fed-Zinserhoehung vom 24.09. sorgt weiter fuer vorsichtige Marktstimmung (\"Rektember\"-Narrativ); keine offene Position erreicht Stop-Loss- oder Take-Profit-Schwelle. Cardano-Mastercard/Fireblocks-Nachricht ist bereits zwei Tage alt und im Kurs eingepreist (+8,5% bereits gelaufen) - kein frischer, ueberzeugender Einstieg. Alle offenen Positionen (BTC x2, HYPE, BCH, QNT) bleiben im Halteband; Kurse aktualisiert.",
+    "reasoning": "QNT (+4,75%) naehert sich der Zielspanne, ist aber laut Cryptonomist/CMC weiterhin extrem ueberkauft (RSI ~78-79) und noch klar unter der etablierten Take-Profit-Schwelle (7-9%) - Position bleibt offen. BTC-Positionen (+3,63%/-1,29%) und HYPE (-2,98%) unveraendert im Halteband, BCH nahezu flach (-0,19%). Kein Stop-Loss ausgeloest. Marktweit dominiert nach dem Fed-Zinsschritt vom 24.09. (25bp auf 3,75-4,00%) eine vorsichtige, aber nicht panische Stimmung (BTC haelt sich stabil ueber 83.000 USD trotz 'Rektember'-Saisonalitaet); der Bitget-Hack (352 Mio. USD) bleibt marktseitig gut absorbiert. Ohne einen wirklich frischen, mehrfach unabhaengig bestaetigten Katalysator wird bewusst nicht neu investiert, obwohl freies Kapital reichlich vorhanden waere.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
@@ -6546,7 +6546,7 @@
       "pos-0021",
       "pos-0022"
     ],
-    "portfolioValueEnd": 3412.16,
+    "portfolioValueEnd": 3434.23,
     "updates": [
       {
         "time": "00:08",
@@ -6577,6 +6577,11 @@
         "time": "05:08",
         "note": "Keine Aenderung. Kursupdate BTC/HYPE/BCH/QNT (BTC 83.937, HYPE 91,52, BCH 344,02, QNT 95,25), alle Positionen im Halteband.",
         "portfolioValue": 3412.16
+      },
+      {
+        "time": "06:07",
+        "note": "Keine Aenderung. Kursupdate BTC/HYPE/BCH/QNT (BTC 83.937, HYPE 91,52, BCH ~339,35, QNT 99,42), alle Positionen im Halteband. ADA-Mastercard-News ist bereits eingepreist, kein neuer Einstieg.",
+        "portfolioValue": 3434.23
       }
     ]
   }
