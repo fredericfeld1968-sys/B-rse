@@ -6672,9 +6672,9 @@
   },
   {
     "date": "2026-09-27",
-    "marketOverview": "Bitcoin stabil bei ca. 84.700 USD (ETF-Zufluesse bleiben stark, 2,4 Mrd. USD in der Woche bis 25.09.). HYPE leicht schwaecher um 91,5 USD vor dem Token-Unlock am 29.09. BCH konsolidiert bei ca. 340,5 USD knapp unter dem juengsten CME-Futures-Hoch. ENA leicht fester auf ca. 0,274 USD. Breiter Krypto-Markt weiter in Altseason-Stimmung (QNT +39% in 24h, AVAX +40% in der Woche), insgesamt aber bereits stark gelaufen und ueberhitzt. Aktien/ETFs/Rohstoffe weiterhin ausserhalb der Handelszeiten (Sonntagabend), nur Krypto handelbar.",
-    "decision": "Kein Trade in diesem Lauf (22:08). Alle 5 offenen Positionen bleiben komfortabel im etablierten Halteband (-3,00% bis +5,47%), deutlich unter der Stop-Loss-Schwelle (-6,5 bis -7,5%) und unter der Gewinnmitnahme-Zielzone (7-9%). Keine frischen, ueberzeugenden Katalysatoren seit dem letzten Lauf trotz erheblichem freiem Kapital (~50.368 EUR) - der breite Altcoin-Rally (QNT, AVAX) ist bereits stark gelaufen und wird bewusst nicht mehr nachgekauft.",
-    "reasoning": "Handelszeiten: Sonntagabend, nur Krypto handelbar. Recherche (BTC, HYPE, BCH, ENA, allgemeine Altcoin-Marktlage) zeigt keine neuen, ungehandelten Katalysatoren fuer unser Portfolio seit dem letzten Lauf vor einer Stunde. Kursbewegungen sind minimal (BTC/BCH nahezu unveraendert, HYPE leicht schwaecher, ENA leicht fester). QNT/AVAX-Rally ist bereits mehrfach beobachtet und zu weit gelaufen fuer einen Neueinstieg. Passend zur Vorgabe, nur bei wirklich ueberzeugenden Gelegenheiten zu handeln: kein Neueinstieg und keine Verkaeufe in diesem Lauf.",
+    "marketOverview": "Bitcoin stabil um 84.600-84.800 USD (ETF-Zufluesse weiter stark, Analysten sehen bullishe Chartmuster nach Ruecksetzer von den Wochenhoehen bei ~87.270 USD). HYPE leicht schwaecher bei ca. 91,2-91,3 USD vor dem $919-Mio-Token-Unlock am 29.09. BCH konsolidiert bei ca. 338-340 USD nach dem CME-Futures-Ausbruch. ENA stabil um 0,272 USD. Keine neuen Katalysatoren seit dem letzten Lauf; SEC verschiebt Entscheidung zu Krypto-ETF-Optionen auf 11.11., Bitget-Wiederauszahlungen starten ab 28.09. Aktien/ETFs/Rohstoffe weiterhin ausserhalb der Handelszeiten (Sonntagnacht), nur Krypto handelbar.",
+    "decision": "Kein Trade in diesem Lauf (23:08). Alle 5 offenen Positionen bleiben komfortabel im etablierten Halteband (-3,21% bis +4,70%), deutlich unter der Stop-Loss-Schwelle (-6,5 bis -7,5%) und unter der Gewinnmitnahme-Zielzone (7-9%). Keine frischen, ueberzeugenden Katalysatoren seit dem letzten Lauf trotz erheblichem freiem Kapital (~50.368 EUR).",
+    "reasoning": "Handelszeiten: Sonntagnacht, nur Krypto handelbar. Recherche (BTC, HYPE, BCH, ENA, allgemeine Marktlage) zeigt keine neuen, ungehandelten Katalysatoren seit dem letzten Lauf vor einer Stunde. Kursbewegungen sind minimal (BTC unveraendert, HYPE/BCH leicht schwaecher, ENA leicht schwaecher). Passend zur Vorgabe, nur bei wirklich ueberzeugenden Gelegenheiten zu handeln: kein Neueinstieg und keine Verkaeufe in diesem Lauf.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
@@ -6682,7 +6682,7 @@
       "pos-0021",
       "pos-0023"
     ],
-    "portfolioValueEnd": 3454.89,
+    "portfolioValueEnd": 3443.87,
     "updates": [
       {
         "time": "00:08",
@@ -6798,6 +6798,11 @@
         "time": "22:08",
         "note": "Keine Aenderung. Kursupdate BTC/HYPE/BCH/ENA (BTC 84.700, HYPE 91,5, BCH 340,47, ENA 0,274), alle Positionen im Halteband (-3,00% bis +5,47%). QNT/AVAX-Rally weiterhin bewusst nicht gehandelt (zu ueberhitzt).",
         "portfolioValue": 3454.89
+      },
+      {
+        "time": "23:08",
+        "note": "Keine Aenderung. Kursupdate BTC/HYPE/BCH/ENA (HYPE 91,3, BCH 338,0, ENA 0,272), alle Positionen im Halteband (-3,21% bis +4,70%). Keine frischen Katalysatoren.",
+        "portfolioValue": 3443.87
       }
     ]
   }
