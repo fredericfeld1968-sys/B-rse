@@ -6672,9 +6672,9 @@
   },
   {
     "date": "2026-09-27",
-    "marketOverview": "Bitcoin stabil um 84.300-84.600 USD (Fear&Greed 73, 'Greed'; Gesamtmarkt 2,89 Bio. USD, +0,31%). HYPE seitwaerts bei 93,90 USD (RSI 68, naeher am ueberkauften Bereich, ATH 97,99 vom 23.09.). BCH haelt sich bei 343,60 USD, Analysten sehen weiterhin Ueberhitzungssignale (RSI ueberkauft, MACD flach) und erwarten kurze Konsolidierung vor moeglichem Ausbruch auf 375 USD. ENA bei 0,2698 USD stabil (+3,85% seit Kauf), Coinbase-Ventures-Partnerschaft weiter eingepreist. Sonntagmittag: Aktien/ETFs/Rohstoffe weiterhin ausserhalb der Handelszeiten, nur Krypto handelbar, keine neuen fundamentalen Katalysatoren seit dem letzten Lauf.",
-    "decision": "Kein Trade in diesem Lauf (12:08). Kursupdate fuer alle 5 offenen Positionen (BTC x2, HYPE, BCH, ENA). Alle Positionen bleiben komfortabel im etablierten Halteband zwischen Stop-Loss (-6,5 bis -7,5%) und Gewinnmitnahme-Zielzone (7-9%), Spanne aktuell -0,75% bis +4,20%. Trotz erheblichem freiem Kapital (~50.368 EUR) kein Neueinstieg mangels ueberzeugender frischer Katalysatoren am ruhigen Sonntagmittag.",
-    "reasoning": "Handelszeiten: Sonntagmittag, nur Krypto handelbar. Alle 5 offenen Positionen liegen weiterhin komfortabel innerhalb des Haltebands, daher keine Verkaeufe - auch BCH trotz anhaltender Ueberhitzungssignale (RSI ueberkauft), da der Kurs weit von der Stop-Loss-Schwelle entfernt bleibt und Analysten eher eine kurze Konsolidierung als einen Trendbruch erwarten. Kein Neueinstieg: keine neuen, mehrfach bestaetigten fundamentalen Katalysatoren in Aktien, ETFs, Krypto oder Rohstoffen seit dem letzten Lauf gefunden. Passend zur Vorgabe, nur bei wirklich ueberzeugenden Gelegenheiten zu handeln, wird in diesem Lauf nichts unternommen.",
+    "marketOverview": "Bitcoin seitwaerts um 84.000-84.600 USD (Fear&Greed weiter 'Greed'-Bereich). HYPE bei 93,09 USD (+1,6% 24h), getrieben von Token-Burns (956k USD) und Binance-Spot-Listing vom 24.09., bleibt aber nahe des ATH (97,99 USD) leicht ueberkauft. BCH konsolidiert bei ca. 336 USD (-2,4% 24h, aber weiterhin +31% Wochenplus) nach dem CME-Futures-Ausbruch, keine neuen Katalysatoren. ENA stabil um 0,27 USD, Binance-Aktien-Perpetuals-Integration bereits eingepreist. Sonntagnachmittag: Aktien/ETFs/Rohstoffe weiterhin ausserhalb der Handelszeiten. Mildere Altcoin-Bewegungen (DOT +6%, Dash +4,6%, CRO +3,3%) ohne den dramatischen, mehrfach bestaetigten Charakter bisheriger Kaufsignale.",
+    "decision": "Kein Trade in diesem Lauf (13:08). Kursupdate fuer alle 5 offenen Positionen (BTC x2, HYPE, BCH, ENA). Alle Positionen bleiben komfortabel im etablierten Halteband zwischen Stop-Loss (-6,5 bis -7,5%) und Gewinnmitnahme-Zielzone (7-9%), Spanne aktuell -1,31% bis +4,12%. Trotz erheblichem freiem Kapital (~50.368 EUR) kein Neueinstieg mangels ueberzeugender frischer Katalysatoren am ruhigen Sonntagnachmittag.",
+    "reasoning": "Handelszeiten: Sonntagnachmittag, nur Krypto handelbar. Alle 5 offenen Positionen liegen weiterhin komfortabel innerhalb des Haltebands (-1,31% bis +4,12%), daher keine Verkaeufe. Kein Neueinstieg: die gefundenen Altcoin-Bewegungen (DOT, Dash, CRO) sind zu moderat und nicht mehrfach unabhaengig als dramatischer, fundamentaler Katalysator bestaetigt, um dem etablierten Muster (AVAX/NYSE, QNT/Clearing House, BCH/CME) zu entsprechen. Passend zur Vorgabe, nur bei wirklich ueberzeugenden Gelegenheiten zu handeln, wird in diesem Lauf nichts unternommen.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
@@ -6682,7 +6682,7 @@
       "pos-0021",
       "pos-0023"
     ],
-    "portfolioValueEnd": 3458.92,
+    "portfolioValueEnd": 3440.44,
     "updates": [
       {
         "time": "00:08",
@@ -6748,6 +6748,11 @@
         "time": "12:08",
         "note": "Keine Aenderung. Kursupdate BTC/HYPE/BCH/ENA, alle Positionen im Halteband (-0,75% bis +4,20%). BCH weiterhin ueberkauft (RSI hoch), aber kein Verkaufsgrund; kein Neueinstieg mangels frischer Katalysatoren.",
         "portfolioValue": 3458.92
+      },
+      {
+        "time": "13:08",
+        "note": "Keine Aenderung. Kursupdate BTC/HYPE/BCH/ENA, alle Positionen im Halteband (-1,31% bis +4,12%). HYPE/BCH leicht ruecklaeufig, aber weit von Stop-Loss entfernt.",
+        "portfolioValue": 3440.44
       }
     ]
   }
