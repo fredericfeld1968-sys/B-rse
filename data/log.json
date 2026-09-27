@@ -6672,9 +6672,9 @@
   },
   {
     "date": "2026-09-27",
-    "marketOverview": "Bitcoin haelt sich weiter stabil um 84.000 USD (nach Pullback vom Wochenhoch ueber 87.000 USD, Q3-Rallye von +44% intakt). Altcoin-Markt bleibt in breiter Erholung (Total2 +45% seit Juni), 87% der Altcoins ueber 200-Tage-Linie; neue Bewegungen bei SUI (+11%, Short-Squeeze) und AAVE (+5,1%, V4 Equities Hub) sind jedoch bereits 1-2 Tage alt und werden nicht als frischer Katalysator gewertet. Sonntagmorgen: Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten, nur Krypto handelbar.",
-    "decision": "Kein Trade in diesem Lauf (08:08). Kursupdate fuer alle 5 offenen Positionen (BTC x2, HYPE, BCH, ENA). Alle Positionen bleiben komfortabel im etablierten Halteband zwischen Stop-Loss (-6,5 bis -7,5%) und Gewinnmitnahme-Zielzone (7-9%), Spanne aktuell -2,26% bis +3,79%. Trotz erheblichem freiem Kapital (~50.368 EUR) kein Neueinstieg, da am Sonntagmorgen ausserhalb der Boersenzeiten nur Krypto handelbar ist und keine frische, in dieser Stunde neu bestaetigte Ausbruchs-Chance vorliegt.",
-    "reasoning": "Handelszeiten: Sonntag, nur Krypto handelbar. Alle 5 offenen Positionen liegen weiterhin komfortabel innerhalb des Haltebands, daher keine Verkaeufe. Recherche zeigt keine frischen institutionellen Katalysatoren seit dem letzten Lauf (07:08) - SUI/AAVE-Bewegungen sind bereits bekannt und nicht neu bestaetigt, QNT/UNI/ENA-Rallyes weiterhin 1-2 Tage alt. Passend zur Vorgabe, nur bei wirklich ueberzeugenden Gelegenheiten zu handeln, wird in diesem Lauf nichts unternommen.",
+    "marketOverview": "Bitcoin stabil um 84.000-84.600 USD (Fear&Greed 73, 'Greed'; Fed unter Warsh haelt seit 5 Sitzungen bei 3,50-3,75%, keine Zinssenkung 2026, hohe Korrelation Krypto/Zinserwartungen). Grosser Ausreisser: QNT explodiert um +72% auf ca. 173 USD (Coin des Tages laut CoinCodex) - Fortsetzung des bereits gestern gehandelten Clearing-House-Katalysators, jedoch bereits extrem ueberkauft und weit ueber unserem Verkaufskurs von 102,52 USD gelaufen, daher kein Reentry. HYPE nahe Allzeithoch (~94,6 USD) nach Binance-Spot-Listing vom 24.09., aber kein frischer Katalysator mehr. Sonntagmorgen: Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten, nur Krypto handelbar.",
+    "decision": "Kein Trade in diesem Lauf (09:09). Kursupdate fuer alle 5 offenen Positionen (BTC x2, HYPE, BCH, ENA). Alle Positionen bleiben komfortabel im etablierten Halteband zwischen Stop-Loss (-6,5 bis -7,5%) und Gewinnmitnahme-Zielzone (7-9%), Spanne aktuell -1,79% bis +4,44%. Trotz erheblichem freiem Kapital (~50.368 EUR) kein Neueinstieg: QNT-Rallye ist zu weit gelaufen (Chasing eines bereits +72%-Pumps nach eigenem Gewinnausstieg waere kein ueberzeugender Einstieg, sondern FOMO-Kauf am Extrem), sonst keine frische, in dieser Stunde neu bestaetigte Ausbruchs-Chance.",
+    "reasoning": "Handelszeiten: Sonntag, nur Krypto handelbar. Alle 5 offenen Positionen liegen weiterhin komfortabel innerhalb des Haltebands, daher keine Verkaeufe. QNT (+72% heute) wurde bewusst nicht zurueckgekauft: die Bewegung ist eine Fortsetzung des bereits gestern (26.09.) gehandelten und mit +8,02% Gewinn glattgestellten Clearing-House-Katalysators, inzwischen jedoch weit ueber unseren damaligen Verkaufskurs hinausgelaufen und laut Marktkommentaren extrem ueberkauft - ein Einstieg jetzt waere reines Top-Chasing statt einer neuen, frisch bestaetigten Gelegenheit. Passend zur Vorgabe, nur bei wirklich ueberzeugenden Gelegenheiten zu handeln, wird in diesem Lauf nichts unternommen.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
@@ -6682,7 +6682,7 @@
       "pos-0021",
       "pos-0023"
     ],
-    "portfolioValueEnd": 3442.92,
+    "portfolioValueEnd": 3449.77,
     "updates": [
       {
         "time": "00:08",
@@ -6728,6 +6728,11 @@
         "time": "08:08",
         "note": "Keine Aenderung. Kursupdate BTC/HYPE/BCH/ENA (HYPE 92,20, BCH 344,02), alle Positionen im Halteband (-2,26% bis +3,79%).",
         "portfolioValue": 3442.92
+      },
+      {
+        "time": "09:09",
+        "note": "Keine Aenderung. Kursupdate BTC/HYPE/BCH/ENA, alle Positionen im Halteband (-1,79% bis +4,44%). QNT-Pump (+72%) bewusst nicht zurueckgekauft (zu ueberkauft).",
+        "portfolioValue": 3449.77
       }
     ]
   }
