@@ -6805,5 +6805,26 @@
         "portfolioValue": 3443.87
       }
     ]
+  },
+  {
+    "date": "2026-09-28",
+    "marketOverview": "Krypto-Markt weiterhin im Halteband unter dem Druck einer hawkishen Fed-Erwartungshaltung: Bitcoin stabil bei ca. 84.700 USD, nachdem eine ueberraschend starke US-PMI-Zahl (58,4, schnellste Expansion seit 2021) die Zinssenkungshoffnungen gedaempft hat. Die Fed veroeffentlichte am 24.09. neue Stablecoin-Regeln (GENIUS Act: volle Deckung, Par-Redemption, Reserve-Offenlegung). Hyperliquid (HYPE) notiert nach dem jüngsten Allzeithoch (92 USD) und dem Binance-Spot-Listing leicht schwaecher bei ca. 91,5 USD; Ethena (ENA) hat sich nach der starken Vorwochen-Rally bei ca. 0,274 USD stabilisiert. Aktien/ETFs/Rohstoffe sind Montag frueh (00:08 MESZ) ausserhalb der Handelszeiten.",
+    "decision": "Kein Trade. Tagesbudget (1.000 EUR) fuer den 28.09. gutgeschrieben (totalFreshCapitalEur 54.000 -> 55.000 EUR). Alle vier offenen Positionen (BTC x2, HYPE, BCH, ENA) im Kursupdate aktualisiert, bleiben unveraendert im Halteband (-3,00% bis +5,47%). Kein neuer Einstieg mangels frischer Katalysatoren; ausserhalb der Boersenzeiten ohnehin nur Krypto handelbar.",
+    "reasoning": "Risikoprofil 'spekulativ': Bestehende Krypto-Positionen bewegen sich innerhalb der etablierten Halteband-Spanne, kein Stop-Loss (-6,5% bis -7,5%) oder Ziel-Gewinnbereich (7-9%) erreicht. Der Markt bleibt insgesamt seitwaerts/risikoavers (hawkishe Fed-Erwartung, PMI-Daten), ohne einen ueberzeugenden neuen Katalysator fuer eine Neuposition um diese Nachtzeit. Keine Position verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "positionIds": [
+      "pos-0016",
+      "pos-0018",
+      "pos-0019",
+      "pos-0021",
+      "pos-0023"
+    ],
+    "portfolioValueEnd": 3448.76,
+    "updates": [
+      {
+        "time": "00:08",
+        "note": "Keine Aenderung. Tagesbudget gutgeschrieben (+1.000 EUR). Kursupdate BTC/HYPE/BCH/ENA, alle Positionen im Halteband (-3,00% bis +5,47%). Keine frischen Katalysatoren.",
+        "portfolioValue": 3448.76
+      }
+    ]
   }
 ]
