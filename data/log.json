@@ -6672,9 +6672,9 @@
   },
   {
     "date": "2026-09-27",
-    "marketOverview": "Bitcoin stabil um 84.000 USD, Gesamtmarkt weiter im risikofreudigen Umfeld (Total2-Zuflüsse seit Juni ueber 371 Mrd. USD, 87% der Altcoins ueber ihrem 200-Tage-Durchschnitt). HYPE haelt sich bei ca. 91,52 USD, jedoch steht am 29.09. der groesste Token-Unlock seit August an (14,2 Mio. HYPE, ca. 1,2 Mrd. USD, ~47% an Insider) - historisch wurden solche Unlocks aber gut absorbiert (nur ~1,75% der freigeschalteten Menge floss bisher an Boersen), daher vorerst kein Handlungsdruck. BCH konsolidiert bei ca. 336,6 USD, ENA setzt die Rally moderat fort (~0,271 USD). Da Sonntagnacht ist, bleiben Aktien/ETFs/Rohstoffe weiterhin ungehandelt.",
-    "decision": "Kein Trade in diesem Lauf (03:09). Kursupdate fuer alle 5 offenen Positionen (BTC x2, HYPE, BCH, ENA). Keine Position nahe Stop-Loss- oder Gewinnmitnahme-Schwelle (Spanne -2,98% bis +4,23%). Trotz erheblichem freiem Kapital kein Neueinstieg, da keine wirklich ueberzeugende neue Gelegenheit identifiziert wurde; anstehender HYPE-Unlock (29.09.) wird beobachtet, aktuell aber kein Verkaufsgrund (Position weit ueber der Stop-Loss-Schwelle, Unlock historisch gut absorbiert).",
-    "reasoning": "BTC unveraendert bei 84.000 USD (pos-0016 +3,70%, pos-0018 -1,22%), HYPE bei 91,52 USD (-2,98%, Unlock am 29.09. im Blick, aber kein akuter Handlungsdruck), BCH auf 336,61 USD (-0,99%, Bewegung weiter ausgelaufen), ENA auf 0,271 USD (+4,23%, Rally kuehlt minimal ab, weiterhin unter der 7-9%-Zielspanne). Keine der recherchierten Marktbewegungen (Altcoin-Rotation, Bitcoin-Konsolidierung) bot einen frischen, mehrfach unabhaengig bestaetigten Ausbruch ausserhalb bereits gehaltener Titel.",
+    "marketOverview": "Bitcoin stabil um 84.000 USD (-0,03% laut Handelsblatt), Gesamtkryptomarkt in ruhiger Seitwaertsphase (-0,6%) nach vermehrten Gewinnmitnahmen am Samstag. Altcoin-Season-Index auf Mehrmonatshoch (56/100), Compute- und DeFi-Token fuehren die Bewegung an (Aave +7,2%), waehrend die gehaltenen Titel (BTC, HYPE, BCH, ENA) kaum Bewegung zeigen. HYPE-Unlock am 29.09. weiterhin im Blick, aktuell kein Handlungsdruck. Da Sonntagnacht ist, bleiben Aktien/ETFs/Rohstoffe ungehandelt.",
+    "decision": "Kein Trade in diesem Lauf (04:07). Kursupdate fuer alle 5 offenen Positionen (BTC x2, HYPE, BCH, ENA). Keine Position nahe Stop-Loss- oder Gewinnmitnahme-Schwelle (Spanne -2,98% bis +4,77%). Trotz erheblichem freiem Kapital (~50.368 EUR) kein Neueinstieg, da der Markt insgesamt seitwaerts/ruhig ist und keine wirklich ueberzeugende, frisch bestaetigte Gelegenheit identifiziert wurde.",
+    "reasoning": "BTC unveraendert bei 84.000 USD (pos-0016 +3,70%, pos-0018 -1,22%), HYPE bei ca. 91,52 USD (-2,98%, Unlock 29.09. im Blick, kein akuter Handlungsdruck), BCH leicht schwaecher auf 336,18 USD (-1,12%), ENA leicht fester auf 0,2722 USD (+4,77%, naehert sich der Zielspanne, aber noch kein klares Gewinnmitnahme-Signal). Der Gesamtmarkt zeigt eine ruhige Konsolidierungsphase ohne neuen, mehrfach unabhaengig bestaetigten Ausbruch ausserhalb bereits gehaltener Titel.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
@@ -6682,7 +6682,7 @@
       "pos-0021",
       "pos-0023"
     ],
-    "portfolioValueEnd": 3426.91,
+    "portfolioValueEnd": 3429.93,
     "updates": [
       {
         "time": "00:08",
@@ -6703,6 +6703,11 @@
         "time": "03:09",
         "note": "Keine Aenderung. Kursupdate BTC/HYPE/BCH/ENA, alle Positionen im Halteband. HYPE-Unlock am 29.09. beobachtet, aktuell kein Verkaufsgrund.",
         "portfolioValue": 3426.91
+      },
+      {
+        "time": "04:07",
+        "note": "Keine Aenderung. Kursupdate BTC/HYPE/BCH/ENA, alle Positionen im Halteband (-2,98% bis +4,77%). Markt insgesamt seitwaerts, kein Neueinstieg.",
+        "portfolioValue": 3429.93
       }
     ]
   }
