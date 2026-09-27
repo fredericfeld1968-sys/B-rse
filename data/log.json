@@ -6672,9 +6672,9 @@
   },
   {
     "date": "2026-09-27",
-    "marketOverview": "Bitcoin weiterhin seitwaerts um 84.000-84.600 USD, Markt in konstruktiver Konsolidierung nach dem Fed-Zinsschritt (bereits eingepreist). HYPE stabil bei ca. 93,09 USD nahe ATH (97,99 USD am 23.09.), Buyback/Burn-Mechanismus laeuft weiter. BCH konsolidiert bei ca. 333,91 USD (-2,4% 24h), CME-Futures-Start erst 19.10. ENA stabil um 0,27 USD, Binance-bStocks-Katalysator bereits eingepreist. Keine neuen markt-relevanten Nachrichten seit dem letzten Lauf (15:08) - ruhiger Sonntagabend, Aktien/ETFs/Rohstoffe weiterhin ausserhalb der Handelszeiten, nur Krypto handelbar.",
-    "decision": "Kein Trade in diesem Lauf (16:09). Kurse unveraendert gegenueber dem letzten Lauf (15:08) - alle 5 offenen Positionen bleiben komfortabel im etablierten Halteband zwischen Stop-Loss (-6,5 bis -7,5%) und Gewinnmitnahme-Zielzone (7-9%), Spanne weiterhin -1,79% bis +4,07%. Trotz erheblichem freiem Kapital (~49.768 EUR) kein Neueinstieg mangels ueberzeugender frischer Katalysatoren am ruhigen Sonntagabend.",
-    "reasoning": "Handelszeiten: Sonntagabend, nur Krypto handelbar. Recherche (BTC, Altcoin-Markt, HYPE, BCH, ENA, Geopolitik/Fed) zeigt keine neuen, bisher ungehandelten Katalysatoren seit dem letzten Lauf - Preise bei allen 5 offenen Positionen unveraendert. Alle Positionen liegen weiterhin komfortabel innerhalb des Haltebands, daher keine Verkaeufe. Kein Neueinstieg, da keine frische, mehrfach unabhaengig bestaetigte Gelegenheit erkennbar ist. Passend zur Vorgabe, nur bei wirklich ueberzeugenden Gelegenheiten zu handeln, wird in diesem Lauf nichts unternommen.",
+    "marketOverview": "Bitcoin stabil bei ca. 84.600 USD (leicht fester), Altcoin-Markt insgesamt in breiter Rally (u.a. Solana +20% auf ~124 USD getrieben von BTC-Beta und dem am 28.09. anstehenden Alpenglow-Upgrade, AERO +25% auf Aerodrome/Velodrome-Merger-Vollzug), 93 von 100 CoinDesk-100-Titeln im Plus. HYPE stabil bei ca. 93,31 USD nahe ATH, naechster Token-Unlock am 06.10. ENA legt weiter zu (0,2722 USD, +3-16% je nach Quelle) auf dem bereits bekannten Binance-bStocks-Katalysator. BCH konsolidiert bei 333,91 USD, CME-Futures-Start erst 19.10. Aktien/ETFs/Rohstoffe weiterhin ausserhalb der Handelszeiten (Sonntagabend), nur Krypto handelbar.",
+    "decision": "Kein Trade in diesem Lauf (17:08). Alle 5 offenen Positionen bleiben komfortabel im etablierten Halteband (-1,79% bis +4,78%), deutlich unter Stop-Loss (-6,5 bis -7,5%) und unter der Gewinnmitnahme-Zielzone (7-9%). SOL- und AERO-Rallyes sind bereits mehrtägig gelaufen (SOL +20% diese Woche, AERO +25-36% diese Woche, Merger erst am 21.10.) und damit kein frischer, ueberzeugender Einstiegskatalysator - kein Neueinstieg trotz erheblichem freiem Kapital (~50.368 EUR).",
+    "reasoning": "Handelszeiten: Sonntagabend, nur Krypto handelbar. Recherche (BTC, SOL, AERO, HYPE, BCH, ENA) zeigt eine breite Altcoin-Rally, jedoch keine fuer unser Portfolio neuen, ungehandelten Katalysatoren seit dem letzten Lauf - alle 5 offenen Positionen bewegen sich innerhalb des etablierten Haltebands. AERO- und SOL-Bewegungen sind bereits seit Tagen bekannt und eingepreist (kein frischer Trigger heute), daher passend zur Vorgabe, nur bei wirklich ueberzeugenden Gelegenheiten zu handeln, kein Neueinstieg und keine Verkaeufe in diesem Lauf.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
@@ -6682,7 +6682,7 @@
       "pos-0021",
       "pos-0023"
     ],
-    "portfolioValueEnd": 3434.86,
+    "portfolioValueEnd": 3448.26,
     "updates": [
       {
         "time": "00:08",
@@ -6768,6 +6768,11 @@
         "time": "16:09",
         "note": "Keine Aenderung. Kurse stabil (BTC ~84.300, HYPE 93,09, BCH 333,91, ENA 0,27), keine neuen Katalysatoren seit 15:08.",
         "portfolioValue": 3434.86
+      },
+      {
+        "time": "17:08",
+        "note": "Keine Aenderung. Kursupdate BTC/HYPE/BCH/ENA (BTC 84.602, ENA 0,2722), alle Positionen im Halteband. SOL/AERO-Rally bereits mehrtaegig, kein frischer Katalysator.",
+        "portfolioValue": 3448.26
       }
     ]
   }
