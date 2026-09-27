@@ -6672,9 +6672,9 @@
   },
   {
     "date": "2026-09-27",
-    "marketOverview": "Bitcoin stabil bei ca. 84.600 USD, konstruktive Konsolidierung nach dem Ausbruch ueber 85.000 USD diese Woche; US-Spot-Bitcoin-ETFs verzeichnen mit 2,4 Mrd. USD woechentlichem Nettozufluss den staerksten Wert seit Oktober 2025 (bereits im Kurs erkennbar, kein frischer Trigger). HYPE bei ca. 91,3 USD leicht ruecklaeufig vor dem naechsten Token-Unlock am 29.09. (14,18 Mio. HYPE, ca. 1,4% des Supply - historisch geringer Verkaufsdruck). BCH konsolidiert bei 338,32 USD, CME-Futures-Start weiterhin erst 19.10. ENA legt weiter leicht zu auf 0,274 USD (+37,7% auf Wochensicht) auf dem bekannten Binance-bStocks-Katalysator. Solana-Alpenglow-Upgrade laeuft aktuell nur auf Devnet/Testnet, kein Mainnet-Termin - kein Handelsanlass. Aktien/ETFs/Rohstoffe weiterhin ausserhalb der Handelszeiten (Sonntagabend), nur Krypto handelbar.",
-    "decision": "Kein Trade in diesem Lauf (18:09). Alle 5 offenen Positionen bleiben komfortabel im etablierten Halteband (-3,21% bis +5,47%), deutlich unter Stop-Loss (-6,5 bis -7,5%) und unter der Gewinnmitnahme-Zielzone (7-9%). Keine frischen, ueberzeugenden Katalysatoren seit dem letzten Lauf trotz erheblichem freiem Kapital (~50.368 EUR) - BTC-ETF-Zufluesse und HYPE-Unlock sind bereits bekannt/eingepreist, Alpenglow noch nicht auf Mainnet.",
-    "reasoning": "Handelszeiten: Sonntagabend, nur Krypto handelbar. Recherche (BTC, HYPE, BCH, ENA, SOL/Alpenglow, allgemeine Marktlage) zeigt keine neuen, ungehandelten Katalysatoren fuer unser Portfolio seit dem letzten Lauf. HYPE leicht schwaecher vor dem Unlock am 29.09., aber weit von der Stop-Loss-Schwelle entfernt - kein Verkaufsgrund. Passend zur Vorgabe, nur bei wirklich ueberzeugenden Gelegenheiten zu handeln: kein Neueinstieg und keine Verkaeufe in diesem Lauf.",
+    "marketOverview": "Bitcoin stabil bei ca. 84.600 USD (Wochenplus dank ETF-Rekordzufluessen von 2,4 Mrd. USD, staerkster Wert seit Oktober 2025), nachdem am Montag ein Mehrmonatshoch von 87.270 USD erreicht und wieder abgegeben wurde. HYPE leicht ruecklaeufig auf ca. 91,2 USD vor dem Token-Unlock am 29.09. BCH konsolidiert leicht fester bei 340,47 USD, CME-Futures-Start weiterhin erst am 19.10. ENA pendelt seitwaerts um 0,2698 USD (Wochenplus weiterhin deutlich positiv), der Binance-bStocks-Katalysator ist bereits eingepreist. Bitget hat seine Hack-Verlustschaetzung auf 387,5 Mio. USD erhoeht, Wiederaufnahme der Auszahlungen ab 28.09. - keine direkte Relevanz fuer unsere Positionen. Aktien/ETFs/Rohstoffe weiterhin ausserhalb der Handelszeiten (Sonntagabend), nur Krypto handelbar.",
+    "decision": "Kein Trade in diesem Lauf (19:09). Alle 5 offenen Positionen bleiben komfortabel im etablierten Halteband (-3,32% bis +4,45%), deutlich unter der Stop-Loss-Schwelle (-6,5 bis -7,5%) und unter der Gewinnmitnahme-Zielzone (7-9%). Keine frischen, ueberzeugenden Katalysatoren seit dem letzten Lauf trotz erheblichem freiem Kapital (~50.368 EUR) - BTC-ETF-Zufluesse, HYPE-Unlock und Bitget-Nachwehen sind bereits bekannt/eingepreist.",
+    "reasoning": "Handelszeiten: Sonntagabend, nur Krypto handelbar. Recherche (BTC, HYPE, BCH, ENA, allgemeine Marktlage) zeigt keine neuen, ungehandelten Katalysatoren fuer unser Portfolio seit dem letzten Lauf. ENA leicht schwaecher (0,274 -> 0,2698), HYPE leicht schwaecher (91,3 -> 91,2), beide weit von der Stop-Loss-Schwelle entfernt. BCH leicht fester. Passend zur Vorgabe, nur bei wirklich ueberzeugenden Gelegenheiten zu handeln: kein Neueinstieg und keine Verkaeufe in diesem Lauf.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
@@ -6682,7 +6682,7 @@
       "pos-0021",
       "pos-0023"
     ],
-    "portfolioValueEnd": 3448.06,
+    "portfolioValueEnd": 3439.91,
     "updates": [
       {
         "time": "00:08",
@@ -6778,6 +6778,11 @@
         "time": "18:09",
         "note": "Keine Aenderung. Kursupdate BTC/HYPE/BCH/ENA (HYPE 91,3 leicht schwaecher vor Unlock 29.09., ENA 0,274), alle Positionen im Halteband (-3,21% bis +5,47%).",
         "portfolioValue": 3448.06
+      },
+      {
+        "time": "19:09",
+        "note": "Keine Aenderung. Kursupdate BTC/HYPE/BCH/ENA (HYPE 91,2, BCH 340,47, ENA 0,2698), alle Positionen im Halteband (-3,32% bis +4,45%).",
+        "portfolioValue": 3439.91
       }
     ]
   }
