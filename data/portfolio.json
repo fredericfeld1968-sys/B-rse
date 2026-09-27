@@ -383,10 +383,10 @@
     "reasoning": "Bestaetigter, mehrfach unabhaengig belegter institutioneller Katalysator (Coin-Turk, Parameter, MoneyCheck, CoinCentral, Blockonomi, Coinotag, BitcoinEthereumNews): Ethena integriert tokenisierte US-Aktien und Equity-Perpetual-Futures in seinen USDe-Basis-Trade, wobei Binance's bStocks-Plattform als Spot-Collateral-Komponente dient (gehedged mit Aktien-Perpetuals) - vom Ethena-Risk-Committee freigegeben und der erste Schritt der Protokoll-Strategie ausserhalb reiner Kryptomaerkte. ENA sprang dadurch um 12-18% auf ca. 0,2598 USD (Wochenplus +57%), begleitet von rund 150.000 USD liquidierten Short-Positionen. Analog zum erfolgreichen Muster bestaetigter institutioneller Ausbrueche (AVAX/NYSE-ICE, QNT/Clearing House, BCH/CME-Futures) spekulative Momentum-Position auf die Fortsetzung des bestaetigten Ausbruchs; da Aktien/ETFs/Rohstoffe am Wochenende nicht handelbar sind, Fokus auf Krypto.",
     "status": "open",
     "buyPrice": 0.2598,
-    "currentPrice": 0.274,
-    "currentValue": 738.26,
-    "profitLoss": 38.26,
-    "profitLossPct": 5.47,
+    "currentPrice": 0.2698,
+    "currentValue": 726.94,
+    "profitLoss": 26.94,
+    "profitLossPct": 3.85,
     "closedDate": null,
     "closeReasoning": null
   }
