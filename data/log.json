@@ -6672,9 +6672,9 @@
   },
   {
     "date": "2026-09-27",
-    "marketOverview": "Bitcoin stabil um 84.030 USD, Gesamtkryptomarkt weiterhin in ruhiger Seitwaertsphase. Altcoin-Season-Index auf Mehrmonatshoch, breite Kapitalrotation in Altcoins (87% ueber 200-Tage-Linie), jedoch ohne neuen, frisch bestaetigten Katalysator fuer die gehaltenen Titel (BTC, HYPE, BCH, ENA). HYPE-Unlock am 29.09. weiterhin im Blick, aktuell kein Handlungsdruck. Da Sonntagnacht/-morgen ist, bleiben Aktien/ETFs/Rohstoffe ungehandelt.",
-    "decision": "Kein Trade in diesem Lauf (05:08). Kursupdate fuer alle 5 offenen Positionen (BTC x2, HYPE, BCH, ENA). Keine Position nahe Stop-Loss- oder Gewinnmitnahme-Schwelle (Spanne -2,24% bis +4,77%). Trotz erheblichem freiem Kapital (~50.968 EUR) kein Neueinstieg, da der Markt insgesamt seitwaerts/ruhig ist und keine wirklich ueberzeugende, frisch bestaetigte Gelegenheit identifiziert wurde.",
-    "reasoning": "BTC leicht fester bei 84.030 USD (pos-0016 +3,74%, pos-0018 -1,18%), HYPE leicht erholt auf 92,22 USD (-2,24%, Unlock 29.09. im Blick, kein akuter Handlungsdruck), BCH unveraendert bei 336,18 USD (-1,12%), ENA unveraendert bei 0,2722 USD (+4,77%, naehert sich der Zielspanne, aber noch kein klares Gewinnmitnahme-Signal). Der Gesamtmarkt zeigt eine ruhige Konsolidierungsphase ohne neuen, mehrfach unabhaengig bestaetigten Ausbruch ausserhalb bereits gehaltener Titel.",
+    "marketOverview": "Bitcoin pendelt um 83.800-84.000 USD, Wochenplus weiterhin ca. +3,6%, US-Spot-Bitcoin-ETFs mit staerkstem Wochenzufluss (2,4 Mrd. USD) seit Oktober 2025. Bitget-Hack (351,6 Mio. USD, ueber gefaelschte Transfer-Signaturen, keine Private-Key-Kompromittierung) sorgte nur fuer kurze, milde Marktreaktion (BTC -0,3%, ETH -0,2%) und ist bereits weitgehend verdaut - Bitget-eigener Nutzer-Schutzfonds (ueber 464 Mio. USD) deckt den Schaden. Altcoin-Markt insgesamt weiter ruhig/seitwaerts an diesem Sonntagmorgen, HYPE knapp unter Allzeithoch (97,99 USD vom 23.09.), ENA konsolidiert nach dem juengsten institutionellen Kurssprung (Aktien-Perpetuals via Binance bStocks).",
+    "decision": "Kein Trade in diesem Lauf (06:08). Kursupdate fuer alle 5 offenen Positionen (BTC x2, HYPE, BCH, ENA). Keine Position nahe Stop-Loss- oder Gewinnmitnahme-Schwelle (Spanne -2,41% bis +3,93%). Trotz erheblichem freiem Kapital (~50.368 EUR) kein Neueinstieg, da Sonntagmorgen ausserhalb der Boersenzeiten nur Krypto handelbar ist und der Bitget-Hack keine ueberzeugende, marktbreit bestaetigte Chance fuer eine neue Position bietet.",
+    "reasoning": "Handelszeiten: Sonntag, nur Krypto handelbar (Aktien/ETFs/Rohstoffe geschlossen). Alle 5 offenen Positionen liegen im etablierten Halteband zwischen Stop-Loss (-6,5 bis -7,5%) und Gewinnmitnahme-Zielzone (7-9%), daher keine Verkaeufe. Der Bitget-Hack (351,6 Mio. USD) loeste nur eine milde, kurzlebige Marktreaktion aus und ist kein fundamentaler Katalysator fuer einen neuen Einstieg - insgesamt bleibt der Markt in einer ruhigen Seitwaertsphase ohne frischen, mehrfach bestaetigten Ausbruch. Passend zur Vorgabe, nur bei wirklich ueberzeugenden Gelegenheiten zu handeln, wird in diesem Lauf nichts unternommen.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
@@ -6682,7 +6682,7 @@
       "pos-0021",
       "pos-0023"
     ],
-    "portfolioValueEnd": 3434.93,
+    "portfolioValueEnd": 3419.82,
     "updates": [
       {
         "time": "00:08",
@@ -6713,6 +6713,11 @@
         "time": "05:08",
         "note": "Keine Aenderung. Kursupdate BTC/HYPE/BCH/ENA, alle Positionen im Halteband (-2,24% bis +4,77%). Markt weiterhin ruhig/seitwaerts, kein Neueinstieg.",
         "portfolioValue": 3434.93
+      },
+      {
+        "time": "06:08",
+        "note": "Keine Aenderung. Kursupdate BTC/HYPE/BCH/ENA, alle Positionen im Halteband (-2,41% bis +3,93%). Bitget-Hack (351,6 Mio. USD) nur milde Marktreaktion, kein Handelsgrund.",
+        "portfolioValue": 3419.82
       }
     ]
   }
