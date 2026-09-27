@@ -6672,9 +6672,9 @@
   },
   {
     "date": "2026-09-27",
-    "marketOverview": "Bitcoin haelt sich stabil um 84.000 USD, Gesamtmarkt weiter im 'Greed'-Bereich. HYPE schwaecht sich leicht weiter ab auf ca. 91,52 USD (-2,24% 24h, kein frischer Katalysator), BCH konsolidiert bei ca. 336 USD nach dem CME-Futures-Ausbruch (Katalysator bereits mehrere Tage alt und eingepreist), ENA setzt seine Rally fort (ca. 0,267-0,275 USD, +19-23% 24h) getrieben von der USDe-Tokenized-Equities-Erweiterung und breiter Altcoin-Rotation. Uniswap (UNI) bleibt nach starkem CME-Futures-/SEC-Exemption-Anstieg (+111% im September, ATH 10,93 USD am 23.09.) klar im Pullback/Gewinnmitnahme-Modus - kein frischer Einstiegspunkt. Bitget-Hack (351,6 Mio. USD, 24.09.) hat den Markt nicht belastet, Altcoins (Compute/DeFi) legten am 25.09. sogar zu. Da Sonntagnacht ist, bleiben Aktien/ETFs/Rohstoffe ungehandelt.",
-    "decision": "Kein Trade in diesem Lauf (02:10). Kursupdate fuer alle 5 offenen Positionen (BTC x2, HYPE, BCH, ENA). Keine Position nahe Stop-Loss- oder Gewinnmitnahme-Schwelle (Spanne -2,98% bis +4,70%). Recherchierte Kandidaten (UNI) sind bereits stark gelaufen und im Pullback, kein frischer, mehrfach unabhaengig bestaetigter Ausbruch ausserhalb bereits gehaltener Titel gefunden - daher bewusst kein Neueinstieg.",
-    "reasoning": "BTC unveraendert bei 84.000 USD (pos-0016 +3,70%, pos-0018 -1,22%), HYPE auf 91,52 USD (-2,98%, leicht schwaecher als zuvor), BCH auf 336,18 USD (-1,12%, Bewegung ausgelaufen), ENA auf 0,272 USD (+4,70%, Rally setzt sich fort, aber noch unter der etablierten Gewinnmitnahme-Zielspanne von 7-9%). UNI trotz starkem fundamentalem Katalysator (CME-Futures 19.10., SEC-Innovation-Exemption) kein Kauf, da die Bewegung bereits ueber eine Woche alt ist und der Titel seit dem 23.09.-Hoch in der Gewinnmitnahme-Phase steckt - passt nicht zum Muster 'frischer, gerade bestaetigter Ausbruch'.",
+    "marketOverview": "Bitcoin stabil um 84.000 USD, Gesamtmarkt weiter im risikofreudigen Umfeld (Total2-Zuflüsse seit Juni ueber 371 Mrd. USD, 87% der Altcoins ueber ihrem 200-Tage-Durchschnitt). HYPE haelt sich bei ca. 91,52 USD, jedoch steht am 29.09. der groesste Token-Unlock seit August an (14,2 Mio. HYPE, ca. 1,2 Mrd. USD, ~47% an Insider) - historisch wurden solche Unlocks aber gut absorbiert (nur ~1,75% der freigeschalteten Menge floss bisher an Boersen), daher vorerst kein Handlungsdruck. BCH konsolidiert bei ca. 336,6 USD, ENA setzt die Rally moderat fort (~0,271 USD). Da Sonntagnacht ist, bleiben Aktien/ETFs/Rohstoffe weiterhin ungehandelt.",
+    "decision": "Kein Trade in diesem Lauf (03:09). Kursupdate fuer alle 5 offenen Positionen (BTC x2, HYPE, BCH, ENA). Keine Position nahe Stop-Loss- oder Gewinnmitnahme-Schwelle (Spanne -2,98% bis +4,23%). Trotz erheblichem freiem Kapital kein Neueinstieg, da keine wirklich ueberzeugende neue Gelegenheit identifiziert wurde; anstehender HYPE-Unlock (29.09.) wird beobachtet, aktuell aber kein Verkaufsgrund (Position weit ueber der Stop-Loss-Schwelle, Unlock historisch gut absorbiert).",
+    "reasoning": "BTC unveraendert bei 84.000 USD (pos-0016 +3,70%, pos-0018 -1,22%), HYPE bei 91,52 USD (-2,98%, Unlock am 29.09. im Blick, aber kein akuter Handlungsdruck), BCH auf 336,61 USD (-0,99%, Bewegung weiter ausgelaufen), ENA auf 0,271 USD (+4,23%, Rally kuehlt minimal ab, weiterhin unter der 7-9%-Zielspanne). Keine der recherchierten Marktbewegungen (Altcoin-Rotation, Bitcoin-Konsolidierung) bot einen frischen, mehrfach unabhaengig bestaetigten Ausbruch ausserhalb bereits gehaltener Titel.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
@@ -6682,7 +6682,7 @@
       "pos-0021",
       "pos-0023"
     ],
-    "portfolioValueEnd": 3429.39,
+    "portfolioValueEnd": 3426.91,
     "updates": [
       {
         "time": "00:08",
@@ -6698,6 +6698,11 @@
         "time": "02:10",
         "note": "Keine Aenderung. Kursupdate BTC/HYPE/BCH/ENA (HYPE 91,52, BCH 336,18, ENA 0,272), UNI-Rally bereits zu alt/im Pullback fuer Neueinstieg.",
         "portfolioValue": 3429.39
+      },
+      {
+        "time": "03:09",
+        "note": "Keine Aenderung. Kursupdate BTC/HYPE/BCH/ENA, alle Positionen im Halteband. HYPE-Unlock am 29.09. beobachtet, aktuell kein Verkaufsgrund.",
+        "portfolioValue": 3426.91
       }
     ]
   }
