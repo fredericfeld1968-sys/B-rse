@@ -6808,9 +6808,9 @@
   },
   {
     "date": "2026-09-28",
-    "marketOverview": "Krypto-Markt insgesamt ruhig und in engem Band: Bitcoin haelt sich stabil um 84.100-84.150 USD (~-0,2% 24h) nach der juengsten Fed-Zinserhoehung (25bp auf 3,75-4,00%), die der Markt bereits verarbeitet hat. Altcoins uneinheitlich: HYPE (-2,4% 24h) und BCH (-1,4% 24h) leicht schwaecher nach starken Vorwochen-Rallyes, ENA (+1,5% 24h) stabilisiert sich. Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten (Montag frueh, vor US-/EU-Boersenoeffnung).",
-    "decision": "Keine Trades in diesem Lauf (03:08). Alle offenen Positionen (BTC x2, HYPE, BCH, ENA) bewegen sich innerhalb des etablierten Haltebands (-4% bis +5%), keine erreicht Stop-Loss- (~-6,5 bis -7,5%) oder Zielgewinnschwelle (~7-9%). Kein ueberzeugender frischer Katalysator fuer Neuinvestition; Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten nicht handelbar. Tagesbudget wurde bereits um 00:08 gutgeschrieben.",
-    "reasoning": "Ruhige Nacht ohne neue fundamentale Entwicklungen. Kursupdate aller offenen Positionen durchgefuehrt, aber kein Handlungsbedarf: weder Gewinnmitnahme noch Stop-Loss ausgeloest. Freies Kapital bleibt hoch (~51.400 EUR), aber ohne ueberzeugende Gelegenheit wird bewusst nicht investiert (Qualitaet vor Aktivitaet).",
+    "marketOverview": "Bitcoin stabil um 84.500-84.800 USD (leicht fester ggue. Vorlauf), Fed-Zinserhoehung vom 16.09. weiterhin eingepreist, starke US-Konjunkturdaten und anhaltende institutionelle ETF-Zufluesse stuetzen den Markt trotz Nahost-bedingter Oelpreisvolatilitaet. HYPE erholt sich auf ca. 93,31 USD (Binance-Spot-Listing vom 24.09. wirkt nach, aber $1,2-Mrd-Token-Unlock am 29.09. bleibt Risikofaktor). BCH stabilisiert sich um 334-335 USD nach dem CME-Futures-Ausbruch. ENA legt weiter leicht zu auf ca. 0,274 USD. Aktien/ETFs/Rohstoffe weiterhin ausserhalb der Handelszeiten (Montag vor US-/EU-Boersenoeffnung).",
+    "decision": "Keine Trades in diesem Lauf (04:08). Alle offenen Positionen (BTC x2, HYPE, BCH, ENA) bewegen sich weiterhin komfortabel innerhalb des etablierten Haltebands (-1,61% bis +5,47%), keine erreicht Stop-Loss- (~-6,5 bis -7,5%) oder Zielgewinnschwelle (~7-9%). Kein ueberzeugender frischer Katalysator fuer Neuinvestition; Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten nicht handelbar. Tagesbudget wurde bereits um 00:08 gutgeschrieben.",
+    "reasoning": "Kursupdate aller offenen Positionen durchgefuehrt: BTC leicht fester (~84.600 USD), HYPE deutlich erholt (90,57 -> 93,31 USD) nach dem Binance-Spot-Listing, BCH leicht fester (329,79 -> 334,50 USD), ENA minimal fester (0,27293 -> 0,274002 USD). Weder Gewinnmitnahme- noch Stop-Loss-Schwelle wurde ausgeloest. Recherchierte Marktlage (starke US-Konjunktur, Fed-Erwartungen, Nahost-Oelpreise, NYSE/Blockchain.com-Tokenisierungs-Sondierung, $464-Mio-Exchange-Hack mit User-Protection-Fund-Abdeckung) liefert keinen neuen, klar ueberzeugenden Handelsimpuls. Passend zur Vorgabe, nur bei wirklich ueberzeugenden Gelegenheiten zu handeln: kein Neueinstieg und keine Verkaeufe in diesem Lauf.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
@@ -6818,7 +6818,7 @@
       "pos-0021",
       "pos-0023"
     ],
-    "portfolioValueEnd": 3417.21,
+    "portfolioValueEnd": 3454.06,
     "updates": [
       {
         "time": "00:08",
@@ -6839,6 +6839,11 @@
         "time": "03:08",
         "note": "Keine Aenderung. Kursupdate BTC (84.146 USD, pos-0016 +3,88%/pos-0018 -1,05%), HYPE -3,99%, BCH -3,00%, ENA +5,05%. Ruhiger Markt (hawkishe Fed bereits eingepreist), kein neuer Katalysator, keine Position im Stop-Loss- oder Zielbereich.",
         "portfolioValue": 3417.21
+      },
+      {
+        "time": "04:08",
+        "note": "Keine Aenderung. Kursupdate BTC (~84.600, pos-0016 +4,44%/pos-0018 -0,51%), HYPE auf 93,31 erholt (-1,08%, Binance-Listing-Nachwirkung), BCH auf 334,50 (-1,61%), ENA auf 0,274002 (+5,47%). Kein neuer Katalysator, kein Handlungsbedarf.",
+        "portfolioValue": 3454.06
       }
     ]
   }
