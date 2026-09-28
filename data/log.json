@@ -6808,13 +6808,14 @@
   },
   {
     "date": "2026-09-28",
-    "marketOverview": "Bitcoin stabil bei ca. 84.600-84.728 USD, gestuetzt von anhaltenden ETF-Zufluessen; Markt insgesamt ruhig nach dem behobenen Bitget-Sicherheitsvorfall (Auszahlungen laufen wieder). HYPE seitwaerts bei 91,13 USD, bleibt unter Beobachtung vor dem morgigen 1,2-Mrd-USD-Token-Unlock (29.09., ~1,4% des Supplys). BCH stabil bei 333,91 USD, ENA stabil bei 0,274 USD. Geopolitisch bleibt die Lage an der Strasse von Hormuz angespannt, hawkishe Fed-Kommentare bleiben im Markt. Aktien/ETFs/Rohstoffe vor Boersenoeffnung weiterhin nicht handelbar; kein ueberzeugender frischer Krypto-Katalysator fuer einen Neueinstieg gefunden.",
+    "marketOverview": "Bitcoin scheitert am Widerstand bei 85.100-85.300 USD und faellt auf ca. 83.890 USD zurueck (Unterstuetzung 83.200-83.500 USD), ETF-Zufluesse bleiben aber siebten Tag in Folge positiv (25.09.: +134 Mio. USD). HYPE seitwaerts bei 91,22 USD, morgen (29.09., 01:00 MESZ) steht ein grosser Token-Unlock (~4,46% des Supplys, ca. 904-919 Mio. USD) bevor - bleibt Risikofaktor, aber noch kein Grund fuer sofortigen Verkauf. BCH stabilisiert sich bei 337,81 USD, ENA leicht schwaecher bei 0,2694 USD. Bitget-Vorfall bleibt behoben, Markt insgesamt ruhig. Aktien/ETFs/Rohstoffe vor Boersenoeffnung (Xetra oeffnet 09:00 MESZ) weiterhin nicht handelbar.",
     "decision": [
       "Keine Trades in diesem Lauf (05:08). Alle offenen Positionen (BTC x2, HYPE, BCH, ENA) bleiben innerhalb des etablierten Haltebands (-4,06% bis +5,47%), keine erreicht Stop-Loss- (~-6,5 bis -7,5%) oder Zielgewinnschwelle (~7-9%). Tagesbudget wurde bereits um 00:08 gutgeschrieben, freies Kapital bleibt entsprechend hoch, aber ohne wirklich ueberzeugende neue Gelegenheit wird es passend zur Vorgabe nicht eingesetzt.",
       "Keine Trades in diesem Lauf (06:08). Alle offenen Positionen (BTC x2, HYPE, BCH, ENA) bleiben innerhalb des etablierten Haltebands (-3,39% bis +5,47%), keine erreicht Stop-Loss- oder Zielgewinnschwelle. Trotz hohem freiem Kapital (~51.368 EUR) keine wirklich ueberzeugende neue Gelegenheit (Hormuz-Eskalation und hawkishe Fed-Kommentare betreffen primaer nicht handelbare Rohstoffe/Aktien; HYPE-Unlock morgen ist eher Risiko- als Kaufsignal).",
-      "Keine Trades in diesem Lauf (07:08). Alle offenen Positionen (BTC x2, HYPE, BCH, ENA) bleiben innerhalb des etablierten Haltebands, keine erreicht Stop-Loss- oder Zielgewinnschwelle. Kein ueberzeugender frischer Katalysator, Aktien/ETFs/Rohstoffe vor Boersenoeffnung nicht handelbar."
+      "Keine Trades in diesem Lauf (07:08). Alle offenen Positionen (BTC x2, HYPE, BCH, ENA) bleiben innerhalb des etablierten Haltebands, keine erreicht Stop-Loss- oder Zielgewinnschwelle. Kein ueberzeugender frischer Katalysator, Aktien/ETFs/Rohstoffe vor Boersenoeffnung nicht handelbar.",
+      "Keine Trades in diesem Lauf (08:19). Alle offenen Positionen (BTC x2, HYPE, BCH, ENA) bleiben innerhalb des etablierten Haltebands (-3,3% bis +3,7%), keine erreicht Stop-Loss- (~-6,5 bis -7,5%) oder Zielgewinnschwelle (~7-9%). Der bevorstehende HYPE-Unlock (29.09.) ist ein bekannter Risikofaktor, aber (noch) kein akuter Verkaufsgrund. Aktien/ETFs/Rohstoffe vor Boersenoeffnung weiterhin nicht handelbar, daher keine neue Position."
     ],
-    "reasoning": "Kursupdate aller offenen Positionen: keine relevante Bewegung seit dem letzten Lauf (BTC ~84.600-84.728 USD, HYPE 91,13 USD, BCH 333,91 USD, ENA 0,274 USD). Keine Position hat Stop-Loss- (~-6,5 bis -7,5%) oder Zielgewinnschwelle (~7-9%) erreicht. Markt bleibt ruhig nach dem behobenen Bitget-Sicherheitsvorfall, ETF-Zufluesse positiv; kein neuer eigenstaendiger Handelsimpuls, HYPE-Unlock morgen bleibt beobachteter Risikofaktor. Aktien/ETFs/Rohstoffe vor Boersenoeffnung nicht handelbar. Passend zur Vorgabe, nur bei ueberzeugenden Gelegenheiten zu handeln: kein Neueinstieg, keine Verkaeufe.",
+    "reasoning": "Kursupdate aller offenen Positionen: BTC (beide Positionen) auf 83.890 USD (Ruecksetzer vom Widerstand 85.100-85.300), HYPE auf 91,22 USD, BCH auf 337,81 USD, ENA auf 0,2694 USD. Keine Position hat Stop-Loss- (~-6,5 bis -7,5%) oder Zielgewinnschwelle (~7-9%) erreicht (Band: -3,3% bis +3,7%). Der HYPE-Token-Unlock am 29.09. (~4,46% des Supplys, ~904-919 Mio. USD) bleibt beobachteter Risikofaktor fuer die naechsten Laeufe. Aktien/ETFs/Rohstoffe vor Boersenoeffnung (Xetra 09:00 MESZ) nicht handelbar. Passend zur Vorgabe, nur bei ueberzeugenden Gelegenheiten zu handeln: kein Neueinstieg, keine Verkaeufe.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
@@ -6822,7 +6823,7 @@
       "pos-0021",
       "pos-0023"
     ],
-    "portfolioValueEnd": 3441.46,
+    "portfolioValueEnd": 3421.35,
     "updates": [
       {
         "time": "00:08",
@@ -6863,6 +6864,11 @@
         "time": "07:08",
         "note": "Keine Aenderung. Kursupdate BTC (~84.600-84.728 USD, unveraendert), HYPE stabil (91,13 USD, -3,39%), BCH stabil (333,91 USD, -1,79%), ENA stabil (0,274 USD, +5,47%). Bitget-Vorfall behoben (Auszahlungen laufen wieder), ETF-Zufluesse weiter positiv, aber kein neuer eigenstaendiger Krypto-Katalysator; HYPE-Unlock (29.09., ~1,2 Mrd. USD) bleibt Risikofaktor. Aktien/ETFs/Rohstoffe vor Boersenoeffnung weiterhin nicht handelbar.",
         "portfolioValue": 3441.46
+      },
+      {
+        "time": "08:19",
+        "note": "Keine Aenderung. Kursupdate BTC (-1,0%, Ruecksetzer vom Widerstand), HYPE/BCH/ENA leicht bewegt. Alle Positionen im Halteband. HYPE-Unlock morgen bleibt Risikofaktor.",
+        "portfolioValue": 3421.35
       }
     ]
   }
