@@ -6808,9 +6808,9 @@
   },
   {
     "date": "2026-09-28",
-    "marketOverview": "Krypto-Markt seitwaerts bis leicht risikofreudig in der Nacht auf Montag: Bitcoin stabil bei ca. 84.700 USD nach starker US-PMI-Zahl (58,4) und gedaempften Zinssenkungshoffnungen; US-Spot-Bitcoin-ETFs verzeichneten in der Woche bis 25.09. mit 2,4 Mrd. USD die staerksten Nettozuflüsse seit Oktober 2025. Hyperliquid (HYPE) legt nach dem Binance-Spot-Listing auf ca. 93,31 USD zu (+1% in 24h), Bitcoin Cash (BCH) konsolidiert nach der starken CME-Futures-Rally bei ca. 335 USD, Ethena (ENA) stabil bei 0,274 USD. Belastend: Bitget hat seine geschaetzten Verluste aus dem Hacking-Vorfall auf 387,5 Mio. USD erhoeht; die SEC verschob ihre Entscheidung zu Krypto-ETF-Optionen auf den 11.11.2026. Aktien/ETFs/Rohstoffe bleiben um diese Nachtzeit (Montag, 01:08 MESZ) ausserhalb der Handelszeiten.",
-    "decision": "Kein Trade. Tagesbudget (1.000 EUR) wurde bereits im ersten Lauf um 00:08 fuer den 28.09. gutgeschrieben (totalFreshCapitalEur bleibt bei 55.000 EUR). Alle vier offenen Positionen (BTC x2, HYPE, BCH, ENA) im Kursupdate aktualisiert: HYPE leicht auf -1,08% nachgegeben (vorher -3,00%), BCH auf -1,47% (vorher -0,88%), BTC- und ENA-Positionen unveraendert. Kein neuer Einstieg mangels ueberzeugender frischer Katalysatoren; ausserhalb der Boersenzeiten ohnehin nur Krypto handelbar.",
-    "reasoning": "Risikoprofil 'spekulativ': Keine offene Position hat die etablierte Stop-Loss-Schwelle (-6,5% bis -7,5%) oder den Ziel-Gewinnbereich (7-9%) erreicht - alle bewegen sich weiterhin im Halteband (-1,47% bis +5,47%). Die verfuegbaren Nachrichten (Bitget-Verluste, SEC-Verzoegerung, Binance/Circle-USDC-Deal, Payward/Bitnomial-Uebernahme) liefern keinen ueberzeugenden neuen Handelsimpuls fuer eine Neuposition um diese Nachtzeit. Keine Position verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "marketOverview": "Ruhige Nacht auf Montag im Kryptomarkt: Bitcoin stabil bei ca. 84.700 USD (Bitcoin-Dominanz ~59,7%, Altcoin-Season-Index nur 27-28, also weiterhin klare 'Bitcoin-Season'). Hyperliquid (HYPE) haelt sich bei 93,31 USD nach dem Binance-Listing vom 24.09.; ein Token-Unlock von rund 1,2 Mrd. USD (ca. 14,2 Mio. Token, ~47% davon Insider-Anteile) steht am 29.09. bevor und ist als Risiko im Blick, aber noch nicht akut. Bitcoin Cash (BCH) konsolidiert nach der CME-Futures-Rally leicht auf ca. 336,6 USD, Ethena (ENA) unveraendert bei 0,274 USD. Aktien/ETFs/Rohstoffe bleiben um diese Nachtzeit (Montag, 02:08 MESZ) ausserhalb der Handelszeiten.",
+    "decision": "Kein Trade. Tagesbudget (1.000 EUR) wurde bereits im ersten Lauf um 00:08 fuer den 28.09. gutgeschrieben (totalFreshCapitalEur bleibt bei 55.000 EUR, keine erneute Gutschrift). Alle fuenf offenen Positionen (BTC x2, HYPE, BCH, ENA) im Kursupdate aktualisiert: BCH leicht auf -0,99% nachgegeben (vorher -1,47%), BTC/HYPE/ENA-Positionen unveraendert. Kein neuer Einstieg mangels ueberzeugender frischer Katalysatoren; ausserhalb der Boersenzeiten ohnehin nur Krypto handelbar.",
+    "reasoning": "Risikoprofil 'spekulativ': Keine offene Position hat die etablierte Stop-Loss-Schwelle (-6,5% bis -7,5%) oder den Ziel-Gewinnbereich (7-9%) erreicht - alle bewegen sich weiterhin im Halteband (-1,08% bis +5,47%). Der anstehende HYPE-Token-Unlock (29.09., ~1,2 Mrd. USD, hoher Insider-Anteil) ist ein potenzielles Verkaufssignal fuer pos-0019, aber der Kurs zeigt bisher keine Schwaeche (93,31 USD, +1% ggue. Vortag) - wird in den kommenden Laeufen engmaschig beobachtet. Keine Position verstoesst gegen Ausschlusslisten aus den Einstellungen; keine ueberzeugende neue Gelegenheit fuer eine Neuposition um diese Nachtzeit.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
@@ -6818,7 +6818,7 @@
       "pos-0021",
       "pos-0023"
     ],
-    "portfolioValueEnd": 3456.74,
+    "portfolioValueEnd": 3459.59,
     "updates": [
       {
         "time": "00:08",
@@ -6829,6 +6829,11 @@
         "time": "01:08",
         "note": "Keine Aenderung. Kursupdate HYPE (-1,08%) und BCH (-1,47%), BTC/ENA unveraendert. Kein ueberzeugender neuer Katalysator.",
         "portfolioValue": 3456.74
+      },
+      {
+        "time": "02:08",
+        "note": "Keine Aenderung. Kursupdate BCH leicht auf -0,99% (vorher -1,47%). HYPE-Unlock am 29.09. (~1,2 Mrd. USD) im Blick, noch kein Handlungsbedarf. Kein neuer Katalysator.",
+        "portfolioValue": 3459.59
       }
     ]
   }
