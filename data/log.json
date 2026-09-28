@@ -6808,7 +6808,7 @@
   },
   {
     "date": "2026-09-28",
-    "marketOverview": "US-Aktienmaerkte bleiben am 28.09. im Minus (S&P 500 ca. 7.699,76, -0,56%; Dow ca. 51.591,02, -0,46%; Nasdaq ca. 26.855,69, -0,79%), belastet von neu aufgeflammten US-Iran-Spannungen: Trump lehnte Irans 7-Tage-Plan zur Wiederoeffnung der Strasse von Hormuz ab, WTI zog auf ca. 94,40 USD an. Kryptomarkt insgesamt schwaecher (Gesamtmarktkapitalisierung -2,07% auf 2,85 Bio. USD), Bitcoin bei ca. 83.300 USD nach Long-Liquidationswelle. Kein neuer, ueberzeugender Katalysator fuer bestehende oder neue Positionen.",
+    "marketOverview": "US-Aktienmaerkte im Minus (Dow -0,7%, S&P 500 -0,8%, Nasdaq -0,9%) durch erneut aufgeflammte US-Iran-Spannungen: Trump lehnte Irans an Bedingungen (Aufhebung Seeblockade, Sanktionsende) geknuepften 7-Tage-Plan zur Wiederoeffnung der Strasse von Hormuz ab. Oel zieht deutlich an (Brent +2,3% auf ca. 106,73 USD, WTI +2% auf ca. 94,25 USD), 10J-Renditen bleiben erhoeht. Kryptomarkt insgesamt schwaecher: Bitcoin pendelt seitwaerts um 83.700 USD, HYPE (-4,9% seit Kauf) und BCH deutlich schwaecher, ENA fester.",
     "decision": [
       "Keine Trades in diesem Lauf (05:08). Alle offenen Positionen (BTC x2, HYPE, BCH, ENA) bleiben innerhalb des etablierten Haltebands (-4,06% bis +5,47%), keine erreicht Stop-Loss- (~-6,5 bis -7,5%) oder Zielgewinnschwelle (~7-9%). Tagesbudget wurde bereits um 00:08 gutgeschrieben, freies Kapital bleibt entsprechend hoch, aber ohne wirklich ueberzeugende neue Gelegenheit wird es passend zur Vorgabe nicht eingesetzt.",
       "Keine Trades in diesem Lauf (06:08). Alle offenen Positionen (BTC x2, HYPE, BCH, ENA) bleiben innerhalb des etablierten Haltebands (-3,39% bis +5,47%), keine erreicht Stop-Loss- oder Zielgewinnschwelle. Trotz hohem freiem Kapital (~51.368 EUR) keine wirklich ueberzeugende neue Gelegenheit (Hormuz-Eskalation und hawkishe Fed-Kommentare betreffen primaer nicht handelbare Rohstoffe/Aktien; HYPE-Unlock morgen ist eher Risiko- als Kaufsignal).",
@@ -6822,9 +6822,10 @@
       "Keine Trades in diesem Lauf (14:21). Alle offenen Positionen (BTC x2, HYPE, BCH, ENA) bleiben innerhalb des etablierten Haltebands, kein neuer Katalysator, US-Markt noch nicht offen.",
       "Keine Trades in diesem Lauf (15:17). Alle offenen Positionen (BTC x2, HYPE, BCH, ENA) praktisch unveraendert zum letzten Lauf und weiterhin klar innerhalb des etablierten Haltebands, keine erreicht Stop-Loss- (~-6,5 bis -7,5%) oder Zielgewinnschwelle (~7-9%). US-Markt oeffnet erst in wenigen Minuten (15:30 MESZ), Vorboersenstimmung wegen Iran-Hormuz-Eskalation und steigender Oelpreise/Renditen weiterhin risikoavers, kein neuer eigenstaendiger Krypto-Katalysator. Trotz hohem freiem Kapital (~51.368 EUR) keine wirklich ueberzeugende neue Gelegenheit, daher kein Trade.",
       "Keine Trades in diesem Lauf (16:08). US-Markt seit 15:30 MESZ offen, aber breiter Risk-off-Ton (erneut aufgeflammte US-Iran-Spannungen, steigende Oelpreise/Renditen) bietet keinen ueberzeugenden neuen Katalysator im etablierten Muster (bestaetigter Ausbruch / Dip-Kauf mit klarer fundamentaler Story). NVDA-Buyback-Nachricht ist nur ein kleiner Kursimpuls (+1%), kein starkes Signal. Alle offenen Positionen (BTC x2, HYPE, BCH, ENA) bleiben klar innerhalb des etablierten Haltebands (-3,53% bis +3,54%), keine erreicht Stop-Loss- (~-6,5 bis -7,5%) oder Zielgewinnschwelle (~7-9%).",
-      "Keine Trades in diesem Lauf (17:10). Alle offenen Positionen (BTC x2, HYPE, BCH, ENA) bleiben innerhalb des etablierten Haltebands (-3,30% bis +5,47%), keine erreicht Stop-Loss- (~-6,5 bis -7,5%) oder Zielgewinnschwelle (~7-9%). Tagesbudget wurde bereits um 00:08 gutgeschrieben, freies Kapital bleibt unveraendert hoch, aber ohne ueberzeugende neue Gelegenheit ungenutzt."
+      "Keine Trades in diesem Lauf (17:10). Alle offenen Positionen (BTC x2, HYPE, BCH, ENA) bleiben innerhalb des etablierten Haltebands (-3,30% bis +5,47%), keine erreicht Stop-Loss- (~-6,5 bis -7,5%) oder Zielgewinnschwelle (~7-9%). Tagesbudget wurde bereits um 00:08 gutgeschrieben, freies Kapital bleibt unveraendert hoch, aber ohne ueberzeugende neue Gelegenheit ungenutzt.",
+      "Stop-Loss BCH (18:10): Bitcoin Cash faellt seit dem letzten Lauf weiter von 335,22 auf ca. 306,65 USD (-9,81% seit Kauf) und ueberschreitet damit klar die etablierte Stop-Loss-Schwelle (-6,5 bis -7,5%) - Position glattgestellt, Verlust von -58,84 EUR realisiert. Kursupdate der verbleibenden offenen Positionen (BTC x2 +3,33%/-1,57%, HYPE -4,89%, ENA +3,70%) - keine weitere Position erreicht Stop-Loss- oder Zielgewinnschwelle. Trotz sehr hohem freiem Kapital (~51.909 EUR) keine neue Position: der breite Risk-off-Ton (US-Iran-Eskalation, Aktienmaerkte im Minus, Kryptomarkt schwaecher) bietet keinen wirklich ueberzeugenden frischen Einstiegskatalysator; die Oel-Rally ist bereits seit dem Vormittag bekannt und mehrfach ungenutzt geblieben."
     ],
-    "reasoning": "Keine Trades in diesem Lauf (17:10). Kursupdate BTC ca. 83.300 USD (pos-0016 +2,84%, pos-0018 -2,04%), HYPE 91,22 USD (-3,30%, weiter unter Druck vor HYPE-Unlock 29.09.), BCH 335,22 USD (-1,40%), ENA 0,274 USD (+5,47%, staerkste Position, aber noch unter Zielschwelle). US-Aktienmarkt offen, aber breiter Risk-off durch US-Iran-Eskalation (Trump lehnt Irans Hormuz-Plan ab, Oelpreise/Renditen steigen); Kryptomarkt insgesamt -2% in 24h. Kein neuer ueberzeugender Katalysator fuer Kauf oder Verkauf identifiziert.",
+    "reasoning": "Stop-Loss BCH (18:10): Bitcoin Cash faellt seit dem letzten Lauf weiter von 335,22 auf ca. 306,65 USD (-9,81% seit Kauf) und ueberschreitet damit klar die etablierte Stop-Loss-Schwelle (-6,5 bis -7,5%) - Position glattgestellt, Verlust von -58,84 EUR realisiert. Kursupdate der verbleibenden offenen Positionen (BTC x2 +3,33%/-1,57%, HYPE -4,89%, ENA +3,70%) - keine weitere Position erreicht Stop-Loss- oder Zielgewinnschwelle. Trotz sehr hohem freiem Kapital (~51.909 EUR) keine neue Position: der breite Risk-off-Ton (US-Iran-Eskalation, Aktienmaerkte im Minus, Kryptomarkt schwaecher) bietet keinen wirklich ueberzeugenden frischen Einstiegskatalysator; die Oel-Rally ist bereits seit dem Vormittag bekannt und mehrfach ungenutzt geblieben.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
@@ -6832,7 +6833,7 @@
       "pos-0021",
       "pos-0023"
     ],
-    "portfolioValueEnd": 3418.5,
+    "portfolioValueEnd": 2812.23,
     "updates": [
       {
         "time": "00:08",
@@ -6923,6 +6924,11 @@
         "time": "17:10",
         "note": "Keine Aenderung. Kursupdate BTC x2 (+2,84%/-2,04%), HYPE (-3,30%), BCH (-1,40%), ENA (+5,47%). US-Markt offen, aber Risk-off durch US-Iran-Eskalation (Trump lehnt Hormuz-Plan ab), Kryptomarkt -2% in 24h. Kein Trade.",
         "portfolioValue": 3418.5
+      },
+      {
+        "time": "18:10",
+        "note": "Stop-Loss BCH (-9,81%, -58,84 EUR), Kursupdate BTC x2/HYPE/ENA. Kein neuer Trade trotz hohem freiem Kapital (Risk-off, kein ueberzeugender Katalysator).",
+        "portfolioValue": 2812.23
       }
     ]
   }
