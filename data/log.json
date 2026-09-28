@@ -6960,5 +6960,24 @@
         "portfolioValue": 2230.35
       }
     ]
+  },
+  {
+    "date": "2026-09-29",
+    "marketOverview": "Kryptomarkt weiter im Risk-off-Modus zum Monatsende: Bitcoin pendelt um ca. 83.100-83.900 USD (CoinGecko live), nachdem Iran einen Fortschrittsbericht bei den Hormuz-Gespraechen dementierte und Trump Irans 7-Tage-Vorschlag ablehnte - Oelpreise und US-Renditen bleiben erhoeht, trotz weiterhin starker US-Spot-Bitcoin-ETF-Zufluesse (~2,39 Mrd. USD Wochenzufluss). ENA faellt deutlich auf ca. 0,2531 USD (-8,25% in 24h laut CoinGecko), da der heutige grosse HYPE-Token-Unlock (29.09., ~919 Mio. USD, 2,7% Marktkapitalisierung) allgemein auf die Risikostimmung im Altcoin-Segment drueckt; die eigene HYPE-Position wurde bereits vor dem Unlock per Stop-Loss glattgestellt. US-Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten.",
+    "decision": "Kein Trade in diesem Lauf (00:11), neuer Tag. Tagesbudget wurde gutgeschrieben (+1.000 EUR, totalFreshCapitalEur jetzt 56.000 EUR). Alle 3 offenen Positionen (BTC x2, ENA) bleiben klar im etablierten Halteband (-2,57% bis +2,64%), weit entfernt von Stop-Loss- (~-6,5 bis -7,5%) und Zielgewinnschwelle (~7-9%). Trotz sehr hohem freiem Kapital (~53.469 EUR) keine wirklich ueberzeugende neue Gelegenheit: der breite Risk-off-Ton (Iran-Hormuz-Dementi, steigende Oelpreise/Renditen) und der heutige HYPE-Unlock sprechen eher gegen einen frischen spekulativen Einstieg, ausserhalb der Handelszeiten ist ohnehin nur Krypto handelbar.",
+    "reasoning": "Handelszeiten: Dienstagnacht/frueher Morgen, nur Krypto handelbar. Recherche (BTC, HYPE, ENA, allgemeine Marktlage) zeigt keinen neuen, ungehandelten Katalysator seit dem letzten Lauf: Iran dementiert Fortschritte bei den Hormuz-Gespraechen, Trump haelt an der Ablehnung des 7-Tage-Plans fest, Oel und US-Renditen bleiben erhoeht. ENA schwaecht sich vor dem HYPE-Unlock weiter ab, BTC seitwaerts nach dem Ruecksetzer der letzten Tage. Passend zum spekulativen Profil, aber ohne ueberzeugenden Trigger, wird aktuell nicht gehandelt; Kursupdate aller offenen Positionen durchgefuehrt.",
+    "positionIds": [
+      "pos-0016",
+      "pos-0018",
+      "pos-0023"
+    ],
+    "portfolioValueEnd": 2187.56,
+    "updates": [
+      {
+        "time": "00:11",
+        "note": "Keine Aenderung, neuer Tag. Tagesbudget gutgeschrieben (+1.000 EUR). Kursupdate BTC x2/ENA (Risk-off, Iran-Hormuz-Dementi, ENA -8,25% 24h vor HYPE-Unlock). Kein ueberzeugender Katalysator.",
+        "portfolioValue": 2187.56
+      }
+    ]
   }
 ]
