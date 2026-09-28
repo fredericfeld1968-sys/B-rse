@@ -6808,16 +6808,17 @@
   },
   {
     "date": "2026-09-28",
-    "marketOverview": "Bitcoin pendelt weiter um 84.000 USD ohne klare Richtung. Brent Crude steigt auf 107,34 USD (+2,89%), nachdem Trump das iranische Angebot zur Wiedereroeffnung der Strasse von Hormus erneut ablehnte - bereits im vorherigen Lauf bekannt, kein frischer Handelsimpuls fuer die nicht handelbaren Rohstoffe/Aktien-Klassen relevant, da der Xetra-Handel bereits moderat hoeher erwartet wird (DAX +0,2% vorbörslich, im jüngsten Schwankungsbereich). HYPE schwaecht sich weiter leicht auf ca. 90 USD ab (-4,6% seit Kauf), der grosse Token-Unlock (~919 Mio. USD, 1,4% des Supplys) steht morgen frueh (01:00 MESZ) an und bleibt der zentrale Risikofaktor, hat die Stop-Loss-Schwelle aber noch nicht erreicht. BCH stabil bei 333,91 USD, ENA leicht fester bei 0,274 USD.",
+    "marketOverview": "Boersen (Xetra, NYSE noch vor Handelsstart) im Risk-off-Modus nach Trumps Ablehnung des iranischen Hormuz-Vorschlags; US-Futures pendeln zwischen leicht negativ und leicht positiv, Brent haelt sich bei ca. 105-107 USD/Barrel. Krypto seitwaerts: BTC ~84.300 USD, HYPE leicht erholt auf ~91,2 USD (Unlock ~919 Mio. USD steht morgen 01:00 MESZ an), BCH ~331 USD, ENA ~0,269 USD. Keine Position im Stop-Loss- oder Zielgewinnbereich, kein neuer ueberzeugender Katalysator.",
     "decision": [
       "Keine Trades in diesem Lauf (05:08). Alle offenen Positionen (BTC x2, HYPE, BCH, ENA) bleiben innerhalb des etablierten Haltebands (-4,06% bis +5,47%), keine erreicht Stop-Loss- (~-6,5 bis -7,5%) oder Zielgewinnschwelle (~7-9%). Tagesbudget wurde bereits um 00:08 gutgeschrieben, freies Kapital bleibt entsprechend hoch, aber ohne wirklich ueberzeugende neue Gelegenheit wird es passend zur Vorgabe nicht eingesetzt.",
       "Keine Trades in diesem Lauf (06:08). Alle offenen Positionen (BTC x2, HYPE, BCH, ENA) bleiben innerhalb des etablierten Haltebands (-3,39% bis +5,47%), keine erreicht Stop-Loss- oder Zielgewinnschwelle. Trotz hohem freiem Kapital (~51.368 EUR) keine wirklich ueberzeugende neue Gelegenheit (Hormuz-Eskalation und hawkishe Fed-Kommentare betreffen primaer nicht handelbare Rohstoffe/Aktien; HYPE-Unlock morgen ist eher Risiko- als Kaufsignal).",
       "Keine Trades in diesem Lauf (07:08). Alle offenen Positionen (BTC x2, HYPE, BCH, ENA) bleiben innerhalb des etablierten Haltebands, keine erreicht Stop-Loss- oder Zielgewinnschwelle. Kein ueberzeugender frischer Katalysator, Aktien/ETFs/Rohstoffe vor Boersenoeffnung nicht handelbar.",
       "Keine Trades in diesem Lauf (08:19). Alle offenen Positionen (BTC x2, HYPE, BCH, ENA) bleiben innerhalb des etablierten Haltebands (-3,3% bis +3,7%), keine erreicht Stop-Loss- (~-6,5 bis -7,5%) oder Zielgewinnschwelle (~7-9%). Der bevorstehende HYPE-Unlock (29.09.) ist ein bekannter Risikofaktor, aber (noch) kein akuter Verkaufsgrund. Aktien/ETFs/Rohstoffe vor Boersenoeffnung weiterhin nicht handelbar, daher keine neue Position.",
       "Keine Aenderung. Boersen (Xetra) seit 09:00 geoeffnet, aber Aktien-Futures risikoavers (Dow -0,4%, S&P -0,4%, Nasdaq -0,7%) nach Trumps Ablehnung des iranischen Hormuz-Vorschlags, Brent auf ~105,9 USD. Kursupdate Krypto: BTC unveraendert (83.890 USD), HYPE leicht schwaecher (91,13 USD, Vorlauf HYPE-Unlock morgen), BCH leicht schwaecher (333 USD), ENA leicht fester (0,2715 USD). Alle Positionen im Halteband (-3,39% bis +4,5%), kein Stop-Loss/Zielgewinn erreicht. Keine ueberzeugende neue Gelegenheit (Risk-off-Ton bei Aktien, keine spezifische Sell-the-news-Chance).",
-      "Keine Trades in diesem Lauf (10:09). Kursupdate aller offenen Positionen (BTC x2 +3,7%/-1,22%, HYPE -4,59%, BCH -1,79%, ENA +5,47%) - keine Position erreicht die Stop-Loss- (~-6,5 bis -7,5%) oder Zielgewinnschwelle (~7-9%). Die Hormuz-Eskalation (Brent +2,89% auf 107,34 USD) und das moderat freundliche DAX-Vorboersen-Bild sind bereits aus fruoheren Laeufen bekannt, kein neuer eigenstaendiger Katalysator. HYPE-Unlock morgen frueh bleibt beobachteter Risikofaktor, aber noch kein akuter Verkaufsgrund. Trotz hohem freiem Kapital (~51.368 EUR) keine wirklich ueberzeugende neue Gelegenheit."
+      "Keine Trades in diesem Lauf (10:09). Kursupdate aller offenen Positionen (BTC x2 +3,7%/-1,22%, HYPE -4,59%, BCH -1,79%, ENA +5,47%) - keine Position erreicht die Stop-Loss- (~-6,5 bis -7,5%) oder Zielgewinnschwelle (~7-9%). Die Hormuz-Eskalation (Brent +2,89% auf 107,34 USD) und das moderat freundliche DAX-Vorboersen-Bild sind bereits aus fruoheren Laeufen bekannt, kein neuer eigenstaendiger Katalysator. HYPE-Unlock morgen frueh bleibt beobachteter Risikofaktor, aber noch kein akuter Verkaufsgrund. Trotz hohem freiem Kapital (~51.368 EUR) keine wirklich ueberzeugende neue Gelegenheit.",
+      "Keine Trades in diesem Lauf (11:08). Kursupdate BTC/HYPE/BCH/ENA, alle Positionen im Halteband (-3,32% bis +4,07%). Xetra offen, aber kein ueberzeugender frischer Katalysator; HYPE-Unlock morgen frueh bleibt beobachteter Risikofaktor ohne akuten Handlungsbedarf."
     ],
-    "reasoning": "Keine Trades in diesem Lauf (10:09). Kursupdate aller offenen Positionen (BTC x2 +3,7%/-1,22%, HYPE -4,59%, BCH -1,79%, ENA +5,47%) - keine Position erreicht die Stop-Loss- (~-6,5 bis -7,5%) oder Zielgewinnschwelle (~7-9%). Die Hormuz-Eskalation (Brent +2,89% auf 107,34 USD) und das moderat freundliche DAX-Vorboersen-Bild sind bereits aus fruoheren Laeufen bekannt, kein neuer eigenstaendiger Katalysator. HYPE-Unlock morgen frueh bleibt beobachteter Risikofaktor, aber noch kein akuter Verkaufsgrund. Trotz hohem freiem Kapital (~51.368 EUR) keine wirklich ueberzeugende neue Gelegenheit.",
+    "reasoning": "Keine Trades in diesem Lauf (11:08). Kursupdate BTC/HYPE/BCH/ENA, alle Positionen im Halteband (-3,32% bis +4,07%). Xetra offen, aber kein ueberzeugender frischer Katalysator; HYPE-Unlock morgen frueh bleibt beobachteter Risikofaktor ohne akuten Handlungsbedarf.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
@@ -6825,7 +6826,7 @@
       "pos-0021",
       "pos-0023"
     ],
-    "portfolioValueEnd": 3421.1,
+    "portfolioValueEnd": 3416.63,
     "updates": [
       {
         "time": "00:08",
@@ -6881,6 +6882,11 @@
         "time": "10:09",
         "note": "Keine Aenderung. Kursupdate BTC/HYPE/BCH/ENA, alle im Halteband. Brent-Anstieg (Hormus-Eskalation) und DAX-Vorboerse bereits bekannt, kein neuer Katalysator.",
         "portfolioValue": 3421.1
+      },
+      {
+        "time": "11:08",
+        "note": "Keine Aenderung. Kursupdate BTC/HYPE/BCH/ENA, alle Positionen im Halteband (-3,32% bis +4,07%). Xetra offen, aber kein ueberzeugender frischer Katalysator; HYPE-Unlock morgen frueh bleibt beobachteter Risikofaktor ohne akuten Handlungsbedarf.",
+        "portfolioValue": 3416.63
       }
     ]
   }
