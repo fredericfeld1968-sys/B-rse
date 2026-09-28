@@ -6808,7 +6808,7 @@
   },
   {
     "date": "2026-09-28",
-    "marketOverview": "US-Aktienfutures weiterhin schwaecher (Dow -0,5%, S&P -0,4%, Nasdaq -0,8%) kurz vor US-Marktoeffnung (15:30 MESZ), nachdem Trump Irans Vorschlag zur Wiederoeffnung der Strasse von Hormuz ablehnte; Brent kletterte auf bis zu 108,83 USD (zuletzt +2,7% auf 107,11 USD), WTI +3% auf 95,20 USD. Krypto weiterhin ruhig-schwaecher: BTC bei ca. 83.200 USD (-1 bis -1,6%), HYPE unter Druck vor dem morgigen Token-Unlock (89,72-91,13 USD, -3 bis -4,9%), BCH stabil (335-340 USD), ENA stabil bei ca. 0,274 USD (+5,47% seit Kauf). Gegenueber dem letzten Lauf (14:21) keine wesentliche Veraenderung.",
+    "marketOverview": "US-Aktienmaerkte seit 15:30 MESZ geoeffnet, aber im Minus (Dow -0,7%, S&P 500 -0,5%, Nasdaq -0,5%): US-Iran-Spannungen sind erneut aufgeflammt (Trump lehnt Irans Vorschlag zur Wiederoeffnung der Strasse von Hormuz ab), Oelpreise ziehen an (Brent ca. 98-108 USD), 10-Jahres-Rendite ueber 5,2%. NVDA leicht im Plus (+1%, neues 150-Mrd.-USD-Buyback), AMD/Micron dagegen -2 bis -3%. Krypto risikoavers im Sog des Makro-Umfelds: BTC ca. 83.300-83.600 USD (-1 bis -1,6% 24h), HYPE ca. 91 USD (-1,1%, Vorlauf zum grossen Token-Unlock am 29.09., ~1,2-1,4 Mrd. USD / 2,7% Marktkapitalisierung), BCH ca. 330-340 USD (uneinheitlich zwischen Boersen, im Trend leicht schwaecher), ENA ca. 0,269 USD (-0,3% 24h, +37,7% 7T). Gegenueber dem letzten Lauf (15:17) keine wesentliche Veraenderung.",
     "decision": [
       "Keine Trades in diesem Lauf (05:08). Alle offenen Positionen (BTC x2, HYPE, BCH, ENA) bleiben innerhalb des etablierten Haltebands (-4,06% bis +5,47%), keine erreicht Stop-Loss- (~-6,5 bis -7,5%) oder Zielgewinnschwelle (~7-9%). Tagesbudget wurde bereits um 00:08 gutgeschrieben, freies Kapital bleibt entsprechend hoch, aber ohne wirklich ueberzeugende neue Gelegenheit wird es passend zur Vorgabe nicht eingesetzt.",
       "Keine Trades in diesem Lauf (06:08). Alle offenen Positionen (BTC x2, HYPE, BCH, ENA) bleiben innerhalb des etablierten Haltebands (-3,39% bis +5,47%), keine erreicht Stop-Loss- oder Zielgewinnschwelle. Trotz hohem freiem Kapital (~51.368 EUR) keine wirklich ueberzeugende neue Gelegenheit (Hormuz-Eskalation und hawkishe Fed-Kommentare betreffen primaer nicht handelbare Rohstoffe/Aktien; HYPE-Unlock morgen ist eher Risiko- als Kaufsignal).",
@@ -6820,9 +6820,10 @@
       "Keine Aenderung. Kursupdate BTC x2 (+3,58%/-1,33%), HYPE (-3,37%), BCH (-1,47%), ENA (+5,47%) - alle im etablierten Halteband. Xetra offen, aber Aktienmarkt risikoavers (AI-Sicherheitsbedenken nach OpenAI-Zwischenfall, Iran-Hormuz-Eskalation, Brent >107 USD). QNT-Rally (+53,79% 24h/+322% 7T, Clearing-House-Katalysator vom 25.09. bereits gehandelt) wird trotz Groesse NICHT gejagt: On-Chain-Analysen zeigen 77,4% Wash-Trading-Anteil im Volumen, kein neuer eigenstaendiger Kauf-Katalysator, Bewegung stark ueberhitzt. Kein Handlungsbedarf.",
       "Keine Trades in diesem Lauf (13:12). Kursupdate BTC x2 (+4,07%/-0,86%), HYPE (-3,32%), BCH (-1,47%), ENA (+3,54%, leicht schwaecher als zuvor) - alle Positionen weiterhin im etablierten Halteband, keine erreicht Stop-Loss- (~-6,5 bis -7,5%) oder Zielgewinnschwelle (~7-9%). Xetra und bald US-Maerkte handelbar, aber Nachrichtenlage unveraendert (Hormuz-Eskalation/Trump lehnt Iran-Vorschlag ab, Brent >107 USD, AI-Sicherheitsbedenken nach OpenAI-Zwischenfall bereits eingepreist). QNT-Rally weiterhin bewusst nicht gejagt (hoher Wash-Trading-Anteil). Trotz hohem freiem Kapital (~51.368 EUR) keine wirklich ueberzeugende neue Gelegenheit, daher kein Trade.",
       "Keine Trades in diesem Lauf (14:21). Alle offenen Positionen (BTC x2, HYPE, BCH, ENA) bleiben innerhalb des etablierten Haltebands, kein neuer Katalysator, US-Markt noch nicht offen.",
-      "Keine Trades in diesem Lauf (15:17). Alle offenen Positionen (BTC x2, HYPE, BCH, ENA) praktisch unveraendert zum letzten Lauf und weiterhin klar innerhalb des etablierten Haltebands, keine erreicht Stop-Loss- (~-6,5 bis -7,5%) oder Zielgewinnschwelle (~7-9%). US-Markt oeffnet erst in wenigen Minuten (15:30 MESZ), Vorboersenstimmung wegen Iran-Hormuz-Eskalation und steigender Oelpreise/Renditen weiterhin risikoavers, kein neuer eigenstaendiger Krypto-Katalysator. Trotz hohem freiem Kapital (~51.368 EUR) keine wirklich ueberzeugende neue Gelegenheit, daher kein Trade."
+      "Keine Trades in diesem Lauf (15:17). Alle offenen Positionen (BTC x2, HYPE, BCH, ENA) praktisch unveraendert zum letzten Lauf und weiterhin klar innerhalb des etablierten Haltebands, keine erreicht Stop-Loss- (~-6,5 bis -7,5%) oder Zielgewinnschwelle (~7-9%). US-Markt oeffnet erst in wenigen Minuten (15:30 MESZ), Vorboersenstimmung wegen Iran-Hormuz-Eskalation und steigender Oelpreise/Renditen weiterhin risikoavers, kein neuer eigenstaendiger Krypto-Katalysator. Trotz hohem freiem Kapital (~51.368 EUR) keine wirklich ueberzeugende neue Gelegenheit, daher kein Trade.",
+      "Keine Trades in diesem Lauf (16:08). US-Markt seit 15:30 MESZ offen, aber breiter Risk-off-Ton (erneut aufgeflammte US-Iran-Spannungen, steigende Oelpreise/Renditen) bietet keinen ueberzeugenden neuen Katalysator im etablierten Muster (bestaetigter Ausbruch / Dip-Kauf mit klarer fundamentaler Story). NVDA-Buyback-Nachricht ist nur ein kleiner Kursimpuls (+1%), kein starkes Signal. Alle offenen Positionen (BTC x2, HYPE, BCH, ENA) bleiben klar innerhalb des etablierten Haltebands (-3,53% bis +3,54%), keine erreicht Stop-Loss- (~-6,5 bis -7,5%) oder Zielgewinnschwelle (~7-9%)."
     ],
-    "reasoning": "Keine Trades in diesem Lauf (15:17). Kursupdate BTC x2 (~83.200 USD), HYPE (89,72-91,13 USD, -3 bis -4,9%, Vorlauf HYPE-Unlock 29.09.), BCH (~335-340 USD, +0,14% bzw. stabil), ENA (~0,274 USD, +5,47%) - alle Positionen weiterhin klar innerhalb des etablierten Halte-/Stop-Loss-Bands, keine erreicht eine Schwelle. US-Aktienmarkt oeffnet in Kuerze (15:30 MESZ), Vorboersenstimmung wegen Iran-Hormuz-Eskalation (Brent bis 108,83 USD) und steigender Renditen risikoavers, kein eigenstaendiger neuer Krypto-Katalysator seit dem letzten Lauf. Freies Kapital bleibt hoch, aber ohne ueberzeugende frische Gelegenheit wird bewusst nicht investiert.",
+    "reasoning": "Keine Trades in diesem Lauf (16:08). Kursupdate BTC x2 (~83.400 USD), HYPE (~91,00 USD, -3,53%, Vorlauf HYPE-Unlock 29.09.), BCH (~336 USD, -1,17%), ENA (~0,269 USD, +3,54%) - alle Positionen weiterhin klar innerhalb des etablierten Halte-/Stop-Loss-Bands. US-Aktienmarkt seit 15:30 MESZ offen, aber im Risk-off (Dow -0,7%, S&P -0,5%, Nasdaq -0,5%) wegen erneut aufgeflammter US-Iran-Spannungen (Trump lehnt Irans Hormuz-Vorschlag ab), steigender Oelpreise und Renditen (10J >5,2%). Kein eigenstaendiger, ueberzeugender frischer Katalysator seit dem letzten Lauf; freies Kapital bleibt hoch (~51.368 EUR), aber ohne wirklich gute Gelegenheit wird bewusst nicht investiert.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
@@ -6830,7 +6831,7 @@
       "pos-0021",
       "pos-0023"
     ],
-    "portfolioValueEnd": 3416.4,
+    "portfolioValueEnd": 3406.81,
     "updates": [
       {
         "time": "00:08",
@@ -6911,6 +6912,11 @@
         "time": "15:17",
         "note": "Keine Aenderung. Kursupdate BTC x2/HYPE/BCH/ENA, praktisch unveraendert zum letzten Lauf. US-Markt oeffnet in Kuerze (15:30 MESZ), Iran-Hormuz-Eskalation und steigende Oelpreise/Renditen belasten Risikostimmung, kein neuer Katalysator.",
         "portfolioValue": 3416.4
+      },
+      {
+        "time": "16:08",
+        "note": "Keine Aenderung. Kursupdate BTC x2 (+2,96%/-1,92%), HYPE (-3,53%), BCH (-1,17%), ENA (+3,54%) - alle im etablierten Halteband. US-Markt seit 15:30 MESZ offen, aber breiter Risk-off (Dow -0,7%, S&P -0,5%, Nasdaq -0,5%) durch erneut aufgeflammte US-Iran-Spannungen (Trump lehnt Irans 7-Tage-Plan ab), Brent ~98-108 USD, 10J-Rendite >5,2%. Kein Trade.",
+        "portfolioValue": 3406.81
       }
     ]
   }
