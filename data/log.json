@@ -6963,15 +6963,15 @@
   },
   {
     "date": "2026-09-29",
-    "marketOverview": "Krypto-Maerkte leicht risikoavers: Bitcoin pendelt um 83.900 USD (verschiedene Quellen 83.000-84.900 USD, ~-1,6% 24h), Ethereum knapp behauptet um 2.688 USD. Ethena (ENA) stabil um 0,265 USD. Selektive Altcoin-Bewegungen (QNT, XDC, Bitway je +10-20%), aber kein breites Altseason-Signal (Altcoin-Season-Index 59, neutral). Nachwirkungen des Bitget-Hacks (~387,5 Mio. USD) belasten die Kryptostimmung weiter. US-Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten (Dienstagfrueh vor Boersenoeffnung).",
-    "decision": "Kein Trade in diesem Lauf (05:08). Alle 3 offenen Positionen (BTC x2, ENA) bleiben klar im etablierten Halteband (-1,33% bis +3,58%), weit entfernt von Stop-Loss- (~-6,5 bis -7,5%) und Zielgewinnschwelle (~7-9%). Ausserhalb der Handelszeiten ist ohnehin nur Krypto handelbar; kein neuer, ueberzeugender Katalysator seit dem 04:07-Lauf, daher diszipliniert kein neuer Trade.",
-    "reasoning": "Handelszeiten: Dienstagfrueh vor Boersenoeffnung, nur Krypto handelbar. Recherche (BTC, ENA, allgemeine Marktlage) zeigt keine neue Handelsgelegenheit: BTC/ETH leicht schwaecher, ENA seitwaerts, selektive Altcoin-Gewinner (QNT/XDC/Bitway) ohne neuen, noch nicht gehandelten fundamentalen Katalysator und teils bereits gehandelt (QNT). Kursupdate aller offenen Positionen durchgefuehrt, keine Schwelle (Stop-Loss/Take-Profit) erreicht, daher keine Aktion.",
+    "marketOverview": "Krypto-Maerkte weiterhin risikoavers: Bitcoin bei ca. 83.500-83.700 USD (-1,1 bis -1,4% 24h), Ethereum stabil um 2.688 USD. Ethena (ENA) leicht erholt auf ~0,27 USD trotz -7,7% 24h-Ruecksetzer, nach starkem 30-Tage-Lauf (+63%) inkl. institutionellem FalconX-Deal (1 Mrd. USD Warehouse-Financing). Belastend bleibt die Iran/Hormuz-Eskalation (USA lehnt 7-Tage-Plan ab), die Risikoassets (auch NASDAQ -0,92%, S&P 500 -0,77%) unter Druck haelt; Fear&Greed-Index dennoch bei 73 (Gier). Heute HYPE-Unlock (~4,46% Supply, ~904 Mio. USD) als beobachteter Risikofaktor fuer den Gesamtmarkt, jedoch ohne eigene Position betroffen. US-Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten (Dienstagfrueh vor Boersenoeffnung).",
+    "decision": "Kein Trade in diesem Lauf (06:08). Alle 3 offenen Positionen (BTC x2, ENA) bleiben klar im etablierten Halteband (-1,57% bis +3,93%), weit entfernt von Stop-Loss- (~-6,5 bis -7,5%) und Zielgewinnschwelle (~7-9%). Ausserhalb der Handelszeiten ist ohnehin nur Krypto handelbar; kein neuer, ueberzeugender Katalysator seit dem 05:08-Lauf, daher diszipliniert kein neuer Trade.",
+    "reasoning": "Handelszeiten: Dienstagfrueh vor Boersenoeffnung, nur Krypto handelbar. Recherche (BTC, ENA, allgemeine Marktlage/Geopolitik) zeigt keine neue Handelsgelegenheit: BTC leicht schwaecher im Iran/Hormuz-Risk-off, ENA seitwaerts/leicht erholt ohne neuen handelbaren Katalysator, HYPE-Unlock (904 Mio. USD) heute als Marktrisiko beobachtet aber ohne eigene Position. Kursupdate aller offenen Positionen durchgefuehrt, keine Schwelle (Stop-Loss/Take-Profit) erreicht, daher keine Aktion.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
       "pos-0023"
     ],
-    "portfolioValueEnd": 2233.31,
+    "portfolioValueEnd": 2243.16,
     "updates": [
       {
         "time": "00:11",
@@ -7002,6 +7002,11 @@
         "time": "05:08",
         "note": "Keine Aenderung. Kursupdate BTC x2 (~83.900 USD), ENA stabil (~0,265 USD). Selektive Altcoin-Gewinner (QNT/XDC) ohne neuen handelbaren Katalysator. Kein Trade.",
         "portfolioValue": 2233.31
+      },
+      {
+        "time": "06:08",
+        "note": "Keine Aenderung. Kursupdate BTC x2 (~83.700 USD, Iran-Hormuz-Risk-off), ENA leicht erholt (~0,27 USD). HYPE-Unlock heute (904 Mio. USD) beobachtet, keine eigene Position betroffen. Kein Trade.",
+        "portfolioValue": 2243.16
       }
     ]
   }
