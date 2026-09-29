@@ -6963,15 +6963,15 @@
   },
   {
     "date": "2026-09-29",
-    "marketOverview": "Krypto-Maerkte weiterhin risikoavers: Bitcoin bei ca. 83.500-83.700 USD (-1,1 bis -1,4% 24h), Ethereum stabil um 2.688 USD. Ethena (ENA) leicht erholt auf ~0,27 USD trotz -7,7% 24h-Ruecksetzer, nach starkem 30-Tage-Lauf (+63%) inkl. institutionellem FalconX-Deal (1 Mrd. USD Warehouse-Financing). Belastend bleibt die Iran/Hormuz-Eskalation (USA lehnt 7-Tage-Plan ab), die Risikoassets (auch NASDAQ -0,92%, S&P 500 -0,77%) unter Druck haelt; Fear&Greed-Index dennoch bei 73 (Gier). Heute HYPE-Unlock (~4,46% Supply, ~904 Mio. USD) als beobachteter Risikofaktor fuer den Gesamtmarkt, jedoch ohne eigene Position betroffen. US-Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten (Dienstagfrueh vor Boersenoeffnung).",
-    "decision": "Kein Trade in diesem Lauf (06:08). Alle 3 offenen Positionen (BTC x2, ENA) bleiben klar im etablierten Halteband (-1,57% bis +3,93%), weit entfernt von Stop-Loss- (~-6,5 bis -7,5%) und Zielgewinnschwelle (~7-9%). Ausserhalb der Handelszeiten ist ohnehin nur Krypto handelbar; kein neuer, ueberzeugender Katalysator seit dem 05:08-Lauf, daher diszipliniert kein neuer Trade.",
-    "reasoning": "Handelszeiten: Dienstagfrueh vor Boersenoeffnung, nur Krypto handelbar. Recherche (BTC, ENA, allgemeine Marktlage/Geopolitik) zeigt keine neue Handelsgelegenheit: BTC leicht schwaecher im Iran/Hormuz-Risk-off, ENA seitwaerts/leicht erholt ohne neuen handelbaren Katalysator, HYPE-Unlock (904 Mio. USD) heute als Marktrisiko beobachtet aber ohne eigene Position. Kursupdate aller offenen Positionen durchgefuehrt, keine Schwelle (Stop-Loss/Take-Profit) erreicht, daher keine Aktion.",
+    "marketOverview": "Krypto-Markt bleibt risikoavers: Bitcoin notiert bei ca. 83.700-83.800 USD (weiterhin unter Druck, nachdem Trump am 28.09. Irans 7-Tage-Hormuz-Plan ablehnte), Brent-Rohoel ueber 100 USD/Barrel, US-Staatsanleiherenditen ueber 5%, CME FedWatch sieht nun 68,1% Wahrscheinlichkeit fuer eine Zinserhoehung am 28.10. (Vorwoche: 57,6%) - ein verschaerftes Makroumfeld fuer Risikoassets. Ethena (ENA) weiterhin um 0,27 USD nach -7,7% 24h-Ruecksetzer, aber weiter deutlich im Plus ueber 30 Tage (+63%). Aktien/ETFs/Rohstoffe vor der europaeischen Boersenoeffnung (Dienstag) weiterhin nicht handelbar.",
+    "decision": "Kein Trade in diesem Lauf (07:08). Alle 3 offenen Positionen (BTC x2, ENA) bleiben klar im etablierten Halteband (-1,45% bis +3,93%), weit entfernt von Stop-Loss- (~-6,5 bis -7,5%) und Zielgewinnschwelle (~7-9%). Ausserhalb der Handelszeiten ist ohnehin nur Krypto handelbar; kein neuer, ueberzeugender Katalysator seit dem 06:08-Lauf (weiterhin Iran-Hormuz-Patt und steigende Fed-Zinserhoehungswahrscheinlichkeit als bekannte Belastungsfaktoren), daher diszipliniert kein neuer Trade.",
+    "reasoning": "Handelszeiten: Dienstagfrueh vor europaeischer Boersenoeffnung, nur Krypto handelbar. Recherche (BTC, ENA, allgemeine Marktlage/Geopolitik) zeigt keine neue Handelsgelegenheit: BTC seitwaerts um 83.700-83.800 USD im anhaltenden Iran-Hormuz-Risk-off, ENA stabil um 0,27 USD ohne neuen handelbaren Katalysator seit dem letzten Lauf. Kursupdate aller offenen Positionen durchgefuehrt, keine Schwelle (Stop-Loss/Take-Profit) erreicht, daher keine Aktion.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
       "pos-0023"
     ],
-    "portfolioValueEnd": 2243.16,
+    "portfolioValueEnd": 2244.96,
     "updates": [
       {
         "time": "00:11",
@@ -7007,6 +7007,11 @@
         "time": "06:08",
         "note": "Keine Aenderung. Kursupdate BTC x2 (~83.700 USD, Iran-Hormuz-Risk-off), ENA leicht erholt (~0,27 USD). HYPE-Unlock heute (904 Mio. USD) beobachtet, keine eigene Position betroffen. Kein Trade.",
         "portfolioValue": 2243.16
+      },
+      {
+        "time": "07:08",
+        "note": "Keine Aenderung. Kursupdate BTC x2/ENA (BTC ~83.800 USD, ENA ~0,27 USD, weiterhin Iran-Hormuz-Risk-off, Fed-Zinserhoehungswahrscheinlichkeit auf 68,1% gestiegen). Kein neuer Katalysator.",
+        "portfolioValue": 2244.96
       }
     ]
   }
