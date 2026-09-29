@@ -7091,5 +7091,25 @@
         "portfolioValue": 2930.91
       }
     ]
+  },
+  {
+    "date": "2026-09-30",
+    "marketOverview": "Bitcoin haelt sich stabil bei ca. 83.513 USD (+0,5% in 24h), Gesamtmarktkapitalisierung Krypto bei rund 2,90 Bio. USD (+0,64%). Fear&Greed-Index je nach Quelle zwischen 55 (Neutral) und 74 (Greed) - gemischtes Bild. AAVE spekulativ getrieben um +16% durch eine erst 'in Erwaegung gezogene' (nicht bestaetigte) Token-Burn-Ankuendigung von Gruender Stani Kulechov - kein bestaetigter struktureller Katalysator, sondern Spekulation auf eine moegliche zukuenftige Entscheidung. US-Aktienmaerkte und Rohstoffe sind um diese Nachtzeit (00:08 MESZ) geschlossen, nur Krypto handelbar.",
+    "decision": "Kein Trade in diesem Lauf (00:08). Tagesbudget fuer den 30.09. gutgeschrieben (+1.000 EUR). Alle 4 offenen Positionen (BTC x2, ENA, PYTH) bleiben im etablierten Halteband (-3,46% bis +3,10%), weit entfernt von Stop-Loss- (~-6,5 bis -7,5%) und Zielgewinnschwelle (~7-9%). Die einzige auffaellige Bewegung (AAVE +16%) beruht auf einer unbestaetigten Absichtserklaerung, kein Kauf ausserhalb der Boersenzeiten ohne handfesten Katalysator.",
+    "reasoning": "Nachts sind nur Kryptowerte handelbar. Bestehende Positionen wurden auf aktuelle Kurse gebracht (BTC via CoinGecko 83.512,83 USD, ENA 0,2508 USD, PYTH 0,07976 USD), keine davon erreicht eine Handlungsschwelle. AAVE-Rally basiert auf einer noch unbestaetigten 'Erwaegung' eines Token-Burns (Aavenomics 3.0) durch den Gruender - kein bestaetigter institutioneller/struktureller Katalysator wie bei den bisherigen erfolgreichen Trades (AVAX/NYSE-ICE, QNT/Clearing House, BCH/CME-Futures, PYTH/Switchboard-Shutdown) und die Bewegung ist bereits weit gelaufen; daher passend zum spekulativen, aber diszipliniert-selektiven Profil kein Einstieg. Kein Trade.",
+    "positionIds": [
+      "pos-0016",
+      "pos-0018",
+      "pos-0023",
+      "pos-0024"
+    ],
+    "portfolioValueEnd": 2877.32,
+    "updates": [
+      {
+        "time": "00:08",
+        "note": "Tagesbudget gutgeschrieben (+1.000 EUR), keine Aenderung, Kursupdate BTC x2/ENA/PYTH",
+        "portfolioValue": 2877.32
+      }
+    ]
   }
 ]
