@@ -6963,15 +6963,15 @@
   },
   {
     "date": "2026-09-29",
-    "marketOverview": "Krypto-Markt bleibt risikoavers: Bitcoin notiert bei ca. 83.700-83.800 USD (weiterhin unter Druck, nachdem Trump am 28.09. Irans 7-Tage-Hormuz-Plan ablehnte), Brent-Rohoel ueber 100 USD/Barrel, US-Staatsanleiherenditen ueber 5%, CME FedWatch sieht nun 68,1% Wahrscheinlichkeit fuer eine Zinserhoehung am 28.10. (Vorwoche: 57,6%) - ein verschaerftes Makroumfeld fuer Risikoassets. Ethena (ENA) weiterhin um 0,27 USD nach -7,7% 24h-Ruecksetzer, aber weiter deutlich im Plus ueber 30 Tage (+63%). Aktien/ETFs/Rohstoffe vor der europaeischen Boersenoeffnung (Dienstag) weiterhin nicht handelbar.",
-    "decision": "Kein Trade in diesem Lauf (07:08). Alle 3 offenen Positionen (BTC x2, ENA) bleiben klar im etablierten Halteband (-1,45% bis +3,93%), weit entfernt von Stop-Loss- (~-6,5 bis -7,5%) und Zielgewinnschwelle (~7-9%). Ausserhalb der Handelszeiten ist ohnehin nur Krypto handelbar; kein neuer, ueberzeugender Katalysator seit dem 06:08-Lauf (weiterhin Iran-Hormuz-Patt und steigende Fed-Zinserhoehungswahrscheinlichkeit als bekannte Belastungsfaktoren), daher diszipliniert kein neuer Trade.",
-    "reasoning": "Handelszeiten: Dienstagfrueh vor europaeischer Boersenoeffnung, nur Krypto handelbar. Recherche (BTC, ENA, allgemeine Marktlage/Geopolitik) zeigt keine neue Handelsgelegenheit: BTC seitwaerts um 83.700-83.800 USD im anhaltenden Iran-Hormuz-Risk-off, ENA stabil um 0,27 USD ohne neuen handelbaren Katalysator seit dem letzten Lauf. Kursupdate aller offenen Positionen durchgefuehrt, keine Schwelle (Stop-Loss/Take-Profit) erreicht, daher keine Aktion.",
+    "marketOverview": "Krypto-Markt bleibt unter Druck: Bitcoin notiert bei ca. 83.589 USD (leicht schwaecher, weiterhin belastet vom Iran-Hormuz-Patt nach Trumps Ablehnung von Irans 7-Tage-Plan), Ethena (ENA) faellt weiter auf ca. 0,2521 USD (-5,4% 24h). Brent-Rohoel bleibt ueber 100-107 USD/Barrel, US-Anleiherenditen hoch, CME FedWatch weiterhin erhoehte Zinserhoehungswahrscheinlichkeit fuer den 28.10. US-Aktienfutures leicht schwaecher (S&P -0,3%, Nasdaq -0,7%). Aktien/ETFs/Rohstoffe vor der europaeischen Boersenoeffnung (Dienstag, Xetra oeffnet 09:00) weiterhin nicht handelbar.",
+    "decision": "Kein Trade in diesem Lauf (08:08). Alle 3 offenen Positionen (BTC x2, ENA) bleiben im etablierten Halteband (-2,96% bis +3,20%), weit entfernt von Stop-Loss- (~-6,5 bis -7,5%) und Zielgewinnschwelle (~7-9%). Ausserhalb der Handelszeiten ist ohnehin nur Krypto handelbar; anhaltender Risk-off-Ton (Iran-Hormuz, steigende Fed-Zinserhoehungswahrscheinlichkeit, ENA-Schwaeche) bietet keine ueberzeugende neue Kaufgelegenheit, daher diszipliniert kein neuer Trade.",
+    "reasoning": "Handelszeiten: Dienstagfrueh vor europaeischer Boersenoeffnung, nur Krypto handelbar. Recherche (BTC, ENA, allgemeine Marktlage/Geopolitik) zeigt keine neue Handelsgelegenheit: BTC seitwaerts/leicht schwaecher um 83.589 USD im anhaltenden Iran-Hormuz-Risk-off, ENA setzt Ruecksetzer fort (-5,4% 24h) ohne handelbaren positiven Katalysator. Kursupdate aller offenen Positionen durchgefuehrt (CoinGecko API), keine Schwelle (Stop-Loss/Take-Profit) erreicht, daher keine Aktion.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
       "pos-0023"
     ],
-    "portfolioValueEnd": 2244.96,
+    "portfolioValueEnd": 2192.97,
     "updates": [
       {
         "time": "00:11",
@@ -7012,6 +7012,11 @@
         "time": "07:08",
         "note": "Keine Aenderung. Kursupdate BTC x2/ENA (BTC ~83.800 USD, ENA ~0,27 USD, weiterhin Iran-Hormuz-Risk-off, Fed-Zinserhoehungswahrscheinlichkeit auf 68,1% gestiegen). Kein neuer Katalysator.",
         "portfolioValue": 2244.96
+      },
+      {
+        "time": "08:08",
+        "note": "Keine Aenderung. Kursupdate BTC x2/ENA (BTC ~83.589 USD leicht schwaecher, ENA -5,4% 24h auf ~0,2521 USD, anhaltender Iran-Hormuz-Risk-off). Kein neuer Katalysator.",
+        "portfolioValue": 2192.97
       }
     ]
   }
