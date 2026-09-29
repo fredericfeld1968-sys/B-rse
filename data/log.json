@@ -6963,15 +6963,15 @@
   },
   {
     "date": "2026-09-29",
-    "marketOverview": "Kryptomarkt weiterhin im Risk-off-Modus, aber weitgehend seitwaerts seit dem letzten Lauf: Bitcoin pendelt stabil um 83.900-84.300 USD (CoinGecko/CoinDesk, +0,3-0,4% in 24h), Iran-Hormuz-Gespraeche bleiben festgefahren (Teheran dementiert Fortschrittsberichte), Oelpreise und US-Renditen bleiben erhoeht. ENA erholt sich leicht auf ca. 0,254 USD nach dem Ruecksetzer vor dem heutigen grossen HYPE-Token-Unlock (29.09., ~904 Mio. USD, 4,46% des Supplys). US-Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten (Dienstagnacht).",
-    "decision": "Kein Trade in diesem Lauf (01:09). Alle 3 offenen Positionen (BTC x2, ENA) bleiben klar im etablierten Halteband (-2,23% bis +3,58%), weit entfernt von Stop-Loss- (~-6,5 bis -7,5%) und Zielgewinnschwelle (~7-9%). Freies Kapital weiterhin sehr hoch (~53.469 EUR), aber kein neuer, ungehandelter Katalysator seit dem 00:11-Lauf gefunden - Markt bewegt sich nur in geringem Rahmen seitwaerts. Ausserhalb der Handelszeiten ist ohnehin nur Krypto handelbar; ohne ueberzeugende Gelegenheit wird diszipliniert nicht gehandelt.",
-    "reasoning": "Handelszeiten: Dienstagnacht, nur Krypto handelbar. Recherche (BTC, ENA, allgemeine Marktlage) zeigt keine neue Entwicklung seit dem letzten Lauf vor rund einer Stunde: Iran-Hormuz-Patt haelt an, BTC seitwaerts um 84.000 USD, ENA leicht erholt aber ohne klaren Trigger vor dem HYPE-Unlock. Kursupdate aller offenen Positionen durchgefuehrt, keine Schwelle (Stop-Loss/Take-Profit) erreicht, daher keine Aktion.",
+    "marketOverview": "Kryptomarkt weiterhin im Risk-off-Modus bei anhaltendem Iran-Hormuz-Patt (Teheran dementiert Fortschritte, Trump lehnte den 7-Tage-Plan ab) und erhoehter Fed-Zinserhoehungswahrscheinlichkeit (~68% fuer den 28.10., CME FedWatch). Bitcoin pendelt stabil um 83.700-84.300 USD (CoinGecko/CoinDesk/CoinMarketCap, leicht unterschiedliche Quellen, Tendenz seitwaerts). ENA erholt sich hingegen deutlich auf ca. 0,27 USD (+21% auf Wochensicht laut CoinGecko), getragen vom bereits bekannten Aktien-Perpetuals-Integrationskatalysator. US-Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten (Dienstagnacht/Mittwochfrueh).",
+    "decision": "Kein Trade in diesem Lauf (02:08). Alle 3 offenen Positionen (BTC x2, ENA) bleiben klar im etablierten Halteband (-1,22% bis +3,93%), weit entfernt von Stop-Loss- (~-6,5 bis -7,5%) und Zielgewinnschwelle (~7-9%). Freies Kapital weiterhin sehr hoch (~53.469 EUR), aber kein neuer, ungehandelter Katalysator seit dem 01:09-Lauf gefunden - Markt bewegt sich nur in geringem Rahmen seitwaerts. Ausserhalb der Handelszeiten ist ohnehin nur Krypto handelbar; ohne ueberzeugende Gelegenheit wird diszipliniert nicht gehandelt.",
+    "reasoning": "Handelszeiten: Nacht auf Mittwoch, nur Krypto handelbar. Recherche (BTC, ENA, allgemeine Marktlage) zeigt keine neue Entwicklung seit dem letzten Lauf vor rund einer Stunde: Iran-Hormuz-Patt und Fed-Zinserwartungen unveraendert, BTC seitwaerts um 84.000 USD, ENA moderat erholt aber ohne frischen, noch nicht gehandelten Trigger. Kursupdate aller offenen Positionen durchgefuehrt, keine Schwelle (Stop-Loss/Take-Profit) erreicht, daher keine Aktion.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
       "pos-0023"
     ],
-    "portfolioValueEnd": 2203.67,
+    "portfolioValueEnd": 2248.59,
     "updates": [
       {
         "time": "00:11",
@@ -6982,6 +6982,11 @@
         "time": "01:09",
         "note": "Keine Aenderung. Kursupdate BTC x2/ENA (weitgehend seitwaerts, Iran-Hormuz-Patt haelt an). Kein neuer Katalysator.",
         "portfolioValue": 2203.67
+      },
+      {
+        "time": "02:08",
+        "note": "Keine Aenderung. Kursupdate BTC x2/ENA (BTC stabil ~84.000 USD, ENA erholt auf ~0,27 USD). Kein neuer Katalysator.",
+        "portfolioValue": 2248.59
       }
     ]
   }
