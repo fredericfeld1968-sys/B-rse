@@ -6963,15 +6963,15 @@
   },
   {
     "date": "2026-09-29",
-    "marketOverview": "Kryptomarkt leicht ruecklaeufig bei anhaltendem Iran-Hormuz-Patt (Trump lehnt weiterhin Irans 7-Tage-Plan ab), starkem Dollar und steigenden Anleiherenditen/Oelpreisen, die Risikoassets belasten. Bitcoin ist von ca. 84.500 auf ca. 83.200 USD gefallen (-1,5% in 24h laut Marktrecaps), Fear&Greed bei 70 (\"Greed\"). ENA notiert weiterhin stabil um 0,269 USD. Heute (29.09.) grosser HYPE-Token-Unlock (~4,46% des Umlaufangebots, ca. 904-919 Mio. USD) - Position dort wurde bereits am 28.09. per Stop-Loss glattgestellt. Zusaetzlich: Hackerangriff auf Bitget-Hot-Wallets (>350 Mio. USD gestohlen) als neuer, aber nicht handelsrelevanter Belastungsfaktor fuer die Kryptostimmung. Kein neuer, noch nicht gehandelter Katalysator gefunden; US-Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten (Dienstagnacht/Mittwochfrueh).",
-    "decision": "Kein Trade in diesem Lauf (04:07). Alle 3 offenen Positionen (BTC x2, ENA) bleiben klar im etablierten Halteband (-2,16% bis +2,72%), weit entfernt von Stop-Loss- (~-6,5 bis -7,5%) und Zielgewinnschwelle (~7-9%). Freies Kapital weiterhin sehr hoch (~53.469 EUR), aber kein neuer, ueberzeugender Katalysator seit dem 03:08-Lauf (BTC leicht schwaecher, ENA unveraendert, allgemeiner Risk-off-Ton durch Bitget-Hack und Iran-Eskalation). Ausserhalb der Handelszeiten ist ohnehin nur Krypto handelbar; ohne ueberzeugende Gelegenheit wird diszipliniert nicht gehandelt.",
-    "reasoning": "Handelszeiten: Nacht auf Mittwoch, nur Krypto handelbar. Recherche (BTC, ENA, allgemeine Marktlage/Geopolitik) zeigt keine neue Handelsgelegenheit seit dem letzten Lauf: Iran-Hormuz-Patt und Fed-Zinserwartungen unveraendert, BTC leicht schwaecher auf ca. 83.200 USD, ENA stabil um 0,269 USD, neuer Bitget-Hack (>350 Mio. USD) belastet Kryptostimmung zusaetzlich ohne konkrete handelbare Chance. Kursupdate aller offenen Positionen durchgefuehrt, keine Schwelle (Stop-Loss/Take-Profit) erreicht, daher keine Aktion.",
+    "marketOverview": "Krypto-Maerkte leicht risikoavers: Bitcoin pendelt um 83.900 USD (verschiedene Quellen 83.000-84.900 USD, ~-1,6% 24h), Ethereum knapp behauptet um 2.688 USD. Ethena (ENA) stabil um 0,265 USD. Selektive Altcoin-Bewegungen (QNT, XDC, Bitway je +10-20%), aber kein breites Altseason-Signal (Altcoin-Season-Index 59, neutral). Nachwirkungen des Bitget-Hacks (~387,5 Mio. USD) belasten die Kryptostimmung weiter. US-Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten (Dienstagfrueh vor Boersenoeffnung).",
+    "decision": "Kein Trade in diesem Lauf (05:08). Alle 3 offenen Positionen (BTC x2, ENA) bleiben klar im etablierten Halteband (-1,33% bis +3,58%), weit entfernt von Stop-Loss- (~-6,5 bis -7,5%) und Zielgewinnschwelle (~7-9%). Ausserhalb der Handelszeiten ist ohnehin nur Krypto handelbar; kein neuer, ueberzeugender Katalysator seit dem 04:07-Lauf, daher diszipliniert kein neuer Trade.",
+    "reasoning": "Handelszeiten: Dienstagfrueh vor Boersenoeffnung, nur Krypto handelbar. Recherche (BTC, ENA, allgemeine Marktlage) zeigt keine neue Handelsgelegenheit: BTC/ETH leicht schwaecher, ENA seitwaerts, selektive Altcoin-Gewinner (QNT/XDC/Bitway) ohne neuen, noch nicht gehandelten fundamentalen Katalysator und teils bereits gehandelt (QNT). Kursupdate aller offenen Positionen durchgefuehrt, keine Schwelle (Stop-Loss/Take-Profit) erreicht, daher keine Aktion.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
       "pos-0023"
     ],
-    "portfolioValueEnd": 2231.42,
+    "portfolioValueEnd": 2233.31,
     "updates": [
       {
         "time": "00:11",
@@ -6997,6 +6997,11 @@
         "time": "04:07",
         "note": "Keine Aenderung. Kursupdate BTC x2 (leicht schwaecher auf 83.200 USD), ENA stabil (0,269 USD). Bitget-Hack (>350 Mio. USD) belastet Kryptostimmung zusaetzlich, aber kein handelbarer Katalysator. Kein Trade.",
         "portfolioValue": 2231.42
+      },
+      {
+        "time": "05:08",
+        "note": "Keine Aenderung. Kursupdate BTC x2 (~83.900 USD), ENA stabil (~0,265 USD). Selektive Altcoin-Gewinner (QNT/XDC) ohne neuen handelbaren Katalysator. Kein Trade.",
+        "portfolioValue": 2233.31
       }
     ]
   }
