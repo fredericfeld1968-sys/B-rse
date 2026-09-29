@@ -6963,15 +6963,15 @@
   },
   {
     "date": "2026-09-29",
-    "marketOverview": "Kryptomarkt bleibt seitwaerts bis leicht risikofreudig bei anhaltendem Iran-Hormuz-Patt (Trump lehnt weiterhin Irans 7-Tage-Plan ab) und hoher Fed-Zinserhoehungswahrscheinlichkeit (~68% fuer den 28.10., CME FedWatch). Bitcoin pendelt je nach Quelle zwischen ca. 83.000 und 84.900 USD (CoinGecko/Coinbase/Bitget/Binance.US), Fear&Greed bei 74 (\"Greed\"). ENA notiert stabil um 0,269 USD. Heute (29.09.) grosser HYPE-Token-Unlock (~4,46% des Umlaufangebots, ca. 904 Mio. USD) - Position dort wurde bereits am 28.09. per Stop-Loss glattgestellt. Kein neuer, noch nicht gehandelter Katalysator gefunden; US-Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten (Dienstagnacht/Mittwochfrueh).",
-    "decision": "Kein Trade in diesem Lauf (03:08). Alle 3 offenen Positionen (BTC x2, ENA) bleiben klar im etablierten Halteband (-0,63% bis +4,32%), weit entfernt von Stop-Loss- (~-6,5 bis -7,5%) und Zielgewinnschwelle (~7-9%). Freies Kapital weiterhin sehr hoch (~53.469 EUR), aber kein neuer, ueberzeugender Katalysator seit dem 02:08-Lauf. Ausserhalb der Handelszeiten ist ohnehin nur Krypto handelbar; ohne ueberzeugende Gelegenheit wird diszipliniert nicht gehandelt.",
-    "reasoning": "Handelszeiten: Nacht auf Mittwoch, nur Krypto handelbar. Recherche (BTC, ENA, allgemeine Marktlage/Geopolitik) zeigt keine neue Entwicklung seit dem letzten Lauf: Iran-Hormuz-Patt und Fed-Zinserwartungen unveraendert, BTC leicht schwankend um 83.000-84.900 USD, ENA stabil um 0,269 USD. Kursupdate aller offenen Positionen durchgefuehrt (BTC-Kurse via mehrerer Boersen gemittelt auf 84.500 USD), keine Schwelle (Stop-Loss/Take-Profit) erreicht, daher keine Aktion.",
+    "marketOverview": "Kryptomarkt leicht ruecklaeufig bei anhaltendem Iran-Hormuz-Patt (Trump lehnt weiterhin Irans 7-Tage-Plan ab), starkem Dollar und steigenden Anleiherenditen/Oelpreisen, die Risikoassets belasten. Bitcoin ist von ca. 84.500 auf ca. 83.200 USD gefallen (-1,5% in 24h laut Marktrecaps), Fear&Greed bei 70 (\"Greed\"). ENA notiert weiterhin stabil um 0,269 USD. Heute (29.09.) grosser HYPE-Token-Unlock (~4,46% des Umlaufangebots, ca. 904-919 Mio. USD) - Position dort wurde bereits am 28.09. per Stop-Loss glattgestellt. Zusaetzlich: Hackerangriff auf Bitget-Hot-Wallets (>350 Mio. USD gestohlen) als neuer, aber nicht handelsrelevanter Belastungsfaktor fuer die Kryptostimmung. Kein neuer, noch nicht gehandelter Katalysator gefunden; US-Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten (Dienstagnacht/Mittwochfrueh).",
+    "decision": "Kein Trade in diesem Lauf (04:07). Alle 3 offenen Positionen (BTC x2, ENA) bleiben klar im etablierten Halteband (-2,16% bis +2,72%), weit entfernt von Stop-Loss- (~-6,5 bis -7,5%) und Zielgewinnschwelle (~7-9%). Freies Kapital weiterhin sehr hoch (~53.469 EUR), aber kein neuer, ueberzeugender Katalysator seit dem 03:08-Lauf (BTC leicht schwaecher, ENA unveraendert, allgemeiner Risk-off-Ton durch Bitget-Hack und Iran-Eskalation). Ausserhalb der Handelszeiten ist ohnehin nur Krypto handelbar; ohne ueberzeugende Gelegenheit wird diszipliniert nicht gehandelt.",
+    "reasoning": "Handelszeiten: Nacht auf Mittwoch, nur Krypto handelbar. Recherche (BTC, ENA, allgemeine Marktlage/Geopolitik) zeigt keine neue Handelsgelegenheit seit dem letzten Lauf: Iran-Hormuz-Patt und Fed-Zinserwartungen unveraendert, BTC leicht schwaecher auf ca. 83.200 USD, ENA stabil um 0,269 USD, neuer Bitget-Hack (>350 Mio. USD) belastet Kryptostimmung zusaetzlich ohne konkrete handelbare Chance. Kursupdate aller offenen Positionen durchgefuehrt, keine Schwelle (Stop-Loss/Take-Profit) erreicht, daher keine Aktion.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
       "pos-0023"
     ],
-    "portfolioValueEnd": 2254.96,
+    "portfolioValueEnd": 2231.42,
     "updates": [
       {
         "time": "00:11",
@@ -6992,6 +6992,11 @@
         "time": "03:08",
         "note": "Keine Aenderung. Kursupdate BTC x2/ENA (BTC ~84.500 USD, ENA ~0,269 USD). Kein neuer Katalysator.",
         "portfolioValue": 2254.96
+      },
+      {
+        "time": "04:07",
+        "note": "Keine Aenderung. Kursupdate BTC x2 (leicht schwaecher auf 83.200 USD), ENA stabil (0,269 USD). Bitget-Hack (>350 Mio. USD) belastet Kryptostimmung zusaetzlich, aber kein handelbarer Katalysator. Kein Trade.",
+        "portfolioValue": 2231.42
       }
     ]
   }
