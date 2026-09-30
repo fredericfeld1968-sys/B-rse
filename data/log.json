@@ -7227,5 +7227,26 @@
         "portfolioValue": 3577.41
       }
     ]
+  },
+  {
+    "date": "2026-10-01",
+    "marketOverview": "Bitcoin haelt sich stabil im Bereich 83.500-84.000 USD (US-Spot-ETFs zogen in der Woche bis 25.09. mit 2,4 Mrd. USD den staerksten Wochenzufluss seit Oktober 2025 an, Analysten sehen als naechstes Ziel 87.400-90.000 USD). Der breite Kryptomarkt bleibt nach dem starken Bitcoin-Quartal uneinheitlich: Ethena (ENA) korrigiert nach dem Ende der USDe-Foerderung zum 30.09. auf ca. 0,246 USD (-3,5% 24h), Pyth (PYTH) konsolidiert bei 0,079 USD nach der juengsten Rally, Chainlink (LINK) bleibt nach dem CCIP-2.0/Swift-Hoch vom 29.09. mit Gewinnmitnahmen bei ca. 14,30-14,40 USD. Auffaellige Ausreisser wie QNT (+280% binnen einer Woche auf ca. 300-326 USD) und Meldungen zu HYPE sind bereits stark bzw. widerspruechlich gelaufen - kein neuer, sauber bestaetigter Einstiegspunkt. Aktien/ETFs/Rohstoffe sind um Mitternacht (NYSE/Nasdaq/europaeische Boersen geschlossen) nicht handelbar.",
+    "decision": "Erster Lauf des neuen Kalendertags: Tagesbudget gutgeschrieben (+1.000 EUR), alle offenen Positionen (BTC x2, ENA, PYTH, LINK) im Kurs aktualisiert. Kein Trade - keine Position hat eine Schwelle erreicht und es liegt keine ueberzeugende neue Gelegenheit vor.",
+    "reasoning": "Alle fuenf offenen Positionen bewegen sich weiter innerhalb des etablierten Haltebands (Stop-Loss -6,5% bis -7,5%, Zielgewinn +7-9%): BTC +3,33%/-1,57%, ENA -5,20%, PYTH -2,41%, LINK -4,67%. Nachts sind nur Kryptowerte handelbar; die recherchierten Bewegungen (QNT-Parabel bereits +280% gelaufen, widerspruechliche HYPE-Kursangaben) sind entweder zu weit fortgeschritten oder nicht sauber verifizierbar, um ein neues spekulatives Engagement zu rechtfertigen. Freies Kapital bleibt mit ca. 54.018 EUR hoch, wird aber diszipliniert nicht eingesetzt, bis sich eine klar bestaetigte Gelegenheit zeigt.",
+    "positionIds": [
+      "pos-0016",
+      "pos-0018",
+      "pos-0023",
+      "pos-0024",
+      "pos-0026"
+    ],
+    "portfolioValueEnd": 3529.79,
+    "updates": [
+      {
+        "time": "00:09",
+        "note": "Tagesbudget gutgeschrieben (+1.000 EUR), keine Aenderung, Kursupdate BTC x2/ENA/PYTH/LINK",
+        "portfolioValue": 3529.79
+      }
+    ]
   }
 ]
