@@ -7094,9 +7094,9 @@
   },
   {
     "date": "2026-09-30",
-    "marketOverview": "US-Maerkte notieren am spaeten Nachmittag fester (Nasdaq/S&P nahe Tageshoch) nach schwaecheren PCE-Inflationsdaten; Micron-Zahlen stehen unmittelbar bevor (16:00 EDT / 22:00 MESZ, also noch nicht veroeffentlicht). Iran/Hormuz-Lage bleibt in Deeskalation: Oelexporte durch die Strasse von Hormuz laut Kpler/CNBC/CNN wieder auf ca. 98% des Vorkriegsniveaus, Iran verliert an Verhandlungsmacht - kein neuer Rohstoff-Katalysator. Kryptomarkt gemischt: Bitcoin pendelt um 83.400-83.700 USD, ENA leicht fester nach positivem Standard-Chartered-Coverage-Start (Kursziel 2 USD bis 2028), PYTH stabil um 0,079 USD, LINK setzt die Korrektur nach der Swift-Nachricht fort (ca. 14,14 USD, -6,5% in 24h laut mehreren Quellen) - naehert sich der Halteband-Untergrenze, aber noch keine Stop-Loss-Schwelle erreicht.",
-    "decision": "Kein Trade in diesem Lauf (22. Update des Tages). Tagesbudget bereits um 00:08 gutgeschrieben. Alle offenen Positionen (BTC x2, ENA, PYTH, LINK) bleiben innerhalb der Halteband-Schwellen (-6,5% bis -7,5% Stop-Loss, +7-9% Zielgewinn) und wurden nur im Kurs aktualisiert. LINK naehert sich mit -5,73% der Stop-Loss-Zone und wird beim naechsten Lauf besonders beobachtet.",
-    "reasoning": "Keine der fuenf offenen Positionen hat eine Handelsschwelle erreicht (LINK -5,73% noch unter der Stop-Loss-Schwelle von ca. -6,5%, PYTH -2,47%, BTC x2 +3,27%/-1,63%, ENA +2,39%). Micron-Zahlen stehen erst um 22:00 MESZ an - kein neuer Trade vor Kenntnis der Ergebnisse. Die anhaltende Hormuz-Deeskalation liefert keinen ueberzeugenden Rohstoff-Katalysator, kein anderer mehrfach bestaetigter Einzeltitel- oder Makro-Katalysator seit dem letzten Lauf identifiziert. Freies Kapital bleibt mit ca. 53.030 EUR hoch, wird aber mangels ueberzeugender neuer Gelegenheit nicht eingesetzt.",
+    "marketOverview": "Micron meldete nach US-Boersenschluss deutlich ueber den Erwartungen liegende Q4-Zahlen (Umsatz 54,23 Mrd. USD vs. 51,07 Mrd. erwartet, EPS 33,42 vs. 31,61 USD) - starkes Signal fuer den KI-/Speicherchip-Sektor, wirkt aber erst zur naechsten US-Handelsoeffnung auf handelbare Titel. Kryptomarkt insgesamt leicht fester zum Monatsende (Gesamtmarktkapitalisierung +0,8% auf 2,96 Bio. USD, BTC/ETH je +0,4%), Bitcoin haelt sich um 83.400-84.200 USD je nach Quelle. Von den offenen Positionen erholt sich LINK leicht von der Swift-Korrektur (ca. 14,30 USD, -4,7% statt zuvor -5,7%), ENA legt nach Standard-Chartered-Coverage weiter zu (+3,5%), PYTH und BTC pos-0018 bleiben in kleinem Minus.",
+    "decision": "Kein Trade in diesem Lauf (23. Update des Tages). Tagesbudget bereits um 00:08 gutgeschrieben. Alle offenen Positionen (BTC x2, ENA, PYTH, LINK) bleiben innerhalb der Halteband-Schwellen (-6,5% bis -7,5% Stop-Loss, +7-9% Zielgewinn) und wurden nur im Kurs aktualisiert. LINK hat sich von -5,73% auf -4,67% erholt und damit von der Stop-Loss-Zone entfernt.",
+    "reasoning": "Keine der fuenf offenen Positionen hat eine Handelsschwelle erreicht (LINK -4,67%, PYTH -3,46%, BTC x2 +3,33%/-1,57%, ENA +3,54%). Aktien/ETFs/Rohstoffe sind ausserhalb der Boersenzeiten (NYSE/Nasdaq seit 22:00 MESZ geschlossen) nicht handelbar; Micron-Zahlen sind zwar stark ausgefallen, wirken aber erst auf handelbare Chip-Aktien zur naechsten Handelsoeffnung. Im Kryptomarkt kein neuer, mehrfach bestaetigter Einzeltitel- oder Makro-Katalysator seit dem letzten Lauf identifiziert, der eine neue spekulative Position rechtfertigen wuerde. Freies Kapital bleibt mit ca. 53.030 EUR hoch, wird aber mangels ueberzeugender Gelegenheit diszipliniert nicht eingesetzt.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
@@ -7104,7 +7104,7 @@
       "pos-0024",
       "pos-0026"
     ],
-    "portfolioValueEnd": 3574.07,
+    "portfolioValueEnd": 3583.6,
     "updates": [
       {
         "time": "00:08",
@@ -7215,6 +7215,11 @@
         "time": "21:09",
         "note": "Keine Aenderung. Kursupdate BTC x2 (83.650 USD, +3,27%/-1,63%), ENA (0,266 USD, +2,39%), PYTH (0,079 USD, -2,47%), LINK (14,14 USD, -5,73%, naehert sich der Stop-Loss-Zone nach Swift-News-Korrektur). Micron-Zahlen erst um 22:00 MESZ - diszipliniert kein neuer Trade vor Kenntnis der Ergebnisse.",
         "portfolioValue": 3574.07
+      },
+      {
+        "time": "22:08",
+        "note": "Keine Aenderung. Kursupdate BTC x2 (83.700 USD, +3,33%/-1,57%), ENA (0,269 USD, +3,54%), PYTH (0,0782 USD, -3,46%), LINK (14,30 USD, -4,67%, Erholung von -5,73%). Micron-Zahlen deutlich ueber Erwartungen (Umsatz 54,23 vs. 51,07 Mrd. USD), aber Boersen geschlossen - kein handelbarer Katalysator. Diszipliniert kein neuer Trade.",
+        "portfolioValue": 3583.6
       }
     ]
   }
