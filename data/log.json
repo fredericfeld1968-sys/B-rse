@@ -7094,9 +7094,9 @@
   },
   {
     "date": "2026-09-30",
-    "marketOverview": "Kryptomarkt weiterhin ruhig vor der PCE-Kernrate (12:30 UTC/14:30 MESZ, noch ca. 5 Stunden hin): Bitcoin stabil bei ca. 83.500 USD (Marktkapitalisierung 1,68 Bio. USD). Ethena (ENA) seitwaerts bei 0,2519 USD, Pyth (PYTH) leicht fester auf 0,07905 USD, Chainlink (LINK) etwas softer bei ca. 15,18 USD nach dem starken CCIP-2.0-Lauf. US-Aktienfutures leicht gemischt (S&P/Dow leicht schwaecher, Nasdaq leicht fester) vor PCE-Kern (Konsens 3,4% YoY) und GDP-Daten; europaeische/US-Boersen sowie Rohstoffe vor Marktoeffnung weiterhin nicht handelbar.",
-    "decision": "Kursupdate aller 5 offenen Positionen (BTC x2, ENA, PYTH, LINK); dabei eine seit laengerem bestehende Rundungs-/Anzeigeabweichung bei pos-0016 (currentValue/profitLoss) korrigiert und konsistent aus amount x currentPrice/buyPrice neu berechnet (Kapitalregeln/amount-Feld unveraendert, daher keine Auswirkung auf freies Kapital). Keine Position nahe einer Ziel- oder Stop-Schwelle. Angesichts der PCE-Kernrate in rund 5 Stunden und da vor Boersenoeffnung ohnehin nur Krypto handelbar ist, diszipliniert kein neuer Trade und keine Verkaeufe.",
-    "reasoning": "BTC (83.517 USD, +3,11%/-1,79%) unveraendert zum letzten Lauf. ENA (0,2519 USD, -3,04%) unveraendert. PYTH (0,07905 USD, -2,41%) leicht fester. LINK (15,18 USD, +1,20%) minimal softer, weiterhin nahe Jahreshoch. Kein Kurs erreicht eine Stop-Loss- (-6,5 bis -7,5%) oder Ziel-Schwelle (7-9%). Vor der wichtigen PCE-Kernrate um 12:30 UTC und ausserhalb der Handelszeiten fuer Aktien/ETFs/Rohstoffe wird weiterhin auf eine Neuposition verzichtet.",
+    "marketOverview": "PCE-Kernrate steht um 12:30 UTC/14:30 MESZ an (Konsens 3,6% YoY nach 3,7% im Juli); Bitcoin stabil um 83.500 USD (Marktkapitalisierung 1,68 Bio. USD). BTC-Dominanz faellt unter 59%, Altcoin-Handelsvolumen auf Jahreshoch, aber laut Analysten noch keine breite Altseason bestaetigt (Zwangsliquidationen am 28.09. verzerren das Bild). Spot-Bitcoin-ETFs verzeichnen weiter Nettozufluesse (66 Mio. USD am 29.09., IBIT fuehrend). US-Aktienfutures gemischt, Xetra oeffnet erst um 09:00 MESZ.",
+    "decision": "Kursupdate aller 5 offenen Positionen (BTC x2, ENA, PYTH, LINK); dabei im Vorlauf eine Rundungs-/Anzeigeabweichung bei pos-0016 korrigiert (kein Effekt auf freies Kapital). ENA und LINK im 08:08-Lauf leicht bewegt, keine Position nahe einer Ziel- oder Stop-Schwelle. Vor der PCE-Kernrate und ausserhalb der Handelszeiten fuer Aktien/ETFs/Rohstoffe weiterhin kein neuer Trade und keine Verkaeufe.",
+    "reasoning": "07:09: BTC (83.517 USD, +3,11%/-1,79%) unveraendert. ENA (0,2519 USD, -3,04%) unveraendert. PYTH (0,07905 USD, -2,41%) leicht fester. LINK (15,18 USD, +1,20%) minimal softer. 08:08: BTC weiterhin unveraendert bei 83.517 USD. ENA erholt auf 0,27 USD (+3,93% seit Kauf, CoinGecko/Coinbase/Metamask uebereinstimmend). PYTH leicht schwaecher auf 0,0797 USD (-1,60%). LINK auf 14,87 USD zurueckgekommen (-0,87%) nach Widerstand bei 15,00-15,26 USD; DTCC/CCIP-Katalysator bereits eingepreist. Keine Position erreicht Stop-Loss- (-6,5 bis -7,5%) oder Zielgewinn-Schwelle (7-9%). Recherche zu Krypto-Altcoins (Zcash-Rally, Altcoin-Dominanz-Anstieg, BTC-ETF-Zuflüsse) liefert keinen frischen, mehrfach unabhaengig bestaetigten Einzeltitel-Katalysator im etablierten Muster. Xetra oeffnet erst um 09:00 MESZ, US-Boerse um 15:30 MESZ - aktuell nur Krypto handelbar, daher diszipliniert kein neuer Trade.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
@@ -7104,7 +7104,7 @@
       "pos-0024",
       "pos-0026"
     ],
-    "portfolioValueEnd": 3582.62,
+    "portfolioValueEnd": 3622.54,
     "updates": [
       {
         "time": "00:08",
@@ -7145,6 +7145,11 @@
         "time": "07:09",
         "note": "Keine Aenderung. Kursupdate BTC x2 (83.517 USD, unveraendert), ENA (0,2519 USD, unveraendert), PYTH (0,07905 USD, leicht fester), LINK (15,18 USD, minimal softer). Zudem Anzeigefehler bei pos-0016 (currentValue/profitLoss) korrigiert. PCE-Kernrate erst um 12:30 UTC - kein neuer Trade vor der Veroeffentlichung.",
         "portfolioValue": 3582.62
+      },
+      {
+        "time": "08:08",
+        "note": "Keine Aenderung. Kursupdate ENA (+3,93%)/PYTH (-1,60%)/LINK (-0,87%), BTC unveraendert. Vor PCE-Kernrate (14:30 MESZ) weiterhin kein Trade.",
+        "portfolioValue": 3622.54
       }
     ]
   }
