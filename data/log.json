@@ -7094,9 +7094,9 @@
   },
   {
     "date": "2026-09-30",
-    "marketOverview": "Kryptomarkt weiterhin im Wartemodus vor der heutigen PCE-Inflationsveroeffentlichung (12:30 UTC/14:30 MESZ): Bitcoin stabil bei ca. 83.500 USD (Spanne 82.800-84.500 USD), Marktkapitalisierung bei 1,68 Bio. USD. Ethena (ENA) erholt sich leicht von der Vortageskorrektur auf ca. 0,252 USD. Chainlink (LINK, 15,26 USD) und Pyth (PYTH, 0,0784 USD) ohne neue Impulse. Analysten erwarten Kern-PCE bei +0,3% m/m bzw. Rueckgang der Jahresrate auf 3,2%; Maerkte reduzieren Risiko vor der Veroeffentlichung. Aktien/ETFs/Rohstoffe nachts weiterhin geschlossen.",
-    "decision": "Kursupdate aller 5 offenen Positionen (BTC x2, ENA, PYTH, LINK). Keine Position nahe einer Ziel- oder Stop-Schwelle; ENA leicht erholt auf -3,0%. Angesichts der in wenigen Stunden anstehenden PCE-Daten und nachts ohnehin nur Krypto handelbar, diszipliniert kein neuer Trade und keine Verkaeufe.",
-    "reasoning": "BTC (83.517 USD, +3,11%/-1,78%) leicht fester im etablierten Band. ENA (0,2519 USD, -3,04%) erholt sich von der Vortageskorrektur. PYTH (0,07843 USD, -3,17%) und LINK (15,26 USD, +1,73%) nahezu unveraendert. Vor der wichtigen PCE-Kernrate (12:30 UTC) und ausserhalb der Handelszeiten fuer Aktien/ETFs/Rohstoffe wird weiterhin auf eine Neuposition verzichtet, um nicht unmittelbar vor dem volatilen Makro-Katalysator zu handeln.",
+    "marketOverview": "Kryptomarkt weiterhin im Wartemodus vor der heutigen PCE-Inflationsveroeffentlichung (12:30 UTC/14:30 MESZ): Bitcoin stabil bei ca. 83.500-83.600 USD (Spanne 82.800-84.500 USD), Marktkapitalisierung bei 1,68 Bio. USD. Ethena (ENA, 0,2519 USD) und Pyth (PYTH, 0,0784 USD) unveraendert seitwaerts. Chainlink (LINK) notiert nach dem CCIP-2.0-Ausbruch weiter nahe Jahreshoch, aktuell leicht softer bei ca. 15,10-15,30 USD (Sources zeigen Spanne). Keine neuen Katalysatoren vor den PCE-Daten; Aktien/ETFs/Rohstoffe nachts weiterhin geschlossen.",
+    "decision": "Kursupdate aller 5 offenen Positionen (BTC x2, ENA, PYTH, LINK). Keine Position nahe einer Ziel- oder Stop-Schwelle. Angesichts der in wenigen Stunden anstehenden PCE-Daten und nachts ohnehin nur Krypto handelbar, diszipliniert kein neuer Trade und keine Verkaeufe.",
+    "reasoning": "BTC (83.600 USD, +3,21%/-1,69%) minimal fester im etablierten Band. ENA (0,2519 USD, -3,04%) und PYTH (0,07843 USD, -3,17%) unveraendert zum letzten Lauf. LINK (15,20 USD, +1,33%) leicht softer nach dem starken CCIP-2.0-Ausbruch der Vortage, aber weiterhin klar im Plus. Vor der wichtigen PCE-Kernrate (12:30 UTC) und ausserhalb der Handelszeiten fuer Aktien/ETFs/Rohstoffe wird weiterhin auf eine Neuposition verzichtet, um nicht unmittelbar vor dem volatilen Makro-Katalysator zu handeln.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
@@ -7104,7 +7104,7 @@
       "pos-0024",
       "pos-0026"
     ],
-    "portfolioValueEnd": 3580.99,
+    "portfolioValueEnd": 3579.7,
     "updates": [
       {
         "time": "00:08",
@@ -7130,6 +7130,11 @@
         "time": "04:10",
         "note": "Keine Aenderung. Kursupdate BTC x2 (83.517 USD), ENA (0,2519 USD, leichte Erholung), PYTH (0,07843 USD), LINK (15,26 USD). PCE-Daten stehen um 12:30 UTC an - kein neuer Trade vor der Veroeffentlichung.",
         "portfolioValue": 3580.99
+      },
+      {
+        "time": "05:08",
+        "note": "Keine Aenderung. Kursupdate BTC x2 (83.600 USD, +3,21%/-1,69%), ENA (0,2519 USD, unveraendert), PYTH (0,07843 USD, unveraendert), LINK (15,20 USD, leicht softer). Kein neuer Katalysator vor den PCE-Daten (12:30 UTC) - kein Trade.",
+        "portfolioValue": 3579.7
       }
     ]
   }
