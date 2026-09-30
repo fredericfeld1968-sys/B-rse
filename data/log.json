@@ -7094,9 +7094,9 @@
   },
   {
     "date": "2026-09-30",
-    "marketOverview": "US-Maerkte legen im Nachmittagshandel zu (Nasdaq +1%, S&P 500 loescht Monatsverlust) nach schwaecher als erwarteten Inflationsdaten, die eine Fed-Zinserhoehung im Oktober unwahrscheinlicher machen. Micron-Zahlen stehen unmittelbar nach US-Boersenschluss (22:30 MESZ) an. Kryptomaerkte weiter seitwaerts: Bitcoin knapp ueber 83.700 USD, ENA leicht fester (0,2698 USD), PYTH und LINK moderat schwaecher, keine Position an einer Handelsschwelle.",
-    "decision": "Kein Trade in diesem Lauf (21. Update des Tages). Tagesbudget bereits um 00:08 gutgeschrieben. Alle offenen Positionen (BTC x2, ENA, PYTH, LINK) bleiben innerhalb der Halteband-Schwellen (-6,5% bis -7,5% Stop-Loss, +7-9% Zielgewinn) und wurden nur im Kurs aktualisiert.",
-    "reasoning": "Keine der fuenf offenen Positionen hat eine Handelsschwelle erreicht (LINK bei -4,80% noch klar ueber Stop-Loss, PYTH -2,72%, BTC x2 +3,33%/-1,57%, ENA +3,85%). Micron-Zahlen stehen erst nach US-Boersenschluss (22:30 MESZ) an - vorerst kein neuer Trade vor Kenntnis der Ergebnisse, kein anderer ueberzeugender, mehrfach bestaetigter Einzeltitel- oder Makro-Katalysator seit dem letzten Lauf identifiziert. Freies Kapital bleibt mit ca. 53.020 EUR hoch, wird aber mangels ueberzeugender neuer Gelegenheit nicht eingesetzt.",
+    "marketOverview": "US-Maerkte notieren am spaeten Nachmittag fester (Nasdaq/S&P nahe Tageshoch) nach schwaecheren PCE-Inflationsdaten; Micron-Zahlen stehen unmittelbar bevor (16:00 EDT / 22:00 MESZ, also noch nicht veroeffentlicht). Iran/Hormuz-Lage bleibt in Deeskalation: Oelexporte durch die Strasse von Hormuz laut Kpler/CNBC/CNN wieder auf ca. 98% des Vorkriegsniveaus, Iran verliert an Verhandlungsmacht - kein neuer Rohstoff-Katalysator. Kryptomarkt gemischt: Bitcoin pendelt um 83.400-83.700 USD, ENA leicht fester nach positivem Standard-Chartered-Coverage-Start (Kursziel 2 USD bis 2028), PYTH stabil um 0,079 USD, LINK setzt die Korrektur nach der Swift-Nachricht fort (ca. 14,14 USD, -6,5% in 24h laut mehreren Quellen) - naehert sich der Halteband-Untergrenze, aber noch keine Stop-Loss-Schwelle erreicht.",
+    "decision": "Kein Trade in diesem Lauf (22. Update des Tages). Tagesbudget bereits um 00:08 gutgeschrieben. Alle offenen Positionen (BTC x2, ENA, PYTH, LINK) bleiben innerhalb der Halteband-Schwellen (-6,5% bis -7,5% Stop-Loss, +7-9% Zielgewinn) und wurden nur im Kurs aktualisiert. LINK naehert sich mit -5,73% der Stop-Loss-Zone und wird beim naechsten Lauf besonders beobachtet.",
+    "reasoning": "Keine der fuenf offenen Positionen hat eine Handelsschwelle erreicht (LINK -5,73% noch unter der Stop-Loss-Schwelle von ca. -6,5%, PYTH -2,47%, BTC x2 +3,27%/-1,63%, ENA +2,39%). Micron-Zahlen stehen erst um 22:00 MESZ an - kein neuer Trade vor Kenntnis der Ergebnisse. Die anhaltende Hormuz-Deeskalation liefert keinen ueberzeugenden Rohstoff-Katalysator, kein anderer mehrfach bestaetigter Einzeltitel- oder Makro-Katalysator seit dem letzten Lauf identifiziert. Freies Kapital bleibt mit ca. 53.030 EUR hoch, wird aber mangels ueberzeugender neuer Gelegenheit nicht eingesetzt.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
@@ -7104,7 +7104,7 @@
       "pos-0024",
       "pos-0026"
     ],
-    "portfolioValueEnd": 3590.01,
+    "portfolioValueEnd": 3574.07,
     "updates": [
       {
         "time": "00:08",
@@ -7210,6 +7210,11 @@
         "time": "20:09",
         "note": "Keine Aenderung. Kursupdate BTC x2 (83.700 USD, +3,33%/-1,57%), ENA (0,2698 USD, +3,85%), PYTH (0,0788 USD, -2,72%), LINK (14,28 USD, -4,80%). US-Maerkte legen nach softer Inflationsdaten zu, Micron-Zahlen erst nach Boersenschluss (22:30 MESZ) - diszipliniert kein neuer Trade vor Kenntnis der Ergebnisse.",
         "portfolioValue": 3590.01
+      },
+      {
+        "time": "21:09",
+        "note": "Keine Aenderung. Kursupdate BTC x2 (83.650 USD, +3,27%/-1,63%), ENA (0,266 USD, +2,39%), PYTH (0,079 USD, -2,47%), LINK (14,14 USD, -5,73%, naehert sich der Stop-Loss-Zone nach Swift-News-Korrektur). Micron-Zahlen erst um 22:00 MESZ - diszipliniert kein neuer Trade vor Kenntnis der Ergebnisse.",
+        "portfolioValue": 3574.07
       }
     ]
   }
