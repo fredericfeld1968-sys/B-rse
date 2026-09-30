@@ -7094,9 +7094,9 @@
   },
   {
     "date": "2026-09-30",
-    "marketOverview": "Kryptomarkt weiterhin verhalten vor dem PCE-Inflationsdatenpunkt: Bitcoin pendelt um 83.500 USD (Range 82.800-84.500 USD), US-Spot-Bitcoin-ETFs verzeichneten in der Vorwoche aber solide Nettozuflüsse (~2,39 Mrd. USD). Ethena (ENA) legt kräftig zu (+16% in 24h, +32% Wochensicht) getrieben von steigenden Protokolleinnahmen (~61 Mio. USD im August) und wachsender USDe-Nachfrage. Chainlink (LINK) konsolidiert nahe seinem Jahreshoch nach dem CCIP-2.0-Launch. Quartalsende (SEC-Fiskaljahresende, institutionelles Rebalancing) erhoeht kurzfristig regulatorisches Risiko und Volatilitaet; Aktien/ETFs/Rohstoffe nachts weiterhin geschlossen.",
-    "decision": "Kursupdate aller 5 offenen Positionen (BTC x2, ENA, PYTH, LINK). ENA legt deutlich zu (+2,73%), erreicht aber noch keine Zielgewinnschwelle. Keine Position im Stop-Loss- oder Zielgewinnbereich, daher keine Verkaeufe. Kein neuer, hinreichend ueberzeugender Katalysator fuer eine Neuposition identifiziert (Quartalsende/SEC-Fiskaljahresende erhoeht eher Risiko als Chance); ausserhalb der Handelszeiten ohnehin nur Krypto handelbar. Diszipliniert kein neuer Trade.",
-    "reasoning": "BTC (83.517 USD, beide Positionen: +3,11%/-1,79%) bewegt sich weiter im etablierten Halteband ohne neuen Katalysator. ENA (0,2669 USD, +2,73%) profitiert von einer starken 24h-Rally (+16%, getrieben von Protokoll-Fundamentaldaten und Arthur-Hayes-Kaeufen vor dem Token-Unlock), liegt aber noch deutlich unter dem ueblichen Zielgewinnband (~7-9%), daher Halten. PYTH (0,0805 USD, -0,62%) und LINK (15,10 USD, +0,67%) bewegen sich seitwaerts ohne neue strukturelle Treiber. Angesichts des Quartalsendes (erhoehtes SEC-Enforcement-Risiko laut Marktbeobachtung, institutionelles Rebalancing) und fehlender frischer, mehrfach bestaetigter Katalysatoren wird auf eine Neuposition verzichtet.",
+    "marketOverview": "Kryptomarkt vor der heutigen PCE-Inflationsveroeffentlichung (12:30 UTC/14:30 MESZ) verhalten und leicht risikoavers: Bitcoin pendelt weiter um 83.000-83.600 USD, Bitcoin-Dominanz steigt auf ueber 58%, waehrend Altcoins gemischt performen. Ethena (ENA) gibt nach der starken Vortagesrally wieder nach (-3,5% binnen 24h auf 0,2463 USD) trotz neuer institutioneller FalconX-Kreditfazilitaet (1 Mrd. USD) fuer USDe-Reserven. Chainlink (LINK) bleibt nach dem CCIP-2.0-Launch technisch ueberkauft. Pyth (PYTH) leicht schwaecher (-2,9%). Erhoehte Volatilitaetserwartung vor dem PCE-Print (Kernrate 0,3% erwartet) und Quartalsende; Aktien/ETFs/Rohstoffe nachts weiterhin geschlossen.",
+    "decision": "Kursupdate aller 5 offenen Positionen (BTC x2, ENA, PYTH, LINK). ENA rutscht auf -5,2% (naeher an, aber noch nicht auf der Stop-Loss-Schwelle von ca. -6,5 bis -7,5%), keine andere Position nahe einer Ziel- oder Stop-Schwelle. Angesichts der bevorstehenden PCE-Inflationsdaten (12:30 UTC) und nachts ohnehin nur Krypto handelbar, diszipliniert kein neuer Trade und keine Verkaeufe.",
+    "reasoning": "BTC (83.300 USD, +2,84%/-2,04%) bewegt sich weiter im etablierten Band ohne neuen Impuls, Bitcoin-Dominanz steigt weiter. ENA (0,2463 USD, -5,20%) korrigiert nach der starken Vortagesrally deutlich, bleibt aber oberhalb der ueblichen Stop-Loss-Zone; wird eng beobachtet. PYTH (0,0784 USD, -3,21%) und LINK (15,30 USD, +2,00%) ohne neue strukturelle Treiber. Vor der wichtigen PCE-Kernrate (0,3% erwartet, Fed-Zinserwartung 68% fuer Oktober-Erhoehung laut FedWatch) und ausserhalb der Handelszeiten fuer Aktien/ETFs/Rohstoffe wird auf eine Neuposition verzichtet, um nicht unmittelbar vor einem volatilen Makro-Katalysator zu handeln.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
@@ -7104,7 +7104,7 @@
       "pos-0024",
       "pos-0026"
     ],
-    "portfolioValueEnd": 3631.84,
+    "portfolioValueEnd": 3563.6,
     "updates": [
       {
         "time": "00:08",
@@ -7120,6 +7120,11 @@
         "time": "02:08",
         "note": "Keine Aenderung. Kursupdate BTC x2 (83.517 USD, +3,11%/-1,79%), ENA (0,2669 USD, +2,73%, starke 24h-Rally +16% auf Protokoll-Fundamentaldaten), PYTH (0,0805 USD, -0,62%), LINK (15,10 USD, +0,67%). Keine Schwelle erreicht, kein ueberzeugender neuer Katalysator (Quartalsende erhoeht eher Risiko), nachts nur Krypto handelbar - diszipliniert kein neuer Trade.",
         "portfolioValue": 3631.84
+      },
+      {
+        "time": "03:07",
+        "note": "Keine Aenderung. Kursupdate BTC x2 (83.300 USD, +2,84%/-2,04%), ENA (0,2463 USD, -5,20%, Korrektur nach Vortagesrally), PYTH (0,0784 USD, -3,21%), LINK (15,30 USD, +2,00%). PCE-Inflationsdaten stehen um 12:30 UTC an - vorsichtshalber kein neuer Trade.",
+        "portfolioValue": 3563.6
       }
     ]
   }
