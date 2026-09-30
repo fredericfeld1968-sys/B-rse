@@ -7094,9 +7094,9 @@
   },
   {
     "date": "2026-09-30",
-    "marketOverview": "PCE-Kernrate steht um 12:30 UTC/14:30 MESZ an (Konsens 3,6% YoY nach 3,7% im Juli); Bitcoin stabil um 83.500 USD (Marktkapitalisierung 1,68 Bio. USD). BTC-Dominanz faellt unter 59%, Altcoin-Handelsvolumen auf Jahreshoch, aber laut Analysten noch keine breite Altseason bestaetigt (Zwangsliquidationen am 28.09. verzerren das Bild). Spot-Bitcoin-ETFs verzeichnen weiter Nettozufluesse (66 Mio. USD am 29.09., IBIT fuehrend). US-Aktienfutures gemischt, Xetra oeffnet erst um 09:00 MESZ.",
-    "decision": "Kursupdate aller 5 offenen Positionen (BTC x2, ENA, PYTH, LINK); dabei im Vorlauf eine Rundungs-/Anzeigeabweichung bei pos-0016 korrigiert (kein Effekt auf freies Kapital). ENA und LINK im 08:08-Lauf leicht bewegt, keine Position nahe einer Ziel- oder Stop-Schwelle. Vor der PCE-Kernrate und ausserhalb der Handelszeiten fuer Aktien/ETFs/Rohstoffe weiterhin kein neuer Trade und keine Verkaeufe.",
-    "reasoning": "07:09: BTC (83.517 USD, +3,11%/-1,79%) unveraendert. ENA (0,2519 USD, -3,04%) unveraendert. PYTH (0,07905 USD, -2,41%) leicht fester. LINK (15,18 USD, +1,20%) minimal softer. 08:08: BTC weiterhin unveraendert bei 83.517 USD. ENA erholt auf 0,27 USD (+3,93% seit Kauf, CoinGecko/Coinbase/Metamask uebereinstimmend). PYTH leicht schwaecher auf 0,0797 USD (-1,60%). LINK auf 14,87 USD zurueckgekommen (-0,87%) nach Widerstand bei 15,00-15,26 USD; DTCC/CCIP-Katalysator bereits eingepreist. Keine Position erreicht Stop-Loss- (-6,5 bis -7,5%) oder Zielgewinn-Schwelle (7-9%). Recherche zu Krypto-Altcoins (Zcash-Rally, Altcoin-Dominanz-Anstieg, BTC-ETF-Zuflüsse) liefert keinen frischen, mehrfach unabhaengig bestaetigten Einzeltitel-Katalysator im etablierten Muster. Xetra oeffnet erst um 09:00 MESZ, US-Boerse um 15:30 MESZ - aktuell nur Krypto handelbar, daher diszipliniert kein neuer Trade.",
+    "marketOverview": "PCE-Kernrate (August) steht um 14:30 MESZ an, Konsens weiter sticky nahe 2,9-3,3% YoY. Bitcoin stabil um 83.600 USD nach schwachen US-Arbeitsmarkt-/Verbrauchervertrauensdaten, die die Wahrscheinlichkeit einer Fed-Zinssenkung im Oktober auf ~51,5% senkten; 10-Jahres-Rendite bei 5,25%, Dollarindex auf Mehrmonatshoch. DAX startet nach Xetra-Eroeffnung um 09:00 MESZ mit +0,68% im Plus, Stoxx50-Futures +0,65%; US-Futures gemischt (Nasdaq leicht im Plus, S&P/Dow leicht im Minus). QNT (bereits Anfang der Woche mit Gewinn verkauft) explodiert weiter auf ueber 270-280 USD (+300% im Monat) - fuer einen Wiedereinstieg deutlich zu spaet und ueberhitzt. Broadcom faellt auf Bericht, Anthropic wolle Ausbautempo bei KI-Chips drosseln - strukturell aehnliches Risiko wie beim bereits verlustreichen NVDA-Trade im September, daher kein Dip-Kauf trotz Wedbush-Kaufempfehlung.",
+    "decision": "Kursupdate aller 5 offenen Positionen (BTC x2, ENA, PYTH, LINK); dabei im Vorlauf eine Rundungs-/Anzeigeabweichung bei pos-0016 korrigiert (kein Effekt auf freies Kapital). ENA und LINK im 08:08-Lauf leicht bewegt, keine Position nahe einer Ziel- oder Stop-Schwelle. Vor der PCE-Kernrate und ausserhalb der Handelszeiten fuer Aktien/ETFs/Rohstoffe weiterhin kein neuer Trade und keine Verkaeufe. Im 09:08-Lauf (kurz nach Xetra-Eroeffnung) weiterhin kein Trade: keine Position nahe Ziel- oder Stop-Schwelle, keine ueberzeugende neue Gelegenheit (QNT zu spaet/ueberhitzt, Broadcom-Dip strukturell riskant); PCE-Kernrate um 14:30 MESZ bleibt der naechste wichtige Katalysator.",
+    "reasoning": "07:09: BTC (83.517 USD, +3,11%/-1,79%) unveraendert. ENA (0,2519 USD, -3,04%) unveraendert. PYTH (0,07905 USD, -2,41%) leicht fester. LINK (15,18 USD, +1,20%) minimal softer. 08:08: BTC weiterhin unveraendert bei 83.517 USD. ENA erholt auf 0,27 USD (+3,93% seit Kauf, CoinGecko/Coinbase/Metamask uebereinstimmend). PYTH leicht schwaecher auf 0,0797 USD (-1,60%). LINK auf 14,87 USD zurueckgekommen (-0,87%) nach Widerstand bei 15,00-15,26 USD; DTCC/CCIP-Katalysator bereits eingepreist. Keine Position erreicht Stop-Loss- (-6,5 bis -7,5%) oder Zielgewinn-Schwelle (7-9%). Recherche zu Krypto-Altcoins (Zcash-Rally, Altcoin-Dominanz-Anstieg, BTC-ETF-Zuflüsse) liefert keinen frischen, mehrfach unabhaengig bestaetigten Einzeltitel-Katalysator im etablierten Muster. Xetra oeffnet erst um 09:00 MESZ, US-Boerse um 15:30 MESZ - aktuell nur Krypto handelbar, daher diszipliniert kein neuer Trade. 09:08: BTC auf 83.622 USD (+3,24%/-1,66%) nach schwachen US-Arbeitsmarktdaten leicht gestiegen. ENA auf 0,269 USD (+3,54%), PYTH auf 0,079 USD (-2,47%), LINK auf 14,95 USD (-0,33%) - keine Position nahe Stop-Loss (-6,5 bis -7,5%) oder Zielgewinn (7-9%). Recherche zu Markt-Opportunitaeten: QNT (ehemalige Position, mit +8% verkauft) ist seit dem Verkauf um weitere ~170-180% gestiegen (Clearing-House-Rally haelt an) - zu extended fuer einen disziplinierten Wiedereinstieg. Broadcom-Kursrutsch (Anthropic-Bericht ueber gedrosseltes KI-Ausbautempo) trotz Wedbush-Kaufempfehlung verworfen, da strukturell identisches Risikomuster wie der verlustreiche NVDA/Amodei-Trade vom 14.09. Xetra ist seit 09:00 MESZ offen (DAX +0,68%), aber ohne konkreten Einzeltitel-Katalysator kein Kauf; US-Boerse oeffnet erst 15:30 MESZ. PCE-Kernrate (14:30 MESZ) bleibt der naechste Trigger - diszipliniert kein Trade.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
@@ -7104,7 +7104,7 @@
       "pos-0024",
       "pos-0026"
     ],
-    "portfolioValueEnd": 3622.54,
+    "portfolioValueEnd": 3619.45,
     "updates": [
       {
         "time": "00:08",
@@ -7150,6 +7150,11 @@
         "time": "08:08",
         "note": "Keine Aenderung. Kursupdate ENA (+3,93%)/PYTH (-1,60%)/LINK (-0,87%), BTC unveraendert. Vor PCE-Kernrate (14:30 MESZ) weiterhin kein Trade.",
         "portfolioValue": 3622.54
+      },
+      {
+        "time": "09:08",
+        "note": "Keine Aenderung. Kursupdate BTC x2 (83.622 USD, +3,24%/-1,66%), ENA (0,269 USD, +3,54%), PYTH (0,079 USD, -2,47%), LINK (14,95 USD, -0,33%). QNT (nicht mehr gehalten) extrem ueberhitzt (+300% seit Verkauf) - zu spaet fuer Wiedereinstieg. Broadcom-Dip (Anthropic-Bericht) als Kaufgelegenheit verworfen, da strukturell analog zum bereits verlustreichen NVDA/Amodei-Trade. Xetra soeben eroeffnet (DAX +0,68%), US-Boerse erst 15:30 MESZ, PCE-Kernrate um 14:30 MESZ ausstehend - weiterhin kein neuer Trade.",
+        "portfolioValue": 3619.45
       }
     ]
   }
