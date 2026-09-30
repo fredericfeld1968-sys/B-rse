@@ -7230,9 +7230,9 @@
   },
   {
     "date": "2026-10-01",
-    "marketOverview": "Bitcoin haelt sich stabil im Bereich 83.500-84.000 USD (US-Spot-ETFs zogen in der Woche bis 25.09. mit 2,4 Mrd. USD den staerksten Wochenzufluss seit Oktober 2025 an, Analysten sehen als naechstes Ziel 87.400-90.000 USD). Der breite Kryptomarkt bleibt nach dem starken Bitcoin-Quartal uneinheitlich: Ethena (ENA) korrigiert nach dem Ende der USDe-Foerderung zum 30.09. auf ca. 0,246 USD (-3,5% 24h), Pyth (PYTH) konsolidiert bei 0,079 USD nach der juengsten Rally, Chainlink (LINK) bleibt nach dem CCIP-2.0/Swift-Hoch vom 29.09. mit Gewinnmitnahmen bei ca. 14,30-14,40 USD. Auffaellige Ausreisser wie QNT (+280% binnen einer Woche auf ca. 300-326 USD) und Meldungen zu HYPE sind bereits stark bzw. widerspruechlich gelaufen - kein neuer, sauber bestaetigter Einstiegspunkt. Aktien/ETFs/Rohstoffe sind um Mitternacht (NYSE/Nasdaq/europaeische Boersen geschlossen) nicht handelbar.",
-    "decision": "Erster Lauf des neuen Kalendertags: Tagesbudget gutgeschrieben (+1.000 EUR), alle offenen Positionen (BTC x2, ENA, PYTH, LINK) im Kurs aktualisiert. Kein Trade - keine Position hat eine Schwelle erreicht und es liegt keine ueberzeugende neue Gelegenheit vor.",
-    "reasoning": "Alle fuenf offenen Positionen bewegen sich weiter innerhalb des etablierten Haltebands (Stop-Loss -6,5% bis -7,5%, Zielgewinn +7-9%): BTC +3,33%/-1,57%, ENA -5,20%, PYTH -2,41%, LINK -4,67%. Nachts sind nur Kryptowerte handelbar; die recherchierten Bewegungen (QNT-Parabel bereits +280% gelaufen, widerspruechliche HYPE-Kursangaben) sind entweder zu weit fortgeschritten oder nicht sauber verifizierbar, um ein neues spekulatives Engagement zu rechtfertigen. Freies Kapital bleibt mit ca. 54.018 EUR hoch, wird aber diszipliniert nicht eingesetzt, bis sich eine klar bestaetigte Gelegenheit zeigt.",
+    "marketOverview": "Bitcoin haelt sich stabil bei ca. 83.655 USD (24h nahezu unveraendert, -0,09%) nach dem starken ETF-Zufluss der Vorwoche (2,4 Mrd. USD, staerkster Wochenzufluss seit Oktober 2025); Analysten sehen weiterhin 87.400-90.000 USD als naechste Ziele. Der breite Altcoin-Markt zeigt eine risikofreudige Rally (Marktkapitalisierung +160 Mrd. USD in 24h laut WatcherGuru, angefuehrt von Memecoins wie PEPE +23% und DOGE +12,7% sowie L1s wie SUI +12,7%) - jedoch ohne einen einzelnen, sauber bestaetigten und datierten fundamentalen Katalysator fuer eine neue Position; Einzelbewegungen dieser Art (Memecoin-Spikes) gelten als reversal-anfaellig. Ethena (ENA) legt in den letzten 24h um +5,6% auf 0,2667 USD zu, was die bestehende Position auf +2,65% seit Kauf hebt. Chainlink (LINK) und Pyth (PYTH) konsolidieren nach ihren jeweiligen Rallys leicht weiter (-2,4% bzw. -2,3% in 24h). Aktien/ETFs/Rohstoffe bleiben um 01:08 Uhr MESZ (NYSE/Nasdaq/europaeische Boersen geschlossen) nicht handelbar.",
+    "decision": "Kursupdate BTC x2/ENA/PYTH/LINK. Kein Trade - keine Position hat eine Schwelle erreicht, keine ueberzeugende neue Gelegenheit (breite Altcoin-Rally ohne sauber bestaetigten Einzelkatalysator).",
+    "reasoning": "Alle fuenf offenen Krypto-Positionen bleiben innerhalb des etablierten Haltebands (Stop-Loss -6,5 bis -7,5%, Zielgewinn +7-9%): BTC (pos-0016) +3,28%, BTC (pos-0018) -1,62%, ENA +2,65%, PYTH -4,75%, LINK -4,13%. Keine Position hat eine Schwelle erreicht. Die recherchierte breite Altcoin-Rally (Memecoins, L1-Token) liefert keinen einzelnen, sauber datierten und mehrfach bestaetigten Katalysator wie bei frueheren erfolgreichen Trades (z.B. AVAX/NYSE-ICE, QNT/Clearing House) und gilt zudem als reversal-anfaellig; daher kein neues Engagement. Freies Kapital bleibt mit ca. 54.017,70 EUR hoch, wird aber diszipliniert zurueckgehalten, bis sich eine klar bestaetigte Gelegenheit zeigt.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
@@ -7240,12 +7240,17 @@
       "pos-0024",
       "pos-0026"
     ],
-    "portfolioValueEnd": 3529.79,
+    "portfolioValueEnd": 3571.19,
     "updates": [
       {
         "time": "00:09",
         "note": "Tagesbudget gutgeschrieben (+1.000 EUR), keine Aenderung, Kursupdate BTC x2/ENA/PYTH/LINK",
         "portfolioValue": 3529.79
+      },
+      {
+        "time": "01:08",
+        "note": "Keine Aenderung, Kursupdate BTC x2/ENA/PYTH/LINK",
+        "portfolioValue": 3571.19
       }
     ]
   }
