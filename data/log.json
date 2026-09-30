@@ -7094,9 +7094,9 @@
   },
   {
     "date": "2026-09-30",
-    "marketOverview": "US-Maerkte leicht uneinheitlich zum Quartalsende (S&P nahe Rekord, Nasdaq/Dow leicht schwaecher), Micron-Zahlen stehen weiterhin unmittelbar nach Boersenschluss (22:30 MESZ) an. Kryptomaerkte seitwaerts: Bitcoin stabil um 83.600 USD, ENA leicht fester (0,269 USD), PYTH und LINK moderat schwaecher, keine Position an einer Handelsschwelle.",
-    "decision": "Kein Trade in diesem Lauf (20. Update des Tages). Tagesbudget bereits um 00:08 gutgeschrieben. Alle offenen Positionen (BTC x2, ENA, PYTH, LINK) bleiben innerhalb der Halteband-Schwellen (-6,5% bis -7,5% Stop-Loss, +7-9% Zielgewinn) und wurden nur im Kurs aktualisiert.",
-    "reasoning": "Keine der fuenf offenen Positionen hat eine Handelsschwelle erreicht (LINK bei -5,00% noch klar ueber Stop-Loss). Micron-Zahlen stehen erst nach US-Boersenschluss (22:30 MESZ) an - vorerst kein neuer Trade vor Kenntnis der Ergebnisse, kein anderer ueberzeugender, mehrfach bestaetigter Einzeltitel- oder Makro-Katalysator seit dem letzten Lauf identifiziert.",
+    "marketOverview": "US-Maerkte legen im Nachmittagshandel zu (Nasdaq +1%, S&P 500 loescht Monatsverlust) nach schwaecher als erwarteten Inflationsdaten, die eine Fed-Zinserhoehung im Oktober unwahrscheinlicher machen. Micron-Zahlen stehen unmittelbar nach US-Boersenschluss (22:30 MESZ) an. Kryptomaerkte weiter seitwaerts: Bitcoin knapp ueber 83.700 USD, ENA leicht fester (0,2698 USD), PYTH und LINK moderat schwaecher, keine Position an einer Handelsschwelle.",
+    "decision": "Kein Trade in diesem Lauf (21. Update des Tages). Tagesbudget bereits um 00:08 gutgeschrieben. Alle offenen Positionen (BTC x2, ENA, PYTH, LINK) bleiben innerhalb der Halteband-Schwellen (-6,5% bis -7,5% Stop-Loss, +7-9% Zielgewinn) und wurden nur im Kurs aktualisiert.",
+    "reasoning": "Keine der fuenf offenen Positionen hat eine Handelsschwelle erreicht (LINK bei -4,80% noch klar ueber Stop-Loss, PYTH -2,72%, BTC x2 +3,33%/-1,57%, ENA +3,85%). Micron-Zahlen stehen erst nach US-Boersenschluss (22:30 MESZ) an - vorerst kein neuer Trade vor Kenntnis der Ergebnisse, kein anderer ueberzeugender, mehrfach bestaetigter Einzeltitel- oder Makro-Katalysator seit dem letzten Lauf identifiziert. Freies Kapital bleibt mit ca. 53.020 EUR hoch, wird aber mangels ueberzeugender neuer Gelegenheit nicht eingesetzt.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
@@ -7104,7 +7104,7 @@
       "pos-0024",
       "pos-0026"
     ],
-    "portfolioValueEnd": 3587.46,
+    "portfolioValueEnd": 3590.01,
     "updates": [
       {
         "time": "00:08",
@@ -7205,6 +7205,11 @@
         "time": "19:08",
         "note": "Keine Aenderung. Kursupdate BTC x2 (83.600 USD, +3,21%/-1,69%), ENA (0,2694 USD, +3,70%), PYTH (0,079 USD, -2,47%), LINK (14,25 USD, -5,00%, naeherte sich weiter der Halteband-Untergrenze). Micron-Zahlen erst nach US-Boersenschluss (22:30 MESZ) - diszipliniert kein neuer Trade vor Kenntnis der Ergebnisse.",
         "portfolioValue": 3587.46
+      },
+      {
+        "time": "20:09",
+        "note": "Keine Aenderung. Kursupdate BTC x2 (83.700 USD, +3,33%/-1,57%), ENA (0,2698 USD, +3,85%), PYTH (0,0788 USD, -2,72%), LINK (14,28 USD, -4,80%). US-Maerkte legen nach softer Inflationsdaten zu, Micron-Zahlen erst nach Boersenschluss (22:30 MESZ) - diszipliniert kein neuer Trade vor Kenntnis der Ergebnisse.",
+        "portfolioValue": 3590.01
       }
     ]
   }
