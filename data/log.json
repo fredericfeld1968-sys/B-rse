@@ -7230,9 +7230,9 @@
   },
   {
     "date": "2026-10-01",
-    "marketOverview": "Krypto: BTC pendelt weiter um 83.500-84.200 USD (kurzer Spike auf 85.500 USD nach PCE-Daten, dann rasch wieder abverkauft), ENA leicht fester (+1,9%), PYTH fast unveraendert, LINK moderat erholt (+14,6% Wochenplus laut CoinGecko). Aktien: US-Kassamarkt seit 15:30 MESZ offen, Dow/S&P/Nasdaq leicht im Plus getragen von starkem Micron-Ausblick trotz 24-Jahres-Hoch bei US-Renditen (10J ~5,33%); Kern-PCE kam wie erwartet, PNFP-Bericht Freitag im Fokus. QNT (bereits im August/September gehandelt und glattgestellt) ist weiter stark ueberhitzt (+300% auf Wochensicht, RSI nahe ueberkauft) - zu weit gelaufen fuer einen Neueinstieg. Accenture +16% nach starken Zahlen, aber Bewegung im Tagesverlauf bereits weitgehend eingepreist.",
-    "decision": "Kein Trade in diesem Lauf (16:08 Uhr). Kursupdate fuer alle offenen Positionen (BTC x2, ENA, PYTH, LINK): BTC leicht gestiegen auf ca. 84.100 USD (pos-0016 +3,83%, pos-0018 -1,10%), ENA leicht fester (+3,54%), PYTH unveraendert (-3,70%), LINK leicht erholt (-3,33% statt -4,67%). Keine Schwelle (Stop-Loss ~-6,5 bis -7,5%, Take-Profit ~7-9%) erreicht. QNT-Rally (+300% Wochenplus) und Accenture-Sprung (+16%) sind bereits stark gelaufen/eingepreist und werden als zu ueberhitzt fuer einen Neueinstieg bewertet - kein neuer Trade trotz grossem freiem Kapital.",
-    "reasoning": "Bestehende Positionen bewegen sich weiterhin innerhalb des etablierten Volatilitaetsrahmens ohne Schwellenueberschreitung. Fuer einen Neukauf identifizierte Kandidaten (QNT, Accenture) sind bereits so weit gelaufen, dass ein Einstieg ein ungünstiges Chance-Risiko-Verhaeltnis haette (FOMO-Risiko, Ueberkauft-Signale). Passend zum spekulativen, aber diszipliniertem Profil wird auf eine frischere, noch nicht eingepreiste Gelegenheit gewartet, statt eine bereits weit gelaufene Bewegung zu verfolgen.",
+    "marketOverview": "Krypto: BTC leicht nachgebend auf ca. 83.900 USD (Citigroup hob trotzdem seine 12-Monats-Kursziele fuer BTC/ETH an, globale Marktkapitalisierung +0,2% auf 2,96 Bio. USD, Sentiment weiter 'Greed' bei 71), ENA legt weiter zu (+1,9% heute, +26,6% Wochenplus), PYTH gibt nach (-2,9% 24h), LINK korrigiert deutlicher (-6% 24h laut CoinGecko) nach dem starken CCIP-2.0-Lauf der Vortage. Aktien: Dow -0,5 bis -0,86%, S&P -0,1 bis -0,25%, Nasdaq leicht im Plus (+0,2%) getragen von starkem Tech (Micron-Ausblick, HPE +3,9% nach Vultr-Deal, FactSet +3,8% nach Zahlen) trotz 24-Jahres-Hoch bei US-Renditen (10J ~5,3%) und schwachem Einkaufsmanagerindex. Gold leicht fester bei ca. 4.180 USD/oz. Keine neuen, frischen institutionellen/strukturellen Katalysatoren mit mehrfacher unabhaengiger Bestaetigung identifiziert (kurzfristige Altcoin-Spikes wie MOVR +79% oder STX +30% sind bereits weit gelaufen, HPE/FactSet-Bewegungen zu moderat fuer das etablierte Spekulations-Muster).",
+    "decision": "Kein Trade in diesem Lauf (17:08 Uhr). Kursupdate fuer alle offenen Positionen (BTC x2, ENA, PYTH, LINK): BTC leicht nachgegeben auf ca. 83.900 USD (pos-0016 +3,58%, pos-0018 -1,33%), ENA leicht fester (+3,70%), PYTH naehert sich der Stop-Loss-Zone (-6,09%, noch unter der Schwelle von -6,5%), LINK gibt nach CCIP-Rally weiter etwas nach (-4,00%). Keine Schwelle (Stop-Loss ~-6,5 bis -7,5%, Take-Profit ~7-9%) tatsaechlich erreicht, daher keine Positionsschliessung. Trotz hohem freiem Kapital kein Neukauf, da keine ueberzeugende, frische Gelegenheit identifiziert wurde.",
+    "reasoning": "PYTH naehert sich mit -6,09% der etablierten Stop-Loss-Zone, hat sie aber noch nicht erreicht - daher weiterhin gehalten, aber im naechsten Lauf genau zu beobachten. Fuer Neukaeufe identifizierte Kandidaten (Altcoin-Spikes MOVR/STX, moderate Aktienbewegungen bei HPE/FactSet) erfuellen nicht das etablierte Muster eines frischen, mehrfach bestaetigten institutionellen oder strukturellen Katalysators mit gutem Chance-Risiko-Verhaeltnis. Passend zum spekulativen, aber diszipliniertem Profil wird auf eine ueberzeugendere Gelegenheit gewartet.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
@@ -7240,7 +7240,7 @@
       "pos-0024",
       "pos-0026"
     ],
-    "portfolioValueEnd": 3598.45,
+    "portfolioValueEnd": 3574.52,
     "updates": [
       {
         "time": "00:09",
@@ -7326,6 +7326,11 @@
         "time": "16:08",
         "note": "Keine Aenderung, Kursupdate BTC x2/ENA/PYTH/LINK, LINK leicht erholt; QNT/Accenture als zu ueberhitzt fuer Neueinstieg bewertet",
         "portfolioValue": 3598.45
+      },
+      {
+        "time": "17:08",
+        "note": "Keine Aenderung, Kursupdate BTC x2/ENA/PYTH/LINK, LINK gibt nach CCIP-Rally weiter nach, PYTH naehert sich Stop-Loss-Zone (-6,09%)",
+        "portfolioValue": 3574.52
       }
     ]
   }
