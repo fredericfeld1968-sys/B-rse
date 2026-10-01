@@ -7230,9 +7230,9 @@
   },
   {
     "date": "2026-10-01",
-    "marketOverview": "Europaeische Boersen bleiben schwach (DAX -0,75% auf ca. 24.930, STOXX 600 -0,78%, FTSE 100 -1,37%, CAC 40 -0,83%), belastet von steigenden Anleiherenditen (US-10J nahe 24-Jahres-Hoch ~5,3%) und anhaltend hohen Oelpreisen (90-100 USD/Barrel) durch den fortdauernden US-Iran-Konflikt. US-Futures leicht fester (S&P 500 +0,1%, Nasdaq-100 +0,05%) vor Eroeffnung (15:30 MESZ) und vor den woechentlichen Jobless Claims sowie dem Septembr-Arbeitsmarktbericht morgen. Krypto zeigt eine breite Rally (Bitcoin kurzzeitig bis 86.000 USD nach kuehlerem PCE-Print, dann volatil um ~84.300 USD; Solana +7,2%, Ethereum +4,7%, XRP +4,2%, Curve +22%); Chainlink bleibt nach dem starken CCIP-2.0-Lauf der Vorwoche in der Konsolidierung, trotz gemeldeter Whale-Kaeufe von 1,4 Mio. LINK in 96 Stunden. Ethena (ENA) legt nach Start der Analysten-Coverage durch Standard Chartered (Kursziel 2 USD bis 2028) weiter zu.",
-    "decision": "Kein Trade in diesem Lauf (11:08 Uhr, Xetra offen, US-Markt noch geschlossen). Kursupdate fuer alle offenen Positionen (BTC x2, ENA, PYTH, LINK): BTC-Positionen leicht im Plus bzw. nahezu neutral (pos-0016 +4,07%, pos-0018 -0,86%) nach kurzzeitigem Ausbruch auf 86.000 USD und Ruecksetzer, ENA deutlich erholt (+5,85%) nach Standard-Chartered-Kursziel, PYTH leicht im Minus (-3,21%), LINK unveraendert (-4,00%) trotz gemeldeter Whale-Akkumulation. Keine Position hat Stop-Loss- oder Gewinnmitnahme-Schwelle erreicht. Die breite Krypto-Rally (SOL, ETH, XRP, CRV) bietet keine neue, hinreichend spezifische und unverbrauchte Einzelwert-Chance; der US-Markt mit dem einzigen klaren Einzelwert-Katalysator (Boeing F/A-XX) ist noch nicht geoeffnet. Freies Kapital bleibt daher unangetastet.",
-    "reasoning": "Trotz eines insgesamt risikofreudigen Krypto-Umfelds (breite Rally ueber mehrere Coins) fehlt ein frischer, mehrfach bestaetigter und noch nicht eingepreister Einzelwert-Katalysator fuer eine neue Position. Die Standard-Chartered-ENA-Nachricht betrifft eine bereits gehaltene Position (pos-0023) und wird dort beruecksichtigt. Europaeische Aktien bleiben durch hohe Renditen und Oelpreise belastet, der US-Markt oeffnet erst um 15:30 MESZ. Bestehende Positionen bewegen sich alle innerhalb des normalen Volatilitaetsrahmens ohne Schwellenueberschreitung, daher wird abgewartet.",
+    "marketOverview": "Krypto: BTC pendelt nach kurzzeitigem Ausreisser auf 85.500 USD wieder um ca. 84.300 USD, ENA gibt einen Teil der Standard-Chartered-Rally wieder ab (jetzt +2,9% statt +5,85%), PYTH stabilisiert sich leicht (-3,48%), LINK bleibt nach dem CCIP-2.0-Ruecksetzer unveraendert bei 14,40 USD. Aktien: Xetra seit 09:00 offen, US-Markt oeffnet erst um 15:30 MESZ; US-Futures leicht im Plus nach starkem Micron-Ausblick (KI-Rally), Nasdaq-100-Futures +0,2%, S&P-500-Future +0,2%. China-PMI (verarbeitendes Gewerbe 52,1, Dienstleistungen 51,6) signalisiert stabile Nachfrage. Insgesamt kein neuer, hinreichend spezifischer Einzelwert-Katalysator.",
+    "decision": "Kein Trade in diesem Lauf (12:08 Uhr, Xetra offen, US-Markt noch geschlossen). Kursupdate fuer alle offenen Positionen (BTC x2, ENA, PYTH, LINK): BTC-Positionen unveraendert (pos-0016 +4,07%, pos-0018 -0,86%) bei stabilem BTC-Kurs um 84.300 USD, ENA gibt einen Teil der Erholung wieder ab (+2,93% statt +5,85%), PYTH leicht erholt (-3,48% statt -3,21%, aber beides im normalen Rahmen), LINK unveraendert (-4,00%). Keine Position hat Stop-Loss- oder Gewinnmitnahme-Schwelle erreicht. Kein neuer, mehrfach bestaetigter und noch nicht eingepreister Einzelwert-Katalysator sichtbar (US-Markt mit dem Micron-Impuls oeffnet erst um 15:30 MESZ); freies Kapital bleibt unangetastet.",
+    "reasoning": "Bestehende Positionen bewegen sich weiterhin innerhalb des etablierten Volatilitaetsrahmens ohne Schwellenueberschreitung. Der positive Micron-Impuls fuer US-Tech ist bereits in den Futures sichtbar, aber der US-Kassamarkt ist noch geschlossen; eine verfruehte Wette auf die Kassamarkt-Reaktion waere spekulativ ohne bestaetigte Einzelwert-Bewegung. Daher wird abgewartet, bis entweder der US-Markt oeffnet oder sich im Kryptomarkt eine klar bestaetigte, noch nicht eingepreiste Gelegenheit zeigt.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
@@ -7240,7 +7240,7 @@
       "pos-0024",
       "pos-0026"
     ],
-    "portfolioValueEnd": 3617.02,
+    "portfolioValueEnd": 3594.65,
     "updates": [
       {
         "time": "00:09",
@@ -7301,6 +7301,11 @@
         "time": "11:08",
         "note": "Keine Aenderung, Kursupdate BTC x2/ENA/PYTH/LINK, ENA deutlich erholt (+5,85%) nach Standard-Chartered-Kursziel, BTC kurzzeitig bei 86k",
         "portfolioValue": 3617.02
+      },
+      {
+        "time": "12:08",
+        "note": "Keine Aenderung, Kursupdate BTC x2/ENA/PYTH/LINK, ENA gibt Teil der Erholung wieder ab, Micron-Impuls fuer US-Tech vorboerslich",
+        "portfolioValue": 3594.65
       }
     ]
   }
