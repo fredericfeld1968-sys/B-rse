@@ -7230,9 +7230,9 @@
   },
   {
     "date": "2026-10-01",
-    "marketOverview": "Krypto: BTC behauptet sich um 84.300 USD (Rekordquartal hinter sich, +7,2% im Monat), trotz 10-Jahres-US-Rendite auf 24-Jahres-Hoch (ueber 5,30%, Energie-Inflation und hohe Anleiheemissionen als Treiber - kein neuer Einzelimpuls, seit Tagen bekannt). ENA und PYTH unveraendert, LINK leicht erholt (14,40 statt 14,35 USD, -4,0% statt -4,33%) nach dem CCIP-2.0-Ruecksetzer. Aktien: Xetra laeuft, US-Kassamarkt oeffnet erst um 15:30 MESZ; Nasdaq-Futures klar im Plus (+0,6-0,9%) nach starkem Micron-Quartalsbericht, der Chip-/AI-Werte (Nvidia, AMD, Broadcom, Intel) vorboerslich stuetzt - Impuls ist jedoch bereits in den Futures eingepreist. Keine neue, hinreichend spezifische Einzelwert-Chance fuer einen ueberzeugenden Trade in diesem Lauf.",
-    "decision": "Kein Trade in diesem Lauf (14:08 Uhr, Xetra offen, US-Kassamarkt noch geschlossen). Kursupdate fuer alle offenen Positionen (BTC x2, ENA, PYTH, LINK): BTC-Positionen unveraendert (pos-0016 +4,07%, pos-0018 -0,86%) bei stabilem BTC-Kurs um 84.300 USD, ENA (+3,70%) und PYTH (-3,48%) unveraendert, LINK leicht erholt (-4,00% statt -4,33%). Freies Kapital bleibt unangetastet.",
-    "reasoning": "Bestehende Positionen bewegen sich weiterhin innerhalb des etablierten Volatilitaetsrahmens ohne Schwellenueberschreitung. Der US-Kassamarkt ist noch geschlossen (Oeffnung 15:30 MESZ); der positive Micron-Impuls fuer Chip-/AI-Werte ist bereits in den Futures eingepreist, die zuletzt genannten Krypto-Altcoin-Bewegungen (Stacks, Monad u.a.) sind bereits weit gelaufen ohne klaren Edge. Eine verfruehte Wette ohne bestaetigte, frische Einzelwert-Bewegung am Kassamarkt waere spekulativ ohne echten Vorteil. Daher wird abgewartet.",
+    "marketOverview": "Krypto: BTC pendelt um 83.960 USD (Markt wartet auf naechste Arbeitsmarktdaten, 10-Jahres-US-Rendite auf 24-Jahres-Hoch ueber 5,33% belastet weiter Risikoappetit). ENA leicht erholt (+1,9% heute) trotz anstehendem Token-Unlock am 05.10., PYTH und LINK nahezu unveraendert in enger Spanne. Aktien: Xetra noch bis 17:30 Uhr geoeffnet, US-Kassamarkt oeffnet erst um 15:30 MESZ; Nasdaq-100-Futures +0,6% nach starkem Micron-Ausblick und schwaecher als erwarteter Kern-PCE-Inflation (+0,2%), was Hoffnung auf eine ruhigere Fed naehrt - Impuls bereits in Futures eingepreist, keine neue einzelwertspezifische Gelegenheit erkennbar.",
+    "decision": "Kein Trade in diesem Lauf (15:08 Uhr, Xetra noch offen, US-Kassamarkt noch geschlossen). Kursupdate fuer alle offenen Positionen (BTC x2, ENA, PYTH, LINK): BTC-Positionen leicht veraendert (pos-0016 +3,65%, pos-0018 -1,26%) bei BTC um 83.960 USD, ENA leicht erholt (+3,93% statt +3,70%), PYTH (-3,70% statt -3,48%) und LINK (-4,67% statt -4,00%) leicht nachgegeben. Keine Schwelle (Stop-Loss ~-6,5 bis -7,5%, Take-Profit ~7-9%) erreicht. Freies Kapital bleibt unangetastet.",
+    "reasoning": "Bestehende Positionen bewegen sich weiterhin innerhalb des etablierten Volatilitaetsrahmens ohne Schwellenueberschreitung. Der US-Kassamarkt ist noch geschlossen (Oeffnung 15:30 MESZ); der positive Micron-/PCE-Impuls fuer Chip-/AI-Werte ist bereits in den Futures eingepreist. Keine frische, hinreichend spezifische Einzelwert-Bewegung mit klarem Katalysator identifiziert, daher wird abgewartet statt einer unbegruendeten spekulativen Wette.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
@@ -7240,7 +7240,7 @@
       "pos-0024",
       "pos-0026"
     ],
-    "portfolioValueEnd": 3600.04,
+    "portfolioValueEnd": 3589.28,
     "updates": [
       {
         "time": "00:09",
@@ -7316,6 +7316,11 @@
         "time": "14:08",
         "note": "Keine Aenderung, Kursupdate BTC x2/ENA/PYTH/LINK, LINK leicht erholt",
         "portfolioValue": 3600.04
+      },
+      {
+        "time": "15:08",
+        "note": "Keine Aenderung, Kursupdate BTC x2/ENA/PYTH/LINK, ENA leicht erholt, LINK/PYTH leicht nachgegeben",
+        "portfolioValue": 3589.28
       }
     ]
   }
