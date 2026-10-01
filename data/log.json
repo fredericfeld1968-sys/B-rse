@@ -7230,9 +7230,9 @@
   },
   {
     "date": "2026-10-01",
-    "marketOverview": "Krypto: BTC pendelt nach kurzzeitigem Ausreisser auf 85.500 USD wieder um ca. 84.300 USD, ENA gibt einen Teil der Standard-Chartered-Rally wieder ab (jetzt +2,9% statt +5,85%), PYTH stabilisiert sich leicht (-3,48%), LINK bleibt nach dem CCIP-2.0-Ruecksetzer unveraendert bei 14,40 USD. Aktien: Xetra seit 09:00 offen, US-Markt oeffnet erst um 15:30 MESZ; US-Futures leicht im Plus nach starkem Micron-Ausblick (KI-Rally), Nasdaq-100-Futures +0,2%, S&P-500-Future +0,2%. China-PMI (verarbeitendes Gewerbe 52,1, Dienstleistungen 51,6) signalisiert stabile Nachfrage. Insgesamt kein neuer, hinreichend spezifischer Einzelwert-Katalysator.",
-    "decision": "Kein Trade in diesem Lauf (12:08 Uhr, Xetra offen, US-Markt noch geschlossen). Kursupdate fuer alle offenen Positionen (BTC x2, ENA, PYTH, LINK): BTC-Positionen unveraendert (pos-0016 +4,07%, pos-0018 -0,86%) bei stabilem BTC-Kurs um 84.300 USD, ENA gibt einen Teil der Erholung wieder ab (+2,93% statt +5,85%), PYTH leicht erholt (-3,48% statt -3,21%, aber beides im normalen Rahmen), LINK unveraendert (-4,00%). Keine Position hat Stop-Loss- oder Gewinnmitnahme-Schwelle erreicht. Kein neuer, mehrfach bestaetigter und noch nicht eingepreister Einzelwert-Katalysator sichtbar (US-Markt mit dem Micron-Impuls oeffnet erst um 15:30 MESZ); freies Kapital bleibt unangetastet.",
-    "reasoning": "Bestehende Positionen bewegen sich weiterhin innerhalb des etablierten Volatilitaetsrahmens ohne Schwellenueberschreitung. Der positive Micron-Impuls fuer US-Tech ist bereits in den Futures sichtbar, aber der US-Kassamarkt ist noch geschlossen; eine verfruehte Wette auf die Kassamarkt-Reaktion waere spekulativ ohne bestaetigte Einzelwert-Bewegung. Daher wird abgewartet, bis entweder der US-Markt oeffnet oder sich im Kryptomarkt eine klar bestaetigte, noch nicht eingepreiste Gelegenheit zeigt.",
+    "marketOverview": "Krypto: BTC stabil um 84.300 USD nach kurzer Volatilitaet infolge des schwaecheren August-PCE-Prints, Markt wartet auf die kommenden Arbeitsmarktdaten. ENA setzt die Erholung der Standard-Chartered-Rally fort (+3,70% statt +2,93%), PYTH unveraendert (-3,48%), LINK gibt weiter leicht nach (-4,33% statt -4,00%). Aktien: Xetra laeuft, US-Markt oeffnet erst um 15:30 MESZ; S&P 500 pendelt nach schwachem September (-0,25% intraday), Nasdaq leicht im Plus (+0,24%) gestuetzt durch starken Micron-Ausblick. Kein neuer, hinreichend spezifischer Einzelwert-Katalysator fuer einen Trade.",
+    "decision": "Kein Trade in diesem Lauf (13:08 Uhr, Xetra offen, US-Markt noch geschlossen). Kursupdate fuer alle offenen Positionen (BTC x2, ENA, PYTH, LINK): BTC-Positionen unveraendert (pos-0016 +4,07%, pos-0018 -0,86%) bei stabilem BTC-Kurs um 84.300 USD, ENA setzt Erholung fort (+3,70% statt +2,93%), PYTH unveraendert (-3,48%), LINK gibt leicht weiter nach (-4,33% statt -4,00%, aber innerhalb des normalen Rahmens, keine Stop-Loss-Schwelle erreicht). Freies Kapital bleibt unangetastet.",
+    "reasoning": "Bestehende Positionen bewegen sich weiterhin innerhalb des etablierten Volatilitaetsrahmens ohne Schwellenueberschreitung. Der US-Kassamarkt ist noch geschlossen (Oeffnung 15:30 MESZ), der positive Micron-Impuls ist bereits in den Futures eingepreist; eine verfruehte Wette ohne bestaetigte Einzelwert-Bewegung am Kassamarkt waere spekulativ ohne echten Edge. Daher wird abgewartet.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
@@ -7240,7 +7240,7 @@
       "pos-0024",
       "pos-0026"
     ],
-    "portfolioValueEnd": 3594.65,
+    "portfolioValueEnd": 3597.71,
     "updates": [
       {
         "time": "00:09",
@@ -7306,6 +7306,11 @@
         "time": "12:08",
         "note": "Keine Aenderung, Kursupdate BTC x2/ENA/PYTH/LINK, ENA gibt Teil der Erholung wieder ab, Micron-Impuls fuer US-Tech vorboerslich",
         "portfolioValue": 3594.65
+      },
+      {
+        "time": "13:08",
+        "note": "Keine Aenderung, Kursupdate BTC x2/ENA/PYTH/LINK, ENA setzt Erholung fort, LINK gibt leicht weiter nach",
+        "portfolioValue": 3597.71
       }
     ]
   }
