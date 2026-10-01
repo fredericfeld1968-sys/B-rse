@@ -7230,9 +7230,9 @@
   },
   {
     "date": "2026-10-01",
-    "marketOverview": "US-Maerkte volatil zum Start des vierten Quartals: S&P 500 und Dow pendeln nahe der Nulllinie, Renditen 10J bei knapp ueber 4%, Rentenmarkt bremst weiter jede Risikofreude trotz kuehlerer PCE-Daten vom Vortag. Ein Shutdown wurde durch die Fortsetzungsresolution vom 02.09. vermieden. Krypto-Gesamtmarkt (2,96 Bio. USD) leicht im Plus, Sentiment bei Greed (71); Bitcoin konsolidiert um 83.900-84.000 USD nach kurzzeitigem Spike ueber 85.500 USD infolge der PCE-Zahlen. ENA legt nach Start der Standard-Chartered-Coverage (Kursziel 0,42 USD Ende 2026) deutlich zu, PYTH und LINK bleiben seitwaerts/leicht schwaecher.",
-    "decision": "Kein Trade in diesem Lauf (20:08). Kursupdate fuer alle offenen Positionen (BTC x2, ENA, PYTH, LINK) durchgefuehrt.",
-    "reasoning": "Keine offene Position hat Stop-Loss (-6,5 bis -7,5%) oder Take-Profit (+7-9%) erreicht: BTC-Positionen unveraendert bei +3,65%/-1,26%, ENA deutlich erholt auf +2,12% (Standard-Chartered-Coverage), PYTH bei -3,27%, LINK bei -4,67%. Trotz hohem freiem Kapital (~54.017 EUR) kein ueberzeugender neuer Katalysator: Boersen schliessen in Kuerze, Rentenmarkt (10J-Rendite >4%) bremst weiter jede breitere Risikofreude, kein frischer institutioneller/struktureller Ausbruch erkennbar. Passend zur Regel, nur bei wirklich ueberzeugenden Gelegenheiten zu handeln, keine Neuanlage.",
+    "marketOverview": "US-Maerkte schliessen den Handel am 01.10. gemischt: Dow -0,9% auf 50.906 Punkte (Treasury-Renditen auf Mehrjahrzehnte-Hoch), Nasdaq im Plus, S&P 500 leicht negativ. Belastend: 10J-Rendite ueber 4%, Entsendung einer dritten Flugzeugtraeger-Kampfgruppe und bis zu 10.000 weiterer US-Truppen in den Nahen Osten (WSJ), Zollspannungen mit Kanada vor den Midterms. Goldman Sachs haelt eine Fed-Zinserhoehung im Oktober fuer unwahrscheinlich. Krypto weiter robust: BTC konsolidiert um 83.960 USD, ENA setzt Erholung fort (+3,5% seit Kauf, Standard-Chartered-Coverage), LINK und PYTH leicht seitwaerts.",
+    "decision": "Kein Trade in diesem Lauf (21:08). Kursupdate fuer alle offenen Positionen (BTC x2, ENA, PYTH, LINK) durchgefuehrt.",
+    "reasoning": "Keine offene Position hat Stop-Loss (-6,5 bis -7,5%) oder Take-Profit (+7-9%) erreicht: BTC-Positionen unveraendert bei +3,65%/-1,26%, ENA bei +3,54%, PYTH bei -3,46%, LINK bei -4,00%. Trotz hohem freiem Kapital (~54.018 EUR) kein ueberzeugender neuer Katalysator: US-Boersen schliessen in Kuerze (22:00 CEST), Treasury-Renditen auf Mehrjahrzehnte-Hoch und eskalierende Nahost-Truppenentsendung sprechen gegen neue Risikopositionen in Aktien/ETFs, kein frischer institutioneller/struktureller Krypto-Ausbruch erkennbar. Passend zur Regel, nur bei wirklich ueberzeugenden Gelegenheiten zu handeln, keine Neuanlage.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
@@ -7240,7 +7240,7 @@
       "pos-0024",
       "pos-0026"
     ],
-    "portfolioValueEnd": 3579.63,
+    "portfolioValueEnd": 3592.97,
     "updates": [
       {
         "time": "00:09",
@@ -7346,6 +7346,11 @@
         "time": "20:08",
         "note": "Keine Aenderung, Kursupdate BTC x2/ENA/PYTH/LINK, ENA deutlich erholt (+2,1% seit Kauf) nach Start der Standard-Chartered-Coverage",
         "portfolioValue": 3579.63
+      },
+      {
+        "time": "21:08",
+        "note": "Keine Aenderung, Kursupdate BTC x2/ENA/PYTH/LINK, ENA setzt Erholung fort (+3,5%), Dow schliesst -0,9% auf Renditesorgen",
+        "portfolioValue": 3592.97
       }
     ]
   }
