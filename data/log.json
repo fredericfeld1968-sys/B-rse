@@ -7230,9 +7230,9 @@
   },
   {
     "date": "2026-10-01",
-    "marketOverview": "US-Aktienmaerkte uneinheitlich: Nasdaq gibt wegen steigender Anleiherenditen leicht nach, S&P-500-Futures leicht fester auf Hoffnung auf China-Deal trotz hartnaeckiger Inflation; Fertigungsdaten zeigen langsameres Wachstum bei hoeheren Rohstoffpreisen. Krypto insgesamt ruhig: Bitcoin konsolidiert um 83.800 USD nach gescheitertem Vorstoss Richtung 85.500 USD (PCE-Daten liessen Renditen steigen). LINK kuehlt nach der CCIP-2.0-Rally der Vorwoche weiter ab (-6% in 24h), PYTH erholt sich leicht von der Stop-Loss-Naehe, ENA stabil mit leichtem Plus.",
-    "decision": "Kein Trade in diesem Lauf. Kursupdate fuer alle offenen Positionen (BTC x2, ENA, PYTH, LINK) durchgefuehrt.",
-    "reasoning": "Keine der offenen Positionen hat die Stop-Loss- (-6,5 bis -7,5%) oder Take-Profit-Schwelle (+7-9%) erreicht: PYTH hat sich von -6,09% auf -4,20% erholt und damit vom Stop-Loss entfernt, LINK liegt bei -4,67% nach Abkuehlung der CCIP-Rally, BTC und ENA leicht im Plus. Keine neue, wirklich ueberzeugende Gelegenheit erkennbar (gemischtes Makrobild, keine frischen fundamentalen Katalysatoren), daher trotz hohem freiem Kapital (~54.018 EUR) keine Neuanlage - passend zur Regel, nur bei ueberzeugenden Gelegenheiten zu handeln.",
+    "marketOverview": "US-Maerkte uneinheitlich und volatil: Dow gibt auf 24-Jahres-Hoch bei den Anleiherenditen deutlich nach (-0,9%), Nasdaq haelt sich dank starker Einzelwerte (Accenture +21% nach Rekord-Buchungen, Synopsys +12% nach AWS-Deal) knapp im Plus, S&P 500 leicht schwaecher - auf Kurs fuer die schwaechste Woche seit August. Krypto bleibt in enger Handelsspanne: Bitcoin konsolidiert um 83.960 USD, Citigroup hebt BTC-Kursziel deutlich auf 113.000 USD an. LINK und PYTH stabilisieren sich leicht, ENA leicht ruecklaeufig von den Hochs, BTC-Positionen minimal leicht erholt.",
+    "decision": "Kein Trade in diesem Lauf (19:08). Kursupdate fuer alle offenen Positionen (BTC x2, ENA, PYTH, LINK) durchgefuehrt.",
+    "reasoning": "Keine der offenen Positionen hat die Stop-Loss- (-6,5 bis -7,5%) oder Take-Profit-Schwelle (+7-9%) erreicht: BTC-Positionen bei +3,65%/-1,26%, ENA bei +1,23%, PYTH bei -3,95%, LINK bei -4,47%. Der Accenture-Ausbruch (+21%) ist bereits stark gelaufen und hat intraday bereits wieder von den Hochs (227,58 auf 215,90 USD) nachgegeben - kein ueberzeugender frischer Einstiegspunkt mehr, sondern eher Gewinnmitnahme-Risiko. Insgesamt gemischtes, volatiles Makrobild (steigende Renditen, S&P auf Kurs zur schwaechsten Woche seit August) ohne klaren neuen Katalysator, daher trotz hohem freiem Kapital (~54.018 EUR) keine Neuanlage - passend zur Regel, nur bei wirklich ueberzeugenden Gelegenheiten zu handeln.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
@@ -7240,7 +7240,7 @@
       "pos-0024",
       "pos-0026"
     ],
-    "portfolioValueEnd": 3582.91,
+    "portfolioValueEnd": 3570.08,
     "updates": [
       {
         "time": "00:09",
@@ -7336,6 +7336,11 @@
         "time": "18:08",
         "note": "Keine Aenderung, Kursupdate BTC x2/ENA/PYTH/LINK, PYTH erholt sich weiter von Stop-Loss-Naehe",
         "portfolioValue": 3582.91
+      },
+      {
+        "time": "19:08",
+        "note": "Keine Aenderung, Kursupdate BTC x2/ENA/PYTH/LINK, BTC-Positionen leicht erholt, ENA leicht ruecklaeufig",
+        "portfolioValue": 3570.08
       }
     ]
   }
