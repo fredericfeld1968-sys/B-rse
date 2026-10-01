@@ -7230,9 +7230,9 @@
   },
   {
     "date": "2026-10-01",
-    "marketOverview": "Krypto: BTC leicht nachgebend auf ca. 83.900 USD (Citigroup hob trotzdem seine 12-Monats-Kursziele fuer BTC/ETH an, globale Marktkapitalisierung +0,2% auf 2,96 Bio. USD, Sentiment weiter 'Greed' bei 71), ENA legt weiter zu (+1,9% heute, +26,6% Wochenplus), PYTH gibt nach (-2,9% 24h), LINK korrigiert deutlicher (-6% 24h laut CoinGecko) nach dem starken CCIP-2.0-Lauf der Vortage. Aktien: Dow -0,5 bis -0,86%, S&P -0,1 bis -0,25%, Nasdaq leicht im Plus (+0,2%) getragen von starkem Tech (Micron-Ausblick, HPE +3,9% nach Vultr-Deal, FactSet +3,8% nach Zahlen) trotz 24-Jahres-Hoch bei US-Renditen (10J ~5,3%) und schwachem Einkaufsmanagerindex. Gold leicht fester bei ca. 4.180 USD/oz. Keine neuen, frischen institutionellen/strukturellen Katalysatoren mit mehrfacher unabhaengiger Bestaetigung identifiziert (kurzfristige Altcoin-Spikes wie MOVR +79% oder STX +30% sind bereits weit gelaufen, HPE/FactSet-Bewegungen zu moderat fuer das etablierte Spekulations-Muster).",
-    "decision": "Kein Trade in diesem Lauf (17:08 Uhr). Kursupdate fuer alle offenen Positionen (BTC x2, ENA, PYTH, LINK): BTC leicht nachgegeben auf ca. 83.900 USD (pos-0016 +3,58%, pos-0018 -1,33%), ENA leicht fester (+3,70%), PYTH naehert sich der Stop-Loss-Zone (-6,09%, noch unter der Schwelle von -6,5%), LINK gibt nach CCIP-Rally weiter etwas nach (-4,00%). Keine Schwelle (Stop-Loss ~-6,5 bis -7,5%, Take-Profit ~7-9%) tatsaechlich erreicht, daher keine Positionsschliessung. Trotz hohem freiem Kapital kein Neukauf, da keine ueberzeugende, frische Gelegenheit identifiziert wurde.",
-    "reasoning": "PYTH naehert sich mit -6,09% der etablierten Stop-Loss-Zone, hat sie aber noch nicht erreicht - daher weiterhin gehalten, aber im naechsten Lauf genau zu beobachten. Fuer Neukaeufe identifizierte Kandidaten (Altcoin-Spikes MOVR/STX, moderate Aktienbewegungen bei HPE/FactSet) erfuellen nicht das etablierte Muster eines frischen, mehrfach bestaetigten institutionellen oder strukturellen Katalysators mit gutem Chance-Risiko-Verhaeltnis. Passend zum spekulativen, aber diszipliniertem Profil wird auf eine ueberzeugendere Gelegenheit gewartet.",
+    "marketOverview": "US-Aktienmaerkte uneinheitlich: Nasdaq gibt wegen steigender Anleiherenditen leicht nach, S&P-500-Futures leicht fester auf Hoffnung auf China-Deal trotz hartnaeckiger Inflation; Fertigungsdaten zeigen langsameres Wachstum bei hoeheren Rohstoffpreisen. Krypto insgesamt ruhig: Bitcoin konsolidiert um 83.800 USD nach gescheitertem Vorstoss Richtung 85.500 USD (PCE-Daten liessen Renditen steigen). LINK kuehlt nach der CCIP-2.0-Rally der Vorwoche weiter ab (-6% in 24h), PYTH erholt sich leicht von der Stop-Loss-Naehe, ENA stabil mit leichtem Plus.",
+    "decision": "Kein Trade in diesem Lauf. Kursupdate fuer alle offenen Positionen (BTC x2, ENA, PYTH, LINK) durchgefuehrt.",
+    "reasoning": "Keine der offenen Positionen hat die Stop-Loss- (-6,5 bis -7,5%) oder Take-Profit-Schwelle (+7-9%) erreicht: PYTH hat sich von -6,09% auf -4,20% erholt und damit vom Stop-Loss entfernt, LINK liegt bei -4,67% nach Abkuehlung der CCIP-Rally, BTC und ENA leicht im Plus. Keine neue, wirklich ueberzeugende Gelegenheit erkennbar (gemischtes Makrobild, keine frischen fundamentalen Katalysatoren), daher trotz hohem freiem Kapital (~54.018 EUR) keine Neuanlage - passend zur Regel, nur bei ueberzeugenden Gelegenheiten zu handeln.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
@@ -7240,7 +7240,7 @@
       "pos-0024",
       "pos-0026"
     ],
-    "portfolioValueEnd": 3574.52,
+    "portfolioValueEnd": 3582.91,
     "updates": [
       {
         "time": "00:09",
@@ -7331,6 +7331,11 @@
         "time": "17:08",
         "note": "Keine Aenderung, Kursupdate BTC x2/ENA/PYTH/LINK, LINK gibt nach CCIP-Rally weiter nach, PYTH naehert sich Stop-Loss-Zone (-6,09%)",
         "portfolioValue": 3574.52
+      },
+      {
+        "time": "18:08",
+        "note": "Keine Aenderung, Kursupdate BTC x2/ENA/PYTH/LINK, PYTH erholt sich weiter von Stop-Loss-Naehe",
+        "portfolioValue": 3582.91
       }
     ]
   }
