@@ -7230,9 +7230,9 @@
   },
   {
     "date": "2026-10-01",
-    "marketOverview": "Krypto: BTC pendelt um 83.960 USD (Markt wartet auf naechste Arbeitsmarktdaten, 10-Jahres-US-Rendite auf 24-Jahres-Hoch ueber 5,33% belastet weiter Risikoappetit). ENA leicht erholt (+1,9% heute) trotz anstehendem Token-Unlock am 05.10., PYTH und LINK nahezu unveraendert in enger Spanne. Aktien: Xetra noch bis 17:30 Uhr geoeffnet, US-Kassamarkt oeffnet erst um 15:30 MESZ; Nasdaq-100-Futures +0,6% nach starkem Micron-Ausblick und schwaecher als erwarteter Kern-PCE-Inflation (+0,2%), was Hoffnung auf eine ruhigere Fed naehrt - Impuls bereits in Futures eingepreist, keine neue einzelwertspezifische Gelegenheit erkennbar.",
-    "decision": "Kein Trade in diesem Lauf (15:08 Uhr, Xetra noch offen, US-Kassamarkt noch geschlossen). Kursupdate fuer alle offenen Positionen (BTC x2, ENA, PYTH, LINK): BTC-Positionen leicht veraendert (pos-0016 +3,65%, pos-0018 -1,26%) bei BTC um 83.960 USD, ENA leicht erholt (+3,93% statt +3,70%), PYTH (-3,70% statt -3,48%) und LINK (-4,67% statt -4,00%) leicht nachgegeben. Keine Schwelle (Stop-Loss ~-6,5 bis -7,5%, Take-Profit ~7-9%) erreicht. Freies Kapital bleibt unangetastet.",
-    "reasoning": "Bestehende Positionen bewegen sich weiterhin innerhalb des etablierten Volatilitaetsrahmens ohne Schwellenueberschreitung. Der US-Kassamarkt ist noch geschlossen (Oeffnung 15:30 MESZ); der positive Micron-/PCE-Impuls fuer Chip-/AI-Werte ist bereits in den Futures eingepreist. Keine frische, hinreichend spezifische Einzelwert-Bewegung mit klarem Katalysator identifiziert, daher wird abgewartet statt einer unbegruendeten spekulativen Wette.",
+    "marketOverview": "Krypto: BTC pendelt weiter um 83.500-84.200 USD (kurzer Spike auf 85.500 USD nach PCE-Daten, dann rasch wieder abverkauft), ENA leicht fester (+1,9%), PYTH fast unveraendert, LINK moderat erholt (+14,6% Wochenplus laut CoinGecko). Aktien: US-Kassamarkt seit 15:30 MESZ offen, Dow/S&P/Nasdaq leicht im Plus getragen von starkem Micron-Ausblick trotz 24-Jahres-Hoch bei US-Renditen (10J ~5,33%); Kern-PCE kam wie erwartet, PNFP-Bericht Freitag im Fokus. QNT (bereits im August/September gehandelt und glattgestellt) ist weiter stark ueberhitzt (+300% auf Wochensicht, RSI nahe ueberkauft) - zu weit gelaufen fuer einen Neueinstieg. Accenture +16% nach starken Zahlen, aber Bewegung im Tagesverlauf bereits weitgehend eingepreist.",
+    "decision": "Kein Trade in diesem Lauf (16:08 Uhr). Kursupdate fuer alle offenen Positionen (BTC x2, ENA, PYTH, LINK): BTC leicht gestiegen auf ca. 84.100 USD (pos-0016 +3,83%, pos-0018 -1,10%), ENA leicht fester (+3,54%), PYTH unveraendert (-3,70%), LINK leicht erholt (-3,33% statt -4,67%). Keine Schwelle (Stop-Loss ~-6,5 bis -7,5%, Take-Profit ~7-9%) erreicht. QNT-Rally (+300% Wochenplus) und Accenture-Sprung (+16%) sind bereits stark gelaufen/eingepreist und werden als zu ueberhitzt fuer einen Neueinstieg bewertet - kein neuer Trade trotz grossem freiem Kapital.",
+    "reasoning": "Bestehende Positionen bewegen sich weiterhin innerhalb des etablierten Volatilitaetsrahmens ohne Schwellenueberschreitung. Fuer einen Neukauf identifizierte Kandidaten (QNT, Accenture) sind bereits so weit gelaufen, dass ein Einstieg ein ungünstiges Chance-Risiko-Verhaeltnis haette (FOMO-Risiko, Ueberkauft-Signale). Passend zum spekulativen, aber diszipliniertem Profil wird auf eine frischere, noch nicht eingepreiste Gelegenheit gewartet, statt eine bereits weit gelaufene Bewegung zu verfolgen.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
@@ -7240,7 +7240,7 @@
       "pos-0024",
       "pos-0026"
     ],
-    "portfolioValueEnd": 3589.28,
+    "portfolioValueEnd": 3598.45,
     "updates": [
       {
         "time": "00:09",
@@ -7321,6 +7321,11 @@
         "time": "15:08",
         "note": "Keine Aenderung, Kursupdate BTC x2/ENA/PYTH/LINK, ENA leicht erholt, LINK/PYTH leicht nachgegeben",
         "portfolioValue": 3589.28
+      },
+      {
+        "time": "16:08",
+        "note": "Keine Aenderung, Kursupdate BTC x2/ENA/PYTH/LINK, LINK leicht erholt; QNT/Accenture als zu ueberhitzt fuer Neueinstieg bewertet",
+        "portfolioValue": 3598.45
       }
     ]
   }
