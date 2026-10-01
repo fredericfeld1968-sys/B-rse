@@ -7366,9 +7366,9 @@
   },
   {
     "date": "2026-10-02",
-    "marketOverview": "Krypto-Gesamtmarktkapitalisierung bei ca. 2,96 Bio. USD, BTC konsolidiert nach volatiler Reaktion auf die PCE-Daten weiter im Band 83.500-84.600 USD. ENA steht heute ein Token-Unlock (~1,1% der Umlaufmenge, ca. 28,5 Mio. USD) bevor, was kurzfristig Verkaufsdruck erzeugen kann. LINK und PYTH geben nach den starken Vorwochen-Gewinnen leicht nach. US-Arbeitsmarktdaten (Nonfarm Payrolls) stehen spaeter am 02.10. an.",
-    "decision": "Kein Trade in diesem Lauf (00:08). Tagesbudget gutgeschrieben, Kursupdate fuer alle offenen Positionen (BTC x2, ENA, PYTH, LINK) durchgefuehrt.",
-    "reasoning": "Keine offene Position hat Stop-Loss (-6,5 bis -7,5%) oder Take-Profit (+7-9%) erreicht: BTC-Positionen unveraendert bei +4,42%/-0,54%, ENA bei +2,93% (etwas schwaecher vor dem Unlock), PYTH bei -3,27%, LINK bei -4,00%. Kurz nach Mitternacht sind US- und EU-Boersen geschlossen, Aktien/ETFs/Rohstoffe damit nicht handelbar. Trotz hohem freiem Kapital kein neuer, unabhaengig bestaetigter Krypto-Katalysator erkennbar, der eine Neuanlage rechtfertigen wuerde. Passend zur Regel, nur bei wirklich ueberzeugenden Gelegenheiten zu handeln, keine Neuanlage.",
+    "marketOverview": "Krypto-Gesamtmarktkapitalisierung bei ca. 2,87-2,96 Bio. USD, BTC-Dominanz bei 58,6%. BTC stabil bei ca. 84.670 USD (+1,27% 24h). ENA bricht dagegen deutlich ein (-8,75% 24h auf 0,2422 USD) - der grosse Early-Investor-Unlock (1,4 Mrd. Token, 17 Monate vorgezogen) steht am 05.10. bevor und loest anhaltenden Verkaufsdruck aus. PYTH faellt weiter (-3,82% 24h auf 0,0741 USD), Gate kuendigt Delisting der PYTH-Staking-Produkte zum 08.10. an. LINK konsolidiert nach der CCIP-2.0-Rally bei ca. 14,29 USD (Gewinnmitnahmen, -6% seit Wochenbeginn). Altcoin-Season-Index bei 61/100 (steigend, aber noch keine volle Altseason). US-Arbeitsmarktdaten (Nonfarm Payrolls) stehen spaeter am 02.10. an; US-/EU-Boersen ausserhalb der Handelszeiten, daher nur Krypto bewegbar.",
+    "decision": "00:08: Tagesbudget gutgeschrieben (+1.000 EUR), kein Trade. 01:08: Stop-Loss-Verkaeufe bei ENA (-6,78%) und PYTH (-8,49%), keine Neuanlage.",
+    "reasoning": "00:08-Lauf: Keine offene Position hatte Stop-Loss oder Take-Profit erreicht, daher keine Aenderung. 01:08-Lauf: ENA und PYTH haben die etablierte Stop-Loss-Schwelle (-6,5 bis -7,5%) erreicht bzw. deutlich ueberschritten (-6,78% / -8,49%), beide mit frischem bearishem Katalysator (ENA: bevorstehender Grossunlock 05.10., anhaltender Ausverkauf laut TradersUnion; PYTH: Gate-Staking-Delisting 08.10., urspruenglicher Switchboard-Katalysator vollstaendig eingepreist) - beide konsequent glattgestellt. BTC (x2) und LINK bleiben unveraendert im normalen Schwankungsband offen. Trotz sehr hohem freiem Kapital (ca. 56.310 EUR) keine neue Position eroeffnet: Whale-Akkumulation bei AAVE/UNI erfolgt graduell ueber mehrere Tage (kein bestaetigter Ausbruch), SUI-TVL-Meldungen sind widerspruechlich/veraltet - keine der recherchierten Gelegenheiten erreicht die Ueberzeugungsschwelle fuer eine Neuanlage um 01:08 nachts bei geschlossenen Aktien-/ETF-/Rohstoffmaerkten.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
@@ -7376,12 +7376,17 @@
       "pos-0024",
       "pos-0026"
     ],
-    "portfolioValueEnd": 3601.19,
+    "portfolioValueEnd": 2200.12,
     "updates": [
       {
         "time": "00:08",
         "note": "Tagesbudget gutgeschrieben (+1.000 EUR), keine Aenderung, Kursupdate BTC x2/ENA/PYTH/LINK, ENA vor Token-Unlock leicht schwaecher",
         "portfolioValue": 3601.19
+      },
+      {
+        "time": "01:08",
+        "note": "Stop-Loss-Verkauf ENA (-6,78%, -47,48 EUR) und PYTH (-8,49%, -59,42 EUR) vor ENA-Unlock am 05.10., keine Neuanlage",
+        "portfolioValue": 2200.12
       }
     ]
   }
