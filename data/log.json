@@ -7230,9 +7230,9 @@
   },
   {
     "date": "2026-10-01",
-    "marketOverview": "Bitcoin haelt sich stabil bei ca. 83.655 USD (24h nahezu unveraendert, -0,09%) nach dem starken ETF-Zufluss der Vorwoche (2,4 Mrd. USD, staerkster Wochenzufluss seit Oktober 2025); Analysten sehen weiterhin 87.400-90.000 USD als naechste Ziele. Der breite Altcoin-Markt zeigt eine risikofreudige Rally (Marktkapitalisierung +160 Mrd. USD in 24h laut WatcherGuru, angefuehrt von Memecoins wie PEPE +23% und DOGE +12,7% sowie L1s wie SUI +12,7%) - jedoch ohne einen einzelnen, sauber bestaetigten und datierten fundamentalen Katalysator fuer eine neue Position; Einzelbewegungen dieser Art (Memecoin-Spikes) gelten als reversal-anfaellig. Ethena (ENA) legt in den letzten 24h um +5,6% auf 0,2667 USD zu, was die bestehende Position auf +2,65% seit Kauf hebt. Chainlink (LINK) und Pyth (PYTH) konsolidieren nach ihren jeweiligen Rallys leicht weiter (-2,4% bzw. -2,3% in 24h). Aktien/ETFs/Rohstoffe bleiben um 01:08 Uhr MESZ (NYSE/Nasdaq/europaeische Boersen geschlossen) nicht handelbar.",
-    "decision": "Kursupdate BTC x2/ENA/PYTH/LINK. Kein Trade - keine Position hat eine Schwelle erreicht, keine ueberzeugende neue Gelegenheit (breite Altcoin-Rally ohne sauber bestaetigten Einzelkatalysator).",
-    "reasoning": "Alle fuenf offenen Krypto-Positionen bleiben innerhalb des etablierten Haltebands (Stop-Loss -6,5 bis -7,5%, Zielgewinn +7-9%): BTC (pos-0016) +3,28%, BTC (pos-0018) -1,62%, ENA +2,65%, PYTH -4,75%, LINK -4,13%. Keine Position hat eine Schwelle erreicht. Die recherchierte breite Altcoin-Rally (Memecoins, L1-Token) liefert keinen einzelnen, sauber datierten und mehrfach bestaetigten Katalysator wie bei frueheren erfolgreichen Trades (z.B. AVAX/NYSE-ICE, QNT/Clearing House) und gilt zudem als reversal-anfaellig; daher kein neues Engagement. Freies Kapital bleibt mit ca. 54.017,70 EUR hoch, wird aber diszipliniert zurueckgehalten, bis sich eine klar bestaetigte Gelegenheit zeigt.",
+    "marketOverview": "Bitcoin notiert bei rund 83.900 USD, nachdem die Bitfinex-Analyse auf eine bereits abgebaute Leverage im System hinweist und schwaechere US-Inflationsdaten Kaeufer zurueckbrachten (US-Spot-Bitcoin-ETFs mit 2,4 Mrd. USD Wochenzufluss, staerkster seit Oktober 2025). Ethena (ENA) faellt dagegen um ca. -3,5% in 24h auf 0,2463 USD trotz solidem Wochenplus (+14,8%), was die bestehende Position auf -5,2% seit Kauf druecken. Chainlink (LINK) kuehlt nach der Swift/CCIP-2.0-Rally weiter profit-taking-bedingt ab (ca. 14,25 USD, -5,0% seit Kauf) - laut CoinMarketCap/Cryptoticker ein technischer Rueckzug nach dem Ausbruch, kein fundamentales Problem. Pyth (PYTH) bleibt mit ca. 0,0784 USD nahezu stabil (-3,2% seit Kauf). Breiter Altcoin-Markt zeigt eine Memecoin-/L1-getriebene Rally (PEPE, DOGE, SUI) ohne einen sauber bestaetigten Einzelkatalysator; Whale-Aktivitaet konzentriert sich laut BeInCrypto auf AAVE, UNI und MOVR. Aktien/ETFs/Rohstoffe bleiben um 02:10 Uhr MESZ (Boersen geschlossen) nicht handelbar.",
+    "decision": "Kursupdate BTC x2/ENA/PYTH/LINK. Kein Trade - keine Position hat die Stop-Loss- oder Zielgewinn-Schwelle erreicht, keine ueberzeugende neue Gelegenheit (Altcoin-Rally ohne klaren Einzelkatalysator, Whale-Ziele AAVE/UNI/MOVR noch nicht unabhaengig bestaetigt genug fuer eine Position).",
+    "reasoning": "Alle fuenf offenen Krypto-Positionen bleiben innerhalb des etablierten Haltebands (Stop-Loss -6,5 bis -7,5%, Zielgewinn +7-9%): BTC (pos-0016) +3,58%, BTC (pos-0018) -1,33%, ENA -5,20%, PYTH -3,21%, LINK -5,00%. ENA und LINK naehern sich der Stop-Loss-Zone, haben sie aber noch nicht erreicht - werden im naechsten Lauf eng beobachtet. Freies Kapital bleibt bei ca. 54.017,70 EUR unveraendert hoch, wird aber diszipliniert zurueckgehalten, bis sich eine klar bestaetigte Gelegenheit mit sauberem Einzelkatalysator zeigt.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
@@ -7240,7 +7240,7 @@
       "pos-0024",
       "pos-0026"
     ],
-    "portfolioValueEnd": 3571.19,
+    "portfolioValueEnd": 3525.46,
     "updates": [
       {
         "time": "00:09",
@@ -7251,6 +7251,11 @@
         "time": "01:08",
         "note": "Keine Aenderung, Kursupdate BTC x2/ENA/PYTH/LINK",
         "portfolioValue": 3571.19
+      },
+      {
+        "time": "02:10",
+        "note": "Keine Aenderung, Kursupdate BTC x2/ENA/PYTH/LINK, ENA und LINK naehern sich Stop-Loss-Zone",
+        "portfolioValue": 3525.46
       }
     ]
   }
