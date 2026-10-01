@@ -7230,9 +7230,9 @@
   },
   {
     "date": "2026-10-01",
-    "marketOverview": "Krypto-Gesamtmarkt leicht im Plus (Marktkap. ca. 2,96 Bio. USD, +0,2%), Sentiment im 'Greed'-Bereich (Index 71). Bitcoin stabil bei ca. 83.777 USD (+0,3% 24h), gestuetzt durch kuehlere PCE-Inflationsdaten, die die Wahrscheinlichkeit einer Fed-Zinserhoehung im Oktober auf unter 50% druecken. Chainlink (LINK) konsolidiert nach dem CCIP-2.0-Rally weiter um 14,25 USD, Ethena (ENA) und Pyth (PYTH) bewegen sich seitwaerts ohne neuen Katalysator. Aktien, ETFs und Rohstoffe sind nachts/am fruehen Morgen nicht handelbar.",
-    "decision": "Kein Trade in diesem Lauf (03:09 Uhr, ausserhalb der Boersenzeiten, nur Krypto handelbar). Kursupdate fuer alle offenen Positionen (BTC x2, ENA, PYTH, LINK): keine Position hat die Stop-Loss- oder Gewinnmitnahme-Schwelle erreicht. Keine ueberzeugende neue Gelegenheit erkennbar, daher bleibt das freie Kapital unangetastet.",
-    "reasoning": "BTC pos-0016 (+3,43%) und pos-0018 (-1,48%) bewegen sich im neutralen Bereich. ENA (-5,2%) und LINK (-5,0%) naehern sich der etablierten Stop-Loss-Zone (-6,5% bis -7,5%), haben sie aber noch nicht erreicht. PYTH hat sich leicht auf -2,47% erholt. Da nachts nur Krypto handelbar ist und kein frischer, mehrfach bestaetigter Katalysator vorliegt, wird abgewartet.",
+    "marketOverview": "Krypto-Gesamtmarkt stabil, Sentiment weiter im 'Greed'-Bereich. Bitcoin seitwaerts um ca. 83.700 USD, gestuetzt durch kuehlere PCE-Inflationsdaten und sinkende Fed-Zinserhoehungs-Wahrscheinlichkeit fuer Oktober. Ethena (ENA) erholt sich deutlich (+5,6% in 24h auf ca. 0,2613 USD) und verlaesst die Stop-Loss-Naehe wieder. Chainlink (LINK) und Pyth (PYTH) bewegen sich seitwaerts ohne neuen Katalysator. Aktien, ETFs und Rohstoffe sind in der Nacht weiterhin nicht handelbar.",
+    "decision": "Kein Trade in diesem Lauf (04:09 Uhr, ausserhalb der Boersenzeiten, nur Krypto handelbar). Kursupdate fuer alle offenen Positionen (BTC x2, ENA, PYTH, LINK): ENA hat sich von der Stop-Loss-Naehe deutlich erholt (-5,2% -> +0,58%), keine andere Position hat Stop-Loss- oder Gewinnmitnahme-Schwelle erreicht. Keine ueberzeugende neue Gelegenheit erkennbar, daher bleibt das freie Kapital unangetastet.",
+    "reasoning": "BTC pos-0016 (+3,33%) und pos-0018 (-1,57%) bewegen sich weiter im neutralen Bereich, Kurs praktisch unveraendert bei ca. 83.700 USD. ENA (jetzt +0,58%) hat sich klar von der Stop-Loss-Zone geloest (24h +5,6%). PYTH (-2,47%) und LINK (-4,67%) bleiben seitwaerts unterhalb der Schwellen. Da nachts nur Krypto handelbar ist und kein frischer, mehrfach bestaetigter Katalysator vorliegt, wird abgewartet.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
@@ -7240,7 +7240,7 @@
       "pos-0024",
       "pos-0026"
     ],
-    "portfolioValueEnd": 3528.42,
+    "portfolioValueEnd": 3569.77,
     "updates": [
       {
         "time": "00:09",
@@ -7261,6 +7261,11 @@
         "time": "03:09",
         "note": "Keine Aenderung, Kursupdate BTC x2/ENA/PYTH/LINK, PYTH leicht erholt",
         "portfolioValue": 3528.42
+      },
+      {
+        "time": "04:09",
+        "note": "Keine Aenderung, Kursupdate BTC x2/ENA/PYTH/LINK, ENA deutlich erholt aus Stop-Loss-Naehe",
+        "portfolioValue": 3569.77
       }
     ]
   }
