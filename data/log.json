@@ -7230,9 +7230,9 @@
   },
   {
     "date": "2026-10-01",
-    "marketOverview": "US-Maerkte schlossen den Handel am 01.10. gemischt: Dow -0,9% auf 50.906 Punkte, S&P 500 -0,3% auf 7.651,54, Nasdaq +0,2% auf 26.861,06 (starke Tech-Werte, u.a. Synopsys +4,8%, Accenture +21,4% nach Zahlen). 10-Jahres-Treasury-Rendite auf Mehrzehnjahres-Hoch von 5,33% (hoechster Stand seit April 2002) belastet weiterhin. Krypto seitwaerts bis leicht negativ: BTC stabil um 84.000 USD, ENA gibt nach Standard-Chartered-Hoch wieder nachrichtengetrieben nach (Fokus auf Investoren-Unlock am 05.10.), LINK haelt sich nahe Jahreshoch (CCIP 2.0), PYTH leicht schwaecher.",
-    "decision": "Kein Trade in diesem Lauf (22:08). Kursupdate fuer alle offenen Positionen (BTC x2, ENA, PYTH, LINK) durchgefuehrt.",
-    "reasoning": "Keine offene Position hat Stop-Loss (-6,5 bis -7,5%) oder Take-Profit (+7-9%) erreicht: BTC-Positionen bei +3,70%/-1,22%, ENA bei +2,00% (Erholung von kurzem Ruecksetzer wegen Standard-Chartered-Nachrichten), PYTH bei -4,20%, LINK bei -1,47% (deutliche Erholung nach CCIP-2.0-Momentum). US-Boersen sind inzwischen geschlossen, Aktien/ETFs/Rohstoffe damit ausserhalb der Handelszeiten nicht handelbar. Trotz hohem freiem Kapital (~54.017 EUR) kein ueberzeugender frischer Krypto-Katalysator erkennbar (ENA-Unlock am 05.10. spricht eher gegen eine Neuposition, kein neuer institutioneller/struktureller Ausbruch bei anderen Titeln). Passend zur Regel, nur bei wirklich ueberzeugenden Gelegenheiten zu handeln, keine Neuanlage.",
+    "marketOverview": "US-Maerkte geschlossen (Dow -0,9%, S&P 500 -0,3%, Nasdaq +0,2%). Krypto-Gesamtmarktkapitalisierung bei ca. 2,96 Bio. USD (+0,2%), Sentiment im Greed-Bereich (71). BTC pendelt stabil um 84.000-84.600 USD (enge Entscheidungszone 82-85k, hohe Anleiherenditen von 5,33% als Gegenwind). ENA erholt sich kraeftig (+9,2% 24h) nach Standard-Chartered-Kursziel (2 USD), LINK haelt sich nahe Jahreshoch nach CCIP-2.0-Rally, PYTH leicht schwaecher. Keine ueberzeugende frische Handelsgelegenheit erkennbar; Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten.",
+    "decision": "Kein Trade in diesem Lauf (23:08). Kursupdate fuer alle offenen Positionen (BTC x2, ENA, PYTH, LINK) durchgefuehrt.",
+    "reasoning": "Keine offene Position hat Stop-Loss (-6,5 bis -7,5%) oder Take-Profit (+7-9%) erreicht: BTC-Positionen bei +4,42%/-0,54%, ENA bei +3,70% (haelt Erholung), PYTH bei -4,32%, LINK bei -1,33%. US- und EU-Boersen sind geschlossen, Aktien/ETFs/Rohstoffe damit nicht handelbar. Trotz hohem freiem Kapital (~54.018 EUR) kein neuer, unabhaengig bestaetigter Krypto-Katalysator erkennbar (QNT bereits stark ueberhitzt mit +300% in 7 Tagen, Trump-Memecoin-Dinner ohne fundamentale Relevanz, SEC-Custody-Vorschlag noch zu frisch fuer klare Markteinschaetzung). Passend zur Regel, nur bei wirklich ueberzeugenden Gelegenheiten zu handeln, keine Neuanlage.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
@@ -7240,7 +7240,7 @@
       "pos-0024",
       "pos-0026"
     ],
-    "portfolioValueEnd": 3595.47,
+    "portfolioValueEnd": 3617.9,
     "updates": [
       {
         "time": "00:09",
@@ -7356,6 +7356,11 @@
         "time": "22:08",
         "note": "Keine Aenderung, Kursupdate BTC x2/ENA/PYTH/LINK, ENA leicht nachrichtengetrieben schwaecher, LINK deutlich erholt",
         "portfolioValue": 3595.47
+      },
+      {
+        "time": "23:08",
+        "note": "Keine Aenderung, Kursupdate BTC x2/ENA/PYTH/LINK, ENA haelt Erholung, BTC leicht fester",
+        "portfolioValue": 3617.9
       }
     ]
   }
