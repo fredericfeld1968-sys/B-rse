@@ -7230,9 +7230,9 @@
   },
   {
     "date": "2026-10-01",
-    "marketOverview": "Kryptomarkt bleibt im 'Greed'-Bereich (Index ca. 71), Gesamtmarktkapitalisierung stabil bei ca. 2,96 Billionen USD (+0,2%). Bitcoin leicht schwaecher um 83.550 USD, nachdem der Vorstoss ueber 85.000 USD wegen weiterhin hoher 10-Jahres-Renditen (ca. 5,3%) nicht hielt; Fed-Zinssenkungshoffnungen (Williams: 'keine Dringlichkeit') stuetzen aber die Stimmung. Chainlink (LINK) gibt nach der starken Swift-Erholung wieder nach auf ca. 14,40 USD (-6% zum Vortageshoch), Ethena (ENA) setzt die Erholung fort auf ca. 0,267 USD (+9% 24h), Pyth (PYTH) seitwaerts um 0,0776 USD ohne neuen Katalysator. Keine ueberzeugende frische Einzelwert-Nachricht fuer eine Neuposition; Aktien, ETFs und Rohstoffe vor Europa-/US-Boersenoeffnung weiterhin nicht handelbar.",
-    "decision": "Kein Trade in diesem Lauf (08:08 Uhr, ausserhalb der Boersenzeiten, nur Krypto handelbar). Kursupdate fuer alle offenen Positionen (BTC x2, ENA, PYTH, LINK): BTC-Positionen leicht gesunken (pos-0016 +3,15%, pos-0018 -1,75%), ENA haelt Erholung (+2,93%), PYTH leicht schwaecher (-4,21%), LINK gibt Teil der Erholung wieder ab (-4,00%). Keine Position hat eine Schwelle erreicht, die einen Verkauf rechtfertigt, keine ueberzeugende neue Gelegenheit erkennbar, daher bleibt das freie Kapital unangetastet.",
-    "reasoning": "BTC pendelt weiter um 83.500-83.800 USD ohne klaren neuen Trigger. LINK (-4,00%) und PYTH (-4,21%) bewegen sich im Rahmen normaler Volatilitaet ohne negative Einzelwert-Nachricht, ENA (+2,93%) haelt die positive Entwicklung. Da vor Boersenoeffnung in Europa/USA nur Krypto handelbar ist und keine frischen, mehrfach bestaetigten Einzelwert-Katalysatoren vorliegen, wird abgewartet.",
+    "marketOverview": "Boersen in Europa (Xetra) seit 09:00 geoeffnet, DAX leicht schwaecher (-0,39%) zum Start des neuen Handelsmonats im Zuge einer breiteren europaeischen Schwaeche; US-Futures (Nasdaq 100 +0,2%) leicht fester nach solidem Micron-Ausblick, US-Kassamarkt oeffnet erst um 15:30 MESZ. Bitcoin pendelt weiter um 84.000-84.300 USD (+1,3% 24h) nach einem kurzen Vorstoss ueber 85.500 USD, der an weiterhin hohen US-Renditen (~5,3%) scheiterte; Fed-Zinsentscheid erst Ende Oktober. Chainlink (LINK) stabil bei ca. 14,45 USD (+1,2% 24h), Ethena (ENA) setzt die Erholung kraeftig fort auf ca. 0,272 USD (+10,7% 24h, gestuetzt durch Standard-Chartered-Kursziel von 2 USD bis 2028), Pyth (PYTH) leicht fester um 0,0789 USD. Keine ueberzeugende frische Einzelwert-Nachricht fuer eine Neuposition in Aktien/ETFs/Rohstoffen trotz Boersenoeffnung.",
+    "decision": "Kein Trade in diesem Lauf (09:08 Uhr, Xetra bereits offen, aber keine ueberzeugende Einzelwert-Gelegenheit). Kursupdate fuer alle offenen Positionen (BTC x2, ENA, PYTH, LINK): BTC-Positionen leicht im Plus (pos-0016 +3,81%, pos-0018 -1,12%), ENA deutlich erholt (+4,63%), PYTH leicht erholt (-2,65%), LINK stabil (-3,67%). Keine Position hat eine Schwelle erreicht, die einen Verkauf rechtfertigt, keine ueberzeugende neue Gelegenheit erkennbar, daher bleibt das freie Kapital unangetastet.",
+    "reasoning": "BTC pendelt weiter um 84.000 USD ohne klaren neuen Trigger. LINK (-3,67%) und PYTH (-2,65%) bewegen sich im Rahmen normaler Volatilitaet ohne negative Einzelwert-Nachricht, ENA (+4,63%) setzt die positive Entwicklung um den Standard-Chartered-Bericht fort, aber noch unterhalb der etablierten Gewinnmitnahme-Zielspanne (7-9%). Trotz offener europaeischer Boerse keine frischen, mehrfach bestaetigten Einzelwert-Katalysatoren fuer Aktien/ETFs/Rohstoffe erkennbar, daher wird abgewartet.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
@@ -7240,7 +7240,7 @@
       "pos-0024",
       "pos-0026"
     ],
-    "portfolioValueEnd": 3575.98,
+    "portfolioValueEnd": 3299.44,
     "updates": [
       {
         "time": "00:09",
@@ -7286,6 +7286,11 @@
         "time": "08:08",
         "note": "Keine Aenderung, Kursupdate BTC x2/ENA/PYTH/LINK, LINK gibt Teil der Erholung wieder ab",
         "portfolioValue": 3575.98
+      },
+      {
+        "time": "09:08",
+        "note": "Keine Aenderung, Kursupdate BTC x2/ENA/PYTH/LINK, ENA deutlich erholt (+4,6%), Xetra seit 09:00 offen",
+        "portfolioValue": 3299.44
       }
     ]
   }
