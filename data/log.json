@@ -7366,15 +7366,15 @@
   },
   {
     "date": "2026-10-02",
-    "marketOverview": "Bitcoin notiert bei ca. 84.900 USD (+1,5% in 24h laut mehreren Quellen), weiterhin klar oberhalb der 80.000-USD-Marke, Krypto-Gesamtmarkt leicht im Plus. Chainlink pendelt um 14,30 USD (leicht schwaecher als gestern Abend, aber +9,8% auf Wochensicht). Fear-&-Greed-Index bei 73 (nahe Extreme Greed), Bitcoin-Dominanz bei 56,8%. Einzelne Altcoins wie QNT (+300% auf 7 Tage) oder das wenig etablierte BTW sind bereits zu weit gelaufen bzw. zu undurchsichtig fuer eine Neuanlage. Aktien/ETFs/Rohstoffe sind vor Handelsbeginn in Europa (Freitag, 08:09 MESZ) weiterhin nicht handelbar.",
-    "decision": "00:08: Tagesbudget gutgeschrieben (+1.000 EUR), kein Trade. 01:08: Stop-Loss-Verkaeufe bei ENA (-6,78%) und PYTH (-8,49%), keine Neuanlage. 02:08: Kein Trade, nur Kursupdate BTC x2/LINK. 03:09: Kein Trade, nur Kursupdate BTC x2/LINK (keine neue ueberzeugende Gelegenheit; QNT/GRAM/Monad bereits zu weit gelaufen). 04:09: Kein Trade, Kursupdate LINK (-5,33%, naehert sich Stop-Loss-Schwelle), BTC unveraendert. 05:08: Kein Trade, nur Kursupdate BTC/LINK (LINK erholt sich auf -3,8%, keine neue ueberzeugende Gelegenheit). 06:10: Kein Trade, nur Kursupdate BTC/LINK (keine neue ueberzeugende Gelegenheit, Solana-Volatilitaet ist reine Prognosemarkt-Spekulation). 07:08: Kein Trade, nur Kursupdate BTC x2/LINK (keine neue ueberzeugende Gelegenheit, Boersen noch nicht geoeffnet). 08:09: Kein Trade, nur Kursupdate BTC x2/LINK (keine neue ueberzeugende Gelegenheit, Boersen noch nicht geoeffnet).",
-    "reasoning": "Freitagmorgen 08:09 MESZ: Aktien/ETFs/Rohstoffe vor Boersenoeffnung weiterhin nicht handelbar. Offene Krypto-Positionen liegen innerhalb der Bandbreite (BTC +4,82%/-0,16%, LINK -4,67%) - weder Stop-Loss- noch Gewinnmitnahme-Schwelle (ca. -6,5/-7,5% bzw. +7-9%) erreicht, LINK naehert sich der Stop-Loss-Schwelle etwas weiter an. Keine neue ueberzeugende Gelegenheit identifiziert (QNT bereits extrem weit gelaufen, BTW zu unetabliert/intransparent fuer eine spekulative Position, SUI/ETH ohne frischen Katalysator). Daher reines Kursupdate ohne Trade.",
+    "marketOverview": "Bitcoin notiert bei ca. 85.900 USD (leicht fester, weiterhin klar oberhalb 80.000 USD), Chainlink bei ca. 14,28 USD (stabil, knapp unter Vortagesniveau). US-Boersen eroeffneten den Oktober fester (S&P 500 ca. 7.670 Punkte, angetrieben von KI-Werten), DAX dagegen schwaecher. Keine frischen, noch nicht eingepreisten Katalysatoren identifiziert: der Accenture-Kurssprung nach starken Q4-Zahlen stammt bereits vom Vortag, Gold bewegt sich ohne neuen Treiber seitwaerts (~4.190 USD/oz). Deutsche Boerse (Xetra) seit 09:00 MESZ geoeffnet, US-Markt oeffnet erst um 15:30 MESZ.",
+    "decision": "00:08: Tagesbudget gutgeschrieben (+1.000 EUR), kein Trade. 01:08: Stop-Loss-Verkaeufe bei ENA (-6,78%) und PYTH (-8,49%), keine Neuanlage. 02:08: Kein Trade, nur Kursupdate BTC x2/LINK. 03:09: Kein Trade, nur Kursupdate BTC x2/LINK (keine neue ueberzeugende Gelegenheit; QNT/GRAM/Monad bereits zu weit gelaufen). 04:09: Kein Trade, Kursupdate LINK (-5,33%, naehert sich Stop-Loss-Schwelle), BTC unveraendert. 05:08: Kein Trade, nur Kursupdate BTC/LINK (LINK erholt sich auf -3,8%, keine neue ueberzeugende Gelegenheit). 06:10: Kein Trade, nur Kursupdate BTC/LINK (keine neue ueberzeugende Gelegenheit, Solana-Volatilitaet ist reine Prognosemarkt-Spekulation). 07:08: Kein Trade, nur Kursupdate BTC x2/LINK (keine neue ueberzeugende Gelegenheit, Boersen noch nicht geoeffnet). 08:09: Kein Trade, nur Kursupdate BTC x2/LINK (keine neue ueberzeugende Gelegenheit, Boersen noch nicht geoeffnet). 09:08: Kein Trade, nur Kursupdate BTC/LINK (keine neue ueberzeugende Gelegenheit, Earnings-Bewegungen wie Accenture bereits eingepreist).",
+    "reasoning": "Freitag 09:08 MESZ: Xetra seit 09:00 geoeffnet, US-Markt noch nicht. Offene Krypto-Positionen liegen innerhalb der Bandbreite (BTC +6,05%/+1,02%, LINK -4,8%) - weder Stop-Loss- noch Gewinnmitnahme-Schwelle (ca. -6,5/-7,5% bzw. +7-9%) erreicht, BTC pos-0016 naehert sich der Gewinnzone. Keine neue ueberzeugende Gelegenheit identifiziert (Accenture-Sprung bereits vom Vortag eingepreist, Gold ohne frischen Katalysator, keine neuen Ausbrueche bei Aktien/Krypto). Daher reines Kursupdate ohne Trade.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
       "pos-0026"
     ],
-    "portfolioValueEnd": 2204.74,
+    "portfolioValueEnd": 2221.92,
     "updates": [
       {
         "time": "00:08",
@@ -7420,6 +7420,11 @@
         "time": "08:09",
         "note": "Keine Aenderung, Kursupdate BTC (84.900 USD)/LINK (14,30 USD), keine neue ueberzeugende Gelegenheit",
         "portfolioValue": 2204.74
+      },
+      {
+        "time": "09:08",
+        "note": "Keine Aenderung, Kursupdate BTC (85.900 USD, +6,05%/+1,02%)/LINK (14,28 USD, -4,8%), keine neue ueberzeugende Gelegenheit",
+        "portfolioValue": 2221.92
       }
     ]
   }
