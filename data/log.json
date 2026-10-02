@@ -7366,15 +7366,16 @@
   },
   {
     "date": "2026-10-02",
-    "marketOverview": "US-Arbeitsmarktbericht (September) steht um 14:30 MESZ unmittelbar an; Bitcoin legt bereits im Vorfeld auf ca. 86.350 USD zu (dritte Gewinnwoche in Folge, Citigroup-Kursziel 113.000 USD, sinkende Treasury-Renditen), Chainlink pendelt seitwaerts um 14,30-14,40 USD. S&P-500-Futures und DAX (~25.165 Punkte) warten auf die Jobsdaten (Konsens +84.000 Stellen), US-Kassamarkt oeffnet erst um 15:30 MESZ. Der US-Regierungsshutdown (seit Dienstag) wird von den Maerkten weiterhin ignoriert.",
-    "decision": "Kein neuer Trade in diesem Lauf (14:09). Alle drei offenen Positionen (BTC x2, LINK) bleiben innerhalb der Halteband-Schwellen und wurden nur im Kurs aktualisiert.",
-    "reasoning": "BTC-Positionen bei +6,60%/+1,55% (noch unter der Zielgewinnspanne von 7-9%), LINK bei -4,47% (noch ueber der Stop-Loss-Schwelle von -6,5 bis -7,5%) - keine Handelsschwelle erreicht. Unmittelbar vor dem US-Jobsreport (14:30 MESZ) und vor Eroeffnung des US-Kassamarkts (15:30 MESZ) werden bewusst keine neuen Aktien-/ETF-Positionen eroeffnet, um nicht in die Volatilitaet der Datenveroeffentlichung zu kaufen. Freies Kapital bleibt mit ca. 56.311 EUR hoch, wird aber mangels ueberzeugender Gelegenheit diszipliniert nicht eingesetzt.",
+    "marketOverview": "Der September-Arbeitsmarktbericht kam um 14:30 MESZ deutlich schwaecher als erwartet herein (+29.000 Stellen vs. +90.000 Konsens, Arbeitslosenquote 4,2%), was die Fed-Zinssenkungshoffnungen erhoeht und einen breiten Risk-on-Schub ausgeloest hat: Bitcoin sprang auf ueber 86.800 USD ('Uptober'-Rally), Nasdaq-Futures +1,2%. Der Altcoin-Markt zieht breit mit (SOL, XRP, ADA im Plus), SOL durchbricht dabei den 114-USD-Widerstand auf ca. 118-122 USD, gestuetzt durch starke institutionelle ETF-Zufluesse (193 Mio. USD/Woche). Chainlink pendelt um 14,30-14,45 USD. Der US-Kassamarkt fuer Aktien/ETFs oeffnet erst um 15:30 MESZ und war im gesamten bisherigen Tagesverlauf nicht handelbar.",
+    "decision": "Tagesverlauf: Stop-Loss-Verkauf ENA (-6,78%) und PYTH (-8,49%) um 01:08. Um 15:08 Gewinnmitnahme BTC pos-0016 (+7,16%, +57,28 EUR) nach Erreichen der Ziel-Gewinnspanne im Zuge der Post-Jobsreport-Rally, sowie Neuanlage Solana (SOL, 700 EUR) auf den bestaetigten Ausbruch ueber 114 USD. Die zweite BTC-Position (pos-0018) und LINK (pos-0026) bleiben innerhalb der Halteband-Schwellen offen.",
+    "reasoning": "pos-0016 (BTC, Kauf 81.000 USD) erreichte nach 14 Tagen Haltedauer und dem Post-Jobsreport-Sprung auf 86.800 USD die etablierte Ziel-Gewinnspanne von 7-9% (+7,16%) - passend zum spekulativen Kurzfrist-Profil wird der Gewinn realisiert statt eine laenger laufende Position weiter offen zu halten. pos-0018 (BTC, Kauf 85.035 USD) liegt erst bei +2,08% und bleibt offen. LINK bei -4,00% noch ueber der Stop-Loss-Schwelle (-6,5 bis -7,5%), ebenfalls unveraendert gehalten. Solana zeigt einen mehrfach unabhaengig bestaetigten technischen Ausbruch (Widerstand 114 USD) mit fundamentalem institutionellem Rueckenwind (staerkste ETF-Zufluesse unter den grossen Altcoins), eingebettet in die breite Risk-on-Bewegung nach den schwachen Arbeitsmarktdaten - eine ueberzeugende, zum spekulativen Risikoprofil passende Gelegenheit. Da der US-Kassamarkt noch geschlossen ist, bleibt die Neuanlage auf Krypto beschraenkt. Freies Kapital bleibt mit ca. 56.411 EUR nach dem Trade weiterhin hoch.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
-      "pos-0026"
+      "pos-0026",
+      "pos-0027"
     ],
-    "portfolioValueEnd": 2232.39,
+    "portfolioValueEnd": 2086.53,
     "updates": [
       {
         "time": "00:08",
@@ -7450,6 +7451,11 @@
         "time": "14:09",
         "note": "Keine Aenderung, Kursupdate BTC x2 (+6,6%/+1,55%)/LINK (-4,47%), vor Jobsreport (14:30 MESZ) keine neue Position",
         "portfolioValue": 2232.39
+      },
+      {
+        "time": "15:08",
+        "note": "Verkauf BTC pos-0016 (+7,16%, +57,28 EUR) nach schwachem Jobsreport-Rally; Neukauf SOL 700 EUR (Ausbruch ueber 114-USD-Widerstand, ETF-Zufluesse)",
+        "portfolioValue": 2086.53
       }
     ]
   }
