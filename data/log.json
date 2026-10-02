@@ -7366,9 +7366,9 @@
   },
   {
     "date": "2026-10-02",
-    "marketOverview": "Der schwache September-Arbeitsmarktbericht (+29.000 Stellen vs. +90.000 Konsens, Arbeitslosenquote 4,2%) treibt weiterhin eine breite Risk-on-Rally: Bitcoin pendelt bei ca. 86.800 USD (+rund 3% in 24h), Solana haelt sich ueber 120 USD bei ca. 121,8 USD, Chainlink bei ca. 14,35 USD knapp unter dem Vortagesniveau. Der US-Kassamarkt zeigt sich am Nachmittag gemischt (S&P 500 +0,34% auf 7.692 Punkte, Nike belastet den Dow nach schwachen Zahlen), Tesla pendelt nach dem Q3-Delivery-Beat seitwaerts um ca. 355,60 USD. Keine neuen, eigenstaendig ueberzeugenden Einzelkatalysatoren seit dem letzten Lauf erkennbar.",
-    "decision": "Tagesverlauf: Stop-Loss-Verkauf ENA (-6,78%) und PYTH (-8,49%) um 01:08. Um 15:08 Gewinnmitnahme BTC pos-0016 (+7,16%, +57,28 EUR) und Neuanlage Solana (700 EUR). Um 16:09, kurz nach Eroeffnung des US-Kassamarkts, Neuanlage Tesla (TSLA, 600 EUR) auf den bestaetigten Post-Delivery-Ausbruch. Um 17:08 keine neue Transaktion - BTC pos-0018 (+2,0%), SOL pos-0027 (+1,4%), LINK pos-0026 (-4,1%) und TSLA pos-0028 (-0,9%) bleiben alle innerhalb der Halteband-Schwellen offen. Um 18:10 erneut keine neue Transaktion - BTC pos-0018 (+2,1%), SOL pos-0027 (+1,5%), LINK pos-0026 (-4,3%) und TSLA pos-0028 (-0,5%) bleiben alle innerhalb der Halteband-Schwellen offen.",
-    "reasoning": "Tesla lieferte im Q3 2026 sowohl bei Fahrzeugausliegerungen als auch bei Energiespeicher-Deployments deutlich ueber dem Wall-Street-Konsens - ein echter, mehrfach unabhaengig bestaetigter fundamentaler Katalysator (kein blosses Sentiment), eingebettet in eine breite Risk-on-Rally nach dem schwachen Arbeitsmarktbericht. Analog zum erfolgreichen Post-Earnings-Beat-Muster (NVDA, META) wurde eine spekulative Momentum-Position eroeffnet. Im 17:08-Lauf keine neue, klar ueberzeugende Einzelgelegenheit identifiziert (nur fortgesetztes, bereits gehandeltes Risk-on-Sentiment ohne frischen Katalysator) - alle vier offenen Positionen (BTC, SOL, LINK, TSLA) liegen innerhalb der etablierten Halteband-Schwellen (-6,5% bis +9%) und bleiben unveraendert offen. Freies Kapital bleibt mit ca. 55.811 EUR weiterhin sehr hoch. Im 18:10-Lauf keine frische, unabhaengig bestaetigte Einzelchance identifiziert (Nike-Schwaeche ist kein Kaufsignal, Nvidia-Rekordlauf bereits bekannt/eingepreist); alle vier offenen Positionen bleiben innerhalb der etablierten Halteband-Schwellen (-6,5% bis +9%) unveraendert offen. Freies Kapital bleibt mit ca. 55.811 EUR weiterhin sehr hoch.",
+    "marketOverview": "Bitcoin haelt sich am Freitagabend knapp unter 87.000 USD (+2,2%), weiterhin getragen vom schwachen US-Arbeitsmarktbericht und steigenden Zinssenkungshoffnungen. Solana konsolidiert nach dem bestaetigten Ausbruch ueber die 120-USD-Marke bei ca. 122,5 USD. Chainlink (LINK) ist dagegen laut mehreren unabhaengig uebereinstimmenden Quellen (Ledger, Investing.com, Revolut) auf ca. 13,50 USD gefallen (-10% seit Kauf) - der CCIP-2.0-Katalysator ist eingepreist, kein neuer Trigger erkennbar. Tesla notiert nach dem Q3-Delivery-Beat weiter fest bei ca. 365 USD (+2,2% seit Kauf). Keine neue, unabhaengig bestaetigte Einzelchance fuer einen Neukauf identifiziert.",
+    "decision": "Tagesverlauf: Stop-Loss-Verkauf ENA (-6,78%) und PYTH (-8,49%) um 01:08. Um 15:08 Gewinnmitnahme BTC pos-0016 (+7,16%, +57,28 EUR) und Neuanlage Solana (700 EUR). Um 16:09, kurz nach Eroeffnung des US-Kassamarkts, Neuanlage Tesla (TSLA, 600 EUR) auf den bestaetigten Post-Delivery-Ausbruch. Um 17:08 keine neue Transaktion - BTC pos-0018 (+2,0%), SOL pos-0027 (+1,4%), LINK pos-0026 (-4,1%) und TSLA pos-0028 (-0,9%) bleiben alle innerhalb der Halteband-Schwellen offen. Um 18:10 erneut keine neue Transaktion - BTC pos-0018 (+2,1%), SOL pos-0027 (+1,5%), LINK pos-0026 (-4,3%) und TSLA pos-0028 (-0,5%) bleiben alle innerhalb der Halteband-Schwellen offen. Um 19:07 Stop-Loss-Verkauf LINK pos-0026 (-10,0%, -70,00 EUR); BTC pos-0018 (+2,19%), SOL pos-0027 (+2,08%) und TSLA pos-0028 (+2,18%) bleiben innerhalb der Halteband-Schwellen offen, kein Neukauf.",
+    "reasoning": "Tesla lieferte im Q3 2026 sowohl bei Fahrzeugausliegerungen als auch bei Energiespeicher-Deployments deutlich ueber dem Wall-Street-Konsens - ein echter, mehrfach unabhaengig bestaetigter fundamentaler Katalysator (kein blosses Sentiment), eingebettet in eine breite Risk-on-Rally nach dem schwachen Arbeitsmarktbericht. Analog zum erfolgreichen Post-Earnings-Beat-Muster (NVDA, META) wurde eine spekulative Momentum-Position eroeffnet. Im 17:08-Lauf keine neue, klar ueberzeugende Einzelgelegenheit identifiziert (nur fortgesetztes, bereits gehandeltes Risk-on-Sentiment ohne frischen Katalysator) - alle vier offenen Positionen (BTC, SOL, LINK, TSLA) liegen innerhalb der etablierten Halteband-Schwellen (-6,5% bis +9%) und bleiben unveraendert offen. Freies Kapital bleibt mit ca. 55.811 EUR weiterhin sehr hoch. Im 18:10-Lauf keine frische, unabhaengig bestaetigte Einzelchance identifiziert (Nike-Schwaeche ist kein Kaufsignal, Nvidia-Rekordlauf bereits bekannt/eingepreist); alle vier offenen Positionen bleiben innerhalb der etablierten Halteband-Schwellen (-6,5% bis +9%) unveraendert offen. Freies Kapital bleibt mit ca. 55.811 EUR weiterhin sehr hoch. Im 19:07-Lauf faellt LINK auf ca. 13,50 USD (-10% seit Kauf bei 15,00 USD, mehrfach unabhaengig bestaetigt durch Ledger, Investing.com und Revolut) und ueberschreitet damit deutlich die etablierte Stop-Loss-Schwelle (-6,5 bis -10%, analog BCH -9,81%, PYTH -8,49%) - die Position wird konsequent glattgestellt. Fuer BTC, SOL und TSLA sind keine neuen, unabhaengig bestaetigten Einzelkatalysatoren erkennbar; alle drei bleiben innerhalb der Halteband-Schwellen offen. Keine klar ueberzeugende neue Kaufgelegenheit identifiziert, daher kein Neukauf trotz weiterhin sehr hohem freiem Kapital (ca. 56.441 EUR).",
     "positionIds": [
       "pos-0016",
       "pos-0018",
@@ -7376,7 +7376,7 @@
       "pos-0027",
       "pos-0028"
     ],
-    "portfolioValueEnd": 2692.01,
+    "portfolioValueEnd": 2043.03,
     "updates": [
       {
         "time": "00:08",
@@ -7472,6 +7472,11 @@
         "time": "18:10",
         "note": "Keine Aenderung, Kursupdate BTC (86.800 USD, +2,08%)/SOL (121,80 USD, +1,5%)/LINK (14,35 USD, -4,33%)/TSLA (355,60 USD, -0,45%), keine neue ueberzeugende Gelegenheit",
         "portfolioValue": 2692.01
+      },
+      {
+        "time": "19:07",
+        "note": "Stop-Loss-Verkauf LINK (-10,0%, -70,00 EUR); Kursupdate BTC (86.900 USD, +2,19%)/SOL (122,50 USD, +2,08%)/TSLA (365,00 USD, +2,18%), kein Neukauf",
+        "portfolioValue": 2043.03
       }
     ]
   }
