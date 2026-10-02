@@ -7366,15 +7366,15 @@
   },
   {
     "date": "2026-10-02",
-    "marketOverview": "Bitcoin notiert bei ca. 86.000 USD (stabil, weiterhin klar oberhalb 80.000 USD, ETF-Zufluesse laut Berichten aber abschwaechend), Chainlink bei ca. 14,30 USD (seitwaerts, leicht erholt). US-Boersen oeffneten den Oktober fester (S&P 500 ca. 7.690 Punkte, angetrieben von Chip-/KI-Werten wie Micron und Alphabet), 10-Jahres-Rendite bei hohen ~5,33%, Brent-Rohoel bei ca. 100 USD/Barrel. Keine frischen, noch nicht eingepreisten Katalysatoren identifiziert. Xetra seit 09:00 MESZ geoeffnet, US-Markt oeffnet erst um 15:30 MESZ.",
-    "decision": "00:08: Tagesbudget gutgeschrieben (+1.000 EUR), kein Trade. 01:08: Stop-Loss-Verkaeufe bei ENA (-6,78%) und PYTH (-8,49%), keine Neuanlage. 02:08: Kein Trade, nur Kursupdate BTC x2/LINK. 03:09: Kein Trade, nur Kursupdate BTC x2/LINK (keine neue ueberzeugende Gelegenheit; QNT/GRAM/Monad bereits zu weit gelaufen). 04:09: Kein Trade, Kursupdate LINK (-5,33%, naehert sich Stop-Loss-Schwelle), BTC unveraendert. 05:08: Kein Trade, nur Kursupdate BTC/LINK (LINK erholt sich auf -3,8%, keine neue ueberzeugende Gelegenheit). 06:10: Kein Trade, nur Kursupdate BTC/LINK (keine neue ueberzeugende Gelegenheit, Solana-Volatilitaet ist reine Prognosemarkt-Spekulation). 07:08: Kein Trade, nur Kursupdate BTC x2/LINK (keine neue ueberzeugende Gelegenheit, Boersen noch nicht geoeffnet). 08:09: Kein Trade, nur Kursupdate BTC x2/LINK (keine neue ueberzeugende Gelegenheit, Boersen noch nicht geoeffnet). 09:08: Kein Trade, nur Kursupdate BTC/LINK (keine neue ueberzeugende Gelegenheit, Earnings-Bewegungen wie Accenture bereits eingepreist). 10:08: Kein Trade, nur Kursupdate BTC/LINK (keine neue ueberzeugende Gelegenheit).",
-    "reasoning": "Freitag 10:08 MESZ: Xetra seit 09:00 geoeffnet, US-Markt noch nicht. Offene Krypto-Positionen liegen innerhalb der Bandbreite (BTC +6,17%/+1,13%, LINK -4,67%) - weder Stop-Loss- noch Gewinnmitnahme-Schwelle (ca. -6,5/-7,5% bzw. +7-9%) erreicht, BTC pos-0016 naehert sich weiterhin der Gewinnzone. Keine neue ueberzeugende Gelegenheit identifiziert (allgemeine Tech-/Chip-Rally bereits breit eingepreist, Oel-/Zinsumfeld belastet eher). Daher reines Kursupdate ohne Trade.",
+    "marketOverview": "US-Aktienmaerkte nahe Allzeithoch (S&P 500 ~7.674, Nasdaq ~26.930) trotz laufendem Regierungsshutdown seit 01.10. - Markt reagiert gelassen, belastet aber die Datenlage der Fed (Inflations-/Arbeitsmarktzahlen verzoegert). US-10-Jahres-Rendite bei 24-Jahres-Hoch (~5,25-5,34%). DAX kaempft weiter um die 25.000-Punkte-Marke, gestuetzt von KI-nahen Werten (Infineon, Siemens Energy). Bitcoin stabil um 86.000-86.300 USD, Chainlink seitwaerts bei ca. 14,28-14,30 USD ohne neuen Katalysator; Kryptomarkt insgesamt mit leichtem Aufwaertsmomentum, aber ohne bestaetigten Ausbruch bei den beobachteten Titeln.",
+    "decision": "Kein neuer Trade in diesem Lauf (11:10). Alle drei offenen Positionen (BTC x2, LINK) bleiben innerhalb der Halteband-Schwellen (-6,5% bis -7,5% Stop-Loss, +7-9% Zielgewinn) und wurden nur im Kurs aktualisiert.",
+    "reasoning": "BTC-Positionen bei +6,48%/+1,43% (noch unter der Zielgewinnspanne), LINK bei -4,73% (noch ueber der Stop-Loss-Schwelle) - keine Handelsschwelle erreicht. Trotz offener Boersenzeiten (Xetra) kein ueberzeugender neuer Einzeltitel- oder Makro-Katalysator identifiziert; DAX bewegt sich unentschlossen um die 25.000er-Marke, US-Markt oeffnet erst um 15:30 MESZ. Freies Kapital bleibt mit ca. 56.311 EUR hoch, wird aber mangels ueberzeugender Gelegenheit diszipliniert nicht eingesetzt.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
       "pos-0026"
     ],
-    "portfolioValueEnd": 2224.66,
+    "portfolioValueEnd": 2228.72,
     "updates": [
       {
         "time": "00:08",
@@ -7430,6 +7430,11 @@
         "time": "10:08",
         "note": "Keine Aenderung, Kursupdate BTC (86.000 USD, +6,17%/+1,13%)/LINK (14,30 USD, -4,67%), keine neue ueberzeugende Gelegenheit",
         "portfolioValue": 2224.66
+      },
+      {
+        "time": "11:10",
+        "note": "Keine Aenderung, Kursupdate BTC x2 (86.250 USD, +6,48%/+1,43%)/LINK (14,29 USD, -4,73%), keine neue ueberzeugende Gelegenheit",
+        "portfolioValue": 2228.72
       }
     ]
   }
