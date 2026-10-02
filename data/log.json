@@ -7366,15 +7366,15 @@
   },
   {
     "date": "2026-10-02",
-    "marketOverview": "US-Aktienmaerkte nahe Allzeithoch (S&P 500 ~7.674, Nasdaq ~26.930) trotz laufendem Regierungsshutdown seit 01.10. - Markt reagiert gelassen, belastet aber die Datenlage der Fed (Inflations-/Arbeitsmarktzahlen verzoegert). US-10-Jahres-Rendite bei 24-Jahres-Hoch (~5,25-5,34%). DAX kaempft weiter um die 25.000-Punkte-Marke, gestuetzt von KI-nahen Werten (Infineon, Siemens Energy). Bitcoin stabil um 86.000-86.300 USD, Chainlink seitwaerts bei ca. 14,28-14,30 USD ohne neuen Katalysator; Kryptomarkt insgesamt mit leichtem Aufwaertsmomentum, aber ohne bestaetigten Ausbruch bei den beobachteten Titeln.",
-    "decision": "Kein neuer Trade in diesem Lauf (11:10). Alle drei offenen Positionen (BTC x2, LINK) bleiben innerhalb der Halteband-Schwellen (-6,5% bis -7,5% Stop-Loss, +7-9% Zielgewinn) und wurden nur im Kurs aktualisiert.",
-    "reasoning": "BTC-Positionen bei +6,48%/+1,43% (noch unter der Zielgewinnspanne), LINK bei -4,73% (noch ueber der Stop-Loss-Schwelle) - keine Handelsschwelle erreicht. Trotz offener Boersenzeiten (Xetra) kein ueberzeugender neuer Einzeltitel- oder Makro-Katalysator identifiziert; DAX bewegt sich unentschlossen um die 25.000er-Marke, US-Markt oeffnet erst um 15:30 MESZ. Freies Kapital bleibt mit ca. 56.311 EUR hoch, wird aber mangels ueberzeugender Gelegenheit diszipliniert nicht eingesetzt.",
+    "marketOverview": "US-Aktienmaerkte nahe Allzeithoch (S&P 500 ~7.692, +0,34%) vor dem mit Spannung erwarteten US-Arbeitsmarktbericht, trotz andauerndem Regierungsshutdown seit 01.10.; US-10-Jahres-Rendite bleibt nahe 24-Jahres-Hoch (~5,25-5,34%). DAX legt weiter zu (~25.036 Punkte, +0,39%), angefuehrt von Infineon (+2,96%) und Siemens Energy (+1,91%). Bitcoin leicht fester bei ca. 86.300 USD (Hoch 86.885 USD) vor dem Jobsreport, Chainlink seitwaerts bei ca. 14,35 USD weiterhin ohne neuen Katalysator. Kryptomarkt insgesamt in leichter Erholung (Altcoin-Season-Index bei 61), die staerksten Altcoin-Bewegungen (QNT, BTW, SUI) sind jedoch bereits weit gelaufen und nicht mehr als Neueinstieg attraktiv.",
+    "decision": "Kein neuer Trade in diesem Lauf (12:08). Alle drei offenen Positionen (BTC x2, LINK) bleiben innerhalb der Halteband-Schwellen (-6,5% bis -7,5% Stop-Loss, +7-9% Zielgewinn) und wurden nur im Kurs aktualisiert.",
+    "reasoning": "BTC-Positionen bei +6,54%/+1,49% (noch knapp unter der Zielgewinnspanne von 7-9%), LINK bei -4,33% (noch deutlich ueber der Stop-Loss-Schwelle) - keine Handelsschwelle erreicht. Trotz offener Boersenzeiten (Xetra, bald auch US-Markt) kein ueberzeugender neuer Einzeltitel- oder Makro-Katalysator identifiziert; die staerksten Altcoin-Bewegungen des Tages (QNT, BTW, SUI) sind bereits zu weit gelaufen fuer einen Neueinstieg, analog zu den in frueheren Laeufen konsequent verworfenen Spaetphasen-Pumps. Freies Kapital bleibt mit ca. 56.311 EUR hoch, wird aber mangels ueberzeugender Gelegenheit diszipliniert nicht eingesetzt.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
       "pos-0026"
     ],
-    "portfolioValueEnd": 2228.72,
+    "portfolioValueEnd": 2232.43,
     "updates": [
       {
         "time": "00:08",
@@ -7435,6 +7435,11 @@
         "time": "11:10",
         "note": "Keine Aenderung, Kursupdate BTC x2 (86.250 USD, +6,48%/+1,43%)/LINK (14,29 USD, -4,73%), keine neue ueberzeugende Gelegenheit",
         "portfolioValue": 2228.72
+      },
+      {
+        "time": "12:08",
+        "note": "Keine Aenderung, Kursupdate BTC x2 (86.300 USD, +6,54%/+1,49%)/LINK (14,35 USD, -4,33%), keine neue ueberzeugende Gelegenheit",
+        "portfolioValue": 2232.43
       }
     ]
   }
