@@ -7366,9 +7366,9 @@
   },
   {
     "date": "2026-10-02",
-    "marketOverview": "Bitcoin notiert bei ca. 86.832 USD (+3,5% in 24h laut CoinMarketCap), weiterhin getragen von den gestiegenen Fed-Zinssenkungshoffnungen nach dem schwachen US-Arbeitsmarktbericht (29.000 statt 90.000 neue Stellen). Solana haelt sich bei ca. 120,15 USD stabil (+2,3% 24h), bleibt aber hinter Bitcoins Dominanzgewinn zurueck. An der Wall Street gab die anfaengliche Tesla-Rally nach dem Q3-Auslieferungsrekord (486.532 Fahrzeuge) zum Handelsende hin nach - TSLA faellt von Tageshoch 374,36 USD auf ca. 354,11 USD (-0,2% zum Vortagesschluss), ein klassischer 'Sell-the-news'-Rueckzug trotz starker fundamentaler Zahlen. Keine neuen, unabhaengig bestaetigten Einzeltitel-Katalysatoren fuer einen weiteren Trade erkennbar.",
+    "marketOverview": "Bitcoin notiert weiterhin um 86.900 USD (+2,2% seit Kauf von pos-0018), gestuetzt von den Fed-Zinssenkungshoffnungen nach dem schwachen Arbeitsmarktbericht. Solana haelt sich stabil bei ca. 120,50 USD. Der US-Kassamarkt ist seit 22:00 MESZ geschlossen, Tesla bleibt bei 354,11 USD unveraendert. Keine frischen, unabhaengig bestaetigten Einzeltitel-Katalysatoren fuer einen neuen Trade identifizierbar; ausserhalb der Boersenzeiten waere ohnehin nur Krypto handelbar.",
     "decision": "Tagesverlauf: Stop-Loss-Verkauf ENA (-6,78%) und PYTH (-8,49%) um 01:08. Um 15:08 Gewinnmitnahme BTC pos-0016 (+7,16%, +57,28 EUR) und Neuanlage Solana (700 EUR). Um 16:09, kurz nach Eroeffnung des US-Kassamarkts, Neuanlage Tesla (TSLA, 600 EUR) auf den bestaetigten Post-Delivery-Ausbruch. Um 17:08 keine neue Transaktion - BTC pos-0018 (+2,0%), SOL pos-0027 (+1,4%), LINK pos-0026 (-4,1%) und TSLA pos-0028 (-0,9%) bleiben alle innerhalb der Halteband-Schwellen offen. Um 18:10 erneut keine neue Transaktion - BTC pos-0018 (+2,1%), SOL pos-0027 (+1,5%), LINK pos-0026 (-4,3%) und TSLA pos-0028 (-0,5%) bleiben alle innerhalb der Halteband-Schwellen offen. Um 19:07 Stop-Loss-Verkauf LINK pos-0026 (-10,0%, -70,00 EUR); BTC pos-0018 (+2,19%), SOL pos-0027 (+2,08%) und TSLA pos-0028 (+2,18%) bleiben innerhalb der Halteband-Schwellen offen, kein Neukauf. Um 20:09 weiterhin kein neuer Trade: Alle drei offenen Positionen (BTC +2,37%, SOL -0,20%, TSLA +2,31%) liegen innerhalb des Haltebands, keine neue, mehrfach bestaetigte Gelegenheit identifiziert. Um 21:07 weiterhin kein neuer Trade: BTC pos-0018 (+2,11%), SOL pos-0027 (+0,13%) und TSLA pos-0028 (-0,87%) bleiben alle innerhalb der Halteband-Schwellen offen; TSLA gab die Tagesgewinne zum US-Handelsende fast vollstaendig wieder ab, aber ohne neuen fundamentalen Verkaufs-Trigger (kein Stop-Loss ausgeloest).",
-    "reasoning": "Recherche (CoinMarketCap, CNBC) bestaetigt lediglich bereits gehandelte Treiber (Jobs-Report-Risk-on bei Krypto, Tesla-Delivery-Beat) ohne frischen, unabhaengig bestaetigten Einzeltitel-Katalysator fuer einen neuen Trade. TSLA-Rueckzug von den Tageshochs (374 -> 354 USD) ist ein normaler Gewinnmitnahme-Reflex nach dem initialen Delivery-Pop, noch keine Stop-Loss-Schwelle (-0,87%). Freies Kapital (56.440,80 EUR) bleibt mangels ueberzeugender Gelegenheit diszipliniert ungenutzt.",
+    "reasoning": "Recherche (CoinMarketCap, CNBC) bestaetigt lediglich bereits gehandelte Treiber (Jobs-Report-Risk-on bei Krypto, Tesla-Delivery-Beat) ohne frischen, unabhaengig bestaetigten Einzeltitel-Katalysator fuer einen neuen Trade. TSLA-Rueckzug von den Tageshochs (374 -> 354 USD) ist ein normaler Gewinnmitnahme-Reflex nach dem initialen Delivery-Pop, noch keine Stop-Loss-Schwelle (-0,87%). Freies Kapital (56.440,80 EUR) bleibt mangels ueberzeugender Gelegenheit diszipliniert ungenutzt. Um 22:20 erneut keine neue Transaktion: BTC pos-0018 (+2,19%), SOL pos-0027 (+0,42%) und TSLA pos-0028 (-0,87%, Markt geschlossen) bleiben alle innerhalb der Halteband-Schwellen offen; freies Kapital (56.440,80 EUR) bleibt mangels ueberzeugender, mehrfach bestaetigter Gelegenheit diszipliniert ungenutzt.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
@@ -7376,7 +7376,7 @@
       "pos-0027",
       "pos-0028"
     ],
-    "portfolioValueEnd": 2010.48,
+    "portfolioValueEnd": 2013.08,
     "updates": [
       {
         "time": "00:08",
@@ -7487,6 +7487,11 @@
         "time": "21:07",
         "note": "Keine Aenderung, Kursupdate BTC (86.832 USD, +2,11%)/SOL (120,15 USD, +0,13%)/TSLA (354,11 USD, -0,87%), keine neue ueberzeugende Gelegenheit",
         "portfolioValue": 2010.48
+      },
+      {
+        "time": "22:20",
+        "note": "Keine Aenderung, Kursupdate BTC (86.900 USD, +2,19%)/SOL (120,50 USD, +0,42%), TSLA ausserhalb der US-Handelszeiten unveraendert, keine neue ueberzeugende Gelegenheit",
+        "portfolioValue": 2013.08
       }
     ]
   }
