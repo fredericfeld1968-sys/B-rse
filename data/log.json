@@ -7366,17 +7366,15 @@
   },
   {
     "date": "2026-10-02",
-    "marketOverview": "Krypto-Gesamtmarktkapitalisierung bei ca. 2,87-2,96 Bio. USD, BTC-Dominanz bei 58,6%. BTC stabil bei ca. 84.200 USD (+0,9% 24h), Handelsspanne 82.950-85.518 USD. LINK erholt sich leicht auf ca. 14,50 USD nach Ruecksetzer von 15,78 USD, gestuetzt durch SWIFT-/CCIP-2.0-Adoptionsnarrativ. QNT nach 300%-Wochenrally stark ueberkauft (Tages-RSI >81) und konsolidiert bei ca. 286 USD - keine Nachkauf-Gelegenheit. Midnight (NIGHT) legt bereits +86% in 7 Tagen / +17-21% in 24h zu (Cardano-Privacy-Upgrade, institutionelles Tokenisierungs-Interesse), ist damit aber bereits stark gelaufen; ebenso GRAM (+15%/47h) und ZRO (+13%/24h). ENA bleibt vor dem Early-Investor-Unlock (02./05.10.) unter Druck. Altcoin-Season-Index 61/100. US-/EU-Boersen ausserhalb der Handelszeiten, daher weiterhin nur Krypto bewegbar.",
-    "decision": "00:08: Tagesbudget gutgeschrieben (+1.000 EUR), kein Trade. 01:08: Stop-Loss-Verkaeufe bei ENA (-6,78%) und PYTH (-8,49%), keine Neuanlage. 02:08: Kein Trade, nur Kursupdate BTC x2/LINK.",
-    "reasoning": "00:08-Lauf: Keine offene Position hatte Stop-Loss oder Take-Profit erreicht, daher keine Aenderung. 01:08-Lauf: ENA und PYTH haben die etablierte Stop-Loss-Schwelle (-6,5 bis -7,5%) erreicht bzw. deutlich ueberschritten (-6,78% / -8,49%), beide mit frischem bearishem Katalysator (ENA: bevorstehender Grossunlock 05.10., anhaltender Ausverkauf laut TradersUnion; PYTH: Gate-Staking-Delisting 08.10., urspruenglicher Switchboard-Katalysator vollstaendig eingepreist) - beide konsequent glattgestellt. BTC (x2) und LINK bleiben unveraendert im normalen Schwankungsband offen. Trotz sehr hohem freiem Kapital (ca. 56.310 EUR) keine neue Position eroeffnet: Whale-Akkumulation bei AAVE/UNI erfolgt graduell ueber mehrere Tage (kein bestaetigter Ausbruch), SUI-TVL-Meldungen sind widerspruechlich/veraltet - keine der recherchierten Gelegenheiten erreicht die Ueberzeugungsschwelle fuer eine Neuanlage um 01:08 nachts bei geschlossenen Aktien-/ETF-/Rohstoffmaerkten. 02:08-Lauf: Keine offene Position (BTC x2, LINK) hat die Stop-Loss- oder Take-Profit-Schwelle erreicht (BTC +3,95%/-0,98%, LINK -3,33%) - unveraendert gehalten. Trotz weiterhin sehr hohem freiem Kapital (ca. 56.310 EUR) keine neue Position eroeffnet: QNT ist nach der 300%-Rally stark ueberkauft (RSI>81, Momentum laesst laut mehreren Quellen bereits nach) und damit kein Nachkauf-Kandidat; NIGHT/GRAM/ZRO sind zwar frische Bewegungen, aber mit +86% in 7 Tagen (NIGHT) bzw. bereits mehrtaegigem Lauf bereits stark ausgereizt - ein Einstieg nach einer derart grossen Vorbewegung passt eher zum Muster der bisherigen Stop-Loss-Faelle (HYPE, BCH, DOGE) als zu den erfolgreichen fruehen Ausbruchskaeufen. Keine Gelegenheit erreicht um 02:08 nachts bei geschlossenen Aktien-/ETF-/Rohstoffmaerkten die Ueberzeugungsschwelle fuer eine Neuanlage.",
+    "marketOverview": "Bitcoin pendelt um 84.800 USD (+1,5% heute), nach kurzzeitigem Hoch bei 85.500 USD wieder etwas zurueckgekommen, belastet von Renditen ueber 5,3% (10J). Chainlink (LINK) profitiert weiter von der Swift-Integrations-Nachricht und haelt sich nahe 14,70-14,80 USD. Der Gesamtkryptomarkt liegt bei ca. 2,87-2,96 Bio. USD, Altcoin-Season-Index bei 61/100 (noch keine volle Altcoin-Season). QNT (+300% in 7 Tagen), GRAM und Monad zeigen starke Ausbrueche, sind aber bereits zu weit gelaufen fuer einen neuen Einstieg. ENA faellt weiter (-6%) vor dem Token-Unlock am 02.10., was den bereits erfolgten Stop-Loss-Verkauf bestaetigt.",
+    "decision": "00:08: Tagesbudget gutgeschrieben (+1.000 EUR), kein Trade. 01:08: Stop-Loss-Verkaeufe bei ENA (-6,78%) und PYTH (-8,49%), keine Neuanlage. 02:08: Kein Trade, nur Kursupdate BTC x2/LINK. 03:09: Kein Trade, nur Kursupdate BTC x2/LINK (keine neue ueberzeugende Gelegenheit; QNT/GRAM/Monad bereits zu weit gelaufen).",
+    "reasoning": "Ausserhalb der Boersenzeiten (Nacht) sind nur Kryptowerte handelbar. Die offenen Positionen (BTC x2, LINK) bewegen sich im normalen Rahmen, keine Stop-Loss-Schwelle (-6,5 bis -7,5%) erreicht. Fuer eine Neuanlage fehlt eine wirklich frische, ueberzeugende Gelegenheit: die staerksten aktuellen Mover (QNT, GRAM, Monad) sind laut Recherche bereits deutlich zu weit gelaufen, die LINK-Swift-Nachricht ist bereits ueber die bestehende Position pos-0026 abgedeckt. Daher Beschraenkung auf reines Kursupdate.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
-      "pos-0023",
-      "pos-0024",
       "pos-0026"
     ],
-    "portfolioValueEnd": 2201.4,
+    "portfolioValueEnd": 2221.6,
     "updates": [
       {
         "time": "00:08",
@@ -7392,6 +7390,11 @@
         "time": "02:08",
         "note": "Keine Aenderung, Kursupdate BTC x2/LINK (QNT/NIGHT/GRAM bereits zu weit gelaufen fuer Neukauf)",
         "portfolioValue": 2201.4
+      },
+      {
+        "time": "03:09",
+        "note": "Keine Aenderung, Kursupdate BTC x2/LINK (QNT/GRAM/Monad zu weit gelaufen fuer Neukauf)",
+        "portfolioValue": 2221.6
       }
     ]
   }
