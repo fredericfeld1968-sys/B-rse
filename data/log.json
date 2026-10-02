@@ -7366,9 +7366,9 @@
   },
   {
     "date": "2026-10-02",
-    "marketOverview": "Der schwache September-Arbeitsmarktbericht (+29.000 Stellen vs. +90.000 Konsens, Arbeitslosenquote 4,2%) hat Fed-Zinssenkungshoffnungen erhoeht und einen breiten Risk-on-Schub ausgeloest: Bitcoin notiert bei ca. 86.650 USD (+rund 3% in 24h, 'Uptober'-Rally, Citi-Kursziel 113.000 USD), Solana haelt den Ausbruch ueber 114 USD bei ca. 121,6 USD, Chainlink pendelt bei ca. 14,44 USD. Seit 15:30 MESZ ist erstmals heute auch der US-Kassamarkt fuer Aktien offen: Dow +0,6%, S&P500 +0,8%, Nasdaq +1,1% im Zuge der gesunkenen Zinserwartungen. Tesla sticht mit +4,3% auf ca. 357 USD heraus, nachdem die Q3-Auslieferungs- und Energiespeicher-Zahlen den Konsens deutlich uebertroffen haben.",
-    "decision": "Tagesverlauf: Stop-Loss-Verkauf ENA (-6,78%) und PYTH (-8,49%) um 01:08. Um 15:08 Gewinnmitnahme BTC pos-0016 (+7,16%, +57,28 EUR) und Neuanlage Solana (700 EUR). Um 16:09, kurz nach Eroeffnung des US-Kassamarkts, Neuanlage Tesla (TSLA, 600 EUR) auf den bestaetigten Post-Delivery-Ausbruch (+4,3%). BTC pos-0018 (+1,9%) und LINK pos-0026 (-3,73%) bleiben innerhalb der Halteband-Schwellen offen.",
-    "reasoning": "Tesla lieferte im Q3 2026 sowohl bei Fahrzeugausliegerungen als auch bei Energiespeicher-Deployments deutlich ueber dem Wall-Street-Konsens - ein echter, mehrfach unabhaengig bestaetigter fundamentaler Katalysator (kein blosses Sentiment), eingebettet in eine breite Risk-on-Rally nach dem schwachen Arbeitsmarktbericht (Dow, S&P500 und Nasdaq alle im Plus). Analog zum erfolgreichen Post-Earnings-Beat-Muster (NVDA, META) wird eine spekulative Momentum-Position eroeffnet, da der US-Kassamarkt heute erstmals handelbar ist. BTC pos-0018 (+1,9%) und LINK (-3,73%) liegen beide innerhalb der etablierten Halteband-Schwellen und bleiben unveraendert offen. Freies Kapital bleibt nach dem Tesla-Kauf mit ca. 55.811 EUR weiterhin sehr hoch.",
+    "marketOverview": "Der schwache September-Arbeitsmarktbericht (+29.000 Stellen vs. +90.000 Konsens, Arbeitslosenquote 4,2%) hat Fed-Zinssenkungshoffnungen erhoeht und einen breiten Risk-on-Schub ausgeloest: Bitcoin notiert bei ca. 86.750 USD (+rund 3% in 24h, 'Uptober'-Rally), Solana haelt den Ausbruch ueber 114 USD bei ca. 121,6 USD, Chainlink pendelt bei ca. 14,39 USD. Der US-Kassamarkt (seit 15:30 MESZ offen) bleibt bis zum Nachmittag fest: Dow +0,6%, S&P500 +1%, Nasdaq +1,7%. Tesla gibt die anfaenglichen Delivery-Beat-Gewinne teilweise wieder ab und pendelt um ca. 354 USD (Tageshoch 359,79 USD), bleibt aber mit dem starken Q3-Ausliefer- und Energiespeicher-Bericht als Katalysator im Blick.",
+    "decision": "Tagesverlauf: Stop-Loss-Verkauf ENA (-6,78%) und PYTH (-8,49%) um 01:08. Um 15:08 Gewinnmitnahme BTC pos-0016 (+7,16%, +57,28 EUR) und Neuanlage Solana (700 EUR). Um 16:09, kurz nach Eroeffnung des US-Kassamarkts, Neuanlage Tesla (TSLA, 600 EUR) auf den bestaetigten Post-Delivery-Ausbruch. Um 17:08 keine neue Transaktion - BTC pos-0018 (+2,0%), SOL pos-0027 (+1,4%), LINK pos-0026 (-4,1%) und TSLA pos-0028 (-0,9%) bleiben alle innerhalb der Halteband-Schwellen offen.",
+    "reasoning": "Tesla lieferte im Q3 2026 sowohl bei Fahrzeugausliegerungen als auch bei Energiespeicher-Deployments deutlich ueber dem Wall-Street-Konsens - ein echter, mehrfach unabhaengig bestaetigter fundamentaler Katalysator (kein blosses Sentiment), eingebettet in eine breite Risk-on-Rally nach dem schwachen Arbeitsmarktbericht. Analog zum erfolgreichen Post-Earnings-Beat-Muster (NVDA, META) wurde eine spekulative Momentum-Position eroeffnet. Im 17:08-Lauf keine neue, klar ueberzeugende Einzelgelegenheit identifiziert (nur fortgesetztes, bereits gehandeltes Risk-on-Sentiment ohne frischen Katalysator) - alle vier offenen Positionen (BTC, SOL, LINK, TSLA) liegen innerhalb der etablierten Halteband-Schwellen (-6,5% bis +9%) und bleiben unveraendert offen. Freies Kapital bleibt mit ca. 55.811 EUR weiterhin sehr hoch.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
@@ -7376,7 +7376,7 @@
       "pos-0027",
       "pos-0028"
     ],
-    "portfolioValueEnd": 2696.67,
+    "portfolioValueEnd": 2689.97,
     "updates": [
       {
         "time": "00:08",
@@ -7462,6 +7462,11 @@
         "time": "16:09",
         "note": "Kauf Tesla (TSLA) 600 EUR nach Q3-Auslieferungs-Beat (+4,3%, erste Handelsmoeglichkeit fuer Aktien heute); Kursupdate BTC (86.650 USD, +1,9%)/SOL (121,63 USD, +1,36%)/LINK (14,44 USD, -3,73%)",
         "portfolioValue": 2696.67
+      },
+      {
+        "time": "17:08",
+        "note": "Keine Aenderung, Kursupdate BTC (86.750 USD, +2,02%)/SOL (121,63 USD, unveraendert, +1,36%)/LINK (14,39 USD, -4,07%)/TSLA (354,11 USD, -0,87%), keine neue ueberzeugende Gelegenheit",
+        "portfolioValue": 2689.97
       }
     ]
   }
