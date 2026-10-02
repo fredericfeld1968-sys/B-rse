@@ -434,10 +434,10 @@
     "reasoning": "Bestaetigter, mehrfach unabhaengig belegter institutioneller Katalysator (Yahoo Finance, Invezz, CryptoTimes, GlobalBankingAndFinance, Stocktwits): Chainlink hat am 28.09. CCIP 2.0 gelauncht, ein institutionelles Cross-Chain-Protokoll mit eigenen 'Cross-Chain Verifiers' und einem neuen Marktplatz fuer Verifizierungsdienste - explizit auf institutionelle Nachfrage nach regulierungskonformen Cross-Chain-Transfers zugeschnitten. LINK erreichte dadurch sein Jahreshoch 2026 (+12% in 24h, +15-18% auf Wochensicht, +26% YTD, outperformt BTC/ETH/XRP), Futures-Volumen stieg um +53,6% auf ca. 1,75 Mrd. USD, Open Interest +5,96%. Analog zum erfolgreichen Muster bestaetigter institutioneller/struktureller Ausbrueche (AVAX/NYSE-ICE +12,59%, QNT/Clearing House +8,02%, BCH/CME-Futures, PYTH/Switchboard-Shutdown). Da nachts nur Krypto handelbar ist, spekulative Momentum-Position auf die Fortsetzung des bestaetigten institutionellen Ausbruchs, mit engem Risikomanagement angesichts der bereits weit gelaufenen Bewegung und des insgesamt risikoaversen Makroumfelds vor dem PCE-Datenpunkt.",
     "status": "open",
     "buyPrice": 15.0,
-    "currentPrice": 14.7,
-    "currentValue": 686.0,
-    "profitLoss": -14.0,
-    "profitLossPct": -2.0,
+    "currentPrice": 14.2,
+    "currentValue": 662.67,
+    "profitLoss": -37.33,
+    "profitLossPct": -5.33,
     "closedDate": null,
     "closeReasoning": null
   }
