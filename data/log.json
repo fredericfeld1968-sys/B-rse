@@ -7366,9 +7366,9 @@
   },
   {
     "date": "2026-10-02",
-    "marketOverview": "Krypto-Gesamtmarktkapitalisierung bei ca. 2,87-2,96 Bio. USD, BTC-Dominanz bei 58,6%. BTC stabil bei ca. 84.670 USD (+1,27% 24h). ENA bricht dagegen deutlich ein (-8,75% 24h auf 0,2422 USD) - der grosse Early-Investor-Unlock (1,4 Mrd. Token, 17 Monate vorgezogen) steht am 05.10. bevor und loest anhaltenden Verkaufsdruck aus. PYTH faellt weiter (-3,82% 24h auf 0,0741 USD), Gate kuendigt Delisting der PYTH-Staking-Produkte zum 08.10. an. LINK konsolidiert nach der CCIP-2.0-Rally bei ca. 14,29 USD (Gewinnmitnahmen, -6% seit Wochenbeginn). Altcoin-Season-Index bei 61/100 (steigend, aber noch keine volle Altseason). US-Arbeitsmarktdaten (Nonfarm Payrolls) stehen spaeter am 02.10. an; US-/EU-Boersen ausserhalb der Handelszeiten, daher nur Krypto bewegbar.",
-    "decision": "00:08: Tagesbudget gutgeschrieben (+1.000 EUR), kein Trade. 01:08: Stop-Loss-Verkaeufe bei ENA (-6,78%) und PYTH (-8,49%), keine Neuanlage.",
-    "reasoning": "00:08-Lauf: Keine offene Position hatte Stop-Loss oder Take-Profit erreicht, daher keine Aenderung. 01:08-Lauf: ENA und PYTH haben die etablierte Stop-Loss-Schwelle (-6,5 bis -7,5%) erreicht bzw. deutlich ueberschritten (-6,78% / -8,49%), beide mit frischem bearishem Katalysator (ENA: bevorstehender Grossunlock 05.10., anhaltender Ausverkauf laut TradersUnion; PYTH: Gate-Staking-Delisting 08.10., urspruenglicher Switchboard-Katalysator vollstaendig eingepreist) - beide konsequent glattgestellt. BTC (x2) und LINK bleiben unveraendert im normalen Schwankungsband offen. Trotz sehr hohem freiem Kapital (ca. 56.310 EUR) keine neue Position eroeffnet: Whale-Akkumulation bei AAVE/UNI erfolgt graduell ueber mehrere Tage (kein bestaetigter Ausbruch), SUI-TVL-Meldungen sind widerspruechlich/veraltet - keine der recherchierten Gelegenheiten erreicht die Ueberzeugungsschwelle fuer eine Neuanlage um 01:08 nachts bei geschlossenen Aktien-/ETF-/Rohstoffmaerkten.",
+    "marketOverview": "Krypto-Gesamtmarktkapitalisierung bei ca. 2,87-2,96 Bio. USD, BTC-Dominanz bei 58,6%. BTC stabil bei ca. 84.200 USD (+0,9% 24h), Handelsspanne 82.950-85.518 USD. LINK erholt sich leicht auf ca. 14,50 USD nach Ruecksetzer von 15,78 USD, gestuetzt durch SWIFT-/CCIP-2.0-Adoptionsnarrativ. QNT nach 300%-Wochenrally stark ueberkauft (Tages-RSI >81) und konsolidiert bei ca. 286 USD - keine Nachkauf-Gelegenheit. Midnight (NIGHT) legt bereits +86% in 7 Tagen / +17-21% in 24h zu (Cardano-Privacy-Upgrade, institutionelles Tokenisierungs-Interesse), ist damit aber bereits stark gelaufen; ebenso GRAM (+15%/47h) und ZRO (+13%/24h). ENA bleibt vor dem Early-Investor-Unlock (02./05.10.) unter Druck. Altcoin-Season-Index 61/100. US-/EU-Boersen ausserhalb der Handelszeiten, daher weiterhin nur Krypto bewegbar.",
+    "decision": "00:08: Tagesbudget gutgeschrieben (+1.000 EUR), kein Trade. 01:08: Stop-Loss-Verkaeufe bei ENA (-6,78%) und PYTH (-8,49%), keine Neuanlage. 02:08: Kein Trade, nur Kursupdate BTC x2/LINK.",
+    "reasoning": "00:08-Lauf: Keine offene Position hatte Stop-Loss oder Take-Profit erreicht, daher keine Aenderung. 01:08-Lauf: ENA und PYTH haben die etablierte Stop-Loss-Schwelle (-6,5 bis -7,5%) erreicht bzw. deutlich ueberschritten (-6,78% / -8,49%), beide mit frischem bearishem Katalysator (ENA: bevorstehender Grossunlock 05.10., anhaltender Ausverkauf laut TradersUnion; PYTH: Gate-Staking-Delisting 08.10., urspruenglicher Switchboard-Katalysator vollstaendig eingepreist) - beide konsequent glattgestellt. BTC (x2) und LINK bleiben unveraendert im normalen Schwankungsband offen. Trotz sehr hohem freiem Kapital (ca. 56.310 EUR) keine neue Position eroeffnet: Whale-Akkumulation bei AAVE/UNI erfolgt graduell ueber mehrere Tage (kein bestaetigter Ausbruch), SUI-TVL-Meldungen sind widerspruechlich/veraltet - keine der recherchierten Gelegenheiten erreicht die Ueberzeugungsschwelle fuer eine Neuanlage um 01:08 nachts bei geschlossenen Aktien-/ETF-/Rohstoffmaerkten. 02:08-Lauf: Keine offene Position (BTC x2, LINK) hat die Stop-Loss- oder Take-Profit-Schwelle erreicht (BTC +3,95%/-0,98%, LINK -3,33%) - unveraendert gehalten. Trotz weiterhin sehr hohem freiem Kapital (ca. 56.310 EUR) keine neue Position eroeffnet: QNT ist nach der 300%-Rally stark ueberkauft (RSI>81, Momentum laesst laut mehreren Quellen bereits nach) und damit kein Nachkauf-Kandidat; NIGHT/GRAM/ZRO sind zwar frische Bewegungen, aber mit +86% in 7 Tagen (NIGHT) bzw. bereits mehrtaegigem Lauf bereits stark ausgereizt - ein Einstieg nach einer derart grossen Vorbewegung passt eher zum Muster der bisherigen Stop-Loss-Faelle (HYPE, BCH, DOGE) als zu den erfolgreichen fruehen Ausbruchskaeufen. Keine Gelegenheit erreicht um 02:08 nachts bei geschlossenen Aktien-/ETF-/Rohstoffmaerkten die Ueberzeugungsschwelle fuer eine Neuanlage.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
@@ -7376,7 +7376,7 @@
       "pos-0024",
       "pos-0026"
     ],
-    "portfolioValueEnd": 2200.12,
+    "portfolioValueEnd": 2201.4,
     "updates": [
       {
         "time": "00:08",
@@ -7387,6 +7387,11 @@
         "time": "01:08",
         "note": "Stop-Loss-Verkauf ENA (-6,78%, -47,48 EUR) und PYTH (-8,49%, -59,42 EUR) vor ENA-Unlock am 05.10., keine Neuanlage",
         "portfolioValue": 2200.12
+      },
+      {
+        "time": "02:08",
+        "note": "Keine Aenderung, Kursupdate BTC x2/LINK (QNT/NIGHT/GRAM bereits zu weit gelaufen fuer Neukauf)",
+        "portfolioValue": 2201.4
       }
     ]
   }
