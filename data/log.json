@@ -7366,15 +7366,15 @@
   },
   {
     "date": "2026-10-02",
-    "marketOverview": "US-Arbeitsmarktbericht (September) steht um 14:30 MESZ an, Boersen pausieren bis dahin in Erwartungshaltung; S&P 500 nahe Allzeithoch (~7.692 Punkte), US-10-Jahres-Rendite bleibt nahe 24-Jahres-Hoch. DAX setzt Aufwaertstrend fort (~25.165 Punkte, +0,3-0,4%), angefuehrt von Infineon und Siemens Energy, ohne frischen Einzeltitel-Katalysator. Bitcoin seitwaerts bei ca. 86.260 USD vor dem Jobsreport, getrieben von sinkenden Renditen und Fed-Zinssenkungshoffnung; Chainlink stabil bei ca. 14,38 USD weiterhin ohne neuen Katalysator. Altcoin-Season-Index bei 61, staerkste Bewegungen (QNT, BTW, SUI) bereits zu weit gelaufen fuer einen Neueinstieg.",
-    "decision": "Kein neuer Trade in diesem Lauf (13:08). Alle drei offenen Positionen (BTC x2, LINK) bleiben innerhalb der Halteband-Schwellen (-6,5% bis -7,5% Stop-Loss, +7-9% Zielgewinn) und wurden nur im Kurs aktualisiert.",
-    "reasoning": "BTC-Positionen bei +6,49%/+1,44% (noch knapp unter der Zielgewinnspanne von 7-9%), LINK bei -4,13% (noch deutlich ueber der Stop-Loss-Schwelle) - keine Handelsschwelle erreicht. Xetra ist geoeffnet, aber ausser den bereits bekannten DAX-Gewinnern (Infineon, Siemens Energy) kein neuer, ueberzeugender Einzeltitel-Katalysator; US-Markt oeffnet erst nach dem um 14:30 MESZ anstehenden Jobsreport. Die staerksten Altcoin-Bewegungen des Tages (QNT, BTW, SUI) sind bereits zu weit gelaufen fuer einen Neueinstieg. Freies Kapital bleibt mit ca. 56.311 EUR hoch, wird aber mangels ueberzeugender Gelegenheit diszipliniert nicht eingesetzt.",
+    "marketOverview": "US-Arbeitsmarktbericht (September) steht um 14:30 MESZ unmittelbar an; Bitcoin legt bereits im Vorfeld auf ca. 86.350 USD zu (dritte Gewinnwoche in Folge, Citigroup-Kursziel 113.000 USD, sinkende Treasury-Renditen), Chainlink pendelt seitwaerts um 14,30-14,40 USD. S&P-500-Futures und DAX (~25.165 Punkte) warten auf die Jobsdaten (Konsens +84.000 Stellen), US-Kassamarkt oeffnet erst um 15:30 MESZ. Der US-Regierungsshutdown (seit Dienstag) wird von den Maerkten weiterhin ignoriert.",
+    "decision": "Kein neuer Trade in diesem Lauf (14:09). Alle drei offenen Positionen (BTC x2, LINK) bleiben innerhalb der Halteband-Schwellen und wurden nur im Kurs aktualisiert.",
+    "reasoning": "BTC-Positionen bei +6,60%/+1,55% (noch unter der Zielgewinnspanne von 7-9%), LINK bei -4,47% (noch ueber der Stop-Loss-Schwelle von -6,5 bis -7,5%) - keine Handelsschwelle erreicht. Unmittelbar vor dem US-Jobsreport (14:30 MESZ) und vor Eroeffnung des US-Kassamarkts (15:30 MESZ) werden bewusst keine neuen Aktien-/ETF-Positionen eroeffnet, um nicht in die Volatilitaet der Datenveroeffentlichung zu kaufen. Freies Kapital bleibt mit ca. 56.311 EUR hoch, wird aber mangels ueberzeugender Gelegenheit diszipliniert nicht eingesetzt.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
       "pos-0026"
     ],
-    "portfolioValueEnd": 2233.1,
+    "portfolioValueEnd": 2232.39,
     "updates": [
       {
         "time": "00:08",
@@ -7445,6 +7445,11 @@
         "time": "13:08",
         "note": "Keine Aenderung, Kursupdate BTC x2 (86.260 USD, +6,49%/+1,44%)/LINK (14,38 USD, -4,13%), keine neue ueberzeugende Gelegenheit",
         "portfolioValue": 2233.1
+      },
+      {
+        "time": "14:09",
+        "note": "Keine Aenderung, Kursupdate BTC x2 (+6,6%/+1,55%)/LINK (-4,47%), vor Jobsreport (14:30 MESZ) keine neue Position",
+        "portfolioValue": 2232.39
       }
     ]
   }
