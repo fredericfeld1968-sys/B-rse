@@ -7366,15 +7366,15 @@
   },
   {
     "date": "2026-10-02",
-    "marketOverview": "Bitcoin pendelt bei ca. 84.800 USD (CoinDesk), nachdem es Stunden zuvor ein Tageshoch von 85.500 USD markiert hatte - weiterhin klar oberhalb der 80.000-USD-Ausbruchsmarke, Krypto-Gesamtmarkt bei ca. 2,99 Bio. USD (+1,1%). Chainlink notiert bei ca. 14,43 USD, nahe am bisherigen Niveau, ohne frischen Katalysator seit dem CCIP-2.0-Launch. Vereinzelte Altcoin-Bewegungen (ENA -6% vor Unlock, ICP/NEAR Gewinnmitnahmen nach vorherigen Rallyes, GRAM weiterhin ueberhitzt) liefern keine neue ueberzeugende Kaufgelegenheit. Aktien/ETFs/Rohstoffe sind vor Boersenoeffnung (Freitag, 07:08 MESZ) weiterhin nicht handelbar.",
-    "decision": "00:08: Tagesbudget gutgeschrieben (+1.000 EUR), kein Trade. 01:08: Stop-Loss-Verkaeufe bei ENA (-6,78%) und PYTH (-8,49%), keine Neuanlage. 02:08: Kein Trade, nur Kursupdate BTC x2/LINK. 03:09: Kein Trade, nur Kursupdate BTC x2/LINK (keine neue ueberzeugende Gelegenheit; QNT/GRAM/Monad bereits zu weit gelaufen). 04:09: Kein Trade, Kursupdate LINK (-5,33%, naehert sich Stop-Loss-Schwelle), BTC unveraendert. 05:08: Kein Trade, nur Kursupdate BTC/LINK (LINK erholt sich auf -3,8%, keine neue ueberzeugende Gelegenheit). 06:10: Kein Trade, nur Kursupdate BTC/LINK (keine neue ueberzeugende Gelegenheit, Solana-Volatilitaet ist reine Prognosemarkt-Spekulation). 07:08: Kein Trade, nur Kursupdate BTC x2/LINK (keine neue ueberzeugende Gelegenheit, Boersen noch nicht geoeffnet).",
-    "reasoning": "Freitagmorgen 07:08 MESZ: Aktien/ETFs/Rohstoffe vor Boersenoeffnung weiterhin nicht handelbar. Offene Krypto-Positionen liegen innerhalb der Bandbreite (BTC +4,69%/-0,28%, LINK -3,80%) - weder Stop-Loss- noch Gewinnmitnahme-Schwelle (ca. -6,5/-7,5% bzw. +7-9%) erreicht. Keine neue ueberzeugende Gelegenheit identifiziert (ENA-Schwaeche vor Unlock ist kein Kaufgrund, ICP/NEAR nur Gewinnmitnahmen nach bereits gelaufenen Rallyes, GRAM weiterhin zu weit gelaufen). Daher reines Kursupdate ohne Trade.",
+    "marketOverview": "Bitcoin notiert bei ca. 84.900 USD (+1,5% in 24h laut mehreren Quellen), weiterhin klar oberhalb der 80.000-USD-Marke, Krypto-Gesamtmarkt leicht im Plus. Chainlink pendelt um 14,30 USD (leicht schwaecher als gestern Abend, aber +9,8% auf Wochensicht). Fear-&-Greed-Index bei 73 (nahe Extreme Greed), Bitcoin-Dominanz bei 56,8%. Einzelne Altcoins wie QNT (+300% auf 7 Tage) oder das wenig etablierte BTW sind bereits zu weit gelaufen bzw. zu undurchsichtig fuer eine Neuanlage. Aktien/ETFs/Rohstoffe sind vor Handelsbeginn in Europa (Freitag, 08:09 MESZ) weiterhin nicht handelbar.",
+    "decision": "00:08: Tagesbudget gutgeschrieben (+1.000 EUR), kein Trade. 01:08: Stop-Loss-Verkaeufe bei ENA (-6,78%) und PYTH (-8,49%), keine Neuanlage. 02:08: Kein Trade, nur Kursupdate BTC x2/LINK. 03:09: Kein Trade, nur Kursupdate BTC x2/LINK (keine neue ueberzeugende Gelegenheit; QNT/GRAM/Monad bereits zu weit gelaufen). 04:09: Kein Trade, Kursupdate LINK (-5,33%, naehert sich Stop-Loss-Schwelle), BTC unveraendert. 05:08: Kein Trade, nur Kursupdate BTC/LINK (LINK erholt sich auf -3,8%, keine neue ueberzeugende Gelegenheit). 06:10: Kein Trade, nur Kursupdate BTC/LINK (keine neue ueberzeugende Gelegenheit, Solana-Volatilitaet ist reine Prognosemarkt-Spekulation). 07:08: Kein Trade, nur Kursupdate BTC x2/LINK (keine neue ueberzeugende Gelegenheit, Boersen noch nicht geoeffnet). 08:09: Kein Trade, nur Kursupdate BTC x2/LINK (keine neue ueberzeugende Gelegenheit, Boersen noch nicht geoeffnet).",
+    "reasoning": "Freitagmorgen 08:09 MESZ: Aktien/ETFs/Rohstoffe vor Boersenoeffnung weiterhin nicht handelbar. Offene Krypto-Positionen liegen innerhalb der Bandbreite (BTC +4,82%/-0,16%, LINK -4,67%) - weder Stop-Loss- noch Gewinnmitnahme-Schwelle (ca. -6,5/-7,5% bzw. +7-9%) erreicht, LINK naehert sich der Stop-Loss-Schwelle etwas weiter an. Keine neue ueberzeugende Gelegenheit identifiziert (QNT bereits extrem weit gelaufen, BTW zu unetabliert/intransparent fuer eine spekulative Position, SUI/ETH ohne frischen Katalysator). Daher reines Kursupdate ohne Trade.",
     "positionIds": [
       "pos-0016",
       "pos-0018",
       "pos-0026"
     ],
-    "portfolioValueEnd": 2209.0,
+    "portfolioValueEnd": 2204.74,
     "updates": [
       {
         "time": "00:08",
@@ -7415,6 +7415,11 @@
         "time": "07:08",
         "note": "Keine Aenderung, Kursupdate BTC (84.800 USD)/LINK (14,43 USD), keine neue ueberzeugende Gelegenheit",
         "portfolioValue": 2209.0
+      },
+      {
+        "time": "08:09",
+        "note": "Keine Aenderung, Kursupdate BTC (84.900 USD)/LINK (14,30 USD), keine neue ueberzeugende Gelegenheit",
+        "portfolioValue": 2204.74
       }
     ]
   }
