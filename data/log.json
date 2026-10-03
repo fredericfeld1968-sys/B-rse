@@ -7502,15 +7502,15 @@
   },
   {
     "date": "2026-10-03",
-    "marketOverview": "Ruhiger Samstagmorgen im Kryptomarkt: Bitcoin notiert bei ca. 84.476 USD (-0,24% in 24h, CoinGecko live), Solana bei 118,14 USD (+0,14% in 24h). Auch Ethereum (-1,25%), XRP (-1,16%), Dogecoin (-2,10%), Avalanche (-2,65%) und Chainlink (-4,13%) zeigen durchweg leichte Rueckgaenge ohne erkennbaren fundamentalen Ausloeser - typisches duennes Wochenend-Volumen ohne Richtungstrend. Keine frische, mehrfach bestaetigte Breaking-News identifizierbar. Der US-Kassamarkt (Aktien, ETFs, Rohstoffe) bleibt bis Montag geschlossen, Tesla unveraendert bei 354,11 USD.",
-    "decision": "Tagesbudget-Gutschrift (+1.000 EUR) um 00:09. Kursupdate BTC pos-0018 (-0,66%) und SOL pos-0027 (-1,55%) - beide deutlich innerhalb der Halteband-/Stop-Loss-Schwellen offen. TSLA pos-0028 ausserhalb der Handelszeiten unveraendert (-0,87%). Keine neue ueberzeugende, mehrfach bestaetigte Gelegenheit im breit schwaecheren Kryptomarkt identifiziert, daher keine Transaktion.",
-    "reasoning": "Alle grossen Kryptowaehrungen (BTC, ETH, SOL, XRP, DOGE, AVAX, LINK) bewegen sich einheitlich leicht im Minus (-0,2% bis -4,1%) ohne erkennbaren Einzelkatalysator - ein breiter, richtungsloser Wochenend-Ruecksetzer statt einer handelbaren Chance. Passend zum spekulativen Profil wird nur bei klar bestaetigtem Ausbruch gehandelt; freies Kapital (57.440,80 EUR) bleibt mangels Gelegenheit diszipliniert ungenutzt.",
+    "marketOverview": "Tiefe Samstagnacht im Kryptomarkt, duennes Wochenend-Volumen: Bitcoin notiert bei ca. 84.459 USD (-0,39% 24h, CoinGecko live), Solana bei 118,60 USD (+0,17% 24h) - beide nahezu unveraendert zum letzten Stand. Keine neue, mehrfach bestaetigte Breaking-News identifizierbar; Websuchen lieferten erneut ueberwiegend veraltete/widerspruechliche Preisangaben, daher Live-Kurse direkt ueber CoinGecko-API verifiziert. Der US-Kassamarkt (Aktien, ETFs, Rohstoffe) bleibt bis Montag geschlossen, Tesla unveraendert bei 354,11 USD.",
+    "decision": "Tagesbudget-Gutschrift (+1.000 EUR) bereits um 00:09 erfolgt. Kursupdate BTC pos-0018 (-0,68%) und SOL pos-0027 (-1,17%) - beide weiterhin deutlich innerhalb der Halteband-/Stop-Loss-Schwellen offen. TSLA pos-0028 ausserhalb der Handelszeiten unveraendert (-0,87%). Keine neue ueberzeugende, mehrfach bestaetigte Gelegenheit identifiziert, daher keine Transaktion.",
+    "reasoning": "Kryptomarkt bewegt sich in der Nacht auf Samstag/Sonntag nahezu seitwaerts (BTC -0,39%, SOL +0,17% in 24h) ohne erkennbaren Einzelkatalysator - reines duennes Wochenend-Volumen. Passend zum spekulativen Profil wird nur bei klar bestaetigtem Ausbruch gehandelt; freies Kapital (57.440,80 EUR) bleibt mangels ueberzeugender Gelegenheit diszipliniert ungenutzt.",
     "positionIds": [
       "pos-0018",
       "pos-0027",
       "pos-0028"
     ],
-    "portfolioValueEnd": 1979.36,
+    "portfolioValueEnd": 1981.9,
     "updates": [
       {
         "time": "00:09",
@@ -7521,6 +7521,11 @@
         "time": "01:09",
         "note": "Keine Aenderung; keine verlaesslichen aktuellen Live-Kursdaten verfuegbar (Websuche lieferte nur widerspruechliche Prognose-/SEO-Treffer statt echter Kurse), Positionen daher unveraendert zum 00:09-Stand belassen; Aktien/ETFs/Rohstoffe am Wochenende ohnehin nicht handelbar, Kryptomarkt ohne neuen Katalysator - kein Trade",
         "portfolioValue": 1979.36
+      },
+      {
+        "time": "02:08",
+        "note": "Keine Aenderung; Live-Kurse via CoinGecko-API verifiziert (BTC -0,39%/SOL +0,17% in 24h), Kursupdate BTC/SOL-Positionen, kein neuer Katalysator, Aktien/ETFs/Rohstoffe am Wochenende nicht handelbar - kein Trade",
+        "portfolioValue": 1981.9
       }
     ]
   }
