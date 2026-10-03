@@ -7502,15 +7502,15 @@
   },
   {
     "date": "2026-10-03",
-    "marketOverview": "Samstagnachmittag, Kryptomarkt weiterhin seitwaerts ohne frischen Einzelkatalysator: Bitcoin laut CoinGecko-API bei 84.816 USD (-2,23% 24h), Solana bei 119,52 USD (-2,46% 24h), Ethereum -2,65%, Ripple -3,70% - breiter, gleichmaessiger Risk-off-Ton ohne Einzeltitel-Nachricht. Websuche lieferte widersprüchliche/unglaubwürdige Treffer (vermeintlicher BTC-Stand ~124.000 USD liess sich per CoinGecko-API nicht verifizieren und wird als veraltete/fehldatierte SEO-Quelle verworfen); einzig belastbare Hintergrundinfo ist die bereits bekannte Solana-ETF-Entscheidung der SEC (erwartet um den 16.10., kein frischer Katalysator fuer heute). US-Kassamarkt (Aktien, ETFs, Rohstoffe) bleibt bis Montag geschlossen, Tesla daher weiterhin unveraendert bei 354,11 USD.",
-    "decision": "Tagesbudget-Gutschrift bereits erfolgt (lastGrantDate = heute), keine erneute Gutschrift. Kursupdate BTC pos-0018 (-0,26%) und SOL pos-0027 (-0,40%) via CoinGecko-API - beide deutlich innerhalb der Halteband-/Stop-Loss-Schwellen offen. TSLA pos-0028 ausserhalb der Handelszeiten unveraendert (-0,87%). Keine neue ueberzeugende, mehrfach bestaetigte Gelegenheit identifiziert, daher keine Transaktion.",
-    "reasoning": "Kryptomarkt bewegt sich auch im 15. Lauf in Folge seitwaerts ohne erkennbaren frischen Einzelkatalysator - einzige Websuche-Treffer zu vermeintlich starken Bitcoin-Anstiegen liessen sich per CoinGecko-API nicht bestaetigen und wurden als unzuverlaessig verworfen. Passend zum spekulativen Profil wird nur bei klar bestaetigtem, mehrfach verifiziertem Ausbruch gehandelt; freies Kapital (ca. 57.440,80 EUR) bleibt mangels ueberzeugender Gelegenheit diszipliniert ungenutzt.",
+    "marketOverview": "Samstagnachmittag, Kryptomarkt weiterhin seitwaerts ohne frischen Einzelkatalysator: Bitcoin laut CoinGecko-API bei 84.787 USD (-2,01% 24h), Solana bei 119,22 USD (-2,17% 24h) - breiter, gleichmaessiger Risk-off-Ton ohne Einzeltitel-Nachricht. Websuche lieferte erneut widersprüchliche/unglaubwürdige Treffer (vermeintlicher BTC-Stand ~124.000 USD bzw. ~99.000 USD liess sich per CoinGecko-API nicht verifizieren und wird als veraltete/fehldatierte SEO-Quelle verworfen); kein belastbarer frischer Katalysator identifiziert. US-Kassamarkt (Aktien, ETFs, Rohstoffe) bleibt bis Montag geschlossen, Tesla daher weiterhin unveraendert bei 354,11 USD.",
+    "decision": "Tagesbudget-Gutschrift bereits erfolgt (lastGrantDate = heute), keine erneute Gutschrift. Kursupdate BTC pos-0018 (-0,29%) und SOL pos-0027 (-0,65%) via CoinGecko-API - beide deutlich innerhalb der Halteband-/Stop-Loss-Schwellen offen. TSLA pos-0028 ausserhalb der Handelszeiten unveraendert (-0,87%). Keine neue ueberzeugende, mehrfach bestaetigte Gelegenheit identifiziert, daher keine Transaktion.",
+    "reasoning": "Kryptomarkt bewegt sich auch im 16. Lauf in Folge seitwaerts ohne erkennbaren frischen Einzelkatalysator - einzige Websuche-Treffer zu vermeintlich starken Bitcoin-Anstiegen liessen sich per CoinGecko-API nicht bestaetigen und wurden als unzuverlaessig verworfen. Passend zum spekulativen Profil wird nur bei klar bestaetigtem, mehrfach verifiziertem Ausbruch gehandelt; freies Kapital (ca. 57.440,80 EUR) bleibt mangels ueberzeugender Gelegenheit diszipliniert ungenutzt.",
     "positionIds": [
       "pos-0018",
       "pos-0027",
       "pos-0028"
     ],
-    "portfolioValueEnd": 1990.21,
+    "portfolioValueEnd": 1988.22,
     "updates": [
       {
         "time": "00:09",
@@ -7591,6 +7591,11 @@
         "time": "15:10",
         "note": "Keine Aenderung; Kursupdate BTC (-0,26%)/SOL (-0,40%) via CoinGecko-API (live), Websuche-Treffer zu angeblichem BTC-Sprung auf ~124.000 USD per API widerlegt und verworfen, einzig bekannter Hintergrund (Solana-ETF-Entscheidung erwartet ~16.10.) kein frischer Katalysator, TSLA ausserhalb der Handelszeiten (Wochenende) unveraendert - kein Trade",
         "portfolioValue": 1990.21
+      },
+      {
+        "time": "16:08",
+        "note": "Keine Aenderung; Kursupdate BTC (84.787 USD, -2,01% 24h)/SOL (119,22 USD, -2,17% 24h) via CoinGecko-API (live), Websuche erneut nur widersprüchliche/unglaubwürdige Treffer ohne verifizierbaren frischen Katalysator, TSLA ausserhalb der Handelszeiten (Wochenende) unveraendert - kein Trade",
+        "portfolioValue": 1988.22
       }
     ]
   }
