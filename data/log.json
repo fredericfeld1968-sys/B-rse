@@ -7502,15 +7502,15 @@
   },
   {
     "date": "2026-10-03",
-    "marketOverview": "Samstagabend (20:07), weiterhin kein frischer Einzelkatalysator: Bitcoin laut Coinbase-Spotpreis bei 84.983,13 USD (nahezu unveraendert zum letzten Lauf), Solana bei 119,985 USD. Gezielte Recherche zu moeglichen Krypto-Katalysatoren der letzten 2-3 Stunden ergab nur widersprüchliche BTC-Kursangaben (84.600-87.000 USD) und bereits bekannte, nicht-frische Meldungen (Fiserv/Roughrider-Coin auf Solana, Solana-Foundation-Neueinstellung) - kein mehrfach bestaetigtes neues Ereignis. QNT gibt nach vorherigem Vielfachen-Anstieg -8,75% nach (Gewinnmitnahmen), ETH -3,1% wegen bekanntem Ethena-Unlock am 05.10. US-Kassamarkt (Aktien, ETFs, Rohstoffe) bleibt bis Montag geschlossen, Tesla daher weiterhin unveraendert.",
-    "decision": "Tagesbudget-Gutschrift bereits erfolgt (lastGrantDate = heute), keine erneute Gutschrift. Kursupdate BTC pos-0018 (84.983,13 USD, -0,06%) und SOL pos-0027 (119,985 USD, -0,01%) via Coinbase-Spotpreis - beide praktisch unveraendert und deutlich innerhalb der Halteband-/Stop-Loss-Schwellen offen. TSLA pos-0028 ausserhalb der Handelszeiten unveraendert (-0,87%). Gezielte Katalysator-Recherche ergab keine neue, mehrfach bestaetigte Gelegenheit, daher keine Transaktion.",
-    "reasoning": "Kryptomarkt bewegt sich auch im 20. Lauf in Folge seitwaerts ohne erkennbaren frischen Einzelkatalysator. Eine gezielte Recherche nach BTC-/SOL-/Altcoin-Katalysatoren der letzten 2-3 Stunden lieferte nur bekannte, nicht-frische Meldungen und widerspruechliche Kursangaben - kein mehrfach unabhaengig bestaetigtes neues Ereignis, das eine spekulative Position rechtfertigen wuerde. Passend zum spekulativen Profil wird nur bei klar bestaetigtem Ausbruch gehandelt; freies Kapital (ca. 57.440,80 EUR) bleibt mangels ueberzeugender Gelegenheit diszipliniert ungenutzt.",
+    "marketOverview": "Samstagabend (21:07), weiterhin kein frischer Einzelkatalysator: Bitcoin laut CoinGecko-API bei 84.848 USD (+0,78% 24h), Solana bei 119,73 USD (+1,22% 24h) - beide praktisch seitwaerts zum letzten Lauf. Websuche lieferte erneut nur veraltete bzw. widerspruechliche Treffer (teils aus 2025, teils Forecast-/SEO-Seiten) ohne verifizierbares frisches Ereignis. US-Kassamarkt (Aktien, ETFs, Rohstoffe) bleibt bis Montag geschlossen, Tesla daher weiterhin unveraendert.",
+    "decision": "Tagesbudget-Gutschrift bereits erfolgt (lastGrantDate = heute), keine erneute Gutschrift. Kursupdate BTC pos-0018 (84.848 USD, -0,22%) und SOL pos-0027 (119,73 USD, -0,23%) via CoinGecko-API - beide praktisch unveraendert und deutlich innerhalb der Halteband-/Stop-Loss-Schwellen offen. TSLA pos-0028 ausserhalb der Handelszeiten unveraendert (-0,87%). Websuche ergab keine neue, mehrfach bestaetigte Gelegenheit, daher keine Transaktion.",
+    "reasoning": "Kryptomarkt bewegt sich auch im 21. Lauf in Folge seitwaerts ohne erkennbaren frischen Einzelkatalysator. Eine Recherche nach BTC-/SOL-/Altcoin-Katalysatoren lieferte nur veraltete (teils aus 2025) oder widerspruechliche Treffer - kein mehrfach unabhaengig bestaetigtes neues Ereignis, das eine spekulative Position rechtfertigen wuerde. Passend zum spekulativen Profil wird nur bei klar bestaetigtem Ausbruch gehandelt; freies Kapital bleibt mangels ueberzeugender Gelegenheit diszipliniert ungenutzt.",
     "positionIds": [
       "pos-0018",
       "pos-0027",
       "pos-0028"
     ],
-    "portfolioValueEnd": 1994.29,
+    "portfolioValueEnd": 1991.7,
     "updates": [
       {
         "time": "00:09",
@@ -7616,6 +7616,11 @@
         "time": "20:07",
         "note": "Keine Aenderung; Kursupdate BTC (84.983,13 USD, via Coinbase-Spotpreis)/SOL (119,985 USD) nahezu unveraendert, gezielte Katalysator-Recherche (letzte 2-3h) ohne neuen mehrfach bestaetigten Trigger (nur bekannte/widerspruechliche Treffer), TSLA ausserhalb der Handelszeiten (Wochenende) unveraendert - kein Trade",
         "portfolioValue": 1994.29
+      },
+      {
+        "time": "21:07",
+        "note": "Keine Aenderung; Kursupdate BTC (84.848 USD, +0,78% 24h)/SOL (119,73 USD, +1,22% 24h) via CoinGecko-API (live), Websuche nur veraltete/widerspruechliche Treffer ohne frischen Katalysator, TSLA ausserhalb der Handelszeiten (Wochenende) unveraendert - kein Trade",
+        "portfolioValue": 1991.7
       }
     ]
   }
