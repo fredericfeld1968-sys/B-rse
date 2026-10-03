@@ -7636,20 +7636,25 @@
   },
   {
     "date": "2026-10-04",
-    "marketOverview": "Sonntag 00:07: Kryptomarkt bewegt sich weiterhin seitwaerts - Bitcoin laut CoinGecko-API (live) bei 84.750 USD (+0,33% 24h), Solana bei 119,67 USD (+1,27% 24h), beide praktisch unveraendert zum letzten Lauf. Laengerfristig bullisher Hintergrund (BTC-Spot-ETFs erstmals 2026 netto positiv, Citigroup erhoeht BTC-12-Monats-Ziel auf 113.000 USD), aber kein frischer, kurzfristig handelbarer Einzelkatalysator heute Nacht. US-Kassamarkt (Aktien, ETFs, Rohstoffe) bleibt bis Montag geschlossen.",
-    "decision": "Tagesbudget fuer den neuen Kalendertag gutgeschrieben (+1.000 EUR, totalFreshCapitalEur jetzt 61.000 EUR). Kursupdate BTC pos-0018 (84.750 USD, -0,34% seit Kauf) und SOL pos-0027 (119,67 USD, -0,28% seit Kauf) via CoinGecko-API (live) - beide deutlich innerhalb der Halteband-/Stop-Loss-Schwellen offen. TSLA pos-0028 ausserhalb der Handelszeiten (Wochenende) unveraendert. Keine neue, mehrfach bestaetigte Gelegenheit gefunden, daher keine Transaktion.",
-    "reasoning": "Direkt nach Mitternacht beginnt ein neuer Kalendertag, daher frische Tagesgutschrift. Beide offenen Krypto-Positionen bewegen sich seit Stunden nur minimal; die Websuche lieferte nur bereits bekannte Makro-Narrative (ETF-Zufluesse, Citigroup-Kursziel) ohne neuen, zeitnahen Trigger fuer eine spekulative Kurzfrist-Position. Passend zum spekulativen Profil wird nur bei klar bestaetigtem Ausbruch gehandelt; freies Kapital (ca. 58.440,8 EUR) bleibt mangels ueberzeugender Gelegenheit diszipliniert ungenutzt.",
+    "marketOverview": "Sonntag 01:07: Kryptomarkt bewegt sich weiterhin seitwaerts - Bitcoin laut CoinGecko-API (live) bei 84.763 USD (+0,30% 24h), Solana bei 119,64 USD (+1,02% 24h), beide praktisch unveraendert zum letzten Lauf (00:07). Kein frischer, kurzfristig handelbarer Einzelkatalysator in der letzten Stunde gefunden. US-Kassamarkt (Aktien, ETFs, Rohstoffe) bleibt bis Montag geschlossen.",
+    "decision": "Tagesbudget bereits um 00:07 gutgeschrieben (lastGrantDate=2026-10-04, keine erneute Gutschrift). Kursupdate BTC pos-0018 (84.763 USD, -0,32% seit Kauf) und SOL pos-0027 (119,64 USD, -0,30% seit Kauf) via CoinGecko-API (live) - beide deutlich innerhalb der Halteband-/Stop-Loss-Schwellen offen. TSLA pos-0028 ausserhalb der Handelszeiten (Wochenende) unveraendert. Keine neue, mehrfach bestaetigte Gelegenheit gefunden, daher keine Transaktion.",
+    "reasoning": "Beide offenen Krypto-Positionen bewegen sich seit dem letzten Lauf nur minimal (BTC +0,02%, SOL -0,03%). Websuche lieferte keine neuen, zeitnahen Trigger fuer eine spekulative Kurzfrist-Position; eine Quelle nannte einen BTC-Stand von ueber 123.000 USD, der jedoch im klaren Widerspruch zur direkt abgefragten CoinGecko-API (84.763 USD) steht und als unzuverlaessig verworfen wird. Passend zum spekulativen Profil wird nur bei klar bestaetigtem Ausbruch gehandelt; freies Kapital (ca. 58.440,8 EUR) bleibt mangels ueberzeugender Gelegenheit diszipliniert ungenutzt.",
     "positionIds": [
       "pos-0018",
       "pos-0027",
       "pos-0028"
     ],
-    "portfolioValueEnd": 1990.53,
+    "portfolioValueEnd": 1990.47,
     "updates": [
       {
         "time": "00:07",
         "note": "Tagesbudget gutgeschrieben (+1.000 EUR), keine Aenderung, Kursupdate BTC (84.750 USD, +0,33% 24h)/SOL (119,67 USD, +1,27% 24h) via CoinGecko-API (live), Websuche nur bekannte Makro-Themen ohne frischen Katalysator, TSLA ausserhalb der Handelszeiten (Wochenende) unveraendert - kein Trade",
         "portfolioValue": 1990.53
+      },
+      {
+        "time": "01:07",
+        "note": "Keine Aenderung, Kursupdate BTC (84.763 USD, +0,30% 24h)/SOL (119,64 USD, +1,02% 24h) via CoinGecko-API (live), keine neue bestaetigte Gelegenheit, TSLA ausserhalb der Handelszeiten (Wochenende) unveraendert - kein Trade",
+        "portfolioValue": 1990.47
       }
     ]
   }
