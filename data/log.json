@@ -7502,15 +7502,15 @@
   },
   {
     "date": "2026-10-03",
-    "marketOverview": "Samstagabend, Kryptomarkt weiterhin ohne frischen Einzelkatalysator: Bitcoin laut CoinGecko-API bei 84.828 USD (-0,51% 24h), Solana bei 119,58 USD (-0,33% 24h) - nahezu unveraendert zum letzten Lauf. Websuche lieferte erneut nicht verifizierbare Behauptungen (angeblicher BTC-Stand ueber 116.000 USD aus veralteten/fehldatierten SEO-Artikeln), die per Live-API widerlegt wurden. US-Kassamarkt (Aktien, ETFs, Rohstoffe) bleibt bis Montag geschlossen, Tesla daher weiterhin unveraendert bei 354,11 USD.",
-    "decision": "Tagesbudget-Gutschrift bereits erfolgt (lastGrantDate = heute), keine erneute Gutschrift. Kursupdate BTC pos-0018 (-0,24%) und SOL pos-0027 (-0,35%) via CoinGecko-API - beide deutlich innerhalb der Halteband-/Stop-Loss-Schwellen offen. TSLA pos-0028 ausserhalb der Handelszeiten unveraendert (-0,87%). Keine neue ueberzeugende, mehrfach bestaetigte Gelegenheit identifiziert, daher keine Transaktion.",
-    "reasoning": "Kryptomarkt bewegt sich auch im 18. Lauf in Folge seitwaerts ohne erkennbaren frischen Einzelkatalysator - Websuche-Treffer zu einem vermeintlich starken Bitcoin-Stand (>116.000 USD) liess sich per CoinGecko-API live nicht bestaetigen (tatsaechlich 84.828 USD) und wurde als unzuverlaessig verworfen. Passend zum spekulativen Profil wird nur bei klar bestaetigtem, mehrfach verifiziertem Ausbruch gehandelt; freies Kapital bleibt mangels ueberzeugender Gelegenheit diszipliniert ungenutzt.",
+    "marketOverview": "Samstagabend (19:08), Kryptomarkt weiterhin ohne frischen Einzelkatalysator: Bitcoin laut CoinGecko-API bei 84.865 USD (-0,29% 24h), Solana bei 119,75 USD (-0,18% 24h) - nahezu unveraendert zum letzten Lauf. Websuche lieferte erneut nicht verifizierbare/widersprüchliche Behauptungen (u.a. angeblicher BTC-Stand nahe 124.000 USD und SOL-Preise im 200er-Bereich aus veralteten/fehldatierten SEO- und Prognose-Artikeln), die per Live-API klar widerlegt wurden. US-Kassamarkt (Aktien, ETFs, Rohstoffe) bleibt bis Montag geschlossen, Tesla daher weiterhin unveraendert bei 354,11 USD.",
+    "decision": "Tagesbudget-Gutschrift bereits erfolgt (lastGrantDate = heute), keine erneute Gutschrift. Kursupdate BTC pos-0018 (-0,2%) und SOL pos-0027 (-0,21%) via CoinGecko-API - beide deutlich innerhalb der Halteband-/Stop-Loss-Schwellen offen. TSLA pos-0028 ausserhalb der Handelszeiten unveraendert (-0,87%). Keine neue ueberzeugende, mehrfach bestaetigte Gelegenheit identifiziert, daher keine Transaktion.",
+    "reasoning": "Kryptomarkt bewegt sich auch im 19. Lauf in Folge seitwaerts ohne erkennbaren frischen Einzelkatalysator - Websuche-Treffer zu vermeintlich starken Kurssprüngen (BTC ~124.000 USD, SOL im 200er-Bereich) liessen sich per CoinGecko-API live nicht bestaetigen (tatsaechlich BTC 84.865 USD, SOL 119,75 USD) und wurden als unzuverlaessig verworfen. Passend zum spekulativen Profil wird nur bei klar bestaetigtem, mehrfach verifiziertem Ausbruch gehandelt; freies Kapital bleibt mangels ueberzeugender Gelegenheit diszipliniert ungenutzt.",
     "positionIds": [
       "pos-0018",
       "pos-0027",
       "pos-0028"
     ],
-    "portfolioValueEnd": 1990.66,
+    "portfolioValueEnd": 1991.95,
     "updates": [
       {
         "time": "00:09",
@@ -7606,6 +7606,11 @@
         "time": "18:08",
         "note": "Keine Aenderung; Kursupdate BTC (84.828 USD, -0,51% 24h)/SOL (119,58 USD, -0,33% 24h) via CoinGecko-API (live), Websuche-Treffer zu angeblichem BTC-Stand >116.000 USD per API widerlegt und verworfen, TSLA ausserhalb der Handelszeiten (Wochenende) unveraendert - kein Trade",
         "portfolioValue": 1990.66
+      },
+      {
+        "time": "19:08",
+        "note": "Keine Aenderung; Kursupdate BTC (84.865 USD, -0,29% 24h)/SOL (119,75 USD, -0,18% 24h) via CoinGecko-API (live), Websuche-Treffer zu angeblichem BTC-Stand ~124.000 USD und SOL im 200er-Bereich per API widerlegt und verworfen, TSLA ausserhalb der Handelszeiten (Wochenende) unveraendert - kein Trade",
+        "portfolioValue": 1991.95
       }
     ]
   }
