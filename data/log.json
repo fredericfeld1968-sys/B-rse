@@ -7636,15 +7636,15 @@
   },
   {
     "date": "2026-10-04",
-    "marketOverview": "Sonntagvormittag weiterhin ruhig: Bitcoin seitwaerts um 85.100-85.120 USD (24h +0,6%), Solana leicht fester um 121 USD (24h +1,4%) - live via CoinGecko-API bestaetigt. Websuche zeigt nur schwache Signale: 21shares nennt 87.000 USD als naechste Widerstandsmarke fuer BTC, Solana-ETF-Zufluesse sind in der Woche bis 02.10. von 188 Mio. auf nur noch 2,4 Mio. USD eingebrochen. Kein frischer, heute wirksamer Katalysator. Aktien/ETFs/Rohstoffe bleiben am Wochenende ungehandelt.",
-    "decision": "Kein Trade in diesem Lauf. Offene Positionen (BTC, SOL) bewegen sich weiterhin nur minimal (BTC +0,1%, SOL +0,82% seit Kauf), keine Stop-Loss- oder Gewinnmitnahme-Schwelle erreicht. TSLA bleibt ausserhalb der Handelszeiten unveraendert. Freies Kapital bleibt mangels ueberzeugender neuer Gelegenheit diszipliniert ungenutzt.",
-    "reasoning": "Live-Kurse (CoinGecko-API): BTC 85.120 USD (+0,60% 24h), SOL 120,99 USD (+1,37% 24h) - beide nur marginale Bewegungen ohne Ausbruchscharakter. Websuche nach frischen Katalysatoren lieferte lediglich schwache, nicht handlungsrelevante Signale (BTC-Widerstand bei 87.000 USD laut 21shares, nachlassende Solana-ETF-Zufluesse) ohne bestaetigten heutigen Trigger. Passend zum spekulativen Profil wird nur bei klar bestaetigtem Ausbruch gehandelt.",
+    "marketOverview": "Sonntagvormittag weiterhin ruhig: Bitcoin seitwaerts um 85.050-85.120 USD (24h ca. +0,5%), Solana leicht fester um 120,8-121 USD (24h ca. +1,3%) - live via CoinGecko-API bestaetigt. Websuche liefert erneut nur veraltete/widerspruechliche Treffer (alte Jackson-Hole-/Warsh-Nominierungs-Artikel, Forecast-Seiten) ohne neuen, heute wirksamen Katalysator. Aktien/ETFs/Rohstoffe bleiben am Wochenende ungehandelt.",
+    "decision": "Kein Trade in diesem Lauf. Offene Positionen (BTC, SOL) bewegen sich weiterhin nur minimal (BTC +0,02%, SOL +0,68% seit Kauf), keine Stop-Loss- oder Gewinnmitnahme-Schwelle erreicht. TSLA bleibt ausserhalb der Handelszeiten unveraendert. Freies Kapital bleibt mangels ueberzeugender neuer Gelegenheit diszipliniert ungenutzt.",
+    "reasoning": "Live-Kurse (CoinGecko-API): BTC 85.056 USD (+0,51% 24h), SOL 120,81 USD (+1,27% 24h) - beide nur marginale Bewegungen ohne Ausbruchscharakter. Websuche nach frischen Katalysatoren lieferte erneut nur alte/veraltete Treffer (Warsh-Fed-Nominierung, Jackson-Hole-Analysen aus dem Sommer) ohne bestaetigten heutigen Trigger. Passend zum spekulativen Profil wird nur bei klar bestaetigtem Ausbruch gehandelt.",
     "positionIds": [
       "pos-0018",
       "pos-0027",
       "pos-0028"
     ],
-    "portfolioValueEnd": 2001.28,
+    "portfolioValueEnd": 1999.71,
     "updates": [
       {
         "time": "00:07",
@@ -7700,6 +7700,11 @@
         "time": "10:07",
         "note": "Keine Aenderung, Kursupdate BTC (85.120 USD, +0,60% 24h)/SOL (120,99 USD, +1,37% 24h) via CoinGecko-API (live), Websuche liefert nur Hintergrundrauschen (21shares sieht 87.000 USD als Widerstand fuer BTC, Solana-ETF-Zuflüsse fallen auf 2,4 Mio. USD von zuvor 188 Mio. USD) ohne konkreten, heute wirksamen Katalysator, TSLA ausserhalb der Handelszeiten (Wochenende) unveraendert - kein Trade",
         "portfolioValue": 2001.28
+      },
+      {
+        "time": "11:08",
+        "note": "Keine Aenderung, Kursupdate BTC (85.056 USD, +0,51% 24h)/SOL (120,81 USD, +1,27% 24h) via CoinGecko-API (live), Websuche liefert nur veraltete Treffer (alte Warsh-/Jackson-Hole-Artikel) ohne frischen Katalysator, TSLA ausserhalb der Handelszeiten (Wochenende) unveraendert - kein Trade",
+        "portfolioValue": 1999.71
       }
     ]
   }
