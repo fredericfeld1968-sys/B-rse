@@ -7636,15 +7636,15 @@
   },
   {
     "date": "2026-10-04",
-    "marketOverview": "Sonntagabend, Boersen fuer Aktien/ETFs/Rohstoffe weiterhin geschlossen (TSLA unveraendert bei 354,11 USD). BTC bei 85.383 USD (+0,62% 24h) und SOL bei 121,66 USD (+1,58% 24h) via CoinGecko-API (live), beide minimal ueber dem letzten Lauf (20:08). Websuche liefert weiterhin nur bekannte Altcoin-Prognosen (Standard Chartered SOL-Kursziel 250 USD bis Jahresende) und aeltere Nahost-Eskalationsmeldungen ohne frischen, heute wirksamen Katalysator.",
-    "decision": "Kein Trade in diesem Lauf. Offene Positionen (BTC, SOL) bewegen sich weiterhin leicht im Plus (BTC +0,41%, SOL +1,38% seit Kauf), keine Stop-Loss- oder Gewinnmitnahme-Schwelle erreicht. TSLA bleibt ausserhalb der Handelszeiten (Wochenende) unveraendert. Freies Kapital bleibt mangels ueberzeugender neuer Gelegenheit und wegen geschlossener Boersen fuer Aktien/ETFs/Rohstoffe am Wochenende nicht investiert.",
-    "reasoning": "Kapitalregeln eingehalten: Tagesbudget-Gutschrift bereits heute erfolgt (lastGrantDate=2026-10-04, keine erneute Gutschrift in diesem Lauf). Kein Verkauf, da keine Position eine Stop-Loss- oder Zielmarke erreicht hat. Kein Neukauf, da ausserhalb der Handelszeiten nur Krypto handelbar waere und die Recherche (CoinGecko-Live-API, Websuche) erneut nur bereits bekannte Prognosen/Altmeldungen ohne frischen, heute wirksamen Katalysator liefert.",
+    "marketOverview": "Sonntagnacht, Boersen fuer Aktien/ETFs/Rohstoffe weiterhin geschlossen (TSLA unveraendert bei 354,11 USD). BTC bei 85.397 USD (+0,62% 24h) und SOL bei 120,75 USD (+0,67% 24h) via CoinGecko-API (live), beide praktisch seitwaerts gegenueber dem letzten Lauf (21:09). Websuche liefert weiterhin nur generische Uptober-Prognosen, veraltete/widerspruechliche SEO-Treffer und bereits bekannte Altcoin-Kursziele (Standard Chartered SOL 250 USD) ohne frischen, heute wirksamen Katalysator.",
+    "decision": "Kein Trade in diesem Lauf. Offene Positionen (BTC, SOL) bewegen sich weiterhin nur minimal im Plus (BTC +0,43%, SOL +0,63% seit Kauf), keine Stop-Loss- oder Gewinnmitnahme-Schwelle erreicht. TSLA bleibt ausserhalb der Handelszeiten (Wochenende) unveraendert. Freies Kapital (ca. 58.440,80 EUR) bleibt mangels ueberzeugender neuer Gelegenheit und wegen geschlossener Boersen fuer Aktien/ETFs/Rohstoffe am Wochenende nicht investiert.",
+    "reasoning": "Kein Trade in diesem Lauf. Offene Positionen (BTC, SOL) bewegen sich weiterhin nur minimal im Plus (BTC +0,43%, SOL +0,63% seit Kauf), keine Stop-Loss- oder Gewinnmitnahme-Schwelle erreicht. TSLA bleibt ausserhalb der Handelszeiten (Wochenende) unveraendert. Freies Kapital (ca. 58.440,80 EUR) bleibt mangels ueberzeugender neuer Gelegenheit und wegen geschlossener Boersen fuer Aktien/ETFs/Rohstoffe am Wochenende nicht investiert.",
     "positionIds": [
       "pos-0018",
       "pos-0027",
       "pos-0028"
     ],
-    "portfolioValueEnd": 2007.36,
+    "portfolioValueEnd": 2002.17,
     "updates": [
       {
         "time": "00:07",
@@ -7755,6 +7755,11 @@
         "time": "21:09",
         "note": "Keine Aenderung, Kursupdate BTC (85.383 USD, +0,62% 24h)/SOL (121,66 USD, +1,58% 24h) via CoinGecko-API (live), Websuche nur bekannte Altcoin-Prognosen (Standard Chartered SOL 250 USD) und aeltere Nahost-Meldungen ohne frischen Katalysator, TSLA ausserhalb der Handelszeiten (Wochenende) unveraendert - kein Trade",
         "portfolioValue": 2007.36
+      },
+      {
+        "time": "22:09",
+        "note": "Keine Aenderung, Kursupdate BTC (85.397 USD, +0,62% 24h)/SOL (120,75 USD, +0,67% 24h) via CoinGecko-API (live), Websuche weiterhin nur generische Uptober-Prognosen/SEO-Treffer ohne frischen Katalysator, TSLA ausserhalb der Handelszeiten (Wochenende) unveraendert - kein Trade",
+        "portfolioValue": 2002.17
       }
     ]
   }
