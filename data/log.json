@@ -7636,15 +7636,15 @@
   },
   {
     "date": "2026-10-04",
-    "marketOverview": "Sonntagmorgen, ruhiger Krypto-Handel: Bitcoin seitwaerts um 84.800-84.900 USD (24h +0,31%), Solana stabil leicht fester um 120,7-120,8 USD (24h +1,38%) - live via CoinGecko-API bestaetigt. Websuche liefert nur allgemeine Q4-Saisonalitaets-Kommentare (z.B. Standard-Chartered-Prognose SOL 250 USD bis Jahresende, Bitwise-ATH-Erwartung) ohne konkreten, zeitlich frischen Katalysator. Aktien/ETFs/Rohstoffe bleiben am Wochenende ungehandelt.",
-    "decision": "Kein Trade in diesem Lauf. Beide offenen Krypto-Positionen (BTC, SOL) bewegen sich seit dem letzten Lauf nur minimal, keine Stop-Loss- oder Gewinnmitnahme-Schwelle erreicht. TSLA bleibt ausserhalb der Handelszeiten unveraendert. Freies Kapital (ca. 58.441 EUR) bleibt mangels ueberzeugender neuer Gelegenheit diszipliniert ungenutzt.",
-    "reasoning": "Live-Kurse (CoinGecko-API): BTC 84.819 USD (+0,31% 24h), SOL 120,75 USD (+1,38% 24h) - beide nur marginale Bewegungen ohne Ausbruchscharakter. Websuche nach frischen Katalysatoren lieferte nur allgemeine Q4-Saisonalitaets-/Analysten-Kommentare ohne konkreten, verifizierbaren neuen Trigger. Passend zum spekulativen Profil wird nur bei klar bestaetigtem Ausbruch gehandelt.",
+    "marketOverview": "Sonntagvormittag weiterhin ruhig: Bitcoin seitwaerts um 84.900-85.000 USD (24h +0,32%), Solana leicht fester um 120,8 USD (24h +1,04%) - live via CoinGecko-API bestaetigt. Websuche liefert erneut nur veraltete/widersprueschliche SEO-Treffer (u.a. BTC 67.000-113.000 USD, SOL 153-244 USD) ohne frischen, verifizierbaren Katalysator. Aktien/ETFs/Rohstoffe bleiben am Wochenende ungehandelt.",
+    "decision": "Kein Trade in diesem Lauf. Offene Positionen (BTC, SOL) bewegen sich nur minimal, keine Stop-Loss- oder Gewinnmitnahme-Schwelle erreicht. TSLA bleibt ausserhalb der Handelszeiten unveraendert. Freies Kapital (ca. 58.440,80 EUR) bleibt mangels ueberzeugender neuer Gelegenheit diszipliniert ungenutzt.",
+    "reasoning": "Live-Kurse (CoinGecko-API): BTC 84.909 USD (+0,32% 24h), SOL 120,84 USD (+1,04% 24h) - beide nur marginale Bewegungen ohne Ausbruchscharakter. Websuche nach frischen Katalysatoren lieferte erneut nur veraltete/widerspruechliche Treffer (per Live-API widerlegt). Passend zum spekulativen Profil wird nur bei klar bestaetigtem Ausbruch gehandelt.",
     "positionIds": [
       "pos-0018",
       "pos-0027",
       "pos-0028"
     ],
-    "portfolioValueEnd": 1997.41,
+    "portfolioValueEnd": 1998.67,
     "updates": [
       {
         "time": "00:07",
@@ -7685,6 +7685,11 @@
         "time": "07:08",
         "note": "Keine Aenderung, Kursupdate BTC (84.819 USD, +0,31% 24h)/SOL (120,75 USD, +1,38% 24h) via CoinGecko-API (live), Websuche nur allgemeine Q4-Saisonalitaets-Kommentare ohne frischen Katalysator, TSLA ausserhalb der Handelszeiten (Wochenende) unveraendert - kein Trade",
         "portfolioValue": 1997.41
+      },
+      {
+        "time": "08:09",
+        "note": "Keine Aenderung, Kursupdate BTC (84.909 USD, +0,32% 24h)/SOL (120,84 USD, +1,04% 24h) via CoinGecko-API (live), Websuche weiterhin ohne frischen verlaesslichen Katalysator (veraltete SEO-Treffer per Live-API widerlegt), TSLA ausserhalb der Handelszeiten (Wochenende) unveraendert - kein Trade",
+        "portfolioValue": 1998.67
       }
     ]
   }
