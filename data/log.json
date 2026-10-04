@@ -7636,15 +7636,15 @@
   },
   {
     "date": "2026-10-04",
-    "marketOverview": "Sonntagnachmittag, Boersen fuer Aktien/ETFs/Rohstoffe weiter geschlossen (TSLA unveraendert). BTC bei 85.210 USD (+0,48% 24h) und SOL bei 121,62 USD (+2,00% 24h) via CoinGecko-API (live), beide leicht ueber dem letzten Lauf. Altcoin-Rotation (XRP/SOL) haelt laut Marktberichten an (Solana-ETF-Zufluesse, XRP-ETF-Spekulation), naechste Makro-Katalysatoren erst US-Arbeitsmarktbericht (09.10.) und CPI (13.10.) - kein frischer, heute wirksamer Katalysator.",
-    "decision": "Kein Trade in diesem Lauf. Offene Positionen (BTC, SOL) bewegen sich leicht im Plus (BTC +0,21%, SOL +1,35% seit Kauf), keine Stop-Loss- oder Gewinnmitnahme-Schwelle erreicht. TSLA bleibt ausserhalb der Handelszeiten (Wochenende) unveraendert. Freies Kapital bleibt mangels ueberzeugender neuer Gelegenheit und wegen geschlossener Boersen fuer Aktien/ETFs/Rohstoffe am Wochenende investiert in keine neue Position.",
-    "reasoning": "Kapitalregeln eingehalten: Tagesbudget-Gutschrift bereits heute erfolgt (lastGrantDate=2026-10-04, keine erneute Gutschrift in diesem Lauf). Kein Verkauf, da keine Position eine Stop-Loss- oder Zielmarke erreicht hat. Kein Neukauf, da ausserhalb der Handelszeiten nur Krypto handelbar waere und die Websuche nur bereits bekannte, teils eingepreiste Narrative (Altcoin-Rotation) ohne frischen, heute wirksamen Katalysator liefert.",
+    "marketOverview": "Sonntagabend, Boersen fuer Aktien/ETFs/Rohstoffe weiter geschlossen (TSLA unveraendert bei 354,11 USD). BTC bei 85.299 USD (+0,60% 24h) und SOL bei 121,76 USD (+1,80% 24h) via CoinGecko-API (live), beide marginal ueber dem letzten Lauf. Keine frischen Katalysatoren: Altcoin-Rotation (XRP/SOL, Solana-ETF-Zufluesse) haelt laut Marktberichten unveraendert an, naechste Makro-Trigger erst US-Arbeitsmarktbericht (09.10.) und CPI (13.10.).",
+    "decision": "Kein Trade in diesem Lauf. Offene Positionen (BTC, SOL) bewegen sich weiterhin leicht im Plus (BTC +0,31%, SOL +1,47% seit Kauf), keine Stop-Loss- oder Gewinnmitnahme-Schwelle erreicht. TSLA bleibt ausserhalb der Handelszeiten (Wochenende) unveraendert. Freies Kapital (ca. 58.440,80 EUR) bleibt mangels ueberzeugender neuer Gelegenheit und wegen geschlossener Boersen fuer Aktien/ETFs/Rohstoffe am Wochenende nicht investiert.",
+    "reasoning": "Kapitalregeln eingehalten: Tagesbudget-Gutschrift bereits heute erfolgt (lastGrantDate=2026-10-04, keine erneute Gutschrift in diesem Lauf). Kein Verkauf, da keine Position eine Stop-Loss- oder Zielmarke erreicht hat. Kein Neukauf, da ausserhalb der Handelszeiten nur Krypto handelbar waere und die Websuche erneut nur bereits bekannte, teils eingepreiste Narrative (Altcoin-Rotation) ohne frischen, heute wirksamen Katalysator liefert.",
     "positionIds": [
       "pos-0018",
       "pos-0027",
       "pos-0028"
     ],
-    "portfolioValueEnd": 2005.7,
+    "portfolioValueEnd": 2007.25,
     "updates": [
       {
         "time": "00:07",
@@ -7730,6 +7730,11 @@
         "time": "16:07",
         "note": "Keine Aenderung, Kursupdate BTC (85.210 USD, +0,48% 24h)/SOL (121,62 USD, +2,00% 24h) via CoinGecko-API (live), Websuche nur bekannte Altcoin-Rotations-Narrative ohne frischen Katalysator, TSLA ausserhalb der Handelszeiten (Wochenende) unveraendert - kein Trade",
         "portfolioValue": 2005.7
+      },
+      {
+        "time": "17:07",
+        "note": "Keine Aenderung, Kursupdate BTC (85.299 USD, +0,60% 24h)/SOL (121,76 USD, +1,80% 24h) via CoinGecko-API (live), Websuche weiterhin nur bekannte Altcoin-Rotations-Narrative ohne frischen Katalysator, TSLA ausserhalb der Handelszeiten (Wochenende) unveraendert - kein Trade",
+        "portfolioValue": 2007.25
       }
     ]
   }
