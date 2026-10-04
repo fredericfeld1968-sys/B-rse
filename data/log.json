@@ -7636,15 +7636,15 @@
   },
   {
     "date": "2026-10-04",
-    "marketOverview": "Sonntagnachmittag, Boersen fuer Aktien/ETFs/Rohstoffe weiter geschlossen (TSLA unveraendert). BTC bei 85.350 USD (+0,80% 24h) und SOL bei 121,50 USD (+1,77% 24h) via CoinGecko-API (live), beide leicht fester als beim letzten Lauf. Websuche liefert weiterhin nur generische Uptober-/Altseason-Narrative und widerspruechliche SEO-Prognosen ohne neuen, konkreten, mehrfach bestaetigten Katalysator.",
-    "decision": "Kein Trade in diesem Lauf. Offene Positionen (BTC, SOL) bewegen sich minimal im Plus (BTC +0,37%, SOL +1,25% seit Kauf), keine Stop-Loss- oder Gewinnmitnahme-Schwelle erreicht. TSLA bleibt ausserhalb der Handelszeiten (Wochenende) unveraendert. Freies Kapital bleibt mangels ueberzeugender neuer Gelegenheit und wegen geschlossener Boersen fuer Aktien/ETFs/Rohstoffe am Wochenende investiert in keine neue Position.",
+    "marketOverview": "Sonntagnachmittag, Boersen fuer Aktien/ETFs/Rohstoffe weiter geschlossen (TSLA unveraendert). BTC bei 85.140 USD (+0,38% 24h) und SOL bei 121,35 USD (+1,52% 24h) via CoinGecko-API (live), beide marginal unter dem letzten Lauf. Websuche liefert weiterhin nur bereits bekannte Hintergrundfaktoren (CME-BCH-Futures-Start 19.10., Citi-BTC-Kursziel-Anhebung auf 113.000 USD vom 03.10., SEC-Custody-Regeln vom 01.10.) ohne neuen, heute frischen Katalysator.",
+    "decision": "Kein Trade in diesem Lauf. Offene Positionen (BTC, SOL) bewegen sich minimal im Plus (BTC +0,12%, SOL +1,12% seit Kauf), keine Stop-Loss- oder Gewinnmitnahme-Schwelle erreicht. TSLA bleibt ausserhalb der Handelszeiten (Wochenende) unveraendert. Freies Kapital bleibt mangels ueberzeugender neuer Gelegenheit und wegen geschlossener Boersen fuer Aktien/ETFs/Rohstoffe am Wochenende investiert in keine neue Position.",
     "reasoning": "Kapitalregeln eingehalten: Tagesbudget-Gutschrift bereits heute erfolgt (lastGrantDate=2026-10-04, keine erneute Gutschrift in diesem Lauf). Kein Verkauf, da keine Position eine Stop-Loss- oder Zielmarke erreicht hat. Kein Neukauf, da ausserhalb der Handelszeiten nur Krypto handelbar waere und die Websuche keine ueberzeugende, frische, mehrfach bestaetigte Gelegenheit liefert.",
     "positionIds": [
       "pos-0018",
       "pos-0027",
       "pos-0028"
     ],
-    "portfolioValueEnd": 2006.15,
+    "portfolioValueEnd": 2003.55,
     "updates": [
       {
         "time": "00:07",
@@ -7720,6 +7720,11 @@
         "time": "14:09",
         "note": "Keine Aenderung, Kursupdate BTC (85.350 USD, +0,80% 24h)/SOL (121,50 USD, +1,77% 24h) via CoinGecko-API (live), Websuche weiterhin nur generische Uptober-Narrative ohne frischen Katalysator, TSLA ausserhalb der Handelszeiten (Wochenende) unveraendert - kein Trade",
         "portfolioValue": 2006.15
+      },
+      {
+        "time": "15:10",
+        "note": "Keine Aenderung, Kursupdate BTC (85.140 USD, +0,38% 24h)/SOL (121,35 USD, +1,52% 24h) via CoinGecko-API (live), Websuche nur bereits bekannte Hintergrundfaktoren ohne frischen Katalysator, TSLA ausserhalb der Handelszeiten (Wochenende) unveraendert - kein Trade",
+        "portfolioValue": 2003.55
       }
     ]
   }
