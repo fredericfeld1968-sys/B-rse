@@ -7636,15 +7636,15 @@
   },
   {
     "date": "2026-10-04",
-    "marketOverview": "Sonntagvormittag weiterhin ruhig: Bitcoin seitwaerts um 85.050-85.120 USD (24h ca. +0,5%), Solana leicht fester um 120,8-121 USD (24h ca. +1,3%) - live via CoinGecko-API bestaetigt. Websuche liefert erneut nur veraltete/widerspruechliche Treffer (alte Jackson-Hole-/Warsh-Nominierungs-Artikel, Forecast-Seiten) ohne neuen, heute wirksamen Katalysator. Aktien/ETFs/Rohstoffe bleiben am Wochenende ungehandelt.",
-    "decision": "Kein Trade in diesem Lauf. Offene Positionen (BTC, SOL) bewegen sich weiterhin nur minimal (BTC +0,02%, SOL +0,68% seit Kauf), keine Stop-Loss- oder Gewinnmitnahme-Schwelle erreicht. TSLA bleibt ausserhalb der Handelszeiten unveraendert. Freies Kapital bleibt mangels ueberzeugender neuer Gelegenheit diszipliniert ungenutzt.",
-    "reasoning": "Live-Kurse (CoinGecko-API): BTC 85.056 USD (+0,51% 24h), SOL 120,81 USD (+1,27% 24h) - beide nur marginale Bewegungen ohne Ausbruchscharakter. Websuche nach frischen Katalysatoren lieferte erneut nur alte/veraltete Treffer (Warsh-Fed-Nominierung, Jackson-Hole-Analysen aus dem Sommer) ohne bestaetigten heutigen Trigger. Passend zum spekulativen Profil wird nur bei klar bestaetigtem Ausbruch gehandelt.",
+    "marketOverview": "Sonntag, Boersen fuer Aktien/ETFs/Rohstoffe geschlossen. BTC bei 85.243 USD (+0,79% 24h) und SOL bei 121,44 USD (+1,73% 24h) leicht fester (CoinGecko Live-API). Websuche liefert nur generische Q4-Saisonalitaets-Kommentare zu Altcoins sowie veraltete/unbestaetigte SEO-Treffer (z.B. BTC angeblich >120.000 USD, per Live-API widerlegt) - kein frischer, heute wirksamer Katalysator fuer Aktien, ETFs oder Rohstoffe erkennbar.",
+    "decision": "Kein Trade in diesem Lauf. Offene Positionen (BTC, SOL) legen minimal zu (BTC +0,24%, SOL +1,20% seit Kauf), keine Stop-Loss- oder Gewinnmitnahme-Schwelle erreicht. TSLA bleibt ausserhalb der Handelszeiten (Wochenende) unveraendert. Freies Kapital bleibt mangels ueberzeugender neuer Gelegenheit und wegen geschlossener Boersen fuer Aktien/ETFs/Rohstoffe am Wochenende investiert in keine neue Position.",
+    "reasoning": "Kapitalregeln eingehalten: Tagesbudget-Gutschrift bereits heute erfolgt (lastGrantDate=2026-10-04, keine erneute Gutschrift). Kein Verkauf, da keine Position eine Stop-Loss- oder Zielmarke erreicht hat. Kein Neukauf, da ausserhalb der Handelszeiten nur Krypto handelbar waere und die Websuche keine ueberzeugende, frische, mehrfach bestaetigte Gelegenheit liefert.",
     "positionIds": [
       "pos-0018",
       "pos-0027",
       "pos-0028"
     ],
-    "portfolioValueEnd": 1999.71,
+    "portfolioValueEnd": 2004.92,
     "updates": [
       {
         "time": "00:07",
@@ -7705,6 +7705,11 @@
         "time": "11:08",
         "note": "Keine Aenderung, Kursupdate BTC (85.056 USD, +0,51% 24h)/SOL (120,81 USD, +1,27% 24h) via CoinGecko-API (live), Websuche liefert nur veraltete Treffer (alte Warsh-/Jackson-Hole-Artikel) ohne frischen Katalysator, TSLA ausserhalb der Handelszeiten (Wochenende) unveraendert - kein Trade",
         "portfolioValue": 1999.71
+      },
+      {
+        "time": "12:08",
+        "note": "Keine Aenderung, Kursupdate BTC (85.243 USD, +0,79% 24h)/SOL (121,44 USD, +1,73% 24h) via CoinGecko-API (live), Websuche nur generische Q4-Saisonalitaets-Kommentare zu Altcoins ohne frischen Katalysator (SEO-Treffer zu BTC >120.000 USD per Live-API widerlegt), TSLA ausserhalb der Handelszeiten (Wochenende) unveraendert - kein Trade",
+        "portfolioValue": 2004.92
       }
     ]
   }
