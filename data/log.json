@@ -7770,16 +7770,16 @@
   },
   {
     "date": "2026-10-05",
-    "marketOverview": "Montag 18:08 MESZ, US-Kassamarkt weiterhin offen (Dow/S&P/Nasdaq gemischt nach dem schwachen Arbeitsmarktbericht, 10J-Rendite ~5,25%, Markt wartet auf Fed-Protokolle 07.10.). BTC pendelt weiter seitwaerts um ca. 86.400 USD, SOL um ca. 120,6 USD (CoinGecko/Yahoo, live). TSLA bei ca. 367,60 USD, leicht unter dem Tageshoch nach starken Q3-Auslieferungszahlen. Frischer, mehrfach unabhaengig bestaetigter Ausbruch bei Cardano (ADA): +11-11,5% in 24h auf 3-Monats-Hoch (~0,2722-0,2732 USD), getrieben von einem neuen Golden Cross und steigendem Futures-Open-Interest (FXStreet, TradersUnion, CryptoTimes, Coinpedia, Yahoo Finance).",
-    "decision": "Kursupdate BTC pos-0018 (86.430 USD, +1,64%), SOL pos-0027 (120,65 USD, +0,54%) und TSLA pos-0028 (367,60 USD, +2,91%) - alle weiterhin deutlich innerhalb der Halteband-/Stop-Loss-Schwellen, kein Verkauf. Neue spekulative Position pos-0029 Cardano (ADA), 700 EUR bei 0,2732 USD, auf den frisch bestaetigten Golden-Cross-Ausbruch (+11% in 24h, 3-Monats-Hoch, mehrfach unabhaengig bestaetigt).",
-    "reasoning": "ADA zeigt im Gegensatz zu den bereits mehrere Tage laufenden und ueberdehnten Altcoin-Bewegungen (QNT/AAVE/SUI) einen frischen, heute erst bestaetigten technischen Ausbruch mit klarer Kursreaktion und sechs unabhaengigen Quellen (FXStreet, TradersUnion, CryptoTimes, 99Bitcoins, Coinpedia, Yahoo Finance). Passend zum spekulativen Profil wird die Gelegenheit kurzfristig gespielt, mit engem Stop-Loss (~-6,5 bis -7,5%) angesichts der dokumentierten historischen Schwaeche frueherer ADA-Golden-Cross-Signale und des parallel fallenden DEX-Volumens. BTC/SOL/TSLA bleiben unveraendert offen, kein Grund zum Glattstellen.",
+    "marketOverview": "Montag 19:08 MESZ, US-Kassamarkt weiterhin offen (S&P 500/Nasdaq/Dow nach dem schwachen Arbeitsmarktbericht und vor den Fed-Protokollen (07.10.) im Plus, S&P 500 Freitag bei 7.722,72, +0,7%). BTC pendelt weiter seitwaerts um ca. 86.100-86.400 USD (Yahoo Finance, CoinGecko), SOL knapp unter 121 USD, TSLA bei 370,59 USD nahe Tageshoch nach starken Q3-Auslieferungszahlen. ADA (0,2722 USD) konsolidiert leicht unter dem heutigen Golden-Cross-Hoch von 0,2749 USD; Krypto-Research meldet einsetzende Altcoin-Gewinnmitnahmen (steigende Exchange-Zuflüsse) ohne akuten Handlungsdruck fuer die offenen Positionen.",
+    "decision": "Kursupdate BTC pos-0018 (86.430 USD, +1,64%), SOL pos-0027 (120,65 USD, +0,54%) und TSLA pos-0028 (367,60 USD, +2,91%) - alle weiterhin deutlich innerhalb der Halteband-/Stop-Loss-Schwellen, kein Verkauf. Neue spekulative Position pos-0029 Cardano (ADA), 700 EUR bei 0,2732 USD, auf den frisch bestaetigten Golden-Cross-Ausbruch (+11% in 24h, 3-Monats-Hoch, mehrfach unabhaengig bestaetigt). Lauf 19:08: keine Veraenderung, alle vier offenen Positionen (BTC, SOL, TSLA, ADA) bleiben deutlich innerhalb der Halteband-/Stop-Loss-Schwellen.",
+    "reasoning": "ADA zeigt im Gegensatz zu den bereits mehrere Tage laufenden und ueberdehnten Altcoin-Bewegungen (QNT/AAVE/SUI) einen frischen, heute erst bestaetigten technischen Ausbruch mit klarer Kursreaktion und sechs unabhaengigen Quellen (FXStreet, TradersUnion, CryptoTimes, 99Bitcoins, Coinpedia, Yahoo Finance). Passend zum spekulativen Profil wird die Gelegenheit kurzfristig gespielt, mit engem Stop-Loss (~-6,5 bis -7,5%) angesichts der dokumentierten historischen Schwaeche frueherer ADA-Golden-Cross-Signale und des parallel fallenden DEX-Volumens. BTC/SOL/TSLA bleiben unveraendert offen, kein Grund zum Glattstellen. Im 19:08-Lauf kein frischer, ueberzeugender Katalysator; einsetzende Altcoin-Gewinnmitnahmen sind noch kein Stop-Loss-Signal fuer SOL/ADA, daher kein Verkauf, und keine neue ueberzeugende Gelegenheit fuer eine Neuposition.",
     "positionIds": [
       "pos-0018",
       "pos-0027",
       "pos-0028",
       "pos-0029"
     ],
-    "portfolioValueEnd": 2732.74,
+    "portfolioValueEnd": 2734.31,
     "updates": [
       {
         "time": "00:07",
@@ -7875,6 +7875,11 @@
         "time": "18:08",
         "note": "Kauf Cardano (ADA) 700 EUR bei 0,2732 USD - bestaetigter Golden-Cross-Ausbruch (+11% 24h, 3-Monats-Hoch). Kursupdate BTC (86.430 USD)/SOL (120,65 USD)/TSLA (367,60 USD).",
         "portfolioValue": 2732.74
+      },
+      {
+        "time": "19:08",
+        "note": "Keine Aenderung, Kursupdate BTC (86.300 USD)/SOL (120,68 USD)/TSLA (370,59 USD)/ADA (0,2722 USD), Websuche zeigt einsetzende Altcoin-Gewinnmitnahmen aber keinen frischen handlungsrelevanten Katalysator - kein Trade",
+        "portfolioValue": 2734.31
       }
     ]
   }
