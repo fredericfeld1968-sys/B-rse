@@ -7770,16 +7770,16 @@
   },
   {
     "date": "2026-10-05",
-    "marketOverview": "US-Maerkte beendeten die Vorwoche mit Rekordstaenden (S&P 500 7.722, Nasdaq 27.191) nach einem schwachen Arbeitsmarktbericht, der Zinssenkungshoffnungen staerkt; der andauernde Regierungs-Shutdown wird vom Markt bislang kaum eingepreist. Bitcoin konsolidiert bei ca. 86.000-86.600 USD, Solana bei ca. 121 USD. Tesla bleibt nach starken Q3-Auslieferungszahlen gefragt (+4-5% seit Donnerstag) und profitiert zusaetzlich von Musks bestaetigten TSMC-Terafab-Gespraechen. Cardano konsolidiert nach dem bestaetigten Golden-Cross-Ausbruch vom Vortag knapp unter 0,273 USD.",
-    "decision": "Tagesbilanz: Ein Trade (Kauf ADA 700 EUR um 18:08 auf bestaetigten Golden-Cross-Ausbruch). Alle vier offenen Positionen (BTC, SOL, TSLA, ADA) liegen im moderaten Plus/Minus-Bereich, keine erreicht die etablierte Gewinnmitnahme- (7-9%) oder Stop-Loss-Schwelle (-6,5 bis -7,5%). Kein frischer, ueberzeugender Katalysator fuer weitere Trades in diesem Lauf.",
-    "reasoning": "BTC (+1,31%), SOL (+0,50%) und TSLA (+3,02%) bleiben moderat positiv, leicht abgeschwächt gegenüber dem letzten Lauf (US-Markt naeherte sich dem Handelsschluss um 22:00 MESZ), ADA (-0,37%) unveraendert seit dem Kauf am Nachmittag - alle klar innerhalb der Haltezone. Websuche zeigt sonst nur bereits gehandelte/recycelte Katalysatoren (QNT-Rally seit 25.09. bekannt, Ethena-Unlock bereits am 26.09. als Stop-Loss-Grund verwendet) oder einzelquellige, nicht ausreichend bestaetigte Bewegungen (SUI +6,9%, ZRO +11%) - kein neuer, mehrfach bestaetigter Trade-Ausloeser, daher bewusst kein weiterer Trade trotz hohem freiem Kapital.",
+    "marketOverview": "Bitcoin konsolidiert via CoinGecko-Live-API bei ca. 85.665 USD (+0,33% 24h), Solana bei 120,22 USD (-0,38% 24h), Cardano bei 0,2662 USD (+5,73% 24h, aber unter Kaufkurs vom Nachmittag). US-Aktienmarkt hat um 22:00 MESZ geschlossen (Tesla zuletzt 368 USD, +3,02% seit Kauf), daher jetzt nur Krypto handelbar. Fokusthema bleibt die Fed-Sitzung am 28.10. (Zinserhoehungs-Wahrscheinlichkeit laut Berichten gestiegen); Websuche liefert sonst nur widersprüchliche/veraltete Alt-Coin-Meldungen ohne verlässliche, mehrfach bestätigte frische Katalysatoren.",
+    "decision": "Tagesbilanz unveraendert: Ein Trade heute (Kauf ADA 700 EUR um 18:08 auf bestaetigten Golden-Cross-Ausbruch). Alle vier offenen Positionen (BTC +0,74%, SOL +0,18%, TSLA +3,02%, ADA -2,56%) liegen weiter im moderaten Bereich, keine erreicht Gewinnmitnahme- (7-9%) oder Stop-Loss-Schwelle (-6,5 bis -7,5%). Kein neuer Trade in diesem Lauf.",
+    "reasoning": "BTC und SOL nahezu unveraendert zum letzten Lauf, ADA hat sich seit Kauf leicht auf -2,56% abgeschwaecht (Live-Kurs 0,266203 USD via CoinGecko), bleibt aber klar innerhalb der Haltezone. TSLA ausserhalb der Handelszeiten (US-Markt seit 22:00 MESZ geschlossen) unveraendert gegenueber dem letzten Kassa-Kurs. Websuchergebnisse zu angeblichen Altcoin-Gewinnern (ZEC, TAO, DOGE +19%) stammen aus nicht datierten/widersprüchlichen Aggregator-Seiten und widersprechen dem verifizierten Live-BTC-Kurs - kein belastbarer, mehrfach unabhaengig bestaetigter frischer Katalysator, daher bewusst kein weiterer Trade trotz hohem freiem Kapital.",
     "positionIds": [
       "pos-0018",
       "pos-0027",
       "pos-0028",
       "pos-0029"
     ],
-    "portfolioValueEnd": 2728.26,
+    "portfolioValueEnd": 2706.68,
     "updates": [
       {
         "time": "00:07",
@@ -7890,6 +7890,11 @@
         "time": "21:08",
         "note": "Keine Aenderung, Kursupdate BTC (86.150 USD, +1,31% seit Kauf)/SOL (120,60 USD, +0,50% seit Kauf)/TSLA (368,00 USD, +3,02% seit Kauf, kurz vor US-Handelsschluss 22:00 MESZ)/ADA (0,2722 USD, -0,37% seit Kauf), Websuche liefert nur recycelte (QNT, ENA) oder einzelquellige, unbestaetigte Bewegungen (SUI, ZRO) - kein Trade",
         "portfolioValue": 2728.26
+      },
+      {
+        "time": "22:09",
+        "note": "Keine Aenderung, Kursupdate BTC (85.665 USD, +0,74% seit Kauf)/SOL (120,22 USD, +0,18% seit Kauf)/ADA (0,266203 USD, -2,56% seit Kauf) via CoinGecko-API (live); TSLA ausserhalb der Handelszeiten (US-Markt seit 22:00 MESZ geschlossen) unveraendert bei 368,00 USD. Websuche liefert nur widersprüchliche/undatierte Altcoin-Meldungen ohne verlaesslichen frischen Katalysator - kein Trade",
+        "portfolioValue": 2706.68
       }
     ]
   }
