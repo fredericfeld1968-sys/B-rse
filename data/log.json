@@ -7770,15 +7770,15 @@
   },
   {
     "date": "2026-10-05",
-    "marketOverview": "Montag 15:12 MESZ, Xetra weiterhin offen (bis 17:30), US-Kassamarkt (TSLA) noch nicht geoeffnet (Start 15:30 MESZ). BTC bei 86.106 USD (+1,14% 24h) und SOL bei 120,60 USD (-0,67% 24h) via CoinGecko-API (live) - beide praktisch unveraendert zum letzten Lauf (14:18), weiterhin im etablierten Seitwaerts-Band. Laut Marktberichten (crypto.news) ist der BTC-Ausbruchsversuch ueber die 2026-Eroeffnungsmarke (87.570 USD) bereits zum vierten Mal seit dem 21.09. gescheitert, kein neuer bestaetigter Katalysator. Bei Aktien ruhiger Wochenauftakt (DAX ca. 25.285 Pkt., leicht im Plus), US-Futures uneinheitlich vor duenner Nachrichtenlage. XRP/ADA zeigen technische Setups (Cup-and-Handle bzw. Widerstandsausbruch), aber noch ohne bestaetigten Kurssprung.",
-    "decision": "Kein Trade in diesem Lauf. Tagesbudget bereits gutgeschrieben (lastGrantDate = heute). Kursupdate BTC pos-0018 (86.106 USD, +1,26% seit Kauf) und SOL pos-0027 (120,60 USD, +0,50% seit Kauf) via CoinGecko-API (live) - beide deutlich innerhalb der Halteband-/Stop-Loss-Schwellen offen. TSLA pos-0028 vor US-Marktoeffnung (15:30 MESZ) unveraendert (+3,75%). Keine ueberzeugende neue Gelegenheit gefunden (XRP/ADA-Setups noch unbestaetigt, BTC-Ausbruch wiederholt gescheitert), daher keine Transaktion.",
-    "reasoning": "Weder bei Krypto (BTC/SOL weiterhin seitwaerts, BTC-Ausbruch ueber 87.570 USD zum vierten Mal gescheitert) noch bei Aktien/ETFs/Rohstoffen ein frischer, mehrfach unabhaengig bestaetigter Katalysator mit klarer Kursreaktion gefunden; XRP-Cup-and-Handle und ADA-Widerstandsausbruch sind technische Setups ohne bestaetigten Ausbruch. Passend zum spekulativen Profil wird nur bei klar bestaetigtem Ausbruch gehandelt; freies Kapital (ca. 59.440,80 EUR) bleibt mangels ueberzeugender Gelegenheit diszipliniert ungenutzt.",
+    "marketOverview": "Montag 16:09 MESZ, Xetra weiterhin offen (bis 17:30), US-Kassamarkt seit 15:30 MESZ geoeffnet - S&P 500 und Nasdaq leicht im Plus, Dow leicht im Minus, 10-Jahres-Rendite weiter erhoeht (~5,25%) trotz schwachem Septemberjobsbericht; Markt wartet auf die Fed-Sitzungsprotokolle (07.10.). TSLA sprang nach starken Q3-Auslieferungszahlen (486.532 Fahrzeuge, ueber Konsens) zunaechst auf ueber 370 USD, gibt seither leicht nach auf ca. 367,60 USD. BTC bei ca. 86.200 USD und SOL bei ca. 120,70 USD via CoinGecko/Coinbase (live) - beide weiterhin im etablierten Seitwaerts-Band ohne frischen Ausbruch.",
+    "decision": "Kein Trade in diesem Lauf. Tagesbudget bereits gutgeschrieben (lastGrantDate = heute). Kursupdate BTC pos-0018 (86.200 USD, +1,37% seit Kauf), SOL pos-0027 (120,70 USD, +0,58% seit Kauf) und TSLA pos-0028 (367,60 USD, +2,91% seit Kauf, nach US-Marktoeffnung leicht von den Tageshochs zurueckgekommen) - alle drei deutlich innerhalb der Halteband-/Stop-Loss-Schwellen offen. Keine ueberzeugende neue Gelegenheit gefunden (kein frischer, mehrfach bestaetigter Einzeltitel-Katalysator trotz offenem Aktien-/Kryptomarkt), daher keine Transaktion.",
+    "reasoning": "Weder bei Krypto (BTC/SOL weiterhin seitwaerts ohne bestaetigten Ausbruch) noch bei Aktien/ETFs/Rohstoffen ein frischer, mehrfach unabhaengig bestaetigter Katalysator mit klarer Kursreaktion gefunden; TSLA-Post-Delivery-Pop ist bereits eingepreist und konsolidiert leicht. Passend zum spekulativen Profil wird nur bei klar bestaetigtem Ausbruch gehandelt; freies Kapital (ca. 59.441 EUR) bleibt mangels ueberzeugender Gelegenheit diszipliniert ungenutzt.",
     "positionIds": [
       "pos-0018",
       "pos-0027",
       "pos-0028"
     ],
-    "portfolioValueEnd": 2034.81,
+    "portfolioValueEnd": 2031.15,
     "updates": [
       {
         "time": "00:07",
@@ -7859,6 +7859,11 @@
         "time": "15:12",
         "note": "Keine Aenderung, Kursupdate BTC (86.106 USD, +1,14% 24h)/SOL (120,60 USD, -0,67% 24h) via CoinGecko-API (live), Websuche: BTC-Ausbruch ueber 87.570 USD erneut (4.) gescheitert, XRP/ADA-Setups noch unbestaetigt, TSLA vor US-Marktoeffnung unveraendert - kein Trade",
         "portfolioValue": 2034.81
+      },
+      {
+        "time": "16:09",
+        "note": "Keine Aenderung, Kursupdate BTC (86.200 USD)/SOL (120,70 USD)/TSLA (367,60 USD, nach US-Marktoeffnung leicht unter Tageshoch von 370,80 USD), kein frischer ueberzeugender Katalysator trotz offenem Aktien- und Kryptomarkt - kein Trade",
+        "portfolioValue": 2031.15
       }
     ]
   }
