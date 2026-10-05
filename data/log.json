@@ -7770,15 +7770,15 @@
   },
   {
     "date": "2026-10-05",
-    "marketOverview": "Montag 05:08, Boersen fuer Aktien/ETFs/Rohstoffe weiterhin geschlossen (TSLA unveraendert bei 354,11 USD, US-Kassamarkt oeffnet erst Montag 15:30 MESZ; Tesla kuendigt Event am 07.10. zu erschwinglichen E-Autos an). BTC bei 86.397 USD (+1,90% 24h) und SOL bei 121,00 USD (+0,60% 24h) via CoinGecko-API (live). US-Spot-Bitcoin-ETFs verzeichneten in der Woche bis 25.09. Nettozufluesse von 2,4 Mrd. USD (hoechster Wert seit Okt. 2025). Hauptrisiko fuer die Woche: moeglicher US-Regierungsshutdown ab dieser Woche, der BLS-Daten verzoegern koennte. Kein frischer, kurzfristig handlungsrelevanter Katalysator fuer Krypto erkennbar.",
-    "decision": "Kein Trade in diesem Lauf. Tagesbudget fuer den 05.10. bereits gutgeschrieben (totalFreshCapitalEur unveraendert bei 62.000). Offene Positionen (BTC, SOL) bewegen sich weiterhin nur leicht im Plus (BTC +1,60%, SOL +0,83% seit Kauf), keine Stop-Loss- oder Gewinnmitnahme-Schwelle erreicht. TSLA bleibt ausserhalb der Handelszeiten unveraendert.",
-    "reasoning": "Kein Trade in diesem Lauf. Offene Positionen (BTC, SOL) bewegen sich weiterhin nur leicht im Plus, keine Stop-Loss- oder Gewinnmitnahme-Schwelle erreicht. TSLA bleibt ausserhalb der Handelszeiten (Montag, 05:08) unveraendert. Freies Kapital von ca. 59.440,80 EUR vorhanden, aber ohne frisch bestaetigten, kurzfristig handlungsrelevanten Katalysator (nur bekannte Themen: ETF-Zufluesse, Regierungsshutdown-Risiko) wird auf eine echte Gelegenheit gewartet statt ins Blaue hinein gehandelt.",
+    "marketOverview": "Montag 06:08, Boersenhandel fuer Aktien/ETFs/Rohstoffe weiterhin geschlossen (US-Vormarkt startet erst ab 10:00 MESZ, regulaerer Handel 15:30 MESZ; TSLA letzter realer Schlusskurs vom Freitag bei 370,59 USD, +4,65% ggue. Donnerstag-Schluss 354,11 USD - Kursmarke nachgetragen, da ueber das Wochenende unveraendert verfolgt wurde). BTC bei 86.085 USD (+1,49% 24h) und SOL bei 120,50 USD (-0,13% 24h) via CoinGecko-API (live). Weiterhin im Fokus: moeglicher US-Regierungsshutdown, der regulatorische Krypto-Vorhaben (SEC/CFTC) verzoegern koennte; Marktteilnehmer im Wait-and-see-Modus. Kein frischer, kurzfristig handlungsrelevanter Katalysator fuer Krypto erkennbar.",
+    "decision": "Kein Trade in diesem Lauf. Tagesbudget fuer den 05.10. bereits gutgeschrieben (totalFreshCapitalEur unveraendert bei 62.000). Offene Positionen (BTC, SOL, TSLA) bewegen sich weiterhin nur leicht im Plus (BTC +1,23%, SOL +0,42%, TSLA +3,75%), keine Stop-Loss- oder Gewinnmitnahme-Schwelle erreicht. TSLA-Kursmarke auf den tatsaechlichen letzten Schlusskurs (370,59 USD, Freitag) nachgezogen, da sie uebers Wochenende faelschlich bei 354,11 USD eingefroren war.",
+    "reasoning": "Kein Trade in diesem Lauf. BTC und SOL bewegen sich seitwaerts ohne neuen Katalysator; TSLA bleibt ausserhalb der Handelszeiten (Boersenoeffnung erst 15:30 MESZ) unveraendert, die Kursmarke wurde jedoch auf den zuletzt tatsaechlich gehandelten Schlusskurs korrigiert. Freies Kapital von ca. 59.440,80 EUR vorhanden, aber ohne frisch bestaetigten, kurzfristig handlungsrelevanten Katalysator (nur bekannte Themen: Regierungsshutdown-Risiko, allgemeine ETF-Zufluesse) wird auf eine echte Gelegenheit gewartet statt ins Blaue hinein gehandelt.",
     "positionIds": [
       "pos-0018",
       "pos-0027",
       "pos-0028"
     ],
-    "portfolioValueEnd": 2011.85,
+    "portfolioValueEnd": 2034.05,
     "updates": [
       {
         "time": "00:07",
@@ -7809,6 +7809,11 @@
         "time": "05:08",
         "note": "Keine Aenderung, Kursupdate BTC (86.397 USD, +1,90% 24h)/SOL (121,00 USD, +0,60% 24h) via CoinGecko-API (live), Websuche zeigt US-Spot-BTC-ETF-Zufluesse (+2,4 Mrd. USD/Woche) und Regierungsshutdown-Risiko, aber keinen frischen handlungsrelevanten Katalysator, TSLA ausserhalb der Handelszeiten unveraendert - kein Trade",
         "portfolioValue": 2011.85
+      },
+      {
+        "time": "06:08",
+        "note": "Keine Aenderung, Kursupdate BTC (86.085 USD, +1,49% 24h)/SOL (120,50 USD, -0,13% 24h) via CoinGecko-API (live); TSLA-Kursmarke auf tatsaechlichen Freitags-Schlusskurs (370,59 USD) korrigiert, da sie uebers Wochenende bei 354,11 USD stehengeblieben war. Websuche ohne frischen handlungsrelevanten Katalysator, Boersen ausserhalb der Handelszeiten - kein Trade",
+        "portfolioValue": 2034.05
       }
     ]
   }
