@@ -7770,15 +7770,15 @@
   },
   {
     "date": "2026-10-05",
-    "marketOverview": "Montag 01:08, Boersen fuer Aktien/ETFs/Rohstoffe weiterhin geschlossen (TSLA unveraendert bei 354,11 USD, US-Kassamarkt oeffnet erst Montag 15:30 MESZ). BTC bei 86.523 USD (+2,09% 24h) und SOL bei 121,91 USD (+1,88% 24h) via CoinGecko-API (live), beide mit leichtem Aufwaertsdrift im Rahmen der generischen 'Uptober'-Stimmung. Keine frischen, konkret bestaetigten Einzelkatalysatoren in der Websuche - nur generische Jahresend-Prognosen und TOTAL3-Chartanalysen ohne aktuellen Handlungsdruck.",
-    "decision": "Kein Trade in diesem Lauf. Tagesbudget fuer den 05.10. bereits im vorherigen Lauf gutgeschrieben (totalFreshCapitalEur unveraendert bei 62.000). Offene Positionen (BTC, SOL) bewegen sich weiterhin nur leicht im Plus (BTC +1,75%, SOL +1,59% seit Kauf), keine Stop-Loss- oder Gewinnmitnahme-Schwelle erreicht. TSLA bleibt ausserhalb der Handelszeiten unveraendert.",
-    "reasoning": "Kein Trade in diesem Lauf. Offene Positionen (BTC, SOL) bewegen sich weiterhin nur leicht im Plus (BTC +1,75%, SOL +1,59% seit Kauf), keine Stop-Loss- oder Gewinnmitnahme-Schwelle erreicht. TSLA bleibt ausserhalb der Handelszeiten (Montag, 01:08) unveraendert. Freies Kapital von ca. 59.440,80 EUR vorhanden, aber ohne ueberzeugenden, frisch bestaetigten Katalysator (nur generische Uptober-/Jahresend-Prognosen) wird passend zum spekulativen Kurzfrist-Profil auf eine echte Gelegenheit gewartet statt ins Blaue hinein gehandelt.",
+    "marketOverview": "Montag 02:08, Boersen fuer Aktien/ETFs/Rohstoffe weiterhin geschlossen (TSLA unveraendert bei 354,11 USD, US-Kassamarkt oeffnet erst Montag 15:30 MESZ). BTC bei 86.434 USD (+1,92% 24h) und SOL bei 121,44 USD (+1,48% 24h) via CoinGecko-API (live). Websuche: Bitcoin-ETFs mit starken Zufluessen (~2,4 Mrd. USD Ende September), generische Uptober-Saisonalitaet, Solana-Katalysatoren (Alpenglow-Upgrade, Staking-ETF-Antraege bei der SEC) erst mittelfristig relevant, FOMC-Sitzung erst 27./28.10. Keine frischen, konkret handlungsrelevanten Einzelkatalysatoren fuer sofortigen Trade.",
+    "decision": "Kein Trade in diesem Lauf. Tagesbudget fuer den 05.10. bereits gutgeschrieben (totalFreshCapitalEur unveraendert bei 62.000). Offene Positionen (BTC, SOL) bewegen sich weiterhin nur leicht im Plus (BTC +1,65%, SOL +1,20% seit Kauf), keine Stop-Loss- oder Gewinnmitnahme-Schwelle erreicht. TSLA bleibt ausserhalb der Handelszeiten unveraendert.",
+    "reasoning": "Kein Trade in diesem Lauf. Offene Positionen (BTC, SOL) bewegen sich weiterhin nur leicht im Plus, keine Stop-Loss- oder Gewinnmitnahme-Schwelle erreicht. TSLA bleibt ausserhalb der Handelszeiten (Montag, 02:08) unveraendert. Freies Kapital von ca. 59.440,80 EUR vorhanden, aber ohne frisch bestaetigten, kurzfristig handlungsrelevanten Katalysator (nur generische Uptober-Saisonalitaet und mittelfristige Solana-Themen) wird auf eine echte Gelegenheit gewartet statt ins Blaue hinein gehandelt.",
     "positionIds": [
       "pos-0018",
       "pos-0027",
       "pos-0028"
     ],
-    "portfolioValueEnd": 2018.2,
+    "portfolioValueEnd": 2014.73,
     "updates": [
       {
         "time": "00:07",
@@ -7789,6 +7789,11 @@
         "time": "01:08",
         "note": "Keine Aenderung, Kursupdate BTC (86.523 USD, +2,09% 24h)/SOL (121,91 USD, +1,88% 24h) via CoinGecko-API (live), Websuche ohne frischen Katalysator, TSLA ausserhalb der Handelszeiten unveraendert - kein Trade",
         "portfolioValue": 2018.2
+      },
+      {
+        "time": "02:08",
+        "note": "Keine Aenderung, Kursupdate BTC (86.434 USD, +1,92% 24h)/SOL (121,44 USD, +1,48% 24h) via CoinGecko-API (live), Websuche ohne frischen handlungsrelevanten Katalysator, TSLA ausserhalb der Handelszeiten unveraendert - kein Trade",
+        "portfolioValue": 2014.73
       }
     ]
   }
