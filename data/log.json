@@ -7770,15 +7770,15 @@
   },
   {
     "date": "2026-10-05",
-    "marketOverview": "Montag 13:11 MESZ, Xetra weiterhin offen (DAX ca. 26.140 Pkt., nahe 52-Wochen-Hoch, nahezu unveraendert), US-Kassamarkt (TSLA) erst ab 15:30 MESZ. BTC bei 85.930 USD (+0,79% 24h) und SOL bei 120,50 USD (-0,66% 24h) via CoinGecko-API (live), beide weiterhin seitwaerts im etablierten Band. Der grosse ENA-Investoren-Unlock (1,41 Mrd. ENA, ~212 Mio. USD, 14,3% des Umlaufangebots) ist heute wie erwartet erfolgt - bestaetigt die bereits am 02.10. vorgenommene Stop-Loss-Glattstellung der ENA-Position. US-Regierungsshutdown haelt an (Polymarket: ~70% Wahrscheinlichkeit, dass er bis mind. 15.10. andauert), Maerkte insgesamt aber robust (Erwartung +8% Q4-Rally laut Marktstrategen). Kein frischer, mehrfach bestaetigter handlungsrelevanter Katalysator bei Aktien, ETFs, Krypto oder Rohstoffen gefunden.",
-    "decision": "Kein Trade in diesem Lauf. Tagesbudget bereits gutgeschrieben (lastGrantDate = heute). Kursupdate BTC pos-0018 (85.930 USD, +1,05% seit Kauf) und SOL pos-0027 (120,50 USD, +0,42% seit Kauf) via CoinGecko-API (live) - beide deutlich innerhalb der Halteband-/Stop-Loss-Schwellen offen. TSLA pos-0028 ausserhalb der US-Handelszeiten unveraendert (+3,75%). Keine ueberzeugende neue Gelegenheit gefunden, daher keine Transaktion.",
-    "reasoning": "Weder bei Krypto (BTC/SOL seitwaerts, ENA-Unlock war bereits eingepreist/antizipiert) noch bei Aktien/ETFs/Rohstoffen ein frischer, mehrfach unabhaengig bestaetigter Katalysator mit klarer Kursreaktion. Passend zum spekulativen Profil wird nur bei klar bestaetigtem Ausbruch gehandelt; freies Kapital (ca. 59.441 EUR) bleibt mangels ueberzeugender Gelegenheit diszipliniert ungenutzt.",
+    "marketOverview": "Montag 14:18 MESZ, Xetra weiterhin offen, US-Kassamarkt (TSLA) oeffnet erst um 15:30 MESZ. BTC bei 86.119 USD (+1,02% 24h) und SOL bei 120,59 USD (-0,78% 24h) via CoinGecko-API (live), beide weiterhin im etablierten Seitwaerts-Band knapp unter der 84.000-85.000-USD-Zone bei BTC. Websuche liefert ueberwiegend veraltete oder widerspruechliche Treffer (u.a. ein offensichtlich falscher BTC-Allzeithoch-Bericht, der durch den Live-API-Kurs klar widerlegt wird) - kein frischer, mehrfach unabhaengig bestaetigter handlungsrelevanter Katalysator bei Aktien, ETFs, Krypto oder Rohstoffen. Government-Shutdown-Thema und Fed-Entscheidung am 28.10. bleiben im Hintergrund bekannt.",
+    "decision": "Kein Trade in diesem Lauf. Tagesbudget bereits gutgeschrieben (lastGrantDate = heute). Kursupdate BTC pos-0018 (86.119 USD, +1,27% seit Kauf) und SOL pos-0027 (120,59 USD, +0,49% seit Kauf) via CoinGecko-API (live) - beide deutlich innerhalb der Halteband-/Stop-Loss-Schwellen offen. TSLA pos-0028 ausserhalb der US-Handelszeiten unveraendert (+3,75%). Keine ueberzeugende neue Gelegenheit gefunden, daher keine Transaktion.",
+    "reasoning": "Weder bei Krypto (BTC/SOL weiterhin seitwaerts im etablierten Band) noch bei Aktien/ETFs/Rohstoffen ein frischer, mehrfach unabhaengig bestaetigter Katalysator mit klarer Kursreaktion gefunden; die Websuche lieferte primaer veraltete/unzuverlaessige Treffer, die durch Live-Kursdaten widerlegt wurden. Passend zum spekulativen Profil wird nur bei klar bestaetigtem Ausbruch gehandelt; freies Kapital (ca. 59.440,80 EUR) bleibt mangels ueberzeugender Gelegenheit diszipliniert ungenutzt.",
     "positionIds": [
       "pos-0018",
       "pos-0027",
       "pos-0028"
     ],
-    "portfolioValueEnd": 2032.78,
+    "portfolioValueEnd": 2034.85,
     "updates": [
       {
         "time": "00:07",
@@ -7849,6 +7849,11 @@
         "time": "13:11",
         "note": "Keine Aenderung, Kursupdate BTC (85.930 USD, +0,79% 24h)/SOL (120,50 USD, -0,66% 24h) via CoinGecko-API (live), ENA-Grossunlock (1,41 Mrd. ENA) heute wie erwartet erfolgt (bestaetigt fruehere Stop-Loss-Entscheidung), DAX nahe 52-Wochen-Hoch nahezu unveraendert, sonst kein frischer handlungsrelevanter Katalysator, TSLA ausserhalb der US-Handelszeiten unveraendert - kein Trade",
         "portfolioValue": 2032.78
+      },
+      {
+        "time": "14:18",
+        "note": "Keine Aenderung, Kursupdate BTC (86.119 USD, +1,02% 24h)/SOL (120,59 USD, -0,78% 24h) via CoinGecko-API (live), Websuche liefert nur veraltete/widerspruechliche Treffer ohne frischen handlungsrelevanten Katalysator, TSLA ausserhalb der US-Handelszeiten unveraendert - kein Trade",
+        "portfolioValue": 2034.85
       }
     ]
   }
