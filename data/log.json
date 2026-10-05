@@ -7770,15 +7770,15 @@
   },
   {
     "date": "2026-10-05",
-    "marketOverview": "Montag 09:08, Xetra seit 09:00 MESZ offen, US-Kassamarkt (TSLA) weiterhin erst ab 15:30 MESZ (Freitags-Schlusskurs 370,59 USD unveraendert). BTC leicht fester bei 86.238 USD (+1,45% 24h) und SOL seitwaerts bei 121,64 USD (+0,50% 24h) via CoinGecko-API (live). Weiterhin im Fokus: US-Regierungsshutdown und Fed-Zinssenkungserwartungen (FOMC-Sitzung Ende Oktober), aber kein frischer, kurzfristig handlungsrelevanter Katalysator fuer Aktien, ETFs, Krypto oder Rohstoffe erkennbar.",
-    "decision": "Kein Trade in diesem Lauf. Tagesbudget fuer den 05.10. bereits gutgeschrieben (totalFreshCapitalEur unveraendert bei 62.000). Offene Positionen (BTC, SOL, TSLA) bewegen sich weiterhin nur leicht im Plus (BTC +1,41%, SOL +1,37%, TSLA +3,75%), keine Stop-Loss- oder Gewinnmitnahme-Schwelle erreicht. Xetra ist nun offen, aber ohne frisch bestaetigten Katalysator wird auf eine echte Gelegenheit gewartet; TSLA bleibt bis 15:30 MESZ beim Freitags-Schlusskurs.",
-    "reasoning": "Kein Trade in diesem Lauf. BTC und SOL legen leicht zu, beides ohne neuen Katalysator ueber die bekannten Themen (Regierungsshutdown-Risiko, Fed-Zinssenkungserwartungen) hinaus; TSLA bleibt ausserhalb der US-Handelszeiten unveraendert. Xetra-Recherche (DAX, Einzelwerte) liefert keinen frischen, ueberzeugenden Einzeltitel-Katalysator fuer heute. Freies Kapital vorhanden, aber ohne echte Gelegenheit wird nicht ins Blaue hinein gehandelt.",
+    "marketOverview": "Montag 10:08 MESZ, Xetra seit 09:00 geoeffnet (DAX nahezu unveraendert, +0,05% auf ca. 26.140 Punkte), US-Kassamarkt (TSLA) weiterhin erst ab 15:30 MESZ (Freitags-Schlusskurs 370,59 USD unveraendert). BTC leicht fester bei 86.364 USD (+1,50% 24h) und SOL bei 121,77 USD (+0,67% 24h) via CoinGecko-API (live), beide nur geringfuegig ueber dem letzten Stand. Websuche zu DAX/Einzeltiteln und Krypto lieferte erneut keinen frischen, mehrfach bestaetigten Katalysator (teils veraltete/widerspruechliche SEO-Treffer, z. B. BTC angeblich bei 109k, per Live-API widerlegt).",
+    "decision": "Kein Trade in diesem Lauf. Tagesbudget fuer den 05.10. bereits gutgeschrieben (totalFreshCapitalEur unveraendert bei 62.000). Kursupdate BTC pos-0018 (86.364 USD, +1,56% seit Kauf) und SOL pos-0027 (121,77 USD, +1,48% seit Kauf) via CoinGecko-API (live) - beide deutlich innerhalb der Halteband-/Stop-Loss-Schwellen offen. TSLA pos-0028 ausserhalb der Handelszeiten unveraendert (+3,75%). Keine neue, mehrfach bestaetigte Gelegenheit gefunden, daher keine Transaktion.",
+    "reasoning": "Krypto- und DAX-Kurse bewegen sich auch im aktuellen Lauf nur geringfuegig, ohne erkennbaren frischen Einzelkatalysator. Passend zum spekulativen Profil wird nur bei klar bestaetigtem Ausbruch gehandelt; freies Kapital (ca. 59.440 EUR) bleibt mangels ueberzeugender Gelegenheit diszipliniert ungenutzt.",
     "positionIds": [
       "pos-0018",
       "pos-0027",
       "pos-0028"
     ],
-    "portfolioValueEnd": 2041.96,
+    "portfolioValueEnd": 2043.76,
     "updates": [
       {
         "time": "00:07",
@@ -7829,6 +7829,11 @@
         "time": "09:08",
         "note": "Keine Aenderung, Kursupdate BTC (86.238 USD, +1,45% 24h)/SOL (121,64 USD, +0,50% 24h) via CoinGecko-API (live), Xetra seit 09:00 MESZ offen aber ohne frischen Katalysator fuer Einzeltitel, TSLA ausserhalb der US-Handelszeiten unveraendert - kein Trade",
         "portfolioValue": 2041.96
+      },
+      {
+        "time": "10:08",
+        "note": "Keine Aenderung, Kursupdate BTC (86.364 USD, +1,50% 24h)/SOL (121,77 USD, +0,67% 24h) via CoinGecko-API (live), Xetra offen aber ohne frischen Katalysator, TSLA ausserhalb der Handelszeiten unveraendert - kein Trade",
+        "portfolioValue": 2043.76
       }
     ]
   }
