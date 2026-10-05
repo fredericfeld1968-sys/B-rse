@@ -7770,15 +7770,15 @@
   },
   {
     "date": "2026-10-05",
-    "marketOverview": "Montag 10:08 MESZ, Xetra seit 09:00 geoeffnet (DAX nahezu unveraendert, +0,05% auf ca. 26.140 Punkte), US-Kassamarkt (TSLA) weiterhin erst ab 15:30 MESZ (Freitags-Schlusskurs 370,59 USD unveraendert). BTC leicht fester bei 86.364 USD (+1,50% 24h) und SOL bei 121,77 USD (+0,67% 24h) via CoinGecko-API (live), beide nur geringfuegig ueber dem letzten Stand. Websuche zu DAX/Einzeltiteln und Krypto lieferte erneut keinen frischen, mehrfach bestaetigten Katalysator (teils veraltete/widerspruechliche SEO-Treffer, z. B. BTC angeblich bei 109k, per Live-API widerlegt).",
-    "decision": "Kein Trade in diesem Lauf. Tagesbudget fuer den 05.10. bereits gutgeschrieben (totalFreshCapitalEur unveraendert bei 62.000). Kursupdate BTC pos-0018 (86.364 USD, +1,56% seit Kauf) und SOL pos-0027 (121,77 USD, +1,48% seit Kauf) via CoinGecko-API (live) - beide deutlich innerhalb der Halteband-/Stop-Loss-Schwellen offen. TSLA pos-0028 ausserhalb der Handelszeiten unveraendert (+3,75%). Keine neue, mehrfach bestaetigte Gelegenheit gefunden, daher keine Transaktion.",
-    "reasoning": "Krypto- und DAX-Kurse bewegen sich auch im aktuellen Lauf nur geringfuegig, ohne erkennbaren frischen Einzelkatalysator. Passend zum spekulativen Profil wird nur bei klar bestaetigtem Ausbruch gehandelt; freies Kapital (ca. 59.440 EUR) bleibt mangels ueberzeugender Gelegenheit diszipliniert ungenutzt.",
+    "marketOverview": "Montag 11:10 MESZ, Xetra seit 09:00 geoeffnet (DAX leicht schwaecher, ca. 25.189 Pkt.), US-Kassamarkt (TSLA) weiterhin erst ab 15:30 MESZ (Freitags-Schlusskurs 370,59 USD unveraendert). BTC bei 86.098 USD (+1,16% 24h) und SOL bei 121,03 USD (+0,15% 24h) via CoinGecko-API (live), beide nahezu seitwaerts. Brent (102,22 USD) laut Live-Future-Kurs unveraendert - Websuche-Treffer zu einer angeblich eskalierenden Houthi/Aramco-Pipeline-Krise erweisen sich als recycelte September-Meldungen, nicht durch den aktuellen Oelpreis gestuetzt. Kein frischer, mehrfach bestaetigter Katalysator gefunden.",
+    "decision": "Kein Trade in diesem Lauf. Tagesbudget fuer den 05.10. bereits gutgeschrieben (totalFreshCapitalEur unveraendert bei 62.000). Kursupdate BTC pos-0018 (86.098 USD, +1,25% seit Kauf) und SOL pos-0027 (121,03 USD, +0,86% seit Kauf) via CoinGecko-API (live) - beide deutlich innerhalb der Halteband-/Stop-Loss-Schwellen offen. TSLA pos-0028 ausserhalb der Handelszeiten unveraendert (+3,75%). Keine neue, mehrfach bestaetigte Gelegenheit gefunden, daher keine Transaktion.",
+    "reasoning": "Krypto-, Oel- und DAX-Kurse bewegen sich auch im aktuellen Lauf nur geringfuegig bzw. seitwaerts, ohne erkennbaren frischen, durch Live-Daten gestuetzten Einzelkatalysator (die Houthi/Aramco-Schlagzeile ist durch den unveraenderten Brent-Kurs widerlegt). Passend zum spekulativen Profil wird nur bei klar bestaetigtem Ausbruch gehandelt; freies Kapital (ca. 59.440 EUR) bleibt mangels ueberzeugender Gelegenheit diszipliniert ungenutzt.",
     "positionIds": [
       "pos-0018",
       "pos-0027",
       "pos-0028"
     ],
-    "portfolioValueEnd": 2043.76,
+    "portfolioValueEnd": 2037.25,
     "updates": [
       {
         "time": "00:07",
@@ -7834,6 +7834,11 @@
         "time": "10:08",
         "note": "Keine Aenderung, Kursupdate BTC (86.364 USD, +1,50% 24h)/SOL (121,77 USD, +0,67% 24h) via CoinGecko-API (live), Xetra offen aber ohne frischen Katalysator, TSLA ausserhalb der Handelszeiten unveraendert - kein Trade",
         "portfolioValue": 2043.76
+      },
+      {
+        "time": "11:10",
+        "note": "Keine Aenderung, Kursupdate BTC (86.098 USD, +1,16% 24h)/SOL (121,03 USD, +0,15% 24h) via CoinGecko-API (live), Brent (102,22 USD) und DAX (25.189 Pkt.) nahezu unveraendert, Houthi/Aramco-Schlagzeilen in der Websuche erweisen sich als recycelte September-Meldungen (durch Live-Brent-Kurs widerlegt), TSLA ausserhalb der Handelszeiten unveraendert - kein Trade",
+        "portfolioValue": 2037.25
       }
     ]
   }
