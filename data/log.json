@@ -7770,16 +7770,16 @@
   },
   {
     "date": "2026-10-05",
-    "marketOverview": "Bitcoin konsolidiert via CoinGecko-Live-API bei ca. 85.665 USD (+0,33% 24h), Solana bei 120,22 USD (-0,38% 24h), Cardano bei 0,2662 USD (+5,73% 24h, aber unter Kaufkurs vom Nachmittag). US-Aktienmarkt hat um 22:00 MESZ geschlossen (Tesla zuletzt 368 USD, +3,02% seit Kauf), daher jetzt nur Krypto handelbar. Fokusthema bleibt die Fed-Sitzung am 28.10. (Zinserhoehungs-Wahrscheinlichkeit laut Berichten gestiegen); Websuche liefert sonst nur widersprüchliche/veraltete Alt-Coin-Meldungen ohne verlässliche, mehrfach bestätigte frische Katalysatoren.",
-    "decision": "Tagesbilanz unveraendert: Ein Trade heute (Kauf ADA 700 EUR um 18:08 auf bestaetigten Golden-Cross-Ausbruch). Alle vier offenen Positionen (BTC +0,74%, SOL +0,18%, TSLA +3,02%, ADA -2,56%) liegen weiter im moderaten Bereich, keine erreicht Gewinnmitnahme- (7-9%) oder Stop-Loss-Schwelle (-6,5 bis -7,5%). Kein neuer Trade in diesem Lauf.",
-    "reasoning": "BTC und SOL nahezu unveraendert zum letzten Lauf, ADA hat sich seit Kauf leicht auf -2,56% abgeschwaecht (Live-Kurs 0,266203 USD via CoinGecko), bleibt aber klar innerhalb der Haltezone. TSLA ausserhalb der Handelszeiten (US-Markt seit 22:00 MESZ geschlossen) unveraendert gegenueber dem letzten Kassa-Kurs. Websuchergebnisse zu angeblichen Altcoin-Gewinnern (ZEC, TAO, DOGE +19%) stammen aus nicht datierten/widersprüchlichen Aggregator-Seiten und widersprechen dem verifizierten Live-BTC-Kurs - kein belastbarer, mehrfach unabhaengig bestaetigter frischer Katalysator, daher bewusst kein weiterer Trade trotz hohem freiem Kapital.",
+    "marketOverview": "Bitcoin via CoinGecko-Live-API bei ca. 85.752 USD (-0,13% 24h), Solana bei 120,64 USD (-0,56% 24h), Cardano bei 0,2695 USD (+7,2% 24h). US-Aktienmarkt bleibt seit 22:00 MESZ geschlossen (Tesla letzter Kassa-Kurs 368 USD, +3,02% seit Kauf). Websuche liefert weiterhin nur undatierte/widerspruechliche Altcoin-Spekulation (TOTAL3-Breakout-Wahrscheinlichkeit) ohne frischen, mehrfach bestaetigten handlungsrelevanten Katalysator; weiterhin Fokus auf Fed-Sitzung (28.10.) und US-Regierungsshutdown-Risiko im Hintergrund.",
+    "decision": "Tagesbilanz unveraendert: Ein Trade heute (Kauf ADA 700 EUR um 18:08 auf bestaetigten Golden-Cross-Ausbruch). Alle vier offenen Positionen (BTC +0,84%, SOL +0,53%, TSLA +3,02%, ADA -1,35%) liegen weiter im moderaten Bereich, keine erreicht Gewinnmitnahme- oder Stop-Loss-Schwelle. Kein neuer Trade in diesem Lauf.",
+    "reasoning": "BTC und SOL nahezu seitwaerts zum letzten Lauf, ADA hat sich von -2,56% auf -1,35% leicht erholt (Live-Kurs 0,269502 USD via CoinGecko, +7,2% 24h laut API trotz weiterhin unter Kaufkurs). TSLA ausserhalb der Handelszeiten unveraendert bei 368,00 USD. Websuche liefert nur generische, undatierte Altseason-Spekulation (TOTAL3-Chartanalyse) ohne frischen, mehrfach unabhaengig bestaetigten Katalysator - kein belastbarer Anlass fuer einen weiteren Trade trotz vorhandenem freiem Kapital.",
     "positionIds": [
       "pos-0018",
       "pos-0027",
       "pos-0028",
       "pos-0029"
     ],
-    "portfolioValueEnd": 2706.68,
+    "portfolioValueEnd": 2718.29,
     "updates": [
       {
         "time": "00:07",
@@ -7895,6 +7895,11 @@
         "time": "22:09",
         "note": "Keine Aenderung, Kursupdate BTC (85.665 USD, +0,74% seit Kauf)/SOL (120,22 USD, +0,18% seit Kauf)/ADA (0,266203 USD, -2,56% seit Kauf) via CoinGecko-API (live); TSLA ausserhalb der Handelszeiten (US-Markt seit 22:00 MESZ geschlossen) unveraendert bei 368,00 USD. Websuche liefert nur widersprüchliche/undatierte Altcoin-Meldungen ohne verlaesslichen frischen Katalysator - kein Trade",
         "portfolioValue": 2706.68
+      },
+      {
+        "time": "23:08",
+        "note": "Keine Aenderung, Kursupdate BTC (85.752 USD, +0,84% seit Kauf)/SOL (120,64 USD, +0,53% seit Kauf)/ADA (0,269502 USD, -1,35% seit Kauf) via CoinGecko-API (live); TSLA ausserhalb der Handelszeiten unveraendert bei 368,00 USD. Websuche liefert nur undatierte Altseason-Spekulation ohne frischen handlungsrelevanten Katalysator - kein Trade",
+        "portfolioValue": 2718.29
       }
     ]
   }
