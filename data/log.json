@@ -7770,15 +7770,15 @@
   },
   {
     "date": "2026-10-05",
-    "marketOverview": "Montag 07:08, Boersenhandel fuer Aktien/ETFs/Rohstoffe weiterhin geschlossen (Xetra oeffnet erst 09:00 MESZ, US-Kassamarkt 15:30 MESZ; TSLA letzter realer Schlusskurs vom Freitag bei 370,59 USD unveraendert). BTC leicht schwaecher bei 85.530 USD (+0,83% 24h) und SOL seitwaerts bei 120,42 USD (-0,27% 24h) via CoinGecko-API (live). Weiterhin im Fokus: moeglicher US-Regierungsshutdown und dessen Belastung der Fed-Datenlage; kein frischer, kurzfristig handlungsrelevanter Katalysator fuer Krypto erkennbar.",
-    "decision": "Kein Trade in diesem Lauf. Tagesbudget fuer den 05.10. bereits gutgeschrieben (totalFreshCapitalEur unveraendert bei 62.000). Offene Positionen (BTC, SOL, TSLA) bewegen sich weiterhin nur leicht im Plus (BTC +0,58%, SOL +0,35%, TSLA +3,75%), keine Stop-Loss- oder Gewinnmitnahme-Schwelle erreicht. TSLA bleibt ausserhalb der Handelszeiten beim Freitags-Schlusskurs (370,59 USD).",
-    "reasoning": "Kein Trade in diesem Lauf. BTC gibt leicht nach, SOL bewegt sich seitwaerts, beides ohne neuen Katalysator; TSLA bleibt ausserhalb der Handelszeiten (Boersenoeffnung erst 15:30 MESZ) unveraendert. Freies Kapital von ca. 59.440,80 EUR vorhanden, aber ohne frisch bestaetigten, kurzfristig handlungsrelevanten Katalysator (nur bekannte Themen: Regierungsshutdown-Risiko, allgemeine ETF-Zufluesse) wird auf eine echte Gelegenheit gewartet statt ins Blaue hinein gehandelt.",
+    "marketOverview": "Montag 08:12, Boersenhandel fuer Aktien/ETFs/Rohstoffe weiterhin geschlossen (Xetra oeffnet erst 09:00 MESZ, US-Kassamarkt 15:30 MESZ; TSLA letzter realer Schlusskurs vom Freitag bei 370,59 USD unveraendert). BTC leicht fester bei 85.861 USD (+1,12% 24h) und SOL seitwaerts bei 120,76 USD (-0,07% 24h) via CoinGecko-API (live). Weiterhin im Fokus: moeglicher US-Regierungsshutdown und Fed-Zinssenkungserwartungen (Daly fuer weitere Cuts offen, aber ohne Zeitplan); kein frischer, kurzfristig handlungsrelevanter Katalysator fuer Krypto erkennbar.",
+    "decision": "Kein Trade in diesem Lauf. Tagesbudget fuer den 05.10. bereits gutgeschrieben (totalFreshCapitalEur unveraendert bei 62.000). Offene Positionen (BTC, SOL, TSLA) bewegen sich weiterhin nur leicht im Plus (BTC +0,97%, SOL +0,63%, TSLA +3,75%), keine Stop-Loss- oder Gewinnmitnahme-Schwelle erreicht. TSLA bleibt ausserhalb der Handelszeiten beim Freitags-Schlusskurs (370,59 USD).",
+    "reasoning": "Kein Trade in diesem Lauf. BTC legt leicht zu, SOL bewegt sich seitwaerts, beides ohne neuen Katalysator; TSLA bleibt ausserhalb der Handelszeiten (Boersenoeffnung erst 15:30 MESZ) unveraendert. Freies Kapital vorhanden, aber ohne frisch bestaetigten, kurzfristig handlungsrelevanten Katalysator (nur bekannte Themen: Regierungsshutdown-Risiko, Fed-Zinssenkungserwartungen) wird auf eine echte Gelegenheit gewartet statt ins Blaue hinein gehandelt.",
     "positionIds": [
       "pos-0018",
       "pos-0027",
       "pos-0028"
     ],
-    "portfolioValueEnd": 2029.01,
+    "portfolioValueEnd": 2033.72,
     "updates": [
       {
         "time": "00:07",
@@ -7819,6 +7819,11 @@
         "time": "07:08",
         "note": "Keine Aenderung, Kursupdate BTC (85.530 USD, +0,83% 24h)/SOL (120,42 USD, -0,27% 24h) via CoinGecko-API (live), Websuche ohne frischen handlungsrelevanten Katalysator (Regierungsshutdown-Thema bekannt), Boersen ausserhalb der Handelszeiten - kein Trade",
         "portfolioValue": 2029.01
+      },
+      {
+        "time": "08:12",
+        "note": "Keine Aenderung, Kursupdate BTC (85.861 USD, +1,12% 24h)/SOL (120,76 USD, -0,07% 24h) via CoinGecko-API (live), Websuche zeigt Regierungsshutdown-Risiko und Fed-Zinssenkungserwartungen, aber keinen frischen handlungsrelevanten Katalysator, TSLA ausserhalb der Handelszeiten unveraendert - kein Trade",
+        "portfolioValue": 2033.72
       }
     ]
   }
