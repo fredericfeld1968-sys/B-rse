@@ -7772,14 +7772,14 @@
     "date": "2026-10-05",
     "marketOverview": "US-Maerkte beendeten die Vorwoche mit Rekordstaenden (S&P 500 7.722, Nasdaq 27.191) nach einem schwachen Arbeitsmarktbericht, der Zinssenkungshoffnungen staerkt; der andauernde Regierungs-Shutdown wird vom Markt bislang kaum eingepreist. Bitcoin konsolidiert bei ca. 86.000-86.600 USD, Solana bei ca. 121 USD. Tesla bleibt nach starken Q3-Auslieferungszahlen gefragt (+4-5% seit Donnerstag) und profitiert zusaetzlich von Musks bestaetigten TSMC-Terafab-Gespraechen. Cardano konsolidiert nach dem bestaetigten Golden-Cross-Ausbruch vom Vortag knapp unter 0,273 USD.",
     "decision": "Tagesbilanz: Ein Trade (Kauf ADA 700 EUR um 18:08 auf bestaetigten Golden-Cross-Ausbruch). Alle vier offenen Positionen (BTC, SOL, TSLA, ADA) liegen im moderaten Plus/Minus-Bereich, keine erreicht die etablierte Gewinnmitnahme- (7-9%) oder Stop-Loss-Schwelle (-6,5 bis -7,5%). Kein frischer, ueberzeugender Katalysator fuer weitere Trades in diesem Lauf.",
-    "reasoning": "BTC (+1,60%), SOL (+1,07%) und TSLA (+4,23%) entwickeln sich moderat positiv, ADA (-0,37%) nahezu unveraendert seit dem Kauf am Nachmittag - alle klar innerhalb der Haltezone. Die Tesla-Terafab/TSMC-Nachricht ist laut mehreren Quellen bereits ueber das Wochenende und im Freitags-Schlusskurs eingepreist, daher kein frischer handlungsrelevanter Impuls. Websuche zu weiteren Aktien/ETFs/Krypto/Rohstoffen liefert keine neue, unbestaetigte Gelegenheit, die das Risiko eines weiteren Kaufs rechtfertigen wuerde - daher bewusst kein weiterer Trade trotz hohem freiem Kapital.",
+    "reasoning": "BTC (+1,31%), SOL (+0,50%) und TSLA (+3,02%) bleiben moderat positiv, leicht abgeschwächt gegenüber dem letzten Lauf (US-Markt naeherte sich dem Handelsschluss um 22:00 MESZ), ADA (-0,37%) unveraendert seit dem Kauf am Nachmittag - alle klar innerhalb der Haltezone. Websuche zeigt sonst nur bereits gehandelte/recycelte Katalysatoren (QNT-Rally seit 25.09. bekannt, Ethena-Unlock bereits am 26.09. als Stop-Loss-Grund verwendet) oder einzelquellige, nicht ausreichend bestaetigte Bewegungen (SUI +6,9%, ZRO +11%) - kein neuer, mehrfach bestaetigter Trade-Ausloeser, daher bewusst kein weiterer Trade trotz hohem freiem Kapital.",
     "positionIds": [
       "pos-0018",
       "pos-0027",
       "pos-0028",
       "pos-0029"
     ],
-    "portfolioValueEnd": 2741.45,
+    "portfolioValueEnd": 2728.26,
     "updates": [
       {
         "time": "00:07",
@@ -7885,6 +7885,11 @@
         "time": "20:09",
         "note": "Keine Aenderung, Kursupdate BTC (86.393 USD, +1,60% seit Kauf)/SOL (121,28 USD, +1,07% seit Kauf)/TSLA (372,30 USD, +4,23% seit Kauf, Terafab/TSMC-Nachricht von Samstag bereits im Freitags-Close eingepreist)/ADA (0,2722 USD, -0,37% seit Kauf), Websuche ohne frischen, noch nicht gehandelten Katalysator - kein Trade",
         "portfolioValue": 2741.45
+      },
+      {
+        "time": "21:08",
+        "note": "Keine Aenderung, Kursupdate BTC (86.150 USD, +1,31% seit Kauf)/SOL (120,60 USD, +0,50% seit Kauf)/TSLA (368,00 USD, +3,02% seit Kauf, kurz vor US-Handelsschluss 22:00 MESZ)/ADA (0,2722 USD, -0,37% seit Kauf), Websuche liefert nur recycelte (QNT, ENA) oder einzelquellige, unbestaetigte Bewegungen (SUI, ZRO) - kein Trade",
+        "portfolioValue": 2728.26
       }
     ]
   }
