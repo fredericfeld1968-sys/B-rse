@@ -7770,16 +7770,16 @@
   },
   {
     "date": "2026-10-05",
-    "marketOverview": "Montag 19:08 MESZ, US-Kassamarkt weiterhin offen (S&P 500/Nasdaq/Dow nach dem schwachen Arbeitsmarktbericht und vor den Fed-Protokollen (07.10.) im Plus, S&P 500 Freitag bei 7.722,72, +0,7%). BTC pendelt weiter seitwaerts um ca. 86.100-86.400 USD (Yahoo Finance, CoinGecko), SOL knapp unter 121 USD, TSLA bei 370,59 USD nahe Tageshoch nach starken Q3-Auslieferungszahlen. ADA (0,2722 USD) konsolidiert leicht unter dem heutigen Golden-Cross-Hoch von 0,2749 USD; Krypto-Research meldet einsetzende Altcoin-Gewinnmitnahmen (steigende Exchange-Zuflüsse) ohne akuten Handlungsdruck fuer die offenen Positionen.",
-    "decision": "Kursupdate BTC pos-0018 (86.430 USD, +1,64%), SOL pos-0027 (120,65 USD, +0,54%) und TSLA pos-0028 (367,60 USD, +2,91%) - alle weiterhin deutlich innerhalb der Halteband-/Stop-Loss-Schwellen, kein Verkauf. Neue spekulative Position pos-0029 Cardano (ADA), 700 EUR bei 0,2732 USD, auf den frisch bestaetigten Golden-Cross-Ausbruch (+11% in 24h, 3-Monats-Hoch, mehrfach unabhaengig bestaetigt). Lauf 19:08: keine Veraenderung, alle vier offenen Positionen (BTC, SOL, TSLA, ADA) bleiben deutlich innerhalb der Halteband-/Stop-Loss-Schwellen.",
-    "reasoning": "ADA zeigt im Gegensatz zu den bereits mehrere Tage laufenden und ueberdehnten Altcoin-Bewegungen (QNT/AAVE/SUI) einen frischen, heute erst bestaetigten technischen Ausbruch mit klarer Kursreaktion und sechs unabhaengigen Quellen (FXStreet, TradersUnion, CryptoTimes, 99Bitcoins, Coinpedia, Yahoo Finance). Passend zum spekulativen Profil wird die Gelegenheit kurzfristig gespielt, mit engem Stop-Loss (~-6,5 bis -7,5%) angesichts der dokumentierten historischen Schwaeche frueherer ADA-Golden-Cross-Signale und des parallel fallenden DEX-Volumens. BTC/SOL/TSLA bleiben unveraendert offen, kein Grund zum Glattstellen. Im 19:08-Lauf kein frischer, ueberzeugender Katalysator; einsetzende Altcoin-Gewinnmitnahmen sind noch kein Stop-Loss-Signal fuer SOL/ADA, daher kein Verkauf, und keine neue ueberzeugende Gelegenheit fuer eine Neuposition.",
+    "marketOverview": "US-Maerkte beendeten die Vorwoche mit Rekordstaenden (S&P 500 7.722, Nasdaq 27.191) nach einem schwachen Arbeitsmarktbericht, der Zinssenkungshoffnungen staerkt; der andauernde Regierungs-Shutdown wird vom Markt bislang kaum eingepreist. Bitcoin konsolidiert bei ca. 86.000-86.600 USD, Solana bei ca. 121 USD. Tesla bleibt nach starken Q3-Auslieferungszahlen gefragt (+4-5% seit Donnerstag) und profitiert zusaetzlich von Musks bestaetigten TSMC-Terafab-Gespraechen. Cardano konsolidiert nach dem bestaetigten Golden-Cross-Ausbruch vom Vortag knapp unter 0,273 USD.",
+    "decision": "Tagesbilanz: Ein Trade (Kauf ADA 700 EUR um 18:08 auf bestaetigten Golden-Cross-Ausbruch). Alle vier offenen Positionen (BTC, SOL, TSLA, ADA) liegen im moderaten Plus/Minus-Bereich, keine erreicht die etablierte Gewinnmitnahme- (7-9%) oder Stop-Loss-Schwelle (-6,5 bis -7,5%). Kein frischer, ueberzeugender Katalysator fuer weitere Trades in diesem Lauf.",
+    "reasoning": "BTC (+1,60%), SOL (+1,07%) und TSLA (+4,23%) entwickeln sich moderat positiv, ADA (-0,37%) nahezu unveraendert seit dem Kauf am Nachmittag - alle klar innerhalb der Haltezone. Die Tesla-Terafab/TSMC-Nachricht ist laut mehreren Quellen bereits ueber das Wochenende und im Freitags-Schlusskurs eingepreist, daher kein frischer handlungsrelevanter Impuls. Websuche zu weiteren Aktien/ETFs/Krypto/Rohstoffen liefert keine neue, unbestaetigte Gelegenheit, die das Risiko eines weiteren Kaufs rechtfertigen wuerde - daher bewusst kein weiterer Trade trotz hohem freiem Kapital.",
     "positionIds": [
       "pos-0018",
       "pos-0027",
       "pos-0028",
       "pos-0029"
     ],
-    "portfolioValueEnd": 2734.31,
+    "portfolioValueEnd": 2741.45,
     "updates": [
       {
         "time": "00:07",
@@ -7880,6 +7880,11 @@
         "time": "19:08",
         "note": "Keine Aenderung, Kursupdate BTC (86.300 USD)/SOL (120,68 USD)/TSLA (370,59 USD)/ADA (0,2722 USD), Websuche zeigt einsetzende Altcoin-Gewinnmitnahmen aber keinen frischen handlungsrelevanten Katalysator - kein Trade",
         "portfolioValue": 2734.31
+      },
+      {
+        "time": "20:09",
+        "note": "Keine Aenderung, Kursupdate BTC (86.393 USD, +1,60% seit Kauf)/SOL (121,28 USD, +1,07% seit Kauf)/TSLA (372,30 USD, +4,23% seit Kauf, Terafab/TSMC-Nachricht von Samstag bereits im Freitags-Close eingepreist)/ADA (0,2722 USD, -0,37% seit Kauf), Websuche ohne frischen, noch nicht gehandelten Katalysator - kein Trade",
+        "portfolioValue": 2741.45
       }
     ]
   }
