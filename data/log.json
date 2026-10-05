@@ -7770,15 +7770,15 @@
   },
   {
     "date": "2026-10-05",
-    "marketOverview": "Montag 12:10 MESZ, Xetra weiterhin offen, US-Kassamarkt (TSLA) erst ab 15:30 MESZ. BTC bei 86.041 USD (+0,94% 24h) und SOL bei 120,71 USD (-0,60% 24h) via CoinGecko-API (live), beide seitwaerts. CoinDesk berichtet von einer sich anbahnenden 'goldenen' Gleitdurchschnitts-Ueberkreuzung (50/100/200-Tage) bei Bitcoin, aber nur als technisches Signal ohne unmittelbaren Kurssprung (Kurs stagniert seit Tagen um 85.000-87.000 USD). Kein frischer, mehrfach bestaetigter handlungsrelevanter Katalysator bei Aktien, ETFs oder Rohstoffen gefunden; US-Regierungsshutdown haelt an (Maerkte zeigen sich davon bisher wenig beeindruckt).",
-    "decision": "Kein Trade in diesem Lauf. Tagesbudget bereits gutgeschrieben. Kursupdate BTC pos-0018 (86.041 USD, +1,18% seit Kauf) und SOL pos-0027 (120,71 USD, +0,59% seit Kauf) via CoinGecko-API (live) - beide deutlich innerhalb der Halteband-/Stop-Loss-Schwellen offen. TSLA pos-0028 ausserhalb der US-Handelszeiten unveraendert (+3,75%). Keine ueberzeugende neue Gelegenheit gefunden, daher keine Transaktion.",
-    "reasoning": "Die Bitcoin-MA-Ueberkreuzung ist laut CoinDesk nur ein technisches Signal ('about to'), kein bestaetigter Kurssprung - der Kurs selbst bewegt sich kaum. Sonst keine frischen, mehrfach bestaetigten Katalysator bei Aktien/ETFs/Rohstoffen/Krypto gefunden. Passend zum spekulativen Profil wird nur bei klar bestaetigtem Ausbruch gehandelt; freies Kapital (ca. 59.441 EUR) bleibt mangels ueberzeugender Gelegenheit diszipliniert ungenutzt.",
+    "marketOverview": "Montag 13:11 MESZ, Xetra weiterhin offen (DAX ca. 26.140 Pkt., nahe 52-Wochen-Hoch, nahezu unveraendert), US-Kassamarkt (TSLA) erst ab 15:30 MESZ. BTC bei 85.930 USD (+0,79% 24h) und SOL bei 120,50 USD (-0,66% 24h) via CoinGecko-API (live), beide weiterhin seitwaerts im etablierten Band. Der grosse ENA-Investoren-Unlock (1,41 Mrd. ENA, ~212 Mio. USD, 14,3% des Umlaufangebots) ist heute wie erwartet erfolgt - bestaetigt die bereits am 02.10. vorgenommene Stop-Loss-Glattstellung der ENA-Position. US-Regierungsshutdown haelt an (Polymarket: ~70% Wahrscheinlichkeit, dass er bis mind. 15.10. andauert), Maerkte insgesamt aber robust (Erwartung +8% Q4-Rally laut Marktstrategen). Kein frischer, mehrfach bestaetigter handlungsrelevanter Katalysator bei Aktien, ETFs, Krypto oder Rohstoffen gefunden.",
+    "decision": "Kein Trade in diesem Lauf. Tagesbudget bereits gutgeschrieben (lastGrantDate = heute). Kursupdate BTC pos-0018 (85.930 USD, +1,05% seit Kauf) und SOL pos-0027 (120,50 USD, +0,42% seit Kauf) via CoinGecko-API (live) - beide deutlich innerhalb der Halteband-/Stop-Loss-Schwellen offen. TSLA pos-0028 ausserhalb der US-Handelszeiten unveraendert (+3,75%). Keine ueberzeugende neue Gelegenheit gefunden, daher keine Transaktion.",
+    "reasoning": "Weder bei Krypto (BTC/SOL seitwaerts, ENA-Unlock war bereits eingepreist/antizipiert) noch bei Aktien/ETFs/Rohstoffen ein frischer, mehrfach unabhaengig bestaetigter Katalysator mit klarer Kursreaktion. Passend zum spekulativen Profil wird nur bei klar bestaetigtem Ausbruch gehandelt; freies Kapital (ca. 59.441 EUR) bleibt mangels ueberzeugender Gelegenheit diszipliniert ungenutzt.",
     "positionIds": [
       "pos-0018",
       "pos-0027",
       "pos-0028"
     ],
-    "portfolioValueEnd": 2034.91,
+    "portfolioValueEnd": 2032.78,
     "updates": [
       {
         "time": "00:07",
@@ -7844,6 +7844,11 @@
         "time": "12:10",
         "note": "Keine Aenderung, Kursupdate BTC (86.041 USD, +0,94% 24h)/SOL (120,71 USD, -0,60% 24h) via CoinGecko-API (live), CoinDesk-Meldung zu bevorstehender MA-Golden-Cross bei BTC ist nur technisches Signal ohne Kurssprung, Websuche sonst ohne frischen handlungsrelevanten Katalysator, TSLA ausserhalb der US-Handelszeiten unveraendert - kein Trade",
         "portfolioValue": 2034.91
+      },
+      {
+        "time": "13:11",
+        "note": "Keine Aenderung, Kursupdate BTC (85.930 USD, +0,79% 24h)/SOL (120,50 USD, -0,66% 24h) via CoinGecko-API (live), ENA-Grossunlock (1,41 Mrd. ENA) heute wie erwartet erfolgt (bestaetigt fruehere Stop-Loss-Entscheidung), DAX nahe 52-Wochen-Hoch nahezu unveraendert, sonst kein frischer handlungsrelevanter Katalysator, TSLA ausserhalb der US-Handelszeiten unveraendert - kein Trade",
+        "portfolioValue": 2032.78
       }
     ]
   }
