@@ -7905,8 +7905,8 @@
   },
   {
     "date": "2026-10-06",
-    "marketOverview": "Dienstagabend 20:10 MESZ: US-Kassamarkt weiterhin offen (bis 22:00 MESZ). BTC via CoinGecko-API live bei 85.750 USD (+0,44% 24h), SOL 121,16 USD (+0,97% 24h), ADA 0,273023 USD (+3,09% 24h) - Kryptomarkt insgesamt ruhig (Uptober-Rally haelt an, aber kein frischer einzeltitelspezifischer Katalysator). TSLA via Yahoo-Finance-API live bei 380,39 USD (+0,44% zum Vortagesschluss 378,73 USD); das angekuendigte Tesla-Event findet erst morgen (07.10.) statt und ist noch nicht handlungsrelevant. Weitere recherchierte Schlagzeilen (z.B. Akamai-/Fluence-Energy-Kursspruenge) stammen bei naeherer Pruefung aus Mai 2026 und sind damit keine frischen Katalysatoren fuer einen Neukauf.",
-    "decision": "Kein Trade in diesem Lauf (20:10 Uhr). Tagesbudget wurde bereits im ersten Lauf des Tages gutgeschrieben (lastGrantDate bereits heute). Kursupdate fuer BTC, SOL, ADA (CoinGecko live) und TSLA (Yahoo-Finance live, Markt weiterhin offen). TSLA liegt mit +6,49% weiterhin knapp unter der etablierten Gewinnmitnahme-Zielspanne (7-9%).",
+    "marketOverview": "Dienstagabend 21:08 MESZ, kurz vor US-Marktschluss (22:00 MESZ): BTC via CoinGecko-API live bei 85.513 USD (-0,05% 24h), SOL 120,77 USD (+0,65% 24h), ADA 0,271549 USD (+2,74% 24h) - Kryptomarkt insgesamt ruhig, kaum Bewegung seit dem letzten Lauf. TSLA via Yahoo-Finance-API live bei 380,17 USD, praktisch unveraendert; das angekuendigte Tesla-Event (10/7) ist weiterhin nur ein Teaser ohne neuen handlungsrelevanten Inhalt. Keine frischen Makro- oder Geopolitik-Schlagzeilen mit Marktrelevanz gefunden (Fed-Leitzins unveraendert bei 3,50-3,75%, bekannte Nahost-Risikopraemie bereits eingepreist).",
+    "decision": "Kein Trade in diesem Lauf (21:08 Uhr). Tagesbudget wurde bereits im ersten Lauf des Tages gutgeschrieben (lastGrantDate bereits heute). Kursupdate fuer BTC, SOL, ADA (CoinGecko live) und TSLA (Yahoo-Finance live, Markt weiterhin offen bis 22:00 MESZ). TSLA liegt mit +6,43% weiterhin knapp unter der etablierten Gewinnmitnahme-Zielspanne (7-9%). Freies Kapital bleibt sehr hoch, da seit Wochen kein neuer, wirklich ueberzeugender Katalysator fuer einen Neukauf aufgetreten ist - es wird bewusst nicht investiert, nur um Kapital zu platzieren.",
     "reasoning": "Risikoprofil \"spekulativ\" mit erlaubtem kurzfristigem Trading: Keine der vier offenen Positionen (BTC +0,84%, SOL +0,97%, TSLA +6,49%, ADA -0,06%) hat die Stop-Loss-Schwelle (-6,5 bis -7,5%) erreicht oder die Gewinnmitnahme-Zielspanne (7-9%) eindeutig ueberschritten, daher werden alle unveraendert weitergefuehrt. Recherchierte potenzielle Kaufkandidaten (Akamai-AI-Deal, Fluence-Energy-Hyperscaler-Deals) stellten sich bei Pruefung des Datums als Nachrichten aus Mai 2026 heraus, kein frischer Katalysator - daher trotz sehr hohem freiem Kapital kein Neukauf, da im spekulativen Profil nur bei wirklich ueberzeugender, frischer Gelegenheit gehandelt wird.",
     "positionIds": [
       "pos-0018",
@@ -7914,7 +7914,7 @@
       "pos-0028",
       "pos-0029"
     ],
-    "portfolioValueEnd": 2751.16,
+    "portfolioValueEnd": 2742.77,
     "updates": [
       {
         "time": "00:08",
@@ -8020,6 +8020,11 @@
         "time": "20:10",
         "note": "Keine Aenderung, Kursupdate BTC (85.750 USD, +0,44% 24h)/SOL (121,16 USD, +0,97% 24h)/ADA (0,273023 USD, +3,09% 24h) via CoinGecko-API (live), TSLA (380,39 USD, +0,44%) via Yahoo-Finance-API (live, Markt offen bis 22:00 MESZ); TSLA bei +6,49% weiterhin knapp unter der Zielspanne (7-9%). Geprueft: Akamai-/Fluence-Energy-Schlagzeilen stammen aus Mai 2026, kein frischer Katalysator - kein Trade",
         "portfolioValue": 2751.16
+      },
+      {
+        "time": "21:08",
+        "note": "Keine Aenderung, Kursupdate BTC (85.513 USD, -0,05% 24h)/SOL (120,77 USD, +0,65% 24h)/ADA (0,271549 USD, +2,74% 24h) via CoinGecko-API (live), TSLA (380,17 USD) via Yahoo-Finance-API (live, Markt offen bis 22:00 MESZ); TSLA bei +6,43% weiterhin knapp unter der Zielspanne (7-9%). Tesla-10/7-Event-Teaser weiterhin ohne neuen handlungsrelevanten Inhalt, keine frischen Makro- oder Geopolitik-Katalysatoren gefunden - kein Trade",
+        "portfolioValue": 2742.77
       }
     ]
   }
