@@ -7905,16 +7905,16 @@
   },
   {
     "date": "2026-10-06",
-    "marketOverview": "Dienstagnachmittag 16:10 MESZ: US-Kassamarkt ist seit 15:30 MESZ offen. TSLA notiert laut Yahoo-Finance-Live-API bei 381,135 USD (+0,64% zum Vortagesschluss 378,73 USD), getrieben vom Teaser fuer das Produktevent am 07.10. (erwartet: guenstigere Model-Y-Variante). Krypto per CoinGecko-API live: BTC 86.195 USD (-0,47% 24h), SOL 120,79 USD (-0,21% 24h), ADA 0,274364 USD (-0,17% 24h) - weiterhin seitwaerts. Fed unter Chair Warsh haelt Zinsen bei 3,5-3,75%, signalisiert aber moegliche Anhebung spaeter 2026; US-Iran-Deeskalation (Hormuz-Waffenstillstand) drueckt Oelpreise. Kein neuer, mehrfach bestaetigter frischer Handelskatalysator fuer einen Neukauf.",
-    "decision": "Kein Trade in diesem Lauf (16:10 Uhr). Tagesbudget wurde bereits im ersten Lauf des Tages gutgeschrieben. Kursupdate fuer BTC, SOL, ADA (CoinGecko live) und TSLA (Yahoo-Finance live, Markt seit 15:30 MESZ offen). TSLA naehert sich mit +6,70% weiter der etablierten Gewinnmitnahme-Zielspanne (7-9%), hat sie aber noch nicht erreicht - Position wird weiter gehalten, Entscheidung ueber Verkauf vertagt.",
-    "reasoning": "Risikoprofil \"spekulativ\" mit erlaubtem kurzfristigem Trading: Keine der vier offenen Positionen (BTC, SOL, TSLA, ADA) hat die Stop-Loss-Schwelle (-6,5 bis -7,5%) erreicht oder die Gewinnmitnahme-Zielspanne (7-9%) eindeutig ueberschritten, daher werden alle unveraendert weiter gehalten und nur im Kurs aktualisiert. Fuer einen Neukauf (freies Kapital ca. 59.740,80 EUR verfuegbar) fehlte trotz offenem US-Markt ein konkreter, mehrfach unabhaengig bestaetigter frischer Katalysator; die Websuche lieferte ueberwiegend bereits bekannte Themen (Tesla-Event-Teaser, Fed-Politik, Hormuz-Deeskalation) ohne neue handlungsrelevante Entwicklung. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "marketOverview": "Dienstagabend 17:08 MESZ: US-Kassamarkt weiterhin offen (bis 22:00 MESZ). TSLA laut Yahoo-Finance-Live-API bei 380,69 USD (+0,52% zum Vortagesschluss 378,73 USD), Tagesspanne 378,52-383,33 USD, weiterhin getrieben vom Produktevent-Teaser fuer den 07.10. Krypto per CoinGecko-API live: BTC 86.572 USD (+1,19% 24h), SOL 121,84 USD (+1,84% 24h), ADA 0,275138 USD (+2,34% 24h) - leichte Erholung im Vergleich zum letzten Lauf. Weitere Recherche zu Markttreibern (Fed-Zinsentscheid, BTC-ETF-Zufluesse, Solana-Alpenglow-Upgrade) lieferte keinen frischen, mehrfach unabhaengig bestaetigten Einzeltitel-Katalysator fuer einen Neukauf.",
+    "decision": "Kein Trade in diesem Lauf (17:08 Uhr). Tagesbudget wurde bereits im ersten Lauf des Tages gutgeschrieben. Kursupdate fuer BTC, SOL, ADA (CoinGecko live) und TSLA (Yahoo-Finance live, Markt weiterhin offen). TSLA liegt mit +6,58% weiterhin knapp unter der etablierten Gewinnmitnahme-Zielspanne (7-9%) - Position wird unveraendert weiter gehalten, Entscheidung ueber Verkauf vertagt.",
+    "reasoning": "Risikoprofil \"spekulativ\" mit erlaubtem kurzfristigem Trading: Keine der vier offenen Positionen (BTC +1,81%, SOL +1,53%, TSLA +6,58%, ADA +0,71%) hat die Stop-Loss-Schwelle (-6,5 bis -7,5%) erreicht oder die Gewinnmitnahme-Zielspanne (7-9%) eindeutig ueberschritten, daher werden alle unveraendert weiter gehalten und nur im Kurs aktualisiert. Fuer einen Neukauf (freies Kapital ca. 59.740,80 EUR verfuegbar) fehlte trotz offenem US-Markt ein konkreter, mehrfach unabhaengig bestaetigter frischer Katalysator; die Websuche lieferte ueberwiegend bereits bekannte Themen (BTC-ETF-Zufluesse, Solana-Alpenglow-Upgrade, Fed-Zinsentscheid, Tesla-Event-Teaser) ohne neue handlungsrelevante Entwicklung. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [
       "pos-0018",
       "pos-0027",
       "pos-0028",
       "pos-0029"
     ],
-    "portfolioValueEnd": 2757.34,
+    "portfolioValueEnd": 2767.81,
     "updates": [
       {
         "time": "00:08",
@@ -8000,6 +8000,11 @@
         "time": "16:10",
         "note": "Keine Aenderung, Kursupdate BTC (86.195 USD, -0,47% 24h)/SOL (120,79 USD, -0,21% 24h)/ADA (0,274364 USD, -0,17% 24h) via CoinGecko-API (live), TSLA (381,135 USD, +0,64%) via Yahoo-Finance-API (live, Markt seit 15:30 MESZ offen); TSLA naehert sich mit +6,70% der Zielspanne (7-9%), aber noch nicht erreicht. Kein frischer, mehrfach bestaetigter Katalysator fuer einen Neukauf - kein Trade",
         "portfolioValue": 2757.34
+      },
+      {
+        "time": "17:08",
+        "note": "Keine Aenderung, Kursupdate BTC (86.572 USD, +1,19% 24h)/SOL (121,84 USD, +1,84% 24h)/ADA (0,275138 USD, +2,34% 24h) via CoinGecko-API (live), TSLA (380,69 USD, +0,52%) via Yahoo-Finance-API (live, Markt offen); TSLA bei +6,58% weiterhin knapp unter der Zielspanne (7-9%). Kein frischer, mehrfach bestaetigter Katalysator fuer einen Neukauf - kein Trade",
+        "portfolioValue": 2767.81
       }
     ]
   }
