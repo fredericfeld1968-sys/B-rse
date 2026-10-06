@@ -7905,16 +7905,16 @@
   },
   {
     "date": "2026-10-06",
-    "marketOverview": "Nacht auf Dienstag, Aktien/ETFs/Rohstoffe weiterhin ausserhalb der Handelszeiten (TSLA letzter Schlusskurs unveraendert bei 368,00 USD). Bitcoin via CoinGecko-API (live) bei 85.542 USD (-1,02% 24h), weiterhin seitwaerts ohne klare Richtungsentscheidung nahe des 8-Monats-Hochs. Solana bei 120,18 USD (-0,70% 24h) seitwaerts ohne frischen Katalysator. Cardano bei 0,266784 USD (-0,45% 24h) stabil im Bereich der letzten Laeufe, der Golden-Cross-Ausbruch bleibt der einzige, bereits gehandelte Treiber. Websuche liefert weiterhin nur unspezifische/veraltete Kurszielprognosen und undatierte Altcoin-Rally-Meldungen ohne neuen, mehrfach bestaetigten, datierten Katalysator fuer die Nachtstunden; Makro-Fokus bleibt auf der Fed-Sitzung am 28.10.",
-    "decision": "Kein Trade in diesem Lauf (05:08 Uhr). Tagesbudget wurde bereits im ersten Lauf des Tages (00:08) gutgeschrieben, daher heute keine weitere Gutschrift. Alle vier offenen Positionen (BTC +0,60%, SOL +0,15%, TSLA +3,02%, ADA -2,39%) bewegen sich im neutralen Bereich, keine erreicht eine Gewinnmitnahme- oder Stop-Loss-Schwelle. Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten, bei Krypto kein frischer, mehrfach bestaetigter Katalysator fuer eine neue Position.",
-    "reasoning": "BTC, SOL und ADA bewegen sich nur geringfuegig seitwaerts/leicht negativ ohne neue Nachrichtenlage. Alle bleiben deutlich innerhalb der Stop-Loss-Schwelle. Websuche liefert erneut nur undatierte/veraltete Preisprognosen und generische Analysten-Einschaetzungen ohne frischen, mehrfach bestaetigten, handlungsrelevanten Katalysator - daher trotz grossem freiem Kapital kein Trade.",
+    "marketOverview": "Dienstagmorgen vor Boersenoeffnung, Aktien/ETFs/Rohstoffe weiterhin ausserhalb der Handelszeiten (TSLA letzter Schlusskurs unveraendert bei 368,00 USD; Tesla kuendigte ein Produktevent fuer den 07.10. an). Bitcoin via CoinGecko-API (live) bei 85.560 USD (-0,56% 24h), weiterhin unter der 84.000-85.000-USD-Zone gedeckelt; Spot-Bitcoin-ETFs verzeichneten Ende September starke Zufluesse. Solana bei 120,11 USD (-0,28% 24h) seitwaerts ohne frischen Katalysator. Cardano bei 0,266952 USD (-0,36% 24h) stabil im Bereich der letzten Laeufe. Makro-Fokus der Maerkte bleibt auf der Fed-Sitzung am 28.10.; kein neuer, mehrfach bestaetigter, datierter Katalysator fuer die Morgenstunden gefunden.",
+    "decision": "Kein Trade in diesem Lauf (06:08 Uhr). Tagesbudget wurde bereits im ersten Lauf des Tages (00:08) gutgeschrieben, daher heute keine weitere Gutschrift. Alle vier offenen Positionen (BTC +0,62%, SOL +0,09%, TSLA +3,02%, ADA -2,30%) bewegen sich im neutralen Bereich, keine erreicht eine Gewinnmitnahme- oder Stop-Loss-Schwelle. Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten, bei Krypto kein frischer, mehrfach bestaetigter Katalysator fuer eine neue Position.",
+    "reasoning": "BTC, SOL und ADA bewegen sich weiterhin nur geringfuegig seitwaerts/leicht negativ ohne neue Nachrichtenlage (BTC bleibt laut Marktberichten unterhalb der 84.000-85.000-USD-Zone gedeckelt, Fokus der Maerkte liegt auf der Fed-Entscheidung am 28.10.). Alle offenen Positionen bleiben deutlich innerhalb der Stop-Loss-Schwelle. TSLA ausserhalb der Handelszeiten unveraendert; fuer den regulaeren Handel wird ein Tesla-Produktevent am 07.10. erwartet. Kein frischer, mehrfach bestaetigter, handlungsrelevanter Katalysator - daher trotz grossem freiem Kapital kein Trade.",
     "positionIds": [
       "pos-0018",
       "pos-0027",
       "pos-0028",
       "pos-0029"
     ],
-    "portfolioValueEnd": 2706.66,
+    "portfolioValueEnd": 2706.99,
     "updates": [
       {
         "time": "00:08",
@@ -7945,6 +7945,11 @@
         "time": "05:08",
         "note": "Keine Aenderung, Kursupdate BTC (85.542 USD, -1,02% 24h)/SOL (120,18 USD, -0,70% 24h)/ADA (0,266784 USD, -0,45% 24h) via CoinGecko-API (live), TSLA ausserhalb der Handelszeiten unveraendert bei 368,00 USD; keine frischen, mehrfach bestaetigten Katalysatoren gefunden - kein Trade",
         "portfolioValue": 2706.66
+      },
+      {
+        "time": "06:08",
+        "note": "Keine Aenderung, Kursupdate BTC (85.560 USD, -0,56% 24h)/SOL (120,11 USD, -0,28% 24h)/ADA (0,266952 USD, -0,36% 24h) via CoinGecko-API (live); Marktnews: Spot-Bitcoin-ETFs mit starken Zufluessen Ende September, BTC bleibt unter 84.000-85.000-USD-Zone gedeckelt, Fokus auf Fed-Entscheidung 28.10.; Tesla kuendigt Produktevent fuer 07.10. an (TSLA ausserhalb der Handelszeiten unveraendert bei 368,00 USD); keine frischen, mehrfach bestaetigten Katalysatoren fuer einen Trade gefunden - kein Trade",
+        "portfolioValue": 2706.99
       }
     ]
   }
