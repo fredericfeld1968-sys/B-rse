@@ -7905,16 +7905,15 @@
   },
   {
     "date": "2026-10-06",
-    "marketOverview": "Dienstagnachmittag, europaeische Boersen geoeffnet, US-Kassamarkt oeffnet erst um 15:30 MESZ. Websuche lieferte in diesem Lauf keine verlaesslichen aktuellen Kursdaten fuer Krypto (nur widerspruechliches SEO-Rauschen und Treffer mit falschem/altem Datum) - Kurse werden daher konservativ vom letzten verlaesslichen Stand (12:09 Uhr) fortgefuehrt: BTC ca. 85.980 USD, SOL ca. 119,51 USD, ADA ca. 0,2776 USD. TSLA bleibt bis zur regulaeren Boersenoeffnung unveraendert bei 368,00 USD; Tesla-Produktevent am 07.10. ruckt naeher, aber noch kein handlungsrelevanter Kurstreiber heute. Kein frischer, mehrfach bestaetigter Katalysator erkennbar.",
-    "decision": "Kein Trade in diesem Lauf (13:09 Uhr). Tagesbudget wurde bereits im ersten Lauf des Tages (00:08) gutgeschrieben, daher heute keine weitere Gutschrift. Da die Websuche keine verlaesslichen frischen Kursdaten lieferte, wurden alle vier offenen Positionen (BTC, SOL, TSLA, ADA) unveraendert vom letzten Stand (12:09) gefuehrt, um keine Kurswerte auf Basis unzuverlaessiger Quellen zu verfaelschen. Depotwert (offene Positionen) weiterhin 2.734,39 EUR.",
-    "reasoning": "Die in diesem Lauf durchgefuehrte Websuche lieferte fuer BTC/SOL/ADA nur inkonsistente, teils falsch datierte oder offensichtlich veraltete Preisangaben (z.B. 16.504 USD und 95.179 USD fuer BTC in derselben Suche) sowie allgemeine SEO-Inhalte ohne verlaesslichen Marktbezug. Um keine fehlerhaften Kurswerte einzutragen, werden die zuletzt verlaesslich bestaetigten Werte aus dem 12:09-Lauf beibehalten. TSLA bleibt ausserhalb der regulaeren Handelszeiten ohnehin unveraendert. Alle vier offenen Positionen liegen weiterhin deutlich innerhalb der Stop-Loss-Schwelle (-6,5 bis -7,5%) und unterhalb der Gewinnmitnahme-Zielspanne (7-9%). Passend zur Vorgabe, nur bei einer wirklich ueberzeugenden und bestaetigten Gelegenheit zu handeln, bleibt es bei keiner Aktion.",
+    "marketOverview": "Dienstagnachmittag, europaeische Boersen geoeffnet, US-Kassamarkt oeffnet erst um 15:30 MESZ (TSLA daher weiterhin ausserhalb der regulaeren Handelszeiten). Erweiterte Websuche lieferte in diesem Lauf erstmals seit mehreren Stunden wieder einigermassen konsistente Krypto-Kurse (CoinGecko/Kraken/Metamask/FxEmpire uebereinstimmend im erwarteten Bereich): BTC ca. 86.110 USD (leicht hoeher), SOL ca. 119,80 USD (nahezu unveraendert), ADA ca. 0,2735 USD (nahezu unveraendert). Kein frischer, mehrfach bestaetigter fundamentaler Katalysator fuer einen Trade erkennbar; Makro-Fokus bleibt auf der Fed-Entscheidung am 28.10.",
+    "decision": "Kein Trade in diesem Lauf (14:09 Uhr). Tagesbudget wurde bereits im ersten Lauf des Tages gutgeschrieben, daher heute keine weitere Gutschrift. Kursupdate fuer BTC (85.980 -> 86.110 USD), SOL (119,51 -> 119,80 USD) und ADA (0,277623 -> 0,2735 USD) auf Basis einer erweiterten, konsistenteren Websuche; TSLA bleibt ausserhalb der Handelszeiten unveraendert bei 368,00 USD. Keine Position hat eine Gewinn- oder Verlustschwelle erreicht, kein neuer Katalysator fuer eine Neuposition. Depotwert (offene Positionen) jetzt 2.726,59 EUR.",
+    "reasoning": "Kursbewegungen aller vier offenen Positionen (BTC +1,26%, SOL -0,17%, TSLA +3,02% seit Kauf unveraendert, ADA +0,11%) liegen klar innerhalb der etablierten Stop-Loss-/Take-Profit-Schwellen (ca. -6,5% bis -7,5% bzw. +7% bis +9%), daher keine Verkaufsentscheidung. Freies Kapital ist mit ca. 59.740 EUR weiterhin hoch, aber ohne einen konkreten, mehrfach bestaetigten frischen Katalysator wird passend zum disziplinierten spekulativen Kurzfrist-Profil keine neue Position eroeffnet - es wird bewusst auf eine ueberzeugende Gelegenheit statt auf planloses Investieren gesetzt.",
     "positionIds": [
       "pos-0018",
       "pos-0027",
-      "pos-0028",
       "pos-0029"
     ],
-    "portfolioValueEnd": 2734.39,
+    "portfolioValueEnd": 2726.59,
     "updates": [
       {
         "time": "00:08",
@@ -7985,6 +7984,11 @@
         "time": "13:09",
         "note": "Keine Aenderung, Websuche lieferte in diesem Lauf keine verlaesslichen frischen Kursdaten fuer BTC/SOL/ADA (nur SEO-Rauschen und veraltete/falsch datierte Treffer, keine konsistente Quelle) - Kurse daher unveraendert vom letzten verlaesslichen Stand (12:09) gefuehrt. TSLA weiterhin ausserhalb der regulaeren Handelszeiten (US-Markt oeffnet erst 15:30 MESZ) unveraendert bei 368,00 USD. Kein frischer, mehrfach bestaetigter Katalysator gefunden - kein Trade.",
         "portfolioValue": 2734.39
+      },
+      {
+        "time": "14:09",
+        "note": "Keine Aenderung, Kursupdate BTC (86.110 USD, +0,15% vs. letzter Stand)/SOL (119,80 USD)/ADA (0,2735 USD) via erweiterter Websuche; TSLA ausserhalb der Handelszeiten unveraendert bei 368,00 USD. Kein frischer, mehrfach bestaetigter Katalysator - kein Trade",
+        "portfolioValue": 2726.59
       }
     ]
   }
