@@ -7905,16 +7905,16 @@
   },
   {
     "date": "2026-10-06",
-    "marketOverview": "Dienstagvormittag, europaeische Boersen seit 09:00 MESZ geoeffnet, US-Kassamarkt oeffnet erst 15:30 MESZ (TSLA daher weiterhin ausserhalb der Handelszeiten, unveraendert bei 368,00 USD). Bitcoin zieht auf ca. 86.436 USD an (+2,1% 24h, bestes Wochenhoch seit rund acht Monaten laut Investing.com), getragen von anhaltend geringem Verkaufsdruck langfristiger Halter. Solana gibt dagegen leicht nach (ca. 118,50 USD, -1,6%) trotz fortgesetztem institutionellem Interesse (Solana-Foundation-Initiative fuer institutionelle Trade-Abwicklung mit JPMorgan-Input). Cardano bewegt sich seitwaerts um die 0,27-USD-Marke (ca. 0,2705 USD). Kein frischer, mehrfach bestaetigter, handlungsrelevanter Katalysator fuer Aktien/ETFs/Rohstoffe oder Krypto erkennbar.",
-    "decision": "Kein Trade in diesem Lauf (09:20 Uhr). Tagesbudget wurde bereits im ersten Lauf des Tages (00:08) gutgeschrieben, daher heute keine weitere Gutschrift. Alle vier offenen Positionen (BTC +1,65%, SOL -1,25%, TSLA +3,02%, ADA -0,99%) bewegen sich im neutralen Bereich, keine erreicht eine Gewinnmitnahme- oder Stop-Loss-Schwelle. Kursupdates fuer BTC/SOL/ADA durchgefuehrt, TSLA ausserhalb der Handelszeiten (US-Markt oeffnet erst 15:30 MESZ) unveraendert. Depotwert (offene Positionen) aktuell 2.714,00 EUR.",
-    "reasoning": "BTC legt moderat zu, SOL und ADA bewegen sich nur geringfuegig, ohne dass ein neuer, mehrfach bestaetigter Katalysator vorliegt. Alle vier offenen Positionen bleiben deutlich innerhalb der Stop-Loss-Schwelle (-6,5 bis -7,5%) und unterhalb der Gewinnmitnahme-Zielspanne (7-9%). TSLA sowie uebrige Aktien/ETFs/Rohstoffe sind vor US-Marktoeffnung (15:30 MESZ) nicht handelbar. Passend zur Vorgabe, nur bei einer wirklich ueberzeugenden Gelegenheit zu handeln, bleibt es bei reinen Kursupdates.",
+    "marketOverview": "Dienstagvormittag, europaeische Boersen seit 09:00 MESZ geoeffnet, US-Kassamarkt oeffnet erst 15:30 MESZ (TSLA daher weiterhin ausserhalb der Handelszeiten, unveraendert bei 368,00 USD; Tesla teasert ein Event fuer 07.10., Aktie zuletzt im Plus). Bitcoin bewegt sich seitwaerts um ca. 85.800 USD (-0,7% 24h) nahe seinem Mehrmonatshoch. Solana (ca. 120,50 USD) und Cardano (ca. 0,2726 USD) zeigen nur geringe Schwankungen. Kein frischer, mehrfach bestaetigter, handlungsrelevanter Katalysator fuer Aktien/ETFs/Rohstoffe oder Krypto erkennbar.",
+    "decision": "Kein Trade in diesem Lauf (10:08 Uhr). Tagesbudget wurde bereits im ersten Lauf des Tages (00:08) gutgeschrieben, daher heute keine weitere Gutschrift. Alle vier offenen Positionen (BTC +0,91%, SOL +0,43%, TSLA +3,02%, ADA -0,22%) bewegen sich im neutralen Bereich, keine erreicht eine Gewinnmitnahme- oder Stop-Loss-Schwelle. Kursupdates fuer BTC/SOL/ADA via CoinGecko-API durchgefuehrt, TSLA ausserhalb der Handelszeiten (US-Markt oeffnet erst 15:30 MESZ) unveraendert. Depotwert (offene Positionen) aktuell 2.721,99 EUR.",
+    "reasoning": "BTC/SOL/ADA bewegen sich nur geringfuegig seitwaerts, ohne dass ein neuer, mehrfach bestaetigter Katalysator vorliegt. Alle vier offenen Positionen bleiben deutlich innerhalb der Stop-Loss-Schwelle (-6,5 bis -7,5%) und unterhalb der Gewinnmitnahme-Zielspanne (7-9%). TSLA sowie uebrige Aktien/ETFs/Rohstoffe sind vor US-Marktoeffnung (15:30 MESZ) nicht handelbar. Passend zur Vorgabe, nur bei einer wirklich ueberzeugenden Gelegenheit zu handeln, bleibt es bei reinen Kursupdates.",
     "positionIds": [
       "pos-0018",
       "pos-0027",
       "pos-0028",
       "pos-0029"
     ],
-    "portfolioValueEnd": 2714.0,
+    "portfolioValueEnd": 2721.99,
     "updates": [
       {
         "time": "00:08",
@@ -7965,6 +7965,11 @@
         "time": "09:20",
         "note": "Keine Aenderung, Kursupdate BTC (86.436 USD, +2,1% 24h)/SOL (118,50 USD, -1,6% 24h)/ADA (0,2705 USD) via Web-Recherche, TSLA ausserhalb der Handelszeiten (US-Markt oeffnet erst 15:30 MESZ) unveraendert bei 368,00 USD; keine frischen, mehrfach bestaetigten Katalysatoren gefunden - kein Trade",
         "portfolioValue": 2714.0
+      },
+      {
+        "time": "10:08",
+        "note": "Keine Aenderung, Kursupdate BTC (85.809 USD, -0,69% 24h)/SOL (120,52 USD, -1,17% 24h)/ADA (0,272612 USD, -0,11% 24h) via CoinGecko-API (live); TSLA ausserhalb der Handelszeiten (US-Markt oeffnet erst 15:30 MESZ) unveraendert bei 368,00 USD; Websuche liefert nur unspezifische Marktausblicke und Tesla-Event-Spekulation (10/7-Teaser) ohne frischen, mehrfach bestaetigten Katalysator fuer einen Trade - kein Trade",
+        "portfolioValue": 2721.99
       }
     ]
   }
