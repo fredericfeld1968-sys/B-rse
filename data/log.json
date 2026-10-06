@@ -7905,16 +7905,16 @@
   },
   {
     "date": "2026-10-06",
-    "marketOverview": "Dienstagvormittag, europaeische Boersen seit 09:00 MESZ geoeffnet, US-Kassamarkt oeffnet erst um 15:30 MESZ (TSLA daher weiterhin im Vorboerslichen Handel bei ca. 378,73 USD gegenueber Vortagesschluss 370,59 USD, +2,2%, getrieben von der Teaser-Kampagne fuer das Tesla-Event am 07.10. - fuer das offizielle Portfolio bleibt der Kurs bis Boersenoeffnung unveraendert bei 368,00 USD). Bitcoin bewegt sich weiter seitwaerts um ca. 85.980 USD (-0,1% 24h), Solana bei ca. 120,50 USD (-0,4% 24h) nahe Vortagesniveau, Cardano leicht im Plus bei ca. 0,2751 USD (+1,5% 24h). Marktweit dominiert eine Rotation in Altcoins (XRP/SOL Wochengewinne) bei gleichzeitiger BTC-Konsolidierung; naechste wichtige Katalysatoren sind der US-Arbeitsmarktbericht am 09.10. und die CPI-Daten am 13.10. US-Aktienindizes leicht im Plus (S&P 500 +0,36%, Nasdaq +0,71%), Dow leicht im Minus (-0,14%). Kein frischer, mehrfach bestaetigter, sofort handlungsrelevanter Katalysator erkennbar.",
-    "decision": "Kein Trade in diesem Lauf (11:08 Uhr). Tagesbudget wurde bereits im ersten Lauf des Tages (00:08) gutgeschrieben, daher heute keine weitere Gutschrift. Alle vier offenen Positionen (BTC +1,11%, SOL +0,42%, TSLA +3,02% unveraendert ausserhalb der Handelszeiten, ADA +0,70%) bewegen sich weiter im neutralen Bereich, keine erreicht eine Gewinnmitnahme- oder Stop-Loss-Schwelle. Kursupdates fuer BTC/SOL/ADA via CoinGecko-API durchgefuehrt, TSLA bleibt bis zur regulaeren Boersenoeffnung (15:30 MESZ) unveraendert. Depotwert (offene Positionen) aktuell 2.733,73 EUR.",
-    "reasoning": "BTC/SOL/ADA bewegen sich nur geringfuegig, ohne neuen mehrfach bestaetigten Katalysator seit dem letzten Lauf. Die bekannte Tesla-Teaser-Story (Event 07.10.) ist bereits eingepreist und aktuell nur im vorboerslichen Handel sichtbar, der laut Vorgabe nicht als regulaere Handelszeit gilt. Alle vier offenen Positionen bleiben deutlich innerhalb der Stop-Loss-Schwelle (-6,5 bis -7,5%) und unterhalb der Gewinnmitnahme-Zielspanne (7-9%). Passend zur Vorgabe, nur bei einer wirklich ueberzeugenden Gelegenheit zu handeln, bleibt es bei reinen Kursupdates.",
+    "marketOverview": "Dienstagmittag, europaeische Boersen seit 09:00 MESZ geoeffnet, US-Kassamarkt oeffnet erst um 15:30 MESZ. Bitcoin seitwaerts bei ca. 85.980 USD (-0,05% 24h), Solana leicht schwaecher bei ca. 119,51 USD (-0,96% 24h), Cardano leicht im Plus bei ca. 0,2776 USD (+1,44% 24h) - Cardano-Community hat die Wahl zum Constitutional Committee 2026 abgeschlossen (neues Amendment-Portal fuer Verfassungsaenderungen), fundamental aber nicht kurzfristig handlungsrelevant. Solana-Governance stimmt ueber eine deutliche Erhoehung der täglichen SOL-Burn-Rate ab (SGP-0003), ebenfalls kein sofortiger Kurstreiber. Fed (unter Chair Warsh) haelt die Zinsen bei 3,5-3,75% mit moeglichem weiteren Anhebungsschritt im Blick, naechste wichtige Datenpunkte sind der Arbeitsmarktbericht (09.10.) und CPI (13.10.). TSLA bleibt ausserhalb der regulaeren US-Handelszeiten unveraendert bei 368,00 USD. Kein frischer, mehrfach bestaetigter, sofort handlungsrelevanter Katalysator erkennbar.",
+    "decision": "Kein Trade in diesem Lauf (12:09 Uhr). Tagesbudget wurde bereits im ersten Lauf des Tages (00:08) gutgeschrieben, daher heute keine weitere Gutschrift. Alle vier offenen Positionen (BTC +1,11%, SOL -0,41%, TSLA +3,02% unveraendert ausserhalb der Handelszeiten, ADA +1,62%) bewegen sich weiter im neutralen Bereich, keine erreicht eine Gewinnmitnahme- oder Stop-Loss-Schwelle. Kursupdates fuer BTC/SOL/ADA via CoinGecko-API durchgefuehrt, TSLA bleibt bis zur regulaeren Boersenoeffnung (15:30 MESZ) unveraendert. Depotwert (offene Positionen) aktuell 2.734,39 EUR.",
+    "reasoning": "BTC/SOL/ADA bewegen sich nur geringfuegig, ohne neuen mehrfach bestaetigten Katalysator seit dem letzten Lauf. Governance-Abstimmungen bei Solana und Cardano sind strukturell interessant, aber nicht kurzfristig kursrelevant und daher keine Handelsgrundlage. Alle vier offenen Positionen bleiben deutlich innerhalb der Stop-Loss-Schwelle (-6,5 bis -7,5%) und unterhalb der Gewinnmitnahme-Zielspanne (7-9%). Passend zur Vorgabe, nur bei einer wirklich ueberzeugenden Gelegenheit zu handeln, bleibt es bei reinen Kursupdates.",
     "positionIds": [
       "pos-0018",
       "pos-0027",
       "pos-0028",
       "pos-0029"
     ],
-    "portfolioValueEnd": 2733.73,
+    "portfolioValueEnd": 2734.39,
     "updates": [
       {
         "time": "00:08",
@@ -7975,6 +7975,11 @@
         "time": "11:08",
         "note": "Keine Aenderung, Kursupdate BTC (85.982 USD, -0,12% 24h)/SOL (120,50 USD, -0,44% 24h)/ADA (0,2751 USD, +1,53% 24h) via CoinGecko-API (live), TSLA im vorboerslichen Handel bei 378,73 USD (+2,2%) wegen Event-Teaser 07.10., aber ausserhalb der regulaeren Handelszeiten unveraendert bei 368,00 USD gefuehrt - kein Trade",
         "portfolioValue": 2733.73
+      },
+      {
+        "time": "12:09",
+        "note": "Keine Aenderung, Kursupdate BTC (85.980 USD, -0,05% 24h)/SOL (119,51 USD, -0,96% 24h)/ADA (0,277623 USD, +1,44% 24h) via CoinGecko-API (live); TSLA ausserhalb der Handelszeiten unveraendert bei 368,00 USD. Kein frischer, mehrfach bestaetigter Katalysator - kein Trade",
+        "portfolioValue": 2734.39
       }
     ]
   }
