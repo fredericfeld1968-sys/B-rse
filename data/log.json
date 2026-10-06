@@ -7905,16 +7905,16 @@
   },
   {
     "date": "2026-10-06",
-    "marketOverview": "Nacht auf Dienstag, Aktien/ETFs/Rohstoffe weiterhin ausserhalb der Handelszeiten (TSLA letzter Schlusskurs unveraendert bei 368,00 USD). Bitcoin via CoinGecko-API (live) bei 86.098 USD (-0,47% 24h), leicht erholt gegenueber dem letzten Lauf, weiterhin ohne klare Richtungsentscheidung nahe des 8-Monats-Hochs. Solana bei 121,23 USD (+0,09% 24h) seitwaerts ohne frischen Katalysator. Cardano bei 0,271277 USD (+2,53% 24h) stabil im Bereich der letzten Laeufe, der Golden-Cross-Ausbruch bleibt der einzige, bereits gehandelte Treiber. Websuche liefert weiterhin nur unspezifische/veraltete Kurszielprognosen ohne neuen, mehrfach bestaetigten Katalysator fuer die Nachtstunden; Makro-Fokus bleibt auf der Fed-Sitzung am 28.10.",
-    "decision": "Kein Trade in diesem Lauf (03:08 Uhr). Tagesbudget wurde bereits im ersten Lauf des Tages (00:08) gutgeschrieben, daher heute keine weitere Gutschrift. Alle vier offenen Positionen (BTC +1,25%, SOL +1,03%, TSLA +3,02%, ADA -0,70%) bewegen sich im neutralen Bereich, keine erreicht eine Gewinnmitnahme- oder Stop-Loss-Schwelle. Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten, bei Krypto kein frischer, mehrfach bestaetigter Katalysator fuer eine neue Position.",
-    "reasoning": "BTC und SOL bewegen sich nur geringfuegig seitwaerts/leicht positiv ohne neue Nachrichtenlage. ADA pendelt im selben Bereich wie in den letzten Laeufen, der Golden-Cross-Katalysator ist bereits eingepreist und gehandelt (pos-0029). Websuche liefert erneut nur undatierte/veraltete Preisprognosen und generische Analysten-Einschaetzungen ohne frischen, mehrfach bestaetigten, handlungsrelevanten Katalysator - daher trotz grossem freiem Kapital kein Trade.",
+    "marketOverview": "Nacht auf Dienstag, Aktien/ETFs/Rohstoffe weiterhin ausserhalb der Handelszeiten (TSLA letzter Schlusskurs unveraendert bei 368,00 USD). Bitcoin via CoinGecko-API (live) bei 85.562 USD (-1,25% 24h), leicht ruecklaeufig gegenueber dem letzten Lauf, weiterhin ohne klare Richtungsentscheidung nahe des 8-Monats-Hochs. Solana bei 120,49 USD (-0,72% 24h) seitwaerts ohne frischen Katalysator. Cardano bei 0,267233 USD (+0,82% 24h) stabil im Bereich der letzten Laeufe, der Golden-Cross-Ausbruch bleibt der einzige, bereits gehandelte Treiber. Websuche liefert weiterhin nur unspezifische/veraltete Kurszielprognosen ohne neuen, mehrfach bestaetigten Katalysator fuer die Nachtstunden; Makro-Fokus bleibt auf der Fed-Sitzung am 28.10.",
+    "decision": "Kein Trade in diesem Lauf (04:07 Uhr). Tagesbudget wurde bereits im ersten Lauf des Tages (00:08) gutgeschrieben, daher heute keine weitere Gutschrift. Alle vier offenen Positionen (BTC +0,62%, SOL +0,41%, TSLA +3,02%, ADA -2,19%) bewegen sich im neutralen Bereich, keine erreicht eine Gewinnmitnahme- oder Stop-Loss-Schwelle. Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten, bei Krypto kein frischer, mehrfach bestaetigter Katalysator fuer eine neue Position.",
+    "reasoning": "BTC und SOL bewegen sich nur geringfuegig seitwaerts/leicht negativ ohne neue Nachrichtenlage. ADA gibt moderat nach, bleibt aber deutlich innerhalb der Stop-Loss-Schwelle. Websuche liefert erneut nur undatierte/veraltete Preisprognosen und generische Analysten-Einschaetzungen ohne frischen, mehrfach bestaetigten, handlungsrelevanten Katalysator - daher trotz grossem freiem Kapital kein Trade.",
     "positionIds": [
       "pos-0018",
       "pos-0027",
       "pos-0028",
       "pos-0029"
     ],
-    "portfolioValueEnd": 2729.14,
+    "portfolioValueEnd": 2710.03,
     "updates": [
       {
         "time": "00:08",
@@ -7935,6 +7935,11 @@
         "time": "03:08",
         "note": "Keine Aenderung, Kursupdate BTC (86.098 USD, -0,47% 24h)/SOL (121,23 USD, +0,09% 24h)/ADA (0,271277 USD, +2,53% 24h) via CoinGecko-API (live), TSLA ausserhalb der Handelszeiten unveraendert bei 368,00 USD; keine frischen, mehrfach bestaetigten Katalysatoren gefunden - kein Trade",
         "portfolioValue": 2729.14
+      },
+      {
+        "time": "04:07",
+        "note": "Keine Aenderung, Kursupdate BTC (85.562 USD, -1,25% 24h)/SOL (120,49 USD, -0,72% 24h)/ADA (0,267233 USD, +0,82% 24h) via CoinGecko-API (live), TSLA ausserhalb der Handelszeiten unveraendert bei 368,00 USD; keine frischen, mehrfach bestaetigten Katalysatoren gefunden - kein Trade",
+        "portfolioValue": 2710.03
       }
     ]
   }
