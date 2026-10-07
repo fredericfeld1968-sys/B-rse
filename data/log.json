@@ -8040,16 +8040,16 @@
   },
   {
     "date": "2026-10-07",
-    "marketOverview": "Mittwoch 04:09 MESZ, US-Boersen weiterhin geschlossen (Oeffnung 15:30 MESZ). Krypto-Markt klar im Risk-off vor der Veroeffentlichung des Fed-Sitzungsprotokolls (September) am heutigen Tag im Vorfeld der Zinsentscheidung am 28.10.: BTC 83.702 USD (-2,14% 24h), SOL 117,17 USD (-2,72% 24h), ADA 0,253214 USD (-5,23% 24h), jeweils via CoinGecko-API (live). TSLA ausserhalb der Handelszeiten unveraendert bei 380,66 USD.",
-    "decision": "04:09 Uhr: Stop-Loss-Verkauf ADA (pos-0029, -7,32%). Kursupdate BTC und SOL (beide weiterhin unter Stop-Loss-Schwelle); TSLA unveraendert, da US-Markt weiterhin geschlossen ist. Kein Neukauf trotz hohem freiem Kapital, da der Kryptomarkt insgesamt risikoavers ist und keine ueberzeugende neue Gelegenheit vorliegt.",
-    "reasoning": "ADA erreichte mit -7,32% die etablierte Stop-Loss-Schwelle (-6,5 bis -7,5%, analog Rheinmetall -6,56%, XRP -6,57%, HBAR -7,31%, ENA -6,78%) und wurde konsequent glattgestellt, um weiteren Verlust im Zuge des breiten Krypto-Risk-offs vor den Fed-Minutes zu vermeiden. BTC (-1,57%) und SOL (-2,36%) liegen noch innerhalb der Toleranz und werden unveraendert weitergefuehrt; TSLA (+6,57%) ausserhalb der Handelszeiten unveraendert. Trotz freiem Kapital von ca. 61.390 EUR kein Neukauf, da aktuell keine mehrfach bestaetigte, ueberzeugende neue Chance erkennbar ist und der Gesamtmarkt risikoavers bleibt.",
+    "marketOverview": "Mittwoch 05:08 MESZ, US-Boersen weiterhin geschlossen (Oeffnung 15:30 MESZ). Kryptomarkt bleibt im breiten Risk-off nach den hawkishen Fed-Minutes (Dissens im FOMC ueber Zinssenkungstempo, Dezember-Zinssenkungswahrscheinlichkeit laut CME FedWatch auf ca. 31,6% gesunken) - Gesamtmarktkapitalisierung -4,5% in 24h laut CoinGecko. BTC 84.059 USD (-1,71% 24h), SOL 118,42 USD (-1,44% 24h), beide via CoinGecko-API (live) noch innerhalb der Toleranz. TSLA ausserhalb der Handelszeiten unveraendert bei 380,66 USD.",
+    "decision": "05:08 Uhr: Kein Trade. Kursupdate BTC (-1,15% seit Kauf) und SOL (-1,32% seit Kauf), beide innerhalb der Stop-Loss-Toleranz; TSLA unveraendert, da US-Markt geschlossen ist. Kein Neukauf trotz hohem freiem Kapital (~61.390 EUR), da der gesamte Kryptomarkt nach den Fed-Minutes risikoavers bleibt und keine mehrfach bestaetigte, ueberzeugende neue Chance erkennbar ist.",
+    "reasoning": "BTC und SOL bewegen sich im Rahmen des breiten, durch die hawkishen FOMC-Minutes ausgeloesten Risk-offs (Gesamtmarkt -4,5% in 24h), liegen aber mit -1,15% bzw. -1,32% noch deutlich innerhalb der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%). Kein Coin aus der beobachteten Liste (ETH -3,1%, XRP -2,3%, HYPE -3,1%, DOGE -4,5%, ADA -4,8%, LINK -1,1%, AVAX -1,3%, QNT -3,2%, PYTH -5,8%) zeigt einen frischen, mehrfach bestaetigten positiven Katalysator - durchweg Verluste im Gleichklang mit dem Fed-bedingten Risk-off. Passend zum spekulativen Kurzfrist-Profil wird daher auf einen Neukauf verzichtet und abgewartet, bis sich eine klar erkennbare, von mehreren Quellen bestaetigte Gelegenheit bietet.",
     "positionIds": [
       "pos-0018",
       "pos-0027",
       "pos-0028",
       "pos-0029"
     ],
-    "portfolioValueEnd": 2011.93,
+    "portfolioValueEnd": 2022.16,
     "updates": [
       {
         "time": "00:08",
@@ -8075,6 +8075,11 @@
         "time": "04:09",
         "note": "Verkauf ADA (Stop-Loss, -7,32%, -51,21 EUR), Kursupdate BTC (83.702 USD, -2,14% 24h)/SOL (117,17 USD, -2,72% 24h) via CoinGecko-API (live), TSLA ausserhalb der Handelszeiten unveraendert bei 380,66 USD",
         "portfolioValue": 2011.93
+      },
+      {
+        "time": "05:08",
+        "note": "Keine Aenderung, Kursupdate BTC (84.059 USD, -1,71% 24h)/SOL (118,42 USD, -1,44% 24h) via CoinGecko-API (live), TSLA ausserhalb der Handelszeiten unveraendert bei 380,66 USD - kein Trade (breiter Krypto-Risk-off nach Fed-Minutes)",
+        "portfolioValue": 2022.16
       }
     ]
   }
