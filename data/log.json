@@ -8040,16 +8040,16 @@
   },
   {
     "date": "2026-10-07",
-    "marketOverview": "Mittwoch 05:08 MESZ, US-Boersen weiterhin geschlossen (Oeffnung 15:30 MESZ). Kryptomarkt bleibt im breiten Risk-off nach den hawkishen Fed-Minutes (Dissens im FOMC ueber Zinssenkungstempo, Dezember-Zinssenkungswahrscheinlichkeit laut CME FedWatch auf ca. 31,6% gesunken) - Gesamtmarktkapitalisierung -4,5% in 24h laut CoinGecko. BTC 84.059 USD (-1,71% 24h), SOL 118,42 USD (-1,44% 24h), beide via CoinGecko-API (live) noch innerhalb der Toleranz. TSLA ausserhalb der Handelszeiten unveraendert bei 380,66 USD.",
-    "decision": "05:08 Uhr: Kein Trade. Kursupdate BTC (-1,15% seit Kauf) und SOL (-1,32% seit Kauf), beide innerhalb der Stop-Loss-Toleranz; TSLA unveraendert, da US-Markt geschlossen ist. Kein Neukauf trotz hohem freiem Kapital (~61.390 EUR), da der gesamte Kryptomarkt nach den Fed-Minutes risikoavers bleibt und keine mehrfach bestaetigte, ueberzeugende neue Chance erkennbar ist.",
-    "reasoning": "BTC und SOL bewegen sich im Rahmen des breiten, durch die hawkishen FOMC-Minutes ausgeloesten Risk-offs (Gesamtmarkt -4,5% in 24h), liegen aber mit -1,15% bzw. -1,32% noch deutlich innerhalb der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%). Kein Coin aus der beobachteten Liste (ETH -3,1%, XRP -2,3%, HYPE -3,1%, DOGE -4,5%, ADA -4,8%, LINK -1,1%, AVAX -1,3%, QNT -3,2%, PYTH -5,8%) zeigt einen frischen, mehrfach bestaetigten positiven Katalysator - durchweg Verluste im Gleichklang mit dem Fed-bedingten Risk-off. Passend zum spekulativen Kurzfrist-Profil wird daher auf einen Neukauf verzichtet und abgewartet, bis sich eine klar erkennbare, von mehreren Quellen bestaetigte Gelegenheit bietet.",
+    "marketOverview": "Mittwoch 06:08 MESZ, US-Boersen weiterhin geschlossen (Oeffnung 15:30 MESZ). Kryptomarkt bleibt im breiten Risk-off nach den hawkishen Fed-Minutes vom Vortag: BTC 84.111 USD (-1,70% 24h), SOL 118,08 USD (-1,70% 24h), beide via CoinGecko-API (live). Auch ETH (-3,31%), XRP (-2,54%), ADA (-5,06%), DOGE (-5,01%), ENA (-8,07%), PYTH (-7,34%) zeigen durchweg Verluste - kein Coin mit frischem positivem Katalysator erkennbar. TSLA ausserhalb der Handelszeiten unveraendert bei 380,66 USD.",
+    "decision": "06:08 Uhr: Kein Trade. Kursupdate BTC (-1,09% seit Kauf) und SOL (-1,60% seit Kauf), beide weiterhin deutlich innerhalb der Stop-Loss-Toleranz; TSLA unveraendert, da US-Markt geschlossen ist. Kein Neukauf trotz hohem freiem Kapital (~61.390 EUR), da der gesamte Kryptomarkt weiterhin risikoavers bleibt und keine mehrfach bestaetigte, ueberzeugende neue Chance erkennbar ist.",
+    "reasoning": "BTC und SOL bleiben im Rahmen des durch die hawkishen FOMC-Minutes ausgeloesten Risk-offs, liegen aber mit -1,09% bzw. -1,60% weiterhin deutlich innerhalb der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%). Kein beobachteter Coin (ETH, XRP, HYPE, DOGE, ADA, LINK, AVAX, QNT, PYTH, BCH, ENA, HBAR) zeigt einen frischen, mehrfach bestaetigten positiven Katalysator - durchweg Verluste im Gleichklang mit dem Fed-bedingten Risk-off. Passend zum spekulativen Kurzfrist-Profil wird daher weiter auf einen Neukauf verzichtet, bis sich eine klar erkennbare, von mehreren Quellen bestaetigte Gelegenheit bietet.",
     "positionIds": [
       "pos-0018",
       "pos-0027",
       "pos-0028",
       "pos-0029"
     ],
-    "portfolioValueEnd": 2022.16,
+    "portfolioValueEnd": 2020.6,
     "updates": [
       {
         "time": "00:08",
@@ -8080,6 +8080,11 @@
         "time": "05:08",
         "note": "Keine Aenderung, Kursupdate BTC (84.059 USD, -1,71% 24h)/SOL (118,42 USD, -1,44% 24h) via CoinGecko-API (live), TSLA ausserhalb der Handelszeiten unveraendert bei 380,66 USD - kein Trade (breiter Krypto-Risk-off nach Fed-Minutes)",
         "portfolioValue": 2022.16
+      },
+      {
+        "time": "06:08",
+        "note": "Keine Aenderung, Kursupdate BTC (84.111 USD, -1,70% 24h)/SOL (118,08 USD, -1,70% 24h) via CoinGecko-API (live), TSLA ausserhalb der Handelszeiten unveraendert bei 380,66 USD - kein Trade (breiter Krypto-Risk-off nach Fed-Minutes haelt an)",
+        "portfolioValue": 2020.6
       }
     ]
   }
