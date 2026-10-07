@@ -8040,16 +8040,16 @@
   },
   {
     "date": "2026-10-07",
-    "marketOverview": "Mittwoch 06:08 MESZ, US-Boersen weiterhin geschlossen (Oeffnung 15:30 MESZ). Kryptomarkt bleibt im breiten Risk-off nach den hawkishen Fed-Minutes vom Vortag: BTC 84.111 USD (-1,70% 24h), SOL 118,08 USD (-1,70% 24h), beide via CoinGecko-API (live). Auch ETH (-3,31%), XRP (-2,54%), ADA (-5,06%), DOGE (-5,01%), ENA (-8,07%), PYTH (-7,34%) zeigen durchweg Verluste - kein Coin mit frischem positivem Katalysator erkennbar. TSLA ausserhalb der Handelszeiten unveraendert bei 380,66 USD.",
-    "decision": "06:08 Uhr: Kein Trade. Kursupdate BTC (-1,09% seit Kauf) und SOL (-1,60% seit Kauf), beide weiterhin deutlich innerhalb der Stop-Loss-Toleranz; TSLA unveraendert, da US-Markt geschlossen ist. Kein Neukauf trotz hohem freiem Kapital (~61.390 EUR), da der gesamte Kryptomarkt weiterhin risikoavers bleibt und keine mehrfach bestaetigte, ueberzeugende neue Chance erkennbar ist.",
-    "reasoning": "BTC und SOL bleiben im Rahmen des durch die hawkishen FOMC-Minutes ausgeloesten Risk-offs, liegen aber mit -1,09% bzw. -1,60% weiterhin deutlich innerhalb der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%). Kein beobachteter Coin (ETH, XRP, HYPE, DOGE, ADA, LINK, AVAX, QNT, PYTH, BCH, ENA, HBAR) zeigt einen frischen, mehrfach bestaetigten positiven Katalysator - durchweg Verluste im Gleichklang mit dem Fed-bedingten Risk-off. Passend zum spekulativen Kurzfrist-Profil wird daher weiter auf einen Neukauf verzichtet, bis sich eine klar erkennbare, von mehreren Quellen bestaetigte Gelegenheit bietet.",
+    "marketOverview": "Bitcoin notiert laut CoinGecko-API (live) bei 84.135 USD (-1,80% 24h), nachdem eine versuchte Erholung Richtung 87.000-87.800 USD scheiterte; mehrere frisch eroeffnete Hyperliquid-Wallets setzten 40x-Shorts mit zusammen 148,49 BTC. Solana haelt sich bei 118,35 USD (-1,56% 24h) stabil. Der breite Krypto-Risk-off seit den hawkishen FOMC-Minutes haelt an, heute um 20:00 MESZ werden zusaetzlich die September-Sitzungsprotokolle veroeffentlicht. TSLA bleibt ausserhalb der US-Handelszeiten unveraendert bei 380,68 USD (Markt laut Yahoo Finance CLOSED); europaeische Boersen oeffnen erst um 09:00 MESZ. Kein Coin im Portfolio zeigt einen frischen, mehrfach unabhaengig bestaetigten Katalysator - durchweg leichte Verluste im Gleichklang mit dem Markt.",
+    "decision": "06:08 Uhr: Kein Trade. Kursupdate BTC (-1,09% seit Kauf) und SOL (-1,60% seit Kauf), beide weiterhin deutlich innerhalb der Stop-Loss-Toleranz; TSLA unveraendert, da US-Markt geschlossen ist. Kein Neukauf trotz hohem freiem Kapital (~61.390 EUR), da der gesamte Kryptomarkt weiterhin risikoavers bleibt und keine mehrfach bestaetigte, ueberzeugende neue Chance erkennbar ist. Im 07:08-Lauf weiterhin kein neuer Trade: BTC/SOL bewegen sich nur leicht im Rahmen des anhaltenden Risk-offs (-1,06%/-1,37%), weit von der Stop-Loss-Schwelle entfernt; Aktien/ETFs/Rohstoffe sind vor Markteroeffnung nicht handelbar. Mangels eines ueberzeugenden, mehrfach bestaetigten Katalysators wird auf einen Neukauf verzichtet.",
+    "reasoning": "BTC und SOL bleiben im Rahmen des durch die hawkishen FOMC-Minutes ausgeloesten Risk-offs, liegen aber mit -1,09% bzw. -1,60% weiterhin deutlich innerhalb der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%). Kein beobachteter Coin (ETH, XRP, HYPE, DOGE, ADA, LINK, AVAX, QNT, PYTH, BCH, ENA, HBAR) zeigt einen frischen, mehrfach bestaetigten positiven Katalysator - durchweg Verluste im Gleichklang mit dem Fed-bedingten Risk-off. Passend zum spekulativen Kurzfrist-Profil wird daher weiter auf einen Neukauf verzichtet, bis sich eine klar erkennbare, von mehreren Quellen bestaetigte Gelegenheit bietet. 07:08 MESZ: Kursupdate BTC (84.135 USD, -1,80% 24h, CoinGecko-API live) und SOL (118,35 USD, -1,56% 24h, CoinGecko-API live) zeigen nur moderate, bereits bekannte Risk-off-Bewegung ohne neuen Katalysator. TSLA (Yahoo-Finance-API, Markt CLOSED) unveraendert bei 380,68 USD. Web-Recherche zu Altcoin-Breakouts (XRP >1,50 USD, SUI-Basecamp-Konferenz) liefert nur einzelne, nicht hinreichend mehrfach unabhaengig bestaetigte Quellen - passend zum spekulativen, aber risikobewussten Profil kein Neukauf auf Basis unsicherer Datenlage.",
     "positionIds": [
       "pos-0018",
       "pos-0027",
       "pos-0028",
       "pos-0029"
     ],
-    "portfolioValueEnd": 2020.6,
+    "portfolioValueEnd": 2022.41,
     "updates": [
       {
         "time": "00:08",
@@ -8085,6 +8085,11 @@
         "time": "06:08",
         "note": "Keine Aenderung, Kursupdate BTC (84.111 USD, -1,70% 24h)/SOL (118,08 USD, -1,70% 24h) via CoinGecko-API (live), TSLA ausserhalb der Handelszeiten unveraendert bei 380,66 USD - kein Trade (breiter Krypto-Risk-off nach Fed-Minutes haelt an)",
         "portfolioValue": 2020.6
+      },
+      {
+        "time": "07:08",
+        "note": "Keine Aenderung, Kursupdate BTC (84.135 USD, -1,80% 24h)/SOL (118,35 USD, -1,56% 24h) via CoinGecko-API (live), TSLA ausserhalb der Handelszeiten unveraendert bei 380,68 USD (Yahoo Finance, Markt CLOSED) - kein Trade",
+        "portfolioValue": 2022.41
       }
     ]
   }
