@@ -8040,16 +8040,16 @@
   },
   {
     "date": "2026-10-07",
-    "marketOverview": "Mittwoch 02:09 MESZ, US-Boersen weiterhin geschlossen (Oeffnung 15:30 MESZ). Kryptomarkt via CoinGecko-API (live) weiter ruhig: BTC 85.479 USD (-0,33% 24h), SOL 120,44 USD (-0,29% 24h), ADA 0,267298 USD (-1,54% 24h). Websuche liefert weiterhin nur veraltete/irrelevante Treffer, keine neuen mehrfach bestaetigten handlungsrelevanten Katalysatoren.",
-    "decision": "Kein Trade in diesem Lauf (02:09 Uhr). Kursupdate fuer BTC, SOL, ADA (CoinGecko live); TSLA unveraendert, da US-Markt weiterhin geschlossen ist.",
-    "reasoning": "Keine der vier offenen Positionen (BTC +0,52%, SOL +0,37%, TSLA +6,57%, ADA -2,16%) hat die Stop-Loss-Schwelle (-6,5 bis -7,5%) erreicht oder die Gewinnmitnahme-Zielspanne (7-9%) ueberschritten, daher werden alle unveraendert weitergefuehrt. Kryptomarkt zeigt keine nennenswerte Bewegung und keine ueberzeugende neue Gelegenheit; Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten nicht handelbar. Trotz hohem freiem Kapital (ca. 60.741 EUR) daher kein Neukauf.",
+    "marketOverview": "Mittwoch 03:08 MESZ, US-Boersen weiterhin geschlossen (Oeffnung 15:30 MESZ). Kryptomarkt via CoinGecko-API (live) weiter ruhig: BTC 85.471 USD (-0,68% 24h), SOL 120,42 USD (-0,63% 24h), ADA 0,26657 USD (-1,64% 24h). Keine neuen mehrfach bestaetigten handlungsrelevanten Katalysatoren; Fed-Protokoll vom September sowie Spekulationen ueber eine Zinssenkung am 28.10. praegen weiter das Makroumfeld, ohne akuten Trade-Impuls fuer die offenen Positionen.",
+    "decision": "Kein Trade in diesem Lauf (03:08 Uhr). Kursupdate fuer BTC, SOL, ADA (CoinGecko live); TSLA unveraendert, da US-Markt weiterhin geschlossen ist.",
+    "reasoning": "Keine der vier offenen Positionen (BTC +0,51%, SOL +0,35%, TSLA +6,57%, ADA -2,43%) hat die Stop-Loss-Schwelle (-6,5 bis -7,5%) erreicht oder die Gewinnmitnahme-Zielspanne (7-9%) ueberschritten, daher werden alle unveraendert weitergefuehrt. Kryptomarkt zeigt keine nennenswerte Bewegung und keine ueberzeugende neue Gelegenheit; Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten nicht handelbar. Trotz hohem freiem Kapital (ca. 60.741 EUR) daher kein Neukauf.",
     "positionIds": [
       "pos-0018",
       "pos-0027",
       "pos-0028",
       "pos-0029"
     ],
-    "portfolioValueEnd": 2730.51,
+    "portfolioValueEnd": 2728.46,
     "updates": [
       {
         "time": "00:08",
@@ -8065,6 +8065,11 @@
         "time": "02:09",
         "note": "Keine Aenderung, Kursupdate BTC (85.479 USD, -0,33% 24h)/SOL (120,44 USD, -0,29% 24h)/ADA (0,267298 USD, -1,54% 24h) via CoinGecko-API (live), TSLA ausserhalb der Handelszeiten unveraendert bei 380,66 USD - kein Trade",
         "portfolioValue": 2730.51
+      },
+      {
+        "time": "03:08",
+        "note": "Keine Aenderung, Kursupdate BTC (85.471 USD, -0,68% 24h)/SOL (120,42 USD, -0,63% 24h)/ADA (0,26657 USD, -1,64% 24h) via CoinGecko-API (live), TSLA ausserhalb der Handelszeiten unveraendert bei 380,66 USD - kein Trade",
+        "portfolioValue": 2728.46
       }
     ]
   }
