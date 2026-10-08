@@ -8164,15 +8164,15 @@
   },
   {
     "date": "2026-10-08",
-    "marketOverview": "Bitcoin via CoinGecko-API (live) bei 83.448 USD (-2,37% 24h, nahezu unveraendert ggue. 02:08 Uhr), Solana bei 116,68 USD (-3,10% 24h, ebenfalls kaum veraendert). Der moderate Krypto-Risk-off-Ton der letzten Stunden bleibt bestehen, aber ohne neue Dynamik; WebSuche liefert keine frische, mehrfach bestaetigte Nachrichtenlage (naechster moeglicher Katalysator bleibt die Fed-Sitzung am 27.-28.10.). US-Kassamarkt ist weiterhin seit 22:00 MESZ geschlossen, TSLA bleibt bei Schlusskurs 377,81 USD (+5,77% seit Kauf). Keine mehrfach bestaetigten neuen Katalysatoren fuer Aktien, ETFs, Krypto oder Rohstoffe.",
-    "decision": "00:09 Uhr: Tagesbudget gutgeschrieben (+1.000 EUR), kein Trade. 01:08 Uhr: weiterhin kein Trade. 02:08 Uhr: weiterhin kein Trade. 03:09 Uhr: weiterhin kein Trade. Kursupdate BTC (-1,87% seit Kauf) und SOL (-2,77% seit Kauf), beide weiterhin deutlich innerhalb der Stop-Loss-Toleranz und praktisch unveraendert zur Vorstunde; TSLA unveraendert, da US-Markt weiterhin geschlossen ist. Kein Neukauf trotz hohem freiem Kapital (~62.390 EUR), da weiterhin keine mehrfach bestaetigte, ueberzeugende neue Chance erkennbar ist; Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten ohnehin nicht handelbar.",
-    "reasoning": "Kein ueberzeugender, mehrfach bestaetigter Katalysator fuer einen Trade vorhanden; Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten nicht handelbar, Krypto bewegt sich seit der letzten Stunde kaum (BTC/SOL beide unter 1% Veraenderung). Bestehende offene Positionen (BTC, SOL, TSLA) bleiben alle deutlich innerhalb der Stop-Loss- bzw. unterhalb der Ziel-Gewinnspanne, daher keine Aktion.",
+    "marketOverview": "Bitcoin via CoinGecko-API (live) bei 83.037 USD (-0,95% 24h, praktisch unveraendert ggue. 03:09 Uhr), Solana bei 116,09 USD (-1,36% 24h, ebenfalls kaum veraendert). Krypto bleibt in ruhiger Konsolidierung ohne neue Dynamik; WebSuche liefert keine frische, mehrfach bestaetigte Nachrichtenlage (naechster Katalysator bleibt die Fed-Sitzung am 27.-28.10., Markterwartung fuer eine weitere Zinserhoehung zuletzt auf ca. 22% gefallen). US-Kassamarkt weiterhin seit 22:00 MESZ geschlossen, TSLA bleibt bei Schlusskurs 377,81 USD (+5,77% seit Kauf). Keine mehrfach bestaetigten neuen Katalysatoren fuer Aktien, ETFs, Krypto oder Rohstoffe.",
+    "decision": "00:09 Uhr: Tagesbudget gutgeschrieben (+1.000 EUR), kein Trade. 01:08-03:09 Uhr: weiterhin kein Trade. 04:07 Uhr: weiterhin kein Trade. Kursupdate BTC (-2,35% seit Kauf) und SOL (-3,26% seit Kauf), beide weiterhin deutlich innerhalb der Stop-Loss-Toleranz und praktisch unveraendert zur Vorstunde; TSLA unveraendert, da US-Markt weiterhin geschlossen ist. Kein Neukauf trotz hohem freiem Kapital (~62.390 EUR), da weiterhin keine mehrfach bestaetigte, ueberzeugende neue Chance erkennbar ist; Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten ohnehin nicht handelbar.",
+    "reasoning": "Kein ueberzeugender, mehrfach bestaetigter Katalysator fuer einen Trade vorhanden; Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten nicht handelbar, Krypto bewegt sich seit der letzten Stunde kaum (BTC/SOL beide unter 1,5% 24h-Veraenderung). Bestehende offene Positionen (BTC, SOL, TSLA) bleiben alle deutlich innerhalb der Stop-Loss- bzw. unterhalb der Ziel-Gewinnspanne, daher keine Aktion.",
     "positionIds": [
       "pos-0018",
       "pos-0027",
       "pos-0028"
     ],
-    "portfolioValueEnd": 2002.19,
+    "portfolioValueEnd": 1995.36,
     "updates": [
       {
         "time": "00:09",
@@ -8193,6 +8193,11 @@
         "time": "03:09",
         "note": "Keine Aenderung, Kursupdate BTC (83.448 USD, -2,37% 24h, CoinGecko-API live, nahezu unveraendert)/SOL (116,68 USD, -3,10% 24h, CoinGecko-API live, nahezu unveraendert), TSLA unveraendert bei 377,81 USD (US-Markt weiterhin geschlossen) - kein frischer Katalysator, kein Trade",
         "portfolioValue": 2002.19
+      },
+      {
+        "time": "04:07",
+        "note": "Keine Aenderung, Kursupdate BTC (83.037 USD, -0,95% 24h, CoinGecko-API live)/SOL (116,09 USD, -1,36% 24h, CoinGecko-API live), TSLA ausserhalb der Handelszeiten unveraendert bei 377,81 USD - kein frischer Katalysator, kein Trade",
+        "portfolioValue": 1995.36
       }
     ]
   }
