@@ -8295,5 +8295,23 @@
         "portfolioValue": 1302.13
       }
     ]
+  },
+  {
+    "date": "2026-10-09",
+    "marketOverview": "Nachts/vorboerslich bleibt das Risk-off-Umfeld der letzten Tage intakt: Bitcoin notiert bei ca. 81.638 USD (-1,85% in 24h, CoinGecko live), die grossen Altcoins (SOL -4,6%, ETH -3,5%, DOGE -4,7%, ADA -7,7%, AVAX -8,4%, LINK -4,2%) liegen alle im Minus - kein Zeichen einer Erholung oder eines frischen Ausbruchs. US-Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten (Markt oeffnet erst wieder zur US-Vorboerse); die zuletzt dominierenden Themen (Iran/Hormuz-Oelpreis-Eskalation, hohe US-Anleiherenditen >5,3%, Chip-Sektor-Schwaeche) bleiben unveraendert belastend.",
+    "decision": "00:08 Uhr: Tagesbudget gutgeschrieben (+1.000 EUR auf 66.000 EUR Gesamtkapital). Kursupdate BTC (81.638 USD, -3,99% seit Kauf, CoinGecko-API live); TSLA unveraendert bei 375,00 USD (offizieller Schlusskurs, US-Markt geschlossen). Kein Trade: breiter Krypto-Risk-off ohne frischen, mehrfach bestaetigten positiven Katalysator fuer einen Neukauf, trotz sehr hohem freiem Kapital (~64.038 EUR). BTC und TSLA bleiben deutlich innerhalb der jeweiligen Stop-Loss-/Take-Profit-Schwellen.",
+    "reasoning": "Kein ueberzeugender Einstieg erkennbar: alle beobachteten Altcoins (SOL, ETH, DOGE, ADA, AVAX, LINK) notieren im Minus, kein Ausbruch oder institutioneller Katalysator gefunden. Bestehende Positionen (BTC -3,99%, TSLA +4,98%) bleiben unveraendert innerhalb der Toleranz. Freies Kapital bleibt bis zu einer klaren Gelegenheit ungenutzt.",
+    "positionIds": [
+      "pos-0018",
+      "pos-0028"
+    ],
+    "portfolioValueEnd": 1301.94,
+    "updates": [
+      {
+        "time": "00:08",
+        "note": "Tagesbudget gutgeschrieben (+1.000 EUR), keine Aenderung, Kursupdate BTC (81.638 USD, -1,85% 24h, CoinGecko-API live, -3,99% seit Kauf), TSLA ausserhalb der Handelszeiten unveraendert bei 375,00 USD - breiter Krypto-Risk-off (SOL/ETH/DOGE/ADA/AVAX/LINK alle im Minus) ohne frischen Katalysator, kein Trade",
+        "portfolioValue": 1301.94
+      }
+    ]
   }
 ]
