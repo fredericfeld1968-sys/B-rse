@@ -8164,15 +8164,15 @@
   },
   {
     "date": "2026-10-08",
-    "marketOverview": "Bitcoin via CoinGecko-API (live) bei 82.909 USD (-1,47% 24h), Solana bei 115,24 USD (-3,00% 24h) - beide nahezu unveraendert ggue. 08:08 Uhr, weiterhin ruhige Konsolidierung ohne neuen Katalysator. Makro-Hintergrund bleibt angespannt: US-Staatsanleihe-Renditen auf Mehrjahrzehnte-Hoch (10-jaehrig teils ueber 5,2-5,3%), Fed unter Chair Warsh moeglicherweise falkenhaft vor der FOMC-Sitzung am 28.10., Oelpreise durch anhaltende Hormuz-Spannungen erhoeht. Keine mehrfach bestaetigte, frische Nachrichtenlage zu TSLA, BTC oder SOL speziell gefunden. Xetra ist seit 09:00 Uhr geoeffnet, US-Kassamarkt oeffnet erst 15:30 MESZ, TSLA bleibt bei Schlusskurs 377,81 USD (+5,77% seit Kauf).",
-    "decision": "00:09 Uhr: Tagesbudget gutgeschrieben (+1.000 EUR), kein Trade. 01:08-09:08 Uhr: weiterhin kein Trade. Kursupdate BTC (-2,50% seit Kauf) und SOL (-3,97% seit Kauf), beide weiterhin deutlich innerhalb der Stop-Loss-Toleranz; TSLA unveraendert, da US-Markt weiterhin geschlossen ist. Kein Neukauf trotz sehr hohem freiem Kapital, da trotz Recherche (Krypto-Live-Kurse, TSLA-Marktlage, allgemeine Makrolage zu Zinsen/Oel/Geopolitik) keine mehrfach bestaetigte, ueberzeugende neue Chance erkennbar ist.",
-    "reasoning": "Kein ueberzeugender, mehrfach bestaetigter Katalysator fuer einen Trade vorhanden. Krypto bewegt sich seit der letzten Stunde nur leicht schwaecher (BTC -1,47%, SOL -3,00% 24h, nahezu unveraendert ggue. Vorstunde); TSLA/Aktien ohne frische, spezifische Nachrichtenlage, Makro-Umfeld (hohe Anleiherenditen, moegliche Fed-Straffung, Hormuz-bedingt erhoehte Oelpreise) ist bereits seit Tagen bekannt und eingepreist, kein neuer Trigger. Bestehende offene Positionen (BTC, SOL, TSLA) bleiben alle deutlich innerhalb der Stop-Loss- bzw. unterhalb der Ziel-Gewinnspanne, daher keine Aktion.",
+    "marketOverview": "Bitcoin via CoinGecko-API (live) bei 82.954 USD (-1,31% 24h), Solana bei 114,89 USD (-3,13% 24h) - beide nahezu unveraendert ggue. 09:08 Uhr, weiterhin ruhige Konsolidierung. Hintergrundmeldungen zu einem mutmasslichen Oelpreisanstieg (WTI/Brent, angebliche US-Angriffsplanungen gegen Iran) liessen sich nur durch Quellen zweiter Guete bestaetigen (keine Primaerquelle wie Reuters/AP gefunden) und werden daher NICHT als bestaetigter Handelskatalysator gewertet. Keine frische, mehrfach bestaetigte Nachrichtenlage zu TSLA, BTC oder SOL speziell. Xetra ist seit 09:00 Uhr geoeffnet, US-Kassamarkt oeffnet erst 15:30 MESZ, TSLA bleibt bei Schlusskurs 377,81 USD (+5,77% seit Kauf).",
+    "decision": "00:09 Uhr: Tagesbudget gutgeschrieben (+1.000 EUR), kein Trade. 01:08-09:08 Uhr: weiterhin kein Trade. Kursupdate BTC (-2,50% seit Kauf) und SOL (-3,97% seit Kauf), beide weiterhin deutlich innerhalb der Stop-Loss-Toleranz; TSLA unveraendert, da US-Markt weiterhin geschlossen ist. Kein Neukauf trotz sehr hohem freiem Kapital, da trotz Recherche (Krypto-Live-Kurse, TSLA-Marktlage, allgemeine Makrolage zu Zinsen/Oel/Geopolitik) keine mehrfach bestaetigte, ueberzeugende neue Chance erkennbar ist. 10:08 Uhr: weiterhin kein Trade. Kursupdate BTC (-2,45% seit Kauf) und SOL (-4,26% seit Kauf), beide innerhalb der Stop-Loss-Toleranz; TSLA unveraendert (US-Markt weiterhin geschlossen). Ein recherchierter Oelpreis-/Iran-Katalysator liess sich nicht durch verlaessliche Primaerquellen bestaetigen und wird daher nicht gehandelt.",
+    "reasoning": "Kein ueberzeugender, mehrfach bestaetigter Katalysator fuer einen Trade vorhanden. BTC und SOL bewegen sich nur leicht schwaecher (-1,31% bzw. -3,13% 24h), nahezu unveraendert ggue. der Vorstunde. TSLA bleibt ausserhalb der Handelszeiten unveraendert. Die einzige potenziell interessante Schlagzeile (Oelpreisanstieg wegen angeblicher Iran-Eskalation) stammt nur aus Quellen zweiter Guete und konnte nicht unabhaengig durch eine Primaerquelle bestaetigt werden - daher bewusst kein spekulativer Kauf auf dieser unsicheren Basis. Bestehende offene Positionen (BTC, SOL, TSLA) bleiben alle deutlich innerhalb der Stop-Loss- bzw. unterhalb der Ziel-Gewinnspanne, daher keine Aktion.",
     "positionIds": [
       "pos-0018",
       "pos-0027",
       "pos-0028"
     ],
-    "portfolioValueEnd": 1989.35,
+    "portfolioValueEnd": 1987.68,
     "updates": [
       {
         "time": "00:09",
@@ -8223,6 +8223,11 @@
         "time": "09:08",
         "note": "Keine Aenderung, Kursupdate BTC (82.909 USD, -1,47% 24h, CoinGecko-API live, nahezu unveraendert)/SOL (115,24 USD, -3,00% 24h, CoinGecko-API live, nahezu unveraendert), TSLA unveraendert bei 377,81 USD (US-Markt oeffnet erst 15:30 MESZ) - Markt-Research zu Zinsen/Oel/Geopolitik ergab keinen frischen, ueberzeugenden Katalysator, kein Trade",
         "portfolioValue": 1989.35
+      },
+      {
+        "time": "10:08",
+        "note": "Keine Aenderung, Kursupdate BTC (82.954 USD, -1,31% 24h, CoinGecko-API live, nahezu unveraendert)/SOL (114,89 USD, -3,13% 24h, CoinGecko-API live, nahezu unveraendert), TSLA unveraendert bei 377,81 USD (US-Markt oeffnet erst 15:30 MESZ) - unbestaetigte Oelpreis-/Iran-Schlagzeile ohne Primaerquelle, daher kein Trade",
+        "portfolioValue": 1987.68
       }
     ]
   }
