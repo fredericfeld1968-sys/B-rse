@@ -8164,15 +8164,15 @@
   },
   {
     "date": "2026-10-08",
-    "marketOverview": "Bitcoin via CoinGecko-API (live) bei 83.037 USD (-0,95% 24h, praktisch unveraendert ggue. 03:09 Uhr), Solana bei 116,09 USD (-1,36% 24h, ebenfalls kaum veraendert). Krypto bleibt in ruhiger Konsolidierung ohne neue Dynamik; WebSuche liefert keine frische, mehrfach bestaetigte Nachrichtenlage (naechster Katalysator bleibt die Fed-Sitzung am 27.-28.10., Markterwartung fuer eine weitere Zinserhoehung zuletzt auf ca. 22% gefallen). US-Kassamarkt weiterhin seit 22:00 MESZ geschlossen, TSLA bleibt bei Schlusskurs 377,81 USD (+5,77% seit Kauf). Keine mehrfach bestaetigten neuen Katalysatoren fuer Aktien, ETFs, Krypto oder Rohstoffe.",
-    "decision": "00:09 Uhr: Tagesbudget gutgeschrieben (+1.000 EUR), kein Trade. 01:08-03:09 Uhr: weiterhin kein Trade. 04:07 Uhr: weiterhin kein Trade. Kursupdate BTC (-2,35% seit Kauf) und SOL (-3,26% seit Kauf), beide weiterhin deutlich innerhalb der Stop-Loss-Toleranz und praktisch unveraendert zur Vorstunde; TSLA unveraendert, da US-Markt weiterhin geschlossen ist. Kein Neukauf trotz hohem freiem Kapital (~62.390 EUR), da weiterhin keine mehrfach bestaetigte, ueberzeugende neue Chance erkennbar ist; Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten ohnehin nicht handelbar.",
-    "reasoning": "Kein ueberzeugender, mehrfach bestaetigter Katalysator fuer einen Trade vorhanden; Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten nicht handelbar, Krypto bewegt sich seit der letzten Stunde kaum (BTC/SOL beide unter 1,5% 24h-Veraenderung). Bestehende offene Positionen (BTC, SOL, TSLA) bleiben alle deutlich innerhalb der Stop-Loss- bzw. unterhalb der Ziel-Gewinnspanne, daher keine Aktion.",
+    "marketOverview": "Bitcoin via CoinGecko-API (live) bei 82.938 USD (-1,34% 24h), Solana bei 116,06 USD (-2,01% 24h) - beide praktisch unveraendert ggue. 04:07 Uhr, weiterhin ruhige Konsolidierung ohne neuen Katalysator (naechster grosser Termin bleibt die Fed-Sitzung am 27.-28.10.). Keine aktuelle, mehrfach bestaetigte Nachrichtenlage zu Aktien, ETFs, Krypto oder Rohstoffen auffindbar. US-Kassamarkt weiterhin geschlossen (oeffnet erst 15:30 MESZ), TSLA bleibt bei Schlusskurs 377,81 USD (+5,77% seit Kauf).",
+    "decision": "00:09 Uhr: Tagesbudget gutgeschrieben (+1.000 EUR), kein Trade. 01:08-05:07 Uhr: weiterhin kein Trade. Kursupdate BTC (-2,47% seit Kauf) und SOL (-3,28% seit Kauf), beide weiterhin deutlich innerhalb der Stop-Loss-Toleranz und praktisch unveraendert zur Vorstunde; TSLA unveraendert, da US-Markt weiterhin geschlossen ist. Kein Neukauf trotz hohem freiem Kapital, da weiterhin keine mehrfach bestaetigte, ueberzeugende neue Chance erkennbar ist; Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten ohnehin nicht handelbar.",
+    "reasoning": "Kein ueberzeugender, mehrfach bestaetigter Katalysator fuer einen Trade vorhanden; Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten nicht handelbar, Krypto bewegt sich seit der letzten Stunde kaum (BTC/SOL beide unter 2,1% 24h-Veraenderung, praktisch unveraendert zur Vorstunde). Bestehende offene Positionen (BTC, SOL, TSLA) bleiben alle deutlich innerhalb der Stop-Loss- bzw. unterhalb der Ziel-Gewinnspanne, daher keine Aktion.",
     "positionIds": [
       "pos-0018",
       "pos-0027",
       "pos-0028"
     ],
-    "portfolioValueEnd": 1995.36,
+    "portfolioValueEnd": 1994.38,
     "updates": [
       {
         "time": "00:09",
@@ -8198,6 +8198,11 @@
         "time": "04:07",
         "note": "Keine Aenderung, Kursupdate BTC (83.037 USD, -0,95% 24h, CoinGecko-API live)/SOL (116,09 USD, -1,36% 24h, CoinGecko-API live), TSLA ausserhalb der Handelszeiten unveraendert bei 377,81 USD - kein frischer Katalysator, kein Trade",
         "portfolioValue": 1995.36
+      },
+      {
+        "time": "05:07",
+        "note": "Keine Aenderung, Kursupdate BTC (82.938 USD, -1,34% 24h, CoinGecko-API live)/SOL (116,06 USD, -2,01% 24h, CoinGecko-API live), TSLA ausserhalb der Handelszeiten unveraendert bei 377,81 USD - kein frischer Katalysator, kein Trade",
+        "portfolioValue": 1994.38
       }
     ]
   }
