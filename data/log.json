@@ -8299,7 +8299,7 @@
   {
     "date": "2026-10-09",
     "marketOverview": "Bitcoin notiert laut mehreren unabhaengigen Quellen (CoinGecko, AnalyticsInsight) stabil um ca. 82.700-83.100 USD (kaum veraendert zum letzten Lauf), der breite Krypto-Markt bleibt gedaempft (ETF-Abfluesse, erhoehte US-Renditen um 5,3% auf 10 Jahre). US-Aktienmaerkte (S&P 500, Nasdaq) hatten zuletzt (06.10.) neue Rekordhochs erreicht, fuer den heutigen Freitag liegt aber keine verlaessliche, mehrfach bestaetigte tagesaktuelle Einzelmeldung vor. Oelpreis bleibt wegen der anhaltenden Hormuz-Blockade erhoeht, Brent zuletzt rund 101,50 USD (Stand 05.10., leicht ruecklaeufig).",
-    "decision": "Kumulierte Tageszusammenfassung (Stand 18:08 MESZ): TSLA-Position (pos-0028) wurde bereits im vorherigen Lauf mit +8,0% glattgestellt (Gewinn 47,98 EUR gesperrt). BTC (pos-0018) bei ca. 82.900 USD weiterhin bei -2,51% seit Kauf (85.035 USD), deutlich innerhalb der Stop-Loss-Schwelle (-6,5 bis -7,5%) - bleibt offen. Kein Neukauf in diesem Lauf, da trotz offenem US-Kassamarkt keine frische, mehrfach unabhaengig bestaetigte und ueberzeugende Gelegenheit gefunden wurde (Marktberichte veraltet/widersprechend, kein heute datierter Einzelkatalysator). Freies Kapital weiterhin 64.638,49 EUR, Gewinn-Topf 675,44 EUR.",
+    "decision": "Tagesverlauf 09.10.: Ein Trade (Verkauf TSLA pos-0028 bei +8,0%, +47,98 EUR realisiert, 16:11). BTC (pos-0018) bleibt offen und wird laufend aktualisiert, zuletzt -2,51% seit Kauf (82.900 USD). Weitere Laeufe des Tages fanden keine ueberzeugende neue Gelegenheit fuer einen weiteren Trade.",
     "reasoning": "Risikoprofil 'spekulativ' mit erlaubtem kurzfristigem Trading: BTC liegt mit -2,51% weiterhin deutlich innerhalb der Stop-Loss-Schwelle, daher kein Verkauf. Obwohl der US-Kassamarkt seit 15:30 MESZ offen ist, lieferte die Websuche fuer Aktien, ETFs und Rohstoffe keine tagesaktuellen, mehrfach bestaetigten Einzelkatalysatoren (nur Daten vom 1.-7.10.), fuer Krypto ebenfalls keine neue Bewegung ueber das bereits bekannte Niveau hinaus. Daher wird passend zum Grundsatz 'nur bei wirklich ueberzeugender Gelegenheit handeln' auf einen Neukauf verzichtet. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [
       "pos-0018"
@@ -8399,6 +8399,11 @@
       {
         "time": "18:08",
         "note": "Kursupdate BTC (82.900 USD, -2,51% seit Kauf, CoinGecko/AnalyticsInsight live), US-Kassamarkt offen aber keine verlaessliche, mehrfach bestaetigte tagesaktuelle Gelegenheit gefunden, kein Trade",
+        "portfolioValue": 682.42
+      },
+      {
+        "time": "19:11",
+        "note": "Keine Aenderung - Websuche liefert erneut keine verlaessliche, auf heute (09.10., 19:xx MESZ) datierte Live-Kursquelle fuer BTC oder neue Marktkatalysatoren (nur veraltete/widersprechende Preisangaben); BTC bleibt unveraendert bei 82.900 USD (-2,51% seit Kauf), deutlich innerhalb der Stop-Loss-Schwelle; kein Trade - keine ueberzeugende Gelegenheit",
         "portfolioValue": 682.42
       }
     ]
