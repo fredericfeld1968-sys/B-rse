@@ -8298,14 +8298,13 @@
   },
   {
     "date": "2026-10-09",
-    "marketOverview": "Bitcoin erholt sich laut CoinGecko-Live-Daten auf ca. 82.753 USD (+0,57% 24h). Der US-Kassahandel ist seit 15:30 MESZ geoeffnet; TSLA sprang laut Yahoo-Finance-Live-Kurs von 375,00 auf 385,77 USD (+2,9% im Tagesverlauf), ohne dass ein konkreter, heute datierter Einzelkatalysator verlaesslich auffindbar war - Fortsetzung des bereits am 02.10. gekauften Post-Delivery-Momentums. Oelpreis bleibt wegen der anhaltenden Iran-Hormuz-Eskalation erhoeht, ohne frischen Einzelkatalysator.",
-    "decision": "Kumulierte Tageszusammenfassung (Stand 17:08 MESZ): TSLA-Position (pos-0028) bei +8,0% seit Kauf (357,20 -> 385,77 USD) im etablierten Zielbereich (7-9%) glattgestellt, Gewinn von 47,98 EUR realisiert und gesperrt. BTC (pos-0018) weiterhin bei 82.753 USD (-2,68% seit Kauf, deutlich innerhalb der Stop-Loss-Schwelle), bleibt offen - keine neuere verlaessliche Kursquelle gefunden. Kein Neukauf in diesem Lauf, da keine ueberzeugende, mehrfach bestaetigte Gelegenheit gefunden wurde. Freies Kapital weiterhin 64.638,49 EUR, Gewinn-Topf 675,44 EUR.",
-    "reasoning": "Risikoprofil 'spekulativ' mit erlaubtem kurzfristigem Trading: TSLA erreichte nach Oeffnung des US-Kassahandels die etablierte Ziel-Gewinnspanne (7-9%) und wurde glattgestellt. BTC liegt mit -2,68% weiterhin deutlich innerhalb der Stop-Loss-Schwelle (-6,5 bis -7,5%), daher kein Verkauf. Fuer einen Neukauf des freien Kapitals fehlt erneut eine frische, mehrfach unabhaengig bestaetigte Gelegenheit; die Websuche lieferte sowohl fuer Krypto als auch fuer Aktien/ETFs/Rohstoffe nur veraltete oder widerspruechliche Treffer ohne verlaesslichen heutigen Zeitstempel. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "marketOverview": "Bitcoin notiert laut mehreren unabhaengigen Quellen (CoinGecko, AnalyticsInsight) stabil um ca. 82.700-83.100 USD (kaum veraendert zum letzten Lauf), der breite Krypto-Markt bleibt gedaempft (ETF-Abfluesse, erhoehte US-Renditen um 5,3% auf 10 Jahre). US-Aktienmaerkte (S&P 500, Nasdaq) hatten zuletzt (06.10.) neue Rekordhochs erreicht, fuer den heutigen Freitag liegt aber keine verlaessliche, mehrfach bestaetigte tagesaktuelle Einzelmeldung vor. Oelpreis bleibt wegen der anhaltenden Hormuz-Blockade erhoeht, Brent zuletzt rund 101,50 USD (Stand 05.10., leicht ruecklaeufig).",
+    "decision": "Kumulierte Tageszusammenfassung (Stand 18:08 MESZ): TSLA-Position (pos-0028) wurde bereits im vorherigen Lauf mit +8,0% glattgestellt (Gewinn 47,98 EUR gesperrt). BTC (pos-0018) bei ca. 82.900 USD weiterhin bei -2,51% seit Kauf (85.035 USD), deutlich innerhalb der Stop-Loss-Schwelle (-6,5 bis -7,5%) - bleibt offen. Kein Neukauf in diesem Lauf, da trotz offenem US-Kassamarkt keine frische, mehrfach unabhaengig bestaetigte und ueberzeugende Gelegenheit gefunden wurde (Marktberichte veraltet/widersprechend, kein heute datierter Einzelkatalysator). Freies Kapital weiterhin 64.638,49 EUR, Gewinn-Topf 675,44 EUR.",
+    "reasoning": "Risikoprofil 'spekulativ' mit erlaubtem kurzfristigem Trading: BTC liegt mit -2,51% weiterhin deutlich innerhalb der Stop-Loss-Schwelle, daher kein Verkauf. Obwohl der US-Kassamarkt seit 15:30 MESZ offen ist, lieferte die Websuche fuer Aktien, ETFs und Rohstoffe keine tagesaktuellen, mehrfach bestaetigten Einzelkatalysatoren (nur Daten vom 1.-7.10.), fuer Krypto ebenfalls keine neue Bewegung ueber das bereits bekannte Niveau hinaus. Daher wird passend zum Grundsatz 'nur bei wirklich ueberzeugender Gelegenheit handeln' auf einen Neukauf verzichtet. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [
-      "pos-0018",
-      "pos-0028"
+      "pos-0018"
     ],
-    "portfolioValueEnd": 681.21,
+    "portfolioValueEnd": 682.42,
     "updates": [
       {
         "time": "00:08",
@@ -8396,6 +8395,11 @@
         "time": "17:08",
         "note": "Websuche liefert erneut keine verlaessliche, auf heute datierte Live-Kursquelle fuer BTC (nur veraltete/widersprechende Preisangaben); BTC daher unveraendert bei 82.753 USD (-2,68% seit Kauf) belassen; auch fuer Aktien/ETFs/Rohstoffe/weitere Krypto kein frischer, mehrfach bestaetigter Katalysator gefunden; kein Trade - keine ueberzeugende Gelegenheit",
         "portfolioValue": 681.21
+      },
+      {
+        "time": "18:08",
+        "note": "Kursupdate BTC (82.900 USD, -2,51% seit Kauf, CoinGecko/AnalyticsInsight live), US-Kassamarkt offen aber keine verlaessliche, mehrfach bestaetigte tagesaktuelle Gelegenheit gefunden, kein Trade",
+        "portfolioValue": 682.42
       }
     ]
   }
