@@ -8298,14 +8298,14 @@
   },
   {
     "date": "2026-10-09",
-    "marketOverview": "Keine verlaessliche Live-Kursquelle fuer Bitcoin oder Tesla zum aktuellen Zeitpunkt (ca. 08:09 MESZ) auffindbar - Websuchen lieferten nur undatierte oder widerspruechliche Preis-Snapshots (BTC-Spannen von 66.000 bis 123.000 USD je Quelle). Keine frischen, mehrfach unabhaengig bestaetigten Katalysatoren fuer einen Neukauf gefunden. Europaeische Boerse (Xetra, Oeffnung 09:00 MESZ) und US-Markt (Oeffnung 15:30 MESZ) sind noch nicht geoeffnet, daher waeren ohnehin nur Krypto-Trades moeglich.",
-    "decision": "Tagesbudget bereits um 00:08 gutgeschrieben, keine erneute Gutschrift. Keine Aenderung am Portfolio: BTC-Position (pos-0018) und TSLA-Position (pos-0028) bleiben mangels verlaesslicher neuer Kursdaten auf dem letzten bekannten Stand (82.264 USD bzw. 375,00 USD). Kein Kauf, da kein frischer, bestaetigter Katalysator auffindbar war.",
-    "reasoning": "Mehrere Websuchen zu aktuellen BTC- und TSLA-Kursen sowie zu moeglichen Kryptokatalysatoren lieferten nur undatierte/widersprechende Ergebnisse ohne verlaesslichen Zeitstempel fuer den aktuellen Lauf. Ohne belastbare Live-Daten werden die letzten bekannten Kurse unveraendert beibehalten, um keine Scheingenauigkeit zu erzeugen. Da ausserhalb der Boersenzeiten ohnehin nur Krypto bewegt werden darf und kein ueberzeugender, mehrfach bestaetigter Katalysator vorliegt, erfolgt kein Trade.",
+    "marketOverview": "Breiter Risk-off-Ton haelt an: BTC notiert laut CoinDesk/KuCoin-Tagesreport bei ca. 81.700-82.450 USD (-1,9% 24h), ETH faellt staerker (-3,9%), der S&P 500 gibt -0,47% ab, US-Tech-Werte fallen laut KuCoin den zweiten Tag in Folge - Treiber bleibt der eskalierte US-Iran-Standoff um die Strasse von Hormuz (gescheiterte Verhandlungen ueber Durchfahrtsregelungen). Xetra ist seit 09:00 MESZ geoeffnet, der US-Kassamarkt oeffnet erst um 15:30 MESZ. Oel/Gold-Signale zu Hormuz sind uneinheitlich und nicht zuverlaessig auf heute datiert.",
+    "decision": "Tagesbudget bereits um 00:08 gutgeschrieben, keine erneute Gutschrift. Kursupdate BTC-Position (pos-0018) auf ca. 82.100 USD (-3,45% seit Kauf, weiterhin unter Stop-Loss-Schwelle). TSLA-Position (pos-0028) mangels verlaesslicher Premarket-Quote unveraendert bei 375,00 USD belassen. Kein Kauf, da kein frischer, mehrfach bestaetigter Katalysator ueber den bereits bekannten Hormuz-Risk-off-Trend hinaus gefunden wurde.",
+    "reasoning": "Mehrere Websuchen zu BTC, TSLA, DAX/Xetra sowie Gold/Oel im Kontext der Hormuz-Eskalation lieferten nur teilweise frische, widerspruechliche oder nicht eindeutig auf den 09.10. datierte Daten. Fuer BTC liegen zwei unabhaengige, auf heute datierte Quellen (CoinDesk Live-Preis, KuCoin Daily Report) in einer engen Spanne (81.700-82.450 USD) vor, daher Uebernahme des Mittelwerts als Kursupdate. Fuer TSLA und fuer eine moegliche neue Position (Gold/Oel) fehlt eine verlaessliche, frische, mehrfach bestaetigte Grundlage, daher keine Aenderung bzw. kein Neukauf - passend zur Vorgabe, nur bei einer wirklich ueberzeugenden Gelegenheit zu handeln.",
     "positionIds": [
       "pos-0018",
       "pos-0028"
     ],
-    "portfolioValueEnd": 1307.09,
+    "portfolioValueEnd": 1305.74,
     "updates": [
       {
         "time": "00:08",
@@ -8351,6 +8351,11 @@
         "time": "08:09",
         "note": "Keine verlaessliche Live-Kursquelle fuer BTC/TSLA auffindbar, Werte unveraendert gelassen; kein frischer Katalysator gefunden; kein Trade - keine ueberzeugende Gelegenheit",
         "portfolioValue": 1307.09
+      },
+      {
+        "time": "09:09",
+        "note": "Kursupdate BTC (82.100 USD, ca. -1,9% 24h, Mittelwert aus CoinDesk Live-Preis und KuCoin Daily Report, -3,45% seit Kauf); breiter Risk-off haelt an (ETH -3,9%, S&P500 -0,47%, US-Tech 2. Tag in Folge schwaecher) wegen eskaliertem Hormuz-Standoff; TSLA mangels verlaesslicher Premarket-Quote unveraendert bei 375,00 USD; Xetra seit 09:00 MESZ offen, aber kein frischer bestaetigter Katalysator fuer einen Neukauf gefunden; kein Trade",
+        "portfolioValue": 1305.74
       }
     ]
   }
