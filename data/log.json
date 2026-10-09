@@ -8298,14 +8298,14 @@
   },
   {
     "date": "2026-10-09",
-    "marketOverview": "Bitcoin stabilisiert sich leicht auf ca. 82.900 USD (-1,8% in 24h, mehrfach bestaetigt: AnalyticsInsight/Coinbase/Bitcoin-Foundation), bleibt aber durch hohe Oelpreise (Iran-Tanker-Angriffe, Strasse von Hormuz weiterhin nicht offiziell wieder geoeffnet), steigende US-Renditen und Dollarstaerke belastet; Grossinvestoren akkumulieren laut Berichten seit dem 01.10. ueber 14.000 BTC, waehrend Spot-Bitcoin-ETFs zeitgleich Abflüsse verzeichnen (gemischtes Bild, keine bestaetigte Trendwende). US-Aktienfutures leicht uneinheitlich (Dow/S&P minimal schwaecher, Nasdaq minimal fester) laut Berichten vom Vorabend. Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten nicht bewertbar; TSLA-Position bleibt auf letztem Schlussstand (375,00 USD, +4,98%). Update 06:09: Keine neuen, verlaesslich datierten Marktdaten auffindbar; Einschaetzung bleibt unveraendert (BTC stabilisiert um 82.900 USD, TSLA bei 375,00 USD ausserhalb der Handelszeiten).",
-    "decision": "Tagesbudget (+1.000 EUR) wurde bereits um 00:08 gutgeschrieben (lastGrantDate unveraendert, keine erneute Gutschrift). Seit dem letzten Lauf keine Aenderung am Portfolio: BTC-Position (pos-0018) auf -2,51% leicht erholt (weiterhin deutlich innerhalb der Stop-Loss-Schwelle von -6,5 bis -7,5%), TSLA-Position (pos-0028) ausserhalb der Handelszeiten unveraendert. Kein Kauf, da keine wirklich ueberzeugende neue Gelegenheit erkennbar ist - die leichte BTC-Erholung ist angesichts gleichzeitiger ETF-Abflüsse und anhaltend hoher Oelpreise kein bestaetigter Trendwechsel. 06:09 Uhr: Weiterhin kein Trade. Da die Marktrecherche ueber die Websuche diesmal keine verlaesslichen, aktuell datierten Live-Kurse lieferte (widerspruechliche/veraltete Treffer), werden BTC- und TSLA-Position vorsichtshalber auf dem letzten bestaetigten Stand (82.900 USD / 375,00 USD) belassen statt ungesicherte Zahlen zu uebernehmen. Kein Neukauf, da ohnehin keine mehrfach bestaetigte neue Gelegenheit vorliegt.",
-    "reasoning": "Tagesbudget (+1.000 EUR) wurde bereits um 00:08 gutgeschrieben (lastGrantDate unveraendert, keine erneute Gutschrift). Seit dem letzten Lauf keine Aenderung am Portfolio: BTC-Position (pos-0018) auf -2,51% leicht erholt (weiterhin deutlich innerhalb der Stop-Loss-Schwelle von -6,5 bis -7,5%), TSLA-Position (pos-0028) ausserhalb der Handelszeiten unveraendert. Kein Kauf, da keine wirklich ueberzeugende neue Gelegenheit erkennbar ist - die leichte BTC-Erholung ist angesichts gleichzeitiger ETF-Abflüsse und anhaltend hoher Oelpreise kein bestaetigter Trendwechsel. 06:09 Uhr: Weiterhin kein Trade. Da die Marktrecherche ueber die Websuche diesmal keine verlaesslichen, aktuell datierten Live-Kurse lieferte (widerspruechliche/veraltete Treffer), werden BTC- und TSLA-Position vorsichtshalber auf dem letzten bestaetigten Stand (82.900 USD / 375,00 USD) belassen statt ungesicherte Zahlen zu uebernehmen. Kein Neukauf, da ohnehin keine mehrfach bestaetigte neue Gelegenheit vorliegt.",
+    "marketOverview": "Bitcoin notiert via CoinGecko-API live bei 82.264 USD (-0,37% in 24h) - weitgehend stabil zum letzten Lauf, kein neuer Katalysator. Die Websuche fand keine verlaesslich auf heute (09.10.) datierten News zu ETF-Fluessen oder Fed-Zinsentscheidung; allgemeine Marktlage bleibt gemischt (Iran/Hormuz-Risikopraemie bei Oel, Grossinvestoren-Akkumulation vs. ETF-Abfluesse bei BTC). US-Markt (Aktien/ETFs/Rohstoffe) oeffnet erst um 15:30 MESZ und ist daher aktuell nicht handelbar; TSLA-Position bleibt auf letztem Schlussstand (375,00 USD, +4,98%).",
+    "decision": "Tagesbudget (+1.000 EUR) wurde bereits um 00:08 gutgeschrieben (lastGrantDate = heute, keine erneute Gutschrift in diesem Lauf). Seit dem letzten Lauf keine Aenderung am Portfolio: BTC-Position (pos-0018) mit live verifiziertem CoinGecko-Kurs (82.264 USD) auf -3,26% aktualisiert (weiterhin deutlich innerhalb der Stop-Loss-Schwelle von -6,5 bis -7,5%), TSLA-Position (pos-0028) ausserhalb der US-Handelszeiten unveraendert. Kein Kauf, da keine wirklich ueberzeugende neue Gelegenheit erkennbar ist und ausserhalb der Boersenzeiten ohnehin nur Krypto bewegt werden darf.",
+    "reasoning": "Tagesbudget (+1.000 EUR) wurde bereits um 00:08 gutgeschrieben (lastGrantDate unveraendert, keine erneute Gutschrift). BTC-Kurs ueber CoinGecko-API live abgefragt (82.264 USD, -0,37% 24h) und auf pos-0018 angewendet (-3,26% seit Kauf bei 85.035 USD) - klar innerhalb des etablierten Stop-Loss-Korridors, kein Verkaufsgrund. TSLA (pos-0028) bleibt ausserhalb der Handelszeiten auf dem letzten Schlussstand. Websuche zu aktuellen Markttreibern (ETF-Fluesse, Fed) lieferte keine verlaesslich auf heute datierten Ergebnisse; ohne neuen, mehrfach bestaetigten Katalysator kein Neukauf.",
     "positionIds": [
       "pos-0018",
       "pos-0028"
     ],
-    "portfolioValueEnd": 1312.32,
+    "portfolioValueEnd": 1307.09,
     "updates": [
       {
         "time": "00:08",
@@ -8341,6 +8341,11 @@
         "time": "06:09",
         "note": "Keine verlaesslichen frischen Live-Kursdaten verfuegbar (Websuche lieferte nur widerspruechliche/veraltete Ergebnisse ohne verifizierbares aktuelles Datum); BTC-Position (pos-0018) und TSLA-Position (pos-0028) daher unveraendert zum letzten Lauf (82.900 USD bzw. 375,00 USD) belassen; US-Markt ausserhalb der Handelszeiten; kein Trade - keine ueberzeugende, verifizierte Gelegenheit",
         "portfolioValue": 1312.32
+      },
+      {
+        "time": "07:08",
+        "note": "Kursupdate BTC (82.264 USD via CoinGecko-API, -0,37% 24h, -3,26% seit Kauf); TSLA ausserhalb der US-Handelszeiten unveraendert bei 375,00 USD; keine verlaesslich heute datierten neuen Katalysatoren gefunden, kein Trade - keine ueberzeugende Gelegenheit",
+        "portfolioValue": 1307.09
       }
     ]
   }
