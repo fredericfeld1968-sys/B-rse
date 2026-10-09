@@ -8298,14 +8298,14 @@
   },
   {
     "date": "2026-10-09",
-    "marketOverview": "Bitcoin verbleibt im etablierten Band der letzten Tage (diverse Quellen Oct 7-8 zwischen ca. 82.100 und 83.800 USD, Mittelwert nahe dem zuletzt erfassten Stand von 82.528 USD); kein frischer, verlaesslich auf heute (09.10., Nachmittag) datierter Katalysator auffindbar - Websuche liefert ueberwiegend veraltete/undatierte Treffer oder reine Kurs-Prognosen statt Live-Quotes. Makrobild unveraendert risikoavers: hohe US-Renditen (10-Jahre zuletzt > 5,3%, hoechste Stände seit Jahrzehnten), erhoehter Oelpreis wegen Hormuz-Spannungen, gemischte Fed-Zinserwartungen. TSLA bleibt ausserhalb der US-Kassahandelszeiten (Oeffnung erst 15:30 MESZ) unveraendert bei 375,00 USD.",
-    "decision": "Kumulierte Tageszusammenfassung (Stand 13:10 MESZ): Seit Mitternacht wurden an diesem Tag ausschliesslich BTC-Kursupdates vorgenommen (zuletzt 82.528,35 USD, -2,95% seit Kauf), kein einziger Trade. TSLA (pos-0028, +4,98%) bleibt ausserhalb der US-Handelszeiten unveraendert gehalten. Keine Position hat die etablierten Schwellen (Stop-Loss ca. -6,5 bis -7,5%, Zielgewinn ca. 7-9%) erreicht, daher weiterhin kein Verkauf. Freies Kapital bleibt sehr hoch (64.038,49 EUR), aber ohne ueberzeugende, mehrfach bestaetigte Gelegenheit wird kein neues Kapital eingesetzt.",
-    "reasoning": "Risikoprofil 'spekulativ' mit erlaubtem kurzfristigem Trading: Keine verlaesslich frische, mehrfach unabhaengig bestaetigte Marktnachricht fuer heute (09.10., Nachmittag) auffindbar; die zugrunde liegende Risk-off-These (hohe Renditen, Hormuz-Oelpraemie) bleibt im Wesentlichen unveraendert, daher Kurse unveraendert belassen statt auf unverlaessliche Daten zu reagieren. TSLA wird mangels Handelbarkeit (ausserhalb US-Kassahandelszeiten) unveraendert gehalten. Fuer einen Neukauf fehlt weiterhin eine frische, mehrfach unabhaengig bestaetigte Gelegenheit in Aktien, ETFs, Krypto oder Rohstoffen. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "marketOverview": "Bitcoin erholt sich leicht auf 83.267 USD (+1,06% 24h, CoinGecko-API live) nach mehreren Tagen im Band um 82.000-83.000 USD; weiterhin kein frischer, eindeutig auf heute datierter fundamentaler Katalysator. Makrobild unveraendert risikoavers: erhoehter Oelpreis wegen Hormuz-Spannungen, hohe US-Renditen, gemischte Fed-Zinserwartungen. TSLA bleibt vor Eroeffnung des US-Kassahandels (15:30 MESZ) unveraendert bei 375,00 USD; Xetra ist seit 09:00 MESZ offen, aber ohne bestaetigte frische Gelegenheit.",
+    "decision": "Kumulierte Tageszusammenfassung (Stand 14:17 MESZ): Seit Mitternacht wurden an diesem Tag ausschliesslich BTC-Kursupdates vorgenommen (zuletzt 83.267 USD, -2,08% seit Kauf), kein einziger Trade. TSLA (pos-0028, +4,98%) bleibt vor Handelsbeginn unveraendert gehalten. Keine Position hat die etablierten Schwellen (Stop-Loss ca. -6,5 bis -7,5%, Zielgewinn ca. 7-9%) erreicht, daher weiterhin kein Verkauf. Freies Kapital bleibt sehr hoch (64.038,49 EUR), aber ohne ueberzeugende, mehrfach bestaetigte Gelegenheit wird kein neues Kapital eingesetzt.",
+    "reasoning": "Risikoprofil 'spekulativ' mit erlaubtem kurzfristigem Trading: BTC-Kurs via CoinGecko-API live aktualisiert, leichte Erholung ohne klaren neuen Katalysator - daher kein Trade, nur Kursfortschreibung. TSLA wird mangels Handelbarkeit (vor US-Kassahandelsoeffnung 15:30 MESZ) unveraendert gehalten. Fuer einen Neukauf fehlt weiterhin eine frische, mehrfach unabhaengig bestaetigte Gelegenheit in Aktien, ETFs, Krypto oder Rohstoffen; Websuche lieferte erneut ueberwiegend veraltete oder undatierte Treffer ohne verlaessliches aktuelles Datum. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [
       "pos-0018",
       "pos-0028"
     ],
-    "portfolioValueEnd": 1309.27,
+    "portfolioValueEnd": 1315.35,
     "updates": [
       {
         "time": "00:08",
@@ -8376,6 +8376,11 @@
         "time": "13:10",
         "note": "Keine Aenderung - Websuche lieferte keine verlaesslich auf heute datierten frischen Kurse oder Katalysatoren (ueberwiegend veraltete/undatierte Treffer); BTC und TSLA daher unveraendert zum letzten Lauf belassen (82.528,35 USD bzw. 375,00 USD); TSLA weiterhin ausserhalb der US-Kassahandelszeiten; kein Trade - keine ueberzeugende Gelegenheit",
         "portfolioValue": 1309.27
+      },
+      {
+        "time": "14:17",
+        "note": "Kursupdate BTC (83.267 USD, +1,06% 24h, CoinGecko-API live, -2,08% seit Kauf, leichte Erholung ggue. letztem Lauf); TSLA weiterhin ausserhalb der US-Kassahandelszeiten (Eroeffnung erst 15:30 MESZ) unveraendert bei 375,00 USD; keine verlaesslich frisch datierten neuen Katalysatoren gefunden - kein Trade, keine ueberzeugende Gelegenheit",
+        "portfolioValue": 1315.35
       }
     ]
   }
