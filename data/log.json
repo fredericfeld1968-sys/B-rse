@@ -8298,14 +8298,14 @@
   },
   {
     "date": "2026-10-09",
-    "marketOverview": "Bitcoin fiel laut KuCoin-Tagesbericht (datiert 09.10.) auf rund 81.741 USD (-1,90% 24h, Fear&Greed 59) - drittwoechiges Tief, nachdem Fed-Protokolle das Risiko eines weiteren Zinsschritts signalisierten und US-Spot-Bitcoin-ETFs am 07.10. mit 487 Mio. USD die staerksten Abfluesse seit Juni verzeichneten. Oelpreis bleibt wegen der anhaltenden Iran-Hormuz-Eskalation erhoeht (Brent zuletzt Anfang Oktober um 102 USD), jedoch ohne frischen, heute datierten Einzelkatalysator. TSLA bleibt vor Eroeffnung des US-Kassahandels (15:30 MESZ) unveraendert bei 375,00 USD; Xetra ist seit 09:00 MESZ offen, aber ohne bestaetigte frische Gelegenheit.",
-    "decision": "Kumulierte Tageszusammenfassung (Stand 15:09 MESZ): Seit Mitternacht ausschliesslich Kursupdates vorgenommen, kein einziger Trade. BTC (pos-0018) auf 81.741 USD aktualisiert (-3,87% seit Kauf, noch innerhalb der Stop-Loss-Schwelle), TSLA (pos-0028, +4,98%) bleibt vor Handelsbeginn unveraendert. Keine Position hat die etablierten Schwellen (Stop-Loss ca. -6,5 bis -7,5%, Zielgewinn ca. 7-9%) erreicht, daher weiterhin kein Verkauf. Freies Kapital bleibt sehr hoch (64.038,49 EUR), aber ohne ueberzeugende, mehrfach bestaetigte Gelegenheit wird weiterhin kein neues Kapital eingesetzt.",
-    "reasoning": "Risikoprofil 'spekulativ' mit erlaubtem kurzfristigem Trading: BTC-Kurs anhand des auf heute datierten KuCoin-Tagesberichts aktualisiert (Ruecksetzer auf ein Dreiwochen-Tief durch Fed-Zinsangst und ETF-Abfluesse), Bewegung liegt noch deutlich innerhalb der Stop-Loss-Schwelle, daher kein Verkauf. TSLA wird mangels Handelbarkeit (vor US-Kassahandelsoeffnung 15:30 MESZ) unveraendert gehalten. Fuer einen Neukauf fehlt weiterhin eine frische, mehrfach unabhaengig bestaetigte Gelegenheit in Aktien, ETFs, Krypto oder Rohstoffen (Brent-Oelpreis zwar erhoeht, aber bereits seit Tagen bekannter Trend ohne neuen, heute datierten Ausloeser). Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "marketOverview": "Bitcoin erholt sich laut CoinGecko-Live-Daten auf ca. 82.753 USD (+0,57% 24h). Der US-Kassahandel ist seit 15:30 MESZ geoeffnet; TSLA sprang laut Yahoo-Finance-Live-Kurs von 375,00 auf 385,77 USD (+2,9% im Tagesverlauf), ohne dass ein konkreter, heute datierter Einzelkatalysator verlaesslich auffindbar war - Fortsetzung des bereits am 02.10. gekauften Post-Delivery-Momentums. Oelpreis bleibt wegen der anhaltenden Iran-Hormuz-Eskalation erhoeht, ohne frischen Einzelkatalysator.",
+    "decision": "Kumulierte Tageszusammenfassung (Stand 16:11 MESZ): TSLA-Position (pos-0028) bei +8,0% seit Kauf (357,20 -> 385,77 USD) im etablierten Zielbereich (7-9%) glattgestellt, Gewinn von 47,98 EUR realisiert und gesperrt. BTC (pos-0018) auf 82.753 USD aktualisiert (-2,68% seit Kauf, deutlich innerhalb der Stop-Loss-Schwelle), bleibt offen. Kein Neukauf in diesem Lauf, da keine weitere ueberzeugende, mehrfach bestaetigte Gelegenheit gefunden wurde. Freies Kapital jetzt 64.638,49 EUR, Gewinn-Topf 675,44 EUR.",
+    "reasoning": "Risikoprofil 'spekulativ' mit erlaubtem kurzfristigem Trading: TSLA erreichte nach Oeffnung des US-Kassahandels die etablierte Ziel-Gewinnspanne (7-9%, analog AMD, SpaceX, Palantir, Meta) und wurde passend zum bisherigen Muster konsequent glattgestellt, statt das Rueckschlagsrisiko eines Pullbacks einzugehen. BTC-Kurs aktualisiert, liegt mit -2,68% noch deutlich innerhalb der Stop-Loss-Schwelle (-6,5 bis -7,5%), daher kein Verkauf. Fuer einen Neukauf des freigewordenen Kapitals fehlt eine frische, mehrfach unabhaengig bestaetigte Gelegenheit; die Websuche lieferte keine verlaesslich auf heute datierten neuen Katalysatoren in Aktien, ETFs, Krypto oder Rohstoffen. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [
       "pos-0018",
       "pos-0028"
     ],
-    "portfolioValueEnd": 1302.79,
+    "portfolioValueEnd": 681.21,
     "updates": [
       {
         "time": "00:08",
@@ -8386,6 +8386,11 @@
         "time": "15:09",
         "note": "Kursupdate BTC (81.741 USD, KuCoin-Tagesbericht datiert 09.10., -1,90% 24h, -3,87% seit Kauf) nach Fed-Zinsangst und ETF-Abfluessen von 487 Mio. USD am 07.10.; TSLA weiterhin ausserhalb der US-Kassahandelszeiten (Eroeffnung erst 15:30 MESZ) unveraendert bei 375,00 USD; Brent-Oelpreis zwar weiterhin erhoeht (~102 USD), aber kein frischer heute datierter Katalysator - kein Trade, keine ueberzeugende Gelegenheit",
         "portfolioValue": 1302.79
+      },
+      {
+        "time": "16:11",
+        "note": "Verkauf TSLA (pos-0028) bei +8,0% (357,20 -> 385,77 USD, Yahoo-Finance-Live-Kurs, US-Kassahandel seit 15:30 MESZ offen) - Zielgewinnspanne erreicht, Gewinn 47,98 EUR realisiert und gesperrt; Kursupdate BTC (82.753 USD, CoinGecko-API live, +0,57% 24h, -2,68% seit Kauf), bleibt offen; kein Neukauf - keine weitere ueberzeugende Gelegenheit gefunden",
+        "portfolioValue": 681.21
       }
     ]
   }
