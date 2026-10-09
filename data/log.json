@@ -8298,14 +8298,14 @@
   },
   {
     "date": "2026-10-09",
-    "marketOverview": "Risk-off-Ton haelt unveraendert an: BTC notiert laut direkter CoinGecko-API bei 82.514 USD (-0,57% 24h), Altcoins weiterhin durchweg leicht im Minus (ADA -5,55%, AVAX -4,18%, SOL -4,02%, DOGE -3,41%, ETH -2,46%, LINK -1,72%), kein neuer Ausreisser. US-Kassamarkt oeffnet erst um 15:30 MESZ, Yahoo-Finance-Feed liefert fuer TSLA weiterhin nur den Schlusskurs vom 08.10. (375,00 USD, kein Premarket-Preis verfuegbar). Keine datierten frischen Nachrichten zu Fed, Iran/Hormuz oder Maerkten fuer den 09.10. auffindbar - Websuche liefert nur aeltere oder undatierte Treffer.",
-    "decision": "Tagesbudget bereits um 00:08 gutgeschrieben, keine erneute Gutschrift. Kursupdate BTC-Position (pos-0018) auf 82.514 USD (-2,96% seit Kauf, CoinGecko-API live). TSLA-Position (pos-0028) mangels verlaesslicher Premarket-Quote unveraendert bei 375,00 USD belassen. Kein Kauf und kein Verkauf, da kein frischer, mehrfach bestaetigter Katalysator gefunden wurde - Kryptomarkt zeigt nur eine Fortsetzung des bestehenden milden Risk-off-Trends ohne klaren Ausreisser, und beide offenen Positionen liegen weiterhin deutlich innerhalb der etablierten Stop-Loss-/Take-Profit-Schwellen (-6,5 bis -7,5% bzw. +7-9%).",
-    "reasoning": "Direkte CoinGecko-API-Abfrage (bitcoin, ethereum, solana, cardano, dogecoin, avalanche-2, chainlink, ripple) liefert einen aktuellen, live-verifizierten BTC-Kurs sowie 24h-Aenderungen fuer die wichtigsten Altcoins - keiner zeigt eine aussergewoehnliche Tagesbewegung (groesster Ausreisser Cardano mit -5,55%), weshalb kein neuer spekulativer Trade gerechtfertigt ist. Direkte Yahoo-Finance-Chart-API fuer TSLA zeigt marketState None und regularMarketTime vom 08.10. 20:00 UTC - also weiterhin keine aktuelle Premarket-Notierung, daher bewusst keine Kursaktualisierung aus einer veralteten Quelle. Websuche zu allgemeinen Marktnachrichten (Fed, Iran, Geopolitik) lieferte keine verlaesslich auf den 09.10. datierten Treffer. Passend zur Vorgabe, nur bei einer wirklich ueberzeugenden Gelegenheit zu handeln, bleibt es beim vierten Lauf in Folge ohne Trade.",
+    "marketOverview": "Bitcoin pendelt weiterhin um die 82.500-USD-Marke (CoinDesk 82.620,89 USD, Coinbase 82.540,58 USD, CoinMarketCap 82.423,58 USD, jeweils 9:59 MESZ) - CoinDesk-Schlagzeile 'Bitcoin rebounds to $82,000 as Trump rules out Iran strikes, oil drops' deutet auf eine leichte Entspannung im Hormuz-Konflikt hin, die Bewegung bleibt aber minimal (nur +0,02% gegenueber dem letzten Lauf). Keine verlaesslich heute datierten frischen Katalysatoren fuer Aktien, Altcoins oder Rohstoffe auffindbar; TSLA bleibt mangels Vormarkt-Daten und da der US-Kassamarkt erst um 15:30 MESZ oeffnet unveraendert bei 375,00 USD.",
+    "decision": "Kumulierte Tageszusammenfassung (Stand 12:12 MESZ): Seit Mitternacht wurden an diesem Tag ausschliesslich BTC-Kursupdates vorgenommen (zuletzt 82.528,35 USD, -2,95% seit Kauf), kein einziger Trade. TSLA (pos-0028, +4,98%) bleibt ausserhalb der US-Handelszeiten unveraendert gehalten. Keine Position hat die etablierten Schwellen (Stop-Loss ca. -6,5 bis -7,5%, Zielgewinn ca. 7-9%) erreicht, daher weiterhin kein Verkauf. Freies Kapital bleibt sehr hoch (ueber 64.000 EUR), aber ohne ueberzeugende, mehrfach bestaetigte Gelegenheit wird kein neues Kapital eingesetzt.",
+    "reasoning": "Risikoprofil 'spekulativ' mit erlaubtem kurzfristigem Trading: Die leichte BTC-Erholung (+0,02% seit letztem Lauf) ist innerhalb der normalen Schwankungsbreite und kein neuer Katalysator; die zugrunde liegende Hormuz-/Risk-off-These bleibt im Wesentlichen unveraendert. TSLA wird mangels Handelbarkeit (ausserhalb US-Kassahandelszeiten) unveraendert gehalten. Fuer einen Neukauf fehlt weiterhin eine frische, mehrfach unabhaengig bestaetigte Gelegenheit in Aktien, ETFs, Krypto oder Rohstoffen; Websuche liefert ueberwiegend veraltete oder undatierte Treffer. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [
       "pos-0018",
       "pos-0028"
     ],
-    "portfolioValueEnd": 1309.15,
+    "portfolioValueEnd": 1309.27,
     "updates": [
       {
         "time": "00:08",
@@ -8366,6 +8366,11 @@
         "time": "11:10",
         "note": "Kursupdate BTC (82.514 USD, -0,57% 24h, CoinGecko-API live, -2,96% seit Kauf); Altcoin-Markt weiterhin breit leicht negativ (ADA -5,55%, AVAX -4,18%, SOL -4,02%); TSLA mangels Premarket-Quote unveraendert bei 375,00 USD; keine datierten frischen Marktnachrichten gefunden; kein Trade - keine ueberzeugende Gelegenheit",
         "portfolioValue": 1309.15
+      },
+      {
+        "time": "12:12",
+        "note": "Keine Aenderung, Kursupdate BTC (82.528,35 USD, CoinDesk/Coinbase/CoinMarketCap-Mittelwert, -2,95% seit Kauf, Trump schliesst neue Iran-Angriffe aus laut CoinDesk); TSLA ausserhalb der US-Handelszeiten unveraendert bei 375,00 USD; kein frischer bestaetigter Katalysator - kein Trade",
+        "portfolioValue": 1309.27
       }
     ]
   }
