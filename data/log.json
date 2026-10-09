@@ -8430,18 +8430,23 @@
   },
   {
     "date": "2026-10-10",
-    "marketOverview": "Samstagnacht, 00:09 MESZ: Boersen (Aktien/ETFs/Rohstoffe) wochenendbedingt geschlossen, nur Krypto handelbar. Fuer BTC (pos-0018) konnte in dieser Marktpruefung keine verlaesslich frisch (auf diese Stunde) datierte Live-Kursquelle gefunden werden; verfuegbare Suchtreffer waren widersprechend bzw. nicht eindeutig auf jetzt datiert. Position wird daher unveraendert vom letzten gesicherten Stand (23:09, 82.487 USD, -3,00% seit Kauf) belassen, um keine erfundenen Kursdaten einzutragen.",
-    "decision": "Tagesbeginn 10.10.: Tagesbudget gutgeschrieben (+1.000 EUR auf 67.000 EUR Gesamt-Neugeld). Keine verlaessliche frische BTC-Kursquelle gefunden, Position pos-0018 unveraendert belassen. Kein Trade - keine ueberzeugende Gelegenheit, zudem wochenendbedingt nur Krypto handelbar.",
-    "reasoning": "Tagesbudget-Regel: lastGrantDate (2026-10-09) war aelter als heute (2026-10-10), daher einmalige Gutschrift von 1.000 EUR gemaess Kapitalregeln. Fuer die offene BTC-Position wurde recherchiert, aber keine Quelle lieferte einen klar auf diesen Zeitpunkt (00:09 MESZ, 10.10.2026) datierten, verlaesslichen Kurs - die Ergebnisse widersprachen sich (Bereich von ca. 77.000 bis 86.600 USD, teils fuer andere Tage). Um keine erfundenen Daten zu verwenden, bleibt currentPrice/currentValue/profitLoss von pos-0018 auf dem letzten gesicherten Stand. Freies Kapital ist mit rund 65.600 EUR sehr hoch, es fehlt jedoch an einem konkreten, mehrfach bestaetigten Katalysator fuer einen neuen Kauf; ausserhalb der Boersenzeiten (Nacht, Wochenende) sind ohnehin nur Krypto-Positionen moeglich. Passend zum spekulativen, aber disziplinierten Profil daher kein Trade in diesem Lauf.",
+    "marketOverview": "Samstagnacht/-morgen, 00:09-01:08 MESZ: Boersen (Aktien/ETFs/Rohstoffe) wochenendbedingt geschlossen, nur Krypto handelbar. BTC (pos-0018) notiert laut CoinGecko-API (live, 23:08 UTC) bei 82.558 USD (+0,93% 24h) - nahezu unveraendert ggue. dem letzten gesicherten Stand (82.487 USD), kein neuer Einzelkatalysator in Aktien-, ETF-, Krypto- oder Rohstoffnachrichten auffindbar.",
+    "decision": "Tagesbeginn 10.10.: Tagesbudget gutgeschrieben (+1.000 EUR auf 67.000 EUR Gesamt-Neugeld). BTC-Kurs (pos-0018) per Live-API aktualisiert (82.558 USD, -2,91% seit Kauf). Kein Trade - keine ueberzeugende Gelegenheit, zudem wochenendbedingt nur Krypto handelbar.",
+    "reasoning": "Tagesbudget-Regel: lastGrantDate (2026-10-09) war aelter als heute (2026-10-10), daher einmalige Gutschrift von 1.000 EUR gemaess Kapitalregeln. Fuer die offene BTC-Position lieferte die CoinGecko-API einen live datierten Kurs (82.558 USD, 23:08 UTC, +0,93% 24h) - nahezu seitwaerts ggue. den letzten Laeufen. Keine WebSearch-Treffer zu einem frischen, mehrfach bestaetigten Krypto-Katalysator (Breakout, Institutionelles, Regulierung); Aktien/ETFs/Rohstoffe wochenendbedingt nicht handelbar. Freies Kapital bleibt mit rund 65.600 EUR sehr hoch, aber ohne konkrete, ueberzeugende Gelegenheit wird passend zum spekulativen, aber disziplinierten Profil kein Trade getaetigt.",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 679.03,
+    "portfolioValueEnd": 679.61,
     "updates": [
       {
         "time": "00:09",
         "note": "Tagesbudget gutgeschrieben (+1.000 EUR), keine verlaessliche frisch datierte BTC-Kursquelle gefunden, Position unveraendert bei -3,00% seit Kauf belassen, kein Trade (Wochenende, nur Krypto handelbar)",
         "portfolioValue": 679.03
+      },
+      {
+        "time": "01:08",
+        "note": "BTC-Kursupdate per CoinGecko-API (82.558 USD, +0,93% 24h, -2,91% seit Kauf) - nahezu seitwaerts, kein neuer Katalysator; kein Trade, keine ueberzeugende Gelegenheit (Wochenende, nur Krypto handelbar)",
+        "portfolioValue": 679.61
       }
     ]
   }
