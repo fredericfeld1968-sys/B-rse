@@ -8298,14 +8298,14 @@
   },
   {
     "date": "2026-10-09",
-    "marketOverview": "Kryptomarkt zeigt in der Nacht auf Freitag eine leichte Stabilisierung nach dem starken Risk-off der letzten Stunden: BTC erholt sich leicht auf ca. 82.013 USD (-1,2% 24h, CoinGecko-API live), bleibt aber -3,55% unter dem Einstiegskurs von pos-0018. Altcoins weiterhin durchweg im Minus (ADA -8,6%, AVAX -7,6%, SOL -5,5%, DOGE -4,7%, ETH -3,6%, LINK -3,5%, XRP -2,2% je 24h), ohne neuen fundamentalen Katalysator. Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten nicht bewertbar; TSLA-Position bleibt auf letztem Schlussstand (375,00 USD, +4,98%).",
-    "decision": "Tagesbudget (+1.000 EUR) wurde bereits um 00:08 gutgeschrieben (lastGrantDate unveraendert, keine erneute Gutschrift). Seit dem letzten Lauf keine Aenderung am Portfolio: BTC-Position (pos-0018) mit -3,55% leicht erholt, weiterhin deutlich innerhalb der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%), TSLA-Position (pos-0028) ausserhalb der Handelszeiten unveraendert. Kein Kauf, da keine wirklich ueberzeugende neue Gelegenheit erkennbar ist - die leichte BTC-Erholung ist kein bestaetigter Trendwechsel, Altcoins bleiben durchweg im Risk-off.",
-    "reasoning": "Tagesbudget (+1.000 EUR) wurde bereits um 00:08 gutgeschrieben (lastGrantDate unveraendert, keine erneute Gutschrift). Seit dem letzten Lauf keine Aenderung am Portfolio: BTC-Position (pos-0018) mit -3,55% leicht erholt, weiterhin deutlich innerhalb der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%), TSLA-Position (pos-0028) ausserhalb der Handelszeiten unveraendert. Kein Kauf, da keine wirklich ueberzeugende neue Gelegenheit erkennbar ist - die leichte BTC-Erholung ist kein bestaetigter Trendwechsel, Altcoins bleiben durchweg im Risk-off.",
+    "marketOverview": "Bitcoin stabilisiert sich leicht auf ca. 82.900 USD (-1,8% in 24h, mehrfach bestaetigt: AnalyticsInsight/Coinbase/Bitcoin-Foundation), bleibt aber durch hohe Oelpreise (Iran-Tanker-Angriffe, Strasse von Hormuz weiterhin nicht offiziell wieder geoeffnet), steigende US-Renditen und Dollarstaerke belastet; Grossinvestoren akkumulieren laut Berichten seit dem 01.10. ueber 14.000 BTC, waehrend Spot-Bitcoin-ETFs zeitgleich Abflüsse verzeichnen (gemischtes Bild, keine bestaetigte Trendwende). US-Aktienfutures leicht uneinheitlich (Dow/S&P minimal schwaecher, Nasdaq minimal fester) laut Berichten vom Vorabend. Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten nicht bewertbar; TSLA-Position bleibt auf letztem Schlussstand (375,00 USD, +4,98%).",
+    "decision": "Tagesbudget (+1.000 EUR) wurde bereits um 00:08 gutgeschrieben (lastGrantDate unveraendert, keine erneute Gutschrift). Seit dem letzten Lauf keine Aenderung am Portfolio: BTC-Position (pos-0018) auf -2,51% leicht erholt (weiterhin deutlich innerhalb der Stop-Loss-Schwelle von -6,5 bis -7,5%), TSLA-Position (pos-0028) ausserhalb der Handelszeiten unveraendert. Kein Kauf, da keine wirklich ueberzeugende neue Gelegenheit erkennbar ist - die leichte BTC-Erholung ist angesichts gleichzeitiger ETF-Abflüsse und anhaltend hoher Oelpreise kein bestaetigter Trendwechsel.",
+    "reasoning": "Tagesbudget (+1.000 EUR) wurde bereits um 00:08 gutgeschrieben (lastGrantDate unveraendert, keine erneute Gutschrift). Seit dem letzten Lauf keine Aenderung am Portfolio: BTC-Position (pos-0018) auf -2,51% leicht erholt (weiterhin deutlich innerhalb der Stop-Loss-Schwelle von -6,5 bis -7,5%), TSLA-Position (pos-0028) ausserhalb der Handelszeiten unveraendert. Kein Kauf, da keine wirklich ueberzeugende neue Gelegenheit erkennbar ist - die leichte BTC-Erholung ist angesichts gleichzeitiger ETF-Abflüsse und anhaltend hoher Oelpreise kein bestaetigter Trendwechsel.",
     "positionIds": [
       "pos-0018",
       "pos-0028"
     ],
-    "portfolioValueEnd": 1305.02,
+    "portfolioValueEnd": 1312.32,
     "updates": [
       {
         "time": "00:08",
@@ -8331,6 +8331,11 @@
         "time": "04:09",
         "note": "Kursupdate BTC (82.013 USD, -1,2% 24h, CoinGecko-API live, -3,55% seit Kauf, leichte Erholung ggue. letztem Lauf); Altcoins weiterhin im Minus (ADA -8,6%, AVAX -7,6%, SOL -5,5%, DOGE -4,7%, ETH -3,6%, LINK -3,5%, XRP -2,2% je 24h) ohne neuen Katalysator; TSLA ausserhalb der US-Handelszeiten unveraendert bei 375,00 USD; kein Trade - keine ueberzeugende Gelegenheit",
         "portfolioValue": 1305.02
+      },
+      {
+        "time": "05:08",
+        "note": "Kursupdate BTC (82.900 USD, -1,8% 24h, mehrfach bestaetigt AnalyticsInsight/Coinbase, -2,51% seit Kauf, leichte Erholung ggue. letztem Lauf); Grossinvestoren akkumulieren seit 01.10. laut Berichten >14.000 BTC, gleichzeitig Spot-ETF-Abflüsse - gemischtes Bild ohne bestaetigten Trendwechsel; Oelpreis bleibt wegen Iran-Tanker-Angriffen/Hormuz-Unsicherheit erhoeht; TSLA ausserhalb der US-Handelszeiten unveraendert bei 375,00 USD; kein Trade - keine ueberzeugende Gelegenheit",
+        "portfolioValue": 1312.32
       }
     ]
   }
