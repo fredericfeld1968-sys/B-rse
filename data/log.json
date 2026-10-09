@@ -8298,13 +8298,13 @@
   },
   {
     "date": "2026-10-09",
-    "marketOverview": "Kryptomarkt insgesamt schwaecher am Freitagabend: Gesamtmarktkapitalisierung fiel um rund 2,5% auf ca. 2,86 Bio. USD, Fear&Greed-Index sank von 64 auf 59. Bitcoin notiert nach kurzzeitigem Tief bei 80.316 USD bei ca. 82.400 USD (Spot-BTC-ETFs: -244,1 Mio. USD Nettoabfluss am 08.10.), Ethereum bei ca. 2.481 USD (ETF-Abfluss -72,5 Mio. USD), Solana bei ca. 109 USD (-4% 24h, vierter Tag in Folge ETF-Abfluesse trotz Samsung-Wallet-Integrationsnews). US-Aktienmaerkte seit 22:00 MESZ geschlossen (Handelsschluss). Kein neuer, einzelner, mehrfach bestaetigter Katalysator fuer einen spekulativen Trade erkennbar - anhaltender, aber nicht eskalierender Risk-off-Trend.",
-    "decision": "Tagesverlauf 09.10.: Ein Trade (Verkauf TSLA pos-0028 bei +8,0%, +47,98 EUR realisiert, 16:11). BTC (pos-0018) bleibt offen und wurde im Tagesverlauf laufend aktualisiert, zuletzt -3,10% seit Kauf (82.400 USD, 22:10). Weitere Laeufe des Tages fanden keine ueberzeugende neue Gelegenheit fuer einen weiteren Trade.",
-    "reasoning": "BTC-Position (pos-0018) auf aktuellen Kurs (~82.400 USD, CoinGabbar/AnalyticsInsight, Mittelwert mehrerer Quellen) aktualisiert, bleibt mit -3,10% deutlich innerhalb der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%). Der breite Krypto-Risk-off (Gesamtmarkt -2,5%, Fear&Greed 64->59, anhaltende ETF-Abfluesse bei BTC/ETH/SOL) liefert keinen einzelnen, mehrfach unabhaengig bestaetigten frischen Katalysator fuer einen neuen spekulativen Trade; Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten (Boersenschluss 22:00 MESZ) ohnehin nicht handelbar. Passend zum spekulativen, aber diszipliniert risikogesteuerten Profil daher kein Neukauf in diesem Lauf.",
+    "marketOverview": "Kryptomarkt leicht erholt in der Nacht zum Freitag/Samstag: BTC bei ca. 82.487 USD (+1,04% 24h, CoinGecko-API live), ETH bei 2.481,67 USD (+0,43%), SOL bei 108,99 USD (-0,66%). Insgesamt durchwachsenes, aber nicht mehr eskalierendes Bild nach dem Risk-off der letzten Stunden. US-Boersen seit 22:00 MESZ geschlossen, Wochenende steht bevor - kein frischer, einzelner bestaetigter Katalysator fuer einen Trade erkennbar.",
+    "decision": "Tagesverlauf 09.10.: Ein Trade (Verkauf TSLA pos-0028 bei +8,0%, +47,98 EUR realisiert, 16:11). BTC (pos-0018) bleibt offen und wurde im Tagesverlauf laufend aktualisiert, zuletzt -3,00% seit Kauf (82.487 USD, 23:09). Weitere Laeufe des Tages fanden keine ueberzeugende neue Gelegenheit fuer einen weiteren Trade.",
+    "reasoning": "BTC-Position (pos-0018) auf aktuellen Kurs (82.487 USD, CoinGecko-API live) aktualisiert, leichte Erholung ggue. 22:10 (-3,10% -> -3,00% seit Kauf), bleibt deutlich innerhalb der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%). Keine verlaesslich auf heute/diese Nacht datierten neuen Markt- oder Geopolitik-Katalysatoren gefunden; Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten (Boersenschluss 22:00 MESZ, Wochenende) ohnehin nicht handelbar. Passend zum spekulativen, aber diszipliniert risikogesteuerten Profil daher kein Neukauf in diesem Lauf.",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 678.31,
+    "portfolioValueEnd": 679.03,
     "updates": [
       {
         "time": "00:08",
@@ -8420,6 +8420,11 @@
         "time": "22:10",
         "note": "Kursupdate BTC (82.400 USD, -3,10% seit Kauf); Kryptomarkt insgesamt -2,5%, Fear&Greed 64->59, anhaltende ETF-Abfluesse (BTC/ETH/SOL) ohne neuen Einzelkatalysator; Aktienmarkt seit 22:00 MESZ geschlossen; kein Trade - keine ueberzeugende Gelegenheit",
         "portfolioValue": 678.31
+      },
+      {
+        "time": "23:09",
+        "note": "Kursupdate BTC (82.487 USD, +1,04% 24h, CoinGecko-API live, -3,00% seit Kauf, leichte Erholung ggue. letztem Lauf); keine verlaesslich frisch datierten neuen Katalysatoren gefunden; US-Aktienmarkt seit 22:00 MESZ geschlossen; kein Trade - keine ueberzeugende Gelegenheit",
+        "portfolioValue": 679.03
       }
     ]
   }
