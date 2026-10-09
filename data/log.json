@@ -8298,14 +8298,14 @@
   },
   {
     "date": "2026-10-09",
-    "marketOverview": "Risk-off-Ton haelt an, aber ohne neue Eskalation: BTC notiert laut CoinGecko-Live-API bei 82.577 USD (-0,48% 24h), Altcoins durchweg leicht im Minus (ADA -4,87%, SOL -3,92%, ETH -2,57%, DOGE -2,85%, LINK -1,31%), kein einzelner Ausreisser nach oben oder unten. Xetra ist seit 09:00 MESZ geoeffnet, der US-Kassamarkt oeffnet erst um 15:30 MESZ; fuer TSLA liegt bislang keine verlaessliche frische Kursquelle vor (Yahoo-Feed zeigt nur den gestrigen Schlusskurs von 377,81 USD, keine Premarket-Notierung).",
-    "decision": "Tagesbudget bereits um 00:08 gutgeschrieben, keine erneute Gutschrift. Kursupdate BTC-Position (pos-0018) auf 82.577 USD (-2,89% seit Kauf, CoinGecko-API live). TSLA-Position (pos-0028) mangels verlaesslicher Premarket-Quote unveraendert bei 375,00 USD belassen. Kein Kauf, da kein frischer, mehrfach bestaetigter Katalysator ueber den bereits bekannten Hormuz-Risk-off-Trend hinaus gefunden wurde - Kryptomarkt zeigt lediglich eine breite, unspektakulaere Fortsetzung des bestehenden leichten Abwaertstrends ohne klaren Ausreisser.",
-    "reasoning": "Direkte CoinGecko-API-Abfrage liefert einen aktuellen, live-verifizierten BTC-Kurs (82.577 USD, -0,48% 24h) sowie eine Markets-Uebersicht der Top-20-Coins nach Marktkapitalisierung - keiner davon zeigt eine aussergewoehnliche Tagesbewegung (grösster Ausreisser ADA mit -4,87%), weshalb kein neuer spekulativer Trade gerechtfertigt ist. Fuer TSLA ergibt die Yahoo-Finance-Abfrage nur den gestrigen regulaeren Schlusskurs (377,81 USD, marketState leer/geschlossen) ohne Premarket-Preis, daher bewusst keine Kursaktualisierung aus einer nicht-aktuellen Quelle. Passend zur Vorgabe, nur bei einer wirklich ueberzeugenden Gelegenheit zu handeln, bleibt es beim dritten Lauf in Folge ohne Trade.",
+    "marketOverview": "Risk-off-Ton haelt unveraendert an: BTC notiert laut direkter CoinGecko-API bei 82.514 USD (-0,57% 24h), Altcoins weiterhin durchweg leicht im Minus (ADA -5,55%, AVAX -4,18%, SOL -4,02%, DOGE -3,41%, ETH -2,46%, LINK -1,72%), kein neuer Ausreisser. US-Kassamarkt oeffnet erst um 15:30 MESZ, Yahoo-Finance-Feed liefert fuer TSLA weiterhin nur den Schlusskurs vom 08.10. (375,00 USD, kein Premarket-Preis verfuegbar). Keine datierten frischen Nachrichten zu Fed, Iran/Hormuz oder Maerkten fuer den 09.10. auffindbar - Websuche liefert nur aeltere oder undatierte Treffer.",
+    "decision": "Tagesbudget bereits um 00:08 gutgeschrieben, keine erneute Gutschrift. Kursupdate BTC-Position (pos-0018) auf 82.514 USD (-2,96% seit Kauf, CoinGecko-API live). TSLA-Position (pos-0028) mangels verlaesslicher Premarket-Quote unveraendert bei 375,00 USD belassen. Kein Kauf und kein Verkauf, da kein frischer, mehrfach bestaetigter Katalysator gefunden wurde - Kryptomarkt zeigt nur eine Fortsetzung des bestehenden milden Risk-off-Trends ohne klaren Ausreisser, und beide offenen Positionen liegen weiterhin deutlich innerhalb der etablierten Stop-Loss-/Take-Profit-Schwellen (-6,5 bis -7,5% bzw. +7-9%).",
+    "reasoning": "Direkte CoinGecko-API-Abfrage (bitcoin, ethereum, solana, cardano, dogecoin, avalanche-2, chainlink, ripple) liefert einen aktuellen, live-verifizierten BTC-Kurs sowie 24h-Aenderungen fuer die wichtigsten Altcoins - keiner zeigt eine aussergewoehnliche Tagesbewegung (groesster Ausreisser Cardano mit -5,55%), weshalb kein neuer spekulativer Trade gerechtfertigt ist. Direkte Yahoo-Finance-Chart-API fuer TSLA zeigt marketState None und regularMarketTime vom 08.10. 20:00 UTC - also weiterhin keine aktuelle Premarket-Notierung, daher bewusst keine Kursaktualisierung aus einer veralteten Quelle. Websuche zu allgemeinen Marktnachrichten (Fed, Iran, Geopolitik) lieferte keine verlaesslich auf den 09.10. datierten Treffer. Passend zur Vorgabe, nur bei einer wirklich ueberzeugenden Gelegenheit zu handeln, bleibt es beim vierten Lauf in Folge ohne Trade.",
     "positionIds": [
       "pos-0018",
       "pos-0028"
     ],
-    "portfolioValueEnd": 1309.67,
+    "portfolioValueEnd": 1309.15,
     "updates": [
       {
         "time": "00:08",
@@ -8361,6 +8361,11 @@
         "time": "10:09",
         "note": "Kursupdate BTC (82.577 USD, -0,48% 24h, CoinGecko-API live, -2,89% seit Kauf, leichte Erholung ggue. letztem Lauf); Altcoin-Markt insgesamt flach bis leicht negativ ohne Ausreisser (ADA -4,87%, SOL -3,92%, ETH -2,57%); TSLA mangels Premarket-Quote unveraendert bei 375,00 USD; kein Trade - keine ueberzeugende Gelegenheit",
         "portfolioValue": 1309.67
+      },
+      {
+        "time": "11:10",
+        "note": "Kursupdate BTC (82.514 USD, -0,57% 24h, CoinGecko-API live, -2,96% seit Kauf); Altcoin-Markt weiterhin breit leicht negativ (ADA -5,55%, AVAX -4,18%, SOL -4,02%); TSLA mangels Premarket-Quote unveraendert bei 375,00 USD; keine datierten frischen Marktnachrichten gefunden; kein Trade - keine ueberzeugende Gelegenheit",
+        "portfolioValue": 1309.15
       }
     ]
   }
