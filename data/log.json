@@ -8298,14 +8298,14 @@
   },
   {
     "date": "2026-10-09",
-    "marketOverview": "Bitcoin erholt sich leicht auf 83.267 USD (+1,06% 24h, CoinGecko-API live) nach mehreren Tagen im Band um 82.000-83.000 USD; weiterhin kein frischer, eindeutig auf heute datierter fundamentaler Katalysator. Makrobild unveraendert risikoavers: erhoehter Oelpreis wegen Hormuz-Spannungen, hohe US-Renditen, gemischte Fed-Zinserwartungen. TSLA bleibt vor Eroeffnung des US-Kassahandels (15:30 MESZ) unveraendert bei 375,00 USD; Xetra ist seit 09:00 MESZ offen, aber ohne bestaetigte frische Gelegenheit.",
-    "decision": "Kumulierte Tageszusammenfassung (Stand 14:17 MESZ): Seit Mitternacht wurden an diesem Tag ausschliesslich BTC-Kursupdates vorgenommen (zuletzt 83.267 USD, -2,08% seit Kauf), kein einziger Trade. TSLA (pos-0028, +4,98%) bleibt vor Handelsbeginn unveraendert gehalten. Keine Position hat die etablierten Schwellen (Stop-Loss ca. -6,5 bis -7,5%, Zielgewinn ca. 7-9%) erreicht, daher weiterhin kein Verkauf. Freies Kapital bleibt sehr hoch (64.038,49 EUR), aber ohne ueberzeugende, mehrfach bestaetigte Gelegenheit wird kein neues Kapital eingesetzt.",
-    "reasoning": "Risikoprofil 'spekulativ' mit erlaubtem kurzfristigem Trading: BTC-Kurs via CoinGecko-API live aktualisiert, leichte Erholung ohne klaren neuen Katalysator - daher kein Trade, nur Kursfortschreibung. TSLA wird mangels Handelbarkeit (vor US-Kassahandelsoeffnung 15:30 MESZ) unveraendert gehalten. Fuer einen Neukauf fehlt weiterhin eine frische, mehrfach unabhaengig bestaetigte Gelegenheit in Aktien, ETFs, Krypto oder Rohstoffen; Websuche lieferte erneut ueberwiegend veraltete oder undatierte Treffer ohne verlaessliches aktuelles Datum. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "marketOverview": "Bitcoin fiel laut KuCoin-Tagesbericht (datiert 09.10.) auf rund 81.741 USD (-1,90% 24h, Fear&Greed 59) - drittwoechiges Tief, nachdem Fed-Protokolle das Risiko eines weiteren Zinsschritts signalisierten und US-Spot-Bitcoin-ETFs am 07.10. mit 487 Mio. USD die staerksten Abfluesse seit Juni verzeichneten. Oelpreis bleibt wegen der anhaltenden Iran-Hormuz-Eskalation erhoeht (Brent zuletzt Anfang Oktober um 102 USD), jedoch ohne frischen, heute datierten Einzelkatalysator. TSLA bleibt vor Eroeffnung des US-Kassahandels (15:30 MESZ) unveraendert bei 375,00 USD; Xetra ist seit 09:00 MESZ offen, aber ohne bestaetigte frische Gelegenheit.",
+    "decision": "Kumulierte Tageszusammenfassung (Stand 15:09 MESZ): Seit Mitternacht ausschliesslich Kursupdates vorgenommen, kein einziger Trade. BTC (pos-0018) auf 81.741 USD aktualisiert (-3,87% seit Kauf, noch innerhalb der Stop-Loss-Schwelle), TSLA (pos-0028, +4,98%) bleibt vor Handelsbeginn unveraendert. Keine Position hat die etablierten Schwellen (Stop-Loss ca. -6,5 bis -7,5%, Zielgewinn ca. 7-9%) erreicht, daher weiterhin kein Verkauf. Freies Kapital bleibt sehr hoch (64.038,49 EUR), aber ohne ueberzeugende, mehrfach bestaetigte Gelegenheit wird weiterhin kein neues Kapital eingesetzt.",
+    "reasoning": "Risikoprofil 'spekulativ' mit erlaubtem kurzfristigem Trading: BTC-Kurs anhand des auf heute datierten KuCoin-Tagesberichts aktualisiert (Ruecksetzer auf ein Dreiwochen-Tief durch Fed-Zinsangst und ETF-Abfluesse), Bewegung liegt noch deutlich innerhalb der Stop-Loss-Schwelle, daher kein Verkauf. TSLA wird mangels Handelbarkeit (vor US-Kassahandelsoeffnung 15:30 MESZ) unveraendert gehalten. Fuer einen Neukauf fehlt weiterhin eine frische, mehrfach unabhaengig bestaetigte Gelegenheit in Aktien, ETFs, Krypto oder Rohstoffen (Brent-Oelpreis zwar erhoeht, aber bereits seit Tagen bekannter Trend ohne neuen, heute datierten Ausloeser). Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [
       "pos-0018",
       "pos-0028"
     ],
-    "portfolioValueEnd": 1315.35,
+    "portfolioValueEnd": 1302.79,
     "updates": [
       {
         "time": "00:08",
@@ -8381,6 +8381,11 @@
         "time": "14:17",
         "note": "Kursupdate BTC (83.267 USD, +1,06% 24h, CoinGecko-API live, -2,08% seit Kauf, leichte Erholung ggue. letztem Lauf); TSLA weiterhin ausserhalb der US-Kassahandelszeiten (Eroeffnung erst 15:30 MESZ) unveraendert bei 375,00 USD; keine verlaesslich frisch datierten neuen Katalysatoren gefunden - kein Trade, keine ueberzeugende Gelegenheit",
         "portfolioValue": 1315.35
+      },
+      {
+        "time": "15:09",
+        "note": "Kursupdate BTC (81.741 USD, KuCoin-Tagesbericht datiert 09.10., -1,90% 24h, -3,87% seit Kauf) nach Fed-Zinsangst und ETF-Abfluessen von 487 Mio. USD am 07.10.; TSLA weiterhin ausserhalb der US-Kassahandelszeiten (Eroeffnung erst 15:30 MESZ) unveraendert bei 375,00 USD; Brent-Oelpreis zwar weiterhin erhoeht (~102 USD), aber kein frischer heute datierter Katalysator - kein Trade, keine ueberzeugende Gelegenheit",
+        "portfolioValue": 1302.79
       }
     ]
   }
