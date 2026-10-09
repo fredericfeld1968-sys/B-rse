@@ -8298,14 +8298,14 @@
   },
   {
     "date": "2026-10-09",
-    "marketOverview": "Breiter Krypto-Risk-off setzt sich in der Nacht auf Freitag fort: BTC rund 81.800 USD (-1,6% 24h), Altcoins deutlich schwaecher (AVAX -8,7%, ADA -7,9%, SOL -4,9%, LINK -4,2%, DOGE -4,7%, ETH -3,6%), ohne frischen fundamentalen Katalysator - Fortsetzung der seit Tagen angespannten Risikostimmung (Oelpreis >100 USD/Barrel, Fed-Sitzung erst am 28.10.). Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten nicht bewertbar; TSLA-Position bleibt auf letztem Schlusskurs eingefroren.",
-    "decision": "Tagesbudget (+1.000 EUR) wurde um 00:08 gutgeschrieben. Seitdem keine Aenderung am Portfolio: BTC-Position (pos-0018) mit -3,80% noch deutlich innerhalb der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%), TSLA-Position (pos-0028) ausserhalb der Handelszeiten unveraendert. Kein Kauf, da keine wirklich ueberzeugende neue Gelegenheit erkennbar ist - der Krypto-Risk-off ist reine Fortsetzung ohne frischen Trigger.",
+    "marketOverview": "Breiter Krypto-Risk-off setzt sich in der Nacht auf Freitag unveraendert fort: BTC rund 81.700-81.800 USD (-1,8% 24h), Altcoins weiterhin deutlich schwaecher (ADA -9,3%, AVAX -9,4%, SOL -5,9%, DOGE -5,4%, LINK -4,2%, ETH -3,8%, XRP -2,6%), ohne frischen fundamentalen Katalysator - reine Fortsetzung der seit Tagen angespannten Risikostimmung (Oelpreis >100 USD/Barrel, Fed-Sitzung erst am 28.10.). Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten nicht bewertbar; TSLA-Position bleibt auf letztem Schlusskurs eingefroren.",
+    "decision": "Tagesbudget (+1.000 EUR) wurde bereits um 00:08 gutgeschrieben (lastGrantDate unveraendert, keine erneute Gutschrift). Seit dem letzten Lauf keine Aenderung am Portfolio: BTC-Position (pos-0018) mit -3,90% weiterhin deutlich innerhalb der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%), TSLA-Position (pos-0028) ausserhalb der Handelszeiten unveraendert. Kein Kauf, da keine wirklich ueberzeugende neue Gelegenheit erkennbar ist - der Krypto-Risk-off ist reine Fortsetzung ohne frischen Trigger.",
     "reasoning": "Freies Kapital liegt bei rund 64.000 EUR, es besteht also kein Kapitalengpass. Die Entscheidung gegen einen Trade folgt dem etablierten Muster: nur bei einem bestaetigten, mehrfach unabhaengig belegten Katalysator (institutionell, regulatorisch oder ein klarer technischer Ausbruch) wird eine neue spekulative Position eroeffnet. Der aktuelle Risk-off ist breit angelegt und bereits seit mehreren Laeufen bekannt, kein neues Signal.",
     "positionIds": [
       "pos-0018",
       "pos-0028"
     ],
-    "portfolioValueEnd": 1303.31,
+    "portfolioValueEnd": 1302.61,
     "updates": [
       {
         "time": "00:08",
@@ -8316,6 +8316,11 @@
         "time": "01:10",
         "note": "Kursupdate BTC (81.805 USD, -1,6% 24h, CoinGecko-API live, -3,80% seit Kauf); breiter Krypto-Risk-off haelt an (ETH -3,6%, SOL -4,9%, ADA -7,9%, AVAX -8,7%, LINK -4,2%, XRP -2,4%, DOGE -4,7% je 24h) ohne neuen Katalysator, nur Fortsetzung des bestehenden Trends; TSLA ausserhalb der US-Handelszeiten unveraendert bei 375,00 USD; kein Trade - keine ueberzeugende Gelegenheit",
         "portfolioValue": 1303.31
+      },
+      {
+        "time": "02:08",
+        "note": "Kursupdate BTC (81.720 USD, -1,8% 24h, CoinGecko-API live, -3,90% seit Kauf); Krypto-Risk-off weiter unveraendert (ADA -9,3%, AVAX -9,4%, SOL -5,9%, DOGE -5,4%, LINK -4,2%, ETH -3,8%, XRP -2,6% je 24h), kein neuer Katalysator; TSLA ausserhalb der US-Handelszeiten unveraendert bei 375,00 USD; kein Trade - keine ueberzeugende Gelegenheit",
+        "portfolioValue": 1302.61
       }
     ]
   }
