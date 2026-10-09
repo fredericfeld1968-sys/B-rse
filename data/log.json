@@ -8299,8 +8299,8 @@
   {
     "date": "2026-10-09",
     "marketOverview": "Bitcoin erholt sich laut CoinGecko-Live-Daten auf ca. 82.753 USD (+0,57% 24h). Der US-Kassahandel ist seit 15:30 MESZ geoeffnet; TSLA sprang laut Yahoo-Finance-Live-Kurs von 375,00 auf 385,77 USD (+2,9% im Tagesverlauf), ohne dass ein konkreter, heute datierter Einzelkatalysator verlaesslich auffindbar war - Fortsetzung des bereits am 02.10. gekauften Post-Delivery-Momentums. Oelpreis bleibt wegen der anhaltenden Iran-Hormuz-Eskalation erhoeht, ohne frischen Einzelkatalysator.",
-    "decision": "Kumulierte Tageszusammenfassung (Stand 16:11 MESZ): TSLA-Position (pos-0028) bei +8,0% seit Kauf (357,20 -> 385,77 USD) im etablierten Zielbereich (7-9%) glattgestellt, Gewinn von 47,98 EUR realisiert und gesperrt. BTC (pos-0018) auf 82.753 USD aktualisiert (-2,68% seit Kauf, deutlich innerhalb der Stop-Loss-Schwelle), bleibt offen. Kein Neukauf in diesem Lauf, da keine weitere ueberzeugende, mehrfach bestaetigte Gelegenheit gefunden wurde. Freies Kapital jetzt 64.638,49 EUR, Gewinn-Topf 675,44 EUR.",
-    "reasoning": "Risikoprofil 'spekulativ' mit erlaubtem kurzfristigem Trading: TSLA erreichte nach Oeffnung des US-Kassahandels die etablierte Ziel-Gewinnspanne (7-9%, analog AMD, SpaceX, Palantir, Meta) und wurde passend zum bisherigen Muster konsequent glattgestellt, statt das Rueckschlagsrisiko eines Pullbacks einzugehen. BTC-Kurs aktualisiert, liegt mit -2,68% noch deutlich innerhalb der Stop-Loss-Schwelle (-6,5 bis -7,5%), daher kein Verkauf. Fuer einen Neukauf des freigewordenen Kapitals fehlt eine frische, mehrfach unabhaengig bestaetigte Gelegenheit; die Websuche lieferte keine verlaesslich auf heute datierten neuen Katalysatoren in Aktien, ETFs, Krypto oder Rohstoffen. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "decision": "Kumulierte Tageszusammenfassung (Stand 17:08 MESZ): TSLA-Position (pos-0028) bei +8,0% seit Kauf (357,20 -> 385,77 USD) im etablierten Zielbereich (7-9%) glattgestellt, Gewinn von 47,98 EUR realisiert und gesperrt. BTC (pos-0018) weiterhin bei 82.753 USD (-2,68% seit Kauf, deutlich innerhalb der Stop-Loss-Schwelle), bleibt offen - keine neuere verlaessliche Kursquelle gefunden. Kein Neukauf in diesem Lauf, da keine ueberzeugende, mehrfach bestaetigte Gelegenheit gefunden wurde. Freies Kapital weiterhin 64.638,49 EUR, Gewinn-Topf 675,44 EUR.",
+    "reasoning": "Risikoprofil 'spekulativ' mit erlaubtem kurzfristigem Trading: TSLA erreichte nach Oeffnung des US-Kassahandels die etablierte Ziel-Gewinnspanne (7-9%) und wurde glattgestellt. BTC liegt mit -2,68% weiterhin deutlich innerhalb der Stop-Loss-Schwelle (-6,5 bis -7,5%), daher kein Verkauf. Fuer einen Neukauf des freien Kapitals fehlt erneut eine frische, mehrfach unabhaengig bestaetigte Gelegenheit; die Websuche lieferte sowohl fuer Krypto als auch fuer Aktien/ETFs/Rohstoffe nur veraltete oder widerspruechliche Treffer ohne verlaesslichen heutigen Zeitstempel. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [
       "pos-0018",
       "pos-0028"
@@ -8390,6 +8390,11 @@
       {
         "time": "16:11",
         "note": "Verkauf TSLA (pos-0028) bei +8,0% (357,20 -> 385,77 USD, Yahoo-Finance-Live-Kurs, US-Kassahandel seit 15:30 MESZ offen) - Zielgewinnspanne erreicht, Gewinn 47,98 EUR realisiert und gesperrt; Kursupdate BTC (82.753 USD, CoinGecko-API live, +0,57% 24h, -2,68% seit Kauf), bleibt offen; kein Neukauf - keine weitere ueberzeugende Gelegenheit gefunden",
+        "portfolioValue": 681.21
+      },
+      {
+        "time": "17:08",
+        "note": "Websuche liefert erneut keine verlaessliche, auf heute datierte Live-Kursquelle fuer BTC (nur veraltete/widersprechende Preisangaben); BTC daher unveraendert bei 82.753 USD (-2,68% seit Kauf) belassen; auch fuer Aktien/ETFs/Rohstoffe/weitere Krypto kein frischer, mehrfach bestaetigter Katalysator gefunden; kein Trade - keine ueberzeugende Gelegenheit",
         "portfolioValue": 681.21
       }
     ]
