@@ -8298,9 +8298,9 @@
   },
   {
     "date": "2026-10-09",
-    "marketOverview": "Bitcoin notiert via CoinGecko-API live bei 82.264 USD (-0,37% in 24h) - weitgehend stabil zum letzten Lauf, kein neuer Katalysator. Die Websuche fand keine verlaesslich auf heute (09.10.) datierten News zu ETF-Fluessen oder Fed-Zinsentscheidung; allgemeine Marktlage bleibt gemischt (Iran/Hormuz-Risikopraemie bei Oel, Grossinvestoren-Akkumulation vs. ETF-Abfluesse bei BTC). US-Markt (Aktien/ETFs/Rohstoffe) oeffnet erst um 15:30 MESZ und ist daher aktuell nicht handelbar; TSLA-Position bleibt auf letztem Schlussstand (375,00 USD, +4,98%).",
-    "decision": "Tagesbudget (+1.000 EUR) wurde bereits um 00:08 gutgeschrieben (lastGrantDate = heute, keine erneute Gutschrift in diesem Lauf). Seit dem letzten Lauf keine Aenderung am Portfolio: BTC-Position (pos-0018) mit live verifiziertem CoinGecko-Kurs (82.264 USD) auf -3,26% aktualisiert (weiterhin deutlich innerhalb der Stop-Loss-Schwelle von -6,5 bis -7,5%), TSLA-Position (pos-0028) ausserhalb der US-Handelszeiten unveraendert. Kein Kauf, da keine wirklich ueberzeugende neue Gelegenheit erkennbar ist und ausserhalb der Boersenzeiten ohnehin nur Krypto bewegt werden darf.",
-    "reasoning": "Tagesbudget (+1.000 EUR) wurde bereits um 00:08 gutgeschrieben (lastGrantDate unveraendert, keine erneute Gutschrift). BTC-Kurs ueber CoinGecko-API live abgefragt (82.264 USD, -0,37% 24h) und auf pos-0018 angewendet (-3,26% seit Kauf bei 85.035 USD) - klar innerhalb des etablierten Stop-Loss-Korridors, kein Verkaufsgrund. TSLA (pos-0028) bleibt ausserhalb der Handelszeiten auf dem letzten Schlussstand. Websuche zu aktuellen Markttreibern (ETF-Fluesse, Fed) lieferte keine verlaesslich auf heute datierten Ergebnisse; ohne neuen, mehrfach bestaetigten Katalysator kein Neukauf.",
+    "marketOverview": "Keine verlaessliche Live-Kursquelle fuer Bitcoin oder Tesla zum aktuellen Zeitpunkt (ca. 08:09 MESZ) auffindbar - Websuchen lieferten nur undatierte oder widerspruechliche Preis-Snapshots (BTC-Spannen von 66.000 bis 123.000 USD je Quelle). Keine frischen, mehrfach unabhaengig bestaetigten Katalysatoren fuer einen Neukauf gefunden. Europaeische Boerse (Xetra, Oeffnung 09:00 MESZ) und US-Markt (Oeffnung 15:30 MESZ) sind noch nicht geoeffnet, daher waeren ohnehin nur Krypto-Trades moeglich.",
+    "decision": "Tagesbudget bereits um 00:08 gutgeschrieben, keine erneute Gutschrift. Keine Aenderung am Portfolio: BTC-Position (pos-0018) und TSLA-Position (pos-0028) bleiben mangels verlaesslicher neuer Kursdaten auf dem letzten bekannten Stand (82.264 USD bzw. 375,00 USD). Kein Kauf, da kein frischer, bestaetigter Katalysator auffindbar war.",
+    "reasoning": "Mehrere Websuchen zu aktuellen BTC- und TSLA-Kursen sowie zu moeglichen Kryptokatalysatoren lieferten nur undatierte/widersprechende Ergebnisse ohne verlaesslichen Zeitstempel fuer den aktuellen Lauf. Ohne belastbare Live-Daten werden die letzten bekannten Kurse unveraendert beibehalten, um keine Scheingenauigkeit zu erzeugen. Da ausserhalb der Boersenzeiten ohnehin nur Krypto bewegt werden darf und kein ueberzeugender, mehrfach bestaetigter Katalysator vorliegt, erfolgt kein Trade.",
     "positionIds": [
       "pos-0018",
       "pos-0028"
@@ -8345,6 +8345,11 @@
       {
         "time": "07:08",
         "note": "Kursupdate BTC (82.264 USD via CoinGecko-API, -0,37% 24h, -3,26% seit Kauf); TSLA ausserhalb der US-Handelszeiten unveraendert bei 375,00 USD; keine verlaesslich heute datierten neuen Katalysatoren gefunden, kein Trade - keine ueberzeugende Gelegenheit",
+        "portfolioValue": 1307.09
+      },
+      {
+        "time": "08:09",
+        "note": "Keine verlaessliche Live-Kursquelle fuer BTC/TSLA auffindbar, Werte unveraendert gelassen; kein frischer Katalysator gefunden; kein Trade - keine ueberzeugende Gelegenheit",
         "portfolioValue": 1307.09
       }
     ]
