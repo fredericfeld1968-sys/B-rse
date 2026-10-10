@@ -8430,13 +8430,13 @@
   },
   {
     "date": "2026-10-10",
-    "marketOverview": "Wochenende, 03:08 Uhr MESZ: Aktien/ETFs/Rohstoffe weiterhin geschlossen, nur Krypto handelbar. Bitcoin notiert laut CoinGecko-Live-API bei 82.527 USD (+1,05% in 24h) - praktisch unveraendert zum letzten Lauf (82.504 USD). Altcoin-Markt leicht fester (ADA +5,54%, AVAX +2,71%, DOGE +1,91%, XRP +1,01%, LINK +0,77%, ETH +0,63%, SOL +0,35%), jedoch ohne einen frischen, mehrfach unabhaengig bestaetigten fundamentalen oder geopolitischen Katalysator fuer die Nacht auf den 10.10. (keine verlaesslich datierten Fed-, Iran-/Hormuz- oder Zoll-Meldungen auffindbar; Hormuz-Berichte zu iranischen Krypto-Transitgebuehren stammen aus dem Fruehjahr/Sommer 2026).",
-    "decision": "Tagesbudget wurde bereits um 00:09 Uhr gutgeschrieben (lastGrantDate=2026-10-10, keine erneute Gutschrift in diesem Lauf). Offene Position pos-0018 (BTC) auf aktuellen Kurs aktualisiert (82.527 USD, -2,95% seit Kauf). Kein Trade: keine ueberzeugende, frisch bestaetigte Gelegenheit in Krypto (einzig handelbare Anlageklasse am Wochenende/nachts); freies Kapital bleibt unangetastet verfuegbar.",
-    "reasoning": "Spekulatives Risikoprofil erlaubt kurzfristiges Handeln, aber keine der beobachteten Kryptobewegungen (groesste: ADA +5,5%) erreicht die Schwelle eines bestaetigten, mehrfach belegten Ausbruchs oder institutionellen Katalysators wie bei frueheren erfolgreichen Trades (AVAX/NYSE, QNT/Clearing House). Ohne verlaesslich datierte Nachrichtenlage fuer die Nacht auf den 10.10. wird auf Nummer sicher gegangen und kein neues Kapital eingesetzt.",
+    "marketOverview": "Wochenende, 04:08 Uhr MESZ: Aktien/ETFs/Rohstoffe weiterhin geschlossen, nur Krypto handelbar. Bitcoin notiert laut CoinGecko-Live-API bei 82.620 USD (+0,71% in 24h), damit weiterhin im engen Seitwaertsband der letzten Stunden (82.500-82.620 USD). Laut CoinDesk/Investing.com stabilisiert sich BTC nach Trumps Zusage, Iran vor den US-Midterms (03.11.) nicht anzugreifen (Brent -1% auf ca. 103 USD), waehrend anhaltende Spot-ETF-Abfluesse (487 Mio. USD) und hohe Anleiherenditen weiter belasten (QCP-Prognose: Q4-Range 80.000-90.000 USD). ADA zeigt mit +8,2% in 24h die staerkste Altcoin-Bewegung, jedoch ohne einen frischen, mehrfach unabhaengig bestaetigten und datierten Einzelkatalysator (reine Sentiment-Bewegung, aehnlich der bereits am 07.10. per Stop-Loss beendeten ADA-Position).",
+    "decision": "Tagesbudget wurde bereits um 00:09 Uhr gutgeschrieben (lastGrantDate=2026-10-10, keine erneute Gutschrift in diesem Lauf). Offene Position pos-0018 (BTC) auf aktuellen Kurs aktualisiert (82.620 USD, -2,84% seit Kauf). Kein Trade: BTC bewegt sich seitwaerts ohne neuen Katalysator, ADA-Spike ohne bestaetigten Grund wird nicht gehandelt (Lehre aus der gescheiterten ADA-Position vom 07.10.); freies Kapital bleibt unangetastet verfuegbar.",
+    "reasoning": "Spekulatives Risikoprofil erlaubt kurzfristiges Handeln, aber weder BTC (Seitwaertsband) noch ADA (unbestaetigter Sentiment-Spike) erreichen die Schwelle eines bestaetigten, mehrfach belegten Ausbruchs oder institutionellen Katalysators wie bei frueheren erfolgreichen Trades (AVAX/NYSE, QNT/Clearing House). Ohne verlaessliche frische Nachrichtenlage wird auf Nummer sicher gegangen und kein neues Kapital eingesetzt.",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 679.35,
+    "portfolioValueEnd": 680.12,
     "updates": [
       {
         "time": "00:09",
@@ -8457,6 +8457,11 @@
         "time": "03:08",
         "note": "BTC-Kursupdate per CoinGecko-API (82.527 USD, +1,05% 24h, -2,95% seit Kauf); Altcoins leicht fester (ADA +5,5%, AVAX +2,7%) aber ohne bestaetigten Katalysator; kein Trade, keine ueberzeugende Gelegenheit (Wochenende, nur Krypto handelbar)",
         "portfolioValue": 679.35
+      },
+      {
+        "time": "04:08",
+        "note": "BTC-Kursupdate per CoinGecko-API (82.620 USD, +0,71% 24h, -2,84% seit Kauf); ADA-Spike (+8,2% 24h) ohne bestaetigten Katalysator; kein Trade, keine ueberzeugende Gelegenheit (Wochenende, nur Krypto handelbar)",
+        "portfolioValue": 680.12
       }
     ]
   }
