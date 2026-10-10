@@ -8430,13 +8430,13 @@
   },
   {
     "date": "2026-10-10",
-    "marketOverview": "Wochenende (Samstag), Mittag: Aktien, ETFs und Rohstoffe weiterhin nicht handelbar. Bitcoin stabil bei ca. 82.773 USD (+0,35% 24h, -2,66% seit BTC-Kauf vom 21.09.). Cardano (ADA) bleibt mit rund +7,8% in 24h auffaellig, jedoch weiterhin ohne mehrfach unabhaengig bestaetigten frischen Katalysator. Markt bleibt vor der Fed-Sitzung am 28.10. vorsichtig seitwaerts.",
-    "decision": "Kein Trade in diesem Lauf: BTC-Position (pos-0018) bei -2,66% seit Kauf, innerhalb der Toleranz, kein Stop-Loss ausgeloest. ADA-Anstieg (+7,8%) weiterhin ohne bestaetigten Katalysator, daher kein Neukauf. Freies Kapital bleibt ungenutzt.",
-    "reasoning": "BTC seitwaerts ohne neuen Katalysator, bestehende Position unveraendert gehalten. Keine frischen, mehrfach unabhaengig bestaetigten institutionellen oder technischen Ausbruchssignale bei Altcoins gefunden (ADA-Spike bleibt unbestaetigt); Aktien/ETFs/Rohstoffe am Wochenende nicht handelbar.",
+    "marketOverview": "Wochenende (Samstag), frueher Nachmittag: Aktien, ETFs und Rohstoffe weiterhin nicht handelbar. Bitcoin seitwaerts bei ca. 82.800 USD (-2,63% seit BTC-Kauf vom 21.09.), keine neue bestaetigte Nachricht. Markt bleibt vor der Fed-Sitzung am 28.10. vorsichtig seitwaerts.",
+    "decision": "Kein Trade in diesem Lauf: BTC-Position (pos-0018) bei -2,63% seit Kauf, innerhalb der Toleranz, kein Stop-Loss ausgeloest. Kein neuer, mehrfach unabhaengig bestaetigter Katalysator fuer einen Neukauf gefunden. Freies Kapital bleibt ungenutzt.",
+    "reasoning": "BTC seitwaerts ohne neuen Katalysator, bestehende Position unveraendert gehalten. Keine frischen, mehrfach unabhaengig bestaetigten institutionellen oder technischen Ausbruchssignale gefunden; Aktien/ETFs/Rohstoffe am Wochenende nicht handelbar.",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 681.38,
+    "portfolioValueEnd": 681.6,
     "updates": [
       {
         "time": "00:09",
@@ -8507,6 +8507,11 @@
         "time": "13:09",
         "note": "BTC-Update per CoinGecko-API (82.773 USD, +0,35% 24h, -2,66% seit Kauf); ADA weiterhin +7,77% 24h ohne mehrfach bestaetigten frischen Katalysator; kein Trade, keine ueberzeugende Gelegenheit (Wochenende, nur Krypto handelbar)",
         "portfolioValue": 681.38
+      },
+      {
+        "time": "14:10",
+        "note": "BTC-Update per Coinbase-API (82.800,34 USD, -2,63% seit Kauf); kein neuer bestaetigter Katalysator; kein Trade, keine ueberzeugende Gelegenheit (Wochenende, nur Krypto handelbar)",
+        "portfolioValue": 681.6
       }
     ]
   }
