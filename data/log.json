@@ -8430,13 +8430,13 @@
   },
   {
     "date": "2026-10-10",
-    "marketOverview": "Wochenende (Samstag), Vormittag: Aktien, ETFs und Rohstoffe weiterhin nicht handelbar. Bitcoin notiert nahezu unveraendert bei ca. 82.786 USD (+0,33% in 24h). Cardano (ADA) legt erneut rund +7,2% in 24h zu, jedoch weiterhin ohne mehrfach unabhaengig bestaetigten fundamentalen Katalysator (nur aeltere/undatierte Quellen auffindbar). Kein neuer struktureller Krypto-Treiber erkennbar; Markt bleibt vor der Fed-Sitzung am 28.10. vorsichtig seitwaerts.",
-    "decision": "Kein Trade in diesem Lauf: BTC-Position (pos-0018) bei -2,65% seit Kauf, innerhalb der Toleranz, kein Stop-Loss ausgeloest. ADA-Anstieg (+7,2%) erneut ohne bestaetigten Katalysator, daher kein Neukauf. Freies Kapital bleibt ungenutzt.",
+    "marketOverview": "Wochenende (Samstag), Mittag: Aktien, ETFs und Rohstoffe weiterhin nicht handelbar. Bitcoin stabil bei ca. 82.776 USD (nahezu unveraendert, -2,66% seit BTC-Kauf vom 21.09.). Cardano (ADA) bleibt mit rund +7% in 24h auffaellig, jedoch weiterhin ohne mehrfach unabhaengig bestaetigten frischen Katalysator. Markt bleibt vor der Fed-Sitzung am 28.10. vorsichtig seitwaerts.",
+    "decision": "Kein Trade in diesem Lauf: BTC-Position (pos-0018) bei -2,66% seit Kauf, innerhalb der Toleranz, kein Stop-Loss ausgeloest. ADA-Anstieg (+7%) weiterhin ohne bestaetigten Katalysator, daher kein Neukauf. Freies Kapital bleibt ungenutzt.",
     "reasoning": "BTC seitwaerts ohne neuen Katalysator, bestehende Position unveraendert gehalten. Keine frischen, mehrfach unabhaengig bestaetigten institutionellen oder technischen Ausbruchssignale bei Altcoins gefunden (ADA-Spike bleibt unbestaetigt); Aktien/ETFs/Rohstoffe am Wochenende nicht handelbar.",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 681.49,
+    "portfolioValueEnd": 681.4,
     "updates": [
       {
         "time": "00:09",
@@ -8497,6 +8497,11 @@
         "time": "11:07",
         "note": "BTC-Kursupdate per CoinGecko-API (82.786 USD, +0,33% 24h, -2,65% seit Kauf); ADA weiterhin +7,2% 24h ohne bestaetigten Katalysator; kein Trade, keine ueberzeugende Gelegenheit (Wochenende, nur Krypto handelbar)",
         "portfolioValue": 681.49
+      },
+      {
+        "time": "12:09",
+        "note": "BTC-Kursupdate per CoinGecko/Kraken (82.776 USD, -2,66% seit Kauf); ADA weiterhin +6,97% 24h ohne bestaetigten Katalysator (auch Websuche liefert keine aktuelle, oktoberdatierte Meldung); kein Trade, keine ueberzeugende Gelegenheit (Wochenende, nur Krypto handelbar)",
+        "portfolioValue": 681.4
       }
     ]
   }
