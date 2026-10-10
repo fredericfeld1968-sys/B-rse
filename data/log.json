@@ -8430,13 +8430,13 @@
   },
   {
     "date": "2026-10-10",
-    "marketOverview": "Wochenende (Samstag), spaeter Nachmittag: Aktien, ETFs und Rohstoffe weiterhin nicht handelbar. Bitcoin seitwaerts bei ca. 82.750 USD (-2,69% seit BTC-Kauf vom 21.09., CoinGecko-API). ADA weiterhin auffaellig fest (+6,7% 24h), aber kein frischer, mehrfach unabhaengig bestaetigter Katalysator auffindbar (Oktober-Rally vom 05.10. bereits eingepreist). Markt bleibt vor der Fed-Sitzung am 28.10. vorsichtig seitwaerts.",
-    "decision": "Kein Trade in diesem Lauf: BTC-Position (pos-0018) bei -2,69% seit Kauf, innerhalb der Toleranz, kein Stop-Loss ausgeloest. Kein neuer, mehrfach unabhaengig bestaetigter Katalysator fuer einen Neukauf gefunden (insb. ADA-Staerke bleibt unbestaetigt). Freies Kapital bleibt ungenutzt.",
-    "reasoning": "BTC seitwaerts ohne neuen Katalysator, bestehende Position unveraendert gehalten. Keine frischen, mehrfach unabhaengig bestaetigten institutionellen oder technischen Ausbruchssignale gefunden; Aktien/ETFs/Rohstoffe am Wochenende nicht handelbar.",
+    "marketOverview": "BTC seitwaerts bei ca. 82.714 USD (24h ~-0,07%), Wochenende weiterhin ruhig. ADA zeigt per CoinGecko weiterhin ein erhoehtes 24h-Plus (+7,4%), jedoch ohne neuen, mehrfach unabhaengig bestaetigten fundamentalen Katalysator (keine aktuellen Oktober-2026-Meldungen zu Midnight/Leios o.ae. gefunden) - wirkt wie ein fortlaufender, bereits mehrfach beobachteter Restwert statt einer frischen Bewegung. ETH, SOL, DOGE, XRP, AVAX, LINK, BCH, QNT, ENA im 24h-Vergleich nahezu unveraendert. Aktien/ETFs/Rohstoffe am Samstag nicht handelbar.",
+    "decision": "Kein Trade in diesem Lauf: BTC-Position (pos-0018) bei -2,73% seit Kauf, klar innerhalb der Toleranz, kein Stop-Loss ausgeloest. Keine ueberzeugende, mehrfach bestaetigte neue Gelegenheit identifiziert (ADA-Staerke bleibt unbestaetigt). Freies Kapital bleibt ungenutzt.",
+    "reasoning": "Kein Trade in diesem Lauf: BTC-Position (pos-0018) bei -2,73% seit Kauf, klar innerhalb der Toleranz, kein Stop-Loss ausgeloest. Keine ueberzeugende, mehrfach bestaetigte neue Gelegenheit identifiziert (ADA-Staerke bleibt unbestaetigt). Freies Kapital bleibt ungenutzt.",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 681.19,
+    "portfolioValueEnd": 680.89,
     "updates": [
       {
         "time": "00:09",
@@ -8517,6 +8517,11 @@
         "time": "15:08",
         "note": "BTC-Kursupdate per CoinGecko-API (82.750 USD, -0,39% 24h, -2,69% seit Kauf); ADA weiterhin +6,7% 24h ohne neuen bestaetigten Katalysator; kein Trade, keine ueberzeugende Gelegenheit (Wochenende, nur Krypto handelbar)",
         "portfolioValue": 681.19
+      },
+      {
+        "time": "16:10",
+        "note": "BTC-Kursupdate per CoinGecko-API (82.714 USD, -0,07% 24h, -2,73% seit Kauf); ADA weiterhin +7,4% 24h ohne neuen bestaetigten Katalysator; kein Trade, keine ueberzeugende Gelegenheit (Wochenende, nur Krypto handelbar)",
+        "portfolioValue": 680.89
       }
     ]
   }
