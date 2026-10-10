@@ -8559,5 +8559,22 @@
         "portfolioValue": 683.28
       }
     ]
+  },
+  {
+    "date": "2026-10-11",
+    "marketOverview": "BTC bei ca. 82.972 USD (24h +0,67% laut CoinGecko-API), weiterhin ruhige Konsolidierung am Sonntagabend. ADA faellt mit +5,3% in 24h auf, jedoch ohne mehrfach bestaetigten frischen Katalysator auffindbar. SOL +1,4%, ETH +1,1% - insgesamt kein breiter Risk-on- oder Risk-off-Impuls erkennbar. Aktien/ETFs/Rohstoffe bleiben am Sonntag nicht handelbar.",
+    "decision": "Tagesbudget gutgeschrieben (+1.000 EUR). Kein Trade in diesem Lauf: BTC-Position (pos-0018) bei -2,43% seit Kauf, klar innerhalb der Toleranz, kein Stop-Loss ausgeloest. Keine ueberzeugende, mehrfach bestaetigte neue Gelegenheit identifiziert (ADA-Anstieg ohne bestaetigten Katalysator). Freies Kapital (~66.638 EUR) bleibt ungenutzt.",
+    "reasoning": "Kein Trade in diesem Lauf: BTC-Position (pos-0018) bei -2,43% seit Kauf, klar innerhalb der Toleranz, kein Stop-Loss ausgeloest. ADA-Rallye (+5,3% 24h) ohne bestaetigten frischen Katalysator wird nicht als ueberzeugende Gelegenheit gewertet. Freies Kapital bleibt ungenutzt.",
+    "positionIds": [
+      "pos-0018"
+    ],
+    "portfolioValueEnd": 683.02,
+    "updates": [
+      {
+        "time": "00:09",
+        "note": "Tagesbudget gutgeschrieben (+1.000 EUR); BTC-Kursupdate per CoinGecko-API (82.972 USD, +0,67% 24h, -2,43% seit Kauf); ADA +5,3% 24h ohne bestaetigten Katalysator; kein Trade, keine ueberzeugende Gelegenheit (Sonntagnacht, nur Krypto handelbar)",
+        "portfolioValue": 683.02
+      }
+    ]
   }
 ]
