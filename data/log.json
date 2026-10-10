@@ -8430,13 +8430,13 @@
   },
   {
     "date": "2026-10-10",
-    "marketOverview": "Wochenende, 05:07 Uhr MESZ: Aktien/ETFs/Rohstoffe weiterhin geschlossen, nur Krypto handelbar. Bitcoin notiert laut CoinGecko-Live-API bei 82.545 USD (+0,58% in 24h), damit unveraendert im engen Seitwaertsband der letzten Stunden (82.500-82.620 USD). Naechster grosser Katalysator bleibt laut Marktausblick die Fed-Entscheidung am 28.10. (Markt preist aktuell >70% Wahrscheinlichkeit eines weiteren Zinsschritts ein), was Risikoappetit kurzfristig daempft. ADA zeigt mit weiterhin ca. +8% in 24h die staerkste Altcoin-Bewegung, jedoch ohne einen frischen, mehrfach unabhaengig bestaetigten und datierten Einzelkatalysator (reine Sentiment-Bewegung, aehnlich der bereits am 07.10. per Stop-Loss beendeten ADA-Position) - gezielte Suche nach einer konkreten Nachricht blieb erneut ergebnislos.",
-    "decision": "Tagesbudget wurde bereits um 00:09 Uhr gutgeschrieben (lastGrantDate=2026-10-10, keine erneute Gutschrift in diesem Lauf). Offene Position pos-0018 (BTC) auf aktuellen Kurs aktualisiert (82.545 USD, -2,93% seit Kauf). Kein Trade: BTC bewegt sich weiterhin seitwaerts ohne neuen Katalysator, ADA-Spike bleibt unbestaetigt; freies Kapital (ca. 65.638 EUR) bleibt unangetastet verfuegbar.",
-    "reasoning": "Spekulatives Risikoprofil erlaubt kurzfristiges Handeln, aber weder BTC (Seitwaertsband) noch ADA (unbestaetigter Sentiment-Spike) erreichen die Schwelle eines bestaetigten, mehrfach belegten Ausbruchs oder institutionellen Katalysators wie bei frueheren erfolgreichen Trades (AVAX/NYSE, QNT/Clearing House). Ohne verlaessliche frische Nachrichtenlage wird auf Nummer sicher gegangen und kein neues Kapital eingesetzt.",
+    "marketOverview": "Wochenende, 06:08 Uhr MESZ: Aktien/ETFs/Rohstoffe weiterhin geschlossen, nur Krypto handelbar. Bitcoin notiert je nach Quelle zwischen ca. 82.100 und 83.800 USD, Tendenz leicht schwaecher nach Meldungen ueber Long-Liquidationen von rund 487 Mio. USD in den letzten Tagen - insgesamt ein vorsichtiger, leicht risikoaverser Krypto-Markt vor der naechsten Fed-Entscheidung am 28.10. Fuer Solana, Ethereum und Altcoins keine neuen, mehrfach unabhaengig bestaetigten und datierten Einzelkatalysator-Meldungen fuer heute auffindbar; die zuvor beobachtete ADA-Staerke liess bereits in den Vorlaeufen nach. Kein belastbarer frischer Ausbruch oder institutioneller Trigger identifizierbar.",
+    "decision": "Tagesbudget wurde bereits um 00:09 Uhr gutgeschrieben (lastGrantDate=2026-10-10, keine erneute Gutschrift in diesem Lauf). Offene Position pos-0018 (BTC) auf aktuellen Kurs aktualisiert (82.400 USD, -3,10% seit Kauf). Kein Trade: BTC bewegt sich weiterhin seitwaerts/leicht schwaecher ohne neuen bestaetigten Katalysator; freies Kapital (ca. 65.638 EUR) bleibt unangetastet verfuegbar.",
+    "reasoning": "Spekulatives Risikoprofil erlaubt kurzfristiges Handeln, aber ohne einen frischen, mehrfach unabhaengig bestaetigten Ausbruch oder institutionellen Katalysator (wie z.B. bei AVAX/NYSE, QNT/Clearing House) wird auf Nummer sicher gegangen und kein neues Kapital eingesetzt. Die bestehende BTC-Position liegt mit -3,10% noch deutlich innerhalb der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%) und wird daher weiter gehalten.",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 679.5,
+    "portfolioValueEnd": 678.31,
     "updates": [
       {
         "time": "00:09",
@@ -8467,6 +8467,11 @@
         "time": "05:07",
         "note": "BTC-Kursupdate per CoinGecko-API (82.545 USD, +0,58% 24h, -2,93% seit Kauf); ADA weiterhin +8% ohne bestaetigten Katalysator; kein Trade, keine ueberzeugende Gelegenheit (Wochenende, nur Krypto handelbar)",
         "portfolioValue": 679.5
+      },
+      {
+        "time": "06:08",
+        "note": "BTC-Kursupdate (ca. 82.400 USD, leicht schwaecher nach juengsten Long-Liquidationen, -3,10% seit Kauf); kein neuer bestaetigter Katalysator fuer BTC oder Altcoins; kein Trade, keine ueberzeugende Gelegenheit (Wochenende, nur Krypto handelbar)",
+        "portfolioValue": 678.31
       }
     ]
   }
