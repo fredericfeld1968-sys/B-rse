@@ -8430,13 +8430,13 @@
   },
   {
     "date": "2026-10-10",
-    "marketOverview": "Wochenende (Samstag): Aktien, ETFs und Rohstoffe nicht handelbar. Bitcoin notiert stabil bei ca. 82.761 USD (+0,21% in 24h), nachdem die Woche mit einem Schluss bei rund 82.100 USD beendet wurde. Kein neuer bestaetigter institutioneller oder struktureller Krypto-Katalysator erkennbar; Markt wartet auf die Fed-Zinsentscheidung am 28.10. und bleibt nach der juengsten Risk-off-Phase (Nahost-Eskalation, Long-Liquidationen) vorsichtig seitwaerts.",
-    "decision": "Kein Trade in diesem Lauf: BTC-Position (pos-0018) bei -2,67% seit Kauf, deutlich innerhalb der Toleranz, kein Stop-Loss ausgeloest. Keine ueberzeugende neue Gelegenheit fuer eine Kryptoposition gefunden (Aktien/ETFs/Rohstoffe am Wochenende nicht handelbar). Freies Kapital bleibt ungenutzt.",
-    "reasoning": "BTC-Kurs seitwaerts stabil ohne neuen Katalysator; bestehende Position wird unveraendert gehalten. Keine frischen institutionellen oder technischen Ausbruchssignale bei Altcoins mit mehrfacher unabhaengiger Bestaetigung gefunden, daher kein Neukauf.",
+    "marketOverview": "Wochenende (Samstag), Vormittag: Aktien, ETFs und Rohstoffe weiterhin nicht handelbar. Bitcoin notiert nahezu unveraendert bei ca. 82.786 USD (+0,33% in 24h). Cardano (ADA) legt erneut rund +7,2% in 24h zu, jedoch weiterhin ohne mehrfach unabhaengig bestaetigten fundamentalen Katalysator (nur aeltere/undatierte Quellen auffindbar). Kein neuer struktureller Krypto-Treiber erkennbar; Markt bleibt vor der Fed-Sitzung am 28.10. vorsichtig seitwaerts.",
+    "decision": "Kein Trade in diesem Lauf: BTC-Position (pos-0018) bei -2,65% seit Kauf, innerhalb der Toleranz, kein Stop-Loss ausgeloest. ADA-Anstieg (+7,2%) erneut ohne bestaetigten Katalysator, daher kein Neukauf. Freies Kapital bleibt ungenutzt.",
+    "reasoning": "BTC seitwaerts ohne neuen Katalysator, bestehende Position unveraendert gehalten. Keine frischen, mehrfach unabhaengig bestaetigten institutionellen oder technischen Ausbruchssignale bei Altcoins gefunden (ADA-Spike bleibt unbestaetigt); Aktien/ETFs/Rohstoffe am Wochenende nicht handelbar.",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 681.28,
+    "portfolioValueEnd": 681.49,
     "updates": [
       {
         "time": "00:09",
@@ -8492,6 +8492,11 @@
         "time": "10:08",
         "note": "BTC-Kursupdate per CoinGecko (82.761 USD, +0,21% 24h, -2,67% seit Kauf); kein neuer bestaetigter Katalysator; kein Trade, keine ueberzeugende Gelegenheit (Wochenende, nur Krypto handelbar)",
         "portfolioValue": 681.28
+      },
+      {
+        "time": "11:07",
+        "note": "BTC-Kursupdate per CoinGecko-API (82.786 USD, +0,33% 24h, -2,65% seit Kauf); ADA weiterhin +7,2% 24h ohne bestaetigten Katalysator; kein Trade, keine ueberzeugende Gelegenheit (Wochenende, nur Krypto handelbar)",
+        "portfolioValue": 681.49
       }
     ]
   }
