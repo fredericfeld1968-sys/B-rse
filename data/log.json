@@ -8430,13 +8430,13 @@
   },
   {
     "date": "2026-10-10",
-    "marketOverview": "Wochenende, 09:08 Uhr MESZ: Aktien/ETFs/Rohstoffe weiterhin geschlossen, nur Krypto handelbar. Bitcoin notiert laut Coinbase/Kraken-Live-Kurs bei ca. 82.620-82.630 USD (Wochenschluss Freitag bei 82.123 USD, -2,8% auf Wochensicht), weiterhin im engen Seitwaerts-Band ohne klaren Trend (RSI unter 50, Analysten sehen Unterstuetzung bei 80.000 USD und Widerstand bei 82.800-83.000 USD). Belastend bleiben hohe Oelpreise, Fed-Zinserwartungen, Nahost-Spannungen sowie ueber 700 Mio. USD Bitcoin-ETF-Abfluesse in der vergangenen Woche und eine Ledger-Untersuchung zu moeglicherweise fehlenden Krypto-Bestaenden bei ueber ein Reseller verkauften Geraeten (86-93 Mio. USD, unbestaetigt). Cardano (ADA) zeigt mit +4,2% 24h weiterhin die staerkste relative Bewegung unter den Majors, jedoch ohne eine frische, mehrfach unabhaengig bestaetigte Nachrichtenquelle (bereits im vorherigen Lauf als unbestaetigtes Signal eingestuft). ETH, SOL, XRP, AVAX und LINK zeigen nur leichte Bewegungen (<2%). Kein neuer bestaetigter Einzelkatalysator fuer BTC oder Altcoins erkennbar; das Marktumfeld bleibt insgesamt vorsichtig/schwach, daher kein ueberzeugendes Setup fuer einen Neueinstieg.",
-    "decision": "Tagesbudget wurde bereits um 00:09 Uhr gutgeschrieben (lastGrantDate=2026-10-10, keine erneute Gutschrift in diesem Lauf). Offene Position pos-0018 (BTC) auf aktuellen Kurs aktualisiert (82.622,58 USD, -2,84% seit Kauf von 85.035 USD) - weiterhin deutlich innerhalb der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%), daher gehalten. Kein Trade: ADA-Bewegung (+4,2%) weiterhin ohne bestaetigten Katalysator, Gesamtmarkt schwach/vorsichtig (Oel, Fed, Nahost, ETF-Abfluesse); freies Kapital (ca. 65.638 EUR) bleibt unangetastet verfuegbar.",
-    "reasoning": "Spekulatives Risikoprofil erlaubt kurzfristiges Handeln, aber nur bei einer wirklich ueberzeugenden, mehrfach bestaetigten Gelegenheit. Am Wochenende sind nur Kryptowaehrungen handelbar. Die einzige auffaellige Bewegung (ADA +4,2% 24h) liess sich erneut durch keine frische, unabhaengig bestaetigte Nachrichtenquelle untermauern, und das makrooekonomische Umfeld (hohe Oelpreise, Fed-Zinserwartungen, Nahost-Eskalation, ETF-Abfluesse, Ledger-Sicherheitsvorfall) spricht insgesamt fuer Vorsicht statt Neuengagement. Die bestehende BTC-Position liegt mit -2,84% noch deutlich innerhalb der etablierten Risikoschwelle und wird daher unveraendert weitergehalten.",
+    "marketOverview": "Wochenende (Samstag): Aktien, ETFs und Rohstoffe nicht handelbar. Bitcoin notiert stabil bei ca. 82.761 USD (+0,21% in 24h), nachdem die Woche mit einem Schluss bei rund 82.100 USD beendet wurde. Kein neuer bestaetigter institutioneller oder struktureller Krypto-Katalysator erkennbar; Markt wartet auf die Fed-Zinsentscheidung am 28.10. und bleibt nach der juengsten Risk-off-Phase (Nahost-Eskalation, Long-Liquidationen) vorsichtig seitwaerts.",
+    "decision": "Kein Trade in diesem Lauf: BTC-Position (pos-0018) bei -2,67% seit Kauf, deutlich innerhalb der Toleranz, kein Stop-Loss ausgeloest. Keine ueberzeugende neue Gelegenheit fuer eine Kryptoposition gefunden (Aktien/ETFs/Rohstoffe am Wochenende nicht handelbar). Freies Kapital bleibt ungenutzt.",
+    "reasoning": "BTC-Kurs seitwaerts stabil ohne neuen Katalysator; bestehende Position wird unveraendert gehalten. Keine frischen institutionellen oder technischen Ausbruchssignale bei Altcoins mit mehrfacher unabhaengiger Bestaetigung gefunden, daher kein Neukauf.",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 680.14,
+    "portfolioValueEnd": 681.28,
     "updates": [
       {
         "time": "00:09",
@@ -8487,6 +8487,11 @@
         "time": "09:08",
         "note": "BTC-Kursupdate per Coinbase/Kraken (82.622,58 USD, -2,84% seit Kauf); Bitcoin schloss die Woche bei 82.123 USD (-2,8%), ADA weiterhin +4,2% ohne bestaetigten Katalysator; Marktumfeld vorsichtig (Oel, Fed, Nahost, ETF-Abfluesse); kein Trade, keine ueberzeugende Gelegenheit (Wochenende, nur Krypto handelbar)",
         "portfolioValue": 680.14
+      },
+      {
+        "time": "10:08",
+        "note": "BTC-Kursupdate per CoinGecko (82.761 USD, +0,21% 24h, -2,67% seit Kauf); kein neuer bestaetigter Katalysator; kein Trade, keine ueberzeugende Gelegenheit (Wochenende, nur Krypto handelbar)",
+        "portfolioValue": 681.28
       }
     ]
   }
