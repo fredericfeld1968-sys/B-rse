@@ -8430,13 +8430,13 @@
   },
   {
     "date": "2026-10-10",
-    "marketOverview": "Wochenende, 04:08 Uhr MESZ: Aktien/ETFs/Rohstoffe weiterhin geschlossen, nur Krypto handelbar. Bitcoin notiert laut CoinGecko-Live-API bei 82.620 USD (+0,71% in 24h), damit weiterhin im engen Seitwaertsband der letzten Stunden (82.500-82.620 USD). Laut CoinDesk/Investing.com stabilisiert sich BTC nach Trumps Zusage, Iran vor den US-Midterms (03.11.) nicht anzugreifen (Brent -1% auf ca. 103 USD), waehrend anhaltende Spot-ETF-Abfluesse (487 Mio. USD) und hohe Anleiherenditen weiter belasten (QCP-Prognose: Q4-Range 80.000-90.000 USD). ADA zeigt mit +8,2% in 24h die staerkste Altcoin-Bewegung, jedoch ohne einen frischen, mehrfach unabhaengig bestaetigten und datierten Einzelkatalysator (reine Sentiment-Bewegung, aehnlich der bereits am 07.10. per Stop-Loss beendeten ADA-Position).",
-    "decision": "Tagesbudget wurde bereits um 00:09 Uhr gutgeschrieben (lastGrantDate=2026-10-10, keine erneute Gutschrift in diesem Lauf). Offene Position pos-0018 (BTC) auf aktuellen Kurs aktualisiert (82.620 USD, -2,84% seit Kauf). Kein Trade: BTC bewegt sich seitwaerts ohne neuen Katalysator, ADA-Spike ohne bestaetigten Grund wird nicht gehandelt (Lehre aus der gescheiterten ADA-Position vom 07.10.); freies Kapital bleibt unangetastet verfuegbar.",
+    "marketOverview": "Wochenende, 05:07 Uhr MESZ: Aktien/ETFs/Rohstoffe weiterhin geschlossen, nur Krypto handelbar. Bitcoin notiert laut CoinGecko-Live-API bei 82.545 USD (+0,58% in 24h), damit unveraendert im engen Seitwaertsband der letzten Stunden (82.500-82.620 USD). Naechster grosser Katalysator bleibt laut Marktausblick die Fed-Entscheidung am 28.10. (Markt preist aktuell >70% Wahrscheinlichkeit eines weiteren Zinsschritts ein), was Risikoappetit kurzfristig daempft. ADA zeigt mit weiterhin ca. +8% in 24h die staerkste Altcoin-Bewegung, jedoch ohne einen frischen, mehrfach unabhaengig bestaetigten und datierten Einzelkatalysator (reine Sentiment-Bewegung, aehnlich der bereits am 07.10. per Stop-Loss beendeten ADA-Position) - gezielte Suche nach einer konkreten Nachricht blieb erneut ergebnislos.",
+    "decision": "Tagesbudget wurde bereits um 00:09 Uhr gutgeschrieben (lastGrantDate=2026-10-10, keine erneute Gutschrift in diesem Lauf). Offene Position pos-0018 (BTC) auf aktuellen Kurs aktualisiert (82.545 USD, -2,93% seit Kauf). Kein Trade: BTC bewegt sich weiterhin seitwaerts ohne neuen Katalysator, ADA-Spike bleibt unbestaetigt; freies Kapital (ca. 65.638 EUR) bleibt unangetastet verfuegbar.",
     "reasoning": "Spekulatives Risikoprofil erlaubt kurzfristiges Handeln, aber weder BTC (Seitwaertsband) noch ADA (unbestaetigter Sentiment-Spike) erreichen die Schwelle eines bestaetigten, mehrfach belegten Ausbruchs oder institutionellen Katalysators wie bei frueheren erfolgreichen Trades (AVAX/NYSE, QNT/Clearing House). Ohne verlaessliche frische Nachrichtenlage wird auf Nummer sicher gegangen und kein neues Kapital eingesetzt.",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 680.12,
+    "portfolioValueEnd": 679.5,
     "updates": [
       {
         "time": "00:09",
@@ -8462,6 +8462,11 @@
         "time": "04:08",
         "note": "BTC-Kursupdate per CoinGecko-API (82.620 USD, +0,71% 24h, -2,84% seit Kauf); ADA-Spike (+8,2% 24h) ohne bestaetigten Katalysator; kein Trade, keine ueberzeugende Gelegenheit (Wochenende, nur Krypto handelbar)",
         "portfolioValue": 680.12
+      },
+      {
+        "time": "05:07",
+        "note": "BTC-Kursupdate per CoinGecko-API (82.545 USD, +0,58% 24h, -2,93% seit Kauf); ADA weiterhin +8% ohne bestaetigten Katalysator; kein Trade, keine ueberzeugende Gelegenheit (Wochenende, nur Krypto handelbar)",
+        "portfolioValue": 679.5
       }
     ]
   }
