@@ -8430,13 +8430,13 @@
   },
   {
     "date": "2026-10-10",
-    "marketOverview": "Wochenende, 07:08 Uhr MESZ: Aktien/ETFs/Rohstoffe weiterhin geschlossen, nur Krypto handelbar. Bitcoin notiert laut CoinGecko-API bei 82.602 USD (+0,43% 24h), damit weiterhin im seit Stunden etablierten Seitwaerts-/leicht-schwaecheren Band ohne klare Richtung. Kein neuer, mehrfach unabhaengig bestaetigter Einzelkatalysator fuer BTC oder Altcoins auffindbar; einzig bekanntes Makrothema bleibt die anstehende Fed-Entscheidung am 28.10.",
-    "decision": "Tagesbudget wurde bereits um 00:09 Uhr gutgeschrieben (lastGrantDate=2026-10-10, keine erneute Gutschrift in diesem Lauf). Offene Position pos-0018 (BTC) auf aktuellen Kurs aktualisiert (82.602 USD, -2,86% seit Kauf). Kein Trade: weiterhin kein bestaetigter Katalysator; freies Kapital (ca. 65.640 EUR) bleibt unangetastet verfuegbar.",
-    "reasoning": "Spekulatives Risikoprofil erlaubt kurzfristiges Handeln, aber ohne einen frischen, mehrfach unabhaengig bestaetigten Ausbruch oder institutionellen Katalysator wird auf Nummer sicher gegangen und kein neues Kapital eingesetzt. Die bestehende BTC-Position liegt mit -2,86% noch deutlich innerhalb der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%) und wird daher weiter gehalten.",
+    "marketOverview": "Wochenende, 08:08 Uhr MESZ: Aktien/ETFs/Rohstoffe weiterhin geschlossen, nur Krypto handelbar. Bitcoin notiert laut CoinGecko-API bei 82.725 USD (+0,41% 24h), damit weiterhin im seit Stunden etablierten engen Seitwaerts-Band ohne klare Richtung. Cardano (ADA) zeigt mit +6,1% 24h eine auffaellige relative Staerke, jedoch ohne eine frische, mehrfach unabhaengig bestaetigte Nachrichtenquelle dafuer auffindbar - daher als unbestaetigtes Signal eingestuft. Kein neuer bestaetigter Einzelkatalysator fuer BTC oder den breiten Markt; einziges bekanntes Makrothema bleibt die anstehende Fed-Entscheidung am 28.10.",
+    "decision": "Tagesbudget wurde bereits um 00:09 Uhr gutgeschrieben (lastGrantDate=2026-10-10, keine erneute Gutschrift in diesem Lauf). Offene Position pos-0018 (BTC) auf aktuellen Kurs aktualisiert (82.725 USD, -2,72% seit Kauf). Kein Trade: ADA-Bewegung (+6,1%) ohne bestaetigten Katalysator, kein ueberzeugendes Setup; freies Kapital (ca. 65.639 EUR) bleibt unangetastet verfuegbar.",
+    "reasoning": "Spekulatives Risikoprofil erlaubt kurzfristiges Handeln, aber ohne einen frischen, mehrfach unabhaengig bestaetigten Ausbruch oder institutionellen Katalysator wird auf Nummer sicher gegangen und kein neues Kapital eingesetzt. Die bestehende BTC-Position liegt mit -2,72% noch deutlich innerhalb der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%) und wird daher weiter gehalten.",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 679.97,
+    "portfolioValueEnd": 680.98,
     "updates": [
       {
         "time": "00:09",
@@ -8477,6 +8477,11 @@
         "time": "07:08",
         "note": "BTC-Kursupdate per CoinGecko-API (82.602 USD, +0,43% 24h, -2,86% seit Kauf); kein neuer bestaetigter Katalysator fuer BTC oder Altcoins; kein Trade, keine ueberzeugende Gelegenheit (Wochenende, nur Krypto handelbar)",
         "portfolioValue": 679.97
+      },
+      {
+        "time": "08:08",
+        "note": "BTC-Kursupdate per CoinGecko-API (82.725 USD, +0,41% 24h, -2,72% seit Kauf); ADA +6,1% 24h ohne bestaetigten Katalysator; kein Trade, keine ueberzeugende Gelegenheit (Wochenende, nur Krypto handelbar)",
+        "portfolioValue": 680.98
       }
     ]
   }
