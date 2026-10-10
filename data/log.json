@@ -8430,13 +8430,13 @@
   },
   {
     "date": "2026-10-10",
-    "marketOverview": "Wochenende, 06:08 Uhr MESZ: Aktien/ETFs/Rohstoffe weiterhin geschlossen, nur Krypto handelbar. Bitcoin notiert je nach Quelle zwischen ca. 82.100 und 83.800 USD, Tendenz leicht schwaecher nach Meldungen ueber Long-Liquidationen von rund 487 Mio. USD in den letzten Tagen - insgesamt ein vorsichtiger, leicht risikoaverser Krypto-Markt vor der naechsten Fed-Entscheidung am 28.10. Fuer Solana, Ethereum und Altcoins keine neuen, mehrfach unabhaengig bestaetigten und datierten Einzelkatalysator-Meldungen fuer heute auffindbar; die zuvor beobachtete ADA-Staerke liess bereits in den Vorlaeufen nach. Kein belastbarer frischer Ausbruch oder institutioneller Trigger identifizierbar.",
-    "decision": "Tagesbudget wurde bereits um 00:09 Uhr gutgeschrieben (lastGrantDate=2026-10-10, keine erneute Gutschrift in diesem Lauf). Offene Position pos-0018 (BTC) auf aktuellen Kurs aktualisiert (82.400 USD, -3,10% seit Kauf). Kein Trade: BTC bewegt sich weiterhin seitwaerts/leicht schwaecher ohne neuen bestaetigten Katalysator; freies Kapital (ca. 65.638 EUR) bleibt unangetastet verfuegbar.",
-    "reasoning": "Spekulatives Risikoprofil erlaubt kurzfristiges Handeln, aber ohne einen frischen, mehrfach unabhaengig bestaetigten Ausbruch oder institutionellen Katalysator (wie z.B. bei AVAX/NYSE, QNT/Clearing House) wird auf Nummer sicher gegangen und kein neues Kapital eingesetzt. Die bestehende BTC-Position liegt mit -3,10% noch deutlich innerhalb der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%) und wird daher weiter gehalten.",
+    "marketOverview": "Wochenende, 07:08 Uhr MESZ: Aktien/ETFs/Rohstoffe weiterhin geschlossen, nur Krypto handelbar. Bitcoin notiert laut CoinGecko-API bei 82.602 USD (+0,43% 24h), damit weiterhin im seit Stunden etablierten Seitwaerts-/leicht-schwaecheren Band ohne klare Richtung. Kein neuer, mehrfach unabhaengig bestaetigter Einzelkatalysator fuer BTC oder Altcoins auffindbar; einzig bekanntes Makrothema bleibt die anstehende Fed-Entscheidung am 28.10.",
+    "decision": "Tagesbudget wurde bereits um 00:09 Uhr gutgeschrieben (lastGrantDate=2026-10-10, keine erneute Gutschrift in diesem Lauf). Offene Position pos-0018 (BTC) auf aktuellen Kurs aktualisiert (82.602 USD, -2,86% seit Kauf). Kein Trade: weiterhin kein bestaetigter Katalysator; freies Kapital (ca. 65.640 EUR) bleibt unangetastet verfuegbar.",
+    "reasoning": "Spekulatives Risikoprofil erlaubt kurzfristiges Handeln, aber ohne einen frischen, mehrfach unabhaengig bestaetigten Ausbruch oder institutionellen Katalysator wird auf Nummer sicher gegangen und kein neues Kapital eingesetzt. Die bestehende BTC-Position liegt mit -2,86% noch deutlich innerhalb der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%) und wird daher weiter gehalten.",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 678.31,
+    "portfolioValueEnd": 679.97,
     "updates": [
       {
         "time": "00:09",
@@ -8472,6 +8472,11 @@
         "time": "06:08",
         "note": "BTC-Kursupdate (ca. 82.400 USD, leicht schwaecher nach juengsten Long-Liquidationen, -3,10% seit Kauf); kein neuer bestaetigter Katalysator fuer BTC oder Altcoins; kein Trade, keine ueberzeugende Gelegenheit (Wochenende, nur Krypto handelbar)",
         "portfolioValue": 678.31
+      },
+      {
+        "time": "07:08",
+        "note": "BTC-Kursupdate per CoinGecko-API (82.602 USD, +0,43% 24h, -2,86% seit Kauf); kein neuer bestaetigter Katalysator fuer BTC oder Altcoins; kein Trade, keine ueberzeugende Gelegenheit (Wochenende, nur Krypto handelbar)",
+        "portfolioValue": 679.97
       }
     ]
   }
