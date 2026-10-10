@@ -8430,13 +8430,13 @@
   },
   {
     "date": "2026-10-10",
-    "marketOverview": "BTC bei ca. 83.028 USD (24h +0,92% laut CoinGecko-API), -2,36% seit Kauf (pos-0018), weiterhin ruhiges Wochenende mit geringer Volatilitaet und seitwaertsgerichtetem Markt. Keine frische, mehrfach unabhaengig bestaetigte Altcoin- oder Marktnachricht auffindbar. Fed-Zinsentscheidung am 27.-28.10. bleibt laut Prognosen/Wettmaerkten umstritten (Halten vs. erneute Anhebung), ohne klaren neuen Trigger seit dem letzten Lauf. Aktien/ETFs/Rohstoffe bleiben am Samstagabend nicht handelbar.",
-    "decision": "Kein Trade in diesem Lauf: BTC-Position (pos-0018) bei -2,36% seit Kauf, klar innerhalb der Toleranz, kein Stop-Loss ausgeloest. Keine ueberzeugende, mehrfach bestaetigte neue Gelegenheit identifiziert. Freies Kapital (~65.638 EUR) bleibt ungenutzt.",
-    "reasoning": "Kein Trade in diesem Lauf: BTC-Position (pos-0018) bei -2,36% seit Kauf, klar innerhalb der Toleranz, kein Stop-Loss ausgeloest. Keine ueberzeugende, mehrfach bestaetigte neue Gelegenheit identifiziert. Freies Kapital bleibt ungenutzt.",
+    "marketOverview": "BTC bei ca. 83.004 USD (24h +0,60% laut CoinGecko-API), -2,39% seit Kauf (pos-0018), weiterhin ruhiges Wochenende mit geringer Volatilitaet. Keine frische, mehrfach unabhaengig bestaetigte Altcoin- oder Marktnachricht auffindbar (ADA-Rallye ohne bestaetigten Katalysator, Fed-Zinsentscheidung erst am 27.-28.10.). Aktien/ETFs/Rohstoffe bleiben am Samstagabend/in der Nacht nicht handelbar.",
+    "decision": "Kein Trade in diesem Lauf: BTC-Position (pos-0018) bei -2,39% seit Kauf, klar innerhalb der Toleranz, kein Stop-Loss ausgeloest. Keine ueberzeugende, mehrfach bestaetigte neue Gelegenheit identifiziert. Freies Kapital (~65.638 EUR) bleibt ungenutzt.",
+    "reasoning": "Kein Trade in diesem Lauf: BTC-Position (pos-0018) bei -2,39% seit Kauf, klar innerhalb der Toleranz, kein Stop-Loss ausgeloest. Keine ueberzeugende, mehrfach bestaetigte neue Gelegenheit identifiziert. Freies Kapital bleibt ungenutzt.",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 683.48,
+    "portfolioValueEnd": 683.28,
     "updates": [
       {
         "time": "00:09",
@@ -8552,6 +8552,11 @@
         "time": "22:09",
         "note": "BTC-Kursupdate per CoinGecko-API (83.028 USD, +0,92% 24h, -2,36% seit Kauf); Websuche findet keinen frischen, mehrfach bestaetigten Altcoin-Katalysator; kein Trade, keine ueberzeugende Gelegenheit (Samstagabend, nur Krypto handelbar)",
         "portfolioValue": 683.48
+      },
+      {
+        "time": "23:07",
+        "note": "BTC-Kursupdate per CoinGecko-API (83.004 USD, +0,60% 24h, -2,39% seit Kauf); keine frische bestaetigte Altcoin-Nachricht; kein Trade, keine ueberzeugende Gelegenheit (Samstagabend, nur Krypto handelbar)",
+        "portfolioValue": 683.28
       }
     ]
   }
