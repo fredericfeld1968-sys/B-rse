@@ -8562,13 +8562,13 @@
   },
   {
     "date": "2026-10-11",
-    "marketOverview": "Sonntagabend (19:11 CEST), weiterhin nur Krypto handelbar (Aktien/ETFs/Rohstoffe am Wochenende geschlossen). BTC notiert via CoinGecko-API bei 83.712 USD (+0,87% 24h) - praktisch unveraendert ggue. dem letzten Lauf (83.706 USD). Unter den Top-30-Coins nach Marktkapitalisierung fuehren NEAR (+7,7% 24h) und AVAX (+4,1% 24h) die Tagesgewinner an, beide jedoch ohne neuen, heute datierten Katalysator - die zugrunde liegenden Treiber (NEAR: Short-Squeeze/AI-Rotation/Venice-AI-Partnerschaft; Zcash-Privacy-Rally) stammen bereits aus fruehen Oktober-Berichten und sind laengst eingepreist. STRK rallyt weiter (+33% 24h), aber weiterhin ohne frischen bestaetigten Katalysator und mit Unlock-Risiko am 15.10. Keine ueberzeugende neue Kaufgelegenheit identifiziert.",
-    "decision": "Tagesbudget bereits heute (00:09) gutgeschrieben, daher keine weitere Gutschrift in diesem Lauf. Kein Trade: BTC-Position (pos-0018) bei -1,56% seit Kauf, klar innerhalb der Stop-Loss-Toleranz (-6,5 bis -7,5%), wird gehalten. Weder STRK-Rally noch die Tagesgewinner NEAR/AVAX/ZEC bieten einen frischen, unabhaengig bestaetigten Katalysator - die genannten Treiber sind bereits bekannt und eingepreist. Freies Kapital (~66.638 EUR) bleibt ungenutzt.",
-    "reasoning": "Live-Kursabfrage (CoinGecko-API) sowie gezielte Websuche zu den aktuellen Tagesgewinnern (NEAR, Zcash) und zu Starknet bestaetigen keine neue, mehrfach unabhaengig belegte Gelegenheit seit dem letzten Lauf. Die Bewegungen bei NEAR (+7,7%) und AVAX (+4,1%) sind moderat und ohne frischen Einzelkatalysator; die Zcash-Privacy-Rally sowie das NEAR-Short-Squeeze-Narrativ stammen aus Berichten von Anfang Oktober und sind damit bereits vollstaendig eingepreist. Das Risiko/Ertrags-Verhaeltnis bleibt fuer einen spekulativen Neukauf unguenstig. BTC-Position bleibt klar innerhalb der Halteschwelle, daher keine Aenderung.",
+    "marketOverview": "Sonntagabend (20:08 CEST), weiterhin nur Krypto handelbar (Aktien/ETFs/Rohstoffe am Wochenende geschlossen). BTC notiert via CoinGecko-API bei 83.800 USD (+0,91% 24h), damit praktisch unveraendert ggue. dem letzten Lauf. Top-Tagesgewinner unter den groesseren Coins: ENA (+8,0%), NEAR (+7,7%) und CC (+7,1%) - fuer keinen davon liess sich ein frischer, heute datierter, unabhaengig bestaetigter Katalysator finden (ENA-Artikel sind ueberwiegend aelter/undatiert, NEAR-Treiber bereits bekannt). STRK rallyt weiter, Unlock am 15.10. laut Berichten aber bereits weitgehend eingepreist. Keine ueberzeugende neue Kaufgelegenheit identifiziert.",
+    "decision": "Tagesbudget bereits heute (00:09) gutgeschrieben, daher keine weitere Gutschrift in diesem Lauf. Kein Trade: BTC-Position (pos-0018) bei -1,45% seit Kauf, klar innerhalb der Stop-Loss-Toleranz (-6,5 bis -7,5%), wird gehalten. Weder ENA, NEAR, CC noch STRK bieten einen frischen, unabhaengig bestaetigten Katalysator fuer einen spekulativen Neukauf. Freies Kapital (~66.639 EUR) bleibt ungenutzt.",
+    "reasoning": "Live-Kursabfrage (CoinGecko-API, Markets-Endpoint fuer Top-50 nach Marktkapitalisierung) sowie gezielte Websuche zu den aktuellen Tagesgewinnern (ENA, STRK-Unlock) bestaetigen keine neue, mehrfach unabhaengig belegte Gelegenheit seit dem letzten Lauf. Das Risiko/Ertrags-Verhaeltnis bleibt fuer einen spekulativen Neukauf unguenstig. BTC-Position bleibt klar innerhalb der Halteschwelle, daher keine Aenderung.",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 689.11,
+    "portfolioValueEnd": 689.84,
     "updates": [
       {
         "time": "00:09",
@@ -8669,6 +8669,11 @@
         "time": "19:11",
         "note": "Kein Trade, BTC-Kursupdate via CoinGecko-API (83.712 USD, +0,87% 24h, -1,56% seit Kauf); Tagesgewinner NEAR (+7,7%) und AVAX (+4,1%) ohne frischen Katalysator, STRK-Rally weiterhin ohne frischen Katalysator",
         "portfolioValue": 689.11
+      },
+      {
+        "time": "20:08",
+        "note": "Kein Trade, BTC-Kursupdate via CoinGecko-API (83.800 USD, +0,91% 24h, -1,45% seit Kauf); Tagesgewinner ENA (+8,0%)/NEAR (+7,7%)/CC (+7,1%) ohne frischen bestaetigten Katalysator, STRK-Unlock (15.10.) laut Berichten bereits eingepreist",
+        "portfolioValue": 689.84
       }
     ]
   }
