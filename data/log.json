@@ -8562,13 +8562,13 @@
   },
   {
     "date": "2026-10-11",
-    "marketOverview": "Sonntagabend/Nacht, Boersen (Aktien/ETFs/Rohstoffe) weiterhin geschlossen, nur Krypto handelbar. Bitcoin stabil bei ca. 83.600 USD (+0,70% 24h), Ethereum ~2.534 USD, Solana ~111 USD - ruhiger, leicht risikofreudiger Krypto-Markt. ZEC bleibt mit +4,1% 24h staerkster Mover (Grayscale-ZCSH-ETF-Thema, bereits seit Tagen bekannt), ENA +8,8% ohne neuen Katalysator.",
-    "decision": "Tagesbudget bereits heute (00:09) gutgeschrieben, daher keine weitere Gutschrift in diesem Lauf. Kein Trade: BTC-Position (pos-0018) bei -1,45% seit Kauf, klar innerhalb der Stop-Loss-Toleranz (-6,5 bis -7,5%), wird gehalten. Weder ENA, NEAR, CC noch STRK bieten einen frischen, unabhaengig bestaetigten Katalysator fuer einen spekulativen Neukauf. Freies Kapital (~66.639 EUR) bleibt ungenutzt. Lauf 21:09: Tagesbudget bereits heute (00:09) gutgeschrieben, keine weitere Gutschrift. BTC-Position (pos-0018) auf 83.594 USD aktualisiert (-1,69% seit Kauf, weiterhin klar innerhalb der Stop-Loss-Toleranz von -6,5 bis -7,5%), wird gehalten. Kein neuer Kauf: ZEC- und ENA-Bewegungen sind bereits bekannte, eingepreiste Themen ohne frischen Katalysator; freies Kapital (~66.638 EUR) bleibt ungenutzt. Lauf 22:07: BTC-Position (pos-0018) auf 83.609 USD aktualisiert (-1,68% seit Kauf, weiterhin klar innerhalb der Stop-Loss-Toleranz von -6,5 bis -7,5%), wird gehalten. Kein neuer Kauf: ZEC-Rally ist das bekannte, bereits eingepreiste Grayscale-ETF-Thema ohne frischen Katalysator; freies Kapital bleibt ungenutzt.",
-    "reasoning": "Spekulatives Risikoprofil mit erlaubtem kurzfristigem Trading, aber ausserhalb der Boersenzeiten am Sonntagabend ist ohnehin nur Krypto bewegbar. BTC-Position liegt mit -1,69% deutlich innerhalb der Halte-Toleranz, kein Grund zum Verkauf. Fuer einen Neukauf fehlt ein wirklich ueberzeugender, frischer Katalysator: ZEC (Privacy-Coin-Rally) und ENA (Fee-Switch/Buybacks, Unlock) sind beide bereits mehrfach in den letzten Tagen eingepreiste Narrative ohne neue Nachricht in den letzten Stunden. Keine Position verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "marketOverview": "Sonntagnacht, Boersen (Aktien/ETFs/Rohstoffe) weiterhin geschlossen, nur Krypto handelbar. Bitcoin nahezu unveraendert bei ca. 83.507 USD (+0,61% 24h), Ethereum ~2.532 USD, Solana ~111 USD - ruhiger, leicht risikofreudiger Krypto-Markt ohne grosse Bewegungen. ENA (+5,9% 24h) und AVAX (+3,8% 24h) staerkste Mover, aber beide ohne frischen, unabhaengig bestaetigten Katalysator ueber bereits bekannte Themen hinaus.",
+    "decision": "Tagesbudget bereits heute (00:09) gutgeschrieben, daher keine weitere Gutschrift in diesem Lauf. Kein Trade: BTC-Position (pos-0018) bei -1,80% seit Kauf, klar innerhalb der Stop-Loss-Toleranz (-6,5 bis -7,5%), wird gehalten. Weder ENA noch AVAX bieten einen frischen, unabhaengig bestaetigten Katalysator fuer einen Neukauf; der Krypto-Markt bleibt am Sonntagabend insgesamt ruhig.",
+    "reasoning": "Spekulatives Risikoprofil mit erlaubtem kurzfristigem Trading, aber ausserhalb der Boersenzeiten am Sonntagabend ist ohnehin nur Krypto bewegbar. BTC-Position liegt mit -1,80% deutlich innerhalb der Halte-Toleranz, kein Grund zum Verkauf. Fuer einen Neukauf fehlt weiterhin ein wirklich ueberzeugender, frisch bestaetigter Katalysator - die beobachteten Mover (ENA, AVAX) sind bereits bekannte, eingepreiste Themen ohne neue Nachrichtenlage.",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 688.26,
+    "portfolioValueEnd": 687.42,
     "updates": [
       {
         "time": "00:09",
@@ -8684,6 +8684,11 @@
         "time": "22:07",
         "note": "Kein Trade, BTC-Kursupdate via CoinGecko-API (83.609 USD, +0,70% 24h, -1,68% seit Kauf); ZEC (+4,1%) weiterhin Grayscale-ZCSH-ETF-Thema (bereits bekannt/eingepreist), ENA (+8,8%) ohne frischen Katalysator",
         "portfolioValue": 688.26
+      },
+      {
+        "time": "23:08",
+        "note": "Kein Trade, BTC-Kursupdate via CoinGecko-API (83.507 USD, +0,61% 24h, -1,80% seit Kauf); ENA (+5,9%)/AVAX (+3,8%) ohne frischen Katalysator, Markt insgesamt ruhig am Sonntagabend",
+        "portfolioValue": 687.42
       }
     ]
   }
