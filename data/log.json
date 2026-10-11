@@ -8562,13 +8562,13 @@
   },
   {
     "date": "2026-10-11",
-    "marketOverview": "Sonntagfrueh, weiterhin nur Krypto handelbar (Aktien/ETFs/Rohstoffe geschlossen). BTC via CoinGecko-API bei 82.777 USD (+0,17% 24h), SOL 109,09 USD (-0,67%), ETH 2.497,55 USD (+0,21%), LINK 12,87 USD (+0,30%), ADA 0,2457 USD (-2,25%), XRP 1,39 USD (-1,18%) - insgesamt ruhiger, leicht gemischter Seitwaerts-Grind. Marktberichte sprechen von einer auslaufenden Oktober-Rally nach dem 10.10.-Flash-Crash-Jahrestag; staerkster Fokus liegt auf der Fed-Sitzung am 27.-28.10., keine frische, mehrfach bestaetigte preisrelevante Nachricht fuer heute Nacht gefunden.",
-    "decision": "Tagesbudget bereits heute (00:09) gutgeschrieben. Kein Trade in diesem Lauf: BTC-Position (pos-0018) bei -2,66% seit Kauf, klar innerhalb der Stop-Loss-Toleranz. Keine neue, mehrfach bestaetigte Gelegenheit identifiziert. Freies Kapital (~66.638 EUR) bleibt ungenutzt.",
-    "reasoning": "CoinGecko-Live-API direkt abgefragt (BTC 82.777 USD, +0,17% 24h) als verlaessliche Quelle. Websuche nach aktuellen Krypto-Katalysatoren ergab nur Rueckblicke (10.10.-Flash-Crash-Jahrestag, auslaufende Oktober-Rally) und mittelfristige Themen (Fed-Sitzung 27.-28.10.) ohne klaren, mehrfach bestaetigten Kauf-/Verkaufs-Katalysator fuer diese Nachtstunde. Stop-Loss-Schwelle (-6,5 bis -7,5%) bei pos-0018 nicht erreicht, daher unveraendert gehalten.",
+    "marketOverview": "Sonntagvormittag, weiterhin nur Krypto handelbar (Aktien/ETFs/Rohstoffe geschlossen). BTC via CoinGecko-API bei 82.980 USD (+0,45% 24h), ETH 2.507,14 USD (+0,58%), SOL 109,55 USD (-0,21%), ADA 0,2477 USD (-1,45%) - ruhiger, leicht positiver Seitwaerts-Grind ohne klare Richtung. Websuche ergab keine frische, mehrfach bestaetigte preisrelevante Nachricht; Fokus bleibt auf der Fed-Sitzung am 27.-28.10.",
+    "decision": "Tagesbudget bereits heute (00:09) gutgeschrieben. Kein Trade in diesem Lauf: BTC-Position (pos-0018) bei -2,42% seit Kauf, klar innerhalb der Stop-Loss-Toleranz. Keine neue, mehrfach bestaetigte Gelegenheit identifiziert. Freies Kapital (~66.638 EUR) bleibt ungenutzt.",
+    "reasoning": "CoinGecko-Live-API direkt abgefragt (BTC 82.980 USD, +0,45% 24h) als verlaessliche Quelle. Websuche nach aktuellen Krypto-Katalysatoren (ETF-Zufluesse, Altcoin-Breakouts, Fed/Geopolitik) ergab keine frische, mehrfach bestaetigte, preisrelevante Meldung fuer diesen Sonntagvormittag. Stop-Loss-Schwelle (-6,5 bis -7,5%) bei pos-0018 weiterhin nicht erreicht, daher unveraendert gehalten.",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 681.41,
+    "portfolioValueEnd": 683.08,
     "updates": [
       {
         "time": "00:09",
@@ -8604,6 +8604,11 @@
         "time": "06:08",
         "note": "Kein Trade, BTC-Kursupdate via CoinGecko-API (82.777 USD, -2,66% seit Kauf), kein bestaetigter Katalysator gefunden",
         "portfolioValue": 681.41
+      },
+      {
+        "time": "07:08",
+        "note": "Kein Trade, BTC-Kursupdate via CoinGecko-API (82.980 USD, -2,42% seit Kauf, +0,45% 24h), kein bestaetigter Katalysator gefunden",
+        "portfolioValue": 683.08
       }
     ]
   }
