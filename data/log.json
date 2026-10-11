@@ -8562,13 +8562,13 @@
   },
   {
     "date": "2026-10-11",
-    "marketOverview": "BTC weiterhin um ca. 83.000 USD (Konsolidierung im Bereich 83.000-86.000 USD seit Anfang Oktober), keine neue verlaessliche Live-Kursquelle fuer die letzte Stunde gefunden - juengste bestaetigte Nachrichtenlage (Fed-Protokoll vom 07.10., erhoehte Zinserhoehungs-Erwartung fuer den 28.10., Liquidationen am 08.10.) bleibt unveraendert. Kein neuer Katalysator fuer Aktien/ETFs/Rohstoffe (Sonntagnacht, Maerkte ohnehin geschlossen) oder fuer eine neue Krypto-Position erkennbar.",
-    "decision": "Tagesbudget bereits heute gutgeschrieben (00:09). Kein Trade in diesem Lauf: BTC-Position (pos-0018) weiterhin bei ca. -2,4% seit Kauf, klar innerhalb der Toleranz, kein Stop-Loss ausgeloest. Keine neue, mehrfach bestaetigte Gelegenheit identifiziert. Freies Kapital (~66.638 EUR) bleibt ungenutzt.",
-    "reasoning": "Keine verlaessliche frische Live-Kursquelle fuer BTC seit dem letzten Lauf (00:09) gefunden; Kurs daher unveraendert uebernommen. Keine neue Nachrichtenlage, die einen Trade rechtfertigt. Aktien/ETFs/Rohstoffe sind sonntagnachts nicht handelbar.",
+    "marketOverview": "BTC notiert bei ca. 82.931 USD (Coinbase-Spot-API), praktisch unveraendert zur letzten Stunde (-0,05%) und weiterhin in der seit Anfang Oktober laufenden Konsolidierung zwischen 83.000 und 86.000 USD. Keine neuen bestaetigten Katalysatoren oder Breaking News zu Aktien, ETFs, Krypto oder Rohstoffen fuer die aktuelle Stunde gefunden. Da es Sonntacht/fruehmorgens ist, sind Aktien, ETFs und Rohstoffe ohnehin nicht handelbar.",
+    "decision": "Tagesbudget bereits heute (00:09) gutgeschrieben. Kein Trade in diesem Lauf: BTC-Position (pos-0018) bei -2,47% seit Kauf, klar innerhalb der Toleranz, kein Stop-Loss ausgeloest. Keine neue, mehrfach bestaetigte Gelegenheit identifiziert. Freies Kapital (~66.638 EUR) bleibt ungenutzt.",
+    "reasoning": "BTC-Kurs via Coinbase-Spot-API aktualisiert (82.931,09 USD, zuvor 82.972 USD) - marginale Bewegung, kein Stop-Loss-Niveau erreicht. Keine frische, mehrfach bestaetigte Nachrichtenlage oder Kurskatalysator gefunden (WebSearch lieferte nur veraltete/irrelevante Treffer). Aktien/ETFs/Rohstoffe sind sonntagnachts nicht handelbar, daher nur Krypto betrachtet; keine ueberzeugende Gelegenheit fuer einen Neukauf.",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 683.02,
+    "portfolioValueEnd": 682.68,
     "updates": [
       {
         "time": "00:09",
@@ -8579,6 +8579,11 @@
         "time": "01:08",
         "note": "Keine Aenderung (keine frische verlaessliche Kursquelle, kein neuer Katalysator)",
         "portfolioValue": 683.02
+      },
+      {
+        "time": "02:08",
+        "note": "Kein Trade, BTC-Kursupdate via Coinbase-API (82.931 USD, -2,47% seit Kauf), kein neuer Katalysator gefunden",
+        "portfolioValue": 682.68
       }
     ]
   }
