@@ -8562,13 +8562,13 @@
   },
   {
     "date": "2026-10-11",
-    "marketOverview": "Sonntagvormittag, weiterhin nur Krypto handelbar (Aktien/ETFs/Rohstoffe geschlossen). BTC via CoinGecko-API bei 82.978 USD (+0,31% 24h), ETH 2.501,40 USD (+0,27%), SOL 109,28 USD (-0,56%), ADA 0,2465 USD (-2,49%) - ruhiger, nahezu seitwaerts laufender Kryptomarkt. Auffaelligster Ausreisser: STRK (Starknet) mit gemeldeten +53% in 24h laut CoinGecko-Markdaten, jedoch ohne frische, verlaesslich bestaetigte Nachricht fuer heute - fruehere STRK-Rallyes dieser Tage waren teils durch einen Oracle-Exploit (Nostra) getrieben, zudem steht am 15.10. ein grosser Token-Unlock (~127 Mio. STRK) an. Keine weitere preisrelevante Meldung zu Geopolitik/Fed gefunden.",
-    "decision": "Tagesbudget bereits heute (00:09) gutgeschrieben. Kein Trade in diesem Lauf: BTC-Position (pos-0018) bei -2,42% seit Kauf, klar innerhalb der Stop-Loss-Toleranz. Der auffaellige STRK-Kurssprung (+53%/24h) wird mangels verlaesslich bestaetigtem frischem Katalysator und wegen des bevorstehenden Token-Unlocks am 15.10. bewusst nicht gehandelt. Freies Kapital (~66.638 EUR) bleibt ungenutzt.",
-    "reasoning": "CoinGecko-Live-API direkt abgefragt (BTC 82.978 USD, +0,31% 24h) als verlaessliche Quelle, zusaetzlich Markets-Endpoint auf 24h-Gewinner/Verlierer unter den Top-100 nach Marktkapitalisierung gescreent. Groesster Ausreisser STRK (+53%) liess sich per Websuche nicht mit einer heute datierten, mehrfach bestaetigten Nachricht untermauern (nur aeltere Artikel zu fruaheren Rallye-Phasen Anfang Oktober, teils Exploit-getrieben, plus Unlock-Risiko 15.10.) - daher trotz der Grosse der Bewegung keine ueberzeugende, ausreichend verlaessliche Gelegenheit im Sinne des spekulativen, aber auf bestaetigte Katalysatoren gestuetzten Profils. Stop-Loss-Schwelle (-6,5 bis -7,5%) bei pos-0018 weiterhin nicht erreicht, daher unveraendert gehalten.",
+    "marketOverview": "Sonntagvormittag, weiterhin nur Krypto handelbar (Aktien/ETFs/Rohstoffe geschlossen). BTC via CoinGecko-API bei 83.086 USD (+0,54% 24h), ETH 2.503,23 USD (+0,50%), SOL 109,71 USD (-0,06%), ADA 0,2483 USD (-1,86%), XRP 1,39 USD (-0,69%), DOGE 0,0854 USD (-0,84%), AVAX 10,33 USD (-1,79%) - ruhiger, nahezu seitwaerts laufender Kryptomarkt. STRK (Starknet) bleibt mit +54,8% in 24h auffaelligster Ausreisser, mittlerweile seit mehreren Laeufen in Folge beobachtet; Recherche zeigt bekannte, bereits eingepreiste Katalysatoren (BTC-Bruecken-Gebuehrenuebernahme seit 02.10., v0.14.4-Mainnet-Upgrade seit 05.10.) sowie einen bevorstehenden grossen Token-Unlock (~127 Mio. STRK) am 15.10. als Gegenwind. Keine neue preisrelevante Meldung zu Geopolitik/Fed gefunden.",
+    "decision": "Tagesbudget bereits heute (00:09) gutgeschrieben, daher keine weitere Gutschrift in diesem Lauf. Kein Trade: BTC-Position (pos-0018) bei -2,29% seit Kauf, klar innerhalb der Stop-Loss-Toleranz. Der anhaltende STRK-Kurssprung wird weiterhin mangels eines frischen, noch nicht eingepreisten Katalysators und wegen des Unlock-Risikos am 15.10. nicht gehandelt. Freies Kapital (~66.638 EUR) bleibt ungenutzt.",
+    "reasoning": "CoinGecko-Live-API direkt abgefragt (BTC 83.086 USD, +0,54% 24h) als verlaessliche Quelle. Fuer STRK zusaetzlich gezielte Websuche durchgefuehrt: bestaetigt lediglich bereits bekannte Katalysatoren aus der ersten Oktoberwoche (Bruecken-Gebuehren-Aktion, Mainnet-Upgrade), die seit Tagen im Kurs stecken, plus einen Token-Unlock am 15.10. als Risikofaktor - kein neuer, ueberzeugender Auslöser im Sinne des spekulativen, aber auf bestaetigte Katalysatoren gestuetzten Profils. Stop-Loss-Schwelle (-6,5 bis -7,5%) bei pos-0018 weiterhin nicht erreicht, daher unveraendert gehalten.",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 683.07,
+    "portfolioValueEnd": 683.96,
     "updates": [
       {
         "time": "00:09",
@@ -8614,6 +8614,11 @@
         "time": "08:09",
         "note": "Kein Trade, BTC-Kursupdate via CoinGecko-API (82.978 USD, +0,31% 24h, -2,42% seit Kauf); STRK +53%/24h ohne verlaesslich bestaetigten frischen Katalysator und Unlock-Risiko 15.10. -> nicht gehandelt",
         "portfolioValue": 683.07
+      },
+      {
+        "time": "09:08",
+        "note": "Kein Trade, BTC-Kursupdate via CoinGecko-API (83.086 USD, +0,54% 24h, -2,29% seit Kauf), STRK weiterhin +54,8%/24h aber ohne neuen Katalysator (bekannt, teils eingepreist, Unlock-Risiko 15.10.)",
+        "portfolioValue": 683.96
       }
     ]
   }
