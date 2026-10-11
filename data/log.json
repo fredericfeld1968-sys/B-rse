@@ -8562,13 +8562,13 @@
   },
   {
     "date": "2026-10-11",
-    "marketOverview": "Sonntagvormittag, weiterhin nur Krypto handelbar (Aktien/ETFs/Rohstoffe geschlossen). BTC via CoinDesk-Live-Preis bei 83,023.72 USD (Stand ca. 10:37 CEST), damit nahezu unveraendert zum letzten Lauf (82.966 USD) - weiterhin in der engen Spanne der letzten Stunden um 82.900-83.100 USD. Keine neuen, unabhaengig bestaetigten frischen Handelskatalysatoren fuer BTC oder Altcoins gefunden; allgemeine Web-Recherche zu Bitcoin/Krypto-News fuer den 11.10.2026 blieb ohne belastbare, taggenaue Treffer.",
-    "decision": "Tagesbudget bereits heute (00:09) gutgeschrieben, daher keine weitere Gutschrift in diesem Lauf. Kein Trade: BTC-Position (pos-0018) bei -2.37% seit Kauf, klar innerhalb der Stop-Loss-Toleranz. Keine ueberzeugende, frisch bestaetigte Gelegenheit fuer eine Neuposition gefunden. Freies Kapital (~66.638 EUR) bleibt ungenutzt.",
-    "reasoning": "Live-Preisabfrage (CoinDesk) als verlaessliche Quelle fuer BTC herangezogen. Ergaenzende Websuchen zu Krypto-Marktlage und Geopolitik/Makro fuer den 11.10.2026 lieferten keine taggenauen, mehrfach unabhaengig bestaetigten frischen Katalysatoren - nur bereits bekannte oder undatierte/widersprechende Treffer. Stop-Loss-Schwelle (-6,5 bis -7,5%) bei pos-0018 weiterhin nicht erreicht, daher unveraendert gehalten. Kein Kauf, da keine Gelegenheit die Beweisschwelle (mehrfach unabhaengig bestaetigter, frischer Katalysator) erreicht.",
+    "marketOverview": "Sonntagmittag, weiterhin nur Krypto handelbar (Aktien/ETFs/Rohstoffe geschlossen). BTC via CoinGecko-API bei 82.992 USD (+0,27% 24h), damit praktisch unveraendert zur letzten Stunde. STRK bleibt mit +54% 24h der auffaelligste Mover, aber die bekannten Katalysatoren (BTC-Bridge-Incentive, v0.14.4-Upgrade) sind bereits mehrere Tage alt und bereits eingepreist; zudem droht am 15.10. ein Token-Unlock (127 Mio. STRK, ca. 7,4 Mio. USD). Keine neue, frisch bestaetigte Gelegenheit gefunden.",
+    "decision": "Tagesbudget bereits heute (00:09) gutgeschrieben, daher keine weitere Gutschrift in diesem Lauf. Kein Trade: BTC-Position (pos-0018) bei -2,4% seit Kauf, klar innerhalb der Stop-Loss-Toleranz. STRK-Rally weiterhin ohne frischen, unabhaengig bestaetigten Katalysator (nur altbekannte Treiber plus Unlock-Risiko am 15.10.) - keine ueberzeugende Gelegenheit fuer eine Neuposition. Freies Kapital (~66.638 EUR) bleibt ungenutzt.",
+    "reasoning": "Live-Preisabfrage (CoinGecko) als verlaessliche Quelle fuer BTC und Altcoin-Marktueberblick herangezogen. Websuche zu STRK bestaetigt nur bereits bekannte Katalysatoren (Bitcoin-Bridge-Incentive vom 02.10., v0.14.4-Mainnet-Upgrade vom 05.10.) ohne neuen, taggenauen Ausloeser fuer den 11.10. - zusaetzlich mit Unlock-Risiko am 15.10. belastet. Stop-Loss-Schwelle (-6,5 bis -7,5%) bei pos-0018 weiterhin nicht erreicht, daher unveraendert gehalten. Kein Kauf, da keine Gelegenheit die Beweisschwelle (mehrfach unabhaengig bestaetigter, frischer Katalysator) erreicht.",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 683.44,
+    "portfolioValueEnd": 683.18,
     "updates": [
       {
         "time": "00:09",
@@ -8629,6 +8629,11 @@
         "time": "11:08",
         "note": "Kein Trade, BTC-Kursupdate via CoinDesk (83,023.72 USD, -2.37% seit Kauf), kein bestaetigter frischer Katalysator gefunden",
         "portfolioValue": 683.44
+      },
+      {
+        "time": "12:10",
+        "note": "Kein Trade, BTC-Kursupdate via CoinGecko-API (82.992 USD, -2,4% seit Kauf); STRK +54% 24h weiterhin ohne frischen Katalysator (Unlock-Risiko 15.10.)",
+        "portfolioValue": 683.18
       }
     ]
   }
