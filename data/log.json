@@ -8562,13 +8562,13 @@
   },
   {
     "date": "2026-10-11",
-    "marketOverview": "BTC notiert bei ca. 82.931 USD (Coinbase-Spot-API), praktisch unveraendert zur letzten Stunde (-0,05%) und weiterhin in der seit Anfang Oktober laufenden Konsolidierung zwischen 83.000 und 86.000 USD. Keine neuen bestaetigten Katalysatoren oder Breaking News zu Aktien, ETFs, Krypto oder Rohstoffen fuer die aktuelle Stunde gefunden. Da es Sonntacht/fruehmorgens ist, sind Aktien, ETFs und Rohstoffe ohnehin nicht handelbar.",
-    "decision": "Tagesbudget bereits heute (00:09) gutgeschrieben. Kein Trade in diesem Lauf: BTC-Position (pos-0018) bei -2,47% seit Kauf, klar innerhalb der Toleranz, kein Stop-Loss ausgeloest. Keine neue, mehrfach bestaetigte Gelegenheit identifiziert. Freies Kapital (~66.638 EUR) bleibt ungenutzt.",
-    "reasoning": "BTC-Kurs via Coinbase-Spot-API aktualisiert (82.931,09 USD, zuvor 82.972 USD) - marginale Bewegung, kein Stop-Loss-Niveau erreicht. Keine frische, mehrfach bestaetigte Nachrichtenlage oder Kurskatalysator gefunden (WebSearch lieferte nur veraltete/irrelevante Treffer). Aktien/ETFs/Rohstoffe sind sonntagnachts nicht handelbar, daher nur Krypto betrachtet; keine ueberzeugende Gelegenheit fuer einen Neukauf.",
+    "marketOverview": "Sonntagnacht, nur Krypto handelbar. BTC via CoinGecko-API bei 82.901 USD (+0,45% in 24h), damit weiterhin im mehrtaegigen Risk-off-Grind (Wochenverlust durch steigende Treasury-Renditen, Iran/Oel-Schlagzeilen, ETF-Outflows ~986 Mio. USD im Oktober). Kein frischer, mehrfach bestaetigter Katalysator fuer Alts (SOL/XRP/ADA) gefunden.",
+    "decision": "Tagesbudget bereits heute (00:09) gutgeschrieben. Kein Trade in diesem Lauf: BTC-Position (pos-0018) bei -2,51% seit Kauf, klar innerhalb der Stop-Loss-Toleranz. Keine neue, mehrfach bestaetigte Gelegenheit identifiziert (Research: gemischte/unverifizierte Einzelquellen, insgesamt eher Risk-off-Fortsetzung als Katalysator). Freies Kapital (~66.638 EUR) bleibt ungenutzt.",
+    "reasoning": "CoinGecko-API direkt abgefragt (82.901 USD, +0,45% 24h) als verlaessliche Live-Quelle. Separate Recherche ergab: Wochentrend abwaerts (Renditen, Iran/Oel), ETF-Outflows ueberwiegend negativ, ein einzelquellen-Bericht zu bewegten Bitfinex-Hack-Wallets ohne bestaetigten Verkauf - nichts davon mehrfach unabhaengig bestaetigt genug fuer eine neue Position. Stop-Loss-Schwelle (-6,5 bis -7,5%) bei pos-0018 nicht erreicht.",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 682.68,
+    "portfolioValueEnd": 682.43,
     "updates": [
       {
         "time": "00:09",
@@ -8584,6 +8584,11 @@
         "time": "02:08",
         "note": "Kein Trade, BTC-Kursupdate via Coinbase-API (82.931 USD, -2,47% seit Kauf), kein neuer Katalysator gefunden",
         "portfolioValue": 682.68
+      },
+      {
+        "time": "03:13",
+        "note": "Kein Trade, BTC-Kursupdate via CoinGecko-API (82.901 USD, -2,51% seit Kauf), kein bestaetigter Katalysator gefunden",
+        "portfolioValue": 682.43
       }
     ]
   }
