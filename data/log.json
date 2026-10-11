@@ -8562,13 +8562,13 @@
   },
   {
     "date": "2026-10-11",
-    "marketOverview": "Sonntagabend (20:08 CEST), weiterhin nur Krypto handelbar (Aktien/ETFs/Rohstoffe am Wochenende geschlossen). BTC notiert via CoinGecko-API bei 83.800 USD (+0,91% 24h), damit praktisch unveraendert ggue. dem letzten Lauf. Top-Tagesgewinner unter den groesseren Coins: ENA (+8,0%), NEAR (+7,7%) und CC (+7,1%) - fuer keinen davon liess sich ein frischer, heute datierter, unabhaengig bestaetigter Katalysator finden (ENA-Artikel sind ueberwiegend aelter/undatiert, NEAR-Treiber bereits bekannt). STRK rallyt weiter, Unlock am 15.10. laut Berichten aber bereits weitgehend eingepreist. Keine ueberzeugende neue Kaufgelegenheit identifiziert.",
-    "decision": "Tagesbudget bereits heute (00:09) gutgeschrieben, daher keine weitere Gutschrift in diesem Lauf. Kein Trade: BTC-Position (pos-0018) bei -1,45% seit Kauf, klar innerhalb der Stop-Loss-Toleranz (-6,5 bis -7,5%), wird gehalten. Weder ENA, NEAR, CC noch STRK bieten einen frischen, unabhaengig bestaetigten Katalysator fuer einen spekulativen Neukauf. Freies Kapital (~66.639 EUR) bleibt ungenutzt.",
-    "reasoning": "Live-Kursabfrage (CoinGecko-API, Markets-Endpoint fuer Top-50 nach Marktkapitalisierung) sowie gezielte Websuche zu den aktuellen Tagesgewinnern (ENA, STRK-Unlock) bestaetigen keine neue, mehrfach unabhaengig belegte Gelegenheit seit dem letzten Lauf. Das Risiko/Ertrags-Verhaeltnis bleibt fuer einen spekulativen Neukauf unguenstig. BTC-Position bleibt klar innerhalb der Halteschwelle, daher keine Aenderung.",
+    "marketOverview": "Sonntagabend, Boersen (Aktien/ETFs/Rohstoffe) geschlossen, nur Krypto handelbar. Bitcoin pendelt seitwaerts bei ca. 83.600 USD (+0,77% 24h), Ethereum ~2.532 USD, Solana ~111 USD - insgesamt ruhiger, leicht risikofreudiger Krypto-Markt ohne grosse Ausschlaege. Tagesgewinner sind Zcash (+3,15%, getrieben von der bereits bekannten 'Uptober'-Privacy-Coin-Rally/Grayscale-ZCSH-ETF, kein frischer Katalysator) und Ethena (+5,6% laut CoinGecko, Fee-Switch/Buyback-Thema bereits eingepreist, Investoren-Unlock bereits am 05.10. erfolgt).",
+    "decision": "Tagesbudget bereits heute (00:09) gutgeschrieben, daher keine weitere Gutschrift in diesem Lauf. Kein Trade: BTC-Position (pos-0018) bei -1,45% seit Kauf, klar innerhalb der Stop-Loss-Toleranz (-6,5 bis -7,5%), wird gehalten. Weder ENA, NEAR, CC noch STRK bieten einen frischen, unabhaengig bestaetigten Katalysator fuer einen spekulativen Neukauf. Freies Kapital (~66.639 EUR) bleibt ungenutzt. Lauf 21:09: Tagesbudget bereits heute (00:09) gutgeschrieben, keine weitere Gutschrift. BTC-Position (pos-0018) auf 83.594 USD aktualisiert (-1,69% seit Kauf, weiterhin klar innerhalb der Stop-Loss-Toleranz von -6,5 bis -7,5%), wird gehalten. Kein neuer Kauf: ZEC- und ENA-Bewegungen sind bereits bekannte, eingepreiste Themen ohne frischen Katalysator; freies Kapital (~66.638 EUR) bleibt ungenutzt.",
+    "reasoning": "Spekulatives Risikoprofil mit erlaubtem kurzfristigem Trading, aber ausserhalb der Boersenzeiten am Sonntagabend ist ohnehin nur Krypto bewegbar. BTC-Position liegt mit -1,69% deutlich innerhalb der Halte-Toleranz, kein Grund zum Verkauf. Fuer einen Neukauf fehlt ein wirklich ueberzeugender, frischer Katalysator: ZEC (Privacy-Coin-Rally) und ENA (Fee-Switch/Buybacks, Unlock) sind beide bereits mehrfach in den letzten Tagen eingepreiste Narrative ohne neue Nachricht in den letzten Stunden. Keine Position verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 689.84,
+    "portfolioValueEnd": 688.14,
     "updates": [
       {
         "time": "00:09",
@@ -8674,6 +8674,11 @@
         "time": "20:08",
         "note": "Kein Trade, BTC-Kursupdate via CoinGecko-API (83.800 USD, +0,91% 24h, -1,45% seit Kauf); Tagesgewinner ENA (+8,0%)/NEAR (+7,7%)/CC (+7,1%) ohne frischen bestaetigten Katalysator, STRK-Unlock (15.10.) laut Berichten bereits eingepreist",
         "portfolioValue": 689.84
+      },
+      {
+        "time": "21:09",
+        "note": "Kein Trade, BTC-Kursupdate via CoinGecko-API (83.594 USD, +0,77% 24h, -1,69% seit Kauf); ZEC (+3,15%)/ENA (+5,6%) ohne frischen Katalysator (beide bereits bekannte, eingepreiste Themen)",
+        "portfolioValue": 688.14
       }
     ]
   }
