@@ -8562,13 +8562,13 @@
   },
   {
     "date": "2026-10-11",
-    "marketOverview": "Sonntagmittag, weiterhin nur Krypto handelbar (Aktien/ETFs/Rohstoffe geschlossen). BTC via CoinGecko-API bei 82.992 USD (+0,27% 24h), damit praktisch unveraendert zur letzten Stunde. STRK bleibt mit +54% 24h der auffaelligste Mover, aber die bekannten Katalysatoren (BTC-Bridge-Incentive, v0.14.4-Upgrade) sind bereits mehrere Tage alt und bereits eingepreist; zudem droht am 15.10. ein Token-Unlock (127 Mio. STRK, ca. 7,4 Mio. USD). Keine neue, frisch bestaetigte Gelegenheit gefunden.",
-    "decision": "Tagesbudget bereits heute (00:09) gutgeschrieben, daher keine weitere Gutschrift in diesem Lauf. Kein Trade: BTC-Position (pos-0018) bei -2,4% seit Kauf, klar innerhalb der Stop-Loss-Toleranz. STRK-Rally weiterhin ohne frischen, unabhaengig bestaetigten Katalysator (nur altbekannte Treiber plus Unlock-Risiko am 15.10.) - keine ueberzeugende Gelegenheit fuer eine Neuposition. Freies Kapital (~66.638 EUR) bleibt ungenutzt.",
-    "reasoning": "Live-Preisabfrage (CoinGecko) als verlaessliche Quelle fuer BTC und Altcoin-Marktueberblick herangezogen. Websuche zu STRK bestaetigt nur bereits bekannte Katalysatoren (Bitcoin-Bridge-Incentive vom 02.10., v0.14.4-Mainnet-Upgrade vom 05.10.) ohne neuen, taggenauen Ausloeser fuer den 11.10. - zusaetzlich mit Unlock-Risiko am 15.10. belastet. Stop-Loss-Schwelle (-6,5 bis -7,5%) bei pos-0018 weiterhin nicht erreicht, daher unveraendert gehalten. Kein Kauf, da keine Gelegenheit die Beweisschwelle (mehrfach unabhaengig bestaetigter, frischer Katalysator) erreicht.",
+    "marketOverview": "Sonntagmittag, weiterhin nur Krypto handelbar (Aktien/ETFs/Rohstoffe geschlossen). Laut aktueller Wochenuebersicht (CoinDesk/cryptoticker) notiert BTC bei ca. 82.900-82.992 USD, nahezu unveraendert zur letzten Stunde, aber auf Wochensicht -2,1%. Der breitere Kryptomarkt bleibt risikoavers: Altcoins verlieren auf Wochensicht deutlich mehr als BTC (ETH -6,8%, XRP -5,8%, SOL -8,1%), begleitet von anhaltenden US-Spot-Bitcoin-ETF-Abfluessen (ca. 986 Mio. USD im Oktober) und rund 651 Mio. USD erzwungenen Long-Liquidationen, da die Fed-Protokolle Spielraum fuer eine weitere Zinserhoehung offenlassen. Keine neue, frisch bestaetigte Kaufgelegenheit gefunden.",
+    "decision": "Tagesbudget bereits heute (00:09) gutgeschrieben, daher keine weitere Gutschrift in diesem Lauf. Kein Trade: BTC-Position (pos-0018) bei -2,51% seit Kauf, klar innerhalb der Stop-Loss-Toleranz (-6,5 bis -7,5%). Der breite Krypto-Risk-off-Ton (ETF-Abfluesse, Fed-Zinsrisiko, schwache Altcoin-Liquiditaet) liefert keine ueberzeugende neue Kaufgelegenheit; STRK-Rally weiterhin ohne frischen, unabhaengig bestaetigten Katalysator. Freies Kapital (~66.638 EUR) bleibt ungenutzt.",
+    "reasoning": "Websuche zu aktueller Marktlage (Wirtschaft/Politik/Geopolitik) bestaetigt ein insgesamt risikoaverses Kryptoumfeld am Wochenende: BTC haelt sich vergleichsweise stabil, waehrend Altcoins auf Wochensicht deutlich schwaecher sind - ein Umfeld, in dem spekulative Neukaeufe ohne frischen, mehrfach bestaetigten Katalysator ein ungewoehnlich schlechtes Risiko/Ertrags-Verhaeltnis bieten. Stop-Loss-Schwelle bei pos-0018 weiterhin nicht erreicht, daher Position unveraendert gehalten. Kein Kauf, da keine Gelegenheit die Beweisschwelle (mehrfach unabhaengig bestaetigter, frischer Katalysator) erreicht.",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 683.18,
+    "portfolioValueEnd": 682.42,
     "updates": [
       {
         "time": "00:09",
@@ -8634,6 +8634,11 @@
         "time": "12:10",
         "note": "Kein Trade, BTC-Kursupdate via CoinGecko-API (82.992 USD, -2,4% seit Kauf); STRK +54% 24h weiterhin ohne frischen Katalysator (Unlock-Risiko 15.10.)",
         "portfolioValue": 683.18
+      },
+      {
+        "time": "13:09",
+        "note": "Kein Trade, BTC-Kursupdate (~82.900 USD, -2,51% seit Kauf); Wochenueberblick zeigt Risk-off bei Altcoins (ETH -6,8%, SOL -8,1% Wochensicht) und anhaltende ETF-Abfluesse - keine ueberzeugende Kaufgelegenheit",
+        "portfolioValue": 682.42
       }
     ]
   }
