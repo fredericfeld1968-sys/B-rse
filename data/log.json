@@ -8562,9 +8562,9 @@
   },
   {
     "date": "2026-10-11",
-    "marketOverview": "Sonntagnachmittag (15:10 CEST), weiterhin nur Krypto handelbar (Aktien/ETFs/Rohstoffe am Wochenende geschlossen). BTC notiert laut CoinGecko-API und CoinDesk uebereinstimmend bei ca. 83.000-83.008 USD (+0,28-0,30% 24h), damit praktisch unveraendert zum letzten Lauf. Starknet (STRK) rallyt seit dem 02.10. weiter (Bridge-Fee-Incentive fuer strkBTC), aktuell kein frischer, unabhaengig bestaetigter Zusatzkatalysator seit dem letzten Lauf, und der Token-Unlock am 15.10. (127 Mio. STRK, ca. 1,3% Supply) bleibt als Risiko bestehen. Sonst keine neue, ueberzeugende Kaufgelegenheit identifiziert; naechster wichtiger Makro-Termin ist die US-CPI-Veroeffentlichung am 14.10.",
-    "decision": "Tagesbudget bereits heute (00:09) gutgeschrieben, daher keine weitere Gutschrift in diesem Lauf. Kein Trade: BTC-Position (pos-0018) liegt bei -2,39% seit Kauf (deutlich innerhalb der Stop-Loss-Toleranz von -6,5 bis -7,5%) und wird gehalten. STRK-Rally bleibt ohne frischen, unabhaengig bestaetigten Katalysator seit den vorherigen Laeufen und mit Unlock-Risiko am 15.10. - daher weiterhin kein Kauf. Freies Kapital (~66.639 EUR) bleibt ungenutzt.",
-    "reasoning": "Live-Kursabfrage (CoinGecko-API, CoinDesk) sowie Websuche zu Starknet-Katalysatoren und zur allgemeinen Krypto-Marktlage bestaetigen keine neue, mehrfach unabhaengig belegte Gelegenheit seit dem letzten Lauf. Die STRK-Bewegung laeuft weiterhin ohne frischen Trigger und mit bekanntem Unlock-Termin - das Risiko/Ertrags-Verhaeltnis bleibt unguenstig fuer einen spekulativen Neukauf. BTC-Position bleibt klar innerhalb der Halteschwelle, daher keine Aenderung.",
+    "marketOverview": "Sonntagnachmittag (16:08 CEST), weiterhin nur Krypto handelbar (Aktien/ETFs/Rohstoffe am Wochenende geschlossen). BTC notiert via CoinGecko-API bei 83.005 USD (+0,35% 24h) - praktisch unveraendert zum letzten Lauf (15:10). Starknet (STRK) rallyt weiter (+45% 24h), Recherche bestaetigt aber keinen frischen Katalysator seit dem letzten Lauf: genannte Treiber (Rotation in ECDSA-sichere Projekte wegen KI-Quantenbedrohungs-Narrativ, strkBTC-Bruecken-Incentive, v0.14.4-Mainnet-Upgrade vom 05.10.) sind alle bereits bekannt/eingepreist, und der Token-Unlock am 15.10. (127 Mio. STRK, ca. 1,3% Supply) bleibt als Risiko bestehen. Sonst keine neue, ueberzeugende Kaufgelegenheit identifiziert; naechster wichtiger Makro-Termin ist die US-CPI-Veroeffentlichung am 14.10.",
+    "decision": "Tagesbudget bereits heute (00:09) gutgeschrieben, daher keine weitere Gutschrift in diesem Lauf. Kein Trade: BTC-Position (pos-0018) liegt unveraendert bei -2,39% seit Kauf (deutlich innerhalb der Stop-Loss-Toleranz von -6,5 bis -7,5%) und wird gehalten. STRK-Rally bleibt ohne frischen, unabhaengig bestaetigten Katalysator seit mehreren Laeufen und mit Unlock-Risiko am 15.10. - daher weiterhin kein Kauf. Freies Kapital (~66.638 EUR) bleibt ungenutzt.",
+    "reasoning": "Live-Kursabfrage (CoinGecko-API) sowie gezielte Websuche zu Starknet-Katalysatoren und zur allgemeinen Krypto-Marktlage bestaetigen keine neue, mehrfach unabhaengig belegte Gelegenheit seit dem letzten Lauf - die genannten STRK-Treiber sind bereits aus fruehreren Laeufen bekannt und eingepreist. Das Risiko/Ertrags-Verhaeltnis bleibt angesichts des bevorstehenden Unlocks unguenstig fuer einen spekulativen Neukauf. BTC-Position bleibt klar innerhalb der Halteschwelle, daher keine Aenderung.",
     "positionIds": [
       "pos-0018"
     ],
@@ -8648,6 +8648,11 @@
       {
         "time": "15:10",
         "note": "Kein Trade, BTC-Kursupdate via CoinGecko-API/CoinDesk (83.005 USD, +0,3% 24h, -2,39% seit Kauf); STRK-Rally weiterhin ohne frischen bestaetigten Katalysator (Unlock-Risiko 15.10.)",
+        "portfolioValue": 683.29
+      },
+      {
+        "time": "16:08",
+        "note": "Kein Trade, BTC-Kurs unveraendert (83.005 USD, -2,39% seit Kauf); STRK-Rally weiterhin ohne frischen Katalysator (bekannte Themen bereits eingepreist, Unlock-Risiko 15.10.)",
         "portfolioValue": 683.29
       }
     ]
