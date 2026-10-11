@@ -8562,13 +8562,13 @@
   },
   {
     "date": "2026-10-11",
-    "marketOverview": "Sonntagvormittag, weiterhin nur Krypto handelbar (Aktien/ETFs/Rohstoffe geschlossen). BTC via CoinGecko-API bei 82.966 USD (+0,25% 24h), ETH 2.498,70 USD (+0,17%), SOL 109,32 USD (-0,60%), ADA 0,2474 USD (-3,74%), XRP 1,39 USD (-1,06%), DOGE 0,0852 USD (-1,12%), AVAX 10,30 USD (-2,82%) - ruhiger Kryptomarkt ohne grosse Bewegung. STRK bleibt mit +54,4% in 24h weiterhin auffaelligster Ausreisser (bekannte, bereits eingepreiste Katalysatoren: Bruecken-Gebuehrenuebernahme, v0.14.4-Upgrade; Token-Unlock ~127 Mio. STRK am 15.10. als Gegenwind). Auch TIA (+23%), SWARM (+29%) und CKB (+14%) zeigen starke 24h-Bewegungen laut CoinGecko-Trending, aber ohne verlaesslich bestaetigten frischen Katalysator in der Recherche. Makro: Fed-Leitzins seit 16.09. bei 3,75-4,00%, naechste FOMC-Sitzung 27.-28.10.; Oelpreis weiter ueber 100 USD/Barrel; ETF-Zufluesse zuletzt schwaecher. Keine neue preisrelevante Geopolitik-/Fed-Meldung gefunden.",
-    "decision": "Tagesbudget bereits heute (00:09) gutgeschrieben, daher keine weitere Gutschrift in diesem Lauf. Kein Trade: BTC-Position (pos-0018) bei -2,43% seit Kauf, klar innerhalb der Stop-Loss-Toleranz. Die auffaelligen 24h-Bewegungen bei STRK, TIA, SWARM und CKB werden mangels eines frischen, noch nicht eingepreisten Katalysators nicht gehandelt. Freies Kapital (~66.638 EUR) bleibt ungenutzt.",
-    "reasoning": "CoinGecko-Live-API direkt abgefragt (BTC 82.966 USD, +0,25% 24h) als verlaessliche Quelle, zusaetzlich CoinGecko-Trending-Endpoint fuer auffaellige 24h-Gewinner (STRK, TIA, SWARM, CKB) geprueft. Gezielte Websuche zu TIA und zur Fed-/ETF-Lage ergab keinen frischen, unabhaengig bestaetigten Katalysator - nur bereits bekannte oder widerspruechliche/undatierte Treffer. Stop-Loss-Schwelle (-6,5 bis -7,5%) bei pos-0018 weiterhin nicht erreicht, daher unveraendert gehalten.",
+    "marketOverview": "Sonntagvormittag, weiterhin nur Krypto handelbar (Aktien/ETFs/Rohstoffe geschlossen). BTC via CoinDesk-Live-Preis bei 83,023.72 USD (Stand ca. 10:37 CEST), damit nahezu unveraendert zum letzten Lauf (82.966 USD) - weiterhin in der engen Spanne der letzten Stunden um 82.900-83.100 USD. Keine neuen, unabhaengig bestaetigten frischen Handelskatalysatoren fuer BTC oder Altcoins gefunden; allgemeine Web-Recherche zu Bitcoin/Krypto-News fuer den 11.10.2026 blieb ohne belastbare, taggenaue Treffer.",
+    "decision": "Tagesbudget bereits heute (00:09) gutgeschrieben, daher keine weitere Gutschrift in diesem Lauf. Kein Trade: BTC-Position (pos-0018) bei -2.37% seit Kauf, klar innerhalb der Stop-Loss-Toleranz. Keine ueberzeugende, frisch bestaetigte Gelegenheit fuer eine Neuposition gefunden. Freies Kapital (~66.638 EUR) bleibt ungenutzt.",
+    "reasoning": "Live-Preisabfrage (CoinDesk) als verlaessliche Quelle fuer BTC herangezogen. Ergaenzende Websuchen zu Krypto-Marktlage und Geopolitik/Makro fuer den 11.10.2026 lieferten keine taggenauen, mehrfach unabhaengig bestaetigten frischen Katalysatoren - nur bereits bekannte oder undatierte/widersprechende Treffer. Stop-Loss-Schwelle (-6,5 bis -7,5%) bei pos-0018 weiterhin nicht erreicht, daher unveraendert gehalten. Kein Kauf, da keine Gelegenheit die Beweisschwelle (mehrfach unabhaengig bestaetigter, frischer Katalysator) erreicht.",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 682.97,
+    "portfolioValueEnd": 683.44,
     "updates": [
       {
         "time": "00:09",
@@ -8624,6 +8624,11 @@
         "time": "10:10",
         "note": "Kein Trade, BTC-Kursupdate via CoinGecko-API (82.966 USD, +0,25% 24h, -2,43% seit Kauf); STRK/TIA/SWARM/CKB mit starken 24h-Gewinnen aber ohne bestaetigten frischen Katalysator -> nicht gehandelt",
         "portfolioValue": 682.97
+      },
+      {
+        "time": "11:08",
+        "note": "Kein Trade, BTC-Kursupdate via CoinDesk (83,023.72 USD, -2.37% seit Kauf), kein bestaetigter frischer Katalysator gefunden",
+        "portfolioValue": 683.44
       }
     ]
   }
