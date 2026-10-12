@@ -8694,13 +8694,13 @@
   },
   {
     "date": "2026-10-12",
-    "marketOverview": "Bitcoin notiert laut CoinGecko-API um 21:08 MESZ bei 82.395 USD (24h: -1,44%), kaum veraendert zu 19:08/20:08 - weiterhin breiter Risk-off-Ton im gesamten Kryptomarkt: ETH -0,8%, SOL -3,5%, XRP -3,4%, AVAX -4,1%, HYPE -3,4%, DOGE -2,2%, QNT -6,9%, ENA -8,0%, BCH -3,8%, NEAR -4,8%, STRK -18,1% in 24h - durchgehend nur Verluste, keine bestaetigten Ausbrueche als Kaufgelegenheit. Fuer Aktien/ETFs/Rohstoffe (US-Kassahandel noch bis ca. 22:00 MESZ offen) liess sich erneut kein frischer, verlaesslich auf heute datierter Einzelkatalysator finden; Markt bleibt im Wartemodus vor der US-Bankenberichtssaison, CPI (14.10.) und FOMC (27.-28.10.).",
-    "decision": "Kein Trade in diesem Lauf. BTC-Position (pos-0018) bei -3,10% seit Kauf weiterhin klar innerhalb der Stop-Loss-Toleranz (-6,5 bis -7,5%), wird gehalten und auf aktuellen Kurs (82.395 USD, CoinGecko) aktualisiert. Kein Neukauf trotz offener US-Maerkte und freiem Kapital (~67.638 EUR): der gesamte Kryptomarkt ist breit im Minus (keine Kaufgelegenheit) und fuer Aktien/ETFs/Rohstoffe fehlt weiterhin ein frischer bestaetigter Einzelkatalysator.",
-    "reasoning": "CoinGecko-API-Abfrage fuer BTC sowie eine Reihe liquider Altcoins (ETH, SOL, XRP, AVAX, HYPE, DOGE, QNT, ENA, BCH, NEAR, STRK) zeigt durchgehend negative 24h-Veraenderungen - weiterhin ein breiter Risk-off-Tag im Kryptomarkt ohne Kaufgelegenheit. WebSearch-Recherche zu Aktien/Rohstoffen/Fed lieferte erneut keine verlaesslich auf den 12.10.2026 datierten Treffer. Passend zum spekulativen Kurzfrist-Profil wird nur bei wirklich ueberzeugenden, bestaetigten Gelegenheiten gehandelt; BTC bleibt weit innerhalb der Halte-Toleranz.",
+    "marketOverview": "Bitcoin notiert laut CoinGecko-API um 22:08 MESZ bei 82.910 USD (24h: -0,82%), leicht erholt gegenueber 21:08 - der breite Krypto-Risk-off-Ton haelt aber an: ETH -0,46%, SOL -2,34%, XRP -2,66%, AVAX -2,54%, QNT -5,0%, ENA -9,33%, BCH -3,60%, NEAR -2,64%, STRK -20,21% in 24h. US-Kassahandel ist seit 22:00 MESZ geschlossen, europaeische Boersen laengst zu - Aktien/ETFs/Rohstoffe damit aktuell nicht handelbar. Markt bleibt im Wartemodus vor US-Bankenberichtssaison, CPI (14.10.) und FOMC (27.-28.10.).",
+    "decision": "Kein Trade in diesem Lauf. BTC-Position (pos-0018) bei -2,50% seit Kauf weiterhin klar innerhalb der Stop-Loss-Toleranz (-6,5 bis -7,5%), wird gehalten und auf aktuellen Kurs (82.910 USD, CoinGecko) aktualisiert. Kein Neukauf trotz freiem Kapital (~67.638 EUR): Boersenhandel fuer Aktien/ETFs/Rohstoffe seit 22:00 MESZ geschlossen, und der Kryptomarkt ist breit im Minus (ENA -9,3%, STRK -20,2%) - keine ueberzeugende Kaufgelegenheit.",
+    "reasoning": "CoinGecko-API-Abfrage fuer BTC sowie eine Reihe liquider Altcoins (ETH, SOL, XRP, AVAX, QNT, ENA, BCH, NEAR, STRK) zeigt durchgehend negative 24h-Veraenderungen - weiterhin ein breiter Risk-off-Tag im Kryptomarkt ohne Kaufgelegenheit. Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten (US-Kassahandel seit 22:00 MESZ geschlossen) ohnehin nicht handelbar. Passend zum spekulativen Kurzfrist-Profil wird nur bei wirklich ueberzeugenden, bestaetigten Gelegenheiten gehandelt; BTC bleibt weit innerhalb der Halte-Toleranz.",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 678.27,
+    "portfolioValueEnd": 682.51,
     "updates": [
       {
         "time": "00:09",
@@ -8811,6 +8811,11 @@
         "time": "21:08",
         "note": "Keine Aenderung: BTC (pos-0018) bei 82.395 USD (-3,10% seit Kauf) weiterhin innerhalb der Halte-Toleranz; gesamter Kryptomarkt breit im Minus (STRK -18%, ENA -8%, QNT -6,9%), kein frischer Aktien/Rohstoff-Katalysator gefunden; kein Trade",
         "portfolioValue": 678.27
+      },
+      {
+        "time": "22:08",
+        "note": "Kein Trade, BTC-Kursupdate (82.910 USD, -0,82% 24h, -2,50% seit Kauf, leicht erholt); Boersenhandel seit 22:00 MESZ geschlossen",
+        "portfolioValue": 682.51
       }
     ]
   }
