@@ -8694,13 +8694,13 @@
   },
   {
     "date": "2026-10-12",
-    "marketOverview": "Montag, 01:09 Uhr: Boersen, ETFs und Rohstoffe weiterhin ausserhalb der Handelszeiten geschlossen (Oeffnung 15:30 MESZ). Bitcoin bewegt sich laut mehreren Quellen (Forbes, 24/7 Wall St., Yahoo Finance, Coinbase) weiterhin im Bereich 83.100-83.900 USD, nahezu unveraendert zum letzten Lauf (83.492 USD); Ethereum ~2.500-2.560 USD, Solana ~110-112 USD. Hintergrund bleibt risikoavers: US-Spot-Bitcoin-ETFs verzeichnen laut CoinGlass/Crypto Briefing bereits die achte Session mit Netto-Abfluessen in Folge (zuletzt -244 Mio. USD am 08.10., ueberwiegend aus Fidelity FBTC), Bitcoin/Ethereum/XRP/Solana notieren laut Yahoo Finance alle im Minus fuer 2026. Kein frischer, unabhaengig bestaetigter Altcoin-Katalysator auffindbar.",
-    "decision": "Kein Trade in diesem Lauf. BTC-Position (pos-0018) bei -1,81% seit Kauf, klar innerhalb der Stop-Loss-Toleranz (-6,5 bis -7,5%), wird gehalten; Kurs seit dem letzten Lauf (00:09) unveraendert. Kein Neukauf, da angesichts anhaltender ETF-Abfluesse und insgesamt risikoaversem Krypto-Umfeld keine wirklich ueberzeugende, frisch bestaetigte Gelegenheit vorliegt.",
-    "reasoning": "Spekulatives Risikoprofil mit erlaubtem kurzfristigem Trading, aber ausserhalb der Boersenzeiten ist ohnehin nur Krypto bewegbar. Freies Kapital liegt bei rund 67.638 EUR, reichlich vorhanden, aber ohne belastbaren frischen Katalysator (naechste Recherche-Quellen zeigen nur generelles Risk-off-Sentiment durch ETF-Abfluesse) wird bewusst nicht investiert. BTC-Position bleibt unveraendert gehalten.",
+    "marketOverview": "Montag, 02:08 Uhr: Boersen, ETFs und Rohstoffe weiterhin ausserhalb der Handelszeiten geschlossen (Oeffnung 15:30 MESZ). Bitcoin via CoinGecko-API bei 83.653 USD (+0,87% 24h), nahezu unveraendert zum letzten Lauf; Ethereum ~2.534 USD, Solana ~111 USD. ENA (+7,8% 24h) und AVAX (+6,2% 24h) zeigen weiterhin Staerke, aber keine Suche liefert einen neuen, unabhaengig bestaetigten Katalysator dafuer - bloss bereits bekanntes, nicht frisch bestaetigtes Momentum. Insgesamt weiterhin ruhige, nachrichtenarme Nachtstunde ohne klaren Trend.",
+    "decision": "Kein Trade in diesem Lauf. BTC-Position (pos-0018) bei -1,63% seit Kauf, klar innerhalb der Stop-Loss-Toleranz (-6,5 bis -7,5%), wird gehalten. Kein Neukauf, da trotz reichlich freiem Kapital kein frisch bestaetigter Katalysator fuer ENA, AVAX oder andere Altcoins auffindbar ist.",
+    "reasoning": "Spekulatives Risikoprofil mit erlaubtem kurzfristigem Trading, aber ausserhalb der Boersenzeiten ist ohnehin nur Krypto bewegbar. Freies Kapital liegt bei rund 67.638 EUR, reichlich vorhanden, aber ohne belastbaren frischen Katalysator wird bewusst nicht investiert. BTC-Position bleibt unveraendert gehalten.",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 687.3,
+    "portfolioValueEnd": 688.62,
     "updates": [
       {
         "time": "00:09",
@@ -8711,6 +8711,11 @@
         "time": "01:09",
         "note": "Keine Aenderung: BTC (pos-0018) bei ca. 83.492 USD (-1,81% seit Kauf) weiterhin innerhalb der Halte-Toleranz; Markt insgesamt risikoavers (ETF-Abfluesse), kein frischer Katalysator fuer Neukauf; kein Trade",
         "portfolioValue": 687.3
+      },
+      {
+        "time": "02:08",
+        "note": "Keine Aenderung: BTC (pos-0018) bei 83.653 USD (-1,63% seit Kauf) weiterhin innerhalb der Halte-Toleranz; ENA/AVAX mit 24h-Plus aber ohne frischen bestaetigten Katalysator; kein Trade",
+        "portfolioValue": 688.62
       }
     ]
   }
