@@ -8694,13 +8694,13 @@
   },
   {
     "date": "2026-10-12",
-    "marketOverview": "Bitcoin notiert laut CoinDesk am spaeten Nachmittag bei ca. 82.700-83.400 USD (Pullback von einem Tageshoch nahe 84.000 USD), belastet von Spot-ETF-Abfluessen von ueber 600 Mio. USD in der Vorwoche (Ende einer dreiwoechigen Zuflussserie) und anhaltender geopolitischer Unsicherheit; Oelpreise erholen sich/fallen leicht zurueck von den juengsten Houthi-/Hormuz-Spitzen. Grosse Altcoins (ETH, XRP, SOL) notieren auf Wochensicht 5-8% im Minus, AVAX bleibt laut mehreren Quellen relativer Ausreisser nach oben, aber weiterhin ohne einen frischen, heute-datierten Einzelkatalysator. US-Bankenberichtssaison (JPM, GS, WFC, C) startet erst morgen (13.10.), vor CPI (14.10.) und FOMC (27.-28.10.); kein verlaesslich heute-datierter Einzeltitel- oder Index-Katalysator fuer Aktien/ETFs/Rohstoffe auffindbar.",
-    "decision": "Kein Trade in diesem Lauf. BTC-Position (pos-0018) bei -2,75% seit Kauf weiterhin klar innerhalb der Stop-Loss-Toleranz (-6,5 bis -7,5%), wird gehalten und auf aktuellen Kurs (82.700 USD, CoinDesk) aktualisiert. Kein Neukauf trotz offener Aktien-/ETF-/Rohstoffmaerkte und freiem Kapital (~67.638 EUR): kein frischer, mehrfach unabhaengig bestaetigter Einzelkatalysator fuer heute gefunden (AVAX-Staerke weiterhin unbestaetigt, Bankenberichtssaison startet erst morgen).",
-    "reasoning": "WebSearch-Recherche zu Krypto-, Aktien- und Rohstoffmaerkten bestaetigte den bereits bekannten ETF-Abfluss-/Risk-off-Ton bei Krypto, aber keinen neuen, heute-datierten Einzelkatalysator fuer einen Kauf. Passend zum spekulativen Kurzfrist-Profil wird nur bei wirklich ueberzeugenden, bestaetigten Gelegenheiten gehandelt. Kein Grund fuer Verkauf der BTC-Position, da -2,75% weit innerhalb der etablierten Toleranz liegt.",
+    "marketOverview": "Bitcoin notiert laut CoinDesk am fruehen Abend (ca. 18:08 MESZ / 12:08 EDT) bei 82.642,39 USD, nachdem es zwischenzeitlich bis in Richtung 83.850 USD erholt hatte; der Kryptomarkt bleibt in einer fragilen Rebound-Phase nach der Verkaufswelle der Vorwoche, belastet von anhaltenden Bitcoin-ETF-Abfluessen (um die 485 Mio. USD am 07.10., bislang schwaechster Oktober seit Juni) und einer 30-jaehrigen US-Anleiherendite nahe 5,7% (hoechster Stand seit 2002). Die US-Bankenberichtssaison (JPM, GS, WFC, C) startet morgen (13.10.), vor dem CPI-Bericht am 14.10. und der naechsten Fed-Sitzung am 27.-28.10. Kein frischer, mehrfach unabhaengig bestaetigter Einzelkatalysator fuer Aktien, ETFs oder Rohstoffe trotz laufendem US-Kassahandel auffindbar.",
+    "decision": "Kein Trade in diesem Lauf. BTC-Position (pos-0018) bei -2,81% seit Kauf weiterhin klar innerhalb der Stop-Loss-Toleranz (-6,5 bis -7,5%), wird gehalten und auf aktuellen Kurs (82.642,39 USD, CoinDesk) aktualisiert. Kein Neukauf trotz offener Aktien-/ETF-/Rohstoffmaerkte und freiem Kapital (~67.638 EUR): keine ueberzeugende, frisch bestaetigte Gelegenheit in dieser Stunde gefunden (Markt weiterhin im Warten auf Bankenberichtssaison/CPI/FOMC, kein neuer Einzeltitel-Katalysator).",
+    "reasoning": "WebSearch-Recherche zu Krypto-, Aktien- und Rohstoffmaerkten bestaetigte den bekannten Risk-off-Ton (ETF-Abfluesse, hohe Renditen, Fed-Zinsdebatte) ohne neuen, heute-datierten Einzelkatalysator fuer einen Kauf. Passend zum spekulativen Kurzfrist-Profil wird nur bei wirklich ueberzeugenden, bestaetigten Gelegenheiten gehandelt. Kein Grund fuer Verkauf der BTC-Position, da -2,81% weit innerhalb der etablierten Toleranz liegt.",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 680.78,
+    "portfolioValueEnd": 680.3,
     "updates": [
       {
         "time": "00:09",
@@ -8791,6 +8791,11 @@
         "time": "17:09",
         "note": "Keine Aenderung: BTC (pos-0018) per CoinDesk auf 82.700 USD aktualisiert (-2,75% seit Kauf), Pullback von Tageshoch nahe 84.000 USD bei ETF-Abfluessen >600 Mio USD; weiterhin innerhalb der Halte-Toleranz; AVAX weiterhin ohne frischen Katalysator; kein Trade",
         "portfolioValue": 680.78
+      },
+      {
+        "time": "18:08",
+        "note": "Keine Aenderung: BTC (pos-0018) bei 82.642,39 USD (-2,81% seit Kauf) weiterhin innerhalb der Halte-Toleranz; Markt insgesamt weiter risikoavers (ETF-Abfluesse, hohe Anleiherenditen), kein frischer bestaetigter Einzelkatalysator fuer Neukauf trotz offener Maerkte; kein Trade",
+        "portfolioValue": 680.3
       }
     ]
   }
