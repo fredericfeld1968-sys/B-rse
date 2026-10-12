@@ -8694,13 +8694,13 @@
   },
   {
     "date": "2026-10-12",
-    "marketOverview": "Montag, 12:08 Uhr: Xetra weiterhin offen, Nasdaq folgt erst um 15:30 MESZ. Bitcoin laut CoinGecko-API bei 83.432 USD (+0,55% 24h), nahezu unveraendert zum letzten Lauf. AVAX (+7,0%) und ENA (+5,4%) weiterhin mit deutlichem 24h-Plus, aber trotz erneuter gezielter Recherche weiterhin ohne frischen, auf heute (12.10.) datierten und unabhaengig bestaetigten Einzelkatalysator auffindbar. Fuer die laufende US-/EU-Sitzung kein neuer Einzelkatalysator gefunden. Markt insgesamt im Wartemodus vor US-CPI (Mi, 14.10.) und FOMC (27.-28.10.).",
-    "decision": "Kein Trade in diesem Lauf. BTC-Position (pos-0018) bei -1,89% seit Kauf weiterhin klar innerhalb der Stop-Loss-Toleranz (-6,5 bis -7,5%), wird gehalten. Kein Neukauf: AVAX/ENA-Anstiege weiterhin ohne frischen, unabhaengig bestaetigten Einzelkatalysator fuer heute; trotz freiem Kapital (~67.638 EUR) daher kein ueberzeugender Trade.",
-    "reasoning": "Live-Kursabfrage per CoinGecko-API sowie erneute gezielte Recherche zu moeglichen Aktien- und Altcoin-Katalysatoren (AVAX, ENA, allgemeine Marktlage) ergab keinen frischen, auf heute datierten und mehrfach unabhaengig bestaetigten Ausloeser. Passend zum spekulativen Kurzfrist-Profil wird nur bei einer wirklich ueberzeugenden, frisch bestaetigten Gelegenheit gehandelt; diese liegt aktuell nicht vor.",
+    "marketOverview": "Bitcoin haelt sich laut CoinDesk bei rund 83.500 USD trotz anhaltender ETF-Outflows; Michael Saylor (Strategy) signalisierte moegliche Wiederaufnahme von BTC-Kaeufen. Kein frischer Einzelkatalysator der letzten Stunden identifizierbar. Gold stabil bei ca. 4.200-4.230 USD/oz, Oel (WTI ~90, Brent ~103 USD) leicht ruecklaeufig auf Berichte ueber einen moeglichen Russland-Ukraine-Energie-Waffenstillstand. Einzige auffaellige Einzelbewegung (IREN, +5,5% auf Anthropic-Cloud-Deal-Spekulation) ist laut Stocktwits ausdruecklich unbestaetigt und daher kein belastbarer Handelsanlass. AVAX/ENA weiterhin ohne neuen, auf heute datierten Katalysator.",
+    "decision": "Kein Trade in diesem Lauf. BTC-Position (pos-0018) bei -1,81% seit Kauf weiterhin klar innerhalb der Stop-Loss-Toleranz (-6,5 bis -7,5%), wird gehalten und auf aktuellen Kurs (83.500 USD) aktualisiert. Kein Neukauf: einzige auffaellige Tagesbewegung (IREN) beruht auf unbestaetigter Spekulation, kein bestaetigter fundamentaler Katalysator; trotz freiem Kapital (~67.638 EUR) kein ueberzeugendes Setup.",
+    "reasoning": "WebSearch-Recherche ergab keinen frischen, mehrfach bestaetigten Katalysator fuer Aktien, ETFs, Rohstoffe oder Krypto. Passend zum spekulativen Kurzfrist-Profil wird nur bei wirklich ueberzeugenden, bestaetigten Gelegenheiten gehandelt (Analogie: fruehere erfolgreiche Trades basierten stets auf mehrfach unabhaengig bestaetigten, frischen Katalysatoren). Kein Grund fuer Verkauf der BTC-Position, da die Bewegung (-1,81%) weit innerhalb der etablierten Toleranz liegt.",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 686.8,
+    "portfolioValueEnd": 687.36,
     "updates": [
       {
         "time": "00:09",
@@ -8766,6 +8766,11 @@
         "time": "12:08",
         "note": "Keine Aenderung: BTC (pos-0018) bei 83.432 USD (-1,89% seit Kauf) weiterhin innerhalb der Halte-Toleranz; AVAX (+7,0%)/ENA (+5,4%) weiterhin ohne frischen Katalysator; kein Trade",
         "portfolioValue": 686.8
+      },
+      {
+        "time": "13:08",
+        "note": "Keine Aenderung: BTC (pos-0018) Kursupdate auf 83.500 USD (-1,81% seit Kauf), weiterhin innerhalb Halte-Toleranz; IREN-Bewegung unbestaetigte Spekulation, kein Katalysator; kein Trade",
+        "portfolioValue": 687.36
       }
     ]
   }
