@@ -8694,13 +8694,13 @@
   },
   {
     "date": "2026-10-12",
-    "marketOverview": "Montag, 03:09 Uhr: Boersen, ETFs und Rohstoffe weiterhin ausserhalb der Handelszeiten (Oeffnung 15:30 MESZ). Bitcoin via CoinGecko-API bei 83.918 USD (+1,23% 24h), leicht erholt gegenueber dem letzten Lauf. ENA (+8,6% 24h) und AVAX (+5,7% 24h) weiterhin mit Staerke, aber wie in den letzten Laeufen ohne neuen, unabhaengig bestaetigten Einzelkatalysator - CoinDesk listet keine frischen ENA/AVAX-Meldungen, nur allgemeine Themen (Flash-Crash-Jahrestag, IMF-Bericht zu tokenisierten Aktien, Trump-Ankuendigung einer Energie-Waffenruhe Russland-Ukraine). Weiterhin ruhige, nachrichtenarme Nachtstunde ohne klaren neuen Trend.",
-    "decision": "Kein Trade in diesem Lauf. BTC-Position (pos-0018) bei -1,31% seit Kauf, klar innerhalb der Stop-Loss-Toleranz (-6,5 bis -7,5%), wird gehalten. Kein Neukauf, da trotz reichlich freiem Kapital (~67.638 EUR) kein frisch bestaetigter Katalysator fuer ENA, AVAX oder andere Altcoins auffindbar ist.",
+    "marketOverview": "Montag, 04:07 Uhr: Boersen, ETFs und Rohstoffe weiterhin ausserhalb der Handelszeiten (Oeffnung 15:30 MESZ). Bitcoin via CoinGecko-API bei 83.640 USD (+0,82% 24h), leicht niedriger als beim letzten Lauf. ENA (+6,3% 24h) und AVAX (+5,8% 24h) weiterhin mit Staerke, aber trotz gezielter Recherche weiterhin ohne neuen, unabhaengig bestaetigten Einzelkatalysator - der grosse ENA-Investoren-Unlock vom 05.10. ist bereits eingepreist, zu AVAX liegen nur aeltere Meldungen (Token-Unlock Februar, ETF-Nettoflues weiterhin bei Null) vor. Ruhige, nachrichtenarme Nachtstunde ohne klaren neuen Trend.",
+    "decision": "Kein Trade in diesem Lauf. BTC-Position (pos-0018) bei -1,64% seit Kauf, klar innerhalb der Stop-Loss-Toleranz (-6,5 bis -7,5%), wird gehalten. Kein Neukauf, da trotz reichlich freiem Kapital (~67.638 EUR) kein frisch bestaetigter Katalysator fuer ENA, AVAX oder andere Altcoins auffindbar ist.",
     "reasoning": "Spekulatives Risikoprofil mit erlaubtem kurzfristigem Trading, aber ausserhalb der Boersenzeiten ist ohnehin nur Krypto bewegbar. Freies Kapital liegt bei rund 67.638 EUR, reichlich vorhanden, aber ohne belastbaren frischen Katalysator wird bewusst nicht investiert. BTC-Position bleibt unveraendert gehalten.",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 690.8,
+    "portfolioValueEnd": 688.52,
     "updates": [
       {
         "time": "00:09",
@@ -8721,6 +8721,11 @@
         "time": "03:09",
         "note": "Keine Aenderung: BTC (pos-0018) bei 83.918 USD (-1,31% seit Kauf) leicht erholt, weiterhin innerhalb der Halte-Toleranz; ENA/AVAX mit 24h-Plus aber laut CoinDesk ohne frischen bestaetigten Einzelkatalysator; kein Trade",
         "portfolioValue": 690.8
+      },
+      {
+        "time": "04:07",
+        "note": "Keine Aenderung: BTC (pos-0018) bei 83.640 USD (-1,64% seit Kauf) weiterhin innerhalb der Halte-Toleranz; ENA (+6,3%)/AVAX (+5,8%) trotz gezielter Suche ohne frischen Katalysator; kein Trade",
+        "portfolioValue": 688.52
       }
     ]
   }
