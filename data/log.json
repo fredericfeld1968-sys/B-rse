@@ -8694,13 +8694,13 @@
   },
   {
     "date": "2026-10-12",
-    "marketOverview": "Montag, 09:09 Uhr: Xetra ist seit 09:00 MESZ geoeffnet, Nasdaq folgt um 15:30 MESZ. Bitcoin bei ca. 84.113 USD (+1,25% 24h, CoinGecko-API), leicht erholt gegenueber dem letzten Lauf. AVAX (+6,6%) und ENA (+6,7%) weiterhin mit deutlichem 24h-Plus, aber laut erneuter gezielter Recherche ohne frischen, auf heute (12.10.) datierten und unabhaengig bestaetigten Einzelkatalysator - nur aeltere institutionelle Meldungen. Markt insgesamt im Wartemodus vor US-CPI (Mi, 14.10.) und FOMC (27.-28.10.).",
-    "decision": "Kein Trade in diesem Lauf. BTC-Position (pos-0018) bei -1,08% seit Kauf weiterhin klar innerhalb der Stop-Loss-Toleranz (-6,5 bis -7,5%), wird gehalten. Kein Neukauf: AVAX/ENA-Anstiege weiterhin ohne frischen, unabhaengig bestaetigten Einzelkatalysator fuer heute, daher trotz freiem Kapital (~67.638 EUR) kein ueberzeugender Trade. Auch zum Handelsstart an den Aktienmaerkten (Xetra seit 09:00 MESZ offen) keine ueberzeugende Einzelgelegenheit identifiziert.",
-    "reasoning": "Live-Kursabfrage per CoinGecko-API sowie erneute gezielte Recherche zu moeglichen Altcoin- und Aktien-Katalysatoren ergab keinen frischen, auf heute datierten und mehrfach unabhaengig bestaetigten Ausloeser. Passend zum spekulativen Kurzfrist-Profil wird nur bei einer wirklich ueberzeugenden, frisch bestaetigten Gelegenheit gehandelt; diese liegt aktuell nicht vor.",
+    "marketOverview": "Montag, 10:09 Uhr: Xetra seit 09:00 MESZ offen, Nasdaq folgt um 15:30 MESZ. Bitcoin bei ca. 83.781 USD (+0,98% 24h, CoinGecko-API), leicht niedriger als im letzten Lauf. AVAX (+6,9%) und ENA (+6,8%) weiterhin mit deutlichem 24h-Plus, aber laut erneuter gezielter Recherche weiterhin ohne frischen, auf heute (12.10.) datierten und unabhaengig bestaetigten Einzelkatalysator. Aktienmaerkte/Oel weiterhin gepraegt vom Nahost-Tanker-Zwischenfall vom 08.10. (bereits eingepreist), kein neuer Einzelkatalysator fuer heute gefunden. Markt insgesamt im Wartemodus vor US-CPI (Mi, 14.10.) und FOMC (27.-28.10.).",
+    "decision": "Kein Trade in diesem Lauf. BTC-Position (pos-0018) bei -1,47% seit Kauf weiterhin klar innerhalb der Stop-Loss-Toleranz (-6,5 bis -7,5%), wird gehalten. Kein Neukauf: AVAX/ENA-Anstiege weiterhin ohne frischen, unabhaengig bestaetigten Einzelkatalysator fuer heute, daher trotz freiem Kapital (~67.638 EUR) kein ueberzeugender Trade.",
+    "reasoning": "Live-Kursabfrage per CoinGecko-API sowie erneute gezielte Recherche zu moeglichen Aktien- und Altcoin-Katalysatoren (DAX, US-Markt, AVAX, ENA) ergab keinen frischen, auf heute datierten und mehrfach unabhaengig bestaetigten Ausloeser. Passend zum spekulativen Kurzfrist-Profil wird nur bei einer wirklich ueberzeugenden, frisch bestaetigten Gelegenheit gehandelt; diese liegt aktuell nicht vor.",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 692.41,
+    "portfolioValueEnd": 689.68,
     "updates": [
       {
         "time": "00:09",
@@ -8751,6 +8751,11 @@
         "time": "09:09",
         "note": "Keine Aenderung: BTC (pos-0018) leicht erholt auf 84.113 USD (-1,08% seit Kauf); AVAX (+6,6%)/ENA (+6,7%) weiterhin ohne frischen Katalysator; Xetra seit 09:00 MESZ offen, kein ueberzeugender Trade; kein Trade",
         "portfolioValue": 692.41
+      },
+      {
+        "time": "10:09",
+        "note": "Keine Aenderung: BTC (pos-0018) leicht gefallen auf 83.781 USD (-1,47% seit Kauf) weiterhin innerhalb der Halte-Toleranz; AVAX (+6,9%)/ENA (+6,8%) weiterhin ohne frischen Katalysator; Aktienmarkt ohne neue Einzelmeldung seit Tanker-Zwischenfall vom 08.10.; kein Trade",
+        "portfolioValue": 689.68
       }
     ]
   }
