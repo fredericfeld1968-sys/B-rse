@@ -8694,13 +8694,13 @@
   },
   {
     "date": "2026-10-12",
-    "marketOverview": "Bitcoin pendelt laut CoinGecko-Live-API bei rund 83.244 USD (+0,18% 24h), weiterhin ohne frischen Einzelkatalysator. AVAX (+5,0% 24h) und ENA (+2,2% 24h) legen leicht zu, aber auch dafuer ist laut Recherche kein neuer, heute datierter bestaetigter Katalysator auffindbar. Die grosse US-Bankenberichtssaison (JPM, GS, WFC, C, JNJ, UNH) startet erst morgen (13.10.); IREN/Anthropic-Spekulation bleibt laut vorherigen Laeufen unbestaetigt. Insgesamt ruhiger, abwartender Markttag vor dem CPI-Termin (14.10.) und dem naechsten FOMC (27.-28.10.).",
-    "decision": "Kein Trade in diesem Lauf. BTC-Position (pos-0018) bei -2,11% seit Kauf weiterhin klar innerhalb der Stop-Loss-Toleranz (-6,5 bis -7,5%), wird gehalten und auf aktuellen Kurs (83.244 USD) aktualisiert. Kein Neukauf: AVAX/ENA-Bewegungen ohne bestaetigten frischen Katalysator, keine ueberzeugende Gelegenheit trotz freiem Kapital (~67.638 EUR).",
-    "reasoning": "WebSearch- und CoinGecko-API-Recherche ergaben keinen frischen, mehrfach bestaetigten Katalysator fuer Aktien, ETFs, Rohstoffe oder Krypto. Passend zum spekulativen Kurzfrist-Profil wird nur bei wirklich ueberzeugenden, bestaetigten Gelegenheiten gehandelt. Kein Grund fuer Verkauf der BTC-Position, da die Bewegung (-2,11%) weit innerhalb der etablierten Toleranz liegt.",
+    "marketOverview": "Bitcoin ist laut direkter CoinGecko-API-Abfrage auf ca. 82.517 USD gefallen (-0,63% 24h), belastet durch anhaltende Spot-ETF-Abfluesse und steigende US-Anleiherenditen (Bond-Markt am Columbus Day geschlossen); AVAX (+2,8% 24h) und ENA (+0,9% 24h) zeigen kein neues, heute datiertes Einzelereignis. An den US-Aktienmaerkten notierten die Futures vor Handelsstart (NYSE-Oeffnung 15:30 MESZ) nahezu flach (Dow/S&P +0,1%, Nasdaq-100 -0,1%); Hauptthema bleibt der Oelpreis: Brent ueber 106 USD/Barrel (Zweiwochenhoch) wegen eskalierender Spannungen im Nahen Osten. Die grosse US-Bankenberichtssaison (JPM, GS, WFC, C) startet erst morgen (13.10.), vor dem CPI-Termin (14.10.) und dem naechsten FOMC (27.-28.10.).",
+    "decision": "Kein Trade in diesem Lauf. BTC-Position (pos-0018) bei -2,96% seit Kauf weiterhin klar innerhalb der Stop-Loss-Toleranz (-6,5 bis -7,5%), wird gehalten und auf aktuellen Kurs (82.517 USD) aktualisiert. Kein Neukauf: Oelpreis-Anstieg (Brent >106 USD) ist bereits bekanntes, mehrtaegiges Thema ohne frischen Einzelkatalysator fuer einen neuen Rohstoff-Trade; AVAX/ENA-Bewegungen weiterhin ohne bestaetigten Katalysator; US-Aktienmarkt noch nicht eroeffnet. Keine ueberzeugende Gelegenheit trotz freiem Kapital (~67.638 EUR).",
+    "reasoning": "WebSearch- und CoinGecko-API-Recherche ergaben keinen frischen, mehrfach bestaetigten Katalysator fuer Aktien, ETFs, Rohstoffe oder Krypto, der ueber bereits bekannte, mehrtaegige Themen (Oelpreis/Nahost, ETF-Abfluesse bei Bitcoin) hinausgeht. Passend zum spekulativen Kurzfrist-Profil wird nur bei wirklich ueberzeugenden, bestaetigten Gelegenheiten gehandelt. Kein Grund fuer Verkauf der BTC-Position, da die Bewegung (-2,96%) weit innerhalb der etablierten Toleranz liegt.",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 685.26,
+    "portfolioValueEnd": 679.27,
     "updates": [
       {
         "time": "00:09",
@@ -8776,6 +8776,11 @@
         "time": "14:17",
         "note": "Keine Aenderung: BTC (pos-0018) per CoinGecko-API auf 83.244 USD (-2,11% seit Kauf) aktualisiert, weiterhin innerhalb der Halte-Toleranz; AVAX (+5,0%)/ENA (+2,2%) ohne frischen bestaetigten Katalysator; kein Trade",
         "portfolioValue": 685.26
+      },
+      {
+        "time": "15:20",
+        "note": "Keine Aenderung: BTC (pos-0018) per CoinGecko-API auf 82.517 USD (-2,96% seit Kauf) aktualisiert; Brent-Oel ueber 106 USD (Nahost-Spannungen) als Hauptthema, aber kein frischer Einzelkatalysator fuer neuen Trade; US-Bankenberichtssaison startet erst morgen; kein Trade",
+        "portfolioValue": 679.27
       }
     ]
   }
