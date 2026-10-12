@@ -8700,7 +8700,7 @@
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 679.19,
+    "portfolioValueEnd": 678.46,
     "updates": [
       {
         "time": "00:09",
@@ -8801,6 +8801,11 @@
         "time": "19:08",
         "note": "Keine Aenderung: BTC (pos-0018) per CoinGecko-API auf 82.507 USD aktualisiert (-2,97% seit Kauf, 24h -1,44%); gesamter Kryptomarkt breit im Minus (XRP/SOL/AVAX/HYPE/BCH/DOGE/QNT/NEAR/ENA/STRK alle rot) ohne Kaufgelegenheit; kein frischer Katalysator fuer Aktien/ETFs/Rohstoffe; kein Trade",
         "portfolioValue": 679.19
+      },
+      {
+        "time": "20:08",
+        "note": "Keine Aenderung: BTC (pos-0018) per CoinGecko-API auf 82.418 USD aktualisiert (-3,08% seit Kauf, 24h -1,65%); gesamter Kryptomarkt breit im Minus (ETH -1,18%, XRP -3,81%, SOL -4,04%), kein frischer bestaetigter Einzelkatalysator fuer Aktien/ETFs/Rohstoffe oder Krypto gefunden; weiterhin innerhalb der Halte-Toleranz; kein Trade",
+        "portfolioValue": 678.46
       }
     ]
   }
