@@ -8694,13 +8694,13 @@
   },
   {
     "date": "2026-10-12",
-    "marketOverview": "Montag, 08:15 Uhr: Boersen, ETFs und Rohstoffe weiterhin ausserhalb der Handelszeiten (Xetra oeffnet 09:00 MESZ, Nasdaq 15:30 MESZ); laut Vorboersen-Indikatoren (CNBC, Stand Vorabend) leicht risk-on (S&P-Futures +0,24%, VIX 14,84). Bitcoin leicht erholt auf ca. 83.761 USD (+0,95% 24h, CoinGecko-API). AVAX (+7,1%) und ENA (+6,7%) weiterhin mit 24h-Plus, aber laut gezielter Recherche ohne frischen, auf heute datierten und unabhaengig bestaetigten Einzelkatalysator (nur 3-4 Tage alte Ereignisse wie Chainlink CCIP Vault Adapters oder Solana-Samsung-Wallet). Hintergrundthema bleibt die verschaerfte US-Sanktionspolitik gegen Iran (angekuendigte Beschlagnahmung von ca. 1 Mrd. USD iran-bezogener Krypto-Assets), ohne akute Eskalation. Markt insgesamt im Wartemodus vor US-CPI (Mi, 14.10.) und FOMC (27.-28.10.).",
-    "decision": "Kein Trade in diesem Lauf. BTC-Position (pos-0018) bei -1,50% seit Kauf weiterhin klar innerhalb der Stop-Loss-Toleranz (-6,5 bis -7,5%), wird gehalten. Kein Neukauf: AVAX/ENA-Anstiege ohne frischen, unabhaengig bestaetigten Einzelkatalysator fuer heute, daher trotz freiem Kapital (~67.638 EUR) kein ueberzeugender Trade.",
-    "reasoning": "Live-Kursabfrage per CoinGecko-API sowie gezielte Recherche zu moeglichen Altcoin-Katalysatoren ergab keinen frischen, auf heute datierten und mehrfach unabhaengig bestaetigten Ausloeser - nur aeltere Ereignisse (Chainlink CCIP, Solana-Samsung-Wallet, je ca. 3-4 Tage alt) bzw. ein unveraendertes geopolitisches Hintergrundrisiko (Iran-Sanktionen). Passend zum spekulativen Kurzfrist-Profil wird nur bei einer wirklich ueberzeugenden, frisch bestaetigten Gelegenheit gehandelt; diese liegt aktuell nicht vor.",
+    "marketOverview": "Montag, 09:09 Uhr: Xetra ist seit 09:00 MESZ geoeffnet, Nasdaq folgt um 15:30 MESZ. Bitcoin bei ca. 84.113 USD (+1,25% 24h, CoinGecko-API), leicht erholt gegenueber dem letzten Lauf. AVAX (+6,6%) und ENA (+6,7%) weiterhin mit deutlichem 24h-Plus, aber laut erneuter gezielter Recherche ohne frischen, auf heute (12.10.) datierten und unabhaengig bestaetigten Einzelkatalysator - nur aeltere institutionelle Meldungen. Markt insgesamt im Wartemodus vor US-CPI (Mi, 14.10.) und FOMC (27.-28.10.).",
+    "decision": "Kein Trade in diesem Lauf. BTC-Position (pos-0018) bei -1,08% seit Kauf weiterhin klar innerhalb der Stop-Loss-Toleranz (-6,5 bis -7,5%), wird gehalten. Kein Neukauf: AVAX/ENA-Anstiege weiterhin ohne frischen, unabhaengig bestaetigten Einzelkatalysator fuer heute, daher trotz freiem Kapital (~67.638 EUR) kein ueberzeugender Trade. Auch zum Handelsstart an den Aktienmaerkten (Xetra seit 09:00 MESZ offen) keine ueberzeugende Einzelgelegenheit identifiziert.",
+    "reasoning": "Live-Kursabfrage per CoinGecko-API sowie erneute gezielte Recherche zu moeglichen Altcoin- und Aktien-Katalysatoren ergab keinen frischen, auf heute datierten und mehrfach unabhaengig bestaetigten Ausloeser. Passend zum spekulativen Kurzfrist-Profil wird nur bei einer wirklich ueberzeugenden, frisch bestaetigten Gelegenheit gehandelt; diese liegt aktuell nicht vor.",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 689.51,
+    "portfolioValueEnd": 692.41,
     "updates": [
       {
         "time": "00:09",
@@ -8746,6 +8746,11 @@
         "time": "08:15",
         "note": "Keine Aenderung: BTC-Kursupdate per CoinGecko-API (83.761 USD, +0,95% 24h, -1,50% seit Kauf); AVAX (+7,1%)/ENA (+6,7%) weiterhin ohne frischen Katalysator trotz gezielter Recherche; kein Trade",
         "portfolioValue": 689.51
+      },
+      {
+        "time": "09:09",
+        "note": "Keine Aenderung: BTC (pos-0018) leicht erholt auf 84.113 USD (-1,08% seit Kauf); AVAX (+6,6%)/ENA (+6,7%) weiterhin ohne frischen Katalysator; Xetra seit 09:00 MESZ offen, kein ueberzeugender Trade; kein Trade",
+        "portfolioValue": 692.41
       }
     ]
   }
