@@ -8823,5 +8823,22 @@
         "portfolioValue": 681.62
       }
     ]
+  },
+  {
+    "date": "2026-10-13",
+    "marketOverview": "Breiter Krypto-Risk-off setzt sich zu Beginn des neuen Tages fort: BTC bei rund 82.600 USD (-1% 24h), Altcoins deutlich staerker im Minus (ADA -4,7%, SUI -5,8%, UNI -5,7%, NEAR -9,2%, AVAX -4,3%, LINK -3,1%). Aktien-, ETF- und Rohstoffmaerkte sind ausserhalb der US-/EU-Handelszeiten (Nacht) geschlossen. Kein frischer, bestaetigter Einzelkatalysator fuer einen Trade erkennbar.",
+    "decision": "Kein Trade in diesem Lauf. Tagesbudget von 1.000 EUR fuer den 13.10. gutgeschrieben. Bestehende BTC-Position (pos-0018) bleibt innerhalb der Halte-Toleranz und wird nur im Kurs aktualisiert.",
+    "reasoning": "Der gesamte Kryptomarkt befindet sich in einem breiten Risk-off ohne neuen Katalysator; die BTC-Position liegt mit -2,82% seit Kauf deutlich innerhalb der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%) und wird daher gehalten. Fuer Neukaeufe fehlt angesichts des durchweg negativen Marktbilds eine ueberzeugende Gelegenheit; Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten ohnehin nicht handelbar.",
+    "positionIds": [
+      "pos-0018"
+    ],
+    "portfolioValueEnd": 680.27,
+    "updates": [
+      {
+        "time": "00:08",
+        "note": "Kein Trade, BTC-Kursupdate (82.638 USD, -2,82% seit Kauf); breiter Krypto-Risk-off haelt an (ADA/SUI/UNI/NEAR/AVAX/LINK alle deutlich im Minus), Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten; kein neuer bestaetigter Katalysator",
+        "portfolioValue": 680.27
+      }
+    ]
   }
 ]
