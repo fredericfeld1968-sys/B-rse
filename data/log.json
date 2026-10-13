@@ -8826,13 +8826,13 @@
   },
   {
     "date": "2026-10-13",
-    "marketOverview": "BTC notiert weiterhin stabil in der etablierten 82.000-83.700er-Spanne (konkrete frische Live-Notierung diesmal nicht verlaesslich auffindbar, Quellen widersprechen sich oder sind undatiert). Der Chip-Aktien-Ausverkauf und die gemischte US-Bankergebnissaison bleiben die dominanten Themen, kein neuer, frisch bestaetigter Einzelkatalysator seit dem letzten Lauf. NYSE ist noch bis 22:00 MESZ geoeffnet. Naechster grosser Katalysator bleibt der US-CPI-Bericht morgen (14.10., 8:30 Uhr ET) und der PPI-Bericht am Donnerstag.",
-    "decision": "Kein Trade in diesem Lauf. Tagesbudget 13.10. bereits gutgeschrieben (keine erneute Gutschrift). BTC-Position (pos-0018) unveraendert bei ca. 83.460 USD belassen, da keine verlaesslich frischere Notierung auffindbar war (-1,85% seit Kauf, klar innerhalb der Stop-Loss-Schwelle). Keine Neuposition: kein frischer, mehrfach bestaetigter Kaufkatalysator seit dem letzten Lauf auffindbar; Vorsicht vor dem morgigen CPI-Bericht ueberwiegt weiterhin.",
-    "reasoning": "Mehrere Websuchen zu BTC-Live-Preis sowie zur allgemeinen Marktlage (Aktien, Chip-Sektor, CPI-Vorschau) lieferten nur undatierte oder widerspruechliche Altdaten, keine verlaesslich frische, mehrfach bestaetigte Notierung oder Einzelmeldung ueber den bereits bekannten Chip-Ausverkauf und die gemischte Bankergebnissaison hinaus. Deshalb wird der zuletzt bestaetigte BTC-Stand (ca. 83.460 USD, -1,85% seit Kauf) unveraendert uebernommen. Kein neues ueberzeugendes Kaufsignal gefunden; NYSE ist noch geoeffnet (bis 22:00 MESZ), aber ohne frischen Katalysator bleibt das Portfolio passend zum Vorsichtsgebot vor dem morgigen CPI-Bericht unveraendert.",
+    "marketOverview": "BTC notiert laut CoinGecko-API (live) bei 83.126 USD (+0,93% in 24h), stabil in der etablierten 81.000-84.000er-Spanne. Der Chip-Aktien-Ausverkauf und die gemischte US-Bankergebnissaison bleiben die dominanten Themen fuer Aktien; US-Boersen (NYSE/Nasdaq) laufen noch bis 22:00 MESZ. Kein neuer, frisch bestaetigter Einzelkatalysator seit dem letzten Lauf gefunden. Naechster grosser Katalysator bleibt der US-CPI-Bericht morgen (14.10., 8:30 Uhr ET) und der PPI-Bericht am Donnerstag.",
+    "decision": "Kein Trade in diesem Lauf. Tagesbudget 13.10. bereits gutgeschrieben (keine erneute Gutschrift). BTC-Position (pos-0018) per CoinGecko-API auf 83.126 USD aktualisiert (-2,24% seit Kauf, klar innerhalb der Stop-Loss-Schwelle). Keine Neuposition: kein frischer, mehrfach bestaetigter Kaufkatalysator seit dem letzten Lauf auffindbar; Vorsicht vor dem morgigen CPI-Bericht ueberwiegt weiterhin, NYSE schliesst in Kuerze (22:00 MESZ).",
+    "reasoning": "Mehrere Websuchen zu BTC-Live-Preis (CoinGecko-API, verlaesslich: 83.126 USD, +0,93% 24h) sowie zur allgemeinen Marktlage (Aktien, Chip-Sektor, Bankergebnisse, Krypto-Altcoins) lieferten keinen neuen, mehrfach bestaetigten Einzelkatalysator ueber den bereits bekannten Chip-Ausverkauf und die gemischte Bankergebnissaison hinaus (Dow/S&P/Nasdaq laut Yahoo-Finance-Snapshot leicht im Minus). Kein neues ueberzeugendes Kaufsignal gefunden; NYSE schliesst in Kuerze (22:00 MESZ), Vorsicht vor dem morgigen CPI-Bericht ueberwiegt, daher bleibt das Portfolio unveraendert bis auf das BTC-Kursupdate.",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 687.03,
+    "portfolioValueEnd": 684.29,
     "updates": [
       {
         "time": "00:08",
@@ -8938,6 +8938,11 @@
         "time": "20:09",
         "note": "Keine Aenderung: Keine verlaesslich frischere BTC-Notierung als der letzte Stand (ca. 83.460 USD, -1,85% seit Kauf) auffindbar; keine neue bestaetigte Katalysator-Meldung in Aktien/Chip-Sektor gefunden; Vorsicht vor morgigem CPI-Bericht ueberwiegt weiterhin; kein Trade.",
         "portfolioValue": 687.03
+      },
+      {
+        "time": "21:09",
+        "note": "Kein Trade, BTC-Kursupdate via CoinGecko-API (83.126 USD, +0,93% in 24h, -2,24% seit Kauf); Chip-Ausverkauf und gemischte Bankergebnisse bleiben dominant, NYSE schliesst in Kuerze (22:00 MESZ); kein neuer Kaufkatalysator vor dem morgigen CPI-Bericht gefunden.",
+        "portfolioValue": 684.29
       }
     ]
   }
