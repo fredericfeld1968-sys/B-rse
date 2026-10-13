@@ -8826,13 +8826,13 @@
   },
   {
     "date": "2026-10-13",
-    "marketOverview": "Krypto bleibt im Risk-off: BTC pendelt um die 81.000-82.000 USD-Marke (zuletzt bestaetigt 81.948,51 USD, -2% in 24h laut Goodreturns), getrieben von Spot-BTC-ETF-Abfluessen, hawkishen Fed-Kommentaren (Cleveland-Fed-Praesidentin Hammack) und einem gemeldeten Tanker-Zwischenfall nahe der Strasse von Hormuz, der die Oelpreise stuetzt. Ein KuCoin-Snapshot von 04:24 MESZ zeigt zudem erhoehte Liquidationen (~672 Mio. USD in 24h, ueberwiegend Longs) sowie leicht schwaechere US-Indizes (Nasdaq ~27.246, S&P 500 ~7.807). Marktteilnehmer warten weiter auf den US-CPI-Bericht am 14.10. als naechsten Katalysator. Fuer DAX/Xetra (seit 09:00 MESZ offen) und US-Einzelwerte (NYSE oeffnet erst 15:30 MESZ) liess sich erneut keine verlaessliche, auf den 13.10. datierte Meldung mit konkretem Kurssprung finden.",
-    "decision": "Kein Trade in diesem Lauf. Tagesbudget 13.10. bereits gutgeschrieben (keine erneute Gutschrift). BTC-Position (pos-0018) unveraendert bei 81.948,51 USD belassen (-3,63% seit Kauf, weiterhin klar innerhalb der Stop-Loss-Schwelle), da keine neuere verlaessliche Notierung gefunden wurde. Keine Neuposition, da keine wirklich ueberzeugende, mehrfach bestaetigte frische Gelegenheit in Aktien/ETFs/Rohstoffen gefunden wurde.",
-    "reasoning": "Mehrere gezielte Suchen (BTC-Live-Kurs, DAX/Xetra, US-Indizes, Hormuz-Oelmarkt) lieferten ueberwiegend veraltete oder widerspruechliche Daten; der einzige halbwegs frische Datenpunkt (KuCoin-Snapshot, 04:24 MESZ) bestaetigt qualitativ den bestehenden Risk-off-Trend (BTC kurzzeitig unter 81.000 USD, Erholung auf ca. 82.080 USD; hawkishe Fed-Kommentare; Tanker-Zwischenfall nahe Hormuz), liegt aber im Rahmen des bereits erfassten Kurses, sodass keine Kursaktualisierung vorgenommen wird. Fuer Aktien/ETFs/Rohstoffe fand sich trotz mehrerer Suchen keine auf heute datierte, belastbare Meldung mit konkretem, ueberzeugendem Setup, daher kein Trade in diesen Anlageklassen. Passend zur Vorgabe, nur bei einer wirklich ueberzeugenden, bestaetigten Gelegenheit zu handeln, bleibt das Portfolio in diesem Lauf unveraendert.",
+    "marketOverview": "Krypto bleibt im Risk-off: BTC notiert um 81.800-82.000 USD (zuletzt bestaetigt 81.858,60 USD, -2,27% in 24h), Liquidationen weiterhin erhoeht (~672-771 Mio. USD in 24h, ueberwiegend Longs). Neu hinzugekommen ist ein Chip-Aktien-Ausverkauf, der in Seoul startete und sich auf asiatische Maerkte ausweitete (Kospi -5,5% auf 6.035 Punkte, Nikkei >-2%); in den USA zeigte sich der Nasdaq zuletzt rund -0,4%, der S&P 500 nahezu unveraendert. Hintergrund bleiben hawkishe Fed-Kommentare, hohe Anleiherenditen (10J-Treasury >5%), Spot-BTC-ETF-Abfluesse und der gemeldete Tanker-Zwischenfall nahe der Strasse von Hormuz. Naechster Katalysator bleibt der US-CPI-Bericht am 14.10., zusaetzlich stehen ASML- und TSMC-Zahlen spaeter in der Woche an. Fuer DAX/Xetra (offen seit 09:00 MESZ) liess sich keine auf den 13.10. datierte Meldung mit konkretem, ueberzeugendem Kurssprung finden.",
+    "decision": "Kein Trade in diesem Lauf. Tagesbudget 13.10. bereits gutgeschrieben (keine erneute Gutschrift). BTC-Position (pos-0018) auf 81.858,60 USD aktualisiert (-3,74% seit Kauf, weiterhin klar innerhalb der Stop-Loss-Schwelle). Keine Neuposition: der aufkommende Chip-Aktien-Ausverkauf in Asien ist ein Warnsignal, kein Kaufsignal, und es fehlt eine wirklich ueberzeugende, mehrfach bestaetigte frische Gelegenheit in Aktien/ETFs/Rohstoffen.",
+    "reasoning": "Mehrere gezielte Suchen (BTC-Live-Kurs, DAX/Xetra, US-Maerkte, Geopolitik/CPI) bestaetigen den bestehenden Risk-off-Trend und liefern mit dem Chip-Aktien-Ausverkauf (Kospi -5,5%, Nikkei >-2%, Nasdaq -0,4%) sogar ein zusaetzliches Abwaertsrisiko vor dem CPI-Bericht am 14.10. Xetra ist zwar geoeffnet, aber es findet sich keine auf heute datierte, belastbare Meldung mit konkretem, ueberzeugendem Setup fuer einen Neukauf; ein spekulativer Einstieg in einen fallenden Markt ohne klaren Katalysator waere reines Zocken ohne Edge. Passend zur Vorgabe, nur bei einer wirklich ueberzeugenden, bestaetigten Gelegenheit zu handeln, bleibt das Portfolio in diesem Lauf unveraendert (nur BTC-Kursupdate).",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 674.59,
+    "portfolioValueEnd": 673.85,
     "updates": [
       {
         "time": "00:08",
@@ -8893,6 +8893,11 @@
         "time": "11:10",
         "note": "Keine Aenderung: Keine neuere verlaessliche BTC-Notierung als der letzte Stand (81.948,51 USD, -3,63% seit Kauf) gefunden; ein KuCoin-Snapshot von 04:24 MESZ zeigt einen kurzen Abtaucher auf ca. 81.000 USD mit Erholung auf ca. 82.080 USD (Hintergrund: hawkishe Fed-Kommentare von Cleveland-Fed-Praesidentin Hammack und ein gemeldeter Tanker-Zwischenfall nahe der Strasse von Hormuz), deckt sich aber grob mit dem bestehenden Wert, daher keine Aktualisierung der Position. Xetra ist offen, NYSE oeffnet erst um 15:30 MESZ; keine ueberzeugende frische Gelegenheit in Aktien/ETFs/Rohstoffen gefunden. Kein Trade.",
         "portfolioValue": 674.59
+      },
+      {
+        "time": "12:08",
+        "note": "Kein Trade. BTC-Kursupdate auf 81.858,60 USD (-3,74% seit Kauf, -2,27% in 24h); neu: Chip-Aktien-Ausverkauf breitet sich von Seoul auf Asien aus (Kospi -5,5%, Nikkei >-2%), Nasdaq zuletzt -0,4%, S&P 500 flach - zusaetzliches Risk-off-Signal vor CPI-Bericht am 14.10. Xetra offen, aber keine ueberzeugende frische Kaufgelegenheit gefunden.",
+        "portfolioValue": 673.85
       }
     ]
   }
