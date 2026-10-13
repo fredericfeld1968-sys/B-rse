@@ -8826,13 +8826,13 @@
   },
   {
     "date": "2026-10-13",
-    "marketOverview": "BTC notiert bei 83.458 USD (+0,63% in 24h laut CoinGecko, live) - weiterhin seitwaerts in der etablierten 81.500-83.500er-Spanne, leicht fester als im letzten Lauf. US-Bankergebnisse bleiben gemischt (JPMorgan unter Erwartung, Goldman Sachs deutlich darueber, Wells Fargo schwaecher), NYSE seit 15:30 MESZ geoeffnet. Chip-Aktien (NVDA/AMD) weiterhin unter leichtem Druck, aber kein neuer eigenstaendiger Negativkatalysator seit dem letzten Lauf auffindbar. Naechster grosser Katalysator bleibt der US-CPI-Bericht morgen (14.10.), Markt insgesamt in Wartehaltung.",
-    "decision": "Kein Trade in diesem Lauf. Tagesbudget 13.10. bereits gutgeschrieben (keine erneute Gutschrift). BTC-Position (pos-0018) auf 83.458 USD aktualisiert (-1,85% seit Kauf, klar innerhalb der Stop-Loss-Schwelle). Keine Neuposition: keine frische, mehrfach bestaetigte Katalysator-Meldung seit dem 15:14-Lauf auffindbar; Vorsicht vor dem morgigen CPI-Bericht ueberwiegt weiterhin.",
-    "reasoning": "Live-BTC-Preis (CoinGecko API) zeigt eine leichte Erholung auf 83.458 USD (+0,63% in 24h), klar innerhalb der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%). Websuche nach frischen Markt- oder Einzeltitel-Katalysatoren (Bankaktien-Reaktion, Chipwerte, Krypto) lieferte keine neuen, datierten und mehrfach bestaetigten Treffer seit dem letzten Lauf - die verfuegbaren Quellen sind entweder veraltet oder beziehen sich auf frühere Handelstage. Ohne eine wirklich ueberzeugende, frisch bestaetigte Gelegenheit bleibt das Portfolio passend zum Vorsichtsgebot vor dem morgigen CPI-Bericht unveraendert (nur BTC-Kursupdate).",
+    "marketOverview": "BTC notiert bei 83.488 USD (+1,12% in 24h laut CoinGecko, live) - leicht fester innerhalb der etablierten 81.500-83.500er-Spanne. Der Chip-Aktien-Ausverkauf (Sorgen um die Nachhaltigkeit des KI-Handels) vertieft sich laut Marktberichten, Asien staerker betroffen als die USA (Kospi -6%, Nikkei -2%), Dow leicht im Plus, S&P 500 nahezu unveraendert. Oelpreis (Brent ~105 USD) leicht ruecklaeufig, Gold rund 4.200 USD. Bankergebnisse (JPMorgan/Goldman/Wells Fargo) bleiben gemischt. Naechster grosser Katalysator bleibt der US-CPI-Bericht morgen (14.10.) und der PPI-Bericht am Donnerstag.",
+    "decision": "Kein Trade in diesem Lauf. Tagesbudget 13.10. bereits gutgeschrieben (keine erneute Gutschrift). BTC-Position (pos-0018) auf 83.488 USD aktualisiert (-1,82% seit Kauf, klar innerhalb der Stop-Loss-Schwelle). Keine Neuposition: kein frischer, mehrfach bestaetigter Kaufkatalysator seit dem letzten Lauf auffindbar; der sich vertiefende Chip-Ausverkauf ist ein Risiko-, kein Kaufsignal, und Vorsicht vor dem morgigen CPI-Bericht ueberwiegt weiterhin.",
+    "reasoning": "Live-BTC-Preis (CoinGecko API) zeigt eine leichte Erholung auf 83.488 USD (+1,12% in 24h), weiterhin klar innerhalb der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%). Websuche nach frischen Markt- oder Einzeltitel-Katalysatoren zeigt vor allem einen sich vertiefenden, bereits bekannten Chip-Ausverkauf (AI-Trade-Sorgen) sowie gemischte Bankergebnisse - beides keine neue, ueberzeugende Kaufgelegenheit. Aktien/ETFs sind zwar noch knapp handelbar (Xetra schliesst in Kuerze, NYSE laeuft), aber ohne frischen, mehrfach bestaetigten positiven Katalysator bleibt das Portfolio passend zum Vorsichtsgebot vor dem morgigen CPI-Bericht unveraendert (nur BTC-Kursupdate).",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 687.02,
+    "portfolioValueEnd": 687.27,
     "updates": [
       {
         "time": "00:08",
@@ -8918,6 +8918,11 @@
         "time": "16:09",
         "note": "Keine Aenderung: BTC-Kursupdate (83.458 USD, -1,85% seit Kauf); keine frische bestaetigte Katalysator-Meldung gefunden, Vorsicht vor morgigem CPI-Bericht ueberwiegt",
         "portfolioValue": 687.02
+      },
+      {
+        "time": "17:09",
+        "note": "Kein Trade, BTC-Kursupdate (83.488 USD, +1,12% in 24h, -1,82% seit Kauf); Chip-Ausverkauf vertieft sich (Asien staerker betroffen), Bankergebnisse gemischt, kein neuer Kaufkatalysator vor dem morgigen CPI-Bericht",
+        "portfolioValue": 687.27
       }
     ]
   }
