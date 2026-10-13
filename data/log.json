@@ -8826,13 +8826,13 @@
   },
   {
     "date": "2026-10-13",
-    "marketOverview": "Krypto-Risk-off schwaecht sich weiter leicht ab: BTC bei rund 83.248 USD (-0,29% in 24h laut CoinGecko), Altcoins bleiben staerker im Minus (ADA -5,4%, SOL -3,6%, AVAX -3,5%, LINK -3,0%, DOGE -2,8%, XRP -2,7%, ETH -1,4%). Kein neuer eigenstaendiger Katalysator gefunden, Hintergrund bleibt die seit dem 08.10. laufende Fed-bedingte Risikoaversion (hawkische FOMC-Erwartungen, hohe Anleiherenditen, anhaltende Spot-Bitcoin-ETF-Abfluesse). Aktien-, ETF- und Rohstoffmaerkte sind zu dieser fruehen Stunde (Europe/Berlin) weiterhin geschlossen.",
-    "decision": "Kein Trade in diesem Lauf. Tagesbudget von 1.000 EUR fuer den 13.10. wurde bereits zuvor gutgeschrieben (keine erneute Gutschrift). Bestehende BTC-Position (pos-0018) bleibt innerhalb der Halte-Toleranz und wird nur im Kurs aktualisiert (-2,10% seit Kauf).",
-    "reasoning": "BTC hat sich seit dem letzten Lauf weiter leicht erholt (82.468 -> 83.248 USD), die Position liegt mit -2,10% seit Kauf klar innerhalb der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%) und wird daher gehalten. Fuer Neukaeufe fehlt angesichts des weiterhin leicht negativen, richtungslosen Kryptomarktbilds und der ausserhalb der Handelszeiten liegenden Aktien/ETFs/Rohstoffe eine ueberzeugende Gelegenheit.",
+    "marketOverview": "Krypto-Risk-off bleibt weiterhin moderat: BTC bei rund 83.434 USD (-0,86% in 24h laut CoinGecko), leicht ueber dem Stand des letzten Laufs. Altcoins weiterhin staerker im Minus (ADA -6,7%, SOL -4,5%, AVAX -4,4%, XRP -3,5%, DOGE -3,7%, ETH -2,0%). Kein neuer eigenstaendiger Katalysator gefunden, Hintergrund bleibt die seit dem 08.10. laufende Fed-bedingte Risikoaversion. Aktien-, ETF- und Rohstoffmaerkte sind zu dieser fruehen Stunde (Europe/Berlin, vor Boersenoeffnung) weiterhin geschlossen.",
+    "decision": "Kein Trade in diesem Lauf. Tagesbudget von 1.000 EUR fuer den 13.10. wurde bereits zuvor gutgeschrieben (keine erneute Gutschrift). Bestehende BTC-Position (pos-0018) bleibt innerhalb der Halte-Toleranz und wird nur im Kurs aktualisiert (-1,88% seit Kauf).",
+    "reasoning": "BTC hat sich seit dem letzten Lauf leicht erholt (83.248 -> 83.434 USD), die Position liegt mit -1,88% seit Kauf klar innerhalb der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%) und wird daher gehalten. Fuer Neukaeufe fehlt angesichts des weiterhin leicht negativen, richtungslosen Kryptomarktbilds und der ausserhalb der Handelszeiten liegenden Aktien/ETFs/Rohstoffe eine ueberzeugende Gelegenheit.",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 685.29,
+    "portfolioValueEnd": 686.82,
     "updates": [
       {
         "time": "00:08",
@@ -8868,6 +8868,11 @@
         "time": "06:08",
         "note": "Keine Aenderung: BTC leicht erholt auf 83.248 USD (-2,10% seit Kauf, -0,29% in 24h), Altcoins weiterhin staerker im Minus (ADA -5,4%, SOL -3,6%); kein neuer Katalysator, Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten; kein Trade.",
         "portfolioValue": 685.29
+      },
+      {
+        "time": "07:09",
+        "note": "Keine Aenderung: BTC leicht erholt auf 83.434 USD (-1,88% seit Kauf, -0,86% in 24h); Altcoins weiterhin staerker im Minus; kein neuer Katalysator, Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten; kein Trade.",
+        "portfolioValue": 686.82
       }
     ]
   }
