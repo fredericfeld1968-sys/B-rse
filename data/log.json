@@ -8826,13 +8826,13 @@
   },
   {
     "date": "2026-10-13",
-    "marketOverview": "Breiter Krypto-Risk-off setzt sich zu Beginn des neuen Tages fort: BTC bei rund 82.600 USD (-1% 24h), Altcoins deutlich staerker im Minus (ADA -4,7%, SUI -5,8%, UNI -5,7%, NEAR -9,2%, AVAX -4,3%, LINK -3,1%). Aktien-, ETF- und Rohstoffmaerkte sind ausserhalb der US-/EU-Handelszeiten (Nacht) geschlossen. Kein frischer, bestaetigter Einzelkatalysator fuer einen Trade erkennbar.",
-    "decision": "Kein Trade in diesem Lauf. Tagesbudget von 1.000 EUR fuer den 13.10. gutgeschrieben. Bestehende BTC-Position (pos-0018) bleibt innerhalb der Halte-Toleranz und wird nur im Kurs aktualisiert.",
-    "reasoning": "Der gesamte Kryptomarkt befindet sich in einem breiten Risk-off ohne neuen Katalysator; die BTC-Position liegt mit -2,82% seit Kauf deutlich innerhalb der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%) und wird daher gehalten. Fuer Neukaeufe fehlt angesichts des durchweg negativen Marktbilds eine ueberzeugende Gelegenheit; Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten ohnehin nicht handelbar.",
+    "marketOverview": "Breiter Krypto-Risk-off setzt sich fort: BTC bei rund 81.550 USD (-2,75% 24h), Altcoins noch staerker im Minus (SOL -7,1%, AVAX -8,6%, DOGE -6,2%, ETH -4,5%, XRP -5,5%). Hintergrund bleibt die seit dem 08.10. laufende Fed-bedingte Risikoaversion: hawkische FOMC-Erwartungen (CME FedWatch ~20% Oktober-, ~80% Dezember-Zinserhoehung), Oel ueber 104 USD/Barrel, 30-jaehrige US-Rendite nahe 24-Jahres-Hoch (~5,72%) und anhaltende Spot-Bitcoin-ETF-Abfluesse. BTC naehert sich damit weiter der psychologischen 80.000-USD-Marke. Aktien-, ETF- und Rohstoffmaerkte sind nachts (Europe/Berlin) weiterhin geschlossen.",
+    "decision": "Kein Trade in diesem Lauf. Tagesbudget von 1.000 EUR fuer den 13.10. wurde bereits zuvor gutgeschrieben (keine erneute Gutschrift). Bestehende BTC-Position (pos-0018) bleibt innerhalb der Halte-Toleranz und wird nur im Kurs aktualisiert (-4,10% seit Kauf).",
+    "reasoning": "Der gesamte Kryptomarkt bleibt im breiten, Fed-getriebenen Risk-off ohne neuen eigenstaendigen Katalysator; die BTC-Position liegt mit -4,10% seit Kauf weiterhin klar innerhalb der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%) und wird daher gehalten. Fuer Neukaeufe fehlt angesichts des durchweg negativen Marktbilds (alle beobachteten Altcoins zweistellig staerker im Minus als BTC) eine ueberzeugende Gelegenheit; Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten ohnehin nicht handelbar.",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 680.27,
+    "portfolioValueEnd": 671.32,
     "updates": [
       {
         "time": "00:08",
@@ -8848,6 +8848,11 @@
         "time": "02:09",
         "note": "Keine Aenderung: Keine verlaessliche frische BTC-Live-Notierung auffindbar, Quellen bestaetigen aber weiterhin eine Spanne im niedrigen bis mittleren 80.000er-Bereich (konsistent mit 82.638 USD); kein neuer bestaetigter Katalysator, breiter Krypto-Risk-off haelt an, Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten; kein Trade",
         "portfolioValue": 680.27
+      },
+      {
+        "time": "03:08",
+        "note": "Keine Aenderung: BTC weiter gefallen auf 81.551 USD (-4,10% seit Kauf, -2,75% in 24h), breiter Krypto-Risk-off haelt an (SOL/AVAX/DOGE/ETH/XRP alle deutlich staerker im Minus als BTC); Hintergrund bleibt Fed-Zinssorgen, hohe Anleiherenditen und Spot-BTC-ETF-Abfluesse seit 08.10.; kein neuer Katalysator, kein Trade.",
+        "portfolioValue": 671.32
       }
     ]
   }
