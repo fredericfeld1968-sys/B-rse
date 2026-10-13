@@ -8826,13 +8826,13 @@
   },
   {
     "date": "2026-10-13",
-    "marketOverview": "BTC erholt sich leicht auf rund 83.109 USD (-0,30% in 24h laut CoinGecko, live), haelt sich aber weiterhin unter dem Kaufniveau. Der Chip-Aktien-Ausverkauf aus Asien (Kospi vorboerslich bis -6%, Samsung/SK Hynix je rund -8%) belastet auch die US-Vorboerse: Nasdaq-100-Futures rund -0,6 bis -1% auf Sorgen wegen Capex-Warnungen und aufkommender chinesischer Konkurrenz (CXMT). Gleichzeitig startet die US-Bankergebnissaison. Fuer Gold/Brent und DAX-Einzelwerte liess sich keine auf heute datierte, belastbare Meldung mit konkretem Kurssprung finden. Naechster Katalysator bleibt der US-CPI-Bericht morgen (14.10.).",
-    "decision": "Kein Trade in diesem Lauf. Tagesbudget 13.10. bereits gutgeschrieben (keine erneute Gutschrift). BTC-Position (pos-0018) auf 83.109 USD aktualisiert (-2,26% seit Kauf, leichte Erholung, klar innerhalb der Stop-Loss-Schwelle). Keine Neuposition: der anhaltende Chip-Aktien-Ausverkauf und die Vorsicht vor dem morgigen CPI-Bericht sprechen gegen einen spekulativen Neueinstieg ohne klaren, frischen Katalysator.",
-    "reasoning": "Live-Check via CoinGecko-API bestaetigt eine leichte BTC-Erholung gegenueber dem letzten Stand. Der Chip-Ausverkauf in Asien weitet sich zwar aus, ist aber bereits bekanntes Risk-off-Thema und liefert kein neues, konkretes Kaufsignal; der DAX zeigt laut Suche keinen auf heute datierten Einzeltitel-Kurssprung, und fuer Gold/Brent fand sich keine aktuelle, datierte Quelle. Da morgen der entscheidende US-CPI-Bericht ansteht, bleibt das Risiko einer volatilen Bewegung hoch - ohne eine wirklich ueberzeugende, mehrfach bestaetigte Gelegenheit bleibt das Portfolio passend zur Vorgabe unveraendert (nur BTC-Kursupdate).",
+    "marketOverview": "BTC bewegt sich seitwaerts bei 83.243 USD (-0,25% in 24h laut CoinGecko, live) - kaum veraendert zum letzten Lauf. US-Bankergebnissaison ist angelaufen: JPMorgan verfehlte die Gewinnschaetzungen, die Aktie legte trotzdem zu; Dow/S&P-Futures bewegten sich vorboerslich nur minimal (gemischt). Der Chip-Ausverkauf in Asien (Kospi zeitweise -6%, Samsung/SK Hynix deutlich im Minus) belastet weiterhin die Stimmung vor der NYSE-Eroeffnung (15:30 MESZ, noch nicht erfolgt). Gold wird mit rund 4.187 USD/oz, WTI mit rund 93,75 USD/Barrel beziffert (Vormittagsstand), ohne neuen eigenstaendigen Kurstreiber. Naechster grosser Katalysator bleibt der US-CPI-Bericht morgen (14.10.).",
+    "decision": "Kein Trade in diesem Lauf. Tagesbudget 13.10. bereits gutgeschrieben (keine erneute Gutschrift). BTC-Position (pos-0018) auf 83.243 USD aktualisiert (-2,11% seit Kauf, weiterhin klar innerhalb der Stop-Loss-Schwelle). Keine Neuposition: Bankergebnisse und Chip-Ausverkauf liefern kein eindeutiges Signal, NYSE noch nicht geoeffnet, Vorsicht vor dem morgigen CPI-Bericht ueberwiegt.",
+    "reasoning": "Live-BTC-Preis (CoinGecko API) bestaetigt nahezu unveraenderten Kurs (83.243 USD vs. 83.109 USD im letzten Lauf), klar innerhalb der etablierten Stop-Loss-Schwelle. Die US-Bankergebnisse liefern ein gemischtes, aber nicht eindeutig risikofreudiges Bild (JPM-Gewinn unter Erwartung, Kurs dennoch leicht im Plus) - kein klarer neuer Kauf- oder Verkaufsimpuls. Der Asien-Chip-Ausverkauf ist bereits bekanntes Risk-off-Thema ohne frischen Einzeltitel-Kurssprung in Europa/DAX. NYSE hat noch nicht geoeffnet; Xetra zeigt keine ueberzeugende frische Gelegenheit. Angesichts des morgigen CPI-Berichts bleibt die Vorsicht vor volatilen Ueberraschungen angebracht - Portfolio bleibt unveraendert (nur BTC-Kursupdate).",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 684.15,
+    "portfolioValueEnd": 685.25,
     "updates": [
       {
         "time": "00:08",
@@ -8903,6 +8903,11 @@
         "time": "13:11",
         "note": "Kein Trade, BTC-Kursupdate (83.109 USD, -2,26% seit Kauf, leichte Erholung); Chip-Aktien-Ausverkauf aus Asien belastet weiterhin US-Vorboerse (Nasdaq-Futures -0,6 bis -1%), Bankergebnissaison startet; keine ueberzeugende frische Kaufgelegenheit vor dem CPI-Bericht morgen gefunden.",
         "portfolioValue": 684.15
+      },
+      {
+        "time": "14:09",
+        "note": "Kein Trade, BTC-Kursupdate (83.243 USD, -2,11% seit Kauf, fast unveraendert); US-Bankergebnissaison gestartet (JPM-Gewinn unter Erwartung, Aktie dennoch leicht im Plus), Chip-Ausverkauf in Asien haelt an, NYSE noch nicht geoeffnet; keine ueberzeugende frische Kaufgelegenheit vor dem CPI-Bericht morgen gefunden.",
+        "portfolioValue": 685.25
       }
     ]
   }
