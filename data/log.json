@@ -8826,13 +8826,13 @@
   },
   {
     "date": "2026-10-13",
-    "marketOverview": "Krypto bleibt im Risk-off: BTC notiert um 81.800-82.000 USD (zuletzt bestaetigt 81.858,60 USD, -2,27% in 24h), Liquidationen weiterhin erhoeht (~672-771 Mio. USD in 24h, ueberwiegend Longs). Neu hinzugekommen ist ein Chip-Aktien-Ausverkauf, der in Seoul startete und sich auf asiatische Maerkte ausweitete (Kospi -5,5% auf 6.035 Punkte, Nikkei >-2%); in den USA zeigte sich der Nasdaq zuletzt rund -0,4%, der S&P 500 nahezu unveraendert. Hintergrund bleiben hawkishe Fed-Kommentare, hohe Anleiherenditen (10J-Treasury >5%), Spot-BTC-ETF-Abfluesse und der gemeldete Tanker-Zwischenfall nahe der Strasse von Hormuz. Naechster Katalysator bleibt der US-CPI-Bericht am 14.10., zusaetzlich stehen ASML- und TSMC-Zahlen spaeter in der Woche an. Fuer DAX/Xetra (offen seit 09:00 MESZ) liess sich keine auf den 13.10. datierte Meldung mit konkretem, ueberzeugendem Kurssprung finden.",
-    "decision": "Kein Trade in diesem Lauf. Tagesbudget 13.10. bereits gutgeschrieben (keine erneute Gutschrift). BTC-Position (pos-0018) auf 81.858,60 USD aktualisiert (-3,74% seit Kauf, weiterhin klar innerhalb der Stop-Loss-Schwelle). Keine Neuposition: der aufkommende Chip-Aktien-Ausverkauf in Asien ist ein Warnsignal, kein Kaufsignal, und es fehlt eine wirklich ueberzeugende, mehrfach bestaetigte frische Gelegenheit in Aktien/ETFs/Rohstoffen.",
-    "reasoning": "Mehrere gezielte Suchen (BTC-Live-Kurs, DAX/Xetra, US-Maerkte, Geopolitik/CPI) bestaetigen den bestehenden Risk-off-Trend und liefern mit dem Chip-Aktien-Ausverkauf (Kospi -5,5%, Nikkei >-2%, Nasdaq -0,4%) sogar ein zusaetzliches Abwaertsrisiko vor dem CPI-Bericht am 14.10. Xetra ist zwar geoeffnet, aber es findet sich keine auf heute datierte, belastbare Meldung mit konkretem, ueberzeugendem Setup fuer einen Neukauf; ein spekulativer Einstieg in einen fallenden Markt ohne klaren Katalysator waere reines Zocken ohne Edge. Passend zur Vorgabe, nur bei einer wirklich ueberzeugenden, bestaetigten Gelegenheit zu handeln, bleibt das Portfolio in diesem Lauf unveraendert (nur BTC-Kursupdate).",
+    "marketOverview": "BTC erholt sich leicht auf rund 83.109 USD (-0,30% in 24h laut CoinGecko, live), haelt sich aber weiterhin unter dem Kaufniveau. Der Chip-Aktien-Ausverkauf aus Asien (Kospi vorboerslich bis -6%, Samsung/SK Hynix je rund -8%) belastet auch die US-Vorboerse: Nasdaq-100-Futures rund -0,6 bis -1% auf Sorgen wegen Capex-Warnungen und aufkommender chinesischer Konkurrenz (CXMT). Gleichzeitig startet die US-Bankergebnissaison. Fuer Gold/Brent und DAX-Einzelwerte liess sich keine auf heute datierte, belastbare Meldung mit konkretem Kurssprung finden. Naechster Katalysator bleibt der US-CPI-Bericht morgen (14.10.).",
+    "decision": "Kein Trade in diesem Lauf. Tagesbudget 13.10. bereits gutgeschrieben (keine erneute Gutschrift). BTC-Position (pos-0018) auf 83.109 USD aktualisiert (-2,26% seit Kauf, leichte Erholung, klar innerhalb der Stop-Loss-Schwelle). Keine Neuposition: der anhaltende Chip-Aktien-Ausverkauf und die Vorsicht vor dem morgigen CPI-Bericht sprechen gegen einen spekulativen Neueinstieg ohne klaren, frischen Katalysator.",
+    "reasoning": "Live-Check via CoinGecko-API bestaetigt eine leichte BTC-Erholung gegenueber dem letzten Stand. Der Chip-Ausverkauf in Asien weitet sich zwar aus, ist aber bereits bekanntes Risk-off-Thema und liefert kein neues, konkretes Kaufsignal; der DAX zeigt laut Suche keinen auf heute datierten Einzeltitel-Kurssprung, und fuer Gold/Brent fand sich keine aktuelle, datierte Quelle. Da morgen der entscheidende US-CPI-Bericht ansteht, bleibt das Risiko einer volatilen Bewegung hoch - ohne eine wirklich ueberzeugende, mehrfach bestaetigte Gelegenheit bleibt das Portfolio passend zur Vorgabe unveraendert (nur BTC-Kursupdate).",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 673.85,
+    "portfolioValueEnd": 684.15,
     "updates": [
       {
         "time": "00:08",
@@ -8898,6 +8898,11 @@
         "time": "12:08",
         "note": "Kein Trade. BTC-Kursupdate auf 81.858,60 USD (-3,74% seit Kauf, -2,27% in 24h); neu: Chip-Aktien-Ausverkauf breitet sich von Seoul auf Asien aus (Kospi -5,5%, Nikkei >-2%), Nasdaq zuletzt -0,4%, S&P 500 flach - zusaetzliches Risk-off-Signal vor CPI-Bericht am 14.10. Xetra offen, aber keine ueberzeugende frische Kaufgelegenheit gefunden.",
         "portfolioValue": 673.85
+      },
+      {
+        "time": "13:11",
+        "note": "Kein Trade, BTC-Kursupdate (83.109 USD, -2,26% seit Kauf, leichte Erholung); Chip-Aktien-Ausverkauf aus Asien belastet weiterhin US-Vorboerse (Nasdaq-Futures -0,6 bis -1%), Bankergebnissaison startet; keine ueberzeugende frische Kaufgelegenheit vor dem CPI-Bericht morgen gefunden.",
+        "portfolioValue": 684.15
       }
     ]
   }
