@@ -8826,13 +8826,13 @@
   },
   {
     "date": "2026-10-13",
-    "marketOverview": "BTC notiert bei 83.488 USD (+1,12% in 24h laut CoinGecko, live) - leicht fester innerhalb der etablierten 81.500-83.500er-Spanne. Der Chip-Aktien-Ausverkauf (Sorgen um die Nachhaltigkeit des KI-Handels) vertieft sich laut Marktberichten, Asien staerker betroffen als die USA (Kospi -6%, Nikkei -2%), Dow leicht im Plus, S&P 500 nahezu unveraendert. Oelpreis (Brent ~105 USD) leicht ruecklaeufig, Gold rund 4.200 USD. Bankergebnisse (JPMorgan/Goldman/Wells Fargo) bleiben gemischt. Naechster grosser Katalysator bleibt der US-CPI-Bericht morgen (14.10.) und der PPI-Bericht am Donnerstag.",
-    "decision": "Kein Trade in diesem Lauf. Tagesbudget 13.10. bereits gutgeschrieben (keine erneute Gutschrift). BTC-Position (pos-0018) auf 83.488 USD aktualisiert (-1,82% seit Kauf, klar innerhalb der Stop-Loss-Schwelle). Keine Neuposition: kein frischer, mehrfach bestaetigter Kaufkatalysator seit dem letzten Lauf auffindbar; der sich vertiefende Chip-Ausverkauf ist ein Risiko-, kein Kaufsignal, und Vorsicht vor dem morgigen CPI-Bericht ueberwiegt weiterhin.",
-    "reasoning": "Live-BTC-Preis (CoinGecko API) zeigt eine leichte Erholung auf 83.488 USD (+1,12% in 24h), weiterhin klar innerhalb der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%). Websuche nach frischen Markt- oder Einzeltitel-Katalysatoren zeigt vor allem einen sich vertiefenden, bereits bekannten Chip-Ausverkauf (AI-Trade-Sorgen) sowie gemischte Bankergebnisse - beides keine neue, ueberzeugende Kaufgelegenheit. Aktien/ETFs sind zwar noch knapp handelbar (Xetra schliesst in Kuerze, NYSE laeuft), aber ohne frischen, mehrfach bestaetigten positiven Katalysator bleibt das Portfolio passend zum Vorsichtsgebot vor dem morgigen CPI-Bericht unveraendert (nur BTC-Kursupdate).",
+    "marketOverview": "BTC notiert bei 83.401 USD (+0,65% in 24h laut CoinGecko-API, live) - weiterhin stabil in der etablierten 81.500-83.500er-Spanne. Der Chip-Aktien-Ausverkauf (Sorgen um die Nachhaltigkeit des KI-Handels) bleibt das dominante Thema, die US-Bankergebnissaison liefert gemischte Signale (JPM/Goldman/Wells Fargo). Keine neue, frische Einzelmeldung seit dem letzten Lauf auffindbar. Naechster grosser Katalysator bleibt der US-CPI-Bericht morgen (14.10.) und der PPI-Bericht am Donnerstag.",
+    "decision": "Kein Trade in diesem Lauf. Tagesbudget 13.10. bereits gutgeschrieben (keine erneute Gutschrift). BTC-Position (pos-0018) auf 83.401 USD aktualisiert (-1,92% seit Kauf, klar innerhalb der Stop-Loss-Schwelle). Keine Neuposition: kein frischer, mehrfach bestaetigter Kaufkatalysator seit dem letzten Lauf auffindbar; Vorsicht vor dem morgigen CPI-Bericht ueberwiegt weiterhin.",
+    "reasoning": "Live-BTC-Preis (CoinGecko API) zeigt 83.401 USD (+0,65% in 24h), weiterhin klar innerhalb der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%). Websuche nach frischen Markt- oder Einzeltitel-Katalysatoren liefert keine neue, datierte und mehrfach bestaetigte Information ueber den bereits bekannten Chip-Ausverkauf und die gemischte Bankergebnissaison hinaus - kein neues ueberzeugendes Kaufsignal. NYSE ist noch geoeffnet, aber ohne frischen Katalysator bleibt das Portfolio passend zum Vorsichtsgebot vor dem morgigen CPI-Bericht unveraendert (nur BTC-Kursupdate).",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 687.27,
+    "portfolioValueEnd": 686.55,
     "updates": [
       {
         "time": "00:08",
@@ -8923,6 +8923,11 @@
         "time": "17:09",
         "note": "Kein Trade, BTC-Kursupdate (83.488 USD, +1,12% in 24h, -1,82% seit Kauf); Chip-Ausverkauf vertieft sich (Asien staerker betroffen), Bankergebnisse gemischt, kein neuer Kaufkatalysator vor dem morgigen CPI-Bericht",
         "portfolioValue": 687.27
+      },
+      {
+        "time": "18:09",
+        "note": "Kein Trade, BTC-Kursupdate (83.401 USD, +0,65% in 24h, -1,92% seit Kauf); keine frische bestaetigte Katalysator-Meldung gefunden, Vorsicht vor morgigem CPI-Bericht ueberwiegt",
+        "portfolioValue": 686.55
       }
     ]
   }
