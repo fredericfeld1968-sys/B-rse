@@ -8826,13 +8826,13 @@
   },
   {
     "date": "2026-10-13",
-    "marketOverview": "Keine verlaessliche frische Marktdatenquelle fuer BTC/USD oder Aktien/Rohstoffe mit Datum 13.10.2026 auffindbar (Suchergebnisse undatiert oder widersprechend, teils aus 2025 bzw. frueheren Monaten 2026). Letzter verlaesslich bestaetigter Stand bleibt BTC ca. 83.527 USD (-1,77% seit Kauf pos-0018). Xetra ist seit 09:00 MESZ geoeffnet, NYSE oeffnet erst 15:30 MESZ; kein neuer bestaetigter Katalysator fuer Aktien/ETFs/Rohstoffe gefunden.",
-    "decision": "Kein Trade in diesem Lauf. Tagesbudget 13.10. bereits gutgeschrieben (keine erneute Gutschrift). BTC-Position (pos-0018) unveraendert gehalten, da keine verlaesslich frischere Kursquelle als der letzte bestaetigte Stand (83.527 USD) auffindbar war.",
-    "reasoning": "Mehrere Websuchen zu BTC-Live-Kurs, DAX-Handelsstart und Wirtschafts-/Geopolitik-Nachrichten fuer den 13.10.2026 lieferten nur undatierte oder falsch datierte Treffer (teils 2025, teils andere Monate 2026) ohne uebereinstimmenden aktuellen Wert. Ohne verlaessliche frische Daten wird die bestehende Position unveraendert gehalten (-1,77%, klar innerhalb der Stop-Loss-Schwelle) und keine Neuposition eroeffnet, passend zur Vorgabe, nur bei einer wirklich ueberzeugenden, bestaetigten Gelegenheit zu handeln.",
+    "marketOverview": "Mehrfach unabhaengig fuer den 13.10. datierte Quellen (Analytics Insight, Goodreturns, Coingabbar) bestaetigen anhaltenden Krypto-Risk-off: BTC faellt weiter auf ca. 81.950-83.750 USD (Goodreturns: 81.948,51 USD, -2% in 24h, 'faellt unter 82.000 USD'), getrieben von Spot-BTC-ETF-Abfluessen, staerkerem Dollar und steigenden Oelpreisen; Marktteilnehmer warten auf den US-CPI-Bericht am 14.10. als naechsten Katalysator. Fuer DAX/Xetra (seit 09:00 MESZ offen) und US-Einzelwerte (NYSE oeffnet erst 15:30 MESZ) liess sich trotz mehrerer Suchen keine verlaessliche, auf den 13.10. datierte Meldung mit konkretem Kurssprung finden.",
+    "decision": "Kein Trade in diesem Lauf. Tagesbudget 13.10. bereits gutgeschrieben (keine erneute Gutschrift). BTC-Position (pos-0018) auf 81.948,51 USD aktualisiert (-3,63% seit Kauf, weiterhin klar innerhalb der Stop-Loss-Schwelle). Keine Neuposition, da keine wirklich ueberzeugende, mehrfach bestaetigte frische Gelegenheit in Aktien/ETFs/Rohstoffen gefunden wurde.",
+    "reasoning": "Drei unabhaengige, auf den 13.10.2026 datierte Quellen (Analytics Insight, Goodreturns, Coingabbar) bestaetigen uebereinstimmend die Richtung (BTC schwaecher, ETF-Abfluesse, CPI-Risiko voraus), auch wenn sich die exakten Preisangaben etwas unterscheiden (81.948-83.750 USD); der konservativere, am staerksten mit Prozentangabe belegte Wert (Goodreturns, -2% in 24h) wird fuer die Positionsbewertung uebernommen. Fuer Aktien/ETFs/Rohstoffe fand sich trotz mehrerer gezielter Suchen (DAX/Xetra, Quartalszahlen/Kurssprung) keine auf heute datierte, belastbare Meldung, daher kein Trade in diesen Anlageklassen. Die bestehende BTC-Position wird unveraendert gehalten (-3,63%, weit von der etablierten Stop-Loss-Schwelle von -6,5 bis -7,5% entfernt), keine Neuposition eroeffnet, passend zur Vorgabe, nur bei einer wirklich ueberzeugenden, bestaetigten Gelegenheit zu handeln.",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 687.59,
+    "portfolioValueEnd": 674.59,
     "updates": [
       {
         "time": "00:08",
@@ -8883,6 +8883,11 @@
         "time": "09:10",
         "note": "Keine Aenderung: Keine verlaessliche, datumsspezifisch bestaetigte Marktquelle fuer BTC oder Aktien/Rohstoffe gefunden (Suchergebnisse undatiert/widersprechend); letzter bestaetigter BTC-Stand (83.527 USD, -1,77%) unveraendert uebernommen; Xetra offen, NYSE noch nicht; kein Trade.",
         "portfolioValue": 687.59
+      },
+      {
+        "time": "10:10",
+        "note": "Kein Trade. BTC-Kursupdate auf 81.948,51 USD (-3,63% seit Kauf, -2% in 24h laut Goodreturns), mehrfach bestaetigt durch Analytics Insight und Coingabbar (ETF-Abfluesse, staerkerer Dollar, Oelpreise hoch, CPI-Bericht 14.10. als naechster Katalysator); keine ueberzeugende frische Gelegenheit in Aktien/ETFs/Rohstoffen gefunden (Xetra offen, NYSE noch nicht geoeffnet).",
+        "portfolioValue": 674.59
       }
     ]
   }
