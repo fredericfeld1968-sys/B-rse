@@ -8843,6 +8843,11 @@
         "time": "01:08",
         "note": "Keine Aenderung: BTC haelt bei ca. 82.638 USD (-2,82% seit Kauf), kein neuer bestaetigter Kurs oder Katalysator gefunden; breiter Krypto-Risk-off haelt an, Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten.",
         "portfolioValue": 680.27
+      },
+      {
+        "time": "02:09",
+        "note": "Keine Aenderung: Keine verlaessliche frische BTC-Live-Notierung auffindbar, Quellen bestaetigen aber weiterhin eine Spanne im niedrigen bis mittleren 80.000er-Bereich (konsistent mit 82.638 USD); kein neuer bestaetigter Katalysator, breiter Krypto-Risk-off haelt an, Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten; kein Trade",
+        "portfolioValue": 680.27
       }
     ]
   }
