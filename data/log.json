@@ -8826,13 +8826,13 @@
   },
   {
     "date": "2026-10-13",
-    "marketOverview": "BTC notiert bei 83.157 USD (+0,76% in 24h laut CoinGecko, live) - leicht fester, weiterhin seitwaerts in der etablierten 81.500-83.500er-Spanne. US-Bankergebnisse sind da: JPMorgan verfehlte die Gewinnschaetzung, die Aktie bewegte sich dennoch moderat; Goldman Sachs uebertraf die Erwartungen deutlich (Nettoerloes 18,68 Mrd. USD, Aktie zeitweise +4%); Wells Fargo fiel rund 3%, Citigroup nahezu unveraendert - insgesamt gemischtes Bankenbild. Chip-Aktien bleiben leicht unter Druck (Nvidia ca. -1,3%, AMD ca. -2,3%), getrieben von anhaltenden Zweifeln an AI-Spending-Renditen, aber deutlich moderater als der Ausverkauf der Vortage. NYSE oeffnet erst um 15:30 MESZ (noch nicht erfolgt). Naechster grosser Katalysator bleibt der US-CPI-Bericht morgen (14.10.).",
-    "decision": "Kein Trade in diesem Lauf. Tagesbudget 13.10. bereits gutgeschrieben (keine erneute Gutschrift). BTC-Position (pos-0018) auf 83.157 USD aktualisiert (-2,21% seit Kauf, weiterhin klar innerhalb der Stop-Loss-Schwelle). Keine Neuposition: gemischte Bankergebnisse (JPM-Miss, Goldman-Beat) und ein nur noch moderater Chip-Ausverkauf liefern kein eindeutiges Signal; NYSE noch nicht geoeffnet, Vorsicht vor dem morgigen CPI-Bericht ueberwiegt.",
-    "reasoning": "Live-BTC-Preis (CoinGecko API) zeigt eine leichte Erholung (83.157 USD vs. 83.243 USD im letzten Lauf, +0,76% in 24h), klar innerhalb der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%). Die US-Bankergebnisse sind gemischt (JPM unter Erwartung, Goldman klar darueber, Wells Fargo schwaecher) - kein einheitliches Risk-on- oder Risk-off-Signal fuer eine Neuposition. Der Chip-Ausverkauf (NVDA/AMD) setzt sich fort, aber abgeschwaecht gegenueber den Vortagen, ohne neuen eigenstaendigen Negativkatalysator. NYSE hat noch nicht geoeffnet; Xetra zeigt keine ueberzeugende frische Gelegenheit. Angesichts des morgigen CPI-Berichts bleibt Zurueckhaltung vor volatilen Ueberraschungen angebracht - Portfolio bleibt unveraendert (nur BTC-Kursupdate).",
+    "marketOverview": "BTC notiert bei 83.458 USD (+0,63% in 24h laut CoinGecko, live) - weiterhin seitwaerts in der etablierten 81.500-83.500er-Spanne, leicht fester als im letzten Lauf. US-Bankergebnisse bleiben gemischt (JPMorgan unter Erwartung, Goldman Sachs deutlich darueber, Wells Fargo schwaecher), NYSE seit 15:30 MESZ geoeffnet. Chip-Aktien (NVDA/AMD) weiterhin unter leichtem Druck, aber kein neuer eigenstaendiger Negativkatalysator seit dem letzten Lauf auffindbar. Naechster grosser Katalysator bleibt der US-CPI-Bericht morgen (14.10.), Markt insgesamt in Wartehaltung.",
+    "decision": "Kein Trade in diesem Lauf. Tagesbudget 13.10. bereits gutgeschrieben (keine erneute Gutschrift). BTC-Position (pos-0018) auf 83.458 USD aktualisiert (-1,85% seit Kauf, klar innerhalb der Stop-Loss-Schwelle). Keine Neuposition: keine frische, mehrfach bestaetigte Katalysator-Meldung seit dem 15:14-Lauf auffindbar; Vorsicht vor dem morgigen CPI-Bericht ueberwiegt weiterhin.",
+    "reasoning": "Live-BTC-Preis (CoinGecko API) zeigt eine leichte Erholung auf 83.458 USD (+0,63% in 24h), klar innerhalb der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%). Websuche nach frischen Markt- oder Einzeltitel-Katalysatoren (Bankaktien-Reaktion, Chipwerte, Krypto) lieferte keine neuen, datierten und mehrfach bestaetigten Treffer seit dem letzten Lauf - die verfuegbaren Quellen sind entweder veraltet oder beziehen sich auf frühere Handelstage. Ohne eine wirklich ueberzeugende, frisch bestaetigte Gelegenheit bleibt das Portfolio passend zum Vorsichtsgebot vor dem morgigen CPI-Bericht unveraendert (nur BTC-Kursupdate).",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 684.54,
+    "portfolioValueEnd": 687.02,
     "updates": [
       {
         "time": "00:08",
@@ -8913,6 +8913,11 @@
         "time": "15:14",
         "note": "Kein Trade, BTC-Kursupdate (83.157 USD, -2,21% seit Kauf, +0,76% in 24h); Bankergebnisse gemischt (JPM-Miss, Goldman-Beat deutlich, Wells Fargo schwaecher), Chip-Ausverkauf (NVDA/AMD) moderater als an Vortagen; NYSE noch nicht geoeffnet (15:30 MESZ); keine ueberzeugende frische Kaufgelegenheit vor dem CPI-Bericht morgen gefunden.",
         "portfolioValue": 684.54
+      },
+      {
+        "time": "16:09",
+        "note": "Keine Aenderung: BTC-Kursupdate (83.458 USD, -1,85% seit Kauf); keine frische bestaetigte Katalysator-Meldung gefunden, Vorsicht vor morgigem CPI-Bericht ueberwiegt",
+        "portfolioValue": 687.02
       }
     ]
   }
