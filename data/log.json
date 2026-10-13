@@ -8826,9 +8826,9 @@
   },
   {
     "date": "2026-10-13",
-    "marketOverview": "Krypto-Risk-off bleibt moderat und leicht ruecklaeufig: BTC bei rund 83.527 USD (-0,32% in 24h laut CoinGecko), stabil nahe dem Stand der letzten Laeufe. Altcoins weiterhin deutlicher im Minus (ADA -5,51%, AVAX -4,30%, SOL -3,73%, DOGE -2,94%, XRP -2,60%, ETH -1,13%). Kein neuer eigenstaendiger Katalysator gefunden; Aktien, ETFs und Rohstoffe vor Boersenoeffnung (Xetra 09:00, NYSE 15:30 MESZ) nicht handelbar.",
-    "decision": "Kein Trade in diesem Lauf. Tagesbudget von 1.000 EUR fuer den 13.10. wurde bereits zuvor gutgeschrieben (keine erneute Gutschrift). Bestehende BTC-Position (pos-0018) bleibt innerhalb der Halte-Toleranz und wird nur im Kurs aktualisiert (-1,77% seit Kauf).",
-    "reasoning": "BTC notiert mit 83.527 USD (-0,32% in 24h) nahezu unveraendert zum letzten Lauf, die Position liegt mit -1,77% seit Kauf klar innerhalb der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%) und wird daher gehalten. Fuer Neukaeufe fehlt angesichts des anhaltend schwaecheren Altcoin-Bildes ohne frischen bestaetigten Katalysator eine wirklich ueberzeugende Gelegenheit; Aktien/ETFs/Rohstoffe sind vor Boersenoeffnung ohnehin nicht handelbar.",
+    "marketOverview": "Keine verlaessliche frische Marktdatenquelle fuer BTC/USD oder Aktien/Rohstoffe mit Datum 13.10.2026 auffindbar (Suchergebnisse undatiert oder widersprechend, teils aus 2025 bzw. frueheren Monaten 2026). Letzter verlaesslich bestaetigter Stand bleibt BTC ca. 83.527 USD (-1,77% seit Kauf pos-0018). Xetra ist seit 09:00 MESZ geoeffnet, NYSE oeffnet erst 15:30 MESZ; kein neuer bestaetigter Katalysator fuer Aktien/ETFs/Rohstoffe gefunden.",
+    "decision": "Kein Trade in diesem Lauf. Tagesbudget 13.10. bereits gutgeschrieben (keine erneute Gutschrift). BTC-Position (pos-0018) unveraendert gehalten, da keine verlaesslich frischere Kursquelle als der letzte bestaetigte Stand (83.527 USD) auffindbar war.",
+    "reasoning": "Mehrere Websuchen zu BTC-Live-Kurs, DAX-Handelsstart und Wirtschafts-/Geopolitik-Nachrichten fuer den 13.10.2026 lieferten nur undatierte oder falsch datierte Treffer (teils 2025, teils andere Monate 2026) ohne uebereinstimmenden aktuellen Wert. Ohne verlaessliche frische Daten wird die bestehende Position unveraendert gehalten (-1,77%, klar innerhalb der Stop-Loss-Schwelle) und keine Neuposition eroeffnet, passend zur Vorgabe, nur bei einer wirklich ueberzeugenden, bestaetigten Gelegenheit zu handeln.",
     "positionIds": [
       "pos-0018"
     ],
@@ -8877,6 +8877,11 @@
       {
         "time": "08:08",
         "note": "Keine Aenderung: BTC bei 83.527 USD (-1,77% seit Kauf, -0,32% in 24h); Altcoins weiterhin staerker im Minus (ADA -5,51%, AVAX -4,30%, SOL -3,73%); kein neuer Katalysator, Aktien/ETFs/Rohstoffe vor Boersenoeffnung nicht handelbar; kein Trade.",
+        "portfolioValue": 687.59
+      },
+      {
+        "time": "09:10",
+        "note": "Keine Aenderung: Keine verlaessliche, datumsspezifisch bestaetigte Marktquelle fuer BTC oder Aktien/Rohstoffe gefunden (Suchergebnisse undatiert/widersprechend); letzter bestaetigter BTC-Stand (83.527 USD, -1,77%) unveraendert uebernommen; Xetra offen, NYSE noch nicht; kein Trade.",
         "portfolioValue": 687.59
       }
     ]
