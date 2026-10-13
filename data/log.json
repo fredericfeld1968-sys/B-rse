@@ -8826,13 +8826,13 @@
   },
   {
     "date": "2026-10-13",
-    "marketOverview": "BTC notiert laut CoinGecko-API (live) bei 83.126 USD (+0,93% in 24h), stabil in der etablierten 81.000-84.000er-Spanne. Der Chip-Aktien-Ausverkauf und die gemischte US-Bankergebnissaison bleiben die dominanten Themen fuer Aktien; US-Boersen (NYSE/Nasdaq) laufen noch bis 22:00 MESZ. Kein neuer, frisch bestaetigter Einzelkatalysator seit dem letzten Lauf gefunden. Naechster grosser Katalysator bleibt der US-CPI-Bericht morgen (14.10., 8:30 Uhr ET) und der PPI-Bericht am Donnerstag.",
-    "decision": "Kein Trade in diesem Lauf. Tagesbudget 13.10. bereits gutgeschrieben (keine erneute Gutschrift). BTC-Position (pos-0018) per CoinGecko-API auf 83.126 USD aktualisiert (-2,24% seit Kauf, klar innerhalb der Stop-Loss-Schwelle). Keine Neuposition: kein frischer, mehrfach bestaetigter Kaufkatalysator seit dem letzten Lauf auffindbar; Vorsicht vor dem morgigen CPI-Bericht ueberwiegt weiterhin, NYSE schliesst in Kuerze (22:00 MESZ).",
-    "reasoning": "Mehrere Websuchen zu BTC-Live-Preis (CoinGecko-API, verlaesslich: 83.126 USD, +0,93% 24h) sowie zur allgemeinen Marktlage (Aktien, Chip-Sektor, Bankergebnisse, Krypto-Altcoins) lieferten keinen neuen, mehrfach bestaetigten Einzelkatalysator ueber den bereits bekannten Chip-Ausverkauf und die gemischte Bankergebnissaison hinaus (Dow/S&P/Nasdaq laut Yahoo-Finance-Snapshot leicht im Minus). Kein neues ueberzeugendes Kaufsignal gefunden; NYSE schliesst in Kuerze (22:00 MESZ), Vorsicht vor dem morgigen CPI-Bericht ueberwiegt, daher bleibt das Portfolio unveraendert bis auf das BTC-Kursupdate.",
+    "marketOverview": "BTC notiert via CoinGecko-API (live) bei 83.212 USD (+0,30% in 24h), weiterhin stabil in der 81.000-84.000er-Spanne. Grosse Altcoins (ETH, SOL, XRP, AVAX, ADA, LINK, SUI, HYPE, DOGE, LTC) zeigen nur kleine Abschlaege (-1 bis -3%), kein Ausbruch oder neuer Katalysator. US-Boersen (NYSE/Nasdaq) sind seit 22:00 MESZ geschlossen, Xetra ebenfalls. Naechster grosser Katalysator bleibt der US-CPI-Bericht morgen (14.10., 8:30 Uhr ET).",
+    "decision": "Kein Trade in diesem Lauf. Tagesbudget 13.10. bereits gutgeschrieben (keine erneute Gutschrift, lastGrantDate bleibt 13.10.). BTC-Position (pos-0018) auf 83.212 USD aktualisiert (-2,14% seit Kauf, klar innerhalb der Stop-Loss-Schwelle). Keine Neuposition: Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten, im Kryptomarkt kein ueberzeugender frischer Ausbruch oder Katalysator sichtbar (alle beobachteten Altcoins leicht im Minus, keine Bestaetigung eines neuen Trends).",
+    "reasoning": "CoinGecko-API fuer BTC (83.212 USD, +0,30% 24h) und weitere grosse Altcoins (ETH, SOL, XRP, AVAX, ADA, LINK, SUI, HYPE, DOGE, LTC) abgefragt: alle nur leicht im Minus (-1 bis -3%), keine Bewegung mit Ausbruchscharakter. Zusaetzliche Websuchen zu Markt- und CPI-Ausblick lieferten keine datumsspezifisch verlaesslichen, aktuellen Treffer. Da NYSE/Nasdaq/Xetra bereits geschlossen sind und im Kryptomarkt kein ueberzeugendes Setup erkennbar ist, bleibt das Portfolio unveraendert bis auf das BTC-Kursupdate.",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 684.29,
+    "portfolioValueEnd": 684.99,
     "updates": [
       {
         "time": "00:08",
@@ -8943,6 +8943,11 @@
         "time": "21:09",
         "note": "Kein Trade, BTC-Kursupdate via CoinGecko-API (83.126 USD, +0,93% in 24h, -2,24% seit Kauf); Chip-Ausverkauf und gemischte Bankergebnisse bleiben dominant, NYSE schliesst in Kuerze (22:00 MESZ); kein neuer Kaufkatalysator vor dem morgigen CPI-Bericht gefunden.",
         "portfolioValue": 684.29
+      },
+      {
+        "time": "22:09",
+        "note": "Kein Trade, BTC-Kursupdate via CoinGecko-API (83.212 USD, +0,30% in 24h, -2,14% seit Kauf); grosse Altcoins (ETH/SOL/XRP/AVAX/ADA/LINK/SUI/HYPE/DOGE/LTC) alle leicht im Minus, kein Ausbruch; US-Boersen und Xetra bereits geschlossen; kein neuer Kaufkatalysator vor dem morgigen CPI-Bericht gefunden.",
+        "portfolioValue": 684.99
       }
     ]
   }
