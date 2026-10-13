@@ -8955,5 +8955,22 @@
         "portfolioValue": 686.17
       }
     ]
+  },
+  {
+    "date": "2026-10-14",
+    "marketOverview": "BTC notiert via CoinGecko-API (live) bei 83.365 USD (+1,13% in 24h), weiterhin stabil in der 81.000-84.000er-Spanne; Marktkapitalisierung insgesamt leicht im Minus (-2,1% 24h), BTC-Dominanz bei rund 59%. Keine grossen institutionellen Katalysatoren sichtbar, Trending-Coins sind ueberwiegend kleine Memecoins ohne fundamentale Substanz. US-Boersen (NYSE/Nasdaq) und Xetra bleiben ueber Nacht geschlossen; naechster wichtiger Katalysator bleibt der US-CPI-Bericht am Nachmittag (MESZ).",
+    "decision": "Erster Lauf des Tages: Tagesbudget 14.10. gutgeschrieben (+1.000 EUR, totalFreshCapitalEur jetzt 71.000 EUR). Kein Trade in diesem Lauf. BTC-Position (pos-0018) auf 83.365 USD aktualisiert (-1,96% seit Kauf, klar innerhalb der Stop-Loss-Schwelle). Keine Neuposition: Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten, im Kryptomarkt kein ueberzeugender frischer Ausbruch oder institutioneller Katalysator sichtbar (Trending-Coins sind kleine Memecoins ohne fundamentale Basis).",
+    "reasoning": "CoinGecko-API fuer BTC (83.365 USD, +1,13% 24h) sowie globale Marktdaten (Gesamtmarktkapitalisierung -2,06% 24h, BTC-Dominanz 59,3%) abgefragt. Trending-Coins (WISP, DOPE, CRAWLER u.a.) zeigen zwar hohe Tagesgewinne, aber ohne erkennbaren fundamentalen oder institutionellen Katalysator (anders als bei den bisher erfolgreichen Mustern wie AVAX/NYSE-ICE oder QNT/Clearing House) - daher kein Kauf. Websuchen zu Markt- und Geopolitik-Ausblick lieferten keine datumsspezifisch verlaesslichen, aktuellen Treffer. Da NYSE/Nasdaq/Xetra bereits geschlossen sind und im Kryptomarkt kein ueberzeugendes Setup erkennbar ist, bleibt das Portfolio unveraendert bis auf das BTC-Kursupdate und die Tagesbudget-Gutschrift.",
+    "positionIds": [
+      "pos-0018"
+    ],
+    "portfolioValueEnd": 686.25,
+    "updates": [
+      {
+        "time": "00:09",
+        "note": "Kein Trade, BTC-Kursupdate (83.365 USD, +1,13% 24h, -1,96% seit Kauf); Tagesbudget 14.10. gutgeschrieben (+1000 EUR); kein ueberzeugender Krypto-Katalysator, Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten",
+        "portfolioValue": 686.25
+      }
+    ]
   }
 ]
