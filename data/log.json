@@ -8958,13 +8958,13 @@
   },
   {
     "date": "2026-10-14",
-    "marketOverview": "BTC pendelt bei ca. 81.585 USD (-1,96% 24h, -4,06% seit Kauf von pos-0018), weiterhin im Sog der heissen September-CPI (3,7%/2,6% vs. 3,6%/2,5% erwartet) vom Nachmittag. US-Aktien bleiben nach dem CPI-Schock im Risk-off: S&P 500 ca. -0,6 bis -0,9%, Nasdaq ca. -0,9 bis -1,4%, bei auf bis zu 5,27-5,36% gestiegenen 10-Jahres-Renditen - der Markt preist eine hoehere Fed-Zinserhoehungswahrscheinlichkeit ein. Kein frischer Einzeltitel-Katalysator seit dem letzten Lauf (ASML/CoreWeave/Skydance bereits bekannt); US-Kassamarkt (bis 22:00 MESZ) bleibt in Risk-off-Stimmung ohne klares Dip-Kauf-Setup.",
-    "decision": "Tagesbudget 14.10. bereits gutgeschrieben (keine erneute Gutschrift in diesem Lauf). Kein Trade. BTC-Position (pos-0018) auf 81.585 USD aktualisiert (-4,06% seit Kauf, weiterhin klar innerhalb der Halte-Toleranz von -6,5 bis -7,5%). Keine Neuposition: anhaltender, aber unspezifischer CPI-Risk-off ohne ueberzeugenden neuen Einzelkatalysator fuer ein Dip-Kauf-Setup. Weiterhin sehr hohes freies Kapital (ca. 69.638 EUR) fuer eine spaetere, klarere Gelegenheit vorhanden.",
-    "reasoning": "Kein Trade: BTC (pos-0018) bewegt sich mit -4,06% seit Kauf weiterhin klar innerhalb der Halte-Toleranz. Der breite Markt bleibt im anhaltenden, aber bereits bekannten CPI-Risk-off (hoehere Renditen, Fed-Zinserhoehungssorgen); kein frischer, ueberzeugender Einzeltitel- oder Krypto-Katalysator seit dem letzten Lauf gefunden, daher bewusst kein Positionsaufbau.",
+    "marketOverview": "BTC erholt sich leicht auf ca. 83.500 USD (-1,81% seit Kauf von pos-0018, zuvor -4,06%), nachdem der Kryptomarkt den Nachmittagstiefpunkt nach der heissen September-CPI (3,7%/2,6% vs. 3,6%/2,5% erwartet) teilweise ueberwunden hat. US-Aktien bleiben kurz vor Handelsschluss (22:00 MESZ) im CPI-bedingten Risk-off; Einzeltitel-Katalysatoren (ASML/CoreWeave/Skydance/BAC) sind bereits bekannt und eingepreist, kein frischer ueberzeugender neuer Trigger gefunden.",
+    "decision": "Tagesbudget 14.10. bereits gutgeschrieben (keine erneute Gutschrift in diesem Lauf). Kein Trade. BTC-Position (pos-0018) auf 83.500 USD aktualisiert (-1,81% seit Kauf, deutliche Erholung von zuvor -4,06%, weiterhin klar innerhalb der Halte-Toleranz). Keine Neuposition: Markt kurz vor US-Handelsschluss ohne ueberzeugenden neuen Einzelkatalysator fuer ein Dip-Kauf-Setup. Weiterhin sehr hohes freies Kapital (ca. 69.638 EUR) fuer eine spaetere, klarere Gelegenheit vorhanden.",
+    "reasoning": "Kein Trade: BTC (pos-0018) erholt sich auf -1,81% seit Kauf und bleibt klar innerhalb der Halte-Toleranz. Der breite Aktienmarkt bleibt im bereits bekannten CPI-Risk-off kurz vor Handelsschluss; kein frischer, ueberzeugender Einzeltitel- oder Krypto-Katalysator seit dem letzten Lauf gefunden, daher bewusst kein Positionsaufbau.",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 671.6,
+    "portfolioValueEnd": 687.36,
     "updates": [
       {
         "time": "00:09",
@@ -9070,6 +9070,11 @@
         "time": "20:08",
         "note": "Kein Trade, BTC-Kursupdate (81.585 USD, -1,96% 24h, -4,06% seit Kauf); anhaltender CPI-Risk-off ohne neuen Einzelkatalysator; US-Kassamarkt noch bis 22:00 MESZ offen aber ohne Dip-Kauf-Signal",
         "portfolioValue": 671.6
+      },
+      {
+        "time": "21:09",
+        "note": "Kein Trade, BTC-Kursupdate (83.500 USD, Erholung von -4,06% auf -1,81% seit Kauf); kurz vor US-Handelsschluss (22:00 MESZ) kein neuer ueberzeugender Katalysator gefunden",
+        "portfolioValue": 687.36
       }
     ]
   }
