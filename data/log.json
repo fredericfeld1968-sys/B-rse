@@ -8958,13 +8958,13 @@
   },
   {
     "date": "2026-10-14",
-    "marketOverview": "BTC laut CoinGecko bei ca. 83.378 USD, nahezu unveraendert (-0,1% 24h), weiterhin seitwaerts in der etablierten Bandbreite 83.000-84.000 USD. Keine neuen verlaesslich datierten Einzelkatalysator-Meldungen fuer Aktien oder Krypto gefunden; aktuelle Suchergebnisse liefern ueberwiegend veraltete oder undatierte Marktdaten. Der US-CPI-Bericht (September) steht weiterhin um 14:30 MESZ an und bleibt der naechste klare Katalysator fuer Zinserwartungen (naechste FOMC-Entscheidung 28.10.). Xetra ist seit 09:00 MESZ offen, US-Boersen oeffnen erst um 15:30 MESZ.",
-    "decision": "Tagesbudget 14.10. bereits gutgeschrieben (keine erneute Gutschrift in diesem Lauf). Kein Trade. BTC-Position (pos-0018) auf 83.378 USD aktualisiert (-1,95% seit Kauf, klar innerhalb der Halte-Toleranz). Keine Neuposition: kein ueberzeugender, mehrfach bestaetigter Katalysator gefunden; Markt verharrt im Vorfeld des CPI-Berichts um 14:30 MESZ bewusst abwartend, trotz weiterhin hohem freiem Kapital.",
-    "reasoning": "Kein Trade: BTC (pos-0018) bewegt sich seitwaerts bei -1,95% seit Kauf, klar innerhalb der Halte-Toleranz (Stop-Loss ca. -6,5 bis -7,5%). Ohne frisches, mehrfach bestaetigtes Setup mit klarem Katalysator wird vor dem anstehenden CPI-Bericht bewusst nicht gehandelt. Naechster moegliche Ausloeser bleibt der US-CPI-Bericht um 14:30 MESZ.",
+    "marketOverview": "BTC laut CoinGecko-Live-API bei ca. 83.042 USD, nahezu unveraendert (-0,58% 24h), weiterhin seitwaerts in der etablierten Bandbreite 82.800-84.000 USD. Keine neuen, verlaesslich auf heute datierten Einzelkatalysator-Meldungen fuer Aktien, Krypto oder Rohstoffe gefunden (Suchergebnisse ueberwiegend veraltet/undatiert). Der US-CPI-Bericht (September) steht weiterhin um 14:30 MESZ an und bleibt der naechste klare Katalysator fuer Zinserwartungen (naechste FOMC-Entscheidung 28.10.). Xetra ist offen, US-Boersen oeffnen erst um 15:30 MESZ.",
+    "decision": "Tagesbudget 14.10. bereits gutgeschrieben (keine erneute Gutschrift in diesem Lauf). Kein Trade. BTC-Position (pos-0018) auf 83.042 USD aktualisiert (-2,34% seit Kauf, klar innerhalb der Halte-Toleranz). Keine Neuposition: kein ueberzeugender, mehrfach bestaetigter Katalysator gefunden; Markt verharrt im Vorfeld des CPI-Berichts um 14:30 MESZ bewusst abwartend, trotz weiterhin sehr hohem freiem Kapital (ca. 69.600 EUR).",
+    "reasoning": "Kein Trade: BTC (pos-0018) bewegt sich seitwaerts bei -2,34% seit Kauf, klar innerhalb der Halte-Toleranz (Stop-Loss ca. -6,5 bis -7,5%). Ohne frisches, mehrfach bestaetigtes Setup mit klarem Katalysator wird vor dem anstehenden CPI-Bericht bewusst nicht gehandelt. Naechster moeglicher Ausloeser bleibt der US-CPI-Bericht um 14:30 MESZ.",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 686.36,
+    "portfolioValueEnd": 683.59,
     "updates": [
       {
         "time": "00:09",
@@ -9025,6 +9025,11 @@
         "time": "11:09",
         "note": "Kein Trade, BTC-Kursupdate (83.378 USD, -0,1% 24h, -1,95% seit Kauf); kein ueberzeugender neuer Katalysator gefunden; Xetra offen aber ohne Signal, naechster Katalysator CPI 14:30 MESZ",
         "portfolioValue": 686.36
+      },
+      {
+        "time": "12:09",
+        "note": "Kein Trade, BTC-Kursupdate (83.042 USD, -0,58% 24h, -2,34% seit Kauf); kein ueberzeugender neuer Katalysator gefunden, Xetra offen aber ohne Signal; Markt wartet auf CPI 14:30 MESZ",
+        "portfolioValue": 683.59
       }
     ]
   }
