@@ -8958,13 +8958,13 @@
   },
   {
     "date": "2026-10-14",
-    "marketOverview": "BTC via CoinGecko (live) bei ca. 83.514 USD, nahezu unveraendert (-0,15% 24h); Altcoins durchweg leicht im Minus (ETH -0,9%, SOL -0,7%, AVAX -2,8%, ADA -1,4%, SUI -1,2%, LINK -0,9%, ENA -3,2%, QNT -5,7%), XRP/DOGE/BCH nahezu unveraendert bis leicht fester. Kein frischer, bestaetigter Einzelkatalysator in Krypto gefunden - breiter abwartender Ton vor dem US-CPI-Bericht (September) um 14:30 MESZ. Xetra ist seit 09:00 MESZ geoeffnet, US-Boersen oeffnen erst um 15:30 MESZ; fuer deutsche Einzelwerte (u.a. Rheinmetall) wurde keine aktuelle, auf heute datierte Nachricht mit klarem Kurstreiber gefunden.",
-    "decision": "Tagesbudget 14.10. bereits gutgeschrieben (keine erneute Gutschrift). Kein Trade in diesem Lauf. BTC-Position (pos-0018) auf 83.514 USD aktualisiert (-1,79% seit Kauf, klar innerhalb der Halte-Toleranz). Keine Neuposition: Xetra zwar geoeffnet, aber kein ueberzeugender, mehrfach bestaetigter Katalysator fuer einen deutschen Einzelwert gefunden; im Kryptomarkt nur breite, unspezifische Schwaeche ohne neues Signal. Markt wartet erkennbar auf den CPI-Bericht um 14:30 MESZ, daher bewusst abwartend trotz hohem freiem Kapital.",
-    "reasoning": "Kein Trade: BTC (pos-0018) bewegt sich weiterhin in enger Bandbreite um 83.000-84.000 USD, -1,79% seit Kauf und damit klar innerhalb der Halte-Toleranz (Stop-Loss ca. -6,5 bis -7,5%). Fuer eine neue spekulative Position fehlt ein frisches, mehrfach bestaetigtes Setup mit konkretem Katalysator - weder bei Altcoins (durchweg leichtes Minus ohne Nachrichtenlage) noch bei deutschen Aktien trotz geoeffneter Xetra. Naechster Katalysator bleibt der US-CPI-Bericht um 14:30 MESZ.",
+    "marketOverview": "BTC laut mehreren Quellen (CoinGecko, Coinbase, Bitget, Kraken) bei ca. 83.450-83.750 USD, weiterhin nahezu seitwaerts in der seit Tagen etablierten Bandbreite 83.000-84.000 USD. Altcoins (u.a. HYPE, ZEC, NEAR) unter leichtem Druck, kein neuer bestaetigter Einzelkatalysator. Oelpreis zieht nach erneuten Huthi-Angriffen im Nahen Osten leicht an, was den breiten Risikoappetit etwas daempft. Markt wartet weiter auf den US-CPI-Bericht (September) um 14:30 MESZ. Xetra ist seit 09:00 MESZ offen, aber ohne erkennbaren Katalysator fuer deutsche Einzelwerte; US-Boersen oeffnen erst um 15:30 MESZ.",
+    "decision": "Tagesbudget 14.10. bereits gutgeschrieben (keine erneute Gutschrift in diesem Lauf). Kein Trade. BTC-Position (pos-0018) auf 83.454 USD aktualisiert (-1,86% seit Kauf, klar innerhalb der Halte-Toleranz). Keine Neuposition: weiterhin kein ueberzeugender, mehrfach bestaetigter Katalysator in Krypto oder bei deutschen Einzelwerten; Markt verharrt im Vorfeld des CPI-Berichts um 14:30 MESZ bewusst abwartend, trotz weiterhin hohem freiem Kapital.",
+    "reasoning": "Kein Trade: BTC (pos-0018) bewegt sich seitwaerts bei -1,86% seit Kauf, klar innerhalb der Halte-Toleranz (Stop-Loss ca. -6,5 bis -7,5%). Leicht steigender Oelpreis (Huthi-Eskalation) und die bevorstehende CPI-Veroeffentlichung sprechen fuer Zurueckhaltung bei neuen spekulativen Positionen; kein frisches, mehrfach bestaetigtes Setup mit klarem Katalysator gefunden. Naechster moeglicher Auslöser bleibt der US-CPI-Bericht um 14:30 MESZ.",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 687.48,
+    "portfolioValueEnd": 686.99,
     "updates": [
       {
         "time": "00:09",
@@ -9015,6 +9015,11 @@
         "time": "09:08",
         "note": "Kein Trade, BTC-Kursupdate (83.514 USD, -0,15% 24h, -1,79% seit Kauf); Xetra seit 09:00 MESZ offen, aber kein ueberzeugender Katalysator fuer Aktien gefunden; naechster Katalysator CPI 14:30 MESZ",
         "portfolioValue": 687.48
+      },
+      {
+        "time": "10:10",
+        "note": "Kein Trade, BTC-Kursupdate (83.454 USD, -1,86% seit Kauf); Oelpreis zieht nach Huthi-Angriffen leicht an, Markt wartet auf CPI 14:30 MESZ; Xetra offen aber ohne Katalysator",
+        "portfolioValue": 686.99
       }
     ]
   }
