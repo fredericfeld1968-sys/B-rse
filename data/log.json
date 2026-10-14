@@ -8958,13 +8958,13 @@
   },
   {
     "date": "2026-10-14",
-    "marketOverview": "BTC notiert via CoinGecko-API (live) bei 83.176 USD (+2,17% in 24h), damit am Nacht-/Frühmorgen des 14.10. etwas fester als am Vortag. Breiter, aber moderater Risk-on-Ton im Kryptomarkt ohne erkennbaren Einzelkatalysator: ETH +3,03%, SOL +2,52%, XRP +2,38%, AVAX +1,76%, ADA +2,48%, LINK +3,72%, DOGE +3,39%, SUI +2,78%, HYPE +1,09% - alle im Plus, aber in ueblicher Schwankungsbreite. US-Boersen (NYSE/Nasdaq) und Xetra bleiben ueber Nacht geschlossen; naechster wichtiger Katalysator bleibt der US-CPI-Bericht (September-Daten) heute um 14:30 MESZ.",
-    "decision": "Tagesbudget 14.10. bereits gutgeschrieben (keine erneute Gutschrift, lastGrantDate bleibt 14.10.). Kein Trade in diesem Lauf. BTC-Position (pos-0018) auf 83.176 USD aktualisiert (-2,19% seit Kauf, klar innerhalb der Stop-Loss-Schwelle). Keine Neuposition: Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten, im Kryptomarkt nur ein breiter, aber unspezifischer +2-4%-Anstieg ohne bestaetigten Einzelkatalysator - kein ueberzeugendes Setup fuer einen Neukauf trotz hohem freiem Kapital (~69.638 EUR).",
-    "reasoning": "CoinGecko-API-Abfrage fuer BTC und liquide Altcoins (ETH, SOL, XRP, AVAX, ADA, LINK, DOGE, SUI, HYPE) zeigt einen breiten, aber moderaten Anstieg von +1 bis +4% ohne Ausbruchscharakter. Websuchen zu moeglichen Treibern (Fed-Zinssenkung, Shutdown, CPI) lieferten keine datumsspezifisch verlaesslichen, aktuellen Treffer fuer einen konkreten frischen Katalysator. Da NYSE/Nasdaq/Xetra geschlossen sind und im Kryptomarkt kein bestaetigtes, ueberzeugendes Einzelsetup erkennbar ist (reine breite Marktbewegung ohne Story reicht laut etabliertem Muster nicht fuer einen Neukauf), bleibt das Portfolio unveraendert bis auf das BTC-Kursupdate.",
+    "marketOverview": "BTC notiert via CoinGecko-API (live) bei 83.289 USD (+2,14% in 24h), damit im Vergleich zu den vorherigen Laeufen der Nacht nahezu unveraendert bis leicht fester. Breiter, aber weiterhin moderater und unspezifischer Risk-on-Ton im Kryptomarkt: ETH +3,03%, SOL +3,43%, XRP +2,90%, AVAX +3,05%, ADA +3,60%, LINK +3,94%, DOGE +3,77% - durchgehend im Plus, aber ohne erkennbaren Einzelkatalysator oder Ausbruchscharakter. US-Boersen (NYSE/Nasdaq) und Xetra bleiben um diese Nachtzeit geschlossen; naechster wichtiger Katalysator bleibt der US-CPI-Bericht (September-Daten) heute um 14:30 MESZ.",
+    "decision": "Tagesbudget 14.10. bereits gutgeschrieben (keine erneute Gutschrift, lastGrantDate bleibt 14.10.). Kein Trade in diesem Lauf. BTC-Position (pos-0018) auf 83.289 USD aktualisiert (-2,05% seit Kauf, klar innerhalb der Halte-Toleranz, weder Stop-Loss noch Zielspanne erreicht). Keine Neuposition: Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten, im Kryptomarkt weiterhin nur ein breiter, unspezifischer +2-4%-Anstieg ohne bestaetigten Einzelkatalysator - kein ueberzeugendes Setup fuer einen Neukauf trotz hohem freiem Kapital (~69.638 EUR).",
+    "reasoning": "CoinGecko-API-Abfrage fuer BTC und liquide Altcoins (ETH, SOL, XRP, AVAX, ADA, LINK, DOGE) zeigt einen breiten, aber moderaten Anstieg von +2 bis +4% ohne Ausbruchscharakter - vergleichbar mit den vorherigen Laeufen dieser Nacht. Websuchen zu aktuellen, datumsspezifischen Markttreibern fuer den 13./14.10. lieferten keine verlaesslichen, frischen Treffer. Da NYSE/Nasdaq/Xetra geschlossen sind und im Kryptomarkt kein bestaetigtes, ueberzeugendes Einzelsetup erkennbar ist (reine breite Marktbewegung ohne Story reicht laut etabliertem Muster nicht fuer einen Neukauf), bleibt das Portfolio unveraendert bis auf das BTC-Kursupdate.",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 684.7,
+    "portfolioValueEnd": 685.63,
     "updates": [
       {
         "time": "00:09",
@@ -8980,6 +8980,11 @@
         "time": "02:08",
         "note": "Keine Aenderung: BTC (pos-0018) auf 83.176 USD aktualisiert (-2,19% seit Kauf, +2,17% 24h); breiter aber unspezifischer Krypto-Anstieg (+1-4%) ohne bestaetigten Einzelkatalysator, kein Trade",
         "portfolioValue": 684.7
+      },
+      {
+        "time": "03:09",
+        "note": "Kein Trade: BTC (pos-0018) auf 83.289 USD aktualisiert (-2,05% seit Kauf, +2,14% 24h); Altcoins (ETH/SOL/XRP/AVAX/ADA/LINK/DOGE) weiterhin breit aber unspezifisch im Plus, kein Katalysator; Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten",
+        "portfolioValue": 685.63
       }
     ]
   }
