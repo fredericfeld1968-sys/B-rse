@@ -8958,13 +8958,13 @@
   },
   {
     "date": "2026-10-14",
-    "marketOverview": "BTC fiel im Tagesverlauf weiter auf ca. 82.265 USD (-3,26% seit Kauf von pos-0018), breiter Krypto-Markt insgesamt 2-4% im Minus (ETH, SOL, XRP, AVAX, ADA, LINK, DOGE) als Reaktion auf den heisseren September-CPI-Bericht (Headline 3,7%, Core 2,6% YoY, beide ueber Konsens). Seit Oeffnung des US-Kassamarkts (15:30 MESZ) auch Aktien im Risk-off: S&P 500 ca. 7.755 Punkte, -0,64% auf Tagesbasis, da hoehere Inflation die Zinssenkungshoffnungen vor der FOMC-Sitzung am 27.-28.10. leicht daempft. Kein einzelner Aktienkatalysator identifiziert, der ueber das allgemeine CPI-getriebene Risk-off hinausgeht.",
-    "decision": "Tagesbudget 14.10. bereits gutgeschrieben (keine erneute Gutschrift in diesem Lauf). Kein Trade. BTC-Position (pos-0018) auf 82.265 USD aktualisiert (-3,26% seit Kauf, weiterhin klar innerhalb der Halte-Toleranz von -6,5 bis -7,5%). Keine Neuposition: Der breite Risk-off nach der heissen CPI-Zahl betrifft Krypto und Aktien gleichermassen ohne einen einzelnen ueberzeugenden Chance-Katalysator (kein Dip-Kauf-Setup wie bei AMD/SpaceX, kein bestaetigter Ausbruch). Weiterhin sehr hohes freies Kapital (ca. 69.638 EUR) fuer eine spaetere Gelegenheit vorhanden.",
-    "reasoning": "Kein Trade: BTC (pos-0018) bewegt sich mit -3,26% seit Kauf klar innerhalb der Halte-Toleranz (Stop-Loss ca. -6,5 bis -7,5%). Die heisse CPI-Zahl (3,7%/2,6% vs. Konsens 3,6%/2,5%) hat seit Veroeffentlichung einen breiten, aber unspezifischen Risk-off-Schub ausgeloest (Krypto -2 bis -4%, S&P 500 -0,64%) - das ist ein Makro-Sentiment-Effekt ohne Einzeltitel-Katalysator und damit kein ueberzeugendes Setup fuer einen neuen spekulativen Trade (weder Dip-Kauf noch Short-Momentum). Naechster moeglicher Ausloeser: weitere Marktreaktion im spaeten US-Handel oder neue Nachrichten.",
+    "marketOverview": "BTC pendelt nach dem CPI-Schock weiter um 82.000-82.800 USD (zuletzt 82.200 USD, -3,33% seit Kauf von pos-0018); ein kurzer Erholungsversuch Richtung 83.000 USD scheiterte, breiter Krypto-Markt bleibt 2-4% im Minus. Ausloeser bleibt der heissere September-CPI-Bericht (Headline 3,7%, Core 2,6% YoY, beide ueber Konsens von 3,6%/2,5%), der die Wahrscheinlichkeit einer weiteren Fed-Zinserhoehung wieder ins Spiel gebracht hat (Markt preiste vor der Zahl nur rund 22% Chance auf einen Hike im Oktober ein). US-Aktien bleiben im Risk-off (S&P 500 zuletzt ca. -0,4 bis -0,8%, Dow nahe unveraendert, Nasdaq belastet durch Chip-Schwaeche); Oel steigt weiter wegen anhaltender Nahost-Versorgungssorgen. Kein einzelner, ueberzeugender Chance-Katalysator identifiziert.",
+    "decision": "Tagesbudget 14.10. bereits gutgeschrieben (keine erneute Gutschrift in diesem Lauf). Kein Trade. BTC-Position (pos-0018) auf 82.200 USD aktualisiert (-3,33% seit Kauf, weiterhin klar innerhalb der Halte-Toleranz von -6,5 bis -7,5%). Keine Neuposition: Der breite Risk-off nach der heissen CPI-Zahl und den haengenden Fed-Zinserwartungen betrifft Krypto und Aktien gleichermassen, ohne einen einzelnen ueberzeugenden Chance-Katalysator (kein bestaetigter Dip-Kauf wie bei AMD/SpaceX, kein bestaetigter Ausbruch). Weiterhin sehr hohes freies Kapital (ca. 69.638 EUR) fuer eine spaetere Gelegenheit vorhanden.",
+    "reasoning": "Kein Trade: BTC (pos-0018) bewegt sich mit -3,33% seit Kauf klar innerhalb der Halte-Toleranz (Stop-Loss ca. -6,5 bis -7,5%). Die heisse CPI-Zahl hat einen breiten, aber unspezifischen Risk-off-Schub ausgeloest (Krypto -2 bis -4%, US-Aktien leicht im Minus) - ein Makro-Sentiment-Effekt ohne Einzeltitel-Katalysator und damit kein ueberzeugendes Setup fuer einen neuen spekulativen Trade. Naechster moeglicher Ausloeser: Marktreaktion im spaeten US-Handel oder neue Nachrichten.",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 677.2,
+    "portfolioValueEnd": 676.66,
     "updates": [
       {
         "time": "00:09",
@@ -9050,6 +9050,11 @@
         "time": "16:09",
         "note": "Kein Trade, BTC-Kursupdate (82.265 USD, -3,26% seit Kauf); breiter Risk-off nach heisser CPI (Krypto -2 bis -4%, S&P 500 -0,64% seit US-Marktoeffnung); kein ueberzeugender Einzelkatalysator fuer eine Neuposition",
         "portfolioValue": 677.2
+      },
+      {
+        "time": "17:09",
+        "note": "Kein Trade, BTC-Kursupdate (82.200 USD, -3,33% seit Kauf); Erholungsversuch Richtung 83.000 USD gescheitert, breiter Risk-off nach heisser CPI haelt an; kein ueberzeugender Einzelkatalysator fuer eine Neuposition",
+        "portfolioValue": 676.66
       }
     ]
   }
