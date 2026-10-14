@@ -8958,13 +8958,13 @@
   },
   {
     "date": "2026-10-14",
-    "marketOverview": "BTC bei ca. 83.564 USD (+0,4% 24h), weiterhin in der etablierten Bandbreite 82.800-84.000 USD, leicht erholt gegenueber dem Vormittagstief. Der US-CPI-Bericht (September) fuer 14:30 MESZ (8:30 ET) ist auch um 14:09 MESZ noch NICHT veroeffentlicht - Konsens weiterhin ca. 3,6% YoY headline / 2,4-2,5% YoY core. Xetra seit 09:00 MESZ offen ohne klaren Einzelkatalysator, US-Boersen oeffnen erst um 15:30 MESZ.",
-    "decision": "Tagesbudget 14.10. bereits gutgeschrieben (keine erneute Gutschrift in diesem Lauf). Kein Trade. BTC-Position (pos-0018) auf 83.564 USD aktualisiert (-1,73% seit Kauf, klar innerhalb der Halte-Toleranz). Keine Neuposition: CPI-Bericht steht in ca. 20 Minuten (14:30 MESZ) an, bewusst kein Positionsaufbau unmittelbar davor; weiterhin sehr hohes freies Kapital (ca. 69.642 EUR) vorhanden fuer eine Gelegenheit nach der Veroeffentlichung.",
-    "reasoning": "Kein Trade: BTC (pos-0018) bewegt sich seitwaerts/leicht erholt bei -1,73% seit Kauf, klar innerhalb der Halte-Toleranz (Stop-Loss ca. -6,5 bis -7,5%). CPI-Bericht (14:30 MESZ) noch nicht veroeffentlicht - unmittelbar davor wird bewusst nicht spekulativ positioniert, um nicht in die Volatilitaet der Veroeffentlichung hineinzukaufen. Naechster moeglicher Ausloeser bleibt der CPI-Bericht selbst, der im naechsten Lauf (ca. 15:09 MESZ) bereits vorliegen sollte.",
+    "marketOverview": "BTC bei ca. 83.400 USD, kaum veraendert ggue. dem Vormittag, weiterhin in der etablierten Bandbreite 82.800-84.000 USD. Der US-CPI-Bericht (September) wurde um 14:30 MESZ veroeffentlicht und kam heisser als erwartet herein: Headline +3,7% YoY (Konsens 3,6%), Core +2,6% YoY (Konsens 2,5%), getrieben vor allem von einem Sprung der Benzinpreise (+9,1% MoM). Das drueckt leicht auf die Zinssenkungshoffnungen vor der FOMC-Sitzung am 27.-28.10., Reaktion in Krypto bislang aber moderat/uneindeutig. Xetra weiter offen ohne klaren Einzelkatalysator, US-Kassamarkt oeffnet erst um 15:30 MESZ.",
+    "decision": "Tagesbudget 14.10. bereits gutgeschrieben (keine erneute Gutschrift in diesem Lauf). Kein Trade. BTC-Position (pos-0018) auf 83.400 USD aktualisiert (-1,92% seit Kauf, klar innerhalb der Halte-Toleranz). Keine Neuposition trotz heisserer CPI-Zahlen: Die Marktreaktion ist bislang moderat und uneindeutig, kein ueberzeugendes Signal fuer einen spekulativen Trade unmittelbar nach der Veroeffentlichung. Weiterhin sehr hohes freies Kapital (ca. 69.638 EUR) vorhanden fuer eine Gelegenheit, z.B. nach US-Marktoeffnung (15:30 MESZ).",
+    "reasoning": "Kein Trade: BTC (pos-0018) bewegt sich seitwaerts bei -1,92% seit Kauf, klar innerhalb der Halte-Toleranz (Stop-Loss ca. -6,5 bis -7,5%). Der CPI-Bericht kam mit 3,7%/2,6% heisser als die Konsensschaetzung (3,6%/2,5%) herein - fundamental leicht risk-off fuer Krypto/Aktien, da es Fed-Zinssenkungen unwahrscheinlicher macht. Die tatsaechliche Marktreaktion ist bislang aber nicht eindeutig genug (BTC nahezu unveraendert) fuer eine spekulative Short-/Risk-off-Wette ohne klareren Trend. Naechster moeglicher Ausloeser ist die US-Kassamarktoeffnung um 15:30 MESZ.",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 687.89,
+    "portfolioValueEnd": 686.54,
     "updates": [
       {
         "time": "00:09",
@@ -9040,6 +9040,11 @@
         "time": "14:09",
         "note": "Kein Trade, BTC-Kursupdate (83.564 USD, +0,4% 24h, -1,73% seit Kauf); CPI-Bericht (14:30 MESZ) noch nicht veroeffentlicht, bewusst kein Positionsaufbau unmittelbar davor; Xetra offen aber ohne Katalysator, US-Boersen noch geschlossen",
         "portfolioValue": 687.89
+      },
+      {
+        "time": "15:09",
+        "note": "Kein Trade. CPI September heiss (3,7%/2,6% vs. Konsens 3,6%/2,5%); BTC-Kursupdate (83.400 USD, -1,92% seit Kauf); Marktreaktion bislang moderat, kein ueberzeugendes Signal; US-Boersen oeffnen erst 15:30 MESZ",
+        "portfolioValue": 686.54
       }
     ]
   }
