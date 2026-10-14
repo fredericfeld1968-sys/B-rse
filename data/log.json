@@ -8958,13 +8958,13 @@
   },
   {
     "date": "2026-10-14",
-    "marketOverview": "BTC fiel weiter auf ca. 81.961 USD (-1,45% 24h, -3,61% seit Kauf von pos-0018), nachdem die Erholung auf 83.100 USD nicht hielt; ETH (-2,28% 24h) und SOL (-2,05% 24h) ebenfalls schwaecher - breiter, aber moderater Krypto-Rueckgang ohne klaren Einzelkatalysator. US-Aktien bleiben nach der heissen September-CPI im Risk-off: S&P 500 ca. -0,6 bis -1%, Nasdaq ca. -1,4%, Dow ca. -0,3%, bei steigenden Treasury-Renditen. Eine Aeusserung von NY-Fed-Praesident Williams, 2027 sei evtl. keine weitere Straffung noetig, stuetzte zwischenzeitlich leicht. Einzeltitel: ASML meldete Rekordumsatz und hob den Jahresausblick an (KI-Nachfrage) - starke Zahlen ohne Sell-the-news-Abverkauf, daher kein Dip-Kauf-Setup. CoreWeave brach um ca. 15% ein nach einer Gartner-Warnung zu Neocloud-Anbietern - echte fundamentale Sorge, kein ueberzogener Reflex, daher ebenfalls kein Dip-Kauf. Skydance fiel um ca. 22,8% durch einen rein technischen Reset (Warrant-Ausgabe), keine handelbare These.",
-    "decision": "Tagesbudget 14.10. bereits gutgeschrieben (keine erneute Gutschrift in diesem Lauf). Kein Trade. BTC-Position (pos-0018) auf 81.961 USD aktualisiert (-3,61% seit Kauf, weiterhin klar innerhalb der Halte-Toleranz von -6,5 bis -7,5%). Keine Neuposition: Weder bei Aktien (ASML-Zahlen ohne Abverkauf, CoreWeave-Einbruch fundamental statt Ueberreaktion, Skydance nur technischer Reset) noch bei Krypto (breiter, aber unspezifischer Rueckgang ohne Katalysator) ergab sich ein ueberzeugendes, zum spekulativen Dip-Kauf-Muster passendes Setup. Weiterhin sehr hohes freies Kapital (ca. 69.638 EUR) fuer eine spaetere, klarere Gelegenheit vorhanden.",
-    "reasoning": "Kein Trade: BTC (pos-0018) bewegt sich mit -3,61% seit Kauf weiterhin klar innerhalb der Halte-Toleranz. Keiner der heutigen Einzeltitel-Katalysatoren (ASML starke Zahlen ohne Reflex, CoreWeave echte Fundamentalsorge, Skydance rein technisch) passt zum etablierten Dip-Kauf-Muster (Ueberreaktion auf eigentlich starke Nachrichten); der breite Markt bleibt zudem im anhaltenden CPI-Risk-off, daher bewusst kein Positionsaufbau.",
+    "marketOverview": "BTC pendelt bei ca. 81.585 USD (-1,96% 24h, -4,06% seit Kauf von pos-0018), weiterhin im Sog der heissen September-CPI (3,7%/2,6% vs. 3,6%/2,5% erwartet) vom Nachmittag. US-Aktien bleiben nach dem CPI-Schock im Risk-off: S&P 500 ca. -0,6 bis -0,9%, Nasdaq ca. -0,9 bis -1,4%, bei auf bis zu 5,27-5,36% gestiegenen 10-Jahres-Renditen - der Markt preist eine hoehere Fed-Zinserhoehungswahrscheinlichkeit ein. Kein frischer Einzeltitel-Katalysator seit dem letzten Lauf (ASML/CoreWeave/Skydance bereits bekannt); US-Kassamarkt (bis 22:00 MESZ) bleibt in Risk-off-Stimmung ohne klares Dip-Kauf-Setup.",
+    "decision": "Tagesbudget 14.10. bereits gutgeschrieben (keine erneute Gutschrift in diesem Lauf). Kein Trade. BTC-Position (pos-0018) auf 81.585 USD aktualisiert (-4,06% seit Kauf, weiterhin klar innerhalb der Halte-Toleranz von -6,5 bis -7,5%). Keine Neuposition: anhaltender, aber unspezifischer CPI-Risk-off ohne ueberzeugenden neuen Einzelkatalysator fuer ein Dip-Kauf-Setup. Weiterhin sehr hohes freies Kapital (ca. 69.638 EUR) fuer eine spaetere, klarere Gelegenheit vorhanden.",
+    "reasoning": "Kein Trade: BTC (pos-0018) bewegt sich mit -4,06% seit Kauf weiterhin klar innerhalb der Halte-Toleranz. Der breite Markt bleibt im anhaltenden, aber bereits bekannten CPI-Risk-off (hoehere Renditen, Fed-Zinserhoehungssorgen); kein frischer, ueberzeugender Einzeltitel- oder Krypto-Katalysator seit dem letzten Lauf gefunden, daher bewusst kein Positionsaufbau.",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 674.7,
+    "portfolioValueEnd": 671.6,
     "updates": [
       {
         "time": "00:09",
@@ -9065,6 +9065,11 @@
         "time": "19:08",
         "note": "Kein Trade, BTC-Kursupdate (81.961 USD, -1,45% 24h, -3,61% seit Kauf); ASML-Zahlen stark ohne Abverkauf, CoreWeave -15% fundamental (Gartner-Warnung), Skydance -22,8% nur technischer Reset - kein Dip-Kauf-Setup",
         "portfolioValue": 674.7
+      },
+      {
+        "time": "20:08",
+        "note": "Kein Trade, BTC-Kursupdate (81.585 USD, -1,96% 24h, -4,06% seit Kauf); anhaltender CPI-Risk-off ohne neuen Einzelkatalysator; US-Kassamarkt noch bis 22:00 MESZ offen aber ohne Dip-Kauf-Signal",
+        "portfolioValue": 671.6
       }
     ]
   }
