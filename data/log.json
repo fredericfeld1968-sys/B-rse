@@ -8958,13 +8958,13 @@
   },
   {
     "date": "2026-10-14",
-    "marketOverview": "BTC notiert via CoinGecko-API (live) bei 83.330 USD (+1,10% in 24h), praktisch unveraendert gegenueber den letzten Laeufen der Nacht (83.176-83.365 USD). Breiter, aber weiterhin moderater Risk-on-Ton im Kryptomarkt (ETH, SOL, XRP, AVAX, ADA, LINK, DOGE alle leicht im Plus, 1-2% 24h) ohne erkennbaren Einzelkatalysator. US-Boersen (NYSE/Nasdaq) und Xetra bleiben um diese Nachtzeit geschlossen; naechster wichtiger Katalysator bleibt der US-CPI-Bericht (September-Daten) heute um 14:30 MESZ.",
-    "decision": "Tagesbudget 14.10. bereits gutgeschrieben (keine erneute Gutschrift, lastGrantDate bleibt 14.10.). Kein Trade in diesem Lauf. BTC-Position (pos-0018) auf 83.330 USD aktualisiert (-2,01% seit Kauf, klar innerhalb der Halte-Toleranz, weder Stop-Loss noch Zielspanne erreicht). Keine Neuposition: Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten, im Kryptomarkt weiterhin nur ein breiter, unspezifischer Anstieg ohne bestaetigten Einzelkatalysator - kein ueberzeugendes Setup fuer einen Neukauf trotz hohem freiem Kapital (~69.638 EUR).",
-    "reasoning": "Kein Trade, da weder bei der gehaltenen BTC-Position noch am breiten Kryptomarkt eine Entscheidung erforderlich ist: BTC bewegt sich seit mehreren Laeufen in einer engen Bandbreite um 83.000-83.400 USD ohne klaren Trend oder Katalysator, die Position liegt mit -2,01% klar innerhalb der Halte-Toleranz (Stop-Loss-Schwelle ca. -6,5 bis -7,5%). Fuer eine neue spekulative Position fehlt ein ueberzeugendes, mehrfach bestaetigtes Setup; Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten ohnehin nicht handelbar. Der anstehende US-CPI-Bericht (14:30 MESZ) ist der naechste potenzielle Katalysator.",
+    "marketOverview": "BTC via CoinGecko-API (live) bei 83.679 USD (+1,00% in 24h), weiterhin in der engen Bandbreite der letzten Stunden (83.176-83.679 USD). Krypto-Markt insgesamt ruhig/leicht risikofreudig vor dem heutigen US-CPI-Bericht (September-Daten, Veroeffentlichung 14:30 MESZ) - laut Recherche keine verlaesslich aktuellen, mehrfach bestaetigten Altcoin-Kurse mit klarem Einzelkatalysator auffindbar (Datenlage fuer SOL/AVAX etc. inkonsistent/veraltet). Spot-Bitcoin-ETFs verzeichneten zuletzt mehrere Tage in Folge Abflüsse. US-Boersen (NYSE/Nasdaq) und Xetra bleiben um diese Nachtzeit geschlossen.",
+    "decision": "Tagesbudget 14.10. bereits gutgeschrieben (keine erneute Gutschrift, lastGrantDate bleibt 14.10.). Kein Trade in diesem Lauf. BTC-Position (pos-0018) auf 83.679 USD aktualisiert (-1,59% seit Kauf, klar innerhalb der Halte-Toleranz). Keine Neuposition: Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten, im Kryptomarkt kein ueberzeugendes, mehrfach bestaetigtes Setup mit konkretem Einzelkatalysator - Markt wirkt vor dem CPI-Termin (14:30 MESZ) eher abwartend. Trotz hohem freiem Kapital (~69.638 EUR) kein Kauf ohne ueberzeugende Gelegenheit.",
+    "reasoning": "Kein Trade: BTC (pos-0018) bewegt sich weiterhin in eine engen Bandbreite um 83.000-83.700 USD, -1,59% seit Kauf und damit klar innerhalb der Halte-Toleranz (Stop-Loss ca. -6,5 bis -7,5%). Fuer eine neue spekulative Position fehlt ein frisches, mehrfach bestaetigtes Setup mit konkretem Katalysator; die bei der Recherche gefundenen Altcoin-Bewegungen (z.B. STX, RSR, GTC) stammen vom Vortag, sind klein-kapitalisiert/duennliquide oder trend- statt ereignisbasiert. Aktien/ETFs/Rohstoffe sind um diese Nachtzeit ohnehin nicht handelbar. Naechster Katalysator bleibt der US-CPI-Bericht um 14:30 MESZ.",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 685.96,
+    "portfolioValueEnd": 688.84,
     "updates": [
       {
         "time": "00:09",
@@ -8990,6 +8990,11 @@
         "time": "04:09",
         "note": "Keine Aenderung: BTC (pos-0018) auf 83.330 USD aktualisiert (-2,01% seit Kauf, +1,10% 24h); breiter aber unspezifischer Krypto-Anstieg (1-2%) ohne Katalysator; Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten; kein Trade",
         "portfolioValue": 685.96
+      },
+      {
+        "time": "05:11",
+        "note": "Kein Trade: BTC (pos-0018) auf 83.679 USD aktualisiert (-1,59% seit Kauf, +1,00% 24h); kein ueberzeugendes Krypto-Setup gefunden, Altcoin-Datenlage unzuverlaessig; Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten; naechster Katalysator CPI 14:30 MESZ",
+        "portfolioValue": 688.84
       }
     ]
   }
