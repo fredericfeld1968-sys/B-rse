@@ -8958,13 +8958,13 @@
   },
   {
     "date": "2026-10-14",
-    "marketOverview": "BTC pendelt nach dem CPI-Schock weiter um 82.000-82.800 USD (zuletzt 82.200 USD, -3,33% seit Kauf von pos-0018); ein kurzer Erholungsversuch Richtung 83.000 USD scheiterte, breiter Krypto-Markt bleibt 2-4% im Minus. Ausloeser bleibt der heissere September-CPI-Bericht (Headline 3,7%, Core 2,6% YoY, beide ueber Konsens von 3,6%/2,5%), der die Wahrscheinlichkeit einer weiteren Fed-Zinserhoehung wieder ins Spiel gebracht hat (Markt preiste vor der Zahl nur rund 22% Chance auf einen Hike im Oktober ein). US-Aktien bleiben im Risk-off (S&P 500 zuletzt ca. -0,4 bis -0,8%, Dow nahe unveraendert, Nasdaq belastet durch Chip-Schwaeche); Oel steigt weiter wegen anhaltender Nahost-Versorgungssorgen. Kein einzelner, ueberzeugender Chance-Katalysator identifiziert.",
-    "decision": "Tagesbudget 14.10. bereits gutgeschrieben (keine erneute Gutschrift in diesem Lauf). Kein Trade. BTC-Position (pos-0018) auf 82.200 USD aktualisiert (-3,33% seit Kauf, weiterhin klar innerhalb der Halte-Toleranz von -6,5 bis -7,5%). Keine Neuposition: Der breite Risk-off nach der heissen CPI-Zahl und den haengenden Fed-Zinserwartungen betrifft Krypto und Aktien gleichermassen, ohne einen einzelnen ueberzeugenden Chance-Katalysator (kein bestaetigter Dip-Kauf wie bei AMD/SpaceX, kein bestaetigter Ausbruch). Weiterhin sehr hohes freies Kapital (ca. 69.638 EUR) fuer eine spaetere Gelegenheit vorhanden.",
-    "reasoning": "Kein Trade: BTC (pos-0018) bewegt sich mit -3,33% seit Kauf klar innerhalb der Halte-Toleranz (Stop-Loss ca. -6,5 bis -7,5%). Die heisse CPI-Zahl hat einen breiten, aber unspezifischen Risk-off-Schub ausgeloest (Krypto -2 bis -4%, US-Aktien leicht im Minus) - ein Makro-Sentiment-Effekt ohne Einzeltitel-Katalysator und damit kein ueberzeugendes Setup fuer einen neuen spekulativen Trade. Naechster moeglicher Ausloeser: Marktreaktion im spaeten US-Handel oder neue Nachrichten.",
+    "marketOverview": "BTC erholt sich leicht auf ca. 83.100 USD (-2,28% seit Kauf von pos-0018), nachdem der Tiefpunkt bei ca. 82.200 USD durchlaufen wurde; breiter Krypto-Markt weiterhin uneinheitlich. US-Aktien bleiben nach der heissen September-CPI (3,7%/2,6% YoY, beide ueber Konsens) im Risk-off: S&P 500 -0,97%, Nasdaq -1,46% (Tech/Chips am schwaechsten), Dow -0,17%. Zwei Fed-Praesidenten (Williams, Collins) brachten heute offen einen weiteren Zinsschritt ins Spiel, 10-Jahres-Rendite auf ca. 5,27% gesprungen - hawkishe Ueberraschung unter dem neuen Fed-Chef Warsh. Einziger klar bestaetigter Einzeltitel-Katalysator: Bank of America (-ca. 5-9% intraday) nach Gewinnverfehlung plus 1,2-Mrd.-USD-Sondervergleich - jedoch ein echter fundamentaler Rueckgang (Nettogewinn -17% YoY), kein blosser Sell-the-news-Reflex auf starke Zahlen wie bei den erfolgreichen AMD-/SpaceX-Mustern, daher kein Dip-Kauf. Gold -1,8% auf ca. 4.100-4.150 USD (hawkishe Zinserwartung belastet trotz Nahost-Risiko), Brent weiterhin erhoeht (>100 USD) wegen anhaltender Houthi-Angriffe auf saudische Energieanlagen und Iran/USA-Spannungen.",
+    "decision": "Tagesbudget 14.10. bereits gutgeschrieben (keine erneute Gutschrift in diesem Lauf). Kein Trade. BTC-Position (pos-0018) auf 83.100 USD aktualisiert (-2,28% seit Kauf, klar innerhalb der Halte-Toleranz von -6,5 bis -7,5%). Keine Neuposition: Einziger halbwegs konkreter Einzeltitel-Katalysator heute (BAC-Gewinnverfehlung) ist ein echter fundamentaler Rueckgang, kein ueberzogener Sell-the-news-Reflex auf starke Zahlen - passt nicht zum bisher erfolgreichen Dip-Kauf-Muster, zudem bereits teilweise erholt (von -9% auf -5,5% intraday) und in einem hawkishen, risikoaversen Makroumfeld. Weiterhin sehr hohes freies Kapital (ca. 69.638 EUR) fuer eine spaetere, klarere Gelegenheit vorhanden.",
+    "reasoning": "Kein Trade: BTC (pos-0018) bewegt sich mit -2,28% seit Kauf klar innerhalb der Halte-Toleranz. Das Makroumfeld (hawkishe Fed-Kommentare, steigende Renditen, breiter Aktien-Risk-off) bietet keinen ueberzeugenden Einstieg; der einzige bestaetigte Einzeltitel-Katalysator (BAC) ist qualitativ anders als die bisher erfolgreichen Dip-Kaeufe (echte Verschlechterung statt Ueberreaktion auf starke Zahlen) und wird daher bewusst nicht gehandelt.",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 676.66,
+    "portfolioValueEnd": 684.07,
     "updates": [
       {
         "time": "00:09",
@@ -9055,6 +9055,11 @@
         "time": "17:09",
         "note": "Kein Trade, BTC-Kursupdate (82.200 USD, -3,33% seit Kauf); Erholungsversuch Richtung 83.000 USD gescheitert, breiter Risk-off nach heisser CPI haelt an; kein ueberzeugender Einzelkatalysator fuer eine Neuposition",
         "portfolioValue": 676.66
+      },
+      {
+        "time": "18:13",
+        "note": "Kein Trade, BTC-Kursupdate (83.100 USD, -2,28% seit Kauf, leichte Erholung); einziger bestaetigter Einzeltitel-Katalysator heute (BAC-Gewinnverfehlung -5 bis -9%) ist echte Fundamentalverschlechterung statt Sell-the-news-Ueberreaktion, daher kein Dip-Kauf; hawkishes Makroumfeld (Fed-Hike-Kommentare, Renditen auf 5,27%) belastet weiter",
+        "portfolioValue": 684.07
       }
     ]
   }
