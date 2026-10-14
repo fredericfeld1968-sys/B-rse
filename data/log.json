@@ -8958,13 +8958,13 @@
   },
   {
     "date": "2026-10-14",
-    "marketOverview": "BTC via CoinGecko (live) bei ca. 83.390 USD, praktisch unveraendert/leicht schwaecher; Altcoins gemischt (ETH +0,5%, SOL +0,9%, DOGE +0,2%, HYPE +1,2% leicht im Plus; ADA -1,7%, AVAX -3,3%, LINK -1,7% leicht im Minus). QNT bleibt mit -7,2% in 24h auffaellig schwach, aber laut Recherche ohne frischen Einzelkatalysator - reines Nachbeben/Mean-Reversion der grossen Ende-September-Spike-Rally (Clearing-House-Katalysator), keine neue Nachricht. Kein sonstiger bestaetigter Krypto-Katalysator der letzten Stunden gefunden. Naechster grosser Risikotermin bleibt der US-CPI-Bericht (September) um 14:30 MESZ; Konsens ca. +0,5-0,6% MoM / ~3,6-3,7% YoY headline, Kern-CPI ~+0,2% MoM / ~2,4-2,5% YoY - ein heisser Kern-Wert koennte Risikoassets belasten, ein weicher Wert sie stuetzen. US-Boersen/Xetra vor Handelsbeginn weiterhin geschlossen.",
-    "decision": "Tagesbudget 14.10. bereits gutgeschrieben (keine erneute Gutschrift). Kein Trade in diesem Lauf. BTC-Position (pos-0018) auf 83.390 USD aktualisiert (-1,93% seit Kauf, klar innerhalb der Halte-Toleranz). Keine Neuposition: Aktien/ETFs/Rohstoffe vor Boersenoeffnung nicht handelbar, im Kryptomarkt kein ueberzeugendes, mehrfach bestaetigtes Setup mit frischem Einzelkatalysator (QNT-Schwaeche ist blosses Nachbeben der eigenen Spike-Rally, kein neues Signal). Vor dem CPI-Termin (14:30 MESZ) bewusst abwartend, trotz hohem freiem Kapital kein Kauf ohne ueberzeugende Gelegenheit.",
-    "reasoning": "Kein Trade: BTC (pos-0018) bewegt sich weiterhin in enger Bandbreite um 83.000-83.700 USD, -1,93% seit Kauf und damit klar innerhalb der Halte-Toleranz (Stop-Loss ca. -6,5 bis -7,5%). Fuer eine neue spekulative Position fehlt ein frisches, mehrfach bestaetigtes Setup mit konkretem Katalysator; QNT faellt zwar weiter auffaellig (-7,2% 24h), aber laut Recherche nur als Fortsetzung der Korrektur der eigenen Ende-September-Spike-Rally ohne neue Nachricht, daher keine Handlung. Aktien/ETFs/Rohstoffe sind vor Boersenoeffnung ohnehin nicht handelbar. Naechster Katalysator bleibt der US-CPI-Bericht um 14:30 MESZ.",
+    "marketOverview": "BTC via CoinGecko (live) bei ca. 83.514 USD, nahezu unveraendert (-0,15% 24h); Altcoins durchweg leicht im Minus (ETH -0,9%, SOL -0,7%, AVAX -2,8%, ADA -1,4%, SUI -1,2%, LINK -0,9%, ENA -3,2%, QNT -5,7%), XRP/DOGE/BCH nahezu unveraendert bis leicht fester. Kein frischer, bestaetigter Einzelkatalysator in Krypto gefunden - breiter abwartender Ton vor dem US-CPI-Bericht (September) um 14:30 MESZ. Xetra ist seit 09:00 MESZ geoeffnet, US-Boersen oeffnen erst um 15:30 MESZ; fuer deutsche Einzelwerte (u.a. Rheinmetall) wurde keine aktuelle, auf heute datierte Nachricht mit klarem Kurstreiber gefunden.",
+    "decision": "Tagesbudget 14.10. bereits gutgeschrieben (keine erneute Gutschrift). Kein Trade in diesem Lauf. BTC-Position (pos-0018) auf 83.514 USD aktualisiert (-1,79% seit Kauf, klar innerhalb der Halte-Toleranz). Keine Neuposition: Xetra zwar geoeffnet, aber kein ueberzeugender, mehrfach bestaetigter Katalysator fuer einen deutschen Einzelwert gefunden; im Kryptomarkt nur breite, unspezifische Schwaeche ohne neues Signal. Markt wartet erkennbar auf den CPI-Bericht um 14:30 MESZ, daher bewusst abwartend trotz hohem freiem Kapital.",
+    "reasoning": "Kein Trade: BTC (pos-0018) bewegt sich weiterhin in enger Bandbreite um 83.000-84.000 USD, -1,79% seit Kauf und damit klar innerhalb der Halte-Toleranz (Stop-Loss ca. -6,5 bis -7,5%). Fuer eine neue spekulative Position fehlt ein frisches, mehrfach bestaetigtes Setup mit konkretem Katalysator - weder bei Altcoins (durchweg leichtes Minus ohne Nachrichtenlage) noch bei deutschen Aktien trotz geoeffneter Xetra. Naechster Katalysator bleibt der US-CPI-Bericht um 14:30 MESZ.",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 686.46,
+    "portfolioValueEnd": 687.48,
     "updates": [
       {
         "time": "00:09",
@@ -9010,6 +9010,11 @@
         "time": "08:11",
         "note": "Kein Trade, BTC-Kursupdate (83.390 USD, -1,93% seit Kauf); QNT weiterhin schwaecher (-7,2% 24h) aber laut Recherche nur Nachbeben der eigenen Spike-Rally ohne neuen Katalysator; Aktien/ETFs/Rohstoffe vor Boersenoeffnung nicht handelbar; naechster Katalysator CPI 14:30 MESZ",
         "portfolioValue": 686.46
+      },
+      {
+        "time": "09:08",
+        "note": "Kein Trade, BTC-Kursupdate (83.514 USD, -0,15% 24h, -1,79% seit Kauf); Xetra seit 09:00 MESZ offen, aber kein ueberzeugender Katalysator fuer Aktien gefunden; naechster Katalysator CPI 14:30 MESZ",
+        "portfolioValue": 687.48
       }
     ]
   }
