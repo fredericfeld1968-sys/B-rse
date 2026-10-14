@@ -8958,13 +8958,13 @@
   },
   {
     "date": "2026-10-14",
-    "marketOverview": "BTC stabilisiert sich bei ca. 83.600 USD (-1,69% seit Kauf von pos-0018), nachdem sich der Kryptomarkt vom CPI-bedingten Nachmittagstief erholt hat. US-Aktienmaerkte sind seit 22:00 MESZ geschlossen; neue Meldungen (CFTC-Rahmenvorschlag fuer Krypto, institutioneller BTC-Kauf durch Strive) liefern kein ausreichend frisches, kursrelevantes Signal fuer eine Neuposition.",
-    "decision": "Tagesbudget 14.10. bereits gutgeschrieben (keine erneute Gutschrift in diesem Lauf). Kein Trade. BTC-Position (pos-0018) auf 83.600 USD aktualisiert (-1,69% seit Kauf, Erholung haelt). Keine Neuposition: US-Boersen geschlossen, Krypto-Marktlage ohne ueberzeugenden neuen Katalysator. Weiterhin sehr hohes freies Kapital (ca. 69.638 EUR) fuer eine spaetere, klarere Gelegenheit vorhanden.",
-    "reasoning": "Kein Trade: BTC (pos-0018) stabilisiert bei -1,69% seit Kauf, klar innerhalb der Halte-Toleranz. US-Kassamarkt seit Handelsschluss (22:00 MESZ) nicht mehr handelbar. Keine der gefundenen Meldungen (CFTC-Vorschlag, Strive-BTC-Kauf) stellt einen frischen, ueberzeugenden Einzelkatalysator fuer eine Neuposition dar.",
+    "marketOverview": "Breiter, unspezifischer Krypto-Risk-off seit dem letzten Lauf: BTC faellt auf 81.660 USD (-2,01% 24h), begleitet von gleichgerichteten Rueckgaengen bei ETH, SOL, XRP, ADA, AVAX, LINK, DOGE, HBAR, QNT, BCH (jeweils -2 bis -4% 24h) ohne erkennbaren Einzelkatalysator. US- und europaeische Boersen seit 22:00 MESZ geschlossen, nur Krypto handelbar.",
+    "decision": "Tagesbudget 14.10. bereits gutgeschrieben (keine erneute Gutschrift in diesem Lauf). Kein Trade. BTC-Position (pos-0018) auf 81.660 USD aktualisiert (-3,97% seit Kauf, weiterhin klar innerhalb der Halte-Toleranz). Keine Neuposition: breiter aber unspezifischer Krypto-Rueckgang ohne ueberzeugenden Einzelkatalysator, US-Boersen geschlossen. Weiterhin sehr hohes freies Kapital fuer eine spaetere, klarere Gelegenheit vorhanden.",
+    "reasoning": "Kein Trade: BTC (pos-0018) bei -3,97% seit Kauf, deutlich unterhalb der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%), daher gehalten. Der Rueckgang bei BTC und allen beobachteten Altcoins ist gleichgerichtet und unspezifisch (jeweils -2 bis -4% 24h) - kein Hinweis auf einen frischen, handelbaren Einzelkatalysator. Aktien/ETFs/Rohstoffe seit 22:00 MESZ nicht handelbar.",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 688.18,
+    "portfolioValueEnd": 672.22,
     "updates": [
       {
         "time": "00:09",
@@ -9080,6 +9080,11 @@
         "time": "22:08",
         "note": "Kein Trade, BTC-Kursupdate (83.600 USD, -1,69% seit Kauf, Erholung haelt stabil); US-Kassamarkt seit 22:00 MESZ geschlossen, nur Krypto handelbar; CFTC-Rahmenvorschlag fuer Krypto-Spotmarkt und Strive-BTC-Kauf (235 Mio. USD) bekannt, aber kein frischer kursrelevanter Einzelkatalysator fuer eine Neuposition",
         "portfolioValue": 688.18
+      },
+      {
+        "time": "23:09",
+        "note": "Kein Trade, BTC-Kursupdate (81.660 USD, -2,01% 24h, -3,97% seit Kauf); breiter aber unspezifischer Krypto-Rueckgang (ETH/SOL/XRP/ADA/AVAX/LINK/DOGE/HBAR/QNT/BCH jeweils -2 bis -4%) ohne Einzelkatalysator; US-Boersen seit 22:00 MESZ geschlossen",
+        "portfolioValue": 672.22
       }
     ]
   }
