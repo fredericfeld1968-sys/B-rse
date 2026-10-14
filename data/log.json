@@ -8958,13 +8958,13 @@
   },
   {
     "date": "2026-10-14",
-    "marketOverview": "BTC via CoinGecko-API (live) bei 83.649 USD (+0,25% in 24h), weiterhin praktisch unveraendert in der engen Bandbreite der letzten Stunden (83.176-83.679 USD). Altcoins unauffaellig (ETH ~2.511 USD, SOL ~107,4 USD, DOGE ~0,0849 USD, XRP ~1,37 USD jeweils nahezu unveraendert); QNT weiterhin mit -6,4% in 24h auffaellig schwaecher, aber ohne bestaetigten Einzelkatalysator in der Recherche. Naechster Katalysator bleibt der US-CPI-Bericht (September-Daten, Veroeffentlichung 14:30 MESZ), noch keine neuen Marktdaten dazu verfuegbar. US-Boersen (NYSE/Nasdaq) und Xetra bleiben um diese Nachtzeit geschlossen.",
-    "decision": "Tagesbudget 14.10. bereits gutgeschrieben (keine erneute Gutschrift, lastGrantDate bleibt 14.10.). Kein Trade in diesem Lauf. BTC-Position (pos-0018) auf 83.649 USD aktualisiert (-1,63% seit Kauf, klar innerhalb der Halte-Toleranz). Keine Neuposition: Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten, im Kryptomarkt kein ueberzeugendes, mehrfach bestaetigtes Setup mit konkretem Einzelkatalysator (QNT-Schwaeche ohne klaren Ausloeser, daher keine Handlung) - Markt wirkt vor dem CPI-Termin (14:30 MESZ) eher abwartend. Trotz hohem freiem Kapital (~69.638 EUR) kein Kauf ohne ueberzeugende Gelegenheit.",
-    "reasoning": "Kein Trade: BTC (pos-0018) bewegt sich weiterhin in einer engen Bandbreite um 83.000-83.700 USD, -1,63% seit Kauf und damit klar innerhalb der Halte-Toleranz (Stop-Loss ca. -6,5 bis -7,5%). Fuer eine neue spekulative Position fehlt ein frisches, mehrfach bestaetigtes Setup mit konkretem Katalysator; QNT faellt zwar auffaellig (-5,9% 24h), aber ohne nachvollziehbaren Ausloeser in der Recherche, daher keine Handlung. Aktien/ETFs/Rohstoffe sind um diese Nachtzeit ohnehin nicht handelbar. Naechster Katalysator bleibt der US-CPI-Bericht um 14:30 MESZ.",
+    "marketOverview": "BTC via CoinGecko (live) bei ca. 83.390 USD, praktisch unveraendert/leicht schwaecher; Altcoins gemischt (ETH +0,5%, SOL +0,9%, DOGE +0,2%, HYPE +1,2% leicht im Plus; ADA -1,7%, AVAX -3,3%, LINK -1,7% leicht im Minus). QNT bleibt mit -7,2% in 24h auffaellig schwach, aber laut Recherche ohne frischen Einzelkatalysator - reines Nachbeben/Mean-Reversion der grossen Ende-September-Spike-Rally (Clearing-House-Katalysator), keine neue Nachricht. Kein sonstiger bestaetigter Krypto-Katalysator der letzten Stunden gefunden. Naechster grosser Risikotermin bleibt der US-CPI-Bericht (September) um 14:30 MESZ; Konsens ca. +0,5-0,6% MoM / ~3,6-3,7% YoY headline, Kern-CPI ~+0,2% MoM / ~2,4-2,5% YoY - ein heisser Kern-Wert koennte Risikoassets belasten, ein weicher Wert sie stuetzen. US-Boersen/Xetra vor Handelsbeginn weiterhin geschlossen.",
+    "decision": "Tagesbudget 14.10. bereits gutgeschrieben (keine erneute Gutschrift). Kein Trade in diesem Lauf. BTC-Position (pos-0018) auf 83.390 USD aktualisiert (-1,93% seit Kauf, klar innerhalb der Halte-Toleranz). Keine Neuposition: Aktien/ETFs/Rohstoffe vor Boersenoeffnung nicht handelbar, im Kryptomarkt kein ueberzeugendes, mehrfach bestaetigtes Setup mit frischem Einzelkatalysator (QNT-Schwaeche ist blosses Nachbeben der eigenen Spike-Rally, kein neues Signal). Vor dem CPI-Termin (14:30 MESZ) bewusst abwartend, trotz hohem freiem Kapital kein Kauf ohne ueberzeugende Gelegenheit.",
+    "reasoning": "Kein Trade: BTC (pos-0018) bewegt sich weiterhin in enger Bandbreite um 83.000-83.700 USD, -1,93% seit Kauf und damit klar innerhalb der Halte-Toleranz (Stop-Loss ca. -6,5 bis -7,5%). Fuer eine neue spekulative Position fehlt ein frisches, mehrfach bestaetigtes Setup mit konkretem Katalysator; QNT faellt zwar weiter auffaellig (-7,2% 24h), aber laut Recherche nur als Fortsetzung der Korrektur der eigenen Ende-September-Spike-Rally ohne neue Nachricht, daher keine Handlung. Aktien/ETFs/Rohstoffe sind vor Boersenoeffnung ohnehin nicht handelbar. Naechster Katalysator bleibt der US-CPI-Bericht um 14:30 MESZ.",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 688.59,
+    "portfolioValueEnd": 686.46,
     "updates": [
       {
         "time": "00:09",
@@ -9005,6 +9005,11 @@
         "time": "07:09",
         "note": "Kein Trade, BTC-Kursupdate (83.649 USD, +0,25% 24h, -1,63% seit Kauf), praktisch unveraendert; QNT weiterhin schwaecher (-6,4% 24h) ohne bestaetigten Katalysator; Aktien/ETFs/Rohstoffe vor Boersenoeffnung noch nicht handelbar, naechster Katalysator CPI 14:30 MESZ",
         "portfolioValue": 688.59
+      },
+      {
+        "time": "08:11",
+        "note": "Kein Trade, BTC-Kursupdate (83.390 USD, -1,93% seit Kauf); QNT weiterhin schwaecher (-7,2% 24h) aber laut Recherche nur Nachbeben der eigenen Spike-Rally ohne neuen Katalysator; Aktien/ETFs/Rohstoffe vor Boersenoeffnung nicht handelbar; naechster Katalysator CPI 14:30 MESZ",
+        "portfolioValue": 686.46
       }
     ]
   }
