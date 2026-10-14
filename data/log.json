@@ -8958,13 +8958,13 @@
   },
   {
     "date": "2026-10-14",
-    "marketOverview": "BTC erholt sich leicht auf ca. 83.500 USD (-1,81% seit Kauf von pos-0018, zuvor -4,06%), nachdem der Kryptomarkt den Nachmittagstiefpunkt nach der heissen September-CPI (3,7%/2,6% vs. 3,6%/2,5% erwartet) teilweise ueberwunden hat. US-Aktien bleiben kurz vor Handelsschluss (22:00 MESZ) im CPI-bedingten Risk-off; Einzeltitel-Katalysatoren (ASML/CoreWeave/Skydance/BAC) sind bereits bekannt und eingepreist, kein frischer ueberzeugender neuer Trigger gefunden.",
-    "decision": "Tagesbudget 14.10. bereits gutgeschrieben (keine erneute Gutschrift in diesem Lauf). Kein Trade. BTC-Position (pos-0018) auf 83.500 USD aktualisiert (-1,81% seit Kauf, deutliche Erholung von zuvor -4,06%, weiterhin klar innerhalb der Halte-Toleranz). Keine Neuposition: Markt kurz vor US-Handelsschluss ohne ueberzeugenden neuen Einzelkatalysator fuer ein Dip-Kauf-Setup. Weiterhin sehr hohes freies Kapital (ca. 69.638 EUR) fuer eine spaetere, klarere Gelegenheit vorhanden.",
-    "reasoning": "Kein Trade: BTC (pos-0018) erholt sich auf -1,81% seit Kauf und bleibt klar innerhalb der Halte-Toleranz. Der breite Aktienmarkt bleibt im bereits bekannten CPI-Risk-off kurz vor Handelsschluss; kein frischer, ueberzeugender Einzeltitel- oder Krypto-Katalysator seit dem letzten Lauf gefunden, daher bewusst kein Positionsaufbau.",
+    "marketOverview": "BTC stabilisiert sich bei ca. 83.600 USD (-1,69% seit Kauf von pos-0018), nachdem sich der Kryptomarkt vom CPI-bedingten Nachmittagstief erholt hat. US-Aktienmaerkte sind seit 22:00 MESZ geschlossen; neue Meldungen (CFTC-Rahmenvorschlag fuer Krypto, institutioneller BTC-Kauf durch Strive) liefern kein ausreichend frisches, kursrelevantes Signal fuer eine Neuposition.",
+    "decision": "Tagesbudget 14.10. bereits gutgeschrieben (keine erneute Gutschrift in diesem Lauf). Kein Trade. BTC-Position (pos-0018) auf 83.600 USD aktualisiert (-1,69% seit Kauf, Erholung haelt). Keine Neuposition: US-Boersen geschlossen, Krypto-Marktlage ohne ueberzeugenden neuen Katalysator. Weiterhin sehr hohes freies Kapital (ca. 69.638 EUR) fuer eine spaetere, klarere Gelegenheit vorhanden.",
+    "reasoning": "Kein Trade: BTC (pos-0018) stabilisiert bei -1,69% seit Kauf, klar innerhalb der Halte-Toleranz. US-Kassamarkt seit Handelsschluss (22:00 MESZ) nicht mehr handelbar. Keine der gefundenen Meldungen (CFTC-Vorschlag, Strive-BTC-Kauf) stellt einen frischen, ueberzeugenden Einzelkatalysator fuer eine Neuposition dar.",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 687.36,
+    "portfolioValueEnd": 688.18,
     "updates": [
       {
         "time": "00:09",
@@ -9075,6 +9075,11 @@
         "time": "21:09",
         "note": "Kein Trade, BTC-Kursupdate (83.500 USD, Erholung von -4,06% auf -1,81% seit Kauf); kurz vor US-Handelsschluss (22:00 MESZ) kein neuer ueberzeugender Katalysator gefunden",
         "portfolioValue": 687.36
+      },
+      {
+        "time": "22:08",
+        "note": "Kein Trade, BTC-Kursupdate (83.600 USD, -1,69% seit Kauf, Erholung haelt stabil); US-Kassamarkt seit 22:00 MESZ geschlossen, nur Krypto handelbar; CFTC-Rahmenvorschlag fuer Krypto-Spotmarkt und Strive-BTC-Kauf (235 Mio. USD) bekannt, aber kein frischer kursrelevanter Einzelkatalysator fuer eine Neuposition",
+        "portfolioValue": 688.18
       }
     ]
   }
