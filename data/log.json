@@ -9090,13 +9090,13 @@
   },
   {
     "date": "2026-10-15",
-    "marketOverview": "Risk-off-Grundton haelt weiter an: Dow bleibt am Nachmittag deutlich fester (ca. +0,9% auf gut 52.000 Punkte, Rotation in Defensiv-/Value-Titel), waehrend Nasdaq/S&P 500 durch den anhaltenden Chip-/AI-Ausverkauf belastet bleiben (TSMC -4,1% trotz starken Q3-Zahlen, Kospi -8% mit Samsung -9% und SK Hynix -11% ueber Nacht). Keine neue bestaetigte BTC-Kursquelle seit 20:09 verfuegbar; die offene Position (pos-0018) bleibt auf dem letzten bestaetigten Stand (~81.500 USD, -4,16%) innerhalb der Stop-Loss-Schwelle. Kein neuer, eigenstaendig ueberzeugender Kaufkatalysator gefunden.",
-    "decision": "Tagesbudget 15.10. bereits gutgeschrieben (keine erneute Gutschrift in diesem Lauf). Kein Trade in diesem Lauf (21:09 MESZ): keine frischere bestaetigte BTC-Kursquelle als um 20:09, Aktienmarkt weiterhin gespalten (Dow fest, Nasdaq/Chips schwach) ohne neuen Einzelkatalysator; die offene BTC-Position (pos-0018) bleibt unveraendert auf dem letzten bestaetigten Kurs und wird gehalten, da sie klar innerhalb der Stop-Loss-Schwelle liegt.",
-    "reasoning": "Websuche zu Markt- und Geopolitik-Lage lieferte keine frischere, verlaesslich datierte BTC-Kursquelle als die vom letzten Lauf (20:09) und bestaetigte im Wesentlichen das bereits bekannte Bild beim Chip-/AI-Ausverkauf (TSMC, Kospi/Samsung/SK Hynix) sowie die Dow-Staerke durch Rotation in Defensivwerte. Ohne frischen, eigenstaendig ueberzeugenden Katalysator wird die bestehende offene Position unveraendert gehalten und nicht gehandelt, passend zum spekulativen Kurzfrist-Profil.",
+    "marketOverview": "Chip-Ausverkauf in Asien/US haelt an (Kospi -7,6% \"Black Thursday\", SK Hynix -11%, Samsung -9%, TSMC trotz Rekordgewinn -2 bis -4%), getrieben von heisser US-Inflation und AI-Finanzierungssorgen (CoreWeave-Anleihen schwaecher). US-Maerkte uneinheitlich: Dow fester (Rotation in Defensivwerte), Nasdaq/Chipsektor belastet. BTC erholt sich leicht auf ca. 82.292 USD (+0,6% 24h laut CoinGecko), die offene Position (pos-0018, -3,23%) bleibt klar innerhalb der Stop-Loss-Schwelle.",
+    "decision": "Tagesbudget 15.10. bereits gutgeschrieben (keine erneute Gutschrift). Kein Trade in diesem Lauf (22:10 MESZ): US-Kassamarkt bereits geschlossen, Aktien/ETFs/Rohstoffe daher nicht handelbar; bei Krypto kein eigenstaendig ueberzeugender neuer Kaufkatalysator (BTC nur moderat erholt, kein frischer Trigger). Offene BTC-Position (pos-0018) bleibt gehalten und wird auf aktuellen Kurs (82.292 USD, -3,23%) aktualisiert.",
+    "reasoning": "Websuche bestaetigt den bereits bekannten Chip-/AI-Ausverkauf in Asien und den gemischten US-Handelstag ohne neue eigenstaendige Entwicklung seit dem letzten Lauf. Da der US-Kassamarkt um diese Uhrzeit bereits geschlossen ist, sind Aktien, ETFs und Rohstoffe nicht handelbar; fuer Krypto liefert die Recherche keinen neuen, ueberzeugenden Katalysator fuer eine Neuposition. Die bestehende BTC-Position bleibt daher unveraendert gehalten, nur der Kurs wird aktualisiert (CoinGecko API, 82.292 USD, +0,59% 24h, -3,23% seit Kauf).",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 670.9,
+    "portfolioValueEnd": 677.42,
     "updates": [
       {
         "time": "00:09",
@@ -9207,6 +9207,11 @@
         "time": "21:09",
         "note": "Keine Aenderung, kein Trade. Keine frischere bestaetigte BTC-Kursquelle als um 20:09 (weiterhin ca. 81.500 USD, -4,16%); Markt weiterhin gespalten (Dow fest, Nasdaq/Chipsektor schwach nach TSMC/Kospi-Ausverkauf); kein neuer Kaufkatalysator gefunden.",
         "portfolioValue": 670.9
+      },
+      {
+        "time": "22:10",
+        "note": "Keine Aenderung, kein Trade. BTC-Kursupdate (82.292 USD via CoinGecko, +0,59% 24h, -3,23% seit Kauf). US-Kassamarkt bereits geschlossen (Aktien/ETFs/Rohstoffe nicht handelbar); anhaltender Chip-/AI-Ausverkauf in Asien (Kospi -7,6%, SK Hynix -11%) ohne neuen Kaufkatalysator fuer Krypto.",
+        "portfolioValue": 677.42
       }
     ]
   }
