@@ -9090,9 +9090,9 @@
   },
   {
     "date": "2026-10-15",
-    "marketOverview": "BTC notiert bei ca. 81.400 USD und bleibt nach dem gestrigen heissen US-CPI-Bericht im breiten, unspezifischen Krypto-Risk-off gefangen (Gesamtmarktkapitalisierung laut Berichten rund -4,5% in 24h, Bitcoin-Spot-ETFs weiterhin mit Nettoabfluessen, u.a. aus IBIT). Kein neuer Einzelkatalysator erkennbar; Analysten sehen bei BTC eine psychologische Unterstuetzung um 84.000 USD als naechstes Erholungsziel. US- und europaeische Boersen sowie Rohstoffmaerkte sind um diese Nachtzeit (02:08 MESZ) geschlossen, nur Krypto handelbar.",
-    "decision": "Tagesbudget 15.10. bereits gutgeschrieben (lastGrantDate=heute, keine erneute Gutschrift). Kein Trade. BTC-Position (pos-0018) auf 81.400 USD aktualisiert (-4,27% seit Kauf, weiterhin klar innerhalb der Halte-Toleranz von -6,5 bis -7,5%). Keine Neuposition: anhaltender, aber unspezifischer CPI-bedingter Krypto-Risk-off ohne ueberzeugenden Einzelkatalysator; Aktien/ETFs/Rohstoffe nachts nicht handelbar.",
-    "reasoning": "Kein Trade: BTC (pos-0018) bei -4,27% seit Kauf, deutlich unterhalb der etablierten Stop-Loss-Schwelle, daher gehalten. Der breite Krypto-Rueckgang bleibt Nachwirkung der heissen CPI-Zahlen vom Vortag (Fed-Zinssenkungszweifel) und schwacher ETF-Flows, kein neuer Einzeltitel-Katalysator mit ueberzeugendem Chance-Risiko-Verhaeltnis gefunden. Um 02:08 MESZ (Donnerstagnacht) sind Aktien/ETFs/Rohstoffe nicht handelbar.",
+    "marketOverview": "BTC notiert weiterhin bei ca. 81.400 USD; keine neue bestaetigte Kursquelle seit dem letzten Lauf (02:08) gefunden, der breite Krypto-Markt bleibt im CPI-bedingten Risk-off (Fed-Zinssenkungszweifel nach dem heissen September-CPI-Bericht vom 14.10., anhaltende Bitcoin-ETF-Nettoabfluesse). Kein frischer Einzelkatalysator in Boerse- oder Geopolitik-News seit dem letzten Lauf erkennbar. US- und europaeische Boersen sowie Rohstoffmaerkte sind um diese Nachtzeit (03:08 MESZ) weiterhin geschlossen, nur Krypto handelbar.",
+    "decision": "Tagesbudget 15.10. bereits gutgeschrieben (keine erneute Gutschrift). Kein Trade. BTC-Position (pos-0018) unveraendert bei ca. 81.400 USD gehalten (-4,27% seit Kauf, klar innerhalb der Halte-Toleranz von -6,5 bis -7,5%). Keine Neuposition: kein ueberzeugender frischer Katalysator, Aktien/ETFs/Rohstoffe nachts nicht handelbar.",
+    "reasoning": "Kein Trade: BTC (pos-0018) bei -4,27% seit Kauf, deutlich unterhalb der Stop-Loss-Schwelle, daher gehalten. Keine neue Preisquelle und kein neuer Einzeltitel-Katalysator seit dem 02:08-Lauf gefunden; der anhaltende CPI-bedingte Krypto-Risk-off bietet keine ueberzeugende Chance-Risiko-Gelegenheit. Um 03:08 MESZ sind Aktien/ETFs/Rohstoffe weiterhin nicht handelbar.",
     "positionIds": [
       "pos-0018"
     ],
@@ -9111,6 +9111,11 @@
       {
         "time": "02:08",
         "note": "Keine Aenderung, BTC-Kursupdate (ca. 81.400 USD, weiterhin Krypto-Risk-off nach CPI, kein neuer Katalysator)",
+        "portfolioValue": 670.08
+      },
+      {
+        "time": "03:08",
+        "note": "Keine Aenderung, keine neue bestaetigte Kursquelle; anhaltender CPI-bedingter Krypto-Risk-off ohne neuen Katalysator",
         "portfolioValue": 670.08
       }
     ]
