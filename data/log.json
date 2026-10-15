@@ -9090,13 +9090,13 @@
   },
   {
     "date": "2026-10-15",
-    "marketOverview": "BTC verharrt laut mehreren Quellen (Invezz, Coinpedia, CoinDesk) weiterhin unter 81.000 USD (ca. 80.800-81.300 USD), der breite Krypto-Markt bleibt nach der heissen Sept.-CPI (+3,7% YoY) vom 14.10. tief im Risk-off (ETH, SOL, ADA, XRP, DOGE weiterhin mehrere Prozent im Minus, rund 1 Mrd. USD Liquidationen seit gestern). An der Wall Street hatten Nasdaq (-1,9%) und S&P 500 (-1,1%) am 14.10. den starksten Tagesverlust seit Juli verzeichnet, angefuehrt von AI-Infrastruktur-Werten; US-Kassamarkt oeffnet erst um 15:30 MESZ. Fuer heute stehen US-PPI und Einzelhandelsumsaetze an, konkrete Reaktionsdaten dazu waren zum Zeitpunkt dieses Laufs noch nicht verlaesslich auffindbar. Keine neue, mehrfach bestaetigte Einzelmeldung mit klarem Kaufkatalysator gefunden.",
-    "decision": "Tagesbudget 15.10. bereits gutgeschrieben (keine erneute Gutschrift). Kein Trade in diesem Lauf. BTC-Position (pos-0018) bleibt unveraendert gehalten, Kurs auf ca. 80.850 USD aktualisiert (-4,92% seit Kauf, weiterhin innerhalb der Halte-Toleranz von -6,5 bis -7,5%).",
-    "reasoning": "Anhaltender breiter Risk-off (CPI-bedingte Fed-Hike-Angst, Krypto-Markt weiterhin mehrere Prozent im Minus) ohne neuen, mehrfach bestaetigten Einzelkatalysator fuer eine neue spekulative Position. BTC-Position bewegt sich nur minimal (-4,92% unveraendert) und bleibt klar oberhalb der Stop-Loss-Schwelle, daher weiter gehalten. US-Kassamarkt oeffnet erst um 15:30 MESZ (in Kuerze).",
+    "marketOverview": "Breiter, tech-fuehrender Risk-off-Tag: Die September-PPI-Daten kamen deutlich heisser als erwartet (+1,3% MoM vs. 0,6% erwartet, +6,3% YoY vs. 5,4% erwartet), zusaetzlich staerkere Einzelhandelsumsaetze (+0,8% vs. 0,3% erwartet, allerdings groesstenteils durch Tankstellenumsaetze getrieben, also schwache Kernnachfrage). Der Nasdaq faellt laut mehreren Quellen (MarketScreener, ActionForex, Finimize) um rund -2%, der S&P 500 um ca. -1,1%, der Dow haelt sich dank Rotation in defensive Werte mit nur -0,09% deutlich besser - der Ausverkauf ist primaer AI-Finanzierungs-/Kreditsorgen-getrieben, nicht nur ein reiner Inflations-Reflex. Bitcoin bleibt mit ca. 80.800-81.000 USD (Fortune, CoinDesk, Kraken, je -2 bis -3% in 24h) im anhaltenden Krypto-Risk-off seit der heissen Sept.-CPI vom 14.10. gefangen, ohne neuen stuetzenden Katalysator.",
+    "decision": "Tagesbudget 15.10. bereits gutgeschrieben (keine erneute Gutschrift). Kein Trade in diesem Lauf (16:09 MESZ): weder ein ueberzeugender Kaufkatalysator (Markt klar risk-off nach heisser PPI und AI-Kreditsorgen) noch ein Stop-Loss-/Take-Profit-Ausloeser bei der einzigen offenen Position. BTC-Position (pos-0018) bleibt unveraendert gehalten, Kurs auf ca. 80.900 USD aktualisiert (-4,86% seit Kauf, weiterhin innerhalb der Halte-Toleranz von -6,5 bis -7,5%).",
+    "reasoning": "Hotter-als-erwartete PPI-Daten (1,3% MoM, 6,3% YoY) plus durch AI-Finanzierungssorgen verschaerfter Tech-Ausverkauf (Nasdaq -2%) sprechen klar gegen neue spekulative Aktien-/ETF-Positionen in diesem Lauf. Der Kryptomarkt bleibt ebenfalls im Risk-off ohne neuen Einzelkatalysator. BTC-Position bewegt sich nur leicht (-4,86%, vorher -4,92%) und bleibt klar oberhalb der etablierten Stop-Loss-Schwelle, daher weiter gehalten statt vorzeitig mit kleinem Verlust glattgestellt.",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 665.55,
+    "portfolioValueEnd": 665.96,
     "updates": [
       {
         "time": "00:09",
@@ -9177,6 +9177,11 @@
         "time": "15:09",
         "note": "Keine Aenderung, BTC-Kursupdate (ca. 80.850 USD, weiterhin unter 81k, anhaltender CPI-Risk-off); kein neuer Katalysator, US-Kassamarkt oeffnet erst 15:30 MESZ",
         "portfolioValue": 665.55
+      },
+      {
+        "time": "16:09",
+        "note": "Keine Aenderung, kein Trade. BTC-Kursupdate (ca. 80.900 USD, -4,86% seit Kauf). Markt tech-led risk-off nach heisser PPI (+1,3% MoM) und AI-Kreditsorgen (Nasdaq -2%, S&P -1,1%); kein neuer Kaufkatalysator.",
+        "portfolioValue": 665.96
       }
     ]
   }
