@@ -9219,5 +9219,22 @@
         "portfolioValue": 675.58
       }
     ]
+  },
+  {
+    "date": "2026-10-16",
+    "marketOverview": "Nach Mitternacht (Freitag) sind US-Kassamarkt und Xetra geschlossen, nur Krypto ist handelbar. BTC erholt sich leicht auf ca. 82.383 USD (CoinGecko, +1,0% 24h), ETH bei ca. 2.461 USD (+2,05%) und SOL bei ca. 106,00 USD (+1,55%) - moderate, unauffaellige Erholung nach dem Chip-/AI-Ausverkauf vom Vortag (Kospi -7,6%, SK Hynix -11%), aber ohne neuen eigenstaendigen Kaufkatalysator. Die offene Position (pos-0018) bleibt klar innerhalb der Stop-Loss-Schwelle.",
+    "decision": "Tagesbudget 16.10. gutgeschrieben (+1000 EUR, totalFreshCapitalEur jetzt 73.000 EUR). Kein Trade in diesem Lauf (00:08 MESZ): US-Kassamarkt und Xetra bereits geschlossen, Aktien/ETFs/Rohstoffe daher nicht handelbar; Krypto zeigt nur eine leichte, unauffaellige Erholung ohne neuen ueberzeugenden Kaufkatalysator. Offene BTC-Position (pos-0018) bleibt gehalten und wird auf aktuellen Kurs (82.383 USD, -3,12%) aktualisiert.",
+    "reasoning": "Websuche und CoinGecko-Live-Abfrage bestaetigen eine leichte, marktbreite Erholung bei BTC/ETH/SOL (+1,0% bis +2,05% in 24h) ohne frischen, mehrfach bestaetigten Einzelkatalysator fuer eine Neuposition - der bekannte Chip-/AI-Ausverkauf und die Iran-Risikolage bleiben Hintergrundthemen ohne neue Entwicklung seit dem letzten Lauf. Da US-Kassamarkt und Xetra um diese Uhrzeit (kurz nach Mitternacht) geschlossen sind, sind Aktien, ETFs und Rohstoffe ohnehin nicht handelbar. Die bestehende BTC-Position bleibt daher unveraendert gehalten, nur der Kurs wird aktualisiert (CoinGecko API, 82.383 USD, +1,0% 24h, -3,12% seit Kauf).",
+    "positionIds": [
+      "pos-0018"
+    ],
+    "portfolioValueEnd": 678.17,
+    "updates": [
+      {
+        "time": "00:08",
+        "note": "Tagesbudget 16.10. gutgeschrieben (+1000 EUR); kein Trade, BTC-Kursupdate (82.383 USD, +1,0% 24h, -3,12% seit Kauf); kein neuer Katalysator, Aktien/ETFs/Rohstoffe nachts nicht handelbar",
+        "portfolioValue": 678.17
+      }
+    ]
   }
 ]
