@@ -9090,13 +9090,13 @@
   },
   {
     "date": "2026-10-15",
-    "marketOverview": "BTC notiert laut CoinGecko (live) bei ca. 80.803 USD (-3,0% in 24h), nach dem CPI-bedingten Risk-off vom 14.10. (September-CPI +3,7% YoY, Core +2,6%, Fed-Oktober-Hike-Wahrscheinlichkeit auf 30-37% gestiegen). Keine neue, konkrete und mehrfach bestaetigte Einzelmeldung fuer Aktien/ETFs/Rohstoffe gefunden; US-Kassamarkt oeffnet erst um 15:30 MESZ, Xetra ist offen aber ohne auffaellige Bewegung. Bankergebnisse (Q3) laufen, aber keine frischen, markttreibenden Ueberraschungen identifiziert.",
-    "decision": "Tagesbudget 15.10. bereits gutgeschrieben (keine erneute Gutschrift). Kein Trade in diesem Lauf. BTC-Position (pos-0018) bleibt unveraendert gehalten, Kurs auf ca. 80.803 USD aktualisiert (-4,98% seit Kauf, weiterhin innerhalb der Halte-Toleranz von -6,5 bis -7,5%).",
-    "reasoning": "BTC setzt den CPI-bedingten Risk-off moderat fort (-4,69% -> -4,98%), bleibt aber klar oberhalb der Stop-Loss-Schwelle und wird daher weiter gehalten. Kein ueberzeugender frischer Katalysator fuer eine Neuposition: US-Kassamarkt noch geschlossen (Oeffnung erst 15:30 MESZ), Xetra ohne auffaellige Einzelbewegung, keine neue bestaetigte Krypto-Nachricht ausserhalb des bekannten CPI-Themas.",
+    "marketOverview": "BTC faellt laut CoinGecko (live) weiter auf ca. 80.848 USD (-3,3% in 24h), der breite Krypto-Markt bleibt nach dem CPI-bedingten Risk-off vom 14.10. (September-CPI +3,7% YoY, Core +2,6%) tief im Minus (ETH -6,0%, SOL -5,2%, ADA -6,6%, XRP -5,3%, DOGE -5,3%). An der Wall Street rutschten Nasdaq (-1,88%) und S&P 500 (-1,11%) am 14.10. auf den starksten Tagesverlust seit Juli, angefuehrt von AI-Infrastruktur-Werten (Oracle -8,8%, CoreWeave -15%, Nebius -10%); CME-FedWatch sieht die Wahrscheinlichkeit einer Fed-Zinserhoehung am 28.10. auf rund 37% gestiegen (von 22%). US-Kassamarkt oeffnet erst um 15:30 MESZ; keine neue, mehrfach bestaetigte Einzelmeldung mit klarem Kaufkatalysator gefunden.",
+    "decision": "Tagesbudget 15.10. bereits gutgeschrieben (keine erneute Gutschrift). Kein Trade in diesem Lauf. BTC-Position (pos-0018) bleibt unveraendert gehalten, Kurs auf ca. 80.848 USD aktualisiert (-4,92% seit Kauf, weiterhin innerhalb der Halte-Toleranz von -6,5 bis -7,5%).",
+    "reasoning": "Breiter Risk-off haelt an (Fed-Hike-Angst nach heisser CPI, AI-Aktien-Ausverkauf, Krypto-Markt durchgehend -5 bis -6,6% in 24h) - kein Umfeld fuer eine neue spekulative Position ohne konkreten, mehrfach bestaetigten Einzelkatalysator. BTC-Position bewegt sich nur geringfuegig (-4,98% -> -4,92%) und bleibt klar oberhalb der Stop-Loss-Schwelle, daher weiter gehalten. US-Kassamarkt noch geschlossen (Oeffnung erst 15:30 MESZ).",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 665.16,
+    "portfolioValueEnd": 665.53,
     "updates": [
       {
         "time": "00:09",
@@ -9167,6 +9167,11 @@
         "time": "13:09",
         "note": "Keine Aenderung, BTC-Kursupdate (80.803 USD via CoinGecko, -3,0% 24h, -4,98% seit Kauf); kein neuer Katalysator, US-Kassamarkt oeffnet erst 15:30 MESZ",
         "portfolioValue": 665.16
+      },
+      {
+        "time": "14:10",
+        "note": "Keine Aenderung, BTC-Kursupdate (80.848 USD, -3,3% 24h, -4,92% seit Kauf); breiter Risk-off (Fed-Hike-Angst, AI-Aktien-Ausverkauf) ohne neuen Kaufkatalysator",
+        "portfolioValue": 665.53
       }
     ]
   }
