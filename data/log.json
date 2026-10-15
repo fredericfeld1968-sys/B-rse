@@ -9090,13 +9090,13 @@
   },
   {
     "date": "2026-10-15",
-    "marketOverview": "Tagesbudget 15.10. gutgeschrieben (+1000 EUR). BTC notiert bei ca. 81.554 USD (-2,0% 24h) und setzt den seit dem CPI-Bericht vom Vortag anhaltenden, breiten aber unspezifischen Krypto-Risk-off fort; Bitcoin-ETFs verzeichneten in der Vorwoche Netto-Abflüsse von 681 Mio. USD, der Markt wartet weiterhin auf einen neuen Einzelkatalysator. US- und europäische Börsen sind nachts geschlossen, nur Krypto handelbar.",
-    "decision": "Tagesbudget 15.10. gutgeschrieben (+1000 EUR, freies Kapital jetzt deutlich über 70.000 EUR). Kein Trade. BTC-Position (pos-0018) auf 81.554 USD aktualisiert (-4,09% seit Kauf, weiterhin klar innerhalb der Halte-Toleranz von -6,5 bis -7,5%). Keine Neuposition: unveränderte Lage ggü. letztem Lauf, kein überzeugender frischer Einzelkatalysator, Aktien/ETFs/Rohstoffe nachts nicht handelbar.",
-    "reasoning": "Kein Trade: BTC (pos-0018) bei -4,09% seit Kauf, deutlich unterhalb der etablierten Stop-Loss-Schwelle, daher gehalten. Der breite Krypto-Rückgang bleibt unspezifisch (kein Einzeltitel-Katalysator), sondern Nachwirkung der heißen CPI-Zahlen vom Vortag und schwacher ETF-Flows. Aktien/ETFs/Rohstoffe um diese Nachtzeit (01:08 MESZ, Donnerstag) nicht handelbar.",
+    "marketOverview": "BTC notiert bei ca. 81.400 USD und bleibt nach dem gestrigen heissen US-CPI-Bericht im breiten, unspezifischen Krypto-Risk-off gefangen (Gesamtmarktkapitalisierung laut Berichten rund -4,5% in 24h, Bitcoin-Spot-ETFs weiterhin mit Nettoabfluessen, u.a. aus IBIT). Kein neuer Einzelkatalysator erkennbar; Analysten sehen bei BTC eine psychologische Unterstuetzung um 84.000 USD als naechstes Erholungsziel. US- und europaeische Boersen sowie Rohstoffmaerkte sind um diese Nachtzeit (02:08 MESZ) geschlossen, nur Krypto handelbar.",
+    "decision": "Tagesbudget 15.10. bereits gutgeschrieben (lastGrantDate=heute, keine erneute Gutschrift). Kein Trade. BTC-Position (pos-0018) auf 81.400 USD aktualisiert (-4,27% seit Kauf, weiterhin klar innerhalb der Halte-Toleranz von -6,5 bis -7,5%). Keine Neuposition: anhaltender, aber unspezifischer CPI-bedingter Krypto-Risk-off ohne ueberzeugenden Einzelkatalysator; Aktien/ETFs/Rohstoffe nachts nicht handelbar.",
+    "reasoning": "Kein Trade: BTC (pos-0018) bei -4,27% seit Kauf, deutlich unterhalb der etablierten Stop-Loss-Schwelle, daher gehalten. Der breite Krypto-Rueckgang bleibt Nachwirkung der heissen CPI-Zahlen vom Vortag (Fed-Zinssenkungszweifel) und schwacher ETF-Flows, kein neuer Einzeltitel-Katalysator mit ueberzeugendem Chance-Risiko-Verhaeltnis gefunden. Um 02:08 MESZ (Donnerstagnacht) sind Aktien/ETFs/Rohstoffe nicht handelbar.",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 671.34,
+    "portfolioValueEnd": 670.08,
     "updates": [
       {
         "time": "00:09",
@@ -9107,6 +9107,11 @@
         "time": "01:08",
         "note": "Keine Aenderung, BTC-Kursupdate (81.554 USD, -2,0% 24h, -4,09% seit Kauf)",
         "portfolioValue": 671.34
+      },
+      {
+        "time": "02:08",
+        "note": "Keine Aenderung, BTC-Kursupdate (ca. 81.400 USD, weiterhin Krypto-Risk-off nach CPI, kein neuer Katalysator)",
+        "portfolioValue": 670.08
       }
     ]
   }
