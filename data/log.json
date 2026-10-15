@@ -9090,9 +9090,9 @@
   },
   {
     "date": "2026-10-15",
-    "marketOverview": "Risk-off-Grundton haelt an, aber mit uneinheitlichem Bild zum Handelsende: Dow notiert laut Yahoo-Finance-Live-Daten leicht fester (S&P 500 ca. 7.729, +0,14%; Dow ca. 52.120, +0,97%), nach dem schwachen Mittwoch (Dow -0,09%, S&P -1,11%, Nasdaq -1,88%) infolge der heissen September-CPI (+3,7% YoY). Bitcoin ist von seiner kurzen Abendserholung (~82.350 USD) wieder leicht zurueckgefallen auf ca. 81.500 USD (Spanne der Quellen 80.400-82.300 USD, weiterhin CPI-bedingte Liquidationen); die offene Position (pos-0018) steht bei -4,16%, klar innerhalb der Stop-Loss-Schwelle. Kein neuer, eigenstaendig ueberzeugender Kaufkatalysator.",
-    "decision": "Tagesbudget 15.10. bereits gutgeschrieben (keine erneute Gutschrift in diesem Lauf). Kein Trade in diesem Lauf (20:09 MESZ): BTC leicht zurueckgefallen (-4,16%, von -3,15% um 19:08), Aktienmarkt uneinheitlich ohne klaren frischen Einzelkatalysator; die offene BTC-Position (pos-0018) wird auf den aktuellen Kurs aktualisiert und bleibt gehalten, da sie klar innerhalb der Stop-Loss-Schwelle liegt.",
-    "reasoning": "Websuche zu Markt- und Geopolitik-Lage ergab weiterhin keinen neuen, eigenstaendig ueberzeugenden Einzelkatalysator fuer einen Kauf oder Verkauf; die leichte BTC-Abschwaechung und das uneinheitliche Aktienbild (Dow fester, Nasdaq/Chipsektor weiterhin angeschlagen) sind blosse Fortsetzung bestehender Trends ohne frischen Trigger. Die bestehende offene Position wird gemaess aktuellem BTC-Kurs (~81.500 USD) aktualisiert, aber mangels klarer neuer Gelegenheit nicht verkauft oder aufgestockt. Passend zum spekulativen Kurzfrist-Profil wird in diesem Lauf nicht investiert.",
+    "marketOverview": "Risk-off-Grundton haelt weiter an: Dow bleibt am Nachmittag deutlich fester (ca. +0,9% auf gut 52.000 Punkte, Rotation in Defensiv-/Value-Titel), waehrend Nasdaq/S&P 500 durch den anhaltenden Chip-/AI-Ausverkauf belastet bleiben (TSMC -4,1% trotz starken Q3-Zahlen, Kospi -8% mit Samsung -9% und SK Hynix -11% ueber Nacht). Keine neue bestaetigte BTC-Kursquelle seit 20:09 verfuegbar; die offene Position (pos-0018) bleibt auf dem letzten bestaetigten Stand (~81.500 USD, -4,16%) innerhalb der Stop-Loss-Schwelle. Kein neuer, eigenstaendig ueberzeugender Kaufkatalysator gefunden.",
+    "decision": "Tagesbudget 15.10. bereits gutgeschrieben (keine erneute Gutschrift in diesem Lauf). Kein Trade in diesem Lauf (21:09 MESZ): keine frischere bestaetigte BTC-Kursquelle als um 20:09, Aktienmarkt weiterhin gespalten (Dow fest, Nasdaq/Chips schwach) ohne neuen Einzelkatalysator; die offene BTC-Position (pos-0018) bleibt unveraendert auf dem letzten bestaetigten Kurs und wird gehalten, da sie klar innerhalb der Stop-Loss-Schwelle liegt.",
+    "reasoning": "Websuche zu Markt- und Geopolitik-Lage lieferte keine frischere, verlaesslich datierte BTC-Kursquelle als die vom letzten Lauf (20:09) und bestaetigte im Wesentlichen das bereits bekannte Bild beim Chip-/AI-Ausverkauf (TSMC, Kospi/Samsung/SK Hynix) sowie die Dow-Staerke durch Rotation in Defensivwerte. Ohne frischen, eigenstaendig ueberzeugenden Katalysator wird die bestehende offene Position unveraendert gehalten und nicht gehandelt, passend zum spekulativen Kurzfrist-Profil.",
     "positionIds": [
       "pos-0018"
     ],
@@ -9201,6 +9201,11 @@
       {
         "time": "20:09",
         "note": "Keine Aenderung, kein Trade. BTC-Kursupdate (ca. 81.500 USD, -4,16% seit Kauf, leicht zurueckgefallen von -3,15%). Dow leicht fester, Nasdaq/Chipsektor weiterhin schwach nach heisser CPI; kein neuer ueberzeugender Kaufkatalysator gefunden.",
+        "portfolioValue": 670.9
+      },
+      {
+        "time": "21:09",
+        "note": "Keine Aenderung, kein Trade. Keine frischere bestaetigte BTC-Kursquelle als um 20:09 (weiterhin ca. 81.500 USD, -4,16%); Markt weiterhin gespalten (Dow fest, Nasdaq/Chipsektor schwach nach TSMC/Kospi-Ausverkauf); kein neuer Kaufkatalysator gefunden.",
         "portfolioValue": 670.9
       }
     ]
