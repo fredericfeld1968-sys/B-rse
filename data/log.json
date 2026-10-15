@@ -9090,13 +9090,13 @@
   },
   {
     "date": "2026-10-15",
-    "marketOverview": "BTC pendelt weiter im Bereich 81.150-81.600 USD (Analytics Insight, Coinbase, RTTNews), Gesamtmarktkapitalisierung Krypto ca. 2,78-2,8 Bio. USD nach dem CPI-Schock (vor CPI: 2,91 Bio. USD). Hintergrund bleibt der heisse September-CPI (3,7% YoY, Kernrate 2,6%), der kurzfristig die Fed-Zinserhoehungswahrscheinlichkeit fuer Oktober von ca. 22% auf bis zu ca. 50% hochschnellen liess; nahe 1 Mrd. USD Krypto-Liquidationen in 24h. Oel (Brent) bleibt mit zuletzt ca. 108,70 USD/Barrel (Stand 14.10., Nahost-Spannungen/Tanker-Angriffe) erhoeht, der Dollar-Index auf 1,5-Jahres-Hoch - beides weiterhin Risk-off-Belastung fuer Krypto. Zusaetzlicher Unsicherheitsfaktor: eine Rede von Fed-Chair Kevin Warsh wird je nach Quelle fuer heute (15.10.) oder morgen (16.10.) erwartet. Xetra seit 09:00 MESZ offen, US-Kassamarkt oeffnet erst um 15:30 MESZ. Kein neuer ueberzeugender Einzelkatalysator fuer eine Neuposition gefunden; Websuche liefert weiterhin groesstenteils veraltete/widerspruechliche Treffer.",
-    "decision": "Tagesbudget 15.10. bereits gutgeschrieben (keine erneute Gutschrift). Kein Trade. BTC-Position (pos-0018) unveraendert gehalten bei ca. 81.400 USD (-4,27% seit Kauf, innerhalb der Halte-Toleranz von -6,5 bis -7,5%, im Wesentlichen seitwaerts ggue. 09:09 MESZ). Keine Neuposition: kein ueberzeugender Kaufkatalysator identifiziert, anhaltender CPI-/Fed-Risk-off, moegliche Warsh-Rede als weiterer Unsicherheitsfaktor, US-Kassamarkt oeffnet erst um 15:30 MESZ.",
-    "reasoning": "Kein Trade: BTC (pos-0018) bewegt sich seitwaerts bei -4,27% seit Kauf, bleibt deutlich oberhalb der Stop-Loss-Schwelle, daher gehalten. Keine ueberzeugende Chance-Risiko-Gelegenheit fuer eine Neuposition gefunden (Websuche liefert ueberwiegend undatierte/widerspruechliche Treffer ohne klaren frischen Katalysator); Xetra zwar seit 09:00 MESZ offen, aber ohne erkennbare starke Einzelbewegung, US-Kassamarkt weiterhin geschlossen, zusaetzliche Vorsicht wegen moeglicher Warsh-Rede heute oder morgen.",
+    "marketOverview": "BTC bewegt sich weiterhin seitwaerts in der Spanne von ca. 80.400-84.000 USD (unterschiedliche Quellen: CoinGecko ~81.200 USD, crypto.news berichtete am 14.10. ~83.500 USD); kein eindeutiger frischer Live-Kurs auffindbar, Websuche liefert ueberwiegend undatierte oder widersprüchliche Treffer. Hintergrund bleibt der CPI-bedingte Risk-off (hawkische Fed-Zinserwartungen, Dollar nahe Mehrjahreshoch, Oel erhoeht), unveraendert seit den letzten Laeufen. Keine Bestaetigung einer heutigen Warsh-Rede gefunden. Xetra ist seit 09:00 MESZ offen, aber ohne auffaellige grosse Einzelbewegung identifiziert; US-Kassamarkt oeffnet erst um 15:30 MESZ.",
+    "decision": "Tagesbudget 15.10. bereits gutgeschrieben (keine erneute Gutschrift). Kein Trade in diesem Lauf. BTC-Position (pos-0018) bleibt unveraendert gehalten, Kurs auf ca. 81.500 USD aktualisiert (-4,16% seit Kauf, weiterhin klar innerhalb der Halte-Toleranz von -6,5 bis -7,5%).",
+    "reasoning": "BTC bewegt sich seit dem letzten Lauf im Wesentlichen seitwaerts (-4,27% -> -4,16%), die Position bleibt deutlich oberhalb der Stop-Loss-Schwelle und wird daher gehalten. Fuer eine Neuposition fehlt weiterhin ein konkreter, mehrfach bestaetigter frischer Katalysator; die Websuche liefert ueberwiegend veraltete oder widerspruechliche Treffer ohne klares Datum. Aktien/ETFs/Rohstoffe sind trotz offener Xetra-Sitzung ohne erkennbare starke Einzelbewegung, US-Kassamarkt weiterhin geschlossen.",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 670.08,
+    "portfolioValueEnd": 670.9,
     "updates": [
       {
         "time": "00:09",
@@ -9152,6 +9152,11 @@
         "time": "10:09",
         "note": "Keine Aenderung, BTC-Kursupdate (ca. 81.400 USD, weiterhin CPI-/Fed-Risk-off, Oel und Dollar erhoeht; moegliche Warsh-Rede heute/morgen als Unsicherheitsfaktor); kein neuer Katalysator",
         "portfolioValue": 670.08
+      },
+      {
+        "time": "11:10",
+        "note": "Keine Aenderung: BTC seitwaerts bei ca. 81.500 USD (-4,16% seit Kauf), Websuche liefert keinen neuen bestaetigten Katalysator; Xetra offen aber ohne auffaellige Bewegung, US-Kassamarkt oeffnet erst 15:30 MESZ; kein Trade.",
+        "portfolioValue": 670.9
       }
     ]
   }
