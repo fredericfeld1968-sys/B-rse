@@ -9091,12 +9091,12 @@
   {
     "date": "2026-10-15",
     "marketOverview": "Breiter, tech-fuehrender Risk-off-Tag: Die September-PPI-Daten kamen deutlich heisser als erwartet (+1,3% MoM vs. 0,6% erwartet, +6,3% YoY vs. 5,4% erwartet), zusaetzlich staerkere Einzelhandelsumsaetze (+0,8% vs. 0,3% erwartet, allerdings groesstenteils durch Tankstellenumsaetze getrieben, also schwache Kernnachfrage). Der Nasdaq faellt laut mehreren Quellen (MarketScreener, ActionForex, Finimize) um rund -2%, der S&P 500 um ca. -1,1%, der Dow haelt sich dank Rotation in defensive Werte mit nur -0,09% deutlich besser - der Ausverkauf ist primaer AI-Finanzierungs-/Kreditsorgen-getrieben, nicht nur ein reiner Inflations-Reflex. Bitcoin bleibt mit ca. 80.800-81.000 USD (Fortune, CoinDesk, Kraken, je -2 bis -3% in 24h) im anhaltenden Krypto-Risk-off seit der heissen Sept.-CPI vom 14.10. gefangen, ohne neuen stuetzenden Katalysator.",
-    "decision": "Tagesbudget 15.10. bereits gutgeschrieben (keine erneute Gutschrift). Kein Trade in diesem Lauf (16:09 MESZ): weder ein ueberzeugender Kaufkatalysator (Markt klar risk-off nach heisser PPI und AI-Kreditsorgen) noch ein Stop-Loss-/Take-Profit-Ausloeser bei der einzigen offenen Position. BTC-Position (pos-0018) bleibt unveraendert gehalten, Kurs auf ca. 80.900 USD aktualisiert (-4,86% seit Kauf, weiterhin innerhalb der Halte-Toleranz von -6,5 bis -7,5%).",
-    "reasoning": "Hotter-als-erwartete PPI-Daten (1,3% MoM, 6,3% YoY) plus durch AI-Finanzierungssorgen verschaerfter Tech-Ausverkauf (Nasdaq -2%) sprechen klar gegen neue spekulative Aktien-/ETF-Positionen in diesem Lauf. Der Kryptomarkt bleibt ebenfalls im Risk-off ohne neuen Einzelkatalysator. BTC-Position bewegt sich nur leicht (-4,86%, vorher -4,92%) und bleibt klar oberhalb der etablierten Stop-Loss-Schwelle, daher weiter gehalten statt vorzeitig mit kleinem Verlust glattgestellt.",
+    "decision": "Tagesbudget 15.10. bereits gutgeschrieben (keine erneute Gutschrift). Kein Trade in diesem Lauf (17:09 MESZ): weiterhin kein ueberzeugender Kaufkatalysator (Markt klar risk-off nach heisser PPI/Retail-Sales und AI-Kreditsorgen, US-Kassamarkt im Risk-off-Modus) und kein Stop-Loss-/Take-Profit-Ausloeser bei der einzigen offenen Position. BTC-Position (pos-0018) bleibt unveraendert gehalten, Kurs auf ca. 80.800 USD aktualisiert (-4,98% seit Kauf, weiterhin innerhalb der Halte-Toleranz von -6,5 bis -7,5%).",
+    "reasoning": "PPI (+1,3% MoM, 6,3% YoY) und starke Einzelhandelsumsaetze (+0,8%) wurden vom Markt verarbeitet, Nasdaq-Futures vorboerslich weiter schwach (-1,1%), S&P-Futures leicht negativ, nur der Dow dank Rotation in Defensivwerte stabiler - kein Umfeld fuer neue spekulative Aktien-/ETF-Positionen. Keine bestaetigten grossen Einzeltitel-Katalysatoren (Ausbruch oder Dip-Kauf-Chance) gefunden. Kryptomarkt bleibt im anhaltenden CPI-/PPI-Risk-off ohne neuen Katalysator. BTC-Position bewegt sich nur leicht (-4,98%, vorher -4,86%) und bleibt klar oberhalb der etablierten Stop-Loss-Schwelle, daher weiter gehalten statt vorzeitig mit kleinem Verlust glattgestellt.",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 665.96,
+    "portfolioValueEnd": 665.14,
     "updates": [
       {
         "time": "00:09",
@@ -9182,6 +9182,11 @@
         "time": "16:09",
         "note": "Keine Aenderung, kein Trade. BTC-Kursupdate (ca. 80.900 USD, -4,86% seit Kauf). Markt tech-led risk-off nach heisser PPI (+1,3% MoM) und AI-Kreditsorgen (Nasdaq -2%, S&P -1,1%); kein neuer Kaufkatalysator.",
         "portfolioValue": 665.96
+      },
+      {
+        "time": "17:09",
+        "note": "Keine Aenderung, kein Trade. BTC-Kursupdate (ca. 80.800 USD, -4,98% seit Kauf). Markt weiterhin risk-off nach heisser PPI/Retail-Sales (Nasdaq-Futures -1,1%); kein neuer Kaufkatalysator gefunden.",
+        "portfolioValue": 665.14
       }
     ]
   }
