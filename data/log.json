@@ -9090,13 +9090,13 @@
   },
   {
     "date": "2026-10-15",
-    "marketOverview": "Breiter Risk-off-Tag: Die September-Inflationsdaten (CPI/PPI) kamen heisser als erwartet und haben die Wahrscheinlichkeit einer weiteren Fed-Zinserhoehung im Oktober auf ca. 48-51% steigen lassen. Der Nasdaq fiel am Mittwoch um rund 1,9%, der Philadelphia-Halbleiterindex verzeichnete den sechsten Verlusttag in Folge, asiatische Boersen folgten (Nikkei -5%, Kospi-Circuit-Breaker). Bitcoin rutschte unter 81.000 USD (aktuell ca. 80.900 USD), begleitet von rund 951 Mio. USD Liquidationen bei grossteils Long-Positionen und Netto-Abfluessen aus Spot-BTC-ETFs. Kein neuer, eigenstaendiger Kaufkatalysator in Sicht; die offene BTC-Position bleibt mit -4,86% innerhalb der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%).",
-    "decision": "Tagesbudget 15.10. bereits gutgeschrieben (keine erneute Gutschrift in diesem Lauf). Kein Trade in diesem Lauf (18:08 MESZ): Markt bleibt klar risk-off nach heisser CPI/PPI, kein ueberzeugender Kaufkatalysator; die offene BTC-Position (pos-0018) wird lediglich kursaktualisiert und liegt mit -4,86% noch innerhalb der Stop-Loss-Schwelle.",
-    "reasoning": "Websuche zu Markt- und Geopolitik-Lage (Fed/CPI/PPI, Aktien- und Krypto-Selloff) ergab keinen neuen, eigenstaendig ueberzeugenden Einzelkatalysator fuer einen Kauf. Die bestehende offene Position wird gemaess aktuellem BTC-Kurs (~80.900 USD) aktualisiert, aber mangels Erreichen der Stop-Loss-Schwelle (-6,5 bis -7,5%) nicht verkauft. Passend zum spekulativen Kurzfrist-Profil wird in diesem Lauf nicht investiert, da sich keine wirklich ueberzeugende Gelegenheit bietet.",
+    "marketOverview": "Risk-off-Tag bleibt dominant, aber mit leichter Entspannung am Nachmittag: Dow haelt sich dank Rotation in Defensivwerte nahe Rekordniveau (+0,4 bis +0,9%), waehrend Nasdaq weiterhin im Minus notiert (Chip-Sektor sechster Verlusttag in Folge) nach der heissen September-Inflationsdaten (CPI +3,7% YoY, PPI +1,3% MoM), die die Fed-Zinserhoehungs-Wahrscheinlichkeit im Oktober auf ca. 48-51% getrieben haben. Bitcoin hat sich von seinem Tagestief (~80.444 USD) leicht erholt und notiert aktuell bei ca. 82.350 USD (+0,99% 24h laut Yahoo Finance), nachdem es morgens zeitweise unter 81.000 USD gefallen war. Kein neuer, eigenstaendiger Kaufkatalysator; die offene BTC-Position (pos-0018) verbessert sich auf -3,15% und bleibt klar innerhalb der Stop-Loss-Schwelle (-6,5 bis -7,5%).",
+    "decision": "Tagesbudget 15.10. bereits gutgeschrieben (keine erneute Gutschrift in diesem Lauf). Kein Trade in diesem Lauf (19:08 MESZ): Trotz leichter BTC-Erholung und Dow-Stabilitaet kein eigenstaendig ueberzeugender Kaufkatalysator; die offene BTC-Position (pos-0018) wird auf den aktuellen Kurs aktualisiert (-3,15%, verbessert von -4,86%) und bleibt gehalten.",
+    "reasoning": "Websuche zu Markt- und Geopolitik-Lage (Fed/CPI/PPI, Aktien- und Krypto-Selloff) ergab weiterhin keinen neuen, eigenstaendig ueberzeugenden Einzelkatalysator fuer einen Kauf; die leichte Erholung bei BTC und die Dow-Stabilitaet sind blosse Fortsetzung bestehender Trends ohne frischen Trigger. Die bestehende offene Position wird gemaess aktuellem BTC-Kurs (~82.350 USD) aktualisiert, aber mangels klarer neuer Gelegenheit nicht verkauft oder aufgestockt. Passend zum spekulativen Kurzfrist-Profil wird in diesem Lauf nicht investiert.",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 665.96,
+    "portfolioValueEnd": 677.93,
     "updates": [
       {
         "time": "00:09",
@@ -9192,6 +9192,11 @@
         "time": "18:08",
         "note": "Keine Aenderung, kein Trade. BTC-Kursupdate (ca. 80.900 USD, -4,86% seit Kauf). Markt bleibt breit risk-off nach heisser Sept.-CPI/PPI (Nasdaq Mittwoch -1,9%, Chip-Sektor sechster Verlusttag in Folge, Nikkei -5%, Kospi-Circuit-Breaker); Fed-Hike-Wahrscheinlichkeit fuer Oktober bei ca. 48-51%. Kein neuer ueberzeugender Kaufkatalysator gefunden.",
         "portfolioValue": 665.96
+      },
+      {
+        "time": "19:08",
+        "note": "Keine Aenderung, kein Trade. BTC-Kursupdate (ca. 82.350 USD, +0,99% 24h, -3,15% seit Kauf, leichte Erholung vom Tagestief). Dow stabil/leicht fester (Rotation in Defensivwerte), Nasdaq/Chipsektor weiterhin schwach; kein neuer ueberzeugender Kaufkatalysator gefunden.",
+        "portfolioValue": 677.93
       }
     ]
   }
