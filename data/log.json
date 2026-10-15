@@ -9090,13 +9090,13 @@
   },
   {
     "date": "2026-10-15",
-    "marketOverview": "BTC erholt sich leicht auf ca. 81.420 USD (-2,67% 24h laut CoinGecko), bleibt aber im anhaltenden CPI-bedingten Krypto-Risk-off unter der 82.000-USD-Marke (Glassnode sieht 80.000 USD als kritische Unterstuetzung, 88.000 USD als Widerstand). Treiber bleibt der heisse September-CPI vom 14.10. (3,7% YoY, Kern 2,6%), der die Fed-Zinssenkungshoffnungen gedaempft und die Wahrscheinlichkeit einer Oktober-Zinserhoehung laut CME-FedWatch von 21,6% auf 32,7% steigen liess; ETH (-5,4% 24h), SOL (-3,7%), XRP (-4,0%) und DOGE (-5,2%) notieren ebenfalls schwaecher. US- und europaeische Boersen sowie Rohstoffmaerkte sind um diese Zeit (07:08 MESZ) weiterhin geschlossen (Xetra-Eroeffnung erst 09:00), nur Krypto handelbar; kein neuer Einzelkatalysator erkennbar.",
-    "decision": "Tagesbudget 15.10. bereits gutgeschrieben (keine erneute Gutschrift). Kein Trade. BTC-Position (pos-0018) unveraendert gehalten bei ca. 81.420 USD (-4,25% seit Kauf, klar innerhalb der Halte-Toleranz von -6,5 bis -7,5%). Keine Neuposition: anhaltender CPI-bedingter Risk-off ohne ueberzeugenden Kaufkatalysator, Aktien/ETFs/Rohstoffe vor Boersenoeffnung nicht handelbar.",
-    "reasoning": "Kein Trade: BTC (pos-0018) bei -4,25% seit Kauf, deutlich unterhalb der Stop-Loss-Schwelle, daher gehalten (leichte Erholung ggue. Vorlauf von -4,69%). Der breite Krypto-Markt (ETH, SOL, XRP, DOGE) notiert weiterhin schwaecher nach dem heissen September-CPI und gestiegenen Fed-Zinserhoehungssorgen - keine ueberzeugende Chance-Risiko-Gelegenheit fuer eine Neuposition. Um 07:08 MESZ sind Aktien/ETFs/Rohstoffe weiterhin nicht handelbar.",
+    "marketOverview": "BTC fiel weiter auf ca. 80.617 USD (-3,26% 24h laut CoinGecko), der CPI-bedingte Krypto-Risk-off haelt an und draengt den Kurs naeher an die 80.000-USD-Unterstuetzung. Treiber bleibt weiterhin der heisse September-CPI (14.10., 3,7% YoY), der laut CME-FedWatch die Markterwartung einer Oktober-Zinserhoehung weiter steigen liess; die neue Fed unter Kevin Warsh gilt als tendenziell hawkish. ETH/SOL ebenfalls schwaecher. US-Berichtssaison laeuft (heute u.a. Schwab, BNY, PNC, US Bancorp vorboerslich), Brent weiterhin erhoeht wegen Nahost-Spannungen. Europaeische/US-Boersen und Rohstoffe sind um 08:10 MESZ weiterhin geschlossen (Xetra-Eroeffnung erst 09:00), nur Krypto handelbar; kein neuer Einzelkatalysator.",
+    "decision": "Tagesbudget 15.10. bereits gutgeschrieben (keine erneute Gutschrift). Kein Trade. BTC-Position (pos-0018) unveraendert gehalten bei ca. 80.617 USD (-5,2% seit Kauf, innerhalb der Halte-Toleranz von -6,5 bis -7,5%). Keine Neuposition: anhaltender CPI-bedingter Risk-off ohne ueberzeugenden Kaufkatalysator, Aktien/ETFs/Rohstoffe vor Boersenoeffnung weiterhin nicht handelbar.",
+    "reasoning": "Kein Trade: BTC (pos-0018) rutscht weiter auf -5,2% seit Kauf (zuvor -4,25%), bleibt aber deutlich oberhalb der Stop-Loss-Schwelle, daher gehalten. Der breite Krypto-Markt bleibt nach dem heissen September-CPI und gestiegenen Fed-Zinserhoehungssorgen unter Druck - keine ueberzeugende Chance-Risiko-Gelegenheit fuer eine Neuposition. Um 08:10 MESZ sind Aktien/ETFs/Rohstoffe weiterhin nicht handelbar (Xetra-Eroeffnung erst 09:00).",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 670.24,
+    "portfolioValueEnd": 663.63,
     "updates": [
       {
         "time": "00:09",
@@ -9137,6 +9137,11 @@
         "time": "07:08",
         "note": "Keine Aenderung, BTC-Kursupdate (81.420 USD, -2,67% 24h, -4,25% seit Kauf); anhaltender CPI-Krypto-Risk-off, Fed-Zinserhoehungssorgen gestiegen, kein neuer Katalysator",
         "portfolioValue": 670.24
+      },
+      {
+        "time": "08:10",
+        "note": "Keine Aenderung, BTC-Kursupdate (80.617 USD, -3,26% 24h, -5,2% seit Kauf); anhaltender CPI-Krypto-Risk-off, kein neuer Katalysator, Boersen vor Eroeffnung",
+        "portfolioValue": 663.63
       }
     ]
   }
