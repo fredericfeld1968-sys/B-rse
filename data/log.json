@@ -9090,13 +9090,13 @@
   },
   {
     "date": "2026-10-15",
-    "marketOverview": "Chip-Ausverkauf in Asien/US haelt an (Kospi -7,6% \"Black Thursday\", SK Hynix -11%, Samsung -9%, TSMC trotz Rekordgewinn -2 bis -4%), getrieben von heisser US-Inflation und AI-Finanzierungssorgen (CoreWeave-Anleihen schwaecher). US-Maerkte uneinheitlich: Dow fester (Rotation in Defensivwerte), Nasdaq/Chipsektor belastet. BTC erholt sich leicht auf ca. 82.292 USD (+0,6% 24h laut CoinGecko), die offene Position (pos-0018, -3,23%) bleibt klar innerhalb der Stop-Loss-Schwelle.",
-    "decision": "Tagesbudget 15.10. bereits gutgeschrieben (keine erneute Gutschrift). Kein Trade in diesem Lauf (22:10 MESZ): US-Kassamarkt bereits geschlossen, Aktien/ETFs/Rohstoffe daher nicht handelbar; bei Krypto kein eigenstaendig ueberzeugender neuer Kaufkatalysator (BTC nur moderat erholt, kein frischer Trigger). Offene BTC-Position (pos-0018) bleibt gehalten und wird auf aktuellen Kurs (82.292 USD, -3,23%) aktualisiert.",
-    "reasoning": "Websuche bestaetigt den bereits bekannten Chip-/AI-Ausverkauf in Asien und den gemischten US-Handelstag ohne neue eigenstaendige Entwicklung seit dem letzten Lauf. Da der US-Kassamarkt um diese Uhrzeit bereits geschlossen ist, sind Aktien, ETFs und Rohstoffe nicht handelbar; fuer Krypto liefert die Recherche keinen neuen, ueberzeugenden Katalysator fuer eine Neuposition. Die bestehende BTC-Position bleibt daher unveraendert gehalten, nur der Kurs wird aktualisiert (CoinGecko API, 82.292 USD, +0,59% 24h, -3,23% seit Kauf).",
+    "marketOverview": "Chip-Ausverkauf in Asien/US haelt an (Kospi -7,6% \"Black Thursday\", SK Hynix -11%, Samsung -9%, TSMC trotz Rekordgewinn -2 bis -4%), getrieben von heisser US-Inflation und AI-Finanzierungssorgen. US-Kassamarkt und Xetra sind spaetabends bereits geschlossen. BTC pendelt seitwaerts bei ca. 82.069 USD (CoinGecko, +0,5% 24h), ETH bei ca. 2.452,69 USD (+1,8%) und SOL bei ca. 105,57 USD (+1,56%) - moderate Erholungstendenz ohne neuen eigenstaendigen Kaufkatalysator. Die offene Position (pos-0018, -3,49%) bleibt klar innerhalb der Stop-Loss-Schwelle.",
+    "decision": "Tagesbudget 15.10. bereits gutgeschrieben (keine erneute Gutschrift). Kein Trade in diesem Lauf (23:09 MESZ): US-Kassamarkt und Xetra bereits geschlossen, Aktien/ETFs/Rohstoffe daher nicht handelbar; bei Krypto (BTC, ETH, SOL) nur leichte, unauffaellige Kursbewegungen ohne neuen ueberzeugenden Kaufkatalysator. Offene BTC-Position (pos-0018) bleibt gehalten und wird auf aktuellen Kurs (82.069 USD, -3,49%) aktualisiert.",
+    "reasoning": "Websuche und CoinGecko-Live-Abfrage bestaetigen den bereits bekannten Chip-/AI-Ausverkauf in Asien ohne neue eigenstaendige Entwicklung seit dem letzten Lauf. BTC, ETH und SOL zeigen nur moderate, unauffaellige 24h-Veraenderungen (+0,5% bis +1,8%) ohne frischen, mehrfach bestaetigten Katalysator fuer eine Neuposition. Da der US-Kassamarkt und Xetra um diese Uhrzeit bereits geschlossen sind, sind Aktien, ETFs und Rohstoffe ohnehin nicht handelbar. Die bestehende BTC-Position bleibt daher unveraendert gehalten, nur der Kurs wird aktualisiert (CoinGecko API, 82.069 USD, +0,50% 24h, -3,49% seit Kauf).",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 677.42,
+    "portfolioValueEnd": 675.58,
     "updates": [
       {
         "time": "00:09",
@@ -9212,6 +9212,11 @@
         "time": "22:10",
         "note": "Keine Aenderung, kein Trade. BTC-Kursupdate (82.292 USD via CoinGecko, +0,59% 24h, -3,23% seit Kauf). US-Kassamarkt bereits geschlossen (Aktien/ETFs/Rohstoffe nicht handelbar); anhaltender Chip-/AI-Ausverkauf in Asien (Kospi -7,6%, SK Hynix -11%) ohne neuen Kaufkatalysator fuer Krypto.",
         "portfolioValue": 677.42
+      },
+      {
+        "time": "23:09",
+        "note": "Keine Aenderung, kein Trade. BTC-Kursupdate (82.069 USD via CoinGecko, +0,5% 24h, -3,49% seit Kauf); US-Kassamarkt und Xetra bereits geschlossen, Aktien/ETFs/Rohstoffe nicht handelbar; kein neuer Kaufkatalysator gefunden.",
+        "portfolioValue": 675.58
       }
     ]
   }
