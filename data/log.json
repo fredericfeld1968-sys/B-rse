@@ -9354,18 +9354,23 @@
   },
   {
     "date": "2026-10-17",
-    "marketOverview": "Bitcoin pendelt in der Nacht zum Samstag weiter im stabilen Bereich um 81.600-82.000 USD (CoinGecko, -0,9% in 24h) - eine Fortsetzung der leichten Stabilisierung vom Vorabend nach der Liquidationswelle durch die heisse September-CPI/PPI-Zahl. Kein neuer eigenstaendiger Katalysator erkennbar; Aktien, ETFs und Rohstoffe sind am Wochenende nicht handelbar, der Kryptomarkt zeigt insgesamt ruhigen, seitwaerts gerichteten Nachthandel.",
-    "decision": "Kein Trade im 00:09-Lauf. Tagesbudget 17.10. wurde einmalig gutgeschrieben (totalFreshCapitalEur 73.000 -> 74.000 EUR). Die offene BTC-Position (pos-0018) wurde im Kurs aktualisiert (81.661 USD, -3,97% seit Kauf bei 85.035 USD); kein Verkauf, da weder Stop-Loss (-6,5 bis -7,5%) noch Take-Profit (+7-9%) erreicht sind. Keine neue Position, da es am Wochenende nachts ausser Krypto nichts Handelbares gibt und sich dort kein frischer, ueberzeugender Katalysator zeigt.",
-    "reasoning": "Freies Kapital liegt bei rund 72.638 EUR und ist damit sehr hoch, es besteht also kein Kapitalmangel. Dennoch wird ohne konkreten, mehrfach bestaetigten Katalysator nicht investiert - ein grosses freies Kapitalpolster allein rechtfertigt keine Position ohne Edge. BTC bleibt gehalten, da die aktuelle Schwaeche (-3,97%) im Rahmen der bereits bekannten, makrogetriebenen Risk-off-Faktoren liegt und sich der Kurs seit dem Tagestief bereits wieder leicht stabilisiert hat.",
+    "marketOverview": "Bitcoin notiert in der Nacht zum Samstag weiterhin stabil knapp unter 82.000 USD (CoinGecko live: 81.684 USD, -0,65% in 24h) - die Konsolidierung nach der Liquidationswelle durch die heisse September-Inflationszahl (YoY 3,7%) setzt sich fort. Fed-Chair Warsh gab zuletzt keine klare Leitlinie fuer die FOMC-Sitzung am 28.10.; die Hike-Wahrscheinlichkeit sank laut CME FedWatch auf rund 13-15%, womit kein neuer eigenstaendiger Katalysator erkennbar ist. Aktien, ETFs und Rohstoffe bleiben am Wochenende nachts nicht handelbar; der Kryptomarkt zeigt insgesamt ruhigen Seitwaertshandel (ETH, SOL, XRP, DOGE allesamt nur leicht im Minus).",
+    "decision": "Kein Trade im 01:08-Lauf. Tagesbudget 17.10. wurde bereits im vorherigen Lauf gutgeschrieben (lastGrantDate = 2026-10-17, keine erneute Gutschrift). Die offene BTC-Position (pos-0018) wurde im Kurs aktualisiert (81.684 USD, -3,94% seit Kauf bei 85.035 USD); kein Verkauf, da weder Stop-Loss (-6,5 bis -7,5%) noch Take-Profit (+7-9%) erreicht sind. Keine neue Position, da sich der Kryptomarkt in ruhigem Seitwaertshandel befindet und kein ueberzeugender frischer Katalysator vorliegt; Aktien/ETFs/Rohstoffe sind am Wochenende nachts ohnehin nicht handelbar.",
+    "reasoning": "Freies Kapital liegt weiterhin bei rund 72.638 EUR (unveraendert, da weder gekauft noch verkauft wurde) und ist damit sehr hoch - es besteht kein Kapitalmangel. Dennoch wird ohne konkreten, mehrfach bestaetigten Katalysator nicht investiert. BTC bleibt gehalten, da sich die Schwaeche (-3,94%) kaum veraendert hat und im Rahmen der bekannten, makrogetriebenen Konsolidierung liegt.",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 672.23,
+    "portfolioValueEnd": 672.41,
     "updates": [
       {
         "time": "00:09",
         "note": "Tagesbudget 17.10. gutgeschrieben (+1000 EUR); kein Trade, BTC-Kursupdate (81.661 USD, -0,9% 24h, -3,97% seit Kauf); kein neuer Katalysator, Wochenende nachts nur Krypto handelbar",
         "portfolioValue": 672.23
+      },
+      {
+        "time": "01:08",
+        "note": "Keine Aenderung; BTC-Kursupdate (81.684 USD, -0,65% 24h, -3,94% seit Kauf); ruhiger Seitwaertshandel, kein neuer Katalysator, Wochenende nachts nur Krypto handelbar",
+        "portfolioValue": 672.41
       }
     ]
   }
