@@ -1,5 +1,5 @@
 {
-  "totalFreshCapitalEur": 73000,
-  "lastGrantDate": "2026-10-16",
+  "totalFreshCapitalEur": 74000,
+  "lastGrantDate": "2026-10-17",
   "notes": "totalFreshCapitalEur = Summe des bisher zugeteilten Neugelds (dailyBudgetEur einmal pro Kalendertag, seit startDate 2026-08-05). Freies Kapital, Gewinn-Topf und Depotwert werden daraus und aus portfolio.json abgeleitet und NICHT gespeichert."
 }
