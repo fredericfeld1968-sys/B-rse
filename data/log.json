@@ -9222,13 +9222,13 @@
   },
   {
     "date": "2026-10-16",
-    "marketOverview": "Freitagmorgen 09:08 MESZ: Xetra ist seit 09:00 geoeffnet, NYSE oeffnet erst um 15:30 MESZ. BTC notiert laut CoinGecko-API bei ca. 82.111 USD (+1,6% 24h), ETH bei ca. 2.450 USD (+4,1%), SOL bei ca. 106,25 USD (+4,1%) - leichte Erholung ggue. der Naechte. US-Markt schloss gestern (15.10.) fest: Dow +1,08% auf 52.177, S&P 500 +0,33% auf 7.744, der Philadelphia Semiconductor Index fiel jedoch den siebten Tag in Folge trotz starker TSMC-Zahlen (Nettogewinn +~70%, Aktie dennoch leicht im Minus) - Vorsicht bei Chipwerten. Keine frischen, eindeutig datierten geopolitischen oder unternehmensspezifischen Katalysatoren fuer heute gefunden.",
-    "decision": "Tagesbudget 16.10. wurde bereits im 00:08-Lauf gutgeschrieben (totalFreshCapitalEur unveraendert bei 73.000 EUR). Kein Trade in diesem Lauf (09:08 MESZ): Xetra ist zwar seit kurzem geoeffnet, aber keine ueberzeugende frische Gelegenheit bei europaeischen Aktien identifiziert; NYSE noch geschlossen; Krypto ohne neuen Katalysator. Offene BTC-Position (pos-0018) bleibt gehalten, Kurs auf 82.111 USD aktualisiert (-3,44% seit Kauf).",
-    "reasoning": "Live-Kursabfrage (CoinGecko) zeigt leichte Erholung bei BTC/ETH/SOL ohne klaren neuen Treiber. Websuche zu Aktien-, Rohstoff- und Krypto-Nachrichten fuer den 16.10. lieferte ueberwiegend veraltete oder undatierte Treffer; einzig verwertbare frische Information ist der schwache 7-Tage-Trend beim Philadelphia Semiconductor Index trotz starker TSMC-Zahlen, was eher gegen einen Einstieg bei Chipwerten spricht. Da keine wirklich ueberzeugende Opportunity vorliegt, wird passend zur Vorgabe (lieber nichts tun als eine schwache Wette) auf einen Trade verzichtet; die bestehende BTC-Position bleibt unveraendert gehalten und nur preislich aktualisiert.",
+    "marketOverview": "Freitag 10:08 MESZ: Xetra ist seit 09:00 geoeffnet, NYSE oeffnet erst um 15:30 MESZ. BTC notiert laut CoinGecko-API bei ca. 82.223 USD (+1,19% 24h), ETH bei ca. 2.455 USD (+3,6%), SOL bei ca. 106,32 USD (+3,35%) - leichte Fortsetzung der Erholung seit der Nacht. Laut FuW endete der mehrtaegige, KI-Aktien-getriebene Kursrutsch am Donnerstag in New York (S&P 500 leicht im Plus), Asien folgte am Freitag mit Gewinnen, Futures deuten auf einen freundlichen Start in Europa. Der Houthi-Angriff auf saudische Aramco-Anlagen (14./15.10., Brent zuletzt ca. 104-107 USD/Barrel) ist bereits mehrere Tage alt und damit kein frischer, noch nicht eingepreister Katalysator.",
+    "decision": "Tagesbudget 16.10. wurde bereits im 00:08-Lauf gutgeschrieben (totalFreshCapitalEur unveraendert bei 73.000 EUR). Kein Trade in diesem Lauf (10:08 MESZ): Xetra ist offen, aber keine frische, ueberzeugende Einzelgelegenheit identifiziert (Houthi/Aramco-Oelstory ist bereits 1-2 Tage alt und eingepreist, allgemeine Markterholung nach KI-Ausverkauf ist kein spezifischer Trade-Trigger); NYSE noch geschlossen. Offene BTC-Position (pos-0018) bleibt gehalten, Kurs auf 82.223 USD aktualisiert (-3,31% seit Kauf).",
+    "reasoning": "Live-Kursabfrage (CoinGecko) zeigt fortgesetzte leichte Erholung bei BTC/ETH/SOL. Websuche zu Aktien-, Rohstoff- und Krypto-Nachrichten fuer den 16.10. bestaetigt einen bereits seit dem 14./15.10. laufenden Houthi/Aramco-Oelkonflikt (Brent ~104-107 USD) sowie ein Ende des KI-Aktien-Ausverkaufs mit freundlichen Futures fuer Europa - beides keine frischen, einzelmarktbezogenen Katalysatoren, die eine neue spekulative Position rechtfertigen. Passend zur Vorgabe (lieber nichts tun als eine schwache Wette) wird auf einen Trade verzichtet; die bestehende BTC-Position bleibt unveraendert gehalten und nur preislich aktualisiert.",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 675.93,
+    "portfolioValueEnd": 676.85,
     "updates": [
       {
         "time": "00:08",
@@ -9279,6 +9279,11 @@
         "time": "09:08",
         "note": "Keine Aenderung; BTC-Kursupdate (82.111 USD, +1,6% 24h, -3,44% seit Kauf); Xetra seit 09:00 offen, aber keine ueberzeugende Gelegenheit; Chipwerte belastet (Philadelphia Semiconductor Index 7. Tag im Minus trotz starker TSMC-Zahlen)",
         "portfolioValue": 675.93
+      },
+      {
+        "time": "10:08",
+        "note": "Keine Aenderung; BTC-Kursupdate (82.223 USD, +1,19% 24h, -3,31% seit Kauf); Houthi/Aramco-Oelstory bereits 1-2 Tage alt und eingepreist, kein frischer Trade-Trigger",
+        "portfolioValue": 676.85
       }
     ]
   }
