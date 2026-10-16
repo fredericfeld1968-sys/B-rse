@@ -9222,13 +9222,13 @@
   },
   {
     "date": "2026-10-16",
-    "marketOverview": "Kurz nach 01:00 Uhr (Freitagnacht) sind US-Kassamarkt und Xetra weiterhin geschlossen, nur Krypto ist handelbar. BTC notiert laut CoinGecko bei ca. 82.263 USD (+0,9% 24h), ETH bei ca. 2.449 USD (+1,4%) und SOL bei ca. 105,51 USD (+1,1%) - praktisch unveraendert zum letzten Lauf vor einer Stunde, keine neue Nachrichtenlage auffindbar.",
-    "decision": "Tagesbudget 16.10. wurde bereits im 00:08-Lauf gutgeschrieben (totalFreshCapitalEur unveraendert bei 73.000 EUR). Kein Trade in diesem Lauf (01:08 MESZ): Aktien/ETFs/Rohstoffe weiterhin ausserhalb der Handelszeiten, Kryptomarkt zeigt nur eine minimale, unveraenderte Seitwaertsbewegung ohne neuen Katalysator. Offene BTC-Position (pos-0018) bleibt gehalten, Kurs auf 82.263 USD aktualisiert (-3,26% seit Kauf).",
-    "reasoning": "CoinGecko-Live-Abfrage und Websuche zeigen seit dem letzten Lauf (00:08) keine wesentliche Kursbewegung oder neue Nachricht bei BTC/ETH/SOL (Aenderungen unter 1% zum Vorlauf). Da kein ueberzeugender frischer Katalysator vorliegt und Aktien/ETFs/Rohstoffe nachts ohnehin nicht handelbar sind, wird auf eine neue Position verzichtet; die bestehende BTC-Position bleibt unveraendert gehalten und nur preislich aktualisiert.",
+    "marketOverview": "Kurz nach 02:00 Uhr (Freitagnacht) sind US-Kassamarkt und Xetra weiterhin geschlossen, nur Krypto ist handelbar. BTC notiert laut CoinGecko bei ca. 82.220 USD (+0,64% 24h), ETH bei ca. 2.441,66 USD (+0,79%) und SOL bei ca. 105,37 USD (+1,07%) - praktisch unveraendert zum letzten Lauf vor einer Stunde, keine neue Nachrichtenlage auffindbar.",
+    "decision": "Tagesbudget 16.10. wurde bereits im 00:08-Lauf gutgeschrieben (totalFreshCapitalEur unveraendert bei 73.000 EUR). Kein Trade in diesem Lauf (02:08 MESZ): Aktien/ETFs/Rohstoffe weiterhin ausserhalb der Handelszeiten, Kryptomarkt zeigt nur eine minimale, unveraenderte Seitwaertsbewegung ohne neuen Katalysator. Offene BTC-Position (pos-0018) bleibt gehalten, Kurs auf 82.220 USD aktualisiert (-3,31% seit Kauf).",
+    "reasoning": "CoinGecko-Live-Abfrage und Websuche zeigen seit dem letzten Lauf (01:08) keine wesentliche Kursbewegung oder neue Nachricht bei BTC/ETH/SOL (Aenderungen unter 1% zum Vorlauf, keine aktuellen Schlagzeilen auffindbar). Da kein ueberzeugender frischer Katalysator vorliegt und Aktien/ETFs/Rohstoffe nachts ohnehin nicht handelbar sind, wird auf eine neue Position verzichtet; die bestehende BTC-Position bleibt unveraendert gehalten und nur preislich aktualisiert.",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 677.18,
+    "portfolioValueEnd": 676.82,
     "updates": [
       {
         "time": "00:08",
@@ -9239,6 +9239,11 @@
         "time": "01:08",
         "note": "Keine Aenderung; BTC-Kursupdate (82.263 USD, +0,9% 24h, -3,26% seit Kauf); kein neuer Katalysator, Aktien/ETFs/Rohstoffe nachts nicht handelbar",
         "portfolioValue": 677.18
+      },
+      {
+        "time": "02:08",
+        "note": "Keine Aenderung; BTC-Kursupdate (82.220 USD, +0,64% 24h, -3,31% seit Kauf); kein neuer Katalysator, Aktien/ETFs/Rohstoffe nachts nicht handelbar",
+        "portfolioValue": 676.82
       }
     ]
   }
