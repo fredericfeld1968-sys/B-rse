@@ -9222,13 +9222,13 @@
   },
   {
     "date": "2026-10-16",
-    "marketOverview": "Kurz nach 05:00 Uhr (Freitagnacht) sind US-Kassamarkt und Xetra weiterhin geschlossen, nur Krypto ist handelbar. BTC notiert laut CoinGecko bei ca. 82.015 USD (+1,0% 24h), ETH bei ca. 2.439 USD (+3,1%) und SOL bei ca. 105,33 USD (+2,9%). Groessere Ausreisser im breiteren Markt sind NEAR (+10,8% 24h) und Zcash/ZEC (+10,1% 24h, bei ca. 1.219 USD) - beides jedoch Fortsetzungen bereits laengere Zeit laufender Rallyes (ZEC-Rally seit September, Grayscale-/ETF-Spekulation; NEAR-Kurzsqueeze seit Fruehjahr) ohne neuen, frisch bestaetigten Einzelkatalysator fuer heute Nacht.",
-    "decision": "Tagesbudget 16.10. wurde bereits im 00:08-Lauf gutgeschrieben (totalFreshCapitalEur unveraendert bei 73.000 EUR). Kein Trade in diesem Lauf (05:08 MESZ): Aktien/ETFs/Rohstoffe weiterhin ausserhalb der Handelszeiten. BTC/ETH/SOL zeigen nur moderate, unauffaellige Gewinne; NEAR und ZEC laufen zwar staerker, aber ohne einen heute neu bestaetigten Katalysator - kein Einstieg auf blosses Nachlaufen einer bereits etablierten Bewegung. Offene BTC-Position (pos-0018) bleibt gehalten, Kurs auf 82.015 USD aktualisiert (-3,55% seit Kauf).",
-    "reasoning": "CoinGecko-Live-Abfrage und Websuche zeigen seit dem letzten Lauf (04:08) nur eine leichte Erholung bei BTC/ETH/SOL ohne neue Schlagzeilen. Fuer NEAR und ZEC liefert die Websuche keine aktuelle, auf heute datierte Meldung - beide Bewegungen lassen sich auf laengst bekannte, bereits eingepreiste Treiber (Zcash-Privacy-Coin-Rally seit September, NEAR-Short-Squeeze seit Mai) zurueckfuehren, kein frischer, 'wirklich ueberzeugender' Grund fuer einen Neueinstieg mitten in der Nacht. Aktien/ETFs/Rohstoffe sind ohnehin nicht handelbar. Daher wird auf eine neue Position verzichtet; die bestehende BTC-Position bleibt unveraendert gehalten und nur preislich aktualisiert.",
+    "marketOverview": "Kurz nach 06:00 Uhr (Freitagmorgen) sind US-Kassamarkt und Xetra weiterhin geschlossen (Xetra oeffnet 09:00, NYSE 15:30 MESZ), nur Krypto ist handelbar. BTC notiert laut CoinGecko bei ca. 81.993 USD (+1,46% 24h), ETH bei ca. 2.435 USD (+3,11%) und SOL bei ca. 105,12 USD (+2,61%) - praktisch unveraendert zum 05:08-Stand. Eine gezielte Suche nach frischen geopolitischen oder wirtschaftlichen Schlagzeilen fuer die Nacht lieferte keine verlaesslichen, auf heute datierten Treffer.",
+    "decision": "Tagesbudget 16.10. wurde bereits im 00:08-Lauf gutgeschrieben (totalFreshCapitalEur unveraendert bei 73.000 EUR). Kein Trade in diesem Lauf (06:08 MESZ): Aktien/ETFs/Rohstoffe weiterhin ausserhalb der Handelszeiten, Krypto zeigt keine ueberzeugende neue Gelegenheit. Offene BTC-Position (pos-0018) bleibt gehalten, Kurs auf 81.993 USD aktualisiert (-3,58% seit Kauf).",
+    "reasoning": "CoinGecko-Live-Abfrage zeigt BTC/ETH/SOL nahezu unveraendert zum letzten Lauf, keine neuen Schlagzeilen oder Katalysatoren gefunden. Aktien/ETFs/Rohstoffe sind ohnehin nicht handelbar. Daher wird auf eine neue Position verzichtet; die bestehende BTC-Position bleibt unveraendert gehalten und nur preislich aktualisiert.",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 675.14,
+    "portfolioValueEnd": 674.96,
     "updates": [
       {
         "time": "00:08",
@@ -9259,6 +9259,11 @@
         "time": "05:08",
         "note": "Keine Aenderung; BTC-Kursupdate (82.015 USD, +1,0% 24h, -3,55% seit Kauf); NEAR/ZEC staerker (+10%), aber kein frischer Katalysator - kein Kauf, Aktien/ETFs/Rohstoffe nachts nicht handelbar",
         "portfolioValue": 675.14
+      },
+      {
+        "time": "06:08",
+        "note": "Keine Aenderung; BTC-Kursupdate (81.993 USD, +1,46% 24h, -3,58% seit Kauf); keine neue Opportunitaet, Aktien/ETFs/Rohstoffe nachts nicht handelbar",
+        "portfolioValue": 674.96
       }
     ]
   }
