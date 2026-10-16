@@ -9222,13 +9222,13 @@
   },
   {
     "date": "2026-10-16",
-    "marketOverview": "Freitag 11:10 MESZ: Xetra und europaeische Boersen sind offen, NYSE oeffnet erst um 15:30 MESZ. BTC notiert laut aktuellen Marktberichten (CryptoTimes/CoinDesk/Investing.com) bei ca. 82.000 USD (nach kurzem Rutsch unter 80.000 USD am Vortag wegen heisser US-Inflationsdaten, seitdem Erholung; zweite rote Woche in Folge fuer BTC). An den Aktienmaerkten rotiert Geld laut Berichten aus Chip-/AI-Infrastrukturwerten heraus in Healthcare, Financials und Energie (Sorgen um KI-Investitions-Finanzierung/Schulden); S&P 500 zuletzt bei ca. 7.744 Punkten (+0,3%), Dow +1,1%, 10-Jahres-Rendite hoch bei ca. 5,09%. Oelpreise (Brent ca. 105 USD/Barrel) geben am Freitag leicht nach, bleiben aber auf Wochensicht im Plus - Houthi-Angriff auf saudische Aramco-Anlagen ist bereits mehrere Tage alt und eingepreist. Gold erholt sich Richtung 4.200 USD/oz. Naechster Fed-Entscheid am 27./28.10.",
-    "decision": "Tagesbudget 16.10. wurde bereits im 00:08-Lauf gutgeschrieben (totalFreshCapitalEur unveraendert bei 73.000 EUR). Kein Trade in diesem Lauf (11:10 MESZ): Xetra ist offen, aber keine frische, ueberzeugende Einzelgelegenheit identifiziert - die bekannten Themen (Hormuz/Aramco-Oelpraemie, KI-Sektor-Rotation aus Chips, BTC-Erholung nach Inflationsschock) sind bereits seit 1-2 Tagen bekannt und eingepreist. NYSE noch geschlossen. Offene BTC-Position (pos-0018) bleibt gehalten, Kurs auf ca. 82.050 USD aktualisiert (-3,51% seit Kauf).",
-    "reasoning": "Risikoprofil ist spekulativ, aber Trades sollen nur bei klar erkennbaren, frischen Katalysatoren erfolgen. Aktuell liegt kein neuer, noch nicht eingepreister Trigger vor; die Chip-Sektor-Schwaeche und die Oel-Geopolitik sind bereits seit vorherigen Laeufen bekannt. BTC-Position wird mangels Stop-Loss- oder Zielmarken-Ereignis (-3,51%, innerhalb normaler Schwankungsbreite) weiter gehalten.",
+    "marketOverview": "Freitag 12:08 MESZ: Risk-off-Ton haelt an - laut CNBC/Bloomberg bleibt der US-Aktienmarkt nach dem Ausverkauf bei Chip-/Neocloud-Werten (CoreWeave-Anleiherenditen bei rund 15%, Ansteckung auf Oracle, DigitalOcean, TeraWulf, Hut 8 seit 14.10.) sowie der heissen September-Inflation (CPI +3,7% YoY, steigende Treasury-Renditen ~5,09%) angespannt; asiatische Futures zeigten frueh eine leichte Erholung. Im Nahen Osten eskaliert die Lage an der Strasse von Hormuz weiter: ein Frachter sank laut iranischen Revolutionsgardisten nach einer Seemine, UKMTO meldet zusaetzlich Beschuss auf einen Tanker und ein Containerschiff - Brent bleibt mit rund 100-105 USD/Barrel auf erhoehtem Niveau, die Eskalation ist aber seit Tagen bekannt und weitgehend eingepreist. BTC verbleibt in der zweiten rotten Woche in Folge nahe 82.000 USD ohne neuen eigenstaendigen Katalysator.",
+    "decision": "Tagesbudget 16.10. wurde bereits im 00:08-Lauf gutgeschrieben (totalFreshCapitalEur unveraendert bei 73.000 EUR). Kein Trade in diesem Lauf (11:10 MESZ): Xetra ist offen, aber keine frische, ueberzeugende Einzelgelegenheit identifiziert - die bekannten Themen (Hormuz/Aramco-Oelpraemie, KI-Sektor-Rotation aus Chips, BTC-Erholung nach Inflationsschock) sind bereits seit 1-2 Tagen bekannt und eingepreist. NYSE noch geschlossen. Offene BTC-Position (pos-0018) bleibt gehalten, Kurs auf ca. 82.050 USD aktualisiert (-3,51% seit Kauf). | 12:08-Lauf: Weiterhin kein Trade - die bekannten Themen (Hormuz-Eskalation, CoreWeave/AI-Schulden-Ansteckung, heisse US-Inflation) sind bereits seit Tagen eingepreist, kein frischer eigenstaendiger Katalysator identifiziert. NYSE oeffnet erst um 15:30 MESZ. Offene BTC-Position (pos-0018) bleibt gehalten, Kurs auf ca. 81.950 USD aktualisiert (-3.63% seit Kauf).",
+    "reasoning": "Risikoprofil ist spekulativ, aber Trades sollen nur bei klar erkennbaren, frischen Katalysatoren erfolgen. Aktuell liegt kein neuer, noch nicht eingepreister Trigger vor; die Chip-Sektor-Schwaeche und die Oel-Geopolitik sind bereits seit vorherigen Laeufen bekannt. BTC-Position wird mangels Stop-Loss- oder Zielmarken-Ereignis (-3,51%, innerhalb normaler Schwankungsbreite) weiter gehalten. 12:08: Keine neue, noch nicht eingepreiste Information seit dem 11:10-Lauf gefunden; die Risk-off-Faktoren (AI-Schulden-Sorgen, Inflation, Hormuz) sind alle seit mind. 1-2 Tagen bekannt. Passend zum Grundsatz 'nur bei klar erkennbaren, frischen Katalysatoren handeln' wird abgewartet.",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 675.43,
+    "portfolioValueEnd": 674.6,
     "updates": [
       {
         "time": "00:08",
@@ -9289,6 +9289,11 @@
         "time": "11:10",
         "note": "Keine Aenderung; BTC-Kursupdate (ca. 82.050 USD, -3,51% seit Kauf); Chip-/AI-Sektor-Rotation und Oel-Geopolitik bereits bekannt und eingepreist, kein neuer Trade-Trigger",
         "portfolioValue": 675.43
+      },
+      {
+        "time": "12:08",
+        "note": "Keine Aenderung; BTC-Kursupdate (ca. 81.950 USD, -3.63% seit Kauf); CoreWeave/AI-Schulden-Sorgen, heisse US-Inflation und Hormuz-Eskalation bereits bekannt und eingepreist, kein neuer Trade-Trigger",
+        "portfolioValue": 674.6
       }
     ]
   }
