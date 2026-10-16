@@ -9222,13 +9222,13 @@
   },
   {
     "date": "2026-10-16",
-    "marketOverview": "Kurz nach 08:00 Uhr (Freitagmorgen) sind Xetra (oeffnet 09:00 MESZ) und NYSE (oeffnet 15:30 MESZ) weiterhin geschlossen, nur Krypto ist handelbar. BTC notiert laut CoinGecko-API bei ca. 81.976 USD (+1,67% 24h), ETH bei ca. 2.440,24 USD (+3,91%) und SOL bei ca. 105,66 USD (+3,82%) - leicht schwaecher als im 07:08-Stand. Gezielte Suche nach frischen geopolitischen oder wirtschaftlichen Schlagzeilen fuer heute lieferte weiterhin keine verlaesslichen neuen Treffer.",
-    "decision": "Tagesbudget 16.10. wurde bereits im 00:08-Lauf gutgeschrieben (totalFreshCapitalEur unveraendert bei 73.000 EUR). Kein Trade in diesem Lauf (08:12 MESZ): Aktien/ETFs/Rohstoffe weiterhin ausserhalb der Handelszeiten (Xetra oeffnet erst in ca. 48 Minuten), Krypto zeigt keine ueberzeugende neue Gelegenheit. Offene BTC-Position (pos-0018) bleibt gehalten, Kurs auf 81.976 USD aktualisiert (-3,60% seit Kauf).",
-    "reasoning": "CoinGecko-API-Abfrage zeigt BTC/ETH/SOL leicht schwaecher als im letzten Lauf, aber ohne neuen Katalysator; Web-Suche fand keine auf heute datierten Markt- oder Geopolitik-Schlagzeilen. Aktien/ETFs/Rohstoffe sind ohnehin noch nicht handelbar. Daher wird auf eine neue Position verzichtet; die bestehende BTC-Position bleibt unveraendert gehalten und nur preislich aktualisiert.",
+    "marketOverview": "Freitagmorgen 09:08 MESZ: Xetra ist seit 09:00 geoeffnet, NYSE oeffnet erst um 15:30 MESZ. BTC notiert laut CoinGecko-API bei ca. 82.111 USD (+1,6% 24h), ETH bei ca. 2.450 USD (+4,1%), SOL bei ca. 106,25 USD (+4,1%) - leichte Erholung ggue. der Naechte. US-Markt schloss gestern (15.10.) fest: Dow +1,08% auf 52.177, S&P 500 +0,33% auf 7.744, der Philadelphia Semiconductor Index fiel jedoch den siebten Tag in Folge trotz starker TSMC-Zahlen (Nettogewinn +~70%, Aktie dennoch leicht im Minus) - Vorsicht bei Chipwerten. Keine frischen, eindeutig datierten geopolitischen oder unternehmensspezifischen Katalysatoren fuer heute gefunden.",
+    "decision": "Tagesbudget 16.10. wurde bereits im 00:08-Lauf gutgeschrieben (totalFreshCapitalEur unveraendert bei 73.000 EUR). Kein Trade in diesem Lauf (09:08 MESZ): Xetra ist zwar seit kurzem geoeffnet, aber keine ueberzeugende frische Gelegenheit bei europaeischen Aktien identifiziert; NYSE noch geschlossen; Krypto ohne neuen Katalysator. Offene BTC-Position (pos-0018) bleibt gehalten, Kurs auf 82.111 USD aktualisiert (-3,44% seit Kauf).",
+    "reasoning": "Live-Kursabfrage (CoinGecko) zeigt leichte Erholung bei BTC/ETH/SOL ohne klaren neuen Treiber. Websuche zu Aktien-, Rohstoff- und Krypto-Nachrichten fuer den 16.10. lieferte ueberwiegend veraltete oder undatierte Treffer; einzig verwertbare frische Information ist der schwache 7-Tage-Trend beim Philadelphia Semiconductor Index trotz starker TSMC-Zahlen, was eher gegen einen Einstieg bei Chipwerten spricht. Da keine wirklich ueberzeugende Opportunity vorliegt, wird passend zur Vorgabe (lieber nichts tun als eine schwache Wette) auf einen Trade verzichtet; die bestehende BTC-Position bleibt unveraendert gehalten und nur preislich aktualisiert.",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 674.82,
+    "portfolioValueEnd": 675.93,
     "updates": [
       {
         "time": "00:08",
@@ -9274,6 +9274,11 @@
         "time": "08:12",
         "note": "Keine Aenderung; BTC-Kursupdate (81.976 USD, +1,67% 24h, -3,60% seit Kauf); kein neuer Katalysator, Aktien/ETFs/Rohstoffe noch nicht handelbar (Xetra oeffnet in Kuerze)",
         "portfolioValue": 674.82
+      },
+      {
+        "time": "09:08",
+        "note": "Keine Aenderung; BTC-Kursupdate (82.111 USD, +1,6% 24h, -3,44% seit Kauf); Xetra seit 09:00 offen, aber keine ueberzeugende Gelegenheit; Chipwerte belastet (Philadelphia Semiconductor Index 7. Tag im Minus trotz starker TSMC-Zahlen)",
+        "portfolioValue": 675.93
       }
     ]
   }
