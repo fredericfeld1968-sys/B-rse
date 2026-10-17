@@ -9478,5 +9478,22 @@
         "portfolioValue": 671.59
       }
     ]
+  },
+  {
+    "date": "2026-10-18",
+    "marketOverview": "Krypto handelt in der Nacht zum Sonntag weiterhin in mildem, breitem Risk-off: Bitcoin bei ca. 81.137 USD (-0,64% 24h), Ethereum, Solana, XRP, Avalanche, Dogecoin, Chainlink und Cardano allesamt im Bereich -1,5% bis -3,4% 24h. Kein frischer, mehrfach bestaetigter Einzelkatalysator auffindbar; Aktien/ETFs/Rohstoffe sind nachts und am Wochenende ohnehin nicht handelbar.",
+    "decision": "00:08-Lauf: Tagesbudget 18.10. gutgeschrieben (+1000 EUR, totalFreshCapitalEur jetzt 75.000 EUR). Kein Trade: BTC-Position (pos-0018) nur im Kurs aktualisiert (81.137 USD, -4,58% seit Kauf bei 85.035 USD); weder Stop-Loss (-6,5 bis -7,5%) noch Take-Profit (+7-9%) erreicht. Kein ueberzeugender frischer Katalysator im ruhigen, milde risk-off gepraegten Kryptomarkt; Aktien/ETFs/Rohstoffe nachts/am Wochenende ohnehin nicht handelbar.",
+    "reasoning": "Neuer Kalendertag beginnt, daher Tagesbudget-Gutschrift gemaess Kapitalregeln. BTC-Position bleibt innerhalb der Stop-Loss/Take-Profit-Bandbreite und wird gehalten. Trotz hohem freiem Kapital keine neue Position ohne klaren, mehrfach bestaetigten Katalysator; breiter Markt zeigt nur milden, undramatischen Risk-off ohne Ausbruchssignal.",
+    "positionIds": [
+      "pos-0018"
+    ],
+    "portfolioValueEnd": 667.91,
+    "updates": [
+      {
+        "time": "00:08",
+        "note": "Tagesbudget 18.10. gutgeschrieben (+1000 EUR); kein Trade, BTC-Kursupdate (81.137 USD, -0,64% 24h, -4,58% seit Kauf); kein neuer Katalysator, nachts/Wochenende nur Krypto handelbar",
+        "portfolioValue": 667.91
+      }
+    ]
   }
 ]
