@@ -9354,13 +9354,13 @@
   },
   {
     "date": "2026-10-17",
-    "marketOverview": "Krypto handelt am Samstagmorgen weiter in ruhigem Seitwaertshandel: Bitcoin bei ca. 81.521 USD (-0,89% 24h, CoinGecko), Ethereum ca. 2.426 USD, Solana ca. 104,85 USD, Avalanche ca. 9,99 USD - alle leicht im Minus ohne klaren Trend. Kein neuer fundamentaler Katalysator erkennbar; Marktberichte bleiben uneinheitlich (teils Verweise auf Fed-Zinsdebatte und Nahost-Spannungen als Hintergrundrisiken, aber keine frische, mehrfach bestaetigte Nachricht). Aktien/ETFs/Rohstoffe sind am Samstag ohnehin nicht handelbar.",
-    "decision": "Kein Trade im 05:07-Lauf. Tagesbudget 17.10. wurde bereits im 00:09-Lauf gutgeschrieben (lastGrantDate = 2026-10-17, keine erneute Gutschrift). Die offene BTC-Position (pos-0018) wurde im Kurs aktualisiert (81.347 USD, -4,34% seit Kauf bei 85.035 USD); kein Verkauf, da weder Stop-Loss (-6,5 bis -7,5%) noch Take-Profit (+7-9%) erreicht sind. Keine neue Position, da sich der Kryptomarkt weiterhin in ruhigem Seitwaertshandel ohne ueberzeugenden frischen Katalysator befindet; Aktien/ETFs/Rohstoffe sind am Wochenende nachts ohnehin nicht handelbar. | 06:07-Lauf: Weiterhin kein Trade. BTC-Position (pos-0018) nur im Kurs aktualisiert (81.521 USD, -4,13% seit Kauf bei 85.035 USD); weder Stop-Loss (-6,5 bis -7,5%) noch Take-Profit (+7-9%) erreicht. Kein ueberzeugender frischer Katalysator im ruhigen Wochenend-Kryptomarkt, daher keine neue Position trotz freiem Kapital von ca. 72.638 EUR.",
-    "reasoning": "Reine Kursfortschreibung der einzigen offenen Position (BTC) anhand Live-Daten von CoinGecko. Kein Verkauf, da Verlust innerhalb der Toleranzspanne liegt. Keine Neuposition, da Aktien/ETFs/Rohstoffe am Wochenende nicht handelbar sind und der Kryptomarkt keinen klaren, mehrfach bestaetigten Ausbruch oder fundamentalen Anlass zeigt.",
+    "marketOverview": "Krypto handelt am Samstagmorgen weiter in ruhigem Seitwaertshandel mit leichter Erholungstendenz: Bitcoin bei ca. 82.100-82.700 USD (Yahoo Finance/Fortune, Stand Freitagmorgen US-Zeit, +0,7% vs. Donnerstag), Ethereum ca. 2.440-2.610 USD. Hintergrund: zwei staerker als erwartet ausgefallene US-Inflationsberichte sowie Oelpreis ueber 106 USD/Barrel belasten laut Yahoo Finance nicht, Krypto zeigt sich 'firm'. MSCI-Indexueberpruefung zu Bitcoin-Treasury-Firmen (z.B. Strategy/MSTR) bleibt ein laufendes, umstrittenes Thema ohne klaren Ausgang. Kein frischer, mehrfach bestaetigter Einzelkatalysator fuer Altcoins (SOL/XRP/AVAX/DOGE) gefunden; Gesamtmarktkapitalisierung zuletzt (12.10.) rund 2,9 Billionen USD in 'Greed'-Stimmung. Aktien/ETFs/Rohstoffe sind am Samstag ohnehin nicht handelbar.",
+    "decision": "Kein Trade im 05:07-Lauf. Tagesbudget 17.10. wurde bereits im 00:09-Lauf gutgeschrieben (lastGrantDate = 2026-10-17, keine erneute Gutschrift). Die offene BTC-Position (pos-0018) wurde im Kurs aktualisiert (81.347 USD, -4,34% seit Kauf bei 85.035 USD); kein Verkauf, da weder Stop-Loss (-6,5 bis -7,5%) noch Take-Profit (+7-9%) erreicht sind. Keine neue Position, da sich der Kryptomarkt weiterhin in ruhigem Seitwaertshandel ohne ueberzeugenden frischen Katalysator befindet; Aktien/ETFs/Rohstoffe sind am Wochenende nachts ohnehin nicht handelbar. | 06:07-Lauf: Weiterhin kein Trade. BTC-Position (pos-0018) nur im Kurs aktualisiert (81.521 USD, -4,13% seit Kauf bei 85.035 USD); weder Stop-Loss (-6,5 bis -7,5%) noch Take-Profit (+7-9%) erreicht. Kein ueberzeugender frischer Katalysator im ruhigen Wochenend-Kryptomarkt, daher keine neue Position trotz freiem Kapital von ca. 72.638 EUR. | 08:10-Lauf: Weiterhin kein Trade. BTC-Position (pos-0018) im Kurs leicht nach oben aktualisiert (ca. 82.400 USD, -3,10% seit Kauf bei 85.035 USD) im Einklang mit der leichten Erholung laut Yahoo Finance/Fortune. Kein Stop-Loss, kein Take-Profit erreicht. Kein mehrfach bestaetigter frischer Einzelkatalysator fuer eine neue Position trotz freiem Kapital von ca. 72.645 EUR; das umstrittene MSCI-Indexthema ist kein handelbarer Katalysator.",
+    "reasoning": "Reine Kursfortschreibung der einzigen offenen Position (BTC) anhand aktueller Marktdaten (Yahoo Finance, Fortune). Kein Verkauf, da Verlust innerhalb der Toleranzspanne liegt. Keine Neuposition, da Aktien/ETFs/Rohstoffe am Wochenende nicht handelbar sind und der Kryptomarkt keinen klaren, mehrfach bestaetigten Ausbruch oder fundamentalen Anlass zeigt - lediglich eine leichte, nicht hinreichend ueberzeugende Erholungstendenz.",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 671.07,
+    "portfolioValueEnd": 678.31,
     "updates": [
       {
         "time": "00:09",
@@ -9396,6 +9396,11 @@
         "time": "06:07",
         "note": "Keine Aenderung; BTC-Kursupdate (81.521 USD, -0,89% 24h, -4,13% seit Kauf); ruhiger Seitwaertshandel, kein neuer Katalysator, Samstagvormittag nur Krypto handelbar",
         "portfolioValue": 671.07
+      },
+      {
+        "time": "08:10",
+        "note": "Keine Aenderung; BTC-Kursupdate (82.400 USD, leichte Erholung laut Yahoo Finance/Fortune, -3,10% seit Kauf); kein ueberzeugender Katalysator fuer Neuposition trotz grossem freiem Kapital",
+        "portfolioValue": 678.31
       }
     ]
   }
