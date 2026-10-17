@@ -8826,13 +8826,13 @@
   },
   {
     "date": "2026-10-13",
-    "marketOverview": "Breiter Krypto-Risk-off setzt sich fort, zuletzt aber leicht abgeschwaecht: BTC bei rund 82.468 USD (-1,39% in 24h laut CoinGecko), Altcoins weiterhin staerker im Minus (SOL -5,3%, AVAX -6,3%, DOGE -4,3%, ETH -3,0%, XRP -3,4%). Hintergrund bleibt die seit dem 08.10. laufende Fed-bedingte Risikoaversion (hawkische FOMC-Erwartungen, hohe Anleiherenditen, anhaltende Spot-Bitcoin-ETF-Abfluesse); kein neuer eigenstaendiger Katalysator gefunden. Aktien-, ETF- und Rohstoffmaerkte sind nachts (Europe/Berlin) weiterhin geschlossen.",
-    "decision": "Kein Trade in diesem Lauf. Tagesbudget von 1.000 EUR fuer den 13.10. wurde bereits zuvor gutgeschrieben (keine erneute Gutschrift). Bestehende BTC-Position (pos-0018) bleibt innerhalb der Halte-Toleranz und wird nur im Kurs aktualisiert (-3,02% seit Kauf).",
-    "reasoning": "BTC hat sich seit dem letzten Lauf leicht erholt (81.551 -> 82.468 USD), die Position liegt mit -3,02% seit Kauf weiterhin klar innerhalb der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%) und wird daher gehalten. Fuer Neukaeufe fehlt angesichts des weiterhin negativen, aber richtungslosen Kryptomarktbilds eine ueberzeugende Gelegenheit; Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten ohnehin nicht handelbar.",
+    "marketOverview": "BTC notiert via CoinGecko-API (live) bei 83.355 USD (+0,63% in 24h), weiterhin stabil in der 81.000-84.000er-Spanne. Grosse Altcoins (ETH, SOL, XRP, AVAX, ADA, LINK, SUI, HYPE, DOGE, LTC) zeigen nur kleine Abschlaege (-1 bis -2%), kein Ausbruch oder neuer Katalysator. US-Boersen (NYSE/Nasdaq) und Xetra bleiben ueber Nacht geschlossen. Naechster grosser Katalysator bleibt der US-CPI-Bericht heute Nachmittag MESZ (14.10., 8:30 Uhr ET).",
+    "decision": "Kein Trade in diesem Lauf. Tagesbudget 13.10. bereits gutgeschrieben (keine erneute Gutschrift, lastGrantDate bleibt 13.10.). BTC-Position (pos-0018) auf 83.355 USD aktualisiert (-1,98% seit Kauf, klar innerhalb der Stop-Loss-Schwelle). Keine Neuposition: Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten, im Kryptomarkt kein ueberzeugender frischer Ausbruch oder Katalysator sichtbar.",
+    "reasoning": "CoinGecko-API fuer BTC (83.355 USD, +0,63% 24h) und weitere grosse Altcoins (ETH, SOL, XRP, AVAX, ADA, LINK, SUI, HYPE, DOGE, LTC) abgefragt: alle nur leicht im Minus (-1 bis -2%), keine Bewegung mit Ausbruchscharakter. Zusaetzliche Websuchen zu Markt- und CPI-Ausblick lieferten keine datumsspezifisch verlaesslichen, aktuellen Treffer. Da NYSE/Nasdaq/Xetra bereits geschlossen sind und im Kryptomarkt kein ueberzeugendes Setup erkennbar ist, bleibt das Portfolio unveraendert bis auf das BTC-Kursupdate.",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 678.87,
+    "portfolioValueEnd": 686.17,
     "updates": [
       {
         "time": "00:08",
@@ -8858,6 +8858,594 @@
         "time": "04:08",
         "note": "Keine Aenderung: BTC leicht erholt auf 82.468 USD (-3,02% seit Kauf, -1,39% in 24h laut CoinGecko), Altcoins weiterhin staerker im Minus; kein neuer Katalysator, Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten; kein Trade.",
         "portfolioValue": 678.87
+      },
+      {
+        "time": "05:10",
+        "note": "Keine Aenderung: Keine verlaessliche frischere BTC-Live-Notierung als der letzte Stand (ca. 82.468 USD, -3,02% seit Kauf) auffindbar; kein neuer bestaetigter Katalysator (weder positiv noch negativ) ueber den bekannten Fed-bedingten Risk-off-Hintergrund hinaus, kein neues ueberzeugendes Setup in Alts; Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten; kein Trade.",
+        "portfolioValue": 678.87
+      },
+      {
+        "time": "06:08",
+        "note": "Keine Aenderung: BTC leicht erholt auf 83.248 USD (-2,10% seit Kauf, -0,29% in 24h), Altcoins weiterhin staerker im Minus (ADA -5,4%, SOL -3,6%); kein neuer Katalysator, Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten; kein Trade.",
+        "portfolioValue": 685.29
+      },
+      {
+        "time": "07:09",
+        "note": "Keine Aenderung: BTC leicht erholt auf 83.434 USD (-1,88% seit Kauf, -0,86% in 24h); Altcoins weiterhin staerker im Minus; kein neuer Katalysator, Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten; kein Trade.",
+        "portfolioValue": 686.82
+      },
+      {
+        "time": "08:08",
+        "note": "Keine Aenderung: BTC bei 83.527 USD (-1,77% seit Kauf, -0,32% in 24h); Altcoins weiterhin staerker im Minus (ADA -5,51%, AVAX -4,30%, SOL -3,73%); kein neuer Katalysator, Aktien/ETFs/Rohstoffe vor Boersenoeffnung nicht handelbar; kein Trade.",
+        "portfolioValue": 687.59
+      },
+      {
+        "time": "09:10",
+        "note": "Keine Aenderung: Keine verlaessliche, datumsspezifisch bestaetigte Marktquelle fuer BTC oder Aktien/Rohstoffe gefunden (Suchergebnisse undatiert/widersprechend); letzter bestaetigter BTC-Stand (83.527 USD, -1,77%) unveraendert uebernommen; Xetra offen, NYSE noch nicht; kein Trade.",
+        "portfolioValue": 687.59
+      },
+      {
+        "time": "10:10",
+        "note": "Kein Trade. BTC-Kursupdate auf 81.948,51 USD (-3,63% seit Kauf, -2% in 24h laut Goodreturns), mehrfach bestaetigt durch Analytics Insight und Coingabbar (ETF-Abfluesse, staerkerer Dollar, Oelpreise hoch, CPI-Bericht 14.10. als naechster Katalysator); keine ueberzeugende frische Gelegenheit in Aktien/ETFs/Rohstoffen gefunden (Xetra offen, NYSE noch nicht geoeffnet).",
+        "portfolioValue": 674.59
+      },
+      {
+        "time": "11:10",
+        "note": "Keine Aenderung: Keine neuere verlaessliche BTC-Notierung als der letzte Stand (81.948,51 USD, -3,63% seit Kauf) gefunden; ein KuCoin-Snapshot von 04:24 MESZ zeigt einen kurzen Abtaucher auf ca. 81.000 USD mit Erholung auf ca. 82.080 USD (Hintergrund: hawkishe Fed-Kommentare von Cleveland-Fed-Praesidentin Hammack und ein gemeldeter Tanker-Zwischenfall nahe der Strasse von Hormuz), deckt sich aber grob mit dem bestehenden Wert, daher keine Aktualisierung der Position. Xetra ist offen, NYSE oeffnet erst um 15:30 MESZ; keine ueberzeugende frische Gelegenheit in Aktien/ETFs/Rohstoffen gefunden. Kein Trade.",
+        "portfolioValue": 674.59
+      },
+      {
+        "time": "12:08",
+        "note": "Kein Trade. BTC-Kursupdate auf 81.858,60 USD (-3,74% seit Kauf, -2,27% in 24h); neu: Chip-Aktien-Ausverkauf breitet sich von Seoul auf Asien aus (Kospi -5,5%, Nikkei >-2%), Nasdaq zuletzt -0,4%, S&P 500 flach - zusaetzliches Risk-off-Signal vor CPI-Bericht am 14.10. Xetra offen, aber keine ueberzeugende frische Kaufgelegenheit gefunden.",
+        "portfolioValue": 673.85
+      },
+      {
+        "time": "13:11",
+        "note": "Kein Trade, BTC-Kursupdate (83.109 USD, -2,26% seit Kauf, leichte Erholung); Chip-Aktien-Ausverkauf aus Asien belastet weiterhin US-Vorboerse (Nasdaq-Futures -0,6 bis -1%), Bankergebnissaison startet; keine ueberzeugende frische Kaufgelegenheit vor dem CPI-Bericht morgen gefunden.",
+        "portfolioValue": 684.15
+      },
+      {
+        "time": "14:09",
+        "note": "Kein Trade, BTC-Kursupdate (83.243 USD, -2,11% seit Kauf, fast unveraendert); US-Bankergebnissaison gestartet (JPM-Gewinn unter Erwartung, Aktie dennoch leicht im Plus), Chip-Ausverkauf in Asien haelt an, NYSE noch nicht geoeffnet; keine ueberzeugende frische Kaufgelegenheit vor dem CPI-Bericht morgen gefunden.",
+        "portfolioValue": 685.25
+      },
+      {
+        "time": "15:14",
+        "note": "Kein Trade, BTC-Kursupdate (83.157 USD, -2,21% seit Kauf, +0,76% in 24h); Bankergebnisse gemischt (JPM-Miss, Goldman-Beat deutlich, Wells Fargo schwaecher), Chip-Ausverkauf (NVDA/AMD) moderater als an Vortagen; NYSE noch nicht geoeffnet (15:30 MESZ); keine ueberzeugende frische Kaufgelegenheit vor dem CPI-Bericht morgen gefunden.",
+        "portfolioValue": 684.54
+      },
+      {
+        "time": "16:09",
+        "note": "Keine Aenderung: BTC-Kursupdate (83.458 USD, -1,85% seit Kauf); keine frische bestaetigte Katalysator-Meldung gefunden, Vorsicht vor morgigem CPI-Bericht ueberwiegt",
+        "portfolioValue": 687.02
+      },
+      {
+        "time": "17:09",
+        "note": "Kein Trade, BTC-Kursupdate (83.488 USD, +1,12% in 24h, -1,82% seit Kauf); Chip-Ausverkauf vertieft sich (Asien staerker betroffen), Bankergebnisse gemischt, kein neuer Kaufkatalysator vor dem morgigen CPI-Bericht",
+        "portfolioValue": 687.27
+      },
+      {
+        "time": "18:09",
+        "note": "Kein Trade, BTC-Kursupdate (83.401 USD, +0,65% in 24h, -1,92% seit Kauf); keine frische bestaetigte Katalysator-Meldung gefunden, Vorsicht vor morgigem CPI-Bericht ueberwiegt",
+        "portfolioValue": 686.55
+      },
+      {
+        "time": "19:08",
+        "note": "Kein Trade, BTC-Kursupdate (ca. 83.460 USD, -1,85% seit Kauf); NYSE noch offen, aber keine frische bestaetigte Katalysator-Meldung gefunden, Vorsicht vor morgigem CPI-Bericht (14.10., 8:30 Uhr ET) ueberwiegt",
+        "portfolioValue": 687.03
+      },
+      {
+        "time": "20:09",
+        "note": "Keine Aenderung: Keine verlaesslich frischere BTC-Notierung als der letzte Stand (ca. 83.460 USD, -1,85% seit Kauf) auffindbar; keine neue bestaetigte Katalysator-Meldung in Aktien/Chip-Sektor gefunden; Vorsicht vor morgigem CPI-Bericht ueberwiegt weiterhin; kein Trade.",
+        "portfolioValue": 687.03
+      },
+      {
+        "time": "21:09",
+        "note": "Kein Trade, BTC-Kursupdate via CoinGecko-API (83.126 USD, +0,93% in 24h, -2,24% seit Kauf); Chip-Ausverkauf und gemischte Bankergebnisse bleiben dominant, NYSE schliesst in Kuerze (22:00 MESZ); kein neuer Kaufkatalysator vor dem morgigen CPI-Bericht gefunden.",
+        "portfolioValue": 684.29
+      },
+      {
+        "time": "22:09",
+        "note": "Kein Trade, BTC-Kursupdate via CoinGecko-API (83.212 USD, +0,30% in 24h, -2,14% seit Kauf); grosse Altcoins (ETH/SOL/XRP/AVAX/ADA/LINK/SUI/HYPE/DOGE/LTC) alle leicht im Minus, kein Ausbruch; US-Boersen und Xetra bereits geschlossen; kein neuer Kaufkatalysator vor dem morgigen CPI-Bericht gefunden.",
+        "portfolioValue": 684.99
+      },
+      {
+        "time": "23:08",
+        "note": "Kein Trade, BTC-Kursupdate via CoinGecko-API (83.355 USD, +0,63% in 24h, -1,98% seit Kauf); Altcoins weiterhin leicht im Minus, kein Ausbruch; US-Boersen und Xetra geschlossen; kein neuer Kaufkatalysator vor dem morgigen CPI-Bericht gefunden.",
+        "portfolioValue": 686.17
+      }
+    ]
+  },
+  {
+    "date": "2026-10-14",
+    "marketOverview": "Breiter, unspezifischer Krypto-Risk-off seit dem letzten Lauf: BTC faellt auf 81.660 USD (-2,01% 24h), begleitet von gleichgerichteten Rueckgaengen bei ETH, SOL, XRP, ADA, AVAX, LINK, DOGE, HBAR, QNT, BCH (jeweils -2 bis -4% 24h) ohne erkennbaren Einzelkatalysator. US- und europaeische Boersen seit 22:00 MESZ geschlossen, nur Krypto handelbar.",
+    "decision": "Tagesbudget 14.10. bereits gutgeschrieben (keine erneute Gutschrift in diesem Lauf). Kein Trade. BTC-Position (pos-0018) auf 81.660 USD aktualisiert (-3,97% seit Kauf, weiterhin klar innerhalb der Halte-Toleranz). Keine Neuposition: breiter aber unspezifischer Krypto-Rueckgang ohne ueberzeugenden Einzelkatalysator, US-Boersen geschlossen. Weiterhin sehr hohes freies Kapital fuer eine spaetere, klarere Gelegenheit vorhanden.",
+    "reasoning": "Kein Trade: BTC (pos-0018) bei -3,97% seit Kauf, deutlich unterhalb der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%), daher gehalten. Der Rueckgang bei BTC und allen beobachteten Altcoins ist gleichgerichtet und unspezifisch (jeweils -2 bis -4% 24h) - kein Hinweis auf einen frischen, handelbaren Einzelkatalysator. Aktien/ETFs/Rohstoffe seit 22:00 MESZ nicht handelbar.",
+    "positionIds": [
+      "pos-0018"
+    ],
+    "portfolioValueEnd": 672.22,
+    "updates": [
+      {
+        "time": "00:09",
+        "note": "Kein Trade, BTC-Kursupdate (83.365 USD, +1,13% 24h, -1,96% seit Kauf); Tagesbudget 14.10. gutgeschrieben (+1000 EUR); kein ueberzeugender Krypto-Katalysator, Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten",
+        "portfolioValue": 686.25
+      },
+      {
+        "time": "01:09",
+        "note": "Keine Aenderung: BTC (pos-0018) bei 83.241 USD (-2,11% seit Kauf) weiterhin innerhalb der Halte-Toleranz; Altcoins (ETH/SOL/XRP/AVAX/ADA/LINK/DOGE/SUI/HYPE) nur kleine, unauffaellige Bewegungen ohne Katalysator; Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten; kein Trade",
+        "portfolioValue": 685.23
+      },
+      {
+        "time": "02:08",
+        "note": "Keine Aenderung: BTC (pos-0018) auf 83.176 USD aktualisiert (-2,19% seit Kauf, +2,17% 24h); breiter aber unspezifischer Krypto-Anstieg (+1-4%) ohne bestaetigten Einzelkatalysator, kein Trade",
+        "portfolioValue": 684.7
+      },
+      {
+        "time": "03:09",
+        "note": "Kein Trade: BTC (pos-0018) auf 83.289 USD aktualisiert (-2,05% seit Kauf, +2,14% 24h); Altcoins (ETH/SOL/XRP/AVAX/ADA/LINK/DOGE) weiterhin breit aber unspezifisch im Plus, kein Katalysator; Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten",
+        "portfolioValue": 685.63
+      },
+      {
+        "time": "04:09",
+        "note": "Keine Aenderung: BTC (pos-0018) auf 83.330 USD aktualisiert (-2,01% seit Kauf, +1,10% 24h); breiter aber unspezifischer Krypto-Anstieg (1-2%) ohne Katalysator; Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten; kein Trade",
+        "portfolioValue": 685.96
+      },
+      {
+        "time": "05:11",
+        "note": "Kein Trade: BTC (pos-0018) auf 83.679 USD aktualisiert (-1,59% seit Kauf, +1,00% 24h); kein ueberzeugendes Krypto-Setup gefunden, Altcoin-Datenlage unzuverlaessig; Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten; naechster Katalysator CPI 14:30 MESZ",
+        "portfolioValue": 688.84
+      },
+      {
+        "time": "06:09",
+        "note": "Kein Trade, BTC-Kursupdate (83.652 USD, +0,47% 24h, -1,63% seit Kauf); QNT auffaellig schwaecher (-5,9% 24h) aber ohne bestaetigten Katalysator; Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten, naechster Katalysator CPI 14:30 MESZ",
+        "portfolioValue": 688.62
+      },
+      {
+        "time": "07:09",
+        "note": "Kein Trade, BTC-Kursupdate (83.649 USD, +0,25% 24h, -1,63% seit Kauf), praktisch unveraendert; QNT weiterhin schwaecher (-6,4% 24h) ohne bestaetigten Katalysator; Aktien/ETFs/Rohstoffe vor Boersenoeffnung noch nicht handelbar, naechster Katalysator CPI 14:30 MESZ",
+        "portfolioValue": 688.59
+      },
+      {
+        "time": "08:11",
+        "note": "Kein Trade, BTC-Kursupdate (83.390 USD, -1,93% seit Kauf); QNT weiterhin schwaecher (-7,2% 24h) aber laut Recherche nur Nachbeben der eigenen Spike-Rally ohne neuen Katalysator; Aktien/ETFs/Rohstoffe vor Boersenoeffnung nicht handelbar; naechster Katalysator CPI 14:30 MESZ",
+        "portfolioValue": 686.46
+      },
+      {
+        "time": "09:08",
+        "note": "Kein Trade, BTC-Kursupdate (83.514 USD, -0,15% 24h, -1,79% seit Kauf); Xetra seit 09:00 MESZ offen, aber kein ueberzeugender Katalysator fuer Aktien gefunden; naechster Katalysator CPI 14:30 MESZ",
+        "portfolioValue": 687.48
+      },
+      {
+        "time": "10:10",
+        "note": "Kein Trade, BTC-Kursupdate (83.454 USD, -1,86% seit Kauf); Oelpreis zieht nach Huthi-Angriffen leicht an, Markt wartet auf CPI 14:30 MESZ; Xetra offen aber ohne Katalysator",
+        "portfolioValue": 686.99
+      },
+      {
+        "time": "11:09",
+        "note": "Kein Trade, BTC-Kursupdate (83.378 USD, -0,1% 24h, -1,95% seit Kauf); kein ueberzeugender neuer Katalysator gefunden; Xetra offen aber ohne Signal, naechster Katalysator CPI 14:30 MESZ",
+        "portfolioValue": 686.36
+      },
+      {
+        "time": "12:09",
+        "note": "Kein Trade, BTC-Kursupdate (83.042 USD, -0,58% 24h, -2,34% seit Kauf); kein ueberzeugender neuer Katalysator gefunden, Xetra offen aber ohne Signal; Markt wartet auf CPI 14:30 MESZ",
+        "portfolioValue": 683.59
+      },
+      {
+        "time": "13:09",
+        "note": "Kein Trade, BTC-Kursupdate (83.064 USD, -2,32% seit Kauf); CPI-Bericht (14:30 MESZ) noch nicht veroeffentlicht, bewusst kein Positionsaufbau unmittelbar davor; kein weiterer Katalysator gefunden",
+        "portfolioValue": 683.78
+      },
+      {
+        "time": "14:09",
+        "note": "Kein Trade, BTC-Kursupdate (83.564 USD, +0,4% 24h, -1,73% seit Kauf); CPI-Bericht (14:30 MESZ) noch nicht veroeffentlicht, bewusst kein Positionsaufbau unmittelbar davor; Xetra offen aber ohne Katalysator, US-Boersen noch geschlossen",
+        "portfolioValue": 687.89
+      },
+      {
+        "time": "15:09",
+        "note": "Kein Trade. CPI September heiss (3,7%/2,6% vs. Konsens 3,6%/2,5%); BTC-Kursupdate (83.400 USD, -1,92% seit Kauf); Marktreaktion bislang moderat, kein ueberzeugendes Signal; US-Boersen oeffnen erst 15:30 MESZ",
+        "portfolioValue": 686.54
+      },
+      {
+        "time": "16:09",
+        "note": "Kein Trade, BTC-Kursupdate (82.265 USD, -3,26% seit Kauf); breiter Risk-off nach heisser CPI (Krypto -2 bis -4%, S&P 500 -0,64% seit US-Marktoeffnung); kein ueberzeugender Einzelkatalysator fuer eine Neuposition",
+        "portfolioValue": 677.2
+      },
+      {
+        "time": "17:09",
+        "note": "Kein Trade, BTC-Kursupdate (82.200 USD, -3,33% seit Kauf); Erholungsversuch Richtung 83.000 USD gescheitert, breiter Risk-off nach heisser CPI haelt an; kein ueberzeugender Einzelkatalysator fuer eine Neuposition",
+        "portfolioValue": 676.66
+      },
+      {
+        "time": "18:13",
+        "note": "Kein Trade, BTC-Kursupdate (83.100 USD, -2,28% seit Kauf, leichte Erholung); einziger bestaetigter Einzeltitel-Katalysator heute (BAC-Gewinnverfehlung -5 bis -9%) ist echte Fundamentalverschlechterung statt Sell-the-news-Ueberreaktion, daher kein Dip-Kauf; hawkishes Makroumfeld (Fed-Hike-Kommentare, Renditen auf 5,27%) belastet weiter",
+        "portfolioValue": 684.07
+      },
+      {
+        "time": "19:08",
+        "note": "Kein Trade, BTC-Kursupdate (81.961 USD, -1,45% 24h, -3,61% seit Kauf); ASML-Zahlen stark ohne Abverkauf, CoreWeave -15% fundamental (Gartner-Warnung), Skydance -22,8% nur technischer Reset - kein Dip-Kauf-Setup",
+        "portfolioValue": 674.7
+      },
+      {
+        "time": "20:08",
+        "note": "Kein Trade, BTC-Kursupdate (81.585 USD, -1,96% 24h, -4,06% seit Kauf); anhaltender CPI-Risk-off ohne neuen Einzelkatalysator; US-Kassamarkt noch bis 22:00 MESZ offen aber ohne Dip-Kauf-Signal",
+        "portfolioValue": 671.6
+      },
+      {
+        "time": "21:09",
+        "note": "Kein Trade, BTC-Kursupdate (83.500 USD, Erholung von -4,06% auf -1,81% seit Kauf); kurz vor US-Handelsschluss (22:00 MESZ) kein neuer ueberzeugender Katalysator gefunden",
+        "portfolioValue": 687.36
+      },
+      {
+        "time": "22:08",
+        "note": "Kein Trade, BTC-Kursupdate (83.600 USD, -1,69% seit Kauf, Erholung haelt stabil); US-Kassamarkt seit 22:00 MESZ geschlossen, nur Krypto handelbar; CFTC-Rahmenvorschlag fuer Krypto-Spotmarkt und Strive-BTC-Kauf (235 Mio. USD) bekannt, aber kein frischer kursrelevanter Einzelkatalysator fuer eine Neuposition",
+        "portfolioValue": 688.18
+      },
+      {
+        "time": "23:09",
+        "note": "Kein Trade, BTC-Kursupdate (81.660 USD, -2,01% 24h, -3,97% seit Kauf); breiter aber unspezifischer Krypto-Rueckgang (ETH/SOL/XRP/ADA/AVAX/LINK/DOGE/HBAR/QNT/BCH jeweils -2 bis -4%) ohne Einzelkatalysator; US-Boersen seit 22:00 MESZ geschlossen",
+        "portfolioValue": 672.22
+      }
+    ]
+  },
+  {
+    "date": "2026-10-15",
+    "marketOverview": "Chip-Ausverkauf in Asien/US haelt an (Kospi -7,6% \"Black Thursday\", SK Hynix -11%, Samsung -9%, TSMC trotz Rekordgewinn -2 bis -4%), getrieben von heisser US-Inflation und AI-Finanzierungssorgen. US-Kassamarkt und Xetra sind spaetabends bereits geschlossen. BTC pendelt seitwaerts bei ca. 82.069 USD (CoinGecko, +0,5% 24h), ETH bei ca. 2.452,69 USD (+1,8%) und SOL bei ca. 105,57 USD (+1,56%) - moderate Erholungstendenz ohne neuen eigenstaendigen Kaufkatalysator. Die offene Position (pos-0018, -3,49%) bleibt klar innerhalb der Stop-Loss-Schwelle.",
+    "decision": "Tagesbudget 15.10. bereits gutgeschrieben (keine erneute Gutschrift). Kein Trade in diesem Lauf (23:09 MESZ): US-Kassamarkt und Xetra bereits geschlossen, Aktien/ETFs/Rohstoffe daher nicht handelbar; bei Krypto (BTC, ETH, SOL) nur leichte, unauffaellige Kursbewegungen ohne neuen ueberzeugenden Kaufkatalysator. Offene BTC-Position (pos-0018) bleibt gehalten und wird auf aktuellen Kurs (82.069 USD, -3,49%) aktualisiert.",
+    "reasoning": "Websuche und CoinGecko-Live-Abfrage bestaetigen den bereits bekannten Chip-/AI-Ausverkauf in Asien ohne neue eigenstaendige Entwicklung seit dem letzten Lauf. BTC, ETH und SOL zeigen nur moderate, unauffaellige 24h-Veraenderungen (+0,5% bis +1,8%) ohne frischen, mehrfach bestaetigten Katalysator fuer eine Neuposition. Da der US-Kassamarkt und Xetra um diese Uhrzeit bereits geschlossen sind, sind Aktien, ETFs und Rohstoffe ohnehin nicht handelbar. Die bestehende BTC-Position bleibt daher unveraendert gehalten, nur der Kurs wird aktualisiert (CoinGecko API, 82.069 USD, +0,50% 24h, -3,49% seit Kauf).",
+    "positionIds": [
+      "pos-0018"
+    ],
+    "portfolioValueEnd": 675.58,
+    "updates": [
+      {
+        "time": "00:09",
+        "note": "Tagesbudget 15.10. gutgeschrieben (+1000 EUR); kein Trade, BTC-Kursupdate (81.619 USD, -2,1% 24h, -4,02% seit Kauf); kein neuer Katalysator, Aktien/ETFs/Rohstoffe nachts nicht handelbar",
+        "portfolioValue": 671.88
+      },
+      {
+        "time": "01:08",
+        "note": "Keine Aenderung, BTC-Kursupdate (81.554 USD, -2,0% 24h, -4,09% seit Kauf)",
+        "portfolioValue": 671.34
+      },
+      {
+        "time": "02:08",
+        "note": "Keine Aenderung, BTC-Kursupdate (ca. 81.400 USD, weiterhin Krypto-Risk-off nach CPI, kein neuer Katalysator)",
+        "portfolioValue": 670.08
+      },
+      {
+        "time": "03:08",
+        "note": "Keine Aenderung, keine neue bestaetigte Kursquelle; anhaltender CPI-bedingter Krypto-Risk-off ohne neuen Katalysator",
+        "portfolioValue": 670.08
+      },
+      {
+        "time": "04:08",
+        "note": "Keine Aenderung, BTC weiterhin ca. 81.400 USD (keine neue bestaetigte frischere Kursquelle); US-Spot-Bitcoin-ETFs verzeichneten am 13.10. mit +176 Mio. USD ihren besten Einzeltag im Oktober nach der Vorwoche mit -681 Mio. USD Nettoabfluessen, insgesamt bleibt Oktober aber leicht negativ (-278 Mio. USD) - erster zaghafter Stabilisierungshinweis, aber kein ueberzeugender frischer Kaufkatalysator. Aktien/ETFs/Rohstoffe weiterhin nicht handelbar.",
+        "portfolioValue": 670.08
+      },
+      {
+        "time": "05:07",
+        "note": "Keine Aenderung, BTC-Kursupdate (81.117 USD, -3,1% 24h, -4,61% seit Kauf); kein neuer Katalysator, Aktien/ETFs/Rohstoffe nachts nicht handelbar",
+        "portfolioValue": 667.75
+      },
+      {
+        "time": "06:08",
+        "note": "Keine Aenderung, BTC-Kursupdate (ca. 81.050 USD, anhaltender CPI-Krypto-Risk-off ohne neuen Katalysator)",
+        "portfolioValue": 667.2
+      },
+      {
+        "time": "07:08",
+        "note": "Keine Aenderung, BTC-Kursupdate (81.420 USD, -2,67% 24h, -4,25% seit Kauf); anhaltender CPI-Krypto-Risk-off, Fed-Zinserhoehungssorgen gestiegen, kein neuer Katalysator",
+        "portfolioValue": 670.24
+      },
+      {
+        "time": "08:10",
+        "note": "Keine Aenderung, BTC-Kursupdate (80.617 USD, -3,26% 24h, -5,2% seit Kauf); anhaltender CPI-Krypto-Risk-off, kein neuer Katalysator, Boersen vor Eroeffnung",
+        "portfolioValue": 663.63
+      },
+      {
+        "time": "09:09",
+        "note": "Keine Aenderung, BTC-Kursupdate (ca. 81.200 USD, leichte Erholung auf -4,51% seit Kauf); Xetra seit 09:00 MESZ offen, US-Kassamarkt oeffnet erst 15:30 MESZ, kein ueberzeugender Kaufkatalysator gefunden",
+        "portfolioValue": 668.43
+      },
+      {
+        "time": "10:09",
+        "note": "Keine Aenderung, BTC-Kursupdate (ca. 81.400 USD, weiterhin CPI-/Fed-Risk-off, Oel und Dollar erhoeht; moegliche Warsh-Rede heute/morgen als Unsicherheitsfaktor); kein neuer Katalysator",
+        "portfolioValue": 670.08
+      },
+      {
+        "time": "11:10",
+        "note": "Keine Aenderung: BTC seitwaerts bei ca. 81.500 USD (-4,16% seit Kauf), Websuche liefert keinen neuen bestaetigten Katalysator; Xetra offen aber ohne auffaellige Bewegung, US-Kassamarkt oeffnet erst 15:30 MESZ; kein Trade.",
+        "portfolioValue": 670.9
+      },
+      {
+        "time": "12:09",
+        "note": "Keine Aenderung, BTC-Kursupdate (ca. 81.050 USD, -4,69% seit Kauf); bestaetigter Hintergrund: heisse Sept.-CPI (+3,7% YoY) vom 14.10. treibt Fed-Hike-Sorgen und Krypto-Liquidationen (~1 Mrd. USD), kein neuer Katalysator fuer Neuposition",
+        "portfolioValue": 667.2
+      },
+      {
+        "time": "13:09",
+        "note": "Keine Aenderung, BTC-Kursupdate (80.803 USD via CoinGecko, -3,0% 24h, -4,98% seit Kauf); kein neuer Katalysator, US-Kassamarkt oeffnet erst 15:30 MESZ",
+        "portfolioValue": 665.16
+      },
+      {
+        "time": "14:10",
+        "note": "Keine Aenderung, BTC-Kursupdate (80.848 USD, -3,3% 24h, -4,92% seit Kauf); breiter Risk-off (Fed-Hike-Angst, AI-Aktien-Ausverkauf) ohne neuen Kaufkatalysator",
+        "portfolioValue": 665.53
+      },
+      {
+        "time": "15:09",
+        "note": "Keine Aenderung, BTC-Kursupdate (ca. 80.850 USD, weiterhin unter 81k, anhaltender CPI-Risk-off); kein neuer Katalysator, US-Kassamarkt oeffnet erst 15:30 MESZ",
+        "portfolioValue": 665.55
+      },
+      {
+        "time": "16:09",
+        "note": "Keine Aenderung, kein Trade. BTC-Kursupdate (ca. 80.900 USD, -4,86% seit Kauf). Markt tech-led risk-off nach heisser PPI (+1,3% MoM) und AI-Kreditsorgen (Nasdaq -2%, S&P -1,1%); kein neuer Kaufkatalysator.",
+        "portfolioValue": 665.96
+      },
+      {
+        "time": "17:09",
+        "note": "Keine Aenderung, kein Trade. BTC-Kursupdate (ca. 80.800 USD, -4,98% seit Kauf). Markt weiterhin risk-off nach heisser PPI/Retail-Sales (Nasdaq-Futures -1,1%); kein neuer Kaufkatalysator gefunden.",
+        "portfolioValue": 665.14
+      },
+      {
+        "time": "18:08",
+        "note": "Keine Aenderung, kein Trade. BTC-Kursupdate (ca. 80.900 USD, -4,86% seit Kauf). Markt bleibt breit risk-off nach heisser Sept.-CPI/PPI (Nasdaq Mittwoch -1,9%, Chip-Sektor sechster Verlusttag in Folge, Nikkei -5%, Kospi-Circuit-Breaker); Fed-Hike-Wahrscheinlichkeit fuer Oktober bei ca. 48-51%. Kein neuer ueberzeugender Kaufkatalysator gefunden.",
+        "portfolioValue": 665.96
+      },
+      {
+        "time": "19:08",
+        "note": "Keine Aenderung, kein Trade. BTC-Kursupdate (ca. 82.350 USD, +0,99% 24h, -3,15% seit Kauf, leichte Erholung vom Tagestief). Dow stabil/leicht fester (Rotation in Defensivwerte), Nasdaq/Chipsektor weiterhin schwach; kein neuer ueberzeugender Kaufkatalysator gefunden.",
+        "portfolioValue": 677.93
+      },
+      {
+        "time": "20:09",
+        "note": "Keine Aenderung, kein Trade. BTC-Kursupdate (ca. 81.500 USD, -4,16% seit Kauf, leicht zurueckgefallen von -3,15%). Dow leicht fester, Nasdaq/Chipsektor weiterhin schwach nach heisser CPI; kein neuer ueberzeugender Kaufkatalysator gefunden.",
+        "portfolioValue": 670.9
+      },
+      {
+        "time": "21:09",
+        "note": "Keine Aenderung, kein Trade. Keine frischere bestaetigte BTC-Kursquelle als um 20:09 (weiterhin ca. 81.500 USD, -4,16%); Markt weiterhin gespalten (Dow fest, Nasdaq/Chipsektor schwach nach TSMC/Kospi-Ausverkauf); kein neuer Kaufkatalysator gefunden.",
+        "portfolioValue": 670.9
+      },
+      {
+        "time": "22:10",
+        "note": "Keine Aenderung, kein Trade. BTC-Kursupdate (82.292 USD via CoinGecko, +0,59% 24h, -3,23% seit Kauf). US-Kassamarkt bereits geschlossen (Aktien/ETFs/Rohstoffe nicht handelbar); anhaltender Chip-/AI-Ausverkauf in Asien (Kospi -7,6%, SK Hynix -11%) ohne neuen Kaufkatalysator fuer Krypto.",
+        "portfolioValue": 677.42
+      },
+      {
+        "time": "23:09",
+        "note": "Keine Aenderung, kein Trade. BTC-Kursupdate (82.069 USD via CoinGecko, +0,5% 24h, -3,49% seit Kauf); US-Kassamarkt und Xetra bereits geschlossen, Aktien/ETFs/Rohstoffe nicht handelbar; kein neuer Kaufkatalysator gefunden.",
+        "portfolioValue": 675.58
+      }
+    ]
+  },
+  {
+    "date": "2026-10-16",
+    "marketOverview": "Bitcoin pendelt am 16.10. zwischen rund 80.000 und 82.500 USD: Eine heisser als erwartete September-CPI-Zahl sowie starke PPI-Daten liessen die Fed-Zinserhoehungswahrscheinlichkeit fuer Oktober auf ca. 48% steigen und loesten erhebliche Liquidationen (teils ueber 900 Mio. USD, laut CoinGlass 939 Mio. USD mit 84% Long-Anteil) sowie einen breiten Risk-off-Schub bei Tech-/Chipwerten (CoreWeave-Anleihesorgen) und asiatischen Aktienmaerkten aus. Im spaeten Abendverlauf setzt sich die leichte Stabilisierung fort: BTC erholt sich weiter auf ca. 82.000-82.600 USD (nach einem Tagestief unter 80.000 USD), da die 10-Jahres-US-Rendite von 5,36% auf 5,1% zurueckging und institutionelle Nachrichten (Schwab direkter Bitcoin-Handel, Deutsche Bank Custody-Plaene) stuetzen; die Hormuz-Oelpraemie bleibt im Hintergrund relevant, ohne neuen eigenstaendigen Treiber.",
+    "decision": "Kein Trade im gesamten Tagesverlauf seit dem 00:08-Lauf. Tagesbudget 16.10. wurde einmalig gutgeschrieben (totalFreshCapitalEur bei 73.000 EUR, unveraendert seit dem Morgen-Lauf). Die offene BTC-Position (pos-0018) wurde ueber den Tag mehrfach im Kurs aktualisiert (zuletzt -3,51% seit Kauf bei 85.035 USD, weitere leichte Erholung vom Tagestief bei -4,75%); kein Verkauf, da kein eindeutiger Stop-Loss- oder Take-Profit-Trigger erreicht wurde und keine neue, ueberzeugende Gegenthese vorliegt. Keine neuen Positionen, da ausserhalb der Boersenzeiten (Xetra/NYSE/Nasdaq geschlossen, Wochenende steht an) nur Krypto handelbar war und sich dort kein frischer, eigenstaendiger Katalysator zeigte - die bekannten Themen (CPI/Fed-Zinsangst, Chip-/AI-Schuldensorgen, Hormuz-Oelkonflikt, Liquidationswelle) sind bereits eingepreist.",
+    "reasoning": "Freies Kapital ist mit rund 71.638 EUR sehr hoch (73.000 EUR Gesamtkapital minus 18.200 EUR investiert plus 16.838,49 EUR aus geschlossenen Positionen zurueckgeflossen), es besteht also kein Kapitalmangel. Dennoch wird passend zum disziplinierten, kleinteiligen Positionsgroessen-Muster (bisher durchgehend 400-1000 EUR pro Position) nicht investiert, solange kein konkreter, mehrfach bestaetigter Katalysator (fundamentale Ueberraschung, bestaetigter technischer/institutioneller Ausbruch) vorliegt. Ein grosses freies Kapitalpolster rechtfertigt keine Investition ohne Edge. BTC bleibt gehalten, da die aktuelle Schwaeche (-3,51%) auf bereits bekannten, makrogetriebenen Risk-off-Faktoren beruht und sich zum Abend hin weiter leicht erholt (Renditen gefallen, institutionelle Unterstuetzung), ein Stop-Loss (etabliert bei ca. -6,5 bis -7,5%) wurde nicht erreicht.",
+    "positionIds": [
+      "pos-0018"
+    ],
+    "portfolioValueEnd": 675.43,
+    "updates": [
+      {
+        "time": "00:08",
+        "note": "Tagesbudget 16.10. gutgeschrieben (+1000 EUR); kein Trade, BTC-Kursupdate (82.383 USD, +1,0% 24h, -3,12% seit Kauf); kein neuer Katalysator, Aktien/ETFs/Rohstoffe nachts nicht handelbar",
+        "portfolioValue": 678.17
+      },
+      {
+        "time": "01:08",
+        "note": "Keine Aenderung; BTC-Kursupdate (82.263 USD, +0,9% 24h, -3,26% seit Kauf); kein neuer Katalysator, Aktien/ETFs/Rohstoffe nachts nicht handelbar",
+        "portfolioValue": 677.18
+      },
+      {
+        "time": "02:08",
+        "note": "Keine Aenderung; BTC-Kursupdate (82.220 USD, +0,64% 24h, -3,31% seit Kauf); kein neuer Katalysator, Aktien/ETFs/Rohstoffe nachts nicht handelbar",
+        "portfolioValue": 676.82
+      },
+      {
+        "time": "03:08",
+        "note": "Keine Aenderung; BTC-Kursupdate (82.218 USD, +0,65% 24h, -3,31% seit Kauf); kein neuer Katalysator, Aktien/ETFs/Rohstoffe nachts nicht handelbar",
+        "portfolioValue": 676.81
+      },
+      {
+        "time": "04:08",
+        "note": "Keine Aenderung; BTC-Kursupdate (81.997 USD, +0,48% 24h, -3,57% seit Kauf); kein neuer Katalysator, Aktien/ETFs/Rohstoffe nachts nicht handelbar",
+        "portfolioValue": 674.99
+      },
+      {
+        "time": "05:08",
+        "note": "Keine Aenderung; BTC-Kursupdate (82.015 USD, +1,0% 24h, -3,55% seit Kauf); NEAR/ZEC staerker (+10%), aber kein frischer Katalysator - kein Kauf, Aktien/ETFs/Rohstoffe nachts nicht handelbar",
+        "portfolioValue": 675.14
+      },
+      {
+        "time": "06:08",
+        "note": "Keine Aenderung; BTC-Kursupdate (81.993 USD, +1,46% 24h, -3,58% seit Kauf); keine neue Opportunitaet, Aktien/ETFs/Rohstoffe nachts nicht handelbar",
+        "portfolioValue": 674.96
+      },
+      {
+        "time": "07:08",
+        "note": "Keine Aenderung; BTC-Kursupdate (82.267 USD, +1,12% 24h, -3,26% seit Kauf); keine neue Opportunitaet, Aktien/ETFs/Rohstoffe weiterhin nicht handelbar",
+        "portfolioValue": 677.21
+      },
+      {
+        "time": "08:12",
+        "note": "Keine Aenderung; BTC-Kursupdate (81.976 USD, +1,67% 24h, -3,60% seit Kauf); kein neuer Katalysator, Aktien/ETFs/Rohstoffe noch nicht handelbar (Xetra oeffnet in Kuerze)",
+        "portfolioValue": 674.82
+      },
+      {
+        "time": "09:08",
+        "note": "Keine Aenderung; BTC-Kursupdate (82.111 USD, +1,6% 24h, -3,44% seit Kauf); Xetra seit 09:00 offen, aber keine ueberzeugende Gelegenheit; Chipwerte belastet (Philadelphia Semiconductor Index 7. Tag im Minus trotz starker TSMC-Zahlen)",
+        "portfolioValue": 675.93
+      },
+      {
+        "time": "10:08",
+        "note": "Keine Aenderung; BTC-Kursupdate (82.223 USD, +1,19% 24h, -3,31% seit Kauf); Houthi/Aramco-Oelstory bereits 1-2 Tage alt und eingepreist, kein frischer Trade-Trigger",
+        "portfolioValue": 676.85
+      },
+      {
+        "time": "11:10",
+        "note": "Keine Aenderung; BTC-Kursupdate (ca. 82.050 USD, -3,51% seit Kauf); Chip-/AI-Sektor-Rotation und Oel-Geopolitik bereits bekannt und eingepreist, kein neuer Trade-Trigger",
+        "portfolioValue": 675.43
+      },
+      {
+        "time": "12:08",
+        "note": "Keine Aenderung; BTC-Kursupdate (ca. 81.950 USD, -3.63% seit Kauf); CoreWeave/AI-Schulden-Sorgen, heisse US-Inflation und Hormuz-Eskalation bereits bekannt und eingepreist, kein neuer Trade-Trigger",
+        "portfolioValue": 674.6
+      },
+      {
+        "time": "13:08",
+        "note": "Keine Aenderung; BTC-Kursupdate (82.226 USD, +1,72% 24h, -3,30% seit Kauf); Dow erholte sich Donnerstag um +1,08%, Tech-Selloff laut Futures am Freitagmorgen etwas schwaecher, aber Chip-Glut-Sorgen (Seagate, WDC, SK Hynix) und Hormuz/Oel-Thema bereits bekannt und eingepreist; kein frischer eigenstaendiger Katalysator, kein Trade",
+        "portfolioValue": 676.88
+      },
+      {
+        "time": "14:09",
+        "note": "Keine Aenderung; BTC-Kursupdate (82.307 USD, +1,86% 24h, -3,21% seit Kauf); keine neue Opportunitaet, bekannte Themen (Inflation/Fed, Chip-Sektor, Hormuz) bereits eingepreist",
+        "portfolioValue": 677.54
+      },
+      {
+        "time": "15:11",
+        "note": "Keine Aenderung; BTC-Kursupdate (81.950 USD, -3,63% seit Kauf); keine neue Opportunitaet, bekannte Themen (Fed, Chip-/AI-Schulden, Hormuz) bereits eingepreist, Xetra offen aber kein frischer Trigger",
+        "portfolioValue": 674.6
+      },
+      {
+        "time": "16:11",
+        "note": "Keine Aenderung; BTC-Kursupdate (ca. 82.150 USD, -3,39% seit Kauf); keine neue Opportunitaet, bekannte Themen (Fed/Warsh-Zinsausblick, Chip-/AI-Schuldensorgen, Hormuz-Oelkonflikt) weiterhin eingepreist, kein frischer eigenstaendiger Trigger identifiziert",
+        "portfolioValue": 676.25
+      },
+      {
+        "time": "17:11",
+        "note": "Keine Aenderung, kein Trade. BTC-Kursupdate (ca. 82.100 USD, -3,45% seit Kauf); verlaessliche tagesaktuelle Zusatzdaten begrenzt verfuegbar, bekannte Themen (CPI/Fed-Zinswette, Chip-/AI-Schuldensorgen, Hormuz-Oelkonflikt) weiterhin eingepreist, kein frischer Katalysator identifiziert",
+        "portfolioValue": 675.83
+      },
+      {
+        "time": "18:09",
+        "note": "Keine Aenderung, kein Trade. BTC-Kursupdate (ca. 82.180 USD, -3,36% seit Kauf); Xetra seit 17:30 geschlossen, NYSE/Nasdaq noch offen, aber kein frischer Katalysator identifiziert",
+        "portfolioValue": 676.51
+      },
+      {
+        "time": "19:09",
+        "note": "Keine Aenderung, kein Trade. BTC-Kursupdate (ca. 81.500 USD, -4,16% seit Kauf); Nasdaq/Chipwerte setzen Abverkauf fort (CoreWeave-Anleihen weiterhin unter Druck, Rendite ~15%), Hormuz-Oelpraemie und Fed-Zinsunsicherheit weiterhin bekannt und eingepreist, kein frischer eigenstaendiger Katalysator identifiziert",
+        "portfolioValue": 670.91
+      },
+      {
+        "time": "20:09",
+        "note": "Kein Trade, BTC-Kursupdate (-4,53%), weiterhin keine frischen Katalysatoren seit dem 19:09-Lauf",
+        "portfolioValue": 668.32
+      },
+      {
+        "time": "21:10",
+        "note": "Kein Trade, BTC-Kursupdate (-4,75%), weiterhin keine frischen Katalysatoren seit dem 20:09-Lauf",
+        "portfolioValue": 666.74
+      },
+      {
+        "time": "22:08",
+        "note": "Kein Trade, BTC-Kursupdate (-4,06%, leichte Erholung von -4,75%); hoehere September-CPI und Fed-Zinsangst bleiben Hauptthema, teils durch fallende Anleiherenditen (10J von 5,36% auf 5,1%) und Schwab/Deutsche-Bank-Institutionalisierungsnews gedaempft, kein frischer eigenstaendiger Katalysator. Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten (Xetra und NYSE/Nasdaq geschlossen).",
+        "portfolioValue": 671.59
+      },
+      {
+        "time": "23:08",
+        "note": "Kein Trade, BTC-Kursupdate (ca. 82.050 USD, -3,51% seit Kauf, weitere leichte Erholung); Markt verarbeitet weiterhin dieselbe CPI/PPI-Fed-Zinsangst-Story vom Vortag/Nachmittag, kein frischer eigenstaendiger Katalysator. Wochenende steht an, Aktien/ETFs/Rohstoffe bleiben ausserhalb der Handelszeiten (Xetra und NYSE/Nasdaq geschlossen), nur Krypto handelbar.",
+        "portfolioValue": 675.43
+      }
+    ]
+  },
+  {
+    "date": "2026-10-17",
+    "marketOverview": "Krypto handelt am Samstagabend weiter in ruhigem, flachem Markt: Bitcoin bei ca. 81.464 USD (CoinGecko live, -0,08% 24h) - nahezu unveraendert zum Vorlauf; ETH 2.421,91 USD (-0,86%), SOL 104,09 USD (-0,61%), XRP 1,30 USD (-1,40%), AVAX 9,88 USD (-2,83%), DOGE 0,0797 USD (-1,21%), LINK 12,00 USD (-3,38%), ADA 0,2216 USD (-1,56%). Der vormals breite, milde Krypto-Risk-off hat sich spuerbar abgeschwaecht; kein mehrfach bestaetigter frischer Einzelkatalysator auffindbar; Aktien/ETFs/Rohstoffe sind am Samstag ohnehin nicht handelbar.",
+    "decision": "Kein Trade im 05:07-Lauf. Tagesbudget 17.10. wurde bereits im 00:09-Lauf gutgeschrieben (lastGrantDate = 2026-10-17, keine erneute Gutschrift). Die offene BTC-Position (pos-0018) wurde im Kurs aktualisiert (81.347 USD, -4,34% seit Kauf bei 85.035 USD); kein Verkauf, da weder Stop-Loss (-6,5 bis -7,5%) noch Take-Profit (+7-9%) erreicht sind. Keine neue Position, da sich der Kryptomarkt weiterhin in ruhigem Seitwaertshandel ohne ueberzeugenden frischen Katalysator befindet; Aktien/ETFs/Rohstoffe sind am Wochenende nachts ohnehin nicht handelbar. | 06:07-Lauf: Weiterhin kein Trade. BTC-Position (pos-0018) nur im Kurs aktualisiert (81.521 USD, -4,13% seit Kauf bei 85.035 USD); weder Stop-Loss (-6,5 bis -7,5%) noch Take-Profit (+7-9%) erreicht. Kein ueberzeugender frischer Katalysator im ruhigen Wochenend-Kryptomarkt, daher keine neue Position trotz freiem Kapital von ca. 72.638 EUR. | 08:10-Lauf: Weiterhin kein Trade. BTC-Position (pos-0018) im Kurs leicht nach oben aktualisiert (ca. 82.400 USD, -3,10% seit Kauf bei 85.035 USD) im Einklang mit der leichten Erholung laut Yahoo Finance/Fortune. Kein Stop-Loss, kein Take-Profit erreicht. Kein mehrfach bestaetigter frischer Einzelkatalysator fuer eine neue Position trotz freiem Kapital von ca. 72.645 EUR; das umstrittene MSCI-Indexthema ist kein handelbarer Katalysator. | 09:10-Lauf: Weiterhin kein Trade. BTC-Position (pos-0018) im Kurs aktualisiert (ca. 82.450 USD, -3.04% seit Kauf bei 85.035 USD); weder Stop-Loss noch Take-Profit erreicht. Research (Rektober-Liquidationskaskade, anhaltende Spot-ETF-Abfluesse seit 6.10., hohe Fed-Pause-Wahrscheinlichkeit zum 28.10.) zeigt ein insgesamt risikoaverses Umfeld ohne mehrfach bestaetigten Einzelkatalysator fuer Altcoins; daher keine neue Position trotz freiem Kapital von ca. 72.638 EUR. | 10:08-Lauf: Weiterhin kein Trade. BTC-Position (pos-0018) im Kurs leicht nach unten aktualisiert (CoinGecko live: 81.634 USD, -0,72% 24h, -4,00% seit Kauf bei 85.035 USD); weder Stop-Loss (-6,5 bis -7,5%) noch Take-Profit (+7-9%) erreicht. Keine frische, mehrfach bestaetigte Nachrichtenlage fuer Altcoins auffindbar (ruhiger Samstagvormittag); daher keine neue Position trotz freiem Kapital von ca. 72.638 EUR. Aktien/ETFs/Rohstoffe am Wochenende ohnehin nicht handelbar. | 11:10-Lauf: Weiterhin kein Trade. BTC-Position (pos-0018) im Kurs aktualisiert (Kraken live: 81.606,90 USD, -4,03% seit Kauf bei 85.035 USD); weder Stop-Loss (-6,5 bis -7,5%) noch Take-Profit (+7-9%) erreicht. Live-Daten (Kraken) zeigen bei SOL, XRP, AVAX, DOGE, ETH nur minimale Bewegungen ohne klaren Ausbruch; keine frische, mehrfach bestaetigte Katalysator-Nachricht fuer eine neue Position gefunden. Aktien/ETFs/Rohstoffe am Samstag ohnehin nicht handelbar; trotz freiem Kapital von ca. 72.638 EUR keine neue Position. | 12:08-Lauf: Weiterhin kein Trade. BTC-Position (pos-0018) im Kurs aktualisiert (CoinGecko live: 81.499 USD, -0,38% 24h, -4,16% seit Kauf bei 85.035 USD); weder Stop-Loss (-6,5 bis -7,5%) noch Take-Profit (+7-9%) erreicht. Breiter, aber milder Krypto-Risk-off ueber SOL/XRP/AVAX/DOGE/LINK/ADA (jeweils -1 bis -3,3% in 24h) ohne mehrfach bestaetigten frischen Einzelkatalysator fuer eine neue Position; Aktien/ETFs/Rohstoffe am Samstag ohnehin nicht handelbar. | 13:08-Lauf: Weiterhin kein Trade. BTC-Position (pos-0018) im Kurs aktualisiert (CoinGecko live: 81.573 USD, -0,80% 24h, -4,07% seit Kauf bei 85.035 USD); weder Stop-Loss (-6,5 bis -7,5%) noch Take-Profit (+7-9%) erreicht. Breiter, milder Krypto-Risk-off setzt sich fort (SOL -1,7%, XRP -2,5%, AVAX -3,4%, DOGE -2,3%, LINK -3,4%, ADA -3,3% in 24h) ohne mehrfach bestaetigten frischen Einzelkatalysator fuer eine neue Position; Aktien/ETFs/Rohstoffe am Samstag ohnehin nicht handelbar. | 14:08-Lauf: Weiterhin kein Trade. BTC-Position (pos-0018) im Kurs aktualisiert (CoinGecko/alternative.me live: 81.466 USD, -1,0% 24h, -4,2% seit Kauf bei 85.035 USD); weder Stop-Loss (-6,5 bis -7,5%) noch Take-Profit (+7-9%) erreicht. Breiter, milder Krypto-Risk-off setzt sich fort (Gesamtmarktkap. -4,09% 24h, Fear&Greed 55), kein mehrfach bestaetigter frischer Einzelkatalysator fuer eine neue Position; Aktien/ETFs/Rohstoffe am Samstag ohnehin nicht handelbar. | 15:08-Lauf: Weiterhin kein Trade. BTC-Position (pos-0018) im Kurs aktualisiert (CoinGecko live: 81.471 USD, -0,52% 24h, -4,19% seit Kauf bei 85.035 USD); weder Stop-Loss (-6,5 bis -7,5%) noch Take-Profit (+7-9%) erreicht. Breiter, milder Krypto-Risk-off setzt sich fort ohne mehrfach bestaetigten frischen Einzelkatalysator fuer eine neue Position; Aktien/ETFs/Rohstoffe am Samstag nicht handelbar; trotz freiem Kapital von ca. 72.638 EUR keine neue Position. | 16:09-Lauf: Weiterhin kein Trade. BTC-Position (pos-0018) im Kurs aktualisiert (CoinGecko live: 81.403 USD, -0,60% 24h, -4,27% seit Kauf bei 85.035 USD); weder Stop-Loss (-6,5 bis -7,5%) noch Take-Profit (+7-9%) erreicht; breiter, milder Krypto-Risk-off haelt an (Bitcoin-Spot-ETFs zuletzt mit Netto-Abfluessen) ohne frischen, mehrfach bestaetigten Einzelkatalysator; Aktien/ETFs/Rohstoffe am Samstag nicht handelbar; trotz freiem Kapital von ca. 72.638 EUR keine neue Position. | 17:09-Lauf: Weiterhin kein Trade. BTC-Position (pos-0018) im Kurs aktualisiert (CoinGecko live: 81.464 USD, -0,08% 24h, -4,20% seit Kauf bei 85.035 USD); weder Stop-Loss (-6,5 bis -7,5%) noch Take-Profit (+7-9%) erreicht. Markt hat sich beruhigt (nahezu flach), kein mehrfach bestaetigter frischer Katalysator fuer eine neue Position; Aktien/ETFs/Rohstoffe am Samstag nicht handelbar. Keine neue Position trotz freiem Kapital von ca. 72.638 EUR.",
+    "reasoning": "Kryptomarkt beruhigt sich zunehmend (BTC nahezu flach, breite Bewegung unter -3% ueber den Tag), ohne neuen ueberzeugenden Katalysator. Offene BTC-Position bleibt innerhalb der Stop-Loss/Take-Profit-Bandbreite, daher gehalten. Keine Neuinvestition ohne klare Opportunity; Tagesbudget bereits gutgeschrieben.",
+    "positionIds": [
+      "pos-0018"
+    ],
+    "portfolioValueEnd": 670.6,
+    "updates": [
+      {
+        "time": "00:09",
+        "note": "Tagesbudget 17.10. gutgeschrieben (+1000 EUR); kein Trade, BTC-Kursupdate (81.661 USD, -0,9% 24h, -3,97% seit Kauf); kein neuer Katalysator, Wochenende nachts nur Krypto handelbar",
+        "portfolioValue": 672.23
+      },
+      {
+        "time": "01:08",
+        "note": "Keine Aenderung; BTC-Kursupdate (81.684 USD, -0,65% 24h, -3,94% seit Kauf); ruhiger Seitwaertshandel, kein neuer Katalysator, Wochenende nachts nur Krypto handelbar",
+        "portfolioValue": 672.41
+      },
+      {
+        "time": "02:08",
+        "note": "Keine Änderung; BTC-Kursupdate (81.520 USD, -0,88% 24h, -4,13% seit Kauf); ruhiger Seitwärtshandel, kein neuer Katalysator, Wochenende nachts nur Krypto handelbar",
+        "portfolioValue": 671.06
+      },
+      {
+        "time": "03:08",
+        "note": "Keine Aenderung; BTC-Kursupdate (81.477 USD, -0,91% 24h, -4,18% seit Kauf); weiterhin ruhiger Seitwaertshandel ohne neuen Katalysator, Wochenende nachts nur Krypto handelbar",
+        "portfolioValue": 670.71
+      },
+      {
+        "time": "04:08",
+        "note": "Keine Aenderung; BTC-Kursupdate (81.518 USD, -0,58% 24h, -4,14% seit Kauf); weiterhin ruhiger Seitwaertshandel ohne neuen Katalysator, Wochenende nachts nur Krypto handelbar",
+        "portfolioValue": 671.05
+      },
+      {
+        "time": "05:07",
+        "note": "Keine Aenderung; BTC-Kursupdate (81.347 USD, -0,80% 24h, -4,34% seit Kauf); weiterhin ruhiger Seitwaertshandel ohne neuen Katalysator, Wochenende nachts nur Krypto handelbar",
+        "portfolioValue": 669.64
+      },
+      {
+        "time": "06:07",
+        "note": "Keine Aenderung; BTC-Kursupdate (81.521 USD, -0,89% 24h, -4,13% seit Kauf); ruhiger Seitwaertshandel, kein neuer Katalysator, Samstagvormittag nur Krypto handelbar",
+        "portfolioValue": 671.07
+      },
+      {
+        "time": "08:10",
+        "note": "Keine Aenderung; BTC-Kursupdate (82.400 USD, leichte Erholung laut Yahoo Finance/Fortune, -3,10% seit Kauf); kein ueberzeugender Katalysator fuer Neuposition trotz grossem freiem Kapital",
+        "portfolioValue": 678.31
+      },
+      {
+        "time": "09:10",
+        "note": "Keine Aenderung; BTC-Kursupdate (82.450 USD. -3.04% seit Kauf bei 85.035 USD); kein Stop-Loss (-6.5 bis -7.5%). kein Take-Profit (+7-9%) erreicht; anhaltende ETF-Abfluesse und die 'Rektober'-Liquidationskaskade (6.-15.10.) sowie hohe Wahrscheinlichkeit (ca. 80%) einer Fed-Zinspause am 28.10. belasten die Risikostimmung. ohne dass ein frischer. mehrfach bestaetigter Einzelkatalysator fuer SOL/XRP/AVAX/LINK oder eine neue Position erkennbar ist; Wochenende. nur Krypto handelbar. trotz freiem Kapital von ca. 72.638 EUR keine neue Position.",
+        "portfolioValue": 678.72
+      },
+      {
+        "time": "10:08",
+        "note": "Keine Aenderung; BTC-Kursupdate (CoinGecko live: 81.634 USD, -0,72% 24h, -4,00% seit Kauf bei 85.035 USD); kein Stop-Loss, kein Take-Profit erreicht; keine frische bestaetigte Katalysator-Nachricht fuer Altcoins; Wochenende, nur Krypto handelbar; trotz freiem Kapital von ca. 72.638 EUR keine neue Position.",
+        "portfolioValue": 672.0
+      },
+      {
+        "time": "11:10",
+        "note": "Keine Aenderung; BTC-Kursupdate (Kraken live: 81.606,90 USD, -4,03% seit Kauf bei 85.035 USD); SOL/XRP/AVAX/DOGE/ETH nur minimale Bewegungen ohne Ausbruch; kein ueberzeugender Katalysator fuer Neuposition trotz freiem Kapital von ca. 72.638 EUR",
+        "portfolioValue": 671.78
+      },
+      {
+        "time": "12:08",
+        "note": "Keine Aenderung; BTC-Kursupdate (CoinGecko live: 81.499 USD, -0,38% 24h, -4,16% seit Kauf bei 85.035 USD); breiter, aber milder Krypto-Risk-off (SOL -1,1%, XRP -2,2%, AVAX -3,3%, DOGE -2,2%, LINK -2,8%, ADA -3,3%), kein mehrfach bestaetigter frischer Einzelkatalysator; Aktien/ETFs/Rohstoffe am Samstag nicht handelbar; trotz freiem Kapital von ca. 72.638 EUR keine neue Position.",
+        "portfolioValue": 670.89
+      },
+      {
+        "time": "13:08",
+        "note": "Keine Aenderung; BTC-Kursupdate (CoinGecko live: 81.573 USD, -0,80% 24h, -4,07% seit Kauf bei 85.035 USD); breiter, milder Krypto-Risk-off (SOL -1,7%, XRP -2,5%, AVAX -3,4%, DOGE -2,3%, LINK -3,4%, ADA -3,3%), kein mehrfach bestaetigter frischer Einzelkatalysator; Aktien/ETFs/Rohstoffe am Samstag nicht handelbar; trotz freiem Kapital von ca. 72.638 EUR keine neue Position.",
+        "portfolioValue": 671.5
+      },
+      {
+        "time": "14:08",
+        "note": "Keine Aenderung; BTC-Kursupdate (CoinGecko/alternative.me live: 81.466 USD, -1,0% 24h, -4,2% seit Kauf bei 85.035 USD); breiter, milder Krypto-Risk-off haelt an (Gesamtmarktkap. -4,09% 24h, SOL -1,8%, XRP -2,8%, AVAX -3,3%, DOGE -2,4%, LINK -4,1%, ADA -3,5%, ETH -1,5%), Fear&Greed bei 55 (Greed, kein Extremwert); kein mehrfach bestaetigter frischer Einzelkatalysator; Aktien/ETFs/Rohstoffe am Samstag nicht handelbar; trotz freiem Kapital von ca. 72.638 EUR keine neue Position.",
+        "portfolioValue": 670.62
+      },
+      {
+        "time": "15:08",
+        "note": "Keine Aenderung; BTC-Kursupdate (CoinGecko live: 81.471 USD, -0,52% 24h, -4,19% seit Kauf bei 85.035 USD); breiter, milder Krypto-Risk-off haelt an, kein mehrfach bestaetigter frischer Einzelkatalysator; Aktien/ETFs/Rohstoffe am Samstag nicht handelbar; trotz freiem Kapital von ca. 72.638 EUR keine neue Position.",
+        "portfolioValue": 670.66
+      },
+      {
+        "time": "16:09",
+        "note": "Keine Aenderung; BTC-Kursupdate (81.403 USD, -0,60% 24h, -4,27% seit Kauf); anhaltender milder Krypto-Risk-off, kein neuer Katalysator, Samstag nur Krypto handelbar",
+        "portfolioValue": 670.1
+      },
+      {
+        "time": "17:09",
+        "note": "Keine Aenderung; BTC-Kursupdate (81.464 USD, -0,08% 24h, -4,20% seit Kauf); Markt beruhigt sich (nahezu flach), kein neuer Katalysator, Samstag nur Krypto handelbar",
+        "portfolioValue": 670.6
       }
     ]
   }
