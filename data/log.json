@@ -9481,13 +9481,13 @@
   },
   {
     "date": "2026-10-18",
-    "marketOverview": "Bitcoin pendelt am Sonntagmorgen weiterhin eng um 81.700 USD (Spanne laut CryptoTicker 80.655-81.961 USD, CoinGecko 81.689 USD, +0,18% 24h) - die Liquidationswelle vom 15.10. kuehlt weiter ab, On-Chain-Daten (CryptoQuant) zeigen ein gemischtes Bild aus rueckgaengigen Exchange-Zuflüssen aelterer Halter und zwei grossen Whale-Transfers (~307 Mio. USD). Auffaelligster Mover ist SAND (+16% laut CoinCodex), jedoch ohne einen heute datierten, mehrfach bestaetigten frischen Katalysator (naechste Nachfrage nach einer fruehen Oktober-Meldung zu Upbit/Bithumb-Caution-Entfernung, bei stark negativer Funding-Rate - Crowded-Short-Risiko). Aktien/ETFs/Rohstoffe bleiben am Sonntag nicht handelbar.",
-    "decision": "00:08- bis 09:08-Lauf: Tagesbudget 18.10. bereits um 00:08 gutgeschrieben (+1000 EUR, totalFreshCapitalEur 75.000 EUR). Kein Trade: BTC-Position (pos-0018) nur im Kurs aktualisiert (zuletzt 81.689 USD, -3,93% seit Kauf bei 85.035 USD); weder Stop-Loss (-6,5 bis -7,5%) noch Take-Profit (+7-9%) erreicht. Kein ueberzeugender, mehrfach bestaetigter frischer Katalysator (SAND-Move ohne heutigen Trigger, Crowded-Short-Risiko); Aktien/ETFs/Rohstoffe sonntags ohnehin nicht handelbar.",
-    "reasoning": "BTC-Position bleibt innerhalb der Stop-Loss/Take-Profit-Bandbreite und wird gehalten; Kurs pendelt weiter in der etablierten Range 80.600-82.000 USD ohne klaren Ausbruch, Liquidationen kuehlen seit dem 15.10.-Schock weiter ab. Trotz hohem freiem Kapital (~73.600 EUR) kein neuer Kauf: der einzige auffaellige Mover (SAND +16%) hat keinen heute datierten, mehrfach bestaetigten Katalysator und zeigt mit stark negativer Funding-Rate ein erhoehtes Short-Squeeze-/Ruecksetzer-Risiko statt einer soliden fundamentalen Basis; Aktien/ETFs/Rohstoffe bleiben bis Montag nicht handelbar.",
+    "marketOverview": "Bitcoin notiert am Sonntagvormittag per CoinGecko-Live-API bei 81.598 USD (-0,03% 24h) - weiterhin in der engen Range der letzten Tage (80.600-82.000 USD), die Liquidationswelle vom 15.10. bleibt abgekuehlt. Ethereum (2.405,78 USD, -1,05%) und Solana (103,15 USD, -1,68%) leicht schwaecher. Keine verlaesslichen, heute datierten frischen Katalysatoren (Makro/Politik/Geopolitik) per Websuche auffindbar; Aktien/ETFs/Rohstoffe bleiben sonntags nicht handelbar.",
+    "decision": "00:08- bis 10:08-Lauf: Tagesbudget 18.10. bereits um 00:08 gutgeschrieben (+1000 EUR, totalFreshCapitalEur 75.000 EUR). Kein Trade: BTC-Position (pos-0018) nur im Kurs aktualisiert (zuletzt 81.598 USD, -4,04% seit Kauf bei 85.035 USD); weder Stop-Loss (-6,5 bis -7,5%) noch Take-Profit (+7-9%) erreicht. Kein ueberzeugender, mehrfach bestaetigter frischer Katalysator fuer einen Neukauf; Aktien/ETFs/Rohstoffe sonntags ohnehin nicht handelbar.",
+    "reasoning": "BTC-Position bleibt innerhalb der Stop-Loss/Take-Profit-Bandbreite und wird gehalten; Kurs pendelt weiter in der etablierten Range 80.600-82.000 USD ohne klaren Ausbruch. Trotz hohem freiem Kapital (~73.600 EUR) kein neuer Kauf: keine verlaesslichen, heute datierten Markt- oder Geopolitik-Katalysatoren per Websuche auffindbar; Aktien/ETFs/Rohstoffe bleiben bis Montag nicht handelbar.",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 672.46,
+    "portfolioValueEnd": 671.71,
     "updates": [
       {
         "time": "00:08",
@@ -9538,6 +9538,11 @@
         "time": "09:09",
         "note": "Keine Aenderung; BTC-Kursupdate (81.689 USD, +0,18% 24h, -3,93% seit Kauf); SAND staerkster Mover (+16%) ohne heutigen bestaetigten Katalysator und mit Crowded-Short-Risiko, daher kein neuer Trade",
         "portfolioValue": 672.46
+      },
+      {
+        "time": "10:08",
+        "note": "Keine Aenderung; BTC-Kursupdate (CoinGecko-API: 81.598 USD, -0,03% 24h, -4,04% seit Kauf); keine verlaesslichen frischen Katalysatoren (Markt/Politik/Geopolitik) per Websuche auffindbar, sonntags nur Krypto handelbar",
+        "portfolioValue": 671.71
       }
     ]
   }
