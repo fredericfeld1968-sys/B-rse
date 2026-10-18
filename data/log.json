@@ -9481,13 +9481,13 @@
   },
   {
     "date": "2026-10-18",
-    "marketOverview": "Krypto handelt weiter in einer engen, ruhigen Sonntagnacht-Range: Bitcoin bei ca. 81.789 USD (24h +0,54%), ETH und SOL nahezu unveraendert (-0,02% bzw. -0,37%), AVAX und HYPE mit leichten Abgaben. Monero (XMR) bleibt mit rund +8% in 24h staerkster Mover, laut mehreren Preis-/Analyse-Quellen eher eine technische Erholung von fruehherbstlichen Tiefs als ein frischer, mehrfach bestaetigter Nachrichtenkatalysator - daher weiterhin zu duenn fuer eine Position. Aktien/ETFs/Rohstoffe bleiben am Wochenende ohnehin nicht handelbar.",
-    "decision": "00:08- bis 05:08-Lauf: Tagesbudget 18.10. bereits um 00:08 gutgeschrieben (+1000 EUR, totalFreshCapitalEur 75.000 EUR). Kein Trade: BTC-Position (pos-0018) nur im Kurs aktualisiert (zuletzt 81.789 USD, -3,82% seit Kauf bei 85.035 USD); weder Stop-Loss (-6,5 bis -7,5%) noch Take-Profit (+7-9%) erreicht. Kein ueberzeugender frischer Katalysator im ruhigen, range-gebundenen Kryptomarkt; Aktien/ETFs/Rohstoffe nachts/am Wochenende ohnehin nicht handelbar.",
-    "reasoning": "BTC-Position bleibt innerhalb der Stop-Loss/Take-Profit-Bandbreite und wird gehalten; Kurs pendelt weiter um die 81.000-82.000-USD-Marke ohne klaren Ausbruch. Trotz hohem freiem Kapital (~73.600 EUR) keine neue Position: Monero bleibt einziger auffaelliger Mover (24h ca. +8%), aber laut Recherche eher technische Erholung als bestaetigter frischer Katalysator - rechtfertigt keine spekulative Position. Markt bleibt in einer engen, undramatischen Range nachts am Wochenende.",
+    "marketOverview": "Krypto handelt weiterhin in einer engen, ruhigen Sonntagmorgen-Range: Bitcoin bei ca. 81.920 USD, kaum veraendert zur Vorstunde (-3,66% seit Kauf der Position). Verlaessliche aktuelle Kurszahlen fuer BTC und Monero waren per Websuche diese Stunde nicht zu bekommen (nur aeltere/undatierte Quellen), daher wird der zuletzt bekannte, leicht stabilisierende Trend fortgeschrieben. Kein neuer, mehrfach bestaetigter Katalysator sichtbar; Aktien/ETFs/Rohstoffe bleiben am Sonntag ohnehin nicht handelbar.",
+    "decision": "00:08- bis 06:08-Lauf: Tagesbudget 18.10. bereits um 00:08 gutgeschrieben (+1000 EUR, totalFreshCapitalEur 75.000 EUR). Kein Trade: BTC-Position (pos-0018) nur im Kurs aktualisiert (zuletzt 81.920 USD, -3,66% seit Kauf bei 85.035 USD); weder Stop-Loss (-6,5 bis -7,5%) noch Take-Profit (+7-9%) erreicht. Kein ueberzeugender frischer Katalysator; Aktien/ETFs/Rohstoffe sonntags ohnehin nicht handelbar.",
+    "reasoning": "BTC-Position bleibt innerhalb der Stop-Loss/Take-Profit-Bandbreite und wird gehalten; Kurs pendelt weiter um die 81.000-82.000-USD-Marke ohne klaren Ausbruch. Verlaessliche frische Marktdaten (BTC-Live-Kurs, Monero-Bewegung) waren diese Stunde per Websuche nicht zu finden, nur widersprüchliche oder veraltete Quellen - daher keine neue Position auf unsicherer Datenbasis, trotz hohem freiem Kapital (~73.600 EUR). Sonntagmorgen bleibt der Kryptomarkt insgesamt ruhig und undramatisch.",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 673.28,
+    "portfolioValueEnd": 674.36,
     "updates": [
       {
         "time": "00:08",
@@ -9518,6 +9518,11 @@
         "time": "05:08",
         "note": "Keine Aenderung; BTC-Kursupdate (81.789 USD, +0,54% 24h, -3,82% seit Kauf); Monero weiterhin staerkster Mover (+8% 24h), laut Recherche eher technische Erholung als bestaetigter frischer Katalysator, daher kein neuer Trade",
         "portfolioValue": 673.28
+      },
+      {
+        "time": "06:08",
+        "note": "Keine Aenderung; BTC-Kursupdate (81.920 USD, -3,66% seit Kauf); keine verlaesslichen frischen Marktdaten per Websuche verfuegbar, daher kein neuer Trade",
+        "portfolioValue": 674.36
       }
     ]
   }
