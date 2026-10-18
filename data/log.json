@@ -9610,5 +9610,22 @@
         "portfolioValue": 665.99
       }
     ]
+  },
+  {
+    "date": "2026-10-19",
+    "marketOverview": "Bitcoin notiert kurz nach Mitternacht (00:08 MESZ) laut CoinGecko-API bei ca. 81.543 USD (+0,48% 24h) in der seit Tagen etablierten Range um 81.000-82.000 USD. Monero bleibt mit +4,65% 24h erneut staerkster Mover unter den Top-Werten, aber weiterhin ohne einen frischen, mehrfach bestaetigten fundamentalen Katalysator (wie bereits seit mehreren Tagen beobachtet). Keine neuen geopolitischen oder makrooekonomischen Entwicklungen auffindbar; naechster wichtiger Termin bleibt die Fed-Zinsentscheidung am 28.10. Aktien, ETFs und Rohstoffe sind in der Nacht von Sonntag auf Montag weiterhin nicht handelbar.",
+    "decision": "00:08-Lauf: Tagesbudget 19.10. gutgeschrieben (+1000 EUR, totalFreshCapitalEur jetzt 76.000 EUR). Kein Trade: BTC-Position (pos-0018) nur im Kurs aktualisiert (81.543 USD, -4,11% seit Kauf bei 85.035 USD); weder Stop-Loss (-6,5 bis -7,5%) noch Take-Profit (+7-9%) erreicht. Kein ueberzeugender, mehrfach bestaetigter frischer Katalysator fuer einen Neukauf; Aktien/ETFs/Rohstoffe nachts/wochentags vor Boersenoeffnung ohnehin nicht handelbar.",
+    "reasoning": "BTC-Position bleibt innerhalb der Stop-Loss/Take-Profit-Bandbreite und wird gehalten; Kurs pendelt weiter in der etablierten Range 81.000-82.000 USD, aktuell -4,11% seit Kauf. Trotz hohem freiem Kapital (~74.638 EUR) kein neuer Kauf: Monero laeuft zwar weiterhin staerker, aber wie in den letzten rund 20 Laeufen ohne einen mehrfach bestaetigten, frischen fundamentalen Katalysator; Aktien, ETFs und Rohstoffe sind zu dieser Nachtzeit ohnehin nicht handelbar. Es wird auf eine wirklich ueberzeugende, bestaetigte Gelegenheit gewartet statt auf ein unklares Momentum-Signal zu spekulieren.",
+    "positionIds": [
+      "pos-0018"
+    ],
+    "portfolioValueEnd": 671.25,
+    "updates": [
+      {
+        "time": "00:08",
+        "note": "Tagesbudget 19.10. gutgeschrieben (+1000 EUR); kein Trade, BTC-Kursupdate (81.543 USD, +0,48% 24h, -4,11% seit Kauf); Monero +4,65% ohne bestaetigten Katalysator, nachts nur Krypto handelbar",
+        "portfolioValue": 671.25
+      }
+    ]
   }
 ]
