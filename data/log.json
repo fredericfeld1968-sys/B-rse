@@ -9481,13 +9481,13 @@
   },
   {
     "date": "2026-10-18",
-    "marketOverview": "Krypto handelt weiterhin in einer engen, ruhigen Sonntagmorgen-Range: Bitcoin bei ca. 81.920 USD, kaum veraendert zur Vorstunde (-3,66% seit Kauf der Position). Verlaessliche aktuelle Kurszahlen fuer BTC und Monero waren per Websuche diese Stunde nicht zu bekommen (nur aeltere/undatierte Quellen), daher wird der zuletzt bekannte, leicht stabilisierende Trend fortgeschrieben. Kein neuer, mehrfach bestaetigter Katalysator sichtbar; Aktien/ETFs/Rohstoffe bleiben am Sonntag ohnehin nicht handelbar.",
-    "decision": "00:08- bis 06:08-Lauf: Tagesbudget 18.10. bereits um 00:08 gutgeschrieben (+1000 EUR, totalFreshCapitalEur 75.000 EUR). Kein Trade: BTC-Position (pos-0018) nur im Kurs aktualisiert (zuletzt 81.920 USD, -3,66% seit Kauf bei 85.035 USD); weder Stop-Loss (-6,5 bis -7,5%) noch Take-Profit (+7-9%) erreicht. Kein ueberzeugender frischer Katalysator; Aktien/ETFs/Rohstoffe sonntags ohnehin nicht handelbar.",
-    "reasoning": "BTC-Position bleibt innerhalb der Stop-Loss/Take-Profit-Bandbreite und wird gehalten; Kurs pendelt weiter um die 81.000-82.000-USD-Marke ohne klaren Ausbruch. Verlaessliche frische Marktdaten (BTC-Live-Kurs, Monero-Bewegung) waren diese Stunde per Websuche nicht zu finden, nur widersprüchliche oder veraltete Quellen - daher keine neue Position auf unsicherer Datenbasis, trotz hohem freiem Kapital (~73.600 EUR). Sonntagmorgen bleibt der Kryptomarkt insgesamt ruhig und undramatisch.",
+    "marketOverview": "Krypto handelt am Sonntagmorgen weiterhin in ruhiger, enger Range: Bitcoin laut CoinDesk bei ca. 81.736 USD (-3,88% seit Kauf der Position pos-0018), kaum veraendert zur Vorstunde. Kein neuer, mehrfach bestaetigter Katalysator sichtbar; Aktien/ETFs/Rohstoffe bleiben am Sonntag ohnehin nicht handelbar.",
+    "decision": "00:08- bis 07:08-Lauf: Tagesbudget 18.10. bereits um 00:08 gutgeschrieben (+1000 EUR, totalFreshCapitalEur 75.000 EUR). Kein Trade: BTC-Position (pos-0018) nur im Kurs aktualisiert (zuletzt 81.736,56 USD, -3,88% seit Kauf bei 85.035 USD); weder Stop-Loss (-6,5 bis -7,5%) noch Take-Profit (+7-9%) erreicht. Kein ueberzeugender frischer Katalysator; Aktien/ETFs/Rohstoffe sonntags ohnehin nicht handelbar.",
+    "reasoning": "BTC-Position bleibt innerhalb der Stop-Loss/Take-Profit-Bandbreite und wird gehalten; Kurs pendelt weiter knapp unter 82.000 USD ohne klaren Ausbruch. Trotz hohem freiem Kapital (~73.600 EUR) kein neuer Kauf, da kein mehrfach bestaetigter frischer Katalysator fuer Krypto (einzige am Sonntagmorgen handelbare Anlageklasse) erkennbar ist; Aktien/ETFs/Rohstoffe bleiben bis Montag nicht handelbar.",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 674.36,
+    "portfolioValueEnd": 672.85,
     "updates": [
       {
         "time": "00:08",
@@ -9523,6 +9523,11 @@
         "time": "06:08",
         "note": "Keine Aenderung; BTC-Kursupdate (81.920 USD, -3,66% seit Kauf); keine verlaesslichen frischen Marktdaten per Websuche verfuegbar, daher kein neuer Trade",
         "portfolioValue": 674.36
+      },
+      {
+        "time": "07:08",
+        "note": "Keine Aenderung; BTC-Kursupdate (81.736,56 USD laut CoinDesk, -3,88% seit Kauf); kein neuer bestaetigter Katalysator, sonntags nur Krypto handelbar",
+        "portfolioValue": 672.85
       }
     ]
   }
