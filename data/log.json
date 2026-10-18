@@ -9481,13 +9481,13 @@
   },
   {
     "date": "2026-10-18",
-    "marketOverview": "Krypto handelt in der Nacht zum Sonntag weiterhin flach bis mild risk-off: Bitcoin bei ca. 81.272 USD (-0,50% 24h), Ethereum ca. 2.390,77 USD (-1,29%), Solana ca. 102,98 USD (-1,29%), Dogecoin ca. 0,0790 USD (-2,38%). Keine frische, mehrfach bestaetigte Breaking-News (Regulierung, ETF-Fluesse) gefunden; Aktien/ETFs/Rohstoffe sind nachts und am Wochenende ohnehin nicht handelbar.",
-    "decision": "00:08- und 01:08-Lauf: Tagesbudget 18.10. gutgeschrieben (+1000 EUR, totalFreshCapitalEur jetzt 75.000 EUR). Kein Trade: BTC-Position (pos-0018) nur im Kurs aktualisiert (zuletzt 81.272 USD, -4,43% seit Kauf bei 85.035 USD); weder Stop-Loss (-6,5 bis -7,5%) noch Take-Profit (+7-9%) erreicht. Kein ueberzeugender frischer Katalysator im ruhigen Kryptomarkt; Aktien/ETFs/Rohstoffe nachts/am Wochenende ohnehin nicht handelbar.",
-    "reasoning": "Neuer Kalendertag beginnt, daher Tagesbudget-Gutschrift gemaess Kapitalregeln (nur einmal, bereits um 00:08 erfolgt). BTC-Position bleibt innerhalb der Stop-Loss/Take-Profit-Bandbreite und wird gehalten; Kursbewegung seit letztem Lauf minimal (-0,50% 24h). Trotz hohem freiem Kapital (~73.600 EUR) keine neue Position ohne klaren, mehrfach bestaetigten Katalysator; breiter Markt zeigt nur milden, undramatischen Risk-off ohne Ausbruchssignal.",
+    "marketOverview": "Krypto handelt in der Nacht zum Sonntag weiterhin in einer engen Range: Bitcoin um ca. 81.500 USD (Spanne laut mehreren Quellen/Prognosemaerkten ca. 81.000-82.500 USD), verteidigt damit die psychologische 80.000-USD-Unterstuetzung bei gemischten Spot-ETF-Fluessen. Kein frischer, mehrfach bestaetigter Katalysator (Regulierung, grosse ETF-Fluesse, Makro-Ereignis) gefunden; Aktien/ETFs/Rohstoffe sind nachts und am Wochenende ohnehin nicht handelbar.",
+    "decision": "00:08-, 01:08- und 02:08-Lauf: Tagesbudget 18.10. gutgeschrieben (+1000 EUR, totalFreshCapitalEur jetzt 75.000 EUR). Kein Trade: BTC-Position (pos-0018) nur im Kurs aktualisiert (zuletzt 81.500 USD, -4,16% seit Kauf bei 85.035 USD); weder Stop-Loss (-6,5 bis -7,5%) noch Take-Profit (+7-9%) erreicht. Kein ueberzeugender frischer Katalysator im ruhigen, range-gebundenen Kryptomarkt; Aktien/ETFs/Rohstoffe nachts/am Wochenende ohnehin nicht handelbar.",
+    "reasoning": "Neuer Kalendertag beginnt, daher Tagesbudget-Gutschrift gemaess Kapitalregeln (nur einmal, bereits um 00:08 erfolgt). BTC-Position bleibt innerhalb der Stop-Loss/Take-Profit-Bandbreite und wird gehalten; Kurs pendelt seit Stunden um die 81.000-82.000-USD-Marke ohne klaren Ausbruch. Trotz hohem freiem Kapital (~73.600 EUR) keine neue Position ohne klaren, mehrfach bestaetigten Katalysator; Markt zeigt nur eine enge, undramatische Range nachts am Wochenende.",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 669.02,
+    "portfolioValueEnd": 670.9,
     "updates": [
       {
         "time": "00:08",
@@ -9498,6 +9498,11 @@
         "time": "01:08",
         "note": "Keine Aenderung; BTC-Kursupdate (81.272 USD, -0,50% 24h, -4,43% seit Kauf); kein neuer Katalysator, nachts/Wochenende nur Krypto handelbar",
         "portfolioValue": 669.02
+      },
+      {
+        "time": "02:08",
+        "note": "Keine Aenderung; BTC-Kursupdate (81.500 USD, -4,16% seit Kauf), Kurs verteidigt 80.000-USD-Unterstuetzung in enger Range; kein neuer Katalysator, nachts/Wochenende nur Krypto handelbar",
+        "portfolioValue": 670.9
       }
     ]
   }
