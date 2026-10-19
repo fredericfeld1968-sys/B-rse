@@ -9613,13 +9613,13 @@
   },
   {
     "date": "2026-10-19",
-    "marketOverview": "Bitcoin stabilisiert sich bei ca. 82.550 USD (+1,1% 24h), weiterhin in enger Handelsspanne ohne frischen Katalysator. US-Aktien nach dem KI-Finanzierungs-Schock vom Freitag (Nasdaq -2,14%, CoreWeave -12%, Micron/Intel unter Druck) heute mit Erholungsversuch der Futures (ES +0,8%, NQ +1,3%), aber Euro Stoxx 50 leicht schwaecher (-0,3%) und Oel faellt nach Trumps Sanktionswaiver fuer russische Energie (Brent ca. 107,70-109,65 USD). Fed-Unsicherheit (Barclays erwartet nun Dez.+Jan.-Zinsschritte), hohe US-Renditen (10J 5,07%) und geopolitische Spannungen (Hormuz-Minenvorfaelle, Russland-Ukraine) belasten das Sentiment. Kein mehrfach bestaetigter, ueberzeugender Trade-Ausloeser gefunden.",
-    "decision": "Kein Trade in diesem Lauf. Offene BTC-Position (pos-0018) bleibt mit -2,92% klar ueber der Stop-Loss-Schwelle und wird gehalten; Kursstand aktualisiert.",
-    "reasoning": "BTC-Verlust (-2,92%) bleibt moderat und weit von der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%) entfernt. Der angedeutete US-Futures-Rebound in Halbleitern/KI-Werten (ES/NQ) ist nur ein einzelner, nicht unabhaengig bestaetigter Datenpunkt (keine aktuellen Premarket-Zahlen zu Micron/Intel/CoreWeave auffindbar) und Euro Stoxx 50 zeigt sogar leichtes Minus - zu duenn fuer einen spekulativen Dip-Kauf. Freies Kapital bleibt hoch (~74.600 EUR), aber Vorgabe ist, nur bei wirklich ueberzeugender Gelegenheit zu handeln - daher bleibt es bei keinem Trade.",
+    "marketOverview": "Bitcoin pendelt weiterhin eng um 82.700-82.900 USD (CoinGecko: 82.732 USD, +0,8% 24h), ohne frischen Katalysator. US-Futures setzen den Erholungsversuch nach dem Freitag-Selloff (Nasdaq -2,14%, Chip-/KI-Werte unter Druck) fort, Europa (Xetra seit 9:00 CET offen) bleibt uneinheitlich. Oel und Renditen weiterhin erhoeht durch Iran/Russland-Ukraine-Spannungen und Fed-Unsicherheit. Kein mehrfach bestaetigter, ueberzeugender Einzelkatalysator fuer einen neuen Trade gefunden.",
+    "decision": "Kein Trade in diesem Lauf. Offene BTC-Position (pos-0018) bleibt mit -2,71% klar ueber der Stop-Loss-Schwelle (-6,5 bis -7,5%) und wird gehalten; Kursstand aktualisiert.",
+    "reasoning": "BTC-Verlust (-2,71%) bleibt moderat und weit von Stop-Loss sowie Take-Profit (+7-9%) entfernt. Kein neuer, mehrfach unabhaengig bestaetigter Katalysator fuer Aktien, ETFs, Rohstoffe oder Krypto auffindbar; Marktumfeld bleibt volatil und risikoavers (hohe Oelpreise, Fed-Unsicherheit, Geopolitik). Freies Kapital bleibt mit ca. 74.638 EUR hoch, aber Vorgabe ist, nur bei wirklich ueberzeugender Gelegenheit zu handeln - daher weiterhin kein Trade.",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 679.56,
+    "portfolioValueEnd": 681.04,
     "updates": [
       {
         "time": "00:08",
@@ -9680,6 +9680,11 @@
         "time": "11:09",
         "note": "Kein Trade. Keine neuen bestaetigten Kursdaten oder Katalysatoren auffindbar (Live-Preisabfragen lieferten nur veraltete/widerspruechliche Daten); Lage unveraendert zum 10:09-Lauf (Nasdaq-Futures-Erholungsversuch nach Chip-Sell-off, Oel hoeher wegen Iran/Russland-Ukraine-Spannungen, Frankreich-Unruhen belasten Stoxx 600). BTC-Position (pos-0018, -2,92% seit Kauf) bleibt klar ueber Stop-Loss-Schwelle und wird gehalten, Kurswert unveraendert uebernommen.",
         "portfolioValue": 679.56
+      },
+      {
+        "time": "12:09",
+        "note": "Kein Trade, BTC-Kursupdate (82.732 USD, +0,8% 24h, -2,71% seit Kauf); kein neuer bestaetigter Katalysator, Marktumfeld weiterhin volatil/risikoavers",
+        "portfolioValue": 681.04
       }
     ]
   }
