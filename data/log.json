@@ -9613,13 +9613,13 @@
   },
   {
     "date": "2026-10-19",
-    "marketOverview": "Bitcoin notiert um 04:08 MESZ laut CoinGecko-API bei 82.459 USD (+1,07% 24h), weiterhin in der stabilen Range 81.000-82.500 USD. Unter den Top-25-Coins keine auffaelligen Bewegungen (max. ZEC +3,27%, NEAR +2,46%, LINK +2,14%), keine davon mit einem frischen, mehrfach bestaetigten fundamentalen Katalysator unterlegt. Naechster wichtiger Termin bleibt die Fed-Zinsentscheidung am 28.10. Aktien, ETFs und Rohstoffe sind in der Nacht auf Montag weiterhin nicht handelbar.",
-    "decision": "00:08-, 01:09-, 02:08-, 03:08- und 04:08-Laeufe: Tagesbudget 19.10. bereits um 00:08 gutgeschrieben (totalFreshCapitalEur 76.000 EUR, keine zweite Gutschrift). Kein Trade: BTC-Position (pos-0018) nur im Kurs aktualisiert (82.459 USD, -3,03% seit Kauf bei 85.035 USD); weder Stop-Loss (-6,5 bis -7,5%) noch Take-Profit (+7-9%) erreicht. Kein ueberzeugender, mehrfach bestaetigter frischer Katalysator fuer einen Neukauf gefunden; Aktien/ETFs/Rohstoffe nachts/vor Boersenoeffnung ohnehin nicht handelbar.",
-    "reasoning": "BTC-Position bleibt innerhalb der Stop-Loss/Take-Profit-Bandbreite und wird gehalten; Kurs hat sich seit dem letzten Lauf leicht weiter erholt (82.310 -> 82.459 USD), aktuell -3,03% seit Kauf. Trotz hohem freiem Kapital (~74.640 EUR) kein neuer Kauf: Top-25-Marktdaten zeigen keine Bewegung ueber rund 3,3% und keine davon ist durch eine frische, mehrfach unabhaengig bestaetigte Nachricht unterlegt. Aktien, ETFs und Rohstoffe sind zu dieser Nachtzeit ohnehin nicht handelbar. Es wird weiterhin auf eine wirklich ueberzeugende, bestaetigte Gelegenheit gewartet statt auf unklare Signale zu spekulieren.",
+    "marketOverview": "Bitcoin notiert bei ca. 82.574 USD (+0,97% 24h), Ethereum bei 2.423 USD, Solana bei 105,32 USD - insgesamt ruhiger, leicht positiver Kryptomarkt ohne klaren Trend. Vor Marktoeffnung (Boersen noch geschlossen) liegt der Fokus auf Krypto; kein frischer, mehrfach bestaetigter Ausbruchskatalysator fuer Altcoins auffindbar.",
+    "decision": "Kein Trade in diesem Lauf. Tagesbudget fuer 19.10. bereits zuvor gutgeschrieben. Offene BTC-Position (pos-0018) bleibt mit -2,89% klar unter der Stop-Loss-Schwelle (~-6,5 bis -7,5%) und wird gehalten; Kursstand aktualisiert.",
+    "reasoning": "BTC-Verlust (-2,89%) ist moderat und noch weit von der etablierten Stop-Loss-Schwelle entfernt, daher kein Verkauf. Keine neue, mehrfach unabhaengig bestaetigte Kaufgelegenheit gefunden (Boersen/ETFs/Rohstoffe vor Handelsbeginn nicht handelbar, Kryptomarkt ohne ueberzeugenden frischen Katalysator) - passend zur Vorgabe, nur bei wirklich ueberzeugender Gelegenheit zu handeln.",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 678.79,
+    "portfolioValueEnd": 679.74,
     "updates": [
       {
         "time": "00:08",
@@ -9645,6 +9645,11 @@
         "time": "04:08",
         "note": "Kein Trade, BTC-Kursupdate (82.459 USD, +1,07% 24h, -3,03% seit Kauf); Top-25-Scan ohne ueberzeugenden Katalysator (max ZEC +3,27%), nachts nur Krypto handelbar",
         "portfolioValue": 678.79
+      },
+      {
+        "time": "05:08",
+        "note": "Kein Trade, BTC-Kursupdate (82.574 USD, +0,97% 24h, -2,89% seit Kauf); kein ueberzeugender Katalysator fuer Altcoins, vor Boersenoeffnung nur Krypto handelbar",
+        "portfolioValue": 679.74
       }
     ]
   }
