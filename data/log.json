@@ -9613,13 +9613,13 @@
   },
   {
     "date": "2026-10-19",
-    "marketOverview": "Bitcoin pendelt weiterhin eng um 82.700-82.900 USD (CoinGecko: 82.732 USD, +0,8% 24h), ohne frischen Katalysator. US-Futures setzen den Erholungsversuch nach dem Freitag-Selloff (Nasdaq -2,14%, Chip-/KI-Werte unter Druck) fort, Europa (Xetra seit 9:00 CET offen) bleibt uneinheitlich. Oel und Renditen weiterhin erhoeht durch Iran/Russland-Ukraine-Spannungen und Fed-Unsicherheit. Kein mehrfach bestaetigter, ueberzeugender Einzelkatalysator fuer einen neuen Trade gefunden.",
-    "decision": "Kein Trade in diesem Lauf. Offene BTC-Position (pos-0018) bleibt mit -2,71% klar ueber der Stop-Loss-Schwelle (-6,5 bis -7,5%) und wird gehalten; Kursstand aktualisiert.",
-    "reasoning": "BTC-Verlust (-2,71%) bleibt moderat und weit von Stop-Loss sowie Take-Profit (+7-9%) entfernt. Kein neuer, mehrfach unabhaengig bestaetigter Katalysator fuer Aktien, ETFs, Rohstoffe oder Krypto auffindbar; Marktumfeld bleibt volatil und risikoavers (hohe Oelpreise, Fed-Unsicherheit, Geopolitik). Freies Kapital bleibt mit ca. 74.638 EUR hoch, aber Vorgabe ist, nur bei wirklich ueberzeugender Gelegenheit zu handeln - daher weiterhin kein Trade.",
+    "marketOverview": "Bitcoin stabilisiert sich um 82.100-82.700 USD (CoinDesk, live), nachdem die Kryptomaerkte das Wochenende unter 'Black Monday'-Sorgen (AI-Perps-Liquidationen, hawkishe Zinserwartungen) verbrachten. US-Aktienfutures (Nasdaq 100 +1,1-1,3%, S&P 500 +0,5-0,8%, Dow +0,2%) erholen sich vormarktlich weiter von der schwachen Vorwoche (Nasdaq Composite -4,5%), getrieben von 'Buy-the-dip' bei AI-/Chip-Werten (Broadcom, Micron, Intel) nach sinkenden Oelpreisen und nachgebenden Anleiherenditen. Chinas Q3-BIP wird erst morgen (20.10.) veroeffentlicht. Keine neue, einzeln ueberzeugende, mehrfach bestaetigte Katalysator-Meldung seit dem letzten Lauf gefunden - die Erholung ist eine Fortsetzung des bereits bekannten Themas, kein frischer Trigger.",
+    "decision": "Kein Trade in diesem Lauf. Offene BTC-Position (pos-0018) bleibt mit -3,4% klar innerhalb der Halteband-Spanne (Stop-Loss -6,5 bis -7,5%, Take-Profit +7-9%) und wird gehalten; Kursstand aktualisiert. Freies Kapital bleibt hoch (~74.600 EUR), aber die vormarktliche AI-Erholung ist bereits seit Stunden bekannt und kein neuer, fuer einen Einstieg ueberzeugender Einzelkatalysator.",
+    "reasoning": "BTC-Verlust (-3,4%) bleibt moderat und weit von Stop-Loss sowie Take-Profit entfernt. Die Nasdaq-Futures-Erholung (AI-Dip-Buying) ist eine Fortsetzung der bereits in den Laeufen seit 10:09 beobachteten Bewegung, kein frisch bestaetigter Katalysator fuer einen neuen Aktien-/ETF-Kauf. Kein mehrfach unabhaengig bestaetigter Einzelkatalysator fuer Krypto, Rohstoffe oder Aktien gefunden. Vorgabe ist, nur bei wirklich ueberzeugender Gelegenheit zu handeln - daher weiterhin kein Trade.",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 681.04,
+    "portfolioValueEnd": 676.23,
     "updates": [
       {
         "time": "00:08",
@@ -9685,6 +9685,11 @@
         "time": "12:09",
         "note": "Kein Trade, BTC-Kursupdate (82.732 USD, +0,8% 24h, -2,71% seit Kauf); kein neuer bestaetigter Katalysator, Marktumfeld weiterhin volatil/risikoavers",
         "portfolioValue": 681.04
+      },
+      {
+        "time": "13:15",
+        "note": "Kein Trade, BTC-Kursupdate (82.147,67 USD, -3,4% seit Kauf); Nasdaq-Futures-Erholung (AI-Dip-Buying) bereits bekannt, kein neuer ueberzeugender Katalysator",
+        "portfolioValue": 676.23
       }
     ]
   }
