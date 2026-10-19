@@ -9613,13 +9613,13 @@
   },
   {
     "date": "2026-10-19",
-    "marketOverview": "Bitcoin notiert bei ca. 82.446 USD (+0,77% 24h), ruhiger Kryptomarkt ohne klaren Trend; ZEC (+2,21%) und SUI (+1,39%) fuehren moderat, kein ueberzeugender frischer Ausbruchskatalysator. Boersen (Aktien/ETFs/Rohstoffe) vor Handelsbeginn weiterhin nicht handelbar.",
-    "decision": "Kein Trade in diesem Lauf. Tagesbudget fuer 19.10. bereits zuvor gutgeschrieben. Offene BTC-Position (pos-0018) bleibt mit -3,04% klar unter der Stop-Loss-Schwelle (~-6,5 bis -7,5%) und wird gehalten; Kursstand aktualisiert.",
-    "reasoning": "BTC-Verlust (-3,04%) ist weiterhin moderat und weit von der Stop-Loss-Schwelle entfernt, daher kein Verkauf. Kein frischer, mehrfach bestaetigter Ausbruchskatalysator im Kryptomarkt gefunden (Top-40-Scan ohne ueberzeugende Bewegung); Aktien/ETFs/Rohstoffe vor Boersenoeffnung nicht handelbar. Passend zur Vorgabe, nur bei wirklich ueberzeugender Gelegenheit zu handeln, bleibt es bei keinem Trade.",
+    "marketOverview": "Bitcoin notiert bei ca. 82.600 USD, leichte Erholung uebers Wochenende (Freitagsschluss ca. 81.500 USD) bei duennem Wochenend-Volumen - Marktbeobachter (Cryptoticker) warnen, die Bewegung sei fragil. Citigroup hebt laut Berichten sein 12-Monats-Kursziel fuer BTC auf 113.000 USD an, dennoch flossen zuletzt rund 228 Mio. USD aus Bitcoin-ETFs ab. Kein ueberzeugender frischer Altcoin-Katalysator gefunden. Boersen (Aktien/ETFs/Rohstoffe) vor Handelsbeginn (Xetra oeffnet 09:00 CET) weiterhin nicht handelbar.",
+    "decision": "Kein Trade in diesem Lauf. Offene BTC-Position (pos-0018) bleibt mit -2,86% klar unter der Stop-Loss-Schwelle und wird gehalten; Kursstand aktualisiert.",
+    "reasoning": "BTC-Verlust (-2,86%) ist moderat und weit von der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%) entfernt, daher kein Verkauf. Die leichte Wochenend-Erholung gilt laut Marktbeobachtern als fragil (duennes Volumen), kein ueberzeugender neuer Ausbruchskatalysator fuer Altcoins gefunden. Aktien/ETFs/Rohstoffe sind vor Boersenoeffnung nicht handelbar. Passend zur Vorgabe, nur bei wirklich ueberzeugender Gelegenheit zu handeln, bleibt es bei keinem Trade.",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 678.69,
+    "portfolioValueEnd": 679.96,
     "updates": [
       {
         "time": "00:08",
@@ -9655,6 +9655,11 @@
         "time": "06:09",
         "note": "Kein Trade, BTC-Kursupdate (82.446 USD, +0,77% 24h, -3,04% seit Kauf); Top-40-Scan ohne ueberzeugenden Katalysator (ZEC +2,21%, SUI +1,39%), vor Boersenoeffnung nur Krypto handelbar",
         "portfolioValue": 678.69
+      },
+      {
+        "time": "07:08",
+        "note": "Kein Trade, BTC-Kursupdate (82.600 USD, -2,86% seit Kauf); Wochenend-Rally gilt als fragil (duennes Volumen), kein ueberzeugender Altcoin-Katalysator, vor Boersenoeffnung nur Krypto handelbar",
+        "portfolioValue": 679.96
       }
     ]
   }
