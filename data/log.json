@@ -9613,13 +9613,13 @@
   },
   {
     "date": "2026-10-19",
-    "marketOverview": "Bitcoin stabilisiert sich weiter bei ca. 82.850 USD (leichte Fortsetzung der duennen Wochenend-Erholung, kein frischer Katalysator). Citigroups 12-Monats-Kursziel (113.000 USD) und anhaltende ETF-Abflüsse stehen weiter nebeneinander. Xetra und andere europaeische Boersen haben um 09:00 CET geoeffnet, aber kein ueberzeugender Trade-Ausloeser (weder Aktien/ETFs/Rohstoffe noch Altcoins) gefunden.",
-    "decision": "Kein Trade in diesem Lauf. Offene BTC-Position (pos-0018) bleibt mit -2,57% klar ueber der Stop-Loss-Schwelle und wird gehalten; Kursstand aktualisiert.",
-    "reasoning": "BTC-Verlust (-2,57%) bleibt moderat und weit von der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%) entfernt. Trotz Boersenoeffnung (Xetra 09:00 CET) kein ueberzeugender neuer Katalysator fuer Aktien/ETFs/Rohstoffe oder Altcoins recherchierbar; freies Kapital bleibt hoch (~74.600 EUR), aber Vorgabe ist, nur bei wirklich ueberzeugender Gelegenheit zu handeln - daher bleibt es bei keinem Trade.",
+    "marketOverview": "Bitcoin stabilisiert sich bei ca. 82.550 USD (+1,1% 24h), weiterhin in enger Handelsspanne ohne frischen Katalysator. US-Aktien nach dem KI-Finanzierungs-Schock vom Freitag (Nasdaq -2,14%, CoreWeave -12%, Micron/Intel unter Druck) heute mit Erholungsversuch der Futures (ES +0,8%, NQ +1,3%), aber Euro Stoxx 50 leicht schwaecher (-0,3%) und Oel faellt nach Trumps Sanktionswaiver fuer russische Energie (Brent ca. 107,70-109,65 USD). Fed-Unsicherheit (Barclays erwartet nun Dez.+Jan.-Zinsschritte), hohe US-Renditen (10J 5,07%) und geopolitische Spannungen (Hormuz-Minenvorfaelle, Russland-Ukraine) belasten das Sentiment. Kein mehrfach bestaetigter, ueberzeugender Trade-Ausloeser gefunden.",
+    "decision": "Kein Trade in diesem Lauf. Offene BTC-Position (pos-0018) bleibt mit -2,92% klar ueber der Stop-Loss-Schwelle und wird gehalten; Kursstand aktualisiert.",
+    "reasoning": "BTC-Verlust (-2,92%) bleibt moderat und weit von der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%) entfernt. Der angedeutete US-Futures-Rebound in Halbleitern/KI-Werten (ES/NQ) ist nur ein einzelner, nicht unabhaengig bestaetigter Datenpunkt (keine aktuellen Premarket-Zahlen zu Micron/Intel/CoreWeave auffindbar) und Euro Stoxx 50 zeigt sogar leichtes Minus - zu duenn fuer einen spekulativen Dip-Kauf. Freies Kapital bleibt hoch (~74.600 EUR), aber Vorgabe ist, nur bei wirklich ueberzeugender Gelegenheit zu handeln - daher bleibt es bei keinem Trade.",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 682.01,
+    "portfolioValueEnd": 679.56,
     "updates": [
       {
         "time": "00:08",
@@ -9670,6 +9670,11 @@
         "time": "09:12",
         "note": "Kein Trade, BTC-Kursupdate (82.850 USD, -2,57% seit Kauf); Boersen seit 09:00 CET offen, aber kein ueberzeugender Katalysator fuer Aktien/ETFs/Rohstoffe oder Krypto gefunden",
         "portfolioValue": 682.01
+      },
+      {
+        "time": "10:09",
+        "note": "Kein Trade, BTC-Kursupdate (82.552 USD, +1,14% 24h, -2,92% seit Kauf); KI-Aktien-Selloff vom Freitag (Nasdaq -2,14%, CoreWeave -12%) vs. heutiger Futures-Erholungsversuch (NQ +1,3%) nur einfach bestaetigt, kein ueberzeugender Katalysator fuer neuen Trade",
+        "portfolioValue": 679.56
       }
     ]
   }
