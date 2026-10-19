@@ -9613,13 +9613,13 @@
   },
   {
     "date": "2026-10-19",
-    "marketOverview": "Bitcoin notiert um 01:09 MESZ laut CoinGecko-API bei ca. 81.674 USD (+0,52% 24h), weiterhin in der seit Tagen etablierten Range um 81.000-82.000 USD. Monero bleibt mit +4,96% 24h erneut staerkster Mover unter den groesseren Werten, aber ohne einen frischen, mehrfach bestaetigten fundamentalen Katalysator. Allgemeine Suchen zu Altcoin-Breakouts lieferten nur aeltere/unbestaetigte Analysten-Thesen (Altseason-Spekulationen), keine aktuellen, mehrfach belegten Trigger. Naechster wichtiger Termin bleibt die Fed-Zinsentscheidung am 28.10. Aktien, ETFs und Rohstoffe sind in der Nacht auf Montag weiterhin nicht handelbar.",
-    "decision": "00:08- und 01:09-Laeufe: Tagesbudget 19.10. bereits um 00:08 gutgeschrieben (totalFreshCapitalEur 76.000 EUR, keine zweite Gutschrift). Kein Trade: BTC-Position (pos-0018) nur im Kurs aktualisiert (81.674 USD, -3,95% seit Kauf bei 85.035 USD); weder Stop-Loss (-6,5 bis -7,5%) noch Take-Profit (+7-9%) erreicht. Kein ueberzeugender, mehrfach bestaetigter frischer Katalysator fuer einen Neukauf; Aktien/ETFs/Rohstoffe nachts/wochentags vor Boersenoeffnung ohnehin nicht handelbar.",
-    "reasoning": "BTC-Position bleibt innerhalb der Stop-Loss/Take-Profit-Bandbreite und wird gehalten; Kurs pendelt weiter in der etablierten Range 81.000-82.000 USD, aktuell -3,95% seit Kauf. Trotz hohem freiem Kapital (~74.639 EUR) kein neuer Kauf: Monero laeuft zwar weiterhin staerker, aber wie in den letzten Laeufen ohne einen mehrfach bestaetigten, frischen fundamentalen Katalysator; eine gezielte Suche nach Altcoin-Breakout-Kandidaten lieferte nur unbestaetigte, teils aeltere Analysten-Thesen. Aktien, ETFs und Rohstoffe sind zu dieser Nachtzeit ohnehin nicht handelbar. Es wird auf eine wirklich ueberzeugende, bestaetigte Gelegenheit gewartet statt auf ein unklares Momentum-Signal zu spekulieren.",
+    "marketOverview": "Bitcoin notiert um 02:08 MESZ laut CoinGecko bei ca. 82.097 USD (+0,9% 24h), weiterhin in der etablierten Range um 81.000-82.000 USD, leicht erholt gegenueber dem letzten Lauf. Keine aktuellen, mehrfach bestaetigten frischen Katalysatoren fuer Altcoins auffindbar (Suchergebnisse zu Monero und allgemeinen Altcoin-Breakouts lieferten nur unbestaetigte oder undatierte Quellen). Naechster wichtiger Termin bleibt die Fed-Zinsentscheidung am 28.10. Aktien, ETFs und Rohstoffe sind in der Nacht auf Montag weiterhin nicht handelbar.",
+    "decision": "00:08-, 01:09- und 02:08-Laeufe: Tagesbudget 19.10. bereits um 00:08 gutgeschrieben (totalFreshCapitalEur 76.000 EUR, keine zweite Gutschrift). Kein Trade: BTC-Position (pos-0018) nur im Kurs aktualisiert (82.097,16 USD, -3,45% seit Kauf bei 85.035 USD); weder Stop-Loss (-6,5 bis -7,5%) noch Take-Profit (+7-9%) erreicht. Kein ueberzeugender, mehrfach bestaetigter frischer Katalysator fuer einen Neukauf gefunden; Aktien/ETFs/Rohstoffe nachts/vor Boersenoeffnung ohnehin nicht handelbar.",
+    "reasoning": "BTC-Position bleibt innerhalb der Stop-Loss/Take-Profit-Bandbreite und wird gehalten; Kurs hat sich seit dem letzten Lauf leicht erholt (81.674 -> 82.097 USD), aktuell -3,45% seit Kauf. Trotz hohem freiem Kapital (~74.639 EUR) kein neuer Kauf: Recherche zu Monero und allgemeinen Altcoin-Breakout-Kandidaten lieferte erneut keine mehrfach bestaetigten, frischen fundamentalen Katalysatoren, sondern nur unbestaetigte oder undatierte Quellen. Aktien, ETFs und Rohstoffe sind zu dieser Nachtzeit ohnehin nicht handelbar. Es wird weiterhin auf eine wirklich ueberzeugende, bestaetigte Gelegenheit gewartet statt auf unklare Signale zu spekulieren.",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 672.33,
+    "portfolioValueEnd": 675.82,
     "updates": [
       {
         "time": "00:08",
@@ -9630,6 +9630,11 @@
         "time": "01:09",
         "note": "Kein Trade, BTC-Kursupdate (81.674 USD, +0,52% 24h, -3,95% seit Kauf); Monero +4,96% weiterhin ohne bestaetigten Katalysator, nachts nur Krypto handelbar",
         "portfolioValue": 672.33
+      },
+      {
+        "time": "02:08",
+        "note": "Kein Trade, BTC-Kursupdate (82.097,16 USD, +0,9% 24h, -3,45% seit Kauf); keine bestaetigten frischen Katalysatoren fuer Altcoins gefunden, nachts nur Krypto handelbar",
+        "portfolioValue": 675.82
       }
     ]
   }
