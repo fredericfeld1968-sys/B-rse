@@ -9613,13 +9613,13 @@
   },
   {
     "date": "2026-10-19",
-    "marketOverview": "Bitcoin notiert bei ca. 82.600 USD, leichte Erholung uebers Wochenende (Freitagsschluss ca. 81.500 USD) bei duennem Wochenend-Volumen - Marktbeobachter (Cryptoticker) warnen, die Bewegung sei fragil. Citigroup hebt laut Berichten sein 12-Monats-Kursziel fuer BTC auf 113.000 USD an, dennoch flossen zuletzt rund 228 Mio. USD aus Bitcoin-ETFs ab. Kein ueberzeugender frischer Altcoin-Katalysator gefunden. Boersen (Aktien/ETFs/Rohstoffe) vor Handelsbeginn (Xetra oeffnet 09:00 CET) weiterhin nicht handelbar.",
-    "decision": "Kein Trade in diesem Lauf. Offene BTC-Position (pos-0018) bleibt mit -2,71% klar unter der Stop-Loss-Schwelle und wird gehalten; Kursstand aktualisiert.",
-    "reasoning": "BTC-Verlust (-2,71%) ist moderat und weit von der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%) entfernt, daher kein Verkauf. Die leichte Wochenend-Erholung gilt laut Marktbeobachtern als fragil (duennes Volumen), kein ueberzeugender neuer Ausbruchskatalysator fuer Altcoins gefunden (Monero/Solana/Zcash je ca. +1 bis +3% 24h, nichts Neues). Aktien/ETFs/Rohstoffe sind vor Boersenoeffnung (Xetra 09:00) weiterhin nicht handelbar. Passend zur Vorgabe, nur bei wirklich ueberzeugender Gelegenheit zu handeln, bleibt es bei keinem Trade.",
+    "marketOverview": "Bitcoin stabilisiert sich weiter bei ca. 82.850 USD (leichte Fortsetzung der duennen Wochenend-Erholung, kein frischer Katalysator). Citigroups 12-Monats-Kursziel (113.000 USD) und anhaltende ETF-Abflüsse stehen weiter nebeneinander. Xetra und andere europaeische Boersen haben um 09:00 CET geoeffnet, aber kein ueberzeugender Trade-Ausloeser (weder Aktien/ETFs/Rohstoffe noch Altcoins) gefunden.",
+    "decision": "Kein Trade in diesem Lauf. Offene BTC-Position (pos-0018) bleibt mit -2,57% klar ueber der Stop-Loss-Schwelle und wird gehalten; Kursstand aktualisiert.",
+    "reasoning": "BTC-Verlust (-2,57%) bleibt moderat und weit von der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%) entfernt. Trotz Boersenoeffnung (Xetra 09:00 CET) kein ueberzeugender neuer Katalysator fuer Aktien/ETFs/Rohstoffe oder Altcoins recherchierbar; freies Kapital bleibt hoch (~74.600 EUR), aber Vorgabe ist, nur bei wirklich ueberzeugender Gelegenheit zu handeln - daher bleibt es bei keinem Trade.",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 681,
+    "portfolioValueEnd": 682.01,
     "updates": [
       {
         "time": "00:08",
@@ -9665,6 +9665,11 @@
         "time": "08:11",
         "note": "Kein Trade, BTC-Kursupdate (82.727 USD, -2,71% seit Kauf); Monero/Solana/Zcash je nur +1 bis +3% 24h, kein neuer Katalysator; Xetra oeffnet erst um 09:00, bis dahin nur Krypto handelbar",
         "portfolioValue": 681
+      },
+      {
+        "time": "09:12",
+        "note": "Kein Trade, BTC-Kursupdate (82.850 USD, -2,57% seit Kauf); Boersen seit 09:00 CET offen, aber kein ueberzeugender Katalysator fuer Aktien/ETFs/Rohstoffe oder Krypto gefunden",
+        "portfolioValue": 682.01
       }
     ]
   }
