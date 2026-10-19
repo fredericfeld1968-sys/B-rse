@@ -9613,13 +9613,13 @@
   },
   {
     "date": "2026-10-19",
-    "marketOverview": "Nasdaq-Futures setzen die vormarktliche Erholung vom Chip-Selloff der Vorwoche fort (Bloomberg/XTB), gestuetzt durch bevorstehende Mag7-Earnings; Stoxx 600 bleibt wegen Unruhen in Frankreich schwach, franzoesische Anleihen unter Druck. Oelpreis (Brent) faellt rund 1,8% auf ca. 108 USD, teils wegen gelockerter US-Sanktionen gegen Russland (Reuters/TheStreet). Chinas Q3-BIP uebertrifft mit +4,5% YoY die Erwartungen. Gold notiert nahe 4.185 USD als Safe-Haven. Keine aktuelle, verlaessliche Live-Kursquelle fuer BTC in diesem Lauf auffindbar (nur widerspruechliche/veraltete Preisaggregatoren) - Kurswert von pos-0018 daher unveraendert vom letzten bestaetigten Stand (13:15) uebernommen.",
-    "decision": "Kein Trade in diesem Lauf. Offene BTC-Position (pos-0018, -3,4%) bleibt klar innerhalb der Halteband-Spanne und wird unveraendert gehalten, da keine neue verlaessliche Kursquelle verfuegbar war. Freies Kapital weiterhin hoch (~74.638 EUR), aber kein neuer, mehrfach bestaetigter Einzelkatalysator fuer Aktien, ETFs, Rohstoffe oder Krypto - die bekannte Nasdaq-Erholung und der Oelrueckgang sind Fortsetzungen bereits erfasster Themen.",
-    "reasoning": "BTC-Position bleibt weit von Stop-Loss und Take-Profit entfernt, kein Handlungsdruck. Fuer Aktien/ETFs ist die Mag7-Erwartungshaltung vor den Earnings bereits bekannt und kein frischer Katalysator; Oel- und Anleihenbewegungen sind makro-getrieben ohne klaren Einzeltitel-Trade. Vorgabe ist, nur bei wirklich ueberzeugender, mehrfach bestaetigter Gelegenheit zu handeln - daher weiterhin kein Trade.",
+    "marketOverview": "Nasdaq-Futures setzen die Erholung vor den Mag7-Earnings fort, Oelpreis bleibt unter Druck durch gelockerte US-Sanktionen gegen Russland. Bitcoin pendelt seitwaerts um 82.500 USD (CoinGecko), kein neuer makrooekonomischer oder einzeltitelbezogener Katalysator seit dem letzten Lauf gefunden.",
+    "decision": "Kein Trade in diesem Lauf. Offene BTC-Position (pos-0018, -2,94%) bleibt klar innerhalb der Halteband-Spanne und wird unveraendert gehalten. Freies Kapital weiterhin sehr hoch (~74.600 EUR), aber kein neuer, mehrfach bestaetigter Einzelkatalysator fuer Aktien, ETFs, Rohstoffe oder Krypto gefunden.",
+    "reasoning": "BTC-Position bleibt weit von Stop-Loss (-6,5 bis -7,5%) und Take-Profit entfernt, kein Handlungsdruck. Mehrere Websuchen zu Aktien-Topgewinnern, Altcoin-Breakouts und Makrolage lieferten nur bereits bekannte oder undatierte/widerspruechliche Ergebnisse - keine frische, mehrfach bestaetigte Gelegenheit. Vorgabe ist, nur bei wirklich ueberzeugender Gelegenheit zu handeln, daher weiterhin kein Trade.",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 676.23,
+    "portfolioValueEnd": 679.43,
     "updates": [
       {
         "time": "00:08",
@@ -9695,6 +9695,11 @@
         "time": "14:10",
         "note": "Kein Trade, keine neue verlaessliche BTC-Live-Kursquelle gefunden (Kurs unveraendert uebernommen); Nasdaq-Erholung und Oelrueckgang (gelockerte Russland-Sanktionen) bereits bekannt, kein neuer Katalysator",
         "portfolioValue": 676.23
+      },
+      {
+        "time": "15:17",
+        "note": "Kein Trade, BTC-Kursupdate (82.536 USD, -2,94% seit Kauf); kein neuer bestaetigter Katalysator fuer Aktien/ETFs/Rohstoffe/Krypto (Nasdaq-Erholung vor Mag7-Earnings und Oel-Thematik bereits bekannt)",
+        "portfolioValue": 679.43
       }
     ]
   }
