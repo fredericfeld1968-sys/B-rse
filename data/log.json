@@ -9613,13 +9613,13 @@
   },
   {
     "date": "2026-10-19",
-    "marketOverview": "US-Kassamarkt (Aktien/ETFs) hat gerade geschlossen (22:00 MESZ); Bitcoin konsolidiert eng um 82.000 USD (Tagesspanne 80.670-83.035 USD, +1,3% 24h), Daily-Bollinger-Baender auf mehrjaehrigem Tiefststand (Hinweis auf bevorstehende grosse Bewegung, Richtung offen). Oelpreis (Brent) nach 5-Monats-Hoch am Freitag wieder leicht ruecklaeufig auf ca. 108 USD; Fed-Zinsentscheidung am 28.10. bleibt naechster Makro-Fixpunkt, Mag7-Earnings (Netflix 20.10., Tesla/Meta 21.10.) stehen unmittelbar bevor.",
-    "decision": "Kein Trade in diesem Lauf. BTC-Position (pos-0018) bleibt mit -3,71% klar innerhalb der Halteschwelle und wird gehalten. Ausserhalb der Handelszeiten fuer Aktien/ETFs/Rohstoffe kein ueberzeugender Krypto-Katalysator gefunden (Markt in enger Konsolidierung vor Bollinger-Band-Ausbruch).",
-    "reasoning": "Aktien/ETFs/Rohstoffe aktuell nicht handelbar (US-Kassamarkt seit 20:00 UTC/22:00 MESZ geschlossen). BTC-Kurs laut CoinGecko bei 81.881,60 USD (+1,3% 24h) leicht ueber dem letzten Update (81.840 USD); keine neue, mehrfach bestaetigte Nachricht mit klarem Kurstreiber fuer Krypto gefunden. Passend zum spekulativen Profil wird nur bei einer wirklich ueberzeugenden Gelegenheit gehandelt - diese liegt aktuell nicht vor, daher keine Aenderung am Portfolio.",
+    "marketOverview": "US-Kassamarkt (Aktien/ETFs/Rohstoffe) bleibt bis 15:30 MESZ geschlossen; Bitcoin konsolidiert weiter eng um 82.000 USD (CoinGecko: 81.949 USD, +1,35% 24h), Altcoins (ETH, SOL, XRP, DOGE, LTC, XMR) zeigen moderate Gewinne von +2-4% 24h ohne klaren Einzelkatalysator. Naechste Fixpunkte bleiben die Mag7-Earnings (Netflix 20.10., Tesla/Meta 21.10.) und die Fed-Zinsentscheidung am 28.10.",
+    "decision": "Kein Trade in diesem Lauf. BTC-Position (pos-0018) bleibt mit -3,63% klar innerhalb der Halteschwelle und wird weiter gehalten. Ausserhalb der Handelszeiten fuer Aktien/ETFs/Rohstoffe kein ueberzeugender Krypto-Katalysator gefunden.",
+    "reasoning": "Aktien/ETFs/Rohstoffe aktuell nicht handelbar (US-Kassamarkt schliesst erst wieder um 15:30 MESZ). BTC-Kurs laut CoinGecko-API bei 81.949 USD (+1,35% 24h), leicht ueber dem letzten Update (81.881,60 USD). Keine neue, mehrfach bestaetigte Nachricht mit klarem Kurstreiber fuer Krypto oder Altcoins gefunden (WebSearch lieferte nur veraltete/undatierte Ergebnisse). Passend zum spekulativen Profil wird nur bei einer wirklich ueberzeugenden Gelegenheit gehandelt - diese liegt aktuell nicht vor, daher keine Aenderung am Portfolio.",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 674.04,
+    "portfolioValueEnd": 674.6,
     "updates": [
       {
         "time": "00:08",
@@ -9735,6 +9735,11 @@
         "time": "22:09",
         "note": "Kein Trade, BTC-Kursupdate (CoinGecko: 81.881,60 USD, +1,3% 24h, -3,71% seit Kauf); US-Kassamarkt gerade geschlossen, enge Bollinger-Band-Konsolidierung ohne neuen Einzelkatalysator",
         "portfolioValue": 674.04
+      },
+      {
+        "time": "23:09",
+        "note": "Kein Trade, BTC-Kursupdate (CoinGecko: 81.949 USD, +1,35% 24h, -3,63% seit Kauf); kein neuer bestaetigter Katalysator fuer Aktien/ETFs/Rohstoffe (US-Kassamarkt geschlossen) oder Krypto gefunden, enge Konsolidierung haelt an",
+        "portfolioValue": 674.6
       }
     ]
   }
