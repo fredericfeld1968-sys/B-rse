@@ -9613,13 +9613,13 @@
   },
   {
     "date": "2026-10-19",
-    "marketOverview": "Bitcoin notiert um 03:08 MESZ laut CoinGecko-API bei 82.310 USD (+0,97% 24h), weiterhin stabil in der etablierten Range um 81.000-82.300 USD. Unter den Top-20-Coins keine auffaelligen Bewegungen (max. NEAR +3,4%, XMR +2,8%, RAIN +2,7%), keine davon mit einem frischen, mehrfach bestaetigten fundamentalen Katalysator unterlegt. Naechster wichtiger Termin bleibt die Fed-Zinsentscheidung am 28.10. Aktien, ETFs und Rohstoffe sind in der Nacht auf Montag weiterhin nicht handelbar.",
-    "decision": "00:08-, 01:09-, 02:08- und 03:08-Laeufe: Tagesbudget 19.10. bereits um 00:08 gutgeschrieben (totalFreshCapitalEur 76.000 EUR, keine zweite Gutschrift). Kein Trade: BTC-Position (pos-0018) nur im Kurs aktualisiert (82.310 USD, -3,20% seit Kauf bei 85.035 USD); weder Stop-Loss (-6,5 bis -7,5%) noch Take-Profit (+7-9%) erreicht. Kein ueberzeugender, mehrfach bestaetigter frischer Katalysator fuer einen Neukauf gefunden; Aktien/ETFs/Rohstoffe nachts/vor Boersenoeffnung ohnehin nicht handelbar.",
-    "reasoning": "BTC-Position bleibt innerhalb der Stop-Loss/Take-Profit-Bandbreite und wird gehalten; Kurs hat sich seit dem letzten Lauf leicht weiter erholt (82.097 -> 82.310 USD), aktuell -3,20% seit Kauf. Trotz hohem freiem Kapital (~74.640 EUR) kein neuer Kauf: Top-20-Marktdaten zeigen keine Bewegung ueber rund 3,4% und keine davon ist durch eine frische, mehrfach unabhaengig bestaetigte Nachricht unterlegt. Aktien, ETFs und Rohstoffe sind zu dieser Nachtzeit ohnehin nicht handelbar. Es wird weiterhin auf eine wirklich ueberzeugende, bestaetigte Gelegenheit gewartet statt auf unklare Signale zu spekulieren.",
+    "marketOverview": "Bitcoin notiert um 04:08 MESZ laut CoinGecko-API bei 82.459 USD (+1,07% 24h), weiterhin in der stabilen Range 81.000-82.500 USD. Unter den Top-25-Coins keine auffaelligen Bewegungen (max. ZEC +3,27%, NEAR +2,46%, LINK +2,14%), keine davon mit einem frischen, mehrfach bestaetigten fundamentalen Katalysator unterlegt. Naechster wichtiger Termin bleibt die Fed-Zinsentscheidung am 28.10. Aktien, ETFs und Rohstoffe sind in der Nacht auf Montag weiterhin nicht handelbar.",
+    "decision": "00:08-, 01:09-, 02:08-, 03:08- und 04:08-Laeufe: Tagesbudget 19.10. bereits um 00:08 gutgeschrieben (totalFreshCapitalEur 76.000 EUR, keine zweite Gutschrift). Kein Trade: BTC-Position (pos-0018) nur im Kurs aktualisiert (82.459 USD, -3,03% seit Kauf bei 85.035 USD); weder Stop-Loss (-6,5 bis -7,5%) noch Take-Profit (+7-9%) erreicht. Kein ueberzeugender, mehrfach bestaetigter frischer Katalysator fuer einen Neukauf gefunden; Aktien/ETFs/Rohstoffe nachts/vor Boersenoeffnung ohnehin nicht handelbar.",
+    "reasoning": "BTC-Position bleibt innerhalb der Stop-Loss/Take-Profit-Bandbreite und wird gehalten; Kurs hat sich seit dem letzten Lauf leicht weiter erholt (82.310 -> 82.459 USD), aktuell -3,03% seit Kauf. Trotz hohem freiem Kapital (~74.640 EUR) kein neuer Kauf: Top-25-Marktdaten zeigen keine Bewegung ueber rund 3,3% und keine davon ist durch eine frische, mehrfach unabhaengig bestaetigte Nachricht unterlegt. Aktien, ETFs und Rohstoffe sind zu dieser Nachtzeit ohnehin nicht handelbar. Es wird weiterhin auf eine wirklich ueberzeugende, bestaetigte Gelegenheit gewartet statt auf unklare Signale zu spekulieren.",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 677.57,
+    "portfolioValueEnd": 678.79,
     "updates": [
       {
         "time": "00:08",
@@ -9640,6 +9640,11 @@
         "time": "03:08",
         "note": "Kein Trade, BTC-Kursupdate (82.310 USD, +0,97% 24h, -3,20% seit Kauf); Top-20-Scan ohne ueberzeugenden Katalysator, nachts nur Krypto handelbar",
         "portfolioValue": 677.57
+      },
+      {
+        "time": "04:08",
+        "note": "Kein Trade, BTC-Kursupdate (82.459 USD, +1,07% 24h, -3,03% seit Kauf); Top-25-Scan ohne ueberzeugenden Katalysator (max ZEC +3,27%), nachts nur Krypto handelbar",
+        "portfolioValue": 678.79
       }
     ]
   }
