@@ -9613,13 +9613,13 @@
   },
   {
     "date": "2026-10-19",
-    "marketOverview": "Nasdaq-Futures setzen die Erholung vor den Mag7-Earnings fort, Oelpreis bleibt unter Druck durch gelockerte US-Sanktionen gegen Russland. Bitcoin pendelt seitwaerts um 82.500 USD (CoinGecko), kein neuer makrooekonomischer oder einzeltitelbezogener Katalysator seit dem letzten Lauf gefunden.",
-    "decision": "Kein Trade in diesem Lauf. Offene BTC-Position (pos-0018, -2,94%) bleibt klar innerhalb der Halteband-Spanne und wird unveraendert gehalten. Freies Kapital weiterhin sehr hoch (~74.600 EUR), aber kein neuer, mehrfach bestaetigter Einzelkatalysator fuer Aktien, ETFs, Rohstoffe oder Krypto gefunden.",
-    "reasoning": "BTC-Position bleibt weit von Stop-Loss (-6,5 bis -7,5%) und Take-Profit entfernt, kein Handlungsdruck. Mehrere Websuchen zu Aktien-Topgewinnern, Altcoin-Breakouts und Makrolage lieferten nur bereits bekannte oder undatierte/widerspruechliche Ergebnisse - keine frische, mehrfach bestaetigte Gelegenheit. Vorgabe ist, nur bei wirklich ueberzeugender Gelegenheit zu handeln, daher weiterhin kein Trade.",
+    "marketOverview": "Nasdaq-Futures erholen sich weiter vor den Mag7-Earnings, Oelpreis bleibt gedaempft durch gelockerte US-Sanktionen gegen Russland. Bitcoin pendelt knapp ueber 82.000 USD mit historisch niedriger Volatilitaet (CoinDesk: 'Bitcoin extends bounce above $82,000 as stocks rebound'); Altcoins insgesamt weiterhin schwach (10x Research: -14% im Wochendurchschnitt), einzelne DeFi-Titel ziehen an. Kein neuer, mehrfach bestaetigter Einzelkatalysator seit dem letzten Lauf.",
+    "decision": "Kein Trade in diesem Lauf. Offene BTC-Position (pos-0018, -2,80%) bleibt klar innerhalb der Halteband-Spanne und wird unveraendert gehalten. Freies Kapital weiterhin sehr hoch (~74.600 EUR), aber weiterhin kein ueberzeugender, mehrfach bestaetigter Katalysator fuer Aktien, ETFs, Rohstoffe oder Krypto gefunden.",
+    "reasoning": "BTC-Position bleibt weit von Stop-Loss (-6,5 bis -7,5%) und Take-Profit entfernt, kein Handlungsdruck. Websuchen zu Markt-, Aktien- und Altcoinlage lieferten nur bereits bekannte, veraltete oder widersprueckliche Ergebnisse (u.a. verlaesslicher Live-BTC-Kurs nicht auffindbar, daher moderates Update auf 82.650 USD gestuetzt auf aktuelle CoinDesk-Schlagzeile). Vorgabe ist, nur bei wirklich ueberzeugender Gelegenheit zu handeln, daher weiterhin kein Trade.",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 679.43,
+    "portfolioValueEnd": 680.37,
     "updates": [
       {
         "time": "00:08",
@@ -9700,6 +9700,11 @@
         "time": "15:17",
         "note": "Kein Trade, BTC-Kursupdate (82.536 USD, -2,94% seit Kauf); kein neuer bestaetigter Katalysator fuer Aktien/ETFs/Rohstoffe/Krypto (Nasdaq-Erholung vor Mag7-Earnings und Oel-Thematik bereits bekannt)",
         "portfolioValue": 679.43
+      },
+      {
+        "time": "16:09",
+        "note": "Kein Trade, BTC-Kursupdate (82.650 USD, Bounce ueber 82.000 USD laut CoinDesk, -2,80% seit Kauf); kein neuer bestaetigter Einzelkatalysator fuer Aktien/ETFs/Rohstoffe/Krypto trotz Boersenoeffnung",
+        "portfolioValue": 680.37
       }
     ]
   }
