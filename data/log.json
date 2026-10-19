@@ -9614,12 +9614,12 @@
   {
     "date": "2026-10-19",
     "marketOverview": "Bitcoin notiert bei ca. 82.600 USD, leichte Erholung uebers Wochenende (Freitagsschluss ca. 81.500 USD) bei duennem Wochenend-Volumen - Marktbeobachter (Cryptoticker) warnen, die Bewegung sei fragil. Citigroup hebt laut Berichten sein 12-Monats-Kursziel fuer BTC auf 113.000 USD an, dennoch flossen zuletzt rund 228 Mio. USD aus Bitcoin-ETFs ab. Kein ueberzeugender frischer Altcoin-Katalysator gefunden. Boersen (Aktien/ETFs/Rohstoffe) vor Handelsbeginn (Xetra oeffnet 09:00 CET) weiterhin nicht handelbar.",
-    "decision": "Kein Trade in diesem Lauf. Offene BTC-Position (pos-0018) bleibt mit -2,86% klar unter der Stop-Loss-Schwelle und wird gehalten; Kursstand aktualisiert.",
-    "reasoning": "BTC-Verlust (-2,86%) ist moderat und weit von der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%) entfernt, daher kein Verkauf. Die leichte Wochenend-Erholung gilt laut Marktbeobachtern als fragil (duennes Volumen), kein ueberzeugender neuer Ausbruchskatalysator fuer Altcoins gefunden. Aktien/ETFs/Rohstoffe sind vor Boersenoeffnung nicht handelbar. Passend zur Vorgabe, nur bei wirklich ueberzeugender Gelegenheit zu handeln, bleibt es bei keinem Trade.",
+    "decision": "Kein Trade in diesem Lauf. Offene BTC-Position (pos-0018) bleibt mit -2,71% klar unter der Stop-Loss-Schwelle und wird gehalten; Kursstand aktualisiert.",
+    "reasoning": "BTC-Verlust (-2,71%) ist moderat und weit von der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%) entfernt, daher kein Verkauf. Die leichte Wochenend-Erholung gilt laut Marktbeobachtern als fragil (duennes Volumen), kein ueberzeugender neuer Ausbruchskatalysator fuer Altcoins gefunden (Monero/Solana/Zcash je ca. +1 bis +3% 24h, nichts Neues). Aktien/ETFs/Rohstoffe sind vor Boersenoeffnung (Xetra 09:00) weiterhin nicht handelbar. Passend zur Vorgabe, nur bei wirklich ueberzeugender Gelegenheit zu handeln, bleibt es bei keinem Trade.",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 679.96,
+    "portfolioValueEnd": 681,
     "updates": [
       {
         "time": "00:08",
@@ -9660,6 +9660,11 @@
         "time": "07:08",
         "note": "Kein Trade, BTC-Kursupdate (82.600 USD, -2,86% seit Kauf); Wochenend-Rally gilt als fragil (duennes Volumen), kein ueberzeugender Altcoin-Katalysator, vor Boersenoeffnung nur Krypto handelbar",
         "portfolioValue": 679.96
+      },
+      {
+        "time": "08:11",
+        "note": "Kein Trade, BTC-Kursupdate (82.727 USD, -2,71% seit Kauf); Monero/Solana/Zcash je nur +1 bis +3% 24h, kein neuer Katalysator; Xetra oeffnet erst um 09:00, bis dahin nur Krypto handelbar",
+        "portfolioValue": 681
       }
     ]
   }
