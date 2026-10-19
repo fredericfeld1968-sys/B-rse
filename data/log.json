@@ -9613,13 +9613,13 @@
   },
   {
     "date": "2026-10-19",
-    "marketOverview": "Nasdaq-Futures erholen sich weiter vor den Mag7-Earnings (Netflix 20.10., Tesla/Meta 21.10. nach US-Handelsschluss), nach der schwaechsten Nasdaq-Woche seit April 2025; Oelpreis bleibt nach Ruecksetzer vom Fuenfmonatshoch gedaempft. Bitcoin pendelt knapp ueber 82.000 USD (CoinDesk: rund 82.446 USD), weiterhin ohne frischen, mehrfach bestaetigten Einzelkatalysator fuer Altcoins oder Aktien seit dem letzten Lauf.",
-    "decision": "Kein Trade in diesem Lauf. Offene BTC-Position (pos-0018, -3,04%) bleibt klar innerhalb der Halteband-Spanne und wird unveraendert gehalten. Freies Kapital weiterhin sehr hoch (~74.600 EUR), aber weiterhin kein ueberzeugender, mehrfach bestaetigter Katalysator fuer Aktien, ETFs, Rohstoffe oder Krypto gefunden.",
-    "reasoning": "US-Boersen sind aktuell geoffnet, europaeische bereits geschlossen; Marktlage unveraendert zum 17:11-Lauf: Mag7-Earnings (Netflix morgen, Tesla/Meta uebermorgen) stehen noch aus und werden als naechster moeglicher Katalysator beobachtet. BTC-Position bleibt weit von Stop-Loss (-6,5 bis -7,5%) und Take-Profit entfernt, kein Handlungsdruck. Vorgabe ist, nur bei wirklich ueberzeugender Gelegenheit zu handeln, daher weiterhin kein Trade.",
+    "marketOverview": "Nasdaq-Futures/-Index erholen sich im Nachmittagshandel deutlich von der schwachen Vorwoche (Nasdaq 100 laut Bloomberg zeitweise +1,9%, Chip-Index +3,5%; Intel nach JPMorgan-Upgrade fester), getrieben von Dip-Buying bei KI-/Chipwerten vor der Earnings-Woche (Netflix 20.10., Tesla/Meta 21.10.). Oelpreis und US-Renditen weiter leicht ruecklaeufig. Bitcoin pendelt um 81.900-82.000 USD (CoinGecko, +1,0% 24h), Altcoins (ETH, SOL, XRP, BNB) nur moderat (+1 bis +2,2%) im Plus - weiterhin kein frischer, einzeln bestaetigter Katalysator mit der sonst ueblichen Staerke (>5%) fuer einen neuen Trade.",
+    "decision": "Kein Trade in diesem Lauf. Offene BTC-Position (pos-0018, -3,65%) bleibt klar innerhalb der Halteband-Spanne und wird unveraendert gehalten. Freies Kapital weiterhin sehr hoch (~74.600 EUR), aber weiterhin kein ueberzeugender, mehrfach bestaetigter Katalysator fuer Aktien, ETFs, Rohstoffe oder Krypto gefunden.",
+    "reasoning": "US-Boersen sind aktuell geoffnet, europaeische bereits geschlossen; die breite Tech-/Chip-Erholung ist bereits seit dem Vormittag bekannt und kein frischer Einzelkatalysator. Mag7-Earnings (Netflix morgen, Tesla/Meta uebermorgen) stehen noch aus und werden als naechster moeglicher Katalysator beobachtet. BTC-Position bleibt weit von Stop-Loss (-6,5 bis -7,5%) und Take-Profit entfernt, kein Handlungsdruck. Vorgabe ist, nur bei wirklich ueberzeugender Gelegenheit zu handeln, daher weiterhin kein Trade.",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 678.69,
+    "portfolioValueEnd": 674.46,
     "updates": [
       {
         "time": "00:08",
@@ -9715,6 +9715,11 @@
         "time": "18:09",
         "note": "Kein Trade, BTC-Kursupdate (82.446 USD, -3,04% seit Kauf); Mag7-Earnings (Netflix 20.10., Tesla/Meta 21.10.) weiterhin naechster moeglicher Katalysator, kein frischer bestaetigter Trigger",
         "portfolioValue": 678.69
+      },
+      {
+        "time": "19:08",
+        "note": "Kein Trade, BTC-Kursupdate (CoinGecko: 81.932 USD, +1,0% 24h, -3,65% seit Kauf); Nasdaq-Tech-/Chip-Erholung (Nasdaq 100 +1,9%, Chips +3,5%, Intel nach JPMorgan-Upgrade) bereits bekannt, kein neuer Einzelkatalysator",
+        "portfolioValue": 674.46
       }
     ]
   }
