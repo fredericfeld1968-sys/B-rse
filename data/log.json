@@ -9745,14 +9745,14 @@
   },
   {
     "date": "2026-10-20",
-    "marketOverview": "US-Boersen (S&P 500 ~7.712, +0,28%) schliessen nahe Rekordstand; Brent Crude konsolidiert bei ~109,19 USD/Barrel (-2,12% seit Kauf pos-0030), Hormuz-Eskalation weiterhin ungeloest aber ohne frische Zuspitzung in dieser Stunde. Bitcoin bei ~82.557 USD leicht erholt (+0,79% 24h laut Yahoo Finance), bleibt aber unter dem Kaufniveau von pos-0018 (-2,91%). Staerkste 24h-Mover im Krypto-Top-50 (WLD +14,5%, ZEC +7,4%) ohne auffindbaren, datierten fundamentalen Katalysator fuer den heutigen Tag - vermutlich fortgesetzte, bereits eingepreiste Eigenbewegungen statt neuer Nachricht.",
-    "decision": "Kumulierter Tagesstand: Kein neuer Kauf oder Verkauf in diesem Lauf (22:10). Offene Positionen (Bitcoin pos-0018, Brent Crude pos-0030) auf aktuelle Kurse aktualisiert, beide weiterhin klar innerhalb der Toleranz (-2,91% bzw. -2,12%, keine Stop-Loss- oder Gewinnmitnahme-Schwelle erreicht). US-Boersen fuer heute geschlossen (16:08 ET), daher nur Krypto grundsaetzlich handelbar; WLD/ZEC-Bewegungen ohne bestaetigten frischen Katalysator, daher passend zum spekulativen Profil kein Trade auf unsicherer Datenbasis.",
-    "reasoning": "Live-Kursdaten ueber Yahoo-Finance-API (BTC-USD, BZ=F) bezogen und mit CoinGecko-Daten plausibilisiert. Fuer WLD (+14,45% 24h) und ZEC (+7,41% 24h) lieferte die Recherche keine aktuellen, datierten Nachrichtenquellen fuer den 20.10. - dieselbe Unsicherheit wurde bereits in mehreren fruehren Laeufen des Tages zu WLD festgestellt. Ohne mehrfach unabhaengig bestaetigten Katalysator wird keine neue Position eroeffnet. Bestehende Positionen bleiben im Rahmen der etablierten Stop-Loss-/Gewinnmitnahme-Bandbreite (-6,5% bis -7,5% bzw. +7% bis +9%).",
+    "marketOverview": "Bitcoin handelt bei ~82.795 USD (+1,03% 24h laut CoinGecko), leichte Erholung, bleibt aber -2,63% unter Kaufniveau von pos-0018 (85.035 USD). Brent Crude bei 109,12 USD/Barrel (-0,39% im Tagesverlauf laut Yahoo Finance/NYM-Future), Hormuz-Eskalation weiter ungeloest, aber keine frische Zuspitzung in dieser Stunde. Staerkste 24h-Mover im Krypto-Top-60 bleiben WLD (+14,2%) und ZEC (+10,3%), fuer beide weiterhin kein frischer, datierter, mehrfach bestaetigter Katalysator fuer den 20.10. auffindbar - wie bereits in mehreren fruehren Laeufen des Tages notiert.",
+    "decision": "Kumulierter Tagesstand: Kein neuer Kauf oder Verkauf in diesem Lauf (23:08). Offene Positionen (Bitcoin pos-0018, Brent Crude pos-0030) auf aktuelle Kurse aktualisiert, beide weiterhin klar innerhalb der Toleranz (-2,63% bzw. -2,18%, keine Stop-Loss- oder Gewinnmitnahme-Schwelle erreicht). US-/EU-Boersen seit dem fruehen Abend geschlossen, daher nur Krypto grundsaetzlich handelbar; WLD/ZEC-Bewegungen weiterhin ohne bestaetigten frischen Katalysator, daher passend zum spekulativen Profil erneut kein Trade auf unsicherer Datenbasis.",
+    "reasoning": "Live-Kursdaten direkt ueber CoinGecko-API (Bitcoin) und Yahoo-Finance-API (BZ=F, Brent) bezogen. Zusaetzlicher Scan der Top-60-Kryptowerte nach 24h-Veraenderung: WLD (+14,2%) und ZEC (+10,3%) fuehren erneut ohne auffindbaren, auf den 20.10. datierten Katalysator (Suche zu ZEC lieferte nur aeltere Ereignisse aus April/Juli/September 2026; Suche zu WLD nur aeltere Token-Sale-/Unlock-Meldungen ohne aktuelles Datum). Ohne mehrfach unabhaengig bestaetigten, frischen Katalysator wird passend zum spekulativen, aber disziplinierten Profil keine neue Position eroeffnet. Bestehende Positionen bleiben im Rahmen der etablierten Stop-Loss-/Gewinnmitnahme-Bandbreite (-6,5% bis -7,5% bzw. +7% bis +9%).",
     "positionIds": [
       "pos-0018",
       "pos-0030"
     ],
-    "portfolioValueEnd": 1364.79,
+    "portfolioValueEnd": 1366.31,
     "updates": [
       {
         "time": "00:08",
@@ -9868,6 +9868,11 @@
         "time": "22:10",
         "note": "Keine Aenderung. BTC-Kursupdate (Yahoo Finance: 82.557 USD, +0,79% 24h, -2,91% seit Kauf); Brent-Kursupdate (109,19 USD, -2,12% seit Kauf pos-0030); US-Boersen seit 16:08 ET geschlossen, daher nur Krypto handelbar; WLD/ZEC-Bewegungen ohne bestaetigten frischen Katalysator, kein Trade",
         "portfolioValue": 1364.79
+      },
+      {
+        "time": "23:08",
+        "note": "Keine Aenderung. BTC-Kursupdate (CoinGecko: 82.795 USD, +1,03% 24h, -2,63% seit Kauf); Brent-Kursupdate (Yahoo/NYM: 109,12 USD, -0,39% Tagesverlauf, -2,18% seit Kauf pos-0030); Boersen geschlossen, nur Krypto handelbar; WLD/ZEC-Pumps erneut ohne bestaetigten Katalysator, kein Trade",
+        "portfolioValue": 1366.31
       }
     ]
   }
