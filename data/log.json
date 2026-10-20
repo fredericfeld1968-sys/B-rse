@@ -9745,13 +9745,13 @@
   },
   {
     "date": "2026-10-20",
-    "marketOverview": "Dritte Pruefung des Tages (02:08 Uhr): Boersen fuer Aktien/ETFs/Rohstoffe weiterhin geschlossen (ausserhalb US-/EU-Handelszeiten). Bitcoin notiert laut CoinGecko bei ca. 81.740 USD (-0,4% 24h), damit praktisch unveraendert zum 01:08-Stand, Gesamt-Krypto-Marktkapitalisierung leicht ruecklaeufig (-1,5% auf ca. 2,76 Bio. USD, insgesamt leicht risikoscheuer Ton). Die staerksten 24h-Gewinner sind ausschliesslich obskure Mikrocap-Tokens (u.a. Bedrock, AVA/Travala, HoodPork) ohne belastbare, mehrfach bestaetigte fundamentale Nachricht. Mag7-Earnings-Woche (Netflix 20.10., Tesla/Meta 21.10.) steht weiter bevor.",
-    "decision": "Kein Trade in diesem Lauf. Offene BTC-Position (pos-0018, aktuell -3,88%) bleibt klar innerhalb der Halteband-Spanne und wird unveraendert gehalten. Tagesbudget fuer den 20.10. wurde bereits im ersten Lauf des Tages gutgeschrieben, keine zweite Gutschrift. Freies Kapital bleibt sehr hoch, aber ohne ueberzeugende Gelegenheit nicht eingesetzt.",
-    "reasoning": "Weiterhin sind nachts nur Krypto-Trades moeglich. Die aktuellen Top-Gewinner sind durchweg kleine, illiquide Tokens ohne den sonst geforderten, mehrfach unabhaengig bestaetigten fundamentalen Katalysator (Institutionen, Regulierung, Produktlaunch) - daher kein Neukauf. BTC-Position bleibt weit von der Stop-Loss-Schwelle (-6,5 bis -7,5%) entfernt, kein Handlungsdruck. Vorgabe ist, nur bei wirklich ueberzeugender Gelegenheit zu handeln, daher erneut kein Trade.",
+    "marketOverview": "Vierte Pruefung des Tages (03:08 Uhr): Boersen fuer Aktien/ETFs/Rohstoffe weiterhin geschlossen (Sonntagnacht, ausserhalb US-/EU-Handelszeiten). Bitcoin notiert laut CoinGecko bei ca. 81.454 USD (-1,15% 24h), damit leicht schwaecher als beim 02:08-Stand. Die Top-30 nach Marktkapitalisierung zeigen praktisch keine Bewegung (staerkster Mover CC +2,1%, BCH +0,7%) - ein insgesamt ruhiger, richtungsloser Krypto-Markt ohne neuen Katalysator. Die Mag7-Earnings-Woche (Netflix 20.10., Tesla/Meta 21.10.) steht weiter bevor.",
+    "decision": "Kein Trade in diesem Lauf. Offene BTC-Position (pos-0018, aktuell -4,21%) bleibt klar innerhalb der Halteband-Spanne und wird unveraendert gehalten. Tagesbudget fuer den 20.10. wurde bereits im ersten Lauf des Tages gutgeschrieben, keine zweite Gutschrift. Freies Kapital bleibt sehr hoch, aber ohne ueberzeugende Gelegenheit nicht eingesetzt.",
+    "reasoning": "Weiterhin sind nachts nur Krypto-Trades moeglich. Ein Scan der Top-30-Coins zeigt keine nennenswerten Bewegungen und keinen bestaetigten fundamentalen Katalysator (Institutionen, Regulierung, Produktlaunch) - daher kein Neukauf. BTC-Position bleibt weit von der Stop-Loss-Schwelle (-6,5 bis -7,5%) entfernt, kein Handlungsdruck. Vorgabe ist, nur bei wirklich ueberzeugender Gelegenheit zu handeln, daher erneut kein Trade.",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 672.87,
+    "portfolioValueEnd": 670.52,
     "updates": [
       {
         "time": "00:08",
@@ -9767,6 +9767,11 @@
         "time": "02:08",
         "note": "Kein Trade, BTC-Kursupdate (CoinGecko: 81.740 USD, -0,4% 24h, -3,88% seit Kauf); staerkste Mover nur obskure Mikrocaps ohne bestaetigten Katalysator, Krypto-Gesamtmarkt leicht schwaecher (-1,5%), nachts nur Krypto handelbar",
         "portfolioValue": 672.87
+      },
+      {
+        "time": "03:08",
+        "note": "Kein Trade, BTC-Kursupdate (CoinGecko: 81.454 USD, -1,15% 24h, -4,21% seit Kauf); Top-30-Scan ohne nennenswerte Bewegung oder bestaetigten Katalysator, nachts nur Krypto handelbar",
+        "portfolioValue": 670.52
       }
     ]
   }
