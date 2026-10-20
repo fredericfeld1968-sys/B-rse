@@ -9745,14 +9745,14 @@
   },
   {
     "date": "2026-10-20",
-    "marketOverview": "Globaler Tech-/KI-Ausverkauf (Kospi, SoftBank, Chipwerte) haelt an, ohne klaren datierten Einzelkatalysator fuer den Nachmittag des 20.10. BTC pendelt weiterhin stabil um 81.400-81.500 USD (-4,19% seit Kauf pos-0018), haelt sich laut mehreren Quellen ueber 80.000 USD bei weiterhin schwacher institutioneller Nachfrage. Brent Crude konsolidiert nach dem Ausbruch vom 19./20.10. leicht bei ca. 110,20 USD/Barrel (-1,21% seit Kauf pos-0030), weiterhin nahe Fuenf-Monats-Hoch; die Hormuz-Eskalationsthese (Rekord-Schiffsangriffe, stark gefallener Oel-Durchfluss, Houthi-Angriffe) bleibt fundamental intakt, aber ohne frischen, über die bereits gehandelte Lage hinausgehenden Katalysator fuer eine weitere Position.",
-    "decision": "Kumulierter Tagesstand 20.10. (Stand 18:11): Tagesbudget (1000 EUR) bereits um 00:08 gutgeschrieben. Nach durchgehend tradefreien Laeufen 00:08-15:10 wurde im 16:10-Lauf eine neue spekulative Position in Brent Crude Oil (pos-0030, 700 EUR) eroeffnet. Im 17:10- und 18:11-Lauf jeweils kein weiterer Trade: beide offenen Positionen (BTC pos-0018, Brent pos-0030) liegen weiterhin innerhalb der Halteschwelle, kein neuer, mehrfach bestaetigter Zusatzkatalysator fuer eine weitere Position gefunden.",
-    "reasoning": "BTC (pos-0018) notiert bei ca. 81.470 USD, damit -4,19% seit Kauf (85.035 USD) - innerhalb der etablierten Halteschwelle (-6,5 bis -7,5%), kein Stop-Loss erreicht, Position bleibt gehalten. Brent (pos-0030, Kauf 111,55 USD) konsolidiert minimal auf ca. 110,20 USD (-1,21%) - normale Schwankung ohne neue fundamentale Entwicklung, kein Grund zur Gewinnmitnahme oder zum Stop-Loss. Verlaessliche, auf den 20.10. datierte Marktdaten (Einzelaktien, Krypto-Spotpreise) waren per Websuche kaum zu verifizieren; mangels eines frischen, mehrfach bestaetigten Katalysators wird vorsichtig auf Basis der etablierten Trendlinie der letzten Stunden fortgeschrieben und keine neue Position eroeffnet. Freies Kapital (weiterhin sehr hoch, >70.000 EUR) bleibt fuer eine ueberzeugendere Gelegenheit reserviert.",
+    "marketOverview": "Globaler Tech-/KI-Ausverkauf verliert am Abend des 20.10. etwas an Schwung: US-Indizes drehen intraday ins Plus (Dow +1,3%, S&P 500 +0,7%, Nasdaq +0,5% laut CNN Markets), getrieben von einer leichten Erholung bei Chipwerten, waehrend Oelpreise weiter hoch bleiben. Brent Crude haelt sich bei ca. 109,85-110 USD/Barrel nahe dem Fuenf-Monats-Hoch (-1,52% seit Kauf pos-0030); die Hormuz-Eskalationsthese (Tanker-Angriffe, Hormuz-Transits rund 70% unter Normalniveau) bleibt intakt, laut US-Energieministerium sind die Rohoelfluesse aber bereits wieder auf rund 80% des Vorkriegsniveaus erholt. Bitcoin pendelt weiterhin stabil um 81.400 USD (-4,27% seit Kauf pos-0018), CoinDesk meldet leichten Rueckgang trotz staerkster BTC-Spot-ETF-Zufluesse seit fast einem Monat (526,6 Mio. USD am Vortag) - Aktienschwaeche daempft offenbar die Nachfrage.",
+    "decision": "Kumulierter Tagesstand 20.10. (Stand 19:10): Tagesbudget (1000 EUR) bereits um 00:08 gutgeschrieben. Nach durchgehend tradefreien Laeufen 00:08-15:10 wurde im 16:10-Lauf eine neue spekulative Position in Brent Crude Oil (pos-0030, 700 EUR) eroeffnet. In den Laeufen 17:10, 18:11 und 19:10 jeweils kein weiterer Trade: beide offenen Positionen (BTC pos-0018, Brent pos-0030) liegen weiterhin innerhalb der Halteschwelle, kein neuer, mehrfach bestaetigter Zusatzkatalysator fuer eine weitere Position gefunden.",
+    "reasoning": "BTC (pos-0018) notiert bei ca. 81.400 USD, damit -4,27% seit Kauf (85.035 USD) - innerhalb der etablierten Halteschwelle (-6,5 bis -7,5%), kein Stop-Loss erreicht, Position bleibt gehalten. Brent (pos-0030, Kauf 111,55 USD) konsolidiert leicht auf ca. 109,85 USD (-1,52%) nahe dem Fuenf-Monats-Hoch - normale Schwankung, Hormuz-Eskalationsthese bleibt trotz teilweiser Angebotserholung (80% Vorkriegsniveau laut US-Energieministerium) fundamental intakt, kein Grund zur Gewinnmitnahme oder zum Stop-Loss. Keine neue, mehrfach unabhaengig bestaetigte Kaufgelegenheit im Risikoprofil gefunden: US-Aktienmaerkte zeigen zwar eine leichte intraday-Erholung (Dow/S&P/Nasdaq im Plus), jedoch ohne einen konkreten, einzelwertbezogenen Katalysator (Earnings-Beat, Ausbruch) der ueber allgemeine Markterholung hinausgeht; Krypto-Altcoin-Scan ohne ueberzeugenden, aktuellen und bestaetigten Ausbruch. Freies Kapital (weiterhin sehr hoch, >70.000 EUR) bleibt fuer eine ueberzeugendere Gelegenheit reserviert.",
     "positionIds": [
       "pos-0018",
       "pos-0030"
     ],
-    "portfolioValueEnd": 1362.18,
+    "portfolioValueEnd": 1359.41,
     "updates": [
       {
         "time": "00:08",
@@ -9848,6 +9848,11 @@
         "time": "18:11",
         "note": "Keine Aenderung. BTC-Kursupdate (~81.470 USD, -4,19% seit Kauf, weiter gehalten); Brent-Kursupdate (~110,20 USD, -1,21% seit Kauf pos-0030, weiterhin Konsolidierung); kein neuer bestaetigter Zusatzkatalysator fuer weitere Position gefunden",
         "portfolioValue": 1362.18
+      },
+      {
+        "time": "19:10",
+        "note": "Keine Aenderung. BTC-Kursupdate (~81.400 USD, -4,27% seit Kauf, weiter gehalten); Brent-Kursupdate (~109,85 USD, -1,52% seit Kauf pos-0030, leichte Konsolidierung nahe 5-Monats-Hoch); US-Aktienmaerkte intraday leicht erholt (Dow/S&P/Nasdaq im Plus), aber kein einzelwertbezogener bestaetigter Zusatzkatalysator fuer eine weitere Position gefunden",
+        "portfolioValue": 1359.41
       }
     ]
   }
