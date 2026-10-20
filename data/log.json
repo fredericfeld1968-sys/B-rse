@@ -9745,9 +9745,9 @@
   },
   {
     "date": "2026-10-20",
-    "marketOverview": "Krypto-Gesamtmarkt in der Nacht auf den 20.10. leicht risikoavers: BTC bei ca. 81.500 USD (-1,1% 24h), ETH, SOL, XRP, ADA und AVAX allesamt leicht im Minus (-0,6% bis -3,1%). Kein breiter Trend, keine neuen fundamentalen Katalysatoren; vereinzelte Mikrocap-Ausreisser (WLD +8,3%) ohne aktuelle, bestaetigte Nachrichtenlage. Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten.",
-    "decision": "Kumulierter Tagesstand 20.10.: Tagesbudget (1000 EUR) um 00:08 gutgeschrieben. In den Laeufen 00:08-04:08 kein Trade - BTC-Position (pos-0018) wird fortlaufend mit aktuellem Kurs bewertet (-4,10% seit Kauf, noch innerhalb der Halteschwelle), kein neuer bestaetigter Katalysator fuer Zu- oder Verkauf gefunden.",
-    "reasoning": "Nachts (04:08 CEST) sind Aktien, ETFs und Rohstoffe nicht handelbar. Die offene BTC-Position liegt bei -4,10% und damit noch unterhalb der etablierten Stop-Loss-Schwelle von -6,5 bis -7,5%; kein neuer Katalysator rechtfertigt vorzeitiges Glattstellen. Fuer Neuinvestitionen wurde der Krypto-Markt breit nach bestaetigten Ausbruechen gescannt (Top-50 nach Marktkapitalisierung); einzig WLD zeigt mit +8,35% eine nennenswerte Bewegung, dafuer liess sich jedoch keine aktuelle, mehrfach bestaetigte Nachricht finden (letzte verifizierbare Rally-Berichte stammen aus Juni 2026) - daher keine Position, da keine wirklich ueberzeugende, bestaetigte Gelegenheit vorliegt.",
+    "marketOverview": "Kryptomarkt in den fruehen Morgenstunden des 20.10. weiterhin leicht risikoavers und ohne klaren Trend: BTC pendelt um die 81.000-82.000 USD (zuletzt -4% seit dem Positionskauf), Altcoins groesstenteils flach bis leicht im Minus. Keine neuen, mehrfach bestaetigten fundamentalen Katalysatoren auffindbar; aktuelle Live-Kursquellen lieferten in diesem Lauf keine konsistenten, verifizierbaren Zahlen. Aktien/ETFs/Rohstoffe weiterhin ausserhalb der Handelszeiten (vorbörslich).",
+    "decision": "Kumulierter Tagesstand 20.10.: Tagesbudget (1000 EUR) bereits um 00:08 gutgeschrieben. In den Laeufen 00:08-05:09 durchgehend kein Trade - BTC-Position (pos-0018) bleibt gehalten (zuletzt rund -4% seit Kauf, innerhalb der Halteschwelle), kein neuer bestaetigter Katalysator fuer Kauf oder Verkauf gefunden.",
+    "reasoning": "Vorboerslich (05:09 CEST) sind Aktien, ETFs und Rohstoffe weiterhin nicht handelbar. Die Web-Suche lieferte in diesem Lauf keine verlaesslichen, uebereinstimmenden Live-Kursdaten fuer Bitcoin (stark streuende, teils offensichtlich veraltete Werte verschiedener Quellen) und keine frischen, mehrfach bestaetigten Markt-Katalysatoren fuer Krypto, Aktien, Rohstoffe oder ETFs. Ohne verifizierbare aktuelle Daten wird die offene BTC-Position unveraendert mit dem zuletzt bestaetigten Stand (-4,10% seit Kauf, 04:08-Lauf) fortgefuehrt statt auf Basis unsicherer Zahlen zu handeln. Da weder eine Verkaufsschwelle (Stop-Loss/Take-Profit) sicher bestaetigt noch eine neue, wirklich ueberzeugende Kaufgelegenheit identifiziert werden kann, erfolgt passend zum spekulativen, aber disziplinierten Kurzfrist-Profil keine Transaktion.",
     "positionIds": [
       "pos-0018"
     ],
@@ -9776,6 +9776,11 @@
       {
         "time": "04:08",
         "note": "Kein Trade, BTC-Kursupdate (CoinGecko: 81.549 USD, -1,15% 24h, -4,10% seit Kauf); Top-50-Scan ohne bestaetigten Katalysator (WLD +8,35% unbestaetigt/unklarer Rally-Rest ohne aktuelle Quelle, uebrige Top-Coins flach bis leicht negativ), nachts nur Krypto handelbar",
+        "portfolioValue": 671.3
+      },
+      {
+        "time": "05:09",
+        "note": "Kein Trade. Live-Kursquellen lieferten keine verlaesslichen/uebereinstimmenden aktuellen Daten (BTC-Preisangaben streuten stark zwischen Quellen); BTC-Position (pos-0018) daher unveraendert mit letztem bestaetigtem Stand (04:08, -4,10%) fortgefuehrt, keine neuen bestaetigten Katalysatoren gefunden.",
         "portfolioValue": 671.3
       }
     ]
