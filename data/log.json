@@ -9745,13 +9745,13 @@
   },
   {
     "date": "2026-10-20",
-    "marketOverview": "Kryptomarkt in den fruehen Morgenstunden des 20.10. weiterhin leicht risikoavers und ohne klaren Trend: BTC pendelt um die 81.000-82.000 USD (zuletzt -4% seit dem Positionskauf), Altcoins groesstenteils flach bis leicht im Minus. Keine neuen, mehrfach bestaetigten fundamentalen Katalysatoren auffindbar; aktuelle Live-Kursquellen lieferten in diesem Lauf keine konsistenten, verifizierbaren Zahlen. Aktien/ETFs/Rohstoffe weiterhin ausserhalb der Handelszeiten (vorbörslich).",
-    "decision": "Kumulierter Tagesstand 20.10.: Tagesbudget (1000 EUR) bereits um 00:08 gutgeschrieben. In den Laeufen 00:08-05:09 durchgehend kein Trade - BTC-Position (pos-0018) bleibt gehalten (zuletzt rund -4% seit Kauf, innerhalb der Halteschwelle), kein neuer bestaetigter Katalysator fuer Kauf oder Verkauf gefunden.",
-    "reasoning": "Vorboerslich (05:09 CEST) sind Aktien, ETFs und Rohstoffe weiterhin nicht handelbar. Die Web-Suche lieferte in diesem Lauf keine verlaesslichen, uebereinstimmenden Live-Kursdaten fuer Bitcoin (stark streuende, teils offensichtlich veraltete Werte verschiedener Quellen) und keine frischen, mehrfach bestaetigten Markt-Katalysatoren fuer Krypto, Aktien, Rohstoffe oder ETFs. Ohne verifizierbare aktuelle Daten wird die offene BTC-Position unveraendert mit dem zuletzt bestaetigten Stand (-4,10% seit Kauf, 04:08-Lauf) fortgefuehrt statt auf Basis unsicherer Zahlen zu handeln. Da weder eine Verkaufsschwelle (Stop-Loss/Take-Profit) sicher bestaetigt noch eine neue, wirklich ueberzeugende Kaufgelegenheit identifiziert werden kann, erfolgt passend zum spekulativen, aber disziplinierten Kurzfrist-Profil keine Transaktion.",
+    "marketOverview": "Kryptomarkt in den fruehen Morgenstunden des 20.10. weiterhin leicht risikoavers und ohne klaren Trend: BTC notiert laut CoinGecko-Live-API bei 82.022 USD (-0,52% 24h), Altcoins groesstenteils flach (CC +3,4% staerkster Top-30-Mover, keine bestaetigten Katalysatoren). Aktien/ETFs/Rohstoffe weiterhin ausserhalb der Handelszeiten (vorboerslich).",
+    "decision": "Kumulierter Tagesstand 20.10.: Tagesbudget (1000 EUR) bereits um 00:08 gutgeschrieben. In den Laeufen 00:08-06:08 durchgehend kein Trade - BTC-Position (pos-0018) bleibt gehalten (zuletzt rund -3,5% seit Kauf, innerhalb der Halteschwelle), kein neuer bestaetigter Katalysator fuer Kauf oder Verkauf gefunden.",
+    "reasoning": "Vorboerslich (06:08 CEST) sind Aktien, ETFs und Rohstoffe weiterhin nicht handelbar. Per CoinGecko-API (live, direkt abgefragt) notiert Bitcoin bei 82.022 USD (-0,52% in 24h), damit -3,54% seit Kauf der offenen Position (85.035 USD) - innerhalb der Halteschwelle, kein Stop-Loss oder Take-Profit erreicht. Scan der Top-30-Coins nach 24h-Veraenderung zeigt keine ueberzeugende Bewegung (staerkster Mover CC +3,4% ohne erkennbaren fundamentalen Katalysator, schwaechster RAIN -8,1% als Microcap ohne Relevanz). Keine frischen, mehrfach bestaetigten Markt-Katalysatoren fuer Krypto, Aktien, Rohstoffe oder ETFs auffindbar. Da weder eine Verkaufsschwelle sicher erreicht noch eine neue, wirklich ueberzeugende Kaufgelegenheit identifiziert werden kann, erfolgt passend zum spekulativen, aber disziplinierten Kurzfrist-Profil keine Transaktion.",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 671.3,
+    "portfolioValueEnd": 675.2,
     "updates": [
       {
         "time": "00:08",
@@ -9782,6 +9782,11 @@
         "time": "05:09",
         "note": "Kein Trade. Live-Kursquellen lieferten keine verlaesslichen/uebereinstimmenden aktuellen Daten (BTC-Preisangaben streuten stark zwischen Quellen); BTC-Position (pos-0018) daher unveraendert mit letztem bestaetigtem Stand (04:08, -4,10%) fortgefuehrt, keine neuen bestaetigten Katalysatoren gefunden.",
         "portfolioValue": 671.3
+      },
+      {
+        "time": "06:08",
+        "note": "Kein Trade, BTC-Kursupdate (CoinGecko-API: 82.022 USD, -0,52% 24h, -3,54% seit Kauf); Top-30-Scan ohne ueberzeugende Bewegung oder bestaetigten Katalysator, vorboerslich nur Krypto handelbar",
+        "portfolioValue": 675.2
       }
     ]
   }
