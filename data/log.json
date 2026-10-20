@@ -9745,14 +9745,14 @@
   },
   {
     "date": "2026-10-20",
-    "marketOverview": "Geopolitik und Oelpreise dominieren weiter: Brent schwankt stark zwischen rund 107 und ueber 110 USD/Barrel, nachdem ein unbestaetigter Qatar-Pakistan-Vorschlag zur Deeskalation des Iran-Konflikts die Preise zeitweise druecken konnte, waehrend Berichte aus Asien weiterhin Notierungen über 110 USD zeigen. US-Aktien zeigten eine spaete Erholung (rund 400 S&P-500-Werte im Plus), Chipwerte erholten sich von KI-Sorgen; asiatische Boersen (Kospi -4,3%, Nikkei -1,4%) und europaeische Indizes (DAX -0,85%, CAC -0,88%) belastet durch Ukraine-Eskalation (Angriff auf Kharkiv) und Finanzierungsluecken. Bitcoin pendelt uneinheitlich zwischen ca. 83.000 und 90.000 USD je nach Quelle, Gold nahe 4.122 USD/oz. Insgesamt widersprüchliches, unklares Bild ohne eindeutigen ueberzeugenden Trigger fuer neue Positionen in diesem Lauf.",
-    "decision": "Kumulierter Tagesstand: Kein neuer Kauf oder Verkauf in diesem Lauf. Offene Positionen (Bitcoin pos-0018, Brent Crude pos-0030) wurden auf aktuelle Kurse aktualisiert, beide innerhalb der Toleranz (keine der Stop-Loss- oder Gewinnmitnahme-Schwellen erreicht). Angesichts widersprüchlicher Marktdaten (Brent-Preis je nach Quelle 107-110 USD, uneinheitliche Bitcoin-Kurse) und ohne klar bestätigten, ueberzeugenden Katalysator wird passend zum spekulativen Profil auf eine neue Position verzichtet.",
-    "reasoning": "Kumulierter Tagesstand: Kein neuer Kauf oder Verkauf in diesem Lauf. Offene Positionen (Bitcoin pos-0018, Brent Crude pos-0030) wurden auf aktuelle Kurse aktualisiert, beide innerhalb der Toleranz (keine der Stop-Loss- oder Gewinnmitnahme-Schwellen erreicht). Angesichts widersprüchlicher Marktdaten (Brent-Preis je nach Quelle 107-110 USD, uneinheitliche Bitcoin-Kurse) und ohne klar bestätigten, ueberzeugenden Katalysator wird passend zum spekulativen Profil auf eine neue Position verzichtet.",
+    "marketOverview": "Hormuz-Konflikt bleibt ungeloest: weiterhin Tankerangriffe und eingeschraenkter Oel-Durchfluss durch die Strasse von Hormuz, Brent konsolidiert nahe dem Fuenf-Monats-Hoch (aktuell ~108,90 USD, leicht unter dem Kaufniveau vom Nachmittag). Bitcoin bleibt nach dem schwachen Monatsstart in einer engen Seitwaertsrange um ~84.300 USD. US-Aktienmaerkte (S&P 500, Nasdaq) nahe Rekordstaenden ohne klaren neuen Einzeltitel-Katalysator in dieser Stunde.",
+    "decision": "Kumulierter Tagesstand: Kein neuer Kauf oder Verkauf in diesem Lauf (21:09). Offene Positionen (Bitcoin pos-0018, Brent Crude pos-0030) auf aktuelle Kurse aktualisiert, beide weiterhin innerhalb der Toleranz (keine Stop-Loss- oder Gewinnmitnahme-Schwelle erreicht). Verfuegbare Marktdaten zu dieser Stunde waren zu unzuverlaessig/widersprüchlich fuer eine neue, ueberzeugende Positionierung; passend zum spekulativen Profil wird auf einen Trade verzichtet statt auf unsicherer Datenbasis zu handeln.",
+    "reasoning": "Recherche zu aktuellen BTC-, Brent- und Aktienmarktpreisen lieferte stark widersprüchliche/undatierte Quellen; keine davon bestaetigte einen neuen, klaren Katalysator fuer eine Einzelposition. Bestehende Positionen bleiben im Rahmen der etablierten Stop-Loss-/Gewinnmitnahme-Bandbreite (-6,5% bis -7,5% bzw. +7% bis +9%), daher keine Aktion erforderlich.",
     "positionIds": [
       "pos-0018",
       "pos-0030"
     ],
-    "portfolioValueEnd": 1378.04,
+    "portfolioValueEnd": 1377.32,
     "updates": [
       {
         "time": "00:08",
@@ -9858,6 +9858,11 @@
         "time": "20:10",
         "note": "Keine Aenderung - Kursupdate BTC/Brent, keine ueberzeugende Gelegenheit",
         "portfolioValue": 1378.04
+      },
+      {
+        "time": "21:09",
+        "note": "Keine Aenderung. BTC-Kursupdate (~84.300 USD, -0,86% seit Kauf, weiter gehalten); Brent-Kursupdate (~108,90 USD, -2,38% seit Kauf pos-0030, Hormuz-Eskalation ungeloest aber keine frische Zuspitzung); keine ueberzeugende neue Gelegenheit bei widerspruechlicher Marktdatenlage",
+        "portfolioValue": 1377.32
       }
     ]
   }
