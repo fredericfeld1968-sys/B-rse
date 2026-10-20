@@ -9745,13 +9745,13 @@
   },
   {
     "date": "2026-10-20",
-    "marketOverview": "Vierte Pruefung des Tages (03:08 Uhr): Boersen fuer Aktien/ETFs/Rohstoffe weiterhin geschlossen (Sonntagnacht, ausserhalb US-/EU-Handelszeiten). Bitcoin notiert laut CoinGecko bei ca. 81.454 USD (-1,15% 24h), damit leicht schwaecher als beim 02:08-Stand. Die Top-30 nach Marktkapitalisierung zeigen praktisch keine Bewegung (staerkster Mover CC +2,1%, BCH +0,7%) - ein insgesamt ruhiger, richtungsloser Krypto-Markt ohne neuen Katalysator. Die Mag7-Earnings-Woche (Netflix 20.10., Tesla/Meta 21.10.) steht weiter bevor.",
-    "decision": "Kein Trade in diesem Lauf. Offene BTC-Position (pos-0018, aktuell -4,21%) bleibt klar innerhalb der Halteband-Spanne und wird unveraendert gehalten. Tagesbudget fuer den 20.10. wurde bereits im ersten Lauf des Tages gutgeschrieben, keine zweite Gutschrift. Freies Kapital bleibt sehr hoch, aber ohne ueberzeugende Gelegenheit nicht eingesetzt.",
-    "reasoning": "Weiterhin sind nachts nur Krypto-Trades moeglich. Ein Scan der Top-30-Coins zeigt keine nennenswerten Bewegungen und keinen bestaetigten fundamentalen Katalysator (Institutionen, Regulierung, Produktlaunch) - daher kein Neukauf. BTC-Position bleibt weit von der Stop-Loss-Schwelle (-6,5 bis -7,5%) entfernt, kein Handlungsdruck. Vorgabe ist, nur bei wirklich ueberzeugender Gelegenheit zu handeln, daher erneut kein Trade.",
+    "marketOverview": "Krypto-Gesamtmarkt in der Nacht auf den 20.10. leicht risikoavers: BTC bei ca. 81.500 USD (-1,1% 24h), ETH, SOL, XRP, ADA und AVAX allesamt leicht im Minus (-0,6% bis -3,1%). Kein breiter Trend, keine neuen fundamentalen Katalysatoren; vereinzelte Mikrocap-Ausreisser (WLD +8,3%) ohne aktuelle, bestaetigte Nachrichtenlage. Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten.",
+    "decision": "Kumulierter Tagesstand 20.10.: Tagesbudget (1000 EUR) um 00:08 gutgeschrieben. In den Laeufen 00:08-04:08 kein Trade - BTC-Position (pos-0018) wird fortlaufend mit aktuellem Kurs bewertet (-4,10% seit Kauf, noch innerhalb der Halteschwelle), kein neuer bestaetigter Katalysator fuer Zu- oder Verkauf gefunden.",
+    "reasoning": "Nachts (04:08 CEST) sind Aktien, ETFs und Rohstoffe nicht handelbar. Die offene BTC-Position liegt bei -4,10% und damit noch unterhalb der etablierten Stop-Loss-Schwelle von -6,5 bis -7,5%; kein neuer Katalysator rechtfertigt vorzeitiges Glattstellen. Fuer Neuinvestitionen wurde der Krypto-Markt breit nach bestaetigten Ausbruechen gescannt (Top-50 nach Marktkapitalisierung); einzig WLD zeigt mit +8,35% eine nennenswerte Bewegung, dafuer liess sich jedoch keine aktuelle, mehrfach bestaetigte Nachricht finden (letzte verifizierbare Rally-Berichte stammen aus Juni 2026) - daher keine Position, da keine wirklich ueberzeugende, bestaetigte Gelegenheit vorliegt.",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 670.52,
+    "portfolioValueEnd": 671.3,
     "updates": [
       {
         "time": "00:08",
@@ -9772,6 +9772,11 @@
         "time": "03:08",
         "note": "Kein Trade, BTC-Kursupdate (CoinGecko: 81.454 USD, -1,15% 24h, -4,21% seit Kauf); Top-30-Scan ohne nennenswerte Bewegung oder bestaetigten Katalysator, nachts nur Krypto handelbar",
         "portfolioValue": 670.52
+      },
+      {
+        "time": "04:08",
+        "note": "Kein Trade, BTC-Kursupdate (CoinGecko: 81.549 USD, -1,15% 24h, -4,10% seit Kauf); Top-50-Scan ohne bestaetigten Katalysator (WLD +8,35% unbestaetigt/unklarer Rally-Rest ohne aktuelle Quelle, uebrige Top-Coins flach bis leicht negativ), nachts nur Krypto handelbar",
+        "portfolioValue": 671.3
       }
     ]
   }
