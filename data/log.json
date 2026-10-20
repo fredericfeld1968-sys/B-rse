@@ -9745,13 +9745,13 @@
   },
   {
     "date": "2026-10-20",
-    "marketOverview": "Krypto am Mittag (12:09 CEST) weiterhin leicht risikoavers: BTC laut CoinGecko-API bei 81.461 USD (-1,56% 24h), -4,20% seit Kauf der offenen Position. Staerkste Mover im Top-100-Scan bleiben kleine/mittlere Coins ohne aktuell auffindbaren, mehrfach bestaetigten Katalysator (PEARL +6,6%, M +6,4%, WLD +6,1%, AKE +6,0%), waehrend STX, NEAR, QNT und WLFI deutlicher im Minus notieren. Keine verlaesslich datierten Markt- oder Einzelaktien-Nachrichten fuer den 20.10. zu DAX, Rheinmetall, SAP, Gold oder Brent auffindbar - Brent/Gold-Lage bleibt ohne frischen, heute datierten Einzeltrigger. Europaeische Boersen seit 09:00 offen, US-Kassamarkt oeffnet erst 15:30 MESZ.",
-    "decision": "Kumulierter Tagesstand 20.10. (Stand 12:09): Tagesbudget (1000 EUR) bereits um 00:08 gutgeschrieben. In allen Laeufen 00:08-12:09 durchgehend kein Trade - BTC-Position (pos-0018) bleibt gehalten (zuletzt rund -4,20% seit Kauf, innerhalb der Halteschwelle), kein neuer bestaetigter Katalysator fuer Kauf oder Verkauf gefunden.",
-    "reasoning": "Bitcoin notiert per CoinGecko-API (live) bei 81.461 USD (-1,56% 24h), damit -4,20% seit Kauf der offenen Position (85.035 USD) - innerhalb der etablierten Halteschwelle (-6,5 bis -7,5%), kein Stop-Loss oder Take-Profit erreicht. Scan der Top-100-Coins nach 24h-Performance zeigt kein ueberzeugendes, mehrfach bestaetigtes Signal (staerkste Gewinner PEARL/M/WLD/AKE um 6-6,6% ohne aktuelle, verlaessliche Quelle fuer einen frischen Katalysator). Fuer europaeische Einzelaktien (DAX-Werte wie Rheinmetall, SAP) sowie Gold/Brent konnte trotz gezielter Recherche keine aktuelle, auf den 20.10. datierte, bestaetigte Nachricht gefunden werden. Da weder eine Verkaufsschwelle erreicht noch eine neue, wirklich ueberzeugende Kaufgelegenheit identifiziert werden kann, erfolgt passend zum spekulativen, aber disziplinierten Kurzfrist-Profil keine Transaktion.",
+    "marketOverview": "Krypto am fruehen Nachmittag (13:12 CEST) weiterhin leicht risikoavers: BTC laut CoinGecko-API bei 81.516 USD (-0,76% 24h), -4,14% seit Kauf der offenen Position. Staerkste Mover im Top-100-Scan bleiben WLD (+8,8%) und M (+8,0%) ohne aktuell auffindbaren, mehrfach bestaetigten Katalysator (WLD-Rallye laesst sich nicht auf einen fuer den 20.10. datierten Trigger zurueckfuehren). Keine verlaesslich datierten Markt- oder Einzelaktien-Nachrichten fuer den 20.10. zu DAX, Rheinmetall, SAP, Gold oder Brent auffindbar. Europaeische Boersen offen, US-Kassamarkt oeffnet erst 15:30 MESZ.",
+    "decision": "Kumulierter Tagesstand 20.10. (Stand 13:12): Tagesbudget (1000 EUR) bereits um 00:08 gutgeschrieben. In allen Laeufen 00:08-13:12 durchgehend kein Trade - BTC-Position (pos-0018) bleibt gehalten (zuletzt rund -4,14% seit Kauf, innerhalb der Halteschwelle), kein neuer bestaetigter Katalysator fuer Kauf oder Verkauf gefunden.",
+    "reasoning": "Bitcoin notiert per CoinGecko-API (live) bei 81.516 USD (-0,76% 24h), damit -4,14% seit Kauf der offenen Position (85.035 USD) - innerhalb der etablierten Halteschwelle (-6,5 bis -7,5%), kein Stop-Loss oder Take-Profit erreicht. Scan der Top-100-Coins nach 24h-Performance zeigt weiterhin kein ueberzeugendes, mehrfach bestaetigtes Signal: WLD (+8,8%) und M (+8,0%) fuehren, jedoch ohne aktuellen, auf den 20.10. datierten Katalysator (gezielte Recherche zu WLD lieferte nur aeltere Rallyes aus 2024/2025). Fuer europaeische Einzelaktien (DAX-Werte wie Rheinmetall, SAP) sowie Gold/Brent konnte trotz gezielter Recherche keine aktuelle, auf den 20.10. datierte, bestaetigte Nachricht gefunden werden. Da weder eine Verkaufsschwelle erreicht noch eine neue, wirklich ueberzeugende Kaufgelegenheit identifiziert werden kann, erfolgt passend zum spekulativen, aber disziplinierten Kurzfrist-Profil keine Transaktion.",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 670.58,
+    "portfolioValueEnd": 671.03,
     "updates": [
       {
         "time": "00:08",
@@ -9817,6 +9817,11 @@
         "time": "12:09",
         "note": "Kein Trade, BTC-Kursupdate (CoinGecko-API: 81.461 USD, -1,56% 24h, -4,20% seit Kauf); Top-100-Scan ohne ueberzeugende bestaetigte Bewegung (staerkste Mover PEARL/M/WLD/AKE um 6-6,6% ohne verlaessliche Katalysator-Quelle), keine datierten Markt-/Aktiennachrichten fuer den 20.10. auffindbar, europaeische Boersen offen aber ohne passenden bestaetigten Katalysator im Risikoprofil",
         "portfolioValue": 670.58
+      },
+      {
+        "time": "13:12",
+        "note": "Kein Trade, BTC-Kursupdate (CoinGecko-API: 81.516 USD, -0,76% 24h, -4,14% seit Kauf); Top-100-Scan ohne ueberzeugende bestaetigte Bewegung (staerkste Mover WLD +8,8%, M +8,0% ohne aktuellen, verlaesslichen Katalysator fuer den 20.10.), europaeische Boersen offen aber ohne passenden bestaetigten Katalysator im Risikoprofil",
+        "portfolioValue": 671.03
       }
     ]
   }
