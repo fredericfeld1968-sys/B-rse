@@ -9745,13 +9745,13 @@
   },
   {
     "date": "2026-10-20",
-    "marketOverview": "Krypto am Vormittag (09:13 CEST) weiterhin leicht risikoavers: BTC laut CoinGecko-API bei 81.712 USD (-1,3% 24h), ETH/SOL/ADA/AVAX ebenfalls leicht im Minus (-1 bis -2,3%). Einziger auffaelliger Mover weiterhin WLD (+8,6% 24h) ohne aktuell auffindbaren bestaetigten Katalysator. Europaeische Boersen seit 09:00 geoeffnet, US-Kassamarkt oeffnet erst 15:30 MESZ. Makro-Hintergrund bleibt angespannt: Brent-Future (BZ=F) bei ca. 110 USD/Barrel (nahe Mehrmonatshoch, aber nur noch +0,4% heute - Bewegung bereits seit Tagen gelaufen, kein frischer Trigger), Gold (GC=F) leicht schwaecher bei ca. 4.154 USD/oz (-0,14%, Konsolidierung nach Hochs um 4.220 USD). Hintergrund: anhaltende Iran/Straße-von-Hormus-Eskalation und ein Tech-Ausverkauf an der Wall Street (Nasdaq zuletzt -2,1%), beides aber bereits eingepreiste, mehrtaegige Themen ohne neuen bestaetigten Einzelkatalysator fuer den aktuellen Lauf.",
-    "decision": "Kumulierter Tagesstand 20.10. (Stand 09:13): Tagesbudget (1000 EUR) bereits um 00:08 gutgeschrieben. In allen Laeufen 00:08-09:13 durchgehend kein Trade - BTC-Position (pos-0018) bleibt gehalten (zuletzt rund -3,91% seit Kauf, innerhalb der Halteschwelle), kein neuer bestaetigter Katalysator fuer Kauf oder Verkauf gefunden.",
-    "reasoning": "Bitcoin notiert per CoinGecko-API (live) bei 81.712 USD (-1,3% 24h), damit -3,91% seit Kauf der offenen Position (85.035 USD) - innerhalb der Halteschwelle, kein Stop-Loss oder Take-Profit erreicht. Scan der Top-60-Coins zeigt kein ueberzeugendes bestaetigtes Signal (staerkster Mover weiterhin WLD +8,6%, trotz erneuter Recherche kein aktueller, serioeser Katalysator auffindbar). Brent und Gold (per Yahoo-Finance-Futuresdaten direkt abgefragt) zeigen beide keine frische, heute datierte Ausbruchsbewegung, sondern eine bereits mehrtaegig gelaufene bzw. leicht konsolidierende Preisreihe - ein Einstieg jetzt waere ein verspaetetes Chasing analog zu den zuvor gescheiterten Brent-/Rheinmetall-Trades. Europaeische Aktien sind seit 09:00 handelbar, aber ohne frischen, unternehmens- oder marktspezifischen Katalysator im Depot-Risikoprofil identifiziert. Da weder eine Verkaufsschwelle erreicht noch eine neue, wirklich ueberzeugende Kaufgelegenheit identifiziert werden kann, erfolgt passend zum spekulativen, aber disziplinierten Kurzfrist-Profil keine Transaktion.",
+    "marketOverview": "Krypto am Vormittag (10:10 CEST) weiterhin leicht risikoavers: BTC laut CoinGecko-API bei 81.329 USD (-1,5% 24h), ETH/SOL/ADA/AVAX/XRP ebenfalls leicht im Minus (-1,3 bis -3,3%). Staerkste Mover unter den Top-100 bleiben kleine/illiquide Coins (WLD +6,3%, PEARL +6,4%, AKE +20%) ohne aktuell auffindbaren bestaetigten, serioesen Katalysator. Makro-Hintergrund unveraendert angespannt: anhaltende Iran/Strasse-von-Hormus-Eskalation, Brent weiterhin im Bereich 100-110 USD/Barrel ohne frischen Einzeltrigger fuer den aktuellen Lauf, Tech-Sektor an der Wall Street zuletzt unter Druck. Europaeische Boersen seit 09:00 geoeffnet, US-Kassamarkt oeffnet erst 15:30 MESZ.",
+    "decision": "Kumulierter Tagesstand 20.10. (Stand 10:10): Tagesbudget (1000 EUR) bereits um 00:08 gutgeschrieben. In allen Laeufen 00:08-10:10 durchgehend kein Trade - BTC-Position (pos-0018) bleibt gehalten (zuletzt rund -4,36% seit Kauf, innerhalb der Halteschwelle), kein neuer bestaetigter Katalysator fuer Kauf oder Verkauf gefunden.",
+    "reasoning": "Bitcoin notiert per CoinGecko-API (live) bei 81.329 USD (-1,5% 24h), damit -4,36% seit Kauf der offenen Position (85.035 USD) - innerhalb der etablierten Halteschwelle (-6,5 bis -7,5%), kein Stop-Loss oder Take-Profit erreicht. Scan der Top-100-Coins nach 24h-Performance zeigt kein ueberzeugendes bestaetigtes Signal: staerkste Gewinner sind durchweg kleine/illiquide Coins (AKE +20%, PEARL +6,4%, WLD +6,3%) ohne aktuellen, serioesen Katalysator trotz gezielter Recherche (Eightco-Treasury-Meldung zu WLD liegt laenger zurueck und ist bereits eingepreist). Brent/Hormuz-Lage bleibt ein bereits mehrtaegig gelaufenes, eingepreistes Thema ohne frischen, heute datierten Trigger - ein Einstieg jetzt waere verspaetetes Chasing analog zu den zuvor gescheiterten Brent-/Rheinmetall-Trades. Europaeische Aktien sind seit 09:00 handelbar, aber ohne frischen, unternehmens- oder marktspezifischen Katalysator im Depot-Risikoprofil identifiziert. Da weder eine Verkaufsschwelle erreicht noch eine neue, wirklich ueberzeugende Kaufgelegenheit identifiziert werden kann, erfolgt passend zum spekulativen, aber disziplinierten Kurzfrist-Profil keine Transaktion.",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 672.65,
+    "portfolioValueEnd": 669.49,
     "updates": [
       {
         "time": "00:08",
@@ -9802,6 +9802,11 @@
         "time": "09:13",
         "note": "Kein Trade, BTC-Kursupdate (CoinGecko-API: 81.712 USD, -1,3% 24h, -3,91% seit Kauf); Brent (~110 USD/Barrel) und Gold (~4.154 USD/oz) ohne frischen Katalysator, nur bereits gelaufene bzw. konsolidierende Bewegung; Top-60-Scan ohne ueberzeugendes Signal (staerkster Mover weiterhin WLD +8,6% ohne verlaessliche Quelle); europaeische Boersen seit 09:00 offen, aber kein passender Katalysator im Risikoprofil",
         "portfolioValue": 672.65
+      },
+      {
+        "time": "10:10",
+        "note": "Kein Trade, BTC-Kursupdate (CoinGecko-API: 81.329 USD, -1,5% 24h, -4,36% seit Kauf); Top-100-Scan ohne ueberzeugende bestaetigte Bewegung (staerkster Mover weiterhin kleine Coins wie AKE/PEARL/WLD ohne verlaessliche Katalysator-Quelle), Brent/Hormuz weiterhin ohne frischen Trigger, europaeische Boersen offen aber ohne passenden Katalysator",
+        "portfolioValue": 669.49
       }
     ]
   }
