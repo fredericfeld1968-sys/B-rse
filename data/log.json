@@ -9745,13 +9745,13 @@
   },
   {
     "date": "2026-10-20",
-    "marketOverview": "Kryptomarkt am Vormittag des 20.10. weiterhin leicht risikoavers ohne klaren Trend: BTC laut CoinGecko-API bei 81.933 USD (-0,80% 24h), ETH -0,75%, SOL -0,46%, die meisten Top-30-Coins leicht im Minus. Staerkster Mover WLD (+9,84%) ohne aktuellen, bestaetigten Katalysator auffindbar (bereits in frueheren Laeufen als unbestaetigt eingestuft). Aktien/ETFs/Rohstoffe weiterhin vorboerslich, nicht handelbar.",
-    "decision": "Kumulierter Tagesstand 20.10.: Tagesbudget (1000 EUR) bereits um 00:08 gutgeschrieben. In den Laeufen 00:08-07:09 durchgehend kein Trade - BTC-Position (pos-0018) bleibt gehalten (zuletzt rund -3,65% seit Kauf, innerhalb der Halteschwelle), kein neuer bestaetigter Katalysator fuer Kauf oder Verkauf gefunden.",
-    "reasoning": "Vorboerslich (07:09 CEST) sind Aktien, ETFs und Rohstoffe weiterhin nicht handelbar. Per CoinGecko-API (live, direkt abgefragt) notiert Bitcoin bei 81.933 USD (-0,80% 24h), damit -3,65% seit Kauf der offenen Position (85.035 USD) - innerhalb der Halteschwelle, kein Stop-Loss oder Take-Profit erreicht. Scan der Top-100-Coins nach 24h-Veraenderung zeigt keine ueberzeugende, bestaetigte Bewegung (staerkster Mover WLD +9,84% ohne aktuell auffindbare Nachrichtenquelle, naechststaerkster AKE +6,94% als irrelevanter Microcap). Keine frischen, mehrfach bestaetigten Markt-Katalysatoren fuer Krypto, Aktien, Rohstoffe oder ETFs auffindbar. Da weder eine Verkaufsschwelle sicher erreicht noch eine neue, wirklich ueberzeugende Kaufgelegenheit identifiziert werden kann, erfolgt passend zum spekulativen, aber disziplinierten Kurzfrist-Profil keine Transaktion.",
+    "marketOverview": "Krypto am Vormittag (08:10 CEST) weiterhin leicht risikoavers ohne klaren Trend: BTC laut CoinGecko-API bei 81.623 USD (-1,3% 24h), ETH und SOL ebenfalls leicht im Minus (-1,2 bis -1,6%), breiter Markt ueberwiegend flach bis leicht negativ. Einziger auffaelliger Mover WLD (+7,8% 24h) weiterhin ohne aktuell auffindbaren, bestaetigten Katalysator. Aktien/ETFs/Rohstoffe vorboerslich weiterhin nicht handelbar (US-Kassamarkt oeffnet erst 15:30 MESZ).",
+    "decision": "Kumulierter Tagesstand 20.10. (Stand 08:10): Tagesbudget (1000 EUR) bereits um 00:08 gutgeschrieben. In allen Laeufen 00:08-08:10 durchgehend kein Trade - BTC-Position (pos-0018) bleibt gehalten (zuletzt rund -4,01% seit Kauf, innerhalb der Halteschwelle), kein neuer bestaetigter Katalysator fuer Kauf oder Verkauf gefunden.",
+    "reasoning": "Vorboerslich (08:10 CEST) sind Aktien, ETFs und Rohstoffe weiterhin nicht handelbar. Per CoinGecko-API (live, direkt abgefragt) notiert Bitcoin bei 81.623 USD (-1,3% 24h), damit -4,01% seit Kauf der offenen Position (85.035 USD) - innerhalb der Halteschwelle, kein Stop-Loss oder Take-Profit erreicht. Scan der Top-50-Coins nach Marktkapitalisierung zeigt kein ueberzeugendes bestaetigtes Signal (staerkster Mover weiterhin WLD +7,8%, trotz erneuter Recherche kein aktueller Katalysator auffindbar; naechststaerkste Bewegung XMR +2,0% ohne Relevanz fuer das Risikoprofil). Keine frischen, mehrfach bestaetigten Markt-Katalysatoren fuer Krypto, Aktien, Rohstoffe oder ETFs auffindbar. Da weder eine Verkaufsschwelle erreicht noch eine neue, wirklich ueberzeugende Kaufgelegenheit identifiziert werden kann, erfolgt passend zum spekulativen, aber disziplinierten Kurzfrist-Profil keine Transaktion.",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 674.46,
+    "portfolioValueEnd": 671.91,
     "updates": [
       {
         "time": "00:08",
@@ -9792,6 +9792,11 @@
         "time": "07:09",
         "note": "Kein Trade, BTC-Kursupdate (CoinGecko-API: 81.933 USD, -0,80% 24h, -3,65% seit Kauf); Top-100-Scan ohne ueberzeugende bestaetigte Bewegung (staerkster Mover WLD +9,84% ohne aktuelle Quelle), vorboerslich nur Krypto handelbar",
         "portfolioValue": 674.46
+      },
+      {
+        "time": "08:10",
+        "note": "Kein Trade, BTC-Kursupdate (CoinGecko-API: 81.623 USD, -1,3% 24h, -4,01% seit Kauf); Top-50-Scan ohne ueberzeugende bestaetigte Bewegung (staerkster Mover weiterhin WLD +7,8% ohne aktuelle Quelle), vorboerslich nur Krypto handelbar",
+        "portfolioValue": 671.91
       }
     ]
   }
