@@ -9745,13 +9745,13 @@
   },
   {
     "date": "2026-10-20",
-    "marketOverview": "Krypto am fruehen Nachmittag (14:14 CEST) weiterhin leicht risikoavers, aber mit Stuetzung durch einen schwaecheren Dollar: BTC bei 81.359 USD (-1,35% 24h), Bullen versuchen laut Tickmill-Marktausblick eine Rueckeroberung von 83.385 USD nach dem Ruecksetzer der Vorwoche. An den Aktienmaerkten bleibt der Ton risikoavers - Tech-Werte unter Druck wegen Sorgen um die Finanzierung der KI-Investitionen (Kospi -4,2%, SoftBank-CDS auf Mehrjahreshoch, Nasdaq-Futures -0,2%), diese Woche stehen wichtige KI-/Halbleiter-Zahlen an. Gold stabil bei ca. 4.145 USD/oz, Brent nahe 110 USD/Barrel auf Fuenfmonatshoch wegen Hormuz-Risikopraemie. Europaeische Boersen offen, US-Kassamarkt oeffnet erst 15:30 MESZ.",
-    "decision": "Kumulierter Tagesstand 20.10. (Stand 14:14): Tagesbudget (1000 EUR) bereits um 00:08 gutgeschrieben. In allen Laeufen 00:08-14:14 durchgehend kein Trade - BTC-Position (pos-0018) bleibt gehalten (zuletzt rund -4,32% seit Kauf, innerhalb der Halteschwelle), kein neuer bestaetigter Katalysator fuer Kauf oder Verkauf gefunden.",
+    "marketOverview": "BTC pendelt seitwaerts bei rund 81.371 USD (-4,31% seit Kauf), kein frischer Impuls seit dem letzten Lauf. Globaler Tech-/KI-Ausverkauf (Kospi-Schwaeche, SoftBank-CDS-Stress, AI-Bewertungs- und Finanzierungssorgen) belastet weiterhin die Risikostimmung; europaeische Boersen offen, aber ohne bestaetigten, handelbaren Katalysator im spekulativen Profil. Keine verlaesslich datierten frischen Marktnachrichten fuer den 20.10. auffindbar.",
+    "decision": "Kumulierter Tagesstand 20.10. (Stand 15:10): Tagesbudget (1000 EUR) bereits um 00:08 gutgeschrieben. In allen Laeufen 00:08-15:10 durchgehend kein Trade - BTC-Position (pos-0018) bleibt gehalten (zuletzt rund -4,31% seit Kauf, innerhalb der Halteschwelle), kein neuer bestaetigter Katalysator fuer Kauf oder Verkauf gefunden.",
     "reasoning": "Bitcoin notiert bei 81.359 USD (-1,35% 24h), damit -4,32% seit Kauf der offenen Position (85.035 USD) - innerhalb der etablierten Halteschwelle (-6,5 bis -7,5%), kein Stop-Loss erreicht; die Erholungsthese (Dollar-Schwaeche, Versuch der Rueckeroberung von 83.385 USD laut Tickmill) bleibt intakt, daher kein Grund zur vorzeitigen Verlustrealisierung. Fuer eine Neuposition fehlt trotz des deutlichen Tagesueberblicks (Tech-Ausverkauf in Asien, AI-Finanzierungssorgen, hohe Oelpreise) ein wirklich ueberzeugendes, frisches und mehrfach bestaetigtes Kaufsignal passend zum Risikoprofil - der dominierende Markttreiber ist aktuell risikoaverser Natur (Kospi-Einbruch, SoftBank-CDS-Stress) und keine klare Dip- oder Breakout-Gelegenheit. Da weder eine Verkaufsschwelle erreicht noch eine neue, wirklich ueberzeugende Kaufgelegenheit identifiziert werden kann, erfolgt passend zum spekulativen, aber disziplinierten Kurzfrist-Profil keine Transaktion.",
     "positionIds": [
       "pos-0018"
     ],
-    "portfolioValueEnd": 669.74,
+    "portfolioValueEnd": 669.84,
     "updates": [
       {
         "time": "00:08",
@@ -9827,6 +9827,11 @@
         "time": "14:14",
         "note": "Kein Trade, BTC-Kursupdate (81.359 USD, -1,35% 24h, -4,32% seit Kauf); Tech-Ausverkauf in Asien (Kospi -4,2%, SoftBank-CDS-Stress) und AI-Finanzierungssorgen dominieren laut Tickmill-Marktausblick, kein ueberzeugender, mehrfach bestaetigter Kaufkatalysator; europaeische Boersen offen aber ohne passende Gelegenheit im Risikoprofil",
         "portfolioValue": 669.74
+      },
+      {
+        "time": "15:10",
+        "note": "Kein Trade, BTC-Kursupdate (CoinGecko: 81.371 USD, -1,42% 24h, -4,31% seit Kauf); anhaltender globaler Tech-/KI-Ausverkauf (Kospi-Schwaeche, SoftBank-Stress) ohne neuen bestaetigten Kaufkatalysator, europaeische Boersen offen aber ohne passende Gelegenheit im Risikoprofil",
+        "portfolioValue": 669.84
       }
     ]
   }
