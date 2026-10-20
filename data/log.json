@@ -9745,13 +9745,14 @@
   },
   {
     "date": "2026-10-20",
-    "marketOverview": "BTC pendelt seitwaerts bei rund 81.371 USD (-4,31% seit Kauf), kein frischer Impuls seit dem letzten Lauf. Globaler Tech-/KI-Ausverkauf (Kospi-Schwaeche, SoftBank-CDS-Stress, AI-Bewertungs- und Finanzierungssorgen) belastet weiterhin die Risikostimmung; europaeische Boersen offen, aber ohne bestaetigten, handelbaren Katalysator im spekulativen Profil. Keine verlaesslich datierten frischen Marktnachrichten fuer den 20.10. auffindbar.",
-    "decision": "Kumulierter Tagesstand 20.10. (Stand 15:10): Tagesbudget (1000 EUR) bereits um 00:08 gutgeschrieben. In allen Laeufen 00:08-15:10 durchgehend kein Trade - BTC-Position (pos-0018) bleibt gehalten (zuletzt rund -4,31% seit Kauf, innerhalb der Halteschwelle), kein neuer bestaetigter Katalysator fuer Kauf oder Verkauf gefunden.",
-    "reasoning": "Bitcoin notiert bei 81.359 USD (-1,35% 24h), damit -4,32% seit Kauf der offenen Position (85.035 USD) - innerhalb der etablierten Halteschwelle (-6,5 bis -7,5%), kein Stop-Loss erreicht; die Erholungsthese (Dollar-Schwaeche, Versuch der Rueckeroberung von 83.385 USD laut Tickmill) bleibt intakt, daher kein Grund zur vorzeitigen Verlustrealisierung. Fuer eine Neuposition fehlt trotz des deutlichen Tagesueberblicks (Tech-Ausverkauf in Asien, AI-Finanzierungssorgen, hohe Oelpreise) ein wirklich ueberzeugendes, frisches und mehrfach bestaetigtes Kaufsignal passend zum Risikoprofil - der dominierende Markttreiber ist aktuell risikoaverser Natur (Kospi-Einbruch, SoftBank-CDS-Stress) und keine klare Dip- oder Breakout-Gelegenheit. Da weder eine Verkaufsschwelle erreicht noch eine neue, wirklich ueberzeugende Kaufgelegenheit identifiziert werden kann, erfolgt passend zum spekulativen, aber disziplinierten Kurzfrist-Profil keine Transaktion.",
+    "marketOverview": "Globaler Tech-/KI-Ausverkauf weitet sich aus (Kospi -3,7% auf 5.553, SoftBank -6% mit CDS auf Vier-Jahres-Hoch, Nasdaq-Futures leicht schwaecher, Chipwerte wie Micron/Nvidia/CoreWeave im Minus); BTC pendelt bei rund 81.300 USD (-4,39% seit Kauf) ohne frischen Impuls. Konkreter neuer Katalysator: Brent Crude bricht auf 111,55 USD/Barrel aus (+1,8%, WTI 100,71 USD +2,2%), nahe Fuenf-Monats-Hoch, getrieben von einer weiteren Eskalation des laufenden US-Iran-Kriegs an der Strasse von Hormuz (Rekord-Schiffsangriffe, zwei weitere Senkungen seit 15.10., Oel-Durchfluss von 17 auf 12,6 Mio. Barrel/Tag gefallen).",
+    "decision": "Kumulierter Tagesstand 20.10. (Stand 16:10): Tagesbudget (1000 EUR) bereits um 00:08 gutgeschrieben. Nach durchgehend tradefreien Laeufen 00:08-15:10 (BTC-Position pos-0018 gehalten, kein Stop-Loss erreicht) wurde im 16:10-Lauf eine neue spekulative Position in Brent Crude Oil (pos-0030, 700 EUR) eroeffnet, gestuetzt auf die mehrfach bestaetigte Eskalation an der Strasse von Hormuz und den resultierenden Oelpreisausbruch auf ein Fuenf-Monats-Hoch.",
+    "reasoning": "BTC (pos-0018) notiert bei ca. 81.300 USD, damit -4,39% seit Kauf (85.035 USD) - innerhalb der etablierten Halteschwelle (-6,5 bis -7,5%), kein Stop-Loss erreicht, Position bleibt gehalten. Fuer Brent Crude liegt dagegen ein frischer, mehrfach unabhaengig bestaetigter Katalysator vor (AFP/Hawaii Tribune-Herald, Kurdistan24, Oilprice.com, Newsbytes): Der US-Iran-Krieg an der Strasse von Hormuz eskaliert weiter (Rekord von bis zu sechs angegriffenen Schiffen an einem Tag, 23-26 Angriffe seit Anfang Oktober, zwei weitere Schiffssenkungen seit 15.10., Oel-Durchfluss von 17 auf 12,6 Mio. Barrel/Tag gefallen), Brent steigt dadurch auf 111,55 USD (+1,8%) nahe Fuenf-Monats-Hoch. Analog zum erfolgreichen Brent-Trade vom 09.-10.09. (+8,59%) spekulative Momentum-Position mit engem Risikomanagement (Stop-Loss -6,5 bis -7,5%, analog zur Erfahrung -8,08% vom 14.-17.09. bei schneller Deeskalation).",
     "positionIds": [
-      "pos-0018"
+      "pos-0018",
+      "pos-0030"
     ],
-    "portfolioValueEnd": 669.84,
+    "portfolioValueEnd": 1369.25,
     "updates": [
       {
         "time": "00:08",
@@ -9832,6 +9833,11 @@
         "time": "15:10",
         "note": "Kein Trade, BTC-Kursupdate (CoinGecko: 81.371 USD, -1,42% 24h, -4,31% seit Kauf); anhaltender globaler Tech-/KI-Ausverkauf (Kospi-Schwaeche, SoftBank-Stress) ohne neuen bestaetigten Kaufkatalysator, europaeische Boersen offen aber ohne passende Gelegenheit im Risikoprofil",
         "portfolioValue": 669.84
+      },
+      {
+        "time": "16:10",
+        "note": "Kauf Brent Crude Oil 700 EUR (pos-0030, 111,55 USD/Barrel) auf bestaetigte Hormuz-Eskalation (Rekord-Schiffsangriffe, Oel-Durchfluss von 17 auf 12,6 Mio. Barrel/Tag gefallen, Brent +1,8% auf Fuenf-Monats-Hoch); BTC-Kursupdate (ca. 81.300 USD, -4,39% seit Kauf), weiterhin gehalten, kein Stop-Loss",
+        "portfolioValue": 1369.25
       }
     ]
   }
