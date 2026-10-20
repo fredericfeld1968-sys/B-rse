@@ -9875,5 +9875,23 @@
         "portfolioValue": 1366.31
       }
     ]
+  },
+  {
+    "date": "2026-10-21",
+    "marketOverview": "Bitcoin notiert bei 82.953 USD (+1,11% 24h laut CoinGecko), leichte Erholung fortgesetzt, bleibt aber -2,45% unter Kaufniveau von pos-0018 (85.035 USD). Brent Crude unveraendert bei 109,12 USD/Barrel (Hormuz-Eskalation weiter ungeloest, aber keine frische Zuspitzung seit dem letzten Lauf); US-/EU-Boersen und Rohstoffmaerkte sind um diese Nachtzeit (Mittwoch, 00:08 MESZ) geschlossen, daher nur Krypto handelbar. Staerkster 24h-Mover im Top-20 bleibt weiterhin Zcash (ZEC, +9,58% auf 1.265,39 USD) ohne frischen, auf den 21.10. datierten Katalysator - die ETF-getriebene Rally ist bereits seit Wochen bekannt und stark eingepreist (Allzeithoch-Nähe).",
+    "decision": "Kein neuer Kauf oder Verkauf in diesem Lauf (00:08). Offene Positionen (Bitcoin pos-0018, Brent Crude pos-0030) auf aktuelle Kurse aktualisiert, beide weiterhin klar innerhalb der Toleranz (-2,45% bzw. -2,18%, keine Stop-Loss- oder Gewinnmitnahme-Schwelle erreicht). Tagesbudget fuer den 21.10. gutgeschrieben (+1.000 EUR).",
+    "reasoning": "Live-Kursdaten direkt ueber CoinGecko-API (Bitcoin, Top-20 nach 24h-Veraenderung) und Yahoo-Finance-API (BZ=F, Brent) bezogen. ZEC fuehrt die Top-20-Mover weiterhin an (+9,58%), jedoch ohne frischen, mehrfach unabhaengig bestaetigten Katalysator fuer den 21.10. - die Bewegung ist Teil der bereits seit September laufenden Grayscale-ETF-Rally und der Titel notiert nahe seinem Allzeithoch, also stark ueberhitzt. Ohne neue, datierte Nachricht wird passend zum spekulativen, aber disziplinierten Profil keine neue Position eroeffnet; Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten ohnehin nicht handelbar.",
+    "positionIds": [
+      "pos-0018",
+      "pos-0030"
+    ],
+    "portfolioValueEnd": 1367.61,
+    "updates": [
+      {
+        "time": "00:08",
+        "note": "Tagesbudget 21.10. gutgeschrieben (+1000 EUR); kein Trade, BTC-Kursupdate (82.953 USD, +1,11% 24h, -2,45% seit Kauf); ZEC fuehrt Top-20-Mover (+9,58%) ohne frischen Katalysator, nachts nur Krypto handelbar",
+        "portfolioValue": 1367.61
+      }
+    ]
   }
 ]
