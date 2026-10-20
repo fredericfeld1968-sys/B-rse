@@ -9745,14 +9745,14 @@
   },
   {
     "date": "2026-10-20",
-    "marketOverview": "Hormuz-Konflikt bleibt ungeloest: weiterhin Tankerangriffe und eingeschraenkter Oel-Durchfluss durch die Strasse von Hormuz, Brent konsolidiert nahe dem Fuenf-Monats-Hoch (aktuell ~108,90 USD, leicht unter dem Kaufniveau vom Nachmittag). Bitcoin bleibt nach dem schwachen Monatsstart in einer engen Seitwaertsrange um ~84.300 USD. US-Aktienmaerkte (S&P 500, Nasdaq) nahe Rekordstaenden ohne klaren neuen Einzeltitel-Katalysator in dieser Stunde.",
-    "decision": "Kumulierter Tagesstand: Kein neuer Kauf oder Verkauf in diesem Lauf (21:09). Offene Positionen (Bitcoin pos-0018, Brent Crude pos-0030) auf aktuelle Kurse aktualisiert, beide weiterhin innerhalb der Toleranz (keine Stop-Loss- oder Gewinnmitnahme-Schwelle erreicht). Verfuegbare Marktdaten zu dieser Stunde waren zu unzuverlaessig/widersprüchlich fuer eine neue, ueberzeugende Positionierung; passend zum spekulativen Profil wird auf einen Trade verzichtet statt auf unsicherer Datenbasis zu handeln.",
-    "reasoning": "Recherche zu aktuellen BTC-, Brent- und Aktienmarktpreisen lieferte stark widersprüchliche/undatierte Quellen; keine davon bestaetigte einen neuen, klaren Katalysator fuer eine Einzelposition. Bestehende Positionen bleiben im Rahmen der etablierten Stop-Loss-/Gewinnmitnahme-Bandbreite (-6,5% bis -7,5% bzw. +7% bis +9%), daher keine Aktion erforderlich.",
+    "marketOverview": "US-Boersen (S&P 500 ~7.712, +0,28%) schliessen nahe Rekordstand; Brent Crude konsolidiert bei ~109,19 USD/Barrel (-2,12% seit Kauf pos-0030), Hormuz-Eskalation weiterhin ungeloest aber ohne frische Zuspitzung in dieser Stunde. Bitcoin bei ~82.557 USD leicht erholt (+0,79% 24h laut Yahoo Finance), bleibt aber unter dem Kaufniveau von pos-0018 (-2,91%). Staerkste 24h-Mover im Krypto-Top-50 (WLD +14,5%, ZEC +7,4%) ohne auffindbaren, datierten fundamentalen Katalysator fuer den heutigen Tag - vermutlich fortgesetzte, bereits eingepreiste Eigenbewegungen statt neuer Nachricht.",
+    "decision": "Kumulierter Tagesstand: Kein neuer Kauf oder Verkauf in diesem Lauf (22:10). Offene Positionen (Bitcoin pos-0018, Brent Crude pos-0030) auf aktuelle Kurse aktualisiert, beide weiterhin klar innerhalb der Toleranz (-2,91% bzw. -2,12%, keine Stop-Loss- oder Gewinnmitnahme-Schwelle erreicht). US-Boersen fuer heute geschlossen (16:08 ET), daher nur Krypto grundsaetzlich handelbar; WLD/ZEC-Bewegungen ohne bestaetigten frischen Katalysator, daher passend zum spekulativen Profil kein Trade auf unsicherer Datenbasis.",
+    "reasoning": "Live-Kursdaten ueber Yahoo-Finance-API (BTC-USD, BZ=F) bezogen und mit CoinGecko-Daten plausibilisiert. Fuer WLD (+14,45% 24h) und ZEC (+7,41% 24h) lieferte die Recherche keine aktuellen, datierten Nachrichtenquellen fuer den 20.10. - dieselbe Unsicherheit wurde bereits in mehreren fruehren Laeufen des Tages zu WLD festgestellt. Ohne mehrfach unabhaengig bestaetigten Katalysator wird keine neue Position eroeffnet. Bestehende Positionen bleiben im Rahmen der etablierten Stop-Loss-/Gewinnmitnahme-Bandbreite (-6,5% bis -7,5% bzw. +7% bis +9%).",
     "positionIds": [
       "pos-0018",
       "pos-0030"
     ],
-    "portfolioValueEnd": 1377.32,
+    "portfolioValueEnd": 1364.79,
     "updates": [
       {
         "time": "00:08",
@@ -9863,6 +9863,11 @@
         "time": "21:09",
         "note": "Keine Aenderung. BTC-Kursupdate (~84.300 USD, -0,86% seit Kauf, weiter gehalten); Brent-Kursupdate (~108,90 USD, -2,38% seit Kauf pos-0030, Hormuz-Eskalation ungeloest aber keine frische Zuspitzung); keine ueberzeugende neue Gelegenheit bei widerspruechlicher Marktdatenlage",
         "portfolioValue": 1377.32
+      },
+      {
+        "time": "22:10",
+        "note": "Keine Aenderung. BTC-Kursupdate (Yahoo Finance: 82.557 USD, +0,79% 24h, -2,91% seit Kauf); Brent-Kursupdate (109,19 USD, -2,12% seit Kauf pos-0030); US-Boersen seit 16:08 ET geschlossen, daher nur Krypto handelbar; WLD/ZEC-Bewegungen ohne bestaetigten frischen Katalysator, kein Trade",
+        "portfolioValue": 1364.79
       }
     ]
   }
