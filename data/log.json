@@ -9878,14 +9878,14 @@
   },
   {
     "date": "2026-10-21",
-    "marketOverview": "BTC bei ca. 83.400 USD (CoinMarketCap/Coinbase-Snapshots 83.380-83.640 USD, leicht volatil im Tagesverlauf), -1,92% unter Kaufkurs der offenen Position (85.035 USD). Brent Crude bei ca. 110,38 USD/Barrel (Reuters/Live-Feeds, nahe Fuenf-Monats-Hoch von 111,99 USD am Vortag, dann Ruecksetzer auf 108,79 USD nach Gerueruechten ueber moegliche Iran-Gespraeche), -1,05% unter Kaufkurs (111,55 USD). US-Kassamarkt weiterhin offen; Lam Research, IBM und CSX melden heute Zahlen (laut Earnings-Kalender erst nach Handelsschluss), Tesla/Procter & Gamble erst morgen. Keine verlaesslich auf heute datierten Einzelwert- oder Krypto-Kursspruenge mit klarem, mehrfach bestaetigtem Katalysator gefunden.",
-    "decision": "Keine neuen Trades heute (17 Laeufe): beide offenen Positionen (BTC pos-0018, Brent pos-0030) liegen weiterhin klar innerhalb der normalen Schwankungsbreite, kein Stop-Loss oder Gewinnziel erreicht. Kein mehrfach bestaetigter, frischer Einzelwert- oder Krypto-Katalysator gefunden.",
-    "reasoning": "BTC -1,92% und Brent -1,05% seit Kauf liegen deutlich innerhalb der etablierten Toleranz (Stop-Loss erst ab ca. -6,5 bis -7,5%, Gewinnziel ab ca. +7-9%). Heutige Earnings (Lam Research, IBM, CSX) sind laut Kalender erst nach Handelsschluss faellig und liefern daher noch keinen handelbaren Kurs-Katalysator; sonstige Markt-Suchergebnisse blieben undatiert oder veraltet. Passend zum spekulativen Profil wird nur bei klarer Gelegenheit gehandelt, nicht aus reinem Aktionismus.",
+    "marketOverview": "BTC bei ca. 84.520 USD (CoinGecko, +2,36% 24h), weiterhin knapp unter Kaufkurs der offenen Position (85.035 USD, -0,61%). Brent Crude bei ca. 108,28 USD/Barrel (Yahoo/ICE-Future, -0,47% Tagesverlust, Vortagesschluss 108,79 USD), -2,93% unter Kaufkurs (111,55 USD). Breiter Risk-on-Tag an der Wall Street (S&P 500 +0,48%, Nasdaq +1,04%, Dow +0,24%), Einzelwerte wie AMD (+2,84%), NVDA (+1,82%), TSLA (+3,51%) und PLTR (+3,56%) im Plus, Krypto insgesamt fester (ETH +2,84%, SOL +2,42%, XRP +4,20%, DOGE +3,21%, ADA +3,10%). Keine mehrfach unabhaengig bestaetigte, frisch datierte Einzelwert- oder Krypto-Nachricht mit klarem Kurskatalysator auffindbar; Lam Research/IBM/CSX-Zahlen (gestern bzw. vor Handelsbeginn) bereits eingepreist, keine ueberzeugende neue Sondergelegenheit.",
+    "decision": "Keine neuen Trades heute (18 Laeufe): beide offenen Positionen (BTC pos-0018, Brent pos-0030) liegen weiterhin klar innerhalb der normalen Schwankungsbreite, kein Stop-Loss oder Gewinnziel erreicht. Trotz breitem Risk-on-Tag kein mehrfach bestaetigter, frischer Einzelwert-Katalysator gefunden, der ueber allgemeine Marktbewegung hinausgeht.",
+    "reasoning": "BTC -0,61% und Brent -2,93% seit Kauf liegen deutlich innerhalb der etablierten Toleranz (Stop-Loss erst ab ca. -6,5 bis -7,5%, Gewinnziel ab ca. +7-9%). Die heutigen Kursgewinne bei AMD/TSLA/PLTR und im Kryptomarkt sind breit angelegt (gesamter Markt im Plus) und nicht auf einen einzelnen, mehrfach bestaetigten Katalysator zurueckzufuehren - passend zum spekulativen Profil wird nur bei klarer Einzelgelegenheit gehandelt, nicht aus reinem Aktionismus bei allgemeiner Marktstaerke.",
     "positionIds": [
       "pos-0018",
       "pos-0030"
     ],
-    "portfolioValueEnd": 1379.2,
+    "portfolioValueEnd": 1375.24,
     "updates": [
       {
         "time": "00:08",
@@ -9976,6 +9976,11 @@
         "time": "17:12",
         "note": "Keine Aenderung; BTC-Kursupdate (ca. 83.400 USD, -1,92% seit Kauf), Brent-Kursupdate (ca. 110,38 USD, -1,05% seit Kauf); weiterhin kein bestaetigter frischer Einzelwert- oder Krypto-Katalysator, heutige Earnings (Lam Research/IBM/CSX) erst nach Handelsschluss, US-Kassamarkt offen",
         "portfolioValue": 1379.2
+      },
+      {
+        "time": "18:09",
+        "note": "Keine Aenderung; BTC-Kursupdate (84.520 USD, +2,36% 24h, -0,61% seit Kauf), Brent-Kursupdate (108,28 USD, -0,47% Tagesverlust, -2,93% seit Kauf); breiter Risk-on-Tag (S&P +0,48%, Nasdaq +1,04%, AMD +2,84%, TSLA +3,51%, PLTR +3,56%) ohne mehrfach bestaetigten Einzelwert-Katalysator; kein Trade",
+        "portfolioValue": 1375.24
       }
     ]
   }
