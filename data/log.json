@@ -10008,5 +10008,23 @@
         "portfolioValue": 1375.58
       }
     ]
+  },
+  {
+    "date": "2026-10-22",
+    "marketOverview": "Kurz nach Mitternacht (Europe/Berlin): US-Kassamarkt seit 22:00 MESZ geschlossen, Tesla-Q3-Earnings-Call steht laut Zeitplan erst um 23:30 MESZ an und ist noch nicht veroeffentlicht. Bitcoin notiert bei ca. 84.726 USD (+2,06% in 24h, CoinGecko), leichte Erholung gegenueber dem Vortagestief. Brent Crude haelt sich bei ca. 109,76 USD/Barrel (+0,9% Tagesplus, TradingEconomics) weiter nahe des Fuenfmonatshochs, keine neue Eskalations- oder Deeskalationsmeldung zur Strasse von Hormuz seit dem letzten Lauf gefunden. Kein frischer, mehrfach bestaetigter Einzelwert- oder Altcoin-Katalysator identifiziert (CoinMarketCap berichtet lediglich von gemischter Rotation, keine klare Rally).",
+    "decision": "Kein Trade in diesem Lauf. Tagesgutschrift von 1.000 EUR frischem Kapital fuer den 22.10. verbucht. Kursupdate fuer beide offenen Positionen: BTC (pos-0018, 84.726 USD, -0,36% seit Kauf) und Brent (pos-0030, 109,76 USD, -1,60% seit Kauf), beide innerhalb der Toleranz, kein Stop-Loss erreicht.",
+    "reasoning": "Es ist Nacht (Europe/Berlin), daher sind Aktien, ETFs und Rohstoffe nicht handelbar - fuer Rohstoffe (Brent) deshalb nur Kursupdate, kein Verkauf, auch wenn der Verlust waechst. Fuer Krypto wurde kein ueberzeugender, frischer Katalysator gefunden (nur unspezifische Marktrotation laut CoinMarketCap); das spekulative Profil erlaubt kurzfristiges Handeln, aber nicht ohne klaren Anlass. Daher kein Trade in diesem Lauf.",
+    "positionIds": [
+      "pos-0018",
+      "pos-0030"
+    ],
+    "portfolioValueEnd": 1386.23,
+    "updates": [
+      {
+        "time": "00:08",
+        "note": "Tagesgutschrift +1.000 EUR frisches Kapital (totalFreshCapitalEur jetzt 79.000 EUR); Keine Aenderung am Depot; BTC-Kursupdate (84.726 USD, +2,06% 24h, -0,36% seit Kauf), Brent-Kursupdate (109,76 USD, -1,60% seit Kauf); kein frischer bestaetigter Einzelwert- oder Krypto-Katalysator, Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten (Nacht)",
+        "portfolioValue": 1386.23
+      }
+    ]
   }
 ]
