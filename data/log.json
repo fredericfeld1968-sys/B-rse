@@ -9878,14 +9878,14 @@
   },
   {
     "date": "2026-10-21",
-    "marketOverview": "BTC bei ca. 83.347 USD (CoinGecko), +2,2% in 24h, -1,99% unter Kaufkurs der offenen Position (85.035 USD). Brent Crude bei ca. 110,56 USD/Barrel (OilPrice.com), +1,63% am Tag, -0,89% unter Kaufkurs (111,55 USD). Frischer Hormuz-Katalysator heute (21.10.): UKMTO meldet einen von einem unbekannten Projektil getroffenen Tanker vor Oman nahe der Strasse von Hormuz (in Brand, Besatzung sicher); Irans Revolutionsgarden behaupten unabhaengig davon, drei weitere Tanker seien auf von ihnen verlegte Minen gelaufen (einer mit ueber 2 Mio. Barrel Rohoel, Transponder abgeschaltet); Aussenminister Araghchi erklaert, die Strasse bleibe gesperrt bis die USA einem 7-Tage-Deal zustimmen, Gespraeche in Pakistan abgelehnt. Die bestehende Brent-Position (pos-0030) bildet dieses Eskalationsthema bereits ab und bewegt sich weiterhin klar innerhalb der normalen Schwankungsbreite. Keine frische, mehrfach bestaetigte Einzelwert- oder ETF-Katalysator-Meldung fuer heute gefunden; TSLA/META-Earnings stehen erst nach US-Boersenschluss an. Krypto-Topmover (Doodles, IOST, Fren Pet u.a.) ohne erkennbaren fundamentalen Katalysator, daher nicht gehandelt.",
-    "decision": "Keine neuen Trades heute bislang (13 Laeufe): beide offenen Positionen (BTC pos-0018, Brent pos-0030) liegen weiterhin klar innerhalb der normalen Schwankungsbreite, kein Stop-Loss oder Gewinnziel erreicht. Kursupdates fortlaufend vorgenommen.",
-    "reasoning": "BTC -1,99% und Brent -0,89% seit Kauf liegen deutlich innerhalb der etablierten Toleranz (Stop-Loss erst ab ca. -6,5 bis -7,5%, Gewinnziel ab ca. +7-9%). Die frische Hormuz-Eskalation (Minen-/Projektiltreffer auf Tanker) stuetzt die bestehende Brent-Position, rechtfertigt aber keine zusaetzliche, redundante Position im selben Thema. Keine weitere frische, mehrfach bestaetigte Einzelwert- oder Krypto-Nachricht gefunden; die heutigen Krypto-Topmover sind fundamental unbelegte Nischen-/Memecoins. Passend zum spekulativen Profil wird nur bei klarer Gelegenheit gehandelt, nicht aus reinem Aktionismus.",
+    "marketOverview": "BTC bei ca. 83.469 USD (CoinGecko), +2,66% in 24h, -1,84% unter Kaufkurs der offenen Position (85.035 USD). Brent Crude bei ca. 109,90 USD/Barrel (Investing.com), -1,48% unter Kaufkurs (111,55 USD) - leichter Ruecksetzer vom Nachmittagshoch, Hormuz-Eskalationsthema (UKMTO-Tankertreffer, IRGC-Minen-Behauptung, gesperrte Strasse laut Aussenminister Araghchi) bleibt laut verfuegbaren Quellen unveraendert bestehen, keine neue Deeskalations- oder Eskalationsmeldung gefunden. Europaeische Boersen offen, US-Kassamarkt oeffnet erst um 15:30 MESZ (TSLA/META-Earnings erst nach heutigem US-Boersenschluss, IBM/Lam Research/CSX laut Kalender ebenfalls heute). Keine frische, mehrfach bestaetigte Einzelwert- oder Krypto-Katalysator-Meldung fuer die letzte Stunde gefunden.",
+    "decision": "Keine neuen Trades heute bislang (14 Laeufe): beide offenen Positionen (BTC pos-0018, Brent pos-0030) liegen weiterhin klar innerhalb der normalen Schwankungsbreite, kein Stop-Loss oder Gewinnziel erreicht. Kursupdates fortlaufend vorgenommen.",
+    "reasoning": "BTC -1,84% und Brent -1,48% seit Kauf liegen deutlich innerhalb der etablierten Toleranz (Stop-Loss erst ab ca. -6,5 bis -7,5%, Gewinnziel ab ca. +7-9%). Keine frische, mehrfach bestaetigte Einzelwert- oder Krypto-Nachricht seit dem letzten Lauf gefunden, die einen neuen Trade rechtfertigt; Hormuz-Thema bereits ueber die bestehende Brent-Position abgebildet. Passend zum spekulativen Profil wird nur bei klarer Gelegenheit gehandelt, nicht aus reinem Aktionismus.",
     "positionIds": [
       "pos-0018",
       "pos-0030"
     ],
-    "portfolioValueEnd": 1379.89,
+    "portfolioValueEnd": 1376.76,
     "updates": [
       {
         "time": "00:08",
@@ -9956,6 +9956,11 @@
         "time": "13:13",
         "note": "Keine Aenderung; BTC-Kursupdate (83.347 USD, +2,2% 24h, -1,99% seit Kauf), Brent-Kursupdate (110,56 USD, +1,63% Tagesplus, -0,89% seit Kauf); frischer Hormuz-Katalysator (UKMTO-Tankertreffer vor Oman, IRGC-Minen-Behauptung an 3 weiteren Tankern, Iran haelt Strasse fuer gesperrt) stuetzt bestehende Brent-Position, kein neuer Einzelwert-Trade; Krypto-Topmover ohne fundamentalen Katalysator",
         "portfolioValue": 1379.89
+      },
+      {
+        "time": "14:15",
+        "note": "Keine Aenderung; BTC-Kursupdate (83.469 USD, +2,66% 24h, -1,84% seit Kauf), Brent-Kursupdate (109,90 USD, -1,48% seit Kauf); keine frische Einzelwert- oder Krypto-Katalysator-Meldung seit dem letzten Lauf gefunden, US-Kassamarkt oeffnet erst um 15:30 MESZ",
+        "portfolioValue": 1376.76
       }
     ]
   }
