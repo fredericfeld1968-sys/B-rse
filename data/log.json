@@ -9878,14 +9878,14 @@
   },
   {
     "date": "2026-10-21",
-    "marketOverview": "Bitcoin notiert bei 82.886 USD (+1,70% 24h laut CoinGecko), weiterhin -2,53% unter Kaufniveau von pos-0018 (85.035 USD). Brent Crude (BZ=F) bei 110,20 USD/Barrel (+1,30% auf Tagessicht laut Yahoo Finance), -1,21% unter Kaufniveau von pos-0030 (111,55 USD) - der fruehere Verlust hat sich leicht erholt. Staerkster 24h-Mover im Kryptomarkt bleibt weiterhin Zcash (ZEC, ca. 1.269 USD, +11,5% laut CoinGecko), gefolgt von Dogecoin (+3,6%), XRP (+3,1%) und Avalanche (+2,7%); gezielte Websuche zu ZEC lieferte erneut keinen frischen, auf den 21.10. datierten Katalysator (nur aeltere Artikel aus Sept./2026), die Bewegung wirkt weiterhin ueberhitzt und bereits lange laufend. Aktien/ETFs/Rohstoff-Kassamaerkte bleiben um diese Nachtzeit (Mittwoch, 04:09 MESZ) geschlossen, nur Krypto und Rohstoff-Futures (Brent) sind noch quotiert.",
-    "decision": "Kein neuer Kauf oder Verkauf in diesem Lauf (04:09). Offene Positionen (Bitcoin pos-0018, Brent Crude pos-0030) auf aktuelle Kurse aktualisiert, beide weiterhin klar innerhalb der Toleranz (-2,53% bzw. -1,21%, keine Stop-Loss- oder Gewinnmitnahme-Schwelle erreicht). Tagesbudget fuer den 21.10. wurde bereits in einem vorherigen Lauf gutgeschrieben (lastGrantDate=21.10. bleibt unveraendert).",
-    "reasoning": "Live-Kursdaten direkt ueber CoinGecko-API (Bitcoin, Top-Altcoins mit 24h-Performance) und Yahoo-Finance-API (BZ=F, Brent) bezogen. Gezielte Websuche zu ZEC sowie zu Bitcoin-ETF-Nachrichten lieferte keine neuen, auf den 21.10. datierten Katalysatoren - nur aeltere Berichte aus September/fruehem Oktober 2026 (u.a. ETF-Zufluesse Anfang Oktober, Fed-Sitzung erst am 27.-28.10. erwartet). Passend zum spekulativen, aber disziplinierten Profil daher keine neue Position eroeffnet, da kein frischer, mehrfach bestaetigter Katalysator vorliegt. Aktien/ETFs/Rohstoff-Kassamaerkte sind ausserhalb der Handelszeiten ohnehin nicht handelbar (nur Krypto erlaubt).",
+    "marketOverview": "Bitcoin notiert bei 82.730 USD (CoinGecko, +1,05% 24h), weiterhin ca. -2,71% unter Kaufniveau von pos-0018 (85.035 USD). Brent Crude (BZ=F) bei 110,43 USD/Barrel (Yahoo Finance, +1,51% Tagesplus), -1,00% unter Kaufniveau von pos-0030 (111,55 USD) - leichte Erholung gegenueber dem Vorlauf. Staerkster 24h-Mover im Kryptomarkt bleibt weiterhin Zcash (ZEC, ca. 1.267 USD, +10,5%), gezielte Websuche lieferte erneut keinen frischen, auf den 21.10. datierten Katalysator (nur Berichte aus Sept./fruehem Okt. 2026 zu SEC-Freigabe und Grayscale-ETF). Ebenfalls keine neuen, auf heute datierten Meldungen zur Hormuz-Eskalation gefunden. Aktien/ETFs/Rohstoff-Kassamaerkte bleiben um diese Nachtzeit (Mittwoch, 05:08 MESZ) geschlossen, nur Krypto und Rohstoff-Futures (Brent) sind noch quotiert.",
+    "decision": "Kein neuer Kauf oder Verkauf in diesem Lauf (05:08). Offene Positionen (Bitcoin pos-0018, Brent Crude pos-0030) auf aktuelle Kurse aktualisiert, beide weiterhin klar innerhalb der Toleranz (-2,71% bzw. -1,00%, keine Stop-Loss- oder Gewinnmitnahme-Schwelle erreicht). Tagesbudget fuer den 21.10. wurde bereits in einem vorherigen Lauf gutgeschrieben (lastGrantDate=21.10. bleibt unveraendert).",
+    "reasoning": "Live-Kursdaten direkt ueber CoinGecko-API (Bitcoin, Top-Mover mit 24h-Performance) und Yahoo-Finance-API (BZ=F, Brent) bezogen. Gezielte Websuche zu ZEC sowie zur Hormuz-Eskalation lieferte keine neuen, auf den 21.10. datierten Katalysatoren. Passend zum spekulativen, aber disziplinierten Profil daher keine neue Position eroeffnet. Aktien/ETFs/Rohstoff-Kassamaerkte sind ausserhalb der Handelszeiten ohnehin nicht handelbar (nur Krypto/Brent-Futures erlaubt).",
     "positionIds": [
       "pos-0018",
       "pos-0030"
     ],
-    "portfolioValueEnd": 1373.84,
+    "portfolioValueEnd": 1374.0,
     "updates": [
       {
         "time": "00:08",
@@ -9911,6 +9911,11 @@
         "time": "04:09",
         "note": "Keine Aenderung; BTC-Kursupdate (82.886 USD, +1,70% 24h, -2,53% seit Kauf), Brent-Kursupdate (110,20 USD, +1,30% Tagesplus, -1,21% seit Kauf); ZEC fuehrt Mover weiterhin an (+11,5%) ohne frischen Katalysator; kein ueberzeugender Trade, nachts nur Krypto/Brent-Futures handelbar",
         "portfolioValue": 1373.84
+      },
+      {
+        "time": "05:08",
+        "note": "Keine Aenderung; BTC-Kursupdate (82.730 USD, +1,05% 24h, -2,71% seit Kauf), Brent-Kursupdate (110,43 USD, +1,51% Tagesplus, -1,00% seit Kauf); ZEC fuehrt Mover weiterhin an (+10,5%) ohne frischen Katalysator; kein ueberzeugender Trade, nachts nur Krypto/Brent-Futures handelbar",
+        "portfolioValue": 1374.0
       }
     ]
   }
