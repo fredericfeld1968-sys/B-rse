@@ -10011,19 +10011,24 @@
   },
   {
     "date": "2026-10-22",
-    "marketOverview": "Kurz nach Mitternacht (Europe/Berlin): US-Kassamarkt seit 22:00 MESZ geschlossen, Tesla-Q3-Earnings-Call steht laut Zeitplan erst um 23:30 MESZ an und ist noch nicht veroeffentlicht. Bitcoin notiert bei ca. 84.726 USD (+2,06% in 24h, CoinGecko), leichte Erholung gegenueber dem Vortagestief. Brent Crude haelt sich bei ca. 109,76 USD/Barrel (+0,9% Tagesplus, TradingEconomics) weiter nahe des Fuenfmonatshochs, keine neue Eskalations- oder Deeskalationsmeldung zur Strasse von Hormuz seit dem letzten Lauf gefunden. Kein frischer, mehrfach bestaetigter Einzelwert- oder Altcoin-Katalysator identifiziert (CoinMarketCap berichtet lediglich von gemischter Rotation, keine klare Rally).",
-    "decision": "Kein Trade in diesem Lauf. Tagesgutschrift von 1.000 EUR frischem Kapital fuer den 22.10. verbucht. Kursupdate fuer beide offenen Positionen: BTC (pos-0018, 84.726 USD, -0,36% seit Kauf) und Brent (pos-0030, 109,76 USD, -1,60% seit Kauf), beide innerhalb der Toleranz, kein Stop-Loss erreicht.",
-    "reasoning": "Es ist Nacht (Europe/Berlin), daher sind Aktien, ETFs und Rohstoffe nicht handelbar - fuer Rohstoffe (Brent) deshalb nur Kursupdate, kein Verkauf, auch wenn der Verlust waechst. Fuer Krypto wurde kein ueberzeugender, frischer Katalysator gefunden (nur unspezifische Marktrotation laut CoinMarketCap); das spekulative Profil erlaubt kurzfristiges Handeln, aber nicht ohne klaren Anlass. Daher kein Trade in diesem Lauf.",
+    "marketOverview": "Kurz nach 01:00 (Europe/Berlin): US-Kassamarkt weiter geschlossen (Oeffnung erst 15:30 MESZ). Bitcoin notiert bei ca. 84.500 USD, leicht schwaecher als beim letzten Lauf (84.726 USD) - CoinMarketCap/Coinbase/Kraken clustern eng um 84.400-84.600 USD. Brent Crude liegt bei ca. 108,30 USD/Barrel (CNBC-Settle 108,82 USD, danach leicht schwaecher), nach kurzzeitigem Tageshoch ueber 111 USD; Rubio berichtet von teilweise wiederhergestelltem Hormuz-Tankerverkehr (>80% des Vorkriegsniveaus), waehrend Iran laut IRGC weiterhin Tanker per Seemine stoppt - gemischte, nicht eindeutig eskalierende Lage. Krypto-Sentiment insgesamt leicht risikoavers (CoinMarketCap: BNB, SHIB, Pi Network im Minus nach Nahost-Schlagzeilen), kein frischer, mehrfach bestaetigter Einzelwert-Katalysator gefunden.",
+    "decision": "Kein Trade in diesem Lauf (zweiter Lauf des Tages). Tagesgutschrift fuer den 22.10. wurde bereits im ersten Lauf verbucht (keine erneute Gutschrift). Kursupdate fuer beide offenen Positionen: BTC (pos-0018) nun 84.500 USD (-0,63% seit Kauf), Brent (pos-0030) nun 108,30 USD (-2,91% seit Kauf), beide weiterhin deutlich innerhalb der Toleranz, kein Stop-Loss und kein Gewinnziel erreicht.",
+    "reasoning": "Weiterhin Nacht (Europe/Berlin) und US-Boersen geschlossen, daher bleiben Aktien, ETFs und Rohstoffe nicht handelbar - Brent wird nur im Kurs aktualisiert, nicht verkauft. Fuer Krypto zeigt sich aktuell eher risikoaverses Sentiment (Nahost-bedingter Abverkauf bei mehreren Altcoins) statt einer ueberzeugenden, bestaetigten Kaufgelegenheit; daher trotz erlaubtem spekulativem Kurzfrist-Handel kein Trade in diesem Lauf.",
     "positionIds": [
       "pos-0018",
       "pos-0030"
     ],
-    "portfolioValueEnd": 1386.23,
+    "portfolioValueEnd": 1375.21,
     "updates": [
       {
         "time": "00:08",
         "note": "Tagesgutschrift +1.000 EUR frisches Kapital (totalFreshCapitalEur jetzt 79.000 EUR); Keine Aenderung am Depot; BTC-Kursupdate (84.726 USD, +2,06% 24h, -0,36% seit Kauf), Brent-Kursupdate (109,76 USD, -1,60% seit Kauf); kein frischer bestaetigter Einzelwert- oder Krypto-Katalysator, Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten (Nacht)",
         "portfolioValue": 1386.23
+      },
+      {
+        "time": "01:09",
+        "note": "Keine Aenderung am Depot; BTC-Kursupdate (84.500 USD, -0,63% seit Kauf), Brent-Kursupdate (108,30 USD, -2,91% seit Kauf); kein ueberzeugender Krypto-Katalysator, Aktien/ETFs/Rohstoffe weiter ausserhalb der Handelszeiten (Nacht)",
+        "portfolioValue": 1375.21
       }
     ]
   }
