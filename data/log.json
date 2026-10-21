@@ -9878,9 +9878,9 @@
   },
   {
     "date": "2026-10-21",
-    "marketOverview": "BTC laut mehreren Quellen (Coinbase, CoinMarketCap, CoinGecko) aktuell im Bereich 83.000-83.400 USD, damit leicht unter dem 18:09-Stand (84.520 USD) - weiterhin knapp unter Kaufkurs der offenen Position (85.035 USD, ca. -2%). Brent Crude laut mehreren Quellen (FinanceFeeds/Reuters, OilPriceAPI, Investing.com) im Bereich 108,6-110,4 USD/Barrel, Fuenf-Monats-Hoch bei 111,99 USD am Vortag, Vortagesschluss 108,79 USD - Eskalation an der Strasse von Hormuz haelt an, ca. -1,6% unter Kaufkurs (111,55 USD). US-Kassamarkt weiterhin offen (13:09 ET). Keine frisch datierte, mehrfach unabhaengig bestaetigte Einzelwert- oder Krypto-Nachricht mit klarem neuem Kurskatalysator gefunden (Suchergebnisse zu Topmovern/Earnings liefern ueberwiegend veraltete oder undatierte Treffer).",
-    "decision": "Keine neuen Trades heute (20 Laeufe): beide offenen Positionen (BTC pos-0018, Brent pos-0030) liegen weiterhin klar innerhalb der normalen Schwankungsbreite, kein Stop-Loss oder Gewinnziel erreicht. Trotz offenem US-Kassamarkt kein mehrfach bestaetigter, frischer Einzelwert-Katalysator gefunden.",
-    "reasoning": "BTC ca. -2,0% und Brent ca. -1,6% seit Kauf liegen deutlich innerhalb der etablierten Toleranz (Stop-Loss erst ab ca. -6,5 bis -7,5%, Gewinnziel ab ca. +7-9%). Websuche lieferte fuer beide Kurse nur naeherungsweise, teils widersprechende Werte (verschiedene Quellen/Zeitstempel) - konservativ mit Mittelwerten aus mehreren Quellen aktualisiert. Keine ueberzeugende neue Einzelgelegenheit identifiziert, daher passend zum spekulativen Profil kein Aktionismus.",
+    "marketOverview": "BTC weiterhin um 83.350 USD (ca. -2% seit Kauf von pos-0018), Brent um 109,80 USD (ca. -1,6% seit Kauf von pos-0030) - Suchergebnisse zu aktuellen Kursen bleiben widerspruechlich/undatiert, daher konservativ unveraendert uebernommen. US-Kassamarkt schliesst in Kuerze (16:00 ET); TSLA- und META-Quartalszahlen werden erst nach Handelsschluss heute Abend erwartet, bislang keine bestaetigte Reaktion. Kein mehrfach unabhaengig bestaetigter, frischer Einzelwert- oder Krypto-Katalysator identifiziert.",
+    "decision": "Keine neuen Trades heute (21 Laeufe): beide offenen Positionen (BTC pos-0018, Brent pos-0030) liegen weiterhin klar innerhalb der normalen Schwankungsbreite, kein Stop-Loss oder Gewinnziel erreicht. Kein bestaetigter frischer Einzelwert-Katalysator gefunden; TSLA/META-Earnings stehen erst nach Handelsschluss an.",
+    "reasoning": "BTC ca. -2,0% und Brent ca. -1,6% seit Kauf liegen deutlich innerhalb der etablierten Toleranz (Stop-Loss erst ab ca. -6,5 bis -7,5%, Gewinnziel ab ca. +7-9%). Websuche lieferte erneut nur widerspruechliche/undatierte Kursangaben, daher konservativ die zuletzt bestaetigten Werte uebernommen. Keine ueberzeugende neue Einzelgelegenheit identifiziert, daher passend zum spekulativen Profil kein Aktionismus.",
     "positionIds": [
       "pos-0018",
       "pos-0030"
@@ -9990,6 +9990,11 @@
       {
         "time": "20:08",
         "note": "Keine Aenderung; keine neuen verlaesslichen/datierten Kurse fuer BTC/Brent gefunden (Suchergebnisse widerspruechlich/undatiert), daher Kurse unveraendert uebernommen (BTC ca. 83.350 USD, -1,98% seit Kauf; Brent ca. 109,80 USD, -1,57% seit Kauf); kein frischer bestaetigter Einzelwert-Katalysator, US-Kassamarkt weiterhin offen",
+        "portfolioValue": 1375.15
+      },
+      {
+        "time": "21:07",
+        "note": "Keine Aenderung; keine verlaesslichen frischen Kurse fuer BTC/Brent gefunden (Suchergebnisse widerspruechlich/undatiert), daher Kurse unveraendert uebernommen (BTC 83.350 USD, -1,98% seit Kauf; Brent 109,80 USD, -1,57% seit Kauf); TSLA/META-Earnings stehen erst heute Abend nach US-Handelsschluss an, noch kein bestaetigter Einzelwert-Katalysator; US-Kassamarkt schliesst in Kuerze (16:00 ET)",
         "portfolioValue": 1375.15
       }
     ]
