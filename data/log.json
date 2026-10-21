@@ -9878,14 +9878,14 @@
   },
   {
     "date": "2026-10-21",
-    "marketOverview": "BTC bei ca. 82.614 USD (+1,25% 24h), weiterhin rund 2,8% unter Kaufkurs der offenen Position. Brent Crude bei ca. 110,30 USD/Barrel (+1,3-1,5% Tagesplus), gestuetzt durch die anhaltende Eskalation an der Strasse von Hormuz (fortgesetzte Tankerzwischenfaelle, reduzierter Durchfluss). Zcash (ZEC, +11% 24h) und RAIN (+10,5%) weiterhin staerkste Krypto-Mover, aber ohne neu datierten Katalysator in den letzten Stunden - bereits mehrfach heute geprueft und verworfen. Europaeische Boersen noch nicht eroeffnet (08:12 MESZ), Aktien/ETFs daher nicht handelbar.",
-    "decision": "Keine neuen Trades heute bislang (acht Laeufe): beide offenen Positionen (BTC pos-0018, Brent pos-0030) liegen innerhalb der normalen Schwankungsbreite, kein Stop-Loss oder Gewinnziel erreicht. Kursupdates fortlaufend vorgenommen.",
-    "reasoning": "BTC -2,85% und Brent -1,12% seit Kauf liegen klar innerhalb der etablierten Toleranz (Stop-Loss erst ab ca. -6,5 bis -7,5%). Kein ueberzeugender neuer Katalysator fuer zusaetzliche Positionen gefunden; ZEC/RAIN-Bewegungen bleiben ohne frischen, datierten Trigger. Passend zum spekulativen Profil wird nur bei klarer Gelegenheit gehandelt, nicht aus reinem Aktionismus.",
+    "marketOverview": "BTC bei ca. 82.650 USD, weiterhin rund 2,8% unter Kaufkurs der offenen Position, Kryptomarkt insgesamt richtungslos vor dem Fed-Meeting am 27./28.10. Brent Crude bei ca. 111,20 USD/Barrel, gestuetzt durch die weiter eskalierende Lage an der Strasse von Hormuz (CNBC berichtet heute von steigenden WTI-/Brent-Preisen wegen Nahost-Sorgen; IRGC meldet mehrere Tankerminen-Vorfaelle und einen abgeschossenen US-Drohnenflug, unbestaetigt). Europaeische Boersen seit 09:00 MESZ geoeffnet, jedoch kein frischer, ueberzeugender Einzelwert-Katalysator gefunden.",
+    "decision": "Keine neuen Trades heute bislang (neun Laeufe): beide offenen Positionen (BTC pos-0018, Brent pos-0030) liegen innerhalb der normalen Schwankungsbreite, kein Stop-Loss oder Gewinnziel erreicht. Kursupdates fortlaufend vorgenommen.",
+    "reasoning": "BTC -2,80% und Brent -0,31% seit Kauf liegen klar innerhalb der etablierten Toleranz (Stop-Loss erst ab ca. -6,5 bis -7,5%). Die fortgesetzte Hormuz-Eskalation ist fuer die bereits gehaltene Brent-Position bereits eingepreist, kein neuer, unabhaengig bestaetigter Zusatzkatalysator fuer eine weitere Position gefunden. Passend zum spekulativen Profil wird nur bei klarer Gelegenheit gehandelt, nicht aus reinem Aktionismus.",
     "positionIds": [
       "pos-0018",
       "pos-0030"
     ],
-    "portfolioValueEnd": 1372.23,
+    "portfolioValueEnd": 1378.17,
     "updates": [
       {
         "time": "00:08",
@@ -9931,6 +9931,11 @@
         "time": "08:12",
         "note": "Keine Aenderung; BTC-Kursupdate (82.614 USD, +1,25% 24h, -2,85% seit Kauf), Brent-Kursupdate (110,30 USD, -1,12% seit Kauf); ZEC/RAIN weiterhin staerkste Mover ohne frischen Katalysator; Boersen in Europa noch nicht offen, kein ueberzeugender Trade",
         "portfolioValue": 1372.23
+      },
+      {
+        "time": "09:12",
+        "note": "Keine Aenderung; BTC-Kursupdate (82.650 USD, -2,80% seit Kauf), Brent-Kursupdate (111,20 USD, -0,31% seit Kauf, Hormuz-Eskalation haelt an laut CNBC); europaeische Boersen offen, aber kein frischer Einzelwert-Katalysator gefunden",
+        "portfolioValue": 1378.17
       }
     ]
   }
