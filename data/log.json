@@ -9878,8 +9878,8 @@
   },
   {
     "date": "2026-10-21",
-    "marketOverview": "BTC bei ca. 83.469 USD (CoinGecko), +2,66% in 24h, -1,84% unter Kaufkurs der offenen Position (85.035 USD). Brent Crude bei ca. 109,90 USD/Barrel (Investing.com), -1,48% unter Kaufkurs (111,55 USD) - leichter Ruecksetzer vom Nachmittagshoch, Hormuz-Eskalationsthema (UKMTO-Tankertreffer, IRGC-Minen-Behauptung, gesperrte Strasse laut Aussenminister Araghchi) bleibt laut verfuegbaren Quellen unveraendert bestehen, keine neue Deeskalations- oder Eskalationsmeldung gefunden. Europaeische Boersen offen, US-Kassamarkt oeffnet erst um 15:30 MESZ (TSLA/META-Earnings erst nach heutigem US-Boersenschluss, IBM/Lam Research/CSX laut Kalender ebenfalls heute). Keine frische, mehrfach bestaetigte Einzelwert- oder Krypto-Katalysator-Meldung fuer die letzte Stunde gefunden.",
-    "decision": "Keine neuen Trades heute bislang (14 Laeufe): beide offenen Positionen (BTC pos-0018, Brent pos-0030) liegen weiterhin klar innerhalb der normalen Schwankungsbreite, kein Stop-Loss oder Gewinnziel erreicht. Kursupdates fortlaufend vorgenommen.",
+    "marketOverview": "BTC weiterhin bei ca. 83.469 USD, -1,84% unter Kaufkurs der offenen Position (85.035 USD); Brent Crude weiterhin bei ca. 109,90 USD/Barrel, -1,48% unter Kaufkurs (111,55 USD). Dieser Lauf (15:14 MESZ) fand keine verlaesslichen frischen Kursdaten (Suchergebnisse veraltet/widersprechend, teils Jahre alt), daher wurden die zuletzt bestaetigten Kurse unveraendert uebernommen. Hormuz-Eskalationsthema bleibt laut letztem bestaetigten Stand unveraendert bestehen. US-Kassamarkt oeffnet erst um 15:30 MESZ (TSLA/META-Earnings erst nach heutigem US-Boersenschluss). Keine frische, mehrfach bestaetigte Einzelwert- oder Krypto-Katalysator-Meldung gefunden.",
+    "decision": "Keine neuen Trades heute bislang (15 Laeufe): beide offenen Positionen (BTC pos-0018, Brent pos-0030) liegen weiterhin klar innerhalb der normalen Schwankungsbreite, kein Stop-Loss oder Gewinnziel erreicht. Kursupdates fortlaufend vorgenommen, dieser Lauf ohne neue verlaessliche Kursdaten.",
     "reasoning": "BTC -1,84% und Brent -1,48% seit Kauf liegen deutlich innerhalb der etablierten Toleranz (Stop-Loss erst ab ca. -6,5 bis -7,5%, Gewinnziel ab ca. +7-9%). Keine frische, mehrfach bestaetigte Einzelwert- oder Krypto-Nachricht seit dem letzten Lauf gefunden, die einen neuen Trade rechtfertigt; Hormuz-Thema bereits ueber die bestehende Brent-Position abgebildet. Passend zum spekulativen Profil wird nur bei klarer Gelegenheit gehandelt, nicht aus reinem Aktionismus.",
     "positionIds": [
       "pos-0018",
@@ -9960,6 +9960,11 @@
       {
         "time": "14:15",
         "note": "Keine Aenderung; BTC-Kursupdate (83.469 USD, +2,66% 24h, -1,84% seit Kauf), Brent-Kursupdate (109,90 USD, -1,48% seit Kauf); keine frische Einzelwert- oder Krypto-Katalysator-Meldung seit dem letzten Lauf gefunden, US-Kassamarkt oeffnet erst um 15:30 MESZ",
+        "portfolioValue": 1376.76
+      },
+      {
+        "time": "15:14",
+        "note": "Keine Aenderung; Kein verlaesslicher frischer Kurs fuer BTC/Brent gefunden (Suchergebnisse veraltet/widersprechend), daher Kurse unveraendert uebernommen (BTC 83.469 USD, -1,84% seit Kauf; Brent 109,90 USD, -1,48% seit Kauf); kein frischer, bestaetigter Katalysator fuer neuen Trade, US-Kassamarkt oeffnet erst um 15:30 MESZ",
         "portfolioValue": 1376.76
       }
     ]
