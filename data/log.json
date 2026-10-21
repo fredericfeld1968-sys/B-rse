@@ -9878,14 +9878,14 @@
   },
   {
     "date": "2026-10-21",
-    "marketOverview": "BTC bei ca. 83.063 USD (+2,13% 24h laut CoinGecko), damit -2,32% unter Kaufkurs der offenen Position (85.035 USD) - Erholung seit dem Morgentief, aber weiterhin deutlich innerhalb der Toleranz. Brent Crude bei ca. 109,56 USD/Barrel (+0,71% heute laut Investing.com), -1,78% unter Kaufkurs (111,55 USD) - die Hormuz-Eskalation bleibt Preistreiber, aktuelle Lageberichte zur Strasse von Hormuz sind aber nicht neu datiert verfügbar. Kryptomarkt insgesamt in breiter Erholung (ZEC, PUMP, NEAR, ENA, PEPE je +5-12% in 24h), jedoch ohne neu datierten, einzeltitelspezifischen Katalysator fuer diese Mover - die ZEC-Rally laeuft bereits seit Wochen (Grayscale-Zutritt, ETF-Spekulation) ohne frischen Trigger heute. An den Aktienmaerkten berichten heute nach Boersenschluss u.a. Tesla, Meta, SAP, IBM und Texas Instruments - noch keine Ergebnisse vorhanden, daher kein handelbarer Katalysator.",
-    "decision": "Keine neuen Trades heute bislang (zehn Laeufe): beide offenen Positionen (BTC pos-0018, Brent pos-0030) liegen weiterhin klar innerhalb der normalen Schwankungsbreite, kein Stop-Loss oder Gewinnziel erreicht. Kursupdates fortlaufend vorgenommen.",
-    "reasoning": "BTC -2,32% und Brent -1,78% seit Kauf liegen deutlich innerhalb der etablierten Toleranz (Stop-Loss erst ab ca. -6,5 bis -7,5%). Die staerksten Krypto-Mover (ZEC, PUMP, NEAR, ENA) zeigen keinen frischen, heute datierten Katalysator, sondern setzen laufende, teils schon wochenalte Trends fort - zu unsicher fuer eine neue spekulative Position. Wichtige Einzelwert-Katalysatoren (TSLA/META/SAP-Earnings) liegen erst nach Boersenschluss. Passend zum spekulativen Profil wird nur bei klarer Gelegenheit gehandelt, nicht aus reinem Aktionismus.",
+    "marketOverview": "BTC bei ca. 83.071 USD (CoinGecko/CoinDesk), -2,31% unter Kaufkurs der offenen Position (85.035 USD) - stabil seitwaerts seit dem letzten Lauf, Sentiment optimistisch vor den grossen Tech-/AI-Earnings dieser Woche plus staerksten BlackRock-IBIT-ETF-Zufluessen seit einem Monat. Brent Crude bei ca. 110,30 USD/Barrel (OilPrice.com), -1,12% unter Kaufkurs (111,55 USD) - laut Kitco sorgen Hormuz-Diplomatiesignale (Vermittler loten neuen US-Iran-Gespraechsrahmen aus) fuer eine leichte Preisumkehr, eine bestaetigte Einigung gibt es aber nicht; Tankerangriffe laufen laut Kpler-Daten weiter, Kriegsrisikopraemie bleibt laut ING im Preis. TSLA/META/SAP/TXN-Quartalszahlen sind offiziell erst fuer heute Abend nach US-Boersenschluss (ca. 22:00 MESZ) terminiert - vor Markteroeffnung (15:30 MESZ) liegen noch keine Ergebnisse vor. ZEC (+11% laut CoinDesk) bleibt staerkster Krypto-Mover, aber weiterhin ohne neuen, heute datierten Einzel-Trigger (Fortsetzung der laufenden Privacy-Coin-Rally); fuer PUMP/NEAR/ENA kein frischer Katalysator auffindbar. Woche bisher: S&P 500 -1,95%, Nasdaq -4,48% (Tech-/AI-Capex-Sorgen, Chip-Aktien-Ausverkauf in Asien), Dow +0,67%; FOMC-Sitzung erst 27.-28.10.",
+    "decision": "Keine neuen Trades heute bislang (elf Laeufe): beide offenen Positionen (BTC pos-0018, Brent pos-0030) liegen weiterhin klar innerhalb der normalen Schwankungsbreite, kein Stop-Loss oder Gewinnziel erreicht. Kursupdates fortlaufend vorgenommen.",
+    "reasoning": "BTC -2,31% und Brent -1,12% seit Kauf liegen deutlich innerhalb der etablierten Toleranz (Stop-Loss erst ab ca. -6,5 bis -7,5%). Die Hormuz-Lage zeigt erste Diplomatie-/Deeskalationssignale ohne bestaetigte Einigung - kein klarer neuer Trade-Impuls in beide Richtungen. ZEC und andere Krypto-Mover bleiben ohne frischen, heute datierten Katalysator und setzen nur laufende, teils wochenalte Trends fort - zu unsicher fuer eine neue spekulative Position. Die entscheidenden Einzelwert-Katalysatoren (TSLA/META/SAP/TXN-Earnings) liegen erst nach US-Boersenschluss heute Abend. Passend zum spekulativen Profil wird nur bei klarer Gelegenheit gehandelt, nicht aus reinem Aktionismus.",
     "positionIds": [
       "pos-0018",
       "pos-0030"
     ],
-    "portfolioValueEnd": 1371.28,
+    "portfolioValueEnd": 1375.99,
     "updates": [
       {
         "time": "00:08",
@@ -9941,6 +9941,11 @@
         "time": "10:10",
         "note": "Keine Aenderung; BTC-Kursupdate (83.063 USD, +2,13% 24h, -2,32% seit Kauf), Brent-Kursupdate (109,56 USD, +0,71% Tagesplus, -1,78% seit Kauf); ZEC/PUMP/NEAR/ENA fuehren Krypto-Mover an (+5-12%), aber ohne frischen datierten Katalysator; TSLA/META/SAP-Earnings erst nach Boersenschluss; kein ueberzeugender Trade",
         "portfolioValue": 1371.28
+      },
+      {
+        "time": "11:12",
+        "note": "Keine Aenderung; BTC-Kursupdate (83.071 USD, -2,31% seit Kauf), Brent-Kursupdate (110,30 USD, -1,12% seit Kauf, Hormuz-Diplomatiesignale laut Kitco ohne bestaetigte Einigung); ZEC weiterhin staerkster Krypto-Mover ohne frischen Katalysator; TSLA/META/SAP/TXN-Earnings erst heute Abend nach US-Boersenschluss; kein ueberzeugender Trade",
+        "portfolioValue": 1375.99
       }
     ]
   }
