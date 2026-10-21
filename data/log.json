@@ -9878,14 +9878,14 @@
   },
   {
     "date": "2026-10-21",
-    "marketOverview": "BTC bei ca. 83.500 USD (laut mehreren Marktberichten vom 21.10. rund +2,5% in 24h, Wochenhoch), -1,81% unter Kaufkurs der offenen Position (85.035 USD). Brent Crude bei ca. 110,00 USD/Barrel nach Schwankungen zwischen 112 und 106 USD am Vortag, -1,39% unter Kaufkurs (111,55 USD). US-Kassamarkt seit 15:30 MESZ offen; Berichte nennen ein leichtes Risk-on (Dow/S&P leicht im Plus, Nasdaq knapp im Minus) gestuetzt u.a. von SpaceX- und Super-Micro-Zahlen, jedoch ohne verlaesslich datierte Einzelwert-Kursdaten. Widersprechende, unbestaetigte Meldungen zu moeglichen US-Iran-Hormuz-Diplomatiefortschritten (keine offizielle Bestaetigung einer Einigung).",
-    "decision": "Keine neuen Trades heute (16 Laeufe): beide offenen Positionen (BTC pos-0018, Brent pos-0030) liegen weiterhin klar innerhalb der normalen Schwankungsbreite, kein Stop-Loss oder Gewinnziel erreicht. Trotz geoeffnetem US-Kassamarkt kein mehrfach bestaetigter, frischer Einzelwert-Katalysator gefunden.",
-    "reasoning": "BTC -1,81% und Brent -1,39% seit Kauf liegen deutlich innerhalb der etablierten Toleranz (Stop-Loss erst ab ca. -6,5 bis -7,5%, Gewinnziel ab ca. +7-9%). Erwaehnte Marktbewegungen (SpaceX/Super-Micro-Zahlen, leichtes Dow/S&P-Plus) liessen sich nicht mit konkreten, verlaesslich auf heute datierten Kursdaten einzelner Titel untermauern; Hormuz-Diplomatie-Geruechte sind unbestaetigt und widersprechen sich mit anderen Quellen, die weiterhin Eskalation/stabile Preise um 110 USD zeigen. Passend zum spekulativen Profil wird nur bei klarer Gelegenheit gehandelt, nicht aus reinem Aktionismus.",
+    "marketOverview": "BTC bei ca. 83.400 USD (CoinMarketCap/Coinbase-Snapshots 83.380-83.640 USD, leicht volatil im Tagesverlauf), -1,92% unter Kaufkurs der offenen Position (85.035 USD). Brent Crude bei ca. 110,38 USD/Barrel (Reuters/Live-Feeds, nahe Fuenf-Monats-Hoch von 111,99 USD am Vortag, dann Ruecksetzer auf 108,79 USD nach Gerueruechten ueber moegliche Iran-Gespraeche), -1,05% unter Kaufkurs (111,55 USD). US-Kassamarkt weiterhin offen; Lam Research, IBM und CSX melden heute Zahlen (laut Earnings-Kalender erst nach Handelsschluss), Tesla/Procter & Gamble erst morgen. Keine verlaesslich auf heute datierten Einzelwert- oder Krypto-Kursspruenge mit klarem, mehrfach bestaetigtem Katalysator gefunden.",
+    "decision": "Keine neuen Trades heute (17 Laeufe): beide offenen Positionen (BTC pos-0018, Brent pos-0030) liegen weiterhin klar innerhalb der normalen Schwankungsbreite, kein Stop-Loss oder Gewinnziel erreicht. Kein mehrfach bestaetigter, frischer Einzelwert- oder Krypto-Katalysator gefunden.",
+    "reasoning": "BTC -1,92% und Brent -1,05% seit Kauf liegen deutlich innerhalb der etablierten Toleranz (Stop-Loss erst ab ca. -6,5 bis -7,5%, Gewinnziel ab ca. +7-9%). Heutige Earnings (Lam Research, IBM, CSX) sind laut Kalender erst nach Handelsschluss faellig und liefern daher noch keinen handelbaren Kurs-Katalysator; sonstige Markt-Suchergebnisse blieben undatiert oder veraltet. Passend zum spekulativen Profil wird nur bei klarer Gelegenheit gehandelt, nicht aus reinem Aktionismus.",
     "positionIds": [
       "pos-0018",
       "pos-0030"
     ],
-    "portfolioValueEnd": 1377.63,
+    "portfolioValueEnd": 1379.2,
     "updates": [
       {
         "time": "00:08",
@@ -9971,6 +9971,11 @@
         "time": "16:12",
         "note": "Keine Aenderung; BTC-Kursupdate (ca. 83.500 USD, -1,81% seit Kauf), Brent-Kursupdate (ca. 110,00 USD, -1,39% seit Kauf); US-Kassamarkt offen, aber kein verlaesslich datierter, bestaetigter Einzelwert-Katalysator gefunden; widersprechende unbestaetigte Hormuz-Diplomatie-Geruechte",
         "portfolioValue": 1377.63
+      },
+      {
+        "time": "17:12",
+        "note": "Keine Aenderung; BTC-Kursupdate (ca. 83.400 USD, -1,92% seit Kauf), Brent-Kursupdate (ca. 110,38 USD, -1,05% seit Kauf); weiterhin kein bestaetigter frischer Einzelwert- oder Krypto-Katalysator, heutige Earnings (Lam Research/IBM/CSX) erst nach Handelsschluss, US-Kassamarkt offen",
+        "portfolioValue": 1379.2
       }
     ]
   }
