@@ -9879,7 +9879,7 @@
   {
     "date": "2026-10-21",
     "marketOverview": "BTC laut mehreren Quellen (Coinbase, CoinMarketCap, CoinGecko) aktuell im Bereich 83.000-83.400 USD, damit leicht unter dem 18:09-Stand (84.520 USD) - weiterhin knapp unter Kaufkurs der offenen Position (85.035 USD, ca. -2%). Brent Crude laut mehreren Quellen (FinanceFeeds/Reuters, OilPriceAPI, Investing.com) im Bereich 108,6-110,4 USD/Barrel, Fuenf-Monats-Hoch bei 111,99 USD am Vortag, Vortagesschluss 108,79 USD - Eskalation an der Strasse von Hormuz haelt an, ca. -1,6% unter Kaufkurs (111,55 USD). US-Kassamarkt weiterhin offen (13:09 ET). Keine frisch datierte, mehrfach unabhaengig bestaetigte Einzelwert- oder Krypto-Nachricht mit klarem neuem Kurskatalysator gefunden (Suchergebnisse zu Topmovern/Earnings liefern ueberwiegend veraltete oder undatierte Treffer).",
-    "decision": "Keine neuen Trades heute (19 Laeufe): beide offenen Positionen (BTC pos-0018, Brent pos-0030) liegen weiterhin klar innerhalb der normalen Schwankungsbreite, kein Stop-Loss oder Gewinnziel erreicht. Trotz offenem US-Kassamarkt kein mehrfach bestaetigter, frischer Einzelwert-Katalysator gefunden.",
+    "decision": "Keine neuen Trades heute (20 Laeufe): beide offenen Positionen (BTC pos-0018, Brent pos-0030) liegen weiterhin klar innerhalb der normalen Schwankungsbreite, kein Stop-Loss oder Gewinnziel erreicht. Trotz offenem US-Kassamarkt kein mehrfach bestaetigter, frischer Einzelwert-Katalysator gefunden.",
     "reasoning": "BTC ca. -2,0% und Brent ca. -1,6% seit Kauf liegen deutlich innerhalb der etablierten Toleranz (Stop-Loss erst ab ca. -6,5 bis -7,5%, Gewinnziel ab ca. +7-9%). Websuche lieferte fuer beide Kurse nur naeherungsweise, teils widersprechende Werte (verschiedene Quellen/Zeitstempel) - konservativ mit Mittelwerten aus mehreren Quellen aktualisiert. Keine ueberzeugende neue Einzelgelegenheit identifiziert, daher passend zum spekulativen Profil kein Aktionismus.",
     "positionIds": [
       "pos-0018",
@@ -9985,6 +9985,11 @@
       {
         "time": "19:09",
         "note": "Keine Aenderung; BTC-Kursupdate (ca. 83.350 USD, -1,98% seit Kauf), Brent-Kursupdate (ca. 109,80 USD, -1,57% seit Kauf); US-Kassamarkt offen, aber kein frischer, mehrfach bestaetigter Einzelwert-Katalysator gefunden",
+        "portfolioValue": 1375.15
+      },
+      {
+        "time": "20:08",
+        "note": "Keine Aenderung; keine neuen verlaesslichen/datierten Kurse fuer BTC/Brent gefunden (Suchergebnisse widerspruechlich/undatiert), daher Kurse unveraendert uebernommen (BTC ca. 83.350 USD, -1,98% seit Kauf; Brent ca. 109,80 USD, -1,57% seit Kauf); kein frischer bestaetigter Einzelwert-Katalysator, US-Kassamarkt weiterhin offen",
         "portfolioValue": 1375.15
       }
     ]
