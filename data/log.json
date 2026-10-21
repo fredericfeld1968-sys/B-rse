@@ -9878,14 +9878,14 @@
   },
   {
     "date": "2026-10-21",
-    "marketOverview": "US-Kassamarkt hat um 22:00 MESZ geschlossen; Tesla-Q3-Zahlen stehen erst gegen 23:30 MESZ an, Meta folgt in den kommenden Tagen. Bitcoin seitwaerts um ca. 83.000-83.500 USD (ETF-Zuflüsse mit 526,7 Mio. USD staerkster Tag seit September, aber kein Ausbruch), Kryptomarkt insgesamt gemischt/leicht schwaecher (ETH, XRP, SOL minus, Fed-Sitzung 27.-28.10. im Blick). Brent haelt sich bei ca. 108-111 USD/Barrel nahe Fuenfmonatshoch, getrieben von anhaltenden Hormuz-Tankerangriffen; kurze Entspannung durch Qatar/Pakistan-Vermittlungsversuche erwies sich als nur kurzfristig.",
-    "decision": "Kein Trade in diesem Lauf. US-Markt bereits geschlossen, Tesla-Earnings noch nicht veroeffentlicht. Kein frischer, mehrfach bestaetigter Einzelwert- oder Krypto-Katalysator (Zcash-Rally ist Wochen alt und bereits eingepreist). Kursupdate fuer BTC (pos-0018, 83.100 USD, -2,28%) und Brent (pos-0030, 110,00 USD, -1,39%), beide innerhalb der Toleranz, kein Stop-Loss erreicht.",
-    "reasoning": "Spekulatives Profil erlaubt kurzfristiges Handeln, aber nur bei bestaetigtem Katalysator. Ausserhalb der Handelszeiten fuer Aktien/ETFs/Rohstoffe ist ohnehin nur Krypto bewegbar; der Kryptomarkt bietet aktuell keine ueberzeugende, frische Gelegenheit. Beide offenen Positionen bleiben innerhalb der etablierten Stop-Loss-Spanne von -6,5 bis -7,5%, daher kein Verkauf.",
+    "marketOverview": "US-Kassamarkt seit 22:00 MESZ geschlossen; Tesla-Q3-Zahlen stehen unmittelbar bevor (Call 17:30 ET / 23:30 MESZ), Ergebnis liegt noch nicht vor. Bitcoin bewegt sich weiter seitwaerts um ca. 83.000-84.700 USD (Bloomberg berichtet von einem Risk-on-Schub auf Tech-Erholung bis 84.737 USD, andere Quellen zeigen 82.700-83.500 USD - Bild uneinheitlich), ETF-Zufluesse kuehlten nach dem starken Montag deutlich ab (23,2 Mio. USD). Brent haelt sich weiter nahe Fuenfmonatshoch um 108-111 USD/Barrel, getrieben von anhaltenden Hormuz-Tankerangriffen; keine neue Eskalations- oder Deeskalationsmeldung seit dem letzten Lauf.",
+    "decision": "Kein Trade in diesem Lauf. US-Markt bereits geschlossen, Tesla-Earnings noch nicht veroeffentlicht (Call steht in Kuerze an). Kein frischer, mehrfach bestaetigter Einzelwert- oder Krypto-Katalysator; BTC-Kursbild uneinheitlich zwischen den Quellen, daher vorsichtige Fortschreibung nahe des zuletzt bestaetigten Niveaus. Kursupdate fuer BTC (pos-0018, 83.250 USD, -2,10%) und Brent (pos-0030, unveraendert 110,00 USD, -1,39%), beide innerhalb der Toleranz, kein Stop-Loss erreicht.",
+    "reasoning": "Spekulatives Profil erlaubt kurzfristiges Handeln, aber nur bei bestaetigtem Katalysator. Ausserhalb der Handelszeiten fuer Aktien/ETFs/Rohstoffe ist ohnehin nur Krypto bewegbar; der Kryptomarkt bietet aktuell keine ueberzeugende, frische Gelegenheit (Zcash-Rally weiterhin Wochen alt und eingepreist, keine neuen Katalysatoren gefunden). Beide offenen Positionen bleiben innerhalb der etablierten Stop-Loss-Spanne von -6,5 bis -7,5%, daher kein Verkauf.",
     "positionIds": [
       "pos-0018",
       "pos-0030"
     ],
-    "portfolioValueEnd": 1374.34,
+    "portfolioValueEnd": 1375.58,
     "updates": [
       {
         "time": "00:08",
@@ -10001,6 +10001,11 @@
         "time": "22:08",
         "note": "Keine Aenderung; BTC-Kursupdate (83.100 USD, -2,28% seit Kauf), Brent-Kursupdate (110,00 USD, -1,39% seit Kauf); US-Kassamarkt seit 22:00 MESZ geschlossen, Tesla-Q3-Zahlen stehen erst gegen 23:30 MESZ an, kein frischer bestaetigter Krypto-Katalysator",
         "portfolioValue": 1374.34
+      },
+      {
+        "time": "23:08",
+        "note": "Keine Aenderung; BTC-Kursupdate (83.250 USD, -2,10% seit Kauf, Quellen uneinheitlich 82.700-84.700 USD), Brent unveraendert (110,00 USD, -1,39% seit Kauf); Tesla-Q3-Zahlen stehen unmittelbar bevor (Call 23:30 MESZ), noch nicht veroeffentlicht; kein bestaetigter Einzelwert- oder Krypto-Katalysator, kein Trade",
+        "portfolioValue": 1375.58
       }
     ]
   }
