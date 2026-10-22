@@ -10011,8 +10011,8 @@
   },
   {
     "date": "2026-10-22",
-    "marketOverview": "Kurz nach 01:00 (Europe/Berlin): US-Kassamarkt weiter geschlossen (Oeffnung erst 15:30 MESZ). Bitcoin notiert bei ca. 84.500 USD, leicht schwaecher als beim letzten Lauf (84.726 USD) - CoinMarketCap/Coinbase/Kraken clustern eng um 84.400-84.600 USD. Brent Crude liegt bei ca. 108,30 USD/Barrel (CNBC-Settle 108,82 USD, danach leicht schwaecher), nach kurzzeitigem Tageshoch ueber 111 USD; Rubio berichtet von teilweise wiederhergestelltem Hormuz-Tankerverkehr (>80% des Vorkriegsniveaus), waehrend Iran laut IRGC weiterhin Tanker per Seemine stoppt - gemischte, nicht eindeutig eskalierende Lage. Krypto-Sentiment insgesamt leicht risikoavers (CoinMarketCap: BNB, SHIB, Pi Network im Minus nach Nahost-Schlagzeilen), kein frischer, mehrfach bestaetigter Einzelwert-Katalysator gefunden.",
-    "decision": "Kein Trade in diesem Lauf (zweiter Lauf des Tages). Tagesgutschrift fuer den 22.10. wurde bereits im ersten Lauf verbucht (keine erneute Gutschrift). Kursupdate fuer beide offenen Positionen: BTC (pos-0018) nun 84.500 USD (-0,63% seit Kauf), Brent (pos-0030) nun 108,30 USD (-2,91% seit Kauf), beide weiterhin deutlich innerhalb der Toleranz, kein Stop-Loss und kein Gewinnziel erreicht.",
+    "marketOverview": "Kurz nach 02:00 (Europe/Berlin): US-Kassamarkt weiterhin geschlossen (Oeffnung erst 15:30 MESZ). Keine verlaesslichen, eindeutig auf den 22.10.2026 datierten frischen Kurs- oder Nachrichtenquellen fuer BTC oder Brent auffindbar; letzter gesicherter Stand bleibt BTC ca. 84.500 USD und Brent ca. 108,30 USD/Barrel. Kein frischer, mehrfach bestaetigter Einzelwert- oder Krypto-Katalysator gefunden.",
+    "decision": "Kein Trade in diesem Lauf (zweiter Lauf des Tages). Tagesgutschrift fuer den 22.10. wurde bereits im ersten Lauf verbucht (keine erneute Gutschrift). Kursupdate fuer beide offenen Positionen: BTC (pos-0018) nun 84.500 USD (-0,63% seit Kauf), Brent (pos-0030) nun 108,30 USD (-2,91% seit Kauf), beide weiterhin deutlich innerhalb der Toleranz, kein Stop-Loss und kein Gewinnziel erreicht. Dritter Lauf (02:09): ebenfalls keine Aenderung, keine verlaesslichen frischen Kursdaten verfuegbar.",
     "reasoning": "Weiterhin Nacht (Europe/Berlin) und US-Boersen geschlossen, daher bleiben Aktien, ETFs und Rohstoffe nicht handelbar - Brent wird nur im Kurs aktualisiert, nicht verkauft. Fuer Krypto zeigt sich aktuell eher risikoaverses Sentiment (Nahost-bedingter Abverkauf bei mehreren Altcoins) statt einer ueberzeugenden, bestaetigten Kaufgelegenheit; daher trotz erlaubtem spekulativem Kurzfrist-Handel kein Trade in diesem Lauf.",
     "positionIds": [
       "pos-0018",
@@ -10028,6 +10028,11 @@
       {
         "time": "01:09",
         "note": "Keine Aenderung am Depot; BTC-Kursupdate (84.500 USD, -0,63% seit Kauf), Brent-Kursupdate (108,30 USD, -2,91% seit Kauf); kein ueberzeugender Krypto-Katalysator, Aktien/ETFs/Rohstoffe weiter ausserhalb der Handelszeiten (Nacht)",
+        "portfolioValue": 1375.21
+      },
+      {
+        "time": "02:09",
+        "note": "Keine Aenderung am Depot; keine verlaesslichen frischen Kurse fuer BTC/Brent gefunden (Suchergebnisse veraltet/widerspruechlich), daher Kurse unveraendert uebernommen; kein bestaetigter Krypto-Katalysator, Aktien/ETFs/Rohstoffe weiter ausserhalb der Handelszeiten (Nacht)",
         "portfolioValue": 1375.21
       }
     ]
