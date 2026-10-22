@@ -10012,13 +10012,13 @@
   {
     "date": "2026-10-22",
     "marketOverview": "Kurz nach 06:00 (Europe/Berlin): Europaeische Boersen noch nicht geoeffnet (Xetra ab 09:00 MESZ), US-Kassamarkt weiterhin geschlossen (Oeffnung erst 15:30 MESZ). Erstmals seit Stunden wieder frischere Live-Kurse gefunden: Bitcoin bei ca. 82.793 USD (24h nahezu unveraendert, +0,09%), Brent Crude bei ca. 110,68 USD/Barrel (+1,71%, Quelle leicht verzoegert). Kryptomarkt insgesamt sehr ruhig (ETH -0,06%, SOL -0,33% in 24h), kein neuer bestaetigter Einzelwert- oder Krypto-Katalysator auffindbar.",
-    "decision": "Kein Trade in diesem Lauf (siebter Lauf des Tages). Tagesgutschrift fuer den 22.10. bereits im ersten Lauf verbucht (keine erneute Gutschrift). Kursupdate fuer beide offenen Positionen (BTC pos-0018: 82.793 USD, -2,64% seit Kauf; Brent pos-0030: 110,68 USD, -0,78% seit Kauf) - kein Stop-Loss und kein Gewinnziel erreicht.",
-    "reasoning": "Weiterhin vor Boersenoeffnung (Europe/Berlin), daher bleiben Aktien, ETFs und Rohstoffe nur im Kurs aktualisierbar, nicht handelbar. Fuer Krypto extrem ruhiger Markt ohne ueberzeugenden Katalysator (BTC/ETH/SOL nahezu unveraendert in 24h); passend zur Vorgabe, nur bei wirklich ueberzeugender Gelegenheit zu handeln, daher kein Trade trotz verfuegbaren freien Kapitals (~76.938 EUR).",
+    "decision": "Kein Trade in diesem Lauf (siebter Lauf des Tages). Tagesgutschrift fuer den 22.10. bereits im ersten Lauf verbucht (keine erneute Gutschrift). Kursupdate fuer beide offenen Positionen (BTC pos-0018: 82.793 USD, -2,64% seit Kauf; Brent pos-0030: 110,68 USD, -0,78% seit Kauf) - kein Stop-Loss und kein Gewinnziel erreicht. 07:14 Uhr (achter Lauf): Weiterhin kein Trade - BTC nahezu unveraendert (82.731 USD, CoinGecko live, -0,10% 24h), kein ueberzeugender Krypto-Katalysator; Brent-Kursupdate (111,04 USD, Yahoo Finance live) zur Information, aber ausserhalb der Boersenzeiten (vor 09:00 MESZ) nicht handelbar.",
+    "reasoning": "Weiterhin vor Boersenoeffnung (Europe/Berlin), daher bleiben Aktien, ETFs und Rohstoffe nur im Kurs aktualisierbar, nicht handelbar. Fuer Krypto extrem ruhiger Markt ohne ueberzeugenden Katalysator (BTC/ETH/SOL nahezu unveraendert in 24h); passend zur Vorgabe, nur bei wirklich ueberzeugender Gelegenheit zu handeln, daher kein Trade trotz verfuegbaren freien Kapitals (~76.938 EUR). Kein Stop-Loss (BTC -2,71%, Brent -0,46%, beide klar unter der Schwelle von ca. -6,5% bis -7,5%); kein neuer bestaetigter Ausbruch/Katalysator im Kryptomarkt gefunden, daher keine Neuposition trotz hohem freiem Kapital.",
     "positionIds": [
       "pos-0018",
       "pos-0030"
     ],
-    "portfolioValueEnd": 1376.08,
+    "portfolioValueEnd": 1377.83,
     "updates": [
       {
         "time": "00:08",
@@ -10054,6 +10054,11 @@
         "time": "06:09",
         "note": "Keine Aenderung am Depot; BTC-Kursupdate (82.793 USD, -2,64% seit Kauf), Brent-Kursupdate (110,68 USD, -0,78% seit Kauf); Kryptomarkt sehr ruhig, kein ueberzeugender Katalysator, Aktien/ETFs/Rohstoffe weiter vor Boersenoeffnung",
         "portfolioValue": 1376.08
+      },
+      {
+        "time": "07:14",
+        "note": "Keine Aenderung; BTC-Kursupdate (82.731 USD, -2,71% seit Kauf), Brent-Kursupdate (111,04 USD, -0,46% seit Kauf, nicht handelbar vor Boersenoeffnung); kein Katalysator",
+        "portfolioValue": 1377.83
       }
     ]
   }
