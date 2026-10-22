@@ -10141,5 +10141,20 @@
         "portfolioValue": 1379.76
       }
     ]
+  },
+  {
+    "date": "2026-10-23",
+    "marketOverview": "00:08 Uhr (Europe/Berlin), erster Lauf des neuen Tages: Keine verlaesslichen, frisch datierten Live-Kurse fuer BTC, Brent oder sonstige Assets auffindbar (Suchergebnisse zu CoinGecko, oilprice.com und allgemeinen Marktberichten liefern nur undatierte, widersprechende oder mehrere Monate alte Werte). Auch zur Lage an der Strasse von Hormuz keine neuen, auf den 22./23.10. datierten Meldungen gefunden; letzter bekannter Eskalationsstand (Tankerzwischenfaelle, angespannte Houthi-/Iran-Lage) wird unveraendert als fortbestehend angenommen. Es ist mitten in der Nacht: US-Kassamarkt, Xetra und Rohstoffboersen sind geschlossen, nur Krypto waere grundsaetzlich handelbar - aber auch dafuer keine belastbaren aktuellen Kurse verfuegbar. Letzter bestaetigter Stand aus dem Vortag wird unveraendert uebernommen (BTC 81.387,15 USD, -4,29% seit Kauf pos-0018; Brent 113,11 USD, +1,40% seit Kauf pos-0030).",
+    "decision": "Kein Trade. Tagesbudget von 1.000 EUR gutgeschrieben (totalFreshCapitalEur 79.000 -> 80.000 EUR). Keine verlaesslichen aktuellen Kurse oder neuen Katalysatoren gefunden, daher keine Kurs- oder Positionsaenderung und keine Neuposition.",
+    "reasoning": "Ohne belastbare, frisch datierte Marktdaten besteht keine Grundlage fuer eine Kauf-, Verkaufs- oder Kursaktualisierungsentscheidung. Passend zum spekulativen Profil wird nur bei einer wirklich ueberzeugenden, bestaetigten Gelegenheit gehandelt - diese liegt in diesem Lauf nicht vor.",
+    "positionIds": [],
+    "portfolioValueEnd": 1379.76,
+    "updates": [
+      {
+        "time": "00:08",
+        "note": "Keine Aenderung; Tagesbudget gutgeschrieben (+1.000 EUR); keine verlaesslichen frischen Live-Kurse fuer BTC/Brent gefunden, letzter Stand unveraendert uebernommen (BTC -4,29%, Brent +1,40%); kein Trade",
+        "portfolioValue": 1379.76
+      }
+    ]
   }
 ]
