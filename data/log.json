@@ -10011,14 +10011,14 @@
   },
   {
     "date": "2026-10-22",
-    "marketOverview": "Kurz nach 03:00 (Europe/Berlin): US-Kassamarkt weiterhin geschlossen (Oeffnung erst 15:30 MESZ), europaeische Boersen noch nicht geoeffnet (Xetra ab 09:00 MESZ). Auch im vierten Lauf der Nacht keine verlaesslichen, eindeutig auf den 22.10.2026 datierten frischen Kurs- oder Nachrichtenquellen fuer BTC oder Brent auffindbar (Suchergebnisse veraltet oder widersprechen sich um mehrere Tausend USD bzw. mehrere Tage alt); letzter gesicherter Stand bleibt BTC ca. 84.500 USD und Brent ca. 108,30 USD/Barrel. Kein frischer, mehrfach bestaetigter Einzelwert- oder Krypto-Katalysator gefunden.",
-    "decision": "Kein Trade in diesem Lauf (zweiter Lauf des Tages). Tagesgutschrift fuer den 22.10. wurde bereits im ersten Lauf verbucht (keine erneute Gutschrift). Kursupdate fuer beide offenen Positionen: BTC (pos-0018) nun 84.500 USD (-0,63% seit Kauf), Brent (pos-0030) nun 108,30 USD (-2,91% seit Kauf), beide weiterhin deutlich innerhalb der Toleranz, kein Stop-Loss und kein Gewinnziel erreicht. Dritter Lauf (02:09): ebenfalls keine Aenderung, keine verlaesslichen frischen Kursdaten verfuegbar. Vierter Lauf (03:09): ebenfalls keine Aenderung, weiterhin keine verlaesslichen frischen Kursdaten verfuegbar.",
-    "reasoning": "Weiterhin Nacht (Europe/Berlin) und US-Boersen geschlossen, daher bleiben Aktien, ETFs und Rohstoffe nicht handelbar - Brent wird nur im Kurs aktualisiert, nicht verkauft. Fuer Krypto zeigt sich aktuell eher risikoaverses Sentiment (Nahost-bedingter Abverkauf bei mehreren Altcoins) statt einer ueberzeugenden, bestaetigten Kaufgelegenheit; daher trotz erlaubtem spekulativem Kurzfrist-Handel kein Trade in diesem Lauf.",
+    "marketOverview": "Kurz nach 04:00 (Europe/Berlin): US-Kassamarkt weiterhin geschlossen (Oeffnung erst 15:30 MESZ), europaeische Boersen noch nicht geoeffnet (Xetra ab 09:00 MESZ). Erstmals in dieser Nacht liegen belastbare Live-Kurse vor: Bitcoin laut CoinGecko-API bei 83.270 USD (+0,47% 24h), Brent Crude (ICE-Future BZ=F) laut Yahoo-Finance-Future-Feed bei 110,34 USD/Barrel (+1,40% zum Vortagesschluss 108,82 USD), Datenstand 01:58 UTC. Kein frischer, mehrfach bestaetigter Einzelwert- oder Krypto-Katalysator auffindbar, der ueber die bestehenden Positionsthesen hinausgeht.",
+    "decision": "Kein Trade in diesem Lauf (fuenfter Lauf des Tages). Tagesgutschrift fuer den 22.10. bereits im ersten Lauf verbucht (keine erneute Gutschrift). Kursupdate fuer beide offenen Positionen anhand erstmals verlaesslicher Live-Daten: BTC (pos-0018) nun 83.270 USD (-2,08% seit Kauf), Brent (pos-0030) nun 110,34 USD (-1,08% seit Kauf), beide weiterhin deutlich innerhalb der Toleranz, kein Stop-Loss und kein Gewinnziel erreicht.",
+    "reasoning": "Weiterhin Nacht (Europe/Berlin) und US-Boersen geschlossen, daher bleiben Aktien, ETFs und Rohstoffe nicht handelbar - Brent wird nur im Kurs aktualisiert, nicht gehandelt. Fuer Krypto kein ueberzeugender frischer Katalysator (BTC nur moderat im Plus ohne erkennbaren Treiber); daher trotz erlaubtem spekulativem Kurzfrist-Handel kein Trade in diesem Lauf.",
     "positionIds": [
       "pos-0018",
       "pos-0030"
     ],
-    "portfolioValueEnd": 1375.21,
+    "portfolioValueEnd": 1377.88,
     "updates": [
       {
         "time": "00:08",
@@ -10039,6 +10039,11 @@
         "time": "03:09",
         "note": "Keine Aenderung am Depot; keine verlaesslichen frischen Kurse fuer BTC/Brent gefunden, daher Kurse unveraendert uebernommen (BTC 84.500 USD, Brent 108,30 USD); kein bestaetigter Krypto-Katalysator, Aktien/ETFs/Rohstoffe weiter ausserhalb der Handelszeiten (Nacht)",
         "portfolioValue": 1375.21
+      },
+      {
+        "time": "04:07",
+        "note": "Keine Aenderung am Depot; erstmals verlaessliche Live-Kurse (CoinGecko/Yahoo Finance): BTC 83.270 USD (-2,08% seit Kauf), Brent 110,34 USD (-1,08% seit Kauf); kein ueberzeugender Krypto-Katalysator, Aktien/ETFs/Rohstoffe weiter ausserhalb der Handelszeiten (Nacht)",
+        "portfolioValue": 1377.88
       }
     ]
   }
