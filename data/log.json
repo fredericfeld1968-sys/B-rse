@@ -10154,6 +10154,11 @@
         "time": "00:08",
         "note": "Keine Aenderung; Tagesbudget gutgeschrieben (+1.000 EUR); keine verlaesslichen frischen Live-Kurse fuer BTC/Brent gefunden, letzter Stand unveraendert uebernommen (BTC -4,29%, Brent +1,40%); kein Trade",
         "portfolioValue": 1379.76
+      },
+      {
+        "time": "01:07",
+        "note": "Keine Aenderung; weiterhin keine verlaesslichen, frisch datierten Live-Kurse fuer BTC/Brent oder sonstige Assets auffindbar (Suchergebnisse undatiert bzw. mehrere Monate alt, keine aktuellen Hormuz-Meldungen seit Juli gefunden); letzter Stand unveraendert uebernommen (BTC -4,29%, Brent +1,40%); Tagesbudget bereits um 00:08 gutgeschrieben, kein Trade",
+        "portfolioValue": 1379.76
       }
     ]
   }
