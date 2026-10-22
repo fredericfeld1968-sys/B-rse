@@ -10011,14 +10011,14 @@
   },
   {
     "date": "2026-10-22",
-    "marketOverview": "Kurz nach 06:00 (Europe/Berlin): Europaeische Boersen noch nicht geoeffnet (Xetra ab 09:00 MESZ), US-Kassamarkt weiterhin geschlossen (Oeffnung erst 15:30 MESZ). Erstmals seit Stunden wieder frischere Live-Kurse gefunden: Bitcoin bei ca. 82.793 USD (24h nahezu unveraendert, +0,09%), Brent Crude bei ca. 110,68 USD/Barrel (+1,71%, Quelle leicht verzoegert). Kryptomarkt insgesamt sehr ruhig (ETH -0,06%, SOL -0,33% in 24h), kein neuer bestaetigter Einzelwert- oder Krypto-Katalysator auffindbar.",
-    "decision": "Kein Trade in diesem Lauf (siebter Lauf des Tages). Tagesgutschrift fuer den 22.10. bereits im ersten Lauf verbucht (keine erneute Gutschrift). Kursupdate fuer beide offenen Positionen (BTC pos-0018: 82.793 USD, -2,64% seit Kauf; Brent pos-0030: 110,68 USD, -0,78% seit Kauf) - kein Stop-Loss und kein Gewinnziel erreicht. 07:14 Uhr (achter Lauf): Weiterhin kein Trade - BTC nahezu unveraendert (82.731 USD, CoinGecko live, -0,10% 24h), kein ueberzeugender Krypto-Katalysator; Brent-Kursupdate (111,04 USD, Yahoo Finance live) zur Information, aber ausserhalb der Boersenzeiten (vor 09:00 MESZ) nicht handelbar.",
-    "reasoning": "Weiterhin vor Boersenoeffnung (Europe/Berlin), daher bleiben Aktien, ETFs und Rohstoffe nur im Kurs aktualisierbar, nicht handelbar. Fuer Krypto extrem ruhiger Markt ohne ueberzeugenden Katalysator (BTC/ETH/SOL nahezu unveraendert in 24h); passend zur Vorgabe, nur bei wirklich ueberzeugender Gelegenheit zu handeln, daher kein Trade trotz verfuegbaren freien Kapitals (~76.938 EUR). Kein Stop-Loss (BTC -2,71%, Brent -0,46%, beide klar unter der Schwelle von ca. -6,5% bis -7,5%); kein neuer bestaetigter Ausbruch/Katalysator im Kryptomarkt gefunden, daher keine Neuposition trotz hohem freiem Kapital.",
+    "marketOverview": "08:11 (Europe/Berlin): Xetra noch nicht geoeffnet (ab 09:00 MESZ), US-Kassamarkt weiterhin geschlossen (ab 15:30 MESZ). Bitcoin bewegt sich seitwaerts um ca. 82.500-83.100 USD (CoinGecko/Bitcoin Foundation, Fed-Zinsentscheidung am 28.10. als naechster wichtiger Termin im Fokus, Rebound von einem kurzen Dip unter 80.000 USD am Vortag). Brent Crude verbleibt laut mehreren Quellen klar oberhalb von 110 USD/Barrel, weiterhin getrieben von der andauernden Eskalation an der Strasse von Hormuz. Kein frischer, bestaetigter Einzelwert- oder Krypto-Katalysator seit dem letzten Lauf (07:14) auffindbar.",
+    "decision": "Kein Trade in diesem Lauf (siebter Lauf des Tages). Tagesgutschrift fuer den 22.10. bereits im ersten Lauf verbucht (keine erneute Gutschrift). Kursupdate fuer beide offenen Positionen (BTC pos-0018: 82.793 USD, -2,64% seit Kauf; Brent pos-0030: 110,68 USD, -0,78% seit Kauf) - kein Stop-Loss und kein Gewinnziel erreicht. 07:14 Uhr (achter Lauf): Weiterhin kein Trade - BTC nahezu unveraendert (82.731 USD, CoinGecko live, -0,10% 24h), kein ueberzeugender Krypto-Katalysator; Brent-Kursupdate (111,04 USD, Yahoo Finance live) zur Information, aber ausserhalb der Boersenzeiten (vor 09:00 MESZ) nicht handelbar. 08:11 Uhr (neunter Lauf): Weiterhin kein Trade - Kryptomarkt bewegt sich seitwaerts ohne neuen ueberzeugenden Katalysator, Aktien/ETFs/Rohstoffe vor Boersenoeffnung (Xetra ab 09:00 MESZ) weiterhin nicht handelbar. Kursupdate BTC pos-0018 (82.850 USD, -2,57% seit Kauf) und Brent pos-0030 (110,85 USD, -0,63% seit Kauf).",
+    "reasoning": "Weiterhin vor Boersenoeffnung (Europe/Berlin), daher bleiben Aktien, ETFs und Rohstoffe nur im Kurs aktualisierbar, nicht handelbar. Kryptomarkt bewegt sich seitwaerts (BTC ca. 82.500-83.100 USD) ohne neuen bestaetigten Ausbruch oder Einzelwert-Katalysator; naechster wichtiger Termin ist die Fed-Zinsentscheidung am 28.10., aktuell kein Handlungsdruck. Kein Stop-Loss (BTC -2,57%, Brent -0,63%, beide klar unter der Schwelle von ca. -6,5% bis -7,5%) und kein Gewinnziel erreicht; trotz hohem freiem Kapital (~76.938 EUR) daher weiterhin keine Neuposition, da keine wirklich ueberzeugende Gelegenheit vorliegt.",
     "positionIds": [
       "pos-0018",
       "pos-0030"
     ],
-    "portfolioValueEnd": 1377.83,
+    "portfolioValueEnd": 1377.62,
     "updates": [
       {
         "time": "00:08",
@@ -10059,6 +10059,11 @@
         "time": "07:14",
         "note": "Keine Aenderung; BTC-Kursupdate (82.731 USD, -2,71% seit Kauf), Brent-Kursupdate (111,04 USD, -0,46% seit Kauf, nicht handelbar vor Boersenoeffnung); kein Katalysator",
         "portfolioValue": 1377.83
+      },
+      {
+        "time": "08:11",
+        "note": "Keine Aenderung; BTC-Kursupdate (82.850 USD, -2,57% seit Kauf), Brent-Kursupdate (110,85 USD, -0,63% seit Kauf, nicht handelbar vor Boersenoeffnung); Kryptomarkt seitwaerts, kein Katalysator",
+        "portfolioValue": 1377.62
       }
     ]
   }
