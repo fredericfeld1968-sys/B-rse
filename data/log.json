@@ -10144,11 +10144,11 @@
   },
   {
     "date": "2026-10-23",
-    "marketOverview": "00:08 Uhr (Europe/Berlin), erster Lauf des neuen Tages: Keine verlaesslichen, frisch datierten Live-Kurse fuer BTC, Brent oder sonstige Assets auffindbar (Suchergebnisse zu CoinGecko, oilprice.com und allgemeinen Marktberichten liefern nur undatierte, widersprechende oder mehrere Monate alte Werte). Auch zur Lage an der Strasse von Hormuz keine neuen, auf den 22./23.10. datierten Meldungen gefunden; letzter bekannter Eskalationsstand (Tankerzwischenfaelle, angespannte Houthi-/Iran-Lage) wird unveraendert als fortbestehend angenommen. Es ist mitten in der Nacht: US-Kassamarkt, Xetra und Rohstoffboersen sind geschlossen, nur Krypto waere grundsaetzlich handelbar - aber auch dafuer keine belastbaren aktuellen Kurse verfuegbar. Letzter bestaetigter Stand aus dem Vortag wird unveraendert uebernommen (BTC 81.387,15 USD, -4,29% seit Kauf pos-0018; Brent 113,11 USD, +1,40% seit Kauf pos-0030).",
-    "decision": "Kein Trade. Tagesbudget von 1.000 EUR gutgeschrieben (totalFreshCapitalEur 79.000 -> 80.000 EUR). Keine verlaesslichen aktuellen Kurse oder neuen Katalysatoren gefunden, daher keine Kurs- oder Positionsaenderung und keine Neuposition.",
-    "reasoning": "Ohne belastbare, frisch datierte Marktdaten besteht keine Grundlage fuer eine Kauf-, Verkaufs- oder Kursaktualisierungsentscheidung. Passend zum spekulativen Profil wird nur bei einer wirklich ueberzeugenden, bestaetigten Gelegenheit gehandelt - diese liegt in diesem Lauf nicht vor.",
-    "positionIds": [],
-    "portfolioValueEnd": 1379.76,
+    "marketOverview": "02:09 Uhr (Europe/Berlin): BTC laut CoinGecko-Live-Snapshot bei ca. 81.988,90 USD (24h-Spanne ca. 81.942-84.808 USD, -1,4% in 24h), konsistent mit einem Analytics-Insight-Bericht vom 22.10. (ca. 82.817 USD). Fuer Brent weiterhin keine verlaesslichen, frisch datierten Live-Kurse auffindbar (Suchergebnisse undatiert, widersprechend oder Monate alt); letzter bestaetigter Stand (113,11 USD, +1,40% seit Kauf pos-0030) bleibt unveraendert. Zur Lage an der Strasse von Hormuz keine neuen, auf Oktober datierten Meldungen gefunden (juengste Treffer von Juli); bestehende Eskalationslage wird als fortbestehend angenommen. Mitten in der Nacht: US-Kassamarkt, Xetra und Rohstoffboersen geschlossen, nur Krypto grundsaetzlich handelbar - aber keine ueberzeugende, frisch bestaetigte neue Kauf- oder Verkaufsgelegenheit identifiziert.",
+    "decision": "Kein Trade. Tagesbudget bereits um 00:08 gutgeschrieben (79.000 -> 80.000 EUR), in diesem Lauf keine erneute Gutschrift. BTC-Kurs (pos-0018) anhand aktuellerer Live-Daten aktualisiert; kein neuer, ueberzeugender Katalysator fuer Kauf oder Verkauf gefunden.",
+    "reasoning": "Ohne belastbare, frisch datierte Marktdaten fuer Brent und ohne neue Hormuz-Entwicklung besteht keine Grundlage fuer eine Positionsaenderung. BTC-Kurs konnte dagegen ueber einen aktuellen CoinGecko-Snapshot verlaesslich aktualisiert werden. Passend zum spekulativen Profil wird nur bei einer wirklich ueberzeugenden, bestaetigten Gelegenheit gehandelt - diese liegt in diesem Lauf nicht vor.",
+    "positionIds": ["pos-0018"],
+    "portfolioValueEnd": 1384.71,
     "updates": [
       {
         "time": "00:08",
@@ -10159,6 +10159,11 @@
         "time": "01:07",
         "note": "Keine Aenderung; weiterhin keine verlaesslichen, frisch datierten Live-Kurse fuer BTC/Brent oder sonstige Assets auffindbar (Suchergebnisse undatiert bzw. mehrere Monate alt, keine aktuellen Hormuz-Meldungen seit Juli gefunden); letzter Stand unveraendert uebernommen (BTC -4,29%, Brent +1,40%); Tagesbudget bereits um 00:08 gutgeschrieben, kein Trade",
         "portfolioValue": 1379.76
+      },
+      {
+        "time": "02:09",
+        "note": "Keine Aenderung; BTC-Kurs ueber CoinGecko-Live-Snapshot aktualisiert (81.387,15 -> 81.988,90 USD, -3,58% seit Kauf pos-0018); Brent weiterhin ohne verlaessliche frische Kursdaten, unveraendert bei +1,40%; kein Trade",
+        "portfolioValue": 1384.71
       }
     ]
   }
