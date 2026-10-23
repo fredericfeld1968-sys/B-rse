@@ -10144,14 +10144,14 @@
   },
   {
     "date": "2026-10-23",
-    "marketOverview": "US-Kassamarkt (noch offen bis 22:00 MESZ): S&P 500 bei 7.628,81 (-0,45%), Nasdaq Composite bei 25.986,26 (-0,09%), leicht risikoaversiv. Brent (ICE BZ=F) bei 111,53 USD (Vortagesschluss 108,66, +2,64%) nahe Fuenf-Monats-Hoch: NYT-Bericht (zitiert US-Beamte) ueber mutmasslich geplante neue US-/israelische Luftschlaege gegen Iran nach den Midterms treibt den Oelpreis weiter; Oelmulti-Aktien (XOM +2,4%, CVX +2,6%, SHEL +2,1%) ziehen moderat mit, Verteidigungswerte uneinheitlich (LMT +2,0%, RTX -1,6%). Bitcoin seitwaerts bei 81.677 USD (+0,67% 24h, CoinGecko live). Gold faellt dagegen auf 4.014 USD (-1,13%) trotz Geopolitik-Risiko. Keine Einzelbewegung erreicht die fuer einen spekulativen Neueinstieg etablierte Schwelle von ca. 6%+.",
-    "decision": "Kein Trade in diesem Lauf (19:10 Berlin). BTC (pos-0018, -3,95%) und Brent (pos-0030, -0,02%) auf aktuelle Live-Kurse aktualisiert (CoinGecko- bzw. Yahoo-Finance-API). Die Hormuz-/Iran-Eskalationsthese ist ueber pos-0030 bereits abgebildet; Oelmulti-Aktien (XOM/CVX/SHEL) bewegen sich nur moderat (+2-2,6%), klar unterhalb der etablierten 6%+-Schwelle fuer einen spekulativen Neueinstieg, daher kein Aufbau einer Zweitposition auf dasselbe Thema (Klumpenrisiko). Weder Stop-Loss noch Gewinnziel wurde bei den offenen Positionen ausgeloest. Freies Kapital (weiterhin ca. 77.938 EUR) bleibt bewusst ungenutzt bis sich eine ueberzeugende, mehrfach bestaetigte Gelegenheit bietet.",
-    "reasoning": "CoinGecko-API (BTC 81.677 USD, +0,67% 24h) und Yahoo-Finance-Chart-API (Brent/BZ=F 111,53 USD vs. Vortagesschluss 108,66 USD; S&P500 7.628,81; Nasdaq 25.986,26; Gold/GC=F 4.014,40; XOM/CVX/SHEL/RTX/LMT) lieferten aktuelle Live-Kurse direkt per Programmzugriff. Websuche bestaetigte einen aktuellen NYT-Bericht (23.10., zitiert ABC News Live-Blog) ueber angeblich geplante neue US-/israelische Luftschlaege gegen Iran nach den Midterms als frischen Treiber des Oelpreissprungs; die Bewegung bei Oelmulti-Aktien und Verteidigungswerten bleibt jedoch mit +2-2,6% bzw. gemischt (RTX im Minus) deutlich unterhalb der historisch etablierten Einstiegsschwelle von 6%+ mit klarem, mehrfach bestaetigtem Katalysator. Keine neue, hinreichend starke Breakout- oder Dip-Gelegenheit gefunden; daher keine Aktion.",
+    "marketOverview": "US-Kassamarkt (noch offen bis 22:00 MESZ) nahezu unveraendert: S&P 500 bei 7.633,76 (-0,39%), Nasdaq Composite bei 26.004,79 (-0,02%), Gold (GC=F) bei 4.013,20 USD (-1,16%). Brent (ICE BZ=F) unveraendert bei 111,53 USD (+2,64% zum Vortagesschluss), die Hormuz-/Iran-Eskalation (US-/israelische Angriffe auf Oeltanker, Rekordzahl an Schiffsangriffen) bleibt der dominante Treiber, ohne frischen Eskalationsschub seit dem letzten Lauf. Bitcoin bei 81.443 USD (+0,5% 24h), leicht schwaecher.",
+    "decision": "Kein Trade in diesem Lauf (20:12 Berlin). BTC (pos-0018, -4,22%) per CoinGecko-API und Brent (pos-0030, -0,02%) per Yahoo-Finance-API auf aktuelle Live-Kurse aktualisiert. Weder Stop-Loss- noch Gewinnschwelle erreicht; die Hormuz-Eskalation ist bereits ueber pos-0030 abgebildet und bewegt sich seit Stunden unveraendert um 111,5 USD, kein neuer Katalysator fuer einen Zweiteinstieg gefunden.",
+    "reasoning": "Direkter API-Abruf: CoinGecko (BTC 81.443 USD, +0,50% 24h), Yahoo-Finance-Chart-API (Brent/BZ=F 111,53 USD, S&P500 7.633,76, Nasdaq 26.004,79, Gold/GC=F 4.013,20). WebSearch zur Iran/Hormuz-Lage und zu Markt-News lieferte ueberwiegend veraltete/undatierte Treffer; der juengste brauchbare Stand (22.10.) zeigt dieselbe bereits bekannte Eskalation (US-Schlaege auf Oeltanker, Aramco verdreifacht Ost-West-Pipeline-Fluss als Hormuz-Umgehung) ohne qualitativ neuen Schub gegenueber dem letzten Lauf. Kein Trade mangels ueberzeugender neuer Gelegenheit.",
     "positionIds": [
       "pos-0018",
       "pos-0030"
     ],
-    "portfolioValueEnd": 1372.23,
+    "portfolioValueEnd": 1370.3,
     "updates": [
       {
         "time": "00:08",
@@ -10252,6 +10252,11 @@
         "time": "19:10",
         "note": "Keine Aenderung; BTC ueber CoinGecko-API aktualisiert (81.632 -> 81.677 USD, -3,95% seit Kauf pos-0018); Brent ueber Yahoo-Finance-Chart-API aktualisiert (112,09 -> 111,53 USD, -0,02% seit Kauf pos-0030); NYT-Bericht ueber mutmassliche neue US-/israelische Luftschlaege nach Midterms treibt Oel weiter, Oelmulti-Aktien (XOM/CVX/SHEL) nur moderat im Plus (+2-2,6%), unterhalb der 6%-Einstiegsschwelle; kein Trade",
         "portfolioValue": 1372.23
+      },
+      {
+        "time": "20:12",
+        "note": "Keine Aenderung; BTC ueber CoinGecko-API aktualisiert (81.677 -> 81.443 USD, -4,22% seit Kauf pos-0018); Brent unveraendert bei 111,53 USD (-0,02% seit Kauf pos-0030); kein neuer Katalysator seit dem letzten Lauf, kein Trade",
+        "portfolioValue": 1370.3
       }
     ]
   }
