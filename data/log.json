@@ -10144,14 +10144,14 @@
   },
   {
     "date": "2026-10-23",
-    "marketOverview": "US-Kassamarkt kurz vor Xetra-Schluss: S&P 500 bei 7.643,07 (-0,27% vs. Vortagesschluss 7.663,43), Nasdaq Composite bei 26.041,03 (+0,12% vs. 26.008,86) - der Markt bleibt nach dem Donnerstag-Ausverkauf im Wesentlichen stabil/flach ohne klare Richtung. Bitcoin seitwaerts bei ca. 81.555 USD (+0,01% 24h, CoinGecko live), Brent (ICE BZ=F) bei 111,34 USD (Vortagesschluss 108,66 USD). Kein neuer, mehrfach bestaetigter Katalysator fuer Aktien, Krypto oder Rohstoffe erkennbar.",
-    "decision": "Kein Trade in diesem Lauf (17:09 Berlin). BTC (pos-0018, -4,09%) und Brent (pos-0030, -0,19%) auf aktuelle Live-Kurse aktualisiert (CoinGecko- bzw. Yahoo-Finance-API), beide weiterhin deutlich von Stop-Loss (-6,5 bis -7,5%) und Gewinnzielspanne (7-9%) entfernt. S&P 500 und Nasdaq bewegen sich nur minimal (-0,27%/+0,12%), kein Einzelwert oder Krypto-Asset zeigt eine Bewegung in der fuer einen spekulativen Einstieg erforderlichen Grossenordnung (ueblicherweise 6%+ mit klarem, mehrfach bestaetigtem Katalysator). Daher bewusst kein neuer Trade; freies Kapital (ca. 77.938 EUR) bleibt ungenutzt bis sich eine ueberzeugende Gelegenheit bietet.",
-    "reasoning": "CoinGecko-API (BTC 81.555 USD, +0,01% 24h) und Yahoo-Finance-Chart-API (Brent/BZ=F 111,34 USD vs. Vortagesschluss 108,66 USD; S&P500 7.643,07 vs. 7.663,43; Nasdaq 26.041,03 vs. 26.008,86) lieferten aktuelle Live-Kurse direkt per Programmzugriff. Websuche zu Krypto-Breakouts, Brent und US-Markt lieferte keine verlaesslich auf den 23.10. datierten frischen Einzelkatalysatoren. Beide offenen Positionen bleiben innerhalb der normalen Schwankungsbreite, kein Stop-Loss oder Gewinnziel ausgeloest. Keine neue, klar bestaetigte Breakout- oder Dip-Gelegenheit gefunden; daher keine Aktion.",
+    "marketOverview": "US-Kassamarkt (noch offen bis 22:00 MESZ): S&P 500 bei 7.655,25 (-0,11% vs. Vortagesschluss), Nasdaq Composite bei 26.083,95 (+0,29%) - weiterhin flach ohne klare Richtung. Bitcoin seitwaerts bei ca. 81.632 USD (CoinGecko live, nahezu unveraendert 24h). Brent (ICE BZ=F) springt dagegen auf 112,09 USD (Vortagesschluss 109,55 USD, +3,16% intraday) - mehrfach bestaetigt (Oilprice/Rigzone, 'Oil Surges 4% After Deadly Saudi Attacks', 22.10.): Irans Revolutionsgarden meldeten Treffer auf vier Schiffe im Persischen Golf, zusaetzlich toedliche Angriffe in Saudi-Arabien; Trump bestreitet die iranischen Angaben als Marktmanipulation vor den Midterms. Kein neuer Einzelkatalysator fuer Aktien oder Krypto erkennbar.",
+    "decision": "Kein Trade in diesem Lauf (18:09 Berlin). BTC (pos-0018, -4,00%) und Brent (pos-0030, +0,48%) auf aktuelle Live-Kurse aktualisiert (CoinGecko- bzw. Yahoo-Finance-API). Die bereits laufende Hormuz-Eskalation (Brent +3,16% heute) ist ueber pos-0030 bereits abgebildet und noch weit von der Gewinnzielspanne (7-9%) entfernt; eine Aufstockung wuerde das Klumpenrisiko unnoetig erhoehen. BTC bewegt sich nur innerhalb der normalen Schwankungsbreite, kein Stop-Loss ausgeloest. S&P 500 und Nasdaq nahezu unveraendert, kein Einzelwert zeigt die fuer einen spekulativen Einstieg erforderliche Groessenordnung (ueblicherweise 6%+ mit klarem, mehrfach bestaetigtem Katalysator). Daher bewusst kein neuer Trade; freies Kapital (ca. 77.938 EUR) bleibt ungenutzt bis sich eine ueberzeugende Gelegenheit bietet.",
+    "reasoning": "CoinGecko-API (BTC 81.632 USD) und Yahoo-Finance-Chart-API (Brent/BZ=F 112,09 USD vs. Vortagesschluss 109,55 USD, S&P500 7.655,25, Nasdaq 26.083,95) lieferten aktuelle Live-Kurse direkt per Programmzugriff. Websuche bestaetigte den Brent-Sprung durch frische, mehrfach unabhaengig belegte Hormuz-Eskalation (Oilprice, Rigzone, CBS News, Stand 22.10.), jedoch ohne neuen, auf heute datierten Einzelkatalysator fuer Aktien oder Krypto. Beide offenen Positionen bleiben innerhalb der normalen Schwankungsbreite bzw. unterhalb der Gewinnzielspanne, kein Stop-Loss oder Gewinnziel ausgeloest. Keine neue, klar bestaetigte Breakout- oder Dip-Gelegenheit gefunden; daher keine Aktion.",
     "positionIds": [
       "pos-0018",
       "pos-0030"
     ],
-    "portfolioValueEnd": 1370.03,
+    "portfolioValueEnd": 1375.38,
     "updates": [
       {
         "time": "00:08",
@@ -10242,6 +10242,11 @@
         "time": "17:09",
         "note": "Keine Aenderung; BTC ueber CoinGecko-API aktualisiert (81.620 -> 81.555 USD, -4,09% seit Kauf pos-0018); Brent ueber Yahoo-Finance-Chart-API aktualisiert (111,13 -> 111,34 USD, -0,19% seit Kauf pos-0030); S&P/Nasdaq nahezu flach, kein neuer Katalysator, kein Trade",
         "portfolioValue": 1370.03
+      },
+      {
+        "time": "18:09",
+        "note": "Keine Aenderung; BTC ueber CoinGecko-API aktualisiert (81.555 -> 81.632 USD, -4,00% seit Kauf pos-0018); Brent ueber Yahoo-Finance-Chart-API aktualisiert (111,34 -> 112,09 USD, +0,48% seit Kauf pos-0030, Hormuz-Eskalation treibt Oelpreis, aber Position noch weit von Gewinnziel); S&P/Nasdaq nahezu flach, kein neuer Katalysator, kein Trade",
+        "portfolioValue": 1375.38
       }
     ]
   }
