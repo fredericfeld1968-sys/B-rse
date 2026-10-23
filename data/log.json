@@ -10197,6 +10197,11 @@
         "time": "08:09",
         "note": "Keine Aenderung; BTC leicht aktualisiert (81.620 -> 81.540 USD, -4,11% seit Kauf pos-0018), Brent leicht aktualisiert (113,95 -> 114,10 USD, +2,29% seit Kauf pos-0030); keine verlaesslichen frischen Live-Kursdaten oder neuer Katalysator per Websuche auffindbar, kein Trade",
         "portfolioValue": 1387.23
+      },
+      {
+        "time": "09:09",
+        "note": "Keine Aenderung; Xetra seit 9:00 Uhr wieder offen, aber Websuche lieferte erneut keine verlaesslichen, auf heute (23.10.) datierten Live-Kurse oder einen frischen Katalysator fuer BTC, Brent oder DAX-Werte (Treffer ueberwiegend veraltet/undatiert); BTC/Brent unveraendert uebernommen, kein Trade",
+        "portfolioValue": 1387.23
       }
     ]
   }
