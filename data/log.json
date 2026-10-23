@@ -10144,14 +10144,14 @@
   },
   {
     "date": "2026-10-23",
-    "marketOverview": "US-Kassamarkt ist seit 22:00 MESZ geschlossen (naechste regulaere Sitzung Montag), daher ausser Krypto nichts handelbar. Brent (ICE BZ=F) bei 111,91 USD (+2,99% zum Vortagesschluss 108,66), minimal hoeher als beim letzten Lauf (111,73) - Hormuz-/Iran-Eskalation bleibt der Treiber, kein neuer qualitativer Schub seit 21:09. Bitcoin bei 81.209 USD (-0,22% 24h), Kryptomarkt insgesamt ruhig und ohne ueberzeugende Ausbrueche (grösste Bewegung bei Nebenwerten wie NEAR -3,7%, Monero -1,9% - beides keine belastbaren Katalysatoren).",
-    "decision": "Kein Trade in diesem Lauf (22:14 Berlin). BTC (pos-0018) und Brent (pos-0030) per Live-API (CoinGecko bzw. Yahoo Finance) aktualisiert. Weder Stop-Loss- noch Gewinnschwelle erreicht (BTC -4,50%, Brent +0,32%). Ausserhalb der Handelszeiten fuer Aktien/ETFs/Rohstoffe; im ruhigen Kryptomarkt keine ueberzeugende neue Gelegenheit gefunden.",
-    "reasoning": "Direkter API-Abruf: CoinGecko Markets-Endpoint (BTC 81.209 USD, -0,22% 24h, Top-20-Screening ohne ueberzeugende fundamentale Ausbrueche), Yahoo-Finance-Chart-API (Brent/BZ=F 111,91 USD, Timestamp 22:00:11 CEST, +2,99% zum Vortagesschluss). WebSearch zu aktuellen Markt-/Hormuz-News lieferte ueberwiegend undatierte oder aeltere Treffer ohne verifizierbaren frischen Katalysator gegenueber dem 21:09-Lauf. Freies Kapital (~77.938 EUR nach obiger Formel) bleibt gross, aber mangels ueberzeugender Opportunity kein Kauf.",
+    "marketOverview": "Bitcoin bei 81.361 USD (+0,07% 24h, CoinGecko live) - seit dem letzten Lauf praktisch unveraendert, Kryptomarkt insgesamt ruhig ohne neue Katalysatoren. Brent (ICE BZ=F) bei 111,66 USD (Yahoo Finance, 20:59 UTC), minimal unter dem letzten Stand (111,73) - Hormuz-/Iran-Eskalation bleibt der strukturelle Treiber, aber kein frischer qualitativer Schub. US-Kassamarkt ist seit 22:00 MESZ geschlossen, naechste regulaere Sitzung erst Montag; Wochenende steht bevor, daher bleibt bis Montag nur Krypto handelbar.",
+    "decision": "Kein Trade in diesem Lauf (23:11 Berlin). BTC (pos-0018) und Brent (pos-0030) per Live-API aktualisiert. Weder Stop-Loss- noch Gewinnschwelle erreicht (BTC -4,32%, Brent +0,10%). Ausserhalb der Handelszeiten fuer Aktien/ETFs; im ruhigen Kryptomarkt keine ueberzeugende neue Gelegenheit gefunden.",
+    "reasoning": "Direkter API-Abruf: CoinGecko Simple-Price-Endpoint (BTC 81.361 USD, +0,065% 24h) und Yahoo-Finance-Chart-API (Brent/BZ=F 111,66 USD, Timestamp 20:59:19 UTC). WebSearch zu aktuellen Markt-/Krypto-/Oelnews lieferte ueberwiegend undatierte oder aeltere Treffer ohne verifizierbaren frischen Katalysator gegenueber dem 22:14-Lauf. Freies Kapital (~77.938 EUR nach Formel) bleibt gross, aber mangels ueberzeugender Opportunity am spaeten Freitagabend kein Kauf.",
     "positionIds": [
       "pos-0018",
       "pos-0030"
     ],
-    "portfolioValueEnd": 1370.76,
+    "portfolioValueEnd": 1370.45,
     "updates": [
       {
         "time": "00:08",
@@ -10267,6 +10267,11 @@
         "time": "22:14",
         "note": "Keine Aenderung; BTC/Brent live aktualisiert (BTC -4,50%, Brent +0,32%), keine Trade-Schwelle erreicht, Markt ausserhalb US-Handelszeiten",
         "portfolioValue": 1370.76
+      },
+      {
+        "time": "23:11",
+        "note": "Keine Aenderung; BTC ueber CoinGecko-API aktualisiert (81.340 -> 81.361 USD, -4,32% seit Kauf pos-0018); Brent ueber Yahoo-Finance-Chart-API aktualisiert (111,73 -> 111,66 USD, +0,10% seit Kauf pos-0030); kein neuer Katalysator, weder Stop-Loss- noch Gewinnschwelle erreicht; US-Kassamarkt bereits seit 22:00 MESZ geschlossen, Wochenende steht an; kein Trade",
+        "portfolioValue": 1370.45
       }
     ]
   }
