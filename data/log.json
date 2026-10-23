@@ -10144,9 +10144,9 @@
   },
   {
     "date": "2026-10-23",
-    "marketOverview": "Xetra seit 9:00 Uhr offen, aber keine frischen, verlaesslich datierten Kurssprung-Meldungen fuer Einzelwerte oder Indizes gefunden. BTC laut CoinGecko-Live-API bei 81.558 USD (24h -0,58%), Brent (Yahoo Finance, Future BZ=F) bei 109,31 USD (Vortagesschluss 108,66, +0,6% heute) - damit deutlicher Ruecksetzer gegenueber dem zuletzt erfassten Stand von 114,10 USD, ohne dass eine konkrete, aktuell datierte Deeskalations-Meldung zur Strasse von Hormuz auffindbar war. Kein neuer, mehrfach bestaetigter Katalysator fuer einen Trade.",
-    "decision": "Kein Trade in diesem Lauf (10:09 Berlin). BTC- und Brent-Kurse ueber Live-APIs aktualisiert; Brent erstmals seit dem Einstieg im Minus (-2,01%), aber weit von der Stop-Loss-Schwelle (-6,5 bis -7,5%) entfernt. Freies Kapital unveraendert hoch (~77.938 EUR), aber keine verlaesslich bestaetigte neue Gelegenheit gefunden.",
-    "reasoning": "CoinGecko-API liefert verlaesslichen BTC-Live-Kurs (81.558 USD, -4,09% seit Kauf pos-0018). Yahoo-Finance-Chart-API liefert verlaesslichen Brent-Future-Kurs (109,31 USD, Vortagesschluss 108,66 USD) - deutlicher Ruecksetzer von 114,10 auf 109,31 USD (-2,01% seit Kauf pos-0030), aber keine dazu passende, aktuell datierte Nachrichtenmeldung (z. B. Hormuz-Deeskalation) auffindbar, daher als reine Kursbewegung ohne gesicherten Katalysator gewertet. Weder DAX/Einzelwerte-Suche noch allgemeine Marktsuche lieferten einen frischen, mehrfach bestaetigten Treiber fuer einen Kauf. Stop-Loss bei Brent noch nicht erreicht, daher kein Verkauf. Entscheidung: keine Aktion.",
+    "marketOverview": "Xetra weiterhin offen (Freitagvormittag), US-Markt oeffnet erst um 15:30 MESZ. Websuche liefert erneut keine auf heute (23.10.) datierten Live-Kurse: freundlichste verfuegbare BTC-Angaben (CoinDesk/Fortune) liegen bei 81.400-83.400 USD vom 21.-22.10. und decken sich im Rahmen der Schwankung mit dem zuletzt erfassten Stand (81.558 USD); fuer Brent fanden sich nur widersprüchliche bzw. undatierte Zahlen (62-117 USD), keine verlaesslich aktuellere Quelle als der zuletzt per Yahoo-Finance-Chart-API erfasste Stand (109,31 USD). Kein neuer, mehrfach bestaetigter Katalysator fuer Aktien, ETFs, Krypto oder Rohstoffe gefunden (Fed-Entscheidung erst am 28.10., EZB am 29.10.).",
+    "decision": "Kein Trade in diesem Lauf (11:10 Berlin). Keine verlaesslich frischeren Live-Kurse fuer BTC/Brent gefunden als die zuletzt erfassten Werte, daher currentPrice/currentValue/profitLoss unveraendert uebernommen. Freies Kapital weiterhin hoch (~77.938 EUR), aber keine verlaesslich bestaetigte neue Gelegenheit gefunden; Brent (-2,01%) und BTC (-4,09%) jeweils weit von der Stop-Loss-Schwelle entfernt.",
+    "reasoning": "Mehrere parallele Websuchen (BTC, Brent, DAX/US-Einzelwerte, Krypto-Altcoins, Gold) lieferten ueberwiegend 1-3 Tage alte oder undatierte/widerspruechliche Zahlen ohne zwei uebereinstimmende, auf heute datierte Quellen. BTC-Schaetzungen (81,4-83,4k USD) liegen im Rahmen der ueblichen Schwankung um den zuletzt erfassten Live-Kurs (81.558 USD), daher keine Kursanpassung vorgenommen, um keine unbegruendete Scheingenauigkeit zu erzeugen. Brent-Zahlen aus der Recherche sind zu inkonsistent (Spanne 62-117 USD) und nicht vertrauenswuerdig, zuletzt erfasster Yahoo-Finance-Stand (109,31 USD) bleibt daher die beste verfuegbare Schaetzung. Keine der beiden offenen Positionen hat die Stop-Loss-Schwelle (-6,5 bis -7,5%) erreicht, daher kein Verkauf. Keine neue, mehrfach bestaetigte Kauf-Gelegenheit identifiziert (naechste bekannte Makro-Katalysatoren erst Fed am 28.10. und EZB am 29.10.), daher kein Neukauf trotz hohem freiem Kapital. Entscheidung: keine Aktion.",
     "positionIds": [
       "pos-0018",
       "pos-0030"
@@ -10206,6 +10206,11 @@
       {
         "time": "10:09",
         "note": "Keine Aenderung; BTC ueber CoinGecko-API aktualisiert (81.540 -> 81.558 USD, -4,09% seit Kauf pos-0018); Brent ueber Yahoo-Finance-Chart-API aktualisiert (114,10 -> 109,31 USD, -2,01% seit Kauf pos-0030, deutlicher Ruecksetzer ohne auffindbaren frischen Katalysator); Xetra offen, aber keine verlaesslich datierten Kurssprung-Meldungen gefunden, kein Trade",
+        "portfolioValue": 1357.32
+      },
+      {
+        "time": "11:10",
+        "note": "Keine Aenderung; keine verlaesslich frischeren Live-Kurse fuer BTC/Brent als zuletzt erfasst gefunden (Recherche lieferte nur 1-3 Tage alte bzw. widerspruechliche Zahlen); BTC/Brent unveraendert bei 81.558 USD / 109,31 USD uebernommen; kein neuer Katalysator, kein Trade",
         "portfolioValue": 1357.32
       }
     ]
