@@ -10144,14 +10144,14 @@
   },
   {
     "date": "2026-10-23",
-    "marketOverview": "Xetra/US-Markt oeffnet um 15:30 MESZ noch nicht. Direkter API-Abruf (CoinGecko, Yahoo Finance) liefert frische Live-Kurse: BTC 81.547 USD (-0,47% in 24h), Brent (ICE-Future BZ=F) 110,21 USD (+1,43% Tagesplus, Tagesrange 108,28-110,36 USD). Websuche findet weiterhin keinen frischen, mehrfach bestaetigten Katalysator fuer Aktien, ETFs, Krypto oder Rohstoffe (Hormuz-Lage unveraendert seit Mitte Oktober, keine neuen Earnings-Ueberraschungen auffindbar; Fed-Entscheidung erst am 28.10., EZB am 29.10.).",
-    "decision": "Kein Trade in diesem Lauf (13:13 Berlin). BTC (pos-0018) und Brent (pos-0030) per direkter API-Abfrage aktualisiert (BTC -4,10%, Brent -1,20%), beide weiterhin deutlich von der Stop-Loss-Schwelle (-6,5 bis -7,5%) entfernt. Freies Kapital weiterhin hoch (~77.938 EUR), aber keine verlaesslich bestaetigte neue Gelegenheit gefunden.",
-    "reasoning": "CoinGecko- und Yahoo-Finance-Chart-API lieferten aktuelle Live-Kurse (BTC 81.547 USD, Brent 110,21 USD). Beide offenen Positionen bleiben weit von der etablierten Stop-Loss-Schwelle entfernt, daher kein Verkauf. Ergaenzende Websuchen zu Hormuz-Eskalation und Einzelaktien-Ueberraschungen fanden keinen neuen, mehrfach bestaetigten, auf heute datierten Katalysator; daher trotz hohem freiem Kapital kein Neukauf. Entscheidung: keine Aktion.",
+    "marketOverview": "Xetra und US-Kassamarkt sind seit 14:18 Berlin geoeffnet (Freitag). Direkter API-Abruf (CoinGecko, Yahoo Finance) liefert frische Live-Kurse: BTC 81.405 USD (-0,47% in 24h), Brent (ICE-Future BZ=F) 110,48 USD (+1,68% Tagesplus, Tagesrange 108,28-110,49 USD, Vortagesschluss 108,66 USD). Websuche findet weiterhin keinen frischen, mehrfach bestaetigten Einzeltitel- oder Makro-Katalysator fuer Aktien, ETFs, Krypto oder Rohstoffe (Hormuz-Lage seit Anfang August ohne neue verlaessliche Meldungen, keine aktuellen Earnings-Ueberraschungen auffindbar; Fed-Entscheidung erst am 28.10., EZB am 29.10.).",
+    "decision": "Kein Trade in diesem Lauf (14:18 Berlin). BTC (pos-0018) und Brent (pos-0030) per direkter API-Abfrage aktualisiert (BTC -4,27%, Brent -0,96%), beide weiterhin deutlich von der Stop-Loss-Schwelle (-6,5 bis -7,5%) und von der Gewinnzielspanne (7-9%) entfernt. Freies Kapital weiterhin hoch (~77.900 EUR), aber trotz offenem Kassamarkt keine verlaesslich bestaetigte neue Gelegenheit gefunden.",
+    "reasoning": "CoinGecko- und Yahoo-Finance-Chart-API lieferten aktuelle Live-Kurse (BTC 81.405 USD, Brent 110,48 USD). Beide offenen Positionen bleiben weit von der etablierten Stop-Loss-Schwelle entfernt, daher kein Verkauf. Ergaenzende Websuchen zu Einzelaktien-Ueberraschungen, Krypto-Altcoin-Rallys und der Hormuz-Lage fanden keinen neuen, mehrfach bestaetigten, auf heute datierten Katalysator; daher trotz offenem Kassamarkt und hohem freiem Kapital kein Neukauf. Entscheidung: keine Aktion.",
     "positionIds": [
       "pos-0018",
       "pos-0030"
     ],
-    "portfolioValueEnd": 1362.88,
+    "portfolioValueEnd": 1363.4,
     "updates": [
       {
         "time": "00:08",
@@ -10222,6 +10222,11 @@
         "time": "13:13",
         "note": "Keine Aenderung; BTC ueber CoinGecko-API aktualisiert (81.636 -> 81.547 USD, -4,10% seit Kauf pos-0018); Brent ueber Yahoo-Finance-Chart-API aktualisiert (109,80 -> 110,21 USD, -1,20% seit Kauf pos-0030); kein neuer Katalysator gefunden, kein Trade",
         "portfolioValue": 1362.88
+      },
+      {
+        "time": "14:18",
+        "note": "Keine Aenderung; BTC ueber CoinGecko-API aktualisiert (81.547 -> 81.405 USD, -4,27% seit Kauf pos-0018); Brent ueber Yahoo-Finance-Chart-API aktualisiert (110,21 -> 110,48 USD, -0,96% seit Kauf pos-0030); Xetra/US-Kassamarkt offen, aber kein neuer Katalysator gefunden, kein Trade",
+        "portfolioValue": 1363.4
       }
     ]
   }
