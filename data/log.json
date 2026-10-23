@@ -10144,14 +10144,14 @@
   },
   {
     "date": "2026-10-23",
-    "marketOverview": "05:08 Uhr (Europe/Berlin): BTC laut CoinGecko-Live-API bei 81.789 USD (-1,22% in 24h), damit minimal hoeher als beim letzten Lauf (81.210 USD). Brent laut Yahoo-Finance-Live-Quote (BZ=F) bei 113,62 USD/Barrel (Timestamp ca. 02:56 UTC), leicht niedriger als zuvor (114,08 USD). Weitere grosse Krypto-Assets (ETH 2.410 USD, SOL 104,36 USD, XRP 1,32 USD, DOGE 0,0795 USD) allesamt nur leicht im Minus (-1 bis -2% in 24h), kein auffaelliger Ausbruch. Keine neu datierten Meldungen zur Strasse von Hormus seit dem 12.10. gefunden, aktuelle Suchergebnisse zu Altcoins und Geopolitik ueberwiegend undatiert oder veraltet. Nachts: US-Kassamarkt, Xetra und Rohstoffboersen geschlossen, nur Krypto grundsaetzlich handelbar - keine ueberzeugende neue Kauf- oder Verkaufsgelegenheit identifiziert.",
-    "decision": "Kein Trade. Tagesbudget bereits um 00:08 gutgeschrieben (79.000 -> 80.000 EUR), in diesem Lauf keine erneute Gutschrift. BTC-Kurs (pos-0018) und Brent-Kurs (pos-0030) anhand frischer Live-Daten aktualisiert; kein neuer, ueberzeugender Katalysator fuer Kauf oder Verkauf gefunden.",
-    "reasoning": "Beide offenen Positionen liegen weiterhin innerhalb der normalen Schwankungsbreite (BTC -3,82%, Brent +1,86%) und erreichen weder die etablierte Stop-Loss-Schwelle (ca. -6,5 bis -7,5%) noch die Ziel-Gewinnspanne (ca. 7-9%); Brent waere nachts ohnehin nicht handelbar. Der breite Kryptomarkt zeigt ein einheitliches, aber schwaches Minus ohne erkennbaren frischen Katalysator - keine Grundlage fuer eine neue Position. Passend zum spekulativen Profil wird nur bei einer wirklich ueberzeugenden, bestaetigten Gelegenheit gehandelt - diese liegt in diesem Lauf nicht vor.",
+    "marketOverview": "06:09 Uhr (Europe/Berlin): BTC laut CoinGecko-API bei 81.753 USD (-1,33% in 24h), damit minimal niedriger als beim letzten Lauf (81.789 USD). Brent laut Yahoo-Finance-Live-Quote (BZ=F, Timestamp 03:55 UTC) bei 113,58 USD/Barrel, praktisch unveraendert zum letzten Stand (113,62 USD). Allgemeine Marktsuche zu Krypto/Geopolitik lieferte ueberwiegend undatierte oder veraltete Treffer, kein neuer Katalysator identifizierbar. Vor Boersenoeffnung (Xetra, US-Kassamarkt) sind Aktien/ETFs/Rohstoffe nicht handelbar, nur Krypto grundsaetzlich moeglich - keine ueberzeugende neue Kauf- oder Verkaufsgelegenheit gefunden.",
+    "decision": "Kein Trade. Tagesbudget bereits um 00:08 gutgeschrieben (79.000 -> 80.000 EUR), in diesem Lauf keine erneute Gutschrift (lastGrantDate bereits heute). BTC-Kurs (pos-0018) und Brent-Kurs (pos-0030) anhand frischer Live-Daten aktualisiert; kein neuer, ueberzeugender Katalysator fuer Kauf oder Verkauf gefunden.",
+    "reasoning": "Beide offenen Positionen liegen weiterhin innerhalb der normalen Schwankungsbreite (BTC -3,86%, Brent +1,82%) und erreichen weder die etablierte Stop-Loss-Schwelle (ca. -6,5 bis -7,5%) noch die Ziel-Gewinnspanne (ca. 7-9%); Brent waere vor Boersenoeffnung ohnehin nicht handelbar. Allgemeine Marktrecherche lieferte keinen frischen, mehrfach bestaetigten Katalysator fuer Krypto. Passend zum spekulativen Profil wird nur bei einer wirklich ueberzeugenden, bestaetigten Gelegenheit gehandelt - diese liegt in diesem Lauf nicht vor.",
     "positionIds": [
       "pos-0018",
       "pos-0030"
     ],
-    "portfolioValueEnd": 1386.27,
+    "portfolioValueEnd": 1385.72,
     "updates": [
       {
         "time": "00:08",
@@ -10182,6 +10182,11 @@
         "time": "05:08",
         "note": "Keine Aenderung; BTC ueber CoinGecko-API aktualisiert (81.210 -> 81.789 USD, -3,82% seit Kauf pos-0018); Brent ueber Yahoo-Finance-Live-Quote aktualisiert (114,08 -> 113,62 USD, +1,86% seit Kauf pos-0030); breiter Kryptomarkt leicht im Minus ohne Katalysator, kein Trade",
         "portfolioValue": 1386.27
+      },
+      {
+        "time": "06:09",
+        "note": "Keine Aenderung; BTC ueber CoinGecko-API aktualisiert (81.789 -> 81.753 USD, -3,86% seit Kauf pos-0018); Brent ueber Yahoo-Finance-Live-Quote aktualisiert (113,62 -> 113,58 USD, +1,82% seit Kauf pos-0030); kein neuer Katalysator, kein Trade",
+        "portfolioValue": 1385.72
       }
     ]
   }
