@@ -10144,14 +10144,14 @@
   },
   {
     "date": "2026-10-23",
-    "marketOverview": "Fruehmorgens (07:09 CEST): Kryptomarkt und Brent bewegen sich nur in engen Bahnen seit dem letzten Lauf. Die Hormuz-Krise bleibt laut IRGC-Meldungen (zuletzt 12.10., weitere Minen-Zwischenfaelle) ungeloest und stuetzt Brent weiterhin nahe 114 USD/Barrel. Bitcoin pendelt knapp unter 82.000 USD ohne neuen Katalysator. Europaeische und US-Boersen oeffnen erst spaeter am Tag, daher aktuell nur Krypto und (nahezu 24/5 handelbares) Brent aktiv zu bewerten.",
-    "decision": "Kein Trade. Tagesbudget bereits um 00:08 gutgeschrieben (79.000 -> 80.000 EUR), in diesem Lauf keine erneute Gutschrift (lastGrantDate bereits heute). BTC-Kurs (pos-0018) und Brent-Kurs (pos-0030) anhand frischer Live-Daten aktualisiert; kein neuer, ueberzeugender Katalysator fuer Kauf oder Verkauf gefunden.",
-    "reasoning": "Beide offenen Positionen liegen weiterhin innerhalb der normalen Schwankungsbreite (BTC -3,86%, Brent +1,82%) und erreichen weder die etablierte Stop-Loss-Schwelle (ca. -6,5 bis -7,5%) noch die Ziel-Gewinnspanne (ca. 7-9%); Brent waere vor Boersenoeffnung ohnehin nicht handelbar. Allgemeine Marktrecherche lieferte keinen frischen, mehrfach bestaetigten Katalysator fuer Krypto. Passend zum spekulativen Profil wird nur bei einer wirklich ueberzeugenden, bestaetigten Gelegenheit gehandelt - diese liegt in diesem Lauf nicht vor.",
+    "marketOverview": "Vormittags (08:09 CEST): Kryptomarkt und Brent bewegen sich weiterhin in engen Bahnen seit dem letzten Lauf. Die Hormuz-Krise bleibt ungeloest und stuetzt Brent nahe 114 USD/Barrel, Bitcoin pendelt knapp ueber 81.500 USD ohne neuen Katalysator. Europaeische Boersen oeffnen erst um 9:00 Uhr (XETRA), US-Kassamarkt erst 15:30 MESZ - daher aktuell nur Krypto und (nahezu 24/5 handelbares) Brent aktiv zu bewerten.",
+    "decision": "Kein Trade. Tagesbudget bereits heute gutgeschrieben (lastGrantDate=2026-10-23), in diesem Lauf keine erneute Gutschrift. BTC-Kurs (pos-0018) und Brent-Kurs (pos-0030) anhand aktueller Marktrecherche aktualisiert; kein neuer, ueberzeugender Katalysator fuer Kauf oder Verkauf gefunden.",
+    "reasoning": "Beide offenen Positionen liegen weiterhin innerhalb der normalen Schwankungsbreite (BTC -4,11%, Brent +2,29%) und erreichen weder die etablierte Stop-Loss-Schwelle (ca. -6,5 bis -7,5%) noch die Ziel-Gewinnspanne (ca. 7-9%); Aktien/ETFs waeren vor Boersenoeffnung ohnehin nicht handelbar. Live-Preisrecherche lieferte keine verlaesslich aktuellen, mehrfach bestaetigten Kursdaten und keinen frischen Katalysator fuer Krypto oder Rohstoffe. Passend zum spekulativen Profil wird nur bei einer wirklich ueberzeugenden, bestaetigten Gelegenheit gehandelt - diese liegt in diesem Lauf nicht vor.",
     "positionIds": [
       "pos-0018",
       "pos-0030"
     ],
-    "portfolioValueEnd": 1386.95,
+    "portfolioValueEnd": 1387.23,
     "updates": [
       {
         "time": "00:08",
@@ -10192,6 +10192,11 @@
         "time": "07:09",
         "note": "Keine Aenderung; BTC leicht aktualisiert (81.753 -> 81.620 USD, -4,02% seit Kauf pos-0018), Brent leicht aktualisiert (113,58 -> 113,95 USD, +2,15% seit Kauf pos-0030); anhaltende Hormuz-Eskalation (IRGC meldet weitere Minen-Zwischenfaelle, Stand 12.10.) stuetzt Brent-These weiter, aber kein frischer, mehrfach bestaetigter Katalysator fuer einen neuen Trade gefunden; weder Stop-Loss- noch Gewinnschwelle erreicht; kein Trade",
         "portfolioValue": 1386.95
+      },
+      {
+        "time": "08:09",
+        "note": "Keine Aenderung; BTC leicht aktualisiert (81.620 -> 81.540 USD, -4,11% seit Kauf pos-0018), Brent leicht aktualisiert (113,95 -> 114,10 USD, +2,29% seit Kauf pos-0030); keine verlaesslichen frischen Live-Kursdaten oder neuer Katalysator per Websuche auffindbar, kein Trade",
+        "portfolioValue": 1387.23
       }
     ]
   }
