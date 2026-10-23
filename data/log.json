@@ -10144,14 +10144,14 @@
   },
   {
     "date": "2026-10-23",
-    "marketOverview": "US-Kassamarkt seit 15:30 Berlin wieder offen: Nasdaq Composite praktisch unveraendert (-0,04%), S&P 500 leicht schwaecher (-0,48%); der scharfe Donnerstag-Ausverkauf (Nasdaq -2,6%, KI-Capex-Sorgen) stabilisiert sich am Freitag - AMD (+1,65%) und Intel (+1,19%) erholen sich bereits deutlich, Meta bleibt mit -0,72% weiter schwach. Gold faellt weiter auf ca. 4.031,70 USD/oz (-0,71%) wegen Dezember-Zinserhoehungssorgen. Brent (ICE BZ=F) steigt weiter auf 111,13 USD/Barrel (+2,27% Tagesplus), BTC stabil bei ca. 81.623 USD (-0,11% 24h), uebriger Kryptomarkt insgesamt ruhig (Top-20-Coins alle unter 3% Tagesbewegung).",
-    "decision": "Kein Trade in diesem Lauf (16:13 Berlin). BTC (pos-0018, -4,01%) und Brent (pos-0030, -0,38%) auf aktuelle Live-Kurse aktualisiert, beide weiterhin deutlich von Stop-Loss (-6,5 bis -7,5%) und Gewinnzielspanne (7-9%) entfernt. Der Tech-Ausverkauf vom Donnerstag stabilisiert sich im Kassahandel (Nasdaq nahezu flach, Chipwerte AMD/Intel sogar im Plus) - keine Bewegung erreicht die fuer einen spekulativen Einstieg erforderliche Grossenordnung (etabliert bei ca. 6%+ mit klarem Katalysator); Krypto-Markt insgesamt ruhig ohne bestaetigten Ausbruch. Daher bewusst kein neuer Trade.",
-    "reasoning": "CoinGecko-API (BTC 81.623 USD, -0,11% 24h, Top-20-Coins alle <3% Tagesbewegung) und Yahoo-Finance-API (Brent/BZ=F 111,13 USD +2,27%, Nasdaq ^IXIC -0,04%, S&P ^GSPC -0,48%, NVDA +0,28%, META -0,72%, AMD +1,65%, INTC +1,19%, Gold/GC=F 4.031,70 USD -0,71%) lieferten aktuelle Live-Kurse direkt per Programmzugriff. Beide offenen Positionen bleiben innerhalb der normalen Schwankungsbreite, kein Stop-Loss oder Gewinnziel ausgeloest. Keine neue, klar bestaetigte Breakout- oder Dip-Gelegenheit in Aktien/ETFs/Krypto/Rohstoffen gefunden, die die etablierte Schwelle fuer einen spekulativen Einstieg erreicht; daher keine Aktion.",
+    "marketOverview": "US-Kassamarkt kurz vor Xetra-Schluss: S&P 500 bei 7.643,07 (-0,27% vs. Vortagesschluss 7.663,43), Nasdaq Composite bei 26.041,03 (+0,12% vs. 26.008,86) - der Markt bleibt nach dem Donnerstag-Ausverkauf im Wesentlichen stabil/flach ohne klare Richtung. Bitcoin seitwaerts bei ca. 81.555 USD (+0,01% 24h, CoinGecko live), Brent (ICE BZ=F) bei 111,34 USD (Vortagesschluss 108,66 USD). Kein neuer, mehrfach bestaetigter Katalysator fuer Aktien, Krypto oder Rohstoffe erkennbar.",
+    "decision": "Kein Trade in diesem Lauf (17:09 Berlin). BTC (pos-0018, -4,09%) und Brent (pos-0030, -0,19%) auf aktuelle Live-Kurse aktualisiert (CoinGecko- bzw. Yahoo-Finance-API), beide weiterhin deutlich von Stop-Loss (-6,5 bis -7,5%) und Gewinnzielspanne (7-9%) entfernt. S&P 500 und Nasdaq bewegen sich nur minimal (-0,27%/+0,12%), kein Einzelwert oder Krypto-Asset zeigt eine Bewegung in der fuer einen spekulativen Einstieg erforderlichen Grossenordnung (ueblicherweise 6%+ mit klarem, mehrfach bestaetigtem Katalysator). Daher bewusst kein neuer Trade; freies Kapital (ca. 77.938 EUR) bleibt ungenutzt bis sich eine ueberzeugende Gelegenheit bietet.",
+    "reasoning": "CoinGecko-API (BTC 81.555 USD, +0,01% 24h) und Yahoo-Finance-Chart-API (Brent/BZ=F 111,34 USD vs. Vortagesschluss 108,66 USD; S&P500 7.643,07 vs. 7.663,43; Nasdaq 26.041,03 vs. 26.008,86) lieferten aktuelle Live-Kurse direkt per Programmzugriff. Websuche zu Krypto-Breakouts, Brent und US-Markt lieferte keine verlaesslich auf den 23.10. datierten frischen Einzelkatalysatoren. Beide offenen Positionen bleiben innerhalb der normalen Schwankungsbreite, kein Stop-Loss oder Gewinnziel ausgeloest. Keine neue, klar bestaetigte Breakout- oder Dip-Gelegenheit gefunden; daher keine Aktion.",
     "positionIds": [
       "pos-0018",
       "pos-0030"
     ],
-    "portfolioValueEnd": 1369.27,
+    "portfolioValueEnd": 1370.03,
     "updates": [
       {
         "time": "00:08",
@@ -10237,6 +10237,11 @@
         "time": "16:13",
         "note": "Keine Aenderung; BTC/Brent/Nasdaq/Gold per CoinGecko- und Yahoo-API aktualisiert (BTC -4,01%, Brent -0,38%); US-Kassamarkt stabilisiert sich nach Donnerstag-Ausverkauf (Nasdaq flach, AMD/Intel im Plus); kein Trade mangels ueberzeugender Gelegenheit",
         "portfolioValue": 1369.27
+      },
+      {
+        "time": "17:09",
+        "note": "Keine Aenderung; BTC ueber CoinGecko-API aktualisiert (81.620 -> 81.555 USD, -4,09% seit Kauf pos-0018); Brent ueber Yahoo-Finance-Chart-API aktualisiert (111,13 -> 111,34 USD, -0,19% seit Kauf pos-0030); S&P/Nasdaq nahezu flach, kein neuer Katalysator, kein Trade",
+        "portfolioValue": 1370.03
       }
     ]
   }
