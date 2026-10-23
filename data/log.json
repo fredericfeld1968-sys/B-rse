@@ -10144,14 +10144,14 @@
   },
   {
     "date": "2026-10-23",
-    "marketOverview": "US-Kassamarkt (noch offen bis 22:00 MESZ) leicht schwaecher: S&P 500 bei 7.630,76 (-0,43%), Nasdaq Composite bei 25.976,38 (-0,13%), Gold (GC=F) bei 4.011,80 USD (-1,20%). Brent (ICE BZ=F) zieht auf 111,73 USD an (+2,83% zum Vortagesschluss von 108,66), die Hormuz-/Iran-Eskalation (fortgesetzte Tankerangriffe, Rekordzahl an Vorfaellen seit Anfang Oktober) bleibt der dominante Treiber, kein qualitativ neuer Eskalationsschub seit dem letzten Lauf. Bitcoin bei 81.340 USD (+0,05% 24h), nahezu unveraendert; Krypto-Markt insgesamt ruhig, keine ueberzeugenden Ausbrueche bei Altcoins.",
-    "decision": "Kein Trade in diesem Lauf (21:09 Berlin). BTC (pos-0018, -4,35%) per CoinGecko-API und Brent (pos-0030, +0,16%) per Yahoo-Finance-API auf aktuelle Live-Kurse aktualisiert. Weder Stop-Loss- noch Gewinnschwelle erreicht; Brent-Anstieg bewegt sich im Rahmen der bereits ueber pos-0030 abgebildeten Hormuz-These, kein neuer Katalysator fuer einen Zweiteinstieg. US-Markt schliesst in rund 50 Minuten vor dem Wochenende, danach nur noch Krypto handelbar - keine ueberzeugende Gelegenheit gefunden.",
-    "reasoning": "Direkter API-Abruf: CoinGecko (BTC 81.340 USD, +0,05% 24h, Top-Altcoin-Screening ohne ueberzeugende fundamentale Ausbrueche - lediglich kleinere, nicht belastbar bestaetigte Bewegungen bei Nebenwerten wie AKE/PEPE), Yahoo-Finance-Chart-API (Brent/BZ=F 111,73 USD, S&P500 7.630,76, Nasdaq 25.976,38, Gold/GC=F 4.011,80). WebSearch zu Hormuz/Iran- und Markt-News lieferte ueberwiegend veraltete/undatierte oder widerspruechliche Treffer ohne verifizierbaren frischen Katalysator gegenueber dem letzten Lauf. Kein Trade mangels ueberzeugender neuer Gelegenheit.",
+    "marketOverview": "US-Kassamarkt ist seit 22:00 MESZ geschlossen (naechste regulaere Sitzung Montag), daher ausser Krypto nichts handelbar. Brent (ICE BZ=F) bei 111,91 USD (+2,99% zum Vortagesschluss 108,66), minimal hoeher als beim letzten Lauf (111,73) - Hormuz-/Iran-Eskalation bleibt der Treiber, kein neuer qualitativer Schub seit 21:09. Bitcoin bei 81.209 USD (-0,22% 24h), Kryptomarkt insgesamt ruhig und ohne ueberzeugende Ausbrueche (grösste Bewegung bei Nebenwerten wie NEAR -3,7%, Monero -1,9% - beides keine belastbaren Katalysatoren).",
+    "decision": "Kein Trade in diesem Lauf (22:14 Berlin). BTC (pos-0018) und Brent (pos-0030) per Live-API (CoinGecko bzw. Yahoo Finance) aktualisiert. Weder Stop-Loss- noch Gewinnschwelle erreicht (BTC -4,50%, Brent +0,32%). Ausserhalb der Handelszeiten fuer Aktien/ETFs/Rohstoffe; im ruhigen Kryptomarkt keine ueberzeugende neue Gelegenheit gefunden.",
+    "reasoning": "Direkter API-Abruf: CoinGecko Markets-Endpoint (BTC 81.209 USD, -0,22% 24h, Top-20-Screening ohne ueberzeugende fundamentale Ausbrueche), Yahoo-Finance-Chart-API (Brent/BZ=F 111,91 USD, Timestamp 22:00:11 CEST, +2,99% zum Vortagesschluss). WebSearch zu aktuellen Markt-/Hormuz-News lieferte ueberwiegend undatierte oder aeltere Treffer ohne verifizierbaren frischen Katalysator gegenueber dem 21:09-Lauf. Freies Kapital (~77.938 EUR nach obiger Formel) bleibt gross, aber mangels ueberzeugender Opportunity kein Kauf.",
     "positionIds": [
       "pos-0018",
       "pos-0030"
     ],
-    "portfolioValueEnd": 1370.71,
+    "portfolioValueEnd": 1370.76,
     "updates": [
       {
         "time": "00:08",
@@ -10262,6 +10262,11 @@
         "time": "21:09",
         "note": "Keine Aenderung; BTC ueber CoinGecko-API aktualisiert (81.443 -> 81.340 USD, -4,35% seit Kauf pos-0018); Brent ueber Yahoo-Finance-Chart-API aktualisiert (111,53 -> 111,73 USD, +0,16% seit Kauf pos-0030, Hormuz-Eskalation treibt Oelpreis weiter, aber Position noch weit von Gewinnziel); S&P/Nasdaq/Gold leicht schwaecher, Krypto-Altcoin-Screening ohne ueberzeugende Ausbrueche; kein Trade",
         "portfolioValue": 1370.71
+      },
+      {
+        "time": "22:14",
+        "note": "Keine Aenderung; BTC/Brent live aktualisiert (BTC -4,50%, Brent +0,32%), keine Trade-Schwelle erreicht, Markt ausserhalb US-Handelszeiten",
+        "portfolioValue": 1370.76
       }
     ]
   }
