@@ -10144,14 +10144,14 @@
   },
   {
     "date": "2026-10-23",
-    "marketOverview": "Xetra und US-Kassamarkt sind seit 14:18 Berlin geoeffnet (Freitag). Direkter API-Abruf (CoinGecko, Yahoo Finance) liefert frische Live-Kurse: BTC 81.405 USD (-0,47% in 24h), Brent (ICE-Future BZ=F) 110,48 USD (+1,68% Tagesplus, Tagesrange 108,28-110,49 USD, Vortagesschluss 108,66 USD). Websuche findet weiterhin keinen frischen, mehrfach bestaetigten Einzeltitel- oder Makro-Katalysator fuer Aktien, ETFs, Krypto oder Rohstoffe (Hormuz-Lage seit Anfang August ohne neue verlaessliche Meldungen, keine aktuellen Earnings-Ueberraschungen auffindbar; Fed-Entscheidung erst am 28.10., EZB am 29.10.).",
-    "decision": "Kein Trade in diesem Lauf (14:18 Berlin). BTC (pos-0018) und Brent (pos-0030) per direkter API-Abfrage aktualisiert (BTC -4,27%, Brent -0,96%), beide weiterhin deutlich von der Stop-Loss-Schwelle (-6,5 bis -7,5%) und von der Gewinnzielspanne (7-9%) entfernt. Freies Kapital weiterhin hoch (~77.900 EUR), aber trotz offenem Kassamarkt keine verlaesslich bestaetigte neue Gelegenheit gefunden.",
-    "reasoning": "CoinGecko- und Yahoo-Finance-Chart-API lieferten aktuelle Live-Kurse (BTC 81.405 USD, Brent 110,48 USD). Beide offenen Positionen bleiben weit von der etablierten Stop-Loss-Schwelle entfernt, daher kein Verkauf. Ergaenzende Websuchen zu Einzelaktien-Ueberraschungen, Krypto-Altcoin-Rallys und der Hormuz-Lage fanden keinen neuen, mehrfach bestaetigten, auf heute datierten Katalysator; daher trotz offenem Kassamarkt und hohem freiem Kapital kein Neukauf. Entscheidung: keine Aktion.",
+    "marketOverview": "US-Tech-Sektor brach am Donnerstag (22.10.) deutlich ein (Nasdaq Composite -2,6%, grösster Tagesverlust seit 5. Juni; S&P 500 -1,21%) - Anleger zweifeln an der Rentabilität der massiven KI-Infrastruktur-Investitionen. Meta fiel knapp -7% nach angehobenem Capex-Ausblick fuer 2026, Intel und AMD jeweils rund -8%, praktisch alle 'Magnificent 7' betroffen. Freitagvormittag (23.10.) setzen US-Futures die Schwaeche fort, Oelpreise steigen weiter, Gold faellt (-2,47%), belastet von der Aussicht auf eine weitere Fed-Zinserhoehung im Dezember. Brent (ICE BZ=F) bei 110,23 USD (Vortagesschluss 108,66 USD), BTC bei 81.573 USD (-0,11% in 24h).",
+    "decision": "Kein Trade in diesem Lauf (15:17 Berlin). BTC (pos-0018, -4,07%) und Brent (pos-0030, -1,18%) aktualisiert, beide weiterhin deutlich von Stop-Loss (-6,5 bis -7,5%) und Gewinnzielspanne (7-9%) entfernt. Der aktuelle Tech-Ausverkauf (Meta/Intel/AMD, KI-Capex-Sorgen) ist kein klassischer 'Sell-the-news'-Überreaktions-Dip wie bei frueheren erfolgreichen Trades (AMD, SpaceX, Palantir), sondern spiegelt eine echte, strukturelle Sorge ueber die Rentabilitaet der KI-Investitionen wider (analog zum verlustreichen NVDA-Trade nach dem Anthropic-Sicherheitsessay) - daher bewusst kein Dip-Kauf. US-Kassamarkt oeffnet erst um 15:30 Berlin, somit laeuft die Reaktion der echten Handelssession noch nicht vor.",
+    "reasoning": "CoinGecko- und Yahoo-Finance-API lieferten aktuelle Live-Kurse (BTC 81.573 USD, Brent 110,23 USD). Beide offenen Positionen bleiben innerhalb der normalen Schwankungsbreite, kein Stop-Loss ausgeloest. Der bestaetigte, mehrfach unabhaengig belegte Tech-Ausverkauf (TheStreet, RioTimes/World Today News: Nasdaq -2,6%, Meta -7%, Intel/AMD je -8%, Grund: Zweifel an KI-Capex-Rentabilitaet, zusaetzlich drohende Dezember-Fed-Zinserhoehung) ist ein echter struktureller Belastungsfaktor und kein ueberzogener Kurzfrist-Reflex - daher bewusst kein spekulativer Dip-Kauf in Chipwerte oder Tech. Keine neue, klar bestaetigte Gelegenheit in Aktien/ETFs/Krypto/Rohstoffen gefunden; daher keine Aktion.",
     "positionIds": [
       "pos-0018",
       "pos-0030"
     ],
-    "portfolioValueEnd": 1363.4,
+    "portfolioValueEnd": 1363.22,
     "updates": [
       {
         "time": "00:08",
@@ -10227,6 +10227,11 @@
         "time": "14:18",
         "note": "Keine Aenderung; BTC ueber CoinGecko-API aktualisiert (81.547 -> 81.405 USD, -4,27% seit Kauf pos-0018); Brent ueber Yahoo-Finance-Chart-API aktualisiert (110,21 -> 110,48 USD, -0,96% seit Kauf pos-0030); Xetra/US-Kassamarkt offen, aber kein neuer Katalysator gefunden, kein Trade",
         "portfolioValue": 1363.4
+      },
+      {
+        "time": "15:17",
+        "note": "Keine Aenderung; BTC und Brent per CoinGecko/Yahoo-API aktualisiert (BTC -4,07%, Brent -1,18%); bestaetigter Tech-Ausverkauf (Nasdaq -2,6%, Meta/Intel/AMD) als strukturelle KI-Capex-Sorge erkannt, aber bewusst kein Dip-Kauf (kein Sell-the-news-Reflex); kein Trade",
+        "portfolioValue": 1363.22
       }
     ]
   }
