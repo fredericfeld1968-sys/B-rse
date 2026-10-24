@@ -10407,5 +10407,23 @@
         "portfolioValue": 1362.48
       }
     ]
+  },
+  {
+    "date": "2026-10-25",
+    "marketOverview": "Bitcoin notiert laut CoinGecko-API bei ca. 80.394 USD (-1,1% in 24h), der breite Kryptomarkt (ETH, SOL, XRP, AVAX, LINK, ADA, DOGE, BCH, HBAR, HYPE) bleibt durchgehend leicht im Minus (-1,0% bis -3,8%) im Vorfeld der FOMC-Sitzung am 27.-28.10. (Markt ueberwiegend Zinspause erwartet, Hike-Wahrscheinlichkeit laut mehreren Quellen zuletzt deutlich gesunken). Aktien, ETFs und Rohstoffe bleiben am Sonntag in der Nacht ausserhalb der Handelszeiten; Brent-Terminmarkt oeffnet erst am Sonntagabend wieder.",
+    "decision": "Kein Trade. Tagesbudget fuer 25.10. gutgeschrieben (totalFreshCapitalEur 81.000 -> 82.000 EUR). BTC (pos-0018) per CoinGecko-API aktualisiert (80.363 -> 80.394 USD, -5,46% seit Kauf) - weiterhin unter der Stop-Loss-Schwelle (-6,5 bis -7,5%), Position bleibt gehalten. Brent (pos-0030) unveraendert (111,70 USD, +0,13% seit Kauf, Terminmarkt uebers Wochenende geschlossen). Breiter, weiterhin leicht negativer Krypto-Markt ohne einzeltitelspezifischen Ausbruchskatalysator, daher kein neuer Trade.",
+    "reasoning": "CoinGecko-Live-Check (BTC, ETH, SOL, XRP, AVAX, LINK, ADA, DOGE, BCH, HBAR, HYPE) zeigt weiterhin durchgehend negative 24h-Veraenderungen (-1,0% bis -3,8%) ohne erkennbaren einzeltitelspezifischen Breakout-Katalysator; WebSearch zu aktuellen Krypto- und Makro-Nachrichten (FOMC 27.-28.10.) liefert keine tagesaktuellen, handelsrelevanten Treffer fuer einen ueberzeugenden neuen Trade. Passend zum spekulativen Kurzfrist-Profil wird an bestehenden Positionen festgehalten und keine neue Position eroeffnet.",
+    "positionIds": [
+      "pos-0018",
+      "pos-0030"
+    ],
+    "portfolioValueEnd": 1362.74,
+    "updates": [
+      {
+        "time": "00:08",
+        "note": "Keine Aenderung; Tagesbudget fuer 25.10. gutgeschrieben (+1.000 EUR); BTC ueber CoinGecko-API aktualisiert (80.363 -> 80.394 USD, -5,46% seit Kauf pos-0018); Brent unveraendert (Terminmarkt uebers Wochenende geschlossen); breiter Krypto-Markt weiterhin leicht negativ vor FOMC, kein Ausbruchssignal, kein Trade",
+        "portfolioValue": 1362.74
+      }
+    ]
   }
 ]
