@@ -10277,14 +10277,14 @@
   },
   {
     "date": "2026-10-24",
-    "marketOverview": "Bitcoin rutscht weiter leicht ab auf ca. 80.770 USD (CoinGecko live, -1,1% in 24h), andere Majors (ETH, SOL, XRP, AVAX, LINK, ADA, HBAR, BCH, DOGE) ebenfalls durchgehend leicht negativ (-0,8% bis -4,9%) ohne bestaetigten frischen Ausbruchskatalysator. Brent (ICE BZ=F) weiterhin bei 111,66 USD, Terminmarkt uebers Wochenende geschlossen. Aktien, ETFs und Rohstoff-Boersen bleiben bis Montag geschlossen; nur Krypto handelbar.",
-    "decision": "Kein weiterer Trade. BTC (pos-0018) per CoinGecko-Live-API aktualisiert (80.770 USD, -5,02% seit Kauf) - naeher an, aber noch unterhalb der Stop-Loss-Zone (-6,5 bis -7,5%), Position weiter gehalten. Brent (pos-0030) unveraendert (Markt geschlossen). Tagesbudget fuer 24.10. war bereits beim ersten Lauf des Tages gutgeschrieben, keine erneute Gutschrift. Kein neuer Katalysator fuer eine Krypto-Opportunity gefunden.",
-    "reasoning": "CoinGecko-API- und WebSearch-Recherche zu Krypto-Majors und Nahost/Oel-Lage lieferte keine frischen, auf dieses Wochenende datierten Katalysatoren. Alle gescreenten Majors bewegen sich nur leicht negativ ohne Ausbruchssignal. Freies Kapital bleibt bei ca. 78.938 EUR, aber ohne ueberzeugende Gelegenheit kein Kauf.",
+    "marketOverview": "Bitcoin rutscht weiter leicht ab auf ca. 80.634 USD (CoinGecko live, -1,37% in 24h); alle gescreenten Krypto-Majors (ETH, SOL, XRP, AVAX, LINK, ADA, HBAR, BCH, DOGE, HYPE, QNT, ENA, LTC, DOT, NEAR, SUI, XLM) durchgehend negativ (-1,2% bis -8,5%) im breiten Risk-off vor der FOMC-Sitzung am 27.-28.10. (Fed-Pause bei 3,75-4,00% erwartet, aber Dezember-Zinsschritt von Analysten eingepreist). Brent (ICE BZ=F) weiterhin bei 111,66 USD, Terminmarkt uebers Wochenende geschlossen. Aktien, ETFs und Rohstoff-Boersen bleiben bis Montag geschlossen; nur Krypto handelbar.",
+    "decision": "Kein weiterer Trade. BTC (pos-0018) per CoinGecko-Live-API aktualisiert (80.634 USD, -5,18% seit Kauf) - weiterhin unterhalb der etablierten Stop-Loss-Zone (-6,5 bis -7,5%), Position gehalten. Brent (pos-0030) unveraendert (Markt geschlossen). Tagesbudget fuer 24.10. war bereits beim ersten Lauf des Tages gutgeschrieben, keine erneute Gutschrift. Kein neuer Katalysator fuer eine Krypto-Opportunity gefunden - alle Majors breit im Minus ohne Ausbruchssignal.",
+    "reasoning": "CoinGecko-API-Screening von 17 Krypto-Majors zeigt durchgehend negative 24h-Veraenderungen (breiter Risk-off-Ton vor FOMC) ohne einen einzelnen, fundamental bestaetigten Ausbruchskatalysator. Freies Kapital bleibt bei ca. 78.938 EUR, aber ohne ueberzeugende Gelegenheit kein Kauf. BTC naeher an, aber noch nicht an der Stop-Loss-Schwelle.",
     "positionIds": [
       "pos-0018",
       "pos-0030"
     ],
-    "portfolioValueEnd": 1365.58,
+    "portfolioValueEnd": 1364.46,
     "updates": [
       {
         "time": "00:09",
@@ -10325,6 +10325,11 @@
         "time": "07:09",
         "note": "Keine Aenderung; BTC ueber CoinGecko-API aktualisiert (80.882 -> 80.770 USD, -5,02% seit Kauf pos-0018, naeher an Stop-Loss-Zone); Brent unveraendert (Markt uebers Wochenende geschlossen); Krypto-Majors-Screening (ETH, SOL, XRP, AVAX, LINK, ADA, HBAR, BCH, DOGE) durchgehend leicht negativ ohne Ausbruchssignal; kein Trade",
         "portfolioValue": 1365.58
+      },
+      {
+        "time": "08:10",
+        "note": "Keine Aenderung; BTC ueber CoinGecko-API aktualisiert (80.770 -> 80.634 USD, -5,18% seit Kauf pos-0018); Brent unveraendert (Markt uebers Wochenende geschlossen); breites Krypto-Majors-Screening (17 Coins) durchgehend negativ vor FOMC-Sitzung, kein Ausbruchssignal; kein Trade",
+        "portfolioValue": 1364.46
       }
     ]
   }
