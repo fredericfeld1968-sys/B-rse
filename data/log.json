@@ -10277,14 +10277,14 @@
   },
   {
     "date": "2026-10-24",
-    "marketOverview": "Bitcoin steht bei ca. 80.464 USD (-1,0% in 24h), der breite Kryptomarkt (ETH, SOL, XRP, AVAX, LINK, ADA, DOGE, BCH, HBAR, HYPE) bleibt durchgehend im Minus (-1,0% bis -3,6%) im Vorfeld der FOMC-Sitzung am 27.-28.10. Aktien, ETFs und Rohstoffe sind am Samstagabend ausserhalb der Handelszeiten; Brent-Future bleibt bis zur Wiederoeffnung am Sonntagabend unveraendert.",
-    "decision": "Kein weiterer Trade. BTC (pos-0018) per CoinGecko-API aktualisiert (80.205 -> 80.464 USD, -5,38% seit Kauf) - leichte Erholung, Position bleibt unter der Stop-Loss-Schwelle (-6,5 bis -7,5%) und wird gehalten. Brent (pos-0030) unveraendert (111,70 USD, +0,13% seit Kauf, Terminmarkt uebers Wochenende geschlossen). Tagesbudget fuer 24.10. bereits beim ersten Lauf des Tages gutgeschrieben, keine erneute Gutschrift. Breiter, weiter negativer Krypto-Markt ohne einzeltitelspezifischen Ausbruchskatalysator, daher kein Trade.",
-    "reasoning": "CoinGecko-Live-Check (BTC, ETH, SOL, XRP, AVAX, LINK, ADA, DOGE, BCH, HBAR, HYPE) zeigt durchgehend negative 24h-Veraenderungen (-1,0% bis -3,6%) ohne erkennbaren einzeltitelspezifischen Breakout-Katalysator; WebSearch nach frischen Altcoin-Breakout-News und FOMC-Ausblick lieferte keine aktuellen, auf den 24.10. datierten Einzeltitel-Trigger. Passend zum spekulativen Kurzfrist-Profil wird daher an bestehenden Positionen festgehalten und keine neue Position eroeffnet.",
+    "marketOverview": "Bitcoin notiert bei ca. 80.489 USD (-0,9% in 24h), der breite Kryptomarkt (ETH, SOL, XRP, AVAX, LINK, ADA, DOGE, BCH, HBAR, HYPE) bleibt durchgehend leicht im Minus (-0,3% bis -3,6%) im Vorfeld der FOMC-Sitzung am 27.-28.10. (Markt erwartet laut Polymarket/CME FedWatch mit ca. 82-86% Wahrscheinlichkeit einen Zinspause, 14-18% einen weiteren Zinsschritt). Aktien, ETFs und Rohstoffe sind am Samstagabend ausserhalb der Handelszeiten; Brent-Future bleibt bis zur Wiederoeffnung am Sonntagabend unveraendert.",
+    "decision": "Kein weiterer Trade. BTC (pos-0018) per CoinGecko-API aktualisiert (80.464 -> 80.489 USD, -5,35% seit Kauf) - nahezu unveraendert, Position bleibt unter der Stop-Loss-Schwelle (-6,5 bis -7,5%) und wird gehalten. Brent (pos-0030) unveraendert (111,70 USD, +0,13% seit Kauf, Terminmarkt uebers Wochenende geschlossen). Tagesbudget fuer 24.10. bereits beim ersten Lauf des Tages gutgeschrieben, keine erneute Gutschrift. Breiter, weiterhin leicht negativer Krypto-Markt ohne einzeltitelspezifischen Ausbruchskatalysator, daher kein Trade.",
+    "reasoning": "CoinGecko-Live-Check (BTC, ETH, SOL, XRP, AVAX, LINK, ADA, DOGE, BCH, HBAR, HYPE) zeigt weiterhin durchgehend negative bis flache 24h-Veraenderungen (-0,3% bis -3,6%) ohne erkennbaren einzeltitelspezifischen Breakout-Katalysator; WebSearch zu FOMC-Ausblick (27.-28.10.) bestaetigt ueberwiegend erwartete Zinspause ohne frischen Krypto-spezifischen Trigger fuer einen Trade. Passend zum spekulativen Kurzfrist-Profil wird daher an bestehenden Positionen festgehalten und keine neue Position eroeffnet.",
     "positionIds": [
       "pos-0018",
       "pos-0030"
     ],
-    "portfolioValueEnd": 1363.31,
+    "portfolioValueEnd": 1363.52,
     "updates": [
       {
         "time": "00:09",
@@ -10395,6 +10395,11 @@
         "time": "21:09",
         "note": "Keine Aenderung; BTC ueber CoinGecko-API aktualisiert (80.205 -> 80.464 USD, -5,38% seit Kauf pos-0018, leichte Erholung, weiter unter Stop-Loss-Schwelle); Brent unveraendert (Terminmarkt uebers Wochenende geschlossen); breites Krypto-Majors-Screening (ETH, SOL, XRP, AVAX, LINK, ADA, DOGE, BCH, HBAR, HYPE) durchgehend negativ (-1,0% bis -3,6%) vor FOMC, keine frischen Breakout-Nachrichten gefunden, kein Trade",
         "portfolioValue": 1363.31
+      },
+      {
+        "time": "22:08",
+        "note": "Keine Aenderung; BTC ueber CoinGecko-API aktualisiert (80.464 -> 80.489 USD, -5,35% seit Kauf pos-0018, nahezu unveraendert); Brent unveraendert (Terminmarkt uebers Wochenende geschlossen); breites Krypto-Majors-Screening sowie FOMC-Ausblick (27.-28.10., Zinspause mit 82-86% Wahrscheinlichkeit erwartet) ohne neuen Ausbruchskatalysator, kein Trade",
+        "portfolioValue": 1363.52
       }
     ]
   }
