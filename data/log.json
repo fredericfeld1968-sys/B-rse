@@ -10277,14 +10277,14 @@
   },
   {
     "date": "2026-10-24",
-    "marketOverview": "Breiter Krypto-Risk-off vor der FOMC-Sitzung am 27.-28.10. haelt an: BTC liegt laut CoinGecko-API bei ca. 80.155 USD (-1,87% in 24h), Altcoins durchgehend negativ (ETH -3,85%, SOL -3,98%, XRP -2,74%, AVAX -2,74%, LINK -4,90%, ADA -5,42%, DOGE -4,48%, BCH -4,83%, HBAR -3,12%, HYPE -4,01%). Kein einzeltitelspezifischer Breakout-Katalysator identifiziert, Nachrichtensuche liefert keine aktuellen frischen Treiber. Aktien, ETFs und Rohstoff-Terminmaerkte bleiben am Samstagabend geschlossen.",
-    "decision": "Kein weiterer Trade. BTC (pos-0018) per CoinGecko-API aktualisiert (79.674 -> 80.155 USD, -5,74% seit Kauf) - leichte Erholung, Position bleibt unter der Stop-Loss-Schwelle (-6,5 bis -7,5%) und wird gehalten. Brent (pos-0030) unveraendert (111,70 USD, +0,13% seit Kauf, Terminmarkt uebers Wochenende geschlossen). Tagesbudget fuer 24.10. bereits beim ersten Lauf des Tages gutgeschrieben, keine erneute Gutschrift. Breiter, durchgehend negativer Krypto-Markt ohne einzeltitelspezifischen Ausbruchskatalysator, daher kein Trade.",
-    "reasoning": "Kein weiterer Trade. BTC (pos-0018) per CoinGecko-API aktualisiert (79.674 -> 80.155 USD, -5,74% seit Kauf) - leichte Erholung, Position bleibt unter der Stop-Loss-Schwelle (-6,5 bis -7,5%) und wird gehalten. Brent (pos-0030) unveraendert (111,70 USD, +0,13% seit Kauf, Terminmarkt uebers Wochenende geschlossen). Tagesbudget fuer 24.10. bereits beim ersten Lauf des Tages gutgeschrieben, keine erneute Gutschrift. Breiter, durchgehend negativer Krypto-Markt ohne einzeltitelspezifischen Ausbruchskatalysator, daher kein Trade.",
+    "marketOverview": "Bitcoin steht bei ca. 80.205 USD (-1,5% in 24h), insgesamt leichte Stabilisierung gegenueber dem Vorlauf, aber der breite Kryptomarkt (ETH, SOL, XRP, AVAX, LINK, ADA, DOGE, BCH, HBAR) bleibt durchgehend im Minus (-1,5% bis -5,0%) im Vorfeld der FOMC-Sitzung am 27.-28.10. Aktien, ETFs und Rohstoffe sind am Samstagabend ausserhalb der Handelszeiten; Brent-Future bleibt bis zur Wiederoeffnung am Sonntagabend unveraendert.",
+    "decision": "Kein weiterer Trade. BTC (pos-0018) per CoinGecko-API aktualisiert (80.155 -> 80.205 USD, -5,68% seit Kauf) - leichte Stabilisierung, Position bleibt unter der Stop-Loss-Schwelle (-6,5 bis -7,5%) und wird gehalten. Brent (pos-0030) unveraendert (111,70 USD, +0,13% seit Kauf, Terminmarkt uebers Wochenende geschlossen). Tagesbudget fuer 24.10. bereits beim ersten Lauf des Tages gutgeschrieben, keine erneute Gutschrift. Breiter, weiter negativer Krypto-Markt ohne einzeltitelspezifischen Ausbruchskatalysator, daher kein Trade.",
+    "reasoning": "CoinGecko-Live-Check (BTC, ETH, SOL, XRP, AVAX, LINK, ADA, DOGE, BCH, HBAR) zeigt durchgehend negative 24h-Veraenderungen (-1,5% bis -5,0%) ohne erkennbaren einzeltitelspezifischen Breakout-Katalysator; WebSearch nach frischen Altcoin-Breakout-News lieferte keine aktuellen, auf den 24.10. datierten Treffer. Passend zum spekulativen Kurzfrist-Profil wird daher an bestehenden Positionen festgehalten und keine neue Position eroeffnet.",
     "positionIds": [
       "pos-0018",
       "pos-0030"
     ],
-    "portfolioValueEnd": 1360.77,
+    "portfolioValueEnd": 1361.18,
     "updates": [
       {
         "time": "00:09",
@@ -10385,6 +10385,11 @@
         "time": "19:08",
         "note": "Keine Aenderung; BTC ueber CoinGecko-API aktualisiert (79.674 -> 80.155 USD, -5,74% seit Kauf pos-0018, leichte Erholung, weiter unter Stop-Loss-Schwelle); Brent unveraendert (Terminmarkt uebers Wochenende geschlossen); breites Krypto-Majors-Screening (BTC, ETH, SOL, XRP, AVAX, LINK, ADA, DOGE, BCH, HBAR, HYPE) durchgehend negativ (-1,9% bis -5,4%) vor FOMC, keine frischen Breakout-Nachrichten gefunden, kein Trade",
         "portfolioValue": 1360.77
+      },
+      {
+        "time": "20:08",
+        "note": "Keine Aenderung; BTC ueber CoinGecko-API aktualisiert (80.155 -> 80.205 USD, -5,68% seit Kauf pos-0018, leichte Stabilisierung); Brent unveraendert (Terminmarkt uebers Wochenende geschlossen); breites Krypto-Majors-Screening (ETH, SOL, XRP, AVAX, LINK, ADA, DOGE, BCH, HBAR) durchgehend negativ (-1,5% bis -5,0%) vor FOMC, keine frischen Breakout-Nachrichten gefunden, kein Trade",
+        "portfolioValue": 1361.18
       }
     ]
   }
