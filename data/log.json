@@ -10277,14 +10277,14 @@
   },
   {
     "date": "2026-10-24",
-    "marketOverview": "Bitcoin erholt sich leicht auf 80.851 USD (CoinGecko live, -0,44% in 24h) - weiterhin in engem Seitwaertsbereich. Andere Majors (ETH, SOL, XRP, AVAX, LINK, ADA, HBAR, BCH) bewegen sich allesamt nur im niedrigen einstelligen Minusbereich (-0,3% bis -2,8%), keine bestaetigte grosse Bewegung oder neuer Katalysator. Brent (ICE BZ=F) weiterhin unveraendert bei 111,66 USD, Terminmarkt uebers Wochenende geschlossen. Aktien, ETFs und Rohstoff-Boersen bleiben bis Montag geschlossen; nur Krypto handelbar.",
-    "decision": "Kein weiterer Trade. BTC (pos-0018) per CoinGecko-Live-API aktualisiert (80.851 USD, -4,92% seit Kauf) - leichte Erholung gegenueber dem letzten Lauf, weiterhin unterhalb der Stop-Loss-Zone (-6,5 bis -7,5%), Position weiter gehalten. Brent (pos-0030) unveraendert (Markt geschlossen). Tagesbudget fuer 24.10. war bereits beim ersten Lauf des Tages gutgeschrieben, keine erneute Gutschrift. Kein neuer Katalysator fuer eine Krypto-Opportunity gefunden.",
-    "reasoning": "WebSearch-Recherche zu Krypto-Majors lieferte keine auf dieses Wochenende datierten, frischen Katalysatoren. Alle gescreenten Majors (ETH, SOL, XRP, AVAX, LINK, ADA, HBAR, BCH) bewegen sich nur leicht negativ ohne Ausbruchssignal. Freies Kapital bleibt bei ca. 78.938 EUR, aber ohne ueberzeugende Gelegenheit kein Kauf.",
+    "marketOverview": "Bitcoin bewegt sich weiterhin im engen Seitwaertsband um 80.900-81.000 USD (CoinGecko live, -1,06% in 24h), andere Majors (ETH, SOL, XRP, AVAX, LINK, ADA, HBAR, BCH, DOGE) ebenfalls nur leicht negativ (-0,8% bis -3,5%) ohne bestaetigten frischen Ausbruchskatalysator. Brent (ICE BZ=F) unveraendert bei 111,66 USD, Terminmarkt uebers Wochenende geschlossen. Aktien, ETFs und Rohstoff-Boersen bleiben bis Montag geschlossen; nur Krypto handelbar.",
+    "decision": "Kein weiterer Trade. BTC (pos-0018) per CoinGecko-Live-API aktualisiert (80.920 USD, -4,84% seit Kauf) - stabil, weiterhin deutlich unterhalb der Stop-Loss-Zone (-6,5 bis -7,5%), Position weiter gehalten. Brent (pos-0030) unveraendert (Markt geschlossen). Tagesbudget fuer 24.10. war bereits beim ersten Lauf des Tages gutgeschrieben, keine erneute Gutschrift. Kein neuer Katalysator fuer eine Krypto-Opportunity gefunden.",
+    "reasoning": "CoinGecko-API- und WebSearch-Recherche zu Krypto-Majors lieferte keine frischen, auf dieses Wochenende datierten Katalysatoren. Alle gescreenten Majors bewegen sich nur leicht negativ ohne Ausbruchssignal. Freies Kapital bleibt bei ca. 78.939 EUR, aber ohne ueberzeugende Gelegenheit kein Kauf.",
     "positionIds": [
       "pos-0018",
       "pos-0030"
     ],
-    "portfolioValueEnd": 1366.25,
+    "portfolioValueEnd": 1366.82,
     "updates": [
       {
         "time": "00:09",
@@ -10310,6 +10310,11 @@
         "time": "04:08",
         "note": "Keine Aenderung; BTC ueber CoinGecko-API aktualisiert (80.618 -> 80.851 USD, -4,92% seit Kauf pos-0018, leichte Erholung); Brent unveraendert (Markt uebers Wochenende geschlossen); Altcoin-Screening (ETH, SOL, XRP, AVAX, LINK, ADA, HBAR, BCH) ohne Ausbruchssignal; kein Trade",
         "portfolioValue": 1366.25
+      },
+      {
+        "time": "05:08",
+        "note": "Keine Aenderung; BTC ueber CoinGecko-API aktualisiert (80.851 -> 80.920 USD, -4,84% seit Kauf pos-0018, stabil); Brent unveraendert (Markt uebers Wochenende geschlossen); Krypto-Majors-Screening ohne Ausbruchssignal; kein Trade",
+        "portfolioValue": 1366.82
       }
     ]
   }
