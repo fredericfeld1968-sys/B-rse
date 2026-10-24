@@ -10277,14 +10277,14 @@
   },
   {
     "date": "2026-10-24",
-    "marketOverview": "Bitcoin bei 80.729 USD (-0,68% 24h, CoinGecko live) - ruhige Nacht zum Samstag ohne neuen Katalysator, leicht schwaecher als beim letzten Lauf. Auch andere Majors (ETH, SOL, XRP, AVAX, DOGE, QNT, ENA) nur im leichten Minus (-0,8% bis -3,8%), keine bestaetigte grosse Bewegung. Brent (ICE BZ=F) unveraendert bei 111,66 USD, Terminmarkt weiterhin uebers Wochenende geschlossen. Aktien, ETFs und Rohstoff-Boersen bleiben bis Montag geschlossen; nur Krypto handelbar.",
-    "decision": "Kein weiterer Trade. BTC (pos-0018) per CoinGecko-Live-API aktualisiert (80.729 USD, -5,06% seit Kauf) - naeherte sich damit etwas der Stop-Loss-Zone (-6,5 bis -7,5%), hat sie aber noch nicht erreicht, daher Position weiter gehalten. Brent (pos-0030) unveraendert (Markt geschlossen). Tagesbudget fuer 24.10. war bereits beim letzten Lauf gutgeschrieben, keine erneute Gutschrift. Kein neuer Katalysator fuer eine Krypto-Opportunity gefunden.",
-    "reasoning": "WebSearch-Recherche zu Krypto-Majors und Makro-/Geopolitik-Lage lieferte keinen frischen, gut bestaetigten Katalysator (\"gewoehnliche Wochenend-Ruhe\"). Einzige >5%-Bewegungen bei CoinGecko-Trending betrafen illiquide Kleinst-Token ohne fundamentalen Hintergrund (Pump-and-Dump-Risiko) und wurden bewusst nicht gehandelt. Freies Kapital bleibt bei ca. 78.938 EUR, aber ohne ueberzeugende Gelegenheit kein Kauf.",
+    "marketOverview": "Bitcoin erholt sich leicht auf 81.055 USD (CoinGecko live, -0,21% 24h) nach dem kurzen Ruecksetzer der letzten Stunde. Andere Majors (ETH, SOL, XRP, AVAX, HYPE, ENA) bewegen sich nur im niedrigen einstelligen Prozentbereich, keine bestaetigte grosse Bewegung. Trending-Coins zeigen nur einen illiquiden Mikro-Token (IRYS +265%) ohne fundamentalen Hintergrund (Pump-and-Dump-Risiko, bewusst nicht gehandelt). Brent (ICE BZ=F) unveraendert bei 111,66 USD, Terminmarkt uebers Wochenende geschlossen. Aktien, ETFs und Rohstoff-Boersen bleiben bis Montag geschlossen; nur Krypto handelbar.",
+    "decision": "Kein weiterer Trade. BTC (pos-0018) per CoinGecko-Live-API aktualisiert (81.055 USD, -4,68% seit Kauf) - leichte Erholung, weiterhin unterhalb der Stop-Loss-Zone (-6,5 bis -7,5%), Position weiter gehalten. Brent (pos-0030) unveraendert (Markt geschlossen). Tagesbudget fuer 24.10. war bereits beim ersten Lauf des Tages gutgeschrieben, keine erneute Gutschrift. Kein neuer Katalysator fuer eine Krypto-Opportunity gefunden.",
+    "reasoning": "WebSearch-Recherche zu Krypto-Majors und Geopolitik/Oelmarkt lieferte keine aktuellen, auf dieses Wochenende datierten Treffer und keinen frischen, gut bestaetigten Katalysator. CoinGecko-Trending zeigte nur einen illiquiden Kleinst-Token (IRYS) mit extremem Pump ohne fundamentalen Hintergrund - bewusst nicht gehandelt. Freies Kapital bleibt bei ca. 78.938 EUR, aber ohne ueberzeugende Gelegenheit kein Kauf.",
     "positionIds": [
       "pos-0018",
       "pos-0030"
     ],
-    "portfolioValueEnd": 1365.24,
+    "portfolioValueEnd": 1367.93,
     "updates": [
       {
         "time": "00:09",
@@ -10295,6 +10295,11 @@
         "time": "01:10",
         "note": "Keine Aenderung; BTC ueber CoinGecko-API aktualisiert (81.290 -> 80.729 USD, -5,06% seit Kauf pos-0018, noch nicht an Stop-Loss-Schwelle); Brent unveraendert (Markt uebers Wochenende geschlossen); kein neuer Katalysator, kein Trade",
         "portfolioValue": 1365.24
+      },
+      {
+        "time": "02:08",
+        "note": "Keine Aenderung; BTC ueber CoinGecko-API aktualisiert (80.729 -> 81.055 USD, -4,68% seit Kauf pos-0018, leichte Erholung); Brent unveraendert (Markt uebers Wochenende geschlossen); kein neuer Katalysator, kein Trade",
+        "portfolioValue": 1367.93
       }
     ]
   }
