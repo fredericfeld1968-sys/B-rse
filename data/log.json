@@ -10410,14 +10410,14 @@
   },
   {
     "date": "2026-10-25",
-    "marketOverview": "Sonntagabend: Boersen, ETFs und Rohstoff-Terminmaerkte weiterhin geschlossen, nur Krypto handelbar. Bitcoin notiert bei ca. 80.475 USD (24h praktisch unveraendert, -0,02%), auch Ethereum, Solana, XRP, Avalanche, Dogecoin, Chainlink und Cardano bewegen sich im 24h-Vergleich nur im niedrigen einstelligen Prozentbereich ohne klare Richtung. Kein frischer, mehrfach bestaetigter Ausbruchs- oder Breakdown-Katalysator auffindbar; Markt verharrt im Konsolidierungsmodus vor der FOMC-Entscheidung (27.-28.10.).",
+    "marketOverview": "Sonntagnacht: Boersen, ETFs und Rohstoff-Terminmaerkte weiterhin geschlossen, nur Krypto handelbar. Bitcoin notiert via CoinGecko bei ca. 80.414 USD (+0,18% 24h), Ethereum, Solana, XRP, Avalanche, Dogecoin, Chainlink und Cardano bewegen sich ebenfalls nur im niedrigen einstelligen Prozentbereich ohne klare Richtung. Kein frischer, mehrfach bestaetigter Ausbruchs- oder Breakdown-Katalysator auffindbar; Markt verharrt im Konsolidierungsmodus vor der FOMC-Entscheidung (27.-28.10.).",
     "decision": "Kein Trade ueber den gesamten Sonntag. Lediglich fortlaufende Kursaktualisierung der offenen BTC-Position (pos-0018); Brent-Position (pos-0030) bleibt wegen geschlossenem Wochenend-Terminmarkt unveraendert. Hohes freies Kapital (ca. 79.938 EUR) bleibt mangels ueberzeugender, frischer Gelegenheit weiterhin ungenutzt.",
-    "reasoning": "Breite Marktabfrage (CoinGecko-Live-API fuer BTC/ETH/SOL/XRP/AVAX/DOGE/LINK/ADA sowie Websuche zu Fed/FOMC-Vorberichten) zeigt durchgehend nur Bewegungen im niedrigen einstelligen Prozentbereich ohne erkennbaren frischen Trigger. Ohne einen mehrfach bestaetigten Ausbruchs- oder Breakdown-Katalysator wird passend zum spekulativen, aber disziplinierten Profil auf das naechste klare Signal gewartet statt ohne echten Anlass zu handeln.",
+    "reasoning": "Breite Marktabfrage (CoinGecko-Live-API fuer BTC/ETH/SOL/XRP/AVAX/DOGE/LINK/ADA) zeigt durchgehend nur Bewegungen im niedrigen einstelligen Prozentbereich ohne erkennbaren frischen Trigger. Ohne einen mehrfach bestaetigten Ausbruchs- oder Breakdown-Katalysator wird passend zum spekulativen, aber disziplinierten Profil auf das naechste klare Signal gewartet statt ohne echten Anlass zu handeln.",
     "positionIds": [
       "pos-0018",
       "pos-0030"
     ],
-    "portfolioValueEnd": 1363.4,
+    "portfolioValueEnd": 1362.9,
     "updates": [
       {
         "time": "00:08",
@@ -10528,6 +10528,11 @@
         "time": "21:09",
         "note": "Keine Aenderung; BTC ueber CoinGecko-API aktualisiert (80.501 -> 80.475 USD, -0,02% 24h, -5,36% seit Kauf pos-0018); breite Pruefung von ETH/SOL/XRP/AVAX/DOGE/LINK/ADA sowie FOMC-Vorberichterstattung ergab keinen frischen, mehrfach bestaetigten Katalysator; Brent unveraendert (Terminmarkt uebers Wochenende geschlossen); kein Trade",
         "portfolioValue": 1363.4
+      },
+      {
+        "time": "22:09",
+        "note": "Keine Aenderung; BTC ueber CoinGecko-API aktualisiert (80.475 -> 80.414 USD, -5,43% seit Kauf pos-0018); Brent unveraendert (Terminmarkt uebers Wochenende geschlossen); Kryptomarkt insgesamt flach (BTC/ETH/SOL/XRP/AVAX/DOGE/LINK/ADA alle <1% 24h), kein Ausbruchssignal, kein Trade",
+        "portfolioValue": 1362.9
       }
     ]
   }
