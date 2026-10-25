@@ -10410,14 +10410,14 @@
   },
   {
     "date": "2026-10-25",
-    "marketOverview": "Sonntagabend: Boersen, ETFs und Rohstoff-Terminmaerkte weiterhin geschlossen, nur Krypto handelbar. Bitcoin steht bei ca. 80.703 USD (+0,63% in 24h), weiterhin stabilisierte Seitwaertsbewegung nach dem Iran-Eskalations-Schock vom Wochenanfang. Kein frischer, mehrfach bestaetigter Ausbruchs- oder Breakdown-Katalysator auffindbar; Markt wartet auf FOMC (27.-28.10.).",
-    "decision": "Kein Trade ueber den gesamten Sonntag. Lediglich fortlaufende Kursaktualisierung der offenen BTC-Position (pos-0018); Brent-Position (pos-0030) bleibt wegen geschlossenem Wochenend-Terminmarkt unveraendert. Hohes freies Kapital bleibt mangels ueberzeugender, frischer Gelegenheit weiterhin ungenutzt.",
+    "marketOverview": "Sonntagabend: Boersen, ETFs und Rohstoff-Terminmaerkte weiterhin geschlossen, nur Krypto handelbar. Bitcoin notiert bei ca. 80.501 USD (24h nahezu unveraendert, ca. +0,05%), Altcoins (ETH, SOL, XRP) auf Wochensicht leicht schwaecher. Kein frischer, mehrfach bestaetigter Ausbruchs- oder Breakdown-Katalysator auffindbar (auch das vermeintliche XRP/Swell-Narrativ haelt bei genauer Pruefung nicht, da XRP-ETF-Vermoegen diese Woche sogar gefallen ist); Markt verharrt im Konsolidierungsmodus vor der FOMC-Entscheidung (27.-28.10.).",
+    "decision": "Kein Trade ueber den gesamten Sonntag. Lediglich fortlaufende Kursaktualisierung der offenen BTC-Position (pos-0018); Brent-Position (pos-0030) bleibt wegen geschlossenem Wochenend-Terminmarkt unveraendert. Hohes freies Kapital (ca. 79.938 EUR) bleibt mangels ueberzeugender, frischer Gelegenheit weiterhin ungenutzt.",
     "reasoning": "Der Iran-/Nahost-Schock vom Wochenanfang ist bereits eingepreist, BTC bewegt sich seit Stunden in enger Konsolidierung ohne neuen Katalysator. Ohne frischen, mehrfach bestaetigten Ausbruchs- oder Breakdown-Katalysator wird passend zum spekulativen, aber disziplinierten Profil auf das naechste klare Signal gewartet statt ohne echten Anlass zu handeln.",
     "positionIds": [
       "pos-0018",
       "pos-0030"
     ],
-    "portfolioValueEnd": 1365.28,
+    "portfolioValueEnd": 1363.62,
     "updates": [
       {
         "time": "00:08",
@@ -10518,6 +10518,11 @@
         "time": "19:08",
         "note": "Keine Aenderung; BTC ueber CoinGecko-API aktualisiert (80.734 -> 80.703 USD, +0,63% 24h, -5,09% seit Kauf pos-0018); kein frischer Katalysator gefunden (Websuche ohne neue Treiber), Markt wartet auf FOMC (27.-28.10.); Brent unveraendert (Terminmarkt uebers Wochenende geschlossen); kein Trade",
         "portfolioValue": 1365.28
+      },
+      {
+        "time": "20:08",
+        "note": "Keine Aenderung; BTC ueber CoinGecko-API aktualisiert (80.703 -> 80.501 USD, +0,05% 24h, -5,33% seit Kauf pos-0018); gezielte Recherche zu Altcoin-Katalysatoren (ETH/SOL/XRP/AVAX/DOGE) ergab keinen mehrfach bestaetigten, frischen Trigger (XRP/Swell-These haelt bei Pruefung nicht, da ETF-Vermoegen diese Woche fiel); Brent unveraendert (Terminmarkt uebers Wochenende geschlossen); kein Trade vor FOMC (27.-28.10.)",
+        "portfolioValue": 1363.62
       }
     ]
   }
