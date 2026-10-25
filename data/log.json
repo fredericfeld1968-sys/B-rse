@@ -10417,7 +10417,7 @@
       "pos-0018",
       "pos-0030"
     ],
-    "portfolioValueEnd": 1362.9,
+    "portfolioValueEnd": 1363.49,
     "updates": [
       {
         "time": "00:08",
@@ -10533,6 +10533,11 @@
         "time": "22:09",
         "note": "Keine Aenderung; BTC ueber CoinGecko-API aktualisiert (80.475 -> 80.414 USD, -5,43% seit Kauf pos-0018); Brent unveraendert (Terminmarkt uebers Wochenende geschlossen); Kryptomarkt insgesamt flach (BTC/ETH/SOL/XRP/AVAX/DOGE/LINK/ADA alle <1% 24h), kein Ausbruchssignal, kein Trade",
         "portfolioValue": 1362.9
+      },
+      {
+        "time": "23:08",
+        "note": "Keine Aenderung; BTC ueber CoinGecko-API aktualisiert (80.414 -> 80.486 USD, +0,13% 24h, -5,35% seit Kauf pos-0018); ETH/SOL/XRP/AVAX/DOGE/LINK/ADA/HYPE ebenfalls alle <1% 24h, kein Ausbruchs- oder Breakdown-Signal; Brent unveraendert (Terminmarkt uebers Wochenende geschlossen); kein Trade vor FOMC (27.-28.10.)",
+        "portfolioValue": 1363.49
       }
     ]
   }
