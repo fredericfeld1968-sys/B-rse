@@ -10540,5 +10540,23 @@
         "portfolioValue": 1363.49
       }
     ]
+  },
+  {
+    "date": "2026-10-26",
+    "marketOverview": "Montag 00:08 CET: Krypto- und Rohstoff-Terminmaerkte sind zur neuen Handelswoche bereits geoeffnet, Aktien/ETFs bleiben vor Boersenoeffnung geschlossen. Bitcoin notiert via CoinGecko-Live-API bei ca. 80.320 USD (-0,27% 24h), die groesseren Altcoins (ETH, SOL, XRP, AVAX, DOGE, LINK, ADA, HYPE) bewegen sich durchweg unter 1% ohne klares Richtungssignal. Brent Crude (ICE-Future, Yahoo Finance) ist zum Wochenstart bei rund 110,59 USD/Barrel leicht niedriger als der Freitagsschluss (111,70 USD), ohne neuen Eskalations- oder Deeskalationskatalysator rund um die Strasse von Hormuz. Markt bleibt im Wartemodus vor der FOMC-Sitzung (27.-28.10.).",
+    "decision": "Kein Trade. Tagesbudget fuer den 26.10. gutgeschrieben (+1.000 EUR); lediglich Kursaktualisierung der offenen Positionen BTC (pos-0018) und Brent (pos-0030, Terminmarkt zum Wochenstart wieder geoeffnet). Hohes freies Kapital (ca. 80.938 EUR) bleibt mangels ueberzeugender frischer Gelegenheit ungenutzt.",
+    "reasoning": "Breite Marktabfrage (CoinGecko-Live-API fuer BTC/ETH/SOL/XRP/AVAX/DOGE/LINK/ADA/HYPE, Yahoo-Finance-Future fuer Brent) zeigt durchgehend nur Bewegungen im niedrigen einstelligen Prozentbereich ohne erkennbaren frischen Ausbruchs- oder Breakdown-Katalysator. Ohne mehrfach bestaetigtes neues Signal wird passend zum spekulativen, aber disziplinierten Profil auf das naechste klare Signal gewartet, zumal kurz vor der FOMC-Entscheidung (27.-28.10.) erhoehte Volatilitaet droht.",
+    "positionIds": [
+      "pos-0018",
+      "pos-0030"
+    ],
+    "portfolioValueEnd": 1355.16,
+    "updates": [
+      {
+        "time": "00:08",
+        "note": "Tagesbudget fuer 26.10. gutgeschrieben (+1.000 EUR); BTC ueber CoinGecko-API aktualisiert (80.486 -> 80.320 USD, -5,54% seit Kauf pos-0018); Brent-Terminmarkt zum Wochenstart wieder geoeffnet, aktualisiert (111,70 -> 110,59 USD, -0,86% seit Kauf pos-0030); kein Ausbruchssignal, kein Trade vor FOMC (27.-28.10.)",
+        "portfolioValue": 1355.16
+      }
+    ]
   }
 ]
