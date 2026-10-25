@@ -10410,14 +10410,14 @@
   },
   {
     "date": "2026-10-25",
-    "marketOverview": "BTC notiert bei ca. 80.365 USD (CoinGecko, -5,49% seit Kauf pos-0018), weiterhin in enger Konsolidierung zwischen 80.000 und 85.000 USD vor der FOMC-Sitzung am 27.-28.10. ETF-Zufluesse zuletzt wieder leicht positiv (Bitfinex/Au79: Range 81.000-85.000 USD erwartet), Options-Verfall am 30.10. mit Max-Pain zwischen 76.000 und 79.000 USD je nach Quelle. Kein frischer Ausbruchs- oder Altcoin-Katalysator gefunden. Boersen/ETFs/Rohstoffe sonntags geschlossen, Brent-Terminmarkt pausiert weiterhin uebers Wochenende.",
-    "decision": "Keine neuen Trades heute. BTC-Position (pos-0018) und Brent-Position (pos-0030) bleiben unveraendert offen; BTC-Kurs mehrfach aktualisiert (zuletzt 80.365 USD, -5,49% seit Kauf), Brent unveraendert wegen Wochenend-Handelspause.",
-    "reasoning": "Kein ueberzeugender neuer Katalysator fuer Krypto gefunden (WebSearch zu aktuellen Marktdaten und FOMC-Ausblick zeigt nur Konsolidierung in enger Spanne vor der Fed-Entscheidung); BTC-Verlust (-5,49%) liegt weiterhin unter der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%), daher kein Verkauf. Aktien/ETFs/Rohstoffe sonntags nicht handelbar.",
+    "marketOverview": "BTC notiert bei ca. 80.279 USD (CoinGecko, -5,59% seit Kauf pos-0018), weiterhin in enger Konsolidierung zwischen 80.000 und 85.000 USD vor der FOMC-Sitzung am 27.-28.10. Altcoin-Markt insgesamt schwach: Solana-ETFs verzeichnen fuenf Handelstage in Folge Abfluesse (-30,3 Mio. USD), SOL faellt auf ca. 100-102 USD (schwaechster Large-Cap der Woche); XRP-ETF-Fluesse neutral vor mehreren SEC-Entscheidungsterminen (u.a. WisdomTree 24.10.), XRP bei ca. 1,29-1,30 USD (-17% im Monatsvergleich). Bitcoin-ETFs insgesamt mit leichten Nettoabfluessen im Oktober nach kurzer Erholung am 19.10. Kein frischer Ausbruchs- oder institutioneller Katalysator gefunden. Boersen/ETFs/Rohstoffe sonntags geschlossen, Brent-Terminmarkt pausiert weiterhin uebers Wochenende.",
+    "decision": "Keine neuen Trades heute. BTC-Position (pos-0018) und Brent-Position (pos-0030) bleiben unveraendert offen; BTC-Kurs mehrfach aktualisiert (zuletzt 80.279 USD, -5,59% seit Kauf), Brent unveraendert wegen Wochenend-Handelspause.",
+    "reasoning": "Kein ueberzeugender neuer Katalysator fuer Krypto gefunden (WebSearch und CoinGecko-Livedaten zeigen nur eine insgesamt schwache, konsolidierende Altcoin-Lage vor der Fed-Entscheidung, Solana- und XRP-ETF-Fluesse eher negativ/neutral); BTC-Verlust (-5,59%) liegt weiterhin unter der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%), daher kein Verkauf. Aktien/ETFs/Rohstoffe sonntags nicht handelbar, daher auch kein Neukauf trotz hohem freiem Kapital (~79.938 EUR).",
     "positionIds": [
       "pos-0018",
       "pos-0030"
     ],
-    "portfolioValueEnd": 1362.5,
+    "portfolioValueEnd": 1361.79,
     "updates": [
       {
         "time": "00:08",
@@ -10493,6 +10493,11 @@
         "time": "14:11",
         "note": "Keine Aenderung; BTC ueber CoinGecko-API aktualisiert (80.460 -> 80.365 USD, -5,49% seit Kauf pos-0018); Brent unveraendert (Terminmarkt uebers Wochenende geschlossen); weiterhin enge Konsolidierung vor FOMC (27.-28.10.), kein Ausbruchs- oder Altcoin-Katalysator gefunden, kein Trade",
         "portfolioValue": 1362.5
+      },
+      {
+        "time": "15:08",
+        "note": "Keine Aenderung; BTC ueber CoinGecko-API aktualisiert (80.365 -> 80.279 USD, -5,59% seit Kauf pos-0018); Solana-/XRP-ETF-Fluesse schwach bis neutral, kein neuer Ausbruchs- oder institutioneller Katalysator gefunden; Brent unveraendert (Terminmarkt uebers Wochenende geschlossen); kein Trade trotz hohem freiem Kapital vor FOMC (27.-28.10.)",
+        "portfolioValue": 1361.79
       }
     ]
   }
