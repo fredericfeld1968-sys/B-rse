@@ -725,7 +725,7 @@
       {
         "time": "19:11",
         "note": "Keine Aenderung; Gold auf ca. 4.432 USD/+3,60% aktualisiert. CPI-Reaktion bestaetigt sich mit moderatem Anstieg der US-Indizes (S&P +0,30%, Nasdaq +0,59%), Nebius (+16,5%) und der Cerebras-Margenausblick sind Momentum-/Bewertungs-News ohne klares Dip-Setup. Bitcoin ~64.200 USD und Solana ~75,9-76,2 USD weiterhin unter ihren Widerstandszonen - kein neuer Kauf trotz freiem Kapital von ca. 7.460,66 EUR",
-        "portfolioValue": 518.0
+        "portfolioValue": 518
       },
       {
         "time": "20:13",
@@ -1260,7 +1260,7 @@
       {
         "time": "07:19",
         "note": "Keine Aenderung; Gold weiter erholt (~4.432,00 USD/+3,60%). Bitcoin weiterhin ~63.000 USD unter Widerstand, Ethereum kaempft um 1.900 USD, Solana ~75-76 USD unter Widerstand 77,37 USD. Citigroup senkt Bitcoin-Kursziel (112.000 -> 82.000 USD), SEC verschiebt Abstimmung zu Krypto-Startup-Regeln - kein ueberzeugender Katalysator, Aktien/ETFs/Rohstoffe vor Boersenoeffnung nicht handelbar, daher kein neuer Kauf",
-        "portfolioValue": 518.0
+        "portfolioValue": 518
       },
       {
         "time": "08:28",
@@ -1596,7 +1596,7 @@
       {
         "time": "21:08",
         "note": "Bestaetigter Krypto-Ausbruch nach US-Anleihe-Rueckkauf-Ankuendigung und Krypto-Gipfel im Weissen Haus: Kauf Bitcoin 500 EUR (Einstieg 68.567,52 USD) und Kauf Solana 500 EUR (Einstieg 81,20 USD). Gold aktualisiert (~4.355 USD/+1,80%), weiterhin gehalten. Depotwert jetzt 1.509,00 EUR, freies Kapital ca. 13.460,66 EUR",
-        "portfolioValue": 1509.0
+        "portfolioValue": 1509
       },
       {
         "time": "22:08",
@@ -2766,7 +2766,7 @@
       {
         "time": "20:11",
         "note": "Keine Aenderung; NVDA auf 226,63 USD aktualisiert (-1,1%), Markt nach Warsh-Rede leicht negativ. Bitcoin knapp unter 80.000 USD, Solana weiterhin tief ueberkauft (RSI 78-88) - kein Trade",
-        "portfolioValue": 989.0
+        "portfolioValue": 989
       },
       {
         "time": "21:09",
@@ -4367,7 +4367,7 @@
       {
         "time": "22:10",
         "note": "Keine Aenderung, NVDA-Kurs leicht zurueck (-2,09%), BRENT leicht zurueck (+2,15%), XRP/SOL/META unveraendert.",
-        "portfolioValue": 3222.0
+        "portfolioValue": 3222
       },
       {
         "time": "23:08",
@@ -5202,7 +5202,7 @@
       {
         "time": "00:08",
         "note": "Keine Aenderung, Tagesbudget +1000 EUR gutgeschrieben (freies Kapital jetzt 40.688,26 EUR). SOL auf 99,80 USD (-2,50% seit Kauf) im Zuge der allgemeinen Krypto-Schwaeche nach gescheitertem CLARITY-Act-Votum aktualisiert, XRP (1,40 USD, +2,19%) unveraendert. META und BRENT unveraendert (Maerkte geschlossen bzw. nahezu flach). Kein ueberzeugender Trade vor der FOMC-Entscheidung (16.09.), Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten.",
-        "portfolioValue": 2216.0
+        "portfolioValue": 2216
       },
       {
         "time": "01:08",
@@ -5346,7 +5346,7 @@
       {
         "time": "02:08",
         "note": "Keine Aenderung. META 664,49 USD (+2,88%), SOL 97,80 USD (-4,45%) und BRENT 108,22 USD (+0,67%, Erholung nach teilweiser Saudi-Pipeline-Reparatur) aktualisiert. Kein Trade: Aktien/ETFs/Rohstoffe nachts nicht handelbar, Kryptomarkt bleibt nach gescheitertem CLARITY-Act-Votum und hawkischer Fed ohne ueberzeugendes Setup.",
-        "portfolioValue": 1699.0
+        "portfolioValue": 1699
       },
       {
         "time": "03:08",
@@ -5618,7 +5618,7 @@
       {
         "time": "03:08",
         "note": "Keine Aenderung. BTC auf 81.100 USD (+0,12%) aktualisiert, META unveraendert (Wochenende). Kein Trade: keine neue ueberzeugende Gelegenheit.",
-        "portfolioValue": 1431.0
+        "portfolioValue": 1431
       },
       {
         "time": "04:07",
@@ -5688,7 +5688,7 @@
       {
         "time": "17:08",
         "note": "Keine Aenderung. BTC auf ca. 81.300 USD (+0,37%) aktualisiert, META unveraendert (Wochenende, +3,51%). Kein Trade: Altcoin-/Layer-2-Rally und Zcash-Privacy-Rally bereits mehrfach gehandelte Bewegungen ohne frischen Katalysator.",
-        "portfolioValue": 1424.0
+        "portfolioValue": 1424
       },
       {
         "time": "18:08",
@@ -5912,7 +5912,7 @@
       {
         "time": "08:12",
         "note": "Keine Aenderung. BTC auf ca. 81.200 USD aktualisiert (+0,25%), META unveraendert (668,55 USD, Boersen weiterhin geschlossen). Kein Trade: Altcoin Season Index nur leicht gestiegen (46), keine neuen mehrfach bestaetigten Katalysatoren.",
-        "portfolioValue": 1423.0
+        "portfolioValue": 1423
       },
       {
         "time": "09:08",
@@ -6621,7 +6621,7 @@
       {
         "time": "14:09",
         "note": "Keine Aenderung. Kursupdate BTC/HYPE/ENA (BTC 84.000, HYPE 91,53, ENA 0,2724 nach DeFi-getriebener Rally), BCH unveraendert bei 342,18. Alle offenen Positionen weiterhin im Halteband, kein Katalysator stark genug fuer Kauf oder Verkauf.",
-        "portfolioValue": 3130.0
+        "portfolioValue": 3130
       },
       {
         "time": "15:08",
@@ -7416,7 +7416,7 @@
       {
         "time": "07:08",
         "note": "Keine Aenderung, Kursupdate BTC (84.800 USD)/LINK (14,43 USD), keine neue ueberzeugende Gelegenheit",
-        "portfolioValue": 2209.0
+        "portfolioValue": 2209
       },
       {
         "time": "08:09",
@@ -7964,7 +7964,7 @@
       {
         "time": "09:20",
         "note": "Keine Aenderung, Kursupdate BTC (86.436 USD, +2,1% 24h)/SOL (118,50 USD, -1,6% 24h)/ADA (0,2705 USD) via Web-Recherche, TSLA ausserhalb der Handelszeiten (US-Markt oeffnet erst 15:30 MESZ) unveraendert bei 368,00 USD; keine frischen, mehrfach bestaetigten Katalysatoren gefunden - kein Trade",
-        "portfolioValue": 2714.0
+        "portfolioValue": 2714
       },
       {
         "time": "10:08",
@@ -9410,7 +9410,7 @@
       {
         "time": "10:08",
         "note": "Keine Aenderung; BTC-Kursupdate (CoinGecko live: 81.634 USD, -0,72% 24h, -4,00% seit Kauf bei 85.035 USD); kein Stop-Loss, kein Take-Profit erreicht; keine frische bestaetigte Katalysator-Nachricht fuer Altcoins; Wochenende, nur Krypto handelbar; trotz freiem Kapital von ca. 72.638 EUR keine neue Position.",
-        "portfolioValue": 672.0
+        "portfolioValue": 672
       },
       {
         "time": "11:10",
@@ -9577,7 +9577,7 @@
       {
         "time": "17:08",
         "note": "Keine Aenderung; BTC-Kursupdate (81.512 USD, -4,14% seit Kauf); Markt leicht risk-off (hohe US-Inflationsdaten/PPI, ~937 Mio USD Liquidationen, Bitcoin-ETF-Abfluesse rd. 152 Mio USD), aber innerhalb der etablierten Range und ohne neuen bestaetigten Katalysator; kein neuer Trade",
-        "portfolioValue": 671.0
+        "portfolioValue": 671
       },
       {
         "time": "18:09",
@@ -9812,7 +9812,7 @@
       {
         "time": "11:09",
         "note": "Kein Trade, BTC-Kursupdate (CoinGecko-API: 81.391 USD, -1,6% 24h, -4,29% seit Kauf); Top-50-Scan ohne ueberzeugende bestaetigte Bewegung (staerkste Mover WLD +6%, XMR +4% ohne aktuellen, verlaesslichen Katalysator), Gold leicht schwaecher, Brent (~111 USD/Barrel) weiterhin ohne frischen Trigger, europaeische Boersen offen aber ohne passenden bestaetigten Katalysator im Risikoprofil",
-        "portfolioValue": 670.0
+        "portfolioValue": 670
       },
       {
         "time": "12:09",
@@ -9915,7 +9915,7 @@
       {
         "time": "05:08",
         "note": "Keine Aenderung; BTC-Kursupdate (82.730 USD, +1,05% 24h, -2,71% seit Kauf), Brent-Kursupdate (110,43 USD, +1,51% Tagesplus, -1,00% seit Kauf); ZEC fuehrt Mover weiterhin an (+10,5%) ohne frischen Katalysator; kein ueberzeugender Trade, nachts nur Krypto/Brent-Futures handelbar",
-        "portfolioValue": 1374.0
+        "portfolioValue": 1374
       },
       {
         "time": "06:08",
@@ -10410,14 +10410,14 @@
   },
   {
     "date": "2026-10-25",
-    "marketOverview": "BTC notiert bei ca. 80.279 USD (CoinGecko, -5,59% seit Kauf pos-0018), weiterhin in enger Konsolidierung zwischen 80.000 und 85.000 USD vor der FOMC-Sitzung am 27.-28.10. Altcoin-Markt insgesamt schwach: Solana-ETFs verzeichnen fuenf Handelstage in Folge Abfluesse (-30,3 Mio. USD), SOL faellt auf ca. 100-102 USD (schwaechster Large-Cap der Woche); XRP-ETF-Fluesse neutral vor mehreren SEC-Entscheidungsterminen (u.a. WisdomTree 24.10.), XRP bei ca. 1,29-1,30 USD (-17% im Monatsvergleich). Bitcoin-ETFs insgesamt mit leichten Nettoabfluessen im Oktober nach kurzer Erholung am 19.10. Kein frischer Ausbruchs- oder institutioneller Katalysator gefunden. Boersen/ETFs/Rohstoffe sonntags geschlossen, Brent-Terminmarkt pausiert weiterhin uebers Wochenende.",
-    "decision": "Keine neuen Trades heute. BTC-Position (pos-0018) und Brent-Position (pos-0030) bleiben unveraendert offen; BTC-Kurs mehrfach aktualisiert (zuletzt 80.279 USD, -5,59% seit Kauf), Brent unveraendert wegen Wochenend-Handelspause.",
-    "reasoning": "Kein ueberzeugender neuer Katalysator fuer Krypto gefunden (WebSearch und CoinGecko-Livedaten zeigen nur eine insgesamt schwache, konsolidierende Altcoin-Lage vor der Fed-Entscheidung, Solana- und XRP-ETF-Fluesse eher negativ/neutral); BTC-Verlust (-5,59%) liegt weiterhin unter der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%), daher kein Verkauf. Aktien/ETFs/Rohstoffe sonntags nicht handelbar, daher auch kein Neukauf trotz hohem freiem Kapital (~79.938 EUR).",
+    "marketOverview": "Sonntagnachmittag: Boersen und Rohstoff-Terminmaerkte geschlossen, nur Krypto handelbar. Bitcoin pendelt leicht erholt um 80.600 USD (+1% in 24h), ohne klaren Ausbruch. Maerkte bleiben in enger Konsolidierung vor der FOMC-Sitzung am 27.-28.10., kein ueberzeugender neuer Katalysator in Aktien, ETFs, Krypto oder Rohstoffen.",
+    "decision": "Kein Trade ueber den gesamten Sonntag. Lediglich fortlaufende Kursaktualisierung der offenen BTC-Position (pos-0018); Brent-Position (pos-0030) bleibt wegen geschlossenem Wochenend-Terminmarkt unveraendert. Hohes freies Kapital bleibt mangels ueberzeugender Gelegenheit ungenutzt.",
+    "reasoning": "Ohne Boersenzeiten fuer Aktien/ETFs/Rohstoffe und ohne bestaetigten Krypto-Ausbruch wird passend zum spekulativen, aber disziplinierten Profil auf das naechste klare Signal gewartet statt ohne Katalysator zu handeln.",
     "positionIds": [
       "pos-0018",
       "pos-0030"
     ],
-    "portfolioValueEnd": 1361.79,
+    "portfolioValueEnd": 1364.6,
     "updates": [
       {
         "time": "00:08",
@@ -10498,6 +10498,11 @@
         "time": "15:08",
         "note": "Keine Aenderung; BTC ueber CoinGecko-API aktualisiert (80.365 -> 80.279 USD, -5,59% seit Kauf pos-0018); Solana-/XRP-ETF-Fluesse schwach bis neutral, kein neuer Ausbruchs- oder institutioneller Katalysator gefunden; Brent unveraendert (Terminmarkt uebers Wochenende geschlossen); kein Trade trotz hohem freiem Kapital vor FOMC (27.-28.10.)",
         "portfolioValue": 1361.79
+      },
+      {
+        "time": "16:09",
+        "note": "Keine Aenderung; BTC ueber CoinGecko-API aktualisiert (80.279 -> 80.620 USD, +1,05% 24h, -5,19% seit Kauf pos-0018); Brent unveraendert (Terminmarkt uebers Wochenende geschlossen); keine bestaetigten neuen Ausbruchs- oder Altcoin-Katalysatoren gefunden, weiterhin enge Konsolidierung vor FOMC (27.-28.10.), kein Trade",
+        "portfolioValue": 1364.6
       }
     ]
   }
