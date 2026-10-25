@@ -10410,14 +10410,14 @@
   },
   {
     "date": "2026-10-25",
-    "marketOverview": "Sonntagnachmittag: Boersen und Rohstoff-Terminmaerkte geschlossen, nur Krypto handelbar. Bitcoin pendelt leicht erholt um 80.600 USD (+1% in 24h), ohne klaren Ausbruch. Maerkte bleiben in enger Konsolidierung vor der FOMC-Sitzung am 27.-28.10., kein ueberzeugender neuer Katalysator in Aktien, ETFs, Krypto oder Rohstoffen.",
-    "decision": "Kein Trade ueber den gesamten Sonntag. Lediglich fortlaufende Kursaktualisierung der offenen BTC-Position (pos-0018); Brent-Position (pos-0030) bleibt wegen geschlossenem Wochenend-Terminmarkt unveraendert. Hohes freies Kapital bleibt mangels ueberzeugender Gelegenheit ungenutzt.",
-    "reasoning": "Ohne Boersenzeiten fuer Aktien/ETFs/Rohstoffe und ohne bestaetigten Krypto-Ausbruch wird passend zum spekulativen, aber disziplinierten Profil auf das naechste klare Signal gewartet statt ohne Katalysator zu handeln.",
+    "marketOverview": "Sonntagabend: Boersen, ETFs und Rohstoff-Terminmaerkte weiterhin geschlossen, nur Krypto handelbar. Bitcoin steht bei ca. 80.539 USD (+1,07% in 24h), stabilisiert nach dem Rueckgang vom Freitag/Samstag (Iran-Eskalationssorgen: US evakuiert Botschaftspersonal im Nahen Osten laut WSJ/CoinDesk). Der akute Schock ist eingepreist, kein neuer Katalysator in den letzten Stunden. FOMC (27.-28.10.) bleibt der naechste grosse Termin; Zinssenkung laut Kalshi/Polymarket praktisch ausgeschlossen (Hold-Basisfall, steigende Hike-Wahrscheinlichkeit), zusaetzlich belasten anhaltende Spot-BTC-ETF-Abflüsse (~910 Mio. USD in zwei Wochen) leicht.",
+    "decision": "Kein Trade ueber den gesamten Sonntag. Lediglich fortlaufende Kursaktualisierung der offenen BTC-Position (pos-0018); Brent-Position (pos-0030) bleibt wegen geschlossenem Wochenend-Terminmarkt unveraendert. Hohes freies Kapital bleibt mangels ueberzeugender, frischer Gelegenheit weiterhin ungenutzt.",
+    "reasoning": "Der Iran-/Nahost-Schock vom Freitag/Samstag ist bereits eingepreist und keine aktiv laufende Bewegung mehr (Preis stabilisiert/leicht erholt); ein hawkishes Fed-Repricing vor der FOMC-Sitzung ist ein Gegenwind, kein Handelssignal. Ohne frischen, mehrfach bestaetigten Ausbruchs- oder Breakdown-Katalysator wird passend zum spekulativen, aber disziplinierten Profil auf das naechste klare Signal gewartet statt ohne echten Anlass zu handeln.",
     "positionIds": [
       "pos-0018",
       "pos-0030"
     ],
-    "portfolioValueEnd": 1364.6,
+    "portfolioValueEnd": 1363.93,
     "updates": [
       {
         "time": "00:08",
@@ -10503,6 +10503,11 @@
         "time": "16:09",
         "note": "Keine Aenderung; BTC ueber CoinGecko-API aktualisiert (80.279 -> 80.620 USD, +1,05% 24h, -5,19% seit Kauf pos-0018); Brent unveraendert (Terminmarkt uebers Wochenende geschlossen); keine bestaetigten neuen Ausbruchs- oder Altcoin-Katalysatoren gefunden, weiterhin enge Konsolidierung vor FOMC (27.-28.10.), kein Trade",
         "portfolioValue": 1364.6
+      },
+      {
+        "time": "17:10",
+        "note": "Keine Aenderung; BTC ueber CoinGecko-API aktualisiert (80.620 -> 80.539 USD, +1,07% 24h, -5,29% seit Kauf pos-0018); kein frischer Katalysator seit dem Iran-Eskalations-Schock vom Wochenanfang, Markt stabilisiert vor FOMC (27.-28.10.); Brent unveraendert (Terminmarkt uebers Wochenende geschlossen); kein Trade",
+        "portfolioValue": 1363.93
       }
     ]
   }
