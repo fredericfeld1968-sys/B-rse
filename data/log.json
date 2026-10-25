@@ -10417,7 +10417,7 @@
       "pos-0018",
       "pos-0030"
     ],
-    "portfolioValueEnd": 1363.93,
+    "portfolioValueEnd": 1365.53,
     "updates": [
       {
         "time": "00:08",
@@ -10508,6 +10508,11 @@
         "time": "17:10",
         "note": "Keine Aenderung; BTC ueber CoinGecko-API aktualisiert (80.620 -> 80.539 USD, +1,07% 24h, -5,29% seit Kauf pos-0018); kein frischer Katalysator seit dem Iran-Eskalations-Schock vom Wochenanfang, Markt stabilisiert vor FOMC (27.-28.10.); Brent unveraendert (Terminmarkt uebers Wochenende geschlossen); kein Trade",
         "portfolioValue": 1363.93
+      },
+      {
+        "time": "18:10",
+        "note": "Keine Aenderung; BTC ueber CoinGecko-API aktualisiert (80.539 -> 80.734 USD, +0,73% 24h, -5,06% seit Kauf pos-0018); ENA (+10%) und QNT (+6,3%) im 24h-Screening auffaellig, aber kein frisch datierter, mehrfach bestaetigter Katalysator auffindbar (nur bereits eingepreiste Altstories), daher kein Trade; Brent unveraendert (Terminmarkt uebers Wochenende geschlossen)",
+        "portfolioValue": 1365.53
       }
     ]
   }
