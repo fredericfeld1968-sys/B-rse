@@ -10410,14 +10410,14 @@
   },
   {
     "date": "2026-10-25",
-    "marketOverview": "BTC notiert bei ca. 80.700 USD, nahezu unveraendert zum Vortag; US-Spot-BTC-ETFs verzeichneten am 22./23.10. Nettoabfluesse von zusammen rund 746 Mio USD (grosster Tagesabfluss seit Juni), waehrend einige grosse Wallets seit Anfang Oktober BTC akkumulieren (gemischtes Signal). Kein bestaetigter Ausbruchskatalysator fuer Altcoins; Markt verharrt vor der FOMC-Sitzung am 27.-28.10. in enger Spanne. Boersen/ETFs/Rohstoffe sonntags geschlossen, Brent-Terminmarkt pausiert uebers Wochenende.",
-    "decision": "Keine neuen Trades heute bislang. BTC-Position (pos-0018) und Brent-Position (pos-0030) bleiben unveraendert offen; BTC-Kurs mehrfach aktualisiert, Brent unveraendert wegen Wochenend-Handelspause.",
-    "reasoning": "Kein ueberzeugender neuer Katalysator fuer Krypto gefunden; die ETF-Abfluesse sind ein leicht negatives Signal, aber kein starker Trigger, waehrend die berichtete Whale-Akkumulation dem entgegensteht - insgesamt uneindeutig. BTC-Verlust (-5,10%) liegt weiterhin unter der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%), daher kein Verkauf. Aktien/ETFs/Rohstoffe sonntags nicht handelbar.",
+    "marketOverview": "BTC notiert bei ca. 80.261 USD (CoinGecko), -0,33% in 24h, damit nahezu unveraendert zum Vortag. Kein neuer Ausbruchs- oder Breakdown-Katalysator fuer Krypto gefunden; auch eine gezielte Suche zu FOMC-Erwartungen (Sitzung 27.-28.10.) lieferte keine frischen, aktuellen Berichte. Markt verharrt in enger Spanne vor der Fed-Entscheidung. Boersen/ETFs/Rohstoffe sonntags geschlossen, Brent-Terminmarkt pausiert uebers Wochenende.",
+    "decision": "Keine neuen Trades heute. BTC-Position (pos-0018) und Brent-Position (pos-0030) bleiben unveraendert offen; BTC-Kurs mehrfach aktualisiert (zuletzt 80.261 USD, -5,61% seit Kauf), Brent unveraendert wegen Wochenend-Handelspause.",
+    "reasoning": "Kein ueberzeugender neuer Katalysator fuer Krypto gefunden (WebSearch zu aktuellen Marktdaten und FOMC-Ausblick lieferte nur veraltete/irrelevante Treffer); BTC-Verlust (-5,61%) liegt weiterhin unter der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%), daher kein Verkauf. Aktien/ETFs/Rohstoffe sonntags nicht handelbar.",
     "positionIds": [
       "pos-0018",
       "pos-0030"
     ],
-    "portfolioValueEnd": 1365.25,
+    "portfolioValueEnd": 1361.64,
     "updates": [
       {
         "time": "00:08",
@@ -10473,6 +10473,11 @@
         "time": "10:10",
         "note": "Keine Aenderung; BTC ueber CoinGecko-API aktualisiert (80.564 -> 80.700 USD, -5,10% seit Kauf pos-0018); ETF-Outflows (BTC-Spot-ETFs -635,6 Mio USD am 22.10., -110,3 Mio USD IBIT am 23.10.) leicht belastend, aber kein frischer Ausbruchs- oder Breakdown-Katalysator fuer Krypto; Brent unveraendert (Terminmarkt uebers Wochenende geschlossen); kein Trade vor FOMC (27.-28.10.)",
         "portfolioValue": 1365.25
+      },
+      {
+        "time": "11:08",
+        "note": "Keine Aenderung; BTC ueber CoinGecko-API aktualisiert (80.700 -> 80.261 USD, -5,61% seit Kauf pos-0018); Brent unveraendert (Terminmarkt uebers Wochenende geschlossen); kein neuer Katalysator gefunden, kein Trade vor FOMC (27.-28.10.)",
+        "portfolioValue": 1361.64
       }
     ]
   }
