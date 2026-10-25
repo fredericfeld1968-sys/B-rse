@@ -10410,14 +10410,14 @@
   },
   {
     "date": "2026-10-25",
-    "marketOverview": "Bitcoin notiert laut CoinGecko-API bei ca. 80.836 USD, der breite Kryptomarkt bleibt weiterhin flach im Vorfeld der FOMC-Sitzung am 27.-28.10. (Markt erwartet ueberwiegend Zinspause). Aktien, ETFs und Rohstoffe bleiben in der Nacht auf Sonntag ausserhalb der Handelszeiten; der Brent-Terminmarkt oeffnet erst Sonntagabend wieder.",
-    "decision": "Kein Trade. Tagesbudget fuer 25.10. war bereits um 00:08 gutgeschrieben (totalFreshCapitalEur unveraendert bei 82.000 EUR). BTC (pos-0018) per CoinGecko-API aktualisiert (80.775 -> 80.836 USD, -4,94% seit Kauf). Brent (pos-0030) unveraendert (111,70 USD, +0,13% seit Kauf, Terminmarkt uebers Wochenende geschlossen). Kryptomarkt weiterhin flach ohne einzeltitelspezifischen Ausbruchskatalysator (WebSearch lieferte keine tagesaktuellen Treffer fuer den 25.10.), daher kein neuer Trade.",
-    "reasoning": "CoinGecko-Live-Check (BTC) zeigt weiterhin ein flaches Bild (80.836 USD, kaum Bewegung ggue. letztem Check) ohne erkennbaren einzeltitelspezifischen Breakout-Katalysator; WebSearch zu aktuellen Krypto-Nachrichten liefert keine tagesaktuellen, datierten Treffer fuer den 25.10.2026 und damit keinen handelsrelevanten neuen Impuls vor der FOMC-Sitzung (27.-28.10.). Passend zum spekulativen Kurzfrist-Profil wird an bestehenden Positionen festgehalten und keine neue Position eroeffnet.",
+    "marketOverview": "BTC notiert bei ca. 80.510 USD (-0,34% 24h), weiterhin seitwaerts vor der FOMC-Sitzung am 28.10.; Polymarket-Wahrscheinlichkeit fuer keine Zinsaenderung laut Finbold zuletzt bei rund 87%. Kryptomarkt insgesamt in Konsolidierungsphase ohne neue Ausbruchskatalysatoren. Boersen/ETFs/Rohstoffe sonntags geschlossen; Brent-Terminmarkt pausiert uebers Wochenende.",
+    "decision": "Keine neuen Trades heute bislang. BTC-Position (pos-0018) und Brent-Position (pos-0030) bleiben unverändert offen; BTC-Kurs mehrfach aktualisiert, Brent unveraendert wegen Wochenend-Handelspause.",
+    "reasoning": "Kein ueberzeugender neuer Katalysator fuer Krypto gefunden; Markt wartet auf FOMC-Entscheidung am 28.10. BTC-Verlust (-5,32%) liegt noch unter der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%), daher kein Verkauf. Aktien/ETFs/Rohstoffe sonntags nicht handelbar.",
     "positionIds": [
       "pos-0018",
       "pos-0030"
     ],
-    "portfolioValueEnd": 1366.37,
+    "portfolioValueEnd": 1363.69,
     "updates": [
       {
         "time": "00:08",
@@ -10458,6 +10458,11 @@
         "time": "06:08",
         "note": "Keine Aenderung; BTC ueber CoinGecko-API aktualisiert (80.775 -> 80.836 USD, -4,94% seit Kauf pos-0018); Brent unveraendert (Terminmarkt uebers Wochenende geschlossen); Kryptomarkt weiterhin flach vor FOMC, kein Ausbruchssignal, kein Trade",
         "portfolioValue": 1366.37
+      },
+      {
+        "time": "08:08",
+        "note": "Keine Aenderung; BTC ueber CoinGecko-API aktualisiert (80.836 -> 80.510 USD, -5,32% seit Kauf pos-0018); Brent unveraendert (Terminmarkt uebers Wochenende geschlossen); Kryptomarkt weiterhin konsolidiert vor FOMC, kein Ausbruchssignal, kein Trade",
+        "portfolioValue": 1363.69
       }
     ]
   }
