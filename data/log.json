@@ -10543,14 +10543,14 @@
   },
   {
     "date": "2026-10-26",
-    "marketOverview": "Montag 21:10 CET: US-Boersen haben soeben geschlossen (Nasdaq +0,82%, S&P 500 +0,70%, Dow +0,28%), getragen von Anthropics IPO-Filing (Tech-Rally) und nachlassenden Oelpreisen vor der FOMC-Sitzung am 27.-28.10. und einer grossen Tech-Earnings-Woche (Alphabet, Microsoft, Amazon). Einzeltitel wie Tesla (+5,2% auf 391,62 USD, Barclays-Upgrade/SpaceX-Fusionsspekulation) und mehrere Erdoelfirmen (SLB, Eni) legten nach Zahlen deutlich zu, die Bewegungen sind aber bereits beim Handelsschluss ausgereizt bzw. abgeschlossen. Bitcoin faellt weiter leicht auf 79.835 USD (CoinGecko-API, -0,81% in 24h, -6,12% seit Kauf pos-0018) und naehert sich der Stop-Loss-Zone (-6,5 bis -7,5%), ohne sie zu erreichen. Brent Crude bei 110,48 USD (Investing.com Live-Quote, -0,96% seit Kauf pos-0030), leicht nachgebend.",
-    "decision": "Kein Trade. Tagesbudget fuer den 26.10. bereits beim ersten Lauf des Tages gutgeschrieben, keine erneute Gutschrift. US-Aktienmarkt hat soeben geschlossen (16:00 ET) - der frische Tesla/SLB/Eni-Katalysator ist bereits vollstaendig eingepreist und ausserhalb der Handelszeit nicht mehr handelbar. BTC (pos-0018) bei -6,12% naeher an, aber noch unterhalb der Stop-Loss-Schwelle, kein Verkauf. Brent (pos-0030) bei -0,96% nahezu unveraendert, weit von Stop-Loss und Ziel-Gewinnspanne (7-9%) entfernt, kein Verkauf. Trotz hohem freiem Kapital (ca. 80.938 EUR) mangels einer ausserhalb der US-Handelszeit handelbaren, ueberzeugenden Krypto-Gelegenheit keine Neuposition.",
-    "reasoning": "Websuche zeigt einen klaren, mehrfach unabhaengig bestaetigten Tagestrend (TheStreet, Yahoo Finance, Fool.com): Tech-Rally durch Anthropic-IPO-Filing, Tesla +5,2% nach Barclays-Upgrade (370->450 USD) mit SpaceX-Fusionsspekulation, mehrere Energie-/Bankwerte (SLB, First Citizens, Eni, Nokia) nach Zahlen im Plus. Da der US-Kassamarkt laut Yahoo-Finance-Live-Quote (TSLA-Schlusskurs 16:00 EDT = 22:00 CET) bereits geschlossen ist bzw. unmittelbar schliesst, ist dieser Katalysator fuer eine neue Position nicht mehr nutzbar (Regel: ausserhalb der Boersenzeiten keine Aktien/ETF/Rohstoff-Trades). BTC (CoinGecko-API) setzt die leichte Abwaertsbewegung fort (-0,73% -> -0,81% in 24h), naehert sich der Stop-Loss-Zone, hat die Schwelle von -6,5% aber noch nicht erreicht - daher weiterhin gehalten. Brent (Investing.com) zeigt nur geringe Bewegung (111,17 -> 110,48 USD). Keine mehrfach bestaetigte, frische Krypto-Einzelgelegenheit gefunden, daher insgesamt kein Trade in diesem Lauf.",
+    "marketOverview": "US-Boersen seit rund einer Stunde geschlossen (Montagabend). BTC notiert um 79.800 USD (CoinDesk/Bybit/Motley Fool, -0,8% Tagesplus) nach einem Wochenend-Abverkauf, Haendler fokussiert auf die FOMC-Entscheidung am 28.10. (nur ~8% Zinserhoehungs-Wahrscheinlichkeit eingepreist); Whale-Bestaende auf Mehrmonatshoch trotz ETF-Nettoabfluessen (-680 Mio. USD letzte Woche) - gemischtes Bild, kein frischer, mehrfach bestaetigter Einzelkatalysator. Brent Crude bei ca. 115,25 USD/Barrel (Trading Economics/Oilprice.com uebereinstimmend, Investing.com-Feed als wahrscheinlich veralteter Ausreisser verworfen) - weiterhin getrieben von eskalierenden Houthi-Angriffen auf saudische Oelinfrastruktur, Goldman Sachs erhoehte Dezember-Brent-Prognose auf 90 USD.",
+    "decision": "Kein Trade. Tagesbudget bereits beim ersten Lauf des Tages gutgeschrieben. BTC (pos-0018) bei -6,16% weiterhin knapp unterhalb der Stop-Loss-Zone (-6,5 bis -7,5%), kein Verkauf. Brent (pos-0030) dreht nach Preiskorrektur (115,25 statt zuvor als Investing.com-Ausreisser verworfener 110-111er-Cluster) auf +3,32%, noch deutlich unter der Ziel-Gewinnspanne (7-9%), kein Verkauf. Ausserhalb der US-Handelszeit ist nur Krypto handelbar; da kein frischer, mehrfach bestaetigter Ausbruchskatalysator in BTC/ETH/SOL/XRP vorliegt (Markt im FOMC-Wartemodus), trotz sehr hohem freiem Kapital (ca. 80.900 EUR) keine Neuposition.",
+    "reasoning": "BTC-Preis aus drei unabhaengigen Quellen (CoinDesk 79.823, Bybit 79.664, Motley Fool ~79.800) konsistent um 79.800 USD, daher repreist. Fuer Brent zwei unabhaengige Live-Quellen (Trading Economics 115,27, Oilprice.com 115,24) stimmen in Preis und Richtung (-1,25% Tagesverlust) ueberein, waehrend die Investing.com-Quote (110,38, +0,16%) sowohl im Niveau als auch in der Richtung abweicht und ohne verlaesslichen Zeitstempel als wahrscheinlich veralteter/falscher Kontrakt verworfen wird - daher Umstellung auf den besser bestaetigten Trading-Economics/Oilprice-Cluster. Keine Position erreicht eine Handlungsschwelle (Stop-Loss bzw. Ziel-Gewinnspanne), daher keine Aktion.",
     "positionIds": [
       "pos-0018",
       "pos-0030"
     ],
-    "portfolioValueEnd": 1350.48,
+    "portfolioValueEnd": 1380.13,
     "updates": [
       {
         "time": "00:08",
@@ -10661,6 +10661,11 @@
         "time": "21:10",
         "note": "Keine Aenderung; US-Boersen soeben geschlossen (Tesla +5,2% Barclays-Upgrade/SpaceX-Spekulation bereits eingepreist, nicht mehr handelbar); BTC ueber CoinGecko-API aktualisiert (79.908 -> 79.835 USD, -6,12% seit Kauf pos-0018, naehert sich Stop-Loss-Zone); Brent via Investing.com-Live-Quote aktualisiert (111,17 -> 110,48 USD, -0,96% seit Kauf pos-0030); kein Trade",
         "portfolioValue": 1350.48
+      },
+      {
+        "time": "22:09",
+        "note": "Keine Aenderung; BTC aktualisiert (79.835 -> 79.800 USD, -6,16% seit Kauf pos-0018, knapp unter Stop-Loss-Zone); Brent-Datenquelle gewechselt (Investing.com-Cluster als wahrscheinlich veralteter Ausreisser verworfen, stattdessen Trading-Economics/Oilprice.com-Konsens 110,48 -> 115,25 USD, +3,32% seit Kauf pos-0030); kein frischer Krypto-Katalysator, kein Trade vor FOMC (28.10.)",
+        "portfolioValue": 1380.13
       }
     ]
   }
