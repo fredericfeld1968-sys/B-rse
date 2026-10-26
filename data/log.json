@@ -10543,14 +10543,14 @@
   },
   {
     "date": "2026-10-26",
-    "marketOverview": "Montag 12:08 CET: Krypto durchgaengig handelbar, europaeische Boersen seit 09:00 CET geoeffnet, US-Boersen erst ab 15:30 CET. Bitcoin notiert via CoinGecko-Live-API bei 80.224 USD (-5,66% seit Kauf pos-0018), weiterhin klar ausserhalb der Stop-Loss-Zone (-6,5 bis -7,5%). Brent liegt laut Yahoo-Finance-Live-Quote (Future BZ=F) bei 109,75 USD/Barrel (Vortagesschluss 111,70 USD, -1,61% seit Kauf pos-0030) - Oelpreis gibt nach Berichten ueber katarische Vermittlungsbemuehungen in Teheran leicht nach, nachdem Brent am Freitag zwischenzeitlich bis auf ca. 117 USD geklettert war (hoechster Stand seit 2022). Trump signalisiert, nahe einer Entscheidung zwischen Iran-Deal und erneuten Militaerschlaegen zu stehen; Delegationen aus Saudi-Arabien, Tuerkei und Pakistan treffen sich heute mit iranischen Vertretern. An den Aktienmaerkten belasten Sorgen ueber KI-Investitionsausgaben und steigende Anleiherenditen (Dow/S&P leicht im Minus); Fokus bleibt auf der Fed-Sitzung Mittwoch (28.10.), wo der Markt ueberwiegend von einer Zinspause ausgeht. Kein neuer, ueberzeugender Katalysator fuer Krypto oder Rohstoffe identifiziert.",
-    "decision": "Kein Trade. Tagesbudget fuer den 26.10. bereits beim ersten Lauf des Tages gutgeschrieben, keine erneute Gutschrift. BTC (pos-0018) und Brent (pos-0030) per Live-Daten aktualisiert; beide Positionen bleiben unauffaellig gehalten, deutlich innerhalb der Toleranzbaender. Hohes freies Kapital (ca. 80.938 EUR) bleibt mangels ueberzeugender, frisch bestaetigter Gelegenheit vor der FOMC-Entscheidung am Mittwoch weiterhin ungenutzt.",
-    "reasoning": "BTC (-5,66%) und Brent (-1,61% seit Kauf) bleiben beide klar ausserhalb ihrer jeweiligen Stop-Loss-Zonen, kein Trigger. Die Nachrichtenlage (katarische Vermittlung im Iran-Konflikt, Trump nahe einer Grundsatzentscheidung, KI-Spending-Sorgen an den Aktienmaerkten, steigende Renditen) liefert keinen neuen, eindeutig bestaetigten Katalysator fuer einen Einstieg. Zwei Tage vor der FOMC-Entscheidung (28.10.) bleibt die bisherige konservative Haltung (Halten, kein Neuaufbau) sachgerecht.",
+    "marketOverview": "Montag 13:09 CET: US-Futures leicht fester (Dow +0,4%, S&P +0,3%) nach zwei schwachen Wochen in Serie, Fokus auf grosser Earnings-Woche (Alphabet und Microsoft am Mittwoch, Meta mit geplanter Kapitalerhoehung ueber 22,5 Mrd. USD in Class-A-Aktien) und der FOMC-Sitzung am 28.10. Chipwerte zuletzt auf Dreimonatstief. Bitcoin notiert bei ca. 79.823 USD (-6,13% seit Kauf pos-0018), naehert sich der Stop-Loss-Zone (-6,5 bis -7,5%), aber noch knapp darunter. Brent faellt unter 110 USD/Barrel (ca. 109,50 USD, -1,84% seit Kauf pos-0030) nach Berichten ueber katarische Vermittlungsbemuehungen im Iran-Konflikt; Gold leicht im Plus nahe 4.005 USD/oz. Kein neuer, eigenstaendig bestaetigter Handelskatalysator seit dem letzten Lauf identifiziert.",
+    "decision": "Kein Trade. Tagesbudget fuer den 26.10. bereits beim ersten Lauf des Tages gutgeschrieben, keine erneute Gutschrift. BTC (pos-0018) naehert sich der Stop-Loss-Zone (-6,13%), ist aber noch nicht erreicht; Brent (pos-0030) bleibt unauffaellig bei -1,84%. Hohes freies Kapital (ca. 80.938 EUR) bleibt mangels ueberzeugender, frisch bestaetigter Gelegenheit vor der FOMC-Entscheidung am Mittwoch weiterhin ungenutzt.",
+    "reasoning": "BTC naehert sich mit -6,13% der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%), hat sie aber noch nicht erreicht - daher noch kein Verkauf. Brent bleibt mit -1,84% weit davon entfernt. Die aktuelle Nachrichtenlage (leicht festere US-Futures vor grosser Earnings-Woche, Meta-Kapitalerhoehung, schwache Chipwerte, nachgebender Oelpreis wegen Katar-Vermittlung) liefert keinen neuen, unabhaengig bestaetigten Einstiegskatalysator. Zwei Tage vor der FOMC-Entscheidung bleibt die konservative Haltung (Halten, kein Neuaufbau) sachgerecht.",
     "positionIds": [
       "pos-0018",
       "pos-0030"
     ],
-    "portfolioValueEnd": 1349.1,
+    "portfolioValueEnd": 1343.9,
     "updates": [
       {
         "time": "00:08",
@@ -10616,6 +10616,11 @@
         "time": "12:08",
         "note": "Keine Aenderung; BTC ueber CoinGecko-API aktualisiert (80.376 -> 80.224 USD, -5,66% seit Kauf pos-0018); Brent via Yahoo-Futuresdaten aktualisiert (110,09 -> 109,75 USD, -1,61% seit Kauf pos-0030); Oelpreis gibt nach Berichten ueber katarische Vermittlung im Iran-Konflikt leicht nach, kein neuer Katalysator, kein Trade vor FOMC (27.-28.10.)",
         "portfolioValue": 1349.1
+      },
+      {
+        "time": "13:09",
+        "note": "Keine Aenderung; BTC via Live-Daten aktualisiert (80.224 -> 79.823 USD, -6,13% seit Kauf pos-0018, naehert sich Stop-Loss-Zone); Brent aktualisiert (109,75 -> 109,50 USD, -1,84% seit Kauf pos-0030); keine neuen bestaetigten Katalysatoren, kein Trade vor FOMC (27.-28.10.)",
+        "portfolioValue": 1343.9
       }
     ]
   }
