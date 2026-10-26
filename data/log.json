@@ -10543,14 +10543,14 @@
   },
   {
     "date": "2026-10-26",
-    "marketOverview": "Montag 02:08 CET: Krypto durchgaengig handelbar, Brent-Terminmarkt nach Wochenendpause bereits wieder aktiv, Aktien/ETFs vor Boersenoeffnung weiterhin geschlossen. Bitcoin faellt via CoinGecko-Live-API weiter leicht auf ca. 80.004 USD (-0,89% 24h), Brent gibt auf ca. 110,34 USD/Barrel nach (-1,22% zum Vortagesschluss). Keine frisch datierten, mehrfach bestaetigten Katalysatoren fuer Krypto oder Hormuz-Eskalation auffindbar; Markt bleibt im Wartemodus vor der FOMC-Sitzung (27.-28.10.).",
-    "decision": "Kein Trade. Tagesbudget fuer den 26.10. war bereits beim vorherigen Lauf gutgeschrieben; lediglich Kursaktualisierung von BTC (pos-0018) und Brent (pos-0030). Hohes freies Kapital (ca. 80.938 EUR) bleibt mangels ueberzeugender frischer Gelegenheit ungenutzt.",
-    "reasoning": "BTC setzt die leichte Abwaertsbewegung ohne neuen Katalysator fort (-0,89% 24h laut CoinGecko), Brent gibt im fruehen Wochenhandel leicht nach. Eine Suche nach frischen Krypto-Breakout- oder Hormuz-Eskalationsmeldungen lieferte nur undatiertes bzw. aelteres Material, kein verifizierbares neues Signal. Passend zum spekulativen, aber disziplinierten Profil wird daher auf das naechste klare, mehrfach bestaetigte Signal gewartet, zumal kurz vor der FOMC-Entscheidung (27.-28.10.) erhoehte Volatilitaet droht.",
+    "marketOverview": "Montag 03:08 CET: Krypto durchgaengig handelbar, Brent-Terminmarkt aktiv, Aktien/ETFs vor Boersenoeffnung weiterhin geschlossen. Bitcoin faellt via CoinGecko-Live-API weiter auf ca. 79.830 USD (-1,30% 24h), Brent gibt auf ca. 109,93 USD/Barrel nach. Keine frisch datierten, mehrfach bestaetigten Katalysatoren fuer Krypto-Breakouts oder eine neue Hormuz-Eskalationsstufe auffindbar; Markt bleibt im Wartemodus vor der FOMC-Sitzung (27.-28.10.).",
+    "decision": "Kein Trade. Tagesbudget fuer den 26.10. bereits gutgeschrieben; lediglich weitere Kursaktualisierung von BTC (pos-0018) und Brent (pos-0030). Hohes freies Kapital (ca. 80.938 EUR) bleibt mangels ueberzeugender frischer Gelegenheit ungenutzt.",
+    "reasoning": "BTC setzt die leichte Abwaertsbewegung ohne neuen Katalysator fort (-1,30% 24h laut CoinGecko) und naehert sich mit -6,12% seit Kauf der etablierten Stop-Loss-Zone, ohne sie zu erreichen - Position wird daher vorerst gehalten. Brent gibt im fruehen Wochenhandel weiter leicht nach. Eine Suche nach frischen Krypto-Breakout- oder Hormuz-Eskalationsmeldungen lieferte nur undatiertes bzw. aelteres Material, kein verifizierbares neues Signal. Passend zum spekulativen, aber disziplinierten Profil wird auf das naechste klare, mehrfach bestaetigte Signal gewartet, zumal kurz vor der FOMC-Entscheidung (27.-28.10.) erhoehte Volatilitaet droht.",
     "positionIds": [
       "pos-0018",
       "pos-0030"
     ],
-    "portfolioValueEnd": 1351.0,
+    "portfolioValueEnd": 1346.99,
     "updates": [
       {
         "time": "00:08",
@@ -10566,6 +10566,11 @@
         "time": "02:08",
         "note": "Keine Aenderung; BTC ueber CoinGecko-API aktualisiert (80.088 -> 80.004 USD, -5,92% seit Kauf pos-0018); Brent via Yahoo-Futuresdaten aktualisiert (110,59 -> 110,34 USD, -1,08% seit Kauf pos-0030); keine verifizierbaren frischen Katalysatoren, kein Trade vor FOMC (27.-28.10.)",
         "portfolioValue": 1351.0
+      },
+      {
+        "time": "03:08",
+        "note": "Keine Aenderung; BTC ueber CoinGecko-API aktualisiert (80.004 -> 79.830 USD, -6,12% seit Kauf pos-0018, naehert sich Stop-Loss-Zone); Brent via Yahoo-Futuresdaten aktualisiert (110,34 -> 109,93 USD, -1,45% seit Kauf pos-0030); keine verifizierbaren frischen Katalysatoren, kein Trade vor FOMC (27.-28.10.)",
+        "portfolioValue": 1346.99
       }
     ]
   }
