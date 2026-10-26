@@ -10543,14 +10543,14 @@
   },
   {
     "date": "2026-10-26",
-    "marketOverview": "Montag 10:10 CET: Krypto durchgaengig handelbar, Brent-Terminmarkt aktiv, europaeische Boersen seit 09:00 CET geoeffnet, US-Boersen erst ab 15:30 CET. Bitcoin notiert via CoinGecko-Live-API bei 80.143 USD (-0,23% in 24h, -5,75% seit Kauf pos-0018) und hat sich damit von der Stop-Loss-Zone (-6,5 bis -7,5%) wieder etwas entfernt. Brent liegt laut Yahoo-Finance-Live-Quote (Future BZ=F) bei 109,84 USD/Barrel (-1,665% heute, -1,53% seit Kauf pos-0030). Websuche nach frischen, mehrfach bestaetigten Katalysatoren (DAX, Krypto-Altseason, Geopolitik) liefert weiterhin nur aeltere bzw. undatierte Treffer; Markt bleibt im Wartemodus vor der FOMC-Sitzung (27.-28.10., Entscheidung erwartet Mittwoch 20:00 CET).",
-    "decision": "Kein Trade. Tagesbudget fuer den 26.10. bereits beim ersten Lauf gutgeschrieben, keine erneute Gutschrift. BTC (pos-0018) und Brent (pos-0030) per Live-Daten aktualisiert; BTC hat sich von der Stop-Loss-Schwelle wieder leicht entfernt, Brent bleibt unauffaellig, beide Positionen bleiben gehalten. Hohes freies Kapital (ca. 80.938 EUR) bleibt mangels ueberzeugender, frisch bestaetigter Gelegenheit weiterhin ungenutzt.",
-    "reasoning": "BTC (-5,75%) hat sich seit dem letzten Lauf (-6,28%) wieder von der Stop-Loss-Zone (-6,5 bis -7,5%) entfernt, kein Trigger. Brent (-1,53% seit Kauf) bleibt klar unauffaellig. Keine neuen, mehrfach bestaetigten Katalysatoren fuer Krypto, Oel/Geopolitik oder Aktien gefunden; zwei Tage vor der FOMC-Entscheidung bleibt die bisherige konservative Haltung (Halten, kein Neuaufbau) sachgerecht.",
+    "marketOverview": "Montag 11:09 CET: Krypto durchgaengig handelbar, europaeische Boersen seit 09:00 CET geoeffnet, US-Boersen erst ab 15:30 CET. Bitcoin notiert via CoinGecko-Live-API bei 80.376 USD (+0,12% in 24h, -5,48% seit Kauf pos-0018) und bleibt damit klar ausserhalb der Stop-Loss-Zone (-6,5 bis -7,5%). Brent liegt laut Yahoo-Finance-Live-Quote (Future BZ=F) bei 110,09 USD/Barrel (-1,44% heute, -1,31% seit Kauf pos-0030). Websuche nach frischen, datierten Katalysatoren (Krypto, DAX/Dow, Geopolitik) liefert weiterhin nur veraltete bzw. undatierte Treffer; Markt bleibt im Wartemodus vor der FOMC-Sitzung (27.-28.10., Entscheidung erwartet Mittwoch 20:00 CET).",
+    "decision": "Kein Trade. Tagesbudget fuer den 26.10. bereits beim ersten Lauf gutgeschrieben, keine erneute Gutschrift. BTC (pos-0018) und Brent (pos-0030) per Live-Daten aktualisiert; beide Positionen bleiben unauffaellig gehalten. Hohes freies Kapital (ca. 80.938 EUR) bleibt mangels ueberzeugender, frisch bestaetigter Gelegenheit weiterhin ungenutzt.",
+    "reasoning": "BTC (-5,48%) hat sich seit dem letzten Lauf (-5,75%) weiter von der Stop-Loss-Zone (-6,5 bis -7,5%) entfernt, kein Trigger. Brent (-1,31% seit Kauf) bleibt klar unauffaellig. Keine neuen, datierten Katalysatoren fuer Krypto, Oel/Geopolitik oder Aktien gefunden; zwei Tage vor der FOMC-Entscheidung bleibt die bisherige konservative Haltung (Halten, kein Neuaufbau) sachgerecht.",
     "positionIds": [
       "pos-0018",
       "pos-0030"
     ],
-    "portfolioValueEnd": 1349.0,
+    "portfolioValueEnd": 1352.49,
     "updates": [
       {
         "time": "00:08",
@@ -10606,6 +10606,11 @@
         "time": "10:10",
         "note": "Keine Aenderung; BTC ueber CoinGecko-API aktualisiert (79.694 -> 80.143 USD, -5,75% seit Kauf pos-0018, von Stop-Loss-Zone entfernt); Brent via Yahoo-Futuresdaten aktualisiert (110,31 -> 109,84 USD, -1,53% seit Kauf pos-0030); keine verifizierbaren frischen Katalysatoren, kein Trade vor FOMC (27.-28.10.)",
         "portfolioValue": 1349.0
+      },
+      {
+        "time": "11:09",
+        "note": "Keine Aenderung; BTC ueber CoinGecko-API aktualisiert (80.143 -> 80.376 USD, -5,48% seit Kauf pos-0018, weiter von Stop-Loss entfernt); Brent via Yahoo-Futuresdaten aktualisiert (109,84 -> 110,09 USD, -1,31% seit Kauf pos-0030); keine verifizierbaren frischen Katalysatoren, kein Trade vor FOMC (27.-28.10.)",
+        "portfolioValue": 1352.49
       }
     ]
   }
