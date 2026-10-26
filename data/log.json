@@ -10543,14 +10543,14 @@
   },
   {
     "date": "2026-10-26",
-    "marketOverview": "Montag 05:08 CET: Krypto durchgaengig handelbar, Brent-Terminmarkt aktiv, Aktien/ETFs vor Boersenoeffnung weiterhin geschlossen. Bitcoin pendelt via CoinGecko-Live-API seitwaerts bei ca. 79.659 USD (-1,39% 24h), knapp unter der vorherigen Marke - kein neuer Kurswechsel. Brent notiert laut TradingEconomics weiterhin bei ca. 114,30 USD/Barrel, praktisch unveraendert zum letzten Lauf. Websuche nach frischen, mehrfach bestaetigten Krypto-Breakout-Katalysatoren (u.a. Hyperliquid, Chainlink, Avalanche) liefert nur undatierte oder aeltere Treffer ohne tagesaktuellen Trigger; Markt bleibt im Wartemodus vor der FOMC-Sitzung (27.-28.10.).",
+    "marketOverview": "Montag 06:08 CET: Krypto durchgaengig handelbar, Brent-Terminmarkt aktiv, Aktien/ETFs vor Boersenoeffnung (Europa 09:00, US 15:30 CET) weiterhin geschlossen. Bitcoin notiert via CoinGecko-Live-API bei ca. 80.022 USD (-1,01% 24h), leicht erholt gegenueber dem letzten Lauf. Brent liegt laut TradingEconomics bei ca. 114,39 USD/Barrel (-2,0% auf Tagesbasis, aber weiterhin deutlich ueber Kaufniveau). Websuche nach frischen, mehrfach bestaetigten Breakout-Katalysatoren (Krypto allgemein, Hyperliquid, Chainlink) liefert erneut nur undatierte oder aeltere Treffer; Markt bleibt im Wartemodus vor der FOMC-Sitzung (27.-28.10., Entscheidung erwartet Mittwoch 20:00 CET).",
     "decision": "Kein Trade. Tagesbudget fuer den 26.10. bereits beim ersten Lauf gutgeschrieben, keine erneute Gutschrift. BTC (pos-0018) und Brent (pos-0030) per Live-Daten aktualisiert, beide Positionen bleiben gehalten. Hohes freies Kapital (ca. 80.938 EUR) bleibt mangels ueberzeugender, frisch bestaetigter Gelegenheit weiterhin ungenutzt.",
-    "reasoning": "BTC bewegt sich mit -6,32% seit Kauf weiterhin knapp unterhalb der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%), ohne neuen Verschlechterungs-Katalysator - Position bleibt daher vorerst gehalten, naechster Lauf prueft erneut. Brent liegt bei +2,47% seit Kauf, deutlich unter dem Gewinnziel (7-9%) und ohne neue Eskalations- oder Deeskalationsmeldung - Position wird gehalten. Fuer neue Positionen fand sich trotz WebSearch zu moeglichen Altcoin-Kandidaten (Hyperliquid, Chainlink, Avalanche) kein frisch datierter, mehrfach bestaetigter Ausbruchs- oder Breakdown-Katalysator; passend zum disziplinierten, aber spekulativen Profil wird auf das naechste klare Signal gewartet statt ohne echten Anlass zu handeln.",
+    "reasoning": "BTC verbessert sich leicht auf -5,90% seit Kauf (vorheriger Lauf -6,32%) und bleibt damit unterhalb der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%) - Position wird weiter gehalten, naechster Lauf prueft erneut. Brent liegt bei +2,55% seit Kauf, deutlich unter dem Gewinnziel (7-9%) und ohne neue Eskalations- oder Deeskalationsmeldung - Position wird gehalten. Fuer neue Positionen fand sich trotz WebSearch (Krypto-Marktueberblick, Altcoin-Kandidaten Hyperliquid/Chainlink) kein frisch datierter, mehrfach bestaetigter Ausbruchs- oder Breakdown-Katalysator; passend zum disziplinierten, aber spekulativen Profil wird auf das naechste klare Signal gewartet statt ohne echten Anlass zu handeln.",
     "positionIds": [
       "pos-0018",
       "pos-0030"
     ],
-    "portfolioValueEnd": 1373.01,
+    "portfolioValueEnd": 1376.56,
     "updates": [
       {
         "time": "00:08",
@@ -10581,6 +10581,11 @@
         "time": "05:08",
         "note": "Keine Aenderung; BTC ueber CoinGecko-API aktualisiert (79.656 -> 79.659 USD, -6,32% seit Kauf pos-0018); Brent via TradingEconomics aktualisiert (114,34 -> 114,30 USD, +2,47% seit Kauf pos-0030); kein neuer Katalysator, kein Trade",
         "portfolioValue": 1373.01
+      },
+      {
+        "time": "06:08",
+        "note": "Keine Aenderung; BTC ueber CoinGecko-API aktualisiert (79.659 -> 80.022 USD, -5,90% seit Kauf pos-0018); Brent via TradingEconomics aktualisiert (114,30 -> 114,39 USD, +2,55% seit Kauf pos-0030); kein neuer Katalysator, kein Trade vor FOMC (27.-28.10.)",
+        "portfolioValue": 1376.56
       }
     ]
   }
