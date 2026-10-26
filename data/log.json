@@ -10543,14 +10543,14 @@
   },
   {
     "date": "2026-10-26",
-    "marketOverview": "Montag 07:13 CET: Krypto durchgaengig handelbar, Brent-Terminmarkt aktiv, Aktien/ETFs vor Boersenoeffnung (Europa 09:00, US 15:30 CET) weiterhin geschlossen. Bitcoin notiert via CoinGecko-Live-API bei 80.000 USD (-5,92% seit Kauf pos-0018), kaum veraendert zum letzten Lauf. Brent liegt laut Yahoo-Futuresdaten (Snapshot 06:02 UTC) bei 109,49 USD/Barrel - deutliche Korrektur nach unten gegenueber dem zuvor via TradingEconomics gemeldeten Wert von 114,39 USD, der sich retrospektiv als zu hoch erweist. Websuche nach frischen, mehrfach bestaetigten Katalysatoren (Krypto, FOMC-Ausblick) liefert weiterhin nur undatierte oder aeltere Treffer; Markt bleibt im Wartemodus vor der FOMC-Sitzung (27.-28.10., Entscheidung erwartet Mittwoch 20:00 CET).",
-    "decision": "Kein Trade. Tagesbudget fuer den 26.10. bereits beim ersten Lauf gutgeschrieben, keine erneute Gutschrift. BTC (pos-0018) und Brent (pos-0030) per Live-Daten aktualisiert, Brent-Kurs nach unten korrigiert (114,39 -> 109,49 USD), beide Positionen bleiben gehalten. Hohes freies Kapital (ca. 80.938 EUR) bleibt mangels ueberzeugender, frisch bestaetigter Gelegenheit weiterhin ungenutzt.",
-    "reasoning": "BTC (-5,92%) naehert sich weiterhin der Beobachtungszone, hat aber keinen etablierten Stop-Loss ausgeloest; Brent (-1,85% seit Kauf, Stop-Loss bei -6,5 bis -7,5%) nach Kurskorrektur klar unauffaellig. Keine neuen, mehrfach bestaetigten Katalysatoren fuer Krypto oder Rohstoffe gefunden; Aktien/ETFs vor Boersenoeffnung ohnehin nicht handelbar. Zwei Tage vor der FOMC-Entscheidung bleibt die bisherige konservative Haltung (Halten, kein Neuaufbau) sachgerecht.",
+    "marketOverview": "Montag 08:14 CET: Krypto durchgaengig handelbar, Brent-Terminmarkt aktiv, Aktien/ETFs vor Boersenoeffnung (Europa 09:00, US 15:30 CET) weiterhin geschlossen. Bitcoin notiert via CoinGecko-Live-API bei 80.027 USD (-5,89% seit Kauf pos-0018), praktisch unveraendert zum letzten Lauf. Brent liegt laut Yahoo-Futuresdaten (Snapshot 07:06 UTC) bei 110,00 USD/Barrel (-1,39% seit Kauf pos-0030), leicht hoeher als im vorherigen Lauf. Websuche nach frischen, mehrfach bestaetigten Katalysatoren (Krypto, Oel/Geopolitik, FOMC-Ausblick) liefert weiterhin nur undatierte oder aeltere Treffer; Markt bleibt im Wartemodus vor der FOMC-Sitzung (27.-28.10., Entscheidung erwartet Mittwoch 20:00 CET).",
+    "decision": "Kein Trade. Tagesbudget fuer den 26.10. bereits beim ersten Lauf gutgeschrieben, keine erneute Gutschrift. BTC (pos-0018) und Brent (pos-0030) per Live-Daten aktualisiert, beide Positionen bleiben gehalten (keine Stop-Loss-Schwelle erreicht). Hohes freies Kapital (ca. 80.938 EUR) bleibt mangels ueberzeugender, frisch bestaetigter Gelegenheit weiterhin ungenutzt; vor Boersenoeffnung ohnehin nur Krypto handelbar.",
+    "reasoning": "BTC (-5,89%) bewegt sich seitwaerts in der bereits beobachteten Zone ohne etablierten Stop-Loss-Trigger; Brent (-1,39% seit Kauf, Stop-Loss bei -6,5 bis -7,5%) klar unauffaellig. Keine neuen, mehrfach bestaetigten Katalysatoren fuer Krypto, Oel/Rohstoffe oder Aktien gefunden. Zwei Tage vor der FOMC-Entscheidung bleibt die bisherige konservative Haltung (Halten, kein Neuaufbau) sachgerecht.",
     "positionIds": [
       "pos-0018",
       "pos-0030"
     ],
-    "portfolioValueEnd": 1345.62,
+    "portfolioValueEnd": 1349.04,
     "updates": [
       {
         "time": "00:08",
@@ -10591,6 +10591,11 @@
         "time": "07:13",
         "note": "Keine Aenderung; BTC ueber CoinGecko-API aktualisiert (80.022 -> 80.000 USD, -5,92% seit Kauf pos-0018); Brent via Yahoo-Futuresdaten deutlich nach unten korrigiert (114,39 -> 109,49 USD, -1,85% seit Kauf pos-0030, vorheriger TradingEconomics-Wert retrospektiv als zu hoch eingeschaetzt); kein neuer Katalysator, kein Trade vor FOMC (27.-28.10.)",
         "portfolioValue": 1345.62
+      },
+      {
+        "time": "08:14",
+        "note": "Keine Aenderung; BTC via CoinGecko-API aktualisiert (80.000 -> 80.027 USD, -5,89% seit Kauf pos-0018); Brent via Yahoo-Futuresdaten aktualisiert (109,49 -> 110,00 USD, -1,39% seit Kauf pos-0030); kein neuer Katalysator, kein Trade vor FOMC (27.-28.10.)",
+        "portfolioValue": 1349.04
       }
     ]
   }
