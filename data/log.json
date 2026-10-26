@@ -10543,14 +10543,14 @@
   },
   {
     "date": "2026-10-26",
-    "marketOverview": "Montag 08:14 CET: Krypto durchgaengig handelbar, Brent-Terminmarkt aktiv, Aktien/ETFs vor Boersenoeffnung (Europa 09:00, US 15:30 CET) weiterhin geschlossen. Bitcoin notiert via CoinGecko-Live-API bei 80.027 USD (-5,89% seit Kauf pos-0018), praktisch unveraendert zum letzten Lauf. Brent liegt laut Yahoo-Futuresdaten (Snapshot 07:06 UTC) bei 110,00 USD/Barrel (-1,39% seit Kauf pos-0030), leicht hoeher als im vorherigen Lauf. Websuche nach frischen, mehrfach bestaetigten Katalysatoren (Krypto, Oel/Geopolitik, FOMC-Ausblick) liefert weiterhin nur undatierte oder aeltere Treffer; Markt bleibt im Wartemodus vor der FOMC-Sitzung (27.-28.10., Entscheidung erwartet Mittwoch 20:00 CET).",
-    "decision": "Kein Trade. Tagesbudget fuer den 26.10. bereits beim ersten Lauf gutgeschrieben, keine erneute Gutschrift. BTC (pos-0018) und Brent (pos-0030) per Live-Daten aktualisiert, beide Positionen bleiben gehalten (keine Stop-Loss-Schwelle erreicht). Hohes freies Kapital (ca. 80.938 EUR) bleibt mangels ueberzeugender, frisch bestaetigter Gelegenheit weiterhin ungenutzt; vor Boersenoeffnung ohnehin nur Krypto handelbar.",
-    "reasoning": "BTC (-5,89%) bewegt sich seitwaerts in der bereits beobachteten Zone ohne etablierten Stop-Loss-Trigger; Brent (-1,39% seit Kauf, Stop-Loss bei -6,5 bis -7,5%) klar unauffaellig. Keine neuen, mehrfach bestaetigten Katalysatoren fuer Krypto, Oel/Rohstoffe oder Aktien gefunden. Zwei Tage vor der FOMC-Entscheidung bleibt die bisherige konservative Haltung (Halten, kein Neuaufbau) sachgerecht.",
+    "marketOverview": "Montag 09:11 CET: Krypto durchgaengig handelbar, Brent-Terminmarkt aktiv, europaeische Boersen seit 09:00 CET geoeffnet, US-Boersen erst ab 15:30 CET. Bitcoin notiert via CoinGecko-Live-API bei 79.694 USD (-1,05% in 24h, -6,28% seit Kauf pos-0018) und naehert sich damit der etablierten Stop-Loss-Zone (-6,5 bis -7,5%), hat sie aber noch nicht erreicht. Brent liegt laut Yahoo-Finance-Live-Quote bei 110,31 USD/Barrel (-1,24% heute, -1,11% seit Kauf pos-0030). Websuche nach frischen, mehrfach bestaetigten Katalysatoren (Hormuz/Iran, FOMC-Ausblick) liefert weiterhin nur aeltere bzw. undatierte Treffer; Markt bleibt im Wartemodus vor der FOMC-Sitzung (27.-28.10., Entscheidung erwartet Mittwoch 20:00 CET).",
+    "decision": "Kein Trade. Tagesbudget fuer den 26.10. bereits beim ersten Lauf gutgeschrieben, keine erneute Gutschrift. BTC (pos-0018) und Brent (pos-0030) per Live-Daten aktualisiert; BTC naehert sich der Stop-Loss-Schwelle, hat sie aber noch nicht erreicht, beide Positionen bleiben gehalten. Hohes freies Kapital (ca. 80.938 EUR) bleibt mangels ueberzeugender, frisch bestaetigter Gelegenheit weiterhin ungenutzt.",
+    "reasoning": "BTC (-6,28%) rutscht seit dem letzten Lauf weiter Richtung Stop-Loss-Zone (-6,5 bis -7,5%), hat die Schwelle aber noch nicht ueberschritten - Beobachtung verschaerft, aber noch kein Trigger. Brent (-1,11% seit Kauf) bleibt klar unauffaellig. Keine neuen, mehrfach bestaetigten Katalysatoren fuer Krypto, Oel/Geopolitik oder Aktien gefunden; zwei Tage vor der FOMC-Entscheidung bleibt die bisherige konservative Haltung (Halten, kein Neuaufbau) sachgerecht.",
     "positionIds": [
       "pos-0018",
       "pos-0030"
     ],
-    "portfolioValueEnd": 1349.04,
+    "portfolioValueEnd": 1348.25,
     "updates": [
       {
         "time": "00:08",
@@ -10596,6 +10596,11 @@
         "time": "08:14",
         "note": "Keine Aenderung; BTC via CoinGecko-API aktualisiert (80.000 -> 80.027 USD, -5,89% seit Kauf pos-0018); Brent via Yahoo-Futuresdaten aktualisiert (109,49 -> 110,00 USD, -1,39% seit Kauf pos-0030); kein neuer Katalysator, kein Trade vor FOMC (27.-28.10.)",
         "portfolioValue": 1349.04
+      },
+      {
+        "time": "09:11",
+        "note": "Keine Aenderung; BTC ueber CoinGecko-API aktualisiert (80.027 -> 79.694 USD, -6,28% seit Kauf pos-0018, naehert sich Stop-Loss-Zone); Brent via Yahoo-Live-Quote aktualisiert (110,00 -> 110,31 USD, -1,11% seit Kauf pos-0030); keine verifizierbaren frischen Katalysatoren, kein Trade vor FOMC (27.-28.10.)",
+        "portfolioValue": 1348.25
       }
     ]
   }
