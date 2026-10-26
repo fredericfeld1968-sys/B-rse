@@ -10543,14 +10543,14 @@
   },
   {
     "date": "2026-10-26",
-    "marketOverview": "Montag 20:11 CET: Bitcoin setzt die leichte Abwaertsbewegung fort und faellt auf 79.908 USD (CoinGecko-Live-API, -0,73% in 24h, -6,03% seit Kauf pos-0018) - naehert sich damit weiter der etablierten Stop-Loss-Zone (-6,5 bis -7,5%), hat sie aber noch nicht erreicht. Brent Crude notiert bei 111,17 USD (Investing.com Live-Quote, Tagesspanne 109,25-112,20, -0,34% seit Kauf pos-0030), damit leicht ueber dem letzten Stand. Keine neuen, mehrfach unabhaengig bestaetigten Einzeltitel-Katalysatoren gefunden (Suchen zu Aktien-Gewinnern/Erdnachrichten lieferten nur veraltete oder falsch datierte Treffer); Markt bleibt im Wartemodus vor der FOMC-Entscheidung am 27.-28.10. und der grossen Tech-Earnings-Woche.",
-    "decision": "Kein Trade. Tagesbudget fuer den 26.10. bereits beim ersten Lauf des Tages gutgeschrieben, keine erneute Gutschrift. BTC (pos-0018) bei -6,03% naeher an, aber noch unterhalb der Stop-Loss-Schwelle, kein Verkauf. Brent (pos-0030) bei -0,34% nahezu unveraendert, weit von Stop-Loss und Ziel-Gewinnspanne (7-9%) entfernt, kein Verkauf. Trotz hohem freiem Kapital (ca. 80.938 EUR) mangels ueberzeugender, mehrfach bestaetigter Einzelgelegenheit vor der FOMC-Entscheidung keine Neuposition.",
-    "reasoning": "CoinGecko-Live-API fuer BTC zeigt eine Fortsetzung der leichten Abwaertsbewegung seit dem letzten Lauf (-0,54% -> -0,73% in 24h), die Position naehert sich der Stop-Loss-Zone, hat die Schwelle von -6,5% aber noch nicht erreicht - daher weiterhin gehalten statt vorschnell glattgestellt. Brent via Investing.com-Live-Quote zeigt nur geringe Bewegung (110,85 -> 111,17 USD). Gezielte Websuchen zu US-Aktienmaerkten, Einzeltitel-Gewinnern und Krypto-Markt lieferten keine auf heute (26.10.) datierten, mehrfach unabhaengig bestaetigten Katalysatoren - nur veraltete, widerspruechliche oder falsch datierte Treffer. Beide offenen Positionen bleiben innerhalb ihrer etablierten Schwellenwerte, daher kein Trade.",
+    "marketOverview": "Montag 21:10 CET: US-Boersen haben soeben geschlossen (Nasdaq +0,82%, S&P 500 +0,70%, Dow +0,28%), getragen von Anthropics IPO-Filing (Tech-Rally) und nachlassenden Oelpreisen vor der FOMC-Sitzung am 27.-28.10. und einer grossen Tech-Earnings-Woche (Alphabet, Microsoft, Amazon). Einzeltitel wie Tesla (+5,2% auf 391,62 USD, Barclays-Upgrade/SpaceX-Fusionsspekulation) und mehrere Erdoelfirmen (SLB, Eni) legten nach Zahlen deutlich zu, die Bewegungen sind aber bereits beim Handelsschluss ausgereizt bzw. abgeschlossen. Bitcoin faellt weiter leicht auf 79.835 USD (CoinGecko-API, -0,81% in 24h, -6,12% seit Kauf pos-0018) und naehert sich der Stop-Loss-Zone (-6,5 bis -7,5%), ohne sie zu erreichen. Brent Crude bei 110,48 USD (Investing.com Live-Quote, -0,96% seit Kauf pos-0030), leicht nachgebend.",
+    "decision": "Kein Trade. Tagesbudget fuer den 26.10. bereits beim ersten Lauf des Tages gutgeschrieben, keine erneute Gutschrift. US-Aktienmarkt hat soeben geschlossen (16:00 ET) - der frische Tesla/SLB/Eni-Katalysator ist bereits vollstaendig eingepreist und ausserhalb der Handelszeit nicht mehr handelbar. BTC (pos-0018) bei -6,12% naeher an, aber noch unterhalb der Stop-Loss-Schwelle, kein Verkauf. Brent (pos-0030) bei -0,96% nahezu unveraendert, weit von Stop-Loss und Ziel-Gewinnspanne (7-9%) entfernt, kein Verkauf. Trotz hohem freiem Kapital (ca. 80.938 EUR) mangels einer ausserhalb der US-Handelszeit handelbaren, ueberzeugenden Krypto-Gelegenheit keine Neuposition.",
+    "reasoning": "Websuche zeigt einen klaren, mehrfach unabhaengig bestaetigten Tagestrend (TheStreet, Yahoo Finance, Fool.com): Tech-Rally durch Anthropic-IPO-Filing, Tesla +5,2% nach Barclays-Upgrade (370->450 USD) mit SpaceX-Fusionsspekulation, mehrere Energie-/Bankwerte (SLB, First Citizens, Eni, Nokia) nach Zahlen im Plus. Da der US-Kassamarkt laut Yahoo-Finance-Live-Quote (TSLA-Schlusskurs 16:00 EDT = 22:00 CET) bereits geschlossen ist bzw. unmittelbar schliesst, ist dieser Katalysator fuer eine neue Position nicht mehr nutzbar (Regel: ausserhalb der Boersenzeiten keine Aktien/ETF/Rohstoff-Trades). BTC (CoinGecko-API) setzt die leichte Abwaertsbewegung fort (-0,73% -> -0,81% in 24h), naehert sich der Stop-Loss-Zone, hat die Schwelle von -6,5% aber noch nicht erreicht - daher weiterhin gehalten. Brent (Investing.com) zeigt nur geringe Bewegung (111,17 -> 110,48 USD). Keine mehrfach bestaetigte, frische Krypto-Einzelgelegenheit gefunden, daher insgesamt kein Trade in diesem Lauf.",
     "positionIds": [
       "pos-0018",
       "pos-0030"
     ],
-    "portfolioValueEnd": 1355.42,
+    "portfolioValueEnd": 1350.48,
     "updates": [
       {
         "time": "00:08",
@@ -10656,6 +10656,11 @@
         "time": "20:11",
         "note": "Keine Aenderung; BTC ueber CoinGecko-API aktualisiert (80.265 -> 79.908 USD, -6,03% seit Kauf pos-0018, naeher an Stop-Loss-Zone); Brent via Investing.com-Live-Quote aktualisiert (110,85 -> 111,17 USD, -0,34% seit Kauf pos-0030); keine frischen, mehrfach bestaetigten Katalysatoren gefunden, kein Trade vor FOMC (27.-28.10.)",
         "portfolioValue": 1355.42
+      },
+      {
+        "time": "21:10",
+        "note": "Keine Aenderung; US-Boersen soeben geschlossen (Tesla +5,2% Barclays-Upgrade/SpaceX-Spekulation bereits eingepreist, nicht mehr handelbar); BTC ueber CoinGecko-API aktualisiert (79.908 -> 79.835 USD, -6,12% seit Kauf pos-0018, naehert sich Stop-Loss-Zone); Brent via Investing.com-Live-Quote aktualisiert (111,17 -> 110,48 USD, -0,96% seit Kauf pos-0030); kein Trade",
+        "portfolioValue": 1350.48
       }
     ]
   }
