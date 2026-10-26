@@ -10673,5 +10673,23 @@
         "portfolioValue": 1379.81
       }
     ]
+  },
+  {
+    "date": "2026-10-27",
+    "marketOverview": "Kurz nach Mitternacht (Europe/Berlin): US- und EU-Boersen weiterhin geschlossen, Markt im Wartemodus vor der FOMC-Entscheidung (Ankuendigung Mi., 28.10., 20:00 MEZ / 14:00 ET, diesmal ohne Summary of Economic Projections). BTC notiert bei ca. 79.737 USD (CoinGecko-API, -0,73% in 24h) - weiterhin knapp unter der etablierten Stop-Loss-Zone (-6,5 bis -7,5%). Brent Crude bei 115,81 USD/Barrel (Oilprice.com-Spot-Tabelle, -0,78%), getrieben von anhaltenden Houthi-/Hormuz-Spannungen, bleibt deutlich unter der Ziel-Gewinnspanne (7-9%). Andere Altcoins (ETH, SOL, XRP, DOGE, AVAX) allesamt leicht im Minus (-0,1 bis -1,4% 24h) ohne erkennbaren frischen Ausbruchskatalysator.",
+    "decision": "Tagesbudget fuer 27.10. gutgeschrieben (+1.000 EUR, totalFreshCapitalEur jetzt 84.000 EUR). BTC (pos-0018) bei -6,23% weiterhin knapp unterhalb der Stop-Loss-Zone, kein Verkauf. Brent (pos-0030) bei +3,82%, noch deutlich unter der Ziel-Gewinnspanne, kein Verkauf. Ausserhalb der US-/EU-Handelszeit ist nur Krypto handelbar; da kein frischer, mehrfach bestaetigter Ausbruchskatalysator vorliegt und der Markt erkennbar vor der FOMC-Entscheidung de-riskt, trotz sehr hohem freiem Kapital (ca. 81.900 EUR) keine Neuposition.",
+    "reasoning": "BTC-Preis per CoinGecko-API (79.737 USD, -0,73% 24h) direkt abgefragt und uebernommen. Brent-Preis per Oilprice.com-Spot-Tabelle (115,81 USD, -0,78%, Live-Daten mit ca. einer Stunde Verzoegerung) uebernommen. Weitere Altcoins (ETH, SOL, XRP, DOGE, AVAX) per CoinGecko-API geprueft - alle leicht negativ, kein Ausbruchssignal. Keine Position erreicht eine Handlungsschwelle (Stop-Loss bzw. Ziel-Gewinnspanne), daher keine Aktion.",
+    "positionIds": [
+      "pos-0018",
+      "pos-0030"
+    ],
+    "portfolioValueEnd": 1383.12,
+    "updates": [
+      {
+        "time": "00:10",
+        "note": "Tagesbudget fuer 27.10. gutgeschrieben (+1.000 EUR); BTC ueber CoinGecko-API aktualisiert (79.800 -> 79.737 USD, -6,23% seit Kauf pos-0018); Brent ueber Oilprice.com aktualisiert (115,20 -> 115,81 USD, +3,82% seit Kauf pos-0030); kein neuer Katalysator, kein Trade vor FOMC (27.-28.10.)",
+        "portfolioValue": 1383.12
+      }
+    ]
   }
 ]
