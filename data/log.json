@@ -10543,14 +10543,14 @@
   },
   {
     "date": "2026-10-26",
-    "marketOverview": "Montag 14:14 CET: Bitcoin erholt sich leicht auf ca. 80.083 USD (-5,82% seit Kauf pos-0018, CoinGecko-API), nachdem es sich zuvor der Stop-Loss-Zone (-6,5 bis -7,5%) genaehert hatte. Brent Crude legt via Yahoo-Futuresdaten ebenfalls leicht zu auf ca. 110,17 USD (-1,24% seit Kauf pos-0030), nach kurzzeitigem Rueckgang unter 110 USD infolge von Berichten ueber katarische Vermittlungsbemuehungen im Iran-Konflikt. Beide Boersenzeiten-Anlageklassen (Aktien/ETFs/Rohstoffe) sind am fruehen Nachmittag regulaer handelbar, jedoch weiterhin kein neuer, unabhaengig bestaetigter Katalysator identifiziert. Fokus bleibt auf der FOMC-Sitzung am 27.-28.10. sowie der grossen Tech-Earnings-Woche (Alphabet/Microsoft Mittwoch, Meta mit geplanter Kapitalerhoehung).",
-    "decision": "Kein Trade. Tagesbudget fuer den 26.10. bereits beim ersten Lauf des Tages gutgeschrieben, keine erneute Gutschrift. BTC (pos-0018) hat sich von der Stop-Loss-Zone leicht entfernt (-5,82%), Brent (pos-0030) bleibt unauffaellig bei -1,24%. Hohes freies Kapital (ca. 80.938 EUR) bleibt mangels ueberzeugender, frisch bestaetigter Gelegenheit vor der FOMC-Entscheidung am Mittwoch weiterhin ungenutzt.",
-    "reasoning": "BTC hat sich mit -5,82% wieder etwas von der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%) entfernt - kein Handlungsbedarf. Brent bleibt mit -1,24% weit davon entfernt und hat sich ebenfalls leicht erholt. Trotz regulaerer Handelszeiten (Aktien/ETFs/Rohstoffe handelbar) liefert die aktuelle Nachrichtenlage keinen neuen, unabhaengig bestaetigten Einstiegskatalysator. Zwei Tage vor der FOMC-Entscheidung bleibt die konservative Haltung (Halten, kein Neuaufbau) sachgerecht.",
+    "marketOverview": "Montag 15:25 CET: Bitcoin leicht schwaecher auf ca. 79.835 USD (-6,12% seit Kauf pos-0018, CoinGecko-API, -0,52% 24h), weiterhin in der Naehe der Stop-Loss-Zone (-6,5 bis -7,5%), aber noch nicht erreicht. Brent Crude gibt via Yahoo-Futuresdaten leicht nach auf ca. 109,90 USD (-1,48% seit Kauf pos-0030), nachdem der Rueckgang durch Berichte ueber katarische Vermittlungsbemuehungen im Iran-Konflikt ausgeloest wurde. US-Kassamarkt regulaer im Handel (Aktien/ETFs/Rohstoffe handelbar), aber kein neuer, unabhaengig bestaetigter Einzelwert- oder Makro-Katalysator identifiziert; Fokus bleibt auf der FOMC-Sitzung am 27.-28.10. sowie der grossen Tech-Earnings-Woche (Alphabet/Microsoft Mittwoch, Meta mit geplanter Kapitalerhoehung).",
+    "decision": "Kein Trade. Tagesbudget fuer den 26.10. bereits beim ersten Lauf des Tages gutgeschrieben, keine erneute Gutschrift. BTC (pos-0018) naehert sich der Stop-Loss-Zone (-6,12%, Schwelle -6,5 bis -7,5%) weiter an, aber noch nicht erreicht; Brent (pos-0030) bleibt unauffaellig bei -1,48%. Hohes freies Kapital (ca. 80.938 EUR) bleibt mangels ueberzeugender, frisch bestaetigter Gelegenheit vor der FOMC-Entscheidung am Mittwoch weiterhin ungenutzt.",
+    "reasoning": "CoinGecko-API fuer BTC und Yahoo-Futuresdaten fuer Brent zeigen beide nur kleine Abwaertsbewegungen ohne neuen bestaetigten Einzeltitel- oder Makro-Katalysator. Trotz offenem US-Kassamarkt (Aktien/ETFs/Rohstoffe regulaer handelbar) wurde keine unabhaengig mehrfach bestaetigte Nachricht gefunden, die eine neue spekulative Position rechtfertigen wuerde; Marktteilnehmer warten auf die FOMC-Entscheidung (27.-28.10.) und die grossen Tech-Earnings (Alphabet/Microsoft Mittwoch, Meta). Beide offenen Positionen bleiben innerhalb der etablierten Stop-Loss-Bandbreite (-6,5 bis -7,5%), daher kein Verkauf.",
     "positionIds": [
       "pos-0018",
       "pos-0030"
     ],
-    "portfolioValueEnd": 1350.58,
+    "portfolioValueEnd": 1346.84,
     "updates": [
       {
         "time": "00:08",
@@ -10626,6 +10626,11 @@
         "time": "14:14",
         "note": "Keine Aenderung; BTC ueber CoinGecko-API aktualisiert (79.823 -> 80.083 USD, -5,82% seit Kauf pos-0018, leicht von Stop-Loss-Zone entfernt); Brent via Yahoo-Futuresdaten aktualisiert (109,50 -> 110,17 USD, -1,24% seit Kauf pos-0030, leichte Erholung); keine neuen verifizierbaren Katalysatoren, kein Trade vor FOMC (27.-28.10.)",
         "portfolioValue": 1350.58
+      },
+      {
+        "time": "15:25",
+        "note": "Keine Aenderung; BTC auf 79.835 USD aktualisiert (-6,12% seit Kauf pos-0018, naehert sich weiter der Stop-Loss-Zone, aber noch nicht erreicht); Brent auf 109,90 USD aktualisiert (-1,48% seit Kauf pos-0030); kein neuer bestaetigter Katalysator trotz offenem US-Kassamarkt, kein Trade vor FOMC (27.-28.10.)",
+        "portfolioValue": 1346.84
       }
     ]
   }
