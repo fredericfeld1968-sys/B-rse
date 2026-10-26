@@ -10543,14 +10543,14 @@
   },
   {
     "date": "2026-10-26",
-    "marketOverview": "Montag 18:10 CET: Bitcoin seitwaerts bei 80.318 USD (CoinGecko, -0,49% 24h, -5,55% seit Kauf pos-0018), weiterhin innerhalb der Spanne und klar von der Stop-Loss-Zone entfernt. Brent Crude leicht schwaecher via Yahoo-Futuresdaten bei 111,35 USD (-0,31% zum Vortagesschluss, -0,18% seit Kauf pos-0030). Keine neuen, mehrfach unabhaengig bestaetigten Einzeltitel-Katalysatoren fuer Aktien, Krypto oder Rohstoffe gefunden (Websuche zu Markt, Hormuz-Status und Altcoin-Bewegungen ohne aktuelle, auf heute datierte Treffer); Fokus der Maerkte bleibt auf der FOMC-Sitzung am 27.-28.10. und der grossen Tech-Earnings-Woche.",
-    "decision": "Kein Trade. Tagesbudget fuer den 26.10. bereits beim ersten Lauf des Tages gutgeschrieben, keine erneute Gutschrift. BTC (pos-0018) bei -5,55% weiterhin unterhalb der Stop-Loss-Schwelle (-6,5 bis -7,5%), kein Verkauf. Brent (pos-0030) nahezu unveraendert bei -0,18%, weit von Stop-Loss und Ziel-Gewinnspanne (7-9%) entfernt, kein Verkauf. Trotz hohem freiem Kapital (ca. 80.938 EUR) mangels ueberzeugender, mehrfach bestaetigter Einzelgelegenheit vor der FOMC-Entscheidung keine Neuposition.",
-    "reasoning": "CoinGecko-Live-API fuer BTC und Yahoo-Finance-Futuresdaten fuer Brent zeigen beide nur geringe Bewegungen seit dem letzten Lauf. Gezielte Websuchen zu US-Aktienmaerkten, Altcoin-Breakouts und dem Status der Strasse von Hormuz lieferten keine auf heute (26.10.) datierten, mehrfach unabhaengig bestaetigten Einzeltitel-Katalysatoren - lediglich aeltere oder widerspruechliche Berichte. Beide offenen Positionen bleiben innerhalb ihrer etablierten Schwellenwerte, daher kein Trade.",
+    "marketOverview": "Montag 19:17 CET: Bitcoin seitwaerts bei 80.265 USD (CoinGecko-Live-API, -0,54% in 24h, -5,61% seit Kauf pos-0018), weiterhin klar ausserhalb der Stop-Loss-Zone (-6,5 bis -7,5%). Brent Crude leicht schwaecher bei 110,85 USD (Investing.com Live-Quote, -0,76% auf Tagesbasis, -0,63% seit Kauf pos-0030); ein TradingEconomics-CFD-Wert von 115,95 USD wurde als Ausreisser verworfen (widerspricht Investing.com sowie dem bisherigen Tagesverlauf). Keine neuen, mehrfach unabhaengig bestaetigten Einzeltitel-Katalysatoren gefunden; Maerkte bleiben im Wartemodus vor der FOMC-Entscheidung am 27.-28.10. und der grossen Tech-Earnings-Woche.",
+    "decision": "Kein Trade. Tagesbudget fuer den 26.10. bereits beim ersten Lauf des Tages gutgeschrieben, keine erneute Gutschrift. BTC (pos-0018) bei -5,61% weiterhin unterhalb der Stop-Loss-Schwelle, kein Verkauf. Brent (pos-0030) bei -0,63% nahezu unveraendert, weit von Stop-Loss und Ziel-Gewinnspanne (7-9%) entfernt, kein Verkauf. Trotz hohem freiem Kapital (ca. 80.938 EUR) mangels ueberzeugender, mehrfach bestaetigter Einzelgelegenheit vor der FOMC-Entscheidung keine Neuposition.",
+    "reasoning": "CoinGecko-Live-API fuer BTC zeigt nur geringe Bewegung seit dem letzten Lauf. Fuer Brent weichen die Quellen deutlich voneinander ab (TradingEconomics 115,95 USD vs. Investing.com 110,85 USD); da TradingEconomics explizit CFD-Preise ausweist und der Wert nicht zum sonstigen Tagesverlauf (111,35 -> ~111 USD-Bereich) passt, wird die konsistentere Investing.com-Live-Quote uebernommen. Gezielte Websuchen zu US-Aktienmaerkten, Einzeltitel-Bewegern und Krypto-Markt lieferten keine auf heute (26.10.) datierten, mehrfach unabhaengig bestaetigten Katalysatoren - nur undatierte oder widerspruechliche Treffer. Beide offenen Positionen bleiben innerhalb ihrer etablierten Schwellenwerte, daher kein Trade.",
     "positionIds": [
       "pos-0018",
       "pos-0030"
     ],
-    "portfolioValueEnd": 1359.91,
+    "portfolioValueEnd": 1356.35,
     "updates": [
       {
         "time": "00:08",
@@ -10646,6 +10646,11 @@
         "time": "18:10",
         "note": "Keine Aenderung; BTC ueber CoinGecko-API aktualisiert (80.256 -> 80.318 USD, -5,55% seit Kauf pos-0018); Brent via Yahoo-Futuresdaten aktualisiert (110,48 -> 111,35 USD, -0,18% seit Kauf pos-0030); keine frischen, mehrfach bestaetigten Katalysatoren gefunden, kein Trade vor FOMC (27.-28.10.)",
         "portfolioValue": 1359.91
+      },
+      {
+        "time": "19:17",
+        "note": "Keine Aenderung; BTC ueber CoinGecko-API aktualisiert (80.318 -> 80.265 USD, -5,61% seit Kauf pos-0018); Brent via Investing.com-Live-Quote aktualisiert (111,35 -> 110,85 USD, -0,63% seit Kauf pos-0030; TradingEconomics-Ausreisser von 115,95 USD verworfen); keine frischen, mehrfach bestaetigten Katalysatoren gefunden, kein Trade vor FOMC (27.-28.10.)",
+        "portfolioValue": 1356.35
       }
     ]
   }
