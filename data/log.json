@@ -10676,14 +10676,14 @@
   },
   {
     "date": "2026-10-27",
-    "marketOverview": "Maerkte im Vor-FOMC-Wartemodus (Fed-Entscheidung 28.10., 14:00 ET, aktueller Zielkorridor 3,75-4,00%, meiste Prognosen erwarten ein Halten mit hawkishem Unterton). BTC leicht schwaecher (CoinGecko aktuell ca. 79.535 USD, -0,66% 24h). Brent Crude gibt von den Montag-Hochs (bis 117 USD) nach auf ca. 114,68 USD (-1% heute), da US-Iran-Diplomatiebemuehungen (Saudi-Arabien, Tuerkei, Pakistan) Hoffnung auf Deeskalation an der Strasse von Hormuz naehren, waehrend Houthi-Angriffe auf saudische Ziele weiter andauern.",
-    "decision": "Kein Trade in diesem Lauf. BTC-Position (pos-0018) naehert sich mit -6,47% weiter der Stop-Loss-Schwelle (-6,5 bis -7,5%), hat sie aber noch nicht eindeutig durchbrochen; angesichts der unmittelbar bevorstehenden FOMC-Entscheidung (28.10.) und der zuletzt volatilen Schwankungen zwischen -5,7% und -6,47% wird abgewartet statt vorzeitig glattzustellen. Brent-Position (pos-0030) bleibt mit +2,81% im Plus, aber noch deutlich unter der etablierten Zielspanne (7-9%); keine neue Eskalation, die eine Gewinnmitnahme oder Aufstockung rechtfertigen wuerde. Keine neue Position eroeffnet, da vor der morgigen Fed-Entscheidung keine ueberzeugende, unabhaengig bestaetigte Gelegenheit vorliegt.",
-    "reasoning": "Beide offenen Positionen wurden ueber Live-Kurse (CoinGecko fuer BTC, Marktberichte/FinanceFeeds/TradersUnion fuer Brent) aktualisiert. Fuer neue Kaeufe wurde die aktuelle Marktlage recherchiert (Bitcoin, Brent, FOMC-Ausblick, Hormuz-Konflikt), jedoch keine mit ausreichender Unabhaengigkeit bestaetigte, klar ueberzeugende Gelegenheit identifiziert - passend zum bisherigen Muster dieses Tages (kein Trade vor FOMC).",
+    "marketOverview": "Maerkte weiterhin im Vor-FOMC-Wartemodus (Fed-Entscheidung morgen, 28.10., 14:00 ET; Markt preist laut Reuters nur ca. 11% Wahrscheinlichkeit einer Zinserhoehung diese Woche, aber rund 82% fuer Dezember). Bitcoin pendelt weiter um die 79.500-80.300-USD-Marke (leichte Erholung auf ca. 79.700 USD), Krypto insgesamt in breiter Risk-off-Phase (Fear&Greed-Index auf 43 gefallen, ETH schwaecher als BTC). Brent Crude bleibt mit ca. 114,90 USD/Barrel nahe den juengsten Hochs, leicht gedaempft durch Diplomatiebemuehungen (Tehran-Gespraeche mit saudischen, tuerkischen und pakistanischen Vermittlern), waehrend Houthi-Angriffe auf saudische Ziele und US-Drohungen weiterer Schlaege gegen Iran das Eskalationsrisiko an der Strasse von Hormuz hochhalten.",
+    "decision": "Kein Trade in diesem Lauf. BTC-Position (pos-0018) erholt sich leicht auf -6,27% und bleibt damit knapp unter der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%); angesichts der unmittelbar bevorstehenden FOMC-Entscheidung (28.10.) wird weiter abgewartet statt vorzeitig glattzustellen. Brent-Position (pos-0030) bleibt mit +3,00% im Plus, aber weiterhin deutlich unter der Zielspanne (7-9%); keine neue Eskalation oder Deeskalation, die eine Aenderung rechtfertigen wuerde. Keine neue Position eroeffnet, da einen Tag vor der Fed-Entscheidung keine unabhaengig bestaetigte, klar ueberzeugende Gelegenheit vorliegt.",
+    "reasoning": "Beide offenen Positionen wurden anhand aktueller Marktberichte (FXStreet, Coingape, Cryptoticker fuer BTC; FinanceFeeds, HDFC Sky, Equentis fuer Brent) aktualisiert. Fuer neue Kaeufe wurde die aktuelle Lage bei Aktien, ETFs, Krypto und Rohstoffen recherchiert (DAX/S&P-500-Vorschau nicht verlaesslich auffindbar, Kryptomarkt im breiten Risk-off vor dem Fed-Entscheid), jedoch keine mit ausreichender Unabhaengigkeit bestaetigte, klar ueberzeugende Gelegenheit identifiziert - passend zum bisherigen Muster dieses Tages (kein Trade vor FOMC).",
     "positionIds": [
       "pos-0018",
       "pos-0030"
     ],
-    "portfolioValueEnd": 1374.36,
+    "portfolioValueEnd": 1377.1,
     "updates": [
       {
         "time": "00:10",
@@ -10729,6 +10729,11 @@
         "time": "08:09",
         "note": "Kein Trade. BTC ueber CoinGecko-API aktualisiert (79.832 -> 79.535 USD, -6,47% seit Kauf pos-0018, naehert sich Stop-Loss-Schwelle); Brent ueber Marktberichte aktualisiert (114,89 -> 114,68 USD, +2,81% seit Kauf pos-0030, Deeskalationshoffnung US-Iran-Diplomatie); kein neuer Katalysator, Markt weiterhin im Vor-FOMC-Wartemodus (Entscheidung 28.10.)",
         "portfolioValue": 1374.36
+      },
+      {
+        "time": "09:13",
+        "note": "Kein Trade. BTC via Marktrecherche aktualisiert (79.535 -> 79.700 USD, -6,27% seit Kauf pos-0018, leichte Erholung); Brent aktualisiert (114,68 -> 114,90 USD, +3,00% seit Kauf pos-0030); FOMC-Entscheidung morgen (28.10.) weiterhin Hauptfokus, Tehran-Diplomatiegespraeche (Saudi/Tuerkei/Pakistan) daempfen Eskalationsrisiko leicht; kein neuer ueberzeugender Katalysator fuer eine neue Position",
+        "portfolioValue": 1377.1
       }
     ]
   }
