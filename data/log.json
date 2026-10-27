@@ -10676,14 +10676,14 @@
   },
   {
     "date": "2026-10-27",
-    "marketOverview": "US-Aktienmarkt weiterhin breit im Plus (S&P 500 ca. +0,7%), FOMC-Sitzung laeuft, Entscheidung morgen (28.10., ca. 20:00 MEZ) bei breit erwarteter Zinspause. Frische Post-Earnings-Gewinner (Celestica +10% auf starkem Q3/2027-Ausblick, UPS, Royal Caribbean) bereits weit gelaufen bzw. ohne verlaessliche Live-Kursbestaetigung fuer heute; keine neue, unabhaengig bestaetigte Einzelbewegung mit passendem Dip-Einstieg gefunden. BTC pendelt weiterhin um die 80.000-USD-Marke (ca. 79.700-80.030 USD je Quelle), Brent stabil um 114,6-115,3 USD/Barrel (+3,2% Tagesplus) - beide ohne neuen Katalysator seit dem letzten Lauf.",
-    "decision": "Kein Trade in diesem Lauf. BTC-Position (pos-0018) auf 79.850 USD aktualisiert (-6,10% seit Kauf, naehert sich der etablierten Stop-Loss-Schwelle von -6,5 bis -7,5%, aber noch nicht erreicht). Brent-Position (pos-0030) auf 115,30 USD/Barrel aktualisiert (+3,36% seit Kauf), weiterhin im Zielbereich, aber ohne neuen Eskalationskatalysator. Keine neue Position trotz hohem freiem Kapital (ca. 81.900 EUR) - die heutigen Markt-Gewinner sind bereits zu weit gelaufen, fuer BTC/Brent fehlt ein frischer Trigger, und einen Tag vor der FOMC-Entscheidung wird bewusst weiter abgewartet.",
-    "reasoning": "Recherche zu Aktien/ETFs/Krypto/Rohstoffen durchgefuehrt (Celestica, UPS, Royal Caribbean, SoFi, Pentair, Bloom Energy als genannte Tagesgewinner, aber keine frische unabhaengig bestaetigte Kursquelle fuer einen Dip-Einstieg; BTC und Brent nur geringfuegig veraendert gegenueber dem letzten Lauf). Passend zum spekulativen Kurzfrist-Profil wird die BTC-Position trotz Annaeherung an die Stop-Loss-Schwelle noch gehalten, da diese noch nicht erreicht ist; kein neuer stuetzender oder belastender Katalysator fuer Brent gefunden. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen. Vor der morgigen FOMC-Entscheidung bleibt die Grundhaltung vorsichtig.",
+    "marketOverview": "BTC erholt sich leicht auf ca. 80.519 USD (+0,21% 24h laut CoinGecko), bleibt aber unter der psychologischen 81.000-USD-Marke; Brent Crude faellt deutlich auf 109,41 USD/Barrel (-1,20% laut Yahoo Finance/ICE-Future, Tageshoch 111,92 USD) - moegliche Deeskalationssignale an der Strasse von Hormuz daempfen die Risikopraemie. US-Aktienmarkt waehrend regulaerer Handelszeit (13:xx ET), FOMC-Entscheidung weiterhin morgen (28.10., ca. 20:00 MEZ) erwartet, keine neue unabhaengig bestaetigte Einzelaktien-/ETF-Bewegung mit passendem Einstiegssignal gefunden.",
+    "decision": "Kein Trade in diesem Lauf. BTC-Position (pos-0018) auf 80.519 USD aktualisiert (-5,31% seit Kauf, leichte Erholung von der Naehe zur Stop-Loss-Schwelle). Brent-Position (pos-0030) auf 109,41 USD/Barrel aktualisiert (-1,92% seit Kauf, deutlicher Rueckgang von +3,36% auf leicht negativ durch Deeskalationssignale). Keine neue Position trotz sehr hohem freiem Kapital (~81.900 EUR) - kein neuer, unabhaengig bestaetigter Katalysator fuer Aktien/ETFs/Krypto/Rohstoffe gefunden; einen Tag vor der FOMC-Entscheidung bleibt die Grundhaltung abwartend.",
+    "reasoning": "Live-Kurse ueber CoinGecko-API (BTC) und Yahoo-Finance-API (Brent-Future BZ=F) direkt abgerufen und bestaetigt. Websuche zu Aktien-Tagesgewinnern und Krypto-Katalysatoren lieferte keine frischen, auf heute (27.10.) datierten Einzelsignale. Brent-Rueckgang (-1,2% heute) deutet auf nachlassende Eskalationspraemie hin, ohne dass dies bereits die Stop-Loss-Schwelle fuer pos-0030 erreicht; BTC bleibt unter der Stop-Loss-Schwelle (-6,5 bis -7,5%) und wird daher weiter gehalten. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen. Vor der morgigen FOMC-Entscheidung bleibt die Haltung vorsichtig-abwartend.",
     "positionIds": [
       "pos-0018",
       "pos-0030"
     ],
-    "portfolioValueEnd": 1380.85,
+    "portfolioValueEnd": 1349.39,
     "updates": [
       {
         "time": "00:10",
@@ -10774,6 +10774,11 @@
         "time": "17:10",
         "note": "Kein Trade. BTC aktualisiert (80.031 -> 79.850 USD, -6,10% seit Kauf pos-0018, naehert sich Stop-Loss-Schwelle); Brent aktualisiert (115,52 -> 115,30 USD, +3,36% seit Kauf pos-0030); Celestica/UPS/Royal-Caribbean-Gewinne ohne frische bestaetigte Live-Kursquelle, kein neuer ueberzeugender Katalysator, FOMC-Entscheidung morgen (28.10.) bleibt Hauptfokus",
         "portfolioValue": 1380.85
+      },
+      {
+        "time": "18:08",
+        "note": "Kein Trade. BTC via CoinGecko-API aktualisiert (79.850 -> 80.519 USD, -5,31% seit Kauf pos-0018, Erholung von Stop-Loss-Naehe); Brent via Yahoo-Finance-API (BZ=F) aktualisiert (115,30 -> 109,41 USD, -1,92% seit Kauf pos-0030, deutlicher Rueckgang durch moegliche Hormuz-Deeskalation); kein neuer bestaetigter Katalysator fuer eine neue Position gefunden, FOMC-Entscheidung morgen (28.10.) bleibt Hauptfokus.",
+        "portfolioValue": 1349.39
       }
     ]
   }
