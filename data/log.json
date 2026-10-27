@@ -10676,14 +10676,14 @@
   },
   {
     "date": "2026-10-27",
-    "marketOverview": "Bitcoin notiert bei ca. 79.898 USD (+0,08% in 24h laut CoinGecko), weiterhin seitwaerts im Bereich 79.800-80.200 USD. Brent Crude faellt leicht auf ca. 114,62 USD/Barrel (-1,0% auf Tagesbasis laut TradingEconomics) nach der starken Eskalations-Rally der Vorwoche. Maerkte verhalten sich weiterhin abwartend vor der FOMC-Zinsentscheidung am 28.10. (Markt preist laut aktuellen Berichten ca. 80-86% Wahrscheinlichkeit fuer einen Zinsschritt-Stopp bei 3,75-4,00%, mit leicht hawkishem Ton erwartet). Aktien-/ETF-/Rohstoffhandel ist nachts geschlossen, nur Krypto bewegt sich; keine mehrfach bestaetigten Ausbruchs-Katalysatoren bei Altcoins gefunden.",
-    "decision": "Tagesbudget bereits beim 00:10-Lauf gutgeschrieben, keine erneute Gutschrift. BTC (pos-0018) nun bei -6,04% (CoinGecko-Live, 79.898 USD) - naehert sich der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%), aber noch nicht erreicht, daher weiterhin kein Verkauf. Brent (pos-0030) bei +2,75% (114,62 USD, TradingEconomics) - weiterhin deutlich unter der Ziel-Gewinnspanne (7-9%), kein Verkauf. Ausserhalb der US-/EU-Handelszeit ist nur Krypto handelbar; ohne frischen, mehrfach bestaetigten Ausbruchskatalysator und mit dem Markt im Vor-FOMC-Wartemodus (Fed-Entscheidung 28.10., 20:00 MEZ) keine Neuposition trotz hohem freiem Kapital.",
-    "reasoning": "BTC-Preis per CoinGecko-API live abgefragt (79.898 USD, +0,08% 24h). Brent-Preis per TradingEconomics abgefragt (114,62 USD, -1,02% Tagesbasis). Zusaetzliche Recherche zu Altcoin-Breakouts und FOMC-Erwartungen (28.10., Markt preist Zinspause mit ca. 80-86% Wahrscheinlichkeit) ergab keinen aktuellen, mehrfach bestaetigten Katalysator fuer eine neue Position; Markt insgesamt im Vor-FOMC-Wartemodus.",
+    "marketOverview": "Bitcoin notiert bei ca. 79.646 USD (-0,06% in 24h laut CoinGecko), weiterhin seitwaerts/leicht schwaecher im Bereich 79.600-80.200 USD. Brent Crude faellt weiter auf ca. 114,47 USD/Barrel (-1,16% auf Tagesbasis laut Oilprice.com) im Zuge der anhaltenden Konsolidierung nach der Eskalations-Rally der Vorwoche. Maerkte bleiben im Vor-FOMC-Wartemodus (Zinsentscheidung 28.10., Markt preist laut aktuellen Berichten mehrheitlich einen Zinsschritt-Stopp bei 3,75-4,00%). Aktien-/ETF-/Rohstoffhandel ist nachts geschlossen, nur Krypto bewegt sich; keine mehrfach bestaetigten Ausbruchs-Katalysatoren bei Altcoins gefunden (QNT zwar +6,8% in 24h laut CoinGecko, aber keine unabhaengig bestaetigte fundamentale Nachricht dazu auffindbar).",
+    "decision": "Tagesbudget bereits beim 00:10-Lauf gutgeschrieben, keine erneute Gutschrift. BTC (pos-0018) nun bei -6,34% (CoinGecko-Live, 79.646 USD) - naehert sich der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%), aber noch nicht erreicht, daher weiterhin kein Verkauf. Brent (pos-0030) bei +2,62% (114,47 USD, Oilprice.com) - weiterhin deutlich unter der Ziel-Gewinnspanne (7-9%), kein Verkauf. Ausserhalb der US-/EU-Handelszeit ist nur Krypto handelbar; ohne frischen, mehrfach bestaetigten Ausbruchskatalysator und mit dem Markt im Vor-FOMC-Wartemodus (Fed-Entscheidung 28.10.) keine Neuposition trotz hohem freiem Kapital.",
+    "reasoning": "BTC-Preis per CoinGecko-API live abgefragt (79.646 USD, -0,06% 24h). Brent-Preis per Oilprice.com abgefragt (114,47 USD, -1,16% Tagesbasis). Zusaetzliche Pruefung weiterer Altcoins (SOL, AVAX, DOGE, XRP, HYPE, BCH, QNT) per CoinGecko-API ergab keinen mehrfach unabhaengig bestaetigten, frischen Ausbruchskatalysator (QNT-Anstieg von +6,8%/24h ohne auffindbare fundamentale Nachricht, daher nicht gehandelt); Markt insgesamt im Vor-FOMC-Wartemodus.",
     "positionIds": [
       "pos-0018",
       "pos-0030"
     ],
-    "portfolioValueEnd": 1376.97,
+    "portfolioValueEnd": 1373.96,
     "updates": [
       {
         "time": "00:10",
@@ -10704,6 +10704,11 @@
         "time": "03:09",
         "note": "Kein Trade. BTC ueber CoinGecko-API aktualisiert (80.178 -> 79.898 USD, -6,04% seit Kauf pos-0018, naehert sich Stop-Loss-Schwelle); Brent ueber TradingEconomics aktualisiert (114,85 -> 114,62 USD, +2,75% seit Kauf pos-0030); kein neuer Katalysator, Markt weiterhin im Vor-FOMC-Wartemodus (Entscheidung 28.10.)",
         "portfolioValue": 1376.97
+      },
+      {
+        "time": "04:10",
+        "note": "Kein Trade. BTC ueber CoinGecko-API aktualisiert (79.898 -> 79.646 USD, -6,34% seit Kauf pos-0018, naehert sich Stop-Loss-Schwelle); Brent ueber Oilprice.com aktualisiert (114,62 -> 114,47 USD, +2,62% seit Kauf pos-0030); kein neuer Katalysator, Markt weiterhin im Vor-FOMC-Wartemodus (Entscheidung 28.10.)",
+        "portfolioValue": 1373.96
       }
     ]
   }
