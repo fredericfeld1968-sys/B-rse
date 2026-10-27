@@ -10676,14 +10676,14 @@
   },
   {
     "date": "2026-10-27",
-    "marketOverview": "Bitcoin notiert bei ca. 79.703 USD (-0,36% in 24h laut CoinGecko), weiterhin seitwaerts im Bereich 79.600-80.200 USD. Brent Crude bei ca. 114,65 USD/Barrel (leicht delayed, duenner Nachthandel laut Oilprice.com). Maerkte bleiben im Vor-FOMC-Wartemodus (Zinsentscheidung 28.10.). Aktien-/ETF-/Rohstoffhandel ist nachts geschlossen, nur Krypto bewegt sich; keine mehrfach bestaetigten Ausbruchs-Katalysatoren bei Altcoins gefunden, auch keine frischen Iran/Hormuz-Entwicklungen ueber den bereits eingepreisten Stand hinaus.",
-    "decision": "Tagesbudget bereits beim 00:10-Lauf gutgeschrieben, keine erneute Gutschrift. BTC (pos-0018) nun bei -6,27% (CoinGecko-Live, 79.703 USD) - naehert sich weiterhin der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%), aber noch nicht erreicht, daher weiterhin kein Verkauf. Brent (pos-0030) bei +2,78% (114,65 USD, Oilprice.com) - weiterhin deutlich unter der Ziel-Gewinnspanne (7-9%), kein Verkauf. Ausserhalb der US-/EU-Handelszeit ist nur Krypto handelbar; ohne frischen, mehrfach bestaetigten Ausbruchskatalysator und mit dem Markt im Vor-FOMC-Wartemodus (Fed-Entscheidung 28.10.) keine Neuposition trotz hohem freiem Kapital.",
-    "reasoning": "BTC-Preis per CoinGecko-API live abgefragt (79.703 USD, -0,36% 24h). Brent-Preis per Oilprice.com abgefragt (114,65 USD, delayed/duenner Nachthandel). Zusaetzliche Pruefung von Altcoin-/Krypto-News sowie geopolitischer Lage (Iran/Hormuz) ergab keinen neuen, mehrfach unabhaengig bestaetigten Katalysator; Markt insgesamt im Vor-FOMC-Wartemodus.",
+    "marketOverview": "Bitcoin bei ca. 79.832 USD (CoinGecko, -0,20% in 24h), weiterhin seitwaerts im Bereich 79.700-80.200 USD. Brent Crude bei ca. 114,89 USD/Barrel (Oilprice.com, -0,79%, duenner Vormarkt-Handel). Maerkte weiterhin im Vor-FOMC-Wartemodus (Zinsentscheidung 28.10.), europaeische Boersen noch nicht geoeffnet (vor 9:00 MEZ). Keine neuen, mehrfach bestaetigten Katalysatoren bei Krypto, Aktien oder Geopolitik (Iran/Hormuz) gefunden.",
+    "decision": "Tagesbudget bereits beim 00:10-Lauf gutgeschrieben, keine erneute Gutschrift. BTC (pos-0018) nun bei -6,12% (79.832 USD) - leicht erholt gegenueber dem letzten Stand, weiterhin unterhalb der Stop-Loss-Schwelle (-6,5 bis -7,5%), daher kein Verkauf. Brent (pos-0030) bei +2,99% (114,89 USD) - weiterhin deutlich unter der Ziel-Gewinnspanne (7-9%), kein Verkauf. Vor Boersenoeffnung sind Aktien/ETFs nicht handelbar; ohne frischen, mehrfach bestaetigten Ausbruchskatalysator und im Vor-FOMC-Wartemodus keine Neuposition trotz hohem freiem Kapital.",
+    "reasoning": "BTC-Preis per CoinGecko-API live abgefragt (79.832 USD, -0,20% 24h). Brent-Preis per Oilprice.com abgefragt (114,89 USD, -0,79%, delayed/duenner Vormarkt-Handel). Zusaetzliche Suche nach Altcoin-/Markt-News sowie FOMC- und Iran/Hormuz-Entwicklungen ergab keine neuen, verlaesslich datierten, mehrfach unabhaengig bestaetigten Katalysatoren fuer diesen Lauf.",
     "positionIds": [
       "pos-0018",
       "pos-0030"
     ],
-    "portfolioValueEnd": 1375.56,
+    "portfolioValueEnd": 1378.13,
     "updates": [
       {
         "time": "00:10",
@@ -10719,6 +10719,11 @@
         "time": "06:09",
         "note": "Kein Trade. BTC ueber CoinGecko-API aktualisiert (79.731 -> 79.703 USD, -6,27% seit Kauf pos-0018); Brent ueber Oilprice.com aktualisiert (114,85 -> 114,65 USD, +2,78% seit Kauf pos-0030); kein neuer Katalysator, Markt weiterhin im Vor-FOMC-Wartemodus (Entscheidung 28.10.)",
         "portfolioValue": 1375.56
+      },
+      {
+        "time": "07:09",
+        "note": "Kein Trade. BTC ueber CoinGecko-API aktualisiert (79.703 -> 79.832 USD, -6,12% seit Kauf pos-0018); Brent ueber Oilprice.com aktualisiert (114,65 -> 114,89 USD, +2,99% seit Kauf pos-0030); kein neuer Katalysator, Markt weiterhin im Vor-FOMC-Wartemodus (Entscheidung 28.10.)",
+        "portfolioValue": 1378.13
       }
     ]
   }
