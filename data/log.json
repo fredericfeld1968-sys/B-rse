@@ -10676,14 +10676,14 @@
   },
   {
     "date": "2026-10-27",
-    "marketOverview": "US-Aktienmarkt im fruehen Handel breit im Plus (S&P 500 +0,7%, Nasdaq +0,8%), getragen von starker Berichtssaison (Pentair +11,8%, SoFi +11,3%, Bloom Energy +7,8%, Royal Caribbean +5%, Broadcom +2% nach 63-Mrd-USD-Finanzierungspaket fuer Anthropic-Rechenzentren) - mehrfach unabhaengig bestaetigt (TheStreet, Yahoo Finance, Investrade). Boeing faellt -5,6% auf Jahrestief wegen Fuehrungswechsel. FOMC-Sitzung hat heute begonnen, Entscheidung morgen (28.10., ca. 20:00 MEZ) bei breit erwarteter Zinspause. Erneute US-Iran-Diplomatie weckt Hoffnung auf einen Nahost-Deal und drueckt auf Oelpreise. Fuer BTC/Brent keine zuverlaessigen frischeren Live-Kurse als im letzten Lauf gefunden; Werte unveraendert fortgeschrieben.",
-    "decision": "Kein Trade in diesem Lauf. BTC-Position (pos-0018) unveraendert bei -5,88% fortgeschrieben (keine verlaesslichere Kursquelle gefunden), bleibt unter der Stop-Loss-Schwelle. Brent-Position (pos-0030) unveraendert bei +3,56%; neue Nahost-Diplomatie (Hoffnung auf Iran-Deal) ist ein Abwaertsrisiko fuer die Position, aber ohne bestaetigten aktuellen Kurs keine Reaktion. Die heutigen grossen Kursgewinner (Pentair, SoFi, Bloom Energy) sind bereits deutlich gelaufen und passen nicht mehr zum etablierten Dip-Kauf-Muster; kein neuer, unabhaengig bestaetigter Einstiegskatalysator gefunden. Keine neue Position trotz verfuegbarem freiem Kapital - einen Tag vor der FOMC-Entscheidung wird bewusst abgewartet.",
-    "reasoning": "Recherche zu Aktien/ETFs/Krypto/Rohstoffen durchgefuehrt: breite Markt-Rally durch Earnings-Season bestaetigt, jedoch keine der genannten Einzelbewegungen bietet einen frischen Einstiegspunkt (Gewinner bereits weit ueber Zielspanne gelaufen, Boeing-Rueckgang fundamental/strukturell statt Ueberreaktion). Fuer BTC und Brent lieferte die Websuche erneut keine zuverlaessige, auf heute datierte Live-Kursquelle, daher wurden beide offenen Positionen mit den zuletzt bestaetigten Werten fortgeschrieben, passend zum bisherigen vorsichtigen Muster dieses Tages vor der morgigen FOMC-Entscheidung.",
+    "marketOverview": "US-Aktienmarkt weiterhin breit im Plus (S&P 500 ca. +0,7%), FOMC-Sitzung laeuft, Entscheidung morgen (28.10., ca. 20:00 MEZ) bei breit erwarteter Zinspause. Frische Post-Earnings-Gewinner (Celestica +10% auf starkem Q3/2027-Ausblick, UPS, Royal Caribbean) bereits weit gelaufen bzw. ohne verlaessliche Live-Kursbestaetigung fuer heute; keine neue, unabhaengig bestaetigte Einzelbewegung mit passendem Dip-Einstieg gefunden. BTC pendelt weiterhin um die 80.000-USD-Marke (ca. 79.700-80.030 USD je Quelle), Brent stabil um 114,6-115,3 USD/Barrel (+3,2% Tagesplus) - beide ohne neuen Katalysator seit dem letzten Lauf.",
+    "decision": "Kein Trade in diesem Lauf. BTC-Position (pos-0018) auf 79.850 USD aktualisiert (-6,10% seit Kauf, naehert sich der etablierten Stop-Loss-Schwelle von -6,5 bis -7,5%, aber noch nicht erreicht). Brent-Position (pos-0030) auf 115,30 USD/Barrel aktualisiert (+3,36% seit Kauf), weiterhin im Zielbereich, aber ohne neuen Eskalationskatalysator. Keine neue Position trotz hohem freiem Kapital (ca. 81.900 EUR) - die heutigen Markt-Gewinner sind bereits zu weit gelaufen, fuer BTC/Brent fehlt ein frischer Trigger, und einen Tag vor der FOMC-Entscheidung wird bewusst weiter abgewartet.",
+    "reasoning": "Recherche zu Aktien/ETFs/Krypto/Rohstoffen durchgefuehrt (Celestica, UPS, Royal Caribbean, SoFi, Pentair, Bloom Energy als genannte Tagesgewinner, aber keine frische unabhaengig bestaetigte Kursquelle fuer einen Dip-Einstieg; BTC und Brent nur geringfuegig veraendert gegenueber dem letzten Lauf). Passend zum spekulativen Kurzfrist-Profil wird die BTC-Position trotz Annaeherung an die Stop-Loss-Schwelle noch gehalten, da diese noch nicht erreicht ist; kein neuer stuetzender oder belastender Katalysator fuer Brent gefunden. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen. Vor der morgigen FOMC-Entscheidung bleibt die Grundhaltung vorsichtig.",
     "positionIds": [
       "pos-0018",
       "pos-0030"
     ],
-    "portfolioValueEnd": 1383.72,
+    "portfolioValueEnd": 1380.85,
     "updates": [
       {
         "time": "00:10",
@@ -10769,6 +10769,11 @@
         "time": "16:18",
         "note": "Keine Aenderung. Breite US-Markt-Rally durch starke Earnings (Pentair, SoFi, Bloom Energy, Broadcom/Anthropic-Deal) bestaetigt, aber keine Position passt zum Dip-Kauf-Muster; BTC (pos-0018, -5,88%) und Brent (pos-0030, +3,56%) mangels frischerer verlaesslicher Kurse unveraendert fortgeschrieben. Nahost-Diplomatie (Iran) als Abwaertsrisiko fuer Brent vermerkt. FOMC-Entscheidung morgen (28.10.) bleibt Hauptfokus, kein Trade.",
         "portfolioValue": 1383.72
+      },
+      {
+        "time": "17:10",
+        "note": "Kein Trade. BTC aktualisiert (80.031 -> 79.850 USD, -6,10% seit Kauf pos-0018, naehert sich Stop-Loss-Schwelle); Brent aktualisiert (115,52 -> 115,30 USD, +3,36% seit Kauf pos-0030); Celestica/UPS/Royal-Caribbean-Gewinne ohne frische bestaetigte Live-Kursquelle, kein neuer ueberzeugender Katalysator, FOMC-Entscheidung morgen (28.10.) bleibt Hauptfokus",
+        "portfolioValue": 1380.85
       }
     ]
   }
