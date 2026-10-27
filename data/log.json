@@ -10754,6 +10754,11 @@
         "time": "12:27",
         "note": "Kein Trade. Keine neue zuverlaessige, auf heute datierte Marktdatenquelle gefunden (Websuche zu BTC/Brent widerspruechlich bzw. veraltet); BTC (pos-0018, ca. 79.800 USD, -6,16%) und Brent (pos-0030, ca. 115,00 USD/Barrel, +3,09%) unveraendert fortgeschrieben. FOMC-Sitzung laeuft weiter (Entscheidung morgen, 28.10., ca. 20:00 MEZ), Markt bleibt im Wartemodus, kein neuer ueberzeugender Katalysator fuer eine neue Position.",
         "portfolioValue": 1378.56
+      },
+      {
+        "time": "14:09",
+        "note": "Keine Aenderung. Keine zuverlaessigen frischen Live-Kurse gefunden (Websuche zu BTC/Brent weiterhin widerspruechlich bzw. veraltet); BTC (pos-0018, ca. 79.800 USD, -6,16%) und Brent (pos-0030, ca. 115,00 USD/Barrel, +3,09%) unveraendert fortgeschrieben. FOMC-Entscheidung morgen (28.10., ca. 20:00 MEZ) bleibt Hauptfokus, kein neuer ueberzeugender Katalysator fuer eine neue Position.",
+        "portfolioValue": 1378.56
       }
     ]
   }
