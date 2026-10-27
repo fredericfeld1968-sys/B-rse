@@ -10676,14 +10676,14 @@
   },
   {
     "date": "2026-10-27",
-    "marketOverview": "Maerkte weiterhin im Vor-FOMC-Wartemodus: Die Fed startet heute (27.10.) ihre zweitaegige Sitzung, Entscheidung folgt morgen (28.10., 20:00 MEZ) mit breit erwarteter Zinspause bei 3,75-4,00%. Bitcoin faellt laut Benzinga/Investing.com bereits den fuenften Tag in Folge unter 80.000 USD (aktuell ca. 79.580-80.400 USD) - Anleger bleiben vor dem Fed-Entscheid risikoscheu, trotz weiterhin positiver Spot-ETF-Zufluesse in der Vorwoche (+301 Mio. USD). Brent Crude gibt laut Trading Economics leicht auf 115,23 USD/Barrel nach (-0,5% zum Vortag), nachdem ein Vier-Nationen-Sicherheitstreffen in Teheran (Saudi-Arabien, Iran u.a.) die unmittelbaren Eskalationssorgen an der Strasse von Hormuz etwas gedaempft hat; der Oelpreis bleibt aber nahe mehrmonatigen Hochs. Keine neuen, unabhaengig bestaetigten Einzelkatalysatoren bei Aktien/ETFs (DAX, US-Futures gemischt) gefunden.",
-    "decision": "Kein Trade in diesem Lauf. BTC-Position (pos-0018) rutscht mit -6,33% weiter in Richtung der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%), bleibt aber knapp darunter; einen Tag vor der FOMC-Entscheidung (28.10.) wird bewusst weiter abgewartet statt vorzeitig glattzustellen. Brent-Position (pos-0030) bleibt mit +3,30% im Plus, aber weiterhin deutlich unter der Zielspanne (7-9%); die leichte Deeskalation durch die Teheran-Gespraeche rechtfertigt keine Glattstellung, da die fundamentale Eskalationsthese (Hormuz) weiter intakt bleibt. Keine neue Position eroeffnet, da keine unabhaengig bestaetigte, klar ueberzeugende Gelegenheit vorliegt.",
-    "reasoning": "Beide offenen Positionen wurden anhand aktueller Marktberichte aktualisiert (BTC: Benzinga, Investing.com; Brent: Trading Economics, Benzinga - fuer Brent wird die Trading-Economics-Notierung von 115,23 USD als konsistente Fortfuehrung der bisherigen Tagesreihe verwendet, da andere Quellen durch einen Kontraktrollover am 25.10. abweichen). Fuer neue Kaeufe wurde die aktuelle Lage bei Aktien, ETFs, Krypto und Rohstoffen recherchiert; der heutige Handelstag steht im Zeichen des FOMC-Sitzungsbeginns, Risikoaversion dominiert (fuenfter Tag in Folge mit BTC unter 80k), jedoch wurde keine mit ausreichender Unabhaengigkeit bestaetigte, klar ueberzeugende Einzelgelegenheit identifiziert - passend zum bisherigen Muster dieses Tages (kein Trade vor FOMC).",
+    "marketOverview": "Maerkte verbleiben im Vor-FOMC-Wartemodus: Die Fed-Sitzung laeuft (27.-28.10.), die Zinsentscheidung wird morgen Abend (28.10., ca. 20:00 MEZ) bei breit erwarteter Pause auf 3,75-4,00% erwartet. Bitcoin pendelt laut mehreren Boersen (OKX, Coinbase, Fortune) weiter im Bereich 79.800-80.400 USD, bleibt den fuenften/sechsten Tag in Folge unter 80.000-85.000 USD, Investoren bleiben vor der Fed-Entscheidung sowie wegen Sorgen um die Hoehe der KI-Investitionen risikoscheu. Fuer Brent Crude liegen keine frischen, eindeutig auf heute datierten Live-Kurse vor (Suchergebnisse widerspruechlich/veraltet); der zuletzt bestaetigte Stand von ca. 115 USD/Barrel (Trading Economics/Oilprice-Konsens) wird mangels neuer Gegenevidenz fortgeschrieben. Keine neuen, unabhaengig bestaetigten Einzelkatalysatoren bei Aktien/ETFs gefunden.",
+    "decision": "Kein Trade in diesem Lauf. BTC-Position (pos-0018) liegt bei -6,16%, weiterhin knapp unter der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%); einen Tag vor der FOMC-Entscheidung (28.10.) wird bewusst weiter abgewartet statt vorzeitig glattzustellen. Brent-Position (pos-0030) bleibt mit +3,09% im Plus, aber weiterhin deutlich unter der Zielspanne (7-9%); keine Glattstellung. Keine neue Position eroeffnet, da keine unabhaengig bestaetigte, klar ueberzeugende Gelegenheit identifiziert wurde (Suchergebnisse zu aktuellen Marktpreisen groesstenteils veraltet/widerspruechlich).",
+    "reasoning": "Beide offenen Positionen wurden mit den aktuell verfuegbaren Kursindikationen aktualisiert (BTC: Clusterwert mehrerer Boersen/Nachrichtenquellen um 79.800 USD; Brent: mangels frischer bestaetigter Quelle der zuletzt etablierte Stand von 115,00 USD/Barrel fortgeschrieben). Fuer neue Kaeufe wurde erneut nach Aktien-, ETF-, Krypto- und Rohstoff-Gelegenheiten recherchiert; der Tag steht weiterhin im Zeichen des laufenden FOMC-Treffens, die Websuche lieferte jedoch keine frischen, auf heute datierten und mehrfach unabhaengig bestaetigten Katalysatoren - passend zum bisherigen Muster dieses Tages wird daher weiterhin kein Trade getaetigt.",
     "positionIds": [
       "pos-0018",
       "pos-0030"
     ],
-    "portfolioValueEnd": 1378.76,
+    "portfolioValueEnd": 1378.56,
     "updates": [
       {
         "time": "00:10",
@@ -10744,6 +10744,11 @@
         "time": "11:08",
         "note": "Kein Trade. BTC aktualisiert (79.700 -> 79.650 USD, -6,33% seit Kauf pos-0018, faellt laut Marktberichten den fuenften Tag in Folge unter 80k vor FOMC); Brent aktualisiert (114,80 -> 115,23 USD, +3,30% seit Kauf pos-0030, leichte Deeskalation durch Teheran-Sicherheitsgespraeche); kein neuer Katalysator fuer eine neue Position, FOMC-Sitzungsbeginn heute, Entscheidung morgen (28.10.)",
         "portfolioValue": 1378.76
+      },
+      {
+        "time": "12:09",
+        "note": "Kein Trade. BTC aktualisiert (79.650 -> 79.800 USD, -6,16% seit Kauf pos-0018); Brent mangels frischer bestaetigter Quelle bei 115,00 USD/Barrel fortgeschrieben (+3,09% seit Kauf pos-0030); kein neuer Katalysator gefunden, FOMC-Entscheidung weiterhin morgen (28.10.) erwartet",
+        "portfolioValue": 1378.56
       }
     ]
   }
