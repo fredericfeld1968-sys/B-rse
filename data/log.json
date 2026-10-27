@@ -10676,14 +10676,14 @@
   },
   {
     "date": "2026-10-27",
-    "marketOverview": "BTC erholt sich leicht auf ca. 80.519 USD (+0,21% 24h laut CoinGecko), bleibt aber unter der psychologischen 81.000-USD-Marke; Brent Crude faellt deutlich auf 109,41 USD/Barrel (-1,20% laut Yahoo Finance/ICE-Future, Tageshoch 111,92 USD) - moegliche Deeskalationssignale an der Strasse von Hormuz daempfen die Risikopraemie. US-Aktienmarkt waehrend regulaerer Handelszeit (13:xx ET), FOMC-Entscheidung weiterhin morgen (28.10., ca. 20:00 MEZ) erwartet, keine neue unabhaengig bestaetigte Einzelaktien-/ETF-Bewegung mit passendem Einstiegssignal gefunden.",
-    "decision": "Kein Trade in diesem Lauf. BTC-Position (pos-0018) auf 80.519 USD aktualisiert (-5,31% seit Kauf, leichte Erholung von der Naehe zur Stop-Loss-Schwelle). Brent-Position (pos-0030) auf 109,41 USD/Barrel aktualisiert (-1,92% seit Kauf, deutlicher Rueckgang von +3,36% auf leicht negativ durch Deeskalationssignale). Keine neue Position trotz sehr hohem freiem Kapital (~81.900 EUR) - kein neuer, unabhaengig bestaetigter Katalysator fuer Aktien/ETFs/Krypto/Rohstoffe gefunden; einen Tag vor der FOMC-Entscheidung bleibt die Grundhaltung abwartend.",
-    "reasoning": "Live-Kurse ueber CoinGecko-API (BTC) und Yahoo-Finance-API (Brent-Future BZ=F) direkt abgerufen und bestaetigt. Websuche zu Aktien-Tagesgewinnern und Krypto-Katalysatoren lieferte keine frischen, auf heute (27.10.) datierten Einzelsignale. Brent-Rueckgang (-1,2% heute) deutet auf nachlassende Eskalationspraemie hin, ohne dass dies bereits die Stop-Loss-Schwelle fuer pos-0030 erreicht; BTC bleibt unter der Stop-Loss-Schwelle (-6,5 bis -7,5%) und wird daher weiter gehalten. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen. Vor der morgigen FOMC-Entscheidung bleibt die Haltung vorsichtig-abwartend.",
+    "marketOverview": "BTC pendelt knapp unter der 81.000-USD-Marke bei ca. 80.462 USD (+0,31% 24h laut CoinGecko-API); Brent Crude bleibt mit 109,47 USD/Barrel (-1,15% heute laut Investing.com) im Rueckgang, moegliche Hormuz-Deeskalationssignale daempfen die Risikopraemie weiter. An der Wall Street setzt sich die breite, von Big Tech und Halbleitern (Intel +3,2%, Nvidia-Meta-Investitionsdeal) getragene Rally fort (Nasdaq +1,1%, S&P 500 +0,6%); SoFi (+13%) und UPS (+5%) legen nach starken Quartalszahlen bereits deutlich zu, Boeing bricht dagegen nach verfehlten Erwartungen um fast 10% ein. FOMC-Entscheidung weiterhin morgen (28.10., ca. 20:00 MEZ) erwartet, Markt bleibt im Wartemodus.",
+    "decision": "Kein Trade in diesem Lauf. BTC-Position (pos-0018) auf 80.462 USD aktualisiert (-5,38% seit Kauf, naehert sich der Stop-Loss-Schwelle, aber noch nicht erreicht). Brent-Position (pos-0030) auf 109,47 USD/Barrel aktualisiert (-1,86% seit Kauf). Keine neue Position trotz sehr hohem freiem Kapital (~81.900 EUR): die auffaelligsten Einzeltitel-Bewegungen (SoFi +13%, UPS +5%) sind bereits weit gelaufen (Nachzuegler-Kauf nach solcher Bewegung passt nicht zum bewaehrten Fruehzeitigkeits-Einstiegsmuster), Boeing-Einbruch ist ein fundamentales Verfehlen der Erwartungen (kein Dip-Kauf-Kandidat), kein frischer, unabhaengig bestaetigter Katalysator fuer Krypto/Rohstoffe. Einen Tag vor der FOMC-Entscheidung bleibt die Grundhaltung abwartend.",
+    "reasoning": "Live-Kurse direkt abgerufen: BTC ueber CoinGecko-API (80.462 USD, +0,31% 24h), Brent ueber Investing.com (109,47 USD/Barrel, -1,15% heute, Realtime-Stand 14:06 Uhr). Websuche zu US-Aktienmarkt (Yahoo Finance, Stand ca. 14:11 ET/20:11 MEZ) bestaetigt breite Rally getragen von Halbleitern/Big Tech; Einzeltitel-Gewinner (SoFi +13% nach Zahlen, UPS +5% nach angehobener Prognose, Intel +3,2%) haben ihre Bewegung grossteils bereits hinter sich, ein Einstieg jetzt waere ein verspaeteter Nachzuegler-Kauf ohne die beim bisherigen Erfolgsmuster (AMD, SpaceX, Palantir, Meta, NVIDIA) uebliche fruehe Ueberreaktion. Boeing (-9,7%) ist ein echter Erwartungsfehltritt, kein Sentiment-Ausverkauf, daher kein Dip-Kauf. BTC (pos-0018) bleibt mit -5,38% noch unter der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%) und wird weiter gehalten; Brent (pos-0030) liegt mit -1,86% deutlich im tolerierten Bereich. Keine Position verstoesst gegen Ausschlusslisten aus den Einstellungen. Vor der morgigen FOMC-Entscheidung (28.10., ca. 20:00 MEZ) bleibt die Haltung vorsichtig-abwartend.",
     "positionIds": [
       "pos-0018",
       "pos-0030"
     ],
-    "portfolioValueEnd": 1349.39,
+    "portfolioValueEnd": 1349.31,
     "updates": [
       {
         "time": "00:10",
@@ -10779,6 +10779,11 @@
         "time": "18:08",
         "note": "Kein Trade. BTC via CoinGecko-API aktualisiert (79.850 -> 80.519 USD, -5,31% seit Kauf pos-0018, Erholung von Stop-Loss-Naehe); Brent via Yahoo-Finance-API (BZ=F) aktualisiert (115,30 -> 109,41 USD, -1,92% seit Kauf pos-0030, deutlicher Rueckgang durch moegliche Hormuz-Deeskalation); kein neuer bestaetigter Katalysator fuer eine neue Position gefunden, FOMC-Entscheidung morgen (28.10.) bleibt Hauptfokus.",
         "portfolioValue": 1349.39
+      },
+      {
+        "time": "19:11",
+        "note": "Kein Trade. BTC ueber CoinGecko-API aktualisiert (80.519 -> 80.462 USD, -5,38% seit Kauf pos-0018); Brent ueber Investing.com aktualisiert (109,41 -> 109,47 USD, -1,86% seit Kauf pos-0030); breite Big-Tech/Halbleiter-Rally an der Wall Street (SoFi +13%, UPS +5%, Boeing -9,7%), aber keine neue ueberzeugende fruehe Einstiegsgelegenheit gefunden, FOMC-Entscheidung morgen (28.10.) bleibt Hauptfokus.",
+        "portfolioValue": 1349.31
       }
     ]
   }
