@@ -10676,14 +10676,14 @@
   },
   {
     "date": "2026-10-27",
-    "marketOverview": "Bitcoin notiert bei ca. 79.731 USD (+0,09% in 24h laut CoinGecko), weiterhin seitwaerts im Bereich 79.600-80.200 USD. Brent Crude leicht erholt auf ca. 114,85 USD/Barrel (-0,83% auf Tagesbasis laut Oilprice.com) nach der Konsolidierung der Vorwoche. Maerkte bleiben im Vor-FOMC-Wartemodus (Zinsentscheidung 28.10., Markt preist mehrheitlich einen Zinsschritt-Stopp bei 3,75-4,00%). Aktien-/ETF-/Rohstoffhandel ist nachts geschlossen, nur Krypto bewegt sich; keine mehrfach bestaetigten Ausbruchs-Katalysatoren bei Altcoins (SOL, AVAX, XRP, ETH) gefunden.",
-    "decision": "Tagesbudget bereits beim 00:10-Lauf gutgeschrieben, keine erneute Gutschrift. BTC (pos-0018) nun bei -6,24% (CoinGecko-Live, 79.731 USD) - naehert sich weiterhin der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%), aber noch nicht erreicht, daher weiterhin kein Verkauf. Brent (pos-0030) bei +2,96% (114,85 USD, Oilprice.com) - weiterhin deutlich unter der Ziel-Gewinnspanne (7-9%), kein Verkauf. Ausserhalb der US-/EU-Handelszeit ist nur Krypto handelbar; ohne frischen, mehrfach bestaetigten Ausbruchskatalysator und mit dem Markt im Vor-FOMC-Wartemodus (Fed-Entscheidung 28.10.) keine Neuposition trotz hohem freiem Kapital.",
-    "reasoning": "BTC-Preis per CoinGecko-API live abgefragt (79.731 USD, +0,09% 24h). Brent-Preis per Oilprice.com abgefragt (114,85 USD, -0,83% Tagesbasis). Zusaetzliche Pruefung von Altcoin-/Krypto-News ergab keinen mehrfach unabhaengig bestaetigten, frischen Ausbruchskatalysator; Markt insgesamt im Vor-FOMC-Wartemodus.",
+    "marketOverview": "Bitcoin notiert bei ca. 79.703 USD (-0,36% in 24h laut CoinGecko), weiterhin seitwaerts im Bereich 79.600-80.200 USD. Brent Crude bei ca. 114,65 USD/Barrel (leicht delayed, duenner Nachthandel laut Oilprice.com). Maerkte bleiben im Vor-FOMC-Wartemodus (Zinsentscheidung 28.10.). Aktien-/ETF-/Rohstoffhandel ist nachts geschlossen, nur Krypto bewegt sich; keine mehrfach bestaetigten Ausbruchs-Katalysatoren bei Altcoins gefunden, auch keine frischen Iran/Hormuz-Entwicklungen ueber den bereits eingepreisten Stand hinaus.",
+    "decision": "Tagesbudget bereits beim 00:10-Lauf gutgeschrieben, keine erneute Gutschrift. BTC (pos-0018) nun bei -6,27% (CoinGecko-Live, 79.703 USD) - naehert sich weiterhin der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%), aber noch nicht erreicht, daher weiterhin kein Verkauf. Brent (pos-0030) bei +2,78% (114,65 USD, Oilprice.com) - weiterhin deutlich unter der Ziel-Gewinnspanne (7-9%), kein Verkauf. Ausserhalb der US-/EU-Handelszeit ist nur Krypto handelbar; ohne frischen, mehrfach bestaetigten Ausbruchskatalysator und mit dem Markt im Vor-FOMC-Wartemodus (Fed-Entscheidung 28.10.) keine Neuposition trotz hohem freiem Kapital.",
+    "reasoning": "BTC-Preis per CoinGecko-API live abgefragt (79.703 USD, -0,36% 24h). Brent-Preis per Oilprice.com abgefragt (114,65 USD, delayed/duenner Nachthandel). Zusaetzliche Pruefung von Altcoin-/Krypto-News sowie geopolitischer Lage (Iran/Hormuz) ergab keinen neuen, mehrfach unabhaengig bestaetigten Katalysator; Markt insgesamt im Vor-FOMC-Wartemodus.",
     "positionIds": [
       "pos-0018",
       "pos-0030"
     ],
-    "portfolioValueEnd": 1377.05,
+    "portfolioValueEnd": 1375.56,
     "updates": [
       {
         "time": "00:10",
@@ -10714,6 +10714,11 @@
         "time": "05:08",
         "note": "Kein Trade. BTC ueber CoinGecko-API aktualisiert (79.646 -> 79.731 USD, -6,24% seit Kauf pos-0018); Brent ueber Oilprice.com aktualisiert (114,47 -> 114,85 USD, +2,96% seit Kauf pos-0030); kein neuer Katalysator, Markt weiterhin im Vor-FOMC-Wartemodus (Entscheidung 28.10.)",
         "portfolioValue": 1377.05
+      },
+      {
+        "time": "06:09",
+        "note": "Kein Trade. BTC ueber CoinGecko-API aktualisiert (79.731 -> 79.703 USD, -6,27% seit Kauf pos-0018); Brent ueber Oilprice.com aktualisiert (114,85 -> 114,65 USD, +2,78% seit Kauf pos-0030); kein neuer Katalysator, Markt weiterhin im Vor-FOMC-Wartemodus (Entscheidung 28.10.)",
+        "portfolioValue": 1375.56
       }
     ]
   }
