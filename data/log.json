@@ -10676,14 +10676,14 @@
   },
   {
     "date": "2026-10-27",
-    "marketOverview": "Gegen 01:09 Uhr (Berlin): US-/EU-Boersen weiterhin geschlossen, Markt im Wartemodus vor der FOMC-Entscheidung (Mi., 28.10., 20:00 MEZ). BTC notiert laut CoinGecko-API bei 80.123 USD (+0,09% 24h), leicht erholt gegenueber dem letzten Lauf. Brent Crude bei ca. 115,30 USD/Barrel (TradingEconomics, -1,1 bis -1,3% auf Tagesbasis), weiterhin deutlich unter der Ziel-Gewinnspanne. Weitere Altcoins (ETH -0,31%, SOL -0,55%, XRP +0,90%, DOGE +1,00%, AVAX +0,24%) ohne erkennbaren frischen Ausbruchskatalysator.",
-    "decision": "Tagesbudget bereits beim 00:10-Lauf gutgeschrieben, keine erneute Gutschrift. BTC (pos-0018) erholt sich leicht auf -5,78% (weiterhin unter der Stop-Loss-Schwelle von -6,5 bis -7,5%), kein Verkauf. Brent (pos-0030) bei +3,36%, weiterhin deutlich unter der Ziel-Gewinnspanne (7-9%), kein Verkauf. Ausserhalb der US-/EU-Handelszeit ist nur Krypto handelbar; ohne frischen, mehrfach bestaetigten Ausbruchskatalysator und mit dem Markt im Vor-FOMC-Wartemodus keine Neuposition trotz hohem freiem Kapital.",
+    "marketOverview": "Bitcoin pendelt seitwaerts um ca. 80.000-80.200 USD, nahezu unveraendert zum Vorlauf (+0,24% in 24h laut CoinGecko). Brent Crude bei ca. 114,85 USD/Barrel, leicht ruecklaeufig (-0,9% auf Tagesbasis) nach der starken Eskalations-Rally der letzten Woche. Maerkte verhalten sich insgesamt abwartend vor der FOMC-Zinsentscheidung am 28.10. (aktuelle Spanne 3,75-4,00%); Aktien-/ETF-/Rohstoffhandel ist nachts geschlossen, nur Krypto bewegt sich.",
+    "decision": "Tagesbudget bereits beim 00:10-Lauf gutgeschrieben, keine erneute Gutschrift. BTC (pos-0018) erholt sich minimal weiter auf -5,71% (weiterhin unter der Stop-Loss-Schwelle von -6,5 bis -7,5%), kein Verkauf. Brent (pos-0030) bei +2,96%, weiterhin deutlich unter der Ziel-Gewinnspanne (7-9%), kein Verkauf. Ausserhalb der US-/EU-Handelszeit ist nur Krypto handelbar; ohne frischen, mehrfach bestaetigten Ausbruchskatalysator und mit dem Markt im Vor-FOMC-Wartemodus (Fed-Entscheidung 28.10.) keine Neuposition trotz hohem freiem Kapital.",
     "reasoning": "BTC-Preis per CoinGecko-API (80.123 USD, +0,09% 24h) direkt abgefragt. Brent-Preis per TradingEconomics (115,24-115,41 USD, Mittelwert 115,30 uebernommen) sowie zum Abgleich Oilprice.com (115,81 USD, 2h verzoegert) geprueft. Weitere Altcoins per CoinGecko-API geprueft - keine Bewegung erreicht die etablierte Ausbruchsschwelle (6-8%+), daher keine neue Position.",
     "positionIds": [
       "pos-0018",
       "pos-0030"
     ],
-    "portfolioValueEnd": 1383.09,
+    "portfolioValueEnd": 1380.73,
     "updates": [
       {
         "time": "00:10",
@@ -10694,6 +10694,11 @@
         "time": "01:09",
         "note": "Kein Trade. BTC ueber CoinGecko-API aktualisiert (79.737 -> 80.123 USD, -5,78% seit Kauf pos-0018); Brent ueber TradingEconomics aktualisiert (115,81 -> 115,30 USD, +3,36% seit Kauf pos-0030); kein neuer Katalysator, Markt im Vor-FOMC-Wartemodus",
         "portfolioValue": 1383.09
+      },
+      {
+        "time": "02:09",
+        "note": "Kein Trade. BTC ueber CoinGecko-API aktualisiert (80.123 -> 80.178 USD, -5,71% seit Kauf pos-0018); Brent ueber TradingEconomics aktualisiert (115,30 -> 114,85 USD, +2,96% seit Kauf pos-0030); kein neuer Katalysator, Markt weiterhin im Vor-FOMC-Wartemodus (Entscheidung 28.10.)",
+        "portfolioValue": 1380.73
       }
     ]
   }
