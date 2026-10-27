@@ -10676,14 +10676,14 @@
   },
   {
     "date": "2026-10-27",
-    "marketOverview": "Bitcoin bei ca. 79.832 USD (CoinGecko, -0,20% in 24h), weiterhin seitwaerts im Bereich 79.700-80.200 USD. Brent Crude bei ca. 114,89 USD/Barrel (Oilprice.com, -0,79%, duenner Vormarkt-Handel). Maerkte weiterhin im Vor-FOMC-Wartemodus (Zinsentscheidung 28.10.), europaeische Boersen noch nicht geoeffnet (vor 9:00 MEZ). Keine neuen, mehrfach bestaetigten Katalysatoren bei Krypto, Aktien oder Geopolitik (Iran/Hormuz) gefunden.",
-    "decision": "Tagesbudget bereits beim 00:10-Lauf gutgeschrieben, keine erneute Gutschrift. BTC (pos-0018) nun bei -6,12% (79.832 USD) - leicht erholt gegenueber dem letzten Stand, weiterhin unterhalb der Stop-Loss-Schwelle (-6,5 bis -7,5%), daher kein Verkauf. Brent (pos-0030) bei +2,99% (114,89 USD) - weiterhin deutlich unter der Ziel-Gewinnspanne (7-9%), kein Verkauf. Vor Boersenoeffnung sind Aktien/ETFs nicht handelbar; ohne frischen, mehrfach bestaetigten Ausbruchskatalysator und im Vor-FOMC-Wartemodus keine Neuposition trotz hohem freiem Kapital.",
-    "reasoning": "BTC-Preis per CoinGecko-API live abgefragt (79.832 USD, -0,20% 24h). Brent-Preis per Oilprice.com abgefragt (114,89 USD, -0,79%, delayed/duenner Vormarkt-Handel). Zusaetzliche Suche nach Altcoin-/Markt-News sowie FOMC- und Iran/Hormuz-Entwicklungen ergab keine neuen, verlaesslich datierten, mehrfach unabhaengig bestaetigten Katalysatoren fuer diesen Lauf.",
+    "marketOverview": "Maerkte im Vor-FOMC-Wartemodus (Fed-Entscheidung 28.10., 14:00 ET, aktueller Zielkorridor 3,75-4,00%, meiste Prognosen erwarten ein Halten mit hawkishem Unterton). BTC leicht schwaecher (CoinGecko aktuell ca. 79.535 USD, -0,66% 24h). Brent Crude gibt von den Montag-Hochs (bis 117 USD) nach auf ca. 114,68 USD (-1% heute), da US-Iran-Diplomatiebemuehungen (Saudi-Arabien, Tuerkei, Pakistan) Hoffnung auf Deeskalation an der Strasse von Hormuz naehren, waehrend Houthi-Angriffe auf saudische Ziele weiter andauern.",
+    "decision": "Kein Trade in diesem Lauf. BTC-Position (pos-0018) naehert sich mit -6,47% weiter der Stop-Loss-Schwelle (-6,5 bis -7,5%), hat sie aber noch nicht eindeutig durchbrochen; angesichts der unmittelbar bevorstehenden FOMC-Entscheidung (28.10.) und der zuletzt volatilen Schwankungen zwischen -5,7% und -6,47% wird abgewartet statt vorzeitig glattzustellen. Brent-Position (pos-0030) bleibt mit +2,81% im Plus, aber noch deutlich unter der etablierten Zielspanne (7-9%); keine neue Eskalation, die eine Gewinnmitnahme oder Aufstockung rechtfertigen wuerde. Keine neue Position eroeffnet, da vor der morgigen Fed-Entscheidung keine ueberzeugende, unabhaengig bestaetigte Gelegenheit vorliegt.",
+    "reasoning": "Beide offenen Positionen wurden ueber Live-Kurse (CoinGecko fuer BTC, Marktberichte/FinanceFeeds/TradersUnion fuer Brent) aktualisiert. Fuer neue Kaeufe wurde die aktuelle Marktlage recherchiert (Bitcoin, Brent, FOMC-Ausblick, Hormuz-Konflikt), jedoch keine mit ausreichender Unabhaengigkeit bestaetigte, klar ueberzeugende Gelegenheit identifiziert - passend zum bisherigen Muster dieses Tages (kein Trade vor FOMC).",
     "positionIds": [
       "pos-0018",
       "pos-0030"
     ],
-    "portfolioValueEnd": 1378.13,
+    "portfolioValueEnd": 1374.36,
     "updates": [
       {
         "time": "00:10",
@@ -10724,6 +10724,11 @@
         "time": "07:09",
         "note": "Kein Trade. BTC ueber CoinGecko-API aktualisiert (79.703 -> 79.832 USD, -6,12% seit Kauf pos-0018); Brent ueber Oilprice.com aktualisiert (114,65 -> 114,89 USD, +2,99% seit Kauf pos-0030); kein neuer Katalysator, Markt weiterhin im Vor-FOMC-Wartemodus (Entscheidung 28.10.)",
         "portfolioValue": 1378.13
+      },
+      {
+        "time": "08:09",
+        "note": "Kein Trade. BTC ueber CoinGecko-API aktualisiert (79.832 -> 79.535 USD, -6,47% seit Kauf pos-0018, naehert sich Stop-Loss-Schwelle); Brent ueber Marktberichte aktualisiert (114,89 -> 114,68 USD, +2,81% seit Kauf pos-0030, Deeskalationshoffnung US-Iran-Diplomatie); kein neuer Katalysator, Markt weiterhin im Vor-FOMC-Wartemodus (Entscheidung 28.10.)",
+        "portfolioValue": 1374.36
       }
     ]
   }
