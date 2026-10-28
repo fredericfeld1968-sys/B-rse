@@ -10809,19 +10809,24 @@
   },
   {
     "date": "2026-10-28",
-    "marketOverview": "Kurz nach Mitternacht (MEZ): BTC via CoinGecko-API bei 80.855 USD (+1,41% 24h, Zeitstempel 23:09 UTC), kaum veraendert zum letzten Lauf. Fuer Brent liegt weiterhin keine verlaessliche, aktuell datierte Live-Quelle vor (Websuchen widerspruechlich, Spanne 69-108 USD), daher bei 109,77 USD/Barrel fortgeschrieben. FOMC-Entscheidung heute (28.10., ca. 20:00 MEZ/14:00 ET) bleibt der dominante Katalysator, Markt ueberwiegend auf eine Zinspause mit hawkishem Ton eingestellt. Keine frischen, mehrfach bestaetigten Altcoin-Breakout-Signale fuer heute gefunden. US-Boersenhandel ist seit Stunden geschlossen, nur Krypto theoretisch handelbar.",
-    "decision": "Kein Trade. BTC-Position (pos-0018) auf 80.855 USD aktualisiert (-4,92% seit Kauf, klar innerhalb der Halte-Zone). Brent-Position (pos-0030) mangels frischer verlaesslicher Quelle unveraendert bei 109,77 USD/Barrel fortgeschrieben (-1,60% seit Kauf). Kein neuer, unabhaengig bestaetigter Krypto-Katalysator fuer einen Neukauf gefunden; Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten. Einen Tag der FOMC-Entscheidung bleibt die Grundhaltung abwartend trotz hohem freiem Kapital.",
-    "reasoning": "Live-BTC-Kurs direkt via CoinGecko-API abgerufen (80.855 USD, +1,41% 24h, Zeitstempel 1793142546 = 23:09 UTC, also aktuell). Websuchen zu Brent lieferten nur stark widersprechende bzw. undatierte Werte (69-108 USD je Quelle) - Position daher unveraendert fortgeschrieben statt mit unzuverlaesslichen Daten aktualisiert. Websuche zu Altcoin-Breakouts und Krypto-News lieferte keine auf heute datierten, mehrfach bestaetigten frischen Einzelsignale (aeltere Artikel zu Altseason-Diskussionen von 2025). BTC (pos-0018, -4,92%) bleibt klar innerhalb der Halte-Zone (Stop-Loss -6,5 bis -7,5%) und wird weiter gehalten; Brent (pos-0030, -1,60%) liegt im tolerierten Bereich. Keine Position verstoesst gegen Ausschlusslisten aus den Einstellungen. FOMC-Entscheidung heute (28.10., ca. 20:00 MEZ) bleibt der naechste wichtige Termin, daher weiterhin vorsichtig-abwartende Haltung.",
+    "marketOverview": "01:10 MEZ: BTC via CoinGecko-API bei 80.684 USD (+0,70% 24h, Zeitstempel 00:08 UTC), leicht schwaecher als beim letzten Lauf. Fuer Brent weiterhin keine verlaessliche, aktuell datierte Live-Quelle (Websuchen widerspruechlich, Spanne ca. 62-108 USD je Quelle), daher bei 109,77 USD/Barrel fortgeschrieben. FOMC-Entscheidung heute (28.10., ca. 20:00 MEZ/14:00 ET) bleibt der dominante Katalysator; Markt ueberwiegend auf eine Zinspause mit hawkishem Ton eingestellt. Keine frischen, mehrfach bestaetigten Altcoin-Breakout-Signale gefunden. US- und europaeische Boersen sind seit Stunden geschlossen, nur Krypto theoretisch handelbar.",
+    "decision": "Kein Trade. BTC-Position (pos-0018) auf 80.684 USD aktualisiert (-5,12% seit Kauf, weiterhin innerhalb der Halte-Zone). Brent-Position (pos-0030) mangels frischer verlaesslicher Quelle unveraendert bei 109,77 USD/Barrel fortgeschrieben (-1,60% seit Kauf). Kein neuer, unabhaengig bestaetigter Krypto-Katalysator fuer einen Neukauf gefunden; Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten. Einen Tag der FOMC-Entscheidung bleibt die Grundhaltung abwartend trotz hohem freiem Kapital.",
+    "reasoning": "Live-BTC-Kurs direkt via CoinGecko-API abgerufen (80.684 USD, +0,70% 24h, Zeitstempel 1793146101 = 00:08 UTC, also aktuell). Websuchen zu Brent lieferten erneut nur stark widersprechende bzw. undatierte Werte - Position daher unveraendert fortgeschrieben statt mit unzuverlaesslichen Daten aktualisiert. Websuche zu Altcoin-Breakouts lieferte keine auf heute datierten, mehrfach bestaetigten frischen Einzelsignale (nur aeltere/undatierte Trader-Charts). BTC (pos-0018, -5,12%) bleibt innerhalb der Halte-Zone (Stop-Loss -6,5 bis -7,5%) und wird weiter gehalten; Brent (pos-0030, -1,60%) liegt im tolerierten Bereich. Keine Position verstoesst gegen Ausschlusslisten aus den Einstellungen. FOMC-Entscheidung heute (28.10., ca. 20:00 MEZ) bleibt der naechste wichtige Termin, daher weiterhin vorsichtig-abwartende Haltung.",
     "positionIds": [
       "pos-0018",
       "pos-0030"
     ],
-    "portfolioValueEnd": 1354.42,
+    "portfolioValueEnd": 1353.01,
     "updates": [
       {
         "time": "00:09",
         "note": "Tagesbudget fuer 28.10. gutgeschrieben (+1.000 EUR); BTC ueber CoinGecko-API aktualisiert (80.833 -> 80.855 USD, -4,92% seit Kauf pos-0018); Brent mangels frischer Quelle unveraendert bei 109,77 USD/Barrel (-1,60% seit Kauf pos-0030); kein neuer Katalysator, kein Trade einen Tag vor FOMC (28.10.)",
         "portfolioValue": 1354.42
+      },
+      {
+        "time": "01:10",
+        "note": "Keine Aenderung. BTC ueber CoinGecko-API aktualisiert (80.855 -> 80.684 USD, -5,12% seit Kauf pos-0018); Brent mangels frischer Quelle unveraendert (109,77 USD/Barrel); kein neuer Katalysator, kein Trade",
+        "portfolioValue": 1353.01
       }
     ]
   }
