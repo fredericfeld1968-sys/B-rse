@@ -10809,14 +10809,14 @@
   },
   {
     "date": "2026-10-28",
-    "marketOverview": "14:23 MEZ: Bitcoin via CoinGecko bei ca. 81.100 USD (+1,6% 24h), weiterhin in der seit Tagen etablierten Konsolidierungszone um 80.000-81.500 USD, leicht fester zum letzten Lauf (80.975 USD). Brent Crude via OilPrice.com-Ticker bei ca. 115,40 USD/Barrel (+1,33% Tagesplus) - praktisch unveraendert zum letzten Lauf (115,35 USD). Die Houthi-Behauptung eines Angriffs auf die Grossraffinerie Ras Tanura bleibt weiterhin ohne offizielle saudische/Aramco-Bestaetigung von Schaeden; keine neuen Berichte vom heutigen Tag gefunden. Keine bestaetigten Einzeltitel- oder Altcoin-Breakouts gefunden. Die FOMC-Zinsentscheidung steht um 14:00 ET (ca. 19:00-20:00 MEZ) an; Markterwartung weiterhin ca. 90% Wahrscheinlichkeit fuer ein Halten bei 3,75-4,00%, US-Kassamarkt oeffnet erst um 15:30 MESZ.",
-    "decision": "Kein Trade. BTC-Position (pos-0018) auf 81.100 USD aktualisiert (-4,63% seit Kauf). Brent-Position (pos-0030) auf 115,40 USD/Barrel aktualisiert (+3,45% seit Kauf) - beide praktisch unveraendert zum letzten Lauf. Kein Aufstocken und keine Neuposition: freies Kapital von ca. 82.938 EUR steht zur Verfuegung, aber ohne eine neue, wirklich ueberzeugende und mehrfach bestaetigte Gelegenheit wird weiterhin vor der FOMC-Entscheidung (ca. 19:00-20:00 MEZ) abwartend gehalten.",
-    "reasoning": "Recherche (WebSearch) zeigt keine nennenswerte Veraenderung seit dem letzten Lauf: BTC ca. 81.100 USD (vs. zuvor 80.975 USD), Brent ca. 115,40 USD/Barrel (vs. zuvor 115,35 USD). Eine gezielte Suche nach einer Bestaetigung oder Eskalation des Ras-Tanura-Vorfalls durch saudische Behoerden oder Aramco blieb ergebnislos - die Lage bleibt unbestaetigt und damit unveraendert. Fuer Aktien/ETFs kein frischer, mehrfach bestaetigter Katalysator gefunden (US-Kassamarkt oeffnet erst 15:30 MESZ); Krypto-Altcoins zeigen keinen bestaetigten technischen oder fundamentalen Breakout. Freies Kapital bleibt hoch verfuegbar, aber es wird bewusst nur bei einer wirklich ueberzeugenden, bestaetigten Gelegenheit gehandelt - aktuell nicht gegeben. Vor der heutigen FOMC-Entscheidung (ca. 19:00-20:00 MEZ) bleibt die Grundhaltung konsequent abwartend.",
+    "marketOverview": "15:08 MEZ: Bitcoin via CoinGecko bei ca. 80.726 USD (24h +0,92%), weiterhin in der Konsolidierungszone um 80.000-81.500 USD, leicht schwaecher zum letzten Lauf (81.100 USD). Brent Crude via OilPrice.com bei ca. 115,30 USD/Barrel (+1,25%) - praktisch unveraendert zum letzten Lauf (115,40 USD); Oel bleibt laut US-Medien (Yahoo Finance, NordFX, investingLive) wegen der US-Iran-Spannungen erhoeht, Qatar hat Iran laut Berichten einen Vermittlungs-Entwurf vorgelegt. US-Aktienmaerkte (Yahoo Finance, Bloomberg) schlossen am Dienstag leicht im Plus (Dow +16 Pkt. auf ca. 52.378, VIX auf ca. 17,5); europaeische Indizes und US-Futures heute weitgehend seitwaerts, Haupttreiber bleibt die FOMC-Zinsentscheidung um 14:00 ET (ca. 19:00-20:00 MEZ, Erwartung: Halten bei 3,75-4,00%, Pressekonferenz von Fed-Chair Warsh) sowie die Quartalszahlen von Microsoft und Alphabet nach US-Marktschluss. Keine bestaetigte Eskalation oder Deeskalation am Ras-Tanura-Vorfall seit dem letzten Lauf gefunden; keine neuen Einzeltitel- oder Altcoin-Breakouts.",
+    "decision": "Kein Trade. BTC-Position (pos-0018) auf 80.726 USD aktualisiert (-5,07% seit Kauf). Brent-Position (pos-0030) auf 115,30 USD/Barrel aktualisiert (+3,36% seit Kauf) - beide praktisch unveraendert zum letzten Lauf. Freies Kapital von ca. 82.938 EUR bleibt verfuegbar, aber ohne eine neue, mehrfach bestaetigte Gelegenheit wird weiterhin abwartend gehalten, insbesondere mit Blick auf die FOMC-Entscheidung und die Tech-Earnings (MSFT, GOOGL) heute Abend.",
+    "reasoning": "Websuche und Live-Quellen (CoinGecko, OilPrice.com, Yahoo Finance, Bloomberg, investingLive, NordFX, Investrade) zeigen keine nennenswerte Veraenderung seit dem letzten Lauf: BTC leicht schwaecher (80.726 vs. 81.100 USD), Brent minimal schwaecher (115,30 vs. 115,40 USD/Barrel), beides innerhalb der ueblichen Schwankungsbreite und kein Ausloeser fuer die etablierte Stop-Loss-Schwelle der Brent-Position (-6,5 bis -7,5%). US-Aktienmaerkte und europaeische Indizes bewegen sich seitwaerts im Vorfeld der heutigen FOMC-Entscheidung (ca. 19:00-20:00 MEZ) und der Quartalszahlen von Microsoft/Alphabet nach US-Marktschluss - beides potenzielle Katalysatoren, aber noch nicht eingetreten. Fuer Aktien/ETFs kein frischer, mehrfach bestaetigter Einzeltitel-Katalysator gefunden; Krypto-Altcoins zeigen keinen bestaetigten Breakout. Freies Kapital bleibt mit ca. 82.938 EUR hoch verfuegbar, aber es wird bewusst nur bei einer wirklich ueberzeugenden, mehrfach bestaetigten Gelegenheit gehandelt - aktuell nicht gegeben. Die Grundhaltung bleibt vor FOMC und den Tech-Earnings konsequent abwartend.",
     "positionIds": [
       "pos-0018",
       "pos-0030"
     ],
-    "portfolioValueEnd": 1391.77,
+    "portfolioValueEnd": 1388.06,
     "updates": [
       {
         "time": "00:09",
@@ -10886,6 +10886,11 @@
         "time": "14:23",
         "note": "Keine Aenderung. BTC aktualisiert (80.975 -> 81.100 USD, -4,63% seit Kauf pos-0018); Brent aktualisiert (115,35 -> 115,40 USD, +3,45% seit Kauf pos-0030) - beide praktisch unveraendert; Ras-Tanura-Eskalation weiterhin unbestaetigt, keine neuen Berichte; kein Trade vor FOMC (ca. 19:00-20:00 MEZ).",
         "portfolioValue": 1391.77
+      },
+      {
+        "time": "15:08",
+        "note": "Keine Aenderung. BTC via CoinGecko aktualisiert (81.100 -> 80.726 USD, -5,07% seit Kauf pos-0018); Brent via OilPrice.com aktualisiert (115,40 -> 115,30 USD, +3,36% seit Kauf pos-0030) - beide praktisch unveraendert; FOMC-Entscheidung und MSFT/GOOGL-Earnings stehen noch aus (ca. 19:00-20:00 MEZ bzw. nach US-Marktschluss), kein Trade.",
+        "portfolioValue": 1388.06
       }
     ]
   }
