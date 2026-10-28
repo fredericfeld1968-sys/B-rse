@@ -10809,14 +10809,14 @@
   },
   {
     "date": "2026-10-28",
-    "marketOverview": "21:10 MEZ: Weiterhin kaum Veraenderung seit dem FOMC-Entscheid (Halten bei 3,75-4,00%, 10:2-Votum) - Bitcoin notiert laut mehreren Quellen (CoinDesk, KuCoin, CryptoTimes) weiterhin um ca. 80.500-81.100 USD in der seit Tagen intakten Konsolidierung. Brent Crude zeigt in aktuellen Quellen (Investing.com, OnValor) eine leichte Abschwaechung auf ca. 111-114 USD/Barrel gegenueber dem Zwischenhoch von ca. 115 USD - der Ras-Tanura-Zwischenfall bleibt weiterhin unbestaetigt. Der US-Kassamarkt ist seit 21:00 MEZ geschlossen, MSFT- und GOOGL-Quartalszahlen (nach Marktschluss erwartet) liegen noch nicht vor.",
-    "decision": "Kein Trade. BTC-Position (pos-0018) auf ca. 80.900 USD aktualisiert (-4,86% seit Kauf), Brent-Position (pos-0030) auf ca. 113,00 USD/Barrel aktualisiert (+1,30% seit Kauf, leichter Rueckgang vom Tageshoch) - beide weiterhin innerhalb der normalen Schwankungsbreite, keine Stop-Loss- oder Gewinnmitnahme-Schwelle (ca. 7-9%) erreicht. Freies Kapital von weiterhin ca. 82.938 EUR bleibt verfuegbar, Aktien/ETFs/Rohstoffe sind nach US-Marktschluss nicht mehr neu handelbar, fuer Krypto zeigte sich keine ueberzeugende neue Gelegenheit. Es wird bewusst abwartend gehalten bis zu den ausstehenden MSFT/GOOGL-Zahlen.",
-    "reasoning": "Seit dem letzten Lauf (20:09 MEZ) hat sich wenig veraendert: Der US-Kassamarkt hat um 21:00 MEZ regulaer geschlossen, wodurch Aktien/ETFs/Rohstoffe fuer Neupositionen nicht mehr handelbar sind; MSFT/GOOGL-Zahlen stehen weiterhin aus. BTC bewegt sich weiterhin in der etablierten 80.000-81.500-USD-Spanne, die Position (-4,86%) bleibt unter der Stop-Loss-Zone (-6,5 bis -7,5%). Brent ist von seinem Zwischenhoch (ca. 115 USD) leicht auf ca. 113 USD zurueckgekommen, die Gewinnmitnahme-Schwelle (ca. 7-9%) ist mit +1,30% noch weit entfernt. Keine neue, wirklich ueberzeugende Krypto-Gelegenheit identifiziert, daher passend zum spekulativen, aber risikobewussten Profil abwartend gehalten.",
+    "marketOverview": "22:08 MEZ: GOOGL meldete nach US-Marktschluss Q3-Zahlen - Umsatz 127,58 Mrd. USD (leicht unter Erwartung von 128,22 Mrd.), angepasstes EPS deutlich unter Konsens (Verfehlung u.a. durch 8,7 Mrd. USD Verlust auf Aktienbeteiligungen), Google Cloud +103%, Suche leicht unter Erwartung; Aktie faellt 7-9% nachboerslich (CNBC, TheStreet). Microsoft-Zahlen (ebenfalls nach Handelsschluss erwartet) liegen noch nicht vor. BTC via CoinGecko bei 81.274 USD (+0,74% 24h), Brent via OilPrice.com bei 114,24 USD/Barrel (+0,32% heute) - beide nur moderat veraendert, kein Breakout. Krypto insgesamt ruhig (ETH +0,75%, SOL +1,51%, AVAX +1,77%, DOGE +2,31%, XRP +0,73%).",
+    "decision": "Kein Trade. BTC-Position (pos-0018) auf 81.274 USD aktualisiert (-4,42% seit Kauf), Brent-Position (pos-0030) auf 114,24 USD/Barrel aktualisiert (+2,41% seit Kauf) - beide weiterhin innerhalb der normalen Schwankungsbreite, keine Stop-Loss- oder Gewinnmitnahme-Schwelle (ca. 7-9%) erreicht. Freies Kapital von ca. 82.938 EUR bleibt verfuegbar. Aktien/ETFs/Rohstoffe sind nach US-Marktschluss nicht neu handelbar; der GOOGL-Erdrutsch (-7-9% nachboerslich) ist zwar auffaellig, aber ausserhalb der Handelszeiten nicht umsetzbar und zudem keine Krypto-Position. Fuer Krypto zeigte sich keine ueberzeugende neue Gelegenheit (alle Bewegungen unter 2,5% in 24h). Es wird bewusst abwartend gehalten bis zu den ausstehenden Microsoft-Zahlen.",
+    "reasoning": "Seit dem letzten Lauf (21:10 MEZ) ist die grosse Nachricht der GOOGL-Q3-Bericht: EPS- und Cloud-Umsatz-Mix gemischt, Markt reagiert klar negativ (-7 bis -9% nachboerslich, CNBC/TheStreet). Da der US-Kassamarkt seit 21:00 MEZ geschlossen ist, kann darauf aktuell nicht gehandelt werden, und es handelt sich ohnehin nicht um eine Krypto-Chance. BTC bewegt sich weiterhin knapp unter 81.500 USD, die Position (-4,42%) bleibt klar unter der Stop-Loss-Zone (-6,5 bis -7,5%). Brent legte leicht von 113,00 auf 114,24 USD/Barrel zu (+2,41% seit Kauf pos-0030), die Gewinnmitnahme-Schwelle (7-9%) ist noch nicht erreicht. Keine ueberzeugende neue Krypto-Gelegenheit (alle Alt-Coin-Bewegungen moderat), daher passend zum spekulativen, aber risikobewussten Profil abwartend gehalten. Microsoft-Zahlen stehen noch aus und koennten im naechsten Lauf relevant werden (fuer die naechste Handelssession).",
     "positionIds": [
       "pos-0018",
       "pos-0030"
     ],
-    "portfolioValueEnd": 1375.06,
+    "portfolioValueEnd": 1385.92,
     "updates": [
       {
         "time": "00:09",
@@ -10921,6 +10921,11 @@
         "time": "21:10",
         "note": "Keine Aenderung. BTC auf 80.900 USD aktualisiert (-4,86% seit Kauf pos-0018); Brent auf 113,00 USD/Barrel aktualisiert (+1,30% seit Kauf pos-0030, leichter Ruecksetzer vom Zwischenhoch); US-Kassamarkt seit 21:00 MEZ geschlossen, kein neuer Katalysator, kein Trade",
         "portfolioValue": 1375.06
+      },
+      {
+        "time": "22:08",
+        "note": "Keine Aenderung. GOOGL-Q3-Zahlen gemischt, Aktie nachboerslich -7 bis -9% (CNBC) - aber ausserhalb Handelszeiten nicht umsetzbar. BTC aktualisiert (80.900 -> 81.274 USD, -4,42% seit Kauf pos-0018); Brent aktualisiert (113,00 -> 114,24 USD, +2,41% seit Kauf pos-0030); kein Krypto-Breakout, kein Trade",
+        "portfolioValue": 1385.92
       }
     ]
   }
