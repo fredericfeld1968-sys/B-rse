@@ -10809,14 +10809,14 @@
   },
   {
     "date": "2026-10-28",
-    "marketOverview": "20:09 MEZ: Keine wesentliche Veraenderung seit dem letzten Lauf - die US-Boersen notieren weiterhin im Nachgang der leicht hawkishen FOMC-Entscheidung (Halten bei 3,75-4,00%, 10:2-Votum), ohne starke neue Kursbewegung. Bitcoin pendelt laut CoinGecko weiterhin um ca. 80.900-81.100 USD (+/-1,5% in 24h) in der seit Tagen intakten Konsolidierung 80.000-81.500 USD. Brent Crude notiert je nach Quelle zwischen ca. 111,80 und 115,40 USD/Barrel (OilPriceAPI, FXEmpire, Oilprice.com) - der Ras-Tanura-Zwischenfall bleibt weiterhin ohne neue Bestaetigung oder Eskalationsstufe. Microsoft- und Alphabet-Quartalszahlen stehen weiterhin aus (Veroeffentlichung nach US-Marktschluss, ca. 22:00-22:30 MEZ).",
-    "decision": "Kein Trade. BTC-Position (pos-0018) auf ca. 80.950 USD aktualisiert (-4,80% seit Kauf), Brent-Position (pos-0030) auf ca. 115,30 USD/Barrel aktualisiert (+3,36% seit Kauf) - beide weiterhin innerhalb der normalen Schwankungsbreite, keine Stop-Loss- oder Gewinnmitnahme-Schwelle (ca. 7-9%) erreicht. Freies Kapital von weiterhin ca. 82.938 EUR bleibt verfuegbar, aber ohne neue, ueberzeugende Gelegenheit und mit den noch ausstehenden MSFT/GOOGL-Zahlen (nach US-Marktschluss) wird bewusst abwartend gehalten.",
-    "reasoning": "Seit dem letzten Lauf (19:09 MEZ) hat sich die Marktlage kaum veraendert: Die hawkishe FOMC-Entscheidung wirkt weiterhin ohne klare Risk-on- oder Risk-off-Dynamik nach, BTC und Brent bewegen sich nur im Rahmen der ueblichen Schwankungsbreite. Die BTC-Position naehert sich mit -4,80% weiterhin der Stop-Loss-Zone (-6,5 bis -7,5%), hat sie aber nicht erreicht; die urspruengliche Ausbruchsthese ist nicht widerlegt. Die Brent-Position bleibt mit +3,36% deutlich unter der Gewinnmitnahme-Schwelle. Die entscheidenden Katalysatoren fuer den Rest des Tages (MSFT/GOOGL-Zahlen nach US-Marktschluss) stehen noch aus, daher bleibt die Grundhaltung passend zum spekulativen, aber risikobewussten Profil abwartend.",
+    "marketOverview": "21:10 MEZ: Weiterhin kaum Veraenderung seit dem FOMC-Entscheid (Halten bei 3,75-4,00%, 10:2-Votum) - Bitcoin notiert laut mehreren Quellen (CoinDesk, KuCoin, CryptoTimes) weiterhin um ca. 80.500-81.100 USD in der seit Tagen intakten Konsolidierung. Brent Crude zeigt in aktuellen Quellen (Investing.com, OnValor) eine leichte Abschwaechung auf ca. 111-114 USD/Barrel gegenueber dem Zwischenhoch von ca. 115 USD - der Ras-Tanura-Zwischenfall bleibt weiterhin unbestaetigt. Der US-Kassamarkt ist seit 21:00 MEZ geschlossen, MSFT- und GOOGL-Quartalszahlen (nach Marktschluss erwartet) liegen noch nicht vor.",
+    "decision": "Kein Trade. BTC-Position (pos-0018) auf ca. 80.900 USD aktualisiert (-4,86% seit Kauf), Brent-Position (pos-0030) auf ca. 113,00 USD/Barrel aktualisiert (+1,30% seit Kauf, leichter Rueckgang vom Tageshoch) - beide weiterhin innerhalb der normalen Schwankungsbreite, keine Stop-Loss- oder Gewinnmitnahme-Schwelle (ca. 7-9%) erreicht. Freies Kapital von weiterhin ca. 82.938 EUR bleibt verfuegbar, Aktien/ETFs/Rohstoffe sind nach US-Marktschluss nicht mehr neu handelbar, fuer Krypto zeigte sich keine ueberzeugende neue Gelegenheit. Es wird bewusst abwartend gehalten bis zu den ausstehenden MSFT/GOOGL-Zahlen.",
+    "reasoning": "Seit dem letzten Lauf (20:09 MEZ) hat sich wenig veraendert: Der US-Kassamarkt hat um 21:00 MEZ regulaer geschlossen, wodurch Aktien/ETFs/Rohstoffe fuer Neupositionen nicht mehr handelbar sind; MSFT/GOOGL-Zahlen stehen weiterhin aus. BTC bewegt sich weiterhin in der etablierten 80.000-81.500-USD-Spanne, die Position (-4,86%) bleibt unter der Stop-Loss-Zone (-6,5 bis -7,5%). Brent ist von seinem Zwischenhoch (ca. 115 USD) leicht auf ca. 113 USD zurueckgekommen, die Gewinnmitnahme-Schwelle (ca. 7-9%) ist mit +1,30% noch weit entfernt. Keine neue, wirklich ueberzeugende Krypto-Gelegenheit identifiziert, daher passend zum spekulativen, aber risikobewussten Profil abwartend gehalten.",
     "positionIds": [
       "pos-0018",
       "pos-0030"
     ],
-    "portfolioValueEnd": 1389.9,
+    "portfolioValueEnd": 1375.06,
     "updates": [
       {
         "time": "00:09",
@@ -10916,6 +10916,11 @@
         "time": "20:09",
         "note": "Keine Aenderung (BTC -4,80%, Brent +3,36%), abwartend vor MSFT/GOOGL-Zahlen",
         "portfolioValue": 1389.9
+      },
+      {
+        "time": "21:10",
+        "note": "Keine Aenderung. BTC auf 80.900 USD aktualisiert (-4,86% seit Kauf pos-0018); Brent auf 113,00 USD/Barrel aktualisiert (+1,30% seit Kauf pos-0030, leichter Ruecksetzer vom Zwischenhoch); US-Kassamarkt seit 21:00 MEZ geschlossen, kein neuer Katalysator, kein Trade",
+        "portfolioValue": 1375.06
       }
     ]
   }
