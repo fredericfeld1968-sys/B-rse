@@ -10933,5 +10933,23 @@
         "portfolioValue": 1385.92
       }
     ]
+  },
+  {
+    "date": "2026-10-29",
+    "marketOverview": "Nach Mitternacht CET insgesamt ruhiges, risikoaverses Niedrigvolumen-Umfeld: Bitcoin notiert bei ca. 81.209 USD (+0,47% in 24h), Brent Crude bei ca. 110,72 USD/Barrel - leicht schwaecher als am Vortag. Der Hormuz-Konflikt bleibt ungeloest, aber ohne neue Eskalationsmeldung in der Nacht. US-Kassamaerkte sind geschlossen; MSFT/GOOGL-Nachboersenreaktionen aus dem Vorlauf sind bereits eingepreist.",
+    "decision": "Kein Trade. Tagesbudget von 1000 EUR fuer den 29.10. gutgeschrieben (totalFreshCapitalEur jetzt 86.000 EUR). BTC-Position (pos-0018) auf 81.209 USD aktualisiert (-4,50% seit Kauf), Brent-Position (pos-0030) auf 110,72 USD aktualisiert (-0,74% seit Kauf). Beide Positionen liegen innerhalb der normalen Schwankungsbreite, keine Stop-Loss- oder Gewinnschwelle erreicht.",
+    "reasoning": "Ausserhalb der Handelszeiten (Nacht) sind nur Kryptowerte handelbar. Der Kryptomarkt zeigt laut aktuellen Berichten ein risikoaverses, niedriges Handelsvolumen ohne ueberzeugende neue Breakout-Gelegenheit. Keine neue Position wird eroeffnet.",
+    "positionIds": [
+      "pos-0018",
+      "pos-0030"
+    ],
+    "portfolioValueEnd": 1363.29,
+    "updates": [
+      {
+        "time": "00:08",
+        "note": "Keine Aenderung. Tagesbudget gutgeschrieben (+1000 EUR). BTC aktualisiert (81.198 -> 81.209 USD, -4,50% seit Kauf pos-0018); Brent aktualisiert (114,34 -> 110,72 USD, -0,74% seit Kauf pos-0030); ruhiger Nachtmarkt, kein Trade",
+        "portfolioValue": 1363.29
+      }
+    ]
   }
 ]
