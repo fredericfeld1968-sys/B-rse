@@ -10809,14 +10809,14 @@
   },
   {
     "date": "2026-10-28",
-    "marketOverview": "02:09 MEZ: BTC via CoinGecko-API bei 80.576 USD (+0,48% 24h, Zeitstempel 01:09 UTC, also aktuell), minimal schwaecher als beim letzten Lauf. Brent diesmal ueber zwei Live-Quellen abgeglichen: investing.com zeigt 110,70 USD/Barrel (+1,18% heute), konsistent mit dem bisher fortgeschriebenen Stand von 109,77 USD; oilprice.com zeigte abweichend 114,36 USD und wird als Ausreisser verworfen. FOMC-Entscheidung heute (28.10., ca. 20:00 MEZ/14:00 ET) bleibt der dominante Katalysator; Markt ueberwiegend auf eine Zinspause mit hawkishem Ton eingestellt. Websuche zu Altcoin-Breakouts lieferte erneut keine auf heute datierten, mehrfach unabhaengig bestaetigten frischen Einzelsignale. US- und europaeische Boersen sind seit Stunden geschlossen, nur Krypto theoretisch handelbar.",
-    "decision": "Kein Trade. BTC-Position (pos-0018) auf 80.576 USD aktualisiert (-5,24% seit Kauf, weiterhin innerhalb der Halte-Zone, Stop-Loss bei -6,5 bis -7,5%). Brent-Position (pos-0030) auf 110,70 USD/Barrel aktualisiert (-0,76% seit Kauf, deutlich im tolerierten Bereich). Kein neuer, unabhaengig bestaetigter Krypto-Katalysator fuer einen Neukauf gefunden; Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten nicht handelbar. Einen Tag der FOMC-Entscheidung bleibt die Grundhaltung abwartend trotz sehr hohem freiem Kapital (~82.938 EUR) - es wird nur bei einer wirklich ueberzeugenden Gelegenheit gehandelt.",
-    "reasoning": "Live-BTC-Kurs direkt via CoinGecko-API abgerufen (80.576 USD, +0,48% 24h, Zeitstempel 1793149740 = 01:09 UTC, deckt sich mit der aktuellen Uhrzeit). Fuer Brent zwei unabhaengige Live-Quellen abgefragt (investing.com 110,70 USD +1,18%, oilprice.com 114,36 USD +0,42%); investing.com gewaehlt, da die implizite Vortagsbasis (~109,4 USD) konsistent zum zuletzt fortgeschriebenen Wert (109,77 USD) ist, waehrend oilprice.com als Ausreisser erscheint. Websuche zu Altcoin-Breakouts lieferte nur aeltere/undatierte Treffer, keine frische, mehrfach bestaetigte Einzelchance - daher kein Neukauf trotz sehr hohem freiem Kapital (Bar fuer 'wirklich ueberzeugende Gelegenheit' nicht erreicht). BTC (pos-0018, -5,24%) und Brent (pos-0030, -0,76%) bleiben beide innerhalb der Halte-Zone und werden weiter gehalten. Keine Position verstoesst gegen Ausschlusslisten aus den Einstellungen. FOMC-Entscheidung heute (28.10., ca. 20:00 MEZ) bleibt der naechste wichtige Termin, daher weiterhin vorsichtig-abwartende Haltung.",
+    "marketOverview": "03:09 MEZ: BTC via CoinGecko-API bei 80.781 USD (+1,06% 24h, Zeitstempel 02:09 UTC, aktuell), leicht fester als beim letzten Lauf (80.576 USD). Brent mangels frischer, verlaesslicher Live-Quelle unveraendert bei 110,70 USD/Barrel fortgeschrieben (Websuche lieferte nur stark widersprechende/undatierte Werte). FOMC-Entscheidung heute (28.10., ca. 20:00 MEZ/14:00 ET) bleibt der dominante Katalysator; Markt ueberwiegend auf eine Zinspause mit hawkishem Ton eingestellt. Keine frischen, mehrfach unabhaengig bestaetigten Altcoin-Breakout-Signale gefunden. US- und europaeische Boersen weiterhin geschlossen, nur Krypto theoretisch handelbar.",
+    "decision": "Kein Trade. BTC-Position (pos-0018) auf 80.781 USD aktualisiert (-5,00% seit Kauf, weiterhin innerhalb der Halte-Zone, Stop-Loss bei -6,5 bis -7,5%). Brent-Position (pos-0030) unveraendert bei 110,70 USD/Barrel (-0,76% seit Kauf). Kein neuer, unabhaengig bestaetigter Katalysator fuer einen Neukauf gefunden; Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten nicht handelbar. Einen Tag der FOMC-Entscheidung bleibt die Grundhaltung abwartend trotz sehr hohem freiem Kapital (~82.938 EUR) - es wird nur bei einer wirklich ueberzeugenden Gelegenheit gehandelt.",
+    "reasoning": "Live-BTC-Kurs direkt via CoinGecko-API abgerufen (80.781 USD, +1,06% 24h, Zeitstempel 1793153390 = 02:09 UTC, deckt sich mit der aktuellen Uhrzeit). Fuer Brent lieferte die Websuche nur stark widersprechende und teils undatierte Werte (74 bis 95 USD Spanne je nach Quelle) ohne verlaessliche Live-Quelle, daher wird der zuletzt bestaetigte Wert (110,70 USD, investing.com) unveraendert fortgeschrieben. Websuche zu frischen Altcoin-Breakouts und FOMC-bezogenen Krypto-Bewegungen lieferte keine auf heute datierten, mehrfach unabhaengig bestaetigten Einzelsignale - daher kein Neukauf trotz sehr hohem freiem Kapital (Bar fuer eine wirklich ueberzeugende Gelegenheit nicht erreicht). BTC (pos-0018, -5,00%) und Brent (pos-0030, -0,76%) bleiben beide innerhalb der Halte-Zone und werden weiter gehalten. Keine Position verstoesst gegen Ausschlusslisten aus den Einstellungen. FOMC-Entscheidung heute (28.10., ca. 20:00 MEZ) bleibt der naechste wichtige Termin, daher weiterhin vorsichtig-abwartende Haltung.",
     "positionIds": [
       "pos-0018",
       "pos-0030"
     ],
-    "portfolioValueEnd": 1357.96,
+    "portfolioValueEnd": 1359.65,
     "updates": [
       {
         "time": "00:09",
@@ -10832,6 +10832,10 @@
         "time": "02:09",
         "note": "Keine Aenderung. BTC ueber CoinGecko-API aktualisiert (80.684 -> 80.576 USD, -5,24% seit Kauf pos-0018); Brent erstmals seit Tagen ueber Live-Quelle (investing.com) aktualisiert (109,77 -> 110,70 USD, -0,76% seit Kauf pos-0030); kein neuer Katalysator, kein Trade",
         "portfolioValue": 1357.96
+      },
+      {
+        "time": "03:09",
+        "note": "Keine Aenderung. BTC ueber CoinGecko-API aktualisiert (80.576 -> 80.781 USD, -5,00% seit Kauf pos-0018); Brent mangels verlaesslicher frischer Quelle unveraendert (110,70 USD/Barrel); kein neuer Katalysator, kein Trade vor FOMC"
       }
     ]
   }
