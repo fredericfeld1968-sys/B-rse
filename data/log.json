@@ -10809,14 +10809,14 @@
   },
   {
     "date": "2026-10-28",
-    "marketOverview": "05:08 MEZ: BTC bei ca. 80.900 USD (+1,55% 24h, CoinDesk), seit drei Wochen in Folge schwach/konsolidierend in der niedrigen 80.000er-Zone - kein Ausbruch. Brent via investing.com weiterhin bei ca. 110,80 USD/Barrel (+1,27% Tagesplus), getrieben von anhaltender Hormuz-Eskalation (Iran kontrolliert die Strasse zunehmend, Stand 17.-20.10., keine neueren Updates verifizierbar). Altcoin-Rotation beschraenkt sich auf Memecoins (PEPE +13%) und Small-Caps (TIA, INJ) - keine mehrfach bestaetigte 5%+-Bewegung in SOL/ETH/XRP/AVAX/LINK gefunden. FOMC-Entscheidung heute um ca. 20:00 MEZ/14:00 ET bleibt der dominante Katalysator; Markt preist ueberwiegend eine Zinspause ein (Cut-Wahrscheinlichkeit auf ~20% gefallen). US- und europaeische Boersen weiterhin geschlossen, nur Krypto handelbar.",
-    "decision": "Kein Trade. BTC-Position (pos-0018) auf 80.900 USD aktualisiert (-4,86% seit Kauf, weiterhin innerhalb der Halte-Zone, Stop-Loss bei -6,5 bis -7,5%). Brent-Position (pos-0030) auf 110,80 USD/Barrel aktualisiert (-0,67% seit Kauf). Kein neuer, unabhaengig bestaetigter Einzel-Katalysator fuer einen Neukauf gefunden - nur generische Rotation in Memecoins/Small-Caps ohne Substanz fuer eine spekulative Position; Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten nicht handelbar. Einen Tag der FOMC-Entscheidung bleibt die Grundhaltung abwartend trotz sehr hohem freiem Kapital (~82.938 EUR) - es wird nur bei einer wirklich ueberzeugenden Gelegenheit gehandelt.",
-    "reasoning": "Recherche ergab BTC bei ca. 80.900 USD (CoinDesk, +1,55% 24h) - seit drei Wochen schwache, konsolidierende Tendenz, kein Breakout. Brent via investing.com bei ca. 110,80 USD/Barrel (+1,27%), konsistent mit der seit dem 17.-20.10. dokumentierten Hormuz-Eskalation, aber keine frischere Bestaetigung verfuegbar. Ein verdaechtiger Artikel mit BTC >93.000 USD wurde als unzuverlaessig verworfen (widerspricht allen anderen datierten Quellen). Keine mehrfach unabhaengig bestaetigte 5%+-Bewegung in grossen Altcoins (SOL/ETH/XRP/AVAX/LINK) gefunden, nur Memecoin-/Small-Cap-Rotation ohne klaren fundamentalen Katalysator - reicht nicht fuer eine spekulative Neuposition. FOMC-Entscheidung heute Abend (ca. 20:00 MEZ) bleibt mit Pausen-Erwartung (~20% Cut-Wahrscheinlichkeit) der entscheidende, aber noch ausstehende Katalysator. Daher kein Neukauf trotz sehr hohem freiem Kapital. BTC (pos-0018, -4,86%) und Brent (pos-0030, -0,67%) bleiben beide innerhalb der Halte-Zone und werden weiter gehalten. Keine Position verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "marketOverview": "06:08 MEZ: BTC via CoinDesk-Livekurs bei ca. 80.824,61 USD (+1,21% 24h), weiterhin in der niedrigen 80.000er-Konsolidierungszone ohne Ausbruch (Wintermute-Szenario: Ausbruch erst ueber 87.000 USD bzw. Bruch unter 82.500 USD Richtung 70.000 USD). Brent via investing.com bei ca. 110,93 USD/Barrel (+1,39% Tagesplus), Spanne 107,87-111,41 USD, anhaltende Hormuz-Eskalation ohne neue Einzel-Meldung seit dem letzten Lauf. Altcoins fielen laut Wintermute die letzte Woche -5,69% und bleiben hinter Bitcoin zurueck - keine mehrfach bestaetigte 5%+-Bewegung in grossen Alts gefunden. FOMC-Entscheidung heute um ca. 20:00 MEZ bleibt der dominante, noch ausstehende Katalysator; US-Inflation bei 3,7% (Core darueber) erhoeht laut Wintermute das Risiko einer hawkishen Fed. US- und europaeische Boersen weiterhin geschlossen, nur Krypto handelbar.",
+    "decision": "Kein Trade. BTC-Position (pos-0018) auf 80.824,61 USD aktualisiert (-4,95% seit Kauf, weiterhin innerhalb der Halte-Zone, Stop-Loss bei -6,5 bis -7,5%). Brent-Position (pos-0030) auf 110,93 USD/Barrel aktualisiert (-0,56% seit Kauf). Kein neuer, unabhaengig bestaetigter Einzel-Katalysator fuer einen Neukauf gefunden - Altcoins bleiben in der Rotation schwach, Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten nicht handelbar. Am Tag der FOMC-Entscheidung bleibt die Grundhaltung abwartend trotz sehr hohem freiem Kapital (~82.938 EUR) - es wird nur bei einer wirklich ueberzeugenden Gelegenheit gehandelt.",
+    "reasoning": "Recherche ergab BTC via CoinDesk bei ca. 80.824,61 USD (+1,21% 24h) - weiterhin Konsolidierung in der niedrigen 80.000er-Zone, kein bestaetigter Breakout. Brent via investing.com bei ca. 110,93 USD/Barrel (+1,39%), konsistent mit der seit Tagen dokumentierten Hormuz-Eskalation, aber kein frischer Einzel-Katalysator. Wintermute-Analyse (datiert 20.10.) sieht erhoehte Volatilitaet vor dem heutigen FOMC-Termin mit zwei Szenarien (Ausbruch >87.000 USD vs. Bruch <82.500 USD Richtung 70.000 USD) sowie schwaechere Altcoins (-5,69% Wochenperformance) - kein ausreichendes Signal fuer eine spekulative Neuposition direkt vor der Entscheidung. BTC (pos-0018, -4,95%) und Brent (pos-0030, -0,56%) bleiben beide innerhalb der Halte-Zone und werden weiter gehalten. Keine Position verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [
       "pos-0018",
       "pos-0030"
     ],
-    "portfolioValueEnd": 1361.25,
+    "portfolioValueEnd": 1361.45,
     "updates": [
       {
         "time": "00:09",
@@ -10846,6 +10846,11 @@
         "time": "05:08",
         "note": "Keine Aenderung. BTC aktualisiert (80.830 -> 80.900 USD, -4,86% seit Kauf pos-0018); Brent aktualisiert (110,78 -> 110,80 USD, -0,67% seit Kauf pos-0030); kein bestaetigter Altcoin-Breakout (nur Memecoin-/Small-Cap-Rotation), kein Trade vor FOMC (ca. 20:00 MEZ).",
         "portfolioValue": 1361.25
+      },
+      {
+        "time": "06:08",
+        "note": "Keine Aenderung. BTC aktualisiert (80.900 -> 80.824,61 USD, -4,95% seit Kauf pos-0018); Brent aktualisiert (110,80 -> 110,93 USD, -0,56% seit Kauf pos-0030); Altcoins laut Wintermute-Analyse weiterhin schwach (-5,69% Wochenperformance), kein Breakout; kein Trade vor FOMC (ca. 20:00 MEZ).",
+        "portfolioValue": 1361.45
       }
     ]
   }
