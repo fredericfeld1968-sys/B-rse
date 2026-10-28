@@ -10809,14 +10809,14 @@
   },
   {
     "date": "2026-10-28",
-    "marketOverview": "07:11 MEZ: BTC via CoinGecko-API bei ca. 80.827 USD (+1,21% 24h), weiterhin in der niedrigen 80.000er-Konsolidierungszone ohne klaren Ausbruch. Brent via investing.com bei ca. 111,12 USD/Barrel (+1,56% Tagesplus, Spanne 107,87-111,41 USD), anhaltende Hormuz-Eskalation ohne neue Einzel-Meldung seit dem letzten Lauf. Grosse Altcoins (ETH +1,7%, SOL +2,0%, AVAX +2,8%, LINK +3,2%, DOGE +2,8% in 24h) zeigen nur moderate Bewegungen, kein bestaetigter 5%+-Breakout gefunden. FOMC-Entscheidung heute um ca. 20:00 MEZ bleibt der dominante, noch ausstehende Katalysator; US- und europaeische Boersen weiterhin ausserhalb der Handelszeiten, nur Krypto handelbar.",
-    "decision": "Kein Trade. BTC-Position (pos-0018) auf 80.827 USD aktualisiert (-4,95% seit Kauf, weiterhin innerhalb der Halte-Zone, Stop-Loss bei -6,5 bis -7,5%). Brent-Position (pos-0030) auf 111,12 USD/Barrel aktualisiert (-0,39% seit Kauf). Kein neuer, unabhaengig bestaetigter Einzel-Katalysator fuer einen Neukauf gefunden - Altcoins bewegen sich nur moderat, Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten nicht handelbar. Am Tag der FOMC-Entscheidung bleibt die Grundhaltung abwartend trotz sehr hohem freiem Kapital - es wird nur bei einer wirklich ueberzeugenden Gelegenheit gehandelt.",
-    "reasoning": "Recherche ergab BTC via CoinGecko-API bei 80.827 USD (+1,21% 24h) - unveraendert in der Konsolidierungszone, kein bestaetigter Breakout. Brent via investing.com bei 111,12 USD/Barrel (+1,56% Tagesplus), konsistent mit der anhaltenden Hormuz-Eskalation, aber kein frischer Einzel-Katalysator seit dem letzten Lauf. Grosse Altcoins (ETH, SOL, AVAX, LINK, DOGE) bewegen sich nur im Rahmen von +1,7% bis +3,2% in 24h - zu moderat fuer eine spekulative Neuposition. BTC (pos-0018, -4,95%) und Brent (pos-0030, -0,39%) bleiben beide innerhalb der Halte-Zone und werden weiter gehalten. Keine Position verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "marketOverview": "08:11 MEZ: BTC via CoinGecko-API bei ca. 80.842 USD (+1,66% 24h), weiterhin in der niedrigen 80.000er-Konsolidierungszone ohne klaren Ausbruch. Brent via investing.com bei ca. 111,43 USD/Barrel (+1,85% ggue. Vortagesschluss 109,41 USD), anhaltende Hormuz-Eskalation ohne neue Einzel-Meldung seit dem letzten Lauf. Grosse Altcoins (ETH +2,2%, SOL +2,4%, AVAX +2,5%, LINK +3,6%, DOGE +3,6%, XRP +2,2% in 24h) zeigen nur moderate Bewegungen, kein bestaetigter 5%+-Breakout gefunden. FOMC-Entscheidung heute um ca. 20:00 MEZ bleibt der dominante, noch ausstehende Katalysator; US- und europaeische Boersen weiterhin ausserhalb der Handelszeiten, nur Krypto und kontinuierlich gehandelte Rohstoff-Futures handelbar.",
+    "decision": "Kein Trade. BTC-Position (pos-0018) auf 80.842 USD aktualisiert (-4,93% seit Kauf, weiterhin innerhalb der Halte-Zone, Stop-Loss bei -6,5 bis -7,5%). Brent-Position (pos-0030) auf 111,43 USD/Barrel aktualisiert (-0,11% seit Kauf). Kein neuer, unabhaengig bestaetigter Einzel-Katalysator fuer einen Neukauf gefunden - Altcoins bewegen sich nur moderat, Aktien/ETFs ausserhalb der Handelszeiten nicht handelbar. Am Tag der FOMC-Entscheidung bleibt die Grundhaltung abwartend trotz sehr hohem freiem Kapital - es wird nur bei einer wirklich ueberzeugenden Gelegenheit gehandelt.",
+    "reasoning": "Recherche ergab BTC via CoinGecko-API bei 80.842 USD (+1,66% 24h) - unveraendert in der Konsolidierungszone, kein bestaetigter Breakout. Brent via investing.com bei 111,43 USD/Barrel (+1,85% ggue. Vortagesschluss), konsistent mit der anhaltenden Hormuz-Eskalation, aber kein frischer Einzel-Katalysator seit dem letzten Lauf. Grosse Altcoins (ETH, SOL, AVAX, LINK, DOGE, XRP) bewegen sich nur im Rahmen von +2,2% bis +3,6% in 24h - zu moderat fuer eine spekulative Neuposition. BTC (pos-0018, -4,93%) und Brent (pos-0030, -0,11%) bleiben beide innerhalb der Halte-Zone und werden weiter gehalten. Keine Position verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [
       "pos-0018",
       "pos-0030"
     ],
-    "portfolioValueEnd": 1362.66,
+    "portfolioValueEnd": 1364.73,
     "updates": [
       {
         "time": "00:09",
@@ -10856,6 +10856,11 @@
         "time": "07:11",
         "note": "Keine Aenderung. BTC aktualisiert (80.824,61 -> 80.827 USD, -4,95% seit Kauf pos-0018); Brent aktualisiert (110,93 -> 111,12 USD, -0,39% seit Kauf pos-0030); Altcoins nur moderate 24h-Bewegungen (+1,7% bis +3,2%), kein Breakout; kein Trade vor FOMC (ca. 20:00 MEZ).",
         "portfolioValue": 1362.66
+      },
+      {
+        "time": "08:11",
+        "note": "Keine Aenderung. BTC aktualisiert (80.827 -> 80.842 USD, -4,93% seit Kauf pos-0018); Brent aktualisiert (111,12 -> 111,43 USD, -0,11% seit Kauf pos-0030); Altcoins nur moderate 24h-Bewegungen (ETH +2,2%, SOL +2,4%, AVAX +2,5%, LINK +3,6%, DOGE +3,6%, XRP +2,2%), kein Breakout; kein Trade vor FOMC (ca. 20:00 MEZ).",
+        "portfolioValue": 1364.73
       }
     ]
   }
