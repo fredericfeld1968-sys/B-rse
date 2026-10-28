@@ -10809,14 +10809,14 @@
   },
   {
     "date": "2026-10-28",
-    "marketOverview": "17:08 MEZ: Bitcoin je nach Quelle 80.550-81.300 USD, Konsolidierung um 80.000-81.500 USD haelt an (aktuell ca. 80.900 USD angenommen, kaum veraendert zum letzten Lauf 80.556 USD). Brent Crude zeigt uneinheitliche Quellen zwischen 111 und 115 USD/Barrel (Investing.com Front-Future 111,25 USD, andere Quellen 114-115 USD) - weiterhin klar oberhalb 110 USD wegen der anhaltenden geopolitischen Risikopraemie an der Strasse von Hormuz/Ras Tanura (aktuell ca. 113,80 USD angenommen, leicht unter dem letzten Lauf 115,75 USD). Haupttreiber bleiben unveraendert die FOMC-Zinsentscheidung (ca. 19:00-20:00 MEZ, erwartet: Halten bei 3,75-4,00%) sowie die Quartalszahlen von Microsoft und Alphabet nach US-Marktschluss - beide stehen weiterhin aus. Keine neuen Einzeltitel- oder Altcoin-Breakouts gefunden.",
-    "decision": "Kein Trade. BTC-Position (pos-0018) auf ca. 80.900 USD aktualisiert (-4,86% seit Kauf). Brent-Position (pos-0030) auf ca. 113,80 USD/Barrel aktualisiert (+2,02% seit Kauf) - beide weiterhin innerhalb der normalen Schwankungsbreite, keine Stop-Loss- oder Gewinnmitnahme-Schwelle erreicht. Freies Kapital von ca. 82.938 EUR bleibt verfuegbar, aber unmittelbar vor der FOMC-Entscheidung und den MSFT/GOOGL-Earnings heute Abend wird bewusst abwartend gehalten statt neue Positionen in eine unsichere Nachrichtenlage hinein zu eroeffnen.",
-    "reasoning": "Websuche liefert fuer BTC und Brent uneinheitliche, teils widerspruechliche Live-Quellen ohne klaren neuen Katalysator seit dem letzten Lauf (16:12) - beide Werte bewegen sich innerhalb der ueblichen Schwankungsbreite und weit entfernt von den etablierten Schwellen (Stop-Loss ca. -6,5 bis -7,5%, Gewinnmitnahme ca. 7-9%). Kein frischer, mehrfach bestaetigter Ausbruch bei Aktien, ETFs oder Altcoins gefunden. Die FOMC-Entscheidung (ca. 19:00-20:00 MEZ) und die Quartalszahlen von Microsoft und Alphabet nach Handelsschluss sind die mit Abstand groessten anstehenden Katalysatoren und stehen noch aus - eine neue spekulative Position jetzt zu eroeffnen wuerde unnoetig Risiko in diese Unsicherheit hinein aufbauen. Passend zum spekulativen, aber risikobewussten Profil bleibt die Grundhaltung konsequent abwartend, bis diese Ereignisse eine klarere Richtung liefern.",
+    "marketOverview": "18:14 MEZ: Bitcoin ohne frisch verifizierbare Live-Quelle unveraendert bei ca. 80.900 USD angenommen (Konsolidierung 80.000-81.500 USD haelt an). Brent Crude klettert laut mehreren unabhaengigen Quellen (FXEmpire, AA, Siasat, Pomegra, Coinpaper, Tuerkiye Today) auf ca. 115-116,50 USD/Barrel (+1,2 bis +1,9% heute), nachdem die Huthi-Miliz einen Raketenangriff auf die Ras-Tanura-Raffinerie (550.000 Barrel/Tag Kapazitaet) reklamiert und Bloomberg einen Brand am angrenzenden Exportterminal meldet; die saudische Fuehrung hat den Huthi-Angriff auf die Raffinerie selbst nicht bestaetigt, der Brand am Terminal wird teils auf herabfallende Truemmer einer Abfangaktion (3 abgefangene Raketen) zurueckgefuehrt. FOMC-Zinsentscheidung (14:00 ET / ca. 19:00-20:00 MEZ) steht in Kuerze an (erwartet: Halten bei 3,75-4,00%), Microsoft- und Alphabet-Quartalszahlen stehen nach US-Marktschluss noch aus.",
+    "decision": "Kein Trade. BTC-Position (pos-0018) mangels frischer verifizierter Quelle unveraendert bei ca. 80.900 USD gelassen (-4,86% seit Kauf). Brent-Position (pos-0030) auf ca. 115,50 USD/Barrel aktualisiert (+3,54% seit Kauf) aufgrund des mehrfach bestaetigten Ras-Tanura-Zwischenfalls - weiterhin klar innerhalb der normalen Schwankungsbreite, keine Stop-Loss- oder Gewinnmitnahme-Schwelle (ca. 7-9%) erreicht. Freies Kapital von ca. 82.938 EUR bleibt verfuegbar, aber unmittelbar vor der FOMC-Entscheidung (in Kuerze) und den MSFT/GOOGL-Earnings wird bewusst abwartend gehalten statt neue Positionen in diese unsichere Nachrichtenlage hinein zu eroeffnen.",
+    "reasoning": "Der Ras-Tanura-Zwischenfall ist inzwischen von mehreren unabhaengigen Quellen (FXEmpire, AA, Siasat, Pomegra, Coinpaper, Tuerkiye Today) mit konsistenten Brent-Preisen im Bereich 115-116,50 USD bestaetigt, bleibt aber in der Substanz unklar (Huthi-Behauptung eines Raffinerietreffers vs. saudische Darstellung eines truemmerbedingten Brands am Terminal, keine offizielle saudische Bestaetigung oder gemeldete Produktionsausfaelle) - daher Preisaktualisierung, aber kein Anlass fuer einen Trade, da die Bewegung (+3,54% seit Kauf) deutlich unter der etablierten Gewinnmitnahme-Schwelle (7-9%) liegt. Fuer BTC konnte in dieser Stunde keine frische, verifizierte Live-Quelle gefunden werden; der Wert bleibt daher gegenueber dem letzten Lauf unveraendert. Mit der FOMC-Entscheidung in weniger als einer Stunde und den MSFT/GOOGL-Earnings nach Handelsschluss stehen die mit Abstand groessten Katalysatoren des Tages noch aus - eine neue spekulative Position jetzt zu eroeffnen wuerde unnoetig Risiko in diese Unsicherheit hinein aufbauen. Passend zum spekulativen, aber risikobewussten Profil bleibt die Grundhaltung konsequent abwartend.",
     "positionIds": [
       "pos-0018",
       "pos-0030"
     ],
-    "portfolioValueEnd": 1380.08,
+    "portfolioValueEnd": 1390.75,
     "updates": [
       {
         "time": "00:09",
@@ -10901,6 +10901,11 @@
         "time": "17:08",
         "note": "Keine Aenderung. BTC auf ca. 80.900 USD aktualisiert (-4,86% seit Kauf pos-0018); Brent auf ca. 113,80 USD/Barrel aktualisiert (+2,02% seit Kauf pos-0030); kein neuer Katalysator, abwartend vor FOMC (ca. 19:00-20:00 MEZ) und MSFT/GOOGL-Earnings, kein Trade",
         "portfolioValue": 1380.08
+      },
+      {
+        "time": "18:14",
+        "note": "Keine Aenderung. BTC mangels frischer Quelle unveraendert bei ca. 80.900 USD (-4,86% seit Kauf pos-0018); Brent auf ca. 115,50 USD/Barrel aktualisiert (+3,54% seit Kauf pos-0030) nach mehrfach bestaetigtem Ras-Tanura-Raffinerieangriff (Huthi-Behauptung, saudische Bestaetigung offen); kein Trade in Kuerze vor FOMC (ca. 19:00-20:00 MEZ) und MSFT/GOOGL-Earnings.",
+        "portfolioValue": 1390.75
       }
     ]
   }
