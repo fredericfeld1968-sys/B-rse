@@ -10809,14 +10809,14 @@
   },
   {
     "date": "2026-10-28",
-    "marketOverview": "19:09 MEZ: Die Fed hat ihre Zinsentscheidung veroeffentlicht - Leitzins bleibt bei 3,75-4,00% (gehaltener Zinssatz, erwartungsgemaess), allerdings mit gespaltenem Votum (10:2, zwei Gegenstimmen fuer eine Zinserhoehung) und der Aussage 'Inflation remains elevated' sowie einer Hochstufung der Wirtschaftsaktivitaet auf 'expanding at a strong pace' - in Summe ein hawkishes Signal (CNBC, CNN, Yahoo Finance). Bitcoin reagiert bislang kaum (CoinGecko: ca. 80.750 USD, +0,37% in 24h), die Konsolidierung 80.000-81.500 USD haelt an. Brent Crude steht laut OilPrice.com bei ca. 115,24 USD/Barrel (+1,19%), der Ras-Tanura-Zwischenfall bleibt ohne neue Bestaetigung oder Eskalationsstufe seit dem letzten Lauf. Microsoft- und Alphabet-Quartalszahlen stehen weiterhin nach US-Marktschluss aus.",
-    "decision": "Kein Trade. BTC-Position (pos-0018) via CoinGecko auf 80.750 USD aktualisiert (-5,04% seit Kauf), Brent-Position (pos-0030) via OilPrice.com auf 115,24 USD/Barrel aktualisiert (+3,31% seit Kauf) - beide weiterhin klar innerhalb der normalen Schwankungsbreite, keine Stop-Loss- oder Gewinnmitnahme-Schwelle (ca. 7-9%) erreicht. Die soeben veroeffentlichte, leicht hawkishe FOMC-Entscheidung (Halten bei 3,75-4,00%, aber gespaltenes Votum mit zwei Gegenstimmen fuer eine Erhoehung) hat bislang keine starke Marktreaktion ausgeloest. Freies Kapital von weiterhin ca. 82.938 EUR bleibt verfuegbar, aber angesichts fehlender ueberzeugender neuer Gelegenheit direkt nach der Entscheidung und ausstehender MSFT/GOOGL-Zahlen wird bewusst abwartend gehalten statt eine neue Position zu eroeffnen.",
-    "reasoning": "Die FOMC-Entscheidung (Halten bei 3,75-4,00%, 10:2-Votum, Statement betont anhaltend erhoehte Inflation und staerkere Wirtschaftsaktivitaet) ist zwar tendenziell hawkish, aber keine Ueberraschung (Markt hatte ueberwiegend ein Halten erwartet) und hat laut aktuellem BTC-Kurs (80.750 USD, kaum veraendert zum letzten Lauf) noch keine klare Risk-off- oder Risk-on-Bewegung ausgeloest - fuer einen spekulativen Trade direkt auf diese Nachricht fehlt eine bestaetigte Kursreaktion. Die Brent-Position bleibt mit +3,31% deutlich unter der etablierten Gewinnmitnahme-Schwelle, der zugrunde liegende Ras-Tanura-Zwischenfall hat keine neue Entwicklung gebracht. Die BTC-Position naehert sich mit -5,04% der Stop-Loss-Zone (-6,5 bis -7,5%), hat sie aber noch nicht erreicht; mangels neuer fundamentaler Verschlechterung (die urspruengliche Ausbruchsthese ist nicht widerlegt, nur das allgemeine Makroumfeld ist etwas restriktiver geworden) wird noch nicht glattgestellt. Mit den noch ausstehenden MSFT/GOOGL-Zahlen nach US-Marktschluss bleibt die Grundhaltung passend zum spekulativen, aber risikobewussten Profil weiterhin abwartend.",
+    "marketOverview": "20:09 MEZ: Keine wesentliche Veraenderung seit dem letzten Lauf - die US-Boersen notieren weiterhin im Nachgang der leicht hawkishen FOMC-Entscheidung (Halten bei 3,75-4,00%, 10:2-Votum), ohne starke neue Kursbewegung. Bitcoin pendelt laut CoinGecko weiterhin um ca. 80.900-81.100 USD (+/-1,5% in 24h) in der seit Tagen intakten Konsolidierung 80.000-81.500 USD. Brent Crude notiert je nach Quelle zwischen ca. 111,80 und 115,40 USD/Barrel (OilPriceAPI, FXEmpire, Oilprice.com) - der Ras-Tanura-Zwischenfall bleibt weiterhin ohne neue Bestaetigung oder Eskalationsstufe. Microsoft- und Alphabet-Quartalszahlen stehen weiterhin aus (Veroeffentlichung nach US-Marktschluss, ca. 22:00-22:30 MEZ).",
+    "decision": "Kein Trade. BTC-Position (pos-0018) auf ca. 80.950 USD aktualisiert (-4,80% seit Kauf), Brent-Position (pos-0030) auf ca. 115,30 USD/Barrel aktualisiert (+3,36% seit Kauf) - beide weiterhin innerhalb der normalen Schwankungsbreite, keine Stop-Loss- oder Gewinnmitnahme-Schwelle (ca. 7-9%) erreicht. Freies Kapital von weiterhin ca. 82.938 EUR bleibt verfuegbar, aber ohne neue, ueberzeugende Gelegenheit und mit den noch ausstehenden MSFT/GOOGL-Zahlen (nach US-Marktschluss) wird bewusst abwartend gehalten.",
+    "reasoning": "Seit dem letzten Lauf (19:09 MEZ) hat sich die Marktlage kaum veraendert: Die hawkishe FOMC-Entscheidung wirkt weiterhin ohne klare Risk-on- oder Risk-off-Dynamik nach, BTC und Brent bewegen sich nur im Rahmen der ueblichen Schwankungsbreite. Die BTC-Position naehert sich mit -4,80% weiterhin der Stop-Loss-Zone (-6,5 bis -7,5%), hat sie aber nicht erreicht; die urspruengliche Ausbruchsthese ist nicht widerlegt. Die Brent-Position bleibt mit +3,36% deutlich unter der Gewinnmitnahme-Schwelle. Die entscheidenden Katalysatoren fuer den Rest des Tages (MSFT/GOOGL-Zahlen nach US-Marktschluss) stehen noch aus, daher bleibt die Grundhaltung passend zum spekulativen, aber risikobewussten Profil abwartend.",
     "positionIds": [
       "pos-0018",
       "pos-0030"
     ],
-    "portfolioValueEnd": 1387.89,
+    "portfolioValueEnd": 1389.9,
     "updates": [
       {
         "time": "00:09",
@@ -10911,6 +10911,11 @@
         "time": "19:09",
         "note": "Keine Aenderung. FOMC haelt Leitzins bei 3,75-4,00% (10:2-Votum, hawkishes Statement), bislang kaum Marktreaktion. BTC via CoinGecko aktualisiert (80.900 -> 80.750 USD, -5,04% seit Kauf pos-0018); Brent via OilPrice.com aktualisiert (115,50 -> 115,24 USD/Barrel, +3,31% seit Kauf pos-0030); kein Trade.",
         "portfolioValue": 1387.89
+      },
+      {
+        "time": "20:09",
+        "note": "Keine Aenderung (BTC -4,80%, Brent +3,36%), abwartend vor MSFT/GOOGL-Zahlen",
+        "portfolioValue": 1389.9
       }
     ]
   }
