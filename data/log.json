@@ -10936,14 +10936,14 @@
   },
   {
     "date": "2026-10-29",
-    "marketOverview": "Krypto bleibt leicht risikoavers ohne bestaetigten Breakout: Bitcoin bei ca. 80.050 USD (leichter Rueckgang zum Vorlauf, weiterhin unter dem Hoch vom 28.10. bei ca. 81.360 USD laut Fortune-Daten), Altcoins ohne neues Signal. Brent Crude bei ca. 109,90 USD/Barrel, weiter leicht abbroeckelnd. Europaeische Kassamaerkte (XETRA) oeffnen erst um 9:00 Uhr, US-Kassamarkt erst am Nachmittag - vorher sind Aktien, ETFs und Rohstoffe nicht handelbar.",
-    "decision": "Kein Trade. Tagesbudget bereits heute frueh gutgeschrieben (kein erneuter Grant). BTC-Position (pos-0018) auf 80.050 USD aktualisiert (-5,86% seit Kauf, naehert sich der Stop-Loss-Schwelle, aber noch nicht erreicht); Brent-Position (pos-0030) auf 109,90 USD aktualisiert (-1,48% seit Kauf, Markt ausserhalb der Handelszeiten). Keine neue ueberzeugende Gelegenheit im Krypto-Markt vor Boersenoeffnung gefunden.",
-    "reasoning": "Vor Boersenoeffnung in Europa/USA sind nur Kryptowerte handelbar. BTC bleibt mit -5,86% noch unter der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%), daher kein Verkauf. Kein neues bestaetigtes Ausbruchssignal im Kryptomarkt gefunden, daher keine neue Position trotz hohem freiem Kapital.",
+    "marketOverview": "Fed (FOMC, Vorsitz Kevin Warsh) hat die Zinsen am 28.10. in einer gespaltenen Abstimmung (10-2) bei 3,75-4,00% belassen, Inflation bleibt laut Statement \"erhoeht\" - zwei Dissidentinnen (Cook, Hammack) wollten sogar erhoehen. Bitcoin reagiert mit leichtem Rueckgang auf ca. 79.850 USD (-6,10% seit Kauf pos-0018, naehert sich weiter der Stop-Loss-Zone von -6,5 bis -7,5%, aber noch nicht erreicht); ETF-Outflows (~770 Mio. USD) belasten zusaetzlich. Brent Crude bei ca. 109,70 USD/Barrel, weiterhin leicht abbroeckelnd, aber laut Nachrichtenlage (Iran-Spannungen, Tanker-Vorfaelle) strukturell hoch - Oelpreis gilt als Mitgrund fuer die anhaltend erhoehte Inflation. Europaeische Kassamaerkte (XETRA) seit 9:00 Uhr geoeffnet, US-Markt oeffnet erst am Nachmittag; keine eindeutig ueberzeugende neue Breakout-Gelegenheit in Aktien, ETFs oder Rohstoffen seit Handelsstart erkennbar.",
+    "decision": "Kein Trade. Tagesbudget bereits heute frueh gutgeschrieben (kein erneuter Grant). BTC-Position (pos-0018) auf 79.850 USD aktualisiert (-6,10% seit Kauf, naeher an der Stop-Loss-Schwelle, aber noch nicht erreicht); Brent-Position (pos-0030) auf 109,70 USD aktualisiert (-1,66% seit Kauf). Trotz Boersenoeffnung in Europa seit 9:00 Uhr keine ueberzeugende neue Gelegenheit gefunden - Marktlage nach der hawkishen Fed-Entscheidung unklar/gemischt, daher abgewartet statt ueberstuerzt gehandelt.",
+    "reasoning": "Die Fed-Entscheidung vom 28.10. (Halten bei 3,75-4,00%, aber hawkisher Ton wegen erhoehter Inflation) sorgt fuer gemischte/unsichere Marktstimmung direkt nach Europas Boersenoeffnung. BTC bleibt mit -6,10% knapp unter der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%), daher kein Verkauf. Kein bestaetigtes neues Ausbruchssignal in Aktien, ETFs oder Rohstoffen seit Handelsstart, daher trotz hohem freiem Kapital keine neue Position - spekulatives Risikoprofil erlaubt kurzfristiges Handeln, verlangt aber eine wirklich ueberzeugende Gelegenheit.",
     "positionIds": [
       "pos-0018",
       "pos-0030"
     ],
-    "portfolioValueEnd": 1348.61,
+    "portfolioValueEnd": 1345.68,
     "updates": [
       {
         "time": "00:08",
@@ -10989,6 +10989,11 @@
         "time": "08:12",
         "note": "Keine Aenderung. BTC aktualisiert (80.164 -> 80.050 USD, -5,73% -> -5,86% seit Kauf pos-0018); Brent aktualisiert (110,10 -> 109,90 USD, -1,30% -> -1,48% seit Kauf pos-0030); Krypto-Nachtmarkt weiterhin leicht risikoavers ohne Breakout, kein Trade.",
         "portfolioValue": 1348.61
+      },
+      {
+        "time": "09:14",
+        "note": "Keine Aenderung. BTC aktualisiert (80.050 -> 79.850 USD, -5,86% -> -6,10% seit Kauf pos-0018, naehert sich Stop-Loss); Brent aktualisiert (109,90 -> 109,70 USD, -1,48% -> -1,66% seit Kauf pos-0030); Fed hielt Zinsen bei 3,75-4,00% (hawkisch), XETRA seit 9:00 Uhr offen, aber keine ueberzeugende neue Gelegenheit. Kein Trade.",
+        "portfolioValue": 1345.68
       }
     ]
   }
