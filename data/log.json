@@ -10936,14 +10936,14 @@
   },
   {
     "date": "2026-10-29",
-    "marketOverview": "Krypto bleibt leicht risikoavers ohne bestaetigten Breakout: Bitcoin bei ca. 80.164 USD (-0,82% 24h, CoinGecko live), Ethereum -1,33%, Solana -1,61%. Brent Crude bei ca. 110,10 USD/Barrel (-1,38% zum Vortagesschluss, Investing.com), weiter leicht abbroeckelnd. FOMC-Ergebnis vom 27.-28.10. bleibt ueber verfuegbare Quellen weiterhin nicht eindeutig bestaetigbar. Europaeische und US-Kassamaerkte vor Boersenoeffnung noch geschlossen.",
-    "decision": "Kein Trade. Tagesbudget bereits heute frueh gutgeschrieben (kein erneuter Grant). BTC-Position (pos-0018) auf 80.164 USD aktualisiert (-5,73% seit Kauf, weiterhin unter Stop-Loss-Schwelle); Brent-Position (pos-0030) auf 110,10 USD aktualisiert (-1,30% seit Kauf, Markt ausserhalb der Handelszeiten). Keine neue ueberzeugende Gelegenheit im Krypto-Nachtmarkt gefunden.",
-    "reasoning": "Vor Boersenoeffnung in Europa/USA sind nur Kryptowerte handelbar. BTC bleibt mit -5,73% noch unter der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%), daher kein Verkauf. Der breite Kryptomarkt zeigt weiterhin durchweg leicht negative 24h-Veraenderungen (BTC -0,82%, ETH -1,33%, SOL -1,61%) ohne neues ueberzeugendes Signal, daher keine neue Position trotz hohem freiem Kapital.",
+    "marketOverview": "Krypto bleibt leicht risikoavers ohne bestaetigten Breakout: Bitcoin bei ca. 80.050 USD (leichter Rueckgang zum Vorlauf, weiterhin unter dem Hoch vom 28.10. bei ca. 81.360 USD laut Fortune-Daten), Altcoins ohne neues Signal. Brent Crude bei ca. 109,90 USD/Barrel, weiter leicht abbroeckelnd. Europaeische Kassamaerkte (XETRA) oeffnen erst um 9:00 Uhr, US-Kassamarkt erst am Nachmittag - vorher sind Aktien, ETFs und Rohstoffe nicht handelbar.",
+    "decision": "Kein Trade. Tagesbudget bereits heute frueh gutgeschrieben (kein erneuter Grant). BTC-Position (pos-0018) auf 80.050 USD aktualisiert (-5,86% seit Kauf, naehert sich der Stop-Loss-Schwelle, aber noch nicht erreicht); Brent-Position (pos-0030) auf 109,90 USD aktualisiert (-1,48% seit Kauf, Markt ausserhalb der Handelszeiten). Keine neue ueberzeugende Gelegenheit im Krypto-Markt vor Boersenoeffnung gefunden.",
+    "reasoning": "Vor Boersenoeffnung in Europa/USA sind nur Kryptowerte handelbar. BTC bleibt mit -5,86% noch unter der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%), daher kein Verkauf. Kein neues bestaetigtes Ausbruchssignal im Kryptomarkt gefunden, daher keine neue Position trotz hohem freiem Kapital.",
     "positionIds": [
       "pos-0018",
       "pos-0030"
     ],
-    "portfolioValueEnd": 1350.79,
+    "portfolioValueEnd": 1348.61,
     "updates": [
       {
         "time": "00:08",
@@ -10984,6 +10984,11 @@
         "time": "07:09",
         "note": "Keine Aenderung. BTC aktualisiert (80.252 -> 80.164 USD, -5,62% -> -5,73% seit Kauf pos-0018); Brent aktualisiert (110,29 -> 110,10 USD, -1,13% -> -1,30% seit Kauf pos-0030); Krypto-Nachtmarkt weiterhin leicht risikoavers ohne Breakout, kein Trade.",
         "portfolioValue": 1350.79
+      },
+      {
+        "time": "08:12",
+        "note": "Keine Aenderung. BTC aktualisiert (80.164 -> 80.050 USD, -5,73% -> -5,86% seit Kauf pos-0018); Brent aktualisiert (110,10 -> 109,90 USD, -1,30% -> -1,48% seit Kauf pos-0030); Krypto-Nachtmarkt weiterhin leicht risikoavers ohne Breakout, kein Trade.",
+        "portfolioValue": 1348.61
       }
     ]
   }
