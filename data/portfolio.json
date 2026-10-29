@@ -519,10 +519,10 @@
     "reasoning": "Alphabet faellt nach Q3-Zahlen beim Marktstart (15:30 MESZ/9:30 ET) um rund 12-13% auf ca. 283 USD (StockAnalysis, Cryptonomist, Finviz, mehrfach unabhaengig bestaetigt) - trotz Umsatzwachstum von +25% und einer Verdopplung von Google Cloud auf 30,7 Mrd. USD (+103%, operative Marge 36,2%). Ausloeser des Kurssturzes ist primaer ein unrealisierter Mark-to-Market-Verlust von 8,2 Mrd. USD auf die SpaceX-Beteiligung (kein operativer Schaden) sowie ein staerker als erwarteter negativer Free Cashflow (-9,1 Mrd. USD) durch unveraendert hohe Capex-Guidance (195-205 Mrd. USD). Analog zum erfolgreichen 'Sell-the-news'-Dip-Kauf-Muster (AMD +8,7%, SpaceX +7,8%, Palantir +8,3%, Meta +9,87%): operatives Geschaeft bleibt stark, Kurssturz groesstenteils durch einen einmaligen Bewertungseffekt getrieben. Spekulativer Dip-Kauf auf eine technische Gegenbewegung; Risiko bewusst erhoeht, da der Rueckgang (-12/-13%) deutlich staerker ausfaellt als bei bisherigen Dip-Kaeufen und noch keine Bodenbildung bestaetigt ist.",
     "status": "open",
     "buyPrice": 283.47,
-    "currentPrice": 283.47,
-    "currentValue": 800,
-    "profitLoss": 0,
-    "profitLossPct": 0,
+    "currentPrice": 284.92,
+    "currentValue": 804.09,
+    "profitLoss": 4.09,
+    "profitLossPct": 0.51,
     "closedDate": null,
     "closeReasoning": null
   }

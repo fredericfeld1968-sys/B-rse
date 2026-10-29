@@ -10936,15 +10936,15 @@
   },
   {
     "date": "2026-10-29",
-    "marketOverview": "Alphabet stuerzt beim regulaeren US-Marktstart (15:30 MESZ/9:30 ET) um rund 12-13% auf ca. 283 USD ab (StockAnalysis, Cryptonomist, Finviz) - trotz +25% Umsatzwachstum und einer Verdopplung von Google Cloud auf 30,7 Mrd. USD (+103%). Ausloeser ist primaer ein unrealisierter 8,2-Mrd.-USD-Mark-to-Market-Verlust auf die SpaceX-Beteiligung sowie ein staerker als erwarteter negativer Free Cashflow (-9,1 Mrd. USD) bei unveraenderter hoher Capex-Guidance. Bitcoin pendelt weiterhin um 81.100-81.350 USD (CoinGecko), kein bestaetigter Breakout. Brent Crude leicht schwaecher bei ca. 114,30 USD/Barrel (-0,9%), da Hoffnung auf US-Iran-Diplomatie die Houthi-Eskalationsrisiken an der Strasse von Hormuz etwas relativiert.",
-    "decision": "Dip-Kauf Alphabet (GOOGL, 800 EUR) bei ca. 283,47 USD: operatives Geschaeft bleibt stark (Cloud +103%, Umsatz +25%), der Kurssturz ist ueberwiegend durch einen einmaligen Bewertungseffekt (SpaceX-Beteiligung) getrieben - analog zum erfolgreichen Sell-the-news-Muster (AMD, SpaceX, Palantir, Meta). BTC-Position (pos-0018) auf ca. 81.200 USD aktualisiert (-4,51% seit Kauf, Stop-Loss-Zone nicht mehr so nah wie zuletzt); Brent-Position (pos-0030) auf ca. 114,30 USD aktualisiert (+2,47% seit Kauf). Beide weiter innerhalb der normalen Schwankungsbreite, daher kein Verkauf. Tagesbudget bereits heute frueh gutgeschrieben (kein erneuter Grant).",
-    "reasoning": "GOOGL: Der Rueckgang (-12/-13%) ist staerker als bei bisherigen erfolgreichen Dip-Kaeufen (8-9%), aber die fundamentale Story (Cloud-Wachstum, Gesamtumsatz +25%) bleibt intakt und der Hauptbelastungsfaktor (SpaceX-Mark-to-Market) ist nicht operativ - daher trotz erhoehtem Risiko eine spekulative Position passend zum Risikoprofil. BTC (pos-0018) hat sich von -5,74% auf -4,51% erholt, bleibt aber unter Beobachtung nahe der Stop-Loss-Schwelle (-6,5 bis -7,5%). Brent (pos-0030) liegt mit +2,47% weiterhin deutlich unter der Ziel-Gewinnspanne (7-9%), daher Halten.",
+    "marketOverview": "Alphabet (GOOGL) hat sich nach dem anfaenglichen Q3-Kurssturz (-12/-13%) stabilisiert und notiert aktuell bei ca. 284,92 USD (CNBC, 11:02 EDT) - leicht ueber dem Einstiegskurs (283,47 USD). Operatives Geschaeft bleibt stark (Cloud +103%, Umsatz +25%), der Kursrueckgang war ueberwiegend durch den SpaceX-Bewertungseffekt getrieben. Fuer Bitcoin und Brent lieferte die Websuche keine frischeren bestaetigten Kurse als beim letzten Lauf (BTC ~81.200 USD, Brent ~114,30 USD/Barrel); beide Positionen bleiben daher unveraendert auf dem zuletzt bestaetigten Stand. Fed hielt den Leitzins am 28.10. wie erwartet bei 3,75-4,00%.",
+    "decision": "Kein neuer Trade in diesem Lauf. GOOGL (pos-0031) auf 284,92 USD aktualisiert (+0,51% seit Kauf) - keine ueberzeugende Gelegenheit fuer Kauf oder Verkauf, Position bleibt deutlich unter dem Gewinnziel (7-9%). BTC (pos-0018, -4,51%) und Brent (pos-0030, +2,47%) unveraendert gehalten, da keine frischeren Marktdaten verfuegbar waren und beide innerhalb der normalen Schwankungsbreite liegen. Tagesbudget bereits heute frueh gutgeschrieben (kein erneuter Grant).",
+    "reasoning": "GOOGL hat sich seit dem Dip-Kauf leicht erholt (283,47 -> 284,92 USD), liegt aber noch weit unter der etablierten Ziel-Gewinnspanne (7-9%) - daher Halten statt verfrueher Gewinnmitnahme. Fuer BTC und Brent lieferte die aktuelle Recherche keine neuen, frischer datierten Kursdaten oder Katalysatoren gegenueber dem letzten Lauf (15:18 CET); ohne verlaessliche aktuelle Zahlen werden die zuletzt bestaetigten Werte beibehalten statt spekulativ fortzuschreiben. Keine der drei offenen Positionen hat die Stop-Loss- oder Gewinnmitnahme-Schwelle erreicht, daher keine Verkaeufe. Keine neue, wirklich ueberzeugende Kauf-Gelegenheit identifiziert.",
     "positionIds": [
       "pos-0018",
       "pos-0030",
       "pos-0031"
     ],
-    "portfolioValueEnd": 2185.69,
+    "portfolioValueEnd": 2189.78,
     "updates": [
       {
         "time": "00:08",
@@ -11025,6 +11025,11 @@
         "time": "15:18",
         "note": "Kauf GOOGL 800 EUR (Dip-Kauf nach -12/-13% Kurssturz trotz starker Cloud-Zahlen). BTC aktualisiert (80.150 -> 81.200 USD, -4,51% seit Kauf pos-0018); Brent aktualisiert (115,10 -> 114,30 USD, +2,47% seit Kauf pos-0030).",
         "portfolioValue": 2185.69
+      },
+      {
+        "time": "16:14",
+        "note": "Keine Aenderung. GOOGL aktualisiert (283,47 -> 284,92 USD, +0,51% seit Kauf pos-0031); BTC und Brent unveraendert (keine frischeren Kursdaten gefunden). Kein Trade.",
+        "portfolioValue": 2189.78
       }
     ]
   }
