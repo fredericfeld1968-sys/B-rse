@@ -10936,14 +10936,14 @@
   },
   {
     "date": "2026-10-29",
-    "marketOverview": "Krypto-Nachtmarkt weiterhin risikoavers und ruhig: Bitcoin faellt auf ca. 79.926 USD (-1,06% in 24h, CoinGecko live), Brent Crude bei ca. 110,52 USD/Barrel (-1,00%, Yahoo Finance live). Top-Krypto-Gewinner zeigen nur schwaches Momentum (+1-4%, u.a. Kaspa, Pepe, Litecoin), keine bestaetigte Breakout-Gelegenheit erkennbar. US-Kassamaerkte weiterhin geschlossen (Nacht).",
-    "decision": "Kein Trade. Tagesbudget bereits heute frueh gutgeschrieben (kein erneuter Grant). BTC-Position (pos-0018) auf 79.926 USD aktualisiert (-6,01% seit Kauf, naehert sich der Stop-Loss-Zone aber noch nicht erreicht); Brent-Position (pos-0030) auf 110,52 USD aktualisiert (-0,92% seit Kauf). Keine neue ueberzeugende Gelegenheit im Krypto-Nachtmarkt gefunden.",
-    "reasoning": "Ausserhalb der Handelszeiten (Nacht) sind nur Kryptowerte handelbar. BTC naehert sich der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%) mit aktuell -6,01%, hat sie aber noch nicht erreicht - daher noch kein Verkauf. Der breite Kryptomarkt zeigt kein ueberzeugendes neues Breakout-Signal, daher keine neue Position.",
+    "marketOverview": "Krypto-Nachtmarkt weiterhin risikoavers und ruhig: Bitcoin bei ca. 79.914 USD (-1,14% in 24h, CoinGecko live, ebenso ETH -1,88% und SOL -1,59%), Brent Crude bei ca. 110,55 USD/Barrel (-0,98%, Investing.com live). Ergebnis der Fed-Sitzung vom 27.-28.10. ueber verfuegbare Quellen nicht eindeutig bestaetigbar (Vorab-Erwartung: Hold ueberwiegend wahrscheinlich). Keine bestaetigte Breakout-Gelegenheit im Krypto-Markt erkennbar. US-Kassamaerkte weiterhin geschlossen (Nacht).",
+    "decision": "Kein Trade. Tagesbudget bereits heute frueh gutgeschrieben (kein erneuter Grant). BTC-Position (pos-0018) auf 79.914 USD aktualisiert (-6,02% seit Kauf, weiterhin knapp unter der Stop-Loss-Schwelle); Brent-Position (pos-0030) auf 110,55 USD aktualisiert (-0,90% seit Kauf). Keine neue ueberzeugende Gelegenheit im Krypto-Nachtmarkt gefunden.",
+    "reasoning": "Ausserhalb der Handelszeiten (Nacht) sind nur Kryptowerte handelbar. BTC verbleibt mit -6,02% knapp unter der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%), daher noch kein Verkauf. Der breite Kryptomarkt bleibt leicht risikoavers ohne neues ueberzeugendes Signal, daher keine neue Position.",
     "positionIds": [
       "pos-0018",
       "pos-0030"
     ],
-    "portfolioValueEnd": 1351.48,
+    "portfolioValueEnd": 1351.57,
     "updates": [
       {
         "time": "00:08",
@@ -10964,6 +10964,11 @@
         "time": "03:07",
         "note": "Keine Aenderung. BTC aktualisiert (80.925 -> 79.926 USD, -6,01% seit Kauf pos-0018, naehert sich Stop-Loss-Zone); Brent aktualisiert (110,65 -> 110,52 USD, -0,92% seit Kauf pos-0030); kein neuer Breakout im Krypto-Nachtmarkt, kein Trade.",
         "portfolioValue": 1351.48
+      },
+      {
+        "time": "04:10",
+        "note": "Keine Aenderung. BTC aktualisiert (79.926 -> 79.914 USD, -6,02% seit Kauf pos-0018, weiterhin knapp unter Stop-Loss-Zone); Brent aktualisiert (110,52 -> 110,55 USD, -0,90% seit Kauf pos-0030); Fed-Entscheidung vom 27.-28.10. nicht eindeutig bestaetigbar, kein neuer Breakout im Krypto-Nachtmarkt, kein Trade.",
+        "portfolioValue": 1351.57
       }
     ]
   }
