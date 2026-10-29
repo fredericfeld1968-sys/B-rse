@@ -296,14 +296,14 @@
     "assetClass": "Krypto",
     "amount": 700,
     "reasoning": "Bitcoin durchbricht am Nachmittag des 21.09. erstmals seit dem 31. Januar die Marke von 84.000 USD und steigt bis auf ca. 85.035 USD (+5-6% seit gestern) - mehrfach unabhaengig bestaetigt (CoinDesk, BeInCrypto, TECHi, CryptoTicker, Coinpedia). Treiber ist laut CoinDesk ein Short-Squeeze von rund 648 Mio. USD liquidierten Short-Positionen, kombiniert mit echten Spot-Zuflüssen (US-Spot-Bitcoin-ETFs zogen 593 Mio. USD an) bei niedrigen Funding-Rates - also spot-getriebene Nachfrage und kein reiner Leverage-Squeeze. Zusaetzlich faellt Brent Crude den vierten Tag in Folge (Deeskalations-Hoffnung Iran), was Risikoappetit staerkt. Bereits gehaltene Position pos-0016 (Kauf bei 81.000 USD) profitiert von der Bewegung (+4,98%); da dieser frische, mehrfach bestaetigte Ausbruch ueber das bisherige 81.000-82.000-Niveau hinausgeht (erstmals seit Januar), spekulative Aufstockung auf den bestaetigten Momentum-Ausbruch.",
-    "status": "open",
+    "status": "closed",
     "buyPrice": 85035,
-    "currentPrice": 80740,
-    "currentValue": 664.64,
-    "profitLoss": -35.36,
-    "profitLossPct": -5.05,
-    "closedDate": null,
-    "closeReasoning": null
+    "currentPrice": 79100,
+    "currentValue": 651.14,
+    "profitLoss": -48.86,
+    "profitLossPct": -6.98,
+    "closedDate": "2026-10-29",
+    "closeReasoning": "Stop-Loss: BTC fiel laut CoinGecko-Live-API (21:13 UTC, cross-verifiziert gegen CoinDesk/Binance/Coinbase/Bybit/Gate.io, enger Cluster 79.090-79.230 USD) auf 79.100 USD und damit -6,98% seit Kauf (85.035 USD) - die etablierte Stop-Loss-Schwelle (-6,5 bis -7,5%, analog Rheinmetall -6,56%, NVIDIA -7,24%, XRP -6,57%, HBAR -7,31%, ADA -7,32%) ist erreicht. Hintergrund ist ein breiter, synchronisierter Risk-off-Schub: hawkisher Fed-Hold vom 28.10. (3,75-4,00%, ING warnt vor moeglicher Dezember-Zinserhoehung) traf auf einen Tech-Sektor-Schock (Alphabet-Q3-Miss, Samsung-Chip-Gewinnverfehlung, Nasdaq-Futures -1,4%), der eine Liquidationswelle von 356 Mio. USD in Krypto-Futures ausloeste (Short+Long, davon 94 Mio. USD allein in BTC-Futures). Die Position verschlechtert sich seit Stunden kontinuierlich (-5,05% um 21:10 -> -6,98% jetzt) ohne Gegenkatalysator oder bestaetigtes Erholungssignal; die Spot-BTC-ETF-Zufluesse bleiben nur moderat (+137 Mio. USD) und gleichen den breiten Abverkauf nicht aus. Passend zum spekulativen Kurzfrist-Profil wird konsequent glattgestellt, um weiteren Verlust zu vermeiden."
   },
   {
     "id": "pos-0019",

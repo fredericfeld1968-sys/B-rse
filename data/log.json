@@ -10936,15 +10936,15 @@
   },
   {
     "date": "2026-10-29",
-    "marketOverview": "US-Kassamarkt (NYSE/Nasdaq) ist seit 21:00 CET geschlossen, GOOGL (pos-0031) bleibt daher auf dem letzten Schlusskurs von 283,04 USD (-0,15% seit Kauf). Fuer BTC und Brent lieferte die abendliche Recherche keine verlaesslich frisch datierten Live-Kurse (nur Prognose-/Wett-Seiten bzw. undatierte Snapshots); inhaltlich bestaetigt wird, dass die Fed am 28.10. die Zinsen wie erwartet bei 3,75-4,00% belassen hat (bereits eingepreist) und dass US-Spot-Bitcoin-ETFs zu Wochenbeginn mit rund 286 Mio. USD Nettozufluss (Mo+Di) in den positiven Bereich zurückgekehrt sind, nachdem die Vorwoche per saldo negativ war. Beim Rohstoff bleibt die Risikopraemie aus der Hormuz-/Houthi-Eskalation strukturell bestehen, ein frischer, heute datierter Einzelkatalysator liess sich aber nicht zweifelsfrei bestaetigen. Preise fuer BTC (pos-0018) und Brent (pos-0030) werden daher unveraendert vom letzten Lauf (20:12) fortgeschrieben.",
-    "decision": "Kein neuer Trade in diesem Lauf. US-Kassamarkt seit 21:00 CET geschlossen, GOOGL (pos-0031) unveraendert auf 283,04 USD (-0,15%). Fuer BTC (pos-0018, -5,05%) und Brent (pos-0030, -0,61%) keine verlaesslich frischeren Live-Kurse gefunden, Preise vom letzten Lauf uebernommen. Keine der drei offenen Positionen hat Stop-Loss- oder Gewinnziel-Schwelle erreicht. Tagesbudget bereits heute frueh gutgeschrieben (kein erneuter Grant). Keine ueberzeugende neue Kaufgelegenheit identifiziert, daher kein Handel trotz hohem freiem Kapital.",
-    "reasoning": "Fed-Zinsentscheid vom 28.10. (Halten bei 3,75-4,00%) ist bereits eingepreist, keine neue Richtungsinformation. Leicht positive BTC-ETF-Flows zu Wochenbeginn (+286 Mio. USD Mo/Di) sind ein mildes Unterstuetzungssignal, aber kein ueberzeugender frischer Breakout-Katalysator fuer eine neue Position. Hormuz-/Houthi-Risikopraemie bei Brent bleibt struktuerell intakt, jedoch ohne heute bestaetigten neuen Eskalationsschub. GOOGL ist ausserhalb der Handelszeiten nicht bewegbar. Da sich kein mehrfach unabhaengig bestaetigter, ueberzeugender Katalysator fuer einen neuen Trade finden liess, wird passend zum disziplinierten spekulativen Profil bewusst auf Handel verzichtet statt ohne echte Ueberzeugung zu kaufen.",
+    "marketOverview": "Breiter, synchronisierter Krypto-Risk-off-Schub am Abend: Der hawkishe Fed-Hold vom 28.10. (3,75-4,00%, ING warnt vor moeglicher Dezember-Zinserhoehung) traf auf einen Tech-Sektor-Schock (Alphabet-Q3-Miss, Samsung-Chip-Gewinnverfehlung, Nasdaq-Futures -1,4%) und loeste eine Liquidationswelle von 356 Mio. USD in Krypto-Futures aus. BTC fiel dadurch unter 80.000 USD auf ca. 79.100 USD (CoinGecko-API, 21:13 UTC, cross-verifiziert gegen CoinDesk/Binance/Coinbase/Bybit/Gate.io). US-Kassamarkt (NYSE/Nasdaq) bleibt seit 21:00 CET geschlossen, GOOGL (pos-0031) unveraendert auf 283,04 USD. Fuer Brent (pos-0030) weiterhin keine verlaesslich frisch datierte Live-Notierung ausserhalb der Handelszeiten, Preis vom letzten Lauf uebernommen.",
+    "decision": "Stop-Loss-Verkauf BTC (pos-0018): Position fiel auf -6,98% (79.100 USD, Kauf 85.035 USD) und erreichte damit die etablierte Stop-Loss-Schwelle (-6,5 bis -7,5%); realisierter Verlust -48,86 EUR. US-Kassamarkt seit 21:00 CET geschlossen, GOOGL (pos-0031) unveraendert auf 283,04 USD (-0,15%). Brent (pos-0030) unveraendert vom letzten Lauf uebernommen (keine frischeren Live-Kurse ausserhalb der Handelszeiten). Keine ueberzeugende neue Krypto-Kaufgelegenheit identifiziert (reiner makrogetriebener Risk-off-Abverkauf ohne klaren Breakout/Breakdown-Katalysator), daher trotz hohem freiem Kapital (83.789,63 EUR) kein Neukauf in diesem Lauf. Tagesbudget bereits heute frueh gutgeschrieben (kein erneuter Grant).",
+    "reasoning": "BTC-Position verschlechterte sich seit Stunden kontinuierlich (-5,05% um 21:10 -> -6,98% jetzt) ohne Gegenkatalysator oder bestaetigtes Erholungssignal; moderate Spot-BTC-ETF-Zufluesse (+137 Mio. USD) gleichen den breiten, durch Fed-Hold und Tech-Sektor-Schock ausgeloesten Abverkauf nicht aus. Passend zum disziplinierten spekulativen Kurzfrist-Profil und analog zu allen bisherigen Stop-Loss-Faellen (Rheinmetall -6,56%, NVIDIA -7,24%, XRP -6,57%, HBAR -7,31%, ADA -7,32%) wird konsequent glattgestellt statt auf eine Erholung zu hoffen. Fuer einen Neukauf fehlt ein mehrfach unabhaengig bestaetigter, ueberzeugender frischer Katalysator - der aktuelle Krypto-Ruecksetzer ist makrogetrieben (Fed/Tech-Kontagion) und keine isolierte Breakout-Chance. GOOGL ist ausserhalb der Handelszeiten nicht bewegbar.",
     "positionIds": [
       "pos-0018",
       "pos-0030",
       "pos-0031"
     ],
-    "portfolioValueEnd": 2159.16,
+    "portfolioValueEnd": 1494.52,
     "updates": [
       {
         "time": "00:08",
@@ -11050,6 +11050,11 @@
         "time": "21:10",
         "note": "Keine Aenderung. US-Kassamarkt seit 21:00 CET geschlossen (GOOGL unveraendert, 283,04 USD). Keine verlaesslich frischeren Live-Kurse fuer BTC/Brent gefunden; Fed-Hold (28.10., 3,75-4,00%) bereits eingepreist, leicht positive BTC-ETF-Flows (Mo/Di +286 Mio. USD) ohne neuen Breakout-Katalysator. Kein Trade.",
         "portfolioValue": 2159.16
+      },
+      {
+        "time": "22:15",
+        "note": "Verkauf BTC (-6,98%, Stop-Loss, realisierter Verlust -48,86 EUR). GOOGL unveraendert (283,04 USD, Markt geschlossen); Brent unveraendert (110,87 USD, Markt geschlossen). Keine neue Position.",
+        "portfolioValue": 1494.52
       }
     ]
   }
