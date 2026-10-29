@@ -10936,14 +10936,15 @@
   },
   {
     "date": "2026-10-29",
-    "marketOverview": "Alphabet faellt vorbörslich rund 10-11% nach Q3-Zahlen (EPS 2,12 vs. 3,02 USD erwartet, FCF -9,07 Mrd. USD statt erwarteter -2,7 Mrd. USD, belastet durch Abschreibung auf SpaceX-Beteiligung; Google Cloud dagegen +103% auf 30,71 Mrd. USD) - moeglicherweise die schlechteste Post-Earnings-Reaktion in der Firmengeschichte (CNBC, Benzinga, GuruFocus, Yahoo Finance). Microsoft legt vorbörslich zu (Azure +48%). US-Kassamarkt oeffnet erst um 15:30 MESZ, daher aktuell nicht handelbar. Bitcoin pendelt weiterhin um 80.000-80.300 USD (CryptoTimes, CoinGabbar, CaptainAltcoin), kein bestaetigter Breakout. Brent Crude haelt sich bei ca. 114,8-115,7 USD/Barrel (Houthi-Eskalation Ras Tanura weiterhin stuetzend). Keine frische, mehrfach bestaetigte Altcoin-Breakout-Meldung fuer heute auffindbar.",
-    "decision": "Kein Trade. Tagesbudget bereits heute frueh gutgeschrieben (kein erneuter Grant). BTC-Position (pos-0018) auf ca. 80.150 USD aktualisiert (-5,74% seit Kauf, naehert sich der Stop-Loss-Zone, aber noch nicht erreicht); Brent-Position (pos-0030) auf ca. 115,10 USD aktualisiert (+3,18% seit Kauf). Beide Positionen bleiben innerhalb der normalen Schwankungsbreite (Stop-Loss -6,5/-7,5%, Zielgewinn 7-9%), daher kein Verkauf. Der starke Alphabet-Einbruch (-10/-11%) ist ein potenziell interessanter Dip-Kauf-Kandidat (analog AMD-/SpaceX-Muster), aber noch rein vorbörslich und damit ausserhalb der regulaeren US-Handelszeit nicht handelbar; keine bestaetigte Krypto-Breakout-Gelegenheit, daher trotz hohem freiem Kapital keine neue Position.",
-    "reasoning": "BTC (pos-0018) naehert sich mit -5,74% der Stop-Loss-Schwelle (-6,5 bis -7,5%), hat sie aber noch nicht erreicht - weiter halten statt verfrueht zu verkaufen. Brent (pos-0030) liegt mit +3,18% noch deutlich unter der etablierten Ziel-Gewinnspanne (7-9%), daher ebenfalls halten. Der Alphabet-Q3-Miss (Cashflow-Schock, Record-Capex) waere fundamental ein interessanter Post-Earnings-Dip-Kauf-Kandidat (analog AMD/SpaceX), ist aber laut Handelszeiten-Regel ausserhalb der regulaeren US-Boersenzeit (noch vorbörslich, Kassamarkt oeffnet erst 15:30 MESZ) nicht handelbar und wird bei naechster Gelegenheit waehrend der US-Kassamarktzeit neu bewertet. Keine mehrfach bestaetigte neue Krypto-Ausbruchsmeldung fuer den aktuellen Zeitpunkt, daher wird abgewartet.",
+    "marketOverview": "Alphabet stuerzt beim regulaeren US-Marktstart (15:30 MESZ/9:30 ET) um rund 12-13% auf ca. 283 USD ab (StockAnalysis, Cryptonomist, Finviz) - trotz +25% Umsatzwachstum und einer Verdopplung von Google Cloud auf 30,7 Mrd. USD (+103%). Ausloeser ist primaer ein unrealisierter 8,2-Mrd.-USD-Mark-to-Market-Verlust auf die SpaceX-Beteiligung sowie ein staerker als erwarteter negativer Free Cashflow (-9,1 Mrd. USD) bei unveraenderter hoher Capex-Guidance. Bitcoin pendelt weiterhin um 81.100-81.350 USD (CoinGecko), kein bestaetigter Breakout. Brent Crude leicht schwaecher bei ca. 114,30 USD/Barrel (-0,9%), da Hoffnung auf US-Iran-Diplomatie die Houthi-Eskalationsrisiken an der Strasse von Hormuz etwas relativiert.",
+    "decision": "Dip-Kauf Alphabet (GOOGL, 800 EUR) bei ca. 283,47 USD: operatives Geschaeft bleibt stark (Cloud +103%, Umsatz +25%), der Kurssturz ist ueberwiegend durch einen einmaligen Bewertungseffekt (SpaceX-Beteiligung) getrieben - analog zum erfolgreichen Sell-the-news-Muster (AMD, SpaceX, Palantir, Meta). BTC-Position (pos-0018) auf ca. 81.200 USD aktualisiert (-4,51% seit Kauf, Stop-Loss-Zone nicht mehr so nah wie zuletzt); Brent-Position (pos-0030) auf ca. 114,30 USD aktualisiert (+2,47% seit Kauf). Beide weiter innerhalb der normalen Schwankungsbreite, daher kein Verkauf. Tagesbudget bereits heute frueh gutgeschrieben (kein erneuter Grant).",
+    "reasoning": "GOOGL: Der Rueckgang (-12/-13%) ist staerker als bei bisherigen erfolgreichen Dip-Kaeufen (8-9%), aber die fundamentale Story (Cloud-Wachstum, Gesamtumsatz +25%) bleibt intakt und der Hauptbelastungsfaktor (SpaceX-Mark-to-Market) ist nicht operativ - daher trotz erhoehtem Risiko eine spekulative Position passend zum Risikoprofil. BTC (pos-0018) hat sich von -5,74% auf -4,51% erholt, bleibt aber unter Beobachtung nahe der Stop-Loss-Schwelle (-6,5 bis -7,5%). Brent (pos-0030) liegt mit +2,47% weiterhin deutlich unter der Ziel-Gewinnspanne (7-9%), daher Halten.",
     "positionIds": [
       "pos-0018",
-      "pos-0030"
+      "pos-0030",
+      "pos-0031"
     ],
-    "portfolioValueEnd": 1382.07,
+    "portfolioValueEnd": 2185.69,
     "updates": [
       {
         "time": "00:08",
@@ -11019,6 +11020,11 @@
         "time": "14:11",
         "note": "Keine Aenderung. BTC aktualisiert (80.200 -> 80.150 USD, -5,69% -> -5,74% seit Kauf pos-0018, naehert sich Stop-Loss); Brent aktualisiert (115,30 -> 115,10 USD, +3,36% -> +3,18% seit Kauf pos-0030). Alphabet faellt vorbörslich -10/-11% nach Q3-Miss (interessanter Dip-Kauf-Kandidat), aber US-Kassamarkt noch geschlossen (oeffnet 15:30 MESZ); kein Trade.",
         "portfolioValue": 1382.07
+      },
+      {
+        "time": "15:18",
+        "note": "Kauf GOOGL 800 EUR (Dip-Kauf nach -12/-13% Kurssturz trotz starker Cloud-Zahlen). BTC aktualisiert (80.150 -> 81.200 USD, -4,51% seit Kauf pos-0018); Brent aktualisiert (115,10 -> 114,30 USD, +2,47% seit Kauf pos-0030).",
+        "portfolioValue": 2185.69
       }
     ]
   }
