@@ -10936,14 +10936,14 @@
   },
   {
     "date": "2026-10-29",
-    "marketOverview": "Krypto-Nachtmarkt weiterhin leicht risikoavers: Bitcoin bei ca. 79.756 USD (-1,42% 24h, CoinGecko live, ETH -2,09%, SOL -2,28%). Laut CoinDesk (28.10.) hatte BTC zuvor ueber 81.000 USD zurueckerobert (Asien-Chip-Rally, ETF-Zuflüsse von 176 Mio. USD), ist seither aber wieder unter 80.000 USD gerutscht - Haendler warten weiter auf Klarheit nach der Fed-Sitzung vom 27.-28.10. (Ergebnis ueber verfuegbare Quellen nicht eindeutig bestaetigbar). Brent Crude bei ca. 110,32 USD/Barrel (-1,18% zum Vortagesschluss, Investing.com). Keine bestaetigte neue Breakout-Gelegenheit im Krypto-Markt erkennbar. US-Kassamaerkte weiterhin geschlossen (Nacht).",
-    "decision": "Kein Trade. Tagesbudget bereits heute frueh gutgeschrieben (kein erneuter Grant). BTC-Position (pos-0018) auf 79.756 USD aktualisiert (-6,21% seit Kauf, naehert sich der Stop-Loss-Schwelle von -6,5 bis -7,5%, aber noch nicht erreicht); Brent-Position (pos-0030) auf 110,32 USD aktualisiert (-1,10% seit Kauf). Keine neue ueberzeugende Gelegenheit im Krypto-Nachtmarkt gefunden.",
-    "reasoning": "Ausserhalb der Handelszeiten (Nacht) sind nur Kryptowerte handelbar. BTC verbleibt mit -6,21% knapp unter der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%), daher noch kein Verkauf; die Position wird im naechsten Lauf erneut geprueft, falls die Schwelle erreicht wird. Der breite Kryptomarkt bleibt leicht risikoavers ohne neues ueberzeugendes Signal, daher keine neue Position.",
+    "marketOverview": "Krypto-Nachtmarkt bleibt leicht risikoavers ohne bestaetigten Breakout: Bitcoin bei ca. 80.252 USD (-0,69% 24h, CoinGecko live), Ethereum -1,11%, Solana -1,47%. BTC haelt sich damit knapp unter dem am 28.10. kurz zurueckerobertem Niveau von ueber 81.000 USD. Das FOMC-Ergebnis vom 27.-28.10. ist ueber verfuegbare Quellen weiterhin nicht eindeutig bestaetigbar, Markt bleibt in Wartehaltung. Brent Crude bei ca. 110,29 USD/Barrel (-1,21% zum Vortagesschluss, Investing.com) - US-Kassamaerkte weiterhin geschlossen (frueher Morgen vor Boersenoeffnung).",
+    "decision": "Kein Trade. Tagesbudget bereits heute frueh gutgeschrieben (kein erneuter Grant). BTC-Position (pos-0018) auf 80.252 USD aktualisiert (-5,62% seit Kauf, leicht erholt von der Naehe zur Stop-Loss-Schwelle); Brent-Position (pos-0030) auf 110,29 USD aktualisiert (-1,13% seit Kauf, Markt ausserhalb der Handelszeiten). Keine neue ueberzeugende Gelegenheit im Krypto-Nachtmarkt gefunden.",
+    "reasoning": "Ausserhalb der Handelszeiten (frueher Morgen vor Boersenoeffnung) sind nur Kryptowerte handelbar. BTC hat sich von -6,21% auf -5,62% leicht erholt und bleibt unter der Stop-Loss-Schwelle (-6,5 bis -7,5%), daher kein Verkauf. Der breite Kryptomarkt zeigt durchweg leicht negative 24h-Veraenderungen (BTC -0,69%, ETH -1,11%, SOL -1,47%) ohne neues ueberzeugendes Signal, daher keine neue Position trotz hohem freiem Kapital (~83.938 EUR).",
     "positionIds": [
       "pos-0018",
       "pos-0030"
     ],
-    "portfolioValueEnd": 1348.82,
+    "portfolioValueEnd": 1352.72,
     "updates": [
       {
         "time": "00:08",
@@ -10974,6 +10974,11 @@
         "time": "05:08",
         "note": "Keine Aenderung. BTC aktualisiert (79.914 -> 79.756 USD, -6,21% seit Kauf pos-0018, naehert sich Stop-Loss-Zone, aber noch nicht erreicht); Brent aktualisiert (110,55 -> 110,32 USD, -1,10% seit Kauf pos-0030); kein neuer Breakout im Krypto-Nachtmarkt, kein Trade.",
         "portfolioValue": 1348.82
+      },
+      {
+        "time": "05:10",
+        "note": "Keine Aenderung. BTC aktualisiert (79.756 -> 80.252 USD, -6,21% -> -5,62% seit Kauf pos-0018, leicht erholt von Stop-Loss-Naehe); Brent aktualisiert (110,32 -> 110,29 USD, -1,13% seit Kauf pos-0030, Markt geschlossen); Krypto-Nachtmarkt weiterhin leicht risikoavers ohne Breakout (BTC -0,69% 24h, ETH -1,11%, SOL -1,47%), kein Trade.",
+        "portfolioValue": 1352.72
       }
     ]
   }
