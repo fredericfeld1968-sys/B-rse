@@ -10936,14 +10936,14 @@
   },
   {
     "date": "2026-10-29",
-    "marketOverview": "Fed (FOMC, Vorsitz Kevin Warsh) hat die Zinsen am 28.10. in einer gespaltenen Abstimmung (10-2) bei 3,75-4,00% belassen, Inflation bleibt laut Statement \"erhoeht\" - zwei Dissidentinnen (Cook, Hammack) wollten sogar erhoehen, Fed-Offizielle stellen eine moegliche Zinserhoehung im Dezember in Aussicht. Bitcoin pendelt laut mehreren Quellen (CoinDesk, CryptoTimes, KuCoin) uneinheitlich zwischen ca. 79.800 und 81.500 USD - Tendenz leicht risikoavers durch hawkishen Fed-Ton und Techschwaeche (Samsung), aber Spot-BTC-ETFs verzeichneten laut CryptoTimes zugleich Nettozuflüsse von ~137 Mio. USD; BTC-Position (pos-0018) auf 80.100 USD aktualisiert (-5,80% seit Kauf, noch unter der Stop-Loss-Zone von -6,5 bis -7,5%). Brent Crude weiterhin leicht abbroeckelnd (~109,50 USD/Barrel), keine neue, datierte Preisquelle fuer heute verlaesslich auffindbar; Iran/Hormuz-Spannungen bleiben strukturell hoch. Europaeische Kassamaerkte (XETRA) seit 9:00 Uhr geoeffnet, US-Markt oeffnet erst am Nachmittag (grosse Tech-Earnings heute: Alphabet, Microsoft, Meta); keine verlaesslich bestaetigte neue Breakout-Gelegenheit in Aktien, ETFs, Krypto oder Rohstoffen seit Handelsstart erkennbar.",
-    "decision": "Kein Trade. Tagesbudget bereits heute frueh gutgeschrieben (kein erneuter Grant). BTC-Position (pos-0018) auf 80.100 USD aktualisiert (-5,80% seit Kauf, Stop-Loss-Schwelle noch nicht erreicht); Brent-Position (pos-0030) auf 109,50 USD aktualisiert (-1,84% seit Kauf). Trotz Boersenoeffnung in Europa seit 9:00 Uhr und bevorstehenden Tech-Earnings (Alphabet/Microsoft/Meta) keine ueberzeugende, mehrfach bestaetigte neue Gelegenheit gefunden - Marktlage nach der hawkishen Fed-Entscheidung weiterhin unklar/gemischt, daher abgewartet statt ueberstuerzt gehandelt.",
-    "reasoning": "Die Fed-Entscheidung vom 28.10. (Halten bei 3,75-4,00%, aber hawkisher Ton wegen erhoehter Inflation, moegliche Dezember-Erhoehung) sorgt weiterhin fuer gemischte/unsichere Marktstimmung. BTC bleibt mit -5,80% unter der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%), daher kein Verkauf; Brent mit -1,84% ebenfalls deutlich innerhalb der normalen Schwankungsbreite. Keine verlaesslich datierte, mehrfach bestaetigte neue Ausbruchsmeldung in Aktien, ETFs, Krypto oder Rohstoffen seit Handelsstart gefunden (Websuche lieferte ueberwiegend veraltete/undatierte Treffer), daher trotz hohem freiem Kapital keine neue Position - spekulatives Risikoprofil erlaubt kurzfristiges Handeln, verlangt aber eine wirklich ueberzeugende, gut belegte Gelegenheit.",
+    "marketOverview": "Fed (FOMC) hielt die Zinsen am 28.10. bei 3,75-4,00% (hawkisher Ton, moegliche Dezember-Erhoehung im Raum). Bitcoin erholt sich leicht auf ca. 81.100-81.250 USD (CoinGecko/Coinbase), nachdem es zuvor zwischen 79.800 und 81.500 USD pendelte - Spot-BTC-ETF-Zuflüsse stuetzen den Kurs trotz hawkishem Fed-Ton. Brent Crude zieht wieder auf ca. 114,50 USD/Barrel an (zuvor ~109,50 USD), getrieben von neuen Houthi-Angriffen auf saudische Infrastruktur, die erneut Sorgen um das Oelangebot schueren; die Hormuz-Eskalation bleibt damit der dominante Treiber fuer Rohstoffe. Europaeische Kassamaerkte (XETRA) seit 9:00 Uhr offen, DAX zuletzt in einem Aufwaertstrend (Wochenschluss 16.10. bei 25.622 Punkten, +2,13% Wochenplus); US-Markt oeffnet erst am Nachmittag, grosse Tech-Earnings (Alphabet, Microsoft, Meta) stehen heute nach US-Handelsschluss an. Keine verlaesslich datierte, mehrfach bestaetigte neue Ausbruchsmeldung in Aktien, ETFs, Krypto oder Rohstoffen fuer den aktuellen Zeitpunkt auffindbar (Websuche liefert ueberwiegend veraltete oder widersprüchliche Preisangaben).",
+    "decision": "Kein Trade. Tagesbudget bereits heute frueh gutgeschrieben (kein erneuter Grant). BTC-Position (pos-0018) auf 81.150 USD aktualisiert (-4,57% seit Kauf, Erholung von -5,80%); Brent-Position (pos-0030) auf 114,50 USD aktualisiert (+2,64% seit Kauf, Anstieg von -1,84% nach neuen Houthi-Angriffsmeldungen). Beide Positionen liegen weiterhin deutlich innerhalb der normalen Schwankungsbreite (zwischen Stop-Loss -6,5/-7,5% und Zielgewinn 7-9%), daher kein Verkauf. Keine verlaesslich bestaetigte neue Ausbruchs- oder Breakout-Gelegenheit in Aktien, ETFs, Krypto oder Rohstoffen gefunden, daher trotz hohem freiem Kapital keine neue Position.",
+    "reasoning": "BTC (pos-0018) und Brent (pos-0030) bewegen sich beide innerhalb der etablierten Halteband-Grenzen (Stop-Loss -6,5 bis -7,5%, Zielgewinn 7-9%), daher werden beide weiter gehalten. Die Marktlage bleibt nach der hawkishen Fed-Entscheidung vom 28.10. gemischt/unsicher, und die Websuche lieferte fuer diesen Lauf ueberwiegend veraltete oder widersprüchliche Live-Kursdaten statt einer klar bestaetigten, frischen Ausbruchsmeldung. Das spekulative Risikoprofil erlaubt kurzfristiges Handeln, verlangt aber eine wirklich ueberzeugende, mehrfach belegte Gelegenheit - diese liegt aktuell nicht vor, daher wird abgewartet.",
     "positionIds": [
       "pos-0018",
       "pos-0030"
     ],
-    "portfolioValueEnd": 1346.52,
+    "portfolioValueEnd": 1386.51,
     "updates": [
       {
         "time": "00:08",
@@ -10999,6 +10999,11 @@
         "time": "10:11",
         "note": "Keine Aenderung. BTC aktualisiert (79.850 -> 80.100 USD, -6,10% -> -5,80% seit Kauf pos-0018, leicht erholt von Stop-Loss-Naehe); Brent aktualisiert (109,70 -> 109,50 USD, -1,66% -> -1,84% seit Kauf pos-0030); XETRA offen, US-Markt noch geschlossen, grosse Tech-Earnings (GOOGL/MSFT/META) heute Nachmittag erwartet, aber keine verlaesslich bestaetigte neue Breakout-Gelegenheit gefunden. Kein Trade.",
         "portfolioValue": 1346.52
+      },
+      {
+        "time": "11:08",
+        "note": "Keine Aenderung. BTC aktualisiert (80.100 -> 81.150 USD, -4,57% seit Kauf pos-0018); Brent aktualisiert (109,50 -> 114,50 USD, +2,64% seit Kauf pos-0030, Houthi-Angriffe); kein Trade",
+        "portfolioValue": 1386.51
       }
     ]
   }
