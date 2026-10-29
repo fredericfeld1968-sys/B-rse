@@ -10936,15 +10936,15 @@
   },
   {
     "date": "2026-10-29",
-    "marketOverview": "Bitcoin notiert nach dem Fed-Zinsentscheid (Leitzins unveraendert bei 3,75-4,00%, Sitzung mit zwei abweichenden Stimmen fuer eine Anhebung) und im Sog der schwachen Tech-Reaktion auf die Alphabet-Zahlen bei ca. 80.100 USD (-1,6% in 24h, Spanne 79.600-81.700 USD, CoinGecko/Cryptotimes/Cryptonomist). Brent Crude bleibt mit ca. 114,10 USD/Barrel nahe dem Wochenhoch (117,18 USD am 23.10.) erhoeht: Houthi-Angriffe auf saudische Ziele (u.a. Ras Tanura) und von iranischen Revolutionsgarden gemeldete Seeminen nahe der Strasse von Hormuz halten die Risikopraemie hoch, auch wenn fragile Entspannungssignale (Katar-Vermittlung, US-Kontaktaufnahme) den Preis leicht drueckten. GOOGL (pos-0031) bleibt ohne frischere Kursdaten auf dem zuletzt bestaetigten Stand von 284,92 USD (+0,51% seit Dip-Kauf); das operative Geschaeft (Cloud +103%, Umsatz +25%) bleibt stark, der Kurssturz war primaer durch den SpaceX-Bewertungseffekt und schwachen Free Cashflow getrieben.",
-    "decision": "Kein neuer Trade in diesem Lauf. BTC (pos-0018) auf 80.100 USD aktualisiert (-5,80% seit Kauf, naehert sich der Stop-Loss-Zone von -6,5 bis -7,5%, aber noch nicht erreicht). Brent (pos-0030) auf 114,10 USD aktualisiert (+2,29% seit Kauf). GOOGL (pos-0031) unveraendert bei 284,92 USD (+0,51%), da keine frischeren Kursdaten verfuegbar waren. Keine der drei offenen Positionen hat Stop-Loss- oder Gewinnziel-Schwelle erreicht, daher keine Verkaeufe; keine neue, wirklich ueberzeugende Kaufgelegenheit identifiziert. Tagesbudget bereits heute frueh gutgeschrieben (kein erneuter Grant).",
-    "reasoning": "BTC naehert sich nach dem Fed-Hold und der schwachen Tech-Stimmung (Nasdaq-Korrelation laut Nexo bei 0,64) der etablierten Stop-Loss-Zone, hat sie aber mit -5,80% noch nicht erreicht - daher Halten statt Panikverkauf. Brent bleibt durch anhaltende Houthi-Angriffe und gemeldete Seeminen nahe der Strasse von Hormuz gestuetzt, trotz fragiler Deeskalationssignale; Gewinn von +2,29% liegt noch deutlich unter dem Zielbereich (7-9%), daher Halten. Fuer GOOGL lieferte die Recherche keine aktuelleren, datierten Kursdaten als die beim letzten Lauf bereits verarbeiteten - der zuletzt bestaetigte Wert wird beibehalten statt spekulativ fortgeschrieben. Keine neue Position eroeffnet: trotz hohem freiem Kapital wurde keine frische, mehrfach unabhaengig bestaetigte Gelegenheit mit klarem Katalysator gefunden, die ueber die bereits gehaltenen Themen (Krypto-Risk-off, Nahost-Oelpraemie, Alphabet-Dip) hinausgeht.",
+    "marketOverview": "Bitcoin pendelt am spaeten Nachmittag zwischen rund 80.300 und 81.300 USD (Coinbase/Kraken ~81.300, CoinMarketCap/CoinGecko/Crypto.com 80.300-80.800 USD), weiterhin belastet vom hawkishen Fed-Ton (Leitzins unveraendert 3,75-4,00%) und der schwachen Tech-Stimmung nach den Alphabet-Zahlen (FXStreet). Brent Crude bewegt sich je Quelle zwischen 111 und 115 USD/Barrel (OilPriceAPI ~114,9 USD um 01:51 UTC, Oilprice.com 113,4 USD mit -1,69% Tagesverlust, Investing.com 111,25 USD); die Risikopraemie aus Houthi-Angriffen (u.a. Ras Tanura) und gemeldeten Seeminen nahe der Strasse von Hormuz bleibt im Trend leicht nachgebend. GOOGL notiert laut Yahoo Finance (14:08 ET) bei 282,03 USD (-13,19% zum Vortagesschluss von 324,89 USD), CNBC zeigte zuvor 284,92 USD - der Kurs konsolidiert nach dem Q3-Kurssturz knapp um den Einstandspreis von 283,47 USD, das operative Geschaeft (Cloud +103%, Umsatz +25%) bleibt unveraendert stark.",
+    "decision": "Kein neuer Trade in diesem Lauf. BTC (pos-0018) auf 80.700 USD aktualisiert (-5,10% seit Kauf, leichte Erholung von der Stop-Loss-Naehe des letzten Laufs). Brent (pos-0030) auf 113,50 USD aktualisiert (+1,75% seit Kauf, Gewinn etwas zurueckgegangen im Zuge leichter Deeskalationssignale). GOOGL (pos-0031) auf 282,03 USD aktualisiert (-0,51% seit Kauf, praktisch auf Einstandsniveau). Keine der drei offenen Positionen hat Stop-Loss- oder Gewinnziel-Schwelle erreicht, daher keine Verkaeufe; keine neue, wirklich ueberzeugende Kaufgelegenheit identifiziert. Tagesbudget bereits heute frueh gutgeschrieben (kein erneuter Grant).",
+    "reasoning": "BTC hat sich von der Stop-Loss-Naehe des 17:09-Laufs (-5,80%) leicht auf -5,10% erholt, bleibt aber unter der Schwelle - daher weiter Halten. Brent gibt im Rahmen leichter Deeskalationssignale einen Teil des Gewinns ab (+2,29% -> +1,75%), liegt aber weiterhin deutlich unter dem Zielbereich (7-9%), daher Halten statt verfruehter Gewinnmitnahme. GOOGL konsolidiert knapp unter dem Einstandspreis (-0,51%), weit entfernt von Stop-Loss- oder Zielschwelle, Bodenbildung nach dem Q3-Dip noch nicht abgeschlossen - wird unveraendert gehalten. Keine neue Position eroeffnet: die Recherche (BTC/Brent/GOOGL-Kurse, allgemeine Marktlage) lieferte keinen frischen, mehrfach unabhaengig bestaetigten Katalysator mit klarer Richtung, der eine zusaetzliche spekulative Position rechtfertigen wuerde; trotz hohem freiem Kapital wird bewusst nicht gehandelt, um nicht ohne echte Ueberzeugung zu investieren.",
     "positionIds": [
       "pos-0018",
       "pos-0030",
       "pos-0031"
     ],
-    "portfolioValueEnd": 2179.47,
+    "portfolioValueEnd": 2172.49,
     "updates": [
       {
         "time": "00:08",
@@ -11035,6 +11035,11 @@
         "time": "17:09",
         "note": "Keine Aenderung. BTC aktualisiert (81.200 -> 80.100 USD, -4,51% -> -5,80% seit Kauf pos-0018, naehert sich Stop-Loss nach Fed-Hold/Tech-Schwaeche); Brent aktualisiert (114,30 -> 114,10 USD, +2,47% -> +2,29% seit Kauf pos-0030, Houthi-Angriffe/Hormuz-Seeminen halten Praemie hoch, leichte Entspannungssignale draengen Preis minimal). GOOGL unveraendert (keine frischeren Kursdaten). Kein Trade.",
         "portfolioValue": 2179.47
+      },
+      {
+        "time": "19:13",
+        "note": "Keine Aenderung. BTC aktualisiert (80.100 -> 80.700 USD, -5,80% -> -5,10% seit Kauf pos-0018); Brent aktualisiert (114,10 -> 113,50 USD, +2,29% -> +1,75% seit Kauf pos-0030); GOOGL aktualisiert (284,92 -> 282,03 USD, +0,51% -> -0,51% seit Kauf pos-0031). Kein Trade.",
+        "portfolioValue": 2172.49
       }
     ]
   }
