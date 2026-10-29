@@ -10936,14 +10936,14 @@
   },
   {
     "date": "2026-10-29",
-    "marketOverview": "Alphabet (-10%) und Microsoft (+3,5%) meldeten am Abend des 28.10. Q3-Zahlen mit gegensaetzlicher Reaktion: Alphabet verfehlte Umsatz- und FCF-Erwartungen (FCF -9,1 Mrd. USD, Rekord-Capex 51,4 Mrd. USD), Microsoft uebertraf mit Azure +48%; beide noch nicht im regulaeren US-Kassahandel gehandelt (US-Markt oeffnet erst 15:30 MESZ). Bitcoin rutscht nach dem hawkishen Fed-Hold (28.10., 3,75-4,00%) weiter auf ca. 80.000-80.400 USD (-1,1 bis -1,7% in 24h laut mehreren Quellen), PCE-Daten belasten zusaetzlich. Brent Crude bleibt nach dem Houthi-Raketenangriff auf die saudische Ras-Tanura-Raffinerie auf hohem Niveau um 115 USD/Barrel (mehrfach unabhaengig bestaetigt: FinanceFeeds, Oilprice, Newsbytes, Arbiterz), WTI ca. 100-101 USD. Keine frische, mehrfach bestaetigte Altcoin-Breakout-Meldung fuer heute auffindbar.",
-    "decision": "Kein Trade. Tagesbudget bereits heute frueh gutgeschrieben (kein erneuter Grant). BTC-Position (pos-0018) auf ca. 80.200 USD aktualisiert (-5,69% seit Kauf, naehert sich der Stop-Loss-Zone, aber noch nicht erreicht); Brent-Position (pos-0030) auf ca. 115,30 USD aktualisiert (+3,36% seit Kauf, Anstieg durch Houthi-Angriff auf Ras Tanura). Beide Positionen bleiben innerhalb der normalen Schwankungsbreite (Stop-Loss -6,5/-7,5%, Zielgewinn 7-9%), daher kein Verkauf. Die Alphabet-/Microsoft-Kursreaktionen sind aktuell nur vorbörslich und damit ausserhalb der regulaeren US-Handelszeit nicht handelbar; keine bestaetigte Krypto-Breakout-Gelegenheit, daher trotz hohem freiem Kapital keine neue Position.",
-    "reasoning": "BTC (pos-0018) naehert sich mit -5,69% der Stop-Loss-Schwelle (-6,5 bis -7,5%), hat sie aber noch nicht erreicht - weiter halten statt verfrueht zu verkaufen. Brent (pos-0030) liegt mit +3,36% noch deutlich unter der etablierten Ziel-Gewinnspanne (7-9%), daher ebenfalls halten. Die Microsoft-Beat-/Alphabet-Miss-Reaktion waere fundamental ein interessanter Post-Earnings-Momentum-Kandidat (analog NVDA/META-Muster), ist aber laut Handelszeiten-Regel ausserhalb der regulaeren US-Boersenzeit (vorbörslich) nicht handelbar und wird bei naechster Gelegenheit waehrend der US-Kassamarktzeit neu bewertet. Keine mehrfach bestaetigte neue Krypto-Ausbruchsmeldung fuer den aktuellen Zeitpunkt, daher wird abgewartet.",
+    "marketOverview": "Alphabet faellt vorbörslich rund 10-11% nach Q3-Zahlen (EPS 2,12 vs. 3,02 USD erwartet, FCF -9,07 Mrd. USD statt erwarteter -2,7 Mrd. USD, belastet durch Abschreibung auf SpaceX-Beteiligung; Google Cloud dagegen +103% auf 30,71 Mrd. USD) - moeglicherweise die schlechteste Post-Earnings-Reaktion in der Firmengeschichte (CNBC, Benzinga, GuruFocus, Yahoo Finance). Microsoft legt vorbörslich zu (Azure +48%). US-Kassamarkt oeffnet erst um 15:30 MESZ, daher aktuell nicht handelbar. Bitcoin pendelt weiterhin um 80.000-80.300 USD (CryptoTimes, CoinGabbar, CaptainAltcoin), kein bestaetigter Breakout. Brent Crude haelt sich bei ca. 114,8-115,7 USD/Barrel (Houthi-Eskalation Ras Tanura weiterhin stuetzend). Keine frische, mehrfach bestaetigte Altcoin-Breakout-Meldung fuer heute auffindbar.",
+    "decision": "Kein Trade. Tagesbudget bereits heute frueh gutgeschrieben (kein erneuter Grant). BTC-Position (pos-0018) auf ca. 80.150 USD aktualisiert (-5,74% seit Kauf, naehert sich der Stop-Loss-Zone, aber noch nicht erreicht); Brent-Position (pos-0030) auf ca. 115,10 USD aktualisiert (+3,18% seit Kauf). Beide Positionen bleiben innerhalb der normalen Schwankungsbreite (Stop-Loss -6,5/-7,5%, Zielgewinn 7-9%), daher kein Verkauf. Der starke Alphabet-Einbruch (-10/-11%) ist ein potenziell interessanter Dip-Kauf-Kandidat (analog AMD-/SpaceX-Muster), aber noch rein vorbörslich und damit ausserhalb der regulaeren US-Handelszeit nicht handelbar; keine bestaetigte Krypto-Breakout-Gelegenheit, daher trotz hohem freiem Kapital keine neue Position.",
+    "reasoning": "BTC (pos-0018) naehert sich mit -5,74% der Stop-Loss-Schwelle (-6,5 bis -7,5%), hat sie aber noch nicht erreicht - weiter halten statt verfrueht zu verkaufen. Brent (pos-0030) liegt mit +3,18% noch deutlich unter der etablierten Ziel-Gewinnspanne (7-9%), daher ebenfalls halten. Der Alphabet-Q3-Miss (Cashflow-Schock, Record-Capex) waere fundamental ein interessanter Post-Earnings-Dip-Kauf-Kandidat (analog AMD/SpaceX), ist aber laut Handelszeiten-Regel ausserhalb der regulaeren US-Boersenzeit (noch vorbörslich, Kassamarkt oeffnet erst 15:30 MESZ) nicht handelbar und wird bei naechster Gelegenheit waehrend der US-Kassamarktzeit neu bewertet. Keine mehrfach bestaetigte neue Krypto-Ausbruchsmeldung fuer den aktuellen Zeitpunkt, daher wird abgewartet.",
     "positionIds": [
       "pos-0018",
       "pos-0030"
     ],
-    "portfolioValueEnd": 1383.73,
+    "portfolioValueEnd": 1382.07,
     "updates": [
       {
         "time": "00:08",
@@ -11014,6 +11014,11 @@
         "time": "13:27",
         "note": "Keine Aenderung. BTC aktualisiert (81.150 -> 80.200 USD, -4,57% -> -5,69% seit Kauf pos-0018, naehert sich Stop-Loss); Brent aktualisiert (114,50 -> 115,30 USD, +2,64% -> +3,36% seit Kauf pos-0030, Houthi-Angriff auf Ras Tanura). Alphabet/Microsoft-Earnings-Reaktion vorbörslich, US-Markt noch nicht offen, kein Trade.",
         "portfolioValue": 1383.73
+      },
+      {
+        "time": "14:11",
+        "note": "Keine Aenderung. BTC aktualisiert (80.200 -> 80.150 USD, -5,69% -> -5,74% seit Kauf pos-0018, naehert sich Stop-Loss); Brent aktualisiert (115,30 -> 115,10 USD, +3,36% -> +3,18% seit Kauf pos-0030). Alphabet faellt vorbörslich -10/-11% nach Q3-Miss (interessanter Dip-Kauf-Kandidat), aber US-Kassamarkt noch geschlossen (oeffnet 15:30 MESZ); kein Trade.",
+        "portfolioValue": 1382.07
       }
     ]
   }
