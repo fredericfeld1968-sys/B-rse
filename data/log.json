@@ -11062,5 +11062,20 @@
         "portfolioValue": 1494.52
       }
     ]
+  },
+  {
+    "date": "2026-10-30",
+    "marketOverview": "Erster Lauf des neuen Tages (00:08 MEZ, entspricht noch Donnerstagabend/29.10. in den USA). Der Kryptomarkt bleibt im Risk-off-Modus nach dem hawkishen Fed-Hold (10-2-Dissent) und der volatilen Tech-Earnings-Woche: Bitcoin notiert je nach Quelle zwischen ca. 78.600 und 81.600 USD (CoinGecko, Fool.com, Nexo, Substack-Marktreports), Gesamtmarktkapitalisierung ca. 2,7-2,77 Bio. USD (-1,3%). Ein kursierendes Geruecht ueber einen moeglichen Sicherheitsvorfall bei mit Binance verknuepften Wallets ist bislang nicht offiziell bestaetigt. US-Spot-Bitcoin-ETFs verzeichneten zuletzt moderate Nettozufluesse. Aktien, ETFs und Rohstoffe sind ausserhalb der Handelszeiten nicht handelbar (US-/EU-Kassamaerkte seit 21:00 CET geschlossen).",
+    "decision": "Kein Trade in diesem Lauf. Tagesbudget gutgeschrieben (+1000 EUR, Gesamt 87.000 EUR); Positionen pos-0030 (Brent) und pos-0031 (GOOGL) unveraendert fortgeschrieben, da die jeweiligen Maerkte geschlossen sind und keine verlaesslich frischeren Kurse vorliegen.",
+    "reasoning": "Der Kryptomarkt setzt den bestehenden, breiten Risk-off-Abverkauf fort, ohne dass ein frischer, mehrfach bestaetigter Einzelkatalysator fuer eine neue spekulative Position erkennbar ist; das kursierende Binance-Geruecht ist unbestaetigt und daher keine verlaessliche Handelsgrundlage. Passend zum disziplinierten spekulativen Kurzfrist-Profil wird nicht in eine unklare, geruechtegetriebene Lage hinein gehandelt, sondern auf eine klarere, bestaetigte Gelegenheit gewartet.",
+    "positionIds": ["pos-0030", "pos-0031"],
+    "portfolioValueEnd": 1494.52,
+    "updates": [
+      {
+        "time": "00:08",
+        "note": "Keine Aenderung. Neuer Tag, Tagesbudget gutgeschrieben (Gesamt 87.000 EUR). Kryptomarkt weiter im Risk-off (BTC ca. 78.600-81.600 USD je Quelle) ohne neuen bestaetigten Breakout-Katalysator; unbestaetigtes Binance-Geruecht keine Handelsgrundlage. Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten nicht handelbar. Kein Trade.",
+        "portfolioValue": 1494.52
+      }
+    ]
   }
 ]
