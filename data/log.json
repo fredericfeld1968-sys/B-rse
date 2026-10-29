@@ -11004,6 +11004,11 @@
         "time": "11:08",
         "note": "Keine Aenderung. BTC aktualisiert (80.100 -> 81.150 USD, -4,57% seit Kauf pos-0018); Brent aktualisiert (109,50 -> 114,50 USD, +2,64% seit Kauf pos-0030, Houthi-Angriffe); kein Trade",
         "portfolioValue": 1386.51
+      },
+      {
+        "time": "12:12",
+        "note": "Keine Aenderung. Websuche lieferte erneut ueberwiegend veraltete/widersprüchliche Kursdaten (kein frischer bestaetigter Katalysator seit dem letzten Lauf). BTC (pos-0018) und Brent (pos-0030) bleiben auf dem Stand von 81.150 USD (-4,57%) bzw. 114,50 USD (+2,64%), beide innerhalb der normalen Halteband-Grenzen. Keine neue ueberzeugende Gelegenheit, kein Trade.",
+        "portfolioValue": 1386.51
       }
     ]
   }
