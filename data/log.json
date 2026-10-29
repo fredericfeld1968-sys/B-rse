@@ -10936,9 +10936,9 @@
   },
   {
     "date": "2026-10-29",
-    "marketOverview": "Breiter, synchronisierter Krypto-Risk-off-Schub am Abend: Der hawkishe Fed-Hold vom 28.10. (3,75-4,00%, ING warnt vor moeglicher Dezember-Zinserhoehung) traf auf einen Tech-Sektor-Schock (Alphabet-Q3-Miss, Samsung-Chip-Gewinnverfehlung, Nasdaq-Futures -1,4%) und loeste eine Liquidationswelle von 356 Mio. USD in Krypto-Futures aus. BTC fiel dadurch unter 80.000 USD auf ca. 79.100 USD (CoinGecko-API, 21:13 UTC, cross-verifiziert gegen CoinDesk/Binance/Coinbase/Bybit/Gate.io). US-Kassamarkt (NYSE/Nasdaq) bleibt seit 21:00 CET geschlossen, GOOGL (pos-0031) unveraendert auf 283,04 USD. Fuer Brent (pos-0030) weiterhin keine verlaesslich frisch datierte Live-Notierung ausserhalb der Handelszeiten, Preis vom letzten Lauf uebernommen.",
-    "decision": "Stop-Loss-Verkauf BTC (pos-0018): Position fiel auf -6,98% (79.100 USD, Kauf 85.035 USD) und erreichte damit die etablierte Stop-Loss-Schwelle (-6,5 bis -7,5%); realisierter Verlust -48,86 EUR. US-Kassamarkt seit 21:00 CET geschlossen, GOOGL (pos-0031) unveraendert auf 283,04 USD (-0,15%). Brent (pos-0030) unveraendert vom letzten Lauf uebernommen (keine frischeren Live-Kurse ausserhalb der Handelszeiten). Keine ueberzeugende neue Krypto-Kaufgelegenheit identifiziert (reiner makrogetriebener Risk-off-Abverkauf ohne klaren Breakout/Breakdown-Katalysator), daher trotz hohem freiem Kapital (83.789,63 EUR) kein Neukauf in diesem Lauf. Tagesbudget bereits heute frueh gutgeschrieben (kein erneuter Grant).",
-    "reasoning": "BTC-Position verschlechterte sich seit Stunden kontinuierlich (-5,05% um 21:10 -> -6,98% jetzt) ohne Gegenkatalysator oder bestaetigtes Erholungssignal; moderate Spot-BTC-ETF-Zufluesse (+137 Mio. USD) gleichen den breiten, durch Fed-Hold und Tech-Sektor-Schock ausgeloesten Abverkauf nicht aus. Passend zum disziplinierten spekulativen Kurzfrist-Profil und analog zu allen bisherigen Stop-Loss-Faellen (Rheinmetall -6,56%, NVIDIA -7,24%, XRP -6,57%, HBAR -7,31%, ADA -7,32%) wird konsequent glattgestellt statt auf eine Erholung zu hoffen. Fuer einen Neukauf fehlt ein mehrfach unabhaengig bestaetigter, ueberzeugender frischer Katalysator - der aktuelle Krypto-Ruecksetzer ist makrogetrieben (Fed/Tech-Kontagion) und keine isolierte Breakout-Chance. GOOGL ist ausserhalb der Handelszeiten nicht bewegbar.",
+    "marketOverview": "Der am 28.10. ausgeloeste, breite Krypto-Risk-off-Schub (hawkisher Fed-Hold, Tech-Sektor-Schock) setzt sich auch am spaeten Abend fort: BTC fiel laut CoinGecko-API weiter auf 78.579 USD (-3,23% in 24h), ETH -4,47%, SOL -5,65%, XRP -6,21% - ein synchroner, breiter Ruecksetzer ohne isolierten neuen Katalysator. US-Kassamarkt (NYSE/Nasdaq) bleibt seit 21:00 CET geschlossen, GOOGL (pos-0031) und Brent (pos-0030) ohne verlaesslich frische Kursdaten unveraendert vom letzten Lauf uebernommen.",
+    "decision": "Stop-Loss-Verkauf BTC (pos-0018) frueher am Tag: Position erreichte -6,98% und wurde glattgestellt, realisierter Verlust -48,86 EUR. Seitdem (22:15-23:10) keine weiteren Trades: der Kryptomarkt setzt den Abverkauf fort (BTC/ETH/SOL/XRP alle 3-6% im Minus), aber ohne neuen, ueberzeugenden Breakout- oder Breakdown-Katalysator - eine reine Fortsetzung des bestehenden Trends ist fuer einen spekulativen Neueinstieg nicht ausreichend. Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten nicht handelbar. Trotz hohem freiem Kapital (83.789,63 EUR) daher weiterhin kein Neukauf. Tagesbudget bereits heute frueh gutgeschrieben (kein erneuter Grant).",
+    "reasoning": "Passend zum disziplinierten spekulativen Kurzfrist-Profil wird nicht in einen reinen, makrogetriebenen Trendfortsetzungs-Abverkauf hinein gekauft (anders als bei den bisherigen erfolgreichen Trades, die stets auf einem konkreten, frischen, mehrfach bestaetigten Einzelkatalysator beruhten). GOOGL und Brent bleiben ausserhalb der Handelszeiten unveraendert und unbewegt.",
     "positionIds": [
       "pos-0018",
       "pos-0030",
@@ -11054,6 +11054,11 @@
       {
         "time": "22:15",
         "note": "Verkauf BTC (-6,98%, Stop-Loss, realisierter Verlust -48,86 EUR). GOOGL unveraendert (283,04 USD, Markt geschlossen); Brent unveraendert (110,87 USD, Markt geschlossen). Keine neue Position.",
+        "portfolioValue": 1494.52
+      },
+      {
+        "time": "23:10",
+        "note": "Keine Aenderung. BTC/ETH/SOL/XRP setzen den Risk-off seit dem Fed-Hold weiter fort (BTC laut CoinGecko-API 78.579 USD, -3,23% in 24h; ETH -4,47%; SOL -5,65%; XRP -6,21%) - reine Fortsetzung des bestehenden Abverkaufs ohne neuen Breakout-Katalysator, daher kein Krypto-Kauf. Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten nicht handelbar, keine verlaesslich frischen Kurse fuer Brent/GOOGL gefunden (unveraendert uebernommen). Kein Trade.",
         "portfolioValue": 1494.52
       }
     ]
