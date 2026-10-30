@@ -11065,14 +11065,14 @@
   },
   {
     "date": "2026-10-30",
-    "marketOverview": "Neunter Lauf des Tages (08:14 MEZ). Bitcoin via Binance/CoinGecko-API live bei ca. 78.330-78.450 USD (-1,85 bis -1,92% 24h), weiterhin unter 80.000 USD im anhaltenden Krypto-Risk-off ohne neuen Katalysator; ETH (-2,6%), SOL (-1,9%) und XRP (-2,4%) zeigen ebenfalls keine ausbruchsartigen Bewegungen (>5%). Brent-Future (ICE/Yahoo Finance) notiert bei 111,94 USD (+1,03% intraday) - moderate Fortsetzung der seit der Hormuz-Eskalation erhoehten Oelpraemie. GOOGL zeigt im Overnight/Pre-Market-Handel (Blue Ocean ATS) einen Kurs von 281,35 USD (-0,87% ggu. Schlusskurs 283,82 USD vom 29.10.) - leichte Fortsetzung des Q3-bedingten Rueckgangs, aber keine klare Erholung oder neuer Einbruch; Xetra/NYSE weiterhin nicht geoeffnet.",
-    "decision": "Kein Trade in diesem Lauf (neunter Lauf des Tages). Tagesbudget bereits im ersten Lauf gutgeschrieben (Gesamt 87.000 EUR, lastGrantDate bleibt 2026-10-30, keine erneute Gutschrift). Position pos-0030 (Brent, jetzt +0,35%) und pos-0031 (GOOGL, jetzt -0,75%) mit frischeren Kursen aktualisiert - beide deutlich innerhalb der etablierten Take-Profit-/Stop-Loss-Spannen, keine Verkaeufe. Keine Neukaeufe, da keine ueberzeugende Gelegenheit vorliegt.",
-    "reasoning": "Live-Abfragen (Binance/CoinGecko-API fuer Krypto, Yahoo-Finance fuer Brent-Future und GOOGL-Pre-Market) zeigen Bitcoin, ETH, SOL und XRP durchgaengig leicht negativ (-1,85 bis -2,7% 24h) ohne Einzeltitel-Breakout oder frischen Katalysator - kein Setup, das zum disziplinierten spekulativen Kurzfrist-Profil passt. Der Brent-Future bewegt sich moderat (+1,03%) trotz struktureller Hormuz-Praemie, ohne neue Eskalations- oder Deeskalationsmeldung. GOOGL setzt im Pre-Market den Rueckgang nur marginal fort (-0,87%), eine klare Bodenbildung oder Gegenbewegung ist noch nicht bestaetigt; Xetra/NYSE oeffnen erst spaeter (9:00/15:30 MEZ). Keine Bewegung >5-7% mit klarem Katalysator gefunden. Freies Kapital bleibt sehr hoch, aber ohne ueberzeugende Gelegenheit wird bewusst nicht investiert.",
+    "marketOverview": "Zehnter Lauf des Tages (09:10 MEZ, Xetra-Handel bereits eroeffnet). Live-Daten (CoinGecko/Yahoo Finance): Bitcoin ca. 77.940-77.965 USD (-2,5% 24h), Ethereum -3,8%, XRP -3,2%, Solana -3,0% - Kryptomarkt setzt den Risk-off-Trend der letzten Stunden ohne neuen Katalysator fort. Auffaellig: Hyperliquid (HYPE) zeigt +15,1% auf 24h-Basis (90,89 USD), die Bewegung ist jedoch bereits mehrere Tage alt (+16,6% auf 7-Tage-Basis) und rollt in der letzten Stunde bereits wieder ab (-2,3% 1h, vom 24h-Hoch bei 96,70 USD auf 90,89 USD gefallen) - kein frischer, ueberzeugender Einstiegspunkt, zusaetzlich belastet durch einen bevorstehenden grossen Token-Unlock (rund 860 Mio. USD) als Angebotsrisiko. Brent (ICE-Future, Yahoo Finance) steigt moderat auf 112,93 USD (+0,88% ggu. letztem Lauf), GOOGL zeigt im Pre-Market/fruehen Handel weiterhin 281,34 USD, praktisch unveraendert zum letzten Lauf.",
+    "decision": "Kein Trade in diesem Lauf (zehnter Lauf des Tages). Tagesbudget bereits im ersten Lauf gutgeschrieben (Gesamt 87.000 EUR, lastGrantDate bleibt 2026-10-30, keine erneute Gutschrift). Position pos-0030 (Brent, jetzt +1,24%) und pos-0031 (GOOGL, jetzt -0,75%) mit aktuellen Kursen aktualisiert - beide klar innerhalb der etablierten Take-Profit-/Stop-Loss-Spannen. Kein Verkauf. Kein Neukauf: Der auffaelligste Kandidat (HYPE +15% 24h) rollt bereits wieder ab und wird durch einen bevorstehenden Token-Unlock belastet - keine ueberzeugende Gelegenheit im Sinne der Handelsregeln.",
+    "reasoning": "Live-Abfragen (CoinGecko-API fuer Krypto inkl. 1h/24h/7d-Veraenderung, Yahoo-Finance-Chart-API fuer Brent-Future und GOOGL) zeigen keine frische, ueberzeugende Breakout-Situation. Der Kryptomarkt bleibt breit im Risk-off (BTC/ETH/XRP/SOL -2,5 bis -3,8% 24h). HYPE faellt zwar mit +15,1%/+16,6% (24h/7d) auf, die 1h-Veraenderung ist aber bereits wieder negativ (-2,3%, Ruecksetzer vom 24h-Hoch 96,70 auf 90,89 USD) - die Bewegung ist also mehrtaegig und bereits am Abrollen, kein frischer Einstiegstrigger, zusaetzlich mit einem fundamentalen Gegenwind (Token-Unlock ~860 Mio. USD) belastet. Brent und GOOGL bewegen sich nur marginal (+0,88% bzw. unveraendert) ohne neuen Katalysator; Xetra ist zwar bereits geoeffnet, aber ohne erkennbare Sondersituation bei den gehaltenen oder beobachteten Titeln. Passend zum disziplinierten spekulativen Kurzfrist-Profil wird mangels einer wirklich ueberzeugenden Gelegenheit bewusst nicht gehandelt.",
     "positionIds": [
       "pos-0030",
       "pos-0031"
     ],
-    "portfolioValueEnd": 1496.47,
+    "portfolioValueEnd": 1502.65,
     "updates": [
       {
         "time": "00:08",
@@ -11118,6 +11118,11 @@
         "time": "08:14",
         "note": "Keine Aenderung. BTC/ETH/SOL/XRP weiter leicht negativ (BTC ca. 78.400 USD), kein Breakout. Brent auf 111,94 USD (+1,03%), GOOGL Pre-Market auf 281,35 USD (-0,87% vs. Schlusskurs) aktualisiert. Kein Trade.",
         "portfolioValue": 1496.47
+      },
+      {
+        "time": "09:10",
+        "note": "Keine Aenderung. Brent leicht hoeher (112,93, +1,24%), GOOGL pre-market unveraendert (281,34, -0,75%). HYPE +15% 24h, aber 1h bereits -2,3% (rollt ab) und durch Token-Unlock belastet - keine ueberzeugende Kaufgelegenheit.",
+        "portfolioValue": 1502.65
       }
     ]
   }
