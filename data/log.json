@@ -11065,14 +11065,14 @@
   },
   {
     "date": "2026-10-30",
-    "marketOverview": "Krypto bleibt im Risk-off: BTC auf 77.645 USD (-3,10% 24h laut CoinGecko), ETH -3,43%, SOL -3,63%, nach dem hawkishen Fed-Hold vom 28.10. und dem Tech-Sektor-Schock (Alphabet-Q3-Miss, Samsung-Chip-Gewinnverfehlung). Brent Crude zieht dagegen weiter an auf 113,63 USD/Barrel (+2,55% intraday laut Yahoo-Finance-Live-Daten), getrieben von der anhaltenden Hormuz/Iran-Eskalation. GOOGL unveraendert bei 283,82 USD (US-Kassamarkt oeffnet erst um 13:30 UTC).",
-    "decision": "Kein Trade in diesem Lauf. Brent-Position (pos-0030) auf 113,63 USD aktualisiert (+1,87% seit Kauf, noch deutlich unter der Gewinnmitnahme-Zielspanne von 7-9%). GOOGL (pos-0031) unveraendert, da US-Markt noch nicht geoeffnet ist. Keine ueberzeugende neue Kaufgelegenheit erkennbar (Krypto weiterhin im etablierten Risk-off ohne neuen Katalysator, Aktien/ETFs/Rohstoffe ausser Brent ausserhalb der Handelszeiten).",
+    "marketOverview": "Krypto-Risk-off haelt an: BTC auf 77.454 USD (-3,26% 24h laut CoinGecko), ETH -3,75%, SOL -3,63%, AVAX -4,53%, LINK -4,15%, weiterhin ohne neuen Gegenkatalysator nach dem hawkishen Fed-Hold vom 28.10. und dem Tech-Sektor-Schock (Alphabet-Q3-Miss, Samsung-Chip-Gewinnverfehlung). Brent Crude leicht abgekuehlt von seinem Tageshoch auf ca. 113,32 USD/Barrel (+2,27% intraday laut Investing.com-Live-Daten), Hormuz/Iran-Eskalation bleibt der Treiber. GOOGL weiterhin unveraendert bei 283,82 USD (US-Kassamarkt oeffnet erst um 15:30 MEZ/14:30 UTC).",
+    "decision": "Kein Trade in diesem Lauf. Brent-Position (pos-0030) auf 113,32 USD aktualisiert (+1,59% seit Kauf, weiterhin deutlich unter der Gewinnmitnahme-Zielspanne von 7-9%). GOOGL (pos-0031) unveraendert, da US-Markt noch nicht geoeffnet ist. Keine ueberzeugende neue Kaufgelegenheit erkennbar (Krypto weiterhin im etablierten Risk-off ohne neuen Katalysator, Aktien/ETFs/Rohstoffe ausser Brent ausserhalb der Handelszeiten).",
     "reasoning": "Weder Stop-Loss- (-6,5 bis -7,5%) noch Gewinnmitnahme-Schwelle (7-9%) wurde bei einer der beiden offenen Positionen erreicht. Der fortgesetzte Krypto-Risk-off bietet keinen ueberzeugenden Einstiegspunkt (kein Boden bestaetigt), daher kein Neukauf passend zum disziplinierten, spekulativen Kurzfrist-Profil.",
     "positionIds": [
       "pos-0030",
       "pos-0031"
     ],
-    "portfolioValueEnd": 1514.05,
+    "portfolioValueEnd": 1512.1,
     "updates": [
       {
         "time": "00:08",
@@ -11138,6 +11138,11 @@
         "time": "12:15",
         "note": "Keine Aenderung. Brent auf 113,63 USD aktualisiert (+2,55% intraday, Hormuz-Eskalation haelt an), BTC auf 77.645 USD (-3,10% 24h, Risk-off haelt an). GOOGL unveraendert (US-Markt noch nicht geoeffnet). Kein Trade.",
         "portfolioValue": 1514.05
+      },
+      {
+        "time": "13:17",
+        "note": "Keine Aenderung. BTC per CoinGecko-API auf 77.454 USD (-3,26% 24h), Krypto-Risk-off ohne neuen Katalysator haelt an. Brent (Investing.com live) auf 113,32 USD (+2,27% intraday, leicht abgekuehlt vs. 12:15). GOOGL unveraendert (283,82 USD, US-Markt noch nicht geoeffnet). Kein Trade.",
+        "portfolioValue": 1512.1
       }
     ]
   }
