@@ -11065,9 +11065,9 @@
   },
   {
     "date": "2026-10-30",
-    "marketOverview": "Risk-off setzt sich verschaerft fort: Bitcoin faellt per CoinGecko-API auf 77.356 USD (-5,41% 24h, von 76.838 USD um 15:09 auf nun tiefer, Binance-Hack-Nachwirkungen und hawkisher Fed-Hold vom 28.10. belasten weiter). Brent Crude klettert laut Yahoo-Finance-Live-Daten auf 113,71 USD/Barrel (+2,63% vs. Vortagesschluss 110,80 USD), Iran-Eskalationspraemie haelt an. GOOGL im regulaeren Handel bei 282,09 USD (-0,61% Tagesverlauf, -0,49% seit Kauf), Alphabet-Ausverkauf nach Q3-Zahlen (Intel -29%, Amazon-Schwaeche, Nasdaq -2,4%) wirkt nach, keine neue bestaetigte Gegenkatalysator-Meldung seit 16:09 auffindbar.",
-    "decision": "Kein Trade in diesem Lauf (17:09). Brent-Position (pos-0030, +1,94%) und GOOGL-Position (pos-0031, -0,49%) bleiben unveraendert, beide weiterhin deutlich innerhalb der Stop-Loss-/Gewinnmitnahme-Toleranz (-6,5 bis -7,5% / 7-9%). Trotz hohem freiem Kapital (~84.790 EUR) keine neue, wirklich ueberzeugende und frisch bestaetigte Gelegenheit erkennbar - der fortgesetzte Krypto-Ausverkauf (BTC -5,41%) ist reiner Risk-off ohne neuen eigenstaendigen Kaufkatalysator.",
-    "reasoning": "Weder Stop-Loss noch Gewinnmitnahme-Schwelle wurde bei einer der beiden offenen Positionen erreicht. Keine frisch bestaetigte, eigenstaendige Kaufchance gefunden (Websuche nach aktuellen Hormuz-/Marktkatalysatoren lieferte nur bereits bekannte bzw. undatierte/aeltere Treffer). Passend zum disziplinierten, spekulativen Kurzfrist-Profil: kein Neukauf ohne klaren, frischen und bestaetigten Katalysator.",
+    "marketOverview": "Risk-off bleibt praegend: Bitcoin laut CoinDesk bei rund 77.337 USD (-5,21% 24h, 11:48 ET), leichte Stabilisierung gegenueber dem Tagestief von 76.400 USD nach dem rund 6,3-Mrd.-USD-Binance-Hack (Nordkorea-Verdacht, Auszahlungen pausiert, ca. 3 Mrd. USD eingefroren); Standard Chartered erwartet weiter Druck. Brent (pos-0030) und GOOGL (pos-0031) bleiben auf dem zuletzt bestaetigten Stand (113,71 USD bzw. 282,09 USD) - Websuche liefert fuer beide nur widerspruechliche bzw. undatierte/aeltere Treffer, keine frischere verlaessliche Notierung. Alphabet-Nachwirkungen (Q3-Miss, Intel -29%) und Hormuz-Eskalationspraemie bei Oel bleiben strukturell unveraendert.",
+    "decision": "Kein Trade in diesem Lauf (18:10). Brent-Position (pos-0030, +1,94%) und GOOGL-Position (pos-0031, -0,49%) bleiben unveraendert, beide weiterhin deutlich innerhalb der Stop-Loss-/Gewinnmitnahme-Toleranz (-6,5 bis -7,5% / 7-9%). Trotz hohem freiem Kapital (~84.790 EUR) keine neue, frisch bestaetigte und wirklich ueberzeugende Gelegenheit gefunden - die Websuche liefert fuer BTC, Brent, GOOGL und moegliche Altcoin-Kandidaten ueberwiegend unzuverlaessige, undatierte oder widerspruechliche Treffer ohne belastbaren frischen Katalysator.",
+    "reasoning": "Weder Stop-Loss noch Gewinnmitnahme-Schwelle wurde bei einer der beiden offenen Positionen erreicht. Keine frisch bestaetigte, eigenstaendige Kaufchance gefunden; die Marktsuche zu Aktien-Gewinnern, Krypto-Altcoins und Rohstoffen lieferte groesstenteils veraltete oder nicht datierte Ergebnisse. Passend zum disziplinierten, spekulativen Kurzfrist-Profil: kein Neukauf ohne klaren, frischen und bestaetigten Katalysator.",
     "positionIds": [
       "pos-0030",
       "pos-0031"
@@ -11162,6 +11162,11 @@
       {
         "time": "17:09",
         "note": "Keine Aenderung. BTC weiter gefallen (77.356 USD, -5,41% 24h, Risk-off verschaerft sich). Brent auf 113,71 USD aktualisiert (+2,63% vs. Vortagesschluss), GOOGL im regulaeren Handel auf 282,09 USD (-0,49% seit Kauf). Keine neue bestaetigte Kaufgelegenheit gefunden. Kein Trade.",
+        "portfolioValue": 1509.66
+      },
+      {
+        "time": "18:10",
+        "note": "Keine Aenderung. BTC leicht stabiler (77.337 USD, -5,21% 24h, nach Binance-Hack-Tief 76.400 USD). Brent/GOOGL unveraendert (keine frischeren verlaesslichen Kurse via Websuche). Kein Trade.",
         "portfolioValue": 1509.66
       }
     ]
