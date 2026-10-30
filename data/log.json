@@ -11065,14 +11065,14 @@
   },
   {
     "date": "2026-10-30",
-    "marketOverview": "Breiter Risk-off-Tag nach dem hawkishen Fed-Hold vom 28.10. und einer Serie schwacher Tech-Zahlen: Alphabet erlitt am 29.10. seinen schlimmsten Tagesverlust seit ueber 20 Jahren (~12-13%, rund 480 Mrd. USD Marktkapitalisierung verloren), Intel bricht nach enttaeuschendem Q4-Ausblick um ca. 29% ein, Amazon verfehlt bei Umsatz/Gewinn und meldet erneut negativen Free Cashflow. Nasdaq -2,4%, S&P 500 leicht negativ, Dow -185 Punkte (CNBC, Yahoo Finance). Bitcoin fiel auf ca. 76.838 USD (-4,2% 24h) nach einem gemeldeten Binance-Hack (~6,3 Mrd. USD, unabhaengig nicht frisch nachbestaetigbar). Brent Crude bleibt auf Iran-Eskalationssorgen erhoeht (~113,68 USD/Barrel, +2,6%).",
-    "decision": "Kein Trade in diesem Lauf (16:09). Keine neuen, belastbar bestaetigten Kursdaten seit dem letzten Lauf (15:09) auffindbar; Brent-Position (pos-0030, +1,91%) und GOOGL-Position (pos-0031, -1,18%) bleiben unveraendert auf dem zuletzt bestaetigten Stand, beide weiterhin innerhalb der Stop-Loss-/Gewinnmitnahme-Toleranz. Trotz hohem freiem Kapital (~84.790 EUR) keine neue, wirklich ueberzeugende Gelegenheit erkennbar - der breite Tech-Ausverkauf (Amazon, Intel) beruht auf echten fundamentalen Verfehlungen, kein Dip-Kauf-Kandidat.",
-    "reasoning": "Weder Stop-Loss (-6,5 bis -7,5%) noch Gewinnmitnahme-Schwelle (7-9%) wurde bei einer der beiden offenen Positionen erreicht. Ohne frisch bestaetigte Kursbewegung gibt es keinen Anlass, die Positionen zu aendern. Amazon- und Intel-Schwaeche beruhen auf echten Ergebnis-/Guidance-Verfehlungen (kein Sell-the-news-Reflex wie bei den erfolgreichen Mustern AMD/SpaceX/Palantir/GOOGL), daher kein Dip-Kauf. Passend zum disziplinierten, spekulativen Kurzfrist-Profil: kein Neukauf ohne klaren, bestaetigten Katalysator.",
+    "marketOverview": "Risk-off setzt sich verschaerft fort: Bitcoin faellt per CoinGecko-API auf 77.356 USD (-5,41% 24h, von 76.838 USD um 15:09 auf nun tiefer, Binance-Hack-Nachwirkungen und hawkisher Fed-Hold vom 28.10. belasten weiter). Brent Crude klettert laut Yahoo-Finance-Live-Daten auf 113,71 USD/Barrel (+2,63% vs. Vortagesschluss 110,80 USD), Iran-Eskalationspraemie haelt an. GOOGL im regulaeren Handel bei 282,09 USD (-0,61% Tagesverlauf, -0,49% seit Kauf), Alphabet-Ausverkauf nach Q3-Zahlen (Intel -29%, Amazon-Schwaeche, Nasdaq -2,4%) wirkt nach, keine neue bestaetigte Gegenkatalysator-Meldung seit 16:09 auffindbar.",
+    "decision": "Kein Trade in diesem Lauf (17:09). Brent-Position (pos-0030, +1,94%) und GOOGL-Position (pos-0031, -0,49%) bleiben unveraendert, beide weiterhin deutlich innerhalb der Stop-Loss-/Gewinnmitnahme-Toleranz (-6,5 bis -7,5% / 7-9%). Trotz hohem freiem Kapital (~84.790 EUR) keine neue, wirklich ueberzeugende und frisch bestaetigte Gelegenheit erkennbar - der fortgesetzte Krypto-Ausverkauf (BTC -5,41%) ist reiner Risk-off ohne neuen eigenstaendigen Kaufkatalysator.",
+    "reasoning": "Weder Stop-Loss noch Gewinnmitnahme-Schwelle wurde bei einer der beiden offenen Positionen erreicht. Keine frisch bestaetigte, eigenstaendige Kaufchance gefunden (Websuche nach aktuellen Hormuz-/Marktkatalysatoren lieferte nur bereits bekannte bzw. undatierte/aeltere Treffer). Passend zum disziplinierten, spekulativen Kurzfrist-Profil: kein Neukauf ohne klaren, frischen und bestaetigten Katalysator.",
     "positionIds": [
       "pos-0030",
       "pos-0031"
     ],
-    "portfolioValueEnd": 1503.92,
+    "portfolioValueEnd": 1509.66,
     "updates": [
       {
         "time": "00:08",
@@ -11158,6 +11158,11 @@
         "time": "16:09",
         "note": "Keine Aenderung. Keine belastbaren frischeren Kurse via Recherche verfuegbar (nur Bestaetigung der bereits bekannten Lage: Alphabet-Einbruch, Intel -29%, Amazon-Schwaeche, Nasdaq -2,4%). Brent (113,68) und GOOGL (280,12) bleiben auf dem zuletzt bestaetigten Stand. Kein Trade.",
         "portfolioValue": 1503.92
+      },
+      {
+        "time": "17:09",
+        "note": "Keine Aenderung. BTC weiter gefallen (77.356 USD, -5,41% 24h, Risk-off verschaerft sich). Brent auf 113,71 USD aktualisiert (+2,63% vs. Vortagesschluss), GOOGL im regulaeren Handel auf 282,09 USD (-0,49% seit Kauf). Keine neue bestaetigte Kaufgelegenheit gefunden. Kein Trade.",
+        "portfolioValue": 1509.66
       }
     ]
   }
