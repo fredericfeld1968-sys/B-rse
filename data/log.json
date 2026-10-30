@@ -11065,14 +11065,14 @@
   },
   {
     "date": "2026-10-30",
-    "marketOverview": "Fuenfter Lauf des Tages (04:10 MEZ). Bitcoin via CoinGecko-API live bei 77.317 USD (-3,16% in 24h), damit weiter unterhalb der 80.000-USD-Marke; breiter, gleichgerichteter Krypto-Risk-off haelt an (ETH -4,14%, SOL -4,18%, XRP -5,46%, AVAX -3,57%, DOGE -3,74%, LINK -5,71%, ADA -4,16% in 24h) ohne neuen bestaetigten Einzelkatalysator - reine Fortsetzung des seit dem hawkishen Fed-Hold vom 28.10. laufenden Abverkaufs. Aktien, ETFs und Rohstoffe bleiben um diese Nachtzeit nicht handelbar; fuer Brent/GOOGL liegen weiterhin keine verlaesslich frischeren Kurse als beim letzten Lauf vor.",
-    "decision": "Kein Trade in diesem Lauf (fuenfter Lauf des Tages). Tagesbudget bereits im ersten Lauf gutgeschrieben (Gesamt 87.000 EUR, lastGrantDate bleibt 2026-10-30, keine erneute Gutschrift). Positionen pos-0030 (Brent, -0,61%) und pos-0031 (GOOGL, -0,15%) unveraendert, da die jeweiligen Maerkte weiterhin geschlossen sind und keine verlaesslich frischeren Kurse gefunden wurden.",
-    "reasoning": "Live-Abfrage (CoinGecko-API) bestaetigt einen breiten, unspezifischen Krypto-Rueckgang (-3 bis -6% in 24h ueber BTC/ETH/SOL/XRP/AVAX/DOGE/LINK/ADA) ohne Einzeltitel-Breakout oder frischen Katalysator - reine Fortsetzung des bestehenden Fed-/Tech-Risk-off, kein Setup, das zum disziplinierten spekulativen Kurzfrist-Profil passt. Freies Kapital bleibt mit rund 84.790 EUR sehr hoch, aber ohne ueberzeugende Gelegenheit wird bewusst nicht investiert. Brent und GOOGL bleiben mangels Handelszeiten unangetastet und deutlich innerhalb der etablierten Take-Profit-/Stop-Loss-Spannen (ca. 7-9% bzw. -6,5 bis -7,5%).",
+    "marketOverview": "Sechster Lauf des Tages (05:08 MEZ). Bitcoin via CoinGecko-API live bei 77.809 USD (-2,40% in 24h), damit weiterhin unter der 80.000-USD-Marke, aber leicht erholt gegenueber dem Tief von 77.317 USD im letzten Lauf (04:10). Breiter Krypto-Risk-off haelt an (ETH -3,38%, SOL -2,72%, XRP -3,45%, AVAX -1,94%, DOGE -2,52%, LINK -3,78%, ADA -2,81% in 24h je CoinGecko-API) ohne neuen bestaetigten Einzelkatalysator. Aktien, ETFs und Rohstoffe bleiben vor Boerseneroeffnung (Xetra/NYSE) nicht handelbar; fuer Brent (ICE-Future, per Yahoo-Finance-API live 112,11 USD, +1,18% intraday) und GOOGL (Schlusskurs 29.10., per Yahoo-Finance-API 283,82 USD) liegen frischere Kurse vor und wurden zur Markierung der bestehenden Positionen uebernommen.",
+    "decision": "Kein Trade in diesem Lauf (sechster Lauf des Tages). Tagesbudget bereits im ersten Lauf gutgeschrieben (Gesamt 87.000 EUR, lastGrantDate bleibt 2026-10-30, keine erneute Gutschrift). Positionen pos-0030 (Brent, jetzt +0,50%) und pos-0031 (GOOGL, jetzt +0,12%) wurden mit frischeren Live-Kursen aktualisiert, aber nicht verkauft (deutlich innerhalb der etablierten Take-Profit-/Stop-Loss-Spannen); keine Neukaeufe, da keine ueberzeugende Gelegenheit vorliegt.",
+    "reasoning": "Live-Abfragen (CoinGecko-API fuer Krypto, Yahoo-Finance-API fuer Brent-Future und GOOGL) bestaetigen einen weiterhin breiten, unspezifischen Krypto-Rueckgang (-2 bis -4% in 24h ueber BTC/ETH/SOL/XRP/AVAX/DOGE/LINK/ADA) ohne Einzeltitel-Breakout oder frischen Katalysator - reine Fortsetzung des bestehenden Fed-/Tech-Risk-off, kein Setup, das zum disziplinierten spekulativen Kurzfrist-Profil passt. Brent-Future notiert intraday leicht im Plus (+1,18%) ohne neue Eskalationsmeldung, GOOGL leicht ueber dem letzten Schlusskurs - beide Bewegungen zu klein und ohne Katalysator fuer eine Handelsentscheidung, zumal Aktien/ETFs/Rohstoffe vor Boerseneroeffnung ohnehin nicht handelbar sind. Freies Kapital bleibt mit rund 84.790 EUR sehr hoch, aber ohne ueberzeugende Gelegenheit wird bewusst nicht investiert.",
     "positionIds": [
       "pos-0030",
       "pos-0031"
     ],
-    "portfolioValueEnd": 1494.52,
+    "portfolioValueEnd": 1504.5,
     "updates": [
       {
         "time": "00:08",
@@ -11098,6 +11098,11 @@
         "time": "04:10",
         "note": "Keine Aenderung. BTC per CoinGecko-API auf 77.317 USD aktualisiert (-3,16% in 24h), breiter Krypto-Risk-off ueber alle grossen Alts (ETH/SOL/XRP/AVAX/DOGE/LINK/ADA -3 bis -6%) ohne neuen Katalysator; Brent/GOOGL unveraendert mangels frischerer Kurse und Handelszeiten; kein Trade",
         "portfolioValue": 1494.52
+      },
+      {
+        "time": "05:08",
+        "note": "Keine Aenderung. BTC per CoinGecko-API auf 77.809 USD aktualisiert (-2,40% in 24h, leichte Erholung vs. 04:10), Krypto-Risk-off ohne neuen Katalysator haelt an. Brent-Future (ICE, Yahoo-Finance-API) auf 112,11 USD (+1,18% intraday) und GOOGL-Schlusskurs 29.10. auf 283,82 USD aktualisiert - beide Positionen marginal im Plus, kein Trade.",
+        "portfolioValue": 1504.5
       }
     ]
   }
