@@ -11065,9 +11065,9 @@
   },
   {
     "date": "2026-10-30",
-    "marketOverview": "Vierter Lauf des Tages (03:09 MEZ). Bitcoin bleibt laut mehreren aktuellen Quellen im bestaetigten Risk-off-Modus unterhalb der 80.000-USD-Marke, ausgeloest durch den hawkishen Fed-Hold vom 28.10. (3,75-4,00%) und den Tech-Sektor-Schock (Alphabet-Q3-Miss); keine neue bestaetigte Gegenbewegung. Der grosse Bitcoin-Options-Expiry am Deribit settled laut vorherigem Stand erst um 08:00 UTC, also weiterhin offen. Binance-Hack-Geruecht bleibt unbestaetigt. Aktien, ETFs und Rohstoffe bleiben ausserhalb der Handelszeiten (Nacht) nicht handelbar.",
-    "decision": "Kein Trade in diesem Lauf (vierter Lauf des Tages). Tagesbudget bereits im ersten Lauf gutgeschrieben (Gesamt 87.000 EUR, keine erneute Gutschrift). Positionen pos-0030 (Brent, -0,61%) und pos-0031 (GOOGL, -0,15%) unveraendert, da die jeweiligen Maerkte weiterhin ausserhalb der Handelszeiten geschlossen sind und keine verlaesslich frischeren Kurse vorliegen.",
-    "reasoning": "Erneute Recherche bestaetigt keinen neuen handelbaren Krypto-Katalysator: Bitcoin verbleibt im Risk-off unterhalb 80.000 USD ohne bestaetigte Trendwende, der Options-Expiry ist noch nicht abgerechnet, das Binance-Geruecht bleibt unbestaetigt. Kein Setup, das zum disziplinierten spekulativen Kurzfrist-Profil passt. Brent und GOOGL bleiben mangels Handelszeiten unangetastet und noch deutlich innerhalb der etablierten Take-Profit-/Stop-Loss-Spannen (ca. 7-9% bzw. -6,5 bis -7,5%).",
+    "marketOverview": "Fuenfter Lauf des Tages (04:10 MEZ). Bitcoin via CoinGecko-API live bei 77.317 USD (-3,16% in 24h), damit weiter unterhalb der 80.000-USD-Marke; breiter, gleichgerichteter Krypto-Risk-off haelt an (ETH -4,14%, SOL -4,18%, XRP -5,46%, AVAX -3,57%, DOGE -3,74%, LINK -5,71%, ADA -4,16% in 24h) ohne neuen bestaetigten Einzelkatalysator - reine Fortsetzung des seit dem hawkishen Fed-Hold vom 28.10. laufenden Abverkaufs. Aktien, ETFs und Rohstoffe bleiben um diese Nachtzeit nicht handelbar; fuer Brent/GOOGL liegen weiterhin keine verlaesslich frischeren Kurse als beim letzten Lauf vor.",
+    "decision": "Kein Trade in diesem Lauf (fuenfter Lauf des Tages). Tagesbudget bereits im ersten Lauf gutgeschrieben (Gesamt 87.000 EUR, lastGrantDate bleibt 2026-10-30, keine erneute Gutschrift). Positionen pos-0030 (Brent, -0,61%) und pos-0031 (GOOGL, -0,15%) unveraendert, da die jeweiligen Maerkte weiterhin geschlossen sind und keine verlaesslich frischeren Kurse gefunden wurden.",
+    "reasoning": "Live-Abfrage (CoinGecko-API) bestaetigt einen breiten, unspezifischen Krypto-Rueckgang (-3 bis -6% in 24h ueber BTC/ETH/SOL/XRP/AVAX/DOGE/LINK/ADA) ohne Einzeltitel-Breakout oder frischen Katalysator - reine Fortsetzung des bestehenden Fed-/Tech-Risk-off, kein Setup, das zum disziplinierten spekulativen Kurzfrist-Profil passt. Freies Kapital bleibt mit rund 84.790 EUR sehr hoch, aber ohne ueberzeugende Gelegenheit wird bewusst nicht investiert. Brent und GOOGL bleiben mangels Handelszeiten unangetastet und deutlich innerhalb der etablierten Take-Profit-/Stop-Loss-Spannen (ca. 7-9% bzw. -6,5 bis -7,5%).",
     "positionIds": [
       "pos-0030",
       "pos-0031"
@@ -11092,6 +11092,11 @@
       {
         "time": "03:09",
         "note": "Keine Aenderung. Bitcoin weiterhin im bestaetigten Risk-off unter 80.000 USD (hawkisher Fed-Hold vom 28.10., Tech-Sektor-Schock); kein neuer Katalysator seit 02:08. Options-Expiry noch nicht abgerechnet. Aktien/ETFs/Rohstoffe weiterhin ausserhalb der Handelszeiten nicht handelbar. Kein Trade.",
+        "portfolioValue": 1494.52
+      },
+      {
+        "time": "04:10",
+        "note": "Keine Aenderung. BTC per CoinGecko-API auf 77.317 USD aktualisiert (-3,16% in 24h), breiter Krypto-Risk-off ueber alle grossen Alts (ETH/SOL/XRP/AVAX/DOGE/LINK/ADA -3 bis -6%) ohne neuen Katalysator; Brent/GOOGL unveraendert mangels frischerer Kurse und Handelszeiten; kein Trade",
         "portfolioValue": 1494.52
       }
     ]
