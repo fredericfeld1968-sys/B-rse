@@ -11168,6 +11168,11 @@
         "time": "18:10",
         "note": "Keine Aenderung. BTC leicht stabiler (77.337 USD, -5,21% 24h, nach Binance-Hack-Tief 76.400 USD). Brent/GOOGL unveraendert (keine frischeren verlaesslichen Kurse via Websuche). Kein Trade.",
         "portfolioValue": 1509.66
+      },
+      {
+        "time": "19:09",
+        "note": "Keine Aenderung. Websuche liefert erneut keine verlaesslichen, auf heute datierten Live-Kurse fuer BTC, Brent oder GOOGL (nur widersprüchliche/veraltete Treffer). Brent (pos-0030, +1,94%) und GOOGL (pos-0031, -0,49%) bleiben auf dem zuletzt bestaetigten Stand, beide klar innerhalb der Toleranz. Keine ueberzeugende neue Gelegenheit identifizierbar. Kein Trade.",
+        "portfolioValue": 1509.66
       }
     ]
   }
