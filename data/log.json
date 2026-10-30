@@ -11065,9 +11065,9 @@
   },
   {
     "date": "2026-10-30",
-    "marketOverview": "Breiter Risk-off-Tag nach dem hawkishen Fed-Hold vom 28.10.: Der Nasdaq Composite faellt um rund -2,4% (S&P 500 -1,2%, Dow -0,3%) nach schwachen Amazon- und Alphabet-Zahlen, Intel bricht nach enttaeuschendem Q4-Ausblick um -29% ein. Bitcoin faellt auf 76.838,66 USD (-4,20% in 24h, CoinGecko-Live), nachdem Binance ueber Nacht einen Hack von rund 6,3 Mrd. USD offengelegt hat - Circle, Coinbase, Robinhood und Strategy je ueber -6% im Premarket. Brent Crude klettert dagegen weiter auf 113,68 USD/Barrel (+2,60% session, Investing.com-Live), getrieben von Spekulationen ueber erneute US-Luftschlaege gegen Iran. GOOGL notiert im inzwischen offenen regulaeren Handel (seit 13:30 UTC) bei 280,12 USD (-1,30% zum Vortagesschluss von 283,82 USD, StockAnalysis.com, 10:11 Uhr EDT).",
-    "decision": "Kein Trade in diesem Lauf. Brent-Position (pos-0030) auf 113,68 USD aktualisiert (+1,91% seit Kauf, trotz neuem Eskalationskatalysator weiterhin unter der 7-9%-Gewinnmitnahme-Zielspanne). GOOGL (pos-0031) auf 280,12 USD aktualisiert (-1,18% seit Kauf, Markt jetzt regulaer geoeffnet, Rueckgang weiterhin innerhalb der Stop-Loss-Toleranz). Trotz grosser Marktbewegungen (Intel-Crash, Binance-Hack, Oel-Spike) keine ausreichend bestaetigte, risikoadaequate Neueinstiegsgelegenheit erkennbar.",
-    "reasoning": "Weder Stop-Loss (-6,5 bis -7,5%) noch Gewinnmitnahme-Schwelle (7-9%) wurde bei einer der beiden offenen Positionen erreicht. Der Kryptomarkt ist durch den frisch bekanntgewordenen Binance-Hack fundamental belastet und zeigt keinen bestaetigten Boden - ein Dip-Kauf waere reines ungesichertes Messer-Fangen ohne Bestaetigung. Die Tech-Selloffs bei Amazon/Alphabet/Intel beruhen auf echten Gewinn- bzw. Ausblick-Verfehlungen (keine blossen Sell-the-news-Reflexe wie bei den fruehren erfolgreichen Mustern AMD/SpaceX/Palantir), daher kein Dip-Kauf. Der Oelpreisanstieg ist bereits ueber die gehaltene Brent-Position abgebildet; eine zusaetzliche Rohstoffposition wuerde das Klumpenrisiko unnoetig erhoehen. Passend zum disziplinierten, spekulativen Kurzfrist-Profil: kein Neukauf in diesem turbulenten, aber unbestaetigten Marktumfeld.",
+    "marketOverview": "Breiter Risk-off-Tag nach dem hawkishen Fed-Hold vom 28.10. und einer Serie schwacher Tech-Zahlen: Alphabet erlitt am 29.10. seinen schlimmsten Tagesverlust seit ueber 20 Jahren (~12-13%, rund 480 Mrd. USD Marktkapitalisierung verloren), Intel bricht nach enttaeuschendem Q4-Ausblick um ca. 29% ein, Amazon verfehlt bei Umsatz/Gewinn und meldet erneut negativen Free Cashflow. Nasdaq -2,4%, S&P 500 leicht negativ, Dow -185 Punkte (CNBC, Yahoo Finance). Bitcoin fiel auf ca. 76.838 USD (-4,2% 24h) nach einem gemeldeten Binance-Hack (~6,3 Mrd. USD, unabhaengig nicht frisch nachbestaetigbar). Brent Crude bleibt auf Iran-Eskalationssorgen erhoeht (~113,68 USD/Barrel, +2,6%).",
+    "decision": "Kein Trade in diesem Lauf (16:09). Keine neuen, belastbar bestaetigten Kursdaten seit dem letzten Lauf (15:09) auffindbar; Brent-Position (pos-0030, +1,91%) und GOOGL-Position (pos-0031, -1,18%) bleiben unveraendert auf dem zuletzt bestaetigten Stand, beide weiterhin innerhalb der Stop-Loss-/Gewinnmitnahme-Toleranz. Trotz hohem freiem Kapital (~84.790 EUR) keine neue, wirklich ueberzeugende Gelegenheit erkennbar - der breite Tech-Ausverkauf (Amazon, Intel) beruht auf echten fundamentalen Verfehlungen, kein Dip-Kauf-Kandidat.",
+    "reasoning": "Weder Stop-Loss (-6,5 bis -7,5%) noch Gewinnmitnahme-Schwelle (7-9%) wurde bei einer der beiden offenen Positionen erreicht. Ohne frisch bestaetigte Kursbewegung gibt es keinen Anlass, die Positionen zu aendern. Amazon- und Intel-Schwaeche beruhen auf echten Ergebnis-/Guidance-Verfehlungen (kein Sell-the-news-Reflex wie bei den erfolgreichen Mustern AMD/SpaceX/Palantir/GOOGL), daher kein Dip-Kauf. Passend zum disziplinierten, spekulativen Kurzfrist-Profil: kein Neukauf ohne klaren, bestaetigten Katalysator.",
     "positionIds": [
       "pos-0030",
       "pos-0031"
@@ -11152,6 +11152,11 @@
       {
         "time": "15:09",
         "note": "Keine Aenderung. BTC auf 76.838,66 USD gefallen (-4,20% 24h) nach bekanntgewordenem Binance-Hack (~6,3 Mrd. USD). Brent weiter hoeher (113,68 USD, +2,60%) auf Iran-Eskalationssorgen. GOOGL jetzt im regulaeren Handel bei 280,12 USD (-1,18% seit Kauf). Nasdaq -2,4% nach Amazon-/Alphabet-Zahlen, Intel -29%. Kein Trade.",
+        "portfolioValue": 1503.92
+      },
+      {
+        "time": "16:09",
+        "note": "Keine Aenderung. Keine belastbaren frischeren Kurse via Recherche verfuegbar (nur Bestaetigung der bereits bekannten Lage: Alphabet-Einbruch, Intel -29%, Amazon-Schwaeche, Nasdaq -2,4%). Brent (113,68) und GOOGL (280,12) bleiben auf dem zuletzt bestaetigten Stand. Kein Trade.",
         "portfolioValue": 1503.92
       }
     ]
