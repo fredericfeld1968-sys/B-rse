@@ -11065,15 +11065,23 @@
   },
   {
     "date": "2026-10-30",
-    "marketOverview": "Erster Lauf des neuen Tages (00:08 MEZ, entspricht noch Donnerstagabend/29.10. in den USA). Der Kryptomarkt bleibt im Risk-off-Modus nach dem hawkishen Fed-Hold (10-2-Dissent) und der volatilen Tech-Earnings-Woche: Bitcoin notiert je nach Quelle zwischen ca. 78.600 und 81.600 USD (CoinGecko, Fool.com, Nexo, Substack-Marktreports), Gesamtmarktkapitalisierung ca. 2,7-2,77 Bio. USD (-1,3%). Ein kursierendes Geruecht ueber einen moeglichen Sicherheitsvorfall bei mit Binance verknuepften Wallets ist bislang nicht offiziell bestaetigt. US-Spot-Bitcoin-ETFs verzeichneten zuletzt moderate Nettozufluesse. Aktien, ETFs und Rohstoffe sind ausserhalb der Handelszeiten nicht handelbar (US-/EU-Kassamaerkte seit 21:00 CET geschlossen).",
-    "decision": "Kein Trade in diesem Lauf. Tagesbudget gutgeschrieben (+1000 EUR, Gesamt 87.000 EUR); Positionen pos-0030 (Brent) und pos-0031 (GOOGL) unveraendert fortgeschrieben, da die jeweiligen Maerkte geschlossen sind und keine verlaesslich frischeren Kurse vorliegen.",
-    "reasoning": "Der Kryptomarkt setzt den bestehenden, breiten Risk-off-Abverkauf fort, ohne dass ein frischer, mehrfach bestaetigter Einzelkatalysator fuer eine neue spekulative Position erkennbar ist; das kursierende Binance-Geruecht ist unbestaetigt und daher keine verlaessliche Handelsgrundlage. Passend zum disziplinierten spekulativen Kurzfrist-Profil wird nicht in eine unklare, geruechtegetriebene Lage hinein gehandelt, sondern auf eine klarere, bestaetigte Gelegenheit gewartet.",
-    "positionIds": ["pos-0030", "pos-0031"],
+    "marketOverview": "Zweiter Lauf des Tages (01:11 MEZ). Kryptomarkt bleibt im Risk-off-Modus: Bitcoin laut CoinDesk bei ca. 79.050 USD (Stand 29.10., 17:10 EDT), laut OKX bei ca. 80.900 USD (Stand 30.10., 01:52 UTC+8) - Quellen weichen je nach Zeitpunkt deutlich voneinander ab. Das kursierende Geruecht ueber einen grossen Binance-Hack bleibt auch jetzt unbestaetigt (keine unabhaengige Quelle verifizierbar). Zusaetzlicher Unsicherheitsfaktor: Am 30.10. laufen Bitcoin-Optionen im Volumen von ca. 12 Mrd. USD am Deribit aus (Max-Pain-Zone ca. 78.000-79.000 USD, impliedte Spanne ca. 76.500-86.300 USD) - erhoehtes Volatilitaetsrisiko ohne klare Richtung. Aktien, ETFs und Rohstoffe bleiben ausserhalb der Handelszeiten nicht handelbar.",
+    "decision": "Kein Trade in diesem Lauf (zweiter Lauf des Tages). Tagesbudget bereits im ersten Lauf gutgeschrieben (Gesamt 87.000 EUR, keine erneute Gutschrift). Positionen pos-0030 (Brent, -0,61%) und pos-0031 (GOOGL, -0,15%) unveraendert fortgeschrieben, da die jeweiligen Maerkte weiterhin geschlossen sind und keine verlaesslich frischeren Kurse vorliegen.",
+    "reasoning": "Kein ueberzeugender Krypto-Katalysator: das unbestaetigte Binance-Geruecht bleibt keine verlaessliche Handelsgrundlage, und der bevorstehende grosse Bitcoin-Options-Expiry am 30.10. erhoeht das kurzfristige Volatilitaetsrisiko ohne klare Richtung - kein Setup, das zum disziplinierten spekulativen Kurzfrist-Profil passt. Brent und GOOGL bleiben mangels Handelszeiten unangetastet und noch deutlich innerhalb der etablierten Take-Profit-/Stop-Loss-Spannen (ca. 7-9% bzw. -6,5 bis -7,5%).",
+    "positionIds": [
+      "pos-0030",
+      "pos-0031"
+    ],
     "portfolioValueEnd": 1494.52,
     "updates": [
       {
         "time": "00:08",
         "note": "Keine Aenderung. Neuer Tag, Tagesbudget gutgeschrieben (Gesamt 87.000 EUR). Kryptomarkt weiter im Risk-off (BTC ca. 78.600-81.600 USD je Quelle) ohne neuen bestaetigten Breakout-Katalysator; unbestaetigtes Binance-Geruecht keine Handelsgrundlage. Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten nicht handelbar. Kein Trade.",
+        "portfolioValue": 1494.52
+      },
+      {
+        "time": "01:11",
+        "note": "Keine Aenderung. Kryptomarkt weiter im Risk-off (BTC je nach Quelle 79.000-81.000 USD); Binance-Hack-Geruecht weiterhin unbestaetigt. Grosser Bitcoin-Options-Expiry (~12 Mrd. USD) heute erhoeht Volatilitaetsrisiko ohne klare Richtung - kein Kauf-Trigger. Brent/GOOGL unveraendert, Aktien/ETFs/Rohstoffe weiterhin ausserhalb der Handelszeiten.",
         "portfolioValue": 1494.52
       }
     ]
