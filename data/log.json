@@ -11065,9 +11065,9 @@
   },
   {
     "date": "2026-10-30",
-    "marketOverview": "Dritter Lauf des Tages (02:08 MEZ). Kryptomarkt bleibt im Risk-off-Modus, keine belastbare frische Preisquelle fuer eine Neubewertung verfuegbar; das Binance-Hack-Geruecht ist weiterhin unbestaetigt. Der grosse Bitcoin-Options-Expiry am Deribit (ca. 12 Mrd. USD, Max-Pain-Zone 78.000-79.000 USD) settled erst um 08:00 UTC - also noch nicht erfolgt. Aktien, ETFs und Rohstoffe bleiben ausserhalb der Handelszeiten (Nacht) nicht handelbar.",
-    "decision": "Kein Trade in diesem Lauf (dritter Lauf des Tages). Tagesbudget bereits im ersten Lauf gutgeschrieben (Gesamt 87.000 EUR, keine erneute Gutschrift). Positionen pos-0030 (Brent, -0,61%) und pos-0031 (GOOGL, -0,15%) unveraendert, da die jeweiligen Maerkte weiterhin geschlossen sind und keine verlaesslich frischeren Kurse vorliegen.",
-    "reasoning": "Kein ueberzeugender Krypto-Katalysator: das unbestaetigte Binance-Geruecht bleibt keine verlaessliche Handelsgrundlage, und der bevorstehende grosse Bitcoin-Options-Expiry (Settlement erst 08:00 UTC) erhoeht das kurzfristige Volatilitaetsrisiko ohne klare Richtung - kein Setup, das zum disziplinierten spekulativen Kurzfrist-Profil passt. Brent und GOOGL bleiben mangels Handelszeiten unangetastet und noch deutlich innerhalb der etablierten Take-Profit-/Stop-Loss-Spannen (ca. 7-9% bzw. -6,5 bis -7,5%).",
+    "marketOverview": "Vierter Lauf des Tages (03:09 MEZ). Bitcoin bleibt laut mehreren aktuellen Quellen im bestaetigten Risk-off-Modus unterhalb der 80.000-USD-Marke, ausgeloest durch den hawkishen Fed-Hold vom 28.10. (3,75-4,00%) und den Tech-Sektor-Schock (Alphabet-Q3-Miss); keine neue bestaetigte Gegenbewegung. Der grosse Bitcoin-Options-Expiry am Deribit settled laut vorherigem Stand erst um 08:00 UTC, also weiterhin offen. Binance-Hack-Geruecht bleibt unbestaetigt. Aktien, ETFs und Rohstoffe bleiben ausserhalb der Handelszeiten (Nacht) nicht handelbar.",
+    "decision": "Kein Trade in diesem Lauf (vierter Lauf des Tages). Tagesbudget bereits im ersten Lauf gutgeschrieben (Gesamt 87.000 EUR, keine erneute Gutschrift). Positionen pos-0030 (Brent, -0,61%) und pos-0031 (GOOGL, -0,15%) unveraendert, da die jeweiligen Maerkte weiterhin ausserhalb der Handelszeiten geschlossen sind und keine verlaesslich frischeren Kurse vorliegen.",
+    "reasoning": "Erneute Recherche bestaetigt keinen neuen handelbaren Krypto-Katalysator: Bitcoin verbleibt im Risk-off unterhalb 80.000 USD ohne bestaetigte Trendwende, der Options-Expiry ist noch nicht abgerechnet, das Binance-Geruecht bleibt unbestaetigt. Kein Setup, das zum disziplinierten spekulativen Kurzfrist-Profil passt. Brent und GOOGL bleiben mangels Handelszeiten unangetastet und noch deutlich innerhalb der etablierten Take-Profit-/Stop-Loss-Spannen (ca. 7-9% bzw. -6,5 bis -7,5%).",
     "positionIds": [
       "pos-0030",
       "pos-0031"
@@ -11087,6 +11087,11 @@
       {
         "time": "02:08",
         "note": "Keine Aenderung. Kein neuer Katalysator seit 01:11: Krypto-Markt weiterhin im Risk-off (Bitcoin-Optionen-Expiry am Deribit erst um 08:00 UTC, Max-Pain-Zone ca. 78.000-79.000 USD, noch kein Ergebnis); Binance-Hack-Geruecht weiterhin unbestaetigt. Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten weiterhin nicht handelbar. Brent/GOOGL unveraendert.",
+        "portfolioValue": 1494.52
+      },
+      {
+        "time": "03:09",
+        "note": "Keine Aenderung. Bitcoin weiterhin im bestaetigten Risk-off unter 80.000 USD (hawkisher Fed-Hold vom 28.10., Tech-Sektor-Schock); kein neuer Katalysator seit 02:08. Options-Expiry noch nicht abgerechnet. Aktien/ETFs/Rohstoffe weiterhin ausserhalb der Handelszeiten nicht handelbar. Kein Trade.",
         "portfolioValue": 1494.52
       }
     ]
