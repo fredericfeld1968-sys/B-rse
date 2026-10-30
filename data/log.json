@@ -11065,14 +11065,14 @@
   },
   {
     "date": "2026-10-30",
-    "marketOverview": "Krypto-Risk-off verschaerft sich leicht weiter: BTC auf 77.199 USD (-3,50% 24h laut CoinGecko-Live-API), damit marginal schwaecher als im 13:17-Lauf (77.454 USD, -3,26%) - weiterhin ohne neuen Gegenkatalysator nach dem hawkishen Fed-Hold vom 28.10. und dem Tech-Sektor-Schock. Brent Crude kuehlt weiter leicht ab auf 112,92 USD/Barrel (+1,91% session, Investing.com-Live-Quote, zuvor 113,32 USD/+2,27%), Hormuz/Iran-Eskalation bleibt fundamentaler Treiber, Momentum aber abflachend. GOOGL zeigt im Vorboersenhandel erstmals leichte Schwaeche: 280,20 USD (-1,28% vs. Schlusskurs 283,82 USD, StockAnalysis.com, 9:12 Uhr EDT) - US-Kassamarkt oeffnet erst um 15:30 MEZ/14:30 UTC.",
-    "decision": "Kein Trade in diesem Lauf. Brent-Position (pos-0030) auf 112,92 USD aktualisiert (+1,23% seit Kauf, weiterhin deutlich unter der Gewinnmitnahme-Zielspanne von 7-9%). GOOGL (pos-0031) im Vorboersenhandel auf 280,20 USD aktualisiert (-1,15% seit Kauf) - US-Markt noch nicht geoeffnet, daher keine Handelsentscheidung auf Basis des Pre-Market-Kurses. Keine ueberzeugende neue Kaufgelegenheit erkennbar.",
-    "reasoning": "Weder Stop-Loss- (-6,5 bis -7,5%) noch Gewinnmitnahme-Schwelle (7-9%) wurde bei einer der beiden offenen Positionen erreicht. Der fortgesetzte Krypto-Risk-off (BTC erneut leicht schwaecher) bietet weiterhin keinen bestaetigten Boden und damit keinen ueberzeugenden Einstiegspunkt; die leichte GOOGL-Vorboerse-Schwaeche ist zu gering und ausserhalb der Handelszeiten nicht belastbar handelbar. Aktien/ETFs/Rohstoffe ausser der bereits gehaltenen Brent-Position sind ausserhalb der Handelszeiten nicht handelbar. Kein Neukauf passend zum disziplinierten, spekulativen Kurzfrist-Profil.",
+    "marketOverview": "Breiter Risk-off-Tag nach dem hawkishen Fed-Hold vom 28.10.: Der Nasdaq Composite faellt um rund -2,4% (S&P 500 -1,2%, Dow -0,3%) nach schwachen Amazon- und Alphabet-Zahlen, Intel bricht nach enttaeuschendem Q4-Ausblick um -29% ein. Bitcoin faellt auf 76.838,66 USD (-4,20% in 24h, CoinGecko-Live), nachdem Binance ueber Nacht einen Hack von rund 6,3 Mrd. USD offengelegt hat - Circle, Coinbase, Robinhood und Strategy je ueber -6% im Premarket. Brent Crude klettert dagegen weiter auf 113,68 USD/Barrel (+2,60% session, Investing.com-Live), getrieben von Spekulationen ueber erneute US-Luftschlaege gegen Iran. GOOGL notiert im inzwischen offenen regulaeren Handel (seit 13:30 UTC) bei 280,12 USD (-1,30% zum Vortagesschluss von 283,82 USD, StockAnalysis.com, 10:11 Uhr EDT).",
+    "decision": "Kein Trade in diesem Lauf. Brent-Position (pos-0030) auf 113,68 USD aktualisiert (+1,91% seit Kauf, trotz neuem Eskalationskatalysator weiterhin unter der 7-9%-Gewinnmitnahme-Zielspanne). GOOGL (pos-0031) auf 280,12 USD aktualisiert (-1,18% seit Kauf, Markt jetzt regulaer geoeffnet, Rueckgang weiterhin innerhalb der Stop-Loss-Toleranz). Trotz grosser Marktbewegungen (Intel-Crash, Binance-Hack, Oel-Spike) keine ausreichend bestaetigte, risikoadaequate Neueinstiegsgelegenheit erkennbar.",
+    "reasoning": "Weder Stop-Loss (-6,5 bis -7,5%) noch Gewinnmitnahme-Schwelle (7-9%) wurde bei einer der beiden offenen Positionen erreicht. Der Kryptomarkt ist durch den frisch bekanntgewordenen Binance-Hack fundamental belastet und zeigt keinen bestaetigten Boden - ein Dip-Kauf waere reines ungesichertes Messer-Fangen ohne Bestaetigung. Die Tech-Selloffs bei Amazon/Alphabet/Intel beruhen auf echten Gewinn- bzw. Ausblick-Verfehlungen (keine blossen Sell-the-news-Reflexe wie bei den fruehren erfolgreichen Mustern AMD/SpaceX/Palantir), daher kein Dip-Kauf. Der Oelpreisanstieg ist bereits ueber die gehaltene Brent-Position abgebildet; eine zusaetzliche Rohstoffposition wuerde das Klumpenrisiko unnoetig erhoehen. Passend zum disziplinierten, spekulativen Kurzfrist-Profil: kein Neukauf in diesem turbulenten, aber unbestaetigten Marktumfeld.",
     "positionIds": [
       "pos-0030",
       "pos-0031"
     ],
-    "portfolioValueEnd": 1499.37,
+    "portfolioValueEnd": 1503.92,
     "updates": [
       {
         "time": "00:08",
@@ -11148,6 +11148,11 @@
         "time": "14:14",
         "note": "Keine Aenderung. BTC leicht schwaecher (77.199 USD, -3,50% 24h), Brent kuehlt weiter leicht ab (112,92 USD, +1,91%), GOOGL zeigt erste leichte Vorboerse-Schwaeche (280,20 USD, -1,15% seit Kauf) vor Markteroeffnung um 15:30 MEZ. Kein Trade.",
         "portfolioValue": 1499.37
+      },
+      {
+        "time": "15:09",
+        "note": "Keine Aenderung. BTC auf 76.838,66 USD gefallen (-4,20% 24h) nach bekanntgewordenem Binance-Hack (~6,3 Mrd. USD). Brent weiter hoeher (113,68 USD, +2,60%) auf Iran-Eskalationssorgen. GOOGL jetzt im regulaeren Handel bei 280,12 USD (-1,18% seit Kauf). Nasdaq -2,4% nach Amazon-/Alphabet-Zahlen, Intel -29%. Kein Trade.",
+        "portfolioValue": 1503.92
       }
     ]
   }
