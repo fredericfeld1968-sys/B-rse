@@ -11328,5 +11328,20 @@
         "portfolioValue": 1501.56
       }
     ]
+  },
+  {
+    "date": "2026-11-01",
+    "marketOverview": "Sonntagnacht (00:08 Uhr Berlin): Boersen, ETFs und Rohstoff-Futures bleiben uebers Wochenende geschlossen. Brent (pos-0030) und GOOGL (pos-0031) unveraendert auf dem letzten bestaetigten Freitagsschluss (Brent 113,43 USD/Barrel, +1,69%; GOOGL 279,84 USD, -1,28%). Krypto laut Live-CoinGecko-API in enger, gemischter Seitwaertsrange ohne klaren Trend: BTC ca. 77.458 USD (+0,72% 24h), ETH ca. 2.252 USD (+0,67%), SOL ca. 95,47 USD (-0,46%), LINK (+3,20%) und AAVE (+4,22%) moderat im Plus, HYPE (-1,92%) und ADA (-0,77%) leicht im Minus - keine Bewegung erreicht die bisher fuer einen Trade erforderliche Schwelle, und Websuche findet keinen frischen, heute bestaetigten Katalysator.",
+    "decision": "Kein Trade in diesem Lauf (00:08). Tagesbudget von 1.000 EUR gutgeschrieben (neues freies Kapital ca. 86.789,63 EUR, totalFreshCapitalEur jetzt 89.000 EUR). Brent- (+1,69%) und GOOGL-Position (-1,28%) bleiben unveraendert (Boersen/Futures uebers Wochenende geschlossen), beide weiterhin deutlich innerhalb der Stop-Loss-/Gewinnmitnahme-Toleranz. Krypto bewegt sich nur in enger Seitwaertsrange ohne ueberzeugende, frisch bestaetigte Gelegenheit.",
+    "reasoning": "Spekulatives Risikoprofil erlaubt kurzfristiges Handeln, aber es wird nur bei einer klaren, mehrfach bestaetigten Gelegenheit gehandelt. Weder bei Krypto (nur enge Seitwaertsbewegungen ohne frischen Katalysator) noch bei Brent/GOOGL (Boersen/Futures am Wochenende geschlossen) besteht aktuell eine solche Gelegenheit, daher bewusst kein Trade in diesem Lauf.",
+    "positionIds": [],
+    "portfolioValueEnd": 1501.56,
+    "updates": [
+      {
+        "time": "00:08",
+        "note": "Keine Aenderung - Krypto seitwaerts ohne frischen Katalysator, Boersen/Futures uebers Wochenende geschlossen, Tagesbudget gutgeschrieben (+1.000 EUR).",
+        "portfolioValue": 1501.56
+      }
+    ]
   }
 ]
