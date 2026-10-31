@@ -11199,7 +11199,7 @@
   {
     "date": "2026-10-31",
     "marketOverview": "Samstagnacht/frueher Morgen (02:08 Uhr Berlin): Aktien, ETFs und Rohstoff-Futures bleiben uebers Wochenende geschlossen. Krypto bleibt angespannt nach dem Binance-Hack und der Liquidationswelle; Websuche liefert erneut keine verlaesslichen, auf heute datierten Live-Kurse fuer BTC (Quellen weit gestreut, teils ueber ein Jahr alt oder widersprechen sich). Fed-Zinsentscheid vom 28.10. (3,75-4,00%) und die Iran/Hormuz-bedingt erhoehten Brent-Preise bleiben die dominanten Hintergrundthemen.",
-    "decision": "Kein Trade in diesem Lauf (00:08). Tagesbudget von 1.000 EUR gutgeschrieben (neues freies Kapital ca. 85.789,63 EUR). Brent-Position (pos-0030, +1,94%) und GOOGL-Position (pos-0031, -0,49%) bleiben unveraendert (Boersen geschlossen, letzter bestaetigter Kursstand), beide weiterhin deutlich innerhalb der Stop-Loss-/Gewinnmitnahme-Toleranz. Keine ueberzeugende neue Krypto-Gelegenheit gefunden. | 01:09: weiterhin kein Trade - keine verlaesslichen frischen Kurse via Websuche, Boersen/Futures uebers Wochenende geschlossen, Brent/GOOGL unveraendert auf letztem bestaetigtem Stand. | 02:08: weiterhin kein Trade - keine verlaesslichen frischen Kurse via Websuche, Boersen/Futures weiterhin uebers Wochenende geschlossen, Brent/GOOGL unveraendert auf letztem bestaetigtem Stand.",
+    "decision": "Kein Trade in diesem Lauf (00:08). Tagesbudget von 1.000 EUR gutgeschrieben (neues freies Kapital ca. 85.789,63 EUR). Brent-Position (pos-0030, +1,94%) und GOOGL-Position (pos-0031, -0,49%) bleiben unveraendert (Boersen geschlossen, letzter bestaetigter Kursstand), beide weiterhin deutlich innerhalb der Stop-Loss-/Gewinnmitnahme-Toleranz. Keine ueberzeugende neue Krypto-Gelegenheit gefunden. | 01:09: weiterhin kein Trade - keine verlaesslichen frischen Kurse via Websuche, Boersen/Futures uebers Wochenende geschlossen, Brent/GOOGL unveraendert auf letztem bestaetigtem Stand. | 02:08: weiterhin kein Trade - keine verlaesslichen frischen Kurse via Websuche, Boersen/Futures weiterhin uebers Wochenende geschlossen, Brent/GOOGL unveraendert auf letztem bestaetigtem Stand. | 03:08: weiterhin kein Trade - erneut keine verlaesslichen frischen Kurse via Websuche, Boersen/Futures weiterhin uebers Wochenende geschlossen, Brent/GOOGL unveraendert auf letztem bestaetigtem Stand.",
     "reasoning": "Es ist Samstag kurz nach 2 Uhr; Aktien, ETFs und Rohstoffe sind nicht handelbar, daher kaeme nur Krypto in Frage. Die Websuche lieferte erneut keine verlaesslichen, aktuellen und auf heute datierten Kurse oder einen klar bestaetigten frischen Katalysator. Passend zum disziplinierten, spekulativen Kurzfrist-Profil: kein Trade ohne klare, frische und bestaetigte Gelegenheit. Positionen bleiben auf letztem bestaetigtem Stand.",
     "positionIds": [
       "pos-0030",
@@ -11220,6 +11220,11 @@
       {
         "time": "02:08",
         "note": "Keine Aenderung. Weiterhin keine verlaesslichen, aktuell datierten Kurse via Websuche (BTC, Brent, GOOGL). Boersen/Futures uebers Wochenende geschlossen. Kein Trade.",
+        "portfolioValue": 1509.66
+      },
+      {
+        "time": "03:08",
+        "note": "Keine Aenderung. Websuche liefert weiterhin keine verlaesslichen, aktuell datierten Live-Kurse (BTC, ETH, Brent, GOOGL) - nur veraltete oder widersprechende Quellen (z.B. ETH zwischen 3.096 und 3.700+ USD je nach Quelle). Boersen/Futures bleiben uebers Wochenende geschlossen, nur Krypto theoretisch handelbar, aber ohne verlaessliche frische Daten keine ueberzeugende Gelegenheit. Brent (pos-0030) und GOOGL (pos-0031) bleiben auf letztem bestaetigtem Stand. Kein Trade.",
         "portfolioValue": 1509.66
       }
     ]
