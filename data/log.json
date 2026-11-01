@@ -11331,9 +11331,9 @@
   },
   {
     "date": "2026-11-01",
-    "marketOverview": "Krypto bewegt sich auch kurz vor Mitternacht am Sonntag weiterhin in einer engen Seitwaertsrange (BTC rund 77.866 USD, +0,60% 24h; ETH 2.262,82 USD, +0,47%; SOL 94,26 USD, -1,39%; LINK 11,40 USD, -3,50%; AVAX 8,68 USD, +1,37%); Fear&Greed-Index verharrt unveraendert bei 34 (Fear), seit Mitternacht konstant. Kein frischer, mehrfach bestaetigter Katalysator rund um Hormuz/Oel, Fed-Politik oder Einzeltitel auffindbar. Aktien, ETFs und Rohstoff-Futures (inkl. Brent und GOOGL) bleiben uebers Wochenende durchgehend geschlossen.",
-    "decision": "Kein Trade an diesem Sonntag (00:08 bis 22:08 Uhr, 23 Laeufe). Tagesbudget wurde bereits um 00:08 gutgeschrieben, keine weitere Gutschrift heute. Brent-Position (pos-0030, +1,69%) und GOOGL-Position (pos-0031, -1,28%) bleiben den ganzen Tag unveraendert (Boersen/Futures wochenendbedingt geschlossen, beide Positionen klar innerhalb der Stop-Loss-/Gewinnmitnahme-Toleranz von +-6,5 bis 9%). Krypto bewegte sich den gesamten Tag nur in einer engen, leicht negativen Seitwaertsrange ohne frischen, mehrfach bestaetigten Kaufkatalysator; Fear&Greed blieb den ganzen Tag unveraendert bei 34 (Fear). Trotz hohem freiem Kapital (~86.790 EUR) wurde bewusst auf eine spekulative Position verzichtet, da keine wirklich ueberzeugende Gelegenheit identifiziert werden konnte.",
-    "reasoning": "Strenge Anwendung der Handelsregel \"nur bei wirklich ueberzeugender Gelegenheit handeln\": Weder bei Krypto (reine Seitwaertsbewegung, unveraendertes Fear&Greed-Niveau von 34 seit Mitternacht) noch bei den geschlossenen Boersen/Rohstoff-Futures (Wochenende) ergab sich ein fundamentaler oder technischer Trigger, der ueber reines Rauschen hinausging. Bestehende offene Positionen (Brent, GOOGL) bleiben klar innerhalb ihrer Toleranzbaender, daher kein Verkauf. Kein Kauf trotz grossem freiem Kapital, da Kapitaldisziplin Vorrang vor Aktionismus hat.",
+    "marketOverview": "Kurz vor Mitternacht am Sonntag weiterhin keine verlaesslichen, aktuell datierten Live-Kurse oder Fear&Greed-Werte per Websuche auffindbar (ueberwiegend alte/undatierte Treffer); letzte verifizierte Werte (22:08) zeigten Krypto weiter in enger Seitwaertsrange (BTC ~77.900 USD, Fear&Greed 34). Kein frischer, mehrfach bestaetigter Katalysator rund um Hormuz/Oel, Fed-Politik oder Einzeltitel auffindbar. Aktien, ETFs und Rohstoff-Futures (inkl. Brent und GOOGL) bleiben uebers Wochenende durchgehend geschlossen.",
+    "decision": "Kein Trade an diesem Sonntag (00:08 bis 23:09 Uhr, 24 Laeufe). Tagesbudget wurde bereits um 00:08 gutgeschrieben, keine weitere Gutschrift heute. Brent-Position (pos-0030, +1,69%) und GOOGL-Position (pos-0031, -1,28%) bleiben den ganzen Tag unveraendert (Boersen/Futures wochenendbedingt geschlossen, beide Positionen klar innerhalb der Stop-Loss-/Gewinnmitnahme-Toleranz von +-6,5 bis 9%). Krypto bewegte sich den gesamten Tag nur in einer engen Seitwaertsrange ohne frischen, mehrfach bestaetigten Kaufkatalysator; aktuelle Websuche lieferte kurz vor Mitternacht keine verlaesslichen neuen Daten. Trotz hohem freiem Kapital (~86.790 EUR) wurde bewusst auf eine spekulative Position verzichtet, da keine wirklich ueberzeugende Gelegenheit identifiziert werden konnte.",
+    "reasoning": "Strenge Anwendung der Handelsregel \"nur bei wirklich ueberzeugender Gelegenheit handeln\": Websuche kurz vor Mitternacht lieferte erneut keine verlaesslichen, aktuell datierten Krypto-Kurse oder Marktnachrichten (ueberwiegend alte/undatierte oder widersprechende Treffer). Letzte verifizierte Daten (22:08) zeigten unveraendert reine Seitwaertsbewegung bei Krypto und unveraendertes Fear&Greed-Niveau; kein fundamentaler oder technischer Trigger. Bestehende offene Positionen (Brent, GOOGL) bleiben klar innerhalb ihrer Toleranzbaender, daher kein Verkauf. Kein Kauf trotz grossem freiem Kapital, da Kapitaldisziplin Vorrang vor Aktionismus hat.",
     "positionIds": [
       "pos-0030",
       "pos-0031"
@@ -11453,6 +11453,11 @@
       {
         "time": "22:08",
         "note": "Keine Aenderung - Live-Kurse (CoinGecko): BTC 77.866 USD (+0,60% 24h), ETH 2.262,82 USD (+0,47%), SOL 94,26 USD (-1,39%), AVAX 8,68 USD (+1,37%), LINK 11,40 USD (-3,50%), XRP 1,25 USD (-0,06%), DOGE 0,0753 USD (-0,54%); Fear&Greed unveraendert bei 34 (Fear) seit Mitternacht. Keine frische, ueberzeugende Kaufgelegenheit. Boersen/ETFs/Rohstoff-Futures bleiben sonntagabendbedingt geschlossen (Brent/GOOGL unveraendert).",
+        "portfolioValue": 1501.56
+      },
+      {
+        "time": "23:09",
+        "note": "Keine Aenderung - Websuche kurz vor Mitternacht lieferte keine verlaesslichen, aktuell datierten Krypto-Kurse/Katalysatoren; letzte verifizierte Daten (22:08) weiterhin Seitwaerts, Fear&Greed 34. Boersen/ETFs/Rohstoff-Futures bleiben sonntagabendbedingt geschlossen (Brent/GOOGL unveraendert). Kein Trade.",
         "portfolioValue": 1501.56
       }
     ]
