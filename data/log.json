@@ -11331,9 +11331,9 @@
   },
   {
     "date": "2026-11-01",
-    "marketOverview": "Sonntagnacht/Montagfrueh (01:08 Uhr Berlin): Boersen, ETFs und Rohstoff-Futures bleiben uebers Wochenende geschlossen. Brent (pos-0030) und GOOGL (pos-0031) unveraendert auf dem letzten bestaetigten Freitagsschluss (Brent 113,43 USD/Barrel, +1,69%; GOOGL 279,84 USD, -1,28%). Krypto- und Makrobild bleibt risikoavers: nach hawkishen Fed-Signalen und hoeherer PCE-Inflation setzte sich am Wochenende ein breiter Risk-off-Ton fort (Altcoin-Liquidationen, Samsung-getriebener Tech-Ausverkauf in Asien als Hintergrund). Einzelne Altcoin-Meldungen (Injective-Buyback, Starknet-Layer-1-Spekulation) sind unbestaetigt bzw. rein technischer Natur, kein frischer, mehrfach belegter Kaufkatalysator.",
-    "decision": "Kein Trade in diesem Lauf (01:08). Tagesbudget bereits beim vorherigen Lauf (00:08) gutgeschrieben, daher heute keine erneute Gutschrift (lastGrantDate bereits 2026-11-01). Brent- (+1,69%) und GOOGL-Position (-1,28%) bleiben unveraendert (Boersen/Futures uebers Wochenende geschlossen), beide weiterhin deutlich innerhalb der Stop-Loss-/Gewinnmitnahme-Toleranz. Krypto-Makrolage bleibt risikoavers ohne ueberzeugende, frisch bestaetigte Kaufgelegenheit.",
-    "reasoning": "Spekulatives Risikoprofil erlaubt kurzfristiges Handeln, aber es wird nur bei einer klaren, mehrfach bestaetigten Gelegenheit gehandelt. Aktuell ueberwiegt im Kryptomarkt ein breiter, hawkish-Fed-getriebener Risk-off-Ton ohne einzeltitelspezifischen frischen Katalysator; Aktien/ETFs/Rohstoff-Futures sind wochenendbedingt nicht handelbar. Daher bewusst kein Trade in diesem Lauf.",
+    "marketOverview": "Sonntagnacht/Montagfrueh (01:08 Uhr Berlin): Boersen, ETFs und Rohstoff-Futures bleiben uebers Wochenende geschlossen. Brent (pos-0030) und GOOGL (pos-0031) unveraendert auf dem letzten bestaetigten Freitagsschluss (Brent 113,43 USD/Barrel, +1,69%; GOOGL 279,84 USD, -1,28%). Krypto- und Makrobild bleibt risikoavers: nach hawkishen Fed-Signalen und hoeherer PCE-Inflation setzte sich am Wochenende ein breiter Risk-off-Ton fort (Altcoin-Liquidationen, Samsung-getriebener Tech-Ausverkauf in Asien als Hintergrund). Einzelne Altcoin-Meldungen (Injective-Buyback, Starknet-Layer-1-Spekulation) sind unbestaetigt bzw. rein technischer Natur, kein frischer, mehrfach belegter Kaufkatalysator. Stand 02:08 Uhr: keine neuen marktbewegenden Meldungen seit dem letzten Lauf gefunden, Lage unveraendert risikoavers ohne frischen Kaufkatalysator.",
+    "decision": "Kein Trade in diesem Lauf (02:08). Tagesbudget bereits beim Lauf um 00:08 gutgeschrieben, daher heute keine erneute Gutschrift. Brent- (+1,69%) und GOOGL-Position (-1,28%) bleiben unveraendert (Boersen/Futures uebers Wochenende geschlossen), beide weiterhin deutlich innerhalb der Stop-Loss-/Gewinnmitnahme-Toleranz. Aktuelle Recherche zu Krypto-Marktlage und Fed-Sentiment lieferte keine verlaesslichen frischen Treiber fuer diese Stunde; die zuvor identifizierte risikoaverse Grundstimmung (hawkishe Fed-Erwartung, PCE-Inflation) bleibt ohne neuen, mehrfach bestaetigten Kaufkatalysator bestehen.",
+    "reasoning": "Spekulatives Risikoprofil erlaubt kurzfristiges Handeln, aber es wird nur bei einer klaren, mehrfach bestaetigten Gelegenheit gehandelt. Websuche zu Bitcoin/Altcoins und Fed-Zinssentiment lieferte ueberwiegend veraltete oder widerspruechliche Treffer ohne aktuelle, verlaessliche Meldung fuer die Nacht zum 1.11.2026. Aktien/ETFs/Rohstoff-Futures sind wochenendbedingt nicht handelbar. Daher bewusst kein Trade in diesem Lauf.",
     "positionIds": [],
     "portfolioValueEnd": 1501.56,
     "updates": [
@@ -11345,6 +11345,11 @@
       {
         "time": "01:08",
         "note": "Keine Aenderung - Krypto-Makrolage weiterhin risikoavers (hawkishe Fed, PCE-Inflation, Tech-Ausverkauf) ohne frischen Kaufkatalysator; Boersen/Futures uebers Wochenende geschlossen, kein Tagesbudget-Zufluss (bereits um 00:08 gutgeschrieben).",
+        "portfolioValue": 1501.56
+      },
+      {
+        "time": "02:08",
+        "note": "Keine Aenderung - keine frischen Markttreiber gefunden, Boersen/Futures uebers Wochenende geschlossen, Krypto weiterhin ohne klaren Kaufkatalysator.",
         "portfolioValue": 1501.56
       }
     ]
