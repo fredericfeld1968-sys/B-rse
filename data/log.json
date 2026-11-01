@@ -11331,9 +11331,9 @@
   },
   {
     "date": "2026-11-01",
-    "marketOverview": "Sonntagmorgen (06:08 Uhr Berlin): Boersen, ETFs und Rohstoff-Futures bleiben uebers Wochenende geschlossen. Brent (pos-0030) und GOOGL (pos-0031) unveraendert auf dem letzten bestaetigten Freitagsschluss (Brent 113,43 USD/Barrel, +1,69%; GOOGL 279,84 USD, -1,28%). Websuche zu Krypto lieferte erneut keine verlaesslichen, aktuell datierten Kurse; vorhandene (teils undatierte) Quellen deuten auf anhaltend risikoaverse Stimmung (hawkishe Fed-Erwartung, PCE-Inflation) hin, ohne belastbaren frischen Kaufkatalysator.",
-    "decision": "Kein Trade in diesem Lauf (06:08). Tagesbudget wurde bereits beim Lauf um 00:08 gutgeschrieben, daher heute keine erneute Gutschrift. Brent- (+1,69%) und GOOGL-Position (-1,28%) bleiben unveraendert (Boersen/Futures uebers Wochenende geschlossen), beide weiterhin deutlich innerhalb der Stop-Loss-/Gewinnmitnahme-Toleranz. Keine verlaessliche, frische Krypto-Gelegenheit gefunden.",
-    "reasoning": "Spekulatives Risikoprofil erlaubt kurzfristiges Handeln, aber es wird nur bei einer klaren, mehrfach bestaetigten Gelegenheit gehandelt. Die Websuche fuer diese Stunde lieferte erneut keine verlaesslichen, aktuell datierten Marktdaten oder Katalysatoren - ohne belastbare Bestaetigung wird kein Risiko eingegangen. Aktien/ETFs/Rohstoff-Futures sind wochenendbedingt nicht handelbar. Daher bewusst kein Trade in diesem Lauf.",
+    "marketOverview": "Sonntagmorgen (07:08 Uhr Berlin): Boersen, ETFs und Rohstoff-Futures bleiben uebers Wochenende geschlossen. Brent (pos-0030) und GOOGL (pos-0031) unveraendert auf dem letzten bestaetigten Freitagsschluss (Brent 113,43 USD/Barrel, +1,69%; GOOGL 279,84 USD, -1,28%). Websuche zu Bitcoin/Krypto lieferte erneut keine verlaesslichen, aktuell datierten Kurse oder Fear&Greed-Werte (stark widersprechende, undatierte Quellen von 63.000 bis 95.000 USD); kein belastbarer frischer Kaufkatalysator identifizierbar.",
+    "decision": "Kein Trade in diesem Lauf (07:08). Tagesbudget wurde bereits beim Lauf um 00:08 gutgeschrieben, daher heute keine erneute Gutschrift. Brent- (+1,69%) und GOOGL-Position (-1,28%) bleiben unveraendert (Boersen/Futures uebers Wochenende geschlossen), beide weiterhin deutlich innerhalb der Stop-Loss-/Gewinnmitnahme-Toleranz. Keine verlaessliche, frische Krypto-Gelegenheit gefunden.",
+    "reasoning": "Spekulatives Risikoprofil erlaubt kurzfristiges Handeln, aber es wird nur bei einer klaren, mehrfach bestaetigten Gelegenheit gehandelt. Die Websuche fuer diese Stunde lieferte erneut keine verlaesslichen, aktuell datierten Marktdaten oder Katalysatoren fuer Krypto (Quellen widersprechen sich stark und sind teils undatiert) - ohne belastbare Bestaetigung wird kein Risiko eingegangen. Aktien/ETFs/Rohstoff-Futures sind wochenendbedingt nicht handelbar. Daher bewusst kein Trade in diesem Lauf.",
     "positionIds": [],
     "portfolioValueEnd": 1501.56,
     "updates": [
@@ -11370,6 +11370,11 @@
       {
         "time": "06:08",
         "note": "Keine Aenderung - erneute Websuche lieferte keine verlaesslichen, aktuell datierten Krypto-Kurse; vorhandene Hinweise deuten weiterhin auf risikoaverse Stimmung (hawkishe Fed-Erwartung) ohne frischen, mehrfach bestaetigten Kaufkatalysator. Boersen/ETFs/Rohstoff-Futures bleiben wochenendbedingt geschlossen (Brent/GOOGL unveraendert).",
+        "portfolioValue": 1501.56
+      },
+      {
+        "time": "07:08",
+        "note": "Keine Aenderung - Websuche lieferte erneut keine verlaesslichen, aktuell datierten Krypto-Kurse/Katalysatoren (stark widersprechende Quellen); Boersen/ETFs/Rohstoff-Futures bleiben wochenendbedingt geschlossen.",
         "portfolioValue": 1501.56
       }
     ]
