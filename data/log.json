@@ -11331,8 +11331,8 @@
   },
   {
     "date": "2026-11-01",
-    "marketOverview": "Krypto notiert am Sonntagvormittag leicht im Plus (BTC ~78.100 USD +1%, ETH ~2.273 USD, SOL ~95,7 USD) bei weiterhin verhaltener Stimmung (Fear&Greed 34). Analysten warnen vor einem schwachen November fuer Bitcoin (saisonal historisch schwach). Aktien, ETFs und Rohstoff-Futures bleiben wochenendbedingt geschlossen.",
-    "decision": "Kein Trade in diesem Lauf (10:08). Tagesbudget wurde bereits beim Lauf um 00:08 gutgeschrieben, daher heute keine erneute Gutschrift. Brent- und GOOGL-Position bleiben unveraendert (Boersen/Futures uebers Wochenende geschlossen), beide weiterhin innerhalb der Stop-Loss-/Gewinnmitnahme-Toleranz. Krypto bewegt sich nur moderat (BTC/ETH leicht im Plus, AVAX +4,9%, LINK +3,3%) bei Fear&Greed 34 - keine mehrfach bestaetigte, ueberzeugende Kaufgelegenheit, daher kein Trade.",
+    "marketOverview": "Krypto notiert am Sonntagvormittag weiterhin leicht im Plus (BTC ~78.000 USD +0,9%, ETH ~2.269 USD, SOL ~95,4 USD) bei unveraendert verhaltener Stimmung (Fear&Greed 34, Fear). Analysten warnen weiterhin vor einem saisonal schwachen November fuer Bitcoin. Aktien, ETFs und Rohstoff-Futures bleiben wochenendbedingt geschlossen.",
+    "decision": "Kein Trade in diesem Lauf (11:09). Tagesbudget wurde bereits beim Lauf um 00:08 gutgeschrieben, daher heute keine erneute Gutschrift. Brent- und GOOGL-Position bleiben unveraendert (Boersen/Futures uebers Wochenende geschlossen), beide weiterhin innerhalb der Stop-Loss-/Gewinnmitnahme-Toleranz. Krypto bewegt sich weiterhin nur moderat seitwaerts (BTC/ETH leicht im Plus, AVAX +5,2%, LINK +2,2%) bei unveraendertem Fear&Greed von 34 - keine neue, mehrfach bestaetigte Kaufgelegenheit, daher kein Trade.",
     "reasoning": "Kein frischer, mehrfach unabhaengig bestaetigter Kaufkatalysator gefunden; Preisbewegungen bei Krypto sind moderat und liegen innerhalb normaler Schwankungen. Bestehende offene Positionen (Brent, GOOGL) sind ausserbörslich unveraendert. Passend zum spekulativen, aber risikobewussten Profil wird nur bei ueberzeugenden Gelegenheiten gehandelt - diese liegt aktuell nicht vor.",
     "positionIds": [],
     "portfolioValueEnd": 1501.56,
@@ -11390,6 +11390,11 @@
       {
         "time": "10:08",
         "note": "Keine Aenderung - Live-Kurse (CoinGecko): BTC 78.122 USD (+1,05%), ETH 2.273 USD (+1,42%), SOL 95,71 USD (+0,32%), AVAX 8,82 USD (+4,89%), LINK 11,77 USD (+3,30%); Fear&Greed weiterhin 34 (Fear), nahezu unveraendert zum letzten Lauf. Keine neue, mehrfach bestaetigte Kaufgelegenheit (Marktausblick eher bearish: Analysten erwarten schwachen November fuer Bitcoin). Boersen/ETFs/Rohstoff-Futures bleiben sonntagsbedingt geschlossen (Brent/GOOGL unveraendert).",
+        "portfolioValue": 1501.56
+      },
+      {
+        "time": "11:09",
+        "note": "Keine Aenderung - Live-Kurse (CoinGecko): BTC 78.010 USD (+0,87%), ETH 2.268,62 USD (+1,12%), SOL 95,38 USD (-0,18%), AVAX 8,86 USD (+5,20%), LINK 11,71 USD (+2,23%); Fear&Greed weiterhin 34 (Fear), praktisch unveraendert zum letzten Lauf (10:08). Keine frische, mehrfach bestaetigte Kaufgelegenheit gefunden. Boersen/ETFs/Rohstoff-Futures bleiben sonntagsbedingt geschlossen (Brent/GOOGL unveraendert).",
         "portfolioValue": 1501.56
       }
     ]
