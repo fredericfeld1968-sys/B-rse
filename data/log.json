@@ -11331,9 +11331,9 @@
   },
   {
     "date": "2026-11-01",
-    "marketOverview": "Sonntagnacht/Montagfrueh (03:08 Uhr Berlin): Boersen, ETFs und Rohstoff-Futures bleiben uebers Wochenende geschlossen. Brent (pos-0030) und GOOGL (pos-0031) unveraendert auf dem letzten bestaetigten Freitagsschluss (Brent 113,43 USD/Barrel, +1,69%; GOOGL 279,84 USD, -1,28%). Erneute Websuche zu Krypto-Marktlage und Fed-Zinssentiment lieferte ueberwiegend undatierte oder veraltete Treffer (aelteste verlaessliche Datenpunkte aus Maerz/Mai/Oktober 2026), kein aktueller, mehrfach bestaetigter Katalysator fuer diese Stunde auffindbar. Grundstimmung bleibt gemaess vorherigen Laeufen risikoavers ohne frischen Kaufimpuls.",
-    "decision": "Kein Trade in diesem Lauf (03:08). Tagesbudget bereits beim Lauf um 00:08 gutgeschrieben, daher heute keine erneute Gutschrift. Brent- (+1,69%) und GOOGL-Position (-1,28%) bleiben unveraendert (Boersen/Futures uebers Wochenende geschlossen), beide weiterhin deutlich innerhalb der Stop-Loss-/Gewinnmitnahme-Toleranz. Websuche lieferte keine verlaesslichen frischen Treiber fuer Krypto; daher bewusst kein Trade.",
-    "reasoning": "Spekulatives Risikoprofil erlaubt kurzfristiges Handeln, aber es wird nur bei einer klaren, mehrfach bestaetigten Gelegenheit gehandelt. Mehrere Websuchen zu Bitcoin/Ethereum und Fed-Zinssentiment lieferten keine aktuellen, datierten Treffer fuer die Nacht zum 1.11.2026 - nur Altdaten aus Maerz/Mai/Oktober 2026. Aktien/ETFs/Rohstoff-Futures sind wochenendbedingt nicht handelbar. Daher bewusst kein Trade in diesem Lauf.",
+    "marketOverview": "Sonntagnacht/Montagfrueh (04:08 Uhr Berlin): Boersen, ETFs und Rohstoff-Futures bleiben uebers Wochenende geschlossen. Brent (pos-0030) und GOOGL (pos-0031) unveraendert auf dem letzten bestaetigten Freitagsschluss (Brent 113,43 USD/Barrel, +1,69%; GOOGL 279,84 USD, -1,28%). Krypto notiert laut mehreren Quellen (CoinDesk, Coinbase, Investing.com) weiterhin seitwaerts: BTC ca. 77.300-77.600 USD, ETH ca. 2.240-2.260 USD, SOL ca. 95-96 USD - praktisch unveraendert zum letzten Lauf. Der Fear&Greed-Index ist laut CoinGape auf 35 gefallen (zunehmend aengstlich statt neutral), ohne dass ein frischer, mehrfach bestaetigter Einzelkatalysator auffindbar war.",
+    "decision": "Kein Trade in diesem Lauf (04:08). Tagesbudget wurde bereits beim Lauf um 00:08 gutgeschrieben, daher heute keine erneute Gutschrift. Brent- (+1,69%) und GOOGL-Position (-1,28%) bleiben unveraendert (Boersen/Futures uebers Wochenende geschlossen), beide weiterhin deutlich innerhalb der Stop-Loss-/Gewinnmitnahme-Toleranz. Krypto bietet weiterhin keine ueberzeugende Gelegenheit: Seitwaertsbewegung bei leicht verschlechterter Stimmung (Fear&Greed auf 35 gefallen) ohne frischen Kaufkatalysator.",
+    "reasoning": "Spekulatives Risikoprofil erlaubt kurzfristiges Handeln, aber es wird nur bei einer klaren, mehrfach bestaetigten Gelegenheit gehandelt. Die Websuche fuer diese Stunde ergab keine aktuellen, frischen Marktbewegungen gegenueber dem letzten Lauf (23:09) - BTC/ETH/SOL praktisch unveraendert, lediglich der Fear&Greed-Index ist leicht weiter gefallen (bearish statt neutral), was eher gegen als fuer einen Neueinstieg spricht. Aktien/ETFs/Rohstoff-Futures sind wochenendbedingt nicht handelbar. Daher bewusst kein Trade in diesem Lauf.",
     "positionIds": [],
     "portfolioValueEnd": 1501.56,
     "updates": [
@@ -11355,6 +11355,11 @@
       {
         "time": "03:08",
         "note": "Keine Aenderung - Websuche zu Krypto/Fed-Sentiment lieferte erneut keine aktuellen, datierten Treffer fuer die Nacht zum 1.11.; Boersen/ETFs/Rohstoff-Futures bleiben wochenendbedingt geschlossen (Brent/GOOGL unveraendert). Kein Trade.",
+        "portfolioValue": 1501.56
+      },
+      {
+        "time": "04:08",
+        "note": "Keine Aenderung - Krypto weiterhin seitwaerts (BTC ~77.300-77.600, ETH ~2.240-2.260, SOL ~95-96 USD), Fear&Greed auf 35 gefallen, kein frischer Kaufkatalysator; Boersen/Futures uebers Wochenende geschlossen.",
         "portfolioValue": 1501.56
       }
     ]
