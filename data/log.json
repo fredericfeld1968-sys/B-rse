@@ -11331,9 +11331,9 @@
   },
   {
     "date": "2026-11-01",
-    "marketOverview": "Sonntagmorgen (09:07 Uhr Berlin): Boersen, ETFs und Rohstoff-Futures bleiben uebers Wochenende geschlossen. Brent (pos-0030) und GOOGL (pos-0031) unveraendert auf dem letzten bestaetigten Freitagsschluss (Brent 113,43 USD/Barrel, +1,69%; GOOGL 279,84 USD, -1,28%). Live-Krypto-Kurse (CoinGecko API) zeigen nur moderate Bewegungen: BTC 77.897 USD (+0,88% 24h), ETH 2.268,61 USD (+1,24%), SOL 95,50 USD (-0,08%), AVAX 8,85 USD (+4,83%), LINK 11,77 USD (+3,65%), XRP 1,25 USD (+0,77%). Fear&Greed-Index bei 34 (Fear). Websuche fand keine aktuell datierte, mehrfach bestaetigte Nachricht, die die leichten AVAX-/LINK-Avancen als echten Katalysator erklaert.",
-    "decision": "Kein Trade in diesem Lauf (09:07). Tagesbudget wurde bereits beim Lauf um 00:08 gutgeschrieben, daher heute keine erneute Gutschrift. Brent- (+1,69%) und GOOGL-Position (-1,28%) bleiben unveraendert (Boersen/Futures uebers Wochenende geschlossen), beide weiterhin deutlich innerhalb der Stop-Loss-/Gewinnmitnahme-Toleranz. Krypto bewegt sich nur moderat (AVAX +4,8%, LINK +3,7%, Rest nahezu flach) bei Fear&Greed 34 - keine mehrfach bestaetigte, ueberzeugende Kaufgelegenheit, daher kein Trade.",
-    "reasoning": "Spekulatives Risikoprofil erlaubt kurzfristiges Handeln, aber es wird nur bei einer klaren, mehrfach bestaetigten Gelegenheit gehandelt. Live-Kurse (CoinGecko) liegen zwar vor, aber die Websuche lieferte keinen frischen, konkret datierten und mehrfach bestaetigten fundamentalen Katalysator fuer die leichten AVAX-/LINK-Bewegungen - reine Prozentbewegungen ohne bestaetigten Trigger reichen nach dem etablierten Muster (vgl. erfolgreiche Trades mit klarem institutionellem/strukturellem Katalysator) nicht fuer eine Position. Aktien/ETFs/Rohstoff-Futures sind wochenendbedingt nicht handelbar. Daher bewusst kein Trade in diesem Lauf.",
+    "marketOverview": "Krypto notiert am Sonntagvormittag leicht im Plus (BTC ~78.100 USD +1%, ETH ~2.273 USD, SOL ~95,7 USD) bei weiterhin verhaltener Stimmung (Fear&Greed 34). Analysten warnen vor einem schwachen November fuer Bitcoin (saisonal historisch schwach). Aktien, ETFs und Rohstoff-Futures bleiben wochenendbedingt geschlossen.",
+    "decision": "Kein Trade in diesem Lauf (10:08). Tagesbudget wurde bereits beim Lauf um 00:08 gutgeschrieben, daher heute keine erneute Gutschrift. Brent- und GOOGL-Position bleiben unveraendert (Boersen/Futures uebers Wochenende geschlossen), beide weiterhin innerhalb der Stop-Loss-/Gewinnmitnahme-Toleranz. Krypto bewegt sich nur moderat (BTC/ETH leicht im Plus, AVAX +4,9%, LINK +3,3%) bei Fear&Greed 34 - keine mehrfach bestaetigte, ueberzeugende Kaufgelegenheit, daher kein Trade.",
+    "reasoning": "Kein frischer, mehrfach unabhaengig bestaetigter Kaufkatalysator gefunden; Preisbewegungen bei Krypto sind moderat und liegen innerhalb normaler Schwankungen. Bestehende offene Positionen (Brent, GOOGL) sind ausserbörslich unveraendert. Passend zum spekulativen, aber risikobewussten Profil wird nur bei ueberzeugenden Gelegenheiten gehandelt - diese liegt aktuell nicht vor.",
     "positionIds": [],
     "portfolioValueEnd": 1501.56,
     "updates": [
@@ -11385,6 +11385,11 @@
       {
         "time": "09:07",
         "note": "Keine Aenderung - Live-Kurse (CoinGecko): BTC 77.897 USD (+0,88%), ETH 2.268,61 USD (+1,24%), SOL 95,50 USD (-0,08%), AVAX 8,85 USD (+4,83%), LINK 11,77 USD (+3,65%); Fear&Greed 34 (Fear). Keine bestaetigte Kaufgelegenheit, Boersen/Futures uebers Wochenende geschlossen (Brent/GOOGL unveraendert).",
+        "portfolioValue": 1501.56
+      },
+      {
+        "time": "10:08",
+        "note": "Keine Aenderung - Live-Kurse (CoinGecko): BTC 78.122 USD (+1,05%), ETH 2.273 USD (+1,42%), SOL 95,71 USD (+0,32%), AVAX 8,82 USD (+4,89%), LINK 11,77 USD (+3,30%); Fear&Greed weiterhin 34 (Fear), nahezu unveraendert zum letzten Lauf. Keine neue, mehrfach bestaetigte Kaufgelegenheit (Marktausblick eher bearish: Analysten erwarten schwachen November fuer Bitcoin). Boersen/ETFs/Rohstoff-Futures bleiben sonntagsbedingt geschlossen (Brent/GOOGL unveraendert).",
         "portfolioValue": 1501.56
       }
     ]
