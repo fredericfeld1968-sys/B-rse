@@ -11331,9 +11331,9 @@
   },
   {
     "date": "2026-11-01",
-    "marketOverview": "Krypto notiert am Sonntagmittag weiterhin nahezu seitwaerts (BTC ~77.900 USD +0,8%, SOL ~95,3 USD -0,3%) bei unveraendert verhaltener Stimmung (Fear&Greed 34, Fear). Aktien, ETFs und Rohstoff-Futures bleiben wochenendbedingt geschlossen.",
-    "decision": "Kein Trade in diesem Lauf (12:10). Tagesbudget wurde bereits beim Lauf um 00:08 gutgeschrieben, daher heute keine erneute Gutschrift. Brent- und GOOGL-Position bleiben unveraendert (Boersen/Futures uebers Wochenende geschlossen), beide weiterhin innerhalb der Stop-Loss-/Gewinnmitnahme-Toleranz. Krypto bewegt sich weiterhin nur moderat seitwaerts bei unveraendertem Fear&Greed von 34 - keine neue, mehrfach bestaetigte Kaufgelegenheit, daher kein Trade.",
-    "reasoning": "Kein frischer, mehrfach unabhaengig bestaetigter Kaufkatalysator gefunden; Preisbewegungen bei Krypto bleiben minimal und liegen innerhalb normaler Schwankungen. Bestehende offene Positionen (Brent, GOOGL) sind ausserbörslich unveraendert. Passend zum spekulativen, aber risikobewussten Profil wird nur bei ueberzeugenden Gelegenheiten gehandelt - diese liegt aktuell nicht vor.",
+    "marketOverview": "Krypto notiert am Sonntagnachmittag weiterhin nahezu seitwaerts (BTC ~77.900 USD +0,5%, ETH ~2.267 USD +1,0%, SOL ~95,2 USD -0,6%, AVAX ~8,74 USD +3,5%) bei unveraendert verhaltener Stimmung (Fear&Greed 34, Fear, seit mehreren Stunden stabil). Aktien, ETFs und Rohstoff-Futures bleiben wochenendbedingt geschlossen.",
+    "decision": "Kein Trade in diesem Lauf (13:12). Tagesbudget wurde bereits beim Lauf um 00:08 gutgeschrieben, daher heute keine erneute Gutschrift. Brent- und GOOGL-Position bleiben unveraendert (Boersen/Futures uebers Wochenende geschlossen), beide weiterhin innerhalb der Stop-Loss-/Gewinnmitnahme-Toleranz. Krypto bewegt sich weiterhin nur moderat seitwaerts bei unveraendertem Fear&Greed von 34 - keine neue, mehrfach bestaetigte Kaufgelegenheit, daher kein Trade.",
+    "reasoning": "Live-Kurse (CoinGecko) zeigen gegenueber dem letzten Lauf (12:10) praktisch keine Bewegung bei BTC/ETH/SOL; AVAX legt moderat um +3,5% zu, aber ohne einen mehrfach unabhaengig bestaetigten frischen Katalysator (Websuche lieferte keine aktuell datierten, verlaesslichen Treffer) reicht das nicht fuer eine spekulative Position. Bestehende offene Positionen (Brent, GOOGL) sind ausserbörslich unveraendert. Passend zum spekulativen, aber risikobewussten Profil wird nur bei ueberzeugenden Gelegenheiten gehandelt - diese liegt aktuell nicht vor.",
     "positionIds": [],
     "portfolioValueEnd": 1501.56,
     "updates": [
@@ -11400,6 +11400,11 @@
       {
         "time": "12:10",
         "note": "Keine Aenderung - Live-Kurse (CoinGecko): BTC 77.927 USD (+0,8% 24h), SOL 95,31 USD (-0,30% 24h), praktisch unveraendert zum letzten Lauf (11:09); Fear&Greed weiterhin 34 (Fear). Keine frische, mehrfach bestaetigte Kaufgelegenheit gefunden. Boersen/ETFs/Rohstoff-Futures bleiben sonntagsbedingt geschlossen (Brent/GOOGL unveraendert).",
+        "portfolioValue": 1501.56
+      },
+      {
+        "time": "13:12",
+        "note": "Keine Aenderung - Krypto weiterhin seitwaerts (BTC ~77.900 USD, SOL ~95,2 USD, Fear&Greed unveraendert bei 34), kein neuer bestaetigter Kaufkatalysator; Boersen/Futures bleiben sonntags geschlossen (Brent/GOOGL unveraendert).",
         "portfolioValue": 1501.56
       }
     ]
