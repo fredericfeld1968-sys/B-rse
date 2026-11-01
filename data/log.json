@@ -11331,9 +11331,9 @@
   },
   {
     "date": "2026-11-01",
-    "marketOverview": "Krypto notiert am Sonntagabend weiterhin nahezu seitwaerts (BTC ~78.076 USD +0,75%, ETH ~2.267,13 USD +0,81%, SOL ~94,64 USD -1,21%, AVAX ~8,74 USD +2,47%, LINK ~11,56 USD -0,95%, XRP ~1,25 USD -0,21%, DOGE ~0,0756 USD -0,02%) bei unveraendert verhaltener Stimmung (Fear&Greed weiterhin 34, Fear). Keine neuen, aktuell datierten Markttreiber (Fed/Geopolitik) per Websuche gefunden. Aktien, ETFs und Rohstoff-Futures bleiben wochenendbedingt geschlossen.",
-    "decision": "Kein Trade in diesem Lauf (18:08). Tagesbudget wurde bereits beim Lauf um 00:08 gutgeschrieben, daher heute keine erneute Gutschrift. Brent- und GOOGL-Position bleiben unveraendert (Boersen/Futures uebers Wochenende geschlossen), beide weiterhin innerhalb der Stop-Loss-/Gewinnmitnahme-Toleranz. Krypto bewegt sich weiterhin nur moderat seitwaerts bei unveraendertem Fear&Greed von 34 - keine neue, ueberzeugende Kaufgelegenheit, daher kein Trade.",
-    "reasoning": "Live-Kurse (CoinGecko) zeigen gegenueber dem letzten Lauf (17:09) praktisch keine Bewegung bei BTC/ETH/SOL/AVAX/LINK/XRP/DOGE; Fear&Greed-Index (Alternative.me) unveraendert bei 34 (Fear). Websuchen nach frischen Krypto-Katalysatoren, Breaking News oder Fed/Geopolitik-Treibern fuer den 01.11.2026 lieferten keine verlaesslichen, aktuell datierten Treffer. Bestehende offene Positionen (Brent, GOOGL) sind ausserbörslich unveraendert, da Boersen/Futures am Sonntagabend geschlossen sind. Passend zum spekulativen, aber risikobewussten Profil wird nur bei ueberzeugenden Gelegenheiten gehandelt - diese liegt aktuell nicht vor.",
+    "marketOverview": "Krypto notiert am Sonntagabend weiterhin nahezu seitwaerts (BTC ~77.907 USD +0,39%, ETH ~2.262,85 USD +0,33%, SOL ~94,62 USD -1,49%, AVAX ~8,70 USD +1,56%, LINK ~11,51 USD -1,70%, XRP ~1,25 USD -0,39%, DOGE ~0,0755 USD -0,55%, ADA ~0,1926 USD -0,50%) bei unveraendert verhaltener Stimmung (Fear&Greed weiterhin 34, Fear). Websuchen zu frischen Krypto-Katalysatoren, Geopolitik und Fed/FOMC (naechste Sitzung erst 4.-5.11.) lieferten keine neuen, aktuell datierten Treffer. Aktien, ETFs und Rohstoff-Futures bleiben wochenendbedingt geschlossen.",
+    "decision": "Kein Trade in diesem Lauf (19:09). Tagesbudget wurde bereits beim Lauf um 00:08 gutgeschrieben, daher heute keine erneute Gutschrift. Brent- und GOOGL-Position bleiben unveraendert (Boersen/Futures uebers Wochenende geschlossen), beide weiterhin innerhalb der Stop-Loss-/Gewinnmitnahme-Toleranz. Krypto bewegt sich weiterhin nur moderat seitwaerts bei unveraendertem Fear&Greed von 34 - keine neue, ueberzeugende Kaufgelegenheit, daher kein Trade.",
+    "reasoning": "Live-Kurse (CoinGecko) zeigen gegenueber dem letzten Lauf (18:08) praktisch keine Bewegung bei BTC/ETH/SOL/AVAX/LINK/XRP/DOGE/ADA; Fear&Greed-Index (Alternative.me) unveraendert bei 34 (Fear). Websuchen nach frischen Krypto-Katalysatoren, Breaking News oder Fed/Geopolitik-Treibern fuer den 01.11.2026 lieferten keine verlaesslichen, aktuell datierten Treffer. Bestehende offene Positionen (Brent, GOOGL) sind ausserbörslich unveraendert, da Boersen/Futures am Sonntagabend geschlossen sind. Passend zum spekulativen, aber risikobewussten Profil wird nur bei ueberzeugenden Gelegenheiten gehandelt - diese liegt aktuell nicht vor.",
     "positionIds": [],
     "portfolioValueEnd": 1501.56,
     "updates": [
@@ -11430,6 +11430,11 @@
       {
         "time": "18:08",
         "note": "Keine Aenderung - Live-Kurse (CoinGecko): BTC 78.076 USD (+0,75%), ETH 2.267,13 USD (+0,81%), SOL 94,64 USD (-1,21%), AVAX 8,74 USD (+2,47%), LINK 11,56 USD (-0,95%), XRP 1,25 USD (-0,21%), DOGE 0,0756 USD (-0,02%); Fear&Greed weiterhin 34 (Fear), unveraendert. Keine frische, ueberzeugende Kaufgelegenheit. Boersen/ETFs/Rohstoff-Futures bleiben sonntagabendbedingt geschlossen (Brent/GOOGL unveraendert).",
+        "portfolioValue": 1501.56
+      },
+      {
+        "time": "19:09",
+        "note": "Keine Aenderung - Live-Kurse (CoinGecko): BTC 77.907 USD (+0,39%), ETH 2.262,85 USD (+0,33%), SOL 94,62 USD (-1,49%), AVAX 8,70 USD (+1,56%), LINK 11,51 USD (-1,70%); Fear&Greed weiterhin 34 (Fear), unveraendert. Keine frische, ueberzeugende Kaufgelegenheit. Boersen/ETFs/Rohstoff-Futures bleiben sonntagabendbedingt geschlossen (Brent/GOOGL unveraendert).",
         "portfolioValue": 1501.56
       }
     ]
