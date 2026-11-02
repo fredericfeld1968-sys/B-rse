@@ -11464,9 +11464,9 @@
   },
   {
     "date": "2026-11-02",
-    "marketOverview": "Kurz nach Mitternacht (00:10) am Montag keine verlaesslichen, aktuell datierten Live-Kurse fuer Krypto, Brent oder GOOGL per Websuche auffindbar (ueberwiegend alte/undatierte oder widersprechende Treffer, z.B. GOOGL-Preise zwischen 320 und 357 USD ohne verlaessliches Datum, BTC-Preise zwischen 61.000 und 112.000 USD je nach Quelle). Aktien und ETFs sind ausserhalb der Handelszeiten (Montag 00 Uhr) geschlossen, Oel-Futures gerade erst wieder angelaufen aber ohne belastbare Live-Daten.",
-    "decision": "Kein Trade. Tagesbudget fuer den neuen Kalendertag wurde gutgeschrieben (+1.000 EUR, totalFreshCapitalEur jetzt 90.000 EUR). Brent-Position (pos-0030) und GOOGL-Position (pos-0031) bleiben unveraendert auf dem letzten verlaesslichen Stand vom Sonntag (Freitagsschluss-basiert), da keine frischen, verlaesslich datierten Kurse verfuegbar waren und beide Positionen klar innerhalb der Toleranzbaender liegen.",
-    "reasoning": "Strenge Anwendung der Handelsregel 'nur bei wirklich ueberzeugender Gelegenheit handeln': Websuche kurz nach Mitternacht lieferte keine verlaesslichen, aktuell datierten Markt- oder Krypto-Daten. Ohne belastbare Datenbasis kein Kauf und kein Verkauf; bestehende offene Positionen bleiben innerhalb ihrer Stop-Loss-/Gewinnmitnahme-Toleranz unangetastet.",
+    "marketOverview": "Kurz nach Mitternacht (00:10) am Montag keine verlaesslichen, aktuell datierten Live-Kurse fuer Krypto, Brent oder GOOGL per Websuche auffindbar (ueberwiegend alte/undatierte oder widersprechende Treffer, z.B. GOOGL-Preise zwischen 320 und 357 USD ohne verlaessliches Datum, BTC-Preise zwischen 61.000 und 112.000 USD je nach Quelle). Aktien und ETFs sind ausserhalb der Handelszeiten (Montag 00 Uhr) geschlossen, Oel-Futures gerade erst wieder angelaufen aber ohne belastbare Live-Daten. Update 01:08: Erneute Websuche zu BTC, Brent und GOOGL liefert weiterhin nur undatierte oder widersprechende Altdaten (BTC-Nennungen zwischen 58.000 und 95.000 USD, Brent zwischen 74 und 108 USD/Barrel, GOOGL zwischen 285 und 357 USD je nach Quelle) - keine verlaessliche aktuelle Kursbasis fuer eine Handelsentscheidung.",
+    "decision": "Kein Trade. Tagesbudget fuer den neuen Kalendertag wurde gutgeschrieben (+1.000 EUR, totalFreshCapitalEur jetzt 90.000 EUR). Brent-Position (pos-0030) und GOOGL-Position (pos-0031) bleiben unveraendert auf dem letzten verlaesslichen Stand vom Sonntag (Freitagsschluss-basiert), da keine frischen, verlaesslich datierten Kurse verfuegbar waren und beide Positionen klar innerhalb der Toleranzbaender liegen. Im 01:08-Lauf ebenfalls kein Trade: Boersen/ETFs/Rohstoffe sind Montag kurz nach Mitternacht nicht handelbar, und auch fuer Krypto liefert die Websuche keine verlaesslich datierten Live-Kurse, die eine fundierte Entscheidung erlauben wuerden.",
+    "reasoning": "Strenge Anwendung der Handelsregel 'nur bei wirklich ueberzeugender Gelegenheit handeln': Websuche kurz nach Mitternacht lieferte keine verlaesslichen, aktuell datierten Markt- oder Krypto-Daten. Ohne belastbare Datenbasis kein Kauf und kein Verkauf; bestehende offene Positionen bleiben innerhalb ihrer Stop-Loss-/Gewinnmitnahme-Toleranz unangetastet. Passend zum spekulativen Profil wird nur auf Basis belastbarer, aktuell datierter Daten gehandelt; da wiederholt keine solchen Daten auffindbar sind, bleiben Brent- (pos-0030) und GOOGL-Position (pos-0031) unveraendert auf dem zuletzt eingetragenen Stand, und es wird kein neues Krypto-Investment getaetigt.",
     "positionIds": [
       "pos-0030",
       "pos-0031"
@@ -11476,6 +11476,11 @@
       {
         "time": "00:10",
         "note": "Keine Aenderung - keine verlaesslichen, aktuell datierten Live-Kurse per Websuche auffindbar; Boersen/ETFs geschlossen (Montag 00 Uhr). Tagesbudget gutgeschrieben (+1.000 EUR).",
+        "portfolioValue": 1501.56
+      },
+      {
+        "time": "01:08",
+        "note": "Keine Aenderung - weiterhin keine verlaesslichen, aktuell datierten Live-Kurse per Websuche fuer Krypto/Brent/GOOGL auffindbar (Suchergebnisse undatiert oder widersprechend); Boersen/ETFs ausserhalb der Handelszeiten (Montag kurz nach Mitternacht)",
         "portfolioValue": 1501.56
       }
     ]
