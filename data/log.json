@@ -11597,9 +11597,9 @@
   },
   {
     "date": "2026-11-03",
-    "marketOverview": "19:09-Lauf (Europe/Berlin): US-Boersen offen (Schluss 22:00 CET). GOOGL per Yahoo-Finance-API live bei 281,04 USD (+0,73% zum Vortagesschluss 278,99 USD, Tagesrange 277,20-281,36 USD) - leichte Erholung ggue. dem letzten Lauf (279,35 USD). AMD per Yahoo-Finance-API bei 492,19 USD (+5,43% zum Vortagesschluss 466,84 USD) im Vorfeld der Quartalszahlen, die erst nach Handelsschluss (21:00 UTC/22:00 CET) veroeffentlicht werden - Ergebnis liegt noch nicht vor. Bitcoin per CoinGecko-API bei 77.699 USD (+0,60% 24h), Ethereum 2.299,43 USD (+1,59%), Solana 93,66 USD (+1,31%) - Kryptomarkt stabil bis leicht fester. Heute ist US-Wahltag (Zwischenwahlen); erste Ergebnisse werden ab ca. 18:00 ET erwartet, belastbare Gesamtresultate liegen noch nicht vor. Kein neuer, ueberzeugender Katalysator fuer einen Trade vor den AMD-Zahlen gefunden.",
-    "decision": "Kein Trade. Tagesbudget bereits heute gutgeschrieben (totalFreshCapitalEur 91.000 EUR, keine erneute Gutschrift in diesem Lauf). GOOGL-Position bleibt mit aktualisiertem Kurs offen (-0,86%, deutlich erholt ggue. vorherigem Lauf, weit von einer Stop-Loss-Schwelle entfernt).",
-    "reasoning": "GOOGL erholt sich leicht (279,35 -> 281,04 USD, +0,73% im Tagesverlauf), Krypto (BTC/ETH/SOL) bleibt stabil bis leicht fester ohne neue bestaetigte Ausbruchsbewegung. AMD steigt zwar vorbörslich +5,43%, meldet aber erst nach Handelsschluss Zahlen - ein Einstieg unmittelbar vor einem binaeren Ereignis mit zweistelligem impliziten Move waere reine Spekulation ohne Informationsvorsprung und wird bewusst vermieden; nach Vorlage der Zahlen kann im naechsten Lauf neu bewertet werden. Die Zwischenwahl-Auszaehlung liefert ebenfalls noch keine belastbaren Ergebnisse. Passend zum spekulativen, aber diszipliniert risikogesteuerten Profil wird daher abgewartet statt ohne klaren Katalysator zu handeln.",
+    "marketOverview": "20:09-Lauf (Europe/Berlin): US-Boersen offen (Schluss 22:00 CET). Websuche liefert fuer GOOGL, Krypto (BTC/ETH/SOL) und die US-Zwischenwahl-Auszaehlung durchgehend widersprechende, undatierte oder veraltete Ergebnisse (verschiedene Quellen nennen z.B. GOOGL zwischen 324 und 400 USD) - keine verlaesslich aktuelle Kursbasis verfuegbar. GOOGL-Position bleibt daher auf dem zuletzt bestaetigten Stand (281,04 USD) unveraendert. AMD meldet Q3-Zahlen offiziell erst nach US-Boersenschluss (~22:00 CET) - noch keine Ergebnisse veroeffentlicht; Analystenkonsens ca. 13,09 Mrd. USD Umsatz / 1,94-1,95 USD EPS. Zwischenwahl-Auszaehlung laeuft laut Washington Examiner/Kalshi weiter (erste Ergebnisse ab ca. 24:00 MEZ aus Indiana/Kentucky erwartet), noch keine belastbaren Resultate.",
+    "decision": "Kein Trade. Tagesbudget bereits heute gutgeschrieben (totalFreshCapitalEur 91.000 EUR, keine erneute Gutschrift in diesem Lauf). GOOGL-Position bleibt unveraendert offen (letzter verlaesslicher Kurs 281,04 USD, -0,86%), da aktuellere Kursdaten nicht verlaesslich verifizierbar waren.",
+    "reasoning": "Websuche fuer GOOGL/Krypto/Zwischenwahl liefert nur widersprechende, undatierte oder klar veraltete Daten (Monate alt oder aus Vorjahren), daher keine Aktualisierung der Positionsbewertung ueber den zuletzt bestaetigten Stand hinaus. AMD-Zahlen stehen als binaeres Ereignis noch aus (Veroeffentlichung erst nach US-Boersenschluss) - kein Einstieg vor der Veroeffentlichung. Keine neue, ueberzeugende und verlaesslich bestaetigte Gelegenheit in diesem Lauf.",
     "positionIds": [
       "pos-0031"
     ],
@@ -11703,6 +11703,11 @@
       {
         "time": "19:09",
         "note": "Keine Aenderung - GOOGL erholt auf 281,04 USD (+0,73%), AMD vorbörslich +5,43% vor Zahlen nach Handelsschluss (kein Einstieg vor binaerem Ereignis), Krypto stabil bis leicht fester, US-Zwischenwahl-Auszaehlung laeuft noch. Kein Trade.",
+        "portfolioValue": 793.13
+      },
+      {
+        "time": "20:09",
+        "note": "Keine Aenderung - Websuche liefert fuer GOOGL/Krypto/Zwischenwahl nur widersprechende oder veraltete Daten, GOOGL-Position auf letztem bestaetigtem Kurs (281,04 USD) gehalten. AMD-Zahlen stehen noch aus (nach Boersenschluss). Kein Trade.",
         "portfolioValue": 793.13
       }
     ]
