@@ -11597,13 +11597,13 @@
   },
   {
     "date": "2026-11-03",
-    "marketOverview": "17:10-Lauf (Europe/Berlin): US-Boersen offen seit 15:30 CET. GOOGL per StockAnalysis.com live bestaetigt bei 279,28 USD (+0,10%, 11:09 EST, Markt offen), leichte Erholung ggue. dem letzten Lauf (278,26 USD). Bitcoin per CoinGecko-API live bei 77.558 USD (+0,04% 24h), Ethereum 2.293,34 USD (+0,90%), Solana 93,43 USD (-0,07%) - Kryptomarkt insgesamt stabil/leicht fester. Keine neu bestaetigten Marktdaten zu AMD-Zahlen (erst nach Handelsschluss) oder zur US-Zwischenwahl-Auszaehlung verfuegbar; Nasdaq-100 bleibt laut letztem Lauf in Korrektur. Kein neuer, ueberzeugender Katalysator fuer einen Trade gefunden.",
-    "decision": "Kein Trade. Tagesbudget bereits heute gutgeschrieben (totalFreshCapitalEur 91.000 EUR, keine erneute Gutschrift in diesem Lauf). GOOGL-Position bleibt mit aktualisiertem Kurs offen (-1,48%, weit von der Stop-Loss-Schwelle entfernt).",
-    "reasoning": "Weder bei Aktien (GOOGL leicht erholt, aber kein neuer fundamentaler Impuls; AMD-Zahlen stehen noch aus) noch bei Krypto (BTC/ETH/SOL stabil bis leicht fester, keine bestaetigte Ausbruchsbewegung) liegt eine wirklich ueberzeugende, mehrfach unabhaengig bestaetigte Gelegenheit vor. Passend zum spekulativen, aber diszipliniert risikogesteuerten Profil wird daher abgewartet statt ohne klaren Katalysator zu handeln.",
+    "marketOverview": "18:09-Lauf (Europe/Berlin): US-Boersen offen. GOOGL per Yahoo-Finance-API live bestaetigt bei 279,35 USD (+0,13% zum Vortagesschluss 278,99 USD, Tagesrange 277,20-281,36 USD), praktisch unveraendert ggue. dem letzten Lauf (279,28 USD). Bitcoin per CoinGecko-API live bei 77.697 USD (+0,49% 24h), Ethereum 2.296,19 USD (+1,44%), Solana 93,49 USD (+0,31%) - Kryptomarkt weiterhin stabil/leicht fester. AMD meldet erst nach Handelsschluss (21:00 UTC) Zahlen, Ergebnis liegt noch nicht vor (Markt preist +/-10,7% impliziten Move ein). US-Zwischenwahl-Auszaehlung laeuft noch, keine verlaesslichen Ergebnisse verfuegbar. Kein neuer, ueberzeugender Katalysator fuer einen Trade gefunden.",
+    "decision": "Kein Trade. Tagesbudget bereits heute gutgeschrieben (totalFreshCapitalEur 91.000 EUR, keine erneute Gutschrift in diesem Lauf). GOOGL-Position bleibt mit aktualisiertem Kurs offen (-1,45%, weit von der Stop-Loss-Schwelle entfernt).",
+    "reasoning": "GOOGL bewegt sich seit dem letzten Lauf praktisch nicht (279,28 -> 279,35 USD), Krypto (BTC/ETH/SOL) bleibt stabil bis leicht fester ohne neue bestaetigte Ausbruchsbewegung. AMD-Zahlen und die Zwischenwahl-Auszaehlung - beide potenzielle Katalysatoren - liegen noch nicht vor. Passend zum spekulativen, aber diszipliniert risikogesteuerten Profil wird daher abgewartet statt ohne klaren Katalysator zu handeln.",
     "positionIds": [
       "pos-0031"
     ],
-    "portfolioValueEnd": 788.18,
+    "portfolioValueEnd": 788.37,
     "updates": [
       {
         "time": "00:09",
@@ -11694,6 +11694,11 @@
         "time": "17:10",
         "note": "Keine Aenderung - GOOGL live leicht erholt auf 279,28 USD (+0,10%), Krypto (BTC/ETH/SOL) stabil bis leicht fester, kein ueberzeugender neuer Katalysator (AMD-Zahlen und Zwischenwahl-Auszaehlung stehen noch aus). Kein Trade.",
         "portfolioValue": 788.18
+      },
+      {
+        "time": "18:09",
+        "note": "Keine Aenderung - GOOGL praktisch unveraendert (279,35 USD, +0,13%), Krypto (BTC/ETH/SOL) stabil bis leicht fester. AMD-Zahlen (nach Handelsschluss) und Zwischenwahl-Auszaehlung stehen noch aus. Kein Trade.",
+        "portfolioValue": 788.37
       }
     ]
   }
