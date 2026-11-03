@@ -11597,7 +11597,7 @@
   },
   {
     "date": "2026-11-03",
-    "marketOverview": "04:09-Lauf (US-Wahltag, Zwischenwahlen 2026): US-Boersen, ETFs und Rohstoffe weiterhin ausserhalb der Handelszeiten (naechste regulaere Sitzung ab 15:30 MESZ), GOOGL (pos-0031) unveraendert auf 278,99 USD (Yahoo-Finance-API live abgefragt, Markt geschlossen, Vorbörse startet erst 10:00 MESZ). Krypto per CoinGecko-API live: BTC 76.634 USD (-2,29% 24h), ETH 2.247,17 USD (-2,06% 24h), SOL 91,79 USD (-3,33% 24h) - Fortsetzung der leichten, gleichmaessigen Schwaeche aus den vorherigen Laeufen ohne neuen Einzelkatalysator. Ergebnisse der laufenden US-Zwischenwahlen stehen weiterhin aus (Wahltag in den USA beginnt erst im Laufe des Tages).",
+    "marketOverview": "05:09-Lauf (US-Wahltag, Zwischenwahlen 2026): US-Boersen, ETFs und Rohstoffe weiterhin ausserhalb der Handelszeiten (naechste regulaere Sitzung ab 15:30 MEZ), GOOGL (pos-0031) unveraendert auf 278,99 USD (Yahoo-Finance-API live abgefragt). Krypto per CoinGecko-API live: BTC 76.699 USD (-2,31% 24h), ETH 2.246,44 USD (-2,52% 24h), SOL 91,93 USD (-3,61% 24h) - Fortsetzung der leichten, gleichmaessigen Schwaeche aus den vorherigen Laeufen ohne neuen Einzelkatalysator. Websuche zu US-Zwischenwahlen und Marktreaktion lieferte keine verlaesslich datierten aktuellen Treffer; Ergebnisse der laufenden US-Zwischenwahlen stehen weiterhin aus.",
     "decision": "Kein Trade. Tagesbudget bereits heute gutgeschrieben (totalFreshCapitalEur 91.000 EUR, keine erneute Gutschrift in diesem Lauf).",
     "reasoning": "Boersen/ETFs/Rohstoffe ausserhalb der Handelszeiten, daher nur Krypto moeglich. Krypto setzt die leichte Abwaertsbewegung der letzten Stunden fort (BTC/ETH/SOL jeweils weiter leicht im Minus), aber ohne neuen, ueberzeugenden Katalysator und ohne Trendwende - passend zum spekulativen Profil wird auf eine klarere Gelegenheit gewartet statt in eine fortgesetzte, unbestaetigte Schwaeche hinein zu kaufen.",
     "positionIds": [
@@ -11628,6 +11628,11 @@
       {
         "time": "04:09",
         "note": "Keine Aenderung - Boersen/ETFs/Rohstoffe nicht handelbar, Krypto (BTC/ETH/SOL) weiterhin leicht schwaecher ohne ueberzeugende Gelegenheit. Kein Trade.",
+        "portfolioValue": 787.36
+      },
+      {
+        "time": "05:09",
+        "note": "Keine Aenderung - GOOGL unveraendert (278,99 USD), Krypto (BTC/ETH/SOL) weiterhin leicht schwaecher ohne ueberzeugende Gelegenheit. Kein Trade.",
         "portfolioValue": 787.36
       }
     ]
