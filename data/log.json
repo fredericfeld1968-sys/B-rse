@@ -11597,9 +11597,9 @@
   },
   {
     "date": "2026-11-03",
-    "marketOverview": "09:10-Lauf: US-Boersen, ETFs und Rohstoffe weiterhin ausserhalb der Handelszeiten (Oeffnung erst 15:30 MEZ). Websuche lieferte erneut keine verlaesslich auf heute (03.11.2026) datierten Live-Kurse fuer Krypto (BTC/ETH/SOL) oder GOOGL - Ergebnisse bleiben widersprechend bzw. undatiert, US-Zwischenwahl-Ergebnisse weiterhin ohne klaren, bestaetigten Marktbezug. Letzter verlaesslicher GOOGL-Stand bleibt 279,18 USD.",
+    "marketOverview": "10:09-Lauf: US-Boersen, ETFs und Rohstoffe weiterhin ausserhalb der Handelszeiten (Oeffnung erst 15:30 MEZ). Websuche lieferte fuer GOOGL nur den bestaetigten Nasdaq-Schlusskurs vom Vortag (278,99 USD am 02.11., Nachbörse 280,45 USD) sowie fuer Krypto erneut widersprechende/undatierte Snapshots (BTC ca. 76.500 USD, ETH ca. 2.254 USD, teils mehrere Tage alt). US-Zwischenwahl findet heute statt, Ergebnisse liegen noch nicht vor - kein auswertbarer Marktbezug.",
     "decision": "Kein Trade. Tagesbudget bereits heute gutgeschrieben (totalFreshCapitalEur 91.000 EUR, keine erneute Gutschrift in diesem Lauf).",
-    "reasoning": "Boersen/ETFs/Rohstoffe ausserhalb der Handelszeiten, daher nur Krypto moeglich. Da die Websuche auch in diesem Lauf keine verlaesslich aktuell datierten Kurse oder einen klaren, bestaetigten Katalysator lieferte, wird passend zum spekulativen Profil auf eine ueberzeugendere, gut belegte Gelegenheit gewartet statt auf Basis unsicherer Daten zu handeln.",
+    "reasoning": "Boersen/ETFs/Rohstoffe ausserhalb der Handelszeiten, daher nur Krypto moeglich. Weder fuer Krypto noch fuer GOOGL liefert die Websuche einen frischen, verlaesslich datierten Kurs oder einen klaren, bestaetigten Katalysator (Wahlergebnis steht noch aus). Passend zum spekulativen Profil wird auf eine ueberzeugendere, gut belegte Gelegenheit gewartet statt auf Basis unsicherer Daten zu handeln.",
     "positionIds": [
       "pos-0031"
     ],
@@ -11653,6 +11653,11 @@
       {
         "time": "09:10",
         "note": "Keine Aenderung - Boersen/ETFs/Rohstoffe nicht handelbar, Websuche lieferte keine verlaesslich aktuell datierten Krypto- oder GOOGL-Kurse. Kein Trade.",
+        "portfolioValue": 787.89
+      },
+      {
+        "time": "10:09",
+        "note": "Keine Aenderung - GOOGL-Nasdaq-Schlusskurs vom Vortag (278,99 USD) bestaetigt, aber keine neuere Notierung; Krypto-Websuche weiterhin widersprechend/undatiert; US-Zwischenwahlergebnisse noch nicht ausgezaehlt. Kein Trade.",
         "portfolioValue": 787.89
       }
     ]
