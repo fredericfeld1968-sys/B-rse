@@ -11597,9 +11597,9 @@
   },
   {
     "date": "2026-11-03",
-    "marketOverview": "00:09-Lauf: US-Boersen, ETFs und Rohstoffe sind nach Handelsschluss (seit 22:00 MEZ) und vor den heutigen US-Zwischenwahlen weiterhin nicht handelbar; GOOGL (pos-0031) bleibt auf dem regulaeren Montags-Schlusskurs von 278,97 USD (-1,59% seit Kauf). Live-Kryptodaten (CoinGecko): BTC 76.698 USD (-1,55% 24h), ETH 2.249,33 USD (-0,67%), SOL 91,84 USD (-2,14%), XRP 1,25 USD (+0,09%), AVAX 8,38 USD (-2,99%), DOGE 0,0742 USD (-1,48%) - durchgehend leicht schwaecher ohne erkennbaren Katalysator, Marktteilnehmer erwarten laut mehreren Quellen erhoehte Volatilitaet rund um die heutigen US-Zwischenwahlen.",
-    "decision": "Kein Trade. Tagesbudget fuer den neuen Kalendertag wurde gutgeschrieben (+1.000 EUR, totalFreshCapitalEur jetzt 91.000 EUR).",
-    "reasoning": "Strenge Anwendung der Handelsregel 'nur bei wirklich ueberzeugender Gelegenheit handeln': Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten nicht handelbar, und der Kryptomarkt bewegt sich durchgehend leicht schwaecher ohne eigenstaendigen neuen Katalysator - unmittelbar vor den US-Zwischenwahlen zusaetzlich erhoehte Vorsicht angesichts der von mehreren Quellen erwarteten Volatilitaet. GOOGL (pos-0031) bleibt klar innerhalb der Toleranzbaender und wird mangels neuer Kursdaten auf dem letzten Schlusskurs gehalten.",
+    "marketOverview": "01:09-Lauf: US-Boersen, ETFs und Rohstoffe weiterhin nicht handelbar (vor Markteroeffnung, US-Zwischenwahlen heute). GOOGL (pos-0031) bleibt auf dem letzten regulaeren Schlusskurs von 278,97 USD (-1,59% seit Kauf), keine neuen Kursdaten verfuegbar. Websuche zu aktuellen Kryptopreisen lieferte nur widersprechende/undatierte Treffer (Spannen von BTC 64.000 bis 81.500 USD je nach Quelle) ohne verlaesslichen Zeitstempel fuer diesen Lauf, sowie keinen konkreten, auf heute datierten Marktkatalysator.",
+    "decision": "Kein Trade. Tagesbudget bereits heute gutgeschrieben (totalFreshCapitalEur 91.000 EUR, keine erneute Gutschrift in diesem Lauf).",
+    "reasoning": "Keine verlaesslich aktuell datierte Datenbasis fuer eine Kauf- oder Verkaufsentscheidung: die Websuche zu Krypto lieferte nur alte/widersprechende Preis-Snapshots ohne Zeitstempel, Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten ohnehin nicht handelbar. Passend zur Regel \"nur bei wirklich ueberzeugender Gelegenheit handeln\" wird nichts unternommen; GOOGL (pos-0031) bleibt mangels neuer Kursdaten auf dem letzten bekannten Kurs.",
     "positionIds": [
       "pos-0031"
     ],
@@ -11608,6 +11608,11 @@
       {
         "time": "00:09",
         "note": "Keine Aenderung - Boersen/ETFs/Rohstoffe nicht handelbar, Krypto durchgehend leicht schwaecher ohne ueberzeugende Gelegenheit vor den US-Zwischenwahlen. Tagesbudget gutgeschrieben (+1.000 EUR).",
+        "portfolioValue": 787.3
+      },
+      {
+        "time": "01:09",
+        "note": "Keine Aenderung - keine verlaesslich aktuell datierten Marktdaten gefunden (Krypto-Websuche widersprechend/undatiert), Boersen/ETFs/Rohstoffe nicht handelbar. Kein Trade.",
         "portfolioValue": 787.3
       }
     ]
