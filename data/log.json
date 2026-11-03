@@ -11597,13 +11597,13 @@
   },
   {
     "date": "2026-11-03",
-    "marketOverview": "01:09-Lauf: US-Boersen, ETFs und Rohstoffe weiterhin nicht handelbar (vor Markteroeffnung, US-Zwischenwahlen heute). GOOGL (pos-0031) bleibt auf dem letzten regulaeren Schlusskurs von 278,97 USD (-1,59% seit Kauf), keine neuen Kursdaten verfuegbar. Websuche zu aktuellen Kryptopreisen lieferte nur widersprechende/undatierte Treffer (Spannen von BTC 64.000 bis 81.500 USD je nach Quelle) ohne verlaesslichen Zeitstempel fuer diesen Lauf, sowie keinen konkreten, auf heute datierten Marktkatalysator.",
+    "marketOverview": "02:09-Lauf: US-Boersen, ETFs und Rohstoffe weiterhin nicht handelbar (ausserhalb der Handelszeiten, naechste Sitzung ab 15:30 MESZ). GOOGL (pos-0031) per Yahoo-Finance-API auf letzten regulaeren Schlusskurs 278,99 USD aktualisiert (-1,58% seit Kauf), unveraendert ausserhalb jeder Handels- oder Stop-Loss-Schwelle. Krypto per CoinGecko-API live abgefragt: BTC 77.108 USD (-1,53% 24h), ETH 2.258 USD (-1,07% 24h), SOL 92,36 USD (-2,60% 24h) - durchgehend leichte Schwaeche ohne erkennbaren frischen Katalysator, keine US-Zwischenwahl-Ergebnisse oder -Reaktionen in der Websuche auffindbar.",
     "decision": "Kein Trade. Tagesbudget bereits heute gutgeschrieben (totalFreshCapitalEur 91.000 EUR, keine erneute Gutschrift in diesem Lauf).",
-    "reasoning": "Keine verlaesslich aktuell datierte Datenbasis fuer eine Kauf- oder Verkaufsentscheidung: die Websuche zu Krypto lieferte nur alte/widersprechende Preis-Snapshots ohne Zeitstempel, Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten ohnehin nicht handelbar. Passend zur Regel \"nur bei wirklich ueberzeugender Gelegenheit handeln\" wird nichts unternommen; GOOGL (pos-0031) bleibt mangels neuer Kursdaten auf dem letzten bekannten Kurs.",
+    "reasoning": "Boersen/ETFs/Rohstoffe ausserhalb der Handelszeiten nicht handelbar. Krypto zeigt per Live-API nur leichte, gleichmaessige Schwaeche (BTC/ETH/SOL je -1 bis -2,6% in 24h) ohne ueberzeugenden Einzelkatalysator - passend zur Regel 'nur bei wirklich ueberzeugender Gelegenheit handeln' wird nichts unternommen. GOOGL (pos-0031) bleibt bei -1,58% deutlich innerhalb der Halteband-Spanne, kein Stop-Loss- oder Gewinnmitnahme-Niveau erreicht.",
     "positionIds": [
       "pos-0031"
     ],
-    "portfolioValueEnd": 787.3,
+    "portfolioValueEnd": 787.36,
     "updates": [
       {
         "time": "00:09",
@@ -11614,6 +11614,11 @@
         "time": "01:09",
         "note": "Keine Aenderung - keine verlaesslich aktuell datierten Marktdaten gefunden (Krypto-Websuche widersprechend/undatiert), Boersen/ETFs/Rohstoffe nicht handelbar. Kein Trade.",
         "portfolioValue": 787.3
+      },
+      {
+        "time": "02:09",
+        "note": "Keine Aenderung - GOOGL-Kurs per API aktualisiert (278,99 USD), Krypto (BTC/ETH/SOL) leicht schwaecher ohne ueberzeugende Gelegenheit. Kein Trade.",
+        "portfolioValue": 787.36
       }
     ]
   }
