@@ -11597,13 +11597,13 @@
   },
   {
     "date": "2026-11-03",
-    "marketOverview": "22:10-Lauf (Europe/Berlin): US-Kassamarkt seit 22:00 CET/16:00 EST geschlossen. GOOGL schloss laut StockAnalysis.com bei 280,30 USD nachbörslich (Schlusskurs regulär 279,90 USD, +0,33%; AH 280,30 USD, +0,14%, Zeitstempel 16:08 EST) - kaum Bewegung gegenüber dem letzten Lauf (278,23 USD). AMD legte regulär auf 483,91 USD zu (+3,66%) und notiert nachbörslich bei 485,10 USD (+0,25%, 16:08 EST); die eigentliche Q3-Zahlen-Veröffentlichung samt Earnings Call (17:00 EST/23:00 CET) steht noch rund 50 Minuten aus - weiterhin binäres Ereignis ohne Ergebnis. Krypto via CoinGecko: BTC 77.843 USD (+1,39% 24h), ETH 2.290,35 USD (+1,82%), SOL 93,57 USD (+2,13%) - moderate, nicht ueberzeugende Gewinne ohne klaren Katalysator. US-Zwischenwahl-Auszaehlung laeuft laut aktuellen Quellen (Washington Examiner, Khaleej Times) weiterhin, keine belastbaren Endergebnisse (insbesondere Kalifornien erst bis 11.12. zertifiziert).",
-    "decision": "Kein Trade. Tagesbudget bereits heute gutgeschrieben (totalFreshCapitalEur 91.000 EUR unveraendert, keine erneute Gutschrift). GOOGL-Position auf 280,30 USD aktualisiert (-1,12%, normale Schwankungsbreite, kein Stop-Loss). Keine neue Position: AMD-Earnings-Call steht in rund 50 Minuten noch aus (bewusst kein Einstieg vor diesem binaeren Ereignis, analog bisheriger Praxis), Krypto-Bewegungen bleiben moderat ohne ueberzeugenden Katalysator, Zwischenwahl-Ausgang weiterhin offen.",
-    "reasoning": "Kein Trade. Tagesbudget bereits heute gutgeschrieben (totalFreshCapitalEur 91.000 EUR unveraendert, keine erneute Gutschrift). GOOGL-Position auf 280,30 USD aktualisiert (-1,12%, normale Schwankungsbreite, kein Stop-Loss). Keine neue Position: AMD-Earnings-Call steht in rund 50 Minuten noch aus (bewusst kein Einstieg vor diesem binaeren Ereignis, analog bisheriger Praxis), Krypto-Bewegungen bleiben moderat ohne ueberzeugenden Katalysator, Zwischenwahl-Ausgang weiterhin offen.",
+    "marketOverview": "23:10-Lauf (Europe/Berlin): US-Kassamarkt weiterhin geschlossen (Handelsschluss 22:00 CET/16:00 EST). GOOGL via Yahoo-Finance-API auf 280,03 USD (regulaerer Schlusskurs, +0,37%) bestaetigt - praktisch unveraendert ggue. letztem Lauf (280,30 USD). AMDs Earnings Call (17:00 EST/23:00 CET) sollte gerade laufen bzw. gerade beendet sein; die verfuegbaren Quellen widersprechen sich stark (eine Vorab-Schaetzung zeigte AH-Kurs 515,73 USD kaum veraendert, ein anderer API-Datenpunkt zeigte ungeprueft +11,7% auf ca. 520 USD) - ohne verlaessliche, mehrfach uebereinstimmende Bestaetigung wird die Zahl nicht als belastbares Signal gewertet; ohnehin ausserhalb der regulaeren Handelszeiten nicht handelbar. Krypto via CoinGecko: BTC 77.775 USD (+1,35% 24h), ETH 2.291,91 USD (+1,63%), SOL 93,54 USD (+1,58%) - weiterhin nur moderate Gewinne ohne klaren neuen Katalysator. US-Zwischenwahl-Auszaehlung laeuft laut aktuellen Quellen weiterhin ohne belastbare Endergebnisse.",
+    "decision": "Kein Trade. Tagesbudget bereits heute gutgeschrieben (totalFreshCapitalEur 91.000 EUR unveraendert, keine erneute Gutschrift). GOOGL-Position auf 280,03 USD aktualisiert (-1,21%, normale Schwankungsbreite, kein Stop-Loss, kein Gewinnziel). Keine neue Position: US-Aktien/ETFs/Rohstoffe ausserhalb der regulaeren Handelszeiten nicht handelbar (AMD-Nachboersenreaktion zudem widerspruechlich/unbestaetigt), Krypto-Bewegungen bleiben moderat ohne ueberzeugenden Ausbruch, Zwischenwahl-Ausgang weiterhin offen.",
+    "reasoning": "Kein Trade. Tagesbudget bereits heute gutgeschrieben (totalFreshCapitalEur 91.000 EUR unveraendert, keine erneute Gutschrift). GOOGL-Position auf 280,03 USD aktualisiert (-1,21%, normale Schwankungsbreite, kein Stop-Loss, kein Gewinnziel). Keine neue Position: US-Aktien/ETFs/Rohstoffe ausserhalb der regulaeren Handelszeiten nicht handelbar (AMD-Nachboersenreaktion zudem widerspruechlich/unbestaetigt), Krypto-Bewegungen bleiben moderat ohne ueberzeugenden Ausbruch, Zwischenwahl-Ausgang weiterhin offen.",
     "positionIds": [
       "pos-0031"
     ],
-    "portfolioValueEnd": 791.05,
+    "portfolioValueEnd": 790.29,
     "updates": [
       {
         "time": "00:09",
@@ -11719,6 +11719,11 @@
         "time": "22:10",
         "note": "Keine Aenderung - GOOGL kaum veraendert (280,30 USD nachbörslich, -1,12%), AMD-Earnings-Call steht noch rund 50 Min. aus (kein Einstieg vor Ergebnis), Krypto moderat fester ohne Katalysator. Kein Trade.",
         "portfolioValue": 791.05
+      },
+      {
+        "time": "23:10",
+        "note": "Keine Aenderung - GOOGL regulaer bei 280,03 USD (+0,37%) bestaetigt, AMD-Earnings-Reaktion widerspruechlich/unbestaetigt und ohnehin nicht handelbar (US-Kassamarkt geschlossen), Krypto nur moderat fester (BTC +1,35%, ETH +1,63%, SOL +1,58%) ohne ueberzeugenden Ausbruch. Kein Trade.",
+        "portfolioValue": 790.29
       }
     ]
   }
