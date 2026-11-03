@@ -11597,9 +11597,9 @@
   },
   {
     "date": "2026-11-03",
-    "marketOverview": "05:09-Lauf (US-Wahltag, Zwischenwahlen 2026): US-Boersen, ETFs und Rohstoffe weiterhin ausserhalb der Handelszeiten (naechste regulaere Sitzung ab 15:30 MEZ), GOOGL (pos-0031) unveraendert auf 278,99 USD (Yahoo-Finance-API live abgefragt). Krypto per CoinGecko-API live: BTC 76.699 USD (-2,31% 24h), ETH 2.246,44 USD (-2,52% 24h), SOL 91,93 USD (-3,61% 24h) - Fortsetzung der leichten, gleichmaessigen Schwaeche aus den vorherigen Laeufen ohne neuen Einzelkatalysator. Websuche zu US-Zwischenwahlen und Marktreaktion lieferte keine verlaesslich datierten aktuellen Treffer; Ergebnisse der laufenden US-Zwischenwahlen stehen weiterhin aus.",
+    "marketOverview": "06:10-Lauf (weiterhin US-Wahltag/Zwischenwahlen 2026, Ergebnisse noch nicht verlaesslich verfuegbar): US-Boersen, ETFs und Rohstoffe weiterhin ausserhalb der Handelszeiten (naechste regulaere Sitzung ab 15:30 MEZ), GOOGL (pos-0031) unveraendert auf 278,99 USD (Yahoo-Finance-API live abgefragt, Vortagesschluss 279,84 USD). Krypto per CoinGecko-API live: BTC 76.659 USD (-2,14% 24h), ETH 2.248,96 USD (-1,82% 24h), SOL 91,91 USD (-3,14% 24h) - Fortsetzung der leichten, gleichmaessigen Schwaeche ohne neuen Einzelkatalysator. Websuche zu Zwischenwahl-Ergebnissen und Markt-/Geopolitik-Nachrichten lieferte keine verlaesslich auf heute datierten neuen Treffer.",
     "decision": "Kein Trade. Tagesbudget bereits heute gutgeschrieben (totalFreshCapitalEur 91.000 EUR, keine erneute Gutschrift in diesem Lauf).",
-    "reasoning": "Boersen/ETFs/Rohstoffe ausserhalb der Handelszeiten, daher nur Krypto moeglich. Krypto setzt die leichte Abwaertsbewegung der letzten Stunden fort (BTC/ETH/SOL jeweils weiter leicht im Minus), aber ohne neuen, ueberzeugenden Katalysator und ohne Trendwende - passend zum spekulativen Profil wird auf eine klarere Gelegenheit gewartet statt in eine fortgesetzte, unbestaetigte Schwaeche hinein zu kaufen.",
+    "reasoning": "Boersen/ETFs/Rohstoffe ausserhalb der Handelszeiten, daher nur Krypto moeglich. Krypto setzt die leichte Abwaertsbewegung fort (BTC/ETH/SOL jeweils weiter leicht im Minus), aber ohne neuen, ueberzeugenden Katalysator - passend zum spekulativen Profil wird auf eine klarere Gelegenheit gewartet statt in eine fortgesetzte, unbestaetigte Schwaeche hinein zu kaufen.",
     "positionIds": [
       "pos-0031"
     ],
@@ -11633,6 +11633,11 @@
       {
         "time": "05:09",
         "note": "Keine Aenderung - GOOGL unveraendert (278,99 USD), Krypto (BTC/ETH/SOL) weiterhin leicht schwaecher ohne ueberzeugende Gelegenheit. Kein Trade.",
+        "portfolioValue": 787.36
+      },
+      {
+        "time": "06:10",
+        "note": "Keine Aenderung - Boersen/ETFs/Rohstoffe nicht handelbar, Krypto (BTC/ETH/SOL) weiterhin leicht schwaecher ohne ueberzeugende Gelegenheit, Zwischenwahl-Ergebnisse noch nicht verlaesslich verfuegbar. Kein Trade.",
         "portfolioValue": 787.36
       }
     ]
