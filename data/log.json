@@ -11597,13 +11597,13 @@
   },
   {
     "date": "2026-11-03",
-    "marketOverview": "18:09-Lauf (Europe/Berlin): US-Boersen offen. GOOGL per Yahoo-Finance-API live bestaetigt bei 279,35 USD (+0,13% zum Vortagesschluss 278,99 USD, Tagesrange 277,20-281,36 USD), praktisch unveraendert ggue. dem letzten Lauf (279,28 USD). Bitcoin per CoinGecko-API live bei 77.697 USD (+0,49% 24h), Ethereum 2.296,19 USD (+1,44%), Solana 93,49 USD (+0,31%) - Kryptomarkt weiterhin stabil/leicht fester. AMD meldet erst nach Handelsschluss (21:00 UTC) Zahlen, Ergebnis liegt noch nicht vor (Markt preist +/-10,7% impliziten Move ein). US-Zwischenwahl-Auszaehlung laeuft noch, keine verlaesslichen Ergebnisse verfuegbar. Kein neuer, ueberzeugender Katalysator fuer einen Trade gefunden.",
-    "decision": "Kein Trade. Tagesbudget bereits heute gutgeschrieben (totalFreshCapitalEur 91.000 EUR, keine erneute Gutschrift in diesem Lauf). GOOGL-Position bleibt mit aktualisiertem Kurs offen (-1,45%, weit von der Stop-Loss-Schwelle entfernt).",
-    "reasoning": "GOOGL bewegt sich seit dem letzten Lauf praktisch nicht (279,28 -> 279,35 USD), Krypto (BTC/ETH/SOL) bleibt stabil bis leicht fester ohne neue bestaetigte Ausbruchsbewegung. AMD-Zahlen und die Zwischenwahl-Auszaehlung - beide potenzielle Katalysatoren - liegen noch nicht vor. Passend zum spekulativen, aber diszipliniert risikogesteuerten Profil wird daher abgewartet statt ohne klaren Katalysator zu handeln.",
+    "marketOverview": "19:09-Lauf (Europe/Berlin): US-Boersen offen (Schluss 22:00 CET). GOOGL per Yahoo-Finance-API live bei 281,04 USD (+0,73% zum Vortagesschluss 278,99 USD, Tagesrange 277,20-281,36 USD) - leichte Erholung ggue. dem letzten Lauf (279,35 USD). AMD per Yahoo-Finance-API bei 492,19 USD (+5,43% zum Vortagesschluss 466,84 USD) im Vorfeld der Quartalszahlen, die erst nach Handelsschluss (21:00 UTC/22:00 CET) veroeffentlicht werden - Ergebnis liegt noch nicht vor. Bitcoin per CoinGecko-API bei 77.699 USD (+0,60% 24h), Ethereum 2.299,43 USD (+1,59%), Solana 93,66 USD (+1,31%) - Kryptomarkt stabil bis leicht fester. Heute ist US-Wahltag (Zwischenwahlen); erste Ergebnisse werden ab ca. 18:00 ET erwartet, belastbare Gesamtresultate liegen noch nicht vor. Kein neuer, ueberzeugender Katalysator fuer einen Trade vor den AMD-Zahlen gefunden.",
+    "decision": "Kein Trade. Tagesbudget bereits heute gutgeschrieben (totalFreshCapitalEur 91.000 EUR, keine erneute Gutschrift in diesem Lauf). GOOGL-Position bleibt mit aktualisiertem Kurs offen (-0,86%, deutlich erholt ggue. vorherigem Lauf, weit von einer Stop-Loss-Schwelle entfernt).",
+    "reasoning": "GOOGL erholt sich leicht (279,35 -> 281,04 USD, +0,73% im Tagesverlauf), Krypto (BTC/ETH/SOL) bleibt stabil bis leicht fester ohne neue bestaetigte Ausbruchsbewegung. AMD steigt zwar vorbörslich +5,43%, meldet aber erst nach Handelsschluss Zahlen - ein Einstieg unmittelbar vor einem binaeren Ereignis mit zweistelligem impliziten Move waere reine Spekulation ohne Informationsvorsprung und wird bewusst vermieden; nach Vorlage der Zahlen kann im naechsten Lauf neu bewertet werden. Die Zwischenwahl-Auszaehlung liefert ebenfalls noch keine belastbaren Ergebnisse. Passend zum spekulativen, aber diszipliniert risikogesteuerten Profil wird daher abgewartet statt ohne klaren Katalysator zu handeln.",
     "positionIds": [
       "pos-0031"
     ],
-    "portfolioValueEnd": 788.37,
+    "portfolioValueEnd": 793.13,
     "updates": [
       {
         "time": "00:09",
@@ -11699,6 +11699,11 @@
         "time": "18:09",
         "note": "Keine Aenderung - GOOGL praktisch unveraendert (279,35 USD, +0,13%), Krypto (BTC/ETH/SOL) stabil bis leicht fester. AMD-Zahlen (nach Handelsschluss) und Zwischenwahl-Auszaehlung stehen noch aus. Kein Trade.",
         "portfolioValue": 788.37
+      },
+      {
+        "time": "19:09",
+        "note": "Keine Aenderung - GOOGL erholt auf 281,04 USD (+0,73%), AMD vorbörslich +5,43% vor Zahlen nach Handelsschluss (kein Einstieg vor binaerem Ereignis), Krypto stabil bis leicht fester, US-Zwischenwahl-Auszaehlung laeuft noch. Kein Trade.",
+        "portfolioValue": 793.13
       }
     ]
   }
