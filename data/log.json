@@ -11597,9 +11597,9 @@
   },
   {
     "date": "2026-11-03",
-    "marketOverview": "14:09-Lauf (Europe/Berlin): Xetra offen, US-Boersen oeffnen erst um 15:30 CET. Websuche liefert weiterhin keine verlaesslich auf heute datierten Kurse: GOOGL-Treffer bleiben widersprechend und ueberwiegend undatiert (324 bis 360 USD, teils klar aeltere Snapshots vom 14.09.), letzter klar datierter Stand bleibt 29.10. bei 324,89 USD laut Coinglass. Krypto-Fear&Greed-Treffer (Index 42) und BTC/ETH/SOL-Kurse sind ohne verlaesslichen Zeitstempel. Zur US-Zwischenwahl (heute) liegen erwartungsgemaess noch keine Ergebnisse vor, da die Auszaehlung erst nach Boersenschluss beginnt.",
+    "marketOverview": "15:09-Lauf (Europe/Berlin): Xetra offen, US-Boersen oeffnen erst um 15:30 CET (in Kuerze). Websuche liefert weiterhin keine verlaesslich auf heute datierten Kurse: GOOGL-Treffer bleiben widersprechend und ueberwiegend undatiert (324 bis 360 USD), Direktabfragen bei Stooq und Yahoo Finance wurden blockiert bzw. lieferten keine Daten. Letzter klar datierter GOOGL-Stand bleibt 29.10. bei 324,89 USD laut Coinglass. Krypto-Suchergebnisse sind weiterhin ohne verlaesslichen Zeitstempel. Zur US-Zwischenwahl (heute) liegen erwartungsgemaess noch keine Ergebnisse vor, da die Auszaehlung erst nach Boersenschluss beginnt.",
     "decision": "Kein Trade. Tagesbudget bereits heute gutgeschrieben (totalFreshCapitalEur 91.000 EUR, keine erneute Gutschrift in diesem Lauf).",
-    "reasoning": "Wie in allen vorherigen Laeufen des Tages liefert die Websuche keine verlaesslich auf den 03.11.2026 datierten Kurse oder Katalysatoren fuer Aktien, ETFs, Rohstoffe oder Krypto. Ein Kauf oder Verkauf ohne verlaessliche aktuelle Datenbasis waere reines Raten statt einer informierten, spekulativen Entscheidung. GOOGL-Position wird unveraendert mit dem letzten bestaetigten Stand (279,18 USD) fortgeschrieben. Passend zum spekulativen Profil wird weiter auf eine belegte, ueberzeugende Gelegenheit gewartet.",
+    "reasoning": "Wie in allen vorherigen Laeufen des Tages liefert die Websuche keine verlaesslich auf den 03.11.2026 datierten Kurse oder Katalysatoren fuer Aktien, ETFs, Rohstoffe oder Krypto; auch direkte Kursabfragen (Stooq, Yahoo Finance) scheiterten in diesem Lauf technisch. Ein Kauf oder Verkauf ohne verlaessliche aktuelle Datenbasis waere reines Raten statt einer informierten, spekulativen Entscheidung. GOOGL-Position wird unveraendert mit dem letzten bestaetigten Stand (279,18 USD) fortgeschrieben. Passend zum spekulativen Profil wird weiter auf eine belegte, ueberzeugende Gelegenheit gewartet.",
     "positionIds": [
       "pos-0031"
     ],
@@ -11678,6 +11678,11 @@
       {
         "time": "14:09",
         "note": "Keine Aenderung - weiterhin keine verlaesslich auf heute datierten Kurse/Katalysatoren per Websuche (GOOGL, Krypto, US-Zwischenwahl laeuft noch), US-Boersen noch nicht geoeffnet. Kein Trade.",
+        "portfolioValue": 787.89
+      },
+      {
+        "time": "15:09",
+        "note": "Keine Aenderung - weiterhin keine verlaesslich auf heute datierten Kurse/Katalysatoren (GOOGL, Krypto); direkte Kursabfragen (Stooq, Yahoo Finance) technisch blockiert. US-Boersen oeffnen erst um 15:30 CET. Kein Trade.",
         "portfolioValue": 787.89
       }
     ]
