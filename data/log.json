@@ -11729,13 +11729,13 @@
   },
   {
     "date": "2026-11-04",
-    "marketOverview": "11:09-Lauf (Europe/Berlin): Xetra offen, NYSE/Nasdaq oeffnen erst um 15:30 CET - GOOGL-Position (pos-0031) daher weiterhin nicht handelbar, Vormarktkurs laut StockAnalysis bei 282,06 USD (+0,72% ggue. Schlusskurs 280,03 USD vom 03.11.). US-Futures leicht fester nach Demokraten-Erfolg bei den Midterms, wobei Haendler auf eine Verlangsamung des Data-Center-Ausbaus setzen (Tesla/SpaceX laut Presseberichten -4%, einzelne KI-Data-Center-Werte schwaecher) - fuer GOOGL als Cloud-/KI-Capex-Wert gemischt, im Vormarkt aber keine negative Reaktion sichtbar. Krypto praktisch unveraendert zum letzten Lauf (BTC 78.331 USD, +1,78% 24h via CoinGecko, ETH +2,51%, SOL +0,91%, AVAX +2,46%), Fear&Greed-Index weiterhin bei 34 (Fear, Alternative.me) - kein neuer Einzelkatalysator erkennbar.",
-    "decision": "Kein Trade. Tagesbudget bereits beim 00:07-Lauf gutgeschrieben (lastGrantDate=2026-11-04), keine erneute Gutschrift. GOOGL-Position (pos-0031) auf Vormarktkurs 282,06 USD aktualisiert (Nasdaq oeffnet erst 15:30 CET). Keine neue Position: Krypto bewegt sich seit dem letzten Lauf nur marginal (<0,5 Prozentpunkte je Coin), Fear&Greed unveraendert bei 34 (Fear); die Post-Midterm-Nachrichtenlage zum KI-Data-Center-Ausbau ist gemischt und bietet keinen klaren, ueberzeugenden Einzelkatalysator fuer eine neue Position.",
-    "reasoning": "Kein Trade. CoinGecko-Live-Daten zeigen gegenueber dem 10:10-Lauf nahezu unveraenderte Kurse (BTC 78.295 -> 78.331 USD, ETH/SOL/AVAX jeweils innerhalb von 0,5 Prozentpunkten) - keine neue, handelbare Bewegung. Aktien/ETFs/Rohstoffe sind vor Handelsbeginn an der Nasdaq (15:30 CET) nicht sinnvoll bewertbar; Xetra ist zwar offen, aber fuer die gehaltene US-Position (GOOGL) nicht preisbildend. Die Nachrichtenlage zu Demokraten-Sieg bei den Midterms und moeglicher Bremse beim KI-Data-Center-Ausbau ist uneinheitlich (Chipwerte erholten sich am Wahltag, Tesla/SpaceX nachboerslich schwaecher) und rechtfertigt keinen spekulativen Einstieg ohne klareren Trend. Keine Position verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "marketOverview": "12:07-Lauf (Europe/Berlin): Xetra offen, NYSE/Nasdaq oeffnen erst um 15:30 CET - GOOGL-Position (pos-0031) daher weiterhin nicht handelbar, Vormarktkurs laut StockAnalysis bei 283,60 USD (+1,27% ggue. Schlusskurs 280,03 USD vom 03.11., praktisch auf Einstandsniveau 283,47 USD). Krypto seit dem letzten Lauf nur marginal fester (BTC 78.495 USD, +1,9% 24h via CoinGecko, ETH 2.325,52 USD +2,5%, SOL 93,47 USD +1,2%), Fear&Greed-Index weiterhin unveraendert bei 34 (Fear, Alternative.me) - kein neuer Einzelkatalysator erkennbar.",
+    "decision": "Kein Trade. Tagesbudget bereits beim 00:07-Lauf gutgeschrieben (lastGrantDate=2026-11-04), keine erneute Gutschrift. GOOGL-Position (pos-0031) auf Vormarktkurs 283,60 USD aktualisiert (Nasdaq oeffnet erst 15:30 CET); Position damit nahezu bei Einstandskurs (+0,05%). Keine neue Position: Krypto bewegt sich seit dem letzten Lauf nur marginal (<1 Prozentpunkt je Coin), Fear&Greed unveraendert bei 34 (Fear); keine neue, ueberzeugende Einzel-Gelegenheit erkennbar.",
+    "reasoning": "Kein Trade. CoinGecko-Daten zeigen gegenueber dem 11:09-Lauf nahezu unveraenderte Kurse (BTC +1,78% -> +1,9% 24h, ETH/SOL jeweils innerhalb von 1 Prozentpunkt) - keine neue, handelbare Bewegung. Aktien/ETFs/Rohstoffe sind vor Handelsbeginn an der Nasdaq (15:30 CET) nicht sinnvoll bewertbar; Xetra ist zwar offen, aber fuer die gehaltene US-Position (GOOGL) nicht preisbildend. Keine frische, mehrfach bestaetigte Nachrichtenlage gefunden, die einen spekulativen Einstieg rechtfertigen wuerde. Keine Position verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [
       "pos-0031"
     ],
-    "portfolioValueEnd": 796.02,
+    "portfolioValueEnd": 800.37,
     "updates": [
       {
         "time": "00:07",
@@ -11796,6 +11796,11 @@
         "time": "11:09",
         "note": "Keine Aenderung - GOOGL-Kurs auf Vormarkt 282,06 USD aktualisiert (noch vor Nasdaq-Handelsbeginn 15:30 CET). Krypto praktisch unveraendert (BTC +1,78% 24h, Fear&Greed weiterhin 34). Post-Midterm-Nachrichten zum KI-Capex-Ausbau uneinheitlich. Kein Trade.",
         "portfolioValue": 796.02
+      },
+      {
+        "time": "12:07",
+        "note": "Keine Aenderung - GOOGL-Kurs auf Vormarkt 283,60 USD aktualisiert (fast auf Einstandsniveau, Nasdaq oeffnet erst 15:30 CET). Krypto nur marginal fester (BTC +1,9% 24h, Fear&Greed weiterhin 34). Kein Trade.",
+        "portfolioValue": 800.37
       }
     ]
   }
