@@ -11729,14 +11729,13 @@
   },
   {
     "date": "2026-11-04",
-    "marketOverview": "06:10-Lauf (Europe/Berlin): US-/EU-Kassamaerkte weiterhin geschlossen (Xetra-Oeffnung 09:00, NYSE/Nasdaq erst 15:30 CET). Kryptomarkt zeigt sich nach den schwachen Vortagen leicht erholt, aber ohne klare Richtung: Bitcoin bei ca. 77.230 USD (+0,67% 24h, CoinGecko live), Ethereum 2.277 USD (+1,21%), Solana 92,10 USD (+0,11%), XRP 1,27 USD (+1,49%), AVAX 8,49 USD (+1,71%), waehrend ADA, LINK und HBAR leicht im Minus notieren (-0,14% bis -1,54%). Kein eindeutiger Einzelkatalysator oder bestaetigter Ausbruch erkennbar, insgesamt bleibt die Marktstimmung nach den US-Midterms uneinheitlich. GOOGL- und Brent-Position unveraendert (Maerkte geschlossen).",
-    "decision": "Kein Trade. Tagesbudget wurde bereits beim 00:07-Lauf fuer heute gutgeschrieben (lastGrantDate=2026-11-04), daher keine erneute Gutschrift. GOOGL-Position (pos-0031) und Brent-Position (pos-0030) unveraendert gehalten (Maerkte geschlossen). Keine neue Position: Kryptomarkt zeigt zwar eine leichte Erholung (BTC +0,67%, ETH +1,21%, AVAX +1,71%), aber keine der Bewegungen ist stark oder eindeutig genug fuer eine ueberzeugende spekulative Position - alle 24h-Veraenderungen liegen unter 2%.",
-    "reasoning": "Kein Trade. Tagesbudget wurde bereits beim 00:07-Lauf fuer heute gutgeschrieben (lastGrantDate=2026-11-04), daher keine erneute Gutschrift. GOOGL-Position (pos-0031) und Brent-Position (pos-0030) unveraendert gehalten (Maerkte geschlossen). Keine neue Position: Kryptomarkt zeigt zwar eine leichte Erholung (BTC +0,67%, ETH +1,21%, AVAX +1,71%), aber keine der Bewegungen ist stark oder eindeutig genug fuer eine ueberzeugende spekulative Position - alle 24h-Veraenderungen liegen unter 2%.",
+    "marketOverview": "07:09-Lauf (Europe/Berlin): US-/EU-Kassamaerkte weiterhin geschlossen (Xetra-Oeffnung 09:00, NYSE/Nasdaq 15:30 CET). Kryptomarkt setzt die leichte Erholung vom 06:10-Lauf fort, ohne klaren Einzelkatalysator: Bitcoin ca. 77.770 USD (+1,74% 24h, CoinGecko live), Ethereum 2.290,73 USD (+2,17%), Solana 92,80 USD (+1,50%), XRP 1,28 USD (+2,22%), AVAX 8,56 USD (+3,20%), ADA 0,19 USD (+1,48%), DOGE 0,0747 USD (+1,42%), HBAR 0,0694 USD (+0,22%), nur LINK leicht im Minus (-0,58%). Crypto Fear & Greed Index bei 34 (Fear) - die Erholung bleibt moderat und spielt sich weiterhin in einem insgesamt aengstlichen Marktumfeld nach den US-Midterms ab. GOOGL-Position unveraendert (Markt geschlossen).",
+    "decision": "Kein Trade. Tagesbudget wurde bereits beim 00:07-Lauf fuer heute gutgeschrieben (lastGrantDate=2026-11-04), daher keine erneute Gutschrift. GOOGL-Position (pos-0031) unveraendert gehalten (Markt geschlossen). Keine neue Position: Krypto erholt sich zwar weiter leicht (AVAX +3,2%, ETH +2,17%, XRP +2,22%), der Fear&Greed-Index notiert aber weiterhin im Fear-Bereich (34) und es gibt keinen bestaetigten Einzelkatalysator (keine relevante News zu Bitcoin/Krypto fuer heute gefunden) - die Bewegungen sind zu gering und zu uneinheitlich fuer eine ueberzeugende spekulative Position.",
+    "reasoning": "Kein Trade. Tagesbudget wurde bereits beim 00:07-Lauf fuer heute gutgeschrieben (lastGrantDate=2026-11-04), daher keine erneute Gutschrift. GOOGL-Position (pos-0031) unveraendert gehalten (Markt geschlossen). Keine neue Position: Krypto erholt sich zwar weiter leicht (AVAX +3,2%, ETH +2,17%, XRP +2,22%), der Fear&Greed-Index notiert aber weiterhin im Fear-Bereich (34) und es gibt keinen bestaetigten Einzelkatalysator (keine relevante News zu Bitcoin/Krypto fuer heute gefunden) - die Bewegungen sind zu gering und zu uneinheitlich fuer eine ueberzeugende spekulative Position.",
     "positionIds": [
-      "pos-0030",
       "pos-0031"
     ],
-    "portfolioValueEnd": 1503.84,
+    "portfolioValueEnd": 790.29,
     "updates": [
       {
         "time": "00:07",
@@ -11772,6 +11771,11 @@
         "time": "06:10",
         "note": "Keine Aenderung - Krypto leicht erholt aber ohne klaren Katalysator (BTC +0,67%, ETH +1,21%, SOL +0,11%, AVAX +1,71%, alle Bewegungen <2%). GOOGL/Brent unveraendert (Maerkte geschlossen). Kein Trade.",
         "portfolioValue": 1503.84
+      },
+      {
+        "time": "07:09",
+        "note": "Keine Aenderung - Krypto erholt sich moderat weiter (BTC +1,74%, ETH +2,17%, AVAX +3,20%), aber Fear&Greed-Index bleibt bei 34 (Fear) und kein klarer Katalysator. GOOGL unveraendert (Markt geschlossen). Kein Trade.",
+        "portfolioValue": 790.29
       }
     ]
   }
