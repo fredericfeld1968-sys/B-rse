@@ -11729,9 +11729,9 @@
   },
   {
     "date": "2026-11-04",
-    "marketOverview": "08:08-Lauf (Europe/Berlin): Europaeische und US-Kassamaerkte weiterhin geschlossen (Xetra-Oeffnung 09:00, NYSE/Nasdaq 15:30 CET). Nach den US-Midterms (Democrats gewinnen laut Projektionen das Repraesentantenhaus, Senat-Ausgang unklar) zeigte sich in der Nacht zunaechst ein Risk-off-Schub (Bitcoin kurz auf ca. 75.700 USD, Nasdaq-100-Futures -2%, Dow-Futures -367 Punkte), gefolgt von einer V-foermigen Erholung auf ca. 77.000-78.000 USD, da ein demokratisches Repraesentantenhaus weitgehend eingepreist war. Bitcoin haelt sich aktuell bei rund 77.300-77.800 USD, Crypto Fear&Greed-Index weiterhin im Fear-Bereich (34). Der stockende CLARITY Act (Krypto-Marktstruktur-Gesetz) bleibt der zentrale regulatorische Unsicherheitsfaktor; Analysten nennen Unterstuetzung bei 75.500-76.500 USD und Widerstand bei 78.000-80.000 USD. GOOGL-Position (pos-0031) unveraendert, da Nasdaq erst um 15:30 CET oeffnet.",
-    "decision": "Kein Trade. Tagesbudget wurde bereits beim 00:07-Lauf fuer heute gutgeschrieben (lastGrantDate=2026-11-04), daher keine erneute Gutschrift. GOOGL-Position (pos-0031) unveraendert gehalten (Markt geschlossen bis 15:30 CET). Keine neue Position: Aktien/ETFs/Rohstoffe sind vor Boersenoeffnung nicht handelbar, und der Kryptomarkt bewegt sich nach der post-Midterm-Erholung nur noch seitwaerts ohne frischen, ueberzeugenden Einzelkatalysator (Fear&Greed weiterhin bei 34, CLARITY-Act-Unsicherheit ungeloest).",
-    "reasoning": "Kein Trade. Die Nacht war durch die US-Midterms gepraegt (Democrats gewinnen das Haus laut Projektionen, Senat offen): kurzer Risk-off-Schub mit Erholung, kein neuer, heute frisch bestaetigter Ausbruch oder struktureller Katalysator wie in frueheren erfolgreichen Trades (AVAX/NYSE-ICE, QNT/Clearing House, BCH/CME-Futures). Passend zum spekulativen Kurzfrist-Profil wird auf eine klarere Gelegenheit gewartet statt auf Basis einer bereits weitgehend eingepreisten Erholung zu handeln. Keine Position verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "marketOverview": "09:12-Lauf (Europe/Berlin): Xetra hat soeben (09:00 CET) eroeffnet, NYSE/Nasdaq oeffnen erst um 15:30 CET - GOOGL-Position (pos-0031) daher weiterhin unveraendert bei 280,03 USD. Krypto zieht breit weiter an (BTC +2,13% auf ca. 78.268 USD, ETH +2,55%, AVAX +3,35%, ADA +2,42%, XRP +1,98%, DOGE +1,72% je 24h via CoinGecko), setzt die seit der Nacht laufende Post-Midterm-Erholung fort. Der Fear&Greed-Index verbleibt jedoch unveraendert bei 34 (Fear) - kein Sentiment-Umschwung, sondern eine breite, mehr oder weniger gleichmaessige Erholungsbewegung ohne klaren Einzelkatalysator. Zu den endgueltigen Kongressmehrheiten nach den Midterms liegen weiterhin keine verlaesslich bestaetigten finalen Ergebnisse vor.",
+    "decision": "Kein Trade. Tagesbudget wurde bereits beim 00:07-Lauf fuer heute gutgeschrieben (lastGrantDate=2026-11-04), daher keine erneute Gutschrift. GOOGL-Position (pos-0031) unveraendert gehalten (Nasdaq oeffnet erst 15:30 CET). Keine neue Position: die Krypto-Erholung ist breit über alle Coins verteilt (+1,5% bis +3,4%) ohne einen einzelnen ueberzeugenden Katalysator, und der Fear&Greed-Index bleibt bei 34 (Fear) - passend zum bisherigen disziplinierten Vorgehen wird auf eine klarere Einzelgelegenheit gewartet.",
+    "reasoning": "Kein Trade. CoinGecko-Live-Daten zeigen eine gleichmaessige, breite Erholung im Kryptomarkt (BTC/ETH/SOL/XRP/DOGE/AVAX/ADA alle zwischen +1,48% und +3,35% in 24h), was eher auf eine generelle Risk-on-Stimmung nach den Midterms als auf einen handelbaren Einzelkatalysator hindeutet (vgl. erfolgreiche Trades wie AVAX/NYSE-ICE oder QNT/Clearing House, die stets auf einem spezifischen, neuen fundamentalen Ereignis beruhten). Aktien/ETFs/Rohstoffe sind vor Handelsbeginn an der Nasdaq (15:30 CET) nicht sinnvoll bewertbar; Xetra ist zwar offen, aber fuer die gehaltene US-Position (GOOGL) nicht preisbildend. Keine Position verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [
       "pos-0031"
     ],
@@ -11780,6 +11780,11 @@
       {
         "time": "08:08",
         "note": "Keine Aenderung - Boersen weiterhin geschlossen (Xetra 09:00, NYSE/Nasdaq 15:30 CET). Krypto nach Midterm-Erholung seitwaerts (BTC ~77.300-77.800 USD, Fear&Greed 34), kein neuer Katalysator. GOOGL unveraendert. Kein Trade.",
+        "portfolioValue": 790.29
+      },
+      {
+        "time": "09:12",
+        "note": "Keine Aenderung - Xetra eroeffnet, Nasdaq erst ab 15:30 CET. Krypto breit fester (BTC +2,13%, ETH +2,55%, AVAX +3,35%), aber Fear&Greed unveraendert bei 34 (Fear), kein Einzelkatalysator. GOOGL unveraendert. Kein Trade.",
         "portfolioValue": 790.29
       }
     ]
