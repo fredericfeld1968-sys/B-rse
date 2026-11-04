@@ -11729,13 +11729,14 @@
   },
   {
     "date": "2026-11-04",
-    "marketOverview": "15:09-Lauf (Europe/Berlin): Nasdaq oeffnet erst um 15:30 CET, GOOGL-Position (pos-0031) daher weiterhin nicht regulaer handelbar - Vormarktkurs laut StockAnalysis jetzt bei 284,49 USD (+1,59% vs. Schlusskurs 280,03 USD vom 03.11.), damit erstmals seit dem Kauf leicht ueber dem Einstandsniveau von 283,47 USD. Hintergrund: Chip-Rebound nach AMD-Zahlen (+7%) stuetzt Nasdaq-Futures, waehrend die US-Zwischenwahlen (Demokraten uebernehmen offenbar den Kongress) und ein grosser Binance-Hack (6,3 Mrd. USD) weiterhin auf der Risikostimmung lasten. Krypto seit dem letzten Lauf praktisch unveraendert (BTC 78.201 USD, +1,41% 24h, Fear&Greed-Index unveraendert bei 34/Fear via Alternative.me) - kein neuer Einzelkatalysator erkennbar.",
-    "decision": "Kein Trade. Tagesbudget bereits beim 00:07-Lauf gutgeschrieben (lastGrantDate=2026-11-04), keine erneute Gutschrift. GOOGL-Position (pos-0031) auf Vormarktkurs 284,49 USD aktualisiert (Nasdaq oeffnet erst 15:30 CET); Position damit erstmals seit Kauf leicht im Plus (+0,36%), aber noch weit von der etablierten Ziel-Gewinnspanne (7-9%) entfernt - Position bleibt offen. Keine neue Position: Krypto bewegt sich seit dem letzten Lauf nur marginal, Fear&Greed unveraendert bei 34 (Fear); keine neue, ueberzeugende Einzel-Gelegenheit erkennbar, zumal Aktien/ETFs/Rohstoffe erst in rund 20 Minuten regulaer handelbar werden.",
-    "reasoning": "Kein Trade. Kurse gegenueber dem 14:09-Lauf kaum veraendert (BTC weiterhin um 78.000-78.300 USD, Fear&Greed-Index konstant bei 34) - keine neue, handelbare Bewegung. Aktien/ETFs/Rohstoffe sind vor regulaerem Handelsbeginn an der Nasdaq (15:30 CET, in ca. 20 Minuten) nicht sinnvoll handelbar; Xetra ist zwar offen, aber fuer die gehaltene US-Position (GOOGL) nicht preisbildend. Keine frische, mehrfach bestaetigte Nachrichtenlage gefunden, die einen spekulativen Einstieg rechtfertigen wuerde. Keine Position verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "marketOverview": "16:14-Lauf (Europe/Berlin): Nasdaq und Xetra regulaer offen. GOOGL (pos-0031) auf 289,84 USD gestiegen (Yahoo Finance, 9:46 EST, +3,50% intraday, Schlusskurs 03.11. war 280,03 USD) - Chip-/Tech-Rally nach starken AMD-Zahlen und Erleichterung ueber die US-Zwischenwahlen. Breite, mehrfach unabhaengig bestaetigte Krypto-Rally (TradingView/Coinpedia, Invezz, FXStreet, KuCoin, Yahoo Finance): BTC via Binance live auf ca. 80.800 USD (+4,5% 24h), ETH +6,3% auf 2.437 USD, AVAX +6,1%, ADA +5,3%, XRP +4,9%, SOL +4,5% - getrieben von der sich abzeichnenden demokratischen Kongressmehrheit bei den Midterms, einem auf ein Fuenf-Wochen-Tief gefallenen US-Dollar und einer Short-Squeeze/Liquidationswelle (~500 Mio. USD). Gold zieht parallel Richtung 4.050 USD an.",
+    "decision": "Tagesbudget bereits beim 00:07-Lauf gutgeschrieben (lastGrantDate=2026-11-04), keine erneute Gutschrift. GOOGL-Position (pos-0031) auf 289,84 USD aktualisiert (+2,25% seit Kauf), bleibt unter der Ziel-Gewinnspanne (7-9%) offen. Neue spekulative Position pos-0032 (Bitcoin, 800 EUR, Kauf bei 80.811,89 USD) eroeffnet: breiter, synchroner Krypto-Rebound mit konkretem, mehrfach bestaetigtem Katalysator (Demokraten-Vorsprung bei den Midterms, USD-Schwaeche, Short-Squeeze) - kein Einzelcoin-Ausreisser, sondern marktbreite Bewegung. Freies Kapital vor dem Kauf: 90.441,50 EUR, Kaufsumme 800 EUR liegt deutlich darunter.",
+    "reasoning": "Breiter, von fuenf unabhaengigen Quellen am selben Tag bestaetigter Krypto-Rebound (BTC/ETH/AVAX/ADA/XRP/SOL alle +4-6% in 24h) mit konkretem Makro-Katalysator (Zwischenwahl-Ergebnis, USD-Schwaeche, Liquidationswelle) ist genau das Muster, das in diesem Portfolio bisher wiederholt erfolgreich gehandelt wurde (z.B. BTC-Ausbrueche 19.08./18.09.). Passend zum spekulativen, kurzfristigen Risikoprofil daher Einstieg in BTC als liquidesten und am breitesten bestaetigten Titel der Bewegung. GOOGL bleibt offen, da der Gewinn (+2,25%) noch deutlich unter der etablierten Ziel-Gewinnspanne (7-9%) liegt und keine Verschlechterung der Fundamentaldaten vorliegt. Keine Position verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [
-      "pos-0031"
+      "pos-0031",
+      "pos-0032"
     ],
-    "portfolioValueEnd": 802.88,
+    "portfolioValueEnd": 1617.98,
     "updates": [
       {
         "time": "00:07",
@@ -11816,6 +11817,11 @@
         "time": "15:09",
         "note": "Keine Aenderung - GOOGL-Vormarktkurs auf 284,49 USD aktualisiert (jetzt leicht ueber Einstand, +0,36%; Nasdaq oeffnet erst in 20 Min. um 15:30 CET). Krypto praktisch unveraendert (BTC 78.201 USD, Fear&Greed weiterhin 34). Kein Trade.",
         "portfolioValue": 802.88
+      },
+      {
+        "time": "16:14",
+        "note": "Kauf Bitcoin 800 EUR (80.811,89 USD) - breiter, mehrfach bestaetigter Krypto-Rebound (BTC/ETH/AVAX/ADA/XRP/SOL alle +4-6%) nach US-Zwischenwahlen/USD-Schwaeche. GOOGL auf 289,84 USD aktualisiert (+2,25%).",
+        "portfolioValue": 1617.98
       }
     ]
   }
