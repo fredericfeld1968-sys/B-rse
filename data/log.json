@@ -11729,9 +11729,9 @@
   },
   {
     "date": "2026-11-04",
-    "marketOverview": "00:07-Lauf (Europe/Berlin): US-Kassamarkt seit Mitternacht geschlossen, naechste Oeffnung erst 15:30 CET. AMD meldete nach US-Boersenschluss starke Q3-Zahlen (Umsatz 13,38 Mrd. USD, +45% YoY, Rechenzentrums-Umsatz +97% YoY, adj. EPS 2,09 USD vs. ca. 1,95-1,97 USD erwartet) mit einer Q4-Guidance von ca. 17 Mrd. USD (+/-3%) klar ueber dem Konsens von 16,29 Mrd. USD - mehrfach unabhaengig bestaetigt (CNBC, Benzinga, Yahoo Finance, StockTitan), Kurs sprang nachboersenheutig um rund 7-8% auf ca. 519-520 USD. Da US-Aktien ausserhalb der regulaeren Handelszeiten nicht handelbar sind, kein Einstieg trotz starkem fundamentalem Katalysator - Beobachtung fuer die Eroeffnung um 15:30 CET. Kryptomarkt (CoinGecko) zeigt breite, aber moderate Gewinne ohne klaren Einzelkatalysator: BTC 77.763 USD (+1,38% 24h), ETH 2.288,22 USD (+1,65%), SOL 93,28 USD (+1,44%), XRP 1,28 USD (+2,34%), AVAX 8,52 USD (+1,59%), ADA 0,1907 USD (+1,07%), DOGE 0,07542 USD (+1,61%). US-Zwischenwahl-Auszaehlung weiterhin ohne belastbares Endergebnis auffindbar.",
-    "decision": "Kein Trade. Neuer Kalendertag: Tagesbudget gutgeschrieben (totalFreshCapitalEur 91.000 -> 92.000 EUR, lastGrantDate auf 2026-11-04 gesetzt). GOOGL-Position (pos-0031) unveraendert bei 280,03 USD gehalten, da seit Handelsschluss keine neuen regulaeren Kursdaten vorliegen. Keine neue Position: Aktien/ETFs/Rohstoffe nachts nicht handelbar (AMD-Zahlen trotz starkem Beat daher aktuell nicht umsetzbar), Krypto zeigt nur breite, moderate Gewinne von rund 1-2% ohne ueberzeugenden Einzelkatalysator oder Ausbruch - keine wirklich ueberzeugende Gelegenheit im Sinne der Vorgaben.",
-    "reasoning": "Kein Trade. Neuer Kalendertag: Tagesbudget gutgeschrieben (totalFreshCapitalEur 91.000 -> 92.000 EUR, lastGrantDate auf 2026-11-04 gesetzt). GOOGL-Position (pos-0031) unveraendert bei 280,03 USD gehalten, da seit Handelsschluss keine neuen regulaeren Kursdaten vorliegen. Keine neue Position: Aktien/ETFs/Rohstoffe nachts nicht handelbar (AMD-Zahlen trotz starkem Beat daher aktuell nicht umsetzbar), Krypto zeigt nur breite, moderate Gewinne von rund 1-2% ohne ueberzeugenden Einzelkatalysator oder Ausbruch - keine wirklich ueberzeugende Gelegenheit im Sinne der Vorgaben.",
+    "marketOverview": "01:08-Lauf (Europe/Berlin): US-Kassamarkt weiterhin geschlossen (Oeffnung erst 15:30 CET). Kryptomarkt (CoinGecko) seit dem 00:07-Lauf nahezu unveraendert bis minimal schwaecher: BTC 77.402 USD (+1,04% 24h, vorher 77.763 USD), ETH 2.275,36 USD (+1,24%), SOL 92,81 USD (+1,04%), XRP 1,28 USD (+2,25%), AVAX 8,52 USD (+1,82%), ADA 0,1902 USD (+0,86%), DOGE 0,07522 USD (+1,59%) - keine neue Dynamik oder Einzelkatalysator erkennbar. GOOGL-Kassakurs unveraendert bei 280,03 USD (Markt geschlossen, keine frischen Handelsdaten). AMD-Nachboersenreaktion auf die starken Q3-Zahlen (+7-8%) bleibt bestehen, aber Aktien sind nachts nicht handelbar.",
+    "decision": "Kein Trade. Tagesbudget wurde bereits beim 00:07-Lauf fuer heute gutgeschrieben (lastGrantDate=2026-11-04), daher keine erneute Gutschrift. GOOGL-Position (pos-0031) unveraendert bei 280,03 USD gehalten (Markt geschlossen). Keine neue Position: Aktien/ETFs/Rohstoffe nachts nicht handelbar, Krypto zeigt gegenueber dem letzten Lauf keine nennenswerte Bewegung (alle Werte innerhalb von +/-0,5%) und keinen ueberzeugenden Einzelkatalysator.",
+    "reasoning": "Kein Trade. Tagesbudget wurde bereits beim 00:07-Lauf fuer heute gutgeschrieben (lastGrantDate=2026-11-04), daher keine erneute Gutschrift. GOOGL-Position (pos-0031) unveraendert bei 280,03 USD gehalten (Markt geschlossen). Keine neue Position: Aktien/ETFs/Rohstoffe nachts nicht handelbar, Krypto zeigt gegenueber dem letzten Lauf keine nennenswerte Bewegung (alle Werte innerhalb von +/-0,5%) und keinen ueberzeugenden Einzelkatalysator.",
     "positionIds": [
       "pos-0031"
     ],
@@ -11740,6 +11740,11 @@
       {
         "time": "00:07",
         "note": "Keine Aenderung - neuer Tag, Tagesbudget gutgeschrieben (+1.000 EUR). AMD nachboersenheutig +7-8% auf starke Q3-Zahlen, aber Aktien nachts nicht handelbar. Krypto nur moderat fester (BTC +1,38%, ETH +1,65%, SOL +1,44%) ohne ueberzeugenden Ausbruch. Kein Trade.",
+        "portfolioValue": 790.29
+      },
+      {
+        "time": "01:08",
+        "note": "Keine Aenderung - Krypto kaum bewegt (alle Werte innerhalb +/-0,5% seit letztem Lauf), GOOGL unveraendert (Markt geschlossen). Kein Trade.",
         "portfolioValue": 790.29
       }
     ]
