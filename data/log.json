@@ -11729,9 +11729,9 @@
   },
   {
     "date": "2026-11-04",
-    "marketOverview": "04:08-Lauf (Europe/Berlin): US-/EU-Kassamaerkte weiterhin geschlossen (NYSE/Nasdaq-Oeffnung erst 15:30 CET). Nach Schliessung der Wahllokale zu den US-Midterms verlor Bitcoin seine vorherigen Gewinne und fiel unter 77.000 USD (zuvor Tageshoch 77.965,50 USD), begleitet von ueber 200 Mio. USD Liquidationen (ueberwiegend Longs); laut Live-Trackern war die Mehrheit in mind. einer Kongresskammer zuletzt noch nicht final ausgezaehlt. Bitcoin bewegt sich damit weiterhin in der fuenften Verlustwoche in Folge, Sentiment bleibt klar in der Furcht-Zone. Kein frischer, ueberzeugender Einzelkatalysator fuer einen Kryptokauf erkennbar. GOOGL-Kassakurs unveraendert bei 280,03 USD (Markt geschlossen).",
-    "decision": "Kein Trade. Tagesbudget wurde bereits beim 00:07-Lauf fuer heute gutgeschrieben (lastGrantDate=2026-11-04), daher erneut keine Gutschrift. GOOGL-Position (pos-0031) unveraendert bei 280,03 USD gehalten (Markt geschlossen). Keine neue Position: Aktien/ETFs/Rohstoffe nachts nicht handelbar, Krypto bleibt nach den Midterms insgesamt unsicher/bearish ohne ueberzeugenden Einzelkatalysator fuer einen spekulativen Kauf.",
-    "reasoning": "Kein Trade. Tagesbudget wurde bereits beim 00:07-Lauf fuer heute gutgeschrieben (lastGrantDate=2026-11-04), daher erneut keine Gutschrift. GOOGL-Position (pos-0031) unveraendert bei 280,03 USD gehalten (Markt geschlossen). Keine neue Position: Aktien/ETFs/Rohstoffe nachts nicht handelbar, Krypto bleibt nach den Midterms insgesamt unsicher/bearish ohne ueberzeugenden Einzelkatalysator fuer einen spekulativen Kauf.",
+    "marketOverview": "05:09-Lauf (Europe/Berlin): US-/EU-Kassamaerkte weiterhin geschlossen (NYSE/Nasdaq-Oeffnung erst 15:30 CET). Bitcoin bleibt nach den Midterms unter Druck (laut aktuellen Berichten unter 76.000-80.000 USD, Hintergrund: hawkishe Fed-Haltung, Sorge vor einem demokratischen Sieg bei den Zwischenwahlen, ETF-Abfluesse von ueber 643 Mio. USD im Oktober sowie Nachwirkungen eines grossen Binance-Sicherheitsvorfalls). Kein frischer, verlaesslich bestaetigter Einzelkatalysator fuer einen Kryptokauf erkennbar. GOOGL-Kassakurs unveraendert bei 280,03 USD (Markt geschlossen).",
+    "decision": "Kein Trade. Tagesbudget wurde bereits beim 00:07-Lauf fuer heute gutgeschrieben (lastGrantDate=2026-11-04), daher keine erneute Gutschrift. GOOGL-Position (pos-0031) unveraendert bei 280,03 USD gehalten (Markt geschlossen). Keine neue Position: Aktien/ETFs/Rohstoffe nachts nicht handelbar, Kryptomarkt bleibt breit risikoavers (Midterm-Unsicherheit, ETF-Abfluesse, Binance-Nachwirkungen) ohne ueberzeugenden Einzelkatalysator fuer einen spekulativen Kauf.",
+    "reasoning": "Kein Trade. Tagesbudget wurde bereits beim 00:07-Lauf fuer heute gutgeschrieben (lastGrantDate=2026-11-04), daher keine erneute Gutschrift. GOOGL-Position (pos-0031) unveraendert bei 280,03 USD gehalten (Markt geschlossen). Keine neue Position: Aktien/ETFs/Rohstoffe nachts nicht handelbar, Kryptomarkt bleibt breit risikoavers (Midterm-Unsicherheit, ETF-Abfluesse, Binance-Nachwirkungen) ohne ueberzeugenden Einzelkatalysator fuer einen spekulativen Kauf.",
     "positionIds": [
       "pos-0031"
     ],
@@ -11760,6 +11760,11 @@
       {
         "time": "04:08",
         "note": "Keine Aenderung - Krypto bleibt insgesamt schwach/unsicher nach den US-Midterms (Kongressmehrheiten laut Live-Trackern z.T. noch nicht final ausgezaehlt, BTC ca. 76.500-78.000 USD, rund 200 Mio. USD Liquidationen, fuenfte Verlustwoche in Folge, Fear-Sentiment). Kein neuer ueberzeugender Einzelkatalysator. GOOGL unveraendert bei 280,03 USD (Markt geschlossen). Kein Trade.",
+        "portfolioValue": 790.29
+      },
+      {
+        "time": "05:09",
+        "note": "Keine Aenderung - Krypto bleibt nach den Midterms unter Druck (BTC unter 76-80k, ETF-Abfluesse, Binance-Nachwirkungen), kein verlaesslicher Einzelkatalysator. GOOGL unveraendert (Markt geschlossen). Kein Trade.",
         "portfolioValue": 790.29
       }
     ]
