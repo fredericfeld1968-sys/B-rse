@@ -11729,9 +11729,9 @@
   },
   {
     "date": "2026-11-04",
-    "marketOverview": "03:07-Lauf (Europe/Berlin): US-/EU-Kassamaerkte weiterhin geschlossen (NYSE/Nasdaq-Oeffnung erst 15:30 CET). Krypto bleibt gemaess CoinDesk-Liveblog und aktuellen Marktberichten insgesamt schwach: Bitcoin notiert bei ca. 76.500-77.500 USD und steuert auf die fuenfte Verlustwoche in Folge zu (von ca. 87.000 USD in KW40 auf aktuell ~76.500 USD), Sentiment laut Marktberichten klar in der Furcht-Zone (Fear), begleitet von anhaltenden ETF-Abfluessen. Hintergrund ist primaer die Unsicherheit rund um die laufende Auszaehlung der US-Zwischenwahlen (Midterms); Nasdaq-100-Futures dagegen leicht positiv (+0,8%), getrieben von Hoffnung auf politische Klarheit. GOOGL-Kassakurs unveraendert bei 280,03 USD (Markt geschlossen). Kein frischer, ueberzeugender Einzelkatalysator fuer einen Kryptokauf erkennbar.",
-    "decision": "Kein Trade. Tagesbudget wurde bereits beim 00:07-Lauf fuer heute gutgeschrieben (lastGrantDate=2026-11-04), daher erneut keine Gutschrift. GOOGL-Position (pos-0031) unveraendert bei 280,03 USD gehalten (Markt geschlossen). Keine neue Position: Aktien/ETFs/Rohstoffe nachts nicht handelbar, Krypto insgesamt bearish (fuenfte Verlustwoche, Fear-Sentiment, ETF-Abfluesse) ohne ueberzeugenden Einzelkatalysator fuer einen spekulativen Kauf.",
-    "reasoning": "Kein Trade. Tagesbudget wurde bereits beim 00:07-Lauf fuer heute gutgeschrieben (lastGrantDate=2026-11-04), daher erneut keine Gutschrift. GOOGL-Position (pos-0031) unveraendert bei 280,03 USD gehalten (Markt geschlossen). Keine neue Position: Aktien/ETFs/Rohstoffe nachts nicht handelbar, Krypto insgesamt bearish (fuenfte Verlustwoche, Fear-Sentiment, ETF-Abfluesse) ohne ueberzeugenden Einzelkatalysator fuer einen spekulativen Kauf.",
+    "marketOverview": "04:08-Lauf (Europe/Berlin): US-/EU-Kassamaerkte weiterhin geschlossen (NYSE/Nasdaq-Oeffnung erst 15:30 CET). Nach Schliessung der Wahllokale zu den US-Midterms verlor Bitcoin seine vorherigen Gewinne und fiel unter 77.000 USD (zuvor Tageshoch 77.965,50 USD), begleitet von ueber 200 Mio. USD Liquidationen (ueberwiegend Longs); laut Live-Trackern war die Mehrheit in mind. einer Kongresskammer zuletzt noch nicht final ausgezaehlt. Bitcoin bewegt sich damit weiterhin in der fuenften Verlustwoche in Folge, Sentiment bleibt klar in der Furcht-Zone. Kein frischer, ueberzeugender Einzelkatalysator fuer einen Kryptokauf erkennbar. GOOGL-Kassakurs unveraendert bei 280,03 USD (Markt geschlossen).",
+    "decision": "Kein Trade. Tagesbudget wurde bereits beim 00:07-Lauf fuer heute gutgeschrieben (lastGrantDate=2026-11-04), daher erneut keine Gutschrift. GOOGL-Position (pos-0031) unveraendert bei 280,03 USD gehalten (Markt geschlossen). Keine neue Position: Aktien/ETFs/Rohstoffe nachts nicht handelbar, Krypto bleibt nach den Midterms insgesamt unsicher/bearish ohne ueberzeugenden Einzelkatalysator fuer einen spekulativen Kauf.",
+    "reasoning": "Kein Trade. Tagesbudget wurde bereits beim 00:07-Lauf fuer heute gutgeschrieben (lastGrantDate=2026-11-04), daher erneut keine Gutschrift. GOOGL-Position (pos-0031) unveraendert bei 280,03 USD gehalten (Markt geschlossen). Keine neue Position: Aktien/ETFs/Rohstoffe nachts nicht handelbar, Krypto bleibt nach den Midterms insgesamt unsicher/bearish ohne ueberzeugenden Einzelkatalysator fuer einen spekulativen Kauf.",
     "positionIds": [
       "pos-0031"
     ],
@@ -11755,6 +11755,11 @@
       {
         "time": "03:08",
         "note": "Keine Aenderung - Krypto insgesamt bearish (BTC ca. 76.500-77.500 USD, fuenfte Verlustwoche, Fear-Sentiment, ETF-Abfluesse), Hintergrund US-Midterm-Unsicherheit. GOOGL unveraendert (Markt geschlossen). Kein Trade.",
+        "portfolioValue": 790.29
+      },
+      {
+        "time": "04:08",
+        "note": "Keine Aenderung - Krypto bleibt insgesamt schwach/unsicher nach den US-Midterms (Kongressmehrheiten laut Live-Trackern z.T. noch nicht final ausgezaehlt, BTC ca. 76.500-78.000 USD, rund 200 Mio. USD Liquidationen, fuenfte Verlustwoche in Folge, Fear-Sentiment). Kein neuer ueberzeugender Einzelkatalysator. GOOGL unveraendert bei 280,03 USD (Markt geschlossen). Kein Trade.",
         "portfolioValue": 790.29
       }
     ]
