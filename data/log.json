@@ -11729,9 +11729,9 @@
   },
   {
     "date": "2026-11-04",
-    "marketOverview": "01:08-Lauf (Europe/Berlin): US-Kassamarkt weiterhin geschlossen (Oeffnung erst 15:30 CET). Kryptomarkt (CoinGecko) seit dem 00:07-Lauf nahezu unveraendert bis minimal schwaecher: BTC 77.402 USD (+1,04% 24h, vorher 77.763 USD), ETH 2.275,36 USD (+1,24%), SOL 92,81 USD (+1,04%), XRP 1,28 USD (+2,25%), AVAX 8,52 USD (+1,82%), ADA 0,1902 USD (+0,86%), DOGE 0,07522 USD (+1,59%) - keine neue Dynamik oder Einzelkatalysator erkennbar. GOOGL-Kassakurs unveraendert bei 280,03 USD (Markt geschlossen, keine frischen Handelsdaten). AMD-Nachboersenreaktion auf die starken Q3-Zahlen (+7-8%) bleibt bestehen, aber Aktien sind nachts nicht handelbar.",
-    "decision": "Kein Trade. Tagesbudget wurde bereits beim 00:07-Lauf fuer heute gutgeschrieben (lastGrantDate=2026-11-04), daher keine erneute Gutschrift. GOOGL-Position (pos-0031) unveraendert bei 280,03 USD gehalten (Markt geschlossen). Keine neue Position: Aktien/ETFs/Rohstoffe nachts nicht handelbar, Krypto zeigt gegenueber dem letzten Lauf keine nennenswerte Bewegung (alle Werte innerhalb von +/-0,5%) und keinen ueberzeugenden Einzelkatalysator.",
-    "reasoning": "Kein Trade. Tagesbudget wurde bereits beim 00:07-Lauf fuer heute gutgeschrieben (lastGrantDate=2026-11-04), daher keine erneute Gutschrift. GOOGL-Position (pos-0031) unveraendert bei 280,03 USD gehalten (Markt geschlossen). Keine neue Position: Aktien/ETFs/Rohstoffe nachts nicht handelbar, Krypto zeigt gegenueber dem letzten Lauf keine nennenswerte Bewegung (alle Werte innerhalb von +/-0,5%) und keinen ueberzeugenden Einzelkatalysator.",
+    "marketOverview": "02:08-Lauf (Europe/Berlin): US-/EU-Kassamaerkte weiterhin geschlossen (NYSE/Nasdaq-Oeffnung erst 15:30 CET). Kryptomarkt (CoinGecko) seit dem 01:08-Lauf leicht schwaecher ueber die gesamte Breite: BTC 76.801 USD (-0,39% 24h, vorher 77.402 USD), ETH 2.260,83 USD (+0,13%), SOL 91,77 USD (-0,67%, vorher 92,81 USD), XRP 1,25 USD (+0,37%), AVAX 8,37 USD (-0,31%), ADA 0,1867 USD (-1,46%), DOGE 0,07404 USD (-0,41%) - durchgehend kleine Rueckgaenge ohne erkennbaren Einzelkatalysator oder Ausbruch. Keine frischen Wirtschafts- oder Geopolitik-Schlagzeilen seit dem letzten Lauf gefunden. GOOGL-Kassakurs unveraendert bei 280,03 USD (Markt geschlossen).",
+    "decision": "Kein Trade. Tagesbudget wurde bereits beim 00:07-Lauf fuer heute gutgeschrieben (lastGrantDate=2026-11-04), daher erneut keine Gutschrift. GOOGL-Position (pos-0031) unveraendert bei 280,03 USD gehalten (Markt geschlossen). Keine neue Position: Aktien/ETFs/Rohstoffe nachts nicht handelbar, Krypto zeigt gegenueber dem letzten Lauf nur kleine Rueckgaenge (alle Werte innerhalb von -1,5% bis +0,4%) ohne ueberzeugenden Einzelkatalysator.",
+    "reasoning": "Kein Trade. Tagesbudget wurde bereits beim 00:07-Lauf fuer heute gutgeschrieben (lastGrantDate=2026-11-04), daher erneut keine Gutschrift. GOOGL-Position (pos-0031) unveraendert bei 280,03 USD gehalten (Markt geschlossen). Keine neue Position: Aktien/ETFs/Rohstoffe nachts nicht handelbar, Krypto zeigt gegenueber dem letzten Lauf nur kleine Rueckgaenge (alle Werte innerhalb von -1,5% bis +0,4%) ohne ueberzeugenden Einzelkatalysator.",
     "positionIds": [
       "pos-0031"
     ],
@@ -11745,6 +11745,11 @@
       {
         "time": "01:08",
         "note": "Keine Aenderung - Krypto kaum bewegt (alle Werte innerhalb +/-0,5% seit letztem Lauf), GOOGL unveraendert (Markt geschlossen). Kein Trade.",
+        "portfolioValue": 790.29
+      },
+      {
+        "time": "02:08",
+        "note": "Keine Aenderung - Krypto durchgehend leicht schwaecher (BTC -0,39%, SOL -0,67%, ADA -1,46%), kein Einzelkatalysator. GOOGL unveraendert (Markt geschlossen). Kein Trade.",
         "portfolioValue": 790.29
       }
     ]
