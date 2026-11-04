@@ -11729,9 +11729,9 @@
   },
   {
     "date": "2026-11-04",
-    "marketOverview": "09:12-Lauf (Europe/Berlin): Xetra hat soeben (09:00 CET) eroeffnet, NYSE/Nasdaq oeffnen erst um 15:30 CET - GOOGL-Position (pos-0031) daher weiterhin unveraendert bei 280,03 USD. Krypto zieht breit weiter an (BTC +2,13% auf ca. 78.268 USD, ETH +2,55%, AVAX +3,35%, ADA +2,42%, XRP +1,98%, DOGE +1,72% je 24h via CoinGecko), setzt die seit der Nacht laufende Post-Midterm-Erholung fort. Der Fear&Greed-Index verbleibt jedoch unveraendert bei 34 (Fear) - kein Sentiment-Umschwung, sondern eine breite, mehr oder weniger gleichmaessige Erholungsbewegung ohne klaren Einzelkatalysator. Zu den endgueltigen Kongressmehrheiten nach den Midterms liegen weiterhin keine verlaesslich bestaetigten finalen Ergebnisse vor.",
-    "decision": "Kein Trade. Tagesbudget wurde bereits beim 00:07-Lauf fuer heute gutgeschrieben (lastGrantDate=2026-11-04), daher keine erneute Gutschrift. GOOGL-Position (pos-0031) unveraendert gehalten (Nasdaq oeffnet erst 15:30 CET). Keine neue Position: die Krypto-Erholung ist breit über alle Coins verteilt (+1,5% bis +3,4%) ohne einen einzelnen ueberzeugenden Katalysator, und der Fear&Greed-Index bleibt bei 34 (Fear) - passend zum bisherigen disziplinierten Vorgehen wird auf eine klarere Einzelgelegenheit gewartet.",
-    "reasoning": "Kein Trade. CoinGecko-Live-Daten zeigen eine gleichmaessige, breite Erholung im Kryptomarkt (BTC/ETH/SOL/XRP/DOGE/AVAX/ADA alle zwischen +1,48% und +3,35% in 24h), was eher auf eine generelle Risk-on-Stimmung nach den Midterms als auf einen handelbaren Einzelkatalysator hindeutet (vgl. erfolgreiche Trades wie AVAX/NYSE-ICE oder QNT/Clearing House, die stets auf einem spezifischen, neuen fundamentalen Ereignis beruhten). Aktien/ETFs/Rohstoffe sind vor Handelsbeginn an der Nasdaq (15:30 CET) nicht sinnvoll bewertbar; Xetra ist zwar offen, aber fuer die gehaltene US-Position (GOOGL) nicht preisbildend. Keine Position verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "marketOverview": "10:10-Lauf (Europe/Berlin): Xetra ist offen, NYSE/Nasdaq oeffnen erst um 15:30 CET - GOOGL-Position (pos-0031) daher weiterhin unveraendert (letzter Schlusskurs 280,03 USD, Vormarkt leicht schwaecher bei ca. 279,10 USD laut StockAnalysis). Krypto praktisch unveraendert zum letzten Lauf (BTC 78.295 USD, +2,12% 24h via CoinGecko, ETH +2,57%, SOL +1,07%, AVAX +3,24%), die Post-Midterm-Erholung setzt sich nur noch minimal fort. Der Fear&Greed-Index verbleibt unveraendert bei 34 (Fear, Alternative.me) - kein neuer Einzelkatalysator erkennbar.",
+    "decision": "Kein Trade. Tagesbudget wurde bereits beim 00:07-Lauf fuer heute gutgeschrieben (lastGrantDate=2026-11-04), daher keine erneute Gutschrift. GOOGL-Position (pos-0031) unveraendert gehalten (Nasdaq oeffnet erst 15:30 CET). Keine neue Position: die Kryptobewegung seit dem letzten Lauf ist marginal (<0,5 Prozentpunkte Aenderung je Coin) und bietet keinen ueberzeugenden neuen Einzelkatalysator; der Fear&Greed-Index bleibt bei 34 (Fear).",
+    "reasoning": "Kein Trade. CoinGecko-Live-Daten zeigen gegenueber dem 09:12-Lauf nahezu unveraenderte Kurse (BTC 78.268 -> 78.295 USD, ETH/SOL/AVAX jeweils innerhalb von 0,5 Prozentpunkten) - keine neue, handelbare Bewegung. Aktien/ETFs/Rohstoffe sind vor Handelsbeginn an der Nasdaq (15:30 CET) nicht sinnvoll bewertbar; Xetra ist zwar offen, aber fuer die gehaltene US-Position (GOOGL) nicht preisbildend. Keine Position verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [
       "pos-0031"
     ],
@@ -11785,6 +11785,11 @@
       {
         "time": "09:12",
         "note": "Keine Aenderung - Xetra eroeffnet, Nasdaq erst ab 15:30 CET. Krypto breit fester (BTC +2,13%, ETH +2,55%, AVAX +3,35%), aber Fear&Greed unveraendert bei 34 (Fear), kein Einzelkatalysator. GOOGL unveraendert. Kein Trade.",
+        "portfolioValue": 790.29
+      },
+      {
+        "time": "10:10",
+        "note": "Keine Aenderung - Krypto praktisch seitwaerts zum letzten Lauf (BTC 78.295 USD, +2,12% 24h, Fear&Greed unveraendert 34), GOOGL unveraendert (Nasdaq oeffnet erst 15:30 CET, Vormarkt -0,33%). Kein Trade.",
         "portfolioValue": 790.29
       }
     ]
