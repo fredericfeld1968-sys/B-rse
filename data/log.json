@@ -11729,9 +11729,9 @@
   },
   {
     "date": "2026-11-04",
-    "marketOverview": "02:08-Lauf (Europe/Berlin): US-/EU-Kassamaerkte weiterhin geschlossen (NYSE/Nasdaq-Oeffnung erst 15:30 CET). Kryptomarkt (CoinGecko) seit dem 01:08-Lauf leicht schwaecher ueber die gesamte Breite: BTC 76.801 USD (-0,39% 24h, vorher 77.402 USD), ETH 2.260,83 USD (+0,13%), SOL 91,77 USD (-0,67%, vorher 92,81 USD), XRP 1,25 USD (+0,37%), AVAX 8,37 USD (-0,31%), ADA 0,1867 USD (-1,46%), DOGE 0,07404 USD (-0,41%) - durchgehend kleine Rueckgaenge ohne erkennbaren Einzelkatalysator oder Ausbruch. Keine frischen Wirtschafts- oder Geopolitik-Schlagzeilen seit dem letzten Lauf gefunden. GOOGL-Kassakurs unveraendert bei 280,03 USD (Markt geschlossen).",
-    "decision": "Kein Trade. Tagesbudget wurde bereits beim 00:07-Lauf fuer heute gutgeschrieben (lastGrantDate=2026-11-04), daher erneut keine Gutschrift. GOOGL-Position (pos-0031) unveraendert bei 280,03 USD gehalten (Markt geschlossen). Keine neue Position: Aktien/ETFs/Rohstoffe nachts nicht handelbar, Krypto zeigt gegenueber dem letzten Lauf nur kleine Rueckgaenge (alle Werte innerhalb von -1,5% bis +0,4%) ohne ueberzeugenden Einzelkatalysator.",
-    "reasoning": "Kein Trade. Tagesbudget wurde bereits beim 00:07-Lauf fuer heute gutgeschrieben (lastGrantDate=2026-11-04), daher erneut keine Gutschrift. GOOGL-Position (pos-0031) unveraendert bei 280,03 USD gehalten (Markt geschlossen). Keine neue Position: Aktien/ETFs/Rohstoffe nachts nicht handelbar, Krypto zeigt gegenueber dem letzten Lauf nur kleine Rueckgaenge (alle Werte innerhalb von -1,5% bis +0,4%) ohne ueberzeugenden Einzelkatalysator.",
+    "marketOverview": "03:07-Lauf (Europe/Berlin): US-/EU-Kassamaerkte weiterhin geschlossen (NYSE/Nasdaq-Oeffnung erst 15:30 CET). Krypto bleibt gemaess CoinDesk-Liveblog und aktuellen Marktberichten insgesamt schwach: Bitcoin notiert bei ca. 76.500-77.500 USD und steuert auf die fuenfte Verlustwoche in Folge zu (von ca. 87.000 USD in KW40 auf aktuell ~76.500 USD), Sentiment laut Marktberichten klar in der Furcht-Zone (Fear), begleitet von anhaltenden ETF-Abfluessen. Hintergrund ist primaer die Unsicherheit rund um die laufende Auszaehlung der US-Zwischenwahlen (Midterms); Nasdaq-100-Futures dagegen leicht positiv (+0,8%), getrieben von Hoffnung auf politische Klarheit. GOOGL-Kassakurs unveraendert bei 280,03 USD (Markt geschlossen). Kein frischer, ueberzeugender Einzelkatalysator fuer einen Kryptokauf erkennbar.",
+    "decision": "Kein Trade. Tagesbudget wurde bereits beim 00:07-Lauf fuer heute gutgeschrieben (lastGrantDate=2026-11-04), daher erneut keine Gutschrift. GOOGL-Position (pos-0031) unveraendert bei 280,03 USD gehalten (Markt geschlossen). Keine neue Position: Aktien/ETFs/Rohstoffe nachts nicht handelbar, Krypto insgesamt bearish (fuenfte Verlustwoche, Fear-Sentiment, ETF-Abfluesse) ohne ueberzeugenden Einzelkatalysator fuer einen spekulativen Kauf.",
+    "reasoning": "Kein Trade. Tagesbudget wurde bereits beim 00:07-Lauf fuer heute gutgeschrieben (lastGrantDate=2026-11-04), daher erneut keine Gutschrift. GOOGL-Position (pos-0031) unveraendert bei 280,03 USD gehalten (Markt geschlossen). Keine neue Position: Aktien/ETFs/Rohstoffe nachts nicht handelbar, Krypto insgesamt bearish (fuenfte Verlustwoche, Fear-Sentiment, ETF-Abfluesse) ohne ueberzeugenden Einzelkatalysator fuer einen spekulativen Kauf.",
     "positionIds": [
       "pos-0031"
     ],
@@ -11750,6 +11750,11 @@
       {
         "time": "02:08",
         "note": "Keine Aenderung - Krypto durchgehend leicht schwaecher (BTC -0,39%, SOL -0,67%, ADA -1,46%), kein Einzelkatalysator. GOOGL unveraendert (Markt geschlossen). Kein Trade.",
+        "portfolioValue": 790.29
+      },
+      {
+        "time": "03:08",
+        "note": "Keine Aenderung - Krypto insgesamt bearish (BTC ca. 76.500-77.500 USD, fuenfte Verlustwoche, Fear-Sentiment, ETF-Abfluesse), Hintergrund US-Midterm-Unsicherheit. GOOGL unveraendert (Markt geschlossen). Kein Trade.",
         "portfolioValue": 790.29
       }
     ]
