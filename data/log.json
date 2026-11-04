@@ -11729,13 +11729,14 @@
   },
   {
     "date": "2026-11-04",
-    "marketOverview": "05:09-Lauf (Europe/Berlin): US-/EU-Kassamaerkte weiterhin geschlossen (NYSE/Nasdaq-Oeffnung erst 15:30 CET). Bitcoin bleibt nach den Midterms unter Druck (laut aktuellen Berichten unter 76.000-80.000 USD, Hintergrund: hawkishe Fed-Haltung, Sorge vor einem demokratischen Sieg bei den Zwischenwahlen, ETF-Abfluesse von ueber 643 Mio. USD im Oktober sowie Nachwirkungen eines grossen Binance-Sicherheitsvorfalls). Kein frischer, verlaesslich bestaetigter Einzelkatalysator fuer einen Kryptokauf erkennbar. GOOGL-Kassakurs unveraendert bei 280,03 USD (Markt geschlossen).",
-    "decision": "Kein Trade. Tagesbudget wurde bereits beim 00:07-Lauf fuer heute gutgeschrieben (lastGrantDate=2026-11-04), daher keine erneute Gutschrift. GOOGL-Position (pos-0031) unveraendert bei 280,03 USD gehalten (Markt geschlossen). Keine neue Position: Aktien/ETFs/Rohstoffe nachts nicht handelbar, Kryptomarkt bleibt breit risikoavers (Midterm-Unsicherheit, ETF-Abfluesse, Binance-Nachwirkungen) ohne ueberzeugenden Einzelkatalysator fuer einen spekulativen Kauf.",
-    "reasoning": "Kein Trade. Tagesbudget wurde bereits beim 00:07-Lauf fuer heute gutgeschrieben (lastGrantDate=2026-11-04), daher keine erneute Gutschrift. GOOGL-Position (pos-0031) unveraendert bei 280,03 USD gehalten (Markt geschlossen). Keine neue Position: Aktien/ETFs/Rohstoffe nachts nicht handelbar, Kryptomarkt bleibt breit risikoavers (Midterm-Unsicherheit, ETF-Abfluesse, Binance-Nachwirkungen) ohne ueberzeugenden Einzelkatalysator fuer einen spekulativen Kauf.",
+    "marketOverview": "06:10-Lauf (Europe/Berlin): US-/EU-Kassamaerkte weiterhin geschlossen (Xetra-Oeffnung 09:00, NYSE/Nasdaq erst 15:30 CET). Kryptomarkt zeigt sich nach den schwachen Vortagen leicht erholt, aber ohne klare Richtung: Bitcoin bei ca. 77.230 USD (+0,67% 24h, CoinGecko live), Ethereum 2.277 USD (+1,21%), Solana 92,10 USD (+0,11%), XRP 1,27 USD (+1,49%), AVAX 8,49 USD (+1,71%), waehrend ADA, LINK und HBAR leicht im Minus notieren (-0,14% bis -1,54%). Kein eindeutiger Einzelkatalysator oder bestaetigter Ausbruch erkennbar, insgesamt bleibt die Marktstimmung nach den US-Midterms uneinheitlich. GOOGL- und Brent-Position unveraendert (Maerkte geschlossen).",
+    "decision": "Kein Trade. Tagesbudget wurde bereits beim 00:07-Lauf fuer heute gutgeschrieben (lastGrantDate=2026-11-04), daher keine erneute Gutschrift. GOOGL-Position (pos-0031) und Brent-Position (pos-0030) unveraendert gehalten (Maerkte geschlossen). Keine neue Position: Kryptomarkt zeigt zwar eine leichte Erholung (BTC +0,67%, ETH +1,21%, AVAX +1,71%), aber keine der Bewegungen ist stark oder eindeutig genug fuer eine ueberzeugende spekulative Position - alle 24h-Veraenderungen liegen unter 2%.",
+    "reasoning": "Kein Trade. Tagesbudget wurde bereits beim 00:07-Lauf fuer heute gutgeschrieben (lastGrantDate=2026-11-04), daher keine erneute Gutschrift. GOOGL-Position (pos-0031) und Brent-Position (pos-0030) unveraendert gehalten (Maerkte geschlossen). Keine neue Position: Kryptomarkt zeigt zwar eine leichte Erholung (BTC +0,67%, ETH +1,21%, AVAX +1,71%), aber keine der Bewegungen ist stark oder eindeutig genug fuer eine ueberzeugende spekulative Position - alle 24h-Veraenderungen liegen unter 2%.",
     "positionIds": [
+      "pos-0030",
       "pos-0031"
     ],
-    "portfolioValueEnd": 790.29,
+    "portfolioValueEnd": 1503.84,
     "updates": [
       {
         "time": "00:07",
@@ -11766,6 +11767,11 @@
         "time": "05:09",
         "note": "Keine Aenderung - Krypto bleibt nach den Midterms unter Druck (BTC unter 76-80k, ETF-Abfluesse, Binance-Nachwirkungen), kein verlaesslicher Einzelkatalysator. GOOGL unveraendert (Markt geschlossen). Kein Trade.",
         "portfolioValue": 790.29
+      },
+      {
+        "time": "06:10",
+        "note": "Keine Aenderung - Krypto leicht erholt aber ohne klaren Katalysator (BTC +0,67%, ETH +1,21%, SOL +0,11%, AVAX +1,71%, alle Bewegungen <2%). GOOGL/Brent unveraendert (Maerkte geschlossen). Kein Trade.",
+        "portfolioValue": 1503.84
       }
     ]
   }
