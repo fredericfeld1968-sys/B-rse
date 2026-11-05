@@ -11862,14 +11862,14 @@
   },
   {
     "date": "2026-11-05",
-    "marketOverview": "20:08 CET: GOOGL hat sich im regulaeren Handel deutlich erholt und notiert laut Yahoo Finance bei 283,20 USD (-1,98% zum Vortagesschluss, Markt noch offen) - praktisch auf Einstandsniveau (283,47 USD), nachdem der Kurs am Nachmittag zwischenzeitlich bis auf 278,35 USD gefallen war. Der breitere Chip-Sektor-Ausverkauf (Nvidia, Micron, Qualcomm) bleibt laut vorherigen Laeufen angespannt, aktuell aber ohne frische, mehrfach unabhaengig bestaetigte Eskalations- oder Erholungsmeldung fuer diesen Zeitpunkt auffindbar. BTC notiert laut CoinGecko-Live-API bei 75.896 USD (-5,45% 24h) - damit nahezu unveraendert zum letzten Lauf (75.800 USD) und weiterhin knapp unter der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%), aktuell bei -6,08%. Die 75.000-USD-Marke haelt weiterhin als Unterstuetzung.",
-    "decision": "Kein Trade - GOOGL auf 283,20 USD aktualisiert (-0,10% seit Kauf, deutliche Erholung vom Nachmittagstief), BTC auf 75.896 USD aktualisiert (-6,08% seit Kauf, leicht verbessert ggue. letztem Lauf). BTC bleibt knapp unter der Stop-Loss-Schwelle. Tagesbudget fuer 05.11. bereits frueher gutgeschrieben, keine erneute Gutschrift in diesem Lauf. Trotz hohem freiem Kapital (~90.641,50 EUR) kein neuer Kauf: keine neue, durch mehrere unabhaengige Quellen hart bestaetigte Gelegenheit fuer diesen Zeitpunkt identifiziert.",
-    "reasoning": "GOOGL hat sich im Tagesverlauf von einem Nachmittagstief (278,35 USD) deutlich erholt und notiert nun fast exakt auf Einstandsniveau - kein Handlungsbedarf, Position liegt klar innerhalb der ueblichen Schwankungsbreite. BTC (-6,08%) bleibt knapp unter der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%, analog Rheinmetall -6,56%, NVIDIA -7,24%) und hat sich gegenueber dem letzten Lauf (-6,20%) leicht erholt; die 75.000-USD-Marke haelt weiterhin als Unterstuetzung, daher weiterhin keine Glattstellung. Fuer einen Neukauf konnte kein frischer, mehrfach unabhaengig bestaetigter Einzelkatalysator identifiziert werden; der seit Stunden laufende Chip-Sektor-Ausverkauf bleibt ohne bestaetigte Bodenbildung, ein Dip-Kauf waere reines Fallmesser-Fangen. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "marketOverview": "21:14 CET: Breiter, mehrfach unabhaengig bestaetigter Risk-off-Schub setzt sich fort - Nasdaq Composite faellt auf ca. 24.396 Punkte (-5,2%, erstmals unter dem 200-Tage-Durchschnitt, >10% unter dem Rekordhoch vom 06.10. = Korrektur), S&P 500 -4,1% auf ca. 7.373, Dow -3,3%. VIX springt auf 24-28 (staerkster Sprung seit ueber zwei Jahren). Chip-Sektor-Crash verschaerft sich: Nvidia -8 bis -8,7%, AMD -14 bis -15%, Micron -15,2%, Qualcomm -8,5% nach Gewinnverfehlung (Handy-Chip-Umsatz -26% YoY). Ausloeser laut Yahoo Finance/CNBC/CNN (uebereinstimmend): Der demokratische Sieg in beiden Kammern bei den US-Zwischenwahlen schuert Sorgen um eine Verlangsamung der KI-/Rechenzentrums-Investitionen (MRB Partners). GOOGL erholt sich dennoch leicht auf 283,82 USD (-1,77% zum Vortagesschluss, aber praktisch auf Einstandsniveau von 283,47 USD). Gold profitiert als sicherer Hafen (+1,18% auf 4.121,10 USD), Brent/WTI leicht erholt (Iran-Eskalationssorgen nach Zwischenwahlen etwas geringer). BTC faellt laut CoinGecko/Yahoo-Live-Blog auf 76.021,87 USD (-5,0 bis -5,1% in 24h, erstmals seit gestern unter 76.000 USD), knapp unter der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%), aktuell bei -5,93%. Kein neuer, einzelwert-spezifischer, mehrfach bestaetigter Kaufkatalysator identifiziert - der dominante Trend ist ein breiter, makrogetriebener Ausverkauf.",
+    "decision": "Kein Trade - GOOGL auf 283,82 USD aktualisiert (+0,12% seit Kauf, stabil), BTC auf 76.021,87 USD aktualisiert (-5,93% seit Kauf, naeher an der Stop-Loss-Schwelle als zuvor, aber noch nicht erreicht). Tagesbudget fuer 05.11. bereits frueher gutgeschrieben, keine erneute Gutschrift in diesem Lauf. Trotz hohem freiem Kapital (~90.641,50 EUR) kein neuer Kauf: Marktumfeld ist ein breiter, makrogetriebener Risk-off-Schub (Nasdaq-Korrektur, VIX-Spike, Chip-Sektor-Crash) ohne einen einzelnen, mehrfach unabhaengig bestaetigten Kaufkatalysator - ein Dip-Kauf in dieses fallende Messer waere reine Spekulation ohne fundamentale Absicherung.",
+    "reasoning": "GOOGL notiert nahezu unveraendert zum Einstand, kein Handlungsbedarf. BTC naehert sich mit -5,93% der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%, analog Rheinmetall -6,56%, NVIDIA -7,24%), hat diese aber noch nicht erreicht - Position bleibt bestehen, wird beim naechsten Lauf erneut geprueft. Fuer einen Neukauf wurde das breite Marktbild (Nasdaq-Korrektur, Chip-Sektor-Crash, VIX-Spike nach Demokraten-Sieg bei den Zwischenwahlen) als rein negativer Makro-Katalysator eingeordnet, nicht als Einzeltitel-Chance - ohne bestaetigte Bodenbildung kein Dip-Kauf. Gold-Safe-Haven-Bewegung (+1,18%) ist zu schwach fuer eine neue spekulative Position. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [
       "pos-0031",
       "pos-0032"
     ],
-    "portfolioValueEnd": 1550.57,
+    "portfolioValueEnd": 1553.57,
     "updates": [
       {
         "time": "00:09",
@@ -11975,6 +11975,11 @@
         "time": "20:08",
         "note": "Keine Aenderung an Positionen - GOOGL deutlich erholt auf 283,20 USD aktualisiert (-0,10% seit Kauf), BTC auf 75.896 USD aktualisiert (-6,08% seit Kauf, leicht verbessert). Keine neue Gutschrift (bereits heute erfolgt). Kein Trade.",
         "portfolioValue": 1550.57
+      },
+      {
+        "time": "21:14",
+        "note": "Keine Aenderung an Positionen - GOOGL auf 283,82 USD aktualisiert (+0,12% seit Kauf), BTC auf 76.021,87 USD aktualisiert (-5,93% seit Kauf, naeher an Stop-Loss). Breiter Risk-off-Schub (Nasdaq-Korrektur, Chip-Crash, VIX-Spike nach US-Zwischenwahlen) ohne bestaetigten Einzeltitel-Kaufkatalysator. Kein Trade.",
+        "portfolioValue": 1553.57
       }
     ]
   }
