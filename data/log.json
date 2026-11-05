@@ -11862,14 +11862,14 @@
   },
   {
     "date": "2026-11-05",
-    "marketOverview": "11:07 CET: Xetra offen, US-Boersen oeffnen erst 15:30 CET. GOOGL weiterhin auf regulaerem NYSE-Schlusskurs vom 04.11. bei 288,93 USD (+1,93% seit Kauf), noch keine frischeren Vormarkt-Daten. BTC via CoinGecko-API live bei 80.359 USD (-0,56% seit Kauf, +2,6% 24h). Makro-Hintergrund unveraendert: demokratischer Kongressmehrheits-Sieg bei den US-Zwischenwahlen bereits eingepreist, Fed auf Halte-Kurs nach der letzten Sitzung (Cook/Hammack fuer 25bp-Hike), Regierungsstillstand blendet offizielle Jobs-/Inflationsdaten aus, Rohoel haelt sich nahe 96 USD/Barrel nach Berichten ueber einen US-Schlag auf Irans Qeshm-Insel, Gold mit Ausbruchsversuch Richtung 4.050-4.200 USD auf Dollarschwaeche. Nvidia/Micron sollen laut aelteren Berichten premarket wegen Waehler-Widerstand gegen KI-Rechenzentren schwaecheln, aktuelle Live-Kurse dazu nicht verifizierbar. Kein neuer, frisch bestaetigter Einzelkatalysator gefunden.",
-    "decision": "Kein Trade - GOOGL und BTC aktualisiert (beide weiterhin klar innerhalb des normalen Schwankungsbereichs, unter Gewinnmitnahme- und Stop-Loss-Schwellen). Tagesbudget fuer 05.11. bereits frueher gutgeschrieben, keine erneute Gutschrift in diesem Lauf.",
-    "reasoning": "GOOGL (+1,93%) und BTC (-0,56%) liegen beide deutlich unter den Schwellen fuer Gewinnmitnahme (ca. 7-9%) bzw. Stop-Loss (-6,5 bis -7,5%). Die Wahl-Story ist bereits eingepreist, der Fed-/Shutdown-/Oel-Hintergrund ist unveraendert zum letzten Lauf und liefert keinen frischen, konkret datierten Einzelkatalysator fuer eine neue spekulative Position (Nvidia/Micron-Bericht nicht aktuell verifizierbar). Freies Kapital bleibt bei ca. 90.641,50 EUR verfuegbar, aber ohne ueberzeugende Gelegenheit bewusst kein Trade.",
+    "marketOverview": "12:09 CET: Xetra weiterhin offen, US-Boersen oeffnen erst 15:30 CET (Vormarkt laeuft). GOOGL auf regulaerem NYSE-Schlusskurs vom 04.11. bei 288,93 USD (+1,93% seit Kauf) belassen - Yahoo-Vormarktindikation zeigt ca. 291,8 USD, aber ohne regulaere Sitzung nicht als belastbarer Settlement-Preis gewertet. BTC via CoinGecko-API live bei 80.234 USD (-0,72% seit Kauf, +2,2% 24h). Makro-/Geopolitik-Hintergrund unveraendert zum letzten Lauf: Wahl-Story und Fed-Haltekurs eingepreist, Regierungsstillstand blendet offizielle Daten aus; Web-Suche lieferte keinen frisch datierten neuen Einzelkatalysator fuer Aktien, ETFs, Krypto oder Rohstoffe.",
+    "decision": "Kein Trade - GOOGL unveraendert, BTC leicht auf 80.234 USD aktualisiert (beide weiterhin klar innerhalb des normalen Schwankungsbereichs, unter Gewinnmitnahme- und Stop-Loss-Schwellen). Tagesbudget fuer 05.11. bereits frueher gutgeschrieben, keine erneute Gutschrift in diesem Lauf.",
+    "reasoning": "GOOGL (+1,93%) und BTC (-0,72%) liegen beide deutlich unter den Schwellen fuer Gewinnmitnahme (ca. 7-9%) bzw. Stop-Loss (-6,5 bis -7,5%). Kein frisch bestaetigter Einzelkatalysator fuer eine neue Position gefunden; US-Boersen vor Handelsstart, daher ohnehin nur Krypto bewegbar. Freies Kapital bleibt bei ca. 90.641,50 EUR verfuegbar, aber ohne ueberzeugende Gelegenheit bewusst kein Trade.",
     "positionIds": [
       "pos-0031",
       "pos-0032"
     ],
-    "portfolioValueEnd": 1610.93,
+    "portfolioValueEnd": 1609.69,
     "updates": [
       {
         "time": "00:09",
@@ -11930,6 +11930,11 @@
         "time": "11:11",
         "note": "Keine Aenderung an Positionen - GOOGL unveraendert (NYSE-Schlusskurs 288,93 USD, +1,93% seit Kauf), BTC live via CoinGecko auf 80.359 USD aktualisiert (-0,56% seit Kauf, +2,6% 24h). Kein neuer verifizierbarer Katalysator. Kein Trade.",
         "portfolioValue": 1610.93
+      },
+      {
+        "time": "12:09",
+        "note": "Keine Aenderung an Positionen - GOOGL unveraendert (NYSE-Schlusskurs 288,93 USD, +1,93% seit Kauf, US-Boersen noch nicht geoeffnet), BTC live via CoinGecko auf 80.234 USD aktualisiert (-0,72% seit Kauf, +2,2% 24h). Kein neuer verifizierbarer Katalysator. Kein Trade.",
+        "portfolioValue": 1609.69
       }
     ]
   }
