@@ -11862,14 +11862,14 @@
   },
   {
     "date": "2026-11-05",
-    "marketOverview": "15:13 CET: Xetra weiterhin offen, US-Boersen noch im Vormarkt (Start 15:30 CET). GOOGL via StockAnalysis-Vormarktdaten auf 292,17 USD (+3,07% seit Kauf, Vortagesschluss 288,93 USD +3,18%), setzt die Erholung seit dem Post-Earnings-Einbruch fort, aber ohne neuen Einzelkatalysator. BTC via CoinGecko live bei 79.452 USD (-1,68% seit Kauf, +1,5% 24h) - post-Wahl-Krypto-Rally flacht weiter ab. Web-Suche lieferte keinen neuen, unabhaengig bestaetigten Katalysator fuer Aktien, ETFs, Krypto oder Rohstoffe seit dem letzten Lauf.",
-    "decision": "Kein Trade - GOOGL im Vormarkt auf 292,17 USD aktualisiert (+3,07% seit Kauf), BTC leicht auf 79.452 USD aktualisiert (-1,68% seit Kauf). Beide klar innerhalb des normalen Schwankungsbereichs, unter Gewinnmitnahme- und Stop-Loss-Schwellen. Tagesbudget fuer 05.11. bereits frueher gutgeschrieben, keine erneute Gutschrift in diesem Lauf.",
-    "reasoning": "GOOGL (+3,07%) und BTC (-1,68%) liegen beide deutlich unter den Schwellen fuer Gewinnmitnahme (ca. 7-9%) bzw. Stop-Loss (-6,5 bis -7,5%). Kein frisch bestaetigter Einzelkatalysator fuer eine neue Position gefunden; US-Boersen noch vor Handelsstart (15:30 CET), daher ohnehin nur Krypto und Xetra-Titel bewegbar. Freies Kapital bleibt bei ca. 90.641,50 EUR verfuegbar, aber ohne ueberzeugende Gelegenheit bewusst kein Trade.",
+    "marketOverview": "16:12 CET: NYSE/Nasdaq und Xetra offen. Nach dem starken Post-Wahl-Rallytag vom 04.11. (Dow +3%, bestes Tagesplus 2026) heute deutlicher Risk-off-Ruecksetzer: SPY -2,14% auf 750,37 USD (StockAnalysis, 10:15 ET). GOOGL via StockAnalysis auf 283,95 USD (-1,72% zum Vortagesschluss, +0,17% seit Kauf). BTC cross-verifiziert (CoinGecko 77.038, Coinbase 77.104, Kraken 77.071 USD, -4,6% 24h) - kraeftige Korrektur nach anhaltenden Spot-BTC/ETH-ETF-Abfluessen (~1-1,2 Mrd. USD in den letzten Tagen) und Liquidationswelle, trotz zwischenzeitlicher Wahl-Erholung. Einzelmover: Qualcomm (QCOM) -9,04% auf 157,54 USD nach Q4-Zahlen (Umsatz/Gewinn ueber Erwartung, aber schwache Handset-Umsaetze/-Guidance, mehrere Kurszielsenkungen) - Kurs aber bereits vom Tagestief 149,08 auf 157,54 erholt, daher kein ueberzeugender Einstiegszeitpunkt mehr fuer einen Dip-Kauf.",
+    "decision": "Kein Trade - GOOGL auf 283,95 USD aktualisiert (+0,17% seit Kauf), BTC auf 77.071 USD aktualisiert (-4,63% seit Kauf). Beide innerhalb des normalen Schwankungsbereichs, BTC naehert sich aber der Stop-Loss-Zone und wird engmaschig beobachtet. Tagesbudget fuer 05.11. bereits frueher gutgeschrieben, keine erneute Gutschrift in diesem Lauf. Kein neuer Kauf trotz hohem freiem Kapital (~90.641 EUR), da der einzige konkrete Mover (QCOM) bereits von seinem Tagestief erholt ist und der Gesamtmarkt heute risikoavers ist (SPY -2,14%).",
+    "reasoning": "BTC (-4,63%) liegt noch unter der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%), die Abwaertsdynamik (ETF-Abfluesse, Liquidationswelle) rechtfertigt aber erhoehte Wachsamkeit in den naechsten Laeufen. GOOGL (+0,17%) ist nahezu unveraendert seit Kauf. Fuer Neukaeufe: QCOM fiel zwar bestaetigt -9% nach Zahlen, aber mit echtem fundamentalem Hintergrund (schwache Handset-Umsaetze, mehrere Analysten senken Kursziele deutlich, z.B. Barclays auf Underweight) statt reinem Sentiment-Ausverkauf wie bei den erfolgreichen AMD-/SpaceX-Mustern - zudem hat sich der Kurs bereits ca. 5,6% vom Tagestief erholt, das Risiko/Chance-Verhaeltnis fuer einen Dip-Kauf ist damit nicht mehr attraktiv. Der breite Markt ist heute im Risk-off-Modus (SPY -2,14%), daher bewusst kein neues spekulatives Engagement.",
     "positionIds": [
       "pos-0031",
       "pos-0032"
     ],
-    "portfolioValueEnd": 1611.09,
+    "portfolioValueEnd": 1564.32,
     "updates": [
       {
         "time": "00:09",
@@ -11950,6 +11950,11 @@
         "time": "15:13",
         "note": "Keine Aenderung an Positionen - GOOGL im Vormarkt auf 292,17 USD aktualisiert (+3,07% seit Kauf), BTC live auf 79.452 USD aktualisiert (-1,68% seit Kauf, +1,5% 24h). Keine neue Gutschrift (bereits heute erfolgt). Kein Trade.",
         "portfolioValue": 1611.09
+      },
+      {
+        "time": "16:12",
+        "note": "Keine Aenderung an Positionen - GOOGL regulaer auf 283,95 USD aktualisiert (+0,17% seit Kauf, NYSE/Nasdaq jetzt offen), BTC auf 77.071 USD aktualisiert (-4,63% seit Kauf, -4,6% 24h, Risk-off-Ruecksetzer nach ETF-Abfluessen). QCOM (-9% nach Zahlen) bereits vom Tagestief erholt, kein attraktiver Einstieg. Kein Trade.",
+        "portfolioValue": 1564.32
       }
     ]
   }
