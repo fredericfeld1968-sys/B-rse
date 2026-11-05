@@ -11862,14 +11862,14 @@
   },
   {
     "date": "2026-11-05",
-    "marketOverview": "Kurz nach 8 Uhr (CET): US-Boersen und Xetra weiterhin geschlossen (Totzeit vor Marktstart), GOOGL nachboerslich (19:59 ET) auf 290,30 USD aktualisiert (+2,41% seit Kauf, +0,47% gegenueber regulaerem Schluss 288,93 USD). BTC via CoinGecko live bei ca. 80.689 USD (-0,15% seit Kauf von pos-0032, +3,56% in 24h) - die breite Krypto-Rally der letzten Stunden setzt sich mit aehnlichem Tempo fort, aber weiterhin ohne neuen, einzelnen Katalysator gegenueber den letzten Laeufen.",
-    "decision": "Kein Trade - GOOGL nachboerslich und BTC live aktualisiert, beide weiterhin deutlich innerhalb des normalen Schwankungsbereichs. Tagesbudget fuer 05.11. bereits frueher gutgeschrieben, keine erneute Gutschrift in diesem Lauf.",
-    "reasoning": "GOOGL (+2,41%) und BTC (-0,15%) liegen beide klar unter den Schwellen fuer Gewinnmitnahme (ca. 7-9%) bzw. Stop-Loss (-6,5 bis -7,5%). Ausserhalb der Handelszeiten (Xetra oeffnet 09:00 CET, US-Boersen 15:30 CET) sind nur Krypto-Positionen handelbar; die fortgesetzte, aber schon mehrfach in frueheren Laeufen beobachtete breite Rally liefert keinen neuen, ueberzeugenden Einzelkatalysator fuer eine frische spekulative Position, daher bewusst kein Trade trotz vorhandenem freiem Kapital (ca. 90.641 EUR).",
+    "marketOverview": "Kurz nach 9 Uhr CET: Xetra ist seit 09:00 CET offen, US-Boersen oeffnen erst um 15:30 CET. GOOGL zuletzt nachboerslich (Nachmittag Nasdaq-Schluss 04.11.) auf 291,59 USD aktualisiert (+2,86% seit Kauf), noch keine frischen Vorboersen-Kurse verfuegbar (Pre-Market startet 09:00 EST / 15:00 CET). BTC via CoinGecko live bei 80.488 USD (-0,40% seit Kauf von pos-0032, +2,80% in 24h) - die Krypto-Rally konsolidiert leicht gegenueber dem letzten Lauf. Keine neuen, konkret datierten Marktkatalysatoren fuer Aktien, ETFs, Rohstoffe oder Krypto per Websuche auffindbar.",
+    "decision": "Kein Trade - GOOGL und BTC aktualisiert, beide weiterhin klar innerhalb des normalen Schwankungsbereichs (unter Gewinnmitnahme- und Stop-Loss-Schwellen). Tagesbudget fuer 05.11. bereits frueher gutgeschrieben, keine erneute Gutschrift in diesem Lauf.",
+    "reasoning": "GOOGL (+2,86%) und BTC (-0,40%) liegen beide deutlich unter den Schwellen fuer Gewinnmitnahme (ca. 7-9%) bzw. Stop-Loss (-6,5 bis -7,5%). Xetra ist zwar seit wenigen Minuten offen, aber per Websuche liess sich kein neuer, verlaesslich datierter und ueberzeugender Einzelkatalysator fuer eine frische spekulative Position finden (Suchergebnisse zu Markt- und Kryptonews waren durchweg veraltet oder nicht datiert). US-Boersen/ETFs/Rohstoffe sind ausserhalb der Handelszeiten (15:30-22:00 CET) ohnehin nicht handelbar. Daher bewusst kein Trade trotz vorhandenem freiem Kapital (ca. 90.641 EUR).",
     "positionIds": [
       "pos-0031",
       "pos-0032"
     ],
-    "portfolioValueEnd": 1618.06,
+    "portfolioValueEnd": 1619.71,
     "updates": [
       {
         "time": "00:09",
@@ -11915,6 +11915,11 @@
         "time": "08:09",
         "note": "Keine Aenderung an Positionen - GOOGL nachboerslich auf 290,30 USD aktualisiert (+2,41% seit Kauf), BTC live auf 80.689 USD aktualisiert (-0,15% seit Kauf, +3,56% 24h). Keine neue Gutschrift (bereits heute erfolgt). Kein Trade.",
         "portfolioValue": 1618.06
+      },
+      {
+        "time": "09:12",
+        "note": "Keine Aenderung an Positionen - GOOGL nachboerslich auf 291,59 USD aktualisiert (+2,86% seit Kauf), BTC live auf 80.488 USD aktualisiert (-0,40% seit Kauf, +2,8% 24h). Xetra seit 09:00 CET offen, aber kein ueberzeugender neuer Katalysator gefunden. Keine neue Gutschrift (bereits heute erfolgt). Kein Trade.",
+        "portfolioValue": 1619.71
       }
     ]
   }
