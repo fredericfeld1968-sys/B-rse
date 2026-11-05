@@ -11992,5 +11992,23 @@
         "portfolioValue": 1543.94
       }
     ]
+  },
+  {
+    "date": "2026-11-06",
+    "marketOverview": "00:09 CET: Neuer Kalendertag, Tagesbudget fuer 06.11. gutgeschrieben (+1.000 EUR, totalFreshCapitalEur jetzt 94.000 EUR). Der breite Risk-off-Trend nach dem Chip-/AI-Sektor-Crash in Folge der US-Zwischenwahlen haelt unveraendert an. BTC ist live auf ca. 75.257,56 USD (Durchschnitt CoinGecko 75.357 USD / Coinbase 75.158,11 USD) gefallen, kein neuer Gegenkatalysator sichtbar. GOOGL notiert unveraendert auf dem NYSE-Regulaerschluss vom 05.11. bei 282,60 USD, keine neueren Nachboersenkurse verfuegbar. US-Boersen und Rohstoffmaerkte sind um diese Nachtzeit geschlossen, nur Krypto handelbar.",
+    "decision": "Stop-Loss-Verkauf: Bitcoin-Position pos-0032 (Kauf 80.811,89 USD am 04.11.) bei -6,87% glattgestellt, realisierter Verlust -54,99 EUR. GOOGL (pos-0031) unveraendert gehalten, Kurs auf 282,60 USD aktualisiert (-0,31% seit Kauf). Trotz hohem freiem Kapital (~92.386,51 EUR) kein Neukauf: ausserhalb der Boersenzeiten nur Krypto handelbar, aber kein neuer, mehrfach bestaetigter Kauf- oder Bodenkatalysator im Kryptomarkt gefunden - der breite Risk-off-Trend haelt unveraendert an.",
+    "reasoning": "BTC erreichte mit -6,87% (Durchschnitt zweier Live-Quellen) die seit Monaten konsequent angewendete Stop-Loss-Schwelle dieses Portfolios (-6,5% bis -7,5%), ohne dass ein Gegenkatalysator sichtbar war - passend zum bisherigen Muster (Rheinmetall, NVIDIA, XRP, HYPE, fruehere BTC-Position pos-0018) konsequent glattgestellt. GOOGL bleibt nahe am Einstand, kein Handlungsbedarf. Fuer einen Neukauf fehlte trotz sehr hohem freiem Kapital eine wirklich ueberzeugende, mehrfach bestaetigte Gelegenheit; da Aktien/ETFs/Rohstoffe um diese Nachtzeit nicht handelbar sind, waere ohnehin nur Krypto moeglich gewesen. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "positionIds": [
+      "pos-0031",
+      "pos-0032"
+    ],
+    "portfolioValueEnd": 797.54,
+    "updates": [
+      {
+        "time": "00:09",
+        "note": "Neuer Tag, Tagesbudget gutgeschrieben (+1.000 EUR). Verkauf BTC (Stop-Loss, -54,99 EUR) bei -6,87%. GOOGL auf 282,60 USD aktualisiert (unveraendert). Kein Neukauf (kein ueberzeugender Krypto-Katalysator, andere Maerkte geschlossen).",
+        "portfolioValue": 797.54
+      }
+    ]
   }
 ]
