@@ -11862,14 +11862,14 @@
   },
   {
     "date": "2026-11-05",
-    "marketOverview": "Kurz nach Mitternacht (CET): US-Boersen seit 22:00 CET geschlossen, GOOGL notiert nachboerslich bei ca. 291,08 USD (+2,68% seit Kauf am 04.11., Post-Zwischenwahl-Rally haelt an; regulaerer Schlusskurs 288,93 USD, Vortagesschluss 280,03 USD). Bitcoin liegt laut CoinGecko-Live-Daten bei 80.514 USD (+4,0% in 24h; Ethereum +6,4%, Solana +2,8%, XRP +2,2%, Dogecoin +2,4%) und damit nur noch -0,37% unter dem Einstand von pos-0032 - breite, aber bereits bekannte Krypto-Erholung ohne neuen eigenstaendigen Ausbruchs-Katalysator. Ausserhalb der Handelszeiten sind nur Krypto-Bewegungen moeglich.",
-    "decision": "Kein Trade - Kursaktualisierung von GOOGL (nachboerslich) und BTC (live). Tagesbudget fuer 05.11. bereits um 00:09 gutgeschrieben (+1.000 EUR), keine erneute Gutschrift in diesem Lauf.",
-    "reasoning": "Beide offenen Positionen liegen innerhalb des normalen Schwankungsbereichs (GOOGL +2,68%, BTC -0,37%) - weder Gewinnmitnahme- noch Stop-Loss-Schwelle (ca. 7-9% bzw. -6,5 bis -7,5%) ist erreicht. Nachts/ausserhalb der Handelszeiten sind nur Krypto-Positionen handelbar; die fortgesetzte, breit angelegte Krypto-Erholung liefert keinen ueberzeugenden neuen, eigenstaendig bestaetigten Einstiegskatalysator fuer eine zusaetzliche Position, daher bewusst kein Trade trotz vorhandenem freiem Kapital.",
+    "marketOverview": "Kurz nach 2 Uhr (CET): US-Boersen weiterhin seit 22:00 CET geschlossen, GOOGL unveraendert nachboerslich bei ca. 291,08 USD (+2,68% seit Kauf am 04.11., Post-Zwischenwahl-Rally haelt an; keine neuen Nachboersen-Meldungen). Bitcoin konsolidiert leicht auf ca. 80.350 USD (-0,57% seit Kauf von pos-0032, weiterhin breit im 80.000-80.600-USD-Band) - der breite Krypto-Rebound seit den US-Zwischenwahlen (Demokraten gewinnen Kongressmehrheit, USD-Schwaeche) bleibt intakt, aber ohne neuen eigenstaendigen Ausbruchs-Katalysator fuer Altcoins. Ausserhalb der Handelszeiten sind nur Krypto-Bewegungen moeglich.",
+    "decision": "Kein Trade - Kursaktualisierung von GOOGL (unveraendert) und BTC (leichte Konsolidierung). Tagesbudget fuer 05.11. bereits um 00:09 gutgeschrieben (+1.000 EUR), keine erneute Gutschrift in diesem Lauf.",
+    "reasoning": "Beide offenen Positionen liegen weiterhin innerhalb des normalen Schwankungsbereichs (GOOGL +2,68%, BTC -0,57%) - weder Gewinnmitnahme- noch Stop-Loss-Schwelle (ca. 7-9% bzw. -6,5 bis -7,5%) ist erreicht. Nachts/ausserhalb der Handelszeiten sind nur Krypto-Positionen handelbar; es wurde kein neuer, unabhaengig bestaetigter Einstiegskatalysator fuer Altcoins gefunden, daher bewusst kein Trade trotz vorhandenem freiem Kapital (ca. 90.640 EUR).",
     "positionIds": [
       "pos-0031",
       "pos-0032"
     ],
-    "portfolioValueEnd": 1618.53,
+    "portfolioValueEnd": 1616.91,
     "updates": [
       {
         "time": "00:09",
@@ -11880,6 +11880,11 @@
         "time": "01:08",
         "note": "Keine Aenderung an Positionen - GOOGL nachboerslich auf 291,08 USD aktualisiert (+2,68% seit Kauf), BTC live auf 80.514 USD aktualisiert (-0,37% seit Kauf, +4,0% 24h). Keine neue Gutschrift (bereits heute erfolgt). Kein Trade.",
         "portfolioValue": 1618.53
+      },
+      {
+        "time": "02:11",
+        "note": "Keine Aenderung an Positionen - GOOGL unveraendert nachboerslich bei 291,08 USD, BTC leicht auf 80.350 USD konsolidiert (-0,57% seit Kauf). Kein neuer Altcoin-Katalysator gefunden. Kein Trade.",
+        "portfolioValue": 1616.91
       }
     ]
   }
