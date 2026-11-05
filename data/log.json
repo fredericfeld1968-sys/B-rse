@@ -11869,7 +11869,7 @@
       "pos-0031",
       "pos-0032"
     ],
-    "portfolioValueEnd": 1544.43,
+    "portfolioValueEnd": 1543.94,
     "updates": [
       {
         "time": "00:09",
@@ -11985,6 +11985,11 @@
         "time": "22:11",
         "note": "Keine Aenderung an Positionen - GOOGL nachboerslich auf 280,98 USD aktualisiert (-0,88% seit Kauf), BTC auf ca. 75.895 USD aktualisiert (-6,07% seit Kauf, naeher an Stop-Loss, aber noch nicht erreicht). AMD faellt trotz Rekordquartal weiter (-13 bis -16%) - als strukturelles Regulierungsrisiko statt Dip-Kauf-Chance eingeordnet. Kein Trade.",
         "portfolioValue": 1544.43
+      },
+      {
+        "time": "23:08",
+        "note": "Keine Aenderung an Positionen - GOOGL nachboerslich auf 280,89 USD aktualisiert (-0,91% seit Kauf, StockAnalysis 17:05 EST), BTC auf 75.884 USD aktualisiert (CoinGecko, -5,44% 24h, -6,10% seit Kauf, naeher an Stop-Loss, aber noch nicht erreicht). Risk-off-Stimmung nach Chip-Sektor-Crash haelt an, kein bestaetigter neuer Kauf- oder Bodenkatalysator. Kein Trade.",
+        "portfolioValue": 1543.94
       }
     ]
   }
