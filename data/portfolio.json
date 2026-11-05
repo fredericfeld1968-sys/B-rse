@@ -536,10 +536,10 @@
     "reasoning": "Breite, mehrfach unabhaengig bestaetigte Krypto-Rally seit dem letzten Lauf: BTC live via Binance von ca. 78.200 auf 80.800 USD gesprungen (+4,5% in 24h), ETH +6,3% auf ca. 2.437 USD, AVAX +6,1%, ADA +5,3%, XRP +4,9%, SOL +4,5% - also ein breiter, synchroner Markt und kein Einzelcoin-Ausreisser. Konkreter Katalysator (TradingView/Coinpedia, Invezz, FXStreet, KuCoin, Yahoo Finance uebereinstimmend am 04.11.): Demokraten gewinnen laut vorlaeufigen Ergebnissen die Kongressmehrheit bei den US-Zwischenwahlen, der US-Dollar faellt auf ein Fuenf-Wochen-Tief, zusaetzlich loeste die vorangegangene Abverkaufsphase eine Short-Squeeze/Liquidationswelle (rund 500 Mio. USD) aus, die den Rebound verstaerkt. Auch Gold reagiert parallel mit einem Ausbruch Richtung 4.050 USD auf die USD-Schwaeche - stuetzt die risikofreudige Grosswetterlage. Spekulative Momentum-Position auf die Fortsetzung des bestaetigten, breiten Rebounds, analog zum erfolgreichen Muster bei fruaheren bestaetigten BTC-Ausbruechen (19.08., 18.09.).",
     "status": "open",
     "buyPrice": 80811.89,
-    "currentPrice": 80343,
-    "currentValue": 795.36,
-    "profitLoss": -4.64,
-    "profitLossPct": -0.58,
+    "currentPrice": 80359,
+    "currentValue": 795.52,
+    "profitLoss": -4.48,
+    "profitLossPct": -0.56,
     "closedDate": null,
     "closeReasoning": null
   }
