@@ -11862,14 +11862,14 @@
   },
   {
     "date": "2026-11-05",
-    "marketOverview": "12:09 CET: Xetra weiterhin offen, US-Boersen oeffnen erst 15:30 CET (Vormarkt laeuft). GOOGL auf regulaerem NYSE-Schlusskurs vom 04.11. bei 288,93 USD (+1,93% seit Kauf) belassen - Yahoo-Vormarktindikation zeigt ca. 291,8 USD, aber ohne regulaere Sitzung nicht als belastbarer Settlement-Preis gewertet. BTC via CoinGecko-API live bei 80.234 USD (-0,72% seit Kauf, +2,2% 24h). Makro-/Geopolitik-Hintergrund unveraendert zum letzten Lauf: Wahl-Story und Fed-Haltekurs eingepreist, Regierungsstillstand blendet offizielle Daten aus; Web-Suche lieferte keinen frisch datierten neuen Einzelkatalysator fuer Aktien, ETFs, Krypto oder Rohstoffe.",
-    "decision": "Kein Trade - GOOGL unveraendert, BTC leicht auf 80.234 USD aktualisiert (beide weiterhin klar innerhalb des normalen Schwankungsbereichs, unter Gewinnmitnahme- und Stop-Loss-Schwellen). Tagesbudget fuer 05.11. bereits frueher gutgeschrieben, keine erneute Gutschrift in diesem Lauf.",
-    "reasoning": "GOOGL (+1,93%) und BTC (-0,72%) liegen beide deutlich unter den Schwellen fuer Gewinnmitnahme (ca. 7-9%) bzw. Stop-Loss (-6,5 bis -7,5%). Kein frisch bestaetigter Einzelkatalysator fuer eine neue Position gefunden; US-Boersen vor Handelsstart, daher ohnehin nur Krypto bewegbar. Freies Kapital bleibt bei ca. 90.641,50 EUR verfuegbar, aber ohne ueberzeugende Gelegenheit bewusst kein Trade.",
+    "marketOverview": "13:11 CET: Xetra weiterhin offen, US-Boersen oeffnen erst 15:30 CET (Vormarkt laeuft, Yahoo-Indikation GOOGL ca. 293,30 USD, +1,5% vorbörslich, aber ohne regulaere Sitzung nicht als belastbarer Settlement-Preis gewertet - Position bleibt auf NYSE-Schlusskurs 288,93 USD). BTC via CoinGecko live bei 80.112 USD (-0,87% seit Kauf, +2,5% 24h) - Krypto-Rally seit der US-Zwischenwahl flacht leicht ab, kein frischer Einzelkatalysator. Web-Suche lieferte keinen neuen, unabhaengig bestaetigten Katalysator fuer Aktien, ETFs, Krypto oder Rohstoffe seit dem letzten Lauf.",
+    "decision": "Kein Trade - GOOGL unveraendert (US-Boersen noch geschlossen), BTC leicht auf 80.112 USD aktualisiert (beide weiterhin klar innerhalb des normalen Schwankungsbereichs, unter Gewinnmitnahme- und Stop-Loss-Schwellen). Tagesbudget fuer 05.11. bereits frueher gutgeschrieben, keine erneute Gutschrift in diesem Lauf.",
+    "reasoning": "GOOGL (+1,93% auf Basis Schlusskurs) und BTC (-0,87%) liegen beide deutlich unter den Schwellen fuer Gewinnmitnahme (ca. 7-9%) bzw. Stop-Loss (-6,5 bis -7,5%). Kein frisch bestaetigter Einzelkatalysator fuer eine neue Position gefunden; US-Boersen vor Handelsstart, daher ohnehin nur Krypto und Xetra-Titel bewegbar. Freies Kapital bleibt bei ca. 90.641,50 EUR verfuegbar, aber ohne ueberzeugende Gelegenheit bewusst kein Trade.",
     "positionIds": [
       "pos-0031",
       "pos-0032"
     ],
-    "portfolioValueEnd": 1609.69,
+    "portfolioValueEnd": 1608.48,
     "updates": [
       {
         "time": "00:09",
@@ -11935,6 +11935,11 @@
         "time": "12:09",
         "note": "Keine Aenderung an Positionen - GOOGL unveraendert (NYSE-Schlusskurs 288,93 USD, +1,93% seit Kauf, US-Boersen noch nicht geoeffnet), BTC live via CoinGecko auf 80.234 USD aktualisiert (-0,72% seit Kauf, +2,2% 24h). Kein neuer verifizierbarer Katalysator. Kein Trade.",
         "portfolioValue": 1609.69
+      },
+      {
+        "time": "13:11",
+        "note": "Keine Aenderung an Positionen - GOOGL unveraendert (NYSE-Schlusskurs 288,93 USD, +1,93% seit Kauf, US-Boersen noch nicht geoeffnet), BTC live via CoinGecko auf 80.112 USD aktualisiert (-0,87% seit Kauf, +2,5% 24h). Kein neuer verifizierbarer Katalysator. Kein Trade.",
+        "portfolioValue": 1608.48
       }
     ]
   }
