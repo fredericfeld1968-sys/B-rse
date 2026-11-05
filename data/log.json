@@ -11862,14 +11862,14 @@
   },
   {
     "date": "2026-11-05",
-    "marketOverview": "Kurz nach 3 Uhr (CET): US-Boersen weiterhin seit 22:00 CET geschlossen, GOOGL unveraendert nachboerslich bei ca. 291,08 USD (+2,68% seit Kauf am 04.11.). Bitcoin (CoinGecko live) bei 80.739 USD (-0,09% seit Kauf von pos-0032, +4,7% in 24h) - der breite Krypto-Rebound seit den US-Zwischenwahlen bleibt intakt (ETH +7,2%, SOL +4,3% in 24h), jedoch ohne neuen eigenstaendigen, unabhaengig bestaetigten Ausbruchs-Katalysator fuer Altcoins seit dem letzten Lauf. Ausserhalb der Handelszeiten sind nur Krypto-Bewegungen moeglich.",
-    "decision": "Kein Trade - Kursaktualisierung von GOOGL (unveraendert, Markt geschlossen) und BTC (Live-Kurs via CoinGecko, nahezu unveraendert bei -0,09%). Tagesbudget fuer 05.11. bereits um 00:09 gutgeschrieben, keine erneute Gutschrift in diesem Lauf.",
-    "reasoning": "Beide offenen Positionen liegen weiterhin innerhalb des normalen Schwankungsbereichs (GOOGL +2,68%, BTC -0,09%) - weder Gewinnmitnahme- noch Stop-Loss-Schwelle (ca. 7-9% bzw. -6,5 bis -7,5%) ist erreicht. Nachts/ausserhalb der Handelszeiten sind nur Krypto-Positionen handelbar; es wurde kein neuer, unabhaengig bestaetigter Einstiegskatalysator fuer Altcoins gefunden (breiter Krypto-Rebound seit den Zwischenwahlen bereits bekannt und in pos-0032 abgebildet), daher bewusst kein Trade trotz vorhandenem freiem Kapital (ca. 90.641 EUR).",
+    "marketOverview": "Kurz nach 4 Uhr (CET): US-Boersen weiterhin geschlossen, GOOGL nachboerslich leicht auf 290,30 USD (+0,47% zum regulaeren Schlusskurs 288,93 USD, +2,41% seit Kauf). Breite Krypto-Rally setzt sich fort (CoinGecko live): BTC 80.560 USD (+6,2% 24h, -0,31% seit Kauf von pos-0032), ETH +8,9%, ADA +8,0%, LINK +7,5%, SOL +6,6%, AVAX +5,8%, DOGE +6,3%, XRP +5,1% - derselbe bereits bekannte Katalysator (Demokraten-Kongressmehrheit, USD-Schwaeche) wie beim letzten Lauf, kein neuer eigenstaendiger Einzelcoin-Katalysator gefunden.",
+    "decision": "Kein Trade - Kursaktualisierung von GOOGL (nachboerslich) und BTC (Live-Kurs via CoinGecko). Tagesbudget fuer 05.11. bereits um 00:09 gutgeschrieben, keine erneute Gutschrift in diesem Lauf.",
+    "reasoning": "Beide offenen Positionen liegen weiterhin innerhalb des normalen Schwankungsbereichs (GOOGL +2,41%, BTC -0,31%) - weder Gewinnmitnahme- noch Stop-Loss-Schwelle (ca. 7-9% bzw. -6,5 bis -7,5%) ist erreicht. Ausserhalb der Handelszeiten sind nur Krypto-Positionen handelbar; die anhaltende breite Altcoin-Rally ist bereits durch pos-0032 abgebildet und es wurde kein neuer, unabhaengig bestaetigter Einzelcoin-Katalysator gefunden, daher bewusst kein Trade trotz vorhandenem freiem Kapital (ca. 90.641 EUR).",
     "positionIds": [
       "pos-0031",
       "pos-0032"
     ],
-    "portfolioValueEnd": 1620.76,
+    "portfolioValueEnd": 1616.79,
     "updates": [
       {
         "time": "00:09",
@@ -11890,6 +11890,11 @@
         "time": "03:08",
         "note": "Keine Aenderung an Positionen - GOOGL unveraendert (Markt geschlossen), BTC live auf 80.739 USD aktualisiert (-0,09% seit Kauf, +4,7% 24h). Kein neuer Altcoin-Katalysator gefunden. Kein Trade.",
         "portfolioValue": 1620.76
+      },
+      {
+        "time": "04:07",
+        "note": "Keine Aenderung an Positionen - GOOGL nachboerslich auf 290,30 USD aktualisiert (+2,41% seit Kauf), BTC live auf 80.560 USD aktualisiert (-0,31% seit Kauf, +6,2% 24h, breite Altcoin-Rally haelt an). Keine neue Gutschrift (bereits heute erfolgt). Kein Trade.",
+        "portfolioValue": 1616.79
       }
     ]
   }
