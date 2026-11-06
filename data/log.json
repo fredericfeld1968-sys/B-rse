@@ -11995,13 +11995,13 @@
   },
   {
     "date": "2026-11-06",
-    "marketOverview": "Breiter Risk-off-Tag: Ein Tech-/KI-Aktien-Ausverkauf an der Nasdaq (vor US-Markteroeffnung) griff auf den Kryptomarkt ueber und loeste dort erhebliche Liquidationswellen aus (Bitcoin faellt auf ca. 75.000-76.000 USD, -5 bis -6% binnen 24h, ca. 718,5 Mio. USD Liquidationen); zusaetzlich belastet ein Binance-Hack-/Geldwaesche-Ueberhang die Stimmung. US-Aktienmaerkte oeffnen erst um 15:30 CET, daher keine frische, verlaessliche GOOGL-Quote verfuegbar.",
-    "decision": "Kein Trade: GOOGL (pos-0031) unveraendert bei 282,49 USD gehalten (-0,35% seit Kauf, keine frische Boersenquote vor Markteroeffnung). Trotz sehr hohem freiem Kapital (~92.386,51 EUR) kein Neukauf: der Kryptomarkt befindet sich in einem breiten, liquidationsgetriebenen Abverkauf ohne bestaetigtes Bodensignal - keine ueberzeugende spekulative Gelegenheit.",
-    "reasoning": "Ausserhalb der US-Handelszeiten sind Aktien/ETFs/Rohstoffe nicht handelbar; im Krypto-Bereich wird aktiv auf eine ueberzeugende Gelegenheit gewartet statt in einen fallenden Markt ohne Bestaetigung zu kaufen. GOOGL wird unveraendert gehalten, da seit dem letzten Lauf keine neue fundamentale Entwicklung vorliegt.",
+    "marketOverview": "Breiter Krypto-Risk-off haelt an (BTC ca. 75.500 USD, -6,2% 24h; ETH -8,1%; XRP -9,8%; ADA -7,1%; SOL -6,6%; LINK -7,0%), ausgeloest durch den Tech-/KI-Aktien-Ausverkauf und anschliessende Liquidationswellen; kein bestaetigtes Bodensignal erkennbar. GOOGL notiert in einer duennen Overnight-Sitzung bei 283,22 USD (+0,23% ggu. Schlusskurs Vortag), US-Kassamarkt oeffnet erst um 15:30 CET.",
+    "decision": "Kein Trade: GOOGL (pos-0031) auf aktuellen Overnight-Kurs 283,22 USD aktualisiert (-0,09% seit Kauf). Trotz sehr hohem freiem Kapital (~92.386,51 EUR) weiterhin kein Neukauf: der Kryptomarkt bleibt in einem breiten, liquidationsgetriebenen Abverkauf ohne Bodenbestaetigung, Aktien/ETFs/Rohstoffe vor Boersenoeffnung nicht handelbar.",
+    "reasoning": "Ausserhalb der US-Handelszeiten sind Aktien/ETFs/Rohstoffe nicht handelbar; der Kryptomarkt zeigt einen fortgesetzten breiten Abverkauf (alle beobachteten Coins zwischen -5,5% und -9,8% in 24h) ohne neuen stuetzenden Katalysator oder Bodensignal - kein ueberzeugender Einstiegspunkt. GOOGL wird unveraendert gehalten, die Bewegung seit Kauf ist marginal (-0,09%).",
     "positionIds": [
       "pos-0031"
     ],
-    "portfolioValueEnd": 797.23,
+    "portfolioValueEnd": 799.29,
     "updates": [
       {
         "time": "00:09",
@@ -12047,6 +12047,11 @@
         "time": "08:11",
         "note": "Keine Aenderung: GOOGL weiterhin ohne frische Nasdaq-Quote (vor Markteroeffnung 15:30 CET) bei 282,49 USD gehalten. Kryptomarkt bleibt im breiten Abverkauf (BTC ca. 75.000-76.000 USD, -5 bis -6% 24h, ca. 718,5 Mio. USD Liquidationen laut CryptoTimes), ausgeloest durch einen Tech-/KI-Aktien-Rueckgang an der Nasdaq, der auf Krypto uebergriff und gehebelte Long-Positionen zwangsliquidierte - kein bestaetigtes Bodensignal, daher kein Neukauf.",
         "portfolioValue": 797.23
+      },
+      {
+        "time": "09:10",
+        "note": "Keine Aenderung: GOOGL auf Overnight-Kurs 283,22 USD aktualisiert (+0,23% ggue. Vortagesschluss). Kryptomarkt weiterhin im breiten Abverkauf (BTC -6,2%, ETH -8,1%, XRP -9,8% 24h), kein Bodensignal - kein Neukauf.",
+        "portfolioValue": 799.29
       }
     ]
   }
