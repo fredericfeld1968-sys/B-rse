@@ -11995,19 +11995,23 @@
   },
   {
     "date": "2026-11-06",
-    "marketOverview": "00:09 CET: Neuer Kalendertag, Tagesbudget fuer 06.11. gutgeschrieben (+1.000 EUR, totalFreshCapitalEur jetzt 94.000 EUR). Der breite Risk-off-Trend nach dem Chip-/AI-Sektor-Crash in Folge der US-Zwischenwahlen haelt unveraendert an. BTC ist live auf ca. 75.257,56 USD (Durchschnitt CoinGecko 75.357 USD / Coinbase 75.158,11 USD) gefallen, kein neuer Gegenkatalysator sichtbar. GOOGL notiert unveraendert auf dem NYSE-Regulaerschluss vom 05.11. bei 282,60 USD, keine neueren Nachboersenkurse verfuegbar. US-Boersen und Rohstoffmaerkte sind um diese Nachtzeit geschlossen, nur Krypto handelbar.",
-    "decision": "Stop-Loss-Verkauf: Bitcoin-Position pos-0032 (Kauf 80.811,89 USD am 04.11.) bei -6,87% glattgestellt, realisierter Verlust -54,99 EUR. GOOGL (pos-0031) unveraendert gehalten, Kurs auf 282,60 USD aktualisiert (-0,31% seit Kauf). Trotz hohem freiem Kapital (~92.386,51 EUR) kein Neukauf: ausserhalb der Boersenzeiten nur Krypto handelbar, aber kein neuer, mehrfach bestaetigter Kauf- oder Bodenkatalysator im Kryptomarkt gefunden - der breite Risk-off-Trend haelt unveraendert an.",
-    "reasoning": "BTC erreichte mit -6,87% (Durchschnitt zweier Live-Quellen) die seit Monaten konsequent angewendete Stop-Loss-Schwelle dieses Portfolios (-6,5% bis -7,5%), ohne dass ein Gegenkatalysator sichtbar war - passend zum bisherigen Muster (Rheinmetall, NVIDIA, XRP, HYPE, fruehere BTC-Position pos-0018) konsequent glattgestellt. GOOGL bleibt nahe am Einstand, kein Handlungsbedarf. Fuer einen Neukauf fehlte trotz sehr hohem freiem Kapital eine wirklich ueberzeugende, mehrfach bestaetigte Gelegenheit; da Aktien/ETFs/Rohstoffe um diese Nachtzeit nicht handelbar sind, waere ohnehin nur Krypto moeglich gewesen. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "marketOverview": "01:09 CET: Der breite Risk-off-Trend nach dem Chip-/AI-Sektor-Crash in Folge der US-Zwischenwahlen hat sich verschaerft: der gesamte Kryptomarkt faellt undifferenziert (BTC live ca. 76.102 USD, -5,5% in 24h; ETH -7,4%; SOL -6,0%; XRP -7,1%; DOGE -7,2%; AVAX -5,9%; LINK -6,1%; ADA -7,7%, CoinGecko), ohne dass ein einzelner Titel relative Staerke oder einen eigenen Katalysator zeigt - reine Flucht aus Risikoassets, kein selektives Kaufsignal. GOOGL notiert unveraendert auf dem NYSE-Regulaerschluss vom 05.11. bei 282,57 USD (Yahoo Finance), keine neueren Nachboersenkurse verfuegbar. US-Boersen, europaeische Boersen und Rohstoffmaerkte sind um diese Nachtzeit geschlossen, nur Krypto handelbar.",
+    "decision": "Kein Trade: GOOGL (pos-0031) unveraendert gehalten, Kurs auf 282,57 USD aktualisiert (-0,32% seit Kauf). Trotz weiterhin sehr hohem freiem Kapital (~92.386,51 EUR) kein Neukauf: der Kryptomarkt faellt breit und gleichmaessig ueber alle grossen Coins hinweg, ohne erkennbaren einzelnen Bodenbildungs- oder Kaufkatalysator - keine ueberzeugende Gelegenheit.",
+    "reasoning": "Ein undifferenzierter, marktbreiter Abverkauf (alle beobachteten Coins -5% bis -8% in 24h) ist das Gegenteil eines bestaetigten Einzeltitel-Ausbruchs oder einer klaren Bodenbildung, wie sie bisher erfolgreiche Trades (AVAX/NYSE, BCH/CME, QNT/Clearing House) ausgezeichnet hat. Ohne mehrfach unabhaengig bestaetigten, spezifischen Katalysator fuer einen einzelnen Titel wird passend zum Grundsatz 'nur bei wirklich ueberzeugender Gelegenheit handeln' kein Neukauf getaetigt. GOOGL bleibt nahe am Einstand (-0,32%), deutlich innerhalb der etablierten Stop-Loss-Schwelle (-6,5% bis -7,5%), kein Handlungsbedarf. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [
-      "pos-0031",
-      "pos-0032"
+      "pos-0031"
     ],
-    "portfolioValueEnd": 797.54,
+    "portfolioValueEnd": 797.46,
     "updates": [
       {
         "time": "00:09",
         "note": "Neuer Tag, Tagesbudget gutgeschrieben (+1.000 EUR). Verkauf BTC (Stop-Loss, -54,99 EUR) bei -6,87%. GOOGL auf 282,60 USD aktualisiert (unveraendert). Kein Neukauf (kein ueberzeugender Krypto-Katalysator, andere Maerkte geschlossen).",
         "portfolioValue": 797.54
+      },
+      {
+        "time": "01:09",
+        "note": "Keine Aenderung: GOOGL auf 282,57 USD aktualisiert. Breiter undifferenzierter Krypto-Abverkauf (-5% bis -8%), kein Kaufkatalysator - kein Neukauf.",
+        "portfolioValue": 797.46
       }
     ]
   }
