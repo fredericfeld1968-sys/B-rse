@@ -11996,11 +11996,11 @@
   {
     "date": "2026-11-06",
     "marketOverview": "Breite Risk-on-Rally haelt am Abend an: Nasdaq +1,6%, S&P 500 +0,8%. AMD sticht mit +10,9% auf 448,49 USD klar heraus (Gap-up zur Eroeffnung, seither stabil in der Spanne 433-460 USD) - Neubewertung der Rekord-Q3-Zahlen vom 03.11. (Data-Center-Umsatz fast verdoppelt, +97% YoY) nach einer heutigen Kurszielanhebung von Morgan Stanley (Analystenkonsens 633-657 USD). Krypto stabil (BTC ~75.860 USD, -0,35% 24h; SOL +0,5%; AVAX +0,2%), kein Ausbruchssignal. GOOGL weiter leicht im Plus bei 286,13 USD (+0,94% seit Kauf).",
-    "decision": "Kauf AMD (pos-0032, 1.000 EUR) auf bestaetigten Post-Earnings-Momentum-Katalysator (Morgan-Stanley-Kurszielanhebung, Data-Center +97% YoY, breite Analysten-Neubewertung). GOOGL (pos-0031) unveraendert gehalten bei 286,13 USD (+0,94%), weiterhin deutlich unter Ziel-Gewinnspanne und ohne Verschlechterung der These.",
+    "decision": "Kauf AMD (pos-0033, 1.000 EUR) auf bestaetigten Post-Earnings-Momentum-Katalysator (Morgan-Stanley-Kurszielanhebung, Data-Center +97% YoY, breite Analysten-Neubewertung). GOOGL (pos-0031) unveraendert gehalten bei 286,13 USD (+0,94%), weiterhin deutlich unter Ziel-Gewinnspanne und ohne Verschlechterung der These.",
     "reasoning": "AMD-Kurs stieg heute mehrfach unabhaengig bestaetigt (Yahoo-Finance-Live-Intraday, Investing.com, 247wallst/Yahoo-Artikel) um ca. +11% auf ein neues, seit Markteroeffnung stabil gehaltenes Niveau, getrieben von einer echten fundamentalen Neubewertung (Rekord-Q3-Zahlen, Data-Center-Wachstum, Morgan-Stanley-Zielanhebung mit angehobenen FY27-Schaetzungen) und nicht blossem Tagessentiment - analog zum erfolgreichen NVDA-/Palantir-/Meta-Post-Earnings-Muster in diesem Depot. Passend zum spekulativen Risikoprofil und bei reichlich freiem Kapital (~92.386 EUR vor diesem Kauf) wird eine neue Position eroeffnet; Stop-Loss/Gewinnmitnahme analog bisheriger Praxis (~6,5-9%) in kommenden Laeufen ueberwacht.",
     "positionIds": [
       "pos-0031",
-      "pos-0032"
+      "pos-0033"
     ],
     "portfolioValueEnd": 1807.51,
     "updates": [
@@ -12117,6 +12117,11 @@
       {
         "time": "22:08",
         "note": "Keine Aenderung: Boersenschluss (US-Kassamarkt seit 22:00 CET geschlossen), GOOGL unveraendert bei letztem verifizierten Kurs 286,13 USD (+0,94%) gehalten. Krypto weiterhin im breiten Risk-off (BTC ~75,6-76k USD, Fear&Greed 28, $1,25 Mrd. 24h-Liquidationen nach Nasdaq-Ausverkauf, ETF-Abfluesse -430 Mio. USD) ohne neuen bestaetigten Ausbruchskatalysator seit dem AMD-Kauf um 21:10 - kein Neukauf, keine Positionsaenderung.",
+        "portfolioValue": 1807.51
+      },
+      {
+        "time": "23:08",
+        "note": "Keine Aenderung: Technische Korrektur einer Doppel-ID in portfolio.json (die offene AMD-Position trug faelschlich dieselbe ID wie die bereits am 06.11. geschlossene BTC-Position pos-0032; AMD laeuft nun unter pos-0033). Krypto nur moderat bewegt (BTC 75.994 USD, +0,17% 24h, CoinGecko live; SOL +0,54%, AVAX +1,96%, ADA +2,51%, XRP -3,54%), kein ueberzeugender Ausbruchskatalysator. Boersen seit 22:00 CET geschlossen (nur Krypto handelbar) - kein Neukauf, keine Positionsaenderung.",
         "portfolioValue": 1807.51
       }
     ]
