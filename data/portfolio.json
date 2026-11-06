@@ -519,10 +519,10 @@
     "reasoning": "Alphabet faellt nach Q3-Zahlen beim Marktstart (15:30 MESZ/9:30 ET) um rund 12-13% auf ca. 283 USD (StockAnalysis, Cryptonomist, Finviz, mehrfach unabhaengig bestaetigt) - trotz Umsatzwachstum von +25% und einer Verdopplung von Google Cloud auf 30,7 Mrd. USD (+103%, operative Marge 36,2%). Ausloeser des Kurssturzes ist primaer ein unrealisierter Mark-to-Market-Verlust von 8,2 Mrd. USD auf die SpaceX-Beteiligung (kein operativer Schaden) sowie ein staerker als erwarteter negativer Free Cashflow (-9,1 Mrd. USD) durch unveraendert hohe Capex-Guidance (195-205 Mrd. USD). Analog zum erfolgreichen 'Sell-the-news'-Dip-Kauf-Muster (AMD +8,7%, SpaceX +7,8%, Palantir +8,3%, Meta +9,87%): operatives Geschaeft bleibt stark, Kurssturz groesstenteils durch einen einmaligen Bewertungseffekt getrieben. Spekulativer Dip-Kauf auf eine technische Gegenbewegung; Risiko bewusst erhoeht, da der Rueckgang (-12/-13%) deutlich staerker ausfaellt als bei bisherigen Dip-Kaeufen und noch keine Bodenbildung bestaetigt ist.",
     "status": "open",
     "buyPrice": 283.47,
-    "currentPrice": 286.19,
-    "currentValue": 807.68,
-    "profitLoss": 7.68,
-    "profitLossPct": 0.96,
+    "currentPrice": 286.13,
+    "currentValue": 807.51,
+    "profitLoss": 7.51,
+    "profitLossPct": 0.94,
     "closedDate": null,
     "closeReasoning": null
   },
@@ -542,5 +542,22 @@
     "profitLossPct": -6.87,
     "closedDate": "2026-11-06",
     "closeReasoning": "Stop-Loss: BTC notiert um 00:09 CET bei ca. 75.257,56 USD (Durchschnitt aus CoinGecko 75.357 USD, -6,25% 24h, und Coinbase 75.158,11 USD, beide live abgefragt) - das entspricht -6,87% seit Kauf (80.811,89 USD am 04.11.) und erreicht damit die seit Monaten konsequent angewendete Stop-Loss-Schwelle dieses Portfolios (-6,5% bis -7,5%, analog Rheinmetall -6,56%, NVIDIA -7,24%, XRP -6,57%, HYPE -6,70%, BTC pos-0018 -6,98%). Kein neuer stuetzender Gegenkatalysator gefunden; der bereits bekannte breite Risk-off-Trend nach dem Chip-/AI-Sektor-Crash in Folge der US-Zwischenwahlen haelt unveraendert an, keine Erholungssignale sichtbar. Passend zum spekulativen Kurzfrist-Profil wird konsequent glattgestellt, um weiteren Verlust bei fortgesetztem Risk-off zu vermeiden."
+  },
+  {
+    "id": "pos-0032",
+    "date": "2026-11-06",
+    "asset": "Advanced Micro Devices",
+    "ticker": "AMD",
+    "assetClass": "Aktien",
+    "amount": 1000,
+    "reasoning": "AMD legt heute (06.11.) um ca. +10,9% auf 448,49 USD zu (Yahoo Finance Live-Intraday, Gap-up bereits zur Eroeffnung, haelt seither stabil in der Spanne 433-460 USD) - ein mehrfach unabhaengig bestaetigter, fundamentaler Katalysator: Neubewertung der am 03.11. veroeffentlichten Rekord-Q3-Zahlen (Umsatz 13,4 Mrd. USD, Rechenzentrums-Segment fast verdoppelt auf 8,55 Mrd. USD, +97% YoY, EPS 2,09 USD non-GAAP klar ueber Konsens 1,88 USD). Morgan Stanley hat heute das Kursziel sowie die FY27-Umsatz-/EPS-Schaetzungen angehoben (staerkeres Server-CPU-Wachstum); Analystenkonsens liegt bei 633-657 USD, deutlich ueber dem aktuellen Kurs. Eingebettet in eine breite Risk-on-Rally (Nasdaq +1,6%, S&P +0,8%). Spekulative Momentum-Position auf die fortgesetzte Neubewertung nach starken Zahlen, analog zum erfolgreichen NVDA-/Palantir-/Meta-Post-Earnings-Muster.",
+    "status": "open",
+    "buyPrice": 448.49,
+    "currentPrice": 448.49,
+    "currentValue": 1000,
+    "profitLoss": 0,
+    "profitLossPct": 0,
+    "closedDate": null,
+    "closeReasoning": null
   }
 ]
