@@ -12125,5 +12125,23 @@
         "portfolioValue": 1807.51
       }
     ]
+  },
+  {
+    "date": "2026-11-07",
+    "marketOverview": "US-Boersen seit 22:00 CET/16:00 ET geschlossen (Wochenende startet), Freitagsschluss: AMD beendete die regulaere Sitzung bei 449,04 USD (+11,04% Tagesgewinn) nach dem fortgesetzten Post-Earnings-Momentum/Morgan-Stanley-Kurszielanhebung, GOOGL schloss bei 284,78 USD (+0,78%). Krypto bewegt sich nur moderat: BTC ca. 75.837 USD (+0,63% 24h, CoinGecko live), ETH +1,03%, SOL +1,15%, AVAX +2,17%, ADA +3,15%, DOGE +2,03%, QNT +3,00%, XRP -2,49%, BCH -2,05% - kein bestaetigtes Ausbruchssignal in irgendeinem Markt.",
+    "decision": "Keine Aenderung: Beide offenen Positionen (GOOGL, AMD) nur marginal im Plus (+0,46% bzw. +0,12%), weit unter der etablierten Ziel-Gewinnspanne (7-9%) und ohne Verschlechterung der jeweiligen These - weiter gehalten. Aktien/ETFs/Rohstoffe seit Boersenschluss nicht handelbar; im Kryptomarkt kein ueberzeugender, mehrfach bestaetigter Ausbruch mit klarem Katalysator - kein Neukauf.",
+    "reasoning": "Taegliche Kapitalgutschrift von 1.000 EUR fuer den 07.11. verbucht (totalFreshCapitalEur 94.000 -> 95.000). Freies Kapital (95.000 - 21.500 investiert + 18.886,51 zurueckgefuehrt = 92.386,51 EUR) ist reichlich vorhanden, aber ohne ueberzeugende, mehrfach bestaetigte Gelegenheit wird passend zum spekulativen, aber diszipliniert risikogesteuerten Profil nicht gehandelt. Reine Krypto-Bewegungen von 1-3% in beide Richtungen rechtfertigen keine neue Position nach dem etablierten Ausbruchsmuster (vgl. erfolgreiche Trades erforderten jeweils 5%+ Tagesbewegung mit klarem, unabhaengig bestaetigtem Katalysator).",
+    "positionIds": [
+      "pos-0031",
+      "pos-0033"
+    ],
+    "portfolioValueEnd": 1804.93,
+    "updates": [
+      {
+        "time": "00:08",
+        "note": "Keine Aenderung: Tagesbudget 1.000 EUR gutgeschrieben (freies Kapital jetzt 92.386,51 EUR). GOOGL auf 284,78 USD (+0,46%), AMD auf 449,04 USD (+0,12%) aktualisiert - beide weit unter Zielspanne. Boersen seit Freitagsschluss geschlossen, Krypto nur moderat bewegt (BTC +0,63%, kein Ausbruch) - kein Neukauf.",
+        "portfolioValue": 1804.93
+      }
+    ]
   }
 ]
