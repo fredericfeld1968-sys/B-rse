@@ -11995,13 +11995,13 @@
   },
   {
     "date": "2026-11-06",
-    "marketOverview": "Krypto-Risk-off setzt sich nahezu unveraendert fort: Bitcoin laut CoinGecko live bei ca. 75.635 USD (-4,97% 24h), Ethereum 2.227,64 USD (-6,66%), XRP 1,18 USD (-9,43%), Solana 89,93 USD (-5,62%), Cardano -4,36%, Dogecoin -4,85% - Fear&Greed-Index weiterhin bei 28 (Fear), keine Bodenbildung erkennbar. GOOGL (pos-0031) notiert laut Yahoo Finance bei 282,57 USD (Vortagesschluss 288,93 USD, -2,20%); der US-Kassamarkt oeffnet erst um 15:30 CET, aktuell also noch ausserhalb der Handelszeiten.",
-    "decision": "Kein Trade: GOOGL (pos-0031) auf 282,57 USD aktualisiert (-0,32% seit Kauf). Trotz sehr hohem freiem Kapital (~92.387 EUR) weiterhin kein Neukauf: Krypto bleibt im breiten, undifferenzierten Risk-off (BTC/ETH/SOL/XRP/ADA/DOGE alle 24h deutlich im Minus, Fear&Greed 28) ohne erkennbaren neuen Katalysator oder Bodenbildung; Aktien/ETFs/Rohstoffe sind vor Boersenoeffnung (15:30 CET) ohnehin noch nicht handelbar.",
-    "reasoning": "Keine Recherche (WebSearch, CoinGecko, Yahoo Finance, Fear&Greed-API) liefert einen neuen, konkreten Katalysator fuer einen Einstieg: der Krypto-Abverkauf laeuft praktisch unveraendert im selben Tempo wie in den Vorstunden weiter, ohne Bodenbildung. GOOGL notiert nahezu unveraendert zum letzten Lauf. Passend zum disziplinierten, spekulativen Kurzfrist-Profil wird nur bei einer wirklich ueberzeugenden Gelegenheit gehandelt - diese liegt aktuell nicht vor.",
+    "marketOverview": "GOOGL (pos-0031) springt waehrend regulaerer Nasdaq-Handelszeit laut Yahoo-Finance-Live-Quote auf 288,44 USD (Vortagesschluss 282,57 USD, Tageshoch 290,49 USD, +2,08% intraday) - kein konkreter Einzelkatalysator in der Recherche gefunden, wirkt wie breite Nasdaq-/AI-Staerke am Freitagnachmittag. Kryptomarkt stabilisiert sich etwas gegenueber dem Vormittag: Bitcoin laut CoinGecko live 75.220 USD (-2,55% 24h, deutlich weniger negativ als die -4,97% um 15:09), Ethereum -3,47%, Solana -0,87%, Cardano +0,22%, Dogecoin -0,61%, XRP bleibt mit -6,50% Ausreisser nach unten. Fear&Greed-Index unveraendert bei 28 (Fear).",
+    "decision": "Kein Trade: GOOGL (pos-0031) auf 288,44 USD aktualisiert (+1,75% seit Kauf, noch unter der Ziel-Gewinnspanne von 7-9%). Trotz sehr hohem freiem Kapital (~92.387 EUR) weiterhin kein Neukauf: die leichte Krypto-Stabilisierung ist uneinheitlich (XRP weiterhin deutlich im Minus, Fear&Greed unveraendert bei 28) und ohne bestaetigten neuen Katalysator, der GOOGL-Sprung hat keinen identifizierten fundamentalen Ausloeser - keine wirklich ueberzeugende Gelegenheit fuer einen neuen Einstieg.",
+    "reasoning": "Live-Kursabfrage (Yahoo Finance Chart-API) bestaetigt den GOOGL-Sprung als reale Marktbewegung, aber ohne auffindbaren Nachrichtenkatalysator (WebSearch zu Google/Alphabet-News lieferte nichts Aktuelles) - zu unspezifisch fuer eine Nachkauf-Entscheidung. Kryptomarkt (CoinGecko live) zeigt eine Verbesserung ggue. den Vorstunden, bleibt aber uneinheitlich (XRP -6,5%) und der Fear&Greed-Index verbleibt bei 28 (Fear) ohne Bodenbestaetigung. Passend zum disziplinierten, spekulativen Kurzfrist-Profil wird nur bei einer wirklich ueberzeugenden Gelegenheit gehandelt - diese liegt aktuell nicht vor.",
     "positionIds": [
       "pos-0031"
     ],
-    "portfolioValueEnd": 797.46,
+    "portfolioValueEnd": 814.01,
     "updates": [
       {
         "time": "00:09",
@@ -12082,6 +12082,11 @@
         "time": "15:09",
         "note": "Keine Aenderung: GOOGL auf 282,57 USD aktualisiert (-0,32% seit Kauf). Krypto-Risk-off haelt praktisch unveraendert an (BTC ~75.635 USD -4,97%, Fear&Greed 28) - kein Neukauf, Boersen oeffnen erst 15:30 CET.",
         "portfolioValue": 797.46
+      },
+      {
+        "time": "16:10",
+        "note": "Keine Aenderung: GOOGL waehrend Nasdaq-Handel auf 288,44 USD aktualisiert (+1,75% seit Kauf, Tagesplus +2,08% ohne erkennbaren Katalysator). Krypto stabilisiert sich etwas (BTC -2,55% statt -4,97%), bleibt aber uneinheitlich (XRP -6,5%) - kein Neukauf.",
+        "portfolioValue": 814.01
       }
     ]
   }
