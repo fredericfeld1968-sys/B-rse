@@ -11995,13 +11995,13 @@
   },
   {
     "date": "2026-11-06",
-    "marketOverview": "02:08 CET: Der breite, undifferenzierte Krypto-Abverkauf haelt an: BTC live via CoinGecko bei 76.222 USD (-5,30% in 24h), ETH 2.242,17 USD (-7,29%), SOL 90,23 USD (-5,74%) - erneut eine marktweite Flucht aus Risikoassets ohne erkennbaren Einzeltitel-Katalysator oder Bodenbildungssignal. GOOGL schloss am 05.11. regulaer bei 282,60 USD und notiert nachbörslich bei 282,53 USD (StockAnalysis, Stand 19:59 ET) - praktisch unveraendert. US-Boersen, europaeische Boersen und Rohstoffmaerkte bleiben um diese Nachtzeit geschlossen, nur Krypto handelbar.",
-    "decision": "Kein Trade: GOOGL (pos-0031) unveraendert gehalten, Kurs auf 282,53 USD aktualisiert (-0,33% seit Kauf). Trotz weiterhin sehr hohem freiem Kapital (~92.386,51 EUR) kein Neukauf: der Kryptomarkt faellt weiterhin breit und gleichmaessig ueber alle grossen Coins hinweg (BTC -5,3%, ETH -7,3%, SOL -5,7% in 24h), ohne erkennbaren einzelnen Bodenbildungs- oder Kaufkatalysator - keine ueberzeugende Gelegenheit.",
-    "reasoning": "Der undifferenzierte, marktbreite Abverkauf setzt sich seit dem letzten Lauf fort (ETH-Rueckgang hat sich sogar von -7,4% auf -7,29% kaum erholt, bleibt also tief negativ) - weiterhin das Gegenteil eines bestaetigten Einzeltitel-Ausbruchs. Ohne mehrfach unabhaengig bestaetigten, spezifischen Katalysator fuer einen einzelnen Titel wird passend zum Grundsatz \"nur bei wirklich ueberzeugender Gelegenheit handeln\" kein Neukauf getaetigt. GOOGL bleibt nahe am Einstand (-0,33%), deutlich innerhalb der etablierten Stop-Loss-Schwelle (-6,5% bis -7,5%), kein Handlungsbedarf. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "marketOverview": "03:09 CET: Der breite, undifferenzierte Krypto-Abverkauf haelt weiter an: BTC live via CoinGecko bei 76.015 USD (-5,88% in 24h), ETH 2.235,60 USD (-8,08%), SOL 90,09 USD (-6,30%) - erneut eine marktweite Flucht aus Risikoassets ohne erkennbaren Einzeltitel-Katalysator, keine Bodenbildung erkennbar (ETH-Rueckgang vertieft sich sogar leicht weiter). GOOGL schloss am 05.11. regulaer bei 282,57 USD (-2,20% Tagesverlust) und notiert nachbörslich bei 282,49 USD (StockAnalysis, Stand 19:59 ET) - praktisch unveraendert zum letzten Lauf. US-Boersen, europaeische Boersen und Rohstoffmaerkte bleiben um diese Nachtzeit geschlossen, nur Krypto handelbar.",
+    "decision": "Kein Trade: GOOGL (pos-0031) unveraendert gehalten, Kurs auf 282,49 USD aktualisiert (-0,35% seit Kauf). Trotz weiterhin sehr hohem freiem Kapital (~92.386,51 EUR) kein Neukauf: der Kryptomarkt faellt weiterhin breit und gleichmaessig ueber alle grossen Coins hinweg (BTC -5,9%, ETH -8,1%, SOL -6,3% in 24h), ohne erkennbaren einzelnen Bodenbildungs- oder Kaufkatalysator - keine ueberzeugende Gelegenheit.",
+    "reasoning": "Der undifferenzierte, marktbreite Abverkauf setzt sich seit dem letzten Lauf unveraendert fort (ETH sogar noch etwas tiefer im Minus) - weiterhin das Gegenteil eines bestaetigten Einzeltitel-Ausbruchs. Ohne mehrfach unabhaengig bestaetigten, spezifischen Katalysator fuer einen einzelnen Titel wird passend zum Grundsatz \"nur bei wirklich ueberzeugender Gelegenheit handeln\" kein Neukauf getaetigt. GOOGL bleibt nahe am Einstand (-0,35%), deutlich innerhalb der etablierten Stop-Loss-Schwelle (-6,5% bis -7,5%), kein Handlungsbedarf. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [
       "pos-0031"
     ],
-    "portfolioValueEnd": 797.35,
+    "portfolioValueEnd": 797.23,
     "updates": [
       {
         "time": "00:09",
@@ -12017,6 +12017,11 @@
         "time": "02:08",
         "note": "Keine Aenderung: GOOGL auf 282,53 USD aktualisiert. Krypto-Abverkauf haelt an (BTC -5,3%, ETH -7,3%, SOL -5,7% 24h), kein Kaufkatalysator - kein Neukauf.",
         "portfolioValue": 797.35
+      },
+      {
+        "time": "03:09",
+        "note": "Keine Aenderung: GOOGL auf 282,49 USD aktualisiert. Krypto-Abverkauf vertieft sich leicht (BTC -5,9%, ETH -8,1%, SOL -6,3% 24h), kein Kaufkatalysator - kein Neukauf.",
+        "portfolioValue": 797.23
       }
     ]
   }
