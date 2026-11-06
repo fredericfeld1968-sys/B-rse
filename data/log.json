@@ -11995,13 +11995,13 @@
   },
   {
     "date": "2026-11-06",
-    "marketOverview": "GOOGL (pos-0031) bleibt ohne frischere verifizierbare Live-Quote bei ca. 286,95 USD (+1,23% seit Kauf). Die Recherche um 19:09 CET (waehrend laufendem US-Handel, Markt schliesst erst 22:00 CET) lieferte fuer Aktien (GOOGL, S&P 500, Nasdaq), Krypto (BTC/ETH) und Rohstoffe (Gold, Brent) ausschliesslich undatierte oder erkennbar veraltete/widerspruechliche Werte (teils aus Oktober 2026 oder sogar November 2025) - keine davon liess sich zuverlaessig auf den aktuellen Zeitpunkt datieren. Kein neuer, mehrfach bestaetigter Einzeltitel- oder Marktkatalysator auffindbar.",
-    "decision": "Kein Trade: GOOGL (pos-0031) unveraendert bei 286,95 USD gehalten (keine verlaessliche frischere Quote verfuegbar, +1,23% seit Kauf, weiterhin unter der Ziel-Gewinnspanne von 7-9%). Trotz sehr hohem freiem Kapital (~92.387 EUR) weiterhin kein Neukauf: Ohne belastbare, aktuell datierte Marktdaten gibt es keine Grundlage fuer eine fundierte spekulative Kauf- oder Verkaufsentscheidung in diesem Lauf.",
-    "reasoning": "Die Websuche um 19:09 CET lieferte fuer GOOGL, S&P 500/Nasdaq, BTC/Krypto und Gold/Brent keine Ergebnisse, die sich zuverlaessig auf den aktuellen Zeitpunkt (13:09 ET, waehrend laufendem Handel) datieren liessen - gefundene Kurse waren entweder undatiert oder stammten erkennbar aus anderen Zeitraeumen (u.a. Oktober 2026, November 2025). Passend zum disziplinierten, spekulativen Kurzfrist-Profil wird nur bei einer wirklich ueberzeugenden, mehrfach bestaetigten Gelegenheit gehandelt - eine belastbare Datengrundlage dafuer liegt aktuell nicht vor, daher letzten bestaetigten GOOGL-Kurs (286,95 USD, 18:09-Lauf) beibehalten und kein Neukauf.",
+    "marketOverview": "Breite Erholungsrally setzt sich am Nachmittag/Abend fort: Nasdaq +1,46%, S&P 500 +0,73%, Dow nahezu unveraendert (-0,06%), nach dem historischen Vortagescrash. Gold leicht schwaecher (4.085,6 USD, -0,68%), Brent bei 98,02 USD (-0,28%). Krypto uneinheitlich: BTC 75.697 USD (-0,29% 24h), ETH 2.228 USD (-0,80%), SOL 90,2 USD (+1,02%). Kein ueberzeugender, mehrfach bestaetigter Einzeltitel-Katalysator fuer einen Neukauf gefunden.",
+    "decision": "Kein Trade: GOOGL (pos-0031) bei 286,19 USD gehalten (+0,96% seit Kauf von 283,47 USD), weiterhin deutlich unter der Ziel-Gewinnspanne von 7-9% und ohne Verschlechterung der fundamentalen These. Trotz sehr hohem freiem Kapital (~92.387 EUR) kein Neukauf: Weder Aktien- noch Krypto-Recherche lieferte einen frischen, mehrfach unabhaengig bestaetigten Katalysator, der eine spekulative Kauf- oder Verkaufsentscheidung in diesem Lauf rechtfertigen wuerde.",
+    "reasoning": "Formel freies Kapital: totalFreshCapitalEur (94.000) - investiert (20.500) + zurueck (18.886,51) = 92.386,51 EUR frei. Tagesbudget fuer heute bereits gutgeschrieben (lastGrantDate=2026-11-06). Marktlage: breite Tech-/Index-Erholung (Nasdaq/S&P im Plus), Gold/Oel leicht schwaecher, Krypto gemischt ohne klaren Ausbruch. GOOGL (einzige offene Position) bewegt sich nur marginal (+0,96%), weder Stop-Loss- noch Ziel-Gewinn-Schwelle erreicht. Keine neue Position eroeffnet, da keine ueberzeugende, mehrfach bestaetigte Gelegenheit identifiziert wurde.",
     "positionIds": [
       "pos-0031"
     ],
-    "portfolioValueEnd": 809.82,
+    "portfolioValueEnd": 807.68,
     "updates": [
       {
         "time": "00:09",
@@ -12102,6 +12102,11 @@
         "time": "19:09",
         "note": "Keine Aenderung: GOOGL bei 286,95 USD gehalten. Recherche lieferte keine verlaesslich datierten aktuellen Marktdaten (Aktien/Krypto/Rohstoffe) - kein Neukauf.",
         "portfolioValue": 809.82
+      },
+      {
+        "time": "20:08",
+        "note": "Keine Aenderung: GOOGL auf 286,19 USD aktualisiert (+0,96% seit Kauf). Breite Erholung haelt an (Nasdaq +1,46%, S&P +0,73%), kein ueberzeugender Einzeltitel-Katalysator - kein Neukauf.",
+        "portfolioValue": 807.68
       }
     ]
   }
