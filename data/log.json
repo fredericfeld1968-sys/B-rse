@@ -11995,9 +11995,9 @@
   },
   {
     "date": "2026-11-06",
-    "marketOverview": "03:09 CET: Der breite, undifferenzierte Krypto-Abverkauf haelt weiter an: BTC live via CoinGecko bei 76.015 USD (-5,88% in 24h), ETH 2.235,60 USD (-8,08%), SOL 90,09 USD (-6,30%) - erneut eine marktweite Flucht aus Risikoassets ohne erkennbaren Einzeltitel-Katalysator, keine Bodenbildung erkennbar (ETH-Rueckgang vertieft sich sogar leicht weiter). GOOGL schloss am 05.11. regulaer bei 282,57 USD (-2,20% Tagesverlust) und notiert nachbörslich bei 282,49 USD (StockAnalysis, Stand 19:59 ET) - praktisch unveraendert zum letzten Lauf. US-Boersen, europaeische Boersen und Rohstoffmaerkte bleiben um diese Nachtzeit geschlossen, nur Krypto handelbar.",
-    "decision": "Kein Trade: GOOGL (pos-0031) unveraendert gehalten, Kurs auf 282,49 USD aktualisiert (-0,35% seit Kauf). Trotz weiterhin sehr hohem freiem Kapital (~92.386,51 EUR) kein Neukauf: der Kryptomarkt faellt weiterhin breit und gleichmaessig ueber alle grossen Coins hinweg (BTC -5,9%, ETH -8,1%, SOL -6,3% in 24h), ohne erkennbaren einzelnen Bodenbildungs- oder Kaufkatalysator - keine ueberzeugende Gelegenheit.",
-    "reasoning": "Der undifferenzierte, marktbreite Abverkauf setzt sich seit dem letzten Lauf unveraendert fort (ETH sogar noch etwas tiefer im Minus) - weiterhin das Gegenteil eines bestaetigten Einzeltitel-Ausbruchs. Ohne mehrfach unabhaengig bestaetigten, spezifischen Katalysator fuer einen einzelnen Titel wird passend zum Grundsatz \"nur bei wirklich ueberzeugender Gelegenheit handeln\" kein Neukauf getaetigt. GOOGL bleibt nahe am Einstand (-0,35%), deutlich innerhalb der etablierten Stop-Loss-Schwelle (-6,5% bis -7,5%), kein Handlungsbedarf. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "marketOverview": "04:08 CET: Der breite, undifferenzierte Krypto-Abverkauf setzt sich im Kern unveraendert fort: BTC laut CoinGecko/Kraken bei ca. 76.100-76.160 USD (-5,4% in 24h), ETH bei ca. 2.238-2.242 USD (-7,6%), SOL bei ca. 90,2-90,3 USD (-6,1%) - praktisch auf demselben Niveau wie beim letzten Lauf (03:09), keine Bodenbildung erkennbar. Hintergrund bleibt laut KuCoin/Cointelegraph/Gulf News eine marktweite Risk-off-Welle durch AI-Bubble-Aengste an den US-Aktienmaerkten, die auf Krypto uebergreift (rund 1,09 Mrd. USD Liquidationen in 24h, Fear&Greed zuletzt bei ~37 'Fear'). GOOGL (pos-0031) notiert unveraendert bei 282,49-282,57 USD (regulaerer Schlusskurs 05.11. bei 282,57 USD, -2,20% Tagesverlust; keine neuen Alphabet-spezifischen News seit Handelsschluss gefunden). US-Boersen, europaeische Boersen, Futures und Rohstoffmaerkte bleiben um diese Nachtzeit geschlossen, nur Krypto handelbar.",
+    "decision": "Kein Trade: GOOGL (pos-0031) unveraendert gehalten bei 282,49 USD (-0,35% seit Kauf). Trotz weiterhin sehr hohem freiem Kapital (~92.386,51 EUR) kein Neukauf: der Kryptomarkt faellt weiterhin breit und gleichmaessig ueber alle grossen Coins hinweg (BTC -5,4%, ETH -7,6%, SOL -6,1% in 24h), ohne erkennbaren einzelnen Bodenbildungs-, Ausbruchs- oder Kaufkatalysator - keine ueberzeugende Gelegenheit.",
+    "reasoning": "Der undifferenzierte, marktbreite Krypto-Abverkauf haelt seit mehreren Laeufen nahezu unveraendert an (BTC/ETH/SOL-Niveau praktisch identisch zu 03:09) - weiterhin das Gegenteil eines bestaetigten Einzeltitel-Ausbruchs oder einer Erholungsbestaetigung. Ohne mehrfach unabhaengig bestaetigten, spezifischen positiven Katalysator fuer einen einzelnen Titel wird passend zum Grundsatz 'nur bei wirklich ueberzeugender Gelegenheit handeln' kein Neukauf getaetigt. GOOGL bleibt nahe am Einstand (-0,35%), deutlich innerhalb der etablierten Stop-Loss-Schwelle (-6,5% bis -7,5%), kein Handlungsbedarf. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [
       "pos-0031"
     ],
@@ -12021,6 +12021,11 @@
       {
         "time": "03:09",
         "note": "Keine Aenderung: GOOGL auf 282,49 USD aktualisiert. Krypto-Abverkauf vertieft sich leicht (BTC -5,9%, ETH -8,1%, SOL -6,3% 24h), kein Kaufkatalysator - kein Neukauf.",
+        "portfolioValue": 797.23
+      },
+      {
+        "time": "04:08",
+        "note": "Keine Aenderung: GOOGL auf 282,49 USD unveraendert. Krypto-Abverkauf (BTC -5,4%, ETH -7,6%, SOL -6,1% 24h) praktisch auf Vorlaufniveau, kein Kaufkatalysator - kein Neukauf.",
         "portfolioValue": 797.23
       }
     ]
