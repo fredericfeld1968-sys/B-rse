@@ -11995,13 +11995,13 @@
   },
   {
     "date": "2026-11-06",
-    "marketOverview": "GOOGL (pos-0031) springt waehrend regulaerer Nasdaq-Handelszeit laut Yahoo-Finance-Live-Quote auf 288,44 USD (Vortagesschluss 282,57 USD, Tageshoch 290,49 USD, +2,08% intraday) - kein konkreter Einzelkatalysator in der Recherche gefunden, wirkt wie breite Nasdaq-/AI-Staerke am Freitagnachmittag. Kryptomarkt stabilisiert sich etwas gegenueber dem Vormittag: Bitcoin laut CoinGecko live 75.220 USD (-2,55% 24h, deutlich weniger negativ als die -4,97% um 15:09), Ethereum -3,47%, Solana -0,87%, Cardano +0,22%, Dogecoin -0,61%, XRP bleibt mit -6,50% Ausreisser nach unten. Fear&Greed-Index unveraendert bei 28 (Fear).",
-    "decision": "Kein Trade: GOOGL (pos-0031) auf 288,44 USD aktualisiert (+1,75% seit Kauf, noch unter der Ziel-Gewinnspanne von 7-9%). Trotz sehr hohem freiem Kapital (~92.387 EUR) weiterhin kein Neukauf: die leichte Krypto-Stabilisierung ist uneinheitlich (XRP weiterhin deutlich im Minus, Fear&Greed unveraendert bei 28) und ohne bestaetigten neuen Katalysator, der GOOGL-Sprung hat keinen identifizierten fundamentalen Ausloeser - keine wirklich ueberzeugende Gelegenheit fuer einen neuen Einstieg.",
-    "reasoning": "Live-Kursabfrage (Yahoo Finance Chart-API) bestaetigt den GOOGL-Sprung als reale Marktbewegung, aber ohne auffindbaren Nachrichtenkatalysator (WebSearch zu Google/Alphabet-News lieferte nichts Aktuelles) - zu unspezifisch fuer eine Nachkauf-Entscheidung. Kryptomarkt (CoinGecko live) zeigt eine Verbesserung ggue. den Vorstunden, bleibt aber uneinheitlich (XRP -6,5%) und der Fear&Greed-Index verbleibt bei 28 (Fear) ohne Bodenbestaetigung. Passend zum disziplinierten, spekulativen Kurzfrist-Profil wird nur bei einer wirklich ueberzeugenden Gelegenheit gehandelt - diese liegt aktuell nicht vor.",
+    "marketOverview": "GOOGL (pos-0031) notiert um 17:12 CET laut Yahoo Finance/stockanalysis.com bei ca. 286,95 USD (+1,5% intraday) - Teil einer breiten Markterholung nach dem historischen Kursrutsch vom Vortag (S&P 500 -4,4% am 05.11.), getragen von einem starken Oktober-Arbeitsmarktbericht (+165k Stellen), dem Fed-Zinsentscheid (Halten bei 3,75-4,00%) und starkem Q3-BIP (+3,4%); kein Alphabet-spezifischer frischer Katalysator gefunden. Kryptomarkt erholt sich: BTC 75.645 USD (+3,1% 24h), ETH 2.225 USD (+4,8%), SOL 90,29 USD (+2,3%), XRP 1,19 USD (+7,3%, ohne erkennbaren Einzelkatalysator), DOGE 0,0728 USD (+1,5%). Fear&Greed-Index bei 28 (Fear) - trotz Kurserholung weiterhin aengstlich, deutet auf reflexhaften Rebound statt neuer bullischer Ueberzeugung hin.",
+    "decision": "Kein Trade: GOOGL (pos-0031) auf 286,95 USD aktualisiert (+1,23% seit Kauf, noch unter der Ziel-Gewinnspanne von 7-9%). Trotz sehr hohem freiem Kapital (~92.387 EUR) weiterhin kein Neukauf: die heutige Erholung bei Aktien wie Krypto ist ein reflexhafter Rebound nach dem Vortagescrash, bestaetigt durch Fear&Greed weiterhin bei 28 (Fear) und ohne einen einzelnen, frischen, mehrfach bestaetigten Einzeltitel-Katalysator - keine wirklich ueberzeugende Gelegenheit fuer einen neuen Einstieg.",
+    "reasoning": "Recherche (Yahoo Finance, stockanalysis.com, CoinGecko, alternative.me, oilprice.com, Kitco) bestaetigt eine breite, makrogetriebene Erholungsrally nach dem historischen Vortagescrash, aber ohne einzelnen bestaetigten Ausbruchskatalysator bei einer bestimmten Aktie, einem Coin oder Rohstoff - XRPs ueberproportionaler Sprung (+7,3%) bleibt ohne Nachrichtengrundlage und damit nicht handelswuerdig. Passend zum disziplinierten, spekulativen Kurzfrist-Profil wird nur bei einer wirklich ueberzeugenden Gelegenheit gehandelt - diese liegt aktuell nicht vor.",
     "positionIds": [
       "pos-0031"
     ],
-    "portfolioValueEnd": 814.01,
+    "portfolioValueEnd": 809.82,
     "updates": [
       {
         "time": "00:09",
@@ -12087,6 +12087,11 @@
         "time": "16:10",
         "note": "Keine Aenderung: GOOGL waehrend Nasdaq-Handel auf 288,44 USD aktualisiert (+1,75% seit Kauf, Tagesplus +2,08% ohne erkennbaren Katalysator). Krypto stabilisiert sich etwas (BTC -2,55% statt -4,97%), bleibt aber uneinheitlich (XRP -6,5%) - kein Neukauf.",
         "portfolioValue": 814.01
+      },
+      {
+        "time": "17:12",
+        "note": "Keine Aenderung: GOOGL auf 286,95 USD aktualisiert (+1,23% seit Kauf, leicht niedriger als 16:10). Breite Markterholung nach dem historischen Vortagescrash (starke Jobdaten, Fed-Entscheid), aber Fear&Greed weiterhin bei 28 (Fear) und kein bestaetigter Einzeltitel-Katalysator - kein Neukauf.",
+        "portfolioValue": 809.82
       }
     ]
   }
