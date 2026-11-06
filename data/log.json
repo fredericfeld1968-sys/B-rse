@@ -11995,13 +11995,13 @@
   },
   {
     "date": "2026-11-06",
-    "marketOverview": "Der Krypto-Risk-off-Trend haelt an: Bitcoin notiert laut CoinDesk/CoinGecko/CryptoTimes weiterhin bei ca. 75.300-75.650 USD (-6% in 24h), ausgeloest durch den Nasdaq-/KI-Aktien-Ausverkauf vom Vortag mit rund 1,25 Mrd. USD Krypto-Liquidationen und ca. 430 Mio. USD Spot-BTC-ETF-Abfluessen; der Crypto Fear & Greed Index liegt bei ca. 28-29 (Fear), ohne bestaetigtes Bodensignal. GOOGL weiterhin ohne verlaessliche frische Vorboersenquelle, daher unveraendert bei 283,22 USD gehalten; US-Kassamarkt oeffnet erst um 15:30 CET.",
-    "decision": "Kein Trade: GOOGL (pos-0031) unveraendert bei 283,22 USD (keine verlaessliche frische Vorboersenquelle gefunden). Trotz sehr hohem freiem Kapital (~92.386,51 EUR) weiterhin kein Neukauf: der Kryptomarkt bleibt im anhaltenden Risk-off (Fear&Greed ~28-29, BTC weiterhin ca. -6% 24h) ohne Erholungssignal - kein ueberzeugendes Einstiegssignal; Aktien/ETFs/Rohstoffe vor Boersenoeffnung ohnehin nicht handelbar.",
-    "reasoning": "Der Midterm-bedingte Krypto-Short-Squeeze vom 05.11. (BTC >80.000 USD) bleibt vollstaendig aufgeloest; der Nasdaq-/KI-Sektor-Ausverkauf vom Vortag drueckt Krypto weiterhin nach unten (BTC ~75.300-75.650 USD, Fear&Greed-Index 28-29). Mehrere unabhaengige Quellen (CoinDesk, CryptoTimes, Coingabbar, FXStreet) bestaetigen den anhaltenden Abverkauf ohne neuen stuetzenden Katalysator oder Bodenbildung. Bei weiterhin geschlossenen Aktien-/ETF-/Rohstoffmaerkten (vor 15:30 CET) bleibt kein ueberzeugender Einstiegspunkt. GOOGL wird mangels verlaesslicher frischer Quelle unveraendert gehalten.",
+    "marketOverview": "Der breite Krypto-Risk-off-Trend haelt unveraendert an: Bitcoin notiert laut CoinGecko live bei ca. 76.033 USD (-5,25% 24h), Ethereum -7,55%, XRP -9,41%, Solana -6,83% - praktisch alle grossen Coins synchron im Minus, der Crypto Fear & Greed Index verharrt bei 28 (Fear) ohne Bodensignal. GOOGL (pos-0031) notiert im Vormarkt laut Yahoo Finance bei ca. 283,53 USD, nahezu unveraendert; der US-Kassamarkt oeffnet erst um 15:30 CET.",
+    "decision": "Kein Trade: GOOGL (pos-0031) auf 283,53 USD aktualisiert (nahezu unveraendert, +0,02% seit Kauf). Trotz hohem freiem Kapital (~92.386,51 EUR) weiterhin kein Neukauf: Krypto bleibt im breiten, undifferenzierten Risk-off (BTC/ETH/SOL/XRP alle 24h im Minus, Fear&Greed 28) ohne Erholungssignal, und Aktien/ETFs/Rohstoffe sind vor Boersenoeffnung (15:30 CET) ohnehin nicht handelbar.",
+    "reasoning": "Der Nasdaq-/KI-Sektor-Ausverkauf vom Vortag belastet Krypto weiter: alle grossen Coins (BTC, ETH, SOL, XRP, ADA, LINK, BCH) notieren laut CoinGecko synchron 3-9% im Minus binnen 24h, der Fear&Greed-Index bleibt bei 28 (Fear). Ohne Bodenbildung oder einen neuen stuetzenden Katalysator bietet sich kein ueberzeugendes Einstiegssignal. Aktien/ETFs/Rohstoffe sind vor Markteroeffnung (15:30 CET) nicht handelbar; GOOGL wird auf den aktuellen Vormarktkurs aktualisiert.",
     "positionIds": [
       "pos-0031"
     ],
-    "portfolioValueEnd": 799.29,
+    "portfolioValueEnd": 800.17,
     "updates": [
       {
         "time": "00:09",
@@ -12062,6 +12062,11 @@
         "time": "11:09",
         "note": "Keine Aenderung: GOOGL unveraendert bei 283,22 USD (keine frische Quote). Krypto-Risk-off haelt an (BTC ~75.300-75.650 USD, Fear&Greed-Index 28-29, kein Bodensignal) - kein Neukauf.",
         "portfolioValue": 799.29
+      },
+      {
+        "time": "12:09",
+        "note": "Keine Aenderung: GOOGL auf 283,53 USD aktualisiert (nahezu unveraendert). Krypto bleibt im breiten Risk-off (BTC ~76.033 USD -5,25%, ETH -7,55%, XRP -9,41%, Fear&Greed 28) - kein Neukauf, Boersen oeffnen erst 15:30 CET.",
+        "portfolioValue": 800.17
       }
     ]
   }
