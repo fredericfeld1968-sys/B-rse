@@ -11995,9 +11995,9 @@
   },
   {
     "date": "2026-11-06",
-    "marketOverview": "Breiter Krypto-Risk-off haelt an (BTC ca. 75.500 USD, -6,2% 24h; ETH -8,1%; XRP -9,8%; ADA -7,1%; SOL -6,6%; LINK -7,0%), ausgeloest durch den Tech-/KI-Aktien-Ausverkauf und anschliessende Liquidationswellen; kein bestaetigtes Bodensignal erkennbar. GOOGL notiert in einer duennen Overnight-Sitzung bei 283,22 USD (+0,23% ggu. Schlusskurs Vortag), US-Kassamarkt oeffnet erst um 15:30 CET.",
-    "decision": "Kein Trade: GOOGL (pos-0031) auf aktuellen Overnight-Kurs 283,22 USD aktualisiert (-0,09% seit Kauf). Trotz sehr hohem freiem Kapital (~92.386,51 EUR) weiterhin kein Neukauf: der Kryptomarkt bleibt in einem breiten, liquidationsgetriebenen Abverkauf ohne Bodenbestaetigung, Aktien/ETFs/Rohstoffe vor Boersenoeffnung nicht handelbar.",
-    "reasoning": "Ausserhalb der US-Handelszeiten sind Aktien/ETFs/Rohstoffe nicht handelbar; der Kryptomarkt zeigt einen fortgesetzten breiten Abverkauf (alle beobachteten Coins zwischen -5,5% und -9,8% in 24h) ohne neuen stuetzenden Katalysator oder Bodensignal - kein ueberzeugender Einstiegspunkt. GOOGL wird unveraendert gehalten, die Bewegung seit Kauf ist marginal (-0,09%).",
+    "marketOverview": "Der Krypto-Rebound vom 05.11. (BTC kurzzeitig ueber 80.000 USD nach Midterm-Wahlergebnis) ist bereits wieder verflogen: nach einem erneuten Nasdaq-/KI-Aktien-Ausverkauf faellt BTC auf ca. 75.300-76.000 USD (-5,7% bis -6,3% 24h), mit rund 1,25 Mrd. USD Krypto-Liquidationen und ca. 430 Mio. USD Spot-BTC-ETF-Abfluessen; die Markstimmung bleibt risikoavers ohne bestaetigtes Bodensignal. GOOGL ohne verlaessliche neue Vorboersenquelle, daher unveraendert bei 283,22 USD gehalten; US-Kassamarkt oeffnet erst um 15:30 CET.",
+    "decision": "Kein Trade: GOOGL (pos-0031) unveraendert bei 283,22 USD (keine verlaessliche frische Vorboersenquelle gefunden). Trotz sehr hohem freiem Kapital (~92.386,51 EUR) weiterhin kein Neukauf: der kurze Krypto-Rebound vom Vortag ist bereits wieder abverkauft, BTC faellt erneut Richtung 75.000 USD im Zuge eines neuen Nasdaq-/KI-Ausverkaufs - kein ueberzeugendes Einstiegssignal; Aktien/ETFs/Rohstoffe vor Boersenoeffnung ohnehin nicht handelbar.",
+    "reasoning": "Der Midterm-bedingte Krypto-Short-Squeeze vom 05.11. (BTC >80.000 USD) hat sich laut aktuellen Berichten bereits wieder aufgeloest; ein erneuter Tech-/KI-Aktien-Ausverkauf an der Nasdaq zieht Krypto erneut nach unten (BTC -5,7% bis -6,3% 24h, ca. 1,25 Mrd. USD Liquidationen, ETF-Abfluesse ca. 430 Mio. USD). Ohne bestaetigtes Bodensignal und bei weiterhin geschlossenen Aktien-/ETF-/Rohstoffmaerkten (vor 15:30 CET) bleibt kein ueberzeugender Einstiegspunkt. GOOGL wird mangels verlaesslicher frischer Quelle unveraendert gehalten.",
     "positionIds": [
       "pos-0031"
     ],
@@ -12051,6 +12051,11 @@
       {
         "time": "09:10",
         "note": "Keine Aenderung: GOOGL auf Overnight-Kurs 283,22 USD aktualisiert (+0,23% ggue. Vortagesschluss). Kryptomarkt weiterhin im breiten Abverkauf (BTC -6,2%, ETH -8,1%, XRP -9,8% 24h), kein Bodensignal - kein Neukauf.",
+        "portfolioValue": 799.29
+      },
+      {
+        "time": "10:10",
+        "note": "Keine Aenderung: GOOGL unveraendert (keine frische Quote). Krypto-Rebound vom Vortag bereits wieder abverkauft, BTC erneut Richtung 75.000-76.000 USD (Nasdaq-/KI-Ausverkauf, ca. 1,25 Mrd. USD Liquidationen) - kein Neukauf.",
         "portfolioValue": 799.29
       }
     ]
