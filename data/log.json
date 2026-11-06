@@ -11995,9 +11995,9 @@
   },
   {
     "date": "2026-11-06",
-    "marketOverview": "US-Maerkte geschlossen (vor Pre-Market), GOOGL nach Boersenschluss unveraendert bei 282,49 USD (-0,35% seit Kauf). Krypto-Markt bleibt unter Druck: BTC rund 75.500 USD (-6% 24h), weiterhin Nachwirkungen des Binance-Hacks (ca. 6,3 Mrd. USD, Zurechnung Nordkorea/Lazarus, ca. haelfte der Gelder eingefroren), ETH nahe Zwei-Monats-Tief. Keine Bodenbildung, kein klarer Kaufkatalysator erkennbar.",
-    "decision": "Kein Trade: GOOGL (pos-0031) unveraendert gehalten bei 282,49 USD (-0,35% seit Kauf, nach Boersenschluss keine frischere Quote). Trotz weiterhin sehr hohem freiem Kapital (~92.386,51 EUR) kein Neukauf: Kryptomarkt faellt weiter breit (BTC ~75.500 USD, -6%), Binance-Hack-Ueberhang haelt an, keine Bodenbildung oder einzelner Kaufkatalysator erkennbar - keine ueberzeugende Gelegenheit.",
-    "reasoning": "Ausserhalb der US-Handelszeiten sind Aktien/ETFs/Rohstoffe nicht handelbar, daher nur Krypto moeglich. BTC/ETH/SOL setzen den Abverkauf der letzten Stunden fort, verstaerkt durch den Binance-Hack (Geldwaesche-Ueberhang via Lazarus/ETH), ohne erkennbares Stabilisierungssignal. Im spekulativen Profil ist ein Dip-Kauf in einen ungebrochenen, nachrichtengetriebenen Abverkauf ohne Bodenbildung kein ueberzeugendes Risiko-Ertrags-Verhaeltnis - daher kein Neukauf. GOOGL bleibt unveraendert, da nach Boersenschluss keine frischere, verlaessliche Kursquelle vorliegt.",
+    "marketOverview": "US-Maerkte weiterhin geschlossen (vor Pre-Market, OEffnung Kassamarkt erst ab 15:30 MEZ), GOOGL ohne frischere Quote unveraendert bei 282,49 USD (-0,35% seit Kauf). Kryptomarkt bleibt unter Druck: BTC rund 75.000-76.000 USD, Binance-Hack-Ueberhang (ca. 6,3 Mrd. USD, Nordkorea/Lazarus zugeordnet) haelt an, Altcoins (SOL ~95 USD, ETH ~2.170 USD) deutlich schwaecher, Marktkapitalisierung laut aktuellen Berichten um ca. 140 Mrd. USD gefallen. Keine bestaetigte Bodenbildung oder frischer, konkret datierter Kaufkatalysator auffindbar.",
+    "decision": "Kein Trade: GOOGL (pos-0031) unveraendert gehalten bei 282,49 USD (-0,35% seit Kauf, weiterhin keine frischere Quote nach Boersenschluss). Trotz sehr hohem freiem Kapital (~92.386,51 EUR) kein Neukauf: Kryptomarkt bleibt breit unter Druck durch Binance-Hack-Nachwirkungen, keine Bodenbildung oder einzelner bestaetigter Kaufkatalysator erkennbar - keine ueberzeugende Gelegenheit.",
+    "reasoning": "Ausserhalb der US-Handelszeiten (Pre-Market oeffnet erst ab ca. 10:00 MEZ) sind Aktien/ETFs/Rohstoffe nicht handelbar, daher kommt nur Krypto in Frage. Mehrere unabhaengige Recherchen bestaetigen uebereinstimmend den anhaltenden, nachrichtengetriebenen Abverkauf (Binance-Hack, Lazarus-Zurechnung) ohne erkennbares Stabilisierungssignal oder konkreten frischen Einzelkatalysator. Im spekulativen Profil ist ein Dip-Kauf in einen ungebrochenen Abverkauf ohne Bodenbildung kein ueberzeugendes Risiko-Ertrags-Verhaeltnis - daher weiterhin kein Neukauf. GOOGL bleibt mangels frischerer, verlaesslicher Kursquelle unveraendert.",
     "positionIds": [
       "pos-0031"
     ],
@@ -12036,6 +12036,11 @@
       {
         "time": "06:09",
         "note": "Keine Aenderung: GOOGL nach Boersenschluss unveraendert bei 282,49 USD. BTC ~75.500 USD (-6% 24h), Binance-Hack-Ueberhang haelt an, keine Bodenbildung - kein Kaufkatalysator, kein Neukauf.",
+        "portfolioValue": 797.23
+      },
+      {
+        "time": "07:09",
+        "note": "Keine Aenderung: GOOGL weiterhin ohne frische Quote (vor Pre-Market) bei 282,49 USD. Kryptomarkt bleibt breit unter Druck (Binance-Hack-Ueberhang, BTC ~75-76k), kein bestaetigter frischer Kaufkatalysator - kein Neukauf.",
         "portfolioValue": 797.23
       }
     ]
