@@ -12128,9 +12128,9 @@
   },
   {
     "date": "2026-11-07",
-    "marketOverview": "US-Boersen/ETFs/Rohstoffe weiter im Wochenend-Schluss (seit Freitag 22:00 CET geschlossen): AMD Freitagsschluss 449,04 USD, GOOGL 284,78 USD - unveraendert. Krypto bewegt sich weiterhin nur geringfuegig und ohne klaren Richtungs-Katalysator (CoinGecko live): BTC 75.827 USD (+0,23% 24h), ETH 2.241,28 USD (+0,55%), SOL 89,93 USD (+0,57%), AVAX 8,30 USD (+0,35%), DOGE 0,0719 USD (+0,33%), HYPE 79,53 USD (+3,07%), XRP 1,16 USD (-3,77%), BCH 262,34 USD (-4,29%) - kein mehrfach bestaetigtes Ausbruchssignal.",
+    "marketOverview": "US-Boersen/ETFs/Rohstoffe weiter im Wochenend-Schluss (seit Freitag 22:00 CET geschlossen): AMD Freitagsschluss 449,04 USD, GOOGL 284,78 USD - unveraendert. Krypto bewegt sich weiterhin nur geringfuegig und ohne klaren Richtungs-Katalysator (CoinGecko live): BTC 75.848 USD (+0,43% 24h), ETH 2.243,58 USD (+0,83%), SOL 89,91 USD (+0,84%), AVAX 8,31 USD (+0,67%), DOGE 0,0718 USD (+0,55%), HYPE 79,12 USD (+1,73%), XRP 1,16 USD (-3,62%), BCH 262,55 USD (-4,56%) - kein mehrfach bestaetigtes Ausbruchssignal.",
     "decision": "Keine Aenderung: Beide offenen Positionen (GOOGL, AMD) weiterhin nur marginal im Plus, deutlich unter der etablierten Ziel-Gewinnspanne (7-9%) und ohne Verschlechterung der jeweiligen These - weiter gehalten. Aktien/ETFs/Rohstoffe am Wochenende nicht handelbar; im Kryptomarkt keine Bewegung mit bestaetigtem Mehrfach-Katalysator ueber der Handelsschwelle - kein Neukauf.",
-    "reasoning": "Tagesbudget fuer den 07.11. bereits in einem frueheren Lauf heute verbucht (lastGrantDate=2026-11-07, keine erneute Gutschrift). Freies Kapital unveraendert bei 95.000 - 21.500 investiert + 18.886,51 zurueckgefuehrt = 92.386,51 EUR, reichlich vorhanden. HYPE legt moderat zu (+3,07%), XRP/BCH geben nach, aber ohne einen eigenstaendig recherchierten, mehrfach bestaetigten Katalysator ueber der bisherigen Handelsschwelle - passend zum spekulativen, aber diszipliniert risikogesteuerten Profil wird weiterhin nicht gehandelt.",
+    "reasoning": "Tagesbudget fuer den 07.11. bereits in einem frueheren Lauf heute verbucht (lastGrantDate=2026-11-07, keine erneute Gutschrift). Freies Kapital unveraendert bei 95.000 - 21.500 investiert + 18.886,51 zurueckgefuehrt = 92.386,51 EUR, reichlich vorhanden. HYPE und ETH/SOL legen leicht zu, XRP/BCH geben weiter nach, aber ohne einen eigenstaendig recherchierten, mehrfach bestaetigten Katalysator ueber der bisherigen Handelsschwelle - passend zum spekulativen, aber diszipliniert risikogesteuerten Profil wird weiterhin nicht gehandelt.",
     "positionIds": [
       "pos-0031",
       "pos-0033"
@@ -12165,6 +12165,11 @@
       {
         "time": "05:08",
         "note": "Keine Aenderung: GOOGL/AMD unveraendert (Boersen Wochenende geschlossen). Krypto ruhig (BTC +0,23%, ETH +0,55%, SOL +0,57%, HYPE +3,07%, CoinGecko live) ohne bestaetigten Mehrfach-Katalysator - kein Neukauf.",
+        "portfolioValue": 1804.93
+      },
+      {
+        "time": "06:08",
+        "note": "Keine Aenderung: GOOGL/AMD unveraendert (Boersen Wochenende geschlossen). Krypto ruhig (BTC +0,43%, ETH +0,83%, SOL +0,84%, HYPE +1,73%, CoinGecko live) ohne bestaetigten Mehrfach-Katalysator - kein Neukauf.",
         "portfolioValue": 1804.93
       }
     ]
