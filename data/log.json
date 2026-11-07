@@ -12128,9 +12128,9 @@
   },
   {
     "date": "2026-11-07",
-    "marketOverview": "US-Boersen/ETFs/Rohstoffe weiter im Wochenend-Schluss (seit Freitag 22:00 CET geschlossen): AMD Freitagsschluss 449,04 USD (+11,04%), GOOGL 284,78 USD (+0,78%). Krypto bewegt sich in der Nacht nur geringfuegig und ohne klaren Richtungs-Katalysator: BTC 75.830 USD (-0,41% 24h, CoinGecko live), ETH -0,06%, SOL +0,58%, AVAX +1,63%, ADA +1,14%, DOGE +1,26%, QNT +2,63%, XRP -2,48%, BCH -3,96% - kein mehrfach bestaetigtes Ausbruchssignal.",
+    "marketOverview": "US-Boersen/ETFs/Rohstoffe weiter im Wochenend-Schluss (seit Freitag 22:00 CET geschlossen): AMD Freitagsschluss 449,04 USD (+11,04%), GOOGL 284,78 USD (+0,78%). Krypto bewegt sich weiterhin nur geringfuegig und ohne klaren Richtungs-Katalysator (CoinGecko live): BTC 75.979 USD (-0,00% 24h), ETH +0,52%, SOL +0,54%, AVAX +0,73%, ADA +0,08%, DOGE +0,82%, QNT +1,80%, LINK +0,17%, HBAR -0,95%, HYPE +1,90%, XRP -3,08%, BCH -3,93% - kein mehrfach bestaetigtes Ausbruchssignal.",
     "decision": "Keine Aenderung: Beide offenen Positionen (GOOGL, AMD) weiterhin nur marginal im Plus (+0,46% bzw. +0,12%), deutlich unter der etablierten Ziel-Gewinnspanne (7-9%) und ohne Verschlechterung der jeweiligen These - weiter gehalten. Aktien/ETFs/Rohstoffe am Wochenende nicht handelbar; im Kryptomarkt keine Bewegung ueber 4% mit bestaetigtem Katalysator - kein Neukauf.",
-    "reasoning": "Tagesbudget fuer den 07.11. bereits in einem frueheren Lauf heute verbucht (lastGrantDate=2026-11-07, keine erneute Gutschrift). Freies Kapital unveraendert bei 95.000 - 21.500 investiert + 18.886,51 zurueckgefuehrt = 92.386,51 EUR, reichlich vorhanden. Ohne ueberzeugende, mehrfach bestaetigte Gelegenheit (alle Kryptobewegungen unter 4%, Boersen geschlossen) wird passend zum spekulativen, aber diszipliniert risikogesteuerten Profil nicht gehandelt.",
+    "reasoning": "Tagesbudget fuer den 07.11. bereits in einem frueheren Lauf heute verbucht (lastGrantDate=2026-11-07, keine erneute Gutschrift). Freies Kapital unveraendert bei 95.000 - 21.500 investiert + 18.886,51 zurueckgefuehrt = 92.386,51 EUR, reichlich vorhanden. Ohne ueberzeugende, mehrfach bestaetigte Gelegenheit (alle Kryptobewegungen unter 4%, Boersen geschlossen) wird passend zum spekulativen, aber diszipliniert risikogesteuerten Profil weiterhin nicht gehandelt.",
     "positionIds": [
       "pos-0031",
       "pos-0033"
@@ -12150,6 +12150,11 @@
       {
         "time": "02:08",
         "note": "Keine Aenderung: Boersen (GOOGL, AMD) weiterhin geschlossen (Wochenende). Krypto ruhig ohne bestaetigten Ausbruch (BTC -0,47%, ETH -0,11%, SOL +0,0%, XRP -3,3%, BCH -5,0%, CoinGecko live) - kein Neukauf.",
+        "portfolioValue": 1804.93
+      },
+      {
+        "time": "03:08",
+        "note": "Keine Aenderung: GOOGL/AMD weiterhin unveraendert (Boersen/ETFs/Rohstoffe seit Freitag geschlossen). Krypto ruhig ohne bestaetigten Ausbruch (BTC -0,00%, ETH +0,52%, SOL +0,54%, CoinGecko live) - kein Neukauf.",
         "portfolioValue": 1804.93
       }
     ]
