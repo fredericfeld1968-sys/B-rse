@@ -12128,9 +12128,9 @@
   },
   {
     "date": "2026-11-07",
-    "marketOverview": "Boersen (Aktien/ETFs/Rohstoffe) bleiben am Samstag geschlossen. Bitcoin pendelt weiter seitwaerts um ca. 76.000 USD (CoinGecko live, +0,6% in 24h) nach dem Chip-Sektor-Crash vom 05.11., ETH (2.244,87 USD, +0,8%) und SOL (+0,6%) ebenfalls nur leicht im Plus. Presseberichte sprechen von anhaltend vorsichtiger Stimmung (Rekord-Abfluesse aus globalen Krypto-ETPs im November, hohe US-Bitcoin-ETF-Redemptions), aber auch ersten Anzeichen einer Bodenbildung. QNT legt mit +6,1% auf, jedoch ohne mehrfach bestaetigten Einzelkatalysator. Insgesamt kein frischer, breit bestaetigter Mehrfach-Katalysator erkennbar.",
-    "decision": "Keine Trades seit 00:08: Tagesbudget fuer den 07.11. bereits verbucht. GOOGL und AMD unveraendert, da Boersen am Wochenende geschlossen sind. Im Kryptomarkt keine Bewegung mit bestaetigtem Mehrfach-Katalysator ueber der Handelsschwelle - kein Neukauf.",
-    "reasoning": "Freies Kapital unveraendert bei 95.000 - 21.500 investiert + 18.886,51 zurueckgefuehrt = 92.386,51 EUR, reichlich vorhanden. Bitcoin und Altcoins bleiben nach dem Chip-Sektor-Crash in vorsichtiger Konsolidierung (anhaltende ETF-Abfluesse laut Presse); der QNT-Spike (+6,1%) wird mangels unabhaengig bestaetigtem Katalysator nicht gehandelt. Passend zum spekulativen, aber diszipliniert risikogesteuerten Profil wird weiterhin nicht gehandelt, bis ein wirklich ueberzeugender, mehrfach bestaetigter Katalysator vorliegt.",
+    "marketOverview": "Krypto-Risk-off nach dem Nasdaq-/KI-Bewertungsangst-Ausverkauf haelt breit an: BTC weiterhin im Bereich 75.000-76.000 USD (CoinDesk, CryptoTimes, CoinGecko, Liquidationen >1,25 Mrd. USD seit dem Crash), ohne neuen eigenstaendigen Katalysator. Kein Einzeltitel zeigt eine frische, mehrfach unabhaengig bestaetigte Ausbruchsbewegung - die Bewegung bleibt markweit und BTC-/Makro-getrieben. US-Boersen, ETFs und Rohstoffe bleiben wochenendbedingt geschlossen (GOOGL 284,78 USD, AMD 449,04 USD, unveraendert seit Freitagsschluss).",
+    "decision": "Keine Trades seit 00:08: Tagesbudget fuer den 07.11. bereits verbucht. GOOGL und AMD unveraendert, da Boersen am Wochenende geschlossen sind. Im Kryptomarkt haelt ein breiter Risk-off-Trend (Nasdaq-/KI-Bewertungsangst, BTC ~75-76k) an, aber ohne bestaetigten, ueberzeugenden Einzeltitel-Katalysator - weiterhin kein Neukauf.",
+    "reasoning": "Freies Kapital unveraendert bei 92.386,51 EUR (95.000 - 21.500 investiert + 18.886,51 zurueckgefuehrt), reichlich vorhanden. Recherche zu Krypto (BTC, ETH, SOL, AVAX, ADA, XRP, DOGE, QNT, LINK, HBAR, HYPE, BCH) und Makrolage zeigt einen marktweiten Risk-off-Pullback (Nasdaq-Ausverkauf infolge KI-Bewertungs- und Cash-Burn-Sorgen, Zwischenwahl-Nervositaet) ohne ueberzeugende, mehrfach bestaetigte Einzelchance (>5-6% mit klarem, frischem Katalysator). Passend zum spekulativen, aber diszipliniert risikogesteuerten Profil wird daher weiterhin nicht gehandelt; GOOGL (pos-0031) und AMD (pos-0033) bleiben unveraendert gehalten (Boersen wochenendbedingt geschlossen).",
     "positionIds": [
       "pos-0031",
       "pos-0033"
@@ -12185,6 +12185,11 @@
       {
         "time": "09:08",
         "note": "Keine Aenderung: GOOGL/AMD unveraendert (Boersen Wochenende geschlossen). Krypto leicht fester (BTC 76.043 USD +0,61%, ETH 2.244,87 USD +0,80%, SOL +0,57%, HYPE +1,99%, QNT +6,1% ohne bestaetigten Einzelkatalysator, CoinGecko live) - weiterhin kein bestaetigter Mehrfach-Katalysator, kein Neukauf.",
+        "portfolioValue": 1804.93
+      },
+      {
+        "time": "10:11",
+        "note": "Keine Aenderung: Krypto-Risk-off nach Nasdaq-/KI-Bewertungsangst-Ausverkauf haelt an (BTC ~75-76k, markweit, kein Einzeltitel-Katalysator). GOOGL/AMD wochenendbedingt weiterhin unveraendert - kein Neukauf.",
         "portfolioValue": 1804.93
       }
     ]
