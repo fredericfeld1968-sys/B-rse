@@ -12128,7 +12128,7 @@
   },
   {
     "date": "2026-11-07",
-    "marketOverview": "Boersen (Aktien/ETFs/Rohstoffe) bleiben am Samstag geschlossen. Bitcoin notiert nach dem Chip-Sektor-Crash vom 05.11. weiterhin schwaech bei ca. 75.600-76.100 USD (CoinMarketCap, Coinbase, Bitget, -5 bis -6% zum Vortagesschluss), Spot-BTC-ETFs verzeichneten rund 430 Mio. USD Abflüsse. Kein frischer, mehrfach bestaetigter Einzelkatalysator im Kryptomarkt erkennbar - weiterhin verhaltene Risk-off-Stimmung nach dem Tech-/KI-Ausverkauf dieser Woche.",
+    "marketOverview": "Boersen (Aktien/ETFs/Rohstoffe) bleiben am Samstag geschlossen. Bitcoin hat sich leicht stabilisiert (ca. 75.950 USD, CoinGecko live, +0,8% in 24h) nach dem Chip-Sektor-Crash vom 05.11., ETH (+1,1%) und SOL (+0,8%) ebenfalls nur leicht im Plus. Kein frischer, mehrfach bestaetigter Einzelkatalysator im Kryptomarkt erkennbar - weiterhin verhaltene, aber leicht aufgehellte Stimmung nach dem Tech-/KI-Ausverkauf dieser Woche.",
     "decision": "Keine Trades seit 00:08: Tagesbudget fuer den 07.11. bereits verbucht. GOOGL und AMD unveraendert, da Boersen am Wochenende geschlossen sind. Im Kryptomarkt keine Bewegung mit bestaetigtem Mehrfach-Katalysator ueber der Handelsschwelle - kein Neukauf.",
     "reasoning": "Freies Kapital unveraendert bei 95.000 - 21.500 investiert + 18.886,51 zurueckgefuehrt = 92.386,51 EUR, reichlich vorhanden. Bitcoin bleibt nach dem Chip-Sektor-Crash angeschlagen (~75,6-76,1k USD), aber ohne neuen, eigenstaendig recherchierten und mehrfach bestaetigten Katalysator; passend zum spekulativen, aber diszipliniert risikogesteuerten Profil wird weiterhin nicht gehandelt.",
     "positionIds": [
@@ -12175,6 +12175,11 @@
       {
         "time": "07:08",
         "note": "Keine Aenderung: GOOGL/AMD unveraendert (Boersen Wochenende geschlossen). BTC weiterhin schwach nach dem Chip-Sektor-Crash vom 05.11. (~75,6-76,1k USD, -5 bis -6%, CoinMarketCap/Coinbase/Bitget), kein frischer bestaetigter Katalysator - kein Neukauf.",
+        "portfolioValue": 1804.93
+      },
+      {
+        "time": "08:09",
+        "note": "Keine Aenderung: GOOGL/AMD unveraendert (Boersen Wochenende geschlossen). Krypto leicht stabiler (BTC 75.957 USD +0,80%, ETH +1,08%, SOL +0,84%, CoinGecko live), aber ohne bestaetigten Mehrfach-Katalysator - kein Neukauf.",
         "portfolioValue": 1804.93
       }
     ]
