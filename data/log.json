@@ -12128,8 +12128,8 @@
   },
   {
     "date": "2026-11-07",
-    "marketOverview": "Krypto-Markt am Samstagabend flach bis leicht schwaecher: BTC um 75.717 USD (-0,26% 24h), ETH 2.232,74 USD (+0,07%), SOL 89,54 USD (-1,04%), breite Altcoin-Schwaeche (AVAX -2,51%, XRP -2,78%, ADA -3,28%, BCH -3,86%). QNT kuehlt von Tageshoch auf +1,41% 24h ab, bleibt ohne bestaetigten fundamentalen Katalysator eine isolierte Beobachtung. Aktien/ETFs/Rohstoffe bleiben wochenendbedingt geschlossen.",
-    "decision": "Keine Trades seit 00:08: Tagesbudget fuer den 07.11. bereits verbucht. GOOGL und AMD unveraendert, da Boersen am Wochenende weiterhin geschlossen sind. Krypto-Markt dreht am Abend leicht ins Negative ohne bestaetigten neuen Ausbruch, QNT kuehlt weiter ab. Kein Neukauf.",
+    "marketOverview": "Krypto-Markt am Samstagabend weiterhin flach bis leicht schwaecher: BTC 75.774 USD (+0,11% 24h), ETH 2.234,18 USD (+0,44%), SOL 89,69 USD (-0,35%), breite Altcoin-Schwaeche (AVAX -1,78%, XRP -1,84%, ADA -2,98%, HBAR -1,56%, BCH -3,44%, DOGE -1,30%, HYPE -0,68%, CoinGecko live). QNT weiterhin isoliert leicht fester (+2,33% 24h) ohne bestaetigten Mehrfach-Katalysator. Aktien/ETFs/Rohstoffe bleiben wochenendbedingt geschlossen.",
+    "decision": "Keine Trades seit 00:08: Tagesbudget fuer den 07.11. bereits verbucht. GOOGL und AMD unveraendert, da Boersen am Wochenende weiterhin geschlossen sind. Krypto-Markt bleibt flach bis leicht schwaecher ohne bestaetigten neuen Ausbruch, QNT weiterhin isoliert ohne Mehrfach-Katalysator. Kein Neukauf.",
     "reasoning": "Keine ueberzeugende Gelegenheit: ausserhalb der Boersenzeiten ist nur Krypto handelbar, der Kryptomarkt zeigt aber weiterhin keine breite, mehrfach bestaetigte Aufwaertsbewegung, sondern leichte Schwaeche uebergreifend ueber mehrere Altcoins. Bestehende offene Positionen (GOOGL, AMD) bleiben wochenendbedingt unveraendert.",
     "positionIds": [
       "pos-0031",
@@ -12230,6 +12230,11 @@
       {
         "time": "18:08",
         "note": "Keine Aenderung: GOOGL (284,78 USD) und AMD (449,04 USD) weiterhin unveraendert, Boersen am Wochenende geschlossen. Krypto-Markt insgesamt flach bis leicht schwaecher (BTC 75.717 USD -0,26% 24h, ETH 2.232,74 USD +0,07%, SOL 89,54 USD -1,04%, AVAX -2,51%, XRP -2,78%, ADA -3,28%, HBAR -2,03%, BCH -3,86%, DOGE -1,79%, HYPE -1,74%, CoinGecko live). QNT weiterhin isoliert bei +1,41% 24h, deutlich abgekuehlt vom Tageshoch, ohne neuen bestaetigten Katalysator - kein Neukauf.",
+        "portfolioValue": 1804.93
+      },
+      {
+        "time": "19:08",
+        "note": "Keine Aenderung: GOOGL (284,78 USD) und AMD (449,04 USD) weiterhin unveraendert, Boersen am Wochenende geschlossen. Krypto flach bis leicht schwaecher (BTC 75.774 USD +0,11% 24h, ETH +0,44%, SOL -0,35%, AVAX -1,78%, XRP -1,84%, ADA -2,98%, BCH -3,44%, CoinGecko live). QNT weiterhin isoliert bei +2,33% 24h ohne neuen bestaetigten Katalysator - kein Neukauf.",
         "portfolioValue": 1804.93
       }
     ]
