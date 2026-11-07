@@ -12128,9 +12128,9 @@
   },
   {
     "date": "2026-11-07",
-    "marketOverview": "US-Boersen seit 22:00 CET/16:00 ET geschlossen (Wochenende startet), Freitagsschluss: AMD beendete die regulaere Sitzung bei 449,04 USD (+11,04% Tagesgewinn) nach dem fortgesetzten Post-Earnings-Momentum/Morgan-Stanley-Kurszielanhebung, GOOGL schloss bei 284,78 USD (+0,78%). Krypto bewegt sich nur moderat: BTC ca. 75.837 USD (+0,63% 24h, CoinGecko live), ETH +1,03%, SOL +1,15%, AVAX +2,17%, ADA +3,15%, DOGE +2,03%, QNT +3,00%, XRP -2,49%, BCH -2,05% - kein bestaetigtes Ausbruchssignal in irgendeinem Markt.",
-    "decision": "Keine Aenderung: Beide offenen Positionen (GOOGL, AMD) nur marginal im Plus (+0,46% bzw. +0,12%), weit unter der etablierten Ziel-Gewinnspanne (7-9%) und ohne Verschlechterung der jeweiligen These - weiter gehalten. Aktien/ETFs/Rohstoffe seit Boersenschluss nicht handelbar; im Kryptomarkt kein ueberzeugender, mehrfach bestaetigter Ausbruch mit klarem Katalysator - kein Neukauf.",
-    "reasoning": "Taegliche Kapitalgutschrift von 1.000 EUR fuer den 07.11. verbucht (totalFreshCapitalEur 94.000 -> 95.000). Freies Kapital (95.000 - 21.500 investiert + 18.886,51 zurueckgefuehrt = 92.386,51 EUR) ist reichlich vorhanden, aber ohne ueberzeugende, mehrfach bestaetigte Gelegenheit wird passend zum spekulativen, aber diszipliniert risikogesteuerten Profil nicht gehandelt. Reine Krypto-Bewegungen von 1-3% in beide Richtungen rechtfertigen keine neue Position nach dem etablierten Ausbruchsmuster (vgl. erfolgreiche Trades erforderten jeweils 5%+ Tagesbewegung mit klarem, unabhaengig bestaetigtem Katalysator).",
+    "marketOverview": "US-Boersen/ETFs/Rohstoffe weiter im Wochenend-Schluss (seit Freitag 22:00 CET geschlossen): AMD Freitagsschluss 449,04 USD (+11,04%), GOOGL 284,78 USD (+0,78%). Krypto bewegt sich in der Nacht nur geringfuegig und ohne klaren Richtungs-Katalysator: BTC 75.830 USD (-0,41% 24h, CoinGecko live), ETH -0,06%, SOL +0,58%, AVAX +1,63%, ADA +1,14%, DOGE +1,26%, QNT +2,63%, XRP -2,48%, BCH -3,96% - kein mehrfach bestaetigtes Ausbruchssignal.",
+    "decision": "Keine Aenderung: Beide offenen Positionen (GOOGL, AMD) weiterhin nur marginal im Plus (+0,46% bzw. +0,12%), deutlich unter der etablierten Ziel-Gewinnspanne (7-9%) und ohne Verschlechterung der jeweiligen These - weiter gehalten. Aktien/ETFs/Rohstoffe am Wochenende nicht handelbar; im Kryptomarkt keine Bewegung ueber 4% mit bestaetigtem Katalysator - kein Neukauf.",
+    "reasoning": "Tagesbudget fuer den 07.11. bereits in einem frueheren Lauf heute verbucht (lastGrantDate=2026-11-07, keine erneute Gutschrift). Freies Kapital unveraendert bei 95.000 - 21.500 investiert + 18.886,51 zurueckgefuehrt = 92.386,51 EUR, reichlich vorhanden. Ohne ueberzeugende, mehrfach bestaetigte Gelegenheit (alle Kryptobewegungen unter 4%, Boersen geschlossen) wird passend zum spekulativen, aber diszipliniert risikogesteuerten Profil nicht gehandelt.",
     "positionIds": [
       "pos-0031",
       "pos-0033"
@@ -12140,6 +12140,11 @@
       {
         "time": "00:08",
         "note": "Keine Aenderung: Tagesbudget 1.000 EUR gutgeschrieben (freies Kapital jetzt 92.386,51 EUR). GOOGL auf 284,78 USD (+0,46%), AMD auf 449,04 USD (+0,12%) aktualisiert - beide weit unter Zielspanne. Boersen seit Freitagsschluss geschlossen, Krypto nur moderat bewegt (BTC +0,63%, kein Ausbruch) - kein Neukauf.",
+        "portfolioValue": 1804.93
+      },
+      {
+        "time": "01:09",
+        "note": "Keine Aenderung: GOOGL/AMD unveraendert (Boersen am Wochenende geschlossen), Krypto nur geringfuegig bewegt (BTC -0,41%, kein Ausbruch) - kein Neukauf.",
         "portfolioValue": 1804.93
       }
     ]
