@@ -12261,8 +12261,8 @@
   },
   {
     "date": "2026-11-08",
-    "marketOverview": "Krypto-Markt bleibt in der Nacht zum Sonntag flach bis leicht schwaecher und praktisch unveraendert seit dem letzten Lauf: BTC 75.770 USD (-0,33% 24h), ETH 2.236,63 USD (-0,42%), SOL 89,20 USD (-1,30%), AVAX 8,18 USD (-1,64%), XRP 1,16 USD (-0,60%), DOGE 0,0713 USD (-1,52%), ADA 0,1804 USD (-2,30%), HBAR 0,0668 USD (-0,72%), HYPE 77,64 USD (-2,40%), BCH 248,86 USD (-5,22% 24h, weiterhin isoliert schwaecher ohne neuen Katalysator), QNT 194,72 USD (+0,68% 24h, isoliert leicht fester). Keine neue, mehrfach bestaetigte Nachrichtenlage auffindbar. Aktien/ETFs/Rohstoffe bleiben wochenendbedingt geschlossen (GOOGL/AMD unveraendert zum Freitagsschluss).",
-    "decision": "Tagesbudget fuer den 08.11. bereits beim ersten Lauf (00:08) gutgeschrieben (freies Kapital 93.386,51 EUR). GOOGL und AMD unveraendert, da US-Boersen am Wochenende geschlossen sind. Krypto-Markt insgesamt weiterhin flach bis leicht schwaecher ohne neue bestaetigte Gelegenheit seit dem letzten Lauf. Kein Neukauf, kein Verkauf.",
+    "marketOverview": "BTC konsolidiert bei ca. 75.800 USD nach Abverkauf auf ein 7-Wochen-Tief, ETH flach bei ca. 2.235 USD. Krypto-Fear&Greed-Index bei 28 (Angst). Haupttreiber ist allgemeiner Risk-off-Ton nach einem Ausverkauf an asiatischen Aktienmaerkten (KOSPI-Handelsstopp nach -8%) und wechselhaften Spot-ETF-Flows (BTC/ETH), kein krypto-spezifischer Katalysator. US-Aktien/ETFs/Rohstoffe am Wochenende nicht handelbar.",
+    "decision": "Tagesbudget fuer den 08.11. bereits beim ersten Lauf (00:08) gutgeschrieben (freies Kapital 93.386,51 EUR). GOOGL und AMD unveraendert, da US-Boersen am Wochenende geschlossen sind. Krypto-Markt insgesamt flach bis leicht schwaecher (BTC ca. 75.800 USD, ETH ca. 2.235 USD, Fear&Greed-Index 28 = Angst) ohne neue bestaetigte Gelegenheit. Kein Neukauf, kein Verkauf.",
     "reasoning": "Seit dem letzten Lauf (03:08) keine wesentliche Bewegung im Kryptomarkt (BTC nahezu unveraendert bei ~75,8k USD, alle beobachteten Coins innerhalb der ueblichen Nachtschwankung ausser dem bereits bekannten isolierten BCH-Ruecksetzer ohne Katalysator); keine Veraenderung erreicht die Schwelle einer wirklich ueberzeugenden, mehrfach bestaetigten Gelegenheit. Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten am Wochenende nicht handelbar. Bestehende offene Positionen (GOOGL, AMD) liegen nahe am Einstand, kein Stop-Loss- oder Gewinnmitnahme-Niveau erreicht.",
     "positionIds": [
       "pos-0031",
@@ -12293,6 +12293,11 @@
       {
         "time": "04:08",
         "note": "Keine Aenderung: Krypto weiterhin flach bis leicht schwaecher (BTC -0,33%, BCH -5,2%), Boersen/ETFs/Rohstoffe wochenendbedingt geschlossen, GOOGL/AMD unveraendert - kein Trade.",
+        "portfolioValue": 1804.93
+      },
+      {
+        "time": "05:09",
+        "note": "Keine Aenderung, Krypto flach/leicht aengstlich (Fear&Greed 28), keine ueberzeugende Gelegenheit",
         "portfolioValue": 1804.93
       }
     ]
