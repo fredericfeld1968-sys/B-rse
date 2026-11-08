@@ -12261,9 +12261,9 @@
   },
   {
     "date": "2026-11-08",
-    "marketOverview": "Krypto-Markt zu Beginn des 08.11. (Sonntag) weiterhin flach bis leicht schwaecher: BTC 75.674 USD (-0,20% 24h), ETH 2.231,04 USD (-0,17%), SOL 89,28 USD (-0,73%), AVAX 8,20 USD (-1,72%), XRP 1,16 USD (-1,39%), DOGE 0,0713 USD (-1,32%), ADA 0,1808 USD (-1,97%), HBAR 0,0670 USD (-0,68%), HYPE 77,37 USD (-1,43%), BCH 247,94 USD (-6,0% 24h, isoliert schwaecher ohne bestaetigten Katalysator, CoinGecko live). QNT weiterhin isoliert leicht fester (+1,22% 24h) ohne Mehrfach-Katalysator. Aktien/ETFs/Rohstoffe bleiben wochenendbedingt geschlossen.",
-    "decision": "Tagesbudget fuer den 08.11. gutgeschrieben (freies Kapital jetzt 93.386,51 EUR). GOOGL und AMD unveraendert, da US-Boersen am Wochenende geschlossen sind. Krypto-Markt insgesamt flach bis leicht schwaecher ohne bestaetigten neuen Ausbruch; BCH mit staerkerem Rueckgang (-6,0% 24h), aber weiterhin ohne identifizierbaren frischen Katalysator. QNT weiterhin isoliert leicht fester ohne Mehrfach-Katalysator. Kein Neukauf, kein Verkauf.",
-    "reasoning": "Keine der beobachteten Krypto-Bewegungen erreicht die Schwelle einer wirklich ueberzeugenden, mehrfach bestaetigten Gelegenheit; BCH-Schwaeche bleibt isoliert und unbestaetigt, QNT-Staerke zu gering fuer einen Neueinstieg. Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten am Wochenende nicht handelbar. Bestehende offene Positionen (GOOGL, AMD) liegen nahe am Einstand, kein Stop-Loss- oder Gewinnmitnahme-Niveau erreicht.",
+    "marketOverview": "Krypto-Markt am Sonntagmorgen weiterhin flach bis leicht schwaecher: BTC 75.738 USD (-0,12% 24h), ETH 2.235,94 USD (-0,08%), SOL 89,63 USD (-0,47%), AVAX 8,21 USD (-1,38%), XRP 1,16 USD (-1,56%), DOGE 0,0715 USD (-1,20%), ADA 0,1815 USD (-1,20%), HBAR 0,0670 USD (-0,61%), HYPE 77,65 USD (-1,07%), BCH 249,07 USD (-5,34% 24h, weiterhin isoliert schwaecher ohne bestaetigten frischen Katalysator). QNT weiterhin isoliert fester (ca. 196,58 USD, +1,28% 24h) ohne Mehrfach-Katalysator. Aktien/ETFs/Rohstoffe bleiben wochenendbedingt geschlossen (GOOGL/AMD unveraendert zum Freitagsschluss).",
+    "decision": "Tagesbudget fuer den 08.11. bereits beim ersten Lauf (00:08) gutgeschrieben (freies Kapital 93.386,51 EUR). GOOGL und AMD unveraendert, da US-Boersen am Wochenende geschlossen sind. Krypto-Markt insgesamt flach bis leicht schwaecher, keine neue bestaetigte Gelegenheit seit dem letzten Lauf. Kein Neukauf, kein Verkauf.",
+    "reasoning": "Seit dem letzten Lauf (00:08) kaum Bewegung im Kryptomarkt (BTC ~75.7k, nur minimale Schwankungen); keine der beobachteten Veraenderungen erreicht die Schwelle einer wirklich ueberzeugenden, mehrfach bestaetigten Gelegenheit. Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten am Wochenende nicht handelbar. Bestehende offene Positionen (GOOGL, AMD) liegen nahe am Einstand, kein Stop-Loss- oder Gewinnmitnahme-Niveau erreicht.",
     "positionIds": [
       "pos-0031",
       "pos-0033"
@@ -12273,6 +12273,11 @@
       {
         "time": "00:08",
         "note": "Neuer Tag: Tagesbudget 1.000 EUR gutgeschrieben (freies Kapital jetzt 93.386,51 EUR). GOOGL/AMD unveraendert (US-Boersen am Wochenende geschlossen). Krypto flach bis leicht schwaecher (BTC -0,20%, BCH -6,0%), QNT isoliert leicht fester (+1,22%) - kein Neukauf.",
+        "portfolioValue": 1804.93
+      },
+      {
+        "time": "01:08",
+        "note": "Keine Aenderung: Krypto flach bis leicht schwaecher (BTC -0,12%, BCH -5,3%), Boersen/ETFs/Rohstoffe wochenendbedingt geschlossen, GOOGL/AMD unveraendert - kein Trade.",
         "portfolioValue": 1804.93
       }
     ]
