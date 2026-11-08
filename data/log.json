@@ -12261,9 +12261,9 @@
   },
   {
     "date": "2026-11-08",
-    "marketOverview": "BTC nahezu unveraendert bei ca. 75.954 USD (+0,18% 24h), ETH -0,36% (2.238,73 USD), SOL -0,13% (89,56 USD), BCH weiterhin deutlich schwaecher (-4,55% 24h, 245,92 USD). Fear&Greed-Index unveraendert bei 28 (Angst). Keine neue bestaetigte Breaking-News zu Geopolitik, Krypto-Regulierung oder ETF-Fluessen gefunden. US-Aktien/ETFs/Rohstoffe am Wochenende weiterhin nicht handelbar.",
-    "decision": "Tagesbudget fuer den 08.11. bereits beim ersten Lauf (00:08) gutgeschrieben (freies Kapital 93.386,51 EUR, unveraendert). GOOGL und AMD unveraendert, da US-Boersen am Wochenende geschlossen sind. Krypto-Markt insgesamt weiterhin flach (BTC ca. 75.954 USD, Fear&Greed-Index unveraendert bei 28 = Angst) ohne neue bestaetigte Gelegenheit. Kein Neukauf, kein Verkauf.",
-    "reasoning": "Seit dem letzten Lauf (13:08) keine wesentliche Bewegung im Kryptomarkt (BTC nahezu unveraendert bei ~75,95k USD, ETH/SOL leicht schwaecher, BCH weiterhin isoliert schwach, Fear&Greed-Index weiterhin bei 28); keine Veraenderung erreicht die Schwelle einer wirklich ueberzeugenden, mehrfach bestaetigten Gelegenheit. Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten am Wochenende nicht handelbar. Bestehende offene Positionen (GOOGL, AMD) liegen nahe am Einstand, kein Stop-Loss- oder Gewinnmitnahme-Niveau erreicht.",
+    "marketOverview": "BTC leicht schwaecher bei ca. 75.866 USD (-0,02% 24h), ETH -0,35% (2.235,49 USD), SOL -0,78% (89,19 USD), BCH weiterhin isoliert schwach (-5,49% 24h, 244,00 USD), AVAX -1,38%, DOGE -1,10%, XRP -0,81%. Fear&Greed-Index unveraendert bei 28 (Angst). Keine neue bestaetigte Breaking-News zu Geopolitik, Krypto-Regulierung oder ETF-Fluessen gefunden (Live-Daten via CoinGecko/alternative.me API abgerufen). US-Aktien/ETFs/Rohstoffe am Wochenende weiterhin nicht handelbar.",
+    "decision": "Tagesbudget fuer den 08.11. bereits beim ersten Lauf (00:08) gutgeschrieben (freies Kapital 93.386,51 EUR, unveraendert). GOOGL und AMD unveraendert, da US-Boersen am Wochenende geschlossen sind. Krypto-Markt insgesamt flach bis leicht schwaecher (BTC ca. 75.866 USD, Fear&Greed-Index unveraendert bei 28 = Angst) ohne neue bestaetigte Gelegenheit. Kein Neukauf, kein Verkauf.",
+    "reasoning": "Seit dem letzten Lauf (14:11) keine wesentliche Bewegung im Kryptomarkt (BTC nahezu unveraendert bei ~75,87k USD, ETH/SOL/AVAX/DOGE/XRP leicht schwaecher, BCH weiterhin isoliert schwach, Fear&Greed-Index weiterhin bei 28); keine Veraenderung erreicht die Schwelle einer wirklich ueberzeugenden, mehrfach bestaetigten Gelegenheit. Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten am Wochenende nicht handelbar. Bestehende offene Positionen (GOOGL, AMD) liegen nahe am Einstand, kein Stop-Loss- oder Gewinnmitnahme-Niveau erreicht.",
     "positionIds": [
       "pos-0031",
       "pos-0033"
@@ -12343,6 +12343,11 @@
       {
         "time": "14:11",
         "note": "Keine Aenderung: Krypto weiterhin flach (BTC 75.954 USD, +0,18% 24h; BCH -4,55%), Fear&Greed-Index unveraendert bei 28 (Angst), keine neue ueberzeugende Gelegenheit. Boersen/ETFs/Rohstoffe wochenendbedingt geschlossen, GOOGL/AMD unveraendert - kein Trade.",
+        "portfolioValue": 1804.93
+      },
+      {
+        "time": "15:09",
+        "note": "Keine Aenderung: Krypto flach bis leicht schwaecher (BTC 75.866 USD, -0,02% 24h; BCH -5,5%), Fear&Greed-Index unveraendert bei 28 (Angst), keine neue ueberzeugende Gelegenheit. Boersen/ETFs/Rohstoffe wochenendbedingt geschlossen, GOOGL/AMD unveraendert - kein Trade.",
         "portfolioValue": 1804.93
       }
     ]
