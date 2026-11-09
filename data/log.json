@@ -12394,8 +12394,8 @@
   },
   {
     "date": "2026-11-09",
-    "marketOverview": "Krypto bleibt in der Fear-Zone und etwas schwaecher: Bitcoin ca. 74.000-74.800 USD, Ethereum ca. 2.100-2.150 USD (-4,4%), getrieben von ueber 1 Mrd. USD Liquidationen (vor allem Longs) und anhaltenden Spot-BTC-ETF-Abfluessen (Wochensumme 1,28 Mrd. USD); Markt wartet auf die US-CPI-Daten am 10.11. US-Boersen weiterhin vor Handelsbeginn (Oeffnung 15:30 CET); GOOGL und AMD notieren unveraendert zum Freitagsschluss (284,78 bzw. 449,04 USD).",
-    "decision": "Keine Trades heute bisher. Bestehende offene Positionen (GOOGL, AMD) unveraendert, da die relevanten US-Boersen weiterhin vor Handelsbeginn sind. Krypto-Schwaeche setzt sich fort, bleibt aber eine breite, unspezifische Risk-off-Bewegung ohne ueberzeugenden Einzelkatalysator - daher weiterhin kein Neukauf.",
+    "marketOverview": "Krypto bleibt in der Fear-Zone und schwaecher ohne neuen Einzelkatalysator: Bitcoin ca. 74.000-74.800 USD, Ethereum ca. 2.100-2.150 USD (-4,4%), getrieben von ueber 1 Mrd. USD Liquidationen (vor allem Longs) und anhaltenden Spot-BTC-ETF-Abfluessen (Wochensumme 1,28 Mrd. USD); Markt wartet auf die US-CPI-Daten am 10.11. US-Boersen weiterhin vor Handelsbeginn (Oeffnung 15:30 CET); GOOGL und AMD notieren unveraendert zum Freitagsschluss (284,78 bzw. 449,04 USD).",
+    "decision": "Keine Trades heute bisher (Stand 13:13 Uhr). Bestehende offene Positionen (GOOGL, AMD) unveraendert, da die relevanten US-Boersen weiterhin vor Handelsbeginn sind. Krypto-Schwaeche setzt sich fort, bleibt aber eine breite, unspezifische Risk-off-Bewegung ohne ueberzeugenden Einzelkatalysator - daher weiterhin kein Neukauf.",
     "reasoning": "Risikoprofil \"spekulativ\" mit erlaubtem kurzfristigem Trading, aber Handel nur bei wirklich ueberzeugender Gelegenheit. Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten nicht handelbar (US-Markt oeffnet erst 15:30 CET), GOOGL/AMD bleiben daher zum letzten Schlusskurs gehalten. Krypto als einzige rund um die Uhr handelbare Anlageklasse zeigt eine breite, anhaltende Abwaertsbewegung (ETF-Abfluesse, Liquidationswelle, Vorsicht vor CPI-Daten) ohne neuen, einzelcoin-spezifischen Katalysator - passend zum etablierten Muster wird daher auf einen Neukauf verzichtet. Keine Position verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [
       "pos-0031",
@@ -12466,6 +12466,11 @@
       {
         "time": "12:13",
         "note": "Keine Aenderung. Krypto weiterhin schwach (BTC ca. 74.000-74.800 USD, ETH ca. 2.100-2.150 USD -4,4%), ueber 1 Mrd. USD Liquidationen (vor allem Longs), Spot-BTC-ETFs mit Wochenabfluessen von 1,28 Mrd. USD, Markt wartet auf US-CPI-Daten am 10.11. - kein neuer Einzelkatalysator, kein Trade. US-Boersen weiterhin vor Handelsbeginn (ab 15:30 CET), GOOGL/AMD unveraendert zum Freitagsschluss.",
+        "portfolioValue": 1804.93
+      },
+      {
+        "time": "13:13",
+        "note": "Keine Aenderung. Krypto weiterhin schwach ohne neuen Einzelkatalysator (BTC ca. 74.000-74.800 USD, ETH ca. 2.100-2.150 USD, anhaltende ETF-Abfluesse und hohe Liquidationen), Markt wartet auf US-CPI-Daten am 10.11. - kein Trade. US-Boersen weiterhin vor Handelsbeginn (ab 15:30 CET), GOOGL/AMD unveraendert zum Freitagsschluss.",
         "portfolioValue": 1804.93
       }
     ]
