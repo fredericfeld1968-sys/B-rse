@@ -12394,9 +12394,9 @@
   },
   {
     "date": "2026-11-09",
-    "marketOverview": "Krypto bleibt in der Fear-Zone (F&G weiterhin unter 30, BTC ca. 74.500-76.000 USD, Woche ca. -5% bis -8%, ETH um 2.100-2.240 USD, ca. -4 bis -7% 24h) - anhaltende, aber nicht neu eskalierende Risk-off-Stimmung ohne frischen Einzelkatalysator. US-Aktienmaerkte weiterhin vor Handelsbeginn (Montag, Nasdaq oeffnet erst 15:30 CET); GOOGL/AMD daher weiterhin zum letzten bekannten Kurs unveraendert. Europaeische Boersen oeffnen gerade, aber das Depot haelt keine europaeischen Positionen.",
-    "decision": "Keine Trades heute bisher. Bestehende offene Positionen (GOOGL, AMD) unveraendert, da die relevanten US-Boersen weiterhin vor Handelsbeginn sind. Krypto-Schwaeche setzt sich fort, bleibt aber eine Fortsetzung des bekannten Trends ohne ueberzeugenden Einzelkatalysator fuer einen Neukauf.",
-    "reasoning": "Fortlaufende stuendliche Marktpruefungen seit Mitternacht zeigen ein durchgehend schwaches Kryptoumfeld ohne klaren neuen Trade-Trigger; US-Maerkte bleiben ausserhalb der Handelszeiten. Daher bleibt das Portfolio unveraendert, freies Kapital (94.386,51 EUR) wird fuer eine ueberzeugendere Gelegenheit vorgehalten.",
+    "marketOverview": "Krypto bleibt breit in der Fear-Zone: Bitcoin ca. 74.568 USD (-1,66% 24h), Ethereum ca. 2.122,59 USD (-5,04%), XRP ca. 1,099 USD (-5,44%), Solana ca. 87,00 USD (-2,42%), Cardano ca. 0,1754 USD (-2,54%), Avalanche ca. 8,01 USD (-1,85%) - kein Einzelcoin mit konkretem, bestaetigtem Katalysator, sondern eine breite, anhaltende Risk-off-Stimmung seit dem Wochenende. US-Boersen sind noch vor Handelsbeginn (Oeffnung 15:30 CET); GOOGL und AMD notieren unveraendert zum Freitagsschluss (284,78 bzw. 449,04 USD).",
+    "decision": "Keine Trades heute bisher. Bestehende offene Positionen (GOOGL, AMD) unveraendert, da die relevanten US-Boersen weiterhin vor Handelsbeginn sind. Krypto-Schwaeche setzt sich fort, bleibt aber eine breite, unspezifische Risk-off-Bewegung ohne ueberzeugenden Einzelkatalysator - daher weiterhin kein Neukauf.",
+    "reasoning": "Risikoprofil 'spekulativ' mit erlaubtem kurzfristigem Trading, aber Handel nur bei wirklich ueberzeugender Gelegenheit. Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten nicht handelbar (US-Markt oeffnet erst 15:30 CET), GOOGL/AMD bleiben daher zum letzten Schlusskurs gehalten. Krypto als einzige rund um die Uhr handelbare Anlageklasse zeigt eine breite, mehrstuendige Abwaertsbewegung ohne neuen, einzelcoin-spezifischen Katalysator (kein bestaetigter Ausbruch, keine institutionelle Nachricht) - passend zum etablierten Muster wird daher auf einen Neukauf verzichtet. Keine Position verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [
       "pos-0031",
       "pos-0033"
@@ -12451,6 +12451,11 @@
       {
         "time": "09:12",
         "note": "Keine Aenderung. Krypto weiterhin in Fear-Zone (BTC ca. 74,5-76k USD, F&G <30), kein neuer Einzelkatalysator - kein Trade. US-Boersen (Nasdaq) weiterhin vor Handelsbeginn, GOOGL/AMD unveraendert.",
+        "portfolioValue": 1804.93
+      },
+      {
+        "time": "10:10",
+        "note": "Keine Aenderung. Krypto weiterhin breit schwaecher (BTC -1,66%, ETH -5,04%, XRP -5,44%, SOL -2,42%), kein neuer Einzelkatalysator - kein Trade. US-Boersen weiterhin vor Handelsbeginn, GOOGL/AMD unveraendert zum Freitagsschluss.",
         "portfolioValue": 1804.93
       }
     ]
