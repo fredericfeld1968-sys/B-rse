@@ -12394,9 +12394,9 @@
   },
   {
     "date": "2026-11-09",
-    "marketOverview": "BTC bei ca. 75.082 USD (-0,89% 24h), ETH 2.142,58 USD (-4,18%), SOL 87,67 USD (-1,67%), XRP 1,11 USD (-4,33%) - Kryptomarkt insgesamt schwaecher ohne frischen Einzelkatalysator (QNT isoliert +1,44%, zu schwach fuer eine Position). Fear&Greed-Index unveraendert bei 29 (Angst). US-Boersen/ETFs/Rohstoffe weiterhin nicht handelbar (NYSE-Oeffnung erst um 15:30 MESZ).",
-    "decision": "Tagesbudget fuer den 09.11. bereits gutgeschrieben (freies Kapital 94.386,51 EUR). GOOGL und AMD unveraendert (US-Boersen weiterhin geschlossen). Kryptomarkt insgesamt schwaecher, kein neuer bestaetigter Katalysator seit dem letzten Lauf erkennbar. Kein Neukauf, kein Verkauf.",
-    "reasoning": "Websuche zu Krypto (BTC/ETH/SOL/XRP), Fed/Makro und Geopolitik lieferte keine frische, mehrfach bestaetigte Nachricht mit klarem Kurskatalysator seit dem letzten Lauf (03:08). Krypto breit schwaecher (ETH/XRP je ueber -4%), ohne Gegenkatalysator - keine ueberzeugende Long- oder Short-Gelegenheit passend zum spekulativen Profil. Fear&Greed bleibt bei 29 (Angst). US-Boersen/ETFs/Rohstoffe um diese Nachtzeit weiterhin nicht handelbar. Bestehende offene Positionen (GOOGL, AMD) unveraendert, da seit Marktschluss keine neuen Kurse vorliegen; kein Stop-Loss- oder Gewinnmitnahme-Niveau erreicht.",
+    "marketOverview": "BTC bei ca. 75.000 USD (-1 bis -1,4% 24h, unter dem 50-Tage-Durchschnitt), ETH ca. 2.140 USD (-4 bis -4,4%), Kryptomarkt insgesamt weiterhin schwach ohne frischen Einzelkatalysator. Fear&Greed-Index unveraendert bei ca. 28-29 (Angst). US-Boersen/ETFs/Rohstoffe weiterhin geschlossen (Montagfrueh, Oeffnung erst 15:30 MESZ); letzter bekannter Schlusskurs AMD 449,04 USD (Freitag, +11% Erholung nach Chip-Ausverkauf), GOOGL 284,78 USD (Freitag).",
+    "decision": "Tagesbudget fuer den 09.11. bereits gutgeschrieben (freies Kapital 94.386,51 EUR). GOOGL und AMD unveraendert (US-Boersen weiterhin geschlossen, Kurse entsprechen dem Freitagsschluss). Kryptomarkt bleibt schwach (BTC knapp unter 75.000 USD, ETH -4%), kein neuer bestaetigter Katalysator seit dem letzten Lauf. Kein Neukauf, kein Verkauf.",
+    "reasoning": "Websuche zu Krypto (BTC/ETH), Aktien (AMD/GOOGL-Schlusskurse) sowie Makro/Geopolitik lieferte keine frische, mehrfach bestaetigte Nachricht mit klarem Kurskatalysator seit dem letzten Lauf (04:09). Krypto bleibt in der etablierten Schwaeche (F&G 28-29), ohne Gegenkatalysator - keine ueberzeugende Long- oder Short-Gelegenheit passend zum spekulativen Profil. US-Boersen/ETFs/Rohstoffe um diese Uhrzeit (Montag, 05:07 MEZ) weiterhin nicht handelbar. Bestehende offene Positionen (GOOGL, AMD) unveraendert, da seit Freitagsschluss keine neuen Kurse vorliegen; kein Stop-Loss- oder Gewinnmitnahme-Niveau erreicht.",
     "positionIds": [
       "pos-0031",
       "pos-0033"
@@ -12426,6 +12426,11 @@
       {
         "time": "04:09",
         "note": "Keine Aenderung. Krypto breit schwaecher (BTC -0,89%, ETH -4,18%, XRP -4,33%, F&G 29), kein neuer Katalysator - kein Trade. US-Boersen weiterhin geschlossen.",
+        "portfolioValue": 1804.93
+      },
+      {
+        "time": "05:07",
+        "note": "Keine Aenderung. Krypto weiterhin schwach (BTC knapp unter 75.000 USD, ETH -4%, F&G 28-29), kein neuer Katalysator - kein Trade. US-Boersen weiterhin geschlossen.",
         "portfolioValue": 1804.93
       }
     ]
