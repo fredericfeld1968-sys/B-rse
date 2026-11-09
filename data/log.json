@@ -12394,14 +12394,14 @@
   },
   {
     "date": "2026-11-09",
-    "marketOverview": "US-Boersen (Montag, kein Feiertag) setzen den Handel bis ca. 22:00 CET fort; verlaessliche taggenaue Live-Kurse fuer 19 Uhr waren per Websuche nicht zu ermitteln (Marktdaten zeigten zuletzt einen KI-Aktien-Ausverkauf vom 05.11. sowie einen Krypto-Fear&Greed-Wert um 28-29, also eher nervoese/Risk-off-Grundstimmung). GOOGL (+2,76%) und AVAX (-1,14%) bleiben im neutralen Bereich ohne bestaetigten neuen Katalysator.",
-    "decision": "Keine Aenderung. Keine belastbaren frischen Kursdaten fuer GOOGL/AVAX verfuegbar, beide Positionen bleiben unveraendert auf dem zuletzt bekannten Stand (GOOGL +2,76%, AVAX -1,14%) - kein Trade.",
-    "reasoning": "Websuche lieferte keine zuverlaessigen taggenauen Live-Kurse fuer GOOGL/AVAX zum aktuellen Zeitpunkt (19:10 CET); verfuegbare Datenpunkte deuten auf nervoese, uneinheitliche Marktlage (KI-Aktien-Ausverkauf Anfang November, Krypto Fear&Greed ~28 'Fear') ohne klaren neuen Einzelkatalysator fuer GOOGL oder AVAX. Passend zum spekulativen Profil wird nur bei wirklich ueberzeugenden Gelegenheiten gehandelt - diese liegt aktuell nicht vor, daher keine Positionsaenderung.",
+    "marketOverview": "US-Boersen (Montag) notieren kurz vor Handelsschluss (21:10 CET) weiterhin fester: GOOGL mit via StockAnalysis.com live bestaetigtem Kurs von 289,14 USD (+1,53% Tagesplus, 15:09 ET). Krypto direkt per CoinGecko-API verifiziert: AVAX 8,58 USD (+4,62% 24h, staerker als der Gesamtmarkt), BTC 74.822 USD (-1,30%), ETH 2.126 USD (-4,51%), SOL 86,43 USD (-3,20%) - weiterhin Risk-off bei Majors, AVAX isoliert fester. Keine neue, einzeltitelspezifische Nachricht fuer GOOGL oder AVAX gefunden; Gesamtbild bleibt die seit 04.11. laufende Nachwahl-Rally bei US-Aktien bei gleichzeitig nervoesem Kryptomarkt.",
+    "decision": "Keine Aenderung. GOOGL (+2,00%) und AVAX (-2,61%) liegen beide klar innerhalb der etablierten Zielspannen (Gewinnmitnahme ~7-9%, Stop-Loss ~-6,5 bis -7,5%) - keine Schwelle erreicht, kein Trade in diesem Lauf.",
+    "reasoning": "Live-Kurse heute erstmals wieder zuverlaessig per direktem Datenabruf (StockAnalysis.com fuer GOOGL, CoinGecko-API fuer AVAX/BTC/ETH/SOL) bestaetigt statt nur per Websuche. GOOGL steht mit 289,14 USD (+2,00% seit Kauf bei 283,47 USD) im neutralen Bereich. AVAX ist mit 8,58 USD (-2,61% seit Kauf bei 8,81 USD) trotz eines isolierten 24h-Plus von +4,62% unter dem Einstandspreis - keine Trendumkehr bestaetigt. Keine frische, ueberzeugende Einzelkatalysator-Meldung fuer einen Neukauf gefunden (Suche lieferte nur bereits bekannte Themen: Nachwahl-Rally seit 04.11., KI-Aktien-Nervositaet). Passend zum spekulativen Profil wird nur bei wirklich ueberzeugenden Gelegenheiten gehandelt - diese liegt aktuell nicht vor.",
     "positionIds": [
       "pos-0031",
       "pos-0034"
     ],
-    "portfolioValueEnd": 1514.12,
+    "portfolioValueEnd": 1497.73,
     "updates": [
       {
         "time": "00:09",
@@ -12507,6 +12507,11 @@
         "time": "20:09",
         "note": "Keine Aenderung. Websuche liefert weiterhin keine verlaesslichen, taggenauen Live-Kurse fuer GOOGL/AVAX (stark widersprechende/veraltete Preisangaben u.a. fuer AVAX). Positionen bleiben auf letztem bestaetigtem Stand (GOOGL +2,76%, AVAX -1,14%), keine Schwelle erreicht - kein Trade.",
         "portfolioValue": 1514.12
+      },
+      {
+        "time": "21:10",
+        "note": "Keine Aenderung. GOOGL live 289,14 USD (+2,00%, StockAnalysis.com), AVAX live 8,58 USD (-2,61%, CoinGecko), beide innerhalb der Zielspannen - kein Trade.",
+        "portfolioValue": 1497.73
       }
     ]
   }
