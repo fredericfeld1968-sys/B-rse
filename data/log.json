@@ -12394,9 +12394,9 @@
   },
   {
     "date": "2026-11-09",
-    "marketOverview": "BTC ca. 74.749 USD (-1,23% 24h), ETH 2.141,33 USD (-4,03%), SOL 86,94 USD (-2,65%), AVAX 7,96 USD (-2,87%), ADA 0,1762 USD (-2,62%), XRP 1,12 USD (-3,52%), BCH 240,30 USD (-3,14%), DOGE 0,0695 USD (-2,58%), HBAR 0,0658 USD (-1,68%), QNT 195,22 USD (-0,17%), LINK 10,46 USD (-3,23%), HYPE 74,86 USD (-3,25%, CoinGecko live). Breite, moderate Kryptoschwaeche setzt den bereits am Vorabend beobachteten Trend fort, Fear&Greed-Index unveraendert bei 28 (Angst), kein erkennbarer Einzelkatalysator gefunden. US-Boersen/ETFs/Rohstoffe nachts nicht handelbar.",
-    "decision": "Tagesbudget fuer den 09.11. gutgeschrieben (freies Kapital jetzt 94.386,51 EUR). GOOGL und AMD unveraendert, da US-Boersen nachts geschlossen sind. Kryptomarkt zeigt eine breite, aber unspezifische Schwaeche (-1 bis -4% ueber die meisten beobachteten Coins) ohne erkennbaren Einzelkatalysator und unveraendertem Fear&Greed-Index (28 = Angst) - keine ueberzeugende Gelegenheit. Kein Neukauf, kein Verkauf.",
-    "reasoning": "Die seit dem spaeten Abend des 08.11. beobachtete breite Kryptoschwaeche (BTC, ETH, SOL und nahezu alle Altcoins im Minus) setzt sich fort, jedoch ohne einen mehrfach bestaetigten, neuen Nachrichtenausloeser - ein unspezifischer, marktbreiter Ruecksetzer erfuellt nicht die Schwelle fuer eine spekulative Position. US-Boersen/ETFs/Rohstoffe sind um diese Nachtzeit nicht handelbar. Bestehende offene Positionen (GOOGL, AMD) bleiben nahe am Einstand, kein Stop-Loss- oder Gewinnmitnahme-Niveau erreicht.",
+    "marketOverview": "BTC ca. 74.590 USD (-1,5% 24h), ETH 2.123,79 USD (-5,0%), SOL 86,42 USD (-3,6%), AVAX 7,91 USD (-3,6%), ADA 0,1751 USD (-3,5%), XRP 1,11 USD (-4,6%), BCH 238,92 USD (-4,1%), DOGE 0,0688 USD (-3,7%), HBAR 0,0654 USD (-2,4%), QNT 195,69 USD (-0,5%), LINK 10,40 USD (-3,8%), HYPE 74,46 USD (-4,1%, CoinGecko live). Fear&Greed-Index 29 (Angst, nahezu unveraendert zu 28). Breite Kryptoschwaeche setzt sich fort, getrieben vom seit September angespannten Makroumfeld (Fed-Zinserhoehung im September, anhaltende Abfluesse aus US-Spot-BTC/ETH-ETFs, gescheiterter CLARITY-Act, keine neue Abstimmung angesetzt) - kein frischer Einzelkatalysator seit dem letzten Lauf. US-Boersen/ETFs/Rohstoffe nachts/am Wochenstart noch nicht handelbar (NYSE-Oeffnung 15:30 MESZ).",
+    "decision": "Tagesbudget fuer den 09.11. bereits gutgeschrieben (freies Kapital 94.386,51 EUR). GOOGL und AMD unveraendert (US-Boersen weiterhin geschlossen). Kryptomarkt bleibt breit, aber unspezifisch schwaecher (-1,5 bis -5% ueber die meisten beobachteten Coins) ohne neuen Einzelkatalysator, Fear&Greed-Index nahezu unveraendert bei 29 - keine ueberzeugende Gelegenheit. Kein Neukauf, kein Verkauf.",
+    "reasoning": "Die bereits seit dem Vorabend beobachtete breite Kryptoschwaeche setzt sich im strukturellen Rahmen des angespannten Makroumfelds (Fed-Zinserhoehung September, ETF-Abfluesse, gescheiterter CLARITY Act) fort, jedoch ohne einen frischen, mehrfach bestaetigten Nachrichtenausloeser - ein unspezifischer, marktbreiter Ruecksetzer erfuellt nicht die Schwelle fuer eine neue spekulative Position. US-Boersen/ETFs/Rohstoffe sind um diese Zeit noch nicht handelbar. Bestehende offene Positionen (GOOGL, AMD) bleiben nahe am Einstand (letzter Schlusskurs vom Freitag), kein Stop-Loss- oder Gewinnmitnahme-Niveau erreicht.",
     "positionIds": [
       "pos-0031",
       "pos-0033"
@@ -12406,6 +12406,11 @@
       {
         "time": "00:09",
         "note": "Neuer Tag: Tagesbudget 1.000 EUR gutgeschrieben (freies Kapital jetzt 94.386,51 EUR). GOOGL/AMD unveraendert (US-Boersen nachts geschlossen). Krypto breit, aber moderat schwaecher (BTC -1,23%, ETH -4,03%, SOL -2,65%, F&G 28), kein Einzelkatalysator - kein Neukauf.",
+        "portfolioValue": 1804.93
+      },
+      {
+        "time": "01:08",
+        "note": "Keine Aenderung. Krypto breit schwaecher im Rahmen des angespannten Makroumfelds (BTC -1,5%, ETH -5,0%, F&G 29), kein neuer Einzelkatalysator - kein Trade. US-Boersen noch geschlossen.",
         "portfolioValue": 1804.93
       }
     ]
