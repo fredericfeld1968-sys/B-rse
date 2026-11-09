@@ -12394,9 +12394,9 @@
   },
   {
     "date": "2026-11-09",
-    "marketOverview": "BTC ca. 75.375 USD (-0,46% 24h, CoinGecko live), ETH 2.147,65 USD (-3,86%), SOL 87,93 USD (-1,58%), AVAX 8,04 USD (-1,99%), ADA 0,178046 USD (-1,55%), XRP 1,12 USD (-3,08%), BCH 242,14 USD (-2,52%), DOGE 0,069913 USD (-2,04%), HBAR 0,066826 USD (-0,02%), QNT 198,05 USD (+1,18%), LINK 10,60 USD (-1,80%), HYPE 75,27 USD (-3,04%). Fear&Greed-Index unveraendert bei 29 (Angst). Krypto stabilisiert sich leicht gegenueber dem letzten Lauf (BTC wieder knapp ueber 75.000 USD), aber weiterhin ohne frischen Einzelkatalysator im unveraendert angespannten Makroumfeld. US-Boersen/ETFs/Rohstoffe weiterhin nicht handelbar (NYSE-Oeffnung erst um 15:30 MESZ).",
-    "decision": "Tagesbudget fuer den 09.11. bereits gutgeschrieben (freies Kapital 94.386,51 EUR). GOOGL und AMD unveraendert (US-Boersen weiterhin geschlossen). Kryptomarkt stabilisiert sich leicht (BTC -0,46% statt zuvor -1,5%), Fear&Greed weiterhin bei 29 - keine neue, ueberzeugende Gelegenheit erkennbar. Kein Neukauf, kein Verkauf.",
-    "reasoning": "Seit dem letzten Lauf (01:08) hat sich die Kryptoschwaeche leicht abgeschwaecht (BTC von -1,5% auf -0,46% 24h), es gibt aber weiterhin keinen frischen, mehrfach bestaetigten Nachrichtenausloeser und der Fear&Greed-Index verharrt unveraendert bei 29 (Angst) - eine blosse Stabilisierung ohne Katalysator erfuellt nicht die Schwelle fuer eine neue spekulative Position. US-Boersen/ETFs/Rohstoffe sind um diese Zeit weiterhin nicht handelbar. Bestehende offene Positionen (GOOGL, AMD) bleiben nahe am Einstand (letzter Schlusskurs vom Freitag), kein Stop-Loss- oder Gewinnmitnahme-Niveau erreicht.",
+    "marketOverview": "BTC weiterhin um ca. 75.300-75.400 USD (leicht schwaecher, -0,3 bis -0,5% 24h), Kryptomarkt insgesamt seitwaerts bis leicht schwaecher ohne frischen Einzelkatalysator; Fear&Greed-Index unveraendert bei 29 (Angst). US-Boersen/ETFs/Rohstoffe weiterhin nicht handelbar (NYSE-Oeffnung erst um 15:30 MESZ, zudem Wochenstart ohne neue Makro-Daten seit dem letzten Lauf).",
+    "decision": "Tagesbudget fuer den 09.11. bereits gutgeschrieben (freies Kapital 94.386,51 EUR). GOOGL und AMD unveraendert (US-Boersen weiterhin geschlossen). Kryptomarkt bewegt sich seitwaerts, kein neuer Katalysator seit dem letzten Lauf erkennbar. Kein Neukauf, kein Verkauf.",
+    "reasoning": "Seit dem letzten Lauf (02:08) keine nennenswerte Bewegung im Kryptomarkt und keine frische, mehrfach bestaetigte Nachricht gefunden (Websuche zu BTC/ETH/SOL und zu AMD/Alphabet lieferte nur aeltere Artikel, keine aktuellen Meldungen von heute). Fear&Greed-Index bleibt bei 29 (Angst), reine Seitwaertsbewegung ohne Katalysator erfuellt nicht die Schwelle fuer eine neue spekulative Position. US-Boersen/ETFs/Rohstoffe sind um diese Nachtzeit weiterhin nicht handelbar. Bestehende offene Positionen (GOOGL, AMD) bleiben nahe am Einstand (letzter Schlusskurs vom Freitag), kein Stop-Loss- oder Gewinnmitnahme-Niveau erreicht.",
     "positionIds": [
       "pos-0031",
       "pos-0033"
@@ -12416,6 +12416,11 @@
       {
         "time": "02:08",
         "note": "Keine Aenderung. Krypto leicht stabilisiert (BTC -0,46% statt zuvor -1,5%, F&G weiterhin 29), kein neuer Katalysator - kein Trade. US-Boersen weiterhin geschlossen.",
+        "portfolioValue": 1804.93
+      },
+      {
+        "time": "03:08",
+        "note": "Keine Aenderung. Kryptomarkt seitwaerts (BTC weiterhin ca. 75.300-75.400 USD, F&G weiterhin 29), kein neuer Katalysator gefunden - kein Trade. US-Boersen weiterhin geschlossen.",
         "portfolioValue": 1804.93
       }
     ]
