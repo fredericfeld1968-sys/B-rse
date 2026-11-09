@@ -12394,9 +12394,9 @@
   },
   {
     "date": "2026-11-09",
-    "marketOverview": "Krypto bleibt in der Fear-Zone (F&G 29), BTC weiter unter 75.000 USD (ca. 74.500 USD, -1,6% 24h), ETH (-4,6%), XRP (-5,8%), ADA/SOL/AVAX/DOGE ebenfalls im Minus (-2,9% bis -3,1%) - breite, synchrone Schwaeche ohne Einzelkatalysator. US-Aktienmaerkte sind weiterhin vor Handelsbeginn (Montag frueh, US-Ostzeit kurz nach 01:00), daher keine neuen Kurse fuer Aktien/ETFs/Rohstoffe verfuegbar - GOOGL/AMD unveraendert zum Freitagsschluss.",
-    "decision": "Keine Trades heute bisher. Bestehende offene Positionen (GOOGL, AMD) unveraendert, da US-Boersen durchgehend geschlossen bzw. vor Handelsbeginn waren. Krypto zeigt weiterhin keinen ueberzeugenden Einzelkatalysator fuer einen Neukauf, Marktbreite bleibt schwach.",
-    "reasoning": "Fortlaufende Marktpruefungen seit Mitternacht zeigen ein breit schwaches, aber nicht ausbruchsstarkes Kryptoumfeld ohne klaren Trade-Trigger; US-Maerkte ausserhalb der Handelszeiten. Daher bleibt das Portfolio unveraendert, freies Kapital (94.386,51 EUR) wird fuer eine ueberzeugendere Gelegenheit vorgehalten.",
+    "marketOverview": "Krypto breit und etwas staerker schwaecher als in den letzten Stunden (F&G weiterhin 29, BTC ca. 74.000 USD -2,3% 24h, ETH -5,8%, XRP -6,6%, SOL -3,7%, ADA -3,9%, AVAX -3,7%, DOGE -3,6%) - synchrone Risk-off-Bewegung ohne neuen Einzelkatalysator. US-Aktienmaerkte weiterhin vor Handelsbeginn (Montag, kurz nach 02:00 US-Ostzeit), GOOGL/AMD daher unveraendert zum letzten Schlusskurs.",
+    "decision": "Keine Trades heute bisher. Bestehende offene Positionen (GOOGL, AMD) unveraendert, da US-Boersen durchgehend vor Handelsbeginn waren. Krypto-Schwaeche vertieft sich zwar leicht, bleibt aber eine Fortsetzung des bekannten Trends ohne ueberzeugenden Einzelkatalysator fuer einen Neukauf.",
+    "reasoning": "Fortlaufende Marktpruefungen seit Mitternacht zeigen ein breit schwaches, zuletzt leicht akzentuiertes Kryptoumfeld ohne klaren Trade-Trigger; US-Maerkte ausserhalb der Handelszeiten. Daher bleibt das Portfolio unveraendert, freies Kapital (94.386,51 EUR) wird fuer eine ueberzeugendere Gelegenheit vorgehalten.",
     "positionIds": [
       "pos-0031",
       "pos-0033"
@@ -12441,6 +12441,11 @@
       {
         "time": "07:13",
         "note": "Keine Aenderung. Krypto weiterhin in Fear-Zone (F&G 29, BTC ~74.500 USD -1,6%, ETH -4,6%, XRP -5,8%), kein neuer Einzelkatalysator - kein Trade. US-Boersen weiterhin vor Marktoeffnung, GOOGL/AMD unveraendert.",
+        "portfolioValue": 1804.93
+      },
+      {
+        "time": "08:12",
+        "note": "Keine Aenderung. Krypto-Schwaeche vertieft sich leicht (BTC ~74.000 USD -2,3%, ETH -5,8%, XRP -6,6%, F&G weiterhin 29), kein neuer Einzelkatalysator - kein Trade. US-Boersen weiterhin vor Marktoeffnung, GOOGL/AMD unveraendert.",
         "portfolioValue": 1804.93
       }
     ]
