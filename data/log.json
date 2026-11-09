@@ -12394,12 +12394,11 @@
   },
   {
     "date": "2026-11-09",
-    "marketOverview": "US-Boersen bauen die Rally im Nachmittagshandel weiter aus: S&P 500 ca. +2,3% auf 7.543 Punkte, Nasdaq Composite ca. +2,6% auf 25.225 Punkte (Yahoo Finance live, 18:09 CET/12:09 EST). GOOGL notiert bei 291,29 USD (+2,76% seit Kauf, 283,47 USD), leicht unter dem Tageshoch vom letzten Lauf. Krypto bleibt separat schwach (BTC ca. 74.786 USD -1,23% 24h, ETH ca. 2.126,88 USD -4,45% 24h, SOL -2,40%); AVAX notiert bei 8,71 USD (+6,74% 24h via CoinGecko, aber leicht unter dem Einstand von 8,81 USD), kein frischer Einzelkatalysator ueber die bereits bekannte NYSE/ICE-Tokenisierungs-Debatte hinaus gefunden.",
-    "decision": "Verkauf: AMD (pos-0033) mit +9,16% Gewinn glattgestellt, da die Zielspanne (7-9%) nach dem breiten Sektor-Rebound erreicht/leicht ueberschritten wurde. Kauf AVAX 700 EUR bleibt offen (jetzt -1,14% seit Kauf, kein Stop-Loss-Niveau erreicht). GOOGL (jetzt +2,76%) bleibt offen, da noch unter der etablierten Zielspanne. Kein Neukauf: trotz fortgesetzter breiter Boersen-Rally kein frischer, ueberzeugender Einzelkatalysator seit dem letzten Lauf gefunden.",
-    "reasoning": "AMD erreichte mit +9,16% seit Kauf (448,49 USD am 06.11.) die obere Grenze der im Portfolio etablierten Gewinnmitnahme-Zielspanne (7-9%), getragen von einem breiten Sektor-Rebound - Gewinnmitnahme passend zum spekulativen Kurzfrist-Profil. GOOGL und AVAX bewegen sich beide in neutralem Terrain (weder Zielspanne noch Stop-Loss-Schwelle erreicht), daher unveraendert gehalten. Fuer einen Neukauf fehlt weiterhin eine wirklich ueberzeugende, noch nicht ausgereizte Gelegenheit - die Rally haelt zwar an, liefert aber keinen neuen Einzelkatalysator gegenueber den letzten Laeufen.",
+    "marketOverview": "US-Boersen (Montag, kein Feiertag) setzen den Handel bis ca. 22:00 CET fort; verlaessliche taggenaue Live-Kurse fuer 19 Uhr waren per Websuche nicht zu ermitteln (Marktdaten zeigten zuletzt einen KI-Aktien-Ausverkauf vom 05.11. sowie einen Krypto-Fear&Greed-Wert um 28-29, also eher nervoese/Risk-off-Grundstimmung). GOOGL (+2,76%) und AVAX (-1,14%) bleiben im neutralen Bereich ohne bestaetigten neuen Katalysator.",
+    "decision": "Keine Aenderung. Keine belastbaren frischen Kursdaten fuer GOOGL/AVAX verfuegbar, beide Positionen bleiben unveraendert auf dem zuletzt bekannten Stand (GOOGL +2,76%, AVAX -1,14%) - kein Trade.",
+    "reasoning": "Websuche lieferte keine zuverlaessigen taggenauen Live-Kurse fuer GOOGL/AVAX zum aktuellen Zeitpunkt (19:10 CET); verfuegbare Datenpunkte deuten auf nervoese, uneinheitliche Marktlage (KI-Aktien-Ausverkauf Anfang November, Krypto Fear&Greed ~28 'Fear') ohne klaren neuen Einzelkatalysator fuer GOOGL oder AVAX. Passend zum spekulativen Profil wird nur bei wirklich ueberzeugenden Gelegenheiten gehandelt - diese liegt aktuell nicht vor, daher keine Positionsaenderung.",
     "positionIds": [
       "pos-0031",
-      "pos-0033",
       "pos-0034"
     ],
     "portfolioValueEnd": 1514.12,
@@ -12497,6 +12496,11 @@
       {
         "time": "18:09",
         "note": "Keine Aenderung. GOOGL (+2,76%) und AVAX (-1,14%) im neutralen Bereich, kein Stop-Loss/Zielspanne erreicht - kein Trade. Boersen-Rally haelt an (S&P +2,3%, Nasdaq +2,6%), kein neuer Einzelkatalysator fuer einen Neukauf.",
+        "portfolioValue": 1514.12
+      },
+      {
+        "time": "19:10",
+        "note": "Keine Aenderung. Keine verlaesslichen frischen Live-Kurse fuer GOOGL/AVAX via Websuche verfuegbar, Markt generell nervoes (Krypto Fear&Greed ~28). Positionen unveraendert, kein Trade.",
         "portfolioValue": 1514.12
       }
     ]
