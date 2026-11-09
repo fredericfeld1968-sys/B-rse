@@ -12394,15 +12394,15 @@
   },
   {
     "date": "2026-11-09",
-    "marketOverview": "US-Boersen setzen die breite Erholungsrally fort: S&P 500 ca. +2,0% auf 7.525 Punkte, Nasdaq Composite ca. +2,4% auf 25.174 Punkte (Yahoo Finance live, 17:11 CET/11:11 EST). GOOGL leicht vom Tageshoch zurueckgekommen, haelt aber weiterhin ein deutliches Plus (+2,51% auf 291,94 USD, Vortagesschluss 284,78 USD). Krypto bleibt separat schwach (BTC ca. 75.094 USD -1,15% 24h, ETH ca. 2.135 USD -4,57% 24h, F&G weiterhin 29 Fear); AVAX konsolidiert nach dem Ausbruch bei 8,91 USD (+8,1% 24h via CoinGecko), kein frischer Einzelkatalysator ueber die bereits bekannte NYSE/ICE-Tokenisierungs-Debatte hinaus gefunden.",
-    "decision": "Verkauf: AMD (pos-0033) mit +9,16% Gewinn glattgestellt, da die Zielspanne (7-9%) nach dem breiten Sektor-Rebound erreicht/leicht ueberschritten wurde. Kauf AVAX 700 EUR bleibt offen (jetzt +0,90% seit Kauf, noch kein Verkaufssignal). GOOGL (jetzt +2,99%, leicht vom Tageshoch zurueckgekommen) bleibt offen, da noch unter der etablierten Zielspanne. Kein Neukauf trotz starker Markt-Rally: die bereits weit gelaufenen Sektorwerte (AVGO +7,6%, MU +6,2%) erscheinen als Nachkauf zu spaet, NVDA-Dip ist wegen der ungeloesten Vorstandsuntersuchung keine ueberzeugende Gelegenheit; seit 16:14 kein neuer ueberzeugender Katalysator fuer einen weiteren Trade.",
-    "reasoning": "AMD erreichte mit +9,16% seit Kauf (448,49 USD am 06.11.) die obere Grenze der im Portfolio etablierten Gewinnmitnahme-Zielspanne (7-9%, analog NVDA/Meta/Bitcoin-Trades), getragen von einem breiten, mehrfach bestaetigten Sektor-Rebound (SOXX +5,87%, Nasdaq +2,37%) nach dem Ausverkauf der Vorwoche sowie einem konkreten Einzelkatalysator (Analysten-Upgrade, Google-Cloud-Partnerschaft) - Gewinnmitnahme passend zum spekulativen Kurzfrist-Profil. Fuer einen Neukauf fehlt eine wirklich ueberzeugende, noch nicht ausgereizte Gelegenheit: die rebound-staerksten Titel (AVGO, MU) sind bereits stark gelaufen, NVDA faellt aus einem ungeloesten, unternehmensspezifischen Governance-Grund (keine klassische Sell-the-news-Uebertreibung).",
+    "marketOverview": "US-Boersen bauen die Rally im Nachmittagshandel weiter aus: S&P 500 ca. +2,3% auf 7.543 Punkte, Nasdaq Composite ca. +2,6% auf 25.225 Punkte (Yahoo Finance live, 18:09 CET/12:09 EST). GOOGL notiert bei 291,29 USD (+2,76% seit Kauf, 283,47 USD), leicht unter dem Tageshoch vom letzten Lauf. Krypto bleibt separat schwach (BTC ca. 74.786 USD -1,23% 24h, ETH ca. 2.126,88 USD -4,45% 24h, SOL -2,40%); AVAX notiert bei 8,71 USD (+6,74% 24h via CoinGecko, aber leicht unter dem Einstand von 8,81 USD), kein frischer Einzelkatalysator ueber die bereits bekannte NYSE/ICE-Tokenisierungs-Debatte hinaus gefunden.",
+    "decision": "Verkauf: AMD (pos-0033) mit +9,16% Gewinn glattgestellt, da die Zielspanne (7-9%) nach dem breiten Sektor-Rebound erreicht/leicht ueberschritten wurde. Kauf AVAX 700 EUR bleibt offen (jetzt -1,14% seit Kauf, kein Stop-Loss-Niveau erreicht). GOOGL (jetzt +2,76%) bleibt offen, da noch unter der etablierten Zielspanne. Kein Neukauf: trotz fortgesetzter breiter Boersen-Rally kein frischer, ueberzeugender Einzelkatalysator seit dem letzten Lauf gefunden.",
+    "reasoning": "AMD erreichte mit +9,16% seit Kauf (448,49 USD am 06.11.) die obere Grenze der im Portfolio etablierten Gewinnmitnahme-Zielspanne (7-9%), getragen von einem breiten Sektor-Rebound - Gewinnmitnahme passend zum spekulativen Kurzfrist-Profil. GOOGL und AVAX bewegen sich beide in neutralem Terrain (weder Zielspanne noch Stop-Loss-Schwelle erreicht), daher unveraendert gehalten. Fuer einen Neukauf fehlt weiterhin eine wirklich ueberzeugende, noch nicht ausgereizte Gelegenheit - die Rally haelt zwar an, liefert aber keinen neuen Einzelkatalysator gegenueber den letzten Laeufen.",
     "positionIds": [
       "pos-0031",
       "pos-0033",
       "pos-0034"
     ],
-    "portfolioValueEnd": 1531.86,
+    "portfolioValueEnd": 1514.12,
     "updates": [
       {
         "time": "00:09",
@@ -12493,6 +12493,11 @@
         "time": "17:11",
         "note": "Keine Aenderung. GOOGL leicht vom Tageshoch zurueckgekommen (jetzt +2,99% statt +4,07%), AVAX konsolidiert (+0,90% statt +1,70%) - kein neuer Katalysator, kein Trade. Boersen-Rally insgesamt haelt (S&P +2,0%, Nasdaq +2,4%).",
         "portfolioValue": 1531.86
+      },
+      {
+        "time": "18:09",
+        "note": "Keine Aenderung. GOOGL (+2,76%) und AVAX (-1,14%) im neutralen Bereich, kein Stop-Loss/Zielspanne erreicht - kein Trade. Boersen-Rally haelt an (S&P +2,3%, Nasdaq +2,6%), kein neuer Einzelkatalysator fuer einen Neukauf.",
+        "portfolioValue": 1514.12
       }
     ]
   }
