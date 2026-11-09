@@ -12394,15 +12394,15 @@
   },
   {
     "date": "2026-11-09",
-    "marketOverview": "Krypto bleibt insgesamt in der Fear-Zone und schwaecher (BTC ca. 74.460 USD -1,9%, ETH ca. 2.118 USD -5,3%, XRP -5,7%, SOL -2,9%, F&G weiterhin 29) ohne neuen breiten Katalysator; Markt wartet auf die US-CPI-Daten am 10.11. Avalanche (AVAX) loest sich aber seit dem Mittag klar vom schwachen Gesamtmarkt: nach stundenlanger Seitwaerts- bewegung (7,8-8,2 USD) Ausbruch auf 8,81 USD (+8% 24h), begleitet von neuer Aufmerksamkeit fuer die NYSE/ICE-Tokenisierungs-Debatte um Avalanche. US-Boersen (NYSE/Nasdaq) oeffnen erst um 15:30 CET, GOOGL/AMD daher weiterhin zum Freitagsschluss unveraendert.",
-    "decision": "Kauf: AVAX fuer 700 EUR (Kurs 8,81 USD) als bestaetigten, beschleunigenden Ausbruch aus der Spanne 7,8-8,2 USD, begleitet von der wieder aktuellen NYSE/ICE-Avalanche-Tokenisierungsgeschichte - analog zum erfolgreichen AVAX-Trade vom 20.09. (+12,59%). Bestehende offene Positionen (GOOGL, AMD) unveraendert, da die relevanten US-Boersen weiterhin vor Handelsbeginn sind.",
-    "reasoning": "AVAX zeigte bereits seit mehreren Stunden in den stuendlichen Laeufen eine isolierte, vom restlichen schwachen Kryptomarkt abgekoppelte Staerke (zuletzt von +4% auf +8% 24h-Veraenderung angestiegen). Die CoinGecko-Live-Kurve bestaetigt eine klare Beschleunigung in den letzten zwei Stunden (8,08 -> 8,51 -> 8,81 USD), kein blosses Rauschen. Mit dem begleitenden NYSE/ICE-Tokenisierungs-Narrativ als plausiblem Ausloeser und dem etablierten erfolgreichen Muster bei AVAX-Ausbruechen erfuellt dies die Schwelle fuer eine 'wirklich ueberzeugende Gelegenheit'. Aktien/ETFs/Rohstoffe bleiben vor 15:30 CET nicht handelbar, daher Fokus auf Krypto.",
+    "marketOverview": "US-Boersen nach Handelsbeginn (15:30 CET) in breiter Erholungsrally: S&P 500 +1,85%, Nasdaq +2,37%, Halbleiterindex SOXX +5,87% - Fortsetzung des Rebounds vom Freitag nach dem Ausverkauf der Vorwoche (Sorge vor Rechenzentrums-Beschraenkungen nach den US-Midterms). AMD +9,03% auf 489,57 USD (Analysten-Upgrade, erweiterte Google-Cloud-Partnerschaft), GOOGL +3,59% auf 295,01 USD, Broadcom +7,57%, Micron +6,18%. NVDA dagegen -4,24% (Sonderfall: Vorstandsuntersuchung zu CEO Jensen Huang wegen moeglicher Verbindungen zu einer chinesischen Geschaeftsfrau mit Geheimdienst-Bezug - kein Dip-Kauf-Kandidat wegen ungeloester Unsicherheit). Krypto bleibt separat schwach (BTC -1,4%, ETH -4,9%, XRP -5,1%, SOL -2,6%, F&G weiterhin 29 Fear); AVAX haelt sich mit +1,7% seit Kauf (8,81 -> 8,96 USD) weiterhin isoliert fester.",
+    "decision": "Verkauf: AMD (pos-0033) mit +9,16% Gewinn glattgestellt, da die Zielspanne (7-9%) nach dem breiten Sektor-Rebound erreicht/leicht ueberschritten wurde. Kauf AVAX 700 EUR bleibt offen (+1,7% seit Kauf, noch kein Verkaufssignal). GOOGL (+4,07%) bleibt offen, da noch unter der etablierten Zielspanne. Kein Neukauf trotz starker Markt-Rally: die bereits weit gelaufenen Sektorwerte (AVGO +7,6%, MU +6,2%) erscheinen als Nachkauf zu spaet, NVDA-Dip ist wegen der ungeloesten Vorstandsuntersuchung keine ueberzeugende Gelegenheit.",
+    "reasoning": "AMD erreichte mit +9,16% seit Kauf (448,49 USD am 06.11.) die obere Grenze der im Portfolio etablierten Gewinnmitnahme-Zielspanne (7-9%, analog NVDA/Meta/Bitcoin-Trades), getragen von einem breiten, mehrfach bestaetigten Sektor-Rebound (SOXX +5,87%, Nasdaq +2,37%) nach dem Ausverkauf der Vorwoche sowie einem konkreten Einzelkatalysator (Analysten-Upgrade, Google-Cloud-Partnerschaft) - Gewinnmitnahme passend zum spekulativen Kurzfrist-Profil. Fuer einen Neukauf fehlt eine wirklich ueberzeugende, noch nicht ausgereizte Gelegenheit: die rebound-staerksten Titel (AVGO, MU) sind bereits stark gelaufen, NVDA faellt aus einem ungeloesten, unternehmensspezifischen Governance-Grund (keine klassische Sell-the-news-Uebertreibung).",
     "positionIds": [
       "pos-0031",
       "pos-0033",
       "pos-0034"
     ],
-    "portfolioValueEnd": 2504.93,
+    "portfolioValueEnd": 1544.49,
     "updates": [
       {
         "time": "00:09",
@@ -12483,6 +12483,11 @@
         "time": "15:18",
         "note": "Kauf AVAX 700 EUR (Kurs 8,81 USD), bestaetigter Ausbruch aus 7,8-8,2 USD-Spanne + NYSE-Tokenisierungs-Narrativ. GOOGL/AMD unveraendert (US-Boersen vor Handelsbeginn).",
         "portfolioValue": 2504.93
+      },
+      {
+        "time": "16:14",
+        "note": "Verkauf AMD +91,59 EUR (+9,16%), Zielspanne erreicht. GOOGL (+4,07%) und AVAX (+1,70%) bleiben offen. Kein Neukauf trotz starker Boersen-Rally (SOXX +5,9%) - keine ueberzeugende frische Gelegenheit.",
+        "portfolioValue": 1544.49
       }
     ]
   }
