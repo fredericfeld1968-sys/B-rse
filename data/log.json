@@ -12527,14 +12527,14 @@
   },
   {
     "date": "2026-11-10",
-    "marketOverview": "Kryptomarkt leicht fester: BTC laut CoinGecko bei 74.598 USD (+0,94% 24h), ETH 2.114,37 USD (+1,30%), SOL 86,01 USD (+0,84%), AVAX 8,46 USD (laut CoinGecko-API +8,06% 24h, dennoch weiterhin unter Kaufkurs). Fear & Greed Index bei 32 (Fear), leichte Verbesserung ggue. den Vortagen. Kein neuer AVAX-Einzelkatalysator: der Token-Unlock vom 08.11. (1,67 Mio. AVAX, ~0,4% des Supply) ist bereits bekannt/eingepreist, kein frischer institutioneller Trigger gefunden. GOOGL letzter Schlusskurs (Montag) 288,15 USD (+1,18%), US-/EU-Boersen oeffnen erst um 15:30 bzw. 9:00 CET, daher aktuell (08:1x CET) kein Aktienhandel moeglich.",
-    "decision": "Keine Aenderung (achter Lauf des Tages). AVAX-Position auf 8,46 USD aktualisiert (-3,97%), GOOGL auf letzten Schlusskurs 288,15 USD (+1,65%) aktualisiert - beide weiterhin innerhalb der neutralen Zone, kein Handlungsbedarf. Kein ueberzeugender neuer Katalysator fuer einen Krypto-Neukauf gefunden (Fear&Greed 32, kein Einzeltitel-Trigger), Boersen fuer Aktien/ETFs/Rohstoffe noch nicht offen. Freies Kapital unveraendert bei ca. 95.686,51 EUR (Tagesbudget bereits beim ersten Lauf des Tages gutgeschrieben).",
-    "reasoning": "Preisabgleich gestuetzt auf CoinGecko-Live-API (BTC 74.598 USD, ETH 2.114,37 USD, AVAX 8,46 USD, SOL 86,01 USD) und Yahoo-Finance-Chart-API fuer GOOGL (Schlusskurs Montag 288,15 USD, +1,18%, naechste reguläre Session startet erst 14:30 UTC/15:30 CET, Pre-Market ab 9:00 UTC/10:00 CET - aktuell 07:14 UTC also noch vor Pre-Market). Fear&Greed-Index bei 32 (alternative.me), leicht verbessert ggue. 28-29 der letzten Tage, aber weiterhin in der Fear-Zone. Web-Recherche zu AVAX ergab keinen frischen Einzelkatalysator ueber den bereits bekannten, kleinen Token-Unlock vom 08.11. hinaus. Kein Trade.",
+    "marketOverview": "Kryptomarkt weiterhin nahezu unveraendert seitwaerts: BTC laut CoinGecko-API bei 74.719 USD (+1,21% 24h), ETH 2.112,07 USD (+0,97%), SOL 85,89 USD (+0,35%), AVAX 8,45 USD (+7,74% 24h laut API, aber weiterhin unter Kaufkurs 8,81 USD). Kein frischer AVAX-Einzelkatalysator seit dem letzten Lauf gefunden. GOOGL notiert unveraendert auf dem Schlusskurs vom Montag (288,15 USD, +1,18%) - US-Pre-Market startet erst um 9:00 UTC/10:00 CET (aktuell 8:1x UTC), regulaerer Handel erst ab 14:30 UTC/15:30 CET. Gold (zuletzt > 4.100 USD/oz) und Brent (zuletzt ~94-95 USD/Barrel) zeigen die bereits bekannte Iran-Diplomatie-Entspannung nach den Midterms, kein neuer Katalysator seit dem letzten Lauf.",
+    "decision": "Keine Aenderung (neunter Lauf des Tages). AVAX-Position auf 8,45 USD aktualisiert (-4,09%), GOOGL unveraendert auf 288,15 USD (+1,65%). Kein ueberzeugender neuer Katalysator fuer einen Trade; Aktien-/ETF-/Rohstoffmaerkte noch nicht offen (Pre-Market erst ab 10:00 CET), Kryptomarkt bewegungsarm. Freies Kapital unveraendert bei ca. 95.686,51 EUR (Tagesbudget bereits beim ersten Lauf des Tages gutgeschrieben).",
+    "reasoning": "Preisabgleich gestuetzt auf CoinGecko-Live-API (BTC 74.719 USD, ETH 2.112,07 USD, AVAX 8,45 USD, SOL 85,89 USD) und Yahoo-Finance-Chart-API fuer GOOGL (regularMarketPrice 288,15 USD, +1,18% ggue. Vortagesschluss 284,78 USD; Pre-Market-Fenster beginnt laut API-Metadaten erst um 9:00 UTC, aktuell 8:1x UTC also noch davor). WebSearch zu Gold/Oel und allgemeiner Geopolitik lieferte keine neuen, auf heute datierten Katalysatoren - nur bereits bekannte Trends (Iran-Diplomatie-Entspannung, Gold ueber 4.100 USD, Brent unter 95 USD). Kein Trade.",
     "positionIds": [
       "pos-0031",
       "pos-0034"
     ],
-    "portfolioValueEnd": 1485.36,
+    "portfolioValueEnd": 1484.61,
     "updates": [
       {
         "time": "00:11",
@@ -12575,6 +12575,11 @@
         "time": "08:14",
         "note": "Keine Aenderung. AVAX auf 8,46 USD aktualisiert (-3,97%, CoinGecko live, kein frischer Katalysator), GOOGL auf letzten Schlusskurs 288,15 USD aktualisiert (+1,65%, Boersen noch vor Handelsbeginn). Fear&Greed 32 (Fear). Kein Trade.",
         "portfolioValue": 1485.36
+      },
+      {
+        "time": "09:10",
+        "note": "Keine Aenderung. AVAX auf 8,45 USD aktualisiert (-4,09%), GOOGL unveraendert (+1,65%, US-Boersen erst ab 15:30 CET offen). Kein neuer Katalysator, kein Trade.",
+        "portfolioValue": 1484.61
       }
     ]
   }
