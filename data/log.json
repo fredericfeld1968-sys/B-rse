@@ -12527,14 +12527,14 @@
   },
   {
     "date": "2026-11-10",
-    "marketOverview": "US-Boersen seit 15:30 CET (9:30 ET) geoeffnet. GOOGL laut StockAnalysis.com live auf 289,99 USD (+0,64% zum Vortagesschluss von 288,15 USD, Tagesrange 287,22-290,66 USD) - moderat fester nach dem in-line ausgefallenen Oktober-CPI (+0,3% MoM). Kryptomarkt weiterhin schwach bis seitwaerts: AVAX laut CoinGecko-API auf 8,37 USD (-6,40% in 24h), BTC 74.526 USD (-0,50%), ETH 2.082,25 USD (-2,17%), SOL 84,70 USD (-2,85%), XRP 1,064 USD (-3,11%). Hintergrund bleibt die seit dem 05.11. laufende AI-/Tech-Korrektur (Nasdaq zeitweise >10% unter Oktober-Hoch), die sich am 09.11. mit einer Erholung (+0,8-1,2%) etwas entspannt hat; CoreWeave-Zahlen stehen nach US-Handelsschluss an, Nvidia erst am 17.11.",
-    "decision": "Keine Aenderung (sechzehnter Lauf des Tages, erster nach Markteroeffnung). GOOGL auf 289,99 USD aktualisiert (+2,30% seit Kauf statt zuvor +1,65%), AVAX auf 8,37 USD aktualisiert (-4,99% statt zuvor -5,79%, damit vom Stop-Loss-Bereich wieder etwas entfernt). Kein Kurs erreicht eine Stop-Loss- oder Gewinnmitnahme-Schwelle. Das in-line CPI-Ergebnis und die insgesamt noch unsichere, nervoese Markt- und Krypto-Lage nach der AI-Korrektur bieten keine wirklich ueberzeugende neue Kaufgelegenheit. Freies Kapital unveraendert bei ca. 95.686,51 EUR (Tagesbudget bereits beim ersten Lauf des Tages gutgeschrieben).",
-    "reasoning": "Live-Preisabgleich: GOOGL via StockAnalysis.com (Markt seit 15:30 CET offen, Snapshot 10:11 EST), AVAX/BTC/ETH/SOL/XRP via CoinGecko-API. WebSearch zur allgemeinen Marktlage bestaetigt ein in-line CPI-Ergebnis ohne grossen Impuls sowie eine fortgesetzt fragile, aber nicht mehr akut panische AI-/Tech-Stimmung nach dem Ausverkauf vom 05.11. und der Erholung vom 09.11. Keine der beiden offenen Positionen hat eine Handlungsschwelle erreicht; fuer einen Neukauf fehlt angesichts der widerspruechlichen, nicht eindeutig richtungsweisenden Nachrichtenlage (CPI in-line, Krypto schwach, Tech-Sektor nervoes vor CoreWeave-/Nvidia-Zahlen) eine wirklich ueberzeugende Gelegenheit. Bewusst kein Trade in diesem Lauf.",
+    "marketOverview": "US-Boersen seit 15:30 CET (9:30 ET) offen, GOOGL laut StockAnalysis.com live auf 288,20 USD (+0,02% zum Vortagesschluss, Snapshot 11:10 EST) nahezu unveraendert. Kryptomarkt dagegen breit und synchron schwaecher: AVAX laut CoinGecko-API auf 8,21 USD (-7,84% in 24h), BTC 73.242 USD (-2,51%), ETH 2.027,95 USD (-5,14%), SOL 82,16 USD (-5,95%), XRP 1,044 USD (-5,88%) - kein einzeltitelspezifischer Katalysator erkennbar, sondern anhaltender Risk-off-Ton im Nachgang der AI-/Tech-Korrektur vom 05.11. CoreWeave-Zahlen und die Markterholung vom 09.11. haben die Kryptoschwaeche nicht gestoppt.",
+    "decision": "Verkauf AVAX (pos-0034) per Stop-Loss bei -6,81% (8,81 -> 8,21 USD), passend zur etablierten Stop-Loss-Schwelle (-6,5% bis -7,5%) und ohne erkennbaren Gegenkatalysator bei breiter Kryptoschwaeche. GOOGL auf 288,20 USD aktualisiert (+1,67% statt zuvor +2,30%), bleibt offen. Freies Kapital durch den Verkauf auf ca. 96.338,84 EUR gestiegen (zuvor 95.686,51 EUR); keine neue Position eroeffnet, da der Kryptomarkt insgesamt zu schwach/richtungslos fuer eine ueberzeugende neue Gelegenheit ist und bei Aktien/ETFs/Rohstoffen kein klarer Impuls vorliegt.",
+    "reasoning": "Live-Preisabgleich: GOOGL via StockAnalysis.com (Markt offen), AVAX/BTC/ETH/SOL/XRP via CoinGecko-API. AVAX erreichte mit -6,81% seit Kauf die seit Monaten konsequent angewendete Stop-Loss-Schwelle dieses Portfolios; der urspruengliche NYSE/ICE-Tokenisierungs-Ausbruchskatalysator hat sich nicht fortgesetzt, stattdessen fiel AVAX im Gleichschritt mit einem breiten, synchronen Kryptoabverkauf (BTC/ETH/SOL/XRP alle mit -2,5% bis -5,9% in 24h). Passend zum spekulativen Kurzfrist-Profil konsequente Verlustbegrenzung statt Hoffen auf Erholung. GOOGL bleibt innerhalb der neutralen Zone, kein Handlungsbedarf. Fuer einen Neukauf fehlt angesichts der breiten Kryptoschwaeche und der unauffaelligen Aktienbewegung eine wirklich ueberzeugende Gelegenheit in diesem Lauf.",
     "positionIds": [
       "pos-0031",
       "pos-0034"
     ],
-    "portfolioValueEnd": 1483.44,
+    "portfolioValueEnd": 813.35,
     "updates": [
       {
         "time": "00:11",
@@ -12615,6 +12615,11 @@
         "time": "16:10",
         "note": "Keine Aenderung. Erster Lauf nach Markteroeffnung (15:30 CET): GOOGL auf 289,99 USD aktualisiert (+2,30% statt +1,65%), AVAX auf 8,37 USD aktualisiert (-4,99% statt -5,79%, vom Stop-Loss entfernt). CPI in-line, keine ueberzeugende neue Gelegenheit, kein Trade.",
         "portfolioValue": 1483.44
+      },
+      {
+        "time": "17:10",
+        "note": "Verkauf AVAX -47,67 EUR (-6,81%, Stop-Loss bei breiter Kryptoschwaeche), GOOGL auf 288,20 USD aktualisiert (+1,67%), kein Neukauf",
+        "portfolioValue": 813.35
       }
     ]
   }
