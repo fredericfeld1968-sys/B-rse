@@ -12527,14 +12527,14 @@
   },
   {
     "date": "2026-11-10",
-    "marketOverview": "Kryptomarkt weiterhin nahezu unveraendert seitwaerts: BTC laut CoinGecko-API bei 74.719 USD (+1,21% 24h), ETH 2.112,07 USD (+0,97%), SOL 85,89 USD (+0,35%), AVAX 8,45 USD (+7,74% 24h laut API, aber weiterhin unter Kaufkurs 8,81 USD). Kein frischer AVAX-Einzelkatalysator seit dem letzten Lauf gefunden. GOOGL notiert unveraendert auf dem Schlusskurs vom Montag (288,15 USD, +1,18%) - US-Pre-Market startet erst um 9:00 UTC/10:00 CET (aktuell 8:1x UTC), regulaerer Handel erst ab 14:30 UTC/15:30 CET. Gold (zuletzt > 4.100 USD/oz) und Brent (zuletzt ~94-95 USD/Barrel) zeigen die bereits bekannte Iran-Diplomatie-Entspannung nach den Midterms, kein neuer Katalysator seit dem letzten Lauf.",
-    "decision": "Keine Aenderung (neunter Lauf des Tages). AVAX-Position auf 8,45 USD aktualisiert (-4,09%), GOOGL unveraendert auf 288,15 USD (+1,65%). Kein ueberzeugender neuer Katalysator fuer einen Trade; Aktien-/ETF-/Rohstoffmaerkte noch nicht offen (Pre-Market erst ab 10:00 CET), Kryptomarkt bewegungsarm. Freies Kapital unveraendert bei ca. 95.686,51 EUR (Tagesbudget bereits beim ersten Lauf des Tages gutgeschrieben).",
-    "reasoning": "Preisabgleich gestuetzt auf CoinGecko-Live-API (BTC 74.719 USD, ETH 2.112,07 USD, AVAX 8,45 USD, SOL 85,89 USD) und Yahoo-Finance-Chart-API fuer GOOGL (regularMarketPrice 288,15 USD, +1,18% ggue. Vortagesschluss 284,78 USD; Pre-Market-Fenster beginnt laut API-Metadaten erst um 9:00 UTC, aktuell 8:1x UTC also noch davor). WebSearch zu Gold/Oel und allgemeiner Geopolitik lieferte keine neuen, auf heute datierten Katalysatoren - nur bereits bekannte Trends (Iran-Diplomatie-Entspannung, Gold ueber 4.100 USD, Brent unter 95 USD). Kein Trade.",
+    "marketOverview": "Kryptomarkt bleibt schwach/aengstlich (Fear&Greed 29): BTC laut CoinGecko-API 74.337 USD (-0,22% 24h), ETH 2.104,20 USD (-0,80%), SOL 85,38 USD (-1,74%), AVAX 8,41 USD (+5,04% 24h laut API, aber weiterhin unter Kaufkurs 8,81 USD) - Spot-BTC/ETH-ETFs verzeichneten letzte Woche rund 1,65 Mrd. USD Netto-Abfluesse, kein frischer positiver Krypto-Katalysator. GOOGL weiterhin unveraendert auf 288,15 USD (+1,18%, Markt geschlossen, Pre-Market-Daten nicht verfuegbar); US-Aktienmarkt hatte am Vortag (Montag) eine starke Rally (S&P500 +2,35%, Nasdaq +2,74%) nach Brent-Einbruch (Iran/Hormuz-Deeskalation) und Chip-Sektor-Erholung, heute vor der Eroeffnung nur moderate Futures (+0,2% S&P) vor der um 14:30 CET erwarteten US-Oktober-CPI-Zahl - der zentrale Katalysator des Tages, noch nicht veroeffentlicht. Brent weiter gefallen auf ca. 91,34 USD/Barrel (-1,3%) durch anhaltende Iran-Deeskalationshoffnung (Teheran-Vorschlag ueber Katar zur Wiederoeffnung der Strasse von Hormuz).",
+    "decision": "Keine Aenderung (zehnter Lauf des Tages). AVAX-Position auf 8,41 USD aktualisiert (-4,54%), GOOGL unveraendert auf 288,15 USD (+1,65%, Boerse geschlossen). Kein ueberzeugender neuer Katalysator fuer einen Trade; US-Aktien-/ETF-/Rohstoffmaerkte noch nicht offen (regulaerer Handel erst ab 15:30 CET), Kryptomarkt in Angst-Modus ohne klares Momentum. Wichtigster anstehender Katalysator (US-Oktober-CPI, 14:30 CET) noch nicht veroeffentlicht. Freies Kapital unveraendert bei ca. 95.686,51 EUR (Tagesbudget bereits beim ersten Lauf des Tages gutgeschrieben).",
+    "reasoning": "Preisabgleich gestuetzt auf CoinGecko-API (BTC 74.337 USD, ETH 2.104,20 USD, AVAX 8,41 USD, SOL 85,38 USD) und Yahoo-Finance-Chart-API fuer GOOGL (regularMarketPrice unveraendert 288,15 USD, Markt geschlossen). WebSearch zu Aktien/Krypto/Rohstoffen/Makro ergab: starke Aktienrally am Vortag bereits eingepreist, kein frischer GOOGL-Einzelkatalysator; Krypto-ETF-Abfluesse und Fear&Greed 29 sprechen gegen eine Neuposition; Brent weiter im Deeskalations-Abwaertstrend, kein Trade-Signal. Die zentrale heutige Unbekannte (US-CPI 14:30 CET) ist noch offen, daher bewusst kein voreiliger Trade. Kein Trade.",
     "positionIds": [
       "pos-0031",
       "pos-0034"
     ],
-    "portfolioValueEnd": 1484.61,
+    "portfolioValueEnd": 1481.43,
     "updates": [
       {
         "time": "00:11",
@@ -12580,6 +12580,11 @@
         "time": "09:10",
         "note": "Keine Aenderung. AVAX auf 8,45 USD aktualisiert (-4,09%), GOOGL unveraendert (+1,65%, US-Boersen erst ab 15:30 CET offen). Kein neuer Katalysator, kein Trade.",
         "portfolioValue": 1484.61
+      },
+      {
+        "time": "10:08",
+        "note": "Keine Aenderung. AVAX auf 8,41 USD aktualisiert (-4,54%), GOOGL unveraendert (+1,65%, Boerse geschlossen). Krypto weiter in Fear-Phase (F&G 29, ETF-Abfluesse), Brent weiter gefallen (~91,34 USD), US-CPI (14:30 CET) noch nicht veroeffentlicht - kein Trade.",
+        "portfolioValue": 1481.43
       }
     ]
   }
