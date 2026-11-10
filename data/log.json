@@ -12527,14 +12527,14 @@
   },
   {
     "date": "2026-11-10",
-    "marketOverview": "Kryptomarkt weiterhin in Fear-Phase (Fear&Greed-Index laut alternative.me bei 32): BTC laut CoinGecko-API 74.129 USD (+0,09% 24h), ETH 2.089,35 USD (-0,79%), SOL 84,37 USD (-1,76%), XRP 1,079 USD (+0,04%), AVAX 8,29 USD (+3,82% 24h, aber weiterhin unter Kaufkurs 8,81 USD). Kein frischer AVAX-spezifischer Katalysator gefunden - NYSE/ICE-Tokenisierungsthema bereits seit September bekannt und eingepreist, keine neue Bestaetigung einer Partnerschaft. GOOGL weiterhin auf letztem Schlusskurs 288,15 USD (+1,65% seit Kauf), US-Boersen vor Handelsbeginn (regulaerer Handel erst ab 15:30 CET). Wichtigster anstehender Katalysator: US-Oktober-CPI-Zahl, Veroeffentlichung heute 8:30 ET / 14:30 CET, Konsens ca. +0,3% m/m headline / +0,2% core, Ergebnis zum Zeitpunkt dieses Laufs noch nicht veroeffentlicht.",
-    "decision": "Keine Aenderung (zwoelfter Lauf des Tages). AVAX-Position auf 8,29 USD aktualisiert (-5,90%), GOOGL unveraendert auf 288,15 USD (+1,65%, Boerse geschlossen). Kein ueberzeugender neuer Katalysator fuer einen Trade; wichtiger Makro-Termin (US-CPI) steht in Kuerze an und wurde bewusst nicht vorab gehandelt. Freies Kapital unveraendert bei ca. 95.686,51 EUR (Tagesbudget bereits beim ersten Lauf des Tages gutgeschrieben).",
-    "reasoning": "Preisabgleich gestuetzt auf CoinGecko-API (BTC 74.129 USD, ETH 2.089,35 USD, AVAX 8,29 USD, SOL 84,37 USD, XRP 1,079 USD) und Fear&Greed-Index (alternative.me, Wert 32/Fear). WebSearch zu Krypto-, Aktien- und Rohstoffmaerkten sowie Makro: US-Oktober-CPI wird erst um 14:30 CET veroeffentlicht (noch ausstehend), keine belastbare frische Einzelnachricht zu Avalanche oder Alphabet gefunden, Gold-/Oelpreisdaten verfuegbar aber ohne klaren neuen Handelsimpuls fuer dieses Depot. Da US-Aktien/ETFs/Rohstoffe vor Markteroeffnung (15:30 CET) nicht handelbar sind, der Kryptomarkt keine ueberzeugende neue Gelegenheit bietet und ein wichtiger Makro-Katalysator unmittelbar bevorsteht, bewusst kein Trade in diesem Lauf.",
+    "marketOverview": "Kryptomarkt weiterhin in Fear-Phase (Fear&Greed-Index laut alternative.me unveraendert bei 32): BTC laut CoinGecko-API 74.245 USD (-0,28% 24h), ETH 2.089,46 USD (-1,15%), SOL 84,58 USD (-1,94%), XRP 1,077 USD (-0,73%), AVAX 8,30 USD (+3,06% 24h, weiterhin unter Kaufkurs 8,81 USD). Kein frischer AVAX-spezifischer Katalysator gefunden. GOOGL weiterhin auf letztem Schlusskurs 288,15 USD (+1,65% seit Kauf), US-Boersen vor Handelsbeginn (regulaerer Handel erst ab 15:30 CET). Wichtigster anstehender Katalysator: US-Oktober-CPI-Zahl, Veroeffentlichung heute 8:30 ET / 14:30 CET, laut BLS-Zeitplan noch nicht veroeffentlicht.",
+    "decision": "Keine Aenderung (dreizehnter Lauf des Tages). AVAX-Position auf 8,30 USD aktualisiert (-5,79%), GOOGL unveraendert auf 288,15 USD (+1,65%, Boerse geschlossen). Kein ueberzeugender neuer Katalysator fuer einen Trade; wichtiger Makro-Termin (US-CPI) steht unmittelbar bevor und wurde bewusst nicht vorab gehandelt. Freies Kapital unveraendert bei ca. 95.686,51 EUR (Tagesbudget bereits beim ersten Lauf des Tages gutgeschrieben).",
+    "reasoning": "Preisabgleich gestuetzt auf CoinGecko-API (BTC 74.245 USD, ETH 2.089,46 USD, AVAX 8,30 USD, SOL 84,58 USD, XRP 1,077 USD) und Fear&Greed-Index (alternative.me, unveraendert 32/Fear). WebSearch zu Krypto-, Aktien- und Rohstoffmaerkten sowie Makro: US-Oktober-CPI wird erst um 14:30 CET veroeffentlicht (noch ausstehend laut BLS-Zeitplan), keine belastbare frische Einzelnachricht zu Avalanche oder Alphabet gefunden. Da US-Aktien/ETFs/Rohstoffe vor Markteroeffnung (15:30 CET) nicht handelbar sind, der Kryptomarkt keine ueberzeugende neue Gelegenheit bietet und ein wichtiger Makro-Katalysator unmittelbar bevorsteht, bewusst kein Trade in diesem Lauf.",
     "positionIds": [
       "pos-0031",
       "pos-0034"
     ],
-    "portfolioValueEnd": 1471.89,
+    "portfolioValueEnd": 1472.69,
     "updates": [
       {
         "time": "00:11",
@@ -12595,6 +12595,11 @@
         "time": "12:09",
         "note": "Keine Aenderung. AVAX auf 8,29 USD aktualisiert (-5,90%, CoinGecko live, F&G 32/Fear), GOOGL unveraendert (+1,65%, Boerse vor Handelsbeginn). US-Oktober-CPI steht noch aus (14:30 CET) - bewusst kein Trade vor Veroeffentlichung.",
         "portfolioValue": 1471.89
+      },
+      {
+        "time": "13:10",
+        "note": "Keine Aenderung. AVAX auf 8,30 USD aktualisiert (-5,79%, CoinGecko live, F&G weiterhin 32/Fear), GOOGL unveraendert (+1,65%, Boerse vor Handelsbeginn). US-CPI (14:30 CET) steht unmittelbar bevor, bewusst kein Trade vor Veroeffentlichung.",
+        "portfolioValue": 1472.69
       }
     ]
   }
