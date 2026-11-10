@@ -12527,14 +12527,14 @@
   },
   {
     "date": "2026-11-10",
-    "marketOverview": "Kryptomarkt weiterhin leicht risikoavers und uneinheitlich: BTC laut CoinGecko-Live-API bei ca. 74.728 USD (-0,47% 24h), ETH bei 2.119,71 USD (-1,07%), SOL -1,75%, XRP -1,29%, ADA +0,21%. AVAX zeigt laut API zwar +6,8% 24h, notiert aber aktuell bei 8,57 USD und damit weiter unter dem Einstiegsniveau von 8,81 USD - keine frische, mehrfach bestaetigte Nachricht zu AVAX auffindbar, der gestrige NYSE/ICE-Tokenisierungs-Hype hat sich offenbar bereits wieder abgekuehlt. US-/EU-Boersen sind nachts geschlossen, GOOGL bleibt daher unveraendert bei 288,11 USD (+1,64%).",
-    "decision": "Keine Aenderung (fuenfter Lauf des Tages). AVAX-Kurs auf 8,57 USD aktualisiert (CoinGecko live) - Position damit bei -2,72% statt zuvor -1,59%, aber weiterhin klar innerhalb der neutralen Zone und weit von der Stop-Loss-Schwelle (-6,5 bis -7,5%) entfernt, kein Handlungsbedarf. GOOGL (+1,64%) unveraendert, da US-Boersen nachts geschlossen sind. Fuer einen Krypto-Neukauf fehlt weiterhin ein frischer, ueberzeugender Einzelkatalysator - der breite Markt bleibt leicht risikoavers, kein Trade. Freies Kapital unveraendert bei ca. 95.686,51 EUR (Tagesbudget bereits beim ersten Lauf des Tages gutgeschrieben).",
-    "reasoning": "AVAX-Preisaktualisierung gestuetzt auf CoinGecko-Live-API (74.728 USD BTC, 8,57 USD AVAX). Trotz der von der API ausgewiesenen +6,8% 24h-Aenderung liegt der aktuelle Kurs unter dem gestrigen Niveau (8,67 USD) und unter dem Einstiegspreis - keine neue Schlagzeile zu AVAX/NYSE/ICE in dieser Stunde gefunden, daher Einstufung als abklingendes Nachlaufmomentum ohne Handlungsbedarf. GOOGL bleibt ohne neue Informationen bei 288,11 USD, da die US-Boerse nachts geschlossen ist. Fuer einen Neukauf wurde kein frischer, mehrfach bestaetigter Einzelkatalysator gefunden.",
+    "marketOverview": "Kryptomarkt ruhig/leicht risikoavers: BTC laut Coinbase-Spot ca. 74.489 USD (leicht schwaecher ggue. letztem Lauf), ETH 2.111,85 USD, SOL 85,80 USD. AVAX weiter leicht ruecklaeufig auf 8,5325 USD (-3,15% seit Kauf), kein frischer bestaetigter Einzelkatalysator auffindbar - der NYSE/ICE-Tokenisierungs-Hype vom Wochenende ist weiter abgeklungen. US-/EU-Boersen nachts geschlossen, GOOGL bleibt unveraendert bei 288,11 USD (+1,64%).",
+    "decision": "Keine Aenderung (sechster Lauf des Tages). AVAX-Kurs auf 8,5325 USD aktualisiert (Coinbase Spot) - Position damit bei -3,15%, weiterhin klar innerhalb der neutralen Zone und weit von der Stop-Loss-Schwelle (-6,5 bis -7,5%) entfernt, kein Handlungsbedarf. GOOGL (+1,64%) unveraendert, da US-Boersen nachts geschlossen sind. Fuer einen Krypto-Neukauf fehlt weiterhin ein frischer, ueberzeugender Einzelkatalysator, kein Trade. Freies Kapital unveraendert (Tagesbudget bereits beim ersten Lauf des Tages gutgeschrieben).",
+    "reasoning": "AVAX-Preisaktualisierung gestuetzt auf Coinbase-Spot-API (BTC 74.488,77 USD, ETH 2.111,85 USD, SOL 85,795 USD, AVAX 8,5325 USD). CoinGecko war in diesem Lauf rate-limitiert, daher Coinbase als alternative Live-Quelle genutzt. Keine neue Schlagzeile zu AVAX/NYSE/ICE in dieser Stunde gefunden, daher weiterhin Einstufung als abklingendes Nachlaufmomentum ohne Handlungsbedarf. GOOGL bleibt ohne neue Informationen bei 288,11 USD, da die US-Boerse nachts geschlossen ist. Fuer einen Neukauf wurde kein frischer, mehrfach bestaetigter Einzelkatalysator gefunden.",
     "positionIds": [
       "pos-0031",
       "pos-0034"
     ],
-    "portfolioValueEnd": 1494.02,
+    "portfolioValueEnd": 1491.04,
     "updates": [
       {
         "time": "00:11",
@@ -12560,6 +12560,11 @@
         "time": "04:08",
         "note": "Keine Aenderung. AVAX weiter auf 8,57 USD zurueckgefallen (-2,72%), GOOGL unveraendert (+1,64%, Boerse nachts geschlossen). Kein frischer Katalysator fuer Neukauf, kein Trade.",
         "portfolioValue": 1494.02
+      },
+      {
+        "time": "05:10",
+        "note": "Keine Aenderung. AVAX-Kurs auf 8,5325 USD aktualisiert (Coinbase Spot, CoinGecko rate-limitiert), Position jetzt -3,15% statt zuvor -2,72%, weiterhin neutral. GOOGL unveraendert (+1,64%, Boerse nachts geschlossen). Kein Katalysator fuer Neukauf, kein Trade.",
+        "portfolioValue": 1491.04
       }
     ]
   }
