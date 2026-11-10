@@ -12527,9 +12527,9 @@
   },
   {
     "date": "2026-11-10",
-    "marketOverview": "Kryptomaerkte stabilisieren sich nach dem Supporttest bei ca. 73.700-74.000 USD: BTC notiert um 74.500-74.800 USD, ETH um 2.127 USD, beide nur leicht veraendert (F&G-Index zuletzt im Fear-Bereich, aktueller Stand widerspruechlich recherchierbar). US-Aktienmaerkte hatten am Montag (09.11.) laut Berichten eine deutliche Erholungsrally (Nasdaq +~3%) nach dem KI-Aktien-Ausverkauf vom 05.11., der Krypto-Markt folgte dieser Rally bislang nicht. Keine frischen, mehrfach bestaetigten Einzelkatalysator fuer GOOGL oder AVAX gefunden; Live-Kursquellen lieferten in diesem Lauf ungewoehnlich viele veraltete/widersprechende Preis-Snapshots.",
-    "decision": "Keine Aenderung. GOOGL (+1,64%, letzter Schlusskurs vom Vortag, US-Boersen nachts geschlossen) und AVAX (-3,52%, leicht zurueckgekommen auf 8,50 USD) liegen beide klar innerhalb der etablierten Zielspannen (Gewinnmitnahme ~7-9%, Stop-Loss ~-6,5 bis -7,5%) - kein Trade. Tagesbudget fuer den 10.11. wurde gutgeschrieben (freies Kapital jetzt ca. 95.686,51 EUR), aber ohne eine wirklich ueberzeugende, mehrfach bestaetigte Gelegenheit kein Neukauf.",
-    "reasoning": "Positionsbewertung: GOOGL unveraendert zum letzten bestaetigten US-Schlusskurs (Boersen vor 15:30 CET nicht handelbar). AVAX anhand einer expliziten Live-Quote (independentreserve.com, 8,50069 USD) aktualisiert, da die uebrigen Quellen (CoinGecko/Binance-Snapshots) stark veraltete/widerspruechliche Werte zwischen 6,50 und 41 USD lieferten. Keine der beiden Positionen hat eine Schwelle erreicht. Fuer einen Neukauf fehlte ein frischer, von mehreren unabhaengigen Quellen bestaetigter Katalysator; die einzigen auffaelligen Krypto-Bewegungen (Microcaps wie JCT +144%, PIEVERSE, edgeX, BNCOLD) sind duenn gehandelt und tragen hohes Pump-and-Dump-Risiko, daher bewusst kein spekulativer Einstieg trotz 'spekulativem' Risikoprofil.",
+    "marketOverview": "Kryptomarkt bleibt schwach/risikoavers: BTC notierte am Abend des 09.11. bei ca. 74.800-75.000 USD (Tagestief 73.708 USD, tiefster Stand seit rund zwei Monaten), ETH bei ca. 2.127-2.134 USD, nach ueber 1 Mrd. USD Liquidationen und anhaltenden Spot-ETF-Abfluessen (BTC -1,28 Mrd., ETH -365 Mio. USD letzte Woche). Belastend wirken Sorgen vor einer restriktiveren Krypto-Regulierung nach dem demokratischen Kongress-Sieg bei den Midterms sowie der Nachwirkungen des KI-/Chip-Sektor-Ausverkaufs. US-Aktienmaerkte erholten sich am 09.11. deutlich (Nasdaq +~3%), die Erholung wurde vom Kryptomarkt bislang nicht mitgetragen. Live-Preisquellen fuer AVAX lieferten in diesem Lauf erneut stark widersprechende Snapshots (Spanne 6,50-41 USD je nach Quelle/Datum), daher keine belastbare Aktualisierung moeglich.",
+    "decision": "Keine Aenderung (zweiter Lauf des Tages). GOOGL (+1,64%) und AVAX (-3,52%) liegen weiterhin klar innerhalb der etablierten Zielspannen (Gewinnmitnahme ~7-9%, Stop-Loss ~-6,5 bis -7,5%) - kein Trade. US-/EU-Boersen sind nachts geschlossen, GOOGL daher ohnehin nicht handelbar. Fuer einen Krypto-Neukauf fehlte erneut ein frischer, mehrfach unabhaengig bestaetigter Katalysator; der Kryptomarkt bleibt insgesamt risikoavers nach dem Ausverkauf vom 05.-09.11. Freies Kapital unveraendert bei ca. 95.686,51 EUR (Tagesbudget wurde bereits beim ersten Lauf des Tages gutgeschrieben).",
+    "reasoning": "Positionsbewertung unveraendert zum letzten Lauf (00:11): GOOGL als letzter bestaetigter US-Schlusskurs (Boerse vor 15:30 CET geschlossen), AVAX mangels verlaesslicher neuer Live-Quote (massiv widersprechende Snapshots zwischen 6,50 und 41 USD) ebenfalls unveraendert bei 8,50 USD gelassen, um keine Fehlentscheidung auf Basis unzuverlaessiger Daten zu treffen. Keine der beiden Positionen hat eine Schwelle erreicht. Der allgemeine Marktueberblick (BTC ~74.800-75.000 USD, breites Risk-off nach Midterms/KI-Sektor-Sorgen) bestaetigt die bereits im ersten Lauf getroffene Einschaetzung; kein neuer, ueberzeugender Trade-Anlass.",
     "positionIds": [
       "pos-0031",
       "pos-0034"
@@ -12539,6 +12539,11 @@
       {
         "time": "00:11",
         "note": "Neuer Tag: Tagesbudget 1.000 EUR gutgeschrieben (freies Kapital jetzt ca. 95.686,51 EUR). GOOGL unveraendert (+1,64%, US-Boersen nachts geschlossen), AVAX leicht zurueckgekommen auf 8,50 USD (-3,52%). Krypto-Live-Daten in diesem Lauf ungewoehnlich widerspruechlich/veraltet, kein bestaetigter Katalysator gefunden - kein Trade.",
+        "portfolioValue": 1488.46
+      },
+      {
+        "time": "01:09",
+        "note": "Keine Aenderung. GOOGL (+1,64%) und AVAX (-3,52%) weiterhin innerhalb der Zielspannen, kein Trade. Boersen nachts geschlossen; Krypto-Live-Daten erneut widersprechend, keine Aktualisierung der AVAX-Preise. Freies Kapital unveraendert ca. 95.686,51 EUR.",
         "portfolioValue": 1488.46
       }
     ]
