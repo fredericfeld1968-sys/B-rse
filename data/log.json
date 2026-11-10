@@ -12527,14 +12527,14 @@
   },
   {
     "date": "2026-11-10",
-    "marketOverview": "US-Boersen weiter offen, GOOGL laut StockAnalysis.com live auf 287,20 USD (-0,33% zum Vortagesschluss, Snapshot 12:08 EST), damit leicht schwaecher als beim letzten Lauf (288,20 USD). Kryptomarkt bleibt breit und synchron schwach bis schwaecher: BTC laut CoinGecko 72.822 USD (-2,67% 24h), ETH 2.014,75 USD (-5,26%), SOL 81,80 USD (-5,76%), AVAX 8,15 USD (-6,48%), XRP 1,043 USD (-4,83%), DOGE 0,0669 USD (-4,46%) - weiterhin kein einzeltitelspezifischer Katalysator, sondern anhaltender Risk-off-Ton im Nachgang der AI-/Tech-Korrektur vom 05.11., keine Anzeichen einer Stabilisierung oder Erholung.",
-    "decision": "Verkauf AVAX (pos-0034) per Stop-Loss bei -6,81% (8,81 -> 8,21 USD), passend zur etablierten Stop-Loss-Schwelle (-6,5% bis -7,5%) und ohne erkennbaren Gegenkatalysator bei breiter Kryptoschwaeche. GOOGL zuletzt auf 287,20 USD aktualisiert (+1,32% statt zuvor +1,67%), bleibt offen. Freies Kapital durch den Verkauf auf ca. 96.338,84 EUR gestiegen (zuvor 95.686,51 EUR); keine neue Position eroeffnet, da der Kryptomarkt insgesamt weiterhin zu schwach/richtungslos fuer eine ueberzeugende neue Gelegenheit ist und bei Aktien/ETFs/Rohstoffen kein klarer Impuls vorliegt.",
-    "reasoning": "Live-Preisabgleich: GOOGL via StockAnalysis.com (Markt offen), BTC/ETH/SOL/AVAX/XRP/DOGE via CoinGecko-API. AVAX erreichte mit -6,81% seit Kauf die seit Monaten konsequent angewendete Stop-Loss-Schwelle dieses Portfolios; der urspruengliche NYSE/ICE-Tokenisierungs-Ausbruchskatalysator hat sich nicht fortgesetzt, stattdessen fiel AVAX im Gleichschritt mit einem breiten, synchronen Kryptoabverkauf. GOOGL bleibt innerhalb der neutralen Zone, kein Handlungsbedarf. Der Kryptomarkt bleibt im aktuellen Lauf weiterhin breit schwach (BTC/ETH/SOL/AVAX/XRP/DOGE allesamt zwischen -2,7% und -6,5% in 24h) ohne erkennbaren Reversal-Katalysator; Aktienmarkt insgesamt unauffaellig. Fuer einen Neukauf fehlt eine wirklich ueberzeugende Gelegenheit in diesem Lauf.",
+    "marketOverview": "Breite Risk-off-Stimmung am Abend: Kryptomarkt bleibt klar schwach ohne Reversal-Signal (BTC ca. 73.300 USD, -1,98% 24h; ETH -4,63%; SOL -5,16%; AVAX -4,31%; XRP -3,64%), ohne dass ein frischer, konkreter Negativkatalysator identifizierbar waere - eher fortgesetzte Konsolidierung nach der jüngsten Schwächephase. An den US-Aktienmärkten (regulärer Handel, NASDAQ offen) notiert Alphabet (GOOGL) bei 285,87 USD leicht schwächer (-0,79% zum Vortagesschluss 288,15 USD), keine neuen markanten Einzeltitel-Bewegungen oder Makro-Katalysatoren identifiziert.",
+    "decision": "Verkauf AVAX (pos-0034) per Stop-Loss bei -6,81% (8,81 -> 8,21 USD), passend zur etablierten Stop-Loss-Schwelle (-6,5% bis -7,5%) und ohne erkennbaren Gegenkatalysator bei breiter Kryptoschwaeche. GOOGL zuletzt auf 287,20 USD aktualisiert (+1,32% statt zuvor +1,67%), bleibt offen. Freies Kapital durch den Verkauf auf ca. 96.338,84 EUR gestiegen (zuvor 95.686,51 EUR); keine neue Position eroeffnet, da der Kryptomarkt insgesamt weiterhin zu schwach/richtungslos fuer eine ueberzeugende neue Gelegenheit ist und bei Aktien/ETFs/Rohstoffen kein klarer Impuls vorliegt. | 19:08: Keine Aenderung - GOOGL-Position gehalten (+0,85% seit Kauf, deutlich unter Gewinnmitnahme-/Stop-Loss-Schwellen), Kryptomarkt bleibt breit schwach ohne ueberzeugende neue Kauf-Gelegenheit.",
+    "reasoning": "GOOGL (pos-0031) notiert bei +0,85% seit Kauf - weder die etablierte Gewinnmitnahme-Zielspanne (7-9%) noch die Stop-Loss-Schwelle (-6,5% bis -7,5%) ist erreicht, daher Position unveraendert gehalten. Keine neue Position eroeffnet: Kryptomarkt zeigt ueber alle wichtigen Coins hinweg anhaltende, aber nicht eskalierende Schwaeche (-2% bis -5%) ohne klaren Umkehr- oder Kapitulationspunkt, und es wurden keine ueberzeugenden einzeltitelspezifischen Katalysatoren (Earnings-Ueberraschung, Geopolitik, Rohstoff-Schock) gefunden, die eine neue spekulative Position rechtfertigen wuerden.",
     "positionIds": [
       "pos-0031",
       "pos-0034"
     ],
-    "portfolioValueEnd": 810.53,
+    "portfolioValueEnd": 806.77,
     "updates": [
       {
         "time": "00:11",
@@ -12625,6 +12625,11 @@
         "time": "18:09",
         "note": "Keine Aenderung. GOOGL auf 287,20 USD aktualisiert (+1,32% statt +1,67%), Kryptomarkt weiterhin breit schwach (BTC -2,67%, ETH -5,26%, SOL -5,76%, AVAX -6,48%, XRP -4,83%, DOGE -4,46% in 24h) ohne Reversal-Signal. Keine ueberzeugende Gelegenheit, kein Trade.",
         "portfolioValue": 810.53
+      },
+      {
+        "time": "19:08",
+        "note": "Keine Aenderung, GOOGL aktualisiert (+0,85%), Kryptomarkt weiter breit schwach ohne Reversal",
+        "portfolioValue": 806.77
       }
     ]
   }
