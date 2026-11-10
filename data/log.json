@@ -12527,14 +12527,14 @@
   },
   {
     "date": "2026-11-10",
-    "marketOverview": "US-Oktober-CPI wurde um 14:30 CET veroeffentlicht: +0,3% zum Vormonat, in Linie mit den Erwartungen (mehrfach bestaetigt: RTTNews, Stocktwits/Fed-Gouverneur Kashkari - 'CPI heading in right direction'). Keine grosse Ueberraschung, daher kein starker Marktimpuls erwartet. Kryptomarkt weiterhin schwach: AVAX laut CoinGecko-API auf 8,30 USD gefallen (-6,34% in 24h), BTC 73.810 USD (-0,87%), ETH 2.066,63 USD (-2,38%), SOL 84,14 USD (-2,88%), XRP 1,063 USD (-2,71%). GOOGL laut Yahoo-Finance-API weiterhin auf letztem Schlusskurs 288,15 USD (+1,65% seit Kauf), US-Boersen oeffnen erst um 15:30 CET (in Kuerze).",
-    "decision": "Keine Aenderung (fuenfzehnter Lauf des Tages). AVAX-Position auf 8,30 USD aktualisiert (-5,79%, leicht schwaecher als im letzten Lauf), GOOGL unveraendert auf 288,15 USD (+1,65%, Boerse noch nicht eroeffnet). Das in-line ausgefallene CPI-Ergebnis bietet keinen ueberzeugenden neuen Handelsimpuls. Freies Kapital unveraendert bei ca. 95.686,51 EUR (Tagesbudget bereits beim ersten Lauf des Tages gutgeschrieben).",
-    "reasoning": "Preisabgleich gestuetzt auf CoinGecko-API (AVAX, BTC, ETH, SOL, XRP) und Yahoo-Finance-API (GOOGL). WebSearch zur US-Oktober-CPI ergab ein in-line Ergebnis (+0,3% MoM), das laut mehreren Quellen (RTTNews, Stocktwits) keine grosse Ueberraschung darstellt - einige Suchtreffer zu Markt-/Fed-Reaktionen waren widersprechend oder nicht eindeutig auf heute datiert und wurden daher nicht als Handelsgrundlage verwendet. AVAX naehert sich mit -5,79% der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%), hat sie aber noch nicht erreicht - Position wird daher weiter gehalten. US-Aktien/ETFs/Rohstoffe sind weiterhin (Markteroeffnung erst 15:30 CET) nicht handelbar; der Kryptomarkt bietet keine ueberzeugende neue Gelegenheit. Bewusst kein Trade in diesem Lauf.",
+    "marketOverview": "US-Boersen seit 15:30 CET (9:30 ET) geoeffnet. GOOGL laut StockAnalysis.com live auf 289,99 USD (+0,64% zum Vortagesschluss von 288,15 USD, Tagesrange 287,22-290,66 USD) - moderat fester nach dem in-line ausgefallenen Oktober-CPI (+0,3% MoM). Kryptomarkt weiterhin schwach bis seitwaerts: AVAX laut CoinGecko-API auf 8,37 USD (-6,40% in 24h), BTC 74.526 USD (-0,50%), ETH 2.082,25 USD (-2,17%), SOL 84,70 USD (-2,85%), XRP 1,064 USD (-3,11%). Hintergrund bleibt die seit dem 05.11. laufende AI-/Tech-Korrektur (Nasdaq zeitweise >10% unter Oktober-Hoch), die sich am 09.11. mit einer Erholung (+0,8-1,2%) etwas entspannt hat; CoreWeave-Zahlen stehen nach US-Handelsschluss an, Nvidia erst am 17.11.",
+    "decision": "Keine Aenderung (sechzehnter Lauf des Tages, erster nach Markteroeffnung). GOOGL auf 289,99 USD aktualisiert (+2,30% seit Kauf statt zuvor +1,65%), AVAX auf 8,37 USD aktualisiert (-4,99% statt zuvor -5,79%, damit vom Stop-Loss-Bereich wieder etwas entfernt). Kein Kurs erreicht eine Stop-Loss- oder Gewinnmitnahme-Schwelle. Das in-line CPI-Ergebnis und die insgesamt noch unsichere, nervoese Markt- und Krypto-Lage nach der AI-Korrektur bieten keine wirklich ueberzeugende neue Kaufgelegenheit. Freies Kapital unveraendert bei ca. 95.686,51 EUR (Tagesbudget bereits beim ersten Lauf des Tages gutgeschrieben).",
+    "reasoning": "Live-Preisabgleich: GOOGL via StockAnalysis.com (Markt seit 15:30 CET offen, Snapshot 10:11 EST), AVAX/BTC/ETH/SOL/XRP via CoinGecko-API. WebSearch zur allgemeinen Marktlage bestaetigt ein in-line CPI-Ergebnis ohne grossen Impuls sowie eine fortgesetzt fragile, aber nicht mehr akut panische AI-/Tech-Stimmung nach dem Ausverkauf vom 05.11. und der Erholung vom 09.11. Keine der beiden offenen Positionen hat eine Handlungsschwelle erreicht; fuer einen Neukauf fehlt angesichts der widerspruechlichen, nicht eindeutig richtungsweisenden Nachrichtenlage (CPI in-line, Krypto schwach, Tech-Sektor nervoes vor CoreWeave-/Nvidia-Zahlen) eine wirklich ueberzeugende Gelegenheit. Bewusst kein Trade in diesem Lauf.",
     "positionIds": [
       "pos-0031",
       "pos-0034"
     ],
-    "portfolioValueEnd": 1472.69,
+    "portfolioValueEnd": 1483.44,
     "updates": [
       {
         "time": "00:11",
@@ -12610,6 +12610,11 @@
         "time": "15:13",
         "note": "Keine Aenderung. US-CPI (Oktober) um 14:30 CET veroeffentlicht: +0,3% MoM, in Linie mit Erwartungen, kein grosser Marktimpuls. AVAX auf 8,30 USD aktualisiert (-5,79%, naehert sich Stop-Loss-Schwelle), GOOGL unveraendert (+1,65%, Boerse eroeffnet erst 15:30 CET). Kein Trade.",
         "portfolioValue": 1472.69
+      },
+      {
+        "time": "16:10",
+        "note": "Keine Aenderung. Erster Lauf nach Markteroeffnung (15:30 CET): GOOGL auf 289,99 USD aktualisiert (+2,30% statt +1,65%), AVAX auf 8,37 USD aktualisiert (-4,99% statt -5,79%, vom Stop-Loss entfernt). CPI in-line, keine ueberzeugende neue Gelegenheit, kein Trade.",
+        "portfolioValue": 1483.44
       }
     ]
   }
