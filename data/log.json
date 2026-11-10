@@ -12527,14 +12527,14 @@
   },
   {
     "date": "2026-11-10",
-    "marketOverview": "Kryptomarkt insgesamt nahezu unveraendert ggue. dem letzten Lauf: BTC laut CoinGecko-Live-API bei ca. 74.711 USD (+0,2% 24h), ETH bei 2.121,40 USD (-0,54%), SOL 86,13 USD (-1,13%), XRP 1,094 USD (-0,81%), ADA 0,1787 USD (+1,83%). AVAX notiert unveraendert bei 8,57 USD - kein frischer, mehrfach bestaetigter Einzelkatalysator auffindbar. US-/EU-Boersen befinden sich vor Handelsbeginn (Pre-Market), GOOGL bleibt daher unveraendert bei 288,11 USD (+1,64%).",
-    "decision": "Keine Aenderung (sechster Lauf des Tages). AVAX-Position unveraendert bei -2,72% (8,57 USD), GOOGL unveraendert bei +1,64% (Boerse vor Handelsbeginn) - beide klar innerhalb der neutralen Zone, kein Handlungsbedarf. Fuer einen Krypto-Neukauf fehlt weiterhin ein frischer, ueberzeugender Einzelkatalysator - Markt insgesamt nahezu flach, kein Trade. Freies Kapital unveraendert bei ca. 95.686,51 EUR (Tagesbudget bereits beim ersten Lauf des Tages gutgeschrieben).",
-    "reasoning": "Preisabgleich gestuetzt auf CoinGecko-Live-API (BTC 74.711 USD, ETH 2.121,40 USD, AVAX 8,57 USD, SOL 86,13 USD, XRP 1,094 USD, ADA 0,1787 USD) - keine Kursaenderung bei AVAX ggue. dem letzten Lauf, daher Portfolio-Werte unveraendert. Web-Recherche zu Krypto- und Aktienmarkt lieferte keine aktuell datierten, frischen Einzelkatalysator-Meldungen fuer AVAX oder GOOGL. US-Boerse oeffnet erst um 15:30 CET, daher kein Aktienhandel moeglich und GOOGL bleibt unveraendert.",
+    "marketOverview": "Kryptomarkt erneut nahezu unveraendert ggue. den letzten Laeufen: BTC laut Kraken-Live-API bei ca. 74.617 USD (-0,84% 24h), ETH bei 2.116,95 USD (-0,71%), SOL 85,91 USD (-0,82%), XRP 1,097 USD (-0,08%), ADA 0,1785 USD (+0,72%). AVAX leicht nachgegeben auf 8,54 USD (vorher 8,57 USD) - weiterhin kein frischer Einzelkatalysator, die NYSE/ICE-Tokenisierungs-Meldung ist bereits mehrere Wochen alt und eingepreist. US-/EU-Boersen oeffnen erst um 9:00 bzw. 15:30 CET, GOOGL bleibt daher vor Handelsbeginn unveraendert bei 288,11 USD.",
+    "decision": "Keine Aenderung (siebter Lauf des Tages). AVAX-Position leicht auf -3,06% aktualisiert (8,54 USD), GOOGL unveraendert bei +1,64% (Boerse vor Handelsbeginn) - beide innerhalb der neutralen Zone, kein Handlungsbedarf. Kein ueberzeugender neuer Einzelkatalysator fuer einen Krypto-Neukauf gefunden, Markt insgesamt flach bis leicht schwaecher, kein Trade. Freies Kapital unveraendert bei ca. 95.686,51 EUR (Tagesbudget bereits beim ersten Lauf des Tages gutgeschrieben).",
+    "reasoning": "Preisabgleich gestuetzt auf Kraken-Live-API (BTC 74.617 USD, ETH 2.116,95 USD, AVAX 8,54 USD, SOL 85,91 USD, XRP 1,0966 USD, ADA 0,1785 USD), da CoinGecko-API aktuell rate-limitiert war. AVAX-Kurs leicht ruecklaeufig ggue. letztem Lauf (8,57 -> 8,54 USD), kein frischer Katalysator. Web-Recherche zu Krypto-, Aktien- und Rohstoffmaerkten sowie Geopolitik lieferte keine aktuell datierten, neuen Einzelmeldungen - die NYSE/ICE-Avalanche-Tokenisierungsnews stammt noch von September und ist bereits eingepreist. US-Boerse oeffnet erst um 15:30 CET, EU-Boersen (Xetra) erst um 9:00 CET, daher aktuell (07:12 CET) kein Aktienhandel moeglich und GOOGL bleibt unveraendert.",
     "positionIds": [
       "pos-0031",
       "pos-0034"
     ],
-    "portfolioValueEnd": 1494.02,
+    "portfolioValueEnd": 1491.64,
     "updates": [
       {
         "time": "00:11",
@@ -12565,6 +12565,11 @@
         "time": "06:08",
         "note": "Keine Aenderung. AVAX (CoinGecko live 8,57 USD) unveraendert ggue. letztem Lauf, Position weiterhin bei -2,72% - kein frischer Katalysator gefunden (BTC +0,2%, ETH -0,5%, SOL -1,1%, breiter Krypto-Markt nahezu flach). GOOGL unveraendert (+1,64%), US-Boerse vor Handelsbeginn (Pre-Market), daher kein Aktienhandel moeglich. Kein Trade.",
         "portfolioValue": 1494.02
+      },
+      {
+        "time": "07:12",
+        "note": "Keine Aenderung. AVAX leicht zurueckgegangen auf 8,54 USD (-3,06%, Kraken-API, CoinGecko rate-limitiert), GOOGL unveraendert (+1,64%, EU/US-Boersen noch vor Handelsbeginn). Kein frischer Katalysator gefunden, kein Trade.",
+        "portfolioValue": 1491.64
       }
     ]
   }
