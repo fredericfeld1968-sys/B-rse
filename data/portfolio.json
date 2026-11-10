@@ -570,10 +570,10 @@
     "reasoning": "Bestaetigter technischer Ausbruch: AVAX bewegte sich die letzten 24h ueberwiegend seitwaerts (ca. 7,8-8,2 USD), sprang aber in den letzten gut zwei Stunden deutlich auf aktuell 8,81 USD (CoinGecko live, +8% 24h) - von 8,08 USD um 12:20 UTC auf 8,51 USD um 13:20 UTC auf jetzt 8,81 USD, also eine klare Beschleunigung statt blossem Rauschen. AVAX bewegt sich damit bereits seit mehreren Stunden isoliert staerker als der restliche, insgesamt schwache Kryptomarkt (BTC -1,9%, ETH -5,3%, XRP -5,7%, SOL -2,9%), was auf eigenstaendiges Momentum statt reiner Beta hindeutet. Begleitender Katalysator: ein aktueller Coinpaper-Artikel verknuepft die Bewegung mit der NYSE/ICE-Tokenisierungs-Debatte um Avalanche (NYSE/ICE testet seit September Avalanche als Basis fuer eine 24/7-Handelsplattform fuer tokenisierte Wertpapiere), die aktuell wieder Aufmerksamkeit erhaelt. Analog zum bereits erfolgreichen AVAX/NYSE-ICE-Trade vom 20.09.2026 (+12,59%). Da Aktien/ETFs/Rohstoffe aktuell noch vor Handelsbeginn (ab 15:30 CET) nicht handelbar sind, spekulative kurzfristige Momentum-Position in Krypto passend zum Risikoprofil.",
     "status": "open",
     "buyPrice": 8.81,
-    "currentPrice": 8.5,
-    "currentValue": 675.37,
-    "profitLoss": -24.63,
-    "profitLossPct": -3.52,
+    "currentPrice": 8.86,
+    "currentValue": 703.97,
+    "profitLoss": 3.97,
+    "profitLossPct": 0.57,
     "closedDate": null,
     "closeReasoning": null
   }

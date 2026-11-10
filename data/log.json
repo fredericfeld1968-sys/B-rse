@@ -12527,14 +12527,14 @@
   },
   {
     "date": "2026-11-10",
-    "marketOverview": "Kryptomarkt bleibt schwach/risikoavers: BTC notierte am Abend des 09.11. bei ca. 74.800-75.000 USD (Tagestief 73.708 USD, tiefster Stand seit rund zwei Monaten), ETH bei ca. 2.127-2.134 USD, nach ueber 1 Mrd. USD Liquidationen und anhaltenden Spot-ETF-Abfluessen (BTC -1,28 Mrd., ETH -365 Mio. USD letzte Woche). Belastend wirken Sorgen vor einer restriktiveren Krypto-Regulierung nach dem demokratischen Kongress-Sieg bei den Midterms sowie der Nachwirkungen des KI-/Chip-Sektor-Ausverkaufs. US-Aktienmaerkte erholten sich am 09.11. deutlich (Nasdaq +~3%), die Erholung wurde vom Kryptomarkt bislang nicht mitgetragen. Live-Preisquellen fuer AVAX lieferten in diesem Lauf erneut stark widersprechende Snapshots (Spanne 6,50-41 USD je nach Quelle/Datum), daher keine belastbare Aktualisierung moeglich.",
-    "decision": "Keine Aenderung (zweiter Lauf des Tages). GOOGL (+1,64%) und AVAX (-3,52%) liegen weiterhin klar innerhalb der etablierten Zielspannen (Gewinnmitnahme ~7-9%, Stop-Loss ~-6,5 bis -7,5%) - kein Trade. US-/EU-Boersen sind nachts geschlossen, GOOGL daher ohnehin nicht handelbar. Fuer einen Krypto-Neukauf fehlte erneut ein frischer, mehrfach unabhaengig bestaetigter Katalysator; der Kryptomarkt bleibt insgesamt risikoavers nach dem Ausverkauf vom 05.-09.11. Freies Kapital unveraendert bei ca. 95.686,51 EUR (Tagesbudget wurde bereits beim ersten Lauf des Tages gutgeschrieben).",
-    "reasoning": "Positionsbewertung unveraendert zum letzten Lauf (00:11): GOOGL als letzter bestaetigter US-Schlusskurs (Boerse vor 15:30 CET geschlossen), AVAX mangels verlaesslicher neuer Live-Quote (massiv widersprechende Snapshots zwischen 6,50 und 41 USD) ebenfalls unveraendert bei 8,50 USD gelassen, um keine Fehlentscheidung auf Basis unzuverlaessiger Daten zu treffen. Keine der beiden Positionen hat eine Schwelle erreicht. Der allgemeine Marktueberblick (BTC ~74.800-75.000 USD, breites Risk-off nach Midterms/KI-Sektor-Sorgen) bestaetigt die bereits im ersten Lauf getroffene Einschaetzung; kein neuer, ueberzeugender Trade-Anlass.",
+    "marketOverview": "Kryptomarkt bleibt gemischt/leicht risikoavers: BTC notiert laut mehreren Quellen (Fortune, Tech Insider, Coinalyze-Futures) weiterhin im Bereich 75.000-76.000 USD, nachdem spot-BTC/ETH-ETFs in der zweiten Woche in Folge insgesamt rund 1,3 Mrd. USD Abflüsse verzeichneten (Nasdaq). Positiver Einzelwert bleibt AVAX: Der NYSE/ICE-Tokenisierungs-Deal vom 09.11. (Avalanche als Kern-Ledger für die geplante 24/7-Handelsplattform für tokenisierte Aktien) wird von CoinDesk, Cointelegraph, 24/7 Wall St. und The Coin Republic übereinstimmend bestätigt; AVAX sprang zunächst bis zu +10% und pendelte sich bei ca. 8,86 USD ein (weiterhin +8% auf 24h), zusätzlich hat Charles Schwab AVAX und SOL für den Handel über Schwab-Crypto-Konten freigegeben. US-/EU-Börsen sind nachts geschlossen, GOOGL daher nicht handelbar.",
+    "decision": "Keine Aenderung (dritter Lauf des Tages). AVAX-Kurs auf 8,86 USD aktualisiert (mehrfach unabhängig bestätigt über den NYSE/ICE-Tokenisierungs-Katalysator vom Vortag: CoinDesk, Cointelegraph, 24/7 Wall St., The Coin Republic) - Position bewegt sich damit von -3,52% auf +0,57%, bleibt aber klar innerhalb der neutralen Zone, kein Trade-Anlass. GOOGL (+1,64%) unveraendert, da US-Boersen nachts geschlossen sind. Fuer einen Krypto-Neukauf fehlt weiterhin ein frischer, ueberzeugender Einzelkatalysator ausserhalb von AVAX (das bereits gehalten wird); BTC/ETH-ETF-Abfluesse (-1,3 Mrd. USD zweite Woche in Folge) sprechen eher gegen eine breite Krypto-Long-Position. Freies Kapital unveraendert bei ca. 95.686,51 EUR (Tagesbudget bereits beim ersten Lauf des Tages gutgeschrieben).",
+    "reasoning": "AVAX-Preisaktualisierung gestuetzt auf vier unabhaengige, uebereinstimmende Quellen vom 09.11. (CoinDesk, Cointelegraph, 24/7 Wall St., The Coin Republic), die den NYSE/ICE-Tokenisierungs-Katalysator sowie einen Preis von ca. 8,86-8,87 USD (CoinGecko/Coinbase) bestaetigen - deutlich verlaesslicher als die widersprechenden Snapshots im letzten Lauf. Trotz der Verbesserung bleibt AVAX (+0,57%) weit von der Gewinnmitnahme-Schwelle (~7-9%) entfernt, Stop-Loss (~-6,5 bis -7,5%) ohnehin nicht relevant. GOOGL bleibt ohne neue Informationen bei 288,11 USD (letzter bestaetigter Stand), da die US-Boerse nachts geschlossen ist. Fuer einen Neukauf wurde kein frischer, mehrfach bestaetigter Einzelkatalysator gefunden; der allgemeine Krypto-Marktueberblick (anhaltende ETF-Abfluesse, BTC im 75.000-76.000-Bereich) liefert keinen ueberzeugenden Einstiegsgrund fuer eine neue Position.",
     "positionIds": [
       "pos-0031",
       "pos-0034"
     ],
-    "portfolioValueEnd": 1488.46,
+    "portfolioValueEnd": 1517.06,
     "updates": [
       {
         "time": "00:11",
@@ -12545,6 +12545,11 @@
         "time": "01:09",
         "note": "Keine Aenderung. GOOGL (+1,64%) und AVAX (-3,52%) weiterhin innerhalb der Zielspannen, kein Trade. Boersen nachts geschlossen; Krypto-Live-Daten erneut widersprechend, keine Aktualisierung der AVAX-Preise. Freies Kapital unveraendert ca. 95.686,51 EUR.",
         "portfolioValue": 1488.46
+      },
+      {
+        "time": "02:10",
+        "note": "Keine Aenderung. AVAX-Kurs auf 8,86 USD aktualisiert (NYSE/ICE-Tokenisierungs-Rally vom Vortag, mehrfach bestaetigt), Position jetzt +0,57% statt -3,52% - weiterhin innerhalb der neutralen Zone, kein Trade. GOOGL unveraendert (+1,64%, Boerse nachts geschlossen). Freies Kapital unveraendert ca. 95.686,51 EUR.",
+        "portfolioValue": 1517.06
       }
     ]
   }
