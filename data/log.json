@@ -12527,9 +12527,9 @@
   },
   {
     "date": "2026-11-10",
-    "marketOverview": "Kryptomarkt weiterhin leicht risikoavers und uneinheitlich: BTC laut CoinGecko-Live-API bei ca. 74.728 USD (-0,47% 24h), ETH bei 2.119,71 USD (-1,07%), SOL -1,75%, XRP -1,29%, ADA +0,21%. AVAX zeigt laut API zwar +6,8% 24h, notiert aber aktuell bei 8,57 USD und damit weiter unter dem Einstiegsniveau von 8,81 USD - keine frische, mehrfach bestaetigte Nachricht zu AVAX auffindbar, der gestrige NYSE/ICE-Tokenisierungs-Hype hat sich offenbar bereits wieder abgekuehlt. US-/EU-Boersen sind nachts geschlossen, GOOGL bleibt daher unveraendert bei 288,11 USD (+1,64%).",
-    "decision": "Keine Aenderung (fuenfter Lauf des Tages). AVAX-Kurs auf 8,57 USD aktualisiert (CoinGecko live) - Position damit bei -2,72% statt zuvor -1,59%, aber weiterhin klar innerhalb der neutralen Zone und weit von der Stop-Loss-Schwelle (-6,5 bis -7,5%) entfernt, kein Handlungsbedarf. GOOGL (+1,64%) unveraendert, da US-Boersen nachts geschlossen sind. Fuer einen Krypto-Neukauf fehlt weiterhin ein frischer, ueberzeugender Einzelkatalysator - der breite Markt bleibt leicht risikoavers, kein Trade. Freies Kapital unveraendert bei ca. 95.686,51 EUR (Tagesbudget bereits beim ersten Lauf des Tages gutgeschrieben).",
-    "reasoning": "AVAX-Preisaktualisierung gestuetzt auf CoinGecko-Live-API (74.728 USD BTC, 8,57 USD AVAX). Trotz der von der API ausgewiesenen +6,8% 24h-Aenderung liegt der aktuelle Kurs unter dem gestrigen Niveau (8,67 USD) und unter dem Einstiegspreis - keine neue Schlagzeile zu AVAX/NYSE/ICE in dieser Stunde gefunden, daher Einstufung als abklingendes Nachlaufmomentum ohne Handlungsbedarf. GOOGL bleibt ohne neue Informationen bei 288,11 USD, da die US-Boerse nachts geschlossen ist. Fuer einen Neukauf wurde kein frischer, mehrfach bestaetigter Einzelkatalysator gefunden.",
+    "marketOverview": "Kryptomarkt insgesamt nahezu unveraendert ggue. dem letzten Lauf: BTC laut CoinGecko-Live-API bei ca. 74.711 USD (+0,2% 24h), ETH bei 2.121,40 USD (-0,54%), SOL 86,13 USD (-1,13%), XRP 1,094 USD (-0,81%), ADA 0,1787 USD (+1,83%). AVAX notiert unveraendert bei 8,57 USD - kein frischer, mehrfach bestaetigter Einzelkatalysator auffindbar. US-/EU-Boersen befinden sich vor Handelsbeginn (Pre-Market), GOOGL bleibt daher unveraendert bei 288,11 USD (+1,64%).",
+    "decision": "Keine Aenderung (sechster Lauf des Tages). AVAX-Position unveraendert bei -2,72% (8,57 USD), GOOGL unveraendert bei +1,64% (Boerse vor Handelsbeginn) - beide klar innerhalb der neutralen Zone, kein Handlungsbedarf. Fuer einen Krypto-Neukauf fehlt weiterhin ein frischer, ueberzeugender Einzelkatalysator - Markt insgesamt nahezu flach, kein Trade. Freies Kapital unveraendert bei ca. 95.686,51 EUR (Tagesbudget bereits beim ersten Lauf des Tages gutgeschrieben).",
+    "reasoning": "Preisabgleich gestuetzt auf CoinGecko-Live-API (BTC 74.711 USD, ETH 2.121,40 USD, AVAX 8,57 USD, SOL 86,13 USD, XRP 1,094 USD, ADA 0,1787 USD) - keine Kursaenderung bei AVAX ggue. dem letzten Lauf, daher Portfolio-Werte unveraendert. Web-Recherche zu Krypto- und Aktienmarkt lieferte keine aktuell datierten, frischen Einzelkatalysator-Meldungen fuer AVAX oder GOOGL. US-Boerse oeffnet erst um 15:30 CET, daher kein Aktienhandel moeglich und GOOGL bleibt unveraendert.",
     "positionIds": [
       "pos-0031",
       "pos-0034"
@@ -12559,6 +12559,11 @@
       {
         "time": "04:08",
         "note": "Keine Aenderung. AVAX weiter auf 8,57 USD zurueckgefallen (-2,72%), GOOGL unveraendert (+1,64%, Boerse nachts geschlossen). Kein frischer Katalysator fuer Neukauf, kein Trade.",
+        "portfolioValue": 1494.02
+      },
+      {
+        "time": "06:08",
+        "note": "Keine Aenderung. AVAX (CoinGecko live 8,57 USD) unveraendert ggue. letztem Lauf, Position weiterhin bei -2,72% - kein frischer Katalysator gefunden (BTC +0,2%, ETH -0,5%, SOL -1,1%, breiter Krypto-Markt nahezu flach). GOOGL unveraendert (+1,64%), US-Boerse vor Handelsbeginn (Pre-Market), daher kein Aktienhandel moeglich. Kein Trade.",
         "portfolioValue": 1494.02
       }
     ]
