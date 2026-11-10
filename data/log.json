@@ -12527,14 +12527,14 @@
   },
   {
     "date": "2026-11-10",
-    "marketOverview": "Breite Risk-off-Stimmung am Abend: Kryptomarkt bleibt klar schwach ohne Reversal-Signal (BTC ca. 73.300 USD, -1,98% 24h; ETH -4,63%; SOL -5,16%; AVAX -4,31%; XRP -3,64%), ohne dass ein frischer, konkreter Negativkatalysator identifizierbar waere - eher fortgesetzte Konsolidierung nach der jüngsten Schwächephase. An den US-Aktienmärkten (regulärer Handel, NASDAQ offen) notiert Alphabet (GOOGL) bei 285,87 USD leicht schwächer (-0,79% zum Vortagesschluss 288,15 USD), keine neuen markanten Einzeltitel-Bewegungen oder Makro-Katalysatoren identifiziert.",
-    "decision": "Verkauf AVAX (pos-0034) per Stop-Loss bei -6,81% (8,81 -> 8,21 USD), passend zur etablierten Stop-Loss-Schwelle (-6,5% bis -7,5%) und ohne erkennbaren Gegenkatalysator bei breiter Kryptoschwaeche. GOOGL zuletzt auf 287,20 USD aktualisiert (+1,32% statt zuvor +1,67%), bleibt offen. Freies Kapital durch den Verkauf auf ca. 96.338,84 EUR gestiegen (zuvor 95.686,51 EUR); keine neue Position eroeffnet, da der Kryptomarkt insgesamt weiterhin zu schwach/richtungslos fuer eine ueberzeugende neue Gelegenheit ist und bei Aktien/ETFs/Rohstoffen kein klarer Impuls vorliegt. | 19:08: Keine Aenderung - GOOGL-Position gehalten (+0,85% seit Kauf, deutlich unter Gewinnmitnahme-/Stop-Loss-Schwellen), Kryptomarkt bleibt breit schwach ohne ueberzeugende neue Kauf-Gelegenheit.",
-    "reasoning": "GOOGL (pos-0031) notiert bei +0,85% seit Kauf - weder die etablierte Gewinnmitnahme-Zielspanne (7-9%) noch die Stop-Loss-Schwelle (-6,5% bis -7,5%) ist erreicht, daher Position unveraendert gehalten. Keine neue Position eroeffnet: Kryptomarkt zeigt ueber alle wichtigen Coins hinweg anhaltende, aber nicht eskalierende Schwaeche (-2% bis -5%) ohne klaren Umkehr- oder Kapitulationspunkt, und es wurden keine ueberzeugenden einzeltitelspezifischen Katalysatoren (Earnings-Ueberraschung, Geopolitik, Rohstoff-Schock) gefunden, die eine neue spekulative Position rechtfertigen wuerden.",
+    "marketOverview": "Risk-off-Tag: Der US-Kerninflationswert fuer Oktober kam mit +0,3% MoM staerker als die vom Markt erwartete ~0,2% herein; Fed-Gouverneur Waller signalisierte daraufhin, bei anhaltend hoher Kerninflation statt der ueblichen 25 Basispunkte sogar einen 50-Basispunkte-Schritt im Dezember zu erwaegen. Die 10-Jahres-Rendite stieg dadurch auf rund 5,01%, was Tech-Bewertungen belastet: Nasdaq aktuell ca. -1,4%, S&P 500 ca. -0,9%, Dow ca. -0,6%. Nvidia bricht um ueber 6% ein (Board-Untersuchung zu CEO Jensen Huang), weitere KI-Infrastrukturwerte (GE Vernova, Micron, CoreWeave) ebenfalls schwaecher. Kryptomarkt bleibt breit und synchron schwach ohne Reversal (BTC ca. 73.300 USD -2% 24h, ETH -3,95%, SOL -4,21%, AVAX -3,55%, XRP -2,11%, DOGE -3,73%).",
+    "decision": "Verkauf AVAX (pos-0034) per Stop-Loss bei -6,81% (8,81 -> 8,21 USD), passend zur etablierten Stop-Loss-Schwelle (-6,5% bis -7,5%) und ohne erkennbaren Gegenkatalysator bei breiter Kryptoschwaeche. GOOGL zuletzt auf 287,20 USD aktualisiert (+1,32% statt zuvor +1,67%), bleibt offen. Freies Kapital durch den Verkauf auf ca. 96.338,84 EUR gestiegen (zuvor 95.686,51 EUR); keine neue Position eroeffnet, da der Kryptomarkt insgesamt weiterhin zu schwach/richtungslos fuer eine ueberzeugende neue Gelegenheit ist und bei Aktien/ETFs/Rohstoffen kein klarer Impuls vorliegt. | 19:08: Keine Aenderung - GOOGL-Position gehalten (+0,85% seit Kauf, deutlich unter Gewinnmitnahme-/Stop-Loss-Schwellen), Kryptomarkt bleibt breit schwach ohne ueberzeugende neue Kauf-Gelegenheit. | 20:12: Keine Aenderung - GOOGL auf 286,69 USD aktualisiert (+1,14% statt zuvor +0,85%), weiterhin deutlich unter Gewinnmitnahme-/Stop-Loss-Schwellen. Markt insgesamt im Risk-off-Modus (heisse Kern-CPI, Fed-Waller-Kommentar zu moeglichem 50bp-Schritt, Nvidia-CEO-Skandal) und Kryptomarkt weiter breit schwach - keine ueberzeugende neue Gelegenheit, kein Trade.",
+    "reasoning": "GOOGL (pos-0031) notiert bei +1,14% seit Kauf - weder Gewinnmitnahme-Zielspanne (7-9%) noch Stop-Loss-Schwelle (-6,5% bis -7,5%) erreicht, daher unveraendert gehalten. Keine neue Position: das Makroumfeld hat sich durch die hawkishe Fed-Reaktion auf die Kerninflation und den breiten Nvidia-/KI-Sektor-Abverkauf eindeutig risikoavers eingetruebt, Boerse zwar noch bis 22:00 CET geoeffnet, aber kein einzeltitelspezifischer, ueberzeugender Katalysator fuer einen Neukauf erkennbar; Kryptomarkt bleibt synchron schwach ohne Reversal-Signal.",
     "positionIds": [
       "pos-0031",
       "pos-0034"
     ],
-    "portfolioValueEnd": 806.77,
+    "portfolioValueEnd": 809.09,
     "updates": [
       {
         "time": "00:11",
@@ -12630,6 +12630,11 @@
         "time": "19:08",
         "note": "Keine Aenderung, GOOGL aktualisiert (+0,85%), Kryptomarkt weiter breit schwach ohne Reversal",
         "portfolioValue": 806.77
+      },
+      {
+        "time": "20:12",
+        "note": "Keine Aenderung. GOOGL auf 286,69 USD aktualisiert (+1,14%). Markt im Risk-off-Modus nach heisser Kern-CPI (Fed-Waller: moeglicher 50bp-Schritt im Dezember), Nvidia -6,3% (CEO-Skandal), Nasdaq ca. -1,4%. Kryptomarkt weiterhin breit schwach ohne Reversal. Kein Trade.",
+        "portfolioValue": 809.09
       }
     ]
   }
