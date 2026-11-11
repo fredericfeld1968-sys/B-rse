@@ -12655,13 +12655,13 @@
   },
   {
     "date": "2026-11-11",
-    "marketOverview": "US-Boersen weiterhin im regulaeren Handel moderat im Plus (GOOGL 293,87 USD, +2,26% heute laut StockAnalysis Live-Quote 14:08 ET/20:08 CET) im Zuge der fortgesetzten AI-/Tech-Erholung. Kryptomarkt bleibt in breiter, moderater Gruenphase (BTC 74.302 USD +1,30% 24h, ETH +1,69%, SOL +2,27%, AVAX +3,70%, DOGE +1,91%, XRP leicht schwaecher -0,84%, CoinGecko live) ohne einzelnen, mehrfach unabhaengig bestaetigten Katalysator fuer eine konkrete neue Position. Keine frischen geopolitischen Eskalationen oder Zinsentscheidungen identifiziert.",
-    "decision": "Keine Aenderung. GOOGL (pos-0031) auf aktuellen Kurs 293,87 USD aktualisiert (+3,67% seit Kauf 283,47 USD, Depotwert 829,35 EUR) - Gewinn liegt weiterhin unter der etablierten Zielspanne (7-9%), daher gehalten. Freies Kapital unveraendert hoch (ca. 97.338,84 EUR), aber kein neuer Trade: der breite, moderate Krypto-Gruentag und die fortgesetzte, aber nicht beschleunigte Tech-Erholung liefern weiterhin keine einzelne, hinreichend ueberzeugende und bestaetigte Gelegenheit.",
-    "reasoning": "Lauf 20:08 MEZ: Tagesbudget bereits heute gutgeschrieben (lastGrantDate=2026-11-11), keine erneute Gutschrift. Einzige offene Position GOOGL per StockAnalysis-Live-Kurs (14:08 ET) leicht von 294,48 auf 293,87 USD aktualisiert (+3,67% statt +3,88%) - Gewinnziel 7-9% weiterhin nicht erreicht. Marktrecherche (WebSearch + CoinGecko-Live-API) ergab erneut keinen einzelnen, mehrfach bestaetigten Katalysator fuer einen Neukauf; US-Boerse regulaer offen, daher waeren theoretisch auch Aktien/ETFs/Rohstoffe handelbar gewesen, aber kein konkretes Signal. Kein Trade in diesem Lauf.",
+    "marketOverview": "US-Boersen weiterhin im regulaeren Handel moderat im Plus (GOOGL 293,98 USD, +2,30% heute laut StockAnalysis Live-Quote 15:08 ET/21:08 CET, 'Market open') im Zuge der fortgesetzten AI-/Tech-Erholung. Kryptomarkt bleibt in breiter, moderater Gruenphase (BTC 74.324 USD +1,36% 24h, ETH +1,75%, SOL +2,32%, AVAX +4,12%, DOGE +1,71%, XRP leicht schwaecher -0,31%, CoinGecko live) ohne einzelnen, mehrfach unabhaengig bestaetigten Katalysator fuer eine konkrete neue Position. Keine frischen geopolitischen Eskalationen oder Zinsentscheidungen identifiziert.",
+    "decision": "Keine Aenderung. GOOGL (pos-0031) auf aktuellen Kurs 293,98 USD aktualisiert (+3,71% seit Kauf 283,47 USD, Depotwert 829,66 EUR) - Gewinn liegt weiterhin unter der etablierten Zielspanne (7-9%), daher gehalten. Freies Kapital unveraendert hoch (ca. 97.338,84 EUR), aber kein neuer Trade: der breite, moderate Krypto-Gruentag und die fortgesetzte, aber nicht beschleunigte Tech-Erholung liefern weiterhin keine einzelne, hinreichend ueberzeugende und bestaetigte Gelegenheit.",
+    "reasoning": "Lauf 21:08 MEZ: Tagesbudget bereits heute gutgeschrieben (lastGrantDate=2026-11-11), keine erneute Gutschrift. Einzige offene Position GOOGL per StockAnalysis-Live-Kurs (15:08 ET) leicht von 293,87 auf 293,98 USD aktualisiert (+3,71% statt +3,67%) - Gewinnziel 7-9% weiterhin nicht erreicht. Marktrecherche (WebSearch + CoinGecko-Live-API) ergab erneut keinen einzelnen, mehrfach bestaetigten Katalysator fuer einen Neukauf; US-Boerse regulaer offen (schliesst 22:00 CET), daher waeren theoretisch auch Aktien/ETFs/Rohstoffe handelbar gewesen, aber kein konkretes Signal. Kein Trade in diesem Lauf.",
     "positionIds": [
       "pos-0031"
     ],
-    "portfolioValueEnd": 829.35,
+    "portfolioValueEnd": 829.66,
     "updates": [
       {
         "time": "00:08",
@@ -12767,6 +12767,11 @@
         "time": "20:08",
         "note": "Keine Aenderung, GOOGL leicht auf 293,87 USD aktualisiert (+3,67%), Krypto weiter moderat gruen (BTC/ETH/SOL/AVAX/DOGE +1 bis +4%, XRP leicht schwaecher), kein Trade",
         "portfolioValue": 829.35
+      },
+      {
+        "time": "21:08",
+        "note": "Keine Aenderung, GOOGL leicht auf 293,98 USD aktualisiert (+3,71%), Krypto weiter moderat gruen (BTC/ETH/SOL/AVAX/DOGE +1 bis +4%, XRP leicht schwaecher), kein Trade",
+        "portfolioValue": 829.66
       }
     ]
   }
