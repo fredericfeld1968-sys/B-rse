@@ -12655,13 +12655,13 @@
   },
   {
     "date": "2026-11-11",
-    "marketOverview": "NYSE/Nasdaq und Xetra sind seit 15:30 CET regulaer geoeffnet (Veterans Day ist in den USA kein Boersenfeiertag, nur der Anleihemarkt war geschlossen). GOOGL notiert laut Live-Quote (StockAnalysis, 11:09 ET) bei 291,54 USD (+1,45% auf Tagesbasis) - der erste frische Kursanstieg seit dem Kauf. Kryptomarkt zeigt per CoinGecko-Live-API einen breiten, aber moderaten Erholungstag: BTC 74.005 USD (+1,07% 24h), ETH 2.072 USD (+2,21%), AVAX 8,59 USD (+4,66%), SOL 84,66 USD (+3,04%), XRP 1,069 USD (+2,41%) - durchweg gruen, aber ohne singulaeren, mehrfach unabhaengig bestaetigten Katalysator fuer eine einzelne Position. Die seit 09.11. laufende interne Nvidia-Untersuchung gegen CEO Jensen Huang (Spionage-Vorwuerfe) belastet weiterhin speziell AI-/Chipwerte, waehrend der breite Markt laut Berichten vom 09.11. bereits einen Teil des vorherigen AI-Ausverkaufs aufgeholt hat.",
-    "decision": "Keine Aenderung. GOOGL (pos-0031) auf aktuellen Live-Kurs 291,54 USD aktualisiert (+2,85% seit Kauf 283,47 USD, Depotwert 822,77 EUR) - Gewinn liegt noch deutlich unter der etablierten Zielspanne (7-9%), daher gehalten. Trotz freiem Kapital von ca. 97.338,84 EUR kein neuer Trade: der moderate, breite Krypto-Gruentag (BTC/ETH/AVAX/SOL/XRP je +1 bis +5%) ist kein einzelner, mehrfach unabhaengig bestaetigter Katalysator fuer eine konkrete Position, und bei Aktien bleibt das Bild wegen der laufenden Nvidia/Huang-Untersuchung uneinheitlich (AI-/Chipwerte belastet, breiter Markt leicht erholt). Passend zur bisherigen Disziplin wird nur bei einer wirklich ueberzeugenden, bestaetigten Gelegenheit gehandelt - diese liegt aktuell nicht vor.",
-    "reasoning": "Keine Aenderung. GOOGL (pos-0031) auf aktuellen Live-Kurs 291,54 USD aktualisiert (+2,85% seit Kauf 283,47 USD, Depotwert 822,77 EUR) - Gewinn liegt noch deutlich unter der etablierten Zielspanne (7-9%), daher gehalten. Trotz freiem Kapital von ca. 97.338,84 EUR kein neuer Trade: der moderate, breite Krypto-Gruentag (BTC/ETH/AVAX/SOL/XRP je +1 bis +5%) ist kein einzelner, mehrfach unabhaengig bestaetigter Katalysator fuer eine konkrete Position, und bei Aktien bleibt das Bild wegen der laufenden Nvidia/Huang-Untersuchung uneinheitlich (AI-/Chipwerte belastet, breiter Markt leicht erholt). Passend zur bisherigen Disziplin wird nur bei einer wirklich ueberzeugenden, bestaetigten Gelegenheit gehandelt - diese liegt aktuell nicht vor.",
+    "marketOverview": "US-Boersen im regulaeren Handel moderat im Plus (GOOGL +1,98% auf 293,06 USD, vorheriger Schlusskurs 287,38 USD) im Zuge der fortgesetzten Erholung der AI-/Tech-Werte nach dem Ausverkauf vom 05.11. Krypto bleibt in breiter, moderater Gruenphase (BTC 74.161 USD +1,78% 24h, ETH +3,03%, SOL +3,67%, AVAX +5,80%, XRP +2,52%, DOGE +3,02%) ohne einzelnen, mehrfach unabhaengig bestaetigten Katalysator fuer eine konkrete neue Position. Fed-Zinspfad fuer Dezember bleibt unklar, keine frischen geopolitischen Eskalationen identifiziert.",
+    "decision": "Keine Aenderung. GOOGL (pos-0031) auf aktuellen Kurs 293,06 USD aktualisiert (+3,38% seit Kauf 283,47 USD, Depotwert 827,06 EUR) - Gewinn liegt weiterhin unter der etablierten Zielspanne (7-9%), daher gehalten. Freies Kapital unveraendert hoch (ca. 97.338,84 EUR), aber kein neuer Trade: der breite, moderate Krypto-Gruentag und die fortgesetzte, aber nicht beschleunigte Tech-Erholung liefern keine einzelne, hinreichend ueberzeugende und bestaetigte Gelegenheit. Passend zur bisherigen Disziplin wird nur bei einer wirklich ueberzeugenden Gelegenheit gehandelt.",
+    "reasoning": "Lauf 18:11 MEZ: Tagesbudget bereits heute gutgeschrieben (lastGrantDate=2026-11-11), keine erneute Gutschrift. Einzige offene Position GOOGL per Yahoo-Finance-Live-Kurs auf 293,06 USD aktualisiert. Keine Verkaufsschwelle erreicht (Gewinnziel 7-9%, aktuell 3,38%). Marktrecherche (WebSearch + CoinGecko-Live-API) ergab keinen einzelnen, mehrfach bestaetigten Katalysator fuer einen Neukauf; US-Boerse regulaer offen, daher waeren theoretisch auch Aktien/ETFs/Rohstoffe handelbar gewesen, aber kein konkretes Signal. Kein Trade in diesem Lauf.",
     "positionIds": [
       "pos-0031"
     ],
-    "portfolioValueEnd": 822.77,
+    "portfolioValueEnd": 827.06,
     "updates": [
       {
         "time": "00:08",
@@ -12752,6 +12752,11 @@
         "time": "17:09",
         "note": "Keine Aenderung, GOOGL auf Live-Kurs 291,54 USD aktualisiert (+2,85%), Kryptomarkt breiter aber moderater Gruentag (BTC/ETH/AVAX/SOL/XRP je +1 bis +5%) ohne einzelnen bestaetigten Katalysator, Nvidia/Huang-Untersuchung belastet weiterhin AI-/Chipwerte, kein Trade",
         "portfolioValue": 822.77
+      },
+      {
+        "time": "18:11",
+        "note": "Keine Aenderung, GOOGL auf 293,06 USD aktualisiert (+3,38%), Krypto weiter moderat gruen, kein Trade",
+        "portfolioValue": 827.06
       }
     ]
   }
