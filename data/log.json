@@ -12655,9 +12655,9 @@
   },
   {
     "date": "2026-11-11",
-    "marketOverview": "Weiterhin kein frischer bestaetigter Katalysator: Xetra offen, NYSE/Nasdaq oeffnen erst 15:30 CET. Makrobild unveraendert risk-off nach dem heissen US-Oktober-VPI, zusaetzlich belastet die am 09.11. bekanntgewordene interne Nvidia-Untersuchung gegen CEO Jensen Huang (Vorwuerfe im Zusammenhang mit einer moeglichen auslaendischen Geheimdienst-Anbahnung) weiterhin die Stimmung bei AI-/Chipwerten, auch wenn TSMC/Samsung/SK Hynix am Montag laut Berichten bereits wieder etwas erholten. Keine frischeren verlaesslichen Live-Kurse fuer GOOGL oder Krypto gegenueber dem letzten Lauf auffindbar.",
+    "marketOverview": "Weiterhin kein frischer bestaetigter Katalysator: Xetra offen, NYSE/Nasdaq oeffnen erst 15:30 CET. Makrobild unveraendert risk-off nach dem heissen US-Oktober-VPI, zusaetzlich belastet die am 09.11. bekanntgewordene interne Nvidia-Untersuchung gegen CEO Jensen Huang weiterhin die Stimmung bei AI-/Chipwerten. Krypto weiterhin in Fear-Zone (BTC ca. 74-76k USD laut letzten verfuegbaren Quellen). Keine frischeren verlaesslichen Live-Kurse fuer GOOGL oder Krypto gegenueber dem letzten Lauf auffindbar.",
     "decision": "Keine Aenderung. GOOGL (pos-0031) unveraendert auf letztem bestaetigten Kurs (287,38 USD, +1,38% seit Kauf 283,47 USD) gehalten. Trotz freiem Kapital von ca. 97.338,84 EUR kein neuer Trade: Risk-off-Umfeld (VPI, Nvidia/Huang-Untersuchung, AI-Capex-Sorgen) ohne frischen, mehrfach unabhaengig bestaetigten Kaufkatalysator.",
-    "reasoning": "Tagesbudget fuer den 11.11. bereits im ersten Lauf des Tages gutgeschrieben, in diesem Lauf keine erneute Gutschrift (lastGrantDate=heute). Websuche zu US-Marktfutures, GOOGL und Bitcoin lieferte keine frischeren, verlaesslich datierten Kurse gegenueber dem 10:10-Lauf; neu bestaetigt wurde lediglich die bereits am 09.11. bekannte Nvidia-CEO-Untersuchung, die das Risk-off-Bild fuer Tech-/Chipwerte verstaerkt statt eine Kaufgelegenheit zu eroeffnen. Passend zum etablierten konservativen Muster dieses Portfolios (nur bestaetigte, mehrfach unabhaengig belegte Ausbrueche/Katalysatoren als Kaufvoraussetzung) daher weiterhin kein spekulativer Einstieg.",
+    "reasoning": "Tagesbudget fuer den 11.11. bereits im ersten Lauf des Tages gutgeschrieben, in diesem Lauf keine erneute Gutschrift (lastGrantDate=heute). Websuche zu US-Marktfutures, GOOGL und Bitcoin/Krypto lieferte keine frischeren, verlaesslich datierten Kurse oder Katalysatoren gegenueber dem 12:15-Lauf; die Nvidia-CEO-Untersuchung und das Risk-off-Bild (heisser VPI) bleiben unveraendert bestehen, ohne dass sich daraus eine Kaufgelegenheit ergibt. Passend zum etablierten konservativen Muster dieses Portfolios (nur bestaetigte, mehrfach unabhaengig belegte Ausbrueche/Katalysatoren als Kaufvoraussetzung) daher weiterhin kein spekulativer Einstieg.",
     "positionIds": [
       "pos-0031"
     ],
@@ -12726,6 +12726,11 @@
       {
         "time": "12:15",
         "note": "Keine Aenderung, Websuche liefert keine frischeren Kurse/Katalysatoren (GOOGL weiterhin 287,38 USD, NYSE/Nasdaq oeffnen erst 15:30 CET), Risk-off nach heissem US-VPI und Nvidia/Huang-Untersuchung haelt an, kein Trade",
+        "portfolioValue": 811.03
+      },
+      {
+        "time": "13:12",
+        "note": "Keine Aenderung, keine frischeren Kurse/Katalysatoren gegenueber dem letzten Lauf auffindbar (GOOGL weiterhin 287,38 USD, BTC/Krypto weiterhin schwach), Xetra offen aber ohne bestaetigten Katalysator, NYSE/Nasdaq oeffnen erst 15:30 CET, kein Trade",
         "portfolioValue": 811.03
       }
     ]
