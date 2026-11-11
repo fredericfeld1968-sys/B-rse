@@ -12655,9 +12655,9 @@
   },
   {
     "date": "2026-11-11",
-    "marketOverview": "US-Maerkte schlossen am 10.11. nach heissem Oktober-CPI (Kern +0,3%) schwaecher (S&P 500 -0,38%, Nasdaq -0,74%), Fed-Dezember-Zinserhoehungswahrscheinlichkeit bei 84%. Nvidia belastet durch Untersuchung gegen CEO Jensen Huang. Kryptomarkt bleibt breit schwach (BTC rund 74.000-74.300 USD am 10.11., Fear&Greed weiterhin im unteren 30er-Bereich) ohne eigenstaendigen frischen Katalysator; keine verlaesslichen Live-Kurse fuer die aktuelle Nachtstunde per Websuche verfuegbar (US-Boerse und Nachboerse bereits geschlossen).",
-    "decision": "Keine Aenderung. GOOGL (pos-0031) unveraendert bei 288,38 USD belassen (+1,73% seit Kauf, 283,47 USD) - keine verlaesslichere aktuellere Notierung per Websuche verfuegbar, Boerse und Nachboerse ohnehin geschlossen. Kein neuer, mehrfach bestaetigter frischer Krypto-Katalysator gefunden (Schwaeche bleibt makro-getrieben, kein Einzeltitel-Ausbruch); daher keine neue Position eroeffnet trotz freien Kapitals von ca. 97.338,84 EUR.",
-    "reasoning": "Tagesbudget fuer den 11.11. wurde bereits im ersten Lauf des Tages gutgeschrieben (lastGrantDate bereits heute) - in diesem Lauf keine erneute Gutschrift. GOOGL-Position bleibt im neutralen Zwischenbereich ohne Handlungsdruck. Kryptomarkt zeigt reine Risikoaversion ohne ueberzeugende, frisch bestaetigte Einzelchance - bewusst kein spekulativer Einstieg nur wegen vorhandenem freiem Kapital.",
+    "marketOverview": "US-Maerkte schlossen am 10.11. nach heissem Oktober-CPI (Kern +0,3%) schwaecher (S&P 500 -0,38%, Nasdaq -0,74%), Fed-Dezember-Zinserhoehungswahrscheinlichkeit bei 84%. Nvidia belastet durch Untersuchung gegen CEO Jensen Huang. Kryptomarkt bleibt breit schwach (BTC zuletzt rund 74.000-76.000 USD, Fear&Greed weiterhin im unteren 30er- bis 20er-Bereich) ohne eigenstaendigen frischen Katalysator. Auch in diesem Lauf (02:13 CET) lieferte die Websuche keine verlaesslichen, konsistenten Live-Kurse (widersprechende/undatierte Cache-Ergebnisse fuer BTC, ETH und GOOGL) - US-Boerse, Nachboerse und europaeische Boersen sind ohnehin zu dieser Nachtstunde geschlossen.",
+    "decision": "Keine Aenderung. GOOGL (pos-0031) unveraendert bei 288,38 USD belassen (+1,73% seit Kauf, 283,47 USD) - keine verlaesslichere aktuellere Notierung per Websuche verfuegbar, Boerse und Nachboerse ohnehin geschlossen. Kein neuer, mehrfach bestaetigter frischer Krypto-Katalysator gefunden (nur widerspruechliche, teils undatierte Marktdaten); daher keine neue Position eroeffnet trotz freien Kapitals von ca. 97.338,84 EUR.",
+    "reasoning": "Tagesbudget fuer den 11.11. wurde bereits im ersten Lauf des Tages gutgeschrieben (lastGrantDate bereits heute) - in diesem Lauf keine erneute Gutschrift. GOOGL-Position bleibt im neutralen Zwischenbereich ohne Handlungsdruck. Websuche lieferte in diesem Lauf keine belastbaren, aktuellen Live-Kurse fuer Krypto oder GOOGL (stark streuende, teils jahre- oder monatealte Cache-Treffer); ohne verlaessliche, frisch bestaetigte Einzelchance bewusst kein spekulativer Einstieg nur wegen vorhandenem freiem Kapital.",
     "positionIds": [
       "pos-0031"
     ],
@@ -12671,6 +12671,11 @@
       {
         "time": "01:10",
         "note": "Keine Aenderung, GOOGL unveraendert (288,38 USD, +1,73%) - keine frischere Notierung verfuegbar (Boerse/Nachboerse geschlossen), Kryptomarkt weiter schwach ohne frischen Katalysator, kein Trade",
+        "portfolioValue": 813.86
+      },
+      {
+        "time": "02:13",
+        "note": "Keine Aenderung, keine verlaesslichen Live-Kurse per Websuche verfuegbar (GOOGL/Krypto), Boersen geschlossen, kein Trade",
         "portfolioValue": 813.86
       }
     ]
