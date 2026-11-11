@@ -12655,9 +12655,9 @@
   },
   {
     "date": "2026-11-11",
-    "marketOverview": "US-Maerkte (Aktien/ETFs/Rohstoffe) weiterhin geschlossen (06:09 CET, vor Europa- und US-Handelsstart). GOOGL letzter regulaerer Schlusskurs 287,38 USD (Yahoo Finance, leicht unter Vortagesschluss 288,15 USD). Kryptomarkt weiter breit schwach und praktisch unveraendert zum letzten Lauf: BTC ca. 73.678 USD (-1,39% 24h), ETH ca. 2.062,21 USD (-2,82%), SOL ca. 82,74 USD (-3,93%), AVAX ca. 8,43 USD (-1,57%), XRP ca. 1,054 USD (-3,68%), LINK ca. 10,35 USD (-2,40%), DOGE ca. 0,06803 USD (-2,66%) - live per CoinGecko-API bestaetigt. Fear&Greed-Index unveraendert bei 29 (Fear, live per alternative.me). Keine neue Kursbewegung oder Katalysator seit dem letzten Lauf erkennbar.",
-    "decision": "Keine Aenderung. GOOGL (pos-0031) auf letzten Schlusskurs 287,38 USD aktualisiert (+1,38% seit Kauf, 283,47 USD) - Boerse und Nachboerse geschlossen, keine frischere Notierung verfuegbar. Kryptomarkt bleibt breit schwach und nahezu unveraendert (Fear&Greed 29) ohne ueberzeugende Einzelchance; freies Kapital von ca. 97.338,84 EUR bleibt ungenutzt.",
-    "reasoning": "Tagesbudget fuer den 11.11. wurde bereits im ersten Lauf des Tages gutgeschrieben, in diesem Lauf keine erneute Gutschrift (lastGrantDate bereits heute). Live-Kurse per CoinGecko-API sowie Fear&Greed-Index per alternative.me erfolgreich abgerufen: Bewegungen liegen weiterhin im Rauschbereich (unter 3 Prozentpunkten Differenz zum letzten Lauf), kein bestaetigter Ausbruch oder neuer Katalysator. Passt nicht zum etablierten Muster bestaetigter Ausbrueche dieses Portfolios. GOOGL per Yahoo Finance auf letzten Schlusskurs (287,38 USD) aktualisiert. Kein spekulativer Einstieg nur wegen vorhandenem freiem Kapital.",
+    "marketOverview": "US-/EU-Maerkte (Aktien/ETFs/Rohstoffe) weiterhin geschlossen (Stand 07:10 CET, Xetra oeffnet erst 09:00, NYSE/Nasdaq 15:30 CET). GOOGL letzter bestaetigter Schlusskurs weiterhin 287,38 USD (keine frischere verlaessliche Notierung seit 06:09). Kryptomarkt klar in der Fear-Zone: BTC ca. 74.600-75.900 USD mit bearishem Start laut IBTimes/RTTNews (11.11.), ETH ca. 2.240-2.250 USD nach Liquidationswelle (~1,05 Mrd. USD, Anfang Nov.), AVAX -28% in 4 Wochen, BTC-ETF-Abfluesse von ca. 1,3 Mrd. USD in einer Woche - kein frischer bullischer Katalysator (kein ETF-Inflow-Boom, keine Regulierungserleichterung). Makro: kein Fed-Entscheid heute (naechste Sitzung Dezember), Russland-Ukraine-US-Gespraeche in Abu Dhabi (10.-11.11.), Brent zuletzt bei ca. 103,60 USD nach Hoffnung auf Friedenslösung - kein akuter Schock erkennbar.",
+    "decision": "Keine Aenderung. GOOGL (pos-0031) unveraendert auf letztem bestaetigten Kurs (287,38 USD, +1,38% seit Kauf 283,47 USD) gehalten - Boerse/Nachboerse geschlossen, keine frischere Notierung verfuegbar. Kryptomarkt bleibt in der Fear-Zone ohne ueberzeugende Einzelchance; freies Kapital von ca. 97.338,84 EUR bleibt bewusst ungenutzt.",
+    "reasoning": "Tagesbudget fuer den 11.11. wurde bereits im ersten Lauf des Tages gutgeschrieben, in diesem Lauf keine erneute Gutschrift (lastGrantDate bereits heute). Recherche zu Krypto/GOOGL/Makro ergab ueberwiegend Fear-Sentiment und teils widersprueschliche/undatierte Quellen, aber keinen bestaetigten Ausbruch oder neuen Katalysator, der eine spekulative Neuposition rechtfertigen wuerde. Passt nicht zum etablierten Muster bestaetigter Ausbrueche dieses Portfolios. Kein spekulativer Einstieg nur wegen vorhandenem freiem Kapital.",
     "positionIds": [
       "pos-0031"
     ],
@@ -12696,6 +12696,11 @@
       {
         "time": "06:09",
         "note": "Keine Aenderung, GOOGL auf letzten Schlusskurs 287,38 USD aktualisiert (+1,38%), Krypto weiterhin schwach (Fear&Greed 29, BTC/ETH/SOL/AVAX/XRP/LINK/DOGE -1 bis -4%), Boersen geschlossen, kein Trade",
+        "portfolioValue": 811.03
+      },
+      {
+        "time": "07:10",
+        "note": "Keine Aenderung, Kryptomarkt weiterhin in Fear-Zone (BTC ca. 74.600-75.900 USD bearish/'wary' laut IBTimes/RTTNews, ETH ca. 2.240-2.250 USD nach Liquidationswelle, AVAX -28% in 4 Wochen, ETF-Abfluesse), keine ueberzeugende Kaufgelegenheit. GOOGL unveraendert auf letzten bestaetigten Kurs (287,38 USD, keine frischere verlaessliche Notierung verfuegbar), Boersen weiterhin geschlossen (Xetra oeffnet erst 09:00, NYSE/Nasdaq 15:30 CET), kein Trade",
         "portfolioValue": 811.03
       }
     ]
