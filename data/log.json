@@ -12655,9 +12655,9 @@
   },
   {
     "date": "2026-11-11",
-    "marketOverview": "US-Boersen schlossen moderat im Plus (GOOGL 293,96 USD, +2,29% Tagesschluss 16:00 ET/22:00 CET laut StockAnalysis), getragen von fortgesetzter AI-/Tech-Erholung (u.a. TSLA/GOOGL als Uber-Disruptoren im Fokus). Bitcoin notiert bei ca. 74.595 USD (+0,9% 24h, Marktstimmung laut CoinGecko-Umfrage mehrheitlich bullish 66/34), nachdem die Woche zuvor von Rueckgaengen aus dem 80.000er-Bereich gepraegt war. Keine neuen, eindeutig bestaetigten Ausbruchs-Katalysatoren bei Altcoins (SOL/AVAX/XRP) gefunden.",
-    "decision": "Keine Aenderung. GOOGL (pos-0031) auf Schlusskurs 293,96 USD aktualisiert (+3,70% seit Kauf 283,47 USD, Depotwert 829,60 EUR) - Gewinn liegt weiterhin unter der etablierten Zielspanne (7-9%), daher gehalten. Boersenhandel (Aktien/ETFs/Rohstoffe) ist seit 22:00 CET geschlossen. Kein neuer Krypto-Trade, da keine wirklich ueberzeugende, mehrfach bestaetigte Gelegenheit vorlag.",
-    "reasoning": "Lauf 22:08 MEZ: Tagesbudget bereits heute gutgeschrieben (lastGrantDate=2026-11-11), keine erneute Gutschrift. Einzige offene Position GOOGL per StockAnalysis-Schlusskurs (16:00 ET) leicht von 293,98 auf 293,96 USD aktualisiert, Gewinn bei +3,70% - unter der etablierten 7-9%-Zielspanne, daher weiter gehalten. US-Boersen soeben geschlossen (22:00 CET), somit keine Aktien-/ETF-/Rohstoff-Trades moeglich. Krypto bleibt handelbar: BTC moderat positiv (+0,9% 24h) nach einer schwachen Vorwoche, aber ohne frischen, mehrfach bestaetigten Ausbruchs- oder Breaking-News-Katalysator; Recherche zu SOL/AVAX/XRP lieferte keine aktuellen, verlaesslichen Live-Daten fuer heute. Passend zum spekulativen Profil wird nur bei wirklich ueberzeugender Gelegenheit gehandelt - diese liegt aktuell nicht vor, daher kein Trade. Freies Kapital bleibt hoch (ca. 97.339 EUR) und unveraendert gegenueber dem letzten Lauf.",
+    "marketOverview": "US-Boersen schlossen moderat im Plus (GOOGL 293,96 USD, +2,29% Tagesschluss 16:00 ET/22:00 CET laut StockAnalysis), getragen von fortgesetzter AI-/Tech-Erholung (u.a. TSLA/GOOGL als Uber-Disruptoren im Fokus). Nachboerslich/abends mehren sich jedoch Berichte ueber einen breiten, bearishen Krypto-Start (IBTimes: 'Most Coins Including Bitcoin, Ether Have A Bearish Start') sowie anhaltende Krypto-ETF-Outflows (1,3 Mrd. USD in der zweiten Woche in Folge laut Nasdaq/Reuters-Daten) nach der Vorwochen-Korrektur unter 76.000 USD. Keine neuen, eindeutig bestaetigten Ausbruchs-Katalysatoren bei Altcoins (SOL/AVAX/XRP) gefunden.",
+    "decision": "Keine Aenderung. GOOGL (pos-0031) bleibt auf letztem Schlusskurs 293,96 USD (+3,70% seit Kauf 283,47 USD, Depotwert 829,60 EUR) - Gewinn liegt weiterhin unter der etablierten Zielspanne (7-9%), daher gehalten. Boersenhandel (Aktien/ETFs/Rohstoffe) ist seit 22:00 CET geschlossen. Kein neuer Krypto-Trade, da der Kryptomarkt insgesamt schwach/gemischt ohne wirklich ueberzeugende, mehrfach bestaetigte Einzel-Gelegenheit war.",
+    "reasoning": "Lauf 23:10 MEZ: Tagesbudget bereits heute gutgeschrieben (lastGrantDate=2026-11-11), keine erneute Gutschrift. Einzige offene Position GOOGL ohne frischere Nachboersen-Notierung auffindbar, daher unveraendert bei 293,96 USD / +3,70% gehalten - weiterhin unter der etablierten 7-9%-Zielspanne. US-Boersen bleiben bis zur Wiedereroeffnung geschlossen, somit keine Aktien-/ETF-/Rohstoff-Trades moeglich. Krypto bleibt handelbar, zeigt laut mehreren Quellen (IBTimes, Nasdaq/Crypto-Outflow-Report, AltcoinBuzz) aber einen breiten, bearishen bis gemischten Ton ohne frischen, mehrfach bestaetigten Ausbruchs- oder Breaking-News-Katalysator bei einem einzelnen Coin. Passend zum spekulativen Profil wird nur bei wirklich ueberzeugender Gelegenheit gehandelt - diese liegt aktuell nicht vor, daher kein Trade. Freies Kapital bleibt hoch (ca. 97.339 EUR) und unveraendert gegenueber dem letzten Lauf.",
     "positionIds": [
       "pos-0031"
     ],
@@ -12776,6 +12776,11 @@
       {
         "time": "22:08",
         "note": "Keine Aenderung, GOOGL Schlusskurs 293,96 USD (+3,70%), Boersen seit 22:00 CET geschlossen, Krypto (BTC +0,9% 24h) ohne ueberzeugende Gelegenheit, kein Trade",
+        "portfolioValue": 829.6
+      },
+      {
+        "time": "23:10",
+        "note": "Keine Aenderung, GOOGL unveraendert bei Schlusskurs 293,96 USD (+3,70%) gehalten (keine frischere Nachboersen-Notierung auffindbar), Krypto insgesamt schwach/gemischt (mehrere Quellen berichten bearishen Start am 11.11., Krypto-Outflows von 1,3 Mrd. USD in der zweiten Woche in Folge) ohne einzeln bestaetigten, ueberzeugenden Ausbruchskatalysator, Boersen weiterhin geschlossen, kein Trade",
         "portfolioValue": 829.6
       }
     ]
