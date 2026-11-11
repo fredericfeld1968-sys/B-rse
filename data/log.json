@@ -12784,5 +12784,22 @@
         "portfolioValue": 829.6
       }
     ]
+  },
+  {
+    "date": "2026-11-12",
+    "marketOverview": "Kryptomarkt bleibt in einer von Angst gepraegten, fragilen Verfassung nach dem starken Ausverkauf Anfang November (Bitcoin von ueber 100.000 auf unter 76-77.000 USD, Fear&Greed zuletzt um 28). Keine frischen, mehrfach unabhaengig bestaetigten Einzelkatalysatoren fuer BTC/ETH/SOL/XRP/AVAX/DOGE in den letzten Stunden gefunden; ein kolportierter Binance-Hack-Bericht blieb unbestaetigt (Einzelquelle). An den Aktienmaerkten belasten weiterhin die Nvidia/Huang-Governance-Untersuchung und allgemeine AI-Bubble-Sorgen sowie Unsicherheit vor der Dezember-Fed-Entscheidung; US-Boersen sind nachts geschlossen, keine frischere GOOGL-Notierung als der letzte Schlusskurs (293,96 USD) verfuegbar.",
+    "decision": "Keine Aenderung. GOOGL (pos-0031) bleibt auf letztem bekannten Kurs 293,96 USD (+3,70% seit Kauf 283,47 USD, Depotwert 829,60 EUR) - Boerse geschlossen, keine frischere Notierung auffindbar, Gewinn liegt weiter unter der etablierten Zielspanne (7-9%). Kein Krypto-Trade, da trotz fear-getriebenem Markt keine ueberzeugende, mehrfach bestaetigte Einzelchance (weder Breakout noch Reversal) vorliegt. Tagesbudget fuer 12.11. wurde gutgeschrieben (totalFreshCapitalEur 99.000 -> 100.000 EUR).",
+    "reasoning": "Erster Lauf des neuen Kalendertags (00:09 MEZ). lastGrantDate war 2026-11-11, also Tagesbudget-Gutschrift von 1.000 EUR ausgefuehrt, totalFreshCapitalEur jetzt 100.000 EUR, lastGrantDate auf 2026-11-12 gesetzt. Einzige offene Position GOOGL unveraendert gelassen, da keine frischere Notierung verfuegbar ist (US-Boersen nachts geschlossen, letzter bestaetigter Kurs weiterhin 293,96 USD). Krypto-Recherche (CoinGecko/Cointelegraph/Decrypt/u.a.) zeigt einen anhaltend angstgetriebenen, aber nicht akut neu eskalierenden Markt ohne frischen, mehrfach bestaetigten Katalysator fuer einen einzelnen Coin; ein berichteter Binance-Hack ist nur einquellig belegt und wird daher nicht als Handlungsgrundlage gewertet. Passend zum spekulativen Profil wird nur bei wirklich ueberzeugender Gelegenheit gehandelt - diese liegt aktuell nicht vor, daher kein Trade. Freies Kapital nach Gutschrift ca. 98.339 EUR (100.000 - 22.200 investiert + 20.538,84 aus geschlossenen Positionen zurueckgefuehrt).",
+    "positionIds": [
+      "pos-0031"
+    ],
+    "portfolioValueEnd": 829.6,
+    "updates": [
+      {
+        "time": "00:09",
+        "note": "Tagesbudget gutgeschrieben (+1.000 EUR, totalFreshCapitalEur jetzt 100.000 EUR). GOOGL unveraendert bei letztem Schlusskurs 293,96 USD (+3,70%), Boersen nachts geschlossen. Kryptomarkt weiter angstgetrieben (Fear&Greed zuletzt ~28) ohne frischen bestaetigten Einzelkatalysator, kein Trade.",
+        "portfolioValue": 829.6
+      }
+    ]
   }
 ]
