@@ -12655,13 +12655,13 @@
   },
   {
     "date": "2026-11-11",
-    "marketOverview": "Weiterhin kein frischer bestaetigter Katalysator per Websuche auffindbar: Xetra offen, NYSE/Nasdaq oeffnen erst um 15:30 CET (in rund 20 Minuten), also noch kein US-Kassahandel. Makrobild unveraendert risk-off nach dem heissen US-Oktober-VPI, zusaetzlich belastet die seit 09.11. bekannte interne Nvidia-Untersuchung gegen CEO Jensen Huang weiterhin die Stimmung bei AI-/Chipwerten. Keine frischeren verlaesslich datierten Live-Kurse fuer GOOGL oder Krypto (BTC/ETH/Fear&Greed) gegenueber dem letzten Lauf (14:12) gefunden.",
-    "decision": "Keine Aenderung. GOOGL (pos-0031) unveraendert auf letztem bestaetigten Kurs (287,38 USD, +1,38% seit Kauf 283,47 USD) gehalten. Trotz freiem Kapital von ca. 97.338,84 EUR kein neuer Trade: Risk-off-Umfeld (VPI, Nvidia/Huang-Untersuchung, AI-Capex-Sorgen) ohne frischen, mehrfach unabhaengig bestaetigten Kaufkatalysator; US-Boerse zudem noch nicht geoeffnet.",
-    "reasoning": "Tagesbudget fuer den 11.11. bereits im ersten Lauf des Tages gutgeschrieben, in diesem Lauf keine erneute Gutschrift (lastGrantDate=heute). Websuche zu US-Futures/Nasdaq, GOOGL und Bitcoin/Krypto lieferte erneut keine frischeren, verlaesslich datierten Kurse oder Katalysatoren gegenueber dem 14:12-Lauf; die Nvidia-CEO-Untersuchung und das Risk-off-Bild (heisser VPI) bleiben unveraendert bestehen. Passend zum etablierten konservativen Muster dieses Portfolios (nur bestaetigte, mehrfach unabhaengig belegte Ausbrueche/Katalysatoren als Kaufvoraussetzung) daher weiterhin kein spekulativer Einstieg.",
+    "marketOverview": "NYSE/Nasdaq und Xetra sind seit 15:30 CET regulaer geoeffnet (Veterans Day ist in den USA kein Boersenfeiertag, nur der Anleihemarkt war geschlossen). GOOGL notiert laut Live-Quote (StockAnalysis, 11:09 ET) bei 291,54 USD (+1,45% auf Tagesbasis) - der erste frische Kursanstieg seit dem Kauf. Kryptomarkt zeigt per CoinGecko-Live-API einen breiten, aber moderaten Erholungstag: BTC 74.005 USD (+1,07% 24h), ETH 2.072 USD (+2,21%), AVAX 8,59 USD (+4,66%), SOL 84,66 USD (+3,04%), XRP 1,069 USD (+2,41%) - durchweg gruen, aber ohne singulaeren, mehrfach unabhaengig bestaetigten Katalysator fuer eine einzelne Position. Die seit 09.11. laufende interne Nvidia-Untersuchung gegen CEO Jensen Huang (Spionage-Vorwuerfe) belastet weiterhin speziell AI-/Chipwerte, waehrend der breite Markt laut Berichten vom 09.11. bereits einen Teil des vorherigen AI-Ausverkaufs aufgeholt hat.",
+    "decision": "Keine Aenderung. GOOGL (pos-0031) auf aktuellen Live-Kurs 291,54 USD aktualisiert (+2,85% seit Kauf 283,47 USD, Depotwert 822,77 EUR) - Gewinn liegt noch deutlich unter der etablierten Zielspanne (7-9%), daher gehalten. Trotz freiem Kapital von ca. 97.338,84 EUR kein neuer Trade: der moderate, breite Krypto-Gruentag (BTC/ETH/AVAX/SOL/XRP je +1 bis +5%) ist kein einzelner, mehrfach unabhaengig bestaetigter Katalysator fuer eine konkrete Position, und bei Aktien bleibt das Bild wegen der laufenden Nvidia/Huang-Untersuchung uneinheitlich (AI-/Chipwerte belastet, breiter Markt leicht erholt). Passend zur bisherigen Disziplin wird nur bei einer wirklich ueberzeugenden, bestaetigten Gelegenheit gehandelt - diese liegt aktuell nicht vor.",
+    "reasoning": "Keine Aenderung. GOOGL (pos-0031) auf aktuellen Live-Kurs 291,54 USD aktualisiert (+2,85% seit Kauf 283,47 USD, Depotwert 822,77 EUR) - Gewinn liegt noch deutlich unter der etablierten Zielspanne (7-9%), daher gehalten. Trotz freiem Kapital von ca. 97.338,84 EUR kein neuer Trade: der moderate, breite Krypto-Gruentag (BTC/ETH/AVAX/SOL/XRP je +1 bis +5%) ist kein einzelner, mehrfach unabhaengig bestaetigter Katalysator fuer eine konkrete Position, und bei Aktien bleibt das Bild wegen der laufenden Nvidia/Huang-Untersuchung uneinheitlich (AI-/Chipwerte belastet, breiter Markt leicht erholt). Passend zur bisherigen Disziplin wird nur bei einer wirklich ueberzeugenden, bestaetigten Gelegenheit gehandelt - diese liegt aktuell nicht vor.",
     "positionIds": [
       "pos-0031"
     ],
-    "portfolioValueEnd": 811.03,
+    "portfolioValueEnd": 822.77,
     "updates": [
       {
         "time": "00:08",
@@ -12747,6 +12747,11 @@
         "time": "16:11",
         "note": "Keine Aenderung, keine frischeren Live-Kurse/Katalysatoren per Websuche auffindbar (GOOGL weiterhin 287,38 USD, Krypto weiterhin schwach um 74-75k USD BTC), NYSE/Nasdaq seit 15:30 CET offen aber ohne neuen bestaetigten Katalysator, Risk-off nach heissem US-VPI und Nvidia/Huang-Untersuchung haelt an, kein Trade",
         "portfolioValue": 811.03
+      },
+      {
+        "time": "17:09",
+        "note": "Keine Aenderung, GOOGL auf Live-Kurs 291,54 USD aktualisiert (+2,85%), Kryptomarkt breiter aber moderater Gruentag (BTC/ETH/AVAX/SOL/XRP je +1 bis +5%) ohne einzelnen bestaetigten Katalysator, Nvidia/Huang-Untersuchung belastet weiterhin AI-/Chipwerte, kein Trade",
+        "portfolioValue": 822.77
       }
     ]
   }
