@@ -12655,9 +12655,9 @@
   },
   {
     "date": "2026-11-11",
-    "marketOverview": "US-Maerkte (Aktien/ETFs/Rohstoffe) weiterhin geschlossen (04:07 CET, vor Europa- und US-Handelsstart). Kryptomarkt weiter breit schwach, kaum veraendert zum letzten Lauf: BTC ca. 73.669 USD (-1,43% 24h), ETH ca. 2.060,75 USD (-2,79%), SOL ca. 83,42 USD (-3,15%), AVAX ca. 8,48 USD (-1,07%), XRP ca. 1,06 USD (-3,21%), LINK ca. 10,38 USD (-1,91%), DOGE ca. 0,0684 USD (-1,89%) - live per CoinGecko-API bestaetigt. Fear&Greed-Index unveraendert bei 29 (Fear, live per alternative.me). Keine neue Kursbewegung oder Katalysator seit dem letzten Lauf erkennbar.",
+    "marketOverview": "US-Maerkte (Aktien/ETFs/Rohstoffe) weiterhin geschlossen (05:07 CET, vor Europa- und US-Handelsstart). Kryptomarkt weiter breit schwach und praktisch unveraendert zum letzten Lauf: BTC ca. 73.775 USD (-1,01% 24h), ETH ca. 2.064,43 USD (-2,36%), SOL ca. 83,32 USD (-2,97%), AVAX ca. 8,45 USD (-1,42%), XRP ca. 1,058 USD (-3,03%), LINK ca. 10,39 USD (-1,79%), DOGE ca. 0,06846 USD (-1,59%) - live per CoinGecko-API bestaetigt. Fear&Greed-Index unveraendert bei 29 (Fear, live per alternative.me). Keine neue Kursbewegung oder Katalysator seit dem letzten Lauf erkennbar.",
     "decision": "Keine Aenderung. GOOGL (pos-0031) unveraendert bei 288,38 USD belassen (+1,73% seit Kauf, 283,47 USD) - keine frischere Notierung verfuegbar, Boerse und Nachboerse geschlossen. Kryptomarkt bleibt breit schwach und nahezu unveraendert (Fear&Greed 29) ohne ueberzeugende Einzelchance; freies Kapital von ca. 97.338,84 EUR bleibt ungenutzt.",
-    "reasoning": "Tagesbudget fuer den 11.11. wurde bereits im ersten Lauf des Tages gutgeschrieben, in diesem Lauf keine erneute Gutschrift (lastGrantDate bereits heute). Live-Kurse per CoinGecko-API sowie Fear&Greed-Index per alternative.me erfolgreich abgerufen: Bewegungen liegen im Rauschbereich (unter 2 Prozentpunkten Differenz zum letzten Lauf), kein bestaetigter Ausbruch oder neuer Katalysator. Passt nicht zum etablierten Muster bestaetigter Ausbrueche dieses Portfolios. GOOGL bleibt ohne frische Notierung im neutralen Bereich. Kein spekulativer Einstieg nur wegen vorhandenem freiem Kapital.",
+    "reasoning": "Tagesbudget fuer den 11.11. wurde bereits im ersten Lauf des Tages gutgeschrieben, in diesem Lauf keine erneute Gutschrift (lastGrantDate bereits heute). Live-Kurse per CoinGecko-API sowie Fear&Greed-Index per alternative.me erfolgreich abgerufen: Bewegungen liegen weiterhin im Rauschbereich (unter 2 Prozentpunkten Differenz zum letzten Lauf), kein bestaetigter Ausbruch oder neuer Katalysator. Passt nicht zum etablierten Muster bestaetigter Ausbrueche dieses Portfolios. GOOGL bleibt ohne frische Notierung im neutralen Bereich. Kein spekulativer Einstieg nur wegen vorhandenem freiem Kapital.",
     "positionIds": [
       "pos-0031"
     ],
@@ -12686,6 +12686,11 @@
       {
         "time": "04:07",
         "note": "Keine Aenderung, Krypto weiter schwach und kaum veraendert (Fear&Greed 29, BTC/ETH/SOL/AVAX/XRP/LINK/DOGE -1 bis -3%), Boersen geschlossen, kein Trade",
+        "portfolioValue": 813.86
+      },
+      {
+        "time": "05:07",
+        "note": "Keine Aenderung, Krypto weiterhin schwach und kaum veraendert (Fear&Greed 29, BTC/ETH/SOL/AVAX/XRP/LINK/DOGE -1 bis -3%), Boersen geschlossen, kein Trade",
         "portfolioValue": 813.86
       }
     ]
