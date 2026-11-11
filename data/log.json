@@ -12655,9 +12655,9 @@
   },
   {
     "date": "2026-11-11",
-    "marketOverview": "US-Maerkte schlossen am 10.11. nach einem heissen Oktober-CPI (Kern +0,3% vs. +0,2% erwartet) schwaecher (S&P 500 -0,38%, Nasdaq -0,74%), da die Fed-Zinserhoehungs-Wahrscheinlichkeit fuer Dezember auf 84% sprang und die 10-Jahres-Rendite sich der 5%-Marke naeherte. Nvidia stuerzte -5,47% ab (unter 4 Bio. USD Marktkapitalisierung) wegen einer Untersuchung gegen CEO Jensen Huang (mutmassliche Affaere, Verdacht auf Hardware-Umleitung nach China) und zog den Nasdaq zusaetzlich nach unten. Kryptomarkt im selben makro-getriebenen Risk-off-Sog breit schwaecher (BTC -2%, ETH -4,3%, SOL -4,7%, AVAX -3,3%), Fear&Greed-Index bei 32 (Fear) ohne eigenstaendigen Krypto-Katalysator.",
-    "decision": "Keine Aenderung. GOOGL (pos-0031) nach Handelsschluss/Nachbörse auf 288,38 USD aktualisiert (+1,73% seit Kauf, 283,47 USD) - weiterhin deutlich unter Gewinnmitnahme- (7-9%) und Stop-Loss-Schwelle (-6,5 bis -7,5%), keine GOOGL-spezifischen Negativnachrichten. Kein neuer, mehrfach bestaetigter frischer Katalysator in Krypto gefunden (Schwaeche ist makro-getrieben durch CPI/Fed, nicht krypto-spezifisch) - daher keine neue Position eroeffnet trotz freien Kapitals von ca. 97.338,84 EUR nach Tagesgutschrift. Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten ohnehin nicht handelbar.",
-    "reasoning": "Tagesbudget-Gutschrift fuer den 11.11. durchgefuehrt (+1.000 EUR, totalFreshCapitalEur jetzt 99.000 EUR). GOOGL-Position bleibt im neutralen Zwischenbereich ohne Handlungsdruck. Kryptomarkt zeigt reine Risikoaversion ohne ueberzeugende Einzelchance (Fear&Greed 32), daher bewusst kein spekulativer Einstieg nur wegen vorhandenem freiem Kapital - gewartet wird auf eine klar bestaetigte, frische Gelegenheit.",
+    "marketOverview": "US-Maerkte schlossen am 10.11. nach heissem Oktober-CPI (Kern +0,3%) schwaecher (S&P 500 -0,38%, Nasdaq -0,74%), Fed-Dezember-Zinserhoehungswahrscheinlichkeit bei 84%. Nvidia belastet durch Untersuchung gegen CEO Jensen Huang. Kryptomarkt bleibt breit schwach (BTC rund 74.000-74.300 USD am 10.11., Fear&Greed weiterhin im unteren 30er-Bereich) ohne eigenstaendigen frischen Katalysator; keine verlaesslichen Live-Kurse fuer die aktuelle Nachtstunde per Websuche verfuegbar (US-Boerse und Nachboerse bereits geschlossen).",
+    "decision": "Keine Aenderung. GOOGL (pos-0031) unveraendert bei 288,38 USD belassen (+1,73% seit Kauf, 283,47 USD) - keine verlaesslichere aktuellere Notierung per Websuche verfuegbar, Boerse und Nachboerse ohnehin geschlossen. Kein neuer, mehrfach bestaetigter frischer Krypto-Katalysator gefunden (Schwaeche bleibt makro-getrieben, kein Einzeltitel-Ausbruch); daher keine neue Position eroeffnet trotz freien Kapitals von ca. 97.338,84 EUR.",
+    "reasoning": "Tagesbudget fuer den 11.11. wurde bereits im ersten Lauf des Tages gutgeschrieben (lastGrantDate bereits heute) - in diesem Lauf keine erneute Gutschrift. GOOGL-Position bleibt im neutralen Zwischenbereich ohne Handlungsdruck. Kryptomarkt zeigt reine Risikoaversion ohne ueberzeugende, frisch bestaetigte Einzelchance - bewusst kein spekulativer Einstieg nur wegen vorhandenem freiem Kapital.",
     "positionIds": [
       "pos-0031"
     ],
@@ -12666,6 +12666,11 @@
       {
         "time": "00:08",
         "note": "Keine Aenderung, GOOGL nachboerslich auf 288,38 USD aktualisiert (+1,73%), Kryptomarkt breit schwach (Fear&Greed 32) nach heissem CPI/hawkishem Fed-Ausblick, kein Trade",
+        "portfolioValue": 813.86
+      },
+      {
+        "time": "01:10",
+        "note": "Keine Aenderung, GOOGL unveraendert (288,38 USD, +1,73%) - keine frischere Notierung verfuegbar (Boerse/Nachboerse geschlossen), Kryptomarkt weiter schwach ohne frischen Katalysator, kein Trade",
         "portfolioValue": 813.86
       }
     ]
