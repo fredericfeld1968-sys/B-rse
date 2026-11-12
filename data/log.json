@@ -12787,9 +12787,9 @@
   },
   {
     "date": "2026-11-12",
-    "marketOverview": "Kryptomarkt bleibt in einer von Angst gepraegten, fragilen Verfassung nach dem starken Ausverkauf Anfang November (Bitcoin von ueber 100.000 auf unter 76-77.000 USD, Fear&Greed zuletzt um 28). Keine frischen, mehrfach unabhaengig bestaetigten Einzelkatalysatoren fuer BTC/ETH/SOL/XRP/AVAX/DOGE in den letzten Stunden gefunden; ein kolportierter Binance-Hack-Bericht blieb unbestaetigt (Einzelquelle). An den Aktienmaerkten belasten weiterhin die Nvidia/Huang-Governance-Untersuchung und allgemeine AI-Bubble-Sorgen sowie Unsicherheit vor der Dezember-Fed-Entscheidung; US-Boersen sind nachts geschlossen, keine frischere GOOGL-Notierung als der letzte Schlusskurs (293,96 USD) verfuegbar.",
-    "decision": "Keine Aenderung. GOOGL (pos-0031) bleibt auf letztem bekannten Kurs 293,96 USD (+3,70% seit Kauf 283,47 USD, Depotwert 829,60 EUR) - Boerse geschlossen, keine frischere Notierung auffindbar, Gewinn liegt weiter unter der etablierten Zielspanne (7-9%). Kein Krypto-Trade, da trotz fear-getriebenem Markt keine ueberzeugende, mehrfach bestaetigte Einzelchance (weder Breakout noch Reversal) vorliegt. Tagesbudget fuer 12.11. wurde gutgeschrieben (totalFreshCapitalEur 99.000 -> 100.000 EUR).",
-    "reasoning": "Erster Lauf des neuen Kalendertags (00:09 MEZ). lastGrantDate war 2026-11-11, also Tagesbudget-Gutschrift von 1.000 EUR ausgefuehrt, totalFreshCapitalEur jetzt 100.000 EUR, lastGrantDate auf 2026-11-12 gesetzt. Einzige offene Position GOOGL unveraendert gelassen, da keine frischere Notierung verfuegbar ist (US-Boersen nachts geschlossen, letzter bestaetigter Kurs weiterhin 293,96 USD). Krypto-Recherche (CoinGecko/Cointelegraph/Decrypt/u.a.) zeigt einen anhaltend angstgetriebenen, aber nicht akut neu eskalierenden Markt ohne frischen, mehrfach bestaetigten Katalysator fuer einen einzelnen Coin; ein berichteter Binance-Hack ist nur einquellig belegt und wird daher nicht als Handlungsgrundlage gewertet. Passend zum spekulativen Profil wird nur bei wirklich ueberzeugender Gelegenheit gehandelt - diese liegt aktuell nicht vor, daher kein Trade. Freies Kapital nach Gutschrift ca. 98.339 EUR (100.000 - 22.200 investiert + 20.538,84 aus geschlossenen Positionen zurueckgefuehrt).",
+    "marketOverview": "Kryptomarkt bleibt angstgetrieben ohne frischen, mehrfach bestaetigten Einzelkatalysator: erneute Recherche (Web-Suche 02:14 MEZ) liefert keine datierten, uebereinstimmenden Meldungen zu Bitcoin, Ethereum, Solana, XRP oder Avalanche fuer den 11./12.11. Vorhandene Fear&Greed-Werte sind widerspruechlich/veraltet (unterschiedliche Quellen, unterschiedliche Zeitpunkte), die juengste verlaessliche BTC-Marke bleibt der Rueckgang auf ca. 76.000 USD vom 06.11. US-Boersen weiterhin nachts geschlossen, keine frischere GOOGL-Notierung als 293,96 USD verfuegbar.",
+    "decision": "Keine Aenderung. GOOGL (pos-0031) bleibt auf letztem bekannten Kurs 293,96 USD (+3,70% seit Kauf 283,47 USD, Depotwert 829,60 EUR) - Boerse geschlossen, keine frischere Notierung auffindbar. Kein Krypto-Trade in diesem Lauf, da weiterhin keine ueberzeugende, mehrfach bestaetigte Einzelchance (Breakout oder Reversal) vorliegt. Tagesbudget fuer 12.11. wurde bereits im ersten Lauf des Tages gutgeschrieben (totalFreshCapitalEur 100.000 EUR, unveraendert in diesem Lauf).",
+    "reasoning": "Dritter Lauf des Tages (02:14 MEZ). lastGrantDate ist bereits 2026-11-12, daher keine erneute Tagesbudget-Gutschrift. Erneute Web-Recherche zu BTC/ETH/SOL/XRP/AVAX/DOGE ergab keine frischen, datierten und mehrfach bestaetigten Katalysatoren fuer den 11./12.11. - lediglich widerspruechliche, teils veraltete Fear&Greed-Werte und aeltere Artikel. Passend zum spekulativen Profil wird nur bei wirklich ueberzeugender Gelegenheit gehandelt; diese liegt weiterhin nicht vor. Einzige offene Position GOOGL unveraendert gelassen (US-Boersen nachts geschlossen, letzter bestaetigter Kurs 293,96 USD). Freies Kapital unveraendert bei ca. 98.339 EUR.",
     "positionIds": [
       "pos-0031"
     ],
@@ -12803,6 +12803,11 @@
       {
         "time": "01:09",
         "note": "Keine Aenderung. GOOGL weiter auf letztem Schlusskurs (293,96 USD, +3,70%), Boersen nachts geschlossen. Keine frischen, mehrfach bestaetigten Krypto-Katalysatoren gefunden (Live-Kurse fuer BTC/ETH nicht verfuegbar); Marktlage bleibt angstgetrieben wie im letzten Lauf. Kein Trade.",
+        "portfolioValue": 829.6
+      },
+      {
+        "time": "02:14",
+        "note": "Keine Aenderung. GOOGL weiter auf letztem Schlusskurs (293,96 USD, +3,70%), Boersen nachts geschlossen. Erneute Krypto-Recherche ohne frischen, mehrfach bestaetigten Katalysator (BTC/ETH/SOL/XRP/AVAX/DOGE) - kein Trade.",
         "portfolioValue": 829.6
       }
     ]
