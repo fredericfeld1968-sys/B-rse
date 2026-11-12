@@ -12787,13 +12787,13 @@
   },
   {
     "date": "2026-11-12",
-    "marketOverview": "Kryptomarkt bleibt angstgetrieben ohne frischen, mehrfach bestaetigten Einzelkatalysator: erneute Recherche (Web-Suche 02:14 MEZ) liefert keine datierten, uebereinstimmenden Meldungen zu Bitcoin, Ethereum, Solana, XRP oder Avalanche fuer den 11./12.11. Vorhandene Fear&Greed-Werte sind widerspruechlich/veraltet (unterschiedliche Quellen, unterschiedliche Zeitpunkte), die juengste verlaessliche BTC-Marke bleibt der Rueckgang auf ca. 76.000 USD vom 06.11. US-Boersen weiterhin nachts geschlossen, keine frischere GOOGL-Notierung als 293,96 USD verfuegbar.",
-    "decision": "Keine Aenderung. GOOGL (pos-0031) bleibt auf letztem bekannten Kurs 293,96 USD (+3,70% seit Kauf 283,47 USD, Depotwert 829,60 EUR) - Boerse geschlossen, keine frischere Notierung auffindbar. Kein Krypto-Trade in diesem Lauf, da weiterhin keine ueberzeugende, mehrfach bestaetigte Einzelchance (Breakout oder Reversal) vorliegt. Tagesbudget fuer 12.11. wurde bereits im ersten Lauf des Tages gutgeschrieben (totalFreshCapitalEur 100.000 EUR, unveraendert in diesem Lauf).",
-    "reasoning": "Dritter Lauf des Tages (02:14 MEZ). lastGrantDate ist bereits 2026-11-12, daher keine erneute Tagesbudget-Gutschrift. Erneute Web-Recherche zu BTC/ETH/SOL/XRP/AVAX/DOGE ergab keine frischen, datierten und mehrfach bestaetigten Katalysatoren fuer den 11./12.11. - lediglich widerspruechliche, teils veraltete Fear&Greed-Werte und aeltere Artikel. Passend zum spekulativen Profil wird nur bei wirklich ueberzeugender Gelegenheit gehandelt; diese liegt weiterhin nicht vor. Einzige offene Position GOOGL unveraendert gelassen (US-Boersen nachts geschlossen, letzter bestaetigter Kurs 293,96 USD). Freies Kapital unveraendert bei ca. 98.339 EUR.",
+    "marketOverview": "Kryptomarkt bleibt risikoavers: Bitcoin ist seit dem heissen US-Oktober-CPI-Bericht (14.10., wiedererwachte Sorge vor einer Fed-Zinserhoehung im Dezember) von ca. 82.000 USD auf zuletzt rund 73.500-74.000 USD (Stand 11.11., mehrfach bestaetigt u.a. Fortune, Bitcoin.com, Ad-hoc-News, Coin Republic) gefallen; Ether notiert bei ca. 2.050-2.070 USD, XRP bei ca. 1,06 USD, Solana bei ca. 83 USD - durchweg gedaempft, Spot-Bitcoin-ETFs verzeichneten in der ersten Novemberwoche Abfluesse von 1,28 Mrd. USD. Keine frische, mehrfach bestaetigte bullische Einzelchance erkennbar. US-Boersen sind nachts (03:09 MEZ) geschlossen; GOOGL schloss den regulaeren Handel am 11.11. offiziell bei 293,45 USD (+2,11% Tagesplus, bestaetigt via stockanalysis.com), leicht unter dem zuvor als Zwischenstand gefuehrten Intraday-Wert 293,96 USD.",
+    "decision": "Keine Aenderung. GOOGL (pos-0031) auf den offiziellen Schlusskurs vom 11.11. (293,45 USD, +3,52% seit Kauf 283,47 USD, Depotwert 828,17 EUR) aktualisiert - Gewinn liegt noch unter der etablierten Zielspanne (7-9%), Dip-Kauf-These weiterhin intakt, daher gehalten. Kein Krypto-Trade in diesem Lauf: Bitcoin/Krypto-Markt bleibt seit dem CPI-Schock vom 14.10. in einem anhaltenden Abwaertstrend ohne neuen, mehrfach bestaetigten bullischen Einzelkatalysator - keine ueberzeugende Gelegenheit. Tagesbudget fuer 12.11. wurde bereits im ersten Lauf des Tages gutgeschrieben (totalFreshCapitalEur unveraendert 100.000 EUR).",
+    "reasoning": "Vierter Lauf des Tages (03:09 MEZ). lastGrantDate ist bereits 2026-11-12, daher keine erneute Tagesbudget-Gutschrift. Web-Recherche zu BTC/ETH/SOL/XRP sowie zu GOOGL ergab: (1) Krypto bleibt in einem mehrwoechigen Abwaertstrend seit dem Fed-Zinserhoehungs-Schreck vom 14.10., aktuell keine neue, mehrfach bestaetigte Breakout- oder Reversal-Story - passend zum spekulativen Profil wird nur bei wirklich ueberzeugender Gelegenheit gehandelt, diese liegt nicht vor, daher kein Trade. (2) Fuer GOOGL konnte erstmals der offizielle Boersenschluss vom 11.11. (293,45 USD, stockanalysis.com) bestaetigt werden; Position entsprechend von 293,96 USD auf 293,45 USD korrigiert. Freies Kapital unveraendert bei ca. 98.338,84 EUR (keine Kaeufe/Verkaeufe in diesem Lauf).",
     "positionIds": [
       "pos-0031"
     ],
-    "portfolioValueEnd": 829.6,
+    "portfolioValueEnd": 828.17,
     "updates": [
       {
         "time": "00:09",
@@ -12809,6 +12809,11 @@
         "time": "02:14",
         "note": "Keine Aenderung. GOOGL weiter auf letztem Schlusskurs (293,96 USD, +3,70%), Boersen nachts geschlossen. Erneute Krypto-Recherche ohne frischen, mehrfach bestaetigten Katalysator (BTC/ETH/SOL/XRP/AVAX/DOGE) - kein Trade.",
         "portfolioValue": 829.6
+      },
+      {
+        "time": "03:09",
+        "note": "Keine Aenderung, kein Trade. GOOGL-Kurs auf offiziellen Schlusskurs 11.11. (293,45 USD, +3,52%) korrigiert. Kryptomarkt weiter im Abwaertstrend seit CPI-Schock vom 14.10. (BTC ca. 73,5-74k USD), keine ueberzeugende Einzelchance.",
+        "portfolioValue": 828.17
       }
     ]
   }
