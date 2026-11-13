@@ -12915,9 +12915,9 @@
   },
   {
     "date": "2026-11-13",
-    "marketOverview": "11:08 CET: US-Boersen weiterhin vor Handelsbeginn (ab 15:30 CET), GOOGL (299,80 USD) und NVDA (166,19 USD) ohne frischere verlaessliche Notierung unveraendert. Kryptomarkt verbleibt in 'Extreme Fear' (Fear&Greed-Index seit Stunden bei rund 20), Bitcoin oszilliert seit mehreren Laeufen eng um 68.000-69.000 USD ohne bestaetigten Boden oder neuen Einzelkatalysator; aktuelle Live-Quellen liefern keine eindeutig frischere, verlaessliche Notierung.",
-    "decision": "Tagesbudget fuer 13.11. bereits um 06:10 gutgeschrieben (totalFreshCapitalEur 101.000 EUR, keine erneute Gutschrift). Keine Aenderung an den offenen Positionen: GOOGL (pos-0031, +5,76% seit Kauf 283,47 USD, Depotwert 846,09 EUR) und NVDA (pos-0035, +3,71% seit Kauf 160,25 USD, Depotwert 1.037,07 EUR) bleiben unveraendert, da vor Handelsbeginn keine frischere Notierung vorliegt. Kein neuer Trade: Kryptomarkt bietet keine ueberzeugende, bestaetigte Gelegenheit.",
-    "reasoning": "Beide offenen Positionen liegen weiterhin zwischen der Stop-Loss-Schwelle (-6,5 bis -7,5%) und der Ziel-Gewinnspanne (7-9%), daher unveraendert gehalten. US-Boersen sind vor 15:30 CET nicht handelbar. Der Kryptomarkt verharrt seit mehreren Stunden in Extreme Fear ohne bestaetigten Boden oder neuen, einzeltitelspezifischen Katalysator - daher bewusst kein spekulativer Krypto-Trade in dieser Stunde.",
+    "marketOverview": "US-Boersen weiterhin geschlossen (Oeffnung 15:30 CET), Xetra/Europa im regulaeren Freitagshandel ohne Positionen dort. Kryptomarkt verbleibt im Fear/Extreme-Fear-Bereich; kein frischer, mehrfach bestaetigter Einzelkatalysator fuer Aktien, ETFs, Krypto oder Rohstoffe in den letzten Stunden identifiziert.",
+    "decision": "Tagesbudget fuer 13.11. bereits um 06:10 gutgeschrieben (totalFreshCapitalEur 101.000 EUR, keine erneute Gutschrift). Keine Aenderung an den offenen Positionen: GOOGL (pos-0031, +5,76% seit Kauf 283,47 USD) und NVDA (pos-0035, +3,71% seit Kauf 160,25 USD) werden unveraendert gehalten, da US-Boersen den ganzen Tag bis 15:30 CET geschlossen bleiben. Im bisherigen Tagesverlauf (00:08-12:09) durchgehend kein Trade: Kryptomarkt verblieb im Fear/Extreme-Fear-Bereich ohne bestaetigten, handelbaren Einzelkatalysator.",
+    "reasoning": "Stuendliche Pruefung ohne neue, mehrfach bestaetigte Marktbewegung seit dem letzten Lauf. GOOGL/NVDA bleiben mangels frischer US-Notierung (Markt geschlossen) auf dem Stand von 00:08 (299,80 USD bzw. 166,19 USD). Fuer Krypto kein konkreter, aktuell bestaetigter Einzelkatalysator (z.B. ETF-Fluesse, Regulierung, Exchange-Listing) gefunden, der eine spekulative Position rechtfertigen wuerde - lediglich fortgesetzte allgemeine Risikoaversion. Passend zum Grundsatz, nur bei wirklich ueberzeugender Gelegenheit zu handeln, bleibt das Portfolio unveraendert.",
     "positionIds": [
       "pos-0031",
       "pos-0035"
@@ -12982,6 +12982,11 @@
       {
         "time": "11:08",
         "note": "Keine Aenderung. GOOGL/NVDA unveraendert (US-Boersen vor Handelsbeginn, keine frischere Notierung). Kryptomarkt weiterhin in Extreme Fear ohne bestaetigten neuen Katalysator - kein Trade.",
+        "portfolioValue": 1883.16
+      },
+      {
+        "time": "12:09",
+        "note": "Keine Aenderung. GOOGL/NVDA unveraendert (US-Boersen weiterhin geschlossen bis 15:30 CET, keine frischere Notierung verfuegbar; Xetra/Europa-Handel laeuft, aber ohne Positionen in diesen Maerkten). Keine neuen, konkret bestaetigten Katalysatoren der letzten Stunde gefunden; Kryptomarkt bleibt gemaess verfuegbaren Quellen im Fear/Extreme-Fear-Bereich ohne klaren Einzelkatalysator - kein Trade.",
         "portfolioValue": 1883.16
       }
     ]
