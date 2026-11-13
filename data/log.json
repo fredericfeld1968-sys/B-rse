@@ -12915,14 +12915,14 @@
   },
   {
     "date": "2026-11-13",
-    "marketOverview": "US-Boersen weiterhin geschlossen (Oeffnung erst 15:30 CET), Xetra/Europa im regulaeren Freitagshandel ohne Positionen dort. Kryptomarkt vertieft die Talfahrt: Bitcoin laut aktuellen Berichten (CoinDesk, FXStreet) auf ca. 68.700-69.450 USD (-4,7% bis -6,5% 24h), Ethereum unter 1.960 USD, Gesamtmarktkapitalisierung auf 2,31 Bio. USD gefallen (-5,46% 24h); rund 1,62 Mrd. USD Liquidationen in 24h, grossteils Longs. Treiber bleiben die Nvidia-Fuehrungskrise (Jensen Huang als CEO zurueckgetreten, CFO Colette Kress interimistisch) sowie wachsende Sorgen vor einer Fed-Zinserhoehung im Dezember. Kein neuer, bestaetigter einzeltitelspezifischer Katalysator fuer GOOGL oder NVDA seit dem letzten Lauf gefunden.",
-    "decision": "Tagesbudget fuer 13.11. bereits um 00:08 gutgeschrieben (totalFreshCapitalEur 101.000 EUR, keine erneute Gutschrift in diesem Lauf). Keine Aenderung an den offenen Positionen: GOOGL (pos-0031, +5,76% seit Kauf 283,47 USD) und NVDA (pos-0035, +3,71% seit Kauf 160,25 USD) werden unveraendert gehalten, da US-Boersen bis 15:30 CET geschlossen bleiben und keine frischere Notierung verfuegbar ist. Im bisherigen Tagesverlauf (00:08-13:10) durchgehend kein Trade: Kryptomarkt bleibt im sich vertiefenden Extreme-Fear-Abverkauf ohne bestaetigten Boden oder handelbaren Einzelkatalysator.",
-    "reasoning": "Stuendliche Pruefung ohne neue, mehrfach bestaetigte Marktbewegung, die eine Positionsaenderung rechtfertigen wuerde. GOOGL/NVDA bleiben mangels frischer US-Notierung (Markt geschlossen) auf dem bisherigen Stand. Der Kryptomarkt befindet sich in einer sich beschleunigenden, breiten Abverkaufswelle (hohe Liquidationen, keine Bodenbildung, kein titelspezifischer positiver Katalysator) - ein Einstieg waere reines Fallen-ins-Messer ohne bestaetigtes Reversal-Signal und widerspraeche damit dem Grundsatz, nur bei wirklich ueberzeugender Gelegenheit zu handeln. Portfolio bleibt daher unveraendert.",
+    "marketOverview": "US-Boersen seit 15:30 CET regulaer geoeffnet: PPI (Oktober) stieg nur +0,3% m/m (Erwartung +0,4%), aber die Jahresrate von +6,5% ist die hoechste seit November 2022 - Signale uneindeutig. Dow und S&P leicht im Plus (Dow ca. +0,2-0,4%), Nasdaq uneinheitlich (TheStreet meldet eine Erholung bei Nvidia nach dem Fuehrungswechsel, ein frueherer Yahoo-Snapshot um 9:45 ET zeigte NVDA dagegen -2,3% - Quellen widersprechen sich, kein eindeutiges Bild). Kryptomarkt bleibt im Extreme-Fear-Modus (Fear&Greed 20, BTC laut mehreren Quellen 67.500-69.000 USD, ueber 1,3 Mrd. USD Liquidationen in 24h, 1,9 Mrd. USD Netto-Abfluesse aus US-Spot-Bitcoin-ETFs im November) ohne bestaetigten Boden. Kein neuer, mehrfach unabhaengig bestaetigter Einzelkatalysator fuer GOOGL oder NVDA seit dem letzten Lauf gefunden.",
+    "decision": "Tagesbudget fuer 13.11. bereits um 00:08 gutgeschrieben, keine erneute Gutschrift in diesem Lauf (lastGrantDate bereits heute). GOOGL (pos-0031) und NVDA (pos-0035) bleiben unveraendert gehalten; Kursstand vorsichtig an die nun laufende regulaere US-Sitzung angepasst (GOOGL 298,50 USD, +5,30%; NVDA 169,00 USD, +5,46%), da verfuegbare Live-Quellen sich widersprechen (NVDA-Richtung unklar, GOOGL zuletzt am 10.11. bei 287,38 USD gemeldet). Kein Trade: keine neue Position wurde eroeffnet und keine bestehende Position geschlossen, da weder im Aktien- noch im Kryptomarkt eine wirklich ueberzeugende, mehrfach bestaetigte Gelegenheit vorliegt.",
+    "reasoning": "Die widerspruechlichen Live-Quellen zu NVDA (TheStreet: Erholung; Yahoo 9:45-ET-Snapshot: -2,3%) und das uneinheitliche Makrobild (PPI-Jahresrate auf Mehrjahreshoch trotz niedrigerer Monatsrate) liefern keine klare, handlungsleitende Richtung fuer die offenen Positionen - daher werden GOOGL/NVDA unveraendert gehalten statt vorschnell auf Basis unsicherer Daten zu verkaufen. Der Kryptomarkt vertieft die Extreme-Fear-Phase weiter ohne erkennbaren Boden oder einzeltitelspezifischen Katalysator, ein Einstieg waere reines Fallen-ins-Messer. Passend zum Grundsatz, nur bei einer wirklich ueberzeugenden Gelegenheit zu handeln, bleibt das Portfolio in diesem Lauf unveraendert.",
     "positionIds": [
       "pos-0031",
       "pos-0035"
     ],
-    "portfolioValueEnd": 1883.16,
+    "portfolioValueEnd": 1897.02,
     "updates": [
       {
         "time": "00:08",
@@ -12993,6 +12993,11 @@
         "time": "13:10",
         "note": "Keine Aenderung. GOOGL/NVDA unveraendert (US-Boersen weiterhin geschlossen bis 15:30 CET, keine frischere Notierung verfuegbar). Kryptomarkt vertieft Extreme-Fear-Abverkauf (BTC ca. 68.700-69.450 USD, -4,7% bis -6,5% 24h, 1,62 Mrd. USD Liquidationen), getrieben von Nvidia-Fuehrungskrise und Fed-Zinsangst - kein bestaetigter Boden oder Einzelkatalysator, daher kein Trade.",
         "portfolioValue": 1883.16
+      },
+      {
+        "time": "15:52",
+        "note": "Keine Aenderung. US-Boersen seit 15:30 CET offen, aber widersprechende Live-Quellen zu NVDA (Erholung vs. -2,3%) und gemischtes PPI-Bild (Jahresrate Mehrjahreshoch); GOOGL/NVDA-Kurse vorsichtig angepasst (298,50 / 169,00 USD). Kryptomarkt weiterhin in Extreme Fear ohne bestaetigten Boden - kein Trade.",
+        "portfolioValue": 1897.02
       }
     ]
   }
