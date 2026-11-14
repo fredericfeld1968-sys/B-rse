@@ -13043,14 +13043,14 @@
   },
   {
     "date": "2026-11-14",
-    "marketOverview": "Samstagnacht: US-Boersen, ETFs und Rohstoffe weiterhin geschlossen, GOOGL (295,37 USD) und NVDA (162,68 USD) unveraendert zum Freitagsschluss. Kryptomarkt setzt den breiten Risk-off-Trend ohne neuen Einzelkatalysator fort: BTC laut CoinGecko-Live-API bei 68.250 USD (-3,68% 24h), ETH 1.929,80 USD (-3,79%), SOL 77,43 USD (-4,77%), AVAX 8,23 USD (-1,03%), DOGE 0,064545 USD (-2,62%), XRP 1,008 USD (-2,23%), QNT 159,00 USD (-1,74%) - synchrone, marktweite Schwaeche ohne bestaetigten Ausloeser.",
-    "decision": "Tagesbudget bereits um 00:09 gutgeschrieben (totalFreshCapitalEur 102.000 EUR). Keine Aenderung an den Positionen: GOOGL (pos-0031) und NVDA (pos-0035) unveraendert gehalten (Boersen am Wochenende geschlossen). Kein Trade in diesem Lauf.",
-    "reasoning": "Spekulatives Risikoprofil erlaubt kurzfristiges Handeln, aber nur bei wirklich ueberzeugender, mehrfach bestaetigter Einzelgelegenheit. Der Kryptomarkt bleibt durchgaengig im breiten Risk-off (alle beobachteten Coins -1 bis -5% in 24h) ohne neuen, konkret benannten Katalysator - daher weiterhin kein spekulativer Dip-Kauf. Aktien/ETFs/Rohstoffe sind am Wochenende nicht handelbar. Freies Kapital (ca. 99.339 EUR) bleibt ungenutzt bis eine belastbare Einzelgelegenheit auftritt.",
+    "marketOverview": "Samstagnacht: US-Boersen, ETFs und Rohstoffe weiterhin geschlossen, GOOGL (295,77 USD) und NVDA (162,85 USD) nahezu unveraendert zum Freitagsschluss. Kryptomarkt setzt den breiten Risk-off-Trend ohne neuen Einzelkatalysator fort: BTC laut CoinGecko-Live-API bei 68.221 USD (-3,57% 24h), ETH 1.925,99 USD (-4,02%), SOL 76,88 USD (-5,18%), AVAX 8,16 USD (-2,03%), DOGE 0,064127 USD (-3,11%), XRP 1,005 USD (-2,25%), QNT 158,75 USD (-1,80%) - synchrone, marktweite Schwaeche ohne bestaetigten Ausloeser, Werte nahezu unveraendert zum letzten Lauf.",
+    "decision": "Tagesbudget bereits um 00:09 gutgeschrieben (totalFreshCapitalEur 102.000 EUR). Keine Aenderung an den Positionen: GOOGL (pos-0031) und NVDA (pos-0035) unveraendert gehalten (Boersen am Wochenende geschlossen), Kurswerte aktualisiert. Kein Trade in diesem Lauf.",
+    "reasoning": "Spekulatives Risikoprofil erlaubt kurzfristiges Handeln, aber nur bei wirklich ueberzeugender, mehrfach bestaetigter Einzelgelegenheit. Der Kryptomarkt bleibt durchgaengig im breiten Risk-off (alle beobachteten Coins -2 bis -5% in 24h) ohne neuen, konkret benannten Katalysator - daher weiterhin kein spekulativer Dip-Kauf. Aktien/ETFs/Rohstoffe sind am Wochenende nicht handelbar. Freies Kapital (ca. 99.339 EUR) bleibt ungenutzt bis eine belastbare Einzelgelegenheit auftritt.",
     "positionIds": [
       "pos-0031",
       "pos-0035"
     ],
-    "portfolioValueEnd": 1848.74,
+    "portfolioValueEnd": 1850.93,
     "updates": [
       {
         "time": "00:09",
@@ -13066,6 +13066,11 @@
         "time": "02:08",
         "note": "Weiterhin keine Aenderung: Boersen/ETFs/Rohstoffe am Wochenende geschlossen, GOOGL/NVDA unveraendert. Kryptomarkt setzt breiten Risk-off fort (BTC 68.250 USD -3,68%, ETH/SOL/AVAX/DOGE/XRP/QNT alle im Minus) ohne neuen Einzelkatalysator - kein Trade.",
         "portfolioValue": 1848.74
+      },
+      {
+        "time": "03:08",
+        "note": "Keine Aenderung: Boersen/ETFs/Rohstoffe am Wochenende geschlossen, GOOGL/NVDA leicht hoeher (295,77/162,85 USD). Kryptomarkt weiterhin breiter Risk-off (BTC 68.221 USD -3,57%, alle Top-Coins im Minus) ohne neuen Einzelkatalysator - kein Trade.",
+        "portfolioValue": 1850.93
       }
     ]
   }
