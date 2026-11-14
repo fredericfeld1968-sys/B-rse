@@ -13043,9 +13043,9 @@
   },
   {
     "date": "2026-11-14",
-    "marketOverview": "Samstag 20:09 CET: US-Boersen, ETFs und Rohstoffe weiterhin geschlossen (Wochenende); GOOGL (295,77 USD) und NVDA (162,85 USD) unveraendert zum Freitagsschluss (13.11.). Krypto: Bitcoin laut CoinGecko-Live-Kurs auf 65.622 USD gefallen (-4,8% in 24h), Crypto Fear&Greed-Index bei 13 ('Extreme Fear', gestern 20, letzte Woche 25) - breiter, anhaltender Risk-off-Ausverkauf ohne erkennbaren Boden. Websuche liefert keinen frischen, einzeltitelbezogenen, mehrfach bestaetigten Kaufkatalysator; vereinzelte Altcoin-Meldungen sind undatiert oder unbestaetigt.",
-    "decision": "Tagesbudget bereits um 00:09 gutgeschrieben (totalFreshCapitalEur 102.000 EUR, keine erneute Gutschrift heute, lastGrantDate=2026-11-14). Keine Aenderung an den Positionen: GOOGL (pos-0031) und NVDA (pos-0035) unveraendert gehalten (Boersen am Wochenende geschlossen). Weiterhin kein Trade an diesem Tag (00:09-20:09 Uhr) - trotz klar bestaetigtem Krypto-Ausverkauf (Extreme Fear 13) kein Kauf, da ein Einstieg in eine fallende Bewegung ohne Bodenbestaetigung reines Gluecksspiel waere, kein Trade passend zur Strategie.",
-    "reasoning": "Spekulatives Risikoprofil erlaubt kurzfristiges Handeln, aber nur bei einer wirklich ueberzeugenden, mehrfach bestaetigten Einzelgelegenheit - ein tiefer, marktbreiter Ausverkauf mit Extreme-Fear-Sentiment (13) ist fuer sich allein noch keine solche Gelegenheit, sondern erhoeht nur das Rueckschlagsrisiko eines verfruehten Einstiegs ('falling knife'). Aktien/ETFs/Rohstoffe sind am Wochenende ohnehin nicht handelbar. Freies Kapital (ca. 99.338,84 EUR) bleibt ungenutzt bis eine belastbare Einzelgelegenheit mit verlaesslicher, bestaetigter Datenlage und einem konkreten Katalysator erkennbar ist.",
+    "marketOverview": "Samstag 21:08 CET: US-Boersen, ETFs und Rohstoffe weiterhin geschlossen (Wochenende); GOOGL (295,77 USD) und NVDA (162,85 USD) unveraendert zum Freitagsschluss (13.11.). Krypto-Websuche liefert weiterhin keine verlaesslich taggleichen, einzeltitelbezogenen Live-Kurse oder einen frischen, mehrfach bestaetigten Katalysator (Ergebnisse stark veraltet bzw. widersprechend, teils Wochen alt); zuletzt (20:09) wurde ein breiter Krypto-Ausverkauf im Extreme-Fear-Modus (Index 13) beobachtet, aktuell keine neue belastbare Bestaetigung.",
+    "decision": "Tagesbudget bereits um 00:09 gutgeschrieben (totalFreshCapitalEur 102.000 EUR, keine erneute Gutschrift heute, lastGrantDate=2026-11-14). Keine Aenderung an den Positionen: GOOGL (pos-0031) und NVDA (pos-0035) unveraendert gehalten (Boersen am Wochenende geschlossen). Weiterhin kein Trade an diesem Tag (00:09-21:08 Uhr) - keine verlaesslich bestaetigte Einzelgelegenheit in Krypto erkennbar, kein Trade passend zur Strategie.",
+    "reasoning": "Spekulatives Risikoprofil erlaubt kurzfristiges Handeln, aber nur bei einer wirklich ueberzeugenden, mehrfach bestaetigten Einzelgelegenheit. Die aktuelle Websuche liefert keine verlaesslichen, taggleichen Kursdaten oder Katalysatoren fuer Krypto (widersspruechliche/veraltete Quellen), Aktien/ETFs/Rohstoffe sind am Wochenende ohnehin nicht handelbar. Freies Kapital (ca. 99.338,84 EUR) bleibt ungenutzt bis eine belastbare Einzelgelegenheit mit verlaesslicher, bestaetigter Datenlage und einem konkreten Katalysator erkennbar ist.",
     "positionIds": [
       "pos-0031",
       "pos-0035"
@@ -13155,6 +13155,11 @@
       {
         "time": "20:09",
         "note": "Keine Aenderung: Boersen/ETFs/Rohstoffe am Wochenende weiterhin geschlossen, GOOGL/NVDA unveraendert gehalten. Krypto-Markt bestaetigt im Extreme-Fear-Modus (Fear&Greed 13, BTC -4,8% auf 65.622 USD) ohne konkreten Einzelkatalysator - kein Trade.",
+        "portfolioValue": 1850.93
+      },
+      {
+        "time": "21:08",
+        "note": "Keine Aenderung: Boersen/ETFs/Rohstoffe am Wochenende weiterhin geschlossen, GOOGL/NVDA unveraendert gehalten. Krypto-Websuche liefert weiterhin keine verlaesslich taggleichen Kursdaten/Katalysatoren - kein Trade.",
         "portfolioValue": 1850.93
       }
     ]
