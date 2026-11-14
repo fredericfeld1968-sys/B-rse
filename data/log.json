@@ -13043,9 +13043,9 @@
   },
   {
     "date": "2026-11-14",
-    "marketOverview": "Samstagnacht: US-Boersen, ETFs und Rohstoffe weiterhin geschlossen, GOOGL (295,77 USD) und NVDA (162,85 USD) nahezu unveraendert zum Freitagsschluss. Kryptomarkt setzt den breiten Risk-off-Trend ohne neuen Einzelkatalysator fort: BTC laut CoinGecko-Live-API bei 68.221 USD (-3,57% 24h), ETH 1.925,99 USD (-4,02%), SOL 76,88 USD (-5,18%), AVAX 8,16 USD (-2,03%), DOGE 0,064127 USD (-3,11%), XRP 1,005 USD (-2,25%), QNT 158,75 USD (-1,80%) - synchrone, marktweite Schwaeche ohne bestaetigten Ausloeser, Werte nahezu unveraendert zum letzten Lauf.",
-    "decision": "Tagesbudget bereits um 00:09 gutgeschrieben (totalFreshCapitalEur 102.000 EUR). Keine Aenderung an den Positionen: GOOGL (pos-0031) und NVDA (pos-0035) unveraendert gehalten (Boersen am Wochenende geschlossen), Kurswerte aktualisiert. Kein Trade in diesem Lauf.",
-    "reasoning": "Spekulatives Risikoprofil erlaubt kurzfristiges Handeln, aber nur bei wirklich ueberzeugender, mehrfach bestaetigter Einzelgelegenheit. Der Kryptomarkt bleibt durchgaengig im breiten Risk-off (alle beobachteten Coins -2 bis -5% in 24h) ohne neuen, konkret benannten Katalysator - daher weiterhin kein spekulativer Dip-Kauf. Aktien/ETFs/Rohstoffe sind am Wochenende nicht handelbar. Freies Kapital (ca. 99.339 EUR) bleibt ungenutzt bis eine belastbare Einzelgelegenheit auftritt.",
+    "marketOverview": "Samstagmorgen: US-Boersen, ETFs und Rohstoffe weiterhin geschlossen (Wochenende). GOOGL (295,77 USD) und NVDA (162,85 USD) unveraendert zum Freitagsschluss. Krypto-Websuche liefert erneut keine verlaesslichen, frisch datierten Live-Kurse (widersprechende/undatierte Quellen zwischen ca. 65.000 und 84.000 USD fuer BTC) und keinen neuen Einzelkatalysator - der zuletzt bestaetigte breite Risk-off-Trend (Fear&Greed 18 \"Extreme Fear\", BTC unter 70.000 USD, sechste Wochenverlust-Woche in Folge, hohe Dezember-Zinserhoehungs-Erwartung) bleibt somit die beste verfuegbare Einschaetzung.",
+    "decision": "Tagesbudget bereits um 00:09 gutgeschrieben (totalFreshCapitalEur 102.000 EUR, keine erneute Gutschrift). Keine Aenderung an den Positionen: GOOGL (pos-0031) und NVDA (pos-0035) unveraendert gehalten (Boersen am Wochenende geschlossen). Kein Trade in diesem Lauf.",
+    "reasoning": "Spekulatives Risikoprofil erlaubt kurzfristiges Handeln, aber nur bei einer wirklich ueberzeugenden, mehrfach bestaetigten Einzelgelegenheit. Fuer Krypto liefert die Websuche aktuell keine verlaesslichen, taggleichen Kursdaten bzw. keinen neuen Katalysator gegenueber dem zuletzt bestaetigten breiten Risk-off (Extreme Fear 18); ein Trade ohne belastbare Datenbasis waere nicht verantwortbar. Aktien/ETFs/Rohstoffe sind am Wochenende nicht handelbar. Freies Kapital (ca. 99.338,84 EUR) bleibt ungenutzt bis eine belastbare Einzelgelegenheit mit verlaesslicher Datenlage auftritt.",
     "positionIds": [
       "pos-0031",
       "pos-0035"
@@ -13080,6 +13080,11 @@
       {
         "time": "05:08",
         "note": "Keine Aenderung: Boersen/ETFs/Rohstoffe am Wochenende weiterhin geschlossen, GOOGL/NVDA unveraendert gehalten. Kryptomarkt bleibt im extremen Risk-off (Fear&Greed-Index bei 18, 'Extreme Fear', BTC unter 70.000 USD, sechste Wochenverlust-Woche in Folge; Fed-Zinserhoehungs-Wahrscheinlichkeit fuer Dezember auf ueber 89% gestiegen nach heisser Inflationsdaten, anhaltende Spot-BTC-ETF-Abfluesse, Nachwirkungen des Nvidia-CEO-Ruecktritts belasten KI-Aktien und Krypto gleichermassen) - kein neuer bestaetigter Einzelkatalysator fuer einen spekulativen Dip-Kauf erkennbar, daher kein Trade.",
+        "portfolioValue": 1850.93
+      },
+      {
+        "time": "06:07",
+        "note": "Keine Aenderung: Boersen/ETFs/Rohstoffe am Wochenende geschlossen, GOOGL/NVDA unveraendert. Krypto-Websuche liefert keine verlaesslichen taggleichen Live-Kurse/Katalysatoren - kein Trade.",
         "portfolioValue": 1850.93
       }
     ]
