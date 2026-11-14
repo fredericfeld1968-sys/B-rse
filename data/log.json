@@ -13043,8 +13043,8 @@
   },
   {
     "date": "2026-11-14",
-    "marketOverview": "Samstag 11:08 CET: US-Boersen, ETFs und Rohstoffe weiterhin geschlossen (Wochenende); GOOGL (295,77 USD) und NVDA (162,85 USD) unveraendert zum Freitagsschluss. Erneute Websuche liefert fuer Krypto erneut keine verlaesslich auf heute (14.11.) datierten Live-Kurse - lediglich aeltere Berichte (bis 10./11.11.) zu einem anhaltenden Risk-off-Umfeld (BTC ca. 74.000 USD, Abrutsch unter fruehere Unterstuetzungszonen, Fear&Greed zuvor im Bereich Fear/Extreme Fear). Kein neuer, belastbarer Einzelkatalysator fuer heute erkennbar.",
-    "decision": "Tagesbudget bereits um 00:09 gutgeschrieben (totalFreshCapitalEur 102.000 EUR, keine erneute Gutschrift heute, lastGrantDate=2026-11-14). Keine Aenderung an den Positionen: GOOGL (pos-0031) und NVDA (pos-0035) unveraendert gehalten (Boersen am Wochenende geschlossen). Bisher kein Trade an diesem Tag (00:09-11:08 Uhr) - auch die aktuelle Websuche liefert keine verlaessliche, neue Einzelgelegenheit.",
+    "marketOverview": "Samstag 12:09 CET: US-Boersen, ETFs und Rohstoffe weiterhin geschlossen (Wochenende); GOOGL (295,77 USD) und NVDA (162,85 USD) unveraendert zum Freitagsschluss. Erneute Websuche liefert fuer Krypto erneut keine verlaesslich auf heute (14.11.) datierten Live-Kurse - die juengsten verlaesslichen Daten (bis 10./11.11.) zeigen einen anhaltenden, mehrwoechigen Risk-off-Trend (BTC ca. 73.000-75.000 USD, deutlich unter fruehere Niveaus, hohe ETF-Abfluesse, Fear&Greed im Angstbereich). Kein neuer, belastbarer Einzelkatalysator fuer heute erkennbar.",
+    "decision": "Tagesbudget bereits um 00:09 gutgeschrieben (totalFreshCapitalEur 102.000 EUR, keine erneute Gutschrift heute, lastGrantDate=2026-11-14). Keine Aenderung an den Positionen: GOOGL (pos-0031) und NVDA (pos-0035) unveraendert gehalten (Boersen am Wochenende geschlossen). Weiterhin kein Trade an diesem Tag (00:09-12:09 Uhr) - auch die aktuelle Websuche liefert keine verlaessliche, neue Einzelgelegenheit.",
     "reasoning": "Spekulatives Risikoprofil erlaubt kurzfristiges Handeln, aber nur bei einer wirklich ueberzeugenden, mehrfach bestaetigten Einzelgelegenheit. Die aktuelle Websuche liefert fuer Krypto erneut keine verlaesslich auf heute datierten, uebereinstimmenden Kursangaben oder einen frischen Einzelkatalysator - ein Kauf waere reines Gluecksspiel ohne belastbare These. Aktien/ETFs/Rohstoffe sind am Wochenende ohnehin nicht handelbar. Freies Kapital (ca. 99.338,84 EUR) bleibt ungenutzt bis eine belastbare Einzelgelegenheit mit verlaesslicher, bestaetigter Datenlage erkennbar ist.",
     "positionIds": [
       "pos-0031",
@@ -13110,6 +13110,11 @@
       {
         "time": "11:08",
         "note": "Keine Aenderung: Boersen/ETFs/Rohstoffe am Wochenende weiterhin geschlossen, GOOGL/NVDA unveraendert gehalten. Krypto-Websuche liefert erneut keine verlaesslich taggleichen Kursdaten/Katalysatoren - kein Trade.",
+        "portfolioValue": 1850.93
+      },
+      {
+        "time": "12:09",
+        "note": "Keine Aenderung (Wochenende, kein Krypto-Einzelkatalysator)",
         "portfolioValue": 1850.93
       }
     ]
