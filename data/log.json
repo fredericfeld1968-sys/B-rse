@@ -13044,8 +13044,8 @@
   {
     "date": "2026-11-14",
     "marketOverview": "Neuer Tag (Samstag): US-Boersen, ETFs und Rohstoffe bleiben das gesamte Wochenende ueber geschlossen, GOOGL (295,37 USD, +4,20%) und NVDA (162,68 USD, +1,52%) daher unveraendert zum Freitagsschluss gehalten. Kryptomarkt im breiten Risk-off: BTC laut CoinGecko-Live-API bei 68.012 USD (-4,80% in 24h), ETH -4,85%, SOL -5,16%, AVAX -2,28%, DOGE -3,70%, XRP -3,20% - eine synchrone, marktweite Abwaertsbewegung ohne einzelnen bestaetigten Katalysator, im Einklang mit der anhaltend restriktiven Fed-Kommunikation (weitere Zinserhoehungssignale) vom Freitag.",
-    "decision": "Tagesbudget gutgeschrieben (+1.000 EUR, totalFreshCapitalEur jetzt 102.000 EUR). Keine Aenderung an den Positionen: GOOGL (pos-0031) und NVDA (pos-0035) unveraendert gehalten (Boersen geschlossen). Kein Trade.",
-    "reasoning": "Spekulatives Risikoprofil erlaubt kurzfristiges Handeln, aber nur bei wirklich ueberzeugender, mehrfach bestaetigter Gelegenheit. Der breite, synchrone Kryptoabverkauf (-3 bis -5% ueber alle grossen Coins) ist kein einzelner, konkret benannter Kaufkatalysator, sondern ein marktweiter Risk-off-Zug ohne erkennbaren Boden - daher kein spekulativer Dip-Kauf. Aktien/ETFs/Rohstoffe sind am Wochenende nicht handelbar. Freies Kapital (ca. 99.339 EUR) bleibt ungenutzt bis eine belastbare Einzelgelegenheit auftritt.",
+    "decision": "Tagesbudget bereits um 00:09 gutgeschrieben (totalFreshCapitalEur 102.000 EUR). Keine Aenderung an den Positionen: GOOGL (pos-0031) und NVDA (pos-0035) unveraendert gehalten (Boersen am Wochenende geschlossen). Kein Trade in diesem Lauf.",
+    "reasoning": "Spekulatives Risikoprofil erlaubt kurzfristiges Handeln, aber nur bei wirklich ueberzeugender, mehrfach bestaetigter Gelegenheit. Der Kryptomarkt bleibt im breiten Risk-off/Angstmodus ohne neuen, konkret benannten Einzelkatalysator - daher kein spekulativer Dip-Kauf. Aktien/ETFs/Rohstoffe sind am Wochenende nicht handelbar. Freies Kapital (ca. 99.339 EUR) bleibt ungenutzt bis eine belastbare Einzelgelegenheit auftritt.",
     "positionIds": [
       "pos-0031",
       "pos-0035"
@@ -13055,6 +13055,11 @@
       {
         "time": "00:09",
         "note": "Tagesbudget gutgeschrieben (+1.000 EUR, totalFreshCapitalEur jetzt 102.000 EUR). GOOGL/NVDA unveraendert (Boersen geschlossen). Kryptomarkt breit schwaecher (BTC 68.012 USD, -4,80% 24h, alle Top-Coins -2 bis -5%) ohne Einzelkatalysator - kein Trade.",
+        "portfolioValue": 1848.74
+      },
+      {
+        "time": "01:09",
+        "note": "Weiterhin keine Aenderung: Boersen/ETFs/Rohstoffe am Wochenende geschlossen, GOOGL/NVDA unveraendert. Kryptomarkt bleibt im breiten Risk-off (Fear&Greed im Angstbereich laut aktuellen Berichten), aber ohne neuen, mehrfach bestaetigten Einzelkatalysator fuer einen spekulativen Trade - kein Trade.",
         "portfolioValue": 1848.74
       }
     ]
