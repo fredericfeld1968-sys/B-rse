@@ -13043,9 +13043,9 @@
   },
   {
     "date": "2026-11-14",
-    "marketOverview": "Neuer Tag (Samstag): US-Boersen, ETFs und Rohstoffe bleiben das gesamte Wochenende ueber geschlossen, GOOGL (295,37 USD, +4,20%) und NVDA (162,68 USD, +1,52%) daher unveraendert zum Freitagsschluss gehalten. Kryptomarkt im breiten Risk-off: BTC laut CoinGecko-Live-API bei 68.012 USD (-4,80% in 24h), ETH -4,85%, SOL -5,16%, AVAX -2,28%, DOGE -3,70%, XRP -3,20% - eine synchrone, marktweite Abwaertsbewegung ohne einzelnen bestaetigten Katalysator, im Einklang mit der anhaltend restriktiven Fed-Kommunikation (weitere Zinserhoehungssignale) vom Freitag.",
+    "marketOverview": "Samstagnacht: US-Boersen, ETFs und Rohstoffe weiterhin geschlossen, GOOGL (295,37 USD) und NVDA (162,68 USD) unveraendert zum Freitagsschluss. Kryptomarkt setzt den breiten Risk-off-Trend ohne neuen Einzelkatalysator fort: BTC laut CoinGecko-Live-API bei 68.250 USD (-3,68% 24h), ETH 1.929,80 USD (-3,79%), SOL 77,43 USD (-4,77%), AVAX 8,23 USD (-1,03%), DOGE 0,064545 USD (-2,62%), XRP 1,008 USD (-2,23%), QNT 159,00 USD (-1,74%) - synchrone, marktweite Schwaeche ohne bestaetigten Ausloeser.",
     "decision": "Tagesbudget bereits um 00:09 gutgeschrieben (totalFreshCapitalEur 102.000 EUR). Keine Aenderung an den Positionen: GOOGL (pos-0031) und NVDA (pos-0035) unveraendert gehalten (Boersen am Wochenende geschlossen). Kein Trade in diesem Lauf.",
-    "reasoning": "Spekulatives Risikoprofil erlaubt kurzfristiges Handeln, aber nur bei wirklich ueberzeugender, mehrfach bestaetigter Gelegenheit. Der Kryptomarkt bleibt im breiten Risk-off/Angstmodus ohne neuen, konkret benannten Einzelkatalysator - daher kein spekulativer Dip-Kauf. Aktien/ETFs/Rohstoffe sind am Wochenende nicht handelbar. Freies Kapital (ca. 99.339 EUR) bleibt ungenutzt bis eine belastbare Einzelgelegenheit auftritt.",
+    "reasoning": "Spekulatives Risikoprofil erlaubt kurzfristiges Handeln, aber nur bei wirklich ueberzeugender, mehrfach bestaetigter Einzelgelegenheit. Der Kryptomarkt bleibt durchgaengig im breiten Risk-off (alle beobachteten Coins -1 bis -5% in 24h) ohne neuen, konkret benannten Katalysator - daher weiterhin kein spekulativer Dip-Kauf. Aktien/ETFs/Rohstoffe sind am Wochenende nicht handelbar. Freies Kapital (ca. 99.339 EUR) bleibt ungenutzt bis eine belastbare Einzelgelegenheit auftritt.",
     "positionIds": [
       "pos-0031",
       "pos-0035"
@@ -13060,6 +13060,11 @@
       {
         "time": "01:09",
         "note": "Weiterhin keine Aenderung: Boersen/ETFs/Rohstoffe am Wochenende geschlossen, GOOGL/NVDA unveraendert. Kryptomarkt bleibt im breiten Risk-off (Fear&Greed im Angstbereich laut aktuellen Berichten), aber ohne neuen, mehrfach bestaetigten Einzelkatalysator fuer einen spekulativen Trade - kein Trade.",
+        "portfolioValue": 1848.74
+      },
+      {
+        "time": "02:08",
+        "note": "Weiterhin keine Aenderung: Boersen/ETFs/Rohstoffe am Wochenende geschlossen, GOOGL/NVDA unveraendert. Kryptomarkt setzt breiten Risk-off fort (BTC 68.250 USD -3,68%, ETH/SOL/AVAX/DOGE/XRP/QNT alle im Minus) ohne neuen Einzelkatalysator - kein Trade.",
         "portfolioValue": 1848.74
       }
     ]
