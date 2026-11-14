@@ -13043,9 +13043,9 @@
   },
   {
     "date": "2026-11-14",
-    "marketOverview": "Samstag 22:08 CET: US-Boersen, ETFs und Rohstoffe weiterhin geschlossen (Wochenende); GOOGL (295,77 USD) und NVDA (162,85 USD) unveraendert zum Freitagsschluss. Kryptomarkt (CoinGecko live) im breiten, hebelgetriebenen Ausverkauf: BTC 64.635 USD (-5,79% 24h), ETH -7,98%, SOL -11,32%, AVAX -14,03%, HYPE -13,69%, QNT -12,48%, DOGE -10,97%, XRP -8,77% - Extreme Fear, ohne bestaetigtes Bodensignal.",
-    "decision": "Tagesbudget bereits um 00:09 gutgeschrieben (totalFreshCapitalEur 102.000 EUR, keine erneute Gutschrift heute, lastGrantDate=2026-11-14). Keine Aenderung an den Positionen: GOOGL (pos-0031) und NVDA (pos-0035) unveraendert gehalten (Boersen am Wochenende geschlossen). Weiterhin kein Trade an diesem Tag (00:09-22:08 Uhr) - der Kryptomarkt beschleunigt seinen Ausverkauf (BTC -5,8%, Altcoins -8 bis -14% in 24h) statt sich zu stabilisieren; ohne bestaetigtes Bodensignal oder konkreten Einzelkatalysator kein spekulativer Dip-Kauf passend zur Strategie.",
-    "reasoning": "Spekulatives Risikoprofil erlaubt kurzfristiges Handeln, aber nur bei einer wirklich ueberzeugenden, mehrfach bestaetigten Einzelgelegenheit. Die aktuelle hebelgetriebene Liquidationswelle (Extreme Fear, breite zweistellige Tagesverluste bei Altcoins) ist eine fortlaufende, unbestaetigte Abwaertsbewegung ohne erkennbaren Boden - ein Dip-Kauf in ein solches Umfeld widerspricht dem etablierten Muster dieses Portfolios (Kauf nur bei bestaetigten Ausbruechen/Katalysatoren, nicht bei unbestaetigten Abverkaeufen). Aktien/ETFs/Rohstoffe sind am Wochenende ohnehin nicht handelbar. Freies Kapital (ca. 99.338,84 EUR) bleibt ungenutzt bis eine belastbare Einzelgelegenheit mit verlaesslicher, bestaetigter Datenlage und einem konkreten Katalysator erkennbar ist.",
+    "marketOverview": "Samstag 23:07 CET: US-Boersen, ETFs und Rohstoffe weiterhin geschlossen (Wochenende); GOOGL (295,77 USD) und NVDA (162,85 USD) unveraendert zum Freitagsschluss. Kryptomarkt (CoinGecko live) setzt den breiten, hebelgetriebenen Ausverkauf fort: BTC 64.218 USD (-5,88% 24h), ETH 1.763,12 USD (-8,28%), SOL -11,04%, AVAX -14,25%, ADA -13,01%, XRP -10,34%, DOGE -12,17%, QNT -11,24%, HYPE -13,45%, BCH -9,40% - Extreme Fear, ohne bestaetigtes Bodensignal oder neuen Einzelkatalysator.",
+    "decision": "Tagesbudget bereits um 00:09 gutgeschrieben (totalFreshCapitalEur 102.000 EUR, keine erneute Gutschrift heute, lastGrantDate=2026-11-14). Keine Aenderung an den Positionen: GOOGL (pos-0031) und NVDA (pos-0035) unveraendert gehalten (Boersen am Wochenende geschlossen). Weiterhin kein Trade an diesem Tag (00:09-23:07 Uhr) - der Kryptomarkt setzt seinen breiten Ausverkauf unveraendert fort (BTC -5,9%, Altcoins -9 bis -14% in 24h) statt sich zu stabilisieren; ohne bestaetigtes Bodensignal oder konkreten Einzelkatalysator kein spekulativer Dip-Kauf passend zur Strategie.",
+    "reasoning": "Spekulatives Risikoprofil erlaubt kurzfristiges Handeln, aber nur bei einer wirklich ueberzeugenden, mehrfach bestaetigten Einzelgelegenheit. Die aktuelle hebelgetriebene Liquidationswelle (Extreme Fear, breite zweistellige Tagesverluste bei Altcoins) setzt sich unveraendert fort, ohne erkennbaren Boden oder neuen konkreten Katalysator - ein Dip-Kauf in ein solches Umfeld widerspricht dem etablierten Muster dieses Portfolios (Kauf nur bei bestaetigten Ausbruechen/Katalysatoren, nicht bei unbestaetigten Abverkaeufen). Aktien/ETFs/Rohstoffe sind am Wochenende ohnehin nicht handelbar. Freies Kapital (ca. 99.338,84 EUR) bleibt ungenutzt bis eine belastbare Einzelgelegenheit mit verlaesslicher, bestaetigter Datenlage und einem konkreten Katalysator erkennbar ist.",
     "positionIds": [
       "pos-0031",
       "pos-0035"
@@ -13165,6 +13165,11 @@
       {
         "time": "22:08",
         "note": "Keine Aenderung: Boersen/ETFs/Rohstoffe am Wochenende weiterhin geschlossen, GOOGL/NVDA unveraendert gehalten. Krypto-Markt (CoinGecko live) setzt den breiten Ausverkauf fort: BTC 64.635 USD (-5,79% 24h), ETH 1.783 USD (-7,98%), SOL 70,59 USD (-11,32%), AVAX 7,17 USD (-14,03%), DOGE -10,97%, XRP -8,77%, QNT -12,48%, HYPE -13,69% - ungebremste, hebelgetriebene Liquidationswelle (Extreme Fear) ohne erkennbares Bodensignal oder bestaetigten Einzelkatalysator fuer eine Gegenbewegung. Kein Trade.",
+        "portfolioValue": 1850.93
+      },
+      {
+        "time": "23:07",
+        "note": "Keine Aenderung: Boersen/ETFs/Rohstoffe am Wochenende weiterhin geschlossen, GOOGL/NVDA unveraendert gehalten. Kryptomarkt (CoinGecko live) setzt den Ausverkauf unveraendert fort: BTC 64.218 USD (-5,88% 24h), ETH 1.763,12 USD (-8,28%), SOL -11,04%, AVAX -14,25%, ADA -13,01%, XRP -10,34%, DOGE -12,17%, QNT -11,24%, HYPE -13,45%, BCH -9,40% - weiterhin Extreme Fear ohne Bodensignal oder neuen Einzelkatalysator. Kein Trade.",
         "portfolioValue": 1850.93
       }
     ]
