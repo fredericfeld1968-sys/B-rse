@@ -13043,9 +13043,9 @@
   },
   {
     "date": "2026-11-14",
-    "marketOverview": "Samstagvormittag 09:08 CET: US-Boersen, ETFs und Rohstoffe weiterhin geschlossen (Wochenende); GOOGL (295,77 USD) und NVDA (162,85 USD) unveraendert zum Freitagsschluss. Der Kryptomarkt bleibt im breiten Risk-off: Bitcoin faellt laut mehreren Quellen (TradingView, CryptoTicker, TokenPost) am 13.-14.11. unter 70.000 USD (teils bis ca. 68.400 USD, tiefster Stand seit August), Ethereum erstmals seit August unter 2.000 USD, Solana unter 85 USD (-10% Wochensicht). Allein am 13.11. wurden laut CryptoTicker rund 1,3-1,6 Mrd. USD an Leverage-Positionen liquidiert. Treiber: anhaltender Ausverkauf bei US-Tech-/KI-Aktien und NVIDIA-Turbulenzen (CEO-Wechsel), Stablecoin-Abfluesse (~14,2 Mrd. USD), anhaltende Netto-Abfluesse aus US-Spot-Bitcoin-ETFs sowie ein staerkerer Dollar. Fear&Greed-Index bei ca. 20 (Extreme Fear). Keine belastbaren, taggleichen Anzeichen einer Stabilisierung oder eines Bounces gefunden.",
-    "decision": "Tagesbudget bereits um 00:09 gutgeschrieben (totalFreshCapitalEur 102.000 EUR, keine erneute Gutschrift heute). Keine Aenderung an den Positionen: GOOGL (pos-0031) und NVDA (pos-0035) unveraendert gehalten (Boersen am Wochenende geschlossen). Bisher kein Trade an diesem Tag (00:09-09:08 Uhr) - der fortgesetzte Krypto-Ausverkauf (Extreme Fear) ist bereits bekannt und stellt keine neue, ueberzeugende Einzelgelegenheit dar.",
-    "reasoning": "Spekulatives Risikoprofil erlaubt kurzfristiges Handeln, aber nur bei einer wirklich ueberzeugenden, mehrfach bestaetigten Einzelgelegenheit. Die aktuelle Websuche bestaetigt lediglich den bereits bekannten breiten Krypto-Risk-off-Trend (BTC unter 70.000 USD, ETH unter 2.000 USD, Fear&Greed ~20) ohne neuen, einzeltitel-spezifischen Katalysator und ohne Anzeichen einer Bodenbildung - ein Dip-Kauf waere hier reines Gluecksspiel ohne belastbare These. Aktien/ETFs/Rohstoffe sind am Wochenende ohnehin nicht handelbar. Freies Kapital (ca. 99.338,84 EUR) bleibt ungenutzt bis eine belastbare Einzelgelegenheit mit verlaesslicher, bestaetigter Datenlage erkennbar ist.",
+    "marketOverview": "Samstag 10:08 CET: US-Boersen, ETFs und Rohstoffe weiterhin geschlossen (Wochenende); GOOGL (295,77 USD) und NVDA (162,85 USD) unveraendert zum Freitagsschluss. Erneute Websuche zu Krypto liefert nur widersprechende bzw. nicht zweifelsfrei auf heute datierbare Kursangaben (BTC-Spannen von ca. 68.000 bis 95.000 USD je Quelle, teils erkennbar aeltere/andere Jahre) - der zuletzt mehrfach bestaetigte breite Risk-off-Trend (Extreme Fear, BTC <70.000 USD, Spot-ETF-Abfluesse) bleibt die verlaesslichste Einschaetzung, ein neuer belastbarer Einzelkatalysator ist nicht erkennbar.",
+    "decision": "Tagesbudget bereits um 00:09 gutgeschrieben (totalFreshCapitalEur 102.000 EUR, keine erneute Gutschrift heute). Keine Aenderung an den Positionen: GOOGL (pos-0031) und NVDA (pos-0035) unveraendert gehalten (Boersen am Wochenende geschlossen). Bisher kein Trade an diesem Tag (00:09-10:08 Uhr) - auch die aktuelle Websuche liefert keine verlaessliche, neue Einzelgelegenheit.",
+    "reasoning": "Spekulatives Risikoprofil erlaubt kurzfristiges Handeln, aber nur bei einer wirklich ueberzeugenden, mehrfach bestaetigten Einzelgelegenheit. Die aktuelle Websuche liefert fuer Krypto nur widerspruechliche, teils offensichtlich falsch/alt datierte Kursangaben ohne verlaesslichen, taggleichen Einzelkatalysator - ein Dip-Kauf waere reines Gluecksspiel ohne belastbare These. Aktien/ETFs/Rohstoffe sind am Wochenende ohnehin nicht handelbar. Freies Kapital (ca. 99.338,84 EUR) bleibt ungenutzt bis eine belastbare Einzelgelegenheit mit verlaesslicher, bestaetigter Datenlage erkennbar ist.",
     "positionIds": [
       "pos-0031",
       "pos-0035"
@@ -13100,6 +13100,11 @@
       {
         "time": "09:08",
         "note": "Keine Aenderung: Boersen/ETFs/Rohstoffe am Wochenende weiterhin geschlossen, GOOGL/NVDA unveraendert gehalten. Kryptomarkt setzt den bekannten Ausverkauf fort (BTC <70.000 USD, ETH <2.000 USD, Fear&Greed ~20 Extreme Fear, ~1,3-1,6 Mrd. USD Liquidationen am 13.11.) - kein neuer Einzelkatalysator, daher kein Trade.",
+        "portfolioValue": 1850.93
+      },
+      {
+        "time": "10:08",
+        "note": "Keine Aenderung. GOOGL/NVDA unveraendert (Boersen Wochenende geschlossen). Krypto-Websuche liefert nur widerspruechliche/nicht verlaesslich datierte Kursangaben ohne neuen Einzelkatalysator - kein Trade.",
         "portfolioValue": 1850.93
       }
     ]
