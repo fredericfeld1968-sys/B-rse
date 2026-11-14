@@ -13043,8 +13043,8 @@
   },
   {
     "date": "2026-11-14",
-    "marketOverview": "Samstag 18:09 CET: US-Boersen, ETFs und Rohstoffe weiterhin geschlossen (Wochenende); GOOGL (295,77 USD) und NVDA (162,85 USD) unveraendert zum Freitagsschluss. Erneute Websuche liefert fuer Krypto weiterhin keine verlaesslich auf heute (14.11.) datierten Live-Kurse oder einen frischen, bestaetigten Einzelkatalysator - Quellen widersprechen sich stark (BTC je nach Quelle zwischen ca. 74.000 und 95.000 USD) oder sind undatiert/aus dem Vorjahr.",
-    "decision": "Tagesbudget bereits um 00:09 gutgeschrieben (totalFreshCapitalEur 102.000 EUR, keine erneute Gutschrift heute, lastGrantDate=2026-11-14). Keine Aenderung an den Positionen: GOOGL (pos-0031) und NVDA (pos-0035) unveraendert gehalten (Boersen am Wochenende geschlossen). Weiterhin kein Trade an diesem Tag (00:09-18:09 Uhr) - auch die aktuelle Websuche liefert keine verlaessliche, neue Einzelgelegenheit.",
+    "marketOverview": "Samstag 19:08 CET: US-Boersen, ETFs und Rohstoffe weiterhin geschlossen (Wochenende); GOOGL (295,77 USD) und NVDA (162,85 USD) unveraendert zum Freitagsschluss. Erneute Websuche liefert fuer Krypto weiterhin keine verlaesslich auf heute (14.11.) datierten Live-Kurse oder einen frischen, bestaetigten Einzelkatalysator - Quellen widersprechen sich weiterhin stark (BTC je nach Quelle zwischen ca. 74.000 und 98.000 USD) oder sind undatiert/aus fruaheren Monaten.",
+    "decision": "Tagesbudget bereits um 00:09 gutgeschrieben (totalFreshCapitalEur 102.000 EUR, keine erneute Gutschrift heute, lastGrantDate=2026-11-14). Keine Aenderung an den Positionen: GOOGL (pos-0031) und NVDA (pos-0035) unveraendert gehalten (Boersen am Wochenende geschlossen). Weiterhin kein Trade an diesem Tag (00:09-19:08 Uhr) - auch die aktuelle Websuche liefert keine verlaessliche, neue Einzelgelegenheit.",
     "reasoning": "Spekulatives Risikoprofil erlaubt kurzfristiges Handeln, aber nur bei einer wirklich ueberzeugenden, mehrfach bestaetigten Einzelgelegenheit. Die aktuelle Websuche liefert fuer Krypto erneut widersprechende und ueberwiegend undatierte Kursangaben ohne frischen, verlaesslich taggleichen Einzelkatalysator - ein Kauf waere reines Gluecksspiel ohne belastbare These. Aktien/ETFs/Rohstoffe sind am Wochenende ohnehin nicht handelbar. Freies Kapital (ca. 99.338,84 EUR) bleibt ungenutzt bis eine belastbare Einzelgelegenheit mit verlaesslicher, bestaetigter Datenlage erkennbar ist.",
     "positionIds": [
       "pos-0031",
@@ -13145,6 +13145,11 @@
       {
         "time": "18:09",
         "note": "Keine Aenderung: Boersen/ETFs/Rohstoffe am Wochenende weiterhin geschlossen, GOOGL/NVDA unveraendert gehalten. Krypto-Websuche liefert erneut keine verlaesslich taggleichen Kursdaten/Katalysatoren (BTC-Angaben je Quelle stark widersprechend zwischen ca. 74.000 und 95.000 USD, teils undatiert) - kein Trade.",
+        "portfolioValue": 1850.93
+      },
+      {
+        "time": "19:08",
+        "note": "Keine Aenderung: Boersen/ETFs/Rohstoffe am Wochenende weiterhin geschlossen, GOOGL/NVDA unveraendert gehalten. Websuche liefert erneut keine verlaesslich taggleichen Live-Kurse oder einen bestaetigten Einzelkatalysator fuer Krypto (BTC-Angaben je Quelle weiterhin stark widersprechend zwischen ca. 74.000 und 98.000 USD, teils undatiert) - kein Trade.",
         "portfolioValue": 1850.93
       }
     ]
