@@ -13173,5 +13173,23 @@
         "portfolioValue": 1850.93
       }
     ]
+  },
+  {
+    "date": "2026-11-15",
+    "marketOverview": "Sonntag 00:08 CET: US-Boersen, ETFs und Rohstoffe weiterhin geschlossen (Wochenende); GOOGL (295,77 USD) und NVDA (162,85 USD) unveraendert zum Freitagsschluss (13.11., 22:00 CET). Kryptomarkt (CoinGecko live, Fear&Greed-Index 13 'Extreme Fear') setzt den breiten, hebelgetriebenen Ausverkauf vom Vortag unveraendert fort: BTC 63.440 USD (-6,72% 24h), ETH 1.740,42 USD (-9,33%), SOL 69,04 USD (-10,77%), AVAX 7,00 USD (-14,27%), ADA -13,27%, XRP -11,03%, DOGE -12,27%, QNT -10,53%, HYPE -12,91%, BCH -10,04%. Keine Boden- oder Trendwendesignale, kein neuer konkreter Einzelkatalysator auffindbar - synchroner, breiter Risk-off ueber alle Top-Coins.",
+    "decision": "Tagesbudget fuer den 15.11. gutgeschrieben (+1.000 EUR, totalFreshCapitalEur jetzt 103.000 EUR, lastGrantDate=2026-11-15). Keine Aenderung an den Positionen: GOOGL (pos-0031) und NVDA (pos-0035) unveraendert gehalten (Boersen am Wochenende geschlossen, Kurse identisch zum Freitagsschluss). Kein Trade: Der Kryptomarkt setzt den bereits am Vortag beobachteten breiten, hebelgetriebenen Ausverkauf (Extreme Fear) unveraendert fort, ohne bestaetigtes Bodensignal oder neuen Einzelkatalysator - ein Dip-Kauf in eine ungebremste Liquidationswelle widerspricht dem etablierten, bewaehrten Muster dieses Portfolios (Kauf nur bei bestaetigten Ausbruechen/Katalysatoren).",
+    "reasoning": "Spekulatives Risikoprofil erlaubt kurzfristiges Handeln, aber nur bei einer wirklich ueberzeugenden, mehrfach bestaetigten Einzelgelegenheit. Der Kryptomarkt befindet sich weiterhin in einer synchronen, hebelgetriebenen Ausverkaufsphase (Fear&Greed 13, alle Top-Coins zweistellig im Minus auf 24h-Sicht) ohne erkennbaren Boden oder einen konkreten, neu bestaetigten Katalysator fuer eine Gegenbewegung - ein 'in das fallende Messer greifen' widerspricht der Strategie. Aktien/ETFs/Rohstoffe sind am Wochenende ohnehin nicht handelbar. Freies Kapital (ca. 100.338,84 EUR) bleibt ungenutzt bis eine belastbare Einzelgelegenheit mit verlaesslicher, bestaetigter Datenlage und einem konkreten Katalysator erkennbar ist.",
+    "positionIds": [
+      "pos-0031",
+      "pos-0035"
+    ],
+    "portfolioValueEnd": 1850.93,
+    "updates": [
+      {
+        "time": "00:08",
+        "note": "Tagesbudget gutgeschrieben (+1.000 EUR, totalFreshCapitalEur jetzt 103.000 EUR). GOOGL/NVDA unveraendert (Boersen Wochenende geschlossen). Kryptomarkt (CoinGecko live) setzt den Ausverkauf vom Vortag fort: BTC 63.440 USD (-6,72% 24h), ETH -9,33%, SOL -10,77%, AVAX -14,27%, ADA -13,27%, XRP -11,03%, DOGE -12,27%, QNT -10,53%, HYPE -12,91%, BCH -10,04%, Fear&Greed-Index 13 'Extreme Fear' - kein Bodensignal, kein neuer Einzelkatalysator. Kein Trade.",
+        "portfolioValue": 1850.93
+      }
+    ]
   }
 ]
