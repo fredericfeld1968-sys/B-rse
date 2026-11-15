@@ -13176,9 +13176,9 @@
   },
   {
     "date": "2026-11-15",
-    "marketOverview": "Sonntag 02:08 CET: US-Boersen, ETFs und Rohstoffe weiterhin geschlossen (Wochenende); GOOGL (295,77 USD) und NVDA (162,85 USD) unveraendert zum Freitagsschluss. Kryptomarkt bleibt im breiten, hebelgetriebenen Ausverkauf (Extreme Fear, BTC laut aktuellen Berichten weiterhin unter 70.000 USD, teils im Bereich 60.000-64.000 USD je nach Quelle) mit anhaltenden Liquidationen ueber mehrere Boersen. Keine verlaessliche frische Einzelquelle mit neuem, bestaetigtem Katalysator oder Bodensignal fuer diesen Lauf auffindbar - synchroner Risk-off haelt unveraendert an.",
-    "decision": "Tagesbudget fuer den 15.11. bereits im ersten Lauf (00:08) gutgeschrieben (totalFreshCapitalEur 103.000 EUR, lastGrantDate=2026-11-15) - in diesem Lauf keine erneute Gutschrift. Keine Aenderung an den Positionen: GOOGL (pos-0031) und NVDA (pos-0035) unveraendert gehalten (Boersen am Wochenende geschlossen). Kein Trade: der Kryptomarkt setzt den bereits bekannten breiten Ausverkauf (Extreme Fear) fort, ohne bestaetigtes Bodensignal oder neuen Einzelkatalysator - ein Dip-Kauf in die ungebremste Liquidationswelle widerspricht dem etablierten Muster dieses Portfolios.",
-    "reasoning": "Spekulatives Risikoprofil erlaubt kurzfristiges Handeln, aber nur bei einer wirklich ueberzeugenden, mehrfach bestaetigten Einzelgelegenheit. Fuer diesen Lauf liessen sich keine verlaesslich aktuellen, uebereinstimmenden Live-Kurse oder ein neuer konkreter Katalysator ermitteln; die zuvor beobachtete breite Extreme-Fear-Lage im Kryptomarkt scheint unveraendert anzuhalten. Aktien/ETFs/Rohstoffe sind am Wochenende ohnehin nicht handelbar. Freies Kapital (ca. 100.338,84 EUR) bleibt ungenutzt bis eine belastbare Einzelgelegenheit mit verlaesslicher, bestaetigter Datenlage und einem konkreten Katalysator erkennbar ist.",
+    "marketOverview": "Sonntag 03:09 CET: US-Boersen, ETFs und Rohstoffe weiterhin geschlossen (Wochenende); GOOGL (295,77 USD) und NVDA (162,85 USD) unveraendert zum Freitagsschluss. Kryptomarkt verschaerft den Ausverkauf weiter: CoinGecko-Live zeigt BTC 63.373 USD (-7,03% 24h), ETH -9,05%, SOL -9,60%, AVAX -14,63%, ADA -12,03%, XRP -8,18%, DOGE -10,39%, HBAR -7,23%, LINK -8,88%, QNT -9,38%, BCH -8,82%, HYPE -9,32%. Fear&Greed-Index fiel laut alternative.me auf 10 ('Extreme Fear', noch tiefer als die 13 vom letzten Lauf). Hintergrund laut aktueller Recherche bleibt der bereits bekannte breite, makro-getriebene Ausverkauf (hawkishe Fed-Haltung, anhaltende Spot-BTC-ETF-Abfluesse, Equity-Spillover aus dem Tech-/KI-Sektor) ohne neues Bodensignal oder bestaetigte Trendwende.",
+    "decision": "Tagesbudget fuer den 15.11. bereits im ersten Lauf (00:08) gutgeschrieben - in diesem Lauf keine erneute Gutschrift. Keine Aenderung an den Positionen: GOOGL (pos-0031) und NVDA (pos-0035) unveraendert gehalten (Boersen am Wochenende geschlossen). Kein Trade: der Kryptomarkt vertieft die Extreme-Fear-Lage weiter (Index jetzt bei 10) ohne Bodensignal oder neuen Einzelkatalysator - ein Dip-Kauf in die ungebremste Liquidationswelle widerspricht dem etablierten Muster dieses Portfolios.",
+    "reasoning": "Spekulatives Risikoprofil erlaubt kurzfristiges Handeln, aber nur bei einer wirklich ueberzeugenden, mehrfach bestaetigten Einzelgelegenheit. Der Kryptomarkt faellt seit Stunden synchron und beschleunigt weiter (Fear&Greed von 13 auf 10), ohne erkennbaren Boden oder Reversal-Signal - ein Kauf jetzt waere ein Griff in ein fallendes Messer ohne Bestaetigung. Aktien/ETFs/Rohstoffe sind am Wochenende ohnehin nicht handelbar. Freies Kapital (ca. 100.338,84 EUR) bleibt ungenutzt bis eine belastbare Einzelgelegenheit mit verlaesslicher, bestaetigter Datenlage und einem konkreten Katalysator erkennbar ist.",
     "positionIds": [
       "pos-0031",
       "pos-0035"
@@ -13198,6 +13198,11 @@
       {
         "time": "02:08",
         "note": "Keine Aenderung. GOOGL/NVDA unveraendert (Boersen Wochenende geschlossen). Kryptomarkt weiterhin in Extreme Fear mit anhaltenden Liquidationen, aber keine verlaesslich frische Einzelquelle mit neuem Katalysator oder Bodensignal fuer diesen Lauf - kein Trade.",
+        "portfolioValue": 1850.93
+      },
+      {
+        "time": "03:09",
+        "note": "Keine Aenderung. Kryptomarkt-Ausverkauf verschaerft sich weiter (Fear&Greed jetzt 10, vorher 13; BTC 63.373 USD -7,03% 24h, breite synchrone Verluste -7% bis -15%), kein Bodensignal, kein Trade. GOOGL/NVDA unveraendert (Boersen Wochenende geschlossen).",
         "portfolioValue": 1850.93
       }
     ]
