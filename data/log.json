@@ -13176,9 +13176,9 @@
   },
   {
     "date": "2026-11-15",
-    "marketOverview": "Sonntag 04:09 CET: US-Boersen, ETFs und Rohstoffe weiterhin geschlossen (Wochenende); GOOGL (295,77 USD) und NVDA (162,85 USD) unveraendert zum Freitagsschluss. Kryptomarkt zeigt eine leichte technische Stabilisierung: CoinGecko-Live zeigt BTC bei 65.203 USD (-3,54% 24h, nach -7,03% im letzten Lauf), ETH -4,45%, SOL -5,73%, AVAX -11,89%, ADA -8,48%, XRP -4,09%, DOGE -6,79%, QNT -4,07%, HYPE -5,67%, BCH -5,37%. Fear&Greed-Index laut alternative.me weiterhin unveraendert bei 10 ('Extreme Fear'). Die leichte Erholung vom Tagestief ist kein bestaetigtes Bodensignal (Sentiment-Index bewegt sich trotz Preis-Bounce nicht), und es liegt keine frische, mehrfach bestaetigte Einzelnachricht als Katalysator vor.",
-    "decision": "Tagesbudget fuer den 15.11. bereits im ersten Lauf (00:08) gutgeschrieben - in diesem Lauf keine erneute Gutschrift. Keine Aenderung an den Positionen: GOOGL (pos-0031) und NVDA (pos-0035) unveraendert gehalten (Boersen am Wochenende geschlossen). Kein Trade: der Kryptomarkt bounct zwar leicht von den Tagestiefs, der Fear&Greed-Index bleibt aber unveraendert bei 10 und es gibt keinen bestaetigten Boden oder neuen Einzelkatalysator - ein Dip-Kauf auf Basis eines einzelnen leichten Bounces waere spekulativ ohne ausreichende Bestaetigung.",
-    "reasoning": "Spekulatives Risikoprofil erlaubt kurzfristiges Handeln, aber nur bei einer wirklich ueberzeugenden, mehrfach bestaetigten Einzelgelegenheit. Die 24h-Verlustrate hat sich zwar von -7% auf rund -4% verringert (rollierendes Fenster, evtl. nur Basiseffekt vom Vortagestief), der Fear&Greed-Index verbleibt aber unveraendert in Extreme Fear (10) ohne klares Reversal-Signal. Aktien/ETFs/Rohstoffe sind am Wochenende ohnehin nicht handelbar. Freies Kapital (ca. 100.338,84 EUR) bleibt ungenutzt bis eine belastbare Einzelgelegenheit mit verlaesslicher, bestaetigter Datenlage und einem konkreten Katalysator erkennbar ist.",
+    "marketOverview": "Sonntag 05:08 CET: US-Boersen, ETFs und Rohstoffe weiterhin geschlossen (Wochenende); GOOGL (295,77 USD) und NVDA (162,85 USD) unveraendert zum Freitagsschluss. Kryptomarkt (CoinGecko-API live) rutscht wieder leicht ab: BTC 64.751 USD (-2,97% 24h, nach -3,54% im letzten Lauf), ETH -3,83%, SOL -5,41%, AVAX -11,18%, ADA -8,16%, XRP -2,28%, DOGE -6,27%, QNT -5,92%, HYPE -3,55%, BCH -4,11%. Fear&Greed-Index laut alternative.me unveraendert bei 10 ('Extreme Fear') - seit sechs Laeufen in Folge ohne Verbesserung. Kein bestaetigtes Bodensignal und keine frische, mehrfach bestaetigte Einzelnachricht als Katalysator.",
+    "decision": "Tagesbudget fuer den 15.11. bereits im ersten Lauf (00:08) gutgeschrieben - in diesem Lauf keine erneute Gutschrift. Keine Aenderung an den Positionen: GOOGL (pos-0031) und NVDA (pos-0035) unveraendert gehalten (Boersen am Wochenende geschlossen). Kein Trade: Fear&Greed verbleibt unveraendert bei 10 (Extreme Fear), der Kryptomarkt rutscht sogar wieder leicht ab statt sich zu stabilisieren - kein bestaetigter Boden, kein neuer Einzelkatalysator.",
+    "reasoning": "Spekulatives Risikoprofil erlaubt kurzfristiges Handeln, aber nur bei einer wirklich ueberzeugenden, mehrfach bestaetigten Einzelgelegenheit. Der zuvor beobachtete leichte Bounce (04:09, BTC -3,54% statt -7,03%) hat sich nicht fortgesetzt - BTC steht jetzt bei -2,97% 24h auf etwas niedrigerem absolutem Niveau (64.751 vs. 65.203 USD), Fear&Greed-Index bleibt sechs Laeufe in Folge bei 10. Aktien/ETFs/Rohstoffe sind am Wochenende ohnehin nicht handelbar. Freies Kapital (ca. 100.338,84 EUR) bleibt ungenutzt bis eine belastbare Einzelgelegenheit mit verlaesslicher, bestaetigter Datenlage und einem konkreten Katalysator erkennbar ist.",
     "positionIds": [
       "pos-0031",
       "pos-0035"
@@ -13208,6 +13208,11 @@
       {
         "time": "04:09",
         "note": "Keine Aenderung. Kryptomarkt bounct leicht von den Tagestiefs (BTC 65.203 USD, -3,54% 24h statt -7,03%), Fear&Greed-Index bleibt aber unveraendert bei 10 (Extreme Fear) ohne bestaetigtes Bodensignal. GOOGL/NVDA unveraendert (Boersen Wochenende geschlossen). Kein Trade.",
+        "portfolioValue": 1850.93
+      },
+      {
+        "time": "05:08",
+        "note": "Keine Aenderung. Kryptomarkt rutscht wieder leicht ab (BTC 64.751 USD, -2,97% 24h), Fear&Greed-Index bleibt seit sechs Laeufen unveraendert bei 10 (Extreme Fear), kein Bodensignal, kein Trade. GOOGL/NVDA unveraendert (Boersen Wochenende geschlossen).",
         "portfolioValue": 1850.93
       }
     ]
