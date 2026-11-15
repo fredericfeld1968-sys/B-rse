@@ -13176,9 +13176,9 @@
   },
   {
     "date": "2026-11-15",
-    "marketOverview": "Sonntag 22:08 CET: US-Boersen, ETFs und Rohstoffe weiterhin geschlossen (Wochenende); GOOGL (295,77 USD) und NVDA (162,85 USD) unveraendert zum Freitagsschluss. Kryptomarkt (CoinGecko-API live) leicht erholt zum Vorlauf: BTC 65.052 USD (+0,73% 24h), ETH 1.823,88 USD (+2,43%), SOL 71,85 USD (+1,84%), AVAX 7,28 USD (+1,69%), XRP 0,9607 USD (+4,02%), ADA 0,1545 USD (+4,14%), DOGE 0,0590 USD (+2,36%), QNT 155,18 USD (+8,65%), BCH 209,10 USD (+3,86%), HYPE 67,84 USD (+8,67%). Fear&Greed-Index (alternative.me, live) weiterhin bei 10 (\"Extreme Fear\") - dreiundzwanzigster Lauf in Folge ohne Verbesserung. QNT und HYPE zeigen die staerksten 24h-Gewinne (+8,6-8,7%), jedoch laut Recherche (edgex.exchange, kucoin.com, fxstreet.com, thedefiant.io) kein frischer, einzeln datierter und mehrfach fuer heute bestaetigter Katalysator - beide bewegen sich im Rahmen genereller, bereits laufender Trends (QNT institutionelle Adoption seit September, HYPE Buyback-/HIP-3-Rally) ohne neue Nachricht von heute.",
-    "decision": "Tagesbudget fuer den 15.11. bereits im ersten Lauf (00:08) gutgeschrieben - in diesem Lauf keine erneute Gutschrift. Keine Aenderung an den Positionen: GOOGL (pos-0031) und NVDA (pos-0035) unveraendert gehalten (Boersen am Wochenende geschlossen). Kein Trade: Fear&Greed verbleibt bei 10 (Extreme Fear); QNT/HYPE zeigen zwar die staerksten 24h-Gewinne, aber ohne frischen, mehrfach fuer heute bestaetigten Einzelkatalysator - reine Fortsetzung bereits bekannter, laengerfristiger Trends.",
-    "reasoning": "Tagesbudget fuer den 15.11. bereits im ersten Lauf (00:08) gutgeschrieben - in diesem Lauf keine erneute Gutschrift. Keine Aenderung an den Positionen: GOOGL (pos-0031) und NVDA (pos-0035) unveraendert gehalten (Boersen am Wochenende geschlossen). Kein Trade: Fear&Greed verbleibt bei 10 (Extreme Fear); QNT/HYPE zeigen zwar die staerksten 24h-Gewinne, aber ohne frischen, mehrfach fuer heute bestaetigten Einzelkatalysator - reine Fortsetzung bereits bekannter, laengerfristiger Trends.",
+    "marketOverview": "Sonntag 23:08 CET: US-Boersen, ETFs und Rohstoffe weiterhin geschlossen (Wochenende); GOOGL (295,77 USD) und NVDA (162,85 USD) unveraendert zum Freitagsschluss. Kryptomarkt bleibt laut aktueller Websuche in anhaltender Extreme-Fear-Stimmung ohne verlaesslich frischen, mehrfach fuer heute bestaetigten Einzelkatalysator; QNT und HYPE zeigen weiterhin die staerksten 24h-Gewinne, jedoch als Fortsetzung bereits laufender, laengerfristiger Trends (institutionelle QNT-Adoption, HYPE Buyback-/HIP-3-Rally) ohne neue Nachricht von heute. Vierundzwanzigster Lauf in Folge ohne Verbesserung der Katalysatorlage.",
+    "decision": "Tagesbudget fuer den 15.11. bereits im ersten Lauf (00:08) gutgeschrieben - in diesem Lauf keine erneute Gutschrift. Keine Aenderung an den Positionen: GOOGL (pos-0031) und NVDA (pos-0035) unveraendert gehalten (Boersen am Wochenende geschlossen). Kein Trade: anhaltende Extreme-Fear-Stimmung im Kryptomarkt ohne frischen, mehrfach fuer heute bestaetigten Einzelkatalysator - reine Fortsetzung bereits bekannter, laengerfristiger Trends bei QNT/HYPE.",
+    "reasoning": "Tagesbudget fuer den 15.11. bereits im ersten Lauf (00:08) gutgeschrieben - in diesem Lauf keine erneute Gutschrift. Keine Aenderung an den Positionen: GOOGL (pos-0031) und NVDA (pos-0035) unveraendert gehalten (Boersen am Wochenende geschlossen). Kein Trade: anhaltende Extreme-Fear-Stimmung im Kryptomarkt ohne frischen, mehrfach fuer heute bestaetigten Einzelkatalysator - reine Fortsetzung bereits bekannter, laengerfristiger Trends bei QNT/HYPE.",
     "positionIds": [
       "pos-0031",
       "pos-0035"
@@ -13298,6 +13298,11 @@
       {
         "time": "22:08",
         "note": "Keine Aenderung. GOOGL/NVDA unveraendert (Boersen Wochenende geschlossen). Kryptomarkt leicht erholt (BTC +0,73%, ETH +2,43%), QNT und HYPE staerkste Gewinner (+8,6-8,7%) aber ohne frischen, heute mehrfach bestaetigten Einzelkatalysator - kein Trade. Fear&Greed weiterhin 10 (Extreme Fear).",
+        "portfolioValue": 1850.93
+      },
+      {
+        "time": "23:08",
+        "note": "Keine Aenderung. GOOGL/NVDA unveraendert (Boersen Wochenende geschlossen). Kryptomarkt weiterhin ohne klaren frischen Einzelkatalysator laut Websuche (Fear&Greed-Berichte zeigen anhaltende Extreme-Fear-Phase ohne Bodensignal), QNT/HYPE-Staerke bleibt Fortsetzung bekannter laengerfristiger Trends ohne neue Nachricht - kein Trade.",
         "portfolioValue": 1850.93
       }
     ]
