@@ -13176,9 +13176,9 @@
   },
   {
     "date": "2026-11-15",
-    "marketOverview": "Sonntag 15:08 CET: US-Boersen, ETFs und Rohstoffe weiterhin geschlossen (Wochenende); GOOGL (295,77 USD) und NVDA (162,85 USD) unveraendert zum Freitagsschluss. Kryptomarkt (CoinGecko-API live) weiterhin schwach: BTC 65.202 USD (-1,87% 24h, kaum veraendert zum Vorlauf), ETH -2,63%, SOL -3,70%, AVAX -7,94% (weiterhin groesster Ausreisser, leichte Verbesserung ggue. -8,77% im Vorlauf, aber kein Boden), ADA -3,25%, XRP -2,54%, DOGE -4,95%, QNT -1,06%, BCH -2,89%, HYPE -0,08% (nahezu unveraendert). Fear&Greed-Index (alternative.me, Live-API) unveraendert bei 10 (\"Extreme Fear\") - sechzehnter Lauf in Folge ohne Verbesserung. Websuche liefert weiterhin keinen frischen, mehrfach bestaetigten Einzelkatalysator fuer Aktien, Krypto oder Rohstoffe am 15.11.",
+    "marketOverview": "Sonntag 16:08 CET: US-Boersen, ETFs und Rohstoffe weiterhin geschlossen (Wochenende); GOOGL (295,77 USD) und NVDA (162,85 USD) unveraendert zum Freitagsschluss. Kryptomarkt (CoinGecko-API live) weiterhin schwach: BTC 64.536 USD (-1,99% 24h, kaum veraendert zum Vorlauf), ETH -2,72%, SOL -3,98%, AVAX -6,54% (weiterhin groesster Ausreisser, erneut leichte Verbesserung ggue. -7,94% im Vorlauf, aber weiterhin kein Boden), ADA -3,19%, XRP -2,79%, DOGE -4,86%, QNT -0,30%, BCH -2,60%, HYPE -0,14% (nahezu unveraendert). Fear&Greed-Index (alternative.me, Live-API) unveraendert bei 10 (\"Extreme Fear\") - siebzehnter Lauf in Folge ohne Verbesserung. Websuche liefert weiterhin keinen frischen, mehrfach bestaetigten Einzelkatalysator fuer Aktien, Krypto oder Rohstoffe am 15.11.",
     "decision": "Tagesbudget fuer den 15.11. bereits im ersten Lauf (00:08) gutgeschrieben - in diesem Lauf keine erneute Gutschrift. Keine Aenderung an den Positionen: GOOGL (pos-0031) und NVDA (pos-0035) unveraendert gehalten (Boersen am Wochenende geschlossen). Kein Trade: Fear&Greed verbleibt unveraendert bei 10 (Extreme Fear), Kryptomarkt bleibt insgesamt schwach ohne bestaetigtes Bodensignal oder neuen, mehrfach bestaetigten Katalysator.",
-    "reasoning": "Spekulatives Risikoprofil erlaubt kurzfristiges Handeln, aber nur bei einer wirklich ueberzeugenden, mehrfach bestaetigten Einzelgelegenheit. AVAX bleibt mit -7,94% 24h der groesste Ausreisser, zeigt aber gegenueber dem Vorlauf (-8,77%) leichte Stabilisierung ohne erkennbaren eigenstaendigen Katalysator - weiterhin reines Beta/Schwaeche, kein Kaufsignal. Der Abverkauf bleibt strukturell (naechster moeglicher Trigger erst NVDA-Zahlen am 17.11. bzw. Fed-Sitzung 09.12.). Aktien/ETFs/Rohstoffe sind am Wochenende ohnehin nicht handelbar. Freies Kapital (ca. 100.338,84 EUR) bleibt ungenutzt bis eine belastbare Einzelgelegenheit mit verlaesslicher, bestaetigter Datenlage und einem konkreten Katalysator erkennbar ist.",
+    "reasoning": "Spekulatives Risikoprofil erlaubt kurzfristiges Handeln, aber nur bei einer wirklich ueberzeugenden, mehrfach bestaetigten Einzelgelegenheit. AVAX bleibt mit -6,54% 24h der groesste Ausreisser, zeigt aber gegenueber dem Vorlauf (-7,94%) weiter leichte Stabilisierung ohne erkennbaren eigenstaendigen Katalysator - weiterhin reines Beta/Schwaeche, kein Kaufsignal. Der Abverkauf bleibt strukturell (naechster moeglicher Trigger erst NVDA-Zahlen am 17.11. bzw. Fed-Sitzung 09.12.). Aktien/ETFs/Rohstoffe sind am Wochenende ohnehin nicht handelbar. Freies Kapital (ca. 100.338,84 EUR) bleibt ungenutzt bis eine belastbare Einzelgelegenheit mit verlaesslicher, bestaetigter Datenlage und einem konkreten Katalysator erkennbar ist.",
     "positionIds": [
       "pos-0031",
       "pos-0035"
@@ -13263,6 +13263,11 @@
       {
         "time": "15:08",
         "note": "Keine Aenderung. GOOGL/NVDA unveraendert (Boersen Wochenende geschlossen). Kryptomarkt nahezu seitwaerts (BTC -1,87% 24h, aehnlich Vorlauf), AVAX leicht stabiler (-7,94% statt -8,77%). Fear&Greed weiterhin 10 (Extreme Fear, sechzehnter Lauf unveraendert), kein neuer Katalysator - kein Trade.",
+        "portfolioValue": 1850.93
+      },
+      {
+        "time": "16:08",
+        "note": "Keine Aenderung. GOOGL/NVDA unveraendert (Boersen Wochenende geschlossen). Kryptomarkt bleibt schwach, AVAX leicht stabiler (-6,54% statt -7,94%). Fear&Greed weiterhin 10 (Extreme Fear, siebzehnter Lauf unveraendert), kein neuer Katalysator - kein Trade.",
         "portfolioValue": 1850.93
       }
     ]
