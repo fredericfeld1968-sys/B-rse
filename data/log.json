@@ -13176,9 +13176,9 @@
   },
   {
     "date": "2026-11-15",
-    "marketOverview": "Sonntag 19:09 CET: US-Boersen, ETFs und Rohstoffe weiterhin geschlossen (Wochenende); GOOGL (295,77 USD) und NVDA (162,85 USD) unveraendert zum Freitagsschluss. Kryptomarkt (CoinGecko-API live) weiterhin nahezu unveraendert, leicht schwaecher: BTC 64.585 USD (-1,95% 24h), ETH 1.816,25 USD (-1,21%), SOL 71,55 USD (-1,53%), AVAX 7,22 USD (-3,44%, weiterhin groesster Ausreisser, aber leicht stabiler als -3,88% im Vorlauf), XRP 0,9514 USD (-0,66%), ADA 0,1536 USD (-1,01%), DOGE 0,05875 USD (-2,40%), QNT 154,14 USD (+1,20%), BCH 207,91 USD (+0,26%), HYPE 66,57 USD (+1,33%). Fear&Greed-Index (alternative.me, Live-API) weiterhin bei 10 (\"Extreme Fear\") - zwanzigster Lauf in Folge ohne Verbesserung. Websuche (u.a. FXStreet, Coinedition, TradersUnion) liefert weiterhin keinen frischen, mehrfach bestaetigten Einzelkatalysator fuer Aktien, Krypto oder Rohstoffe; AVAX bleibt laut Analysten bearish unterhalb 9,03 USD, naechste relevante Unterstuetzung bei 7,80 USD. Dominantes Thema bleibt der breite Risk-off-Trend ohne coin-spezifischen Trigger.",
-    "decision": "Tagesbudget fuer den 15.11. bereits im ersten Lauf (00:08) gutgeschrieben - in diesem Lauf keine erneute Gutschrift. Keine Aenderung an den Positionen: GOOGL (pos-0031) und NVDA (pos-0035) unveraendert gehalten (Boersen am Wochenende geschlossen). Kein Trade: Fear&Greed verbleibt unveraendert bei 10 (Extreme Fear), Kryptomarkt bewegt sich seitwaerts/leicht schwaecher ohne bestaetigtes Bodensignal oder neuen, mehrfach bestaetigten Einzelkatalysator.",
-    "reasoning": "Tagesbudget fuer den 15.11. bereits im ersten Lauf (00:08) gutgeschrieben - in diesem Lauf keine erneute Gutschrift. Keine Aenderung an den Positionen: GOOGL (pos-0031) und NVDA (pos-0035) unveraendert gehalten (Boersen am Wochenende geschlossen). Kein Trade: Fear&Greed verbleibt unveraendert bei 10 (Extreme Fear), Kryptomarkt bewegt sich seitwaerts/leicht schwaecher ohne bestaetigtes Bodensignal oder neuen, mehrfach bestaetigten Einzelkatalysator.",
+    "marketOverview": "Sonntag 20:08 CET: US-Boersen, ETFs und Rohstoffe weiterhin geschlossen (Wochenende); GOOGL (295,77 USD) und NVDA (162,85 USD) unveraendert zum Freitagsschluss. Kryptomarkt (CoinGecko-API live) weiterhin nahezu unveraendert: BTC 64.729 USD (-1,38% 24h), ETH 1.818,26 USD (-0,85%), SOL 71,37 USD (-1,31%), AVAX 7,20 USD (-3,59%, weiterhin groesster Ausreisser, aber keine Beschleunigung gegenueber Vorlauf -3,44%), XRP 0,9541 USD (-0,09%), ADA 0,1537 USD (-1,11%), DOGE 0,0588 USD (-2,11%), QNT 153,85 USD (+2,14%), BCH 208,15 USD (+0,08%), HYPE 66,70 USD (+1,81%). Fear&Greed-Index (alternative.me, Live-API) weiterhin bei 10 (\"Extreme Fear\") - einundzwanzigster Lauf in Folge ohne Verbesserung. Websuche liefert weiterhin keinen frischen, mehrfach bestaetigten Einzelkatalysator fuer Aktien, Krypto oder Rohstoffe; dominantes Thema bleibt der breite Risk-off-Trend ohne coin-spezifischen Trigger.",
+    "decision": "Tagesbudget fuer den 15.11. bereits im ersten Lauf (00:08) gutgeschrieben - in diesem Lauf keine erneute Gutschrift. Keine Aenderung an den Positionen: GOOGL (pos-0031) und NVDA (pos-0035) unveraendert gehalten (Boersen am Wochenende geschlossen). Kein Trade: Fear&Greed verbleibt unveraendert bei 10 (Extreme Fear), Kryptomarkt bewegt sich nahezu seitwaerts ohne bestaetigtes Bodensignal oder neuen, mehrfach bestaetigten Einzelkatalysator.",
+    "reasoning": "Tagesbudget fuer den 15.11. bereits im ersten Lauf (00:08) gutgeschrieben - in diesem Lauf keine erneute Gutschrift. Keine Aenderung an den Positionen: GOOGL (pos-0031) und NVDA (pos-0035) unveraendert gehalten (Boersen am Wochenende geschlossen). Kein Trade: Fear&Greed verbleibt unveraendert bei 10 (Extreme Fear), Kryptomarkt bewegt sich nahezu seitwaerts ohne bestaetigtes Bodensignal oder neuen, mehrfach bestaetigten Einzelkatalysator.",
     "positionIds": [
       "pos-0031",
       "pos-0035"
@@ -13283,6 +13283,11 @@
       {
         "time": "19:09",
         "note": "Keine Aenderung. GOOGL/NVDA unveraendert (Boersen Wochenende geschlossen). Kryptomarkt leicht schwaecher (BTC -1,95% statt -0,55%), AVAX leicht stabiler (-3,44% statt -3,88%). Fear&Greed weiterhin 10 (Extreme Fear, zwanzigster Lauf unveraendert), kein neuer Katalysator - kein Trade.",
+        "portfolioValue": 1850.93
+      },
+      {
+        "time": "20:08",
+        "note": "Keine Aenderung. GOOGL/NVDA unveraendert (Boersen Wochenende geschlossen). Kryptomarkt (CoinGecko live) nahezu unveraendert (BTC 64.729 USD, -1,38% 24h; AVAX 7,20 USD, -3,59%, weiterhin groesster Ausreisser aber keine Beschleunigung), Fear&Greed weiterhin 10 (Extreme Fear, einundzwanzigster Lauf unveraendert), Websuche liefert keinen frischen, mehrfach bestaetigten Einzelkatalysator - kein Trade.",
         "portfolioValue": 1850.93
       }
     ]
