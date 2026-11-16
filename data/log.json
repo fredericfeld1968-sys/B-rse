@@ -13309,14 +13309,14 @@
   },
   {
     "date": "2026-11-16",
-    "marketOverview": "Kryptomarkt am Montagvormittag weiterhin ohne klaren Trend, verfuegbare Live-Quellen liefern nur widerspruechliche bzw. undatierte Kursangaben; US-Boersen (NASDAQ) vor Handelsbeginn (ab 15:30 CET) weiterhin geschlossen, GOOGL/NVDA unveraendert zum Freitagsschluss (295,77 / 162,85 USD). Keine neuen, mehrfach bestaetigten markttreibenden Nachrichten zu Wirtschaft, Politik oder Geopolitik seit dem letzten Lauf gefunden.",
-    "decision": "Tagesbudget bereits heute gutgeschrieben (totalFreshCapitalEur 104.000 EUR, keine erneute Gutschrift). Keine Aenderung an den Positionen: GOOGL (pos-0031) und NVDA (pos-0035) unveraendert gehalten (US-Boerse vor Handelsbeginn geschlossen). Kein Trade in diesem Lauf.",
-    "reasoning": "Spekulatives Risikoprofil erlaubt kurzfristiges Handeln, aber nur bei einer wirklich ueberzeugenden, mehrfach unabhaengig bestaetigten Einzelgelegenheit. Aktien/ETFs/Rohstoffe sind vor Handelsbeginn (15:30 CET) nicht handelbar. Die Websuche liefert fuer den Kryptomarkt nur widerspruechliche bzw. aeltere/undatierte Kursdaten ohne verlaesslichen, frisch bestaetigten Einzelkatalysator fuer heute. Freies Kapital (ca. 101.338,84 EUR) bleibt daher weiterhin ungenutzt bis eine belastbare Einzelgelegenheit auftritt.",
+    "marketOverview": "NVDA fiel vorboerslich auf 159,88 USD (-1,8%, erstmals unter Kaufkurs 160,25) im Vorfeld der Q3-Zahlen morgen (17.11.) und begleitet von einem neuen Invezz-Bericht ueber eine Eskalation der Huang-Affaere unter Beteiligung von Elon Musk; GOOGL stabil vorboerslich bei 294,48 USD (+3,88% seit Kauf). Kryptomarkt bleibt breit schwach: BTC ca. 64.350 USD (-2,4% 24h), ETH/SOL/AVAX/XRP/ADA/DOGE alle -1 bis -2,4%, Fear&Greed-Index weiterhin bei 10 (Extreme Fear). Kein frischer, mehrfach bestaetigter Einzelkatalysator fuer einen Kauf gefunden; US-Kassamarkt oeffnet erst um 15:30 CET, aktuell daher ohnehin nur Krypto handelbar.",
+    "decision": "Tagesbudget bereits heute gutgeschrieben (totalFreshCapitalEur 104.000 EUR, keine erneute Gutschrift). Keine Aenderung an den Positionen: GOOGL (pos-0031, +3,88%) und NVDA (pos-0035, -0,23%, vorboerslich leicht unter Kaufkurs vor den morgigen Q3-Zahlen) unveraendert gehalten (US-Kassamarkt oeffnet erst 15:30 CET). Kryptomarkt in Extreme Fear (Index 10) mit breiter Schwaeche ueber alle Majors - kein ueberzeugender, frisch bestaetigter Kaufkatalysator gefunden, daher kein neuer Trade.",
+    "reasoning": "Stop-Loss-/Zielmarken fuer GOOGL (Ziel 7-9%) und NVDA (Stop-Loss ca. -6,5 bis -7,5%) noch nicht erreicht; ausserdem waeren Aktien vorboerslich ohnehin nicht handelbar. Freies Kapital (ca. 101.339 EUR) ist reichlich vorhanden, aber ohne eine wirklich ueberzeugende, mehrfach bestaetigte Gelegenheit wird passend zur Regel \"lieber nichts tun als eine schwache Position eingehen\" auf einen Trade verzichtet.",
     "positionIds": [
       "pos-0031",
       "pos-0035"
     ],
-    "portfolioValueEnd": 1850.93,
+    "portfolioValueEnd": 1828.76,
     "updates": [
       {
         "time": "00:08",
@@ -13367,6 +13367,11 @@
         "time": "09:11",
         "note": "Keine Aenderung. GOOGL/NVDA unveraendert (US-Boerse vor Handelsbeginn geschlossen, Kurse wie Freitagsschluss). Kryptomarkt-Websuche liefert nur widerspruechliche/undatierte Kursdaten ohne verlaesslichen, frisch bestaetigten Einzelkatalysator - kein Trade.",
         "portfolioValue": 1850.93
+      },
+      {
+        "time": "10:08",
+        "note": "Keine Aenderung. GOOGL vorboerslich +3,88%, NVDA vorboerslich -0,23% (neue Huang/Musk-Schlagzeile, Q3-Zahlen morgen) - US-Kassamarkt noch geschlossen. Krypto weiter Extreme Fear (Index 10), BTC -2,4% 24h, kein Kaufkatalysator - kein Trade.",
+        "portfolioValue": 1828.76
       }
     ]
   }
