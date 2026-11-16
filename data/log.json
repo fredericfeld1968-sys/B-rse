@@ -13309,9 +13309,9 @@
   },
   {
     "date": "2026-11-16",
-    "marketOverview": "Montag 02:08 CET: US-Boersen, ETFs und Rohstoffe weiterhin geschlossen (Oeffnung erst 15:30 CET). Erneute Websuche liefert keine tagesaktuelle (16.11.), mehrfach bestaetigte Einzelmeldung mit klarem Kurskatalysator fuer Aktien oder Krypto - weder ein aktueller Fear&Greed-Stand noch frische Preisdaten fuer Bitcoin/Ethereum/Altcoins waren ueber die Websuche verifizierbar. Letzter bestaetigter Stand (01:08) bleibt massgeblich: Kryptomarkt in anhaltender Risk-off-Phase ohne frischen Einzelkatalysator.",
-    "decision": "Tagesbudget fuer den 16.11. bereits im ersten Lauf des Tages (00:08) gutgeschrieben (+1.000 EUR, totalFreshCapitalEur 104.000 EUR) - in diesem Lauf (02:08) keine erneute Gutschrift. Keine Aenderung an den Positionen: GOOGL (pos-0031) und NVDA (pos-0035) unveraendert gehalten (US-Boerse weiterhin geschlossen, keine neuen Kursdaten verifizierbar). Kein Trade: keine tagesaktuelle, mehrfach bestaetigte Einzelmeldung mit klarem Kurskatalysator fuer Krypto auffindbar - passend zum etablierten Muster wird nur bei einer wirklich ueberzeugenden, klar belegten Gelegenheit gehandelt.",
-    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber laut Vorgabe eine wirklich ueberzeugende Gelegenheit. Ohne verifizierbare frische Kursdaten oder Katalysatoren ist kein tragfaehiges Setup fuer einen Einstieg gegeben. Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten ohnehin nicht handelbar. Keine der bestehenden Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "marketOverview": "Montag 03:08 CET: US-Boersen, ETFs und Rohstoffe weiterhin geschlossen (Oeffnung erst 15:30 CET). Kryptomarkt bleibt in anhaltender 'Extreme Fear' (Fear&Greed-Index laut mehreren Trackern bei 10-21): Bitcoin ist in der Nacht auf Sonntag auf rund 62.000 USD gefallen (tiefster Stand seit Anfang Juli 2026, laut CryptoTicker/news.bitcoin.com teilweise sogar unter 62.000 USD), Ethereum verlor rund 12% auf Wochensicht (ca. 1.740-1.960 USD je nach Quelle). Kein frischer, mehrfach bestaetigter Einzelkatalysator fuer eine Erholung auffindbar - der breite Risk-off-Trend haelt an.",
+    "decision": "Tagesbudget fuer den 16.11. bereits im ersten Lauf des Tages (00:08) gutgeschrieben (+1.000 EUR, totalFreshCapitalEur 104.000 EUR) - in diesem Lauf (03:08) keine erneute Gutschrift. Keine Aenderung an den Positionen: GOOGL (pos-0031) und NVDA (pos-0035) unveraendert gehalten (US-Boerse weiterhin geschlossen, keine neuen Kursdaten verifizierbar). Kein Trade: Kryptomarkt weiterhin in Extreme Fear mit fallenden Kursen (BTC ~62.000 USD, ETH ~12% Wochenverlust) - keine ueberzeugende, mehrfach bestaetigte Kaufgelegenheit erkennbar.",
+    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber laut Vorgabe eine wirklich ueberzeugende Gelegenheit. Ein fallender Markt in anhaltender Extreme Fear ohne Bodenbildungssignal ist kein tragfaehiges Setup fuer einen spekulativen Einstieg (Risiko eines 'fallenden Messers'). Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten ohnehin nicht handelbar. Keine der bestehenden Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [
       "pos-0031",
       "pos-0035"
@@ -13331,6 +13331,11 @@
       {
         "time": "02:08",
         "note": "Keine Aenderung. GOOGL/NVDA unveraendert (Boerse geschlossen). Websuche lieferte keine verifizierbaren frischen Kursdaten/Katalysatoren fuer Krypto - kein Trade.",
+        "portfolioValue": 1850.93
+      },
+      {
+        "time": "03:08",
+        "note": "Keine Aenderung. GOOGL/NVDA unveraendert (Boerse geschlossen). Kryptomarkt weiter in Extreme Fear, BTC auf ~62.000 USD gefallen (Tief seit Anfang Juli), kein frischer Kaufkatalysator - kein Trade.",
         "portfolioValue": 1850.93
       }
     ]
