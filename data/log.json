@@ -13309,14 +13309,14 @@
   },
   {
     "date": "2026-11-16",
-    "marketOverview": "US-Boersen noch vor regulaerem Handelsbeginn (15:30 MESZ); Premarket zeigt NVDA weiter unter Druck (159,24 USD, -2,22%) im Nachgang des Jensen-Huang-Ruecktritts und mit Spekulationen ueber politische Einmischung (Trump-Regierung, Finanzministerium) vor den Q3-Zahlen am 17.11., waehrend GOOGL stabil bei 294,46 USD notiert. Kryptomarkt bleibt in Extreme-Fear-Stimmung mit breiten Abschlaegen (BTC, ETH, SOL, XRP je 1,5-2,2% im Minus), lediglich QNT mit leichtem Plus ohne erkennbaren Einzelkatalysator.",
-    "decision": "Keine neuen Trades heute bisher (Stand 11:08). Beide offenen Positionen (GOOGL +3,88%, NVDA -0,63%) werden gehalten, da keine die etablierten Gewinnmitnahme- oder Stop-Loss-Schwellen erreicht. Boersenhandel fuer Aktien/ETFs/Rohstoffe ruht ausserhalb der Handelszeiten; Krypto bietet keinen ueberzeugenden, frisch bestaetigten Kaufkatalysator (Extreme Fear ohne Trendwende-Signal).",
-    "reasoning": "GOOGL und NVDA entwickeln sich im Rahmen der Erwartungen, keine Schwelle fuer Verkauf erreicht. NVDA-Risiko bleibt erhoeht wegen Q3-Zahlen morgen, aktueller Verlust (-0,63%) liegt aber weit innerhalb der Toleranz. Kryptomarkt zeigt keine klare Richtung bzw. keinen bestaetigten Einzelkatalysator fuer eine spekulative Neuposition; freies Kapital (~101.339 EUR) bleibt zur Seite, bis sich eine ueberzeugende Gelegenheit bietet.",
+    "marketOverview": "US-Boersen weiterhin vor regulaerem Handelsbeginn (15:30 MESZ/9:30 ET); NVDA premarket unveraendert bei ca. 159,24 USD (-2,22% zum Vorschluss) im Nachgang des Jensen-Huang-Ruecktritts vor den Q3-Zahlen morgen (17.11.), GOOGL premarket leicht fester bei ca. 294,91 USD. Kryptomarkt weiterhin schwach (BTC 64.583 USD, -1,34% 24h; ETH -1,04%; SOL -0,47%; XRP -0,64%), nur QNT mit kleinem Plus (+2,42%) ohne neuen Einzelkatalysator - im Wesentlichen unveraendert zum letzten Lauf.",
+    "decision": "Keine neuen Trades heute bisher (Stand 12:10). Beide offenen Positionen (GOOGL +4,04%, NVDA -0,63%) werden gehalten, da keine die etablierten Gewinnmitnahme- oder Stop-Loss-Schwellen erreicht. Boersenhandel fuer Aktien/ETFs/Rohstoffe ruht ausserhalb der Handelszeiten; Krypto bietet weiterhin keinen ueberzeugenden, frisch bestaetigten Kaufkatalysator.",
+    "reasoning": "GOOGL und NVDA praktisch unveraendert seit dem letzten Lauf vor zwei Stunden, keine Schwelle fuer Verkauf erreicht. Kryptomarkt zeigt keine neue Dynamik gegenueber dem letzten Lauf (QNT weiter leicht im Plus, aber ohne frischen, mehrfach bestaetigten Katalysator). Freies Kapital (~101.339 EUR) bleibt zur Seite, bis sich eine ueberzeugende Gelegenheit bietet.",
     "positionIds": [
       "pos-0031",
       "pos-0035"
     ],
-    "portfolioValueEnd": 1824.72,
+    "portfolioValueEnd": 1825.99,
     "updates": [
       {
         "time": "00:08",
@@ -13377,6 +13377,11 @@
         "time": "11:08",
         "note": "Keine Aenderung. GOOGL premarket 294,46 USD (-0,44%, +3,88% seit Kauf) - unveraendert gegenueber letztem Lauf. NVDA premarket 159,24 USD (-2,22%, -0,63% seit Kauf), weiterer leichter Rueckgang nach Huang-Ruecktrittsfallout (Trump-Regierung will NVDA als \"nationalen Champion\" benennen, Finanzministerium draengt auf externen CEO) vor Q3-Zahlen morgen (17.11.) - noch weit von Stop-Loss. Krypto weiter schwach (BTC 64.303 USD -1,8%, ETH -1,7%, SOL -1,5%, XRP -2,2%), nur QNT leicht im Plus (+2,1%) ohne frischen Katalysator. Boersen vor regulaerem Handelsbeginn (15:30 MESZ) - kein Trade.",
         "portfolioValue": 1824.72
+      },
+      {
+        "time": "12:10",
+        "note": "Keine Aenderung. GOOGL premarket 294,91 USD (+4,04% seit Kauf), NVDA premarket 159,24 USD unveraendert (-0,63% seit Kauf). Krypto weiter schwach ohne frischen Katalysator (QNT +2,42% isoliert, kein Trigger) - kein Trade.",
+        "portfolioValue": 1825.99
       }
     ]
   }
