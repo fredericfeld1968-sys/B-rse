@@ -13309,9 +13309,9 @@
   },
   {
     "date": "2026-11-16",
-    "marketOverview": "US-Kassamarkt weiterhin regulaer geoeffnet; NVDA (StockAnalysis, 15:09 EST) bei 155,92 USD (-4,26% intraday) vor den Q3-Zahlen morgen (17.11.) - Fuehrungswechsel-Unsicherheit (Huang-Ruecktritt) und neue US-Chip-Exportbeschraenkungen bleiben die dominanten Themen, UBS-Kurszielsenkung weiterhin wirksam. GOOGL (StockAnalysis, 15:07 EST) bei 284,72 USD (-3,74% intraday), weiterhin belastet durch das bekannte Capex-/Cashflow-Thema, kein neuer eigenstaendiger Katalysator. Kryptomarkt (CoinGecko) nahezu flach (BTC 65.025 USD +0,38% 24h, ETH +0,24%, SOL +0,21%, QNT +0,35%, AVAX -0,32%) ohne klaren Einzelkatalysator.",
-    "decision": "Keine neuen Trades heute (Stand 21:09). Beide offenen Positionen (GOOGL +0,44%, NVDA -2,70%) werden unveraendert gehalten - beide bleiben weit von Stop-Loss- bzw. Gewinnmitnahme-Schwelle entfernt, keine fundamentale Neuigkeit seit dem letzten Lauf.",
-    "reasoning": "Live-Kurse (StockAnalysis) zeigen keine neue, eigenstaendige Entwicklung gegenueber dem 20:09-Lauf: NVDA (155,92 USD, -2,70% seit Kauf) bleibt durch bereits bekannte Themen (Huang-Ruecktritt/Fuehrungswechsel, Exportbeschraenkungen, UBS-Kurszielsenkung) belastet, aber klar innerhalb der etablierten Stop-Loss-Spanne (-6,5 bis -7,5%); die morgigen Q3-Zahlen (17.11.) bleiben das naechste relevante Ereignis. GOOGL (284,72 USD, +0,44% seit Kauf) bleibt knapp im Plus, kein neuer Katalysator. Kryptomarkt (BTC, ETH, SOL, QNT, AVAX) bleibt nahezu flach ohne ueberzeugende Einzelchance - kein Grund fuer einen Neueinstieg. Freies Kapital (~101.337 EUR) bleibt zur Seite, bis sich eine wirklich ueberzeugende, frisch bestaetigte Gelegenheit bietet oder die morgigen NVDA-Zahlen Klarheit bringen.",
+    "marketOverview": "US-Boersen sind fuer heute geschlossen (Schlusskurse unveraendert zum letzten Lauf). NVDA bleibt nach dem CEO-Wechsel (Colette Kress interim) und vor den Q3-Zahlen morgen (17.11.) unter Druck, GOOGL konsolidiert nach dem starken Dip-Kauf-Rebound. Krypto bewegt sich seit Stunden ohne klaren Katalysator weitgehend seitwaerts.",
+    "decision": "Kein Trade in diesem Lauf (22:08). Offene Positionen GOOGL (pos-0031) und NVDA (pos-0035) unveraendert gehalten, da beide weit von ihren Stop-Loss-Schwellen entfernt sind und die Boersen bereits geschlossen haben; Krypto ohne ueberzeugende Gelegenheit.",
+    "reasoning": "Nach Boersenschluss sind Aktien/ETFs/Rohstoffe nicht handelbar. Keine neuen verifizierten Kursdaten seit dem 21:09-Lauf verfuegbar, daher Positionswerte unveraendert uebernommen. Fuer Krypto kein klarer Katalysator identifiziert - kein spekulativer Kauf ohne Edge.",
     "positionIds": [
       "pos-0031",
       "pos-0035"
@@ -13426,6 +13426,11 @@
       {
         "time": "21:09",
         "note": "Keine Aenderung. NVDA live 155,92 USD (-4,26% intraday, -2,70% seit Kauf) vor den Q3-Zahlen morgen, GOOGL live 284,72 USD (-3,74% intraday, +0,44% seit Kauf) - keine neue Entwicklung ggue. letztem Lauf. Krypto flach (BTC +0,38% 24h) ohne Katalysator - kein Trade.",
+        "portfolioValue": 1776.51
+      },
+      {
+        "time": "22:08",
+        "note": "Keine Aenderung. US-Boersen soeben geschlossen (16:00 ET/22:00 CET) - letzte verifizierte Stände unveraendert: NVDA 155,92 USD (-2,70% seit Kauf), GOOGL 284,72 USD (+0,44% seit Kauf), beide weit von Stop-Loss-Schwellen entfernt. Keine neuen marktbewegenden Nachrichten seit letztem Lauf; NVDA-Q3-Zahlen stehen morgen an. Krypto weiterhin ohne klaren Katalysator - kein Trade.",
         "portfolioValue": 1776.51
       }
     ]
