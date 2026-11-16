@@ -13309,14 +13309,14 @@
   },
   {
     "date": "2026-11-16",
-    "marketOverview": "US-Boersen weiterhin vor regulaerem Handelsbeginn (15:30 MESZ/9:30 ET); NVDA premarket unveraendert bei ca. 159,24 USD (-0,63% seit Kauf) im Nachgang der Untersuchung zu Huang vor den Q3-Zahlen morgen (17.11.), GOOGL premarket unveraendert bei ca. 294,91 USD (+4,04% seit Kauf). Kryptomarkt weiter schwach und unveraendert zum letzten Lauf (BTC 64.181 USD, -1,78% 24h; ETH -1,49%; SOL -2,04%; XRP -1,33%), Fear-and-Greed-Index weiterhin bei 10 (Extreme Fear); nur QNT mit kleinem Plus (+0,41%) ohne neuen Einzelkatalysator.",
-    "decision": "Keine neuen Trades heute bisher (Stand 13:10). Beide offenen Positionen (GOOGL +4,04%, NVDA -0,63%) werden gehalten, da keine die etablierten Gewinnmitnahme- oder Stop-Loss-Schwellen erreicht. Boersenhandel fuer Aktien/ETFs/Rohstoffe ruht ausserhalb der Handelszeiten; Krypto bietet weiterhin keinen ueberzeugenden, frisch bestaetigten Kaufkatalysator.",
-    "reasoning": "GOOGL und NVDA premarket praktisch unveraendert seit dem letzten Lauf, keine Schwelle fuer Verkauf erreicht. Kryptomarkt laut Live-API (CoinGecko) weiterhin schwach und ohne neue Dynamik gegenueber dem letzten Lauf (BTC/ETH/SOL/XRP alle leicht im Minus, QNT isoliert minimal im Plus ohne frischen Katalysator), Fear-and-Greed-Index unveraendert bei 10 (Extreme Fear). Freies Kapital (~101.339 EUR) bleibt zur Seite, bis sich eine ueberzeugende Gelegenheit bietet.",
+    "marketOverview": "US-Boersen weiterhin vor regulaerem Handelsbeginn (15:30 MESZ/9:30 ET); NVDA premarket leicht schwaecher bei ca. 157,78 USD (-1,54% seit Kauf, zuvor -0,63%), weiterhin belastet vom Nachwirken der Huang-Untersuchung (interne Pruefung wegen moeglicher auslaendischer Geheimdienstkontakte, erstmals am 09.11. bekannt geworden) vor den Q3-Zahlen morgen (17.11.). GOOGL premarket stabil bei ca. 294,06 USD (+3,74% seit Kauf). Kryptomarkt laut Live-API weiterhin schwach (BTC 64.124 USD, -2,13% 24h; ETH -1,96%; SOL -2,96%; XRP -2,24%; QNT -1,20%), Fear-and-Greed-Index unveraendert bei 10 (Extreme Fear), kein neuer Einzelkatalysator.",
+    "decision": "Keine neuen Trades heute bisher (Stand 13:12). Beide offenen Positionen (GOOGL +3,74%, NVDA -1,54%) werden gehalten, da keine die etablierten Gewinnmitnahme- oder Stop-Loss-Schwellen erreicht. Boersenhandel fuer Aktien/ETFs/Rohstoffe ruht ausserhalb der Handelszeiten; Krypto bietet weiterhin keinen ueberzeugenden, frisch bestaetigten Kaufkatalysator.",
+    "reasoning": "NVDA ist premarket minimal weiter gefallen (159,24 -> 157,78 USD) im Nachgang der bereits bekannten Huang-Untersuchung, ohne neue Eskalationsmeldung seit dem 10.11. - noch weit von der Stop-Loss-Schwelle (~-6,5 bis -7,5%) entfernt, Q3-Zahlen morgen bleiben abzuwarten. GOOGL premarket praktisch unveraendert. Kryptomarkt laut Live-API (CoinGecko) weiterhin durchgehend leicht im Minus (BTC/ETH/SOL/XRP/QNT), Fear-and-Greed-Index unveraendert bei 10 (Extreme Fear), kein frischer, mehrfach bestaetigter Einzelkatalysator fuer einen Einstieg gefunden. Freies Kapital (~101.339 EUR) bleibt zur Seite, bis sich eine ueberzeugende Gelegenheit bietet.",
     "positionIds": [
       "pos-0031",
       "pos-0035"
     ],
-    "portfolioValueEnd": 1825.99,
+    "portfolioValueEnd": 1814.48,
     "updates": [
       {
         "time": "00:08",
@@ -13387,6 +13387,11 @@
         "time": "13:10",
         "note": "Keine Aenderung. GOOGL/NVDA premarket unveraendert (294,91 / 159,24 USD). Krypto laut CoinGecko-API weiter schwach (BTC -1,78%, ETH -1,49%, SOL -2,04%, XRP -1,33%), Fear&Greed weiterhin 10 Extreme Fear, nur QNT minimal im Plus (+0,41%) - kein Trade.",
         "portfolioValue": 1825.99
+      },
+      {
+        "time": "13:12",
+        "note": "Keine Aenderung. GOOGL premarket 294,06 USD (+3,74% seit Kauf) unveraendert. NVDA premarket 157,78 USD (-1,54% seit Kauf), leicht schwaecher im Nachgang der Huang-Untersuchung, kein neuer Katalysator, Q3-Zahlen morgen. Krypto weiter schwach (BTC -2,13% 24h), Fear&Greed weiterhin 10 Extreme Fear - kein Trade.",
+        "portfolioValue": 1814.48
       }
     ]
   }
