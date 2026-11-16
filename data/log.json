@@ -13309,14 +13309,14 @@
   },
   {
     "date": "2026-11-16",
-    "marketOverview": "US-Kassamarkt ist seit 14:30 UTC/9:30 ET regulaer geoeffnet; breiter AI-/Chip-Ausverkauf vor den NVDA-Q3-Zahlen morgen (17.11.) nach Boersenschluss und dem Anthropic-IPO (Ziel-Bewertung 1,4 Bio. USD, Debuet 19.11.) - Chipmaker-Index laut Bloomberg zeitweise -5%, Nasdaq 100 -1,6%, S&P 500 im dritten Verlusttag in Folge. NVDA notiert live bei 159,46 USD (-2,08% intraday, -0,49% seit Kauf), GOOGL bei 286,64 USD (-3,09% intraday, +1,12% seit Kauf) - beide im Sog der breiten Tech-Schwaeche, aber weit von den etablierten Schwellen entfernt. Kryptomarkt stabil ohne Katalysator (BTC 64.566 USD +0,3% 24h, ETH +1,0%, SOL +0,9%, Gesamtmarktkapitalisierung 2,24 Bio. USD +0,7%).",
-    "decision": "Keine neuen Trades heute (Stand 16:10). Beide offenen Positionen (GOOGL +1,12%, NVDA -0,49%) werden gehalten und auf aktuelle Live-Kurse aktualisiert, da keine die etablierten Gewinnmitnahme- oder Stop-Loss-Schwellen erreicht.",
-    "reasoning": "Trotz regulaer geoeffnetem US-Kassamarkt kein neuer Kauf: Der breite AI-/Chip-Sektor-Ausverkauf vor den morgigen NVDA-Zahlen und dem Anthropic-IPO erhoeht das kurzfristige Ereignisrisiko erheblich - eine zusaetzliche Aufstockung in diesem Sektor waere angesichts der bereits offenen NVDA-Position unklug. GOOGL und NVDA bleiben beide deutlich innerhalb der Halteband (-6,5/-7,5% Stop-Loss, +7-9% Gewinnmitnahme). Krypto bietet weiterhin keinen frischen, mehrfach bestaetigten Einzelkatalysator (Markt insgesamt nahezu flach). Gold/Oel-Daten sind nicht aktuell genug fuer eine belastbare Handelsentscheidung. Freies Kapital (~101.337 EUR) bleibt zur Seite, bis sich eine ueberzeugende, frisch bestaetigte Gelegenheit bietet.",
+    "marketOverview": "US-Kassamarkt regulaer geoeffnet; breiter AI-/Chip-Ausverkauf vertieft sich weiter vor den NVDA-Q3-Zahlen morgen (17.11.) nach Boersenschluss und dem Anthropic-IPO (Ziel-Bewertung laut Berichten inzwischen auf ca. 1,3-1,5 Bio. USD nach unten korrigiert, Debuet 19.11.). NVDA notiert live (StockAnalysis, 11:12 ET) bei 158,80 USD (-2,49% intraday, -0,91% seit Kauf), GOOGL bei 287,85 USD (-2,68% intraday, +1,55% seit Kauf) - beide weiterhin im Sog der breiten Tech-Schwaeche, aber weit von den etablierten Schwellen entfernt. Kryptomarkt via CoinGecko-API nahezu flach/gemischt (BTC 64.296 USD -0,54% 24h, ETH 1.814,93 USD +0,43%, SOL -0,83%, XRP -0,64%, QNT +0,56%, HYPE -1,15%, AVAX -1,39%, DOGE +0,56%, BCH -1,07%), kein klarer Einzelkatalysator.",
+    "decision": "Keine neuen Trades heute (Stand 17:10). Beide offenen Positionen (GOOGL +1,55%, NVDA -0,91%) werden gehalten und auf aktuelle Live-Kurse aktualisiert, da keine die etablierten Gewinnmitnahme- oder Stop-Loss-Schwellen erreicht.",
+    "reasoning": "Der AI-/Chip-Sektor-Ausverkauf setzt sich vor den morgigen NVDA-Zahlen und dem Anthropic-IPO fort, ohne dass ein neuer, frisch bestaetigter Einzelkatalysator fuer einen weiteren Einstieg in diesem bereits ueberproportional gewichteten Sektor vorliegt - eine Aufstockung waere angesichts der anstehenden Ereignisrisiken (Earnings, IPO) unklug. GOOGL und NVDA bleiben beide deutlich innerhalb des Haltebands (-6,5/-7,5% Stop-Loss, +7-9% Gewinnmitnahme). Krypto bewegt sich nahezu flach und gemischt (kleinste Ausschlaege je Coin unter 1,5%) ohne ueberzeugenden, mehrfach bestaetigten Katalysator fuer einen Trade. Freies Kapital (~101.339 EUR) bleibt zur Seite, bis sich eine wirklich ueberzeugende, frisch bestaetigte Gelegenheit bietet.",
     "positionIds": [
       "pos-0031",
       "pos-0035"
     ],
-    "portfolioValueEnd": 1804.02,
+    "portfolioValueEnd": 1803.32,
     "updates": [
       {
         "time": "00:08",
@@ -13402,6 +13402,11 @@
         "time": "16:10",
         "note": "Keine Aenderung. US-Kassamarkt seit 14:30 UTC offen; GOOGL live 286,64 USD (+1,12% seit Kauf, -3,09% intraday im breiten Tech-Ausverkauf), NVDA live 159,46 USD (-0,49% seit Kauf, -2,08% intraday) vor den Q3-Zahlen morgen (17.11.) und dem Anthropic-IPO. Krypto flach ohne Katalysator (BTC +0,3% 24h) - kein Trade.",
         "portfolioValue": 1804.02
+      },
+      {
+        "time": "17:10",
+        "note": "Keine Aenderung. GOOGL live 287,85 USD (+1,55% seit Kauf, -2,68% intraday), NVDA live 158,80 USD (-0,91% seit Kauf, -2,49% intraday) - AI-/Chip-Ausverkauf vor Q3-Zahlen morgen und Anthropic-IPO haelt an. Krypto nahezu flach/gemischt (BTC -0,54% 24h) ohne Katalysator - kein Trade.",
+        "portfolioValue": 1803.32
       }
     ]
   }
