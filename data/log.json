@@ -13309,14 +13309,14 @@
   },
   {
     "date": "2026-11-16",
-    "marketOverview": "NVDA fiel vorboerslich auf 159,88 USD (-1,8%, erstmals unter Kaufkurs 160,25) im Vorfeld der Q3-Zahlen morgen (17.11.) und begleitet von einem neuen Invezz-Bericht ueber eine Eskalation der Huang-Affaere unter Beteiligung von Elon Musk; GOOGL stabil vorboerslich bei 294,48 USD (+3,88% seit Kauf). Kryptomarkt bleibt breit schwach: BTC ca. 64.350 USD (-2,4% 24h), ETH/SOL/AVAX/XRP/ADA/DOGE alle -1 bis -2,4%, Fear&Greed-Index weiterhin bei 10 (Extreme Fear). Kein frischer, mehrfach bestaetigter Einzelkatalysator fuer einen Kauf gefunden; US-Kassamarkt oeffnet erst um 15:30 CET, aktuell daher ohnehin nur Krypto handelbar.",
-    "decision": "Tagesbudget bereits heute gutgeschrieben (totalFreshCapitalEur 104.000 EUR, keine erneute Gutschrift). Keine Aenderung an den Positionen: GOOGL (pos-0031, +3,88%) und NVDA (pos-0035, -0,23%, vorboerslich leicht unter Kaufkurs vor den morgigen Q3-Zahlen) unveraendert gehalten (US-Kassamarkt oeffnet erst 15:30 CET). Kryptomarkt in Extreme Fear (Index 10) mit breiter Schwaeche ueber alle Majors - kein ueberzeugender, frisch bestaetigter Kaufkatalysator gefunden, daher kein neuer Trade.",
-    "reasoning": "Stop-Loss-/Zielmarken fuer GOOGL (Ziel 7-9%) und NVDA (Stop-Loss ca. -6,5 bis -7,5%) noch nicht erreicht; ausserdem waeren Aktien vorboerslich ohnehin nicht handelbar. Freies Kapital (ca. 101.339 EUR) ist reichlich vorhanden, aber ohne eine wirklich ueberzeugende, mehrfach bestaetigte Gelegenheit wird passend zur Regel \"lieber nichts tun als eine schwache Position eingehen\" auf einen Trade verzichtet.",
+    "marketOverview": "US-Boersen noch vor regulaerem Handelsbeginn (15:30 MESZ); Premarket zeigt NVDA weiter unter Druck (159,24 USD, -2,22%) im Nachgang des Jensen-Huang-Ruecktritts und mit Spekulationen ueber politische Einmischung (Trump-Regierung, Finanzministerium) vor den Q3-Zahlen am 17.11., waehrend GOOGL stabil bei 294,46 USD notiert. Kryptomarkt bleibt in Extreme-Fear-Stimmung mit breiten Abschlaegen (BTC, ETH, SOL, XRP je 1,5-2,2% im Minus), lediglich QNT mit leichtem Plus ohne erkennbaren Einzelkatalysator.",
+    "decision": "Keine neuen Trades heute bisher (Stand 11:08). Beide offenen Positionen (GOOGL +3,88%, NVDA -0,63%) werden gehalten, da keine die etablierten Gewinnmitnahme- oder Stop-Loss-Schwellen erreicht. Boersenhandel fuer Aktien/ETFs/Rohstoffe ruht ausserhalb der Handelszeiten; Krypto bietet keinen ueberzeugenden, frisch bestaetigten Kaufkatalysator (Extreme Fear ohne Trendwende-Signal).",
+    "reasoning": "GOOGL und NVDA entwickeln sich im Rahmen der Erwartungen, keine Schwelle fuer Verkauf erreicht. NVDA-Risiko bleibt erhoeht wegen Q3-Zahlen morgen, aktueller Verlust (-0,63%) liegt aber weit innerhalb der Toleranz. Kryptomarkt zeigt keine klare Richtung bzw. keinen bestaetigten Einzelkatalysator fuer eine spekulative Neuposition; freies Kapital (~101.339 EUR) bleibt zur Seite, bis sich eine ueberzeugende Gelegenheit bietet.",
     "positionIds": [
       "pos-0031",
       "pos-0035"
     ],
-    "portfolioValueEnd": 1828.76,
+    "portfolioValueEnd": 1824.72,
     "updates": [
       {
         "time": "00:08",
@@ -13372,6 +13372,11 @@
         "time": "10:08",
         "note": "Keine Aenderung. GOOGL vorboerslich +3,88%, NVDA vorboerslich -0,23% (neue Huang/Musk-Schlagzeile, Q3-Zahlen morgen) - US-Kassamarkt noch geschlossen. Krypto weiter Extreme Fear (Index 10), BTC -2,4% 24h, kein Kaufkatalysator - kein Trade.",
         "portfolioValue": 1828.76
+      },
+      {
+        "time": "11:08",
+        "note": "Keine Aenderung. GOOGL premarket 294,46 USD (-0,44%, +3,88% seit Kauf) - unveraendert gegenueber letztem Lauf. NVDA premarket 159,24 USD (-2,22%, -0,63% seit Kauf), weiterer leichter Rueckgang nach Huang-Ruecktrittsfallout (Trump-Regierung will NVDA als \"nationalen Champion\" benennen, Finanzministerium draengt auf externen CEO) vor Q3-Zahlen morgen (17.11.) - noch weit von Stop-Loss. Krypto weiter schwach (BTC 64.303 USD -1,8%, ETH -1,7%, SOL -1,5%, XRP -2,2%), nur QNT leicht im Plus (+2,1%) ohne frischen Katalysator. Boersen vor regulaerem Handelsbeginn (15:30 MESZ) - kein Trade.",
+        "portfolioValue": 1824.72
       }
     ]
   }
