@@ -13309,14 +13309,14 @@
   },
   {
     "date": "2026-11-16",
-    "marketOverview": "US-Kassamarkt weiterhin regulaer geoeffnet; AI-/Chip-Selloff vor den NVDA-Q3-Zahlen morgen (17.11., nach Boersenschluss) und dem fuer den 19.11. geplanten Anthropic-IPO verschaerft sich: NVDA faellt laut StockAnalysis live auf 156,02 USD (-4,19% intraday), GOOGL auf 287,03 USD (-2,95% intraday) - breiter Tech-/AI-Ausverkauf unmittelbar vor den Zahlen. Kryptomarkt dagegen nahezu flach (BTC 64.872 USD +0,46% 24h laut CoinGecko, ETH +0,13%, SOL -0,40%) ohne Einzelkatalysator.",
-    "decision": "Keine neuen Trades heute (Stand 19:10). Beide offenen Positionen (GOOGL +1,26%, NVDA -2,64%) werden unveraendert gehalten - NVDA trotz verstaerktem Ausverkauf noch deutlich von der Stop-Loss-Schwelle (~-6,5 bis -7,5%) entfernt, GOOGL ohne Erreichen der Gewinnmitnahme-Schwelle.",
-    "reasoning": "Live-Kurse (StockAnalysis) zeigen eine Vertiefung des bereits bekannten AI-/Chip-Ausverkaufs vor NVDA-Zahlen: NVDA -4,19%, GOOGL -2,95% intraday. Da der Rueckgang bei NVDA bereits beim Kauf (12.11.) als erhoehtes, bewusst eingegangenes Risiko bis zu den morgigen Zahlen eingepreist war und die Position mit -2,64% seit Kauf noch weit vom etablierten Stop-Loss entfernt ist, wird nicht vorzeitig verkauft. Krypto bleibt ohne klaren Einzelkatalysator nahezu flach - kein Grund fuer einen Neueinstieg. Freies Kapital (~101.339 EUR) bleibt zur Seite, bis sich eine wirklich ueberzeugende, frisch bestaetigte Gelegenheit bietet oder die morgigen NVDA-Zahlen Klarheit bringen.",
+    "marketOverview": "US-Kassamarkt weiterhin regulaer geoeffnet; neuer, frisch bestaetigter Negativkatalysator fuer NVDA: Das US-Handelsministerium kuendigte heute neue KI-Chip-Exportbeschraenkungen fuer fuenf weitere Laender sowie eine Schliessung eines von chinesischen Firmen genutzten Schlupflochs an, UBS senkte das Kursziel von 300 auf 240 USD. NVDA faellt dadurch laut StockAnalysis live auf 156,14 USD (-4,12% intraday), GOOGL auf 285,57 USD (-3,45% intraday, u.a. Berichte ueber 3 Mrd. USD Energie-Vorfinanzierung bei negativem Free Cashflow) - breiter Tech-/AI-Ausverkauf einen Tag vor den NVDA-Q3-Zahlen (17.11., nach Boersenschluss). Kryptomarkt laut CoinGecko-Live-API nahezu flach/gemischt (BTC 64.931 USD +0,24% 24h, ETH -0,23%, SOL -0,28%, QNT +1,66%, AVAX -0,83%) ohne klaren Einzelkatalysator.",
+    "decision": "Keine neuen Trades heute (Stand 20:09). Beide offenen Positionen (GOOGL +0,74%, NVDA -2,56%) werden unveraendert gehalten - die neuen Exportbeschraenkungen sind bereits im Kursrueckgang eingepreist und aendern das beim Kauf bewusst eingegangene Risiko bis zu den morgigen NVDA-Zahlen nicht grundlegend; beide Positionen bleiben weit von Stop-Loss- bzw. Gewinnmitnahme-Schwelle entfernt.",
+    "reasoning": "Live-Kurse (StockAnalysis) zeigen einen frischen, konkreten Negativkatalysator fuer NVDA (neue US-Exportbeschraenkungen fuer KI-Chips, UBS-Kurszielsenkung 300->240 USD), die Position (-2,56% seit Kauf am 12.11.) bleibt aber weiterhin deutlich innerhalb der etablierten Stop-Loss-Spanne (-6,5 bis -7,5%) und das erhoehte Risiko bis zu den morgigen Q3-Zahlen war beim Kauf bereits bewusst einkalkuliert - kein Grund fuer eine vorzeitige Reaktion. GOOGL bleibt mit +0,74% knapp im Plus, kein neuer eigenstaendiger Katalysator (Energie-Vorfinanzierung ist Fortsetzung des bereits bekannten Capex-/Cashflow-Themas). Krypto bleibt ohne klaren Einzelkatalysator nahezu flach - kein Grund fuer einen Neueinstieg. Freies Kapital (~101.339 EUR) bleibt zur Seite, bis sich eine wirklich ueberzeugende, frisch bestaetigte Gelegenheit bietet oder die morgigen NVDA-Zahlen Klarheit bringen.",
     "positionIds": [
       "pos-0031",
       "pos-0035"
     ],
-    "portfolioValueEnd": 1783.65,
+    "portfolioValueEnd": 1780.28,
     "updates": [
       {
         "time": "00:08",
@@ -13417,6 +13417,11 @@
         "time": "19:10",
         "note": "Keine Aenderung. NVDA live 156,02 USD (-4,19% intraday, -2,64% seit Kauf), GOOGL live 287,03 USD (-2,95% intraday, +1,26% seit Kauf) - AI-/Chip-Selloff vor NVDA-Q3-Zahlen morgen verschaerft sich, aber beide Positionen weit von ihren Schwellen entfernt. Krypto nahezu flach (BTC +0,46% 24h) ohne Katalysator - kein Trade.",
         "portfolioValue": 1783.65
+      },
+      {
+        "time": "20:09",
+        "note": "Keine Aenderung. NVDA live 156,14 USD (-4,12% intraday, -2,56% seit Kauf) nach neuen US-Exportbeschraenkungen fuer KI-Chips (5 weitere Laender) und UBS-Kurszielsenkung (300->240 USD), aber weiterhin weit vom Stop-Loss entfernt. GOOGL live 285,57 USD (-3,45% intraday, +0,74% seit Kauf). Krypto flach/gemischt (BTC +0,24% 24h) ohne Katalysator - kein Trade.",
+        "portfolioValue": 1780.28
       }
     ]
   }
