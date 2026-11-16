@@ -13309,9 +13309,9 @@
   },
   {
     "date": "2026-11-16",
-    "marketOverview": "Montag 00:08 CET, kurz nach Mitternacht: US-Boersen, ETFs und Rohstoffe wochenendbedingt weiterhin geschlossen. Kryptomarkt zeigt laut Live-Daten (CoinGecko) eine breite Erholungsbewegung ueber nahezu alle grossen Coins (BTC 65.296 USD +2,86% 24h, ETH +5,14%, SOL +4,94%, AVAX +3,85%, ADA +7,03%, XRP +8,95%, DOGE +5,87%, QNT +11,57%, HYPE +9,52%, BCH +6,04%), der Fear&Greed-Index notiert trotz der Kursgewinne aber weiterhin bei 10 ('Extreme Fear', nachlaufender Indikator). Eine WebSuche nach einem konkreten, mehrfach unabhaengig fuer heute bestaetigten Einzelkatalysator (Nachricht, Regulierung, Makro-Ereignis) hinter dieser breiten Bewegung blieb erfolglos - es handelt sich bisher um eine unspezifische, marktweite Erleichterungsbewegung ohne klaren Namen.",
-    "decision": "Tagesbudget fuer den 16.11. im ersten Lauf des Tages (00:08) gutgeschrieben (+1.000 EUR, totalFreshCapitalEur jetzt 104.000 EUR). Keine Aenderung an den Positionen: GOOGL (pos-0031) und NVDA (pos-0035) unveraendert gehalten (US-Boerse wochenendbedingt geschlossen, letzter Schlusskurs vom Freitag). Kein Trade: die breite Krypto-Erholung ist zwar in den Live-Preisdaten sichtbar, aber ohne einen konkreten, mehrfach bestaetigten Einzelkatalysator fuer heute - passend zum bisherigen Muster wird nur bei einer wirklich ueberzeugenden, klar belegten Gelegenheit gehandelt.",
-    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber laut Vorgabe eine wirklich ueberzeugende Gelegenheit. Ein reiner breiter Kursanstieg ohne identifizierbaren, frischen Katalysator (und bei weiterhin 'Extreme Fear' im Sentiment-Index) ist kein ausreichend belastbares Setup fuer eine neue spekulative Position - das Risiko eines kurzlebigen Rebounds in einer anhaltenden Abwaertsphase ist zu hoch. Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten ohnehin nicht handelbar. Keine der bestehenden Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "marketOverview": "Montag 01:08 CET: US-Boersen, ETFs und Rohstoffe weiterhin geschlossen (Oeffnung erst 15:30 CET). Websuche zu aktuellen Krypto-Schlagzeilen zeigt ein widersprueuchliches Bild: aeltere Berichte (bis 13.11.) beschreiben einen breiten Abverkauf (BTC zwischen ca. 63.000-69.000 USD, ETH ca. 1.900-1.925 USD, SOL unter 75-80 USD, XRP nahe Jahrestiefs) ausgeloest durch Fed-Zinserhoehungs-Spekulationen, hohe US-Inflationsdaten, ETF-Abflüsse (14,2 Mrd. USD Stablecoin-Abzuege) und Nachwirkungen des Nvidia-CEO-Wechsels (Jensen Huang Ruecktritt). Keine tagesaktuelle (16.11.), mehrfach bestaetigte Einzelmeldung mit klarem Kurskatalysator auffindbar. Fear&Greed-Index bleibt im Bereich 'Extreme Fear'.",
+    "decision": "Tagesbudget fuer den 16.11. bereits im ersten Lauf des Tages (00:08) gutgeschrieben (+1.000 EUR, totalFreshCapitalEur 104.000 EUR) - im aktuellen Lauf (01:08) keine erneute Gutschrift. Keine Aenderung an den Positionen: GOOGL (pos-0031) und NVDA (pos-0035) unveraendert gehalten (US-Boerse weiterhin geschlossen). Kein Trade: der Kryptomarkt bleibt laut Websuche in einer anhaltenden, breiten Risk-off-Phase (Extreme Fear) ohne frischen, mehrfach bestaetigten Einzelkatalysator fuer eine neue spekulative Position - passend zum etablierten Muster wird nur bei einer wirklich ueberzeugenden, klar belegten Gelegenheit gehandelt.",
+    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber laut Vorgabe eine wirklich ueberzeugende Gelegenheit. Ein anhaltender, breiter Abverkauf mit Extreme-Fear-Sentiment und ohne frischen, positiven Einzelkatalysator ist kein tragfaehiges Setup fuer einen Einstieg - das Risiko, in ein fallendes Messer zu greifen, ist zu hoch. Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten ohnehin nicht handelbar. Keine der bestehenden Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [
       "pos-0031",
       "pos-0035"
@@ -13321,6 +13321,11 @@
       {
         "time": "00:08",
         "note": "Tagesbudget gutgeschrieben (+1.000 EUR, totalFreshCapitalEur jetzt 104.000 EUR). GOOGL/NVDA unveraendert (Boerse wochenendbedingt geschlossen). Kryptomarkt zeigt breite Erholung (BTC +2,86%, XRP +8,95%, QNT +11,57%, HYPE +9,52%, alle 24h), aber kein konkreter, mehrfach bestaetigter Einzelkatalysator gefunden und Fear&Greed-Index weiterhin bei 10 'Extreme Fear' - kein Trade.",
+        "portfolioValue": 1850.93
+      },
+      {
+        "time": "01:08",
+        "note": "Keine Aenderung. GOOGL/NVDA unveraendert (Boerse geschlossen). Websuche zeigt anhaltenden Krypto-Abverkauf/Extreme Fear ohne frischen Einzelkatalysator fuer heute - kein Trade.",
         "portfolioValue": 1850.93
       }
     ]
