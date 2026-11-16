@@ -13439,5 +13439,23 @@
         "portfolioValue": 1775.06
       }
     ]
+  },
+  {
+    "date": "2026-11-17",
+    "marketOverview": "US-Boersen bleiben bis zur regulaeren Eroeffnung um 15:30 CET geschlossen. NVDA schloss zuletzt bei 156,14 USD, GOOGL bei 283,72 USD - beide unveraendert vor den morgigen NVDA-Q3-Zahlen (17.11.). Fuer den Kryptomarkt lieferten mehrere Recherchen nur widerspruechliche und teils undatierte Kursangaben (BTC-Spannen von ca. 65.000 bis 84.000 USD je nach Quelle) ohne verlaesslich bestaetigten frischen Katalysator.",
+    "decision": "Kein Trade in diesem Lauf (00:08). Tagesbudget fuer den 17.11. gutgeschrieben (+1.000 EUR). Offene Positionen GOOGL (pos-0031) und NVDA (pos-0035) unveraendert gehalten (Boerse geschlossen). Keine Krypto-Position eroeffnet, da keine verlaesslich bestaetigte Marktbewegung identifizierbar war.",
+    "reasoning": "Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten nicht handelbar. Fuer Krypto ergaben mehrere Recherchen widerspruechliche und teils veraltete Kursangaben ohne klaren, mehrfach bestaetigten Katalysator - passend zum Grundsatz, nur bei einer wirklich ueberzeugenden Gelegenheit zu handeln, erfolgte kein Kauf.",
+    "positionIds": [
+      "pos-0031",
+      "pos-0035"
+    ],
+    "portfolioValueEnd": 1775.06,
+    "updates": [
+      {
+        "time": "00:08",
+        "note": "Tagesbudget gutgeschrieben (+1.000 EUR, totalFreshCapitalEur jetzt 105.000 EUR). GOOGL/NVDA unveraendert (Boerse geschlossen). Kryptomarkt-Daten widerspruechlich/teils veraltet, kein bestaetigter Katalysator - kein Trade.",
+        "portfolioValue": 1775.06
+      }
+    ]
   }
 ]
