@@ -13309,14 +13309,14 @@
   },
   {
     "date": "2026-11-16",
-    "marketOverview": "US-Boersen sind fuer heute geschlossen (Schlusskurse unveraendert zum letzten Lauf). NVDA bleibt nach dem CEO-Wechsel (Colette Kress interim) und vor den Q3-Zahlen morgen (17.11.) unter Druck, GOOGL konsolidiert nach dem starken Dip-Kauf-Rebound. Krypto bewegt sich seit Stunden ohne klaren Katalysator weitgehend seitwaerts.",
-    "decision": "Kein Trade in diesem Lauf (22:08). Offene Positionen GOOGL (pos-0031) und NVDA (pos-0035) unveraendert gehalten, da beide weit von ihren Stop-Loss-Schwellen entfernt sind und die Boersen bereits geschlossen haben; Krypto ohne ueberzeugende Gelegenheit.",
-    "reasoning": "Nach Boersenschluss sind Aktien/ETFs/Rohstoffe nicht handelbar. Keine neuen verifizierten Kursdaten seit dem 21:09-Lauf verfuegbar, daher Positionswerte unveraendert uebernommen. Fuer Krypto kein klarer Katalysator identifiziert - kein spekulativer Kauf ohne Edge.",
+    "marketOverview": "US-Boersen seit 22:00 CET fuer heute geschlossen: NVDA schloss bei 156,14 USD (-4,12%, belastet von neuen US-Chip-Exportbeschraenkungen und einer UBS-Kurszielsenkung vor den Q3-Zahlen morgen, 17.11.), GOOGL bei 283,72 USD (-4,07%, breiter AI-/Tech-Ausverkauf vor dem Anthropic-IPO). Krypto bewegt sich nahezu flach und ohne klaren Einzelkatalysator (BTC ca. 65.357 USD, +0,4% 24h; HYPE staerkster Ausreisser mit +3,95%, aber ohne mehrfach bestaetigte frische Nachricht).",
+    "decision": "Kein Trade in diesem Lauf (23:07). Offene Positionen GOOGL (pos-0031) und NVDA (pos-0035) unveraendert gehalten, da beide weit von ihren Stop-Loss-Schwellen entfernt sind und die Boersen bereits geschlossen haben; Krypto ohne ueberzeugende, mehrfach bestaetigte Gelegenheit.",
+    "reasoning": "Nach Boersenschluss sind Aktien/ETFs/Rohstoffe nicht handelbar; GOOGL/NVDA wurden auf die offiziellen Schlusskurse aktualisiert. Fuer Krypto kein frischer, mehrfach bestaetigter Katalysator identifiziert (HYPE-Staerke unbestaetigt) - kein spekulativer Kauf ohne Edge.",
     "positionIds": [
       "pos-0031",
       "pos-0035"
     ],
-    "portfolioValueEnd": 1776.51,
+    "portfolioValueEnd": 1775.06,
     "updates": [
       {
         "time": "00:08",
@@ -13432,6 +13432,11 @@
         "time": "22:08",
         "note": "Keine Aenderung. US-Boersen soeben geschlossen (16:00 ET/22:00 CET) - letzte verifizierte Stände unveraendert: NVDA 155,92 USD (-2,70% seit Kauf), GOOGL 284,72 USD (+0,44% seit Kauf), beide weit von Stop-Loss-Schwellen entfernt. Keine neuen marktbewegenden Nachrichten seit letztem Lauf; NVDA-Q3-Zahlen stehen morgen an. Krypto weiterhin ohne klaren Katalysator - kein Trade.",
         "portfolioValue": 1776.51
+      },
+      {
+        "time": "23:07",
+        "note": "Keine Aenderung. Offizielle Schlusskurse uebernommen: NVDA 156,14 USD (-4,12% Tagesverlust, -2,56% seit Kauf), GOOGL 283,72 USD (-4,07% Tagesverlust, +0,09% seit Kauf) - beide weit von Stop-Loss-Schwellen entfernt. Krypto flach (BTC +0,4% 24h, HYPE +3,95% aber ohne bestaetigten frischen Katalysator) - kein Trade.",
+        "portfolioValue": 1775.06
       }
     ]
   }
