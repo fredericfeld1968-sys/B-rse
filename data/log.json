@@ -13309,9 +13309,9 @@
   },
   {
     "date": "2026-11-16",
-    "marketOverview": "Kryptomarkt am Montagmorgen leicht erholt und insgesamt gemischt: Bitcoin ca. 64.633 USD (+0,37% 24h), Ethereum 1.815 USD (+1,37%), Solana 71,15 USD (+1,16%), XRP 0,955 USD (+0,07%), QNT weiterhin staerkster Gewinner (154,94 USD, +6,14%) ohne frisch datierten Einzelkatalysator, Avalanche leicht schwaecher (-0,91%). US-Boersen (NASDAQ) vor Handelsbeginn (ab 15:30 CET) noch geschlossen, GOOGL/NVDA notieren unveraendert zum Freitagsschluss (295,77 / 162,85 USD). Keine neuen, mehrfach bestaetigten markttreibenden Nachrichten zu Wirtschaft, Politik oder Geopolitik seit dem letzten Lauf gefunden.",
-    "decision": "Tagesbudget bereits heute gutgeschrieben (totalFreshCapitalEur 104.000 EUR, keine erneute Gutschrift). Keine Aenderung an den Positionen: GOOGL (pos-0031) und NVDA (pos-0035) unveraendert gehalten (US-Boerse vor Handelsbeginn geschlossen, Kurse identisch zum Freitagsschluss). Kein Trade in diesem Lauf.",
-    "reasoning": "Spekulatives Risikoprofil erlaubt kurzfristiges Handeln, aber nur bei einer wirklich ueberzeugenden, mehrfach unabhaengig bestaetigten Einzelgelegenheit. Aktien/ETFs/Rohstoffe sind vor Handelsbeginn (15:30 CET) nicht handelbar. Im Kryptomarkt ist QNT zwar der staerkste Tagesgewinner (+6,14%), jedoch ohne einen frisch datierten, mehrfach bestaetigten Katalysator fuer heute - die verfuegbaren Quellen beziehen sich auf aeltere QNT-Rallyes. Freies Kapital (ca. 101.338,84 EUR) bleibt daher weiterhin ungenutzt bis eine belastbare Einzelgelegenheit auftritt.",
+    "marketOverview": "Kryptomarkt am Montagvormittag weiterhin ohne klaren Trend, verfuegbare Live-Quellen liefern nur widerspruechliche bzw. undatierte Kursangaben; US-Boersen (NASDAQ) vor Handelsbeginn (ab 15:30 CET) weiterhin geschlossen, GOOGL/NVDA unveraendert zum Freitagsschluss (295,77 / 162,85 USD). Keine neuen, mehrfach bestaetigten markttreibenden Nachrichten zu Wirtschaft, Politik oder Geopolitik seit dem letzten Lauf gefunden.",
+    "decision": "Tagesbudget bereits heute gutgeschrieben (totalFreshCapitalEur 104.000 EUR, keine erneute Gutschrift). Keine Aenderung an den Positionen: GOOGL (pos-0031) und NVDA (pos-0035) unveraendert gehalten (US-Boerse vor Handelsbeginn geschlossen). Kein Trade in diesem Lauf.",
+    "reasoning": "Spekulatives Risikoprofil erlaubt kurzfristiges Handeln, aber nur bei einer wirklich ueberzeugenden, mehrfach unabhaengig bestaetigten Einzelgelegenheit. Aktien/ETFs/Rohstoffe sind vor Handelsbeginn (15:30 CET) nicht handelbar. Die Websuche liefert fuer den Kryptomarkt nur widerspruechliche bzw. aeltere/undatierte Kursdaten ohne verlaesslichen, frisch bestaetigten Einzelkatalysator fuer heute. Freies Kapital (ca. 101.338,84 EUR) bleibt daher weiterhin ungenutzt bis eine belastbare Einzelgelegenheit auftritt.",
     "positionIds": [
       "pos-0031",
       "pos-0035"
@@ -13361,6 +13361,11 @@
       {
         "time": "08:12",
         "note": "Keine Aenderung. GOOGL/NVDA unveraendert (US-Boerse vor Handelsbeginn geschlossen, Kurse wie Freitagsschluss). Kryptomarkt leicht erholt und gemischt (BTC +0,37%, ETH +1,37%), QNT staerkster Gewinner (+6,14%) aber ohne frisch datierten Einzelkatalysator - kein Trade.",
+        "portfolioValue": 1850.93
+      },
+      {
+        "time": "09:11",
+        "note": "Keine Aenderung. GOOGL/NVDA unveraendert (US-Boerse vor Handelsbeginn geschlossen, Kurse wie Freitagsschluss). Kryptomarkt-Websuche liefert nur widerspruechliche/undatierte Kursdaten ohne verlaesslichen, frisch bestaetigten Einzelkatalysator - kein Trade.",
         "portfolioValue": 1850.93
       }
     ]
