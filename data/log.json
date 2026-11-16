@@ -13309,9 +13309,9 @@
   },
   {
     "date": "2026-11-16",
-    "marketOverview": "Montag 04:09 CET: US-Boersen, ETFs und Rohstoffe weiterhin geschlossen (Oeffnung erst 15:30 CET). Kryptomarkt zeigt eine vorsichtige Erholung von den Wochenend-Tiefs: Bitcoin stieg von einem Tief bei ca. 62.000-63.700 USD am Wochenende auf aktuell rund 64.500-65.400 USD (+2-4% in 24h, mehrere Quellen: BusinessToday, CoinGecko, Coinbase, IT Times), bleibt aber auf Kurs zur sechsten Wochenverlust-Woche in Folge und rund 49% unter seinem Allzeithoch. Kein starker, mehrfach bestaetigter Einzelkatalysator fuer einen nachhaltigen Trendwechsel erkennbar, lediglich eine technische Gegenbewegung nach starkem Ausverkauf.",
-    "decision": "Tagesbudget fuer den 16.11. bereits im ersten Lauf des Tages (00:08) gutgeschrieben (+1.000 EUR, totalFreshCapitalEur 104.000 EUR) - in diesem Lauf (04:09) keine erneute Gutschrift. Keine Aenderung an den Positionen: GOOGL (pos-0031) und NVDA (pos-0035) unveraendert gehalten (US-Boerse weiterhin geschlossen, keine neuen Kursdaten verifizierbar). Kein Trade: Die leichte Krypto-Erholung (+2-4% nach Wochenend-Crash) ist nur eine technische Gegenbewegung innerhalb eines seit Wochen anhaltenden Abwaertstrends (sechste Wochenverlust-Woche in Sicht) - keine ueberzeugende, mehrfach bestaetigte Kaufgelegenheit.",
-    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber laut Vorgabe eine wirklich ueberzeugende Gelegenheit. Eine 2-4%-Erholung nach einem harten Ausverkauf, eingebettet in einen seit sechs Wochen anhaltenden Abwaertstrend ohne bestaetigten fundamentalen Wendepunkt, ist ein klassisches 'Fallendes-Messer'-Risiko und kein tragfaehiges Setup. Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten ohnehin nicht handelbar. Keine der bestehenden Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "marketOverview": "Montag 05:08 CET: US-Boersen, ETFs und Rohstoffe weiterhin geschlossen (Oeffnung erst 15:30 CET; in New York ist es noch Sonntagabend). Kryptomarkt bleibt schwach: Bitcoin wieder auf ca. 64.000-65.000 USD zurueckgefallen (Wochenverlust rund 15%, Monatsverlust ueber 22%, Decrypt), Ethereum rund 1.790 USD (-8,4%), Solana rund 70-71 USD (-12% bzw. -3,7% 24h), XRP rund 0,95-0,97 USD. Belastungsfaktor laut Investing News bleibt die Einpreisung einer moeglichen Fed-Zinserhoehung im Dezember sowie Nachwirkungen des Jensen-Huang-Abgangs bei NVIDIA. Kein mehrfach bestaetigter frischer Umkehrkatalysator erkennbar, Markt bleibt in einem seit Wochen anhaltenden Abwaertstrend.",
+    "decision": "Tagesbudget fuer den 16.11. bereits im ersten Lauf des Tages (00:08) gutgeschrieben (+1.000 EUR, totalFreshCapitalEur 104.000 EUR) - in diesem Lauf (05:08) keine erneute Gutschrift. Keine Aenderung an den Positionen: GOOGL (pos-0031) und NVDA (pos-0035) unveraendert gehalten (US-Boerse weiterhin geschlossen, keine neuen verifizierbaren Kursdaten). Kein Trade: Der Kryptomarkt setzt seinen seit Wochen anhaltenden Abwaertstrend fort (BTC zurueck auf 64-65k, ETH/SOL/XRP ebenfalls im Minus) ohne neuen, mehrfach bestaetigten Kaufkatalysator - passt nicht zur geforderten \"wirklich ueberzeugenden Gelegenheit\".",
+    "reasoning": "Risikoprofil \"spekulativ\" erlaubt kurzfristiges Trading, verlangt aber laut Vorgabe eine wirklich ueberzeugende Gelegenheit. Ein fortgesetzter, breiter Abverkauf ohne fundamentalen Gegenkatalysator ist kein tragfaehiges Setup, sondern ein klassisches Risiko eines weiteren \"fallenden Messers\". Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten (Wochenende/Nacht in den USA) ohnehin nicht handelbar. Keine der bestehenden Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [
       "pos-0031",
       "pos-0035"
@@ -13341,6 +13341,11 @@
       {
         "time": "04:09",
         "note": "Keine Aenderung. GOOGL/NVDA unveraendert (Boerse geschlossen). Krypto erholt sich leicht von Wochenend-Tiefs (BTC +2-4% auf ca. 64.500-65.400 USD), aber nur technische Gegenbewegung im anhaltenden Abwaertstrend ohne bestaetigten Katalysator - kein Trade.",
+        "portfolioValue": 1850.93
+      },
+      {
+        "time": "05:08",
+        "note": "Keine Aenderung. GOOGL/NVDA unveraendert (US-Boerse geschlossen, in New York noch Sonntagabend). Kryptomarkt setzt Abwaertstrend fort (BTC zurueck auf ca. 64-65k USD, ETH/SOL/XRP ebenfalls im Minus), kein frischer Umkehrkatalysator gefunden - kein Trade.",
         "portfolioValue": 1850.93
       }
     ]
