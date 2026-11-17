@@ -13442,9 +13442,9 @@
   },
   {
     "date": "2026-11-17",
-    "marketOverview": "Boersen (Aktien/ETFs/Rohstoffe) ausserhalb der Handelszeiten weiterhin geschlossen (Oeffnung erst 15:30 CET). Kryptomarkt verbleibt in Extreme Fear (Fear&Greed-Index 12 laut Alternative.me), Bitcoin um ca. 64.700 USD (+0,7% 24h), Ethereum um 1.833 USD (+1,2%), Solana um 72,6 USD (+2,1%), Avalanche um 7,17 USD (+0,7%) - nur eine leichte, nicht bestaetigte Stabilisierung ohne frischen Einzelkatalysator. Wichtigster Termin heute: NVIDIA-Q3-Zahlen nach US-Marktschluss, Call um 23:00 CET (von NVIDIA am 28.10. bestaetigt), Optionsmarkt preist weiterhin eine aussergewoehnlich hohe implizite Bewegung ein.",
-    "decision": "Kein Trade in diesem Lauf (07:08). Tagesbudget fuer den 17.11. bereits gutgeschrieben (00:08-Lauf), capital.json unveraendert. Offene Positionen GOOGL (pos-0031) und NVDA (pos-0035) unveraendert gehalten (Boerse weiterhin geschlossen bis 15:30 CET, keine verlaessliche frische Kursquelle ausserhalb der Handelszeiten). Kein Krypto-Trade: Fear&Greed-Index bei 12 (Extreme Fear), die leichten Kursgewinne (BTC +0,7%, ETH +1,2%, SOL +2,1%) sind reines Rauschen ohne bestaetigten Reversal- oder Breakout-Katalysator. NVDA-Q3-Zahlen stehen weiterhin erst heute Abend (~23:00 CET) aus.",
-    "reasoning": "Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten nicht handelbar, US-Boerse oeffnet erst um 15:30 CET. Live-Abfrage via CoinGecko- und Alternative.me-API bestaetigt eine fortgesetzte Extreme-Fear-Phase (Fear&Greed 12) mit nur minimalen, unbestaetigten Kursgewinnen bei BTC/ETH/SOL/AVAX - kein neuer, mehrfach bestaetigter Kauf-Katalysator. Passend zum Grundsatz, nur bei einer wirklich ueberzeugenden Gelegenheit zu handeln, erfolgte kein Kauf oder Verkauf.",
+    "marketOverview": "Boersen (Aktien/ETFs/Rohstoffe) weiterhin ausserhalb der Handelszeiten (Oeffnung erst 15:30 CET). Kryptomarkt verbleibt in Extreme Fear (Fear&Greed-Index laut Alternative.me unveraendert bei 12), Bitcoin per CoinGecko-API live bei 64.572 USD (-0,1% 24h), Ethereum 1.828,79 USD (+0,77%), Solana 72,80 USD (+2,37%), Avalanche 7,21 USD (+1,11%) - praktisch unveraendert zum 07:08-Lauf, keine Stabilisierung mit Ausbruchscharakter. Wichtigster Termin heute: NVIDIA-Q3-Zahlen nach US-Marktschluss, Call um 23:00 CET bestaetigt (Konsens laut Forex.com ca. 2,47 USD EPS auf 108,8 Mrd. USD Umsatz).",
+    "decision": "Kein Trade in diesem Lauf (08:09). Tagesbudget fuer den 17.11. bereits gutgeschrieben (00:08-Lauf), capital.json unveraendert. Offene Positionen GOOGL (pos-0031) und NVDA (pos-0035) unveraendert gehalten (Boerse weiterhin geschlossen bis 15:30 CET, keine neue Schlusskursquelle). Kein Krypto-Trade: Fear&Greed-Index weiterhin bei 12 (Extreme Fear), BTC/ETH/SOL/AVAX praktisch seitwaerts (-0,1% bis +2,4%) ohne bestaetigten Reversal- oder Breakout-Katalysator. NVDA-Q3-Zahlen stehen weiterhin erst heute Abend (Call 23:00 CET) aus.",
+    "reasoning": "Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten nicht handelbar, US-Boerse oeffnet erst um 15:30 CET. Live-Abfrage via CoinGecko- und Alternative.me-API bestaetigt eine fortgesetzte Extreme-Fear-Phase (Index 12) mit nur minimalen, unveraenderten Kursbewegungen bei BTC/ETH/SOL/AVAX gegenueber dem Vorlauf - kein neuer, mehrfach bestaetigter Kauf-Katalysator. Passend zum Grundsatz, nur bei einer wirklich ueberzeugenden Gelegenheit zu handeln, erfolgte kein Kauf oder Verkauf.",
     "positionIds": [
       "pos-0031",
       "pos-0035"
@@ -13489,6 +13489,11 @@
       {
         "time": "07:08",
         "note": "Keine Aenderung. Boerse weiterhin geschlossen (Oeffnung erst 15:30 CET). GOOGL/NVDA unveraendert gehalten. Fear&Greed-Index 12 (Extreme Fear), BTC/ETH/SOL/AVAX nur leicht im Plus (+0,7% bis +2,1%) ohne bestaetigten Katalysator - kein Trade. NVDA-Q3-Zahlen heute Abend (Call 23:00 CET) weiterhin ausstehend.",
+        "portfolioValue": 1775.06
+      },
+      {
+        "time": "08:09",
+        "note": "Keine Aenderung. Boerse weiterhin geschlossen (Oeffnung erst 15:30 CET). GOOGL/NVDA unveraendert gehalten. Fear&Greed-Index weiterhin 12 (Extreme Fear), BTC/ETH/SOL/AVAX praktisch seitwaerts (-0,1% bis +2,4%) ohne frischen Katalysator - kein Trade. NVDA-Q3-Zahlen heute Abend (Call 23:00 CET) weiterhin ausstehend.",
         "portfolioValue": 1775.06
       }
     ]
