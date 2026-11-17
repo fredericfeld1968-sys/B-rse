@@ -13442,14 +13442,14 @@
   },
   {
     "date": "2026-11-17",
-    "marketOverview": "US-Boerse hat soeben geschlossen (22:00 CET). GOOGL (279,60 USD, -1,37% seit Kauf) und NVDA (155,30 USD, -3,09% seit Kauf) per Live-Nachbörskurs (stockanalysis.com, 22:08 CET) aktualisiert, beide weiterhin klar zwischen Stop-Loss- und Gewinnschwelle. NVIDIA-Q3-Zahlen (erste unter Interims-CEO Colette Kress) stehen laut CNBC-Live-Blog noch unmittelbar bevor (Call 17:00 ET / 23:00 CET, Release ca. 22:20 CET) - zum Abfragezeitpunkt noch nicht veroeffentlicht. Bitcoin bei ca. 63.989 USD (-1,5% in 24h, -13% auf Wochensicht), Kryptomarkt weiterhin ohne neuen bestaetigten Umkehrkatalysator.",
-    "decision": "Kein Trade in diesem Lauf (22:08). Tagesbudget bereits heute gutgeschrieben, capital.json unveraendert. GOOGL/NVDA-Kurse per Live-Nachbörskurs aktualisiert, keine Stop-Loss-Schwelle erreicht. Kein vorzeitiger NVDA-Verkauf: die Q3-Zahlen sind laut CNBC zum Abfragezeitpunkt noch nicht veroeffentlicht (Call erst 23:00 CET) - ein Trade davor waere reine Spekulation ohne Informationsvorteil. US-Aktien/ETFs/Rohstoffe nach Handelsschluss nicht mehr handelbar. Kein Krypto-Trade: Bitcoin weiterhin schwach (-1,5% 24h, -13% Wochensicht) ohne neue, ueberzeugende, mehrfach bestaetigte Kaufgelegenheit.",
-    "reasoning": "Beide offenen Positionen (GOOGL -1,37%, NVDA -3,09%) liegen weiterhin zwischen Stop-Loss- und Gewinnschwelle, daher kein Handlungsdruck. Die NVDA-Q3-Zahlen sind der klar erwartete naechste Katalysator, aber noch nicht veroeffentlicht - ein Trade unmittelbar davor widerspraeche dem Grundsatz, nur bei wirklich ueberzeugender Gelegenheit zu handeln. Krypto bleibt angesichts anhaltender Schwaeche (BTC -13% Wochensicht) ohne frischen Katalysator unattraktiv fuer einen spekulativen Neukauf; Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten ohnehin nicht handelbar.",
+    "marketOverview": "NVIDIA meldete um 23:00 CET die Q3-Zahlen (erste unter Interims-CEO Colette Kress nach Jensen Huangs Ruecktritt): Umsatz 115,84 Mrd. USD (Konsens 109,1 Mrd.), bereinigter Gewinn 2,68 USD/Aktie (Konsens 2,48 USD), Q4-Umsatzausblick 130 Mrd. USD (ueber Konsens), zusaetzlich neues 150-Mrd.-USD-Aktienrueckkaufprogramm - klarer, mehrfach bestaetigter Beat (CNBC, Investing.com, CBS News, Bloomingbit). NVDA sprang daraufhin nachbörslich von 155,46 auf 159,85 USD (+2,82%, stockanalysis.com 23:09 CET). GOOGL nachbörslich bei 281,31 USD (+0,40% vom Schlusskurs 280,20 USD). Kryptomarkt weiterhin ruhig/leicht erholt (BTC ca. 64.300 USD, SOL +2,8%, ETH +1,0%) ohne neuen starken Katalysator.",
+    "decision": "Kein Trade in diesem Lauf (23:09). Tagesbudget bereits heute gutgeschrieben, capital.json unveraendert. GOOGL und NVDA per Nachbörskurs aktualisiert: NVDA erholt sich nach dem Q3-Zahlen-Beat deutlich auf -0,25% (vorher -3,09%), GOOGL bei -0,76%. Beide klar zwischen Stop-Loss- und Gewinnschwelle, kein Handlungsdruck. US-Boerse ist seit 22:00 CET geschlossen, daher trotz des positiven NVDA-Nachbörsenkurses kein Nachkauf/Verkauf moeglich; ein Trade auf Basis des Nachbörskurses waere ohnehin spekulativ, da sich die Bewegung beim regulaeren Handelsstart noch veraendern kann. Kein Krypto-Trade: Markt ruhig/leicht positiv, aber ohne frischen, ueberzeugenden Katalysator fuer einen spekulativen Neukauf.",
+    "reasoning": "Der NVDA-Q3-Beat (Umsatz und EPS klar ueber Konsens, starke Guidance, grosses Buyback) ist ein eindeutig positiver, mehrfach bestaetigter fundamentaler Katalysator und bestaetigt die urspruengliche Dip-Kauf-These (operatives Geschaeft bleibt stark, Kress sorgt fuer Kontinuitaet). Da die Position jedoch bereits nachbörslich auf nahezu Breakeven (-0,25%) gestiegen ist und die US-Boerse geschlossen ist, gibt es aktuell keinen Grund fuer einen ueberstuerzten Trade; die Reaktion wird morgen beim regulaeren Handelsstart neu bewertet. GOOGL bleibt ohne neue Nachricht nahe Breakeven. Krypto zeigt keine ausreichend starke, frische Bewegung fuer einen spekulativen Einstieg.",
     "positionIds": [
       "pos-0031",
       "pos-0035"
     ],
-    "portfolioValueEnd": 1758.19,
+    "portfolioValueEnd": 1791.41,
     "updates": [
       {
         "time": "00:08",
@@ -13565,6 +13565,11 @@
         "time": "22:08",
         "note": "Keine Aenderung. GOOGL (279,60 USD, -1,37%) und NVDA (155,30 USD, -3,09%) per Live-Nachbörskurs aktualisiert, keine Schwelle erreicht. NVDA-Q3-Zahlen laut CNBC noch nicht veroeffentlicht (Call 23:00 CET) - kein vorzeitiger Verkauf. Krypto weiterhin schwach (BTC -1,5% 24h, -13% Wochensicht), kein Trade.",
         "portfolioValue": 1758.19
+      },
+      {
+        "time": "23:09",
+        "note": "Kein Trade. NVDA-Q3-Zahlen (Umsatz/EPS klar ueber Konsens, Guidance 130 Mrd. USD, 150-Mrd.-Buyback) veroeffentlicht - Kurs nachbörslich auf 159,85 USD (+2,82%, Position jetzt -0,25%) gesprungen. GOOGL nachbörslich 281,31 USD (-0,76%). Boerse geschlossen, kein Trade; Krypto ohne frischen Katalysator.",
+        "portfolioValue": 1791.41
       }
     ]
   }
