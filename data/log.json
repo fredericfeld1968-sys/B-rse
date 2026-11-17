@@ -13442,8 +13442,8 @@
   },
   {
     "date": "2026-11-17",
-    "marketOverview": "US-Boerse weiterhin erst ab 15:30 CET handelbar (noch gut 2 Stunden), europaeische Boersen offen. Kryptomarkt bleibt in Extreme Fear (Fear&Greed-Index weiterhin bei 12, alternative.me) bei BTC ca. 64.600-64.900 USD - weiterhin ungewoehnlich ruhiger, seitwaerts laufender Handelstag ohne neuen bestaetigten Katalysator. Anhaltende Spot-Bitcoin-ETF-Abfluesse, Marktteilnehmer warten auf die naechste Fed-Entscheidung (09.12.) und auf die NVIDIA-Q3-Zahlen (Call heute Abend ca. 23:00 CET), die weiterhin ausstehen.",
-    "decision": "Kein Trade in diesem Lauf (13:09). Tagesbudget fuer den 17.11. bereits gutgeschrieben, capital.json unveraendert (lastGrantDate bereits heute). Offene Positionen GOOGL (pos-0031) und NVDA (pos-0035) unveraendert gehalten (US-Boerse weiterhin geschlossen bis 15:30 CET). Kein Krypto-Trade: Fear&Greed-Index weiterhin bei 12 (Extreme Fear), BTC bewegt sich weiterhin nur seitwaerts um 64.600-64.900 USD ohne neuen bestaetigten Reversal- oder Breakout-Katalysator; anhaltende ETF-Abfluesse sprechen weiterhin gegen einen spekulativen Einstieg. NVDA-Q3-Zahlen stehen weiterhin aus (heute Abend).",
+    "marketOverview": "US-Boerse weiterhin erst ab 15:30 CET handelbar (noch gut eine Stunde), europaeische Boersen offen. Kryptomarkt bleibt angeschlagen (Fear&Greed-Index je nach Quelle 12-26, Extreme Fear/Fear) bei BTC ca. 64.600-65.100 USD nach mehrwoechigem Abwaertstrend (Berichte sprechen von rund 1 Billion USD Marktkapitalisierungsverlust zuletzt) - weiterhin kein neuer bestaetigter Katalysator fuer einen Einstieg. Anhaltende Spot-Bitcoin-ETF-Abfluesse, Marktteilnehmer warten auf die NVIDIA-Q3-Zahlen (erste Berichtssaison unter Interims-CEO Colette Kress nach Jensen Huangs Ruecktritt, Call heute Abend ca. 23:00 CET) und die FOMC-Sitzungsprotokolle (18.11.).",
+    "decision": "Kein Trade in diesem Lauf (14:12). Tagesbudget fuer den 17.11. bereits gutgeschrieben, capital.json unveraendert (lastGrantDate bereits heute). Offene Positionen GOOGL (pos-0031) und NVDA (pos-0035) unveraendert gehalten (US-Boerse weiterhin geschlossen bis 15:30 CET). Kein Krypto-Trade: Fear&Greed-Index weiterhin im Extreme-Fear-Bereich (je nach Quelle 12-26), BTC weiterhin um 64.600-65.100 USD im mehrwoechigen Abwaertstrend ohne neuen bestaetigten Reversal- oder Breakout-Katalysator; anhaltende ETF-Abfluesse und ca. 1 Billion USD Marktkapitalisierungsverlust laut aktuellen Berichten sprechen weiterhin gegen einen spekulativen Einstieg. NVDA-Q3-Zahlen (erste unter Interims-CEO Colette Kress) stehen heute Abend nach US-Marktschluss (~23:00 CET) an - bewusst kein Vorab-Trade auf die offene Position, um nicht auf stale/vorlaeufige Kursdaten zu reagieren.",
     "reasoning": "US-Aktien/ETFs/Rohstoffe sind bis 15:30 CET nicht handelbar, daher bleiben GOOGL/NVDA unveraendert. Der Kryptomarkt zeigt weiterhin keine neue, ueberzeugende Gelegenheit: Extreme Fear (Index 12) bei einem ungewoehnlich ruhigen, seitwaerts laufenden Markt ohne frischen Katalysator ist kein Signal fuer einen bestaetigten Boden oder Ausbruch. Passend zum Grundsatz, nur bei einer wirklich ueberzeugenden Gelegenheit zu handeln, erfolgt kein Kauf oder Verkauf.",
     "positionIds": [
       "pos-0031",
@@ -13519,6 +13519,11 @@
       {
         "time": "13:09",
         "note": "Keine Aenderung. US-Boerse weiterhin geschlossen bis 15:30 CET, GOOGL/NVDA unveraendert gehalten. Krypto weiterhin Extreme Fear (Index 12), BTC seitwaerts (~64.600-64.900 USD), kein Katalysator - kein Trade. NVDA-Q3-Zahlen heute Abend (~23:00 CET) weiterhin ausstehend.",
+        "portfolioValue": 1775.06
+      },
+      {
+        "time": "14:12",
+        "note": "Keine Aenderung. US-Boerse weiterhin geschlossen bis 15:30 CET, GOOGL/NVDA unveraendert gehalten. Krypto weiterhin angeschlagen (Fear&Greed 12-26 je nach Quelle), BTC ~64.600-65.100 USD ohne frischen Katalysator - kein Trade. NVDA-Q3-Zahlen (erste unter Interims-CEO Kress) heute Abend (~23:00 CET) weiterhin ausstehend.",
         "portfolioValue": 1775.06
       }
     ]
