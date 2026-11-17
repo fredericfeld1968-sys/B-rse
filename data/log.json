@@ -13442,14 +13442,14 @@
   },
   {
     "date": "2026-11-17",
-    "marketOverview": "US-Boerse offen (seit 15:30 CET). GOOGL (281,54 USD, -0,68% seit Kauf) und NVDA (153,72 USD, -4,07% seit Kauf) per Live-Quote (StockAnalysis, 20:09 CET) aktualisiert - beide weiter im breiten Chip-/Tech-Risk-off, aber unterhalb der Stop-Loss-Schwelle. NVIDIA meldet heute nach US-Handelsschluss (ca. 22-23 Uhr CET) Q3-Zahlen - die ersten unter Interims-CEO Colette Kress. Kryptomarkt weiterhin Extreme Fear (Fear&Greed-Index 12 laut alternative.me, gegenueber 10 gestern) ohne neuen bestaetigten Umkehrkatalysator.",
-    "decision": "Kein Trade in diesem Lauf (20:08). Tagesbudget bereits heute gutgeschrieben, capital.json unveraendert. GOOGL/NVDA-Kurse per Live-Quote aktualisiert, keine Schwelle erreicht. Kein vorzeitiger NVDA-Verkauf vor den Q3-Zahlen heute Abend: ein Verkauf wenige Stunden vor den Zahlen waere reine Spekulation ohne klaren Informationsvorteil. Kein Krypto-Trade: keine neue, ueberzeugende, mehrfach bestaetigte Gelegenheit gefunden.",
-    "reasoning": "Beide offenen Positionen (GOOGL -0,68%, NVDA -4,07%) liegen weiterhin zwischen Stop-Loss- und Gewinnschwelle, daher kein Handlungsdruck. Die anstehenden NVDA-Q3-Zahlen heute Abend sind der klar erwartete naechste Katalysator - ein Trade davor widerspraeche dem Grundsatz, nur bei wirklich ueberzeugender Gelegenheit zu handeln. Krypto bleibt in Extreme Fear ohne frischen Katalysator.",
+    "marketOverview": "US-Boerse offen (bis 22:00 CET). GOOGL (280,26 USD, -1,13% seit Kauf) und NVDA (152,84 USD, -4,62% seit Kauf) per Live-Quote (StockAnalysis, 21:09 CET) aktualisiert, beide weiterhin im anhaltenden Chip-/Tech-Risk-off, aber klar unterhalb der Stop-Loss-Schwelle. NVIDIA meldet heute nach US-Handelsschluss (ca. 22-23 Uhr CET) Q3-Zahlen - die ersten unter Interims-CEO Colette Kress; Analysten erwarten EPS von 2,49 USD. Bitcoin bei ca. 63.728 USD (-2,0% in 24h), Kryptomarkt weiterhin in Extreme Fear ohne neuen bestaetigten Umkehrkatalysator.",
+    "decision": "Kein Trade in diesem Lauf (21:09). Tagesbudget bereits heute gutgeschrieben, capital.json unveraendert. GOOGL/NVDA-Kurse per Live-Quote aktualisiert, keine Stop-Loss-Schwelle erreicht. Kein vorzeitiger NVDA-Verkauf vor den Q3-Zahlen heute Abend: ein Verkauf wenige Stunden vor der Veroeffentlichung waere reine Spekulation ohne Informationsvorteil. Kein Krypto-Trade: Bitcoin und der Gesamtmarkt bleiben in Extreme Fear ohne neue, ueberzeugende, mehrfach bestaetigte Gelegenheit.",
+    "reasoning": "Beide offenen Positionen (GOOGL -1,13%, NVDA -4,62%) liegen weiterhin zwischen Stop-Loss- und Gewinnschwelle, daher kein Handlungsdruck. Die anstehenden NVDA-Q3-Zahlen heute Abend (erste unter Interims-CEO Kress) bleiben der klar erwartete naechste Katalysator - ein Trade kurz davor widerspraeche dem Grundsatz, nur bei wirklich ueberzeugender Gelegenheit zu handeln. Krypto bleibt angesichts Extreme Fear und leicht negativem BTC-24h-Trend ohne frischen Katalysator unattraktiv fuer einen spekulativen Neukauf.",
     "positionIds": [
       "pos-0031",
       "pos-0035"
     ],
-    "portfolioValueEnd": 1753.8,
+    "portfolioValueEnd": 1744.7,
     "updates": [
       {
         "time": "00:08",
@@ -13555,6 +13555,11 @@
         "time": "20:08",
         "note": "Keine Aenderung. GOOGL (281,54 USD, -0,68%) und NVDA (153,72 USD, -4,07%) per Live-Quote aktualisiert, keine Schwelle erreicht. Kein vorzeitiger NVDA-Verkauf vor den Q3-Zahlen heute Abend (~22-23 Uhr CET). Krypto weiterhin Extreme Fear (Index 12), kein Trade.",
         "portfolioValue": 1753.8
+      },
+      {
+        "time": "21:09",
+        "note": "Keine Aenderung. GOOGL (280,26 USD, -1,13%) und NVDA (152,84 USD, -4,62%) per Live-Quote aktualisiert, keine Schwelle erreicht. Kein vorzeitiger NVDA-Verkauf vor den Q3-Zahlen heute Abend (~22-23 Uhr CET). Krypto weiterhin Extreme Fear, BTC -2,0% in 24h, kein Trade.",
+        "portfolioValue": 1744.7
       }
     ]
   }
