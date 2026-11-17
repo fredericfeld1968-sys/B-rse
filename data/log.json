@@ -13442,9 +13442,9 @@
   },
   {
     "date": "2026-11-17",
-    "marketOverview": "US-Boersen bleiben bis zur regulaeren Eroeffnung um 15:30 CET geschlossen. NVDA schloss zuletzt bei 156,14 USD, GOOGL bei 283,72 USD - beide unveraendert vor den NVDA-Q3-Zahlen, die laut Recherche heute (17.11.) nach US-Handelsschluss (Call 17:00 ET / 23:00 CET) veroeffentlicht werden. Der Kryptomarkt zeigt sich weiterhin im Extreme-Fear-Bereich (alternative.me Fear&Greed-Index bei 10, teils abweichend CFGI.io 28/44), Bitcoin konsistent im Bereich 64.000-65.000 USD ohne neuen bestaetigten Katalysator - passend zum seit Tagen anhaltenden Risk-off-Trend.",
-    "decision": "Kein Trade in diesem Lauf (01:08). Tagesbudget fuer den 17.11. wurde bereits im 00:08-Lauf gutgeschrieben (lastGrantDate schon heute, keine erneute Gutschrift). Offene Positionen GOOGL (pos-0031) und NVDA (pos-0035) unveraendert gehalten (Boerse geschlossen). Keine Krypto-Position eroeffnet, da Fear&Greed weiterhin bei Extreme Fear ohne frischen, mehrfach bestaetigten Katalysator verharrt.",
-    "reasoning": "Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten nicht handelbar. Fuer Krypto bestaetigen mehrere Quellen konsistent anhaltende Extreme Fear (Index 10) ohne neue bestaetigte Bewegung seit dem letzten Lauf - passend zum Grundsatz, nur bei einer wirklich ueberzeugenden Gelegenheit zu handeln, erfolgte kein Kauf. NVDA-Position bleibt bewusst vor den heute abend erwarteten Q3-Zahlen gehalten (keine Handelsmoeglichkeit vor Zahlen, da US-Boerse derzeit geschlossen).",
+    "marketOverview": "US-Boersen bleiben bis zur regulaeren Eroeffnung um 15:30 CET geschlossen. NVDA zuletzt bei 156,14 USD, GOOGL bei 283,72 USD - beide unveraendert vor den NVDA-Q3-Zahlen, die laut mehreren Quellen heute (17.11.) nach US-Handelsschluss veroeffentlicht werden (Call 17:00 ET / 23:00 CET). Konsensschaetzung rund 108,8 Mrd. USD Umsatz und EPS ca. 2,47-2,49 USD; Optionsmarkt preist einen ueberdurchschnittlich grossen Kursausschlag ein. Der Kryptomarkt verbleibt weiterhin im Extreme-Fear-Bereich (Index 10 laut alternative.me, abweichende Quellen 25-44) ohne neuen bestaetigten Einzelkatalysator.",
+    "decision": "Kein Trade in diesem Lauf (02:07). Tagesbudget fuer den 17.11. wurde bereits im 00:08-Lauf gutgeschrieben (keine erneute Gutschrift). Offene Positionen GOOGL (pos-0031) und NVDA (pos-0035) unveraendert gehalten (Boerse geschlossen). Keine Krypto-Position eroeffnet, da Fear&Greed weiterhin bei Extreme Fear ohne frischen, mehrfach bestaetigten Katalysator verharrt.",
+    "reasoning": "Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten nicht handelbar, US-Boerse oeffnet erst um 15:30 CET. Fuer Krypto bestaetigen die verfuegbaren Quellen weiterhin anhaltende Extreme Fear ohne neue, mehrfach bestaetigte Bewegung seit dem letzten Lauf - passend zum Grundsatz, nur bei einer wirklich ueberzeugenden Gelegenheit zu handeln, erfolgte kein Kauf. NVDA-Position bleibt bewusst vor den heute abend erwarteten Q3-Zahlen gehalten (keine Handelsmoeglichkeit vor Zahlen, da US-Boerse derzeit geschlossen).",
     "positionIds": [
       "pos-0031",
       "pos-0035"
@@ -13459,6 +13459,11 @@
       {
         "time": "01:08",
         "note": "Keine Aenderung. Boerse weiterhin geschlossen, GOOGL/NVDA unveraendert. Krypto bestaetigt Extreme Fear (Index 10) ohne frischen Katalysator. NVDA-Q3-Zahlen heute erst nach US-Handelsschluss (~23:00 CET) erwartet.",
+        "portfolioValue": 1775.06
+      },
+      {
+        "time": "02:07",
+        "note": "Keine Aenderung. Boerse weiterhin geschlossen, GOOGL/NVDA unveraendert. Krypto weiterhin Extreme Fear ohne frischen Katalysator. NVDA-Q3-Zahlen erst heute Abend (~23:00 CET) erwartet.",
         "portfolioValue": 1775.06
       }
     ]
