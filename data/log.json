@@ -13442,9 +13442,9 @@
   },
   {
     "date": "2026-11-17",
-    "marketOverview": "Boersen (Aktien/ETFs/Rohstoffe) weiterhin ausserhalb der Handelszeiten (Oeffnung erst 15:30 CET). Kryptomarkt bleibt in Extreme Fear (Fear&Greed-Index 12, alternative.me, 17.11.) bei BTC ca. 64.500-64.900 USD - ein staendiger, mehrtaegiger Abwaertstrend (ueber 25% unter den Oktober-Hochs), kein neuer bestaetigter Katalysator seit dem letzten Lauf. US-Spot-Bitcoin-ETFs verzeichneten in der Woche bis 13.11. den siebten Tag in Folge Abfluesse (~1,07 Mrd. USD) - anhaltend bearishes Flow-Bild, kein frisches Einzelereignis. Makro-Hintergrund bleibt restriktiv (CME FedWatch weiterhin ~87-89% Wahrscheinlichkeit fuer einen Fed-Zinsschritt im Dezember, naechste FOMC-Entscheidung 09.12.). NVIDIA-Q3-Zahlen (Call ca. 23:00 CET) sind laut verfuegbaren Quellen weiterhin nicht veroeffentlicht - weiterhin ausstehend.",
-    "decision": "Kein Trade in diesem Lauf (zuletzt 10:08). Tagesbudget fuer den 17.11. bereits gutgeschrieben, capital.json unveraendert (lastGrantDate bereits heute). Offene Positionen GOOGL (pos-0031) und NVDA (pos-0035) unveraendert gehalten (US-Boerse weiterhin geschlossen bis 15:30 CET, keine verlaessliche neue Kursquelle). Kein Krypto-Trade: Fear&Greed-Index weiterhin bei 12 (Extreme Fear), BTC setzt den mehrtaegigen Abwaertstrend fort (~64.500-64.900 USD) ohne bestaetigten Reversal- oder Breakout-Katalysator; anhaltende ETF-Abfluesse und restriktiver Fed-Ausblick sprechen gegen einen spekulativen Einstieg. NVDA-Q3-Zahlen stehen weiterhin aus.",
-    "reasoning": "Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten nicht handelbar, US-Boerse oeffnet erst um 15:30 CET, daher bleiben GOOGL/NVDA unveraendert. Der Kryptomarkt zeigt keine neue, ueberzeugende Gelegenheit: Extreme Fear (Index 12) bei fortgesetzter Abwaertsbewegung und sinkenden ETF-Zufluessen ist ein Signal fuer anhaltende Schwaeche, nicht fuer einen bestaetigten Boden oder Ausbruch. Passend zum Grundsatz, nur bei einer wirklich ueberzeugenden Gelegenheit zu handeln, erfolgt kein Kauf oder Verkauf.",
+    "marketOverview": "Boersen (Aktien/ETFs) seit 09:00 CET in Europa offen, US-Boerse weiterhin erst ab 15:30 CET handelbar. Kryptomarkt bleibt in Extreme Fear (Fear&Greed-Index weiterhin bei 12, alternative.me) bei BTC ca. 64.600-64.900 USD - ungewoehnlich ruhiger, seitwaerts laufender Handelstag ohne neuen bestaetigten Katalysator. Spot-Bitcoin-ETFs verzeichnen laut Berichten weiterhin spuerbare Abfluesse (~1,9 Mrd. USD in juengerer Zeit), Marktteilnehmer warten auf die naechste Fed-Entscheidung (09.12.); Fed-Gouverneur Waller aeusserte sich zu den Dezember-Zinsaussichten, ohne klare neue Richtung zu liefern. NVIDIA-Q3-Zahlen (Call heute Abend ca. 23:00 CET) stehen weiterhin aus.",
+    "decision": "Kein Trade in diesem Lauf (12:08). Tagesbudget fuer den 17.11. bereits gutgeschrieben, capital.json unveraendert (lastGrantDate bereits heute). Offene Positionen GOOGL (pos-0031) und NVDA (pos-0035) unveraendert gehalten (US-Boerse weiterhin geschlossen bis 15:30 CET). Kein Krypto-Trade: Fear&Greed-Index weiterhin bei 12 (Extreme Fear), BTC bewegt sich nur noch seitwaerts um 64.600-64.900 USD ohne neuen bestaetigten Reversal- oder Breakout-Katalysator; anhaltende ETF-Abfluesse sprechen weiterhin gegen einen spekulativen Einstieg. NVDA-Q3-Zahlen stehen weiterhin aus (heute Abend).",
+    "reasoning": "US-Aktien/ETFs/Rohstoffe sind bis 15:30 CET nicht handelbar, daher bleiben GOOGL/NVDA unveraendert. Der Kryptomarkt zeigt weiterhin keine neue, ueberzeugende Gelegenheit: Extreme Fear (Index 12) bei einem ungewoehnlich ruhigen, seitwaerts laufenden Markt ohne frischen Katalysator ist kein Signal fuer einen bestaetigten Boden oder Ausbruch. Passend zum Grundsatz, nur bei einer wirklich ueberzeugenden Gelegenheit zu handeln, erfolgt kein Kauf oder Verkauf.",
     "positionIds": [
       "pos-0031",
       "pos-0035"
@@ -13509,6 +13509,11 @@
       {
         "time": "11:10",
         "note": "Keine Aenderung. Boerse weiterhin geschlossen (Oeffnung erst 15:30 CET). GOOGL/NVDA unveraendert gehalten. Krypto weiterhin Extreme Fear (Index 12), BTC ca. 64.500-64.900 USD im fortgesetzten Abwaertstrend, anhaltende Bitcoin-ETF-Abfluesse - kein bestaetigter Katalysator, kein Trade. NVDA-Q3-Zahlen weiterhin ausstehend.",
+        "portfolioValue": 1775.06
+      },
+      {
+        "time": "12:08",
+        "note": "Keine Aenderung. Europaeische Boersen offen, US-Boerse weiterhin geschlossen bis 15:30 CET, GOOGL/NVDA unveraendert gehalten. Krypto weiterhin Extreme Fear (Index 12), BTC nur seitwaerts (~64.600-64.900 USD), ungewoehnlich ruhiger Handelstag ohne Katalysator - kein Trade. NVDA-Q3-Zahlen heute Abend (~23:00 CET) weiterhin ausstehend.",
         "portfolioValue": 1775.06
       }
     ]
