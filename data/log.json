@@ -13572,5 +13572,23 @@
         "portfolioValue": 1791.41
       }
     ]
+  },
+  {
+    "date": "2026-11-18",
+    "marketOverview": "US-Boerse (NYSE/Nasdaq) seit 22:00 CET geschlossen, aktuell nur Nachboerslicher Handel. NVDA sprang nach starken Q3-Zahlen (Umsatz/EPS ueber Konsens, Guidance 130 Mrd. USD, 150-Mrd.-Buyback) nachboerslich weiter auf 162,96 USD (+4,82% zum Schlusskurs 155,46 USD). GOOGL notiert nachboerslich bei 283,80 USD (+1,28% zum Schlusskurs 280,20 USD, der Tag selbst schloss mit -1,24%). Krypto zeigt keinen klaren frischen Ausbruch: Bitcoin ca. 64.900 USD (-0,5% 24h), Ethereum ca. 1.820 USD (-0,4%), Solana leicht fester (+4,5%) ohne bestaetigten Einzelkatalysator, Avalanche und XRP nur leicht im Plus.",
+    "decision": "Kein Trade. Neuer Kalendertag (18.11.): Tagesbudget von 1.000 EUR wurde gutgeschrieben (totalFreshCapitalEur jetzt 106.000 EUR). GOOGL (pos-0031) und NVDA (pos-0035) wurden auf die aktuellen Nachboersenkurse aktualisiert (GOOGL +0,12%, NVDA +1,69% seit Kauf) - beide weit von Gewinnziel- (7-9%) oder Stop-Loss-Schwelle (-6,5 bis -7,5%) entfernt, daher unveraendert gehalten. Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten nicht handelbar; im Kryptomarkt fehlt trotz reichlich freiem Kapital eine wirklich ueberzeugende, frisch bestaetigte Gelegenheit, daher kein Neukauf.",
+    "reasoning": "Risikoprofil spekulativ mit erlaubtem kurzfristigem Trading: Der NVDA-Kurssprung nachboerslich (+4,82%) ist Ausdruck des bereits bekannten starken Q3-Berichts vom Vorlauf und noch kein neuer eigenstaendiger Trade-Anlass fuer die bestehende Position, da sie bereits gehalten wird und die Bewegung den Gewinnzielbereich noch nicht erreicht. GOOGL bleibt nahe am Einstandskurs. Da die US-Kassaboerse geschlossen ist, kommen fuer einen Neukauf nur Krypto-Assets in Frage; die beobachteten Bewegungen (SOL +4,5%, BTC leicht schwaecher) sind ohne bestaetigten, mehrfach belegten Katalysator und bleiben unter der bisher etablierten Ueberzeugungsschwelle fuer einen spekulativen Neukauf. Keine der gehaltenen Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "positionIds": [
+      "pos-0031",
+      "pos-0035"
+    ],
+    "portfolioValueEnd": 1817.84,
+    "updates": [
+      {
+        "time": "00:08",
+        "note": "Kein Trade. Tagesbudget gutgeschrieben (neuer Kalendertag). GOOGL (283,80 USD, +0,12%) und NVDA (162,96 USD, +1,69%) nachboerslich aktualisiert, keine Schwelle erreicht. Krypto ohne ueberzeugenden Katalysator.",
+        "portfolioValue": 1817.84
+      }
+    ]
   }
 ]
