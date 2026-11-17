@@ -13443,8 +13443,8 @@
   {
     "date": "2026-11-17",
     "marketOverview": "Boersen (Aktien/ETFs/Rohstoffe) ausserhalb der Handelszeiten geschlossen (Oeffnung 15:30 CET). Kryptomarkt verbleibt im mehrwoechigen Abwaertstrend und in der Fear-Zone (Fear&Greed-Index ca. 26, Gesamtmarktkapitalisierung zuletzt -5,8% w/w), BTC unter 74.000 USD nach Liquidationswellen Anfang November - kein ueberzeugender Einstiegspunkt. Wichtigster anstehender Katalysator: NVIDIA-Q3-Zahlen heute Abend (ca. 22:20-23:00 CET) mit ueberdurchschnittlich erwarteter Vola, belastet durch einen Bericht ueber eine Vorstands-Untersuchung zu CEO Jensen Huang (Aktie -4,3% am 09.11.); morgen zusaetzlich FOMC-Minutes.",
-    "decision": "Kein Trade in diesem Lauf (04:09). Tagesbudget fuer den 17.11. bereits gutgeschrieben (00:08-Lauf). Offene Positionen GOOGL (pos-0031) und NVDA (pos-0035) unveraendert gehalten (Boerse geschlossen bis 15:30 CET). Kein Krypto-Trade: Fear&Greed-Index bei ca. 26 (Fear-Zone), BTC im mehrwoechigen Abwaertstrend unter 74.000 USD, kein frischer bestaetigter Katalysator fuer eine spekulative Position. NVDA-Q3-Zahlen (Umsatz/Guidance) werden heute Abend nach US-Marktschluss (ca. 22:20-23:00 CET) veroeffentlicht - erhoehte Vola erwartet (Optionsmarkt preist +-10,6% ein) nach einem Bericht ueber eine Vorstands-Untersuchung zu CEO Jensen Huang; Reaktion wird im naechsten Lauf beruecksichtigt.",
-    "reasoning": "Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten nicht handelbar, US-Boerse oeffnet erst um 15:30 CET. Fuer Krypto bestaetigen die verfuegbaren Quellen weiterhin anhaltende Extreme Fear ohne neue, mehrfach bestaetigte Bewegung seit dem letzten Lauf - passend zum Grundsatz, nur bei einer wirklich ueberzeugenden Gelegenheit zu handeln, erfolgte kein Kauf. NVDA-Position bleibt bewusst vor den heute abend erwarteten Q3-Zahlen gehalten (keine Handelsmoeglichkeit vor Zahlen, da US-Boerse derzeit geschlossen).",
+    "decision": "Kein Trade in diesem Lauf (05:09). Tagesbudget fuer den 17.11. bereits gutgeschrieben (00:08-Lauf). Offene Positionen GOOGL (pos-0031) und NVDA (pos-0035) unveraendert gehalten (Boerse geschlossen bis 15:30 CET). Kein Krypto-Trade: Bitcoin weiterhin um 73.000-74.000 USD, Fear&Greed-Index im Fear-Bereich (ca. 26), kein frischer, mehrfach bestaetigter Katalysator fuer eine spekulative Position seit dem letzten Lauf gefunden. NVDA-Q3-Zahlen (fiskalisches Q3 2027) stehen weiterhin heute Abend nach US-Marktschluss aus - Reaktion wird im naechsten Lauf beruecksichtigt.",
+    "reasoning": "Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten nicht handelbar, US-Boerse oeffnet erst um 15:30 CET. Websuche zu aktuellen Krypto- und Marktdaten lieferte keine neuen, mehrfach bestaetigten Katalysatoren seit dem letzten Lauf (04:09) - Bitcoin und der breite Kryptomarkt verbleiben im Fear-Bereich ohne ueberzeugende Kaufgelegenheit. Passend zum Grundsatz, nur bei einer wirklich ueberzeugenden Gelegenheit zu handeln, erfolgte kein Kauf oder Verkauf.",
     "positionIds": [
       "pos-0031",
       "pos-0035"
@@ -13474,6 +13474,11 @@
       {
         "time": "04:09",
         "note": "Keine Aenderung. Boerse weiterhin geschlossen (Oeffnung erst 15:30 CET). GOOGL/NVDA unveraendert gehalten. Kryptomarkt im Fear-Bereich (Index ca. 26) nach mehrwoechigem Abwaertstrend (BTC unter 74.000 USD, Liquidationswellen Anfang November) - kein frischer, ueberzeugender Kaufkatalysator. NVDA-Q3-Zahlen heute Abend nach US-Marktschluss (ca. 22:20-23:00 CET) erwartet, Optionsmarkt preist ueberdurchschnittliche Vola (+-10,6%) nach Bericht ueber Vorstands-Untersuchung zu CEO Jensen Huang ein.",
+        "portfolioValue": 1775.06
+      },
+      {
+        "time": "05:09",
+        "note": "Keine Aenderung. Boerse weiterhin geschlossen (Oeffnung erst 15:30 CET). GOOGL/NVDA unveraendert gehalten. Bitcoin weiterhin ca. 73.000-74.000 USD, Fear&Greed-Index im Fear-Bereich (~26), kein frischer Katalysator - kein Trade. NVDA-Q3-Zahlen noch ausstehend (heute Abend nach US-Marktschluss).",
         "portfolioValue": 1775.06
       }
     ]
