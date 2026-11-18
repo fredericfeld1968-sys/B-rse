@@ -13575,14 +13575,14 @@
   },
   {
     "date": "2026-11-18",
-    "marketOverview": "Xetra seit 09:00 CET offen, US-Vorboerse laeuft (04:00-09:30 ET) - NVDA laut Yahoo-Finance-Chart-API (includePrePost) live bei 159,96 USD (+2,90% ggue. Vortagesschluss 156,14 USD), weiter getragen vom NVIDIA-Q3-Beat vom Vorabend; Kurs liegt damit knapp unter meinem Einstand von 160,25 USD (-0,18%). GOOGL vorboerslich live 282,60 USD (-0,39% ggue. Vortagesschluss 283,72 USD), ebenfalls knapp unter Einstand 283,47 USD (-0,31%). Kryptomarkt laut CoinGecko-API weiterhin nahezu unveraendert: Bitcoin 64.140 USD (-0,07% 24h), Solana 74,37 USD (+2,72% 24h), Fear&Greed-Index unveraendert bei 11 (Extreme Angst, alternative.me). Keine neuen marktbewegenden Nachrichten zu Geopolitik oder Fed seit dem letzten Lauf gefunden.",
-    "decision": "Kein Trade. Tagesbudget bereits im ersten Lauf verbucht, lastGrantDate bereits heute - keine erneute Gutschrift. NVDA (pos-0035) und GOOGL (pos-0031) auf Basis aktueller Live-Vorboersenkurse aktualisiert (NVDA 159,96 USD/-0,18%, GOOGL 282,60 USD/-0,31%) - beide nahe Einstand und weit von Gewinnziel- (7-9%) oder Stop-Loss-Schwelle (-6,5 bis -7,5%) entfernt; vor regulaerem US-Handelsbeginn (15:30 CET) ohnehin kein Neuengagement in Aktien/ETFs/Rohstoffen. Kein Krypto-Neukauf trotz weiterhin reichlich freiem Kapital (ca. 103.339 EUR): Bitcoin/Solana bewegen sich nur im niedrigen einstelligen Prozentbereich bei unveraendert extremer Angststimmung (F&G 11) - kein mehrfach bestaetigter, ueberzeugender Katalysator fuer einen Einstieg.",
-    "reasoning": "Spekulatives Profil erlaubt kurzfristiges Trading, verlangt aber keinen Zwang zum Handeln. NVDA und GOOGL bewegen sich beide innerhalb eines Bands von unter einem Prozent um ihren jeweiligen Einstand - kein Handlungsbedarf, Reaktion nach regulaerer Marktoeffnung (15:30 CET) bleibt abzuwarten. Der Kryptomarkt bleibt laut Live-Abfrage via CoinGecko-API und Alternative.me-Fear&Greed-Index (weiterhin 11, Extreme Angst) ohne neuen, mehrfach bestaetigten Ausbruchs- oder Umkehrkatalysator - kein ausreichendes Kaufsignal gemaess etablierter Strategie.",
+    "marketOverview": "US-Vorboerse laeuft (07:08 EST / 13:08 CET) - NVDA laut stockanalysis.com vorboerslich bei 159,69 USD (+2,72% ggue. Schlusskurs 155,46 USD), knapp unter Einstand 160,25 USD (-0,35%). GOOGL vorboerslich 282,40 USD (+0,79% ggue. Schlusskurs 280,20 USD), knapp unter Einstand 283,47 USD (-0,38%). Kryptomarkt laut CoinGecko-API nahezu unveraendert: Bitcoin 64.114 USD (-1,07% 24h), Solana 74,41 USD (+1,63% 24h), Ethereum 1.797,58 USD (-0,82% 24h), Fear&Greed-Index weiterhin bei 11 (Extreme Angst, alternative.me). FOMC-Sitzungsprotokoll wird heute erwartet (ueblicherweise ca. 20:00 CET), noch nicht veroeffentlicht. Keine neuen marktbewegenden Nachrichten zu NVDA, GOOGL oder Krypto seit dem letzten Lauf gefunden.",
+    "decision": "Kein Trade. Tagesbudget bereits heute verbucht, keine erneute Gutschrift. NVDA (pos-0035) und GOOGL (pos-0031) auf Basis aktueller Vorboersenkurse aktualisiert (NVDA 159,69 USD/-0,35%, GOOGL 282,40 USD/-0,38%) - beide nahe Einstand und weit von Gewinnziel- (7-9%) oder Stop-Loss-Schwelle (-6,5 bis -7,5%) entfernt; vor regulaerem US-Handelsbeginn (15:30 CET) ohnehin kein Neuengagement in Aktien/ETFs/Rohstoffen. Kein Krypto-Neukauf trotz weiterhin reichlich freiem Kapital (ca. 103.339 EUR): Bitcoin/Solana bewegen sich nur im niedrigen einstelligen Prozentbereich bei unveraendert extremer Angststimmung (F&G 11) - kein mehrfach bestaetigter, ueberzeugender Katalysator fuer einen Einstieg.",
+    "reasoning": "Spekulatives Profil erlaubt kurzfristiges Trading, verlangt aber keinen Zwang zum Handeln. NVDA und GOOGL bewegen sich beide innerhalb eines Bands von unter einem Prozent um ihren jeweiligen Einstand - kein Handlungsbedarf vor regulaerer Marktoeffnung (15:30 CET). Der Kryptomarkt bleibt laut Live-Abfrage via CoinGecko-API und Alternative.me-Fear&Greed-Index (weiterhin 11, Extreme Angst) ohne neuen, mehrfach bestaetigten Ausbruchs- oder Umkehrkatalysator - kein ausreichendes Kaufsignal gemaess etablierter Strategie.",
     "positionIds": [
       "pos-0031",
       "pos-0035"
     ],
-    "portfolioValueEnd": 1795.73,
+    "portfolioValueEnd": 1793.49,
     "updates": [
       {
         "time": "00:08",
@@ -13648,6 +13648,11 @@
         "time": "12:11",
         "note": "Keine Aenderung. NVDA live vorboerslich 159,96 USD (-0,18% seit Einstand), GOOGL 282,60 USD (-0,31%) - beide nahe Einstand. BTC 64.140 USD (-0,07% 24h), SOL 74,37 USD (+2,72% 24h), Fear&Greed weiter 11 (Extreme Angst), kein Kaufsignal.",
         "portfolioValue": 1795.73
+      },
+      {
+        "time": "13:08",
+        "note": "Keine Aenderung. NVDA vorboerslich 159,69 USD (-0,35% seit Einstand), GOOGL 282,40 USD (-0,38%) - beide nahe Einstand. BTC 64.114 USD (-1,07% 24h), SOL 74,41 USD (+1,63% 24h), Fear&Greed weiter 11 (Extreme Angst), kein Kaufsignal.",
+        "portfolioValue": 1793.49
       }
     ]
   }
