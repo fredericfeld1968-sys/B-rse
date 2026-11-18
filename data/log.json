@@ -13575,9 +13575,9 @@
   },
   {
     "date": "2026-11-18",
-    "marketOverview": "US-Boerse (NYSE/Nasdaq) weiterhin geschlossen, auch der nachboersliche Handel ist beendet. NVDA (162,96 USD, +1,69% seit Kauf) bereits mit dem starken Q3-Zahlen-Beat vom Vorabend (17.11., Umsatz 115,84 Mrd. USD, EPS 2,68 USD, Guidance angehoben) bewertet; GOOGL (283,80 USD) unveraendert. Kryptomarkt bleibt in ausgepraegter Angststimmung (Fear&Greed-Index ca. 11-14, 'Extreme Angst'), Bitcoin nach kraeftigem Novemberabverkauf (-20%, unter 70.000 USD) ohne bestaetigtes Erholungssignal, kein neuer frischer Kauf- oder Verkaufskatalysator erkennbar.",
-    "decision": "Kein Trade. Tagesbudget bereits im ersten Lauf um 00:08 verbucht (totalFreshCapitalEur 106.000 EUR), lastGrantDate bereits heute - keine erneute Gutschrift. GOOGL (pos-0031) und NVDA (pos-0035) bleiben unveraendert gehalten (weiterhin weit von Gewinnziel- bzw. Stop-Loss-Schwelle entfernt, ausserhalb der Handelszeiten ohnehin nicht handelbar). Kein Krypto-Neukauf trotz reichlich freiem Kapital (~103.339 EUR), da weiterhin kein bestaetigter, ueberzeugender Katalysator vorliegt und der Markt in ausgepraegter Angststimmung verharrt.",
-    "reasoning": "Spekulatives Profil erlaubt kurzfristiges Trading, verlangt aber keinen Zwang zum Handeln. Ohne frischen, mehrfach bestaetigten Katalysator (Ausbruch, Nachricht, Earnings) wird passend zum bisherigen erfolgreichen Muster nicht in eine Angst-/Abwaertsbewegung hinein gekauft. Aktien/ETFs/Rohstoffe sind ausserhalb der US-Handelszeiten nicht handelbar. Bestehende Positionen (GOOGL, NVDA) verstossen nicht gegen Ausschlusslisten und bleiben innerhalb der etablierten Halteband-Logik; NVDA profitiert bereits vom starken Q3-Beat, GOOGL liegt nahe am Einstand.",
+    "marketOverview": "US- und europaeische Boersen weiterhin geschlossen (Nacht), Vor- und Nachboersenhandel beendet. NVDA (162,96 USD, +1,69% seit Kauf) weiterhin getragen vom starken Q3-Zahlen-Beat vom Vorabend (17.11., Umsatz 115,84 Mrd. USD, EPS 2,68 USD, Guidance angehoben); GOOGL (283,80 USD) unveraendert. Kryptomarkt bleibt in ausgepraegter Angststimmung (Fear&Greed-Index ca. 11-15, Extreme Angst), Bitcoin nach kraeftigem Novemberabverkauf weiterhin um die 64.000-65.000 USD ohne bestaetigtes Erholungssignal, kein neuer Kauf- oder Verkaufskatalysator erkennbar.",
+    "decision": "Kein Trade. Tagesbudget bereits im ersten Lauf um 00:08 verbucht, lastGrantDate bereits heute - keine erneute Gutschrift. GOOGL (pos-0031) und NVDA (pos-0035) bleiben unveraendert gehalten (weiterhin weit von Gewinnziel- bzw. Stop-Loss-Schwelle entfernt, ausserhalb der Handelszeiten ohnehin nicht handelbar). Kein Krypto-Neukauf trotz reichlich freiem Kapital (~103.339 EUR), da weiterhin kein bestaetigter, ueberzeugender Katalysator vorliegt und der Markt in ausgepraegter Angststimmung verharrt.",
+    "reasoning": "Spekulatives Profil erlaubt kurzfristiges Trading, verlangt aber keinen Zwang zum Handeln. Ohne frischen, mehrfach bestaetigten Katalysator wird passend zum bisherigen erfolgreichen Muster nicht in eine Angst-/Abwaertsbewegung hinein gekauft. Aktien/ETFs/Rohstoffe sind ausserhalb der US-/EU-Handelszeiten nicht handelbar. Bestehende Positionen (GOOGL, NVDA) verstossen nicht gegen Ausschlusslisten und bleiben innerhalb der etablierten Halteband-Logik.",
     "positionIds": [
       "pos-0031",
       "pos-0035"
@@ -13602,6 +13602,11 @@
       {
         "time": "03:09",
         "note": "Keine Aenderung. Weiterhin ausserhalb der Handelszeiten (Aktien/ETFs/Rohstoffe geschlossen). Krypto-Markt laut aktueller Recherche weiter in extremer Angststimmung (Fear&Greed-Index ca. 11-14), Bitcoin nach starkem Novemberabverkauf (-20%, zuletzt unter 70.000 USD, zwischenzeitlich ~65.000 USD) ohne bestaetigtes Erholungssignal. NVDA-Q3-Zahlen vom Vorabend (17.11., nachboerslich) waren ein starker Beat (Umsatz 115,84 Mrd. USD vs. ~109 Mrd. erwartet, EPS 2,68 vs. 2,48 USD, Guidance angehoben) - bereits in den aktuellen Kurswerten von pos-0035 beruecksichtigt; regulaerer Handel und Nachhandel sind fuer heute jedoch beendet, daher keine weitere Aktualisierung moeglich. GOOGL unveraendert. Kein ueberzeugender, frischer Krypto-Katalysator fuer einen Neukauf.",
+        "portfolioValue": 1817.84
+      },
+      {
+        "time": "04:08",
+        "note": "Keine Aenderung. BTC weiterhin um ca. 64.400 USD (The Block, Stand 16.11., naechstgelegene verfuegbare Notierung), Kryptomarkt laut vorheriger Recherche in extremer Angststimmung (Fear&Greed ca. 11-15) ohne bestaetigten Erholungs- oder Kaufkatalysator. US- und europaeische Boersen weiterhin ausserhalb der Handelszeiten (Nacht), GOOGL/NVDA daher nicht handelbar und unveraendert bei 283,80 USD bzw. 162,96 USD.",
         "portfolioValue": 1817.84
       }
     ]
