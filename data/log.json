@@ -13575,9 +13575,9 @@
   },
   {
     "date": "2026-11-18",
-    "marketOverview": "US- und europaeische Boersen weiterhin geschlossen (frueher Morgen, noch vor Vorboerse). NVDA (162,96 USD, +1,69% seit Kauf) und GOOGL (283,80 USD, +0,12%) unveraendert seit dem letzten Check. Kryptomarkt bleibt in extremer Angststimmung (Fear&Greed-Index weiterhin 11), Bitcoin ca. 64.337 USD (-0,82% 24h), Ethereum ca. 1.800,88 USD (-1,68%), Solana weiterhin leicht fester bei ca. 74,78 USD (+2,68% 24h) - keine neue Bewegung gegenueber dem 05:07-Lauf, weiterhin kein bestaetigter Ausbruchs- oder Umkehrkatalysator.",
-    "decision": "Kein Trade. Tagesbudget bereits im ersten Lauf um 00:08 verbucht, lastGrantDate bereits heute - keine erneute Gutschrift. GOOGL (pos-0031) und NVDA (pos-0035) bleiben unveraendert gehalten (weiterhin weit von Gewinnziel- bzw. Stop-Loss-Schwelle entfernt, ausserhalb der Handelszeiten ohnehin nicht handelbar). Kein Krypto-Neukauf trotz reichlich freiem Kapital (~103.339 EUR), da sich seit dem letzten Lauf praktisch nichts veraendert hat und weiterhin kein mehrfach bestaetigter, ueberzeugender Katalysator vorliegt.",
-    "reasoning": "Spekulatives Profil erlaubt kurzfristiges Trading, verlangt aber keinen Zwang zum Handeln. Die Kursbewegungen bei BTC/ETH/SOL seit dem letzten Lauf sind marginal und bieten keine neue, ueberzeugende Gelegenheit. Aktien/ETFs/Rohstoffe sind ausserhalb der US-/EU-Handelszeiten nicht handelbar. Bestehende Positionen (GOOGL, NVDA) verstossen nicht gegen Ausschlusslisten und bleiben innerhalb der etablierten Halteband-Logik.",
+    "marketOverview": "Vor Boersenoeffnung (Xetra ab 09:00 MEZ, US-Handel erst ab 15:30 MEZ) - Aktien/ETFs/Rohstoffe weiterhin nicht handelbar. GOOGL (283,80 USD, +0,12%) und NVDA (162,96 USD, +1,69%) unveraendert seit dem 07:08-Lauf. Kryptomarkt bleibt in extremer Angststimmung (Fear&Greed-Index ca. 11), Bitcoin weiterhin um die 64.000 USD, deutlich unter dem Niveau von vor einem Monat; aktuelle Recherche liefert keinen neuen, mehrfach bestaetigten Ausbruchs- oder Umkehrkatalysator fuer BTC oder SOL.",
+    "decision": "Kein Trade. Tagesbudget bereits im ersten Lauf um 00:08 verbucht, lastGrantDate bereits heute - keine erneute Gutschrift. GOOGL (pos-0031) und NVDA (pos-0035) bleiben unveraendert gehalten (weiterhin weit von Gewinnziel- bzw. Stop-Loss-Schwelle entfernt, ausserhalb der Handelszeiten ohnehin nicht handelbar). Kein Krypto-Neukauf trotz reichlich freiem Kapital (~103.339 EUR), da weiterhin kein mehrfach bestaetigter, ueberzeugender Katalysator vorliegt - anhaltende extreme Angst allein ist laut etablierter Strategie kein ausreichendes Kaufsignal.",
+    "reasoning": "Spekulatives Profil erlaubt kurzfristiges Trading, verlangt aber keinen Zwang zum Handeln. Vor Boersenoeffnung sind Aktien/ETFs/Rohstoffe nicht handelbar. Der Kryptomarkt bleibt in extremer Angst ohne frischen, mehrfach bestaetigten Katalysator - reines Dip-Buying auf Basis des Fear&Greed-Index allein wird gemaess etablierter Strategie nicht als ausreichendes Kaufsignal gewertet. Bestehende Positionen (GOOGL, NVDA) verstossen nicht gegen Ausschlusslisten und bleiben innerhalb der etablierten Halteband-Logik.",
     "positionIds": [
       "pos-0031",
       "pos-0035"
@@ -13622,6 +13622,11 @@
       {
         "time": "07:08",
         "note": "Keine Aenderung. BTC ~64.623 USD (-0,15% 24h), F&G-Index weiterhin 11 (Extreme Angst), SOL weiter leicht fester (+3,45% 24h) ohne neuen Katalysator. GOOGL/NVDA unveraendert, US-Vorboerse noch nicht aktiv.",
+        "portfolioValue": 1817.84
+      },
+      {
+        "time": "08:09",
+        "note": "Keine Aenderung. Vor Boersenoeffnung (Xetra ab 09:00, US-Handel ab 15:30 MESZ), Aktien/ETFs/Rohstoffe weiterhin nicht handelbar. Recherche bestaetigt unveraendert extreme Angststimmung am Kryptomarkt (Bitcoin laut mehreren Quellen zuletzt um 64.000 USD, deutlich unter Vormonatsniveau) ohne neuen, mehrfach bestaetigten Ausbruchs- oder Umkehrkatalysator fuer BTC/SOL. GOOGL/NVDA unveraendert gehalten.",
         "portfolioValue": 1817.84
       }
     ]
