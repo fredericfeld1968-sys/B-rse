@@ -13575,14 +13575,14 @@
   },
   {
     "date": "2026-11-18",
-    "marketOverview": "US-Maerkte nach Handelsschluss (NYSE/Nasdaq, Schluss 22:00 CET): NVDA bei 150,88 USD regulaerer Schluss (nachboerslich 150,76 USD), -5,92% seit Einstand 160,25 USD - naeher an, aber noch nicht an der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%). Weiterhin belastet durch China-Exportstopp, SEC-Untersuchung und Huang-Anhoerung. GOOGL nachboerslich 282,97 USD, nahezu unveraendert seit Einstand 283,47 USD (-0,18%). Krypto weiter in Extreme Angst (Fear&Greed 11), Bitcoin bei ca. 62.508 USD (-2,3% 24h), Solana 73,13 USD (nahezu unveraendert) - kein neuer, bestaetigter Ausbruchskatalysator fuer einen Neukauf.",
-    "decision": "Kein Trade. Tagesbudget bereits heute verbucht, keine erneute Gutschrift. NVDA (pos-0035) bei -5,92% seit Einstand, naeher an aber noch unter der Stop-Loss-Schwelle, daher weiter gehalten. GOOGL (pos-0031) nahezu unveraendert (-0,18%), weiter gehalten. US-Kassamarkt fuer heute geschlossen, daher auch keine Neupositionen in Aktien/ETFs/Rohstoffen moeglich; Krypto bleibt ohne ueberzeugenden, bestaetigten Katalysator (Extreme Angst, BTC leicht schwaecher, SOL seitwaerts).",
-    "reasoning": "Keine Positionsaenderung: Beide offenen Positionen bewegen sich im erwarteten Rahmen ohne neue fundamentale Entwicklung seit dem letzten Lauf (21:08). NVDA naehert sich der Stop-Loss-Schwelle weiter an (-5,69% -> -5,92%), hat sie aber noch nicht erreicht. Kein neuer Kauf, da Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten liegen und der Kryptomarkt keine ueberzeugende, bestaetigte neue Chance zeigt.",
+    "marketOverview": "US-Maerkte nach Handelsschluss (Schluss 22:00 CET, Nachhandel bis ca. 02:00 CET): NVDA nachboerslich bei 150,65 USD (-5,99% seit Einstand 160,25 USD), weiterhin knapp unter der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%). GOOGL nachboerslich 283,16 USD, nahezu unveraendert seit Einstand 283,47 USD (-0,11%). Krypto weiter in Extreme Angst, Bitcoin auf ca. 62.361 USD gefallen (-3,07% 24h), Solana 72,88 USD, Avalanche, Cardano und XRP ebenfalls leicht schwaecher - kein neuer, bestaetigter Ausbruchskatalysator fuer einen Neukauf.",
+    "decision": "Kein Trade. Tagesbudget bereits heute verbucht, keine erneute Gutschrift. NVDA (pos-0035) bei -5,99% seit Einstand, naeher an aber noch unter der Stop-Loss-Schwelle, daher weiter gehalten. GOOGL (pos-0031) nahezu unveraendert (-0,11%), weiter gehalten. US-Kassamarkt fuer heute geschlossen, daher keine Neupositionen in Aktien/ETFs/Rohstoffen moeglich; Krypto bleibt ohne ueberzeugenden, bestaetigten Katalysator (Extreme Angst, BTC weiter schwaecher, Altcoins leicht im Minus).",
+    "reasoning": "Keine Positionsaenderung: Beide offenen Positionen bewegen sich im erwarteten Rahmen ohne neue fundamentale Entwicklung seit dem letzten Lauf (22:08). NVDA naehert sich der Stop-Loss-Schwelle weiter an (-5,92% -> -5,99%), hat sie aber noch nicht erreicht. Kein neuer Kauf, da Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten liegen und der Kryptomarkt (Extreme Angst, BTC -3,07% 24h) keine ueberzeugende, bestaetigte neue Chance zeigt.",
     "positionIds": [
       "pos-0031",
       "pos-0035"
     ],
-    "portfolioValueEnd": 1739.37,
+    "portfolioValueEnd": 1739.22,
     "updates": [
       {
         "time": "00:08",
@@ -13698,6 +13698,11 @@
         "time": "22:08",
         "note": "Kein Trade. NVDA auf -5,92% gefallen (150,76 USD, naeher an Stop-Loss), GOOGL leicht ins Minus gedreht (-0,18%, 282,97 USD). Krypto weiter Extreme Angst (F&G 11), BTC -2,3% 24h, kein Kaufsignal. Boersen geschlossen fuer heute.",
         "portfolioValue": 1739.37
+      },
+      {
+        "time": "23:09",
+        "note": "Kein Trade. NVDA weiter auf -5,99% gefallen (150,65 USD, naeher an aber noch unter Stop-Loss), GOOGL nahezu unveraendert (-0,11%, 283,16 USD). Krypto weiter Extreme Angst, BTC auf 62.361 USD gefallen (-3,07% 24h), kein Kaufsignal. Boersen geschlossen fuer heute.",
+        "portfolioValue": 1739.22
       }
     ]
   }
