@@ -13575,9 +13575,9 @@
   },
   {
     "date": "2026-11-18",
-    "marketOverview": "US-Boerse (NYSE/Nasdaq) weiterhin seit 22:00 CET geschlossen, nur Nachboerslicher Handel moeglich. NVDA (162,96 USD) und GOOGL (283,80 USD) unveraendert zum letzten Lauf, keine neuen Nachboerskurse verfuegbar. Kryptomarkt in ausgepraegter Angststimmung (Fear&Greed-Index bei ca. 12, \"Extreme Angst\"): Bitcoin notiert bei ca. 64.700 USD nahe der Mehrmonats-Tiefs, Ethereum bei ca. 1.820 USD, Solana im niedrigen 70-USD-Bereich leicht schwaecher. Kein bestaetigter, mehrfach belegter Kauf-Katalysator erkennbar.",
-    "decision": "Kein Trade. Neuer Kalendertag (18.11.) bereits im ersten Lauf um 00:08 verbucht (Tagesbudget 1.000 EUR gutgeschrieben, totalFreshCapitalEur 106.000 EUR). GOOGL (pos-0031) und NVDA (pos-0035) bleiben unveraendert gehalten, da weiterhin weit von Gewinnziel- (7-9%) oder Stop-Loss-Schwelle (-6,5 bis -7,5%) entfernt und ausserhalb der Handelszeiten ohnehin nicht handelbar. Trotz reichlich freiem Kapital kein Krypto-Neukauf, da der Markt in ausgepraegter Angststimmung (Fear&Greed ca. 12) ohne bestaetigten Aufwaerts-Katalysator verharrt - passend zum spekulativen Profil wird nur bei wirklich ueberzeugenden Gelegenheiten gehandelt.",
-    "reasoning": "Risikoprofil spekulativ mit erlaubtem kurzfristigem Trading, aber kein Zwang zu handeln: Ein Kauf in einem Markt mit extremer Angststimmung und fallenden Kursen (BTC nahe Mehrmonats-Tief) ohne fundamentalen Gegenkatalysator widerspricht dem bisher erfolgreichen Muster (Kauf nur bei bestaetigtem, mehrfach belegtem Ausbruch/Katalysator, nicht bei blossem Sentiment-Rauschen). GOOGL und NVDA bleiben beide innerhalb der etablierten Halteband-Logik (kein Stop-Loss, kein Gewinnziel erreicht). Aktien/ETFs/Rohstoffe sind ausserhalb der US-Handelszeiten nicht handelbar. Keine der gehaltenen Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "marketOverview": "US-Boerse (NYSE/Nasdaq) weiterhin geschlossen, auch der nachboersliche Handel ist fuer heute beendet (ca. 20:07 ET). NVDA (162,96 USD) und GOOGL (283,80 USD) unveraendert zum letzten Schlusskurs, keine neuen Kursdaten verfuegbar. Kryptomarkt bleibt in ausgepraegter Angststimmung (Fear&Greed weiterhin im Bereich Extreme Angst), Bitcoin weiterhin im mittleren 60.000-USD-Bereich nahe der Mehrmonats-Tiefs, kein neuer bestaetigter Kauf- oder Verkaufskatalysator erkennbar.",
+    "decision": "Kein Trade. Tagesbudget bereits im ersten Lauf um 00:08 verbucht (totalFreshCapitalEur 106.000 EUR), lastGrantDate bereits heute - keine erneute Gutschrift. GOOGL (pos-0031) und NVDA (pos-0035) bleiben unveraendert gehalten (weiterhin weit von Gewinnziel- bzw. Stop-Loss-Schwelle entfernt, ausserhalb der Handelszeiten ohnehin nicht handelbar). Kein Krypto-Neukauf trotz reichlich freiem Kapital (~103.339 EUR), da weiterhin kein bestaetigter, ueberzeugender Katalysator vorliegt und der Markt in Angststimmung verharrt.",
+    "reasoning": "Spekulatives Profil erlaubt kurzfristiges Trading, verlangt aber keinen Zwang zum Handeln. Ohne frischen, mehrfach bestaetigten Katalysator (Ausbruch, Nachricht, Earnings) wird passend zum bisherigen erfolgreichen Muster nicht in eine Angst-/Abwaertsbewegung hinein gekauft. Aktien/ETFs/Rohstoffe sind ausserhalb der US-Handelszeiten nicht handelbar. Bestehende Positionen (GOOGL, NVDA) verstossen nicht gegen Ausschlusslisten und bleiben innerhalb der etablierten Halteband-Logik.",
     "positionIds": [
       "pos-0031",
       "pos-0035"
@@ -13592,6 +13592,11 @@
       {
         "time": "01:08",
         "note": "Keine Aenderung. Krypto in extremer Angststimmung (Fear&Greed ca. 12, BTC ~64.700 USD nahe Mehrmonats-Tief) ohne Kaufsignal. GOOGL/NVDA unveraendert, ausserhalb Handelszeiten.",
+        "portfolioValue": 1817.84
+      },
+      {
+        "time": "02:07",
+        "note": "Keine Aenderung. US-Handel (inkl. nachboerslich) fuer heute beendet, GOOGL/NVDA unveraendert. Krypto weiter in Angststimmung ohne Kaufsignal.",
         "portfolioValue": 1817.84
       }
     ]
