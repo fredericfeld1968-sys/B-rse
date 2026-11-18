@@ -13575,14 +13575,14 @@
   },
   {
     "date": "2026-11-18",
-    "marketOverview": "Xetra seit 09:00 CET offen, US-Kassamarkt erst ab 15:30 CET - Vorboerslich zeigt NVIDIA (Praeboerse 160,18 USD, +3,04% ggue. Schlusskurs 155,46 USD) deutliche Reaktion auf die am 17.11. nach Handelsschluss veroeffentlichten Q3-Zahlen: Umsatz 115,8 Mrd. USD (Konsens ca. 109 Mrd.), EPS 2,68 USD (Konsens 2,47 USD), Q4-Umsatzguidance 130 Mrd. USD (+-3%, Konsens ca. 125 Mrd.) - klarer Beat auf allen Ebenen, mehrfach unabhaengig bestaetigt (CNBC, Forbes, Kiplinger, 24/7 Wall St). Der Kurs bleibt damit praeboerslich knapp unter meinem Einstandspreis (160,25 USD). GOOGL vorboerslich 282,29 USD (+0,74% ggue. Vortagesschluss 280,20 USD), ebenfalls nahe Einstand (283,47 USD). Kryptomarkt weiterhin nahezu unveraendert: Bitcoin laut CoinGecko-API live bei 64.696 USD (+0,65% 24h), Fear&Greed-Index weiterhin im Bereich 'Extreme Angst' - keine Bestaetigung fuer die vereinzelt kursierende Meldung einer grossen BTC-Erholung auf 91.000 USD, die sich bei Live-Abfrage nicht haelt.",
-    "decision": "Kein Trade. Tagesbudget bereits im ersten Lauf verbucht, lastGrantDate bereits heute - keine erneute Gutschrift. NVDA (pos-0035) und GOOGL (pos-0031) auf Basis vorboerslicher Live-Kurse aktualisiert (NVDA 160,18 USD/-0,04%, GOOGL 282,29 USD/-0,42%) - beide praktisch auf Einstandsniveau, weit von Gewinnziel- oder Stop-Loss-Schwelle entfernt; vor regulaerem US-Handelsbeginn (15:30 CET) ohnehin nicht handelbar. NVIDIA-Zahlen fundamental klar positiv (Beat + angehobene Guidance), aber noch kein ueberzeugender Kursschub ueber Einstand - Position wird gehalten, Reaktion nach Markteroeffnung wird weiter beobachtet. Kein Krypto-Neukauf trotz reichlich freiem Kapital (~103.339 EUR): Bitcoin bewegt sich live nur +0,65% 24h bei anhaltender extremer Angststimmung - kein mehrfach bestaetigter, ueberzeugender Katalysator fuer einen Einstieg.",
-    "reasoning": "Spekulatives Profil erlaubt kurzfristiges Trading, verlangt aber keinen Zwang zum Handeln. Vorboerliche Kursbewegungen bei NVDA/GOOGL werden zur Aktualisierung der Positionswerte genutzt, fuehren aber vor regulaerer Marktoeffnung nicht zu Kaeufen/Verkaeufen. Der NVIDIA-Earnings-Beat ist ein echter, mehrfach unabhaengig bestaetigter fundamentaler Katalysator, rechtfertigt aber bei einer bereits gehaltenen Position ohne zusaetzliches freies Kapitalrisiko keine Aktion, solange der Kurs noch unter Einstand liegt. Der Kryptomarkt bleibt trotz einzelner widerspruechlicher Second-Hand-Berichte (angebliche BTC-Erholung auf 91.000 USD) bei Live-Abfrage via CoinGecko-API nahezu unveraendert in extremer Angststimmung - kein ausreichendes Kaufsignal gemaess etablierter Strategie.",
+    "marketOverview": "Xetra seit 09:00 CET offen, US-Kassamarkt erst ab 15:30 CET - NVDA vorboerslich live (Yahoo Finance Chart-API) bei 161,55 USD (+3,47% ggue. Vortagesschluss 156,14 USD), weiter getrieben vom NVIDIA-Q3-Beat (Umsatz 115,8 Mrd. USD, EPS 2,68 USD, Guidance angehoben) vom Vorabend; Kurs liegt damit knapp ueber meinem Einstand von 160,25 USD (+0,81%), aber weit von der Gewinnzielschwelle entfernt. GOOGL vorboerslich 283,20 USD, praktisch unveraendert zum Vortagesschluss (283,72 USD) und nahe Einstand (283,47 USD, -0,10%). Kryptomarkt laut Live-Abfrage (CoinGecko-API) weiterhin nahezu unveraendert: Bitcoin 64.546 USD (+0,40% 24h), Solana 75,07 USD (+3,61% 24h) ohne erkennbaren Katalysator, Fear&Greed-Index unveraendert bei 11 (Extreme Angst). Keine neuen marktbewegenden Nachrichten zu Geopolitik oder Fed seit dem letzten Lauf gefunden.",
+    "decision": "Kein Trade. Tagesbudget bereits im ersten Lauf verbucht, lastGrantDate bereits heute - keine erneute Gutschrift. NVDA (pos-0035) und GOOGL (pos-0031) auf Basis aktueller vorboerslicher Live-Kurse aktualisiert (NVDA 161,55 USD/+0,81%, GOOGL 283,20 USD/-0,10%) - beide weiterhin weit von Gewinnziel- (7-9%) oder Stop-Loss-Schwelle (-6,5 bis -7,5%) entfernt; vor regulaerem US-Handelsbeginn (15:30 CET) ohnehin nicht handelbar. Kein Krypto-Neukauf trotz weiterhin reichlich freiem Kapital (ca. 103.339 EUR): Bitcoin/Solana bewegen sich nur im niedrigen einstelligen Prozentbereich bei unveraendert extremer Angststimmung (F&G 11) - kein mehrfach bestaetigter, ueberzeugender Katalysator fuer einen Einstieg.",
+    "reasoning": "Spekulatives Profil erlaubt kurzfristiges Trading, verlangt aber keinen Zwang zum Handeln. NVDA setzt die vorboerslich positive Reaktion auf den Q3-Earnings-Beat fort, liegt aber mit +0,81% seit Einstand noch deutlich unter dem etablierten Gewinnzielbereich - Position wird weiter gehalten, Reaktion nach regulaerer Marktoeffnung (15:30 CET) bleibt abzuwarten. GOOGL bewegt sich praktisch seitwaerts nahe Einstand, kein Handlungsbedarf. Der Kryptomarkt bleibt bei Live-Abfrage via CoinGecko-API und Alternative.me-Fear&Greed-Index (weiterhin 11, Extreme Angst) ohne neuen, mehrfach bestaetigten Ausbruchs- oder Umkehrkatalysator - kein ausreichendes Kaufsignal gemaess etablierter Strategie.",
     "positionIds": [
       "pos-0031",
       "pos-0035"
     ],
-    "portfolioValueEnd": 1796.23,
+    "portfolioValueEnd": 1807.35,
     "updates": [
       {
         "time": "00:08",
@@ -13638,6 +13638,11 @@
         "time": "10:11",
         "note": "Keine Aenderung. NVDA vorboerslich 160,18 USD (+3,04%) nach starkem Q3-Earnings-Beat (Umsatz 115,8 Mrd. USD, EPS 2,68 USD, Guidance angehoben) - knapp unter Einstand (160,25 USD), kein Trade. GOOGL vorboerslich 282,29 USD, nahe Einstand. BTC live 64.696 USD (+0,65% 24h), Fear&Greed weiter 'Extreme Angst', kein Kaufsignal.",
         "portfolioValue": 1796.23
+      },
+      {
+        "time": "11:09",
+        "note": "Keine Aenderung. NVDA vorboerslich 161,55 USD (+0,81% seit Einstand) nach Q3-Beat, GOOGL 283,20 USD (-0,10%) - beide nahe Einstand. BTC live 64.546 USD (+0,4% 24h), SOL 75,07 USD (+3,6% 24h), Fear&Greed weiter 11 (Extreme Angst), kein Kaufsignal.",
+        "portfolioValue": 1807.35
       }
     ]
   }
