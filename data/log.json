@@ -13575,9 +13575,9 @@
   },
   {
     "date": "2026-11-18",
-    "marketOverview": "US- und europaeische Boersen weiterhin geschlossen (Nacht), Vor- und Nachboersenhandel beendet. NVDA (162,96 USD, +1,69% seit Kauf) weiterhin getragen vom starken Q3-Zahlen-Beat vom Vorabend (17.11., Umsatz 115,84 Mrd. USD, EPS 2,68 USD, Guidance angehoben); GOOGL (283,80 USD) unveraendert. Kryptomarkt bleibt in ausgepraegter Angststimmung (Fear&Greed-Index ca. 11-15, Extreme Angst), Bitcoin nach kraeftigem Novemberabverkauf weiterhin um die 64.000-65.000 USD ohne bestaetigtes Erholungssignal, kein neuer Kauf- oder Verkaufskatalysator erkennbar.",
-    "decision": "Kein Trade. Tagesbudget bereits im ersten Lauf um 00:08 verbucht, lastGrantDate bereits heute - keine erneute Gutschrift. GOOGL (pos-0031) und NVDA (pos-0035) bleiben unveraendert gehalten (weiterhin weit von Gewinnziel- bzw. Stop-Loss-Schwelle entfernt, ausserhalb der Handelszeiten ohnehin nicht handelbar). Kein Krypto-Neukauf trotz reichlich freiem Kapital (~103.339 EUR), da weiterhin kein bestaetigter, ueberzeugender Katalysator vorliegt und der Markt in ausgepraegter Angststimmung verharrt.",
-    "reasoning": "Spekulatives Profil erlaubt kurzfristiges Trading, verlangt aber keinen Zwang zum Handeln. Ohne frischen, mehrfach bestaetigten Katalysator wird passend zum bisherigen erfolgreichen Muster nicht in eine Angst-/Abwaertsbewegung hinein gekauft. Aktien/ETFs/Rohstoffe sind ausserhalb der US-/EU-Handelszeiten nicht handelbar. Bestehende Positionen (GOOGL, NVDA) verstossen nicht gegen Ausschlusslisten und bleiben innerhalb der etablierten Halteband-Logik.",
+    "marketOverview": "US- und europaeische Boersen weiterhin geschlossen (Nacht/Vorboerse noch nicht aktiv). NVDA (162,96 USD, +1,69% seit Kauf) und GOOGL (283,80 USD, +0,12%) unveraendert seit dem letzten Check, noch keine Kursbewegung vor Handelsbeginn. Kryptomarkt bleibt in extremer Angststimmung (Fear&Greed-Index aktuell 11, zuvor 12), Bitcoin bei ca. 64.343 USD (-0,86% 24h), Ethereum ca. 1.801 USD (-1,44%), Solana mit leichtem Lichtblick bei ca. 74,60 USD (+2,62% 24h) - insgesamt aber kein bestaetigter, ueberzeugender Ausbruchs- oder Umkehrkatalysator erkennbar.",
+    "decision": "Kein Trade. Tagesbudget bereits im ersten Lauf um 00:08 verbucht, lastGrantDate bereits heute - keine erneute Gutschrift. GOOGL (pos-0031) und NVDA (pos-0035) bleiben unveraendert gehalten (weiterhin weit von Gewinnziel- bzw. Stop-Loss-Schwelle entfernt, ausserhalb der Handelszeiten ohnehin nicht handelbar). Kein Krypto-Neukauf trotz reichlich freiem Kapital (~103.339 EUR), da trotz leichter Solana-Erholung weiterhin kein mehrfach bestaetigter, ueberzeugender Katalysator vorliegt und der Markt insgesamt in ausgepraegter Angststimmung verharrt.",
+    "reasoning": "Spekulatives Profil erlaubt kurzfristiges Trading, verlangt aber keinen Zwang zum Handeln. Ein einzelner, moderater 24h-Anstieg bei Solana (+2,6%) ohne begleitenden Nachrichten-Katalysator reicht nicht als ueberzeugende Kaufgelegenheit gegenueber den bisher erfolgreichen Mustern (bestaetigte institutionelle/technische Ausbrueche mit mehreren unabhaengigen Quellen). Aktien/ETFs/Rohstoffe sind ausserhalb der US-/EU-Handelszeiten nicht handelbar. Bestehende Positionen (GOOGL, NVDA) verstossen nicht gegen Ausschlusslisten und bleiben innerhalb der etablierten Halteband-Logik.",
     "positionIds": [
       "pos-0031",
       "pos-0035"
@@ -13607,6 +13607,11 @@
       {
         "time": "04:08",
         "note": "Keine Aenderung. BTC weiterhin um ca. 64.400 USD (The Block, Stand 16.11., naechstgelegene verfuegbare Notierung), Kryptomarkt laut vorheriger Recherche in extremer Angststimmung (Fear&Greed ca. 11-15) ohne bestaetigten Erholungs- oder Kaufkatalysator. US- und europaeische Boersen weiterhin ausserhalb der Handelszeiten (Nacht), GOOGL/NVDA daher nicht handelbar und unveraendert bei 283,80 USD bzw. 162,96 USD.",
+        "portfolioValue": 1817.84
+      },
+      {
+        "time": "05:07",
+        "note": "Keine Aenderung. BTC ~64.343 USD (-0,86% 24h, F&G-Index 11, Extreme Angst), SOL leicht fester (+2,62% 24h) aber ohne Katalysator. GOOGL/NVDA unveraendert, noch vor Handelsbeginn.",
         "portfolioValue": 1817.84
       }
     ]
