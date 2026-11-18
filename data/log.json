@@ -13575,14 +13575,14 @@
   },
   {
     "date": "2026-11-18",
-    "marketOverview": "US-Kassamarkt oeffnet erst um 15:30 CET, aktuell (15:10 CET) weiterhin Vorboerse. NVDA notiert vorboerslich je nach Quelle zwischen 159,96 und 161,30 USD (Benzinga, Kraken, Coinglass, TradingKey), Konsens ca. 160,85 USD (+0,37% seit Einstand 160,25 USD) nach dem starken Q3-Beat vom Vorabend (Umsatz 115,8 Mrd. USD, EPS 2,68 USD). GOOGL ohne frischen Einzelkatalysator weiterhin nahe 283 USD. Kryptomarkt unveraendert in extremer Angststimmung: Bitcoin laut mehreren Quellen (Fortune, TokenPost, CoinGecko) um 64.000-64.400 USD, Fear&Greed-Index weiterhin bei 11, Wochenverlust rund 12-13%; keine Erholungs- oder Ausbruchssignale.",
-    "decision": "Kein Trade. Tagesbudget bereits heute verbucht, keine erneute Gutschrift. NVDA (pos-0035) auf 160,85 USD aktualisiert (+0,37% seit Einstand) - Post-Earnings-Rebound haelt an, aber weit von Gewinn- oder Verlustschwelle entfernt. GOOGL (pos-0031) unveraendert bei 283,10 USD (-0,13%) belassen, da keine neue verlaessliche Kursquelle fuer heute gefunden wurde. Vor regulaerem US-Handelsbeginn (15:30 CET) kein Neuengagement in Aktien/ETFs/Rohstoffen moeglich. Kein Krypto-Neukauf trotz weiterhin reichlich freiem Kapital (ca. 103.339 EUR): Bitcoin/Solana bleiben bei unveraendert extremer Angststimmung (F&G 11) ohne neuen, mehrfach bestaetigten Katalysator.",
-    "reasoning": "Spekulatives Profil erlaubt kurzfristiges Trading, verlangt aber keinen Zwang zum Handeln. Der NVDA-Post-Earnings-Rebound ist real, aber mit +0,37% seit Kauf weiterhin weit von der etablierten Ziel- oder Stop-Loss-Schwelle entfernt - Position wird gehalten. GOOGL bewegt sich innerhalb eines engen Bands um den Einstand, kein Handlungsbedarf. Fuer den Kryptomarkt liefert die Recherche weiterhin keinen neuen, mehrfach bestaetigten Ausbruchs- oder Umkehrkatalysator (BTC weiterhin ca. 64.000 USD, F&G-Index 11); gemaess etablierter Strategie wird nur bei einer wirklich ueberzeugenden Gelegenheit gehandelt.",
+    "marketOverview": "US-Kassamarkt seit 15:30 CET offen. NVDA faellt auf 154,98 USD (-0,31% Tagesverlust, stockanalysis.com, 16:08 CET) und damit auf -3,29% seit Einstand (160,25 USD) - belastet von einer SEC-Untersuchung im Zuge des Fuehrungswechsels sowie gemischten Analysten-Kurszielanpassungen; kein neuer eigenstaendiger Negativkatalysator, sondern breitere Chip-Sektor-Vorsicht. GOOGL dagegen leicht fester bei 283,80 USD (+1,28% Tagesgewinn, +0,12% seit Einstand), ohne frischen Einzelkatalysator. Kryptomarkt weiterhin in extremer Angststimmung: Bitcoin bei ca. 63.533 USD (-1,6% 24h, CoinGecko), Fear&Greed-Index unveraendert bei 11 (Extreme Angst); auch bei Altcoins kein belastbarer, mehrfach bestaetigter Ausbruchskatalysator gefunden.",
+    "decision": "Kein Trade. Tagesbudget bereits heute verbucht, keine erneute Gutschrift. NVDA (pos-0035) auf 154,98 USD aktualisiert (-3,29% seit Einstand) - Verlust spuerbar gewachsen, aber noch deutlich innerhalb der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%), daher weiter gehalten. GOOGL (pos-0031) auf 283,80 USD aktualisiert (+0,12%), nahe Einstand. Kein Krypto-Neukauf trotz weiterhin reichlich freiem Kapital (ca. 103.339 EUR): Bitcoin/Altcoins bleiben bei unveraendert extremer Angststimmung (F&G 11) ohne neuen, mehrfach bestaetigten Katalysator.",
+    "reasoning": "Spekulatives Profil erlaubt kurzfristiges Trading, verlangt aber keinen Zwang zum Handeln. NVDA-Rueckgang auf -3,29% ist noch kein Stop-Loss-Fall; die urspruengliche These (Kontinuitaet durch erfahrene Interims-CEO, starke Q3-Zahlen) bleibt fundamental intakt, auch wenn die SEC-Untersuchung kurzfristig fuer Unsicherheit sorgt - Position wird beobachtet, nicht sofort glattgestellt. GOOGL bewegt sich weiterhin eng um den Einstand, kein Handlungsbedarf. Fuer den Kryptomarkt liefert die Recherche weiterhin keinen neuen, mehrfach bestaetigten Ausbruchs- oder Umkehrkatalysator (BTC weiterhin ca. 63.500 USD, F&G-Index 11); gemaess etablierter Strategie wird nur bei einer wirklich ueberzeugenden Gelegenheit gehandelt.",
     "positionIds": [
       "pos-0031",
       "pos-0035"
     ],
-    "portfolioValueEnd": 1802.7,
+    "portfolioValueEnd": 1768.04,
     "updates": [
       {
         "time": "00:08",
@@ -13663,6 +13663,11 @@
         "time": "15:10",
         "note": "Keine Aenderung; NVDA aktualisiert (~160,85 USD, +0,37% seit Einstand), GOOGL unveraendert (~283,10 USD, -0,13%). Noch vor regulaerem US-Handelsbeginn (15:30 CET). BTC weiter ~64.000 USD, Fear&Greed weiterhin 11 (Extreme Angst), kein Kaufsignal.",
         "portfolioValue": 1802.7
+      },
+      {
+        "time": "16:09",
+        "note": "Keine Aenderung. NVDA auf 154,98 USD gefallen (-3,29% seit Einstand, SEC-Untersuchung/Sektor-Vorsicht belastet), noch weit von Stop-Loss. GOOGL 283,80 USD (+0,12%). BTC ~63.533 USD, Fear&Greed weiterhin 11 (Extreme Angst), kein Kaufsignal.",
+        "portfolioValue": 1768.04
       }
     ]
   }
