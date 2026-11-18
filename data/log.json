@@ -13705,5 +13705,23 @@
         "portfolioValue": 1739.22
       }
     ]
+  },
+  {
+    "date": "2026-11-19",
+    "marketOverview": "Neuer Kalendertag (19.11.) kurz nach Mitternacht CET, US-Nachhandel vom 18.11. laeuft noch kurz nach. NVDA (pos-0035) zuletzt bestaetigt bei 150,65 USD (-5,99% seit Einstand 160,25 USD), knapp unter der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%); vereinzelte, nicht mehrfach unabhaengig bestaetigte Berichte deuten auf eine moegliche leichte Nachhandels-Erholung hin (Bestaetigung, dass Jensen Huang nicht als CEO zurueckkehrt, sowie ein angehobener Ausblick), werden aber mangels Bestaetigung nicht uebernommen. GOOGL (pos-0031) unveraendert bei 283,16 USD (-0,11%). Krypto weiterhin in Extreme Angst (Fear&Greed-Index ca. 11-14), Bitcoin um 62.000-64.000 USD, kein neuer, mehrfach bestaetigter Ausbruchskatalysator.",
+    "decision": "Kein Trade. Tagesbudget (1.000 EUR) fuer den neuen Kalendertag einmalig gutgeschrieben, freies Kapital entsprechend erhoeht. NVDA und GOOGL unveraendert gehalten (keine verlaesslich bestaetigte neue Kursbewegung, US-Kassamarkt derzeit geschlossen). Keine Neuposition, da der Kryptomarkt weiterhin ohne ueberzeugenden, mehrfach bestaetigten Katalysator in Extreme-Angst-Stimmung verharrt.",
+    "reasoning": "Um 00:08 CET beginnt laut Systemzeit ein neuer Kalendertag, daher einmalige Tagesbudget-Gutschrift gemaess Kapitalregeln (lastGrantDate war 18.11., jetzt 19.11.). Fuer NVDA kursieren vereinzelte, widersprüchliche und nicht mehrfach unabhaengig bestaetigte Berichte ueber eine moegliche leichte Nachhandels-Erholung; da kein konsistenter, mehrfach bestaetigter aktueller Kurs ermittelbar war, wird der zuletzt bestaetigte Stand (150,65 USD, -5,99%) unveraendert uebernommen - die Position bleibt knapp unter der Stop-Loss-Schwelle und wird im naechsten Lauf weiter beobachtet. GOOGL zeigt keine neue Bewegung. Trotz hohem freiem Kapital keine Neuposition, da Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten nicht handelbar sind und der Kryptomarkt (Fear&Greed 11-14, Extreme Angst) kein mehrfach bestaetigtes Ausbruchssignal liefert.",
+    "positionIds": [
+      "pos-0031",
+      "pos-0035"
+    ],
+    "portfolioValueEnd": 1739.22,
+    "updates": [
+      {
+        "time": "00:08",
+        "note": "Neuer Tag: Tagesbudget gutgeschrieben. Kein Trade. NVDA/GOOGL unveraendert (150,65 / 283,16 USD), unbestaetigte NVDA-Erholungsmeldungen nicht uebernommen. Krypto weiter Extreme Angst (F&G ca. 11-14), kein Kaufsignal.",
+        "portfolioValue": 1739.22
+      }
+    ]
   }
 ]
