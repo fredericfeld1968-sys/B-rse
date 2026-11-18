@@ -13575,14 +13575,14 @@
   },
   {
     "date": "2026-11-18",
-    "marketOverview": "US-Maerkte im regulaeren Handel (NYSE/Nasdaq seit 15:30 CET offen): NVDA faellt weiter auf 151,28 USD (-2,69% zum Vortagesschluss, -5,60% seit Einstand), belastet durch Analysten-Kurszielsenkungen, den Stopp der Hopper-Chip-Lieferungen nach China trotz US-Genehmigung sowie die bevorstehende Senats-/Kongressanhoerung von Ex-CEO Jensen Huang (1.12.). GOOGL bei 280,93 USD (+0,26% heute), naeherungsweise seitwaerts seit Einstand. Kryptomarkt weiterhin in extremer Angststimmung (Fear&Greed-Index 11), Bitcoin bei ca. 63.065 USD (-1,17% 24h via CoinGecko), kein Erholungssignal.",
-    "decision": "Kein Trade. Tagesbudget bereits heute verbucht, keine erneute Gutschrift. NVDA (pos-0035) weiter auf 151,28 USD gefallen (-5,60% seit Einstand) - Verlust naehert sich der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%), ist aber noch nicht erreicht, daher weiter gehalten. GOOGL (pos-0031) leicht im Minus bei 280,93 USD (-0,90% seit Einstand), kein Handlungsbedarf. Kein Krypto-Neukauf trotz reichlich freiem Kapital (ca. 103.339 EUR): Fear&Greed-Index weiterhin bei 11 (Extreme Angst), kein neuer Katalysator fuer einen Einstieg.",
-    "reasoning": "Live-Kursabfrage (stockanalysis.com, Stand 13:07 EST) bestaetigt NVDA bei 151,28 USD und GOOGL bei 280,93 USD. NVDA bleibt durch Fuehrungswechsel-Nachwehen (Huang-Anhoerung), China-Exportstopp und Analysten-Zielsenkungen belastet; der Rueckgang (-5,60% seit Einstand) liegt naeher an der Stop-Loss-Schwelle, hat sie aber noch nicht erreicht. GOOGL bewegt sich seitwaerts. Kryptomarkt bleibt in extremer Angst (F&G 11, BTC -1,17% 24h laut CoinGecko) ohne mehrfach bestaetigten Umkehr-Katalysator - daher weiterhin kein Neukauf trotz hohem freiem Kapital.",
+    "marketOverview": "US-Maerkte im regulaeren Handel (NYSE/Nasdaq seit 15:30 CET offen): NVDA leicht erholt auf 151,51 USD (-2,54% zum Vortagesschluss, -5,45% seit Einstand), nachdem der Kurs kurz zuvor bis auf 151,28 USD gefallen war - weiterhin belastet durch Analysten-Kurszielsenkungen, den Stopp der Hopper-Chip-Lieferungen nach China sowie die bevorstehende Kongressanhoerung von Ex-CEO Jensen Huang (1.12.), aber noch unter der Stop-Loss-Schwelle. GOOGL bei 282,77 USD (+0,92% heute, -0,25% seit Einstand), seitwaerts. Kryptomarkt weiterhin in extremer Angststimmung (Fear&Greed-Index 11), Bitcoin bei ca. 62.798 USD (-1,51% 24h via CoinGecko), kein Erholungssignal.",
+    "decision": "Kein Trade. Tagesbudget bereits heute verbucht, keine erneute Gutschrift. NVDA (pos-0035) leicht erholt auf 151,51 USD (-5,45% seit Einstand, zuvor kurzzeitig bei -5,60%) - weiterhin unter, aber nahe der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%), daher weiter gehalten. GOOGL (pos-0031) nahezu unveraendert bei 282,77 USD (-0,25% seit Einstand), kein Handlungsbedarf. Kein Krypto-Neukauf trotz reichlich freiem Kapital (ca. 103.339 EUR): Fear&Greed-Index weiterhin bei 11 (Extreme Angst), kein neuer bestaetigter Umkehrkatalysator.",
+    "reasoning": "Live-Kursabfrage (stockanalysis.com, Stand 14:07-14:08 EST) bestaetigt NVDA bei 151,51 USD (-2,54% Tagesverlust) und GOOGL bei 282,77 USD (+0,92% Tagesgewinn). NVDA bleibt durch Fuehrungswechsel-Nachwehen (Huang-Anhoerung), China-Exportstopp und Analysten-Zielsenkungen belastet, zeigt aber eine leichte Stabilisierung gegenueber dem letzten Lauf (-5,60% -> -5,45%) - Stop-Loss-Schwelle weiterhin nicht erreicht. GOOGL bewegt sich seitwaerts nahe Einstand. Kryptomarkt bleibt in extremer Angst (F&G 11, BTC -1,51% 24h laut CoinGecko) ohne mehrfach bestaetigten Umkehr-Katalysator - daher weiterhin kein Neukauf trotz hohem freiem Kapital.",
     "positionIds": [
       "pos-0031",
       "pos-0035"
     ],
-    "portfolioValueEnd": 1736.85,
+    "portfolioValueEnd": 1743.48,
     "updates": [
       {
         "time": "00:08",
@@ -13683,6 +13683,11 @@
         "time": "19:09",
         "note": "Keine Aenderung. NVDA weiter auf 151,28 USD gefallen (-5,60% seit Einstand, naehert sich Stop-Loss-Schwelle), GOOGL 280,93 USD (-0,90% seit Einstand). Krypto weiter Extreme Angst (F&G 11, BTC 63.065 USD/-1,17% 24h), kein Kaufsignal.",
         "portfolioValue": 1736.85
+      },
+      {
+        "time": "20:07",
+        "note": "Keine Aenderung. NVDA leicht erholt auf 151,51 USD (-5,45% seit Einstand, zuvor -5,60%), GOOGL 282,77 USD (-0,25% seit Einstand). Krypto weiter Extreme Angst (F&G 11, BTC 62.798 USD/-1,51% 24h), kein Kaufsignal.",
+        "portfolioValue": 1743.48
       }
     ]
   }
