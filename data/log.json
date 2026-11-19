@@ -13708,14 +13708,14 @@
   },
   {
     "date": "2026-11-19",
-    "marketOverview": "Erstmals seit mehreren Laeufen echte Live-Kurse gefunden (stockanalysis.com, 19.11.2026 10:10 Uhr EST / 16:10 Uhr CET, Marktoeffnung): GOOGL notiert bei 292,94 USD (Tagesplus +3,72%, +3,34% seit Kauf bei 283,47 USD), NVDA bei 155,50 USD (Tagesplus +3,01%, aber -2,96% seit Kauf bei 160,25 USD). Breite Markt-Rally zur Eroeffnung: Nasdaq-100 +1,9 bis +2,3%, S&P 500 +1,1%, Dow +0,7%, getrieben vom historischen Boersendebuet von Anthropic (IPO, Bewertung bis zu 2 Billionen USD, grosstes IPO ueberhaupt) - 'AI-Trade' wird wiederbelebt, trotz erhoehter Nervositaet (VIX 24,6) und einer rund 95% eingepreisten Fed-Zinserhoehung am 09.12. Kryptomarkt bleibt laut letzten verfuegbaren Daten (15.-17.11.) in tiefer Extreme Angst (Fear&Greed-Index ca. 10-20, Bitcoin ca. 65.000 USD, deutlich unter dem Oktober-Rekord von ca. 126.000 USD) ohne bestaetigten Umkehr-Katalysator.",
-    "decision": "Kein Trade in diesem Lauf (Stand 16:09 CET). GOOGL- und NVDA-Kurse erstmals seit Stunden auf verifizierte Live-Werte aktualisiert (292,94 / 155,50 USD); beide Positionen bleiben innerhalb ihrer Halteregeln (GOOGL +3,34% klar unter Zielspanne 7-9%, NVDA -2,96% klar innerhalb Stop-Loss-Schwelle -6,5/-7,5%), daher kein Verkauf. Tagesbudget war bereits heute gutgeschrieben (lastGrantDate 19.11.), keine erneute Gutschrift. Trotz sehr hohem freiem Kapital (~104.300 EUR) und einer breiten Markt-Rally (Nasdaq-100 +1,9-2,3%) keine Neuposition: die Rally ist ein marktbreites Sentiment-Ereignis rund um das Anthropic-IPO ohne einen einzelnen, mehrfach unabhaengig bestaetigten Einzeltitel-Katalysator vom bisher etablierten Trade-Muster (bestaetigter Ausbruch oder konkreter Dip-Kauf); Kryptomarkt bleibt tief in Extreme Angst ohne Kaufsignal - keine ueberzeugende Gelegenheit.",
-    "reasoning": "GOOGL (pos-0031): Live-Kurs 292,94 USD (stockanalysis.com, 10:10 EST), +3,34% seit Kauf (283,47 USD) - deutlich unter der etablierten Ziel-Gewinnspanne (7-9%, analog AMD, SpaceX, Meta u.a.), daher kein Verkauf. NVDA (pos-0035): Live-Kurs 155,50 USD (stockanalysis.com, 10:10 EST), -2,96% seit Kauf (160,25 USD) - der Titel bleibt nach dem Fuehrungswechsel (Ruecktritt Jensen Huang) volatil, liegt aber klar innerhalb der Stop-Loss-Schwelle (-6,5 bis -7,5%), daher weiterhin kein Verkauf. Neuposition: Trotz starker marktbreiter Eroeffnungs-Rally (Nasdaq-100 +1,9-2,3%, S&P500 +1,1%, Dow +0,7%) anlaesslich des Anthropic-Boersendebuets wurde kein einzelner, mehrfach unabhaengig bestaetigter Katalysator fuer einen neuen Einzeltitel identifiziert (anders als bei fruehreren erfolgreichen Trades mit klarem Dip- oder Ausbruchssignal); ein Investment in die Anthropic-Aktie selbst wird bewusst nicht in Erwaegung gezogen, um einen Interessenkonflikt zu vermeiden. Kryptomarkt bleibt laut letzten Daten in tiefer Extreme Angst (F&G ca. 10-20) ohne bestaetigtes Kaufsignal, daher kein Kauf.",
+    "marketOverview": "Stand 17:10 CET (11:10 ET): Breite Markt-Rally durch das historische Anthropic-Boersendebuet (IPO-Bewertung bis 1,5-2 Bio. USD, groesstes IPO ueberhaupt) haelt an, S&P 500 und Nasdaq 100 auf Kurs fuer die erste Tagesgewinn-Serie seit 5-6 Tagen nach vorangegangener AI-Stock-Schwaeche. GOOGL pendelt weiter um 289-294 USD (+3% seit Kauf), NVDA zeigt dagegen laut mehreren Quellen (Benzinga, Massive) ein Nachmittagsabruesten auf ca. 152-154 USD (von 155,50 USD am Morgen) - passend zu Berichten ueber erneut jittrige AI-/Chip-Werte trotz der positiven Gesamtstimmung. Kryptomarkt bleibt ohne aktuelle Tagesdaten weiter in tiefer Angst-Stimmung (zuletzt F&G ca. 10-20, BTC ca. 65.000 USD), kein bestaetigter Umkehr-Katalysator. Keine einzelne, mehrfach bestaetigte Einzeltitel-Meldung (abgesehen vom marktbreiten Anthropic-IPO-Sentiment) gefunden.",
+    "decision": "Kein Trade in diesem Lauf (Stand 17:10 CET). GOOGL (292,00 USD, +3,01%) und NVDA (153,00 USD, -4,52%) bleiben beide klar innerhalb ihrer Halteregeln (Zielspanne 7-9% bzw. Stop-Loss -6,5/-7,5%), daher keine Verkaeufe. Tagesbudget wurde bereits heute gutgeschrieben (lastGrantDate 19.11.), keine erneute Gutschrift. Trotz sehr hohem freiem Kapital (~104.300 EUR) und der anhaltenden Anthropic-IPO-Rally keine Neuposition: die Bewegung bleibt ein marktbreites Sentiment-Ereignis ohne einzelnen, mehrfach unabhaengig bestaetigten Einzeltitel-Katalysator im etablierten Trade-Muster (bestaetigter Ausbruch oder konkreter Dip-Kauf); Kryptomarkt weiter ohne Kaufsignal.",
+    "reasoning": "Kursupdate GOOGL/NVDA auf aktuellste verfuegbare Werte. Keine ueberzeugende, einzeltitelbezogene Gelegenheit identifiziert, die ueber das bereits am 16:09-Lauf bewertete marktbreite IPO-Sentiment hinausgeht; Stop-Loss/Take-Profit-Schwellen bei beiden offenen Positionen nicht erreicht.",
     "positionIds": [
       "pos-0031",
       "pos-0035"
     ],
-    "portfolioValueEnd": 1797.09,
+    "portfolioValueEnd": 1778.83,
     "updates": [
       {
         "time": "00:08",
@@ -13801,6 +13801,11 @@
         "time": "16:09",
         "note": "Keine Aenderung. Erste echte Live-Kurse heute: GOOGL 292,94 USD (+3,34% seit Kauf), NVDA 155,50 USD (-2,96% seit Kauf). Breite Rally zur Markteroeffnung (Nasdaq-100 +1,9-2,3%) wegen Anthropic-IPO-Debuet, aber kein einzelner bestaetigter Kaufkatalysator. Krypto weiter Extreme Angst, kein Kaufsignal.",
         "portfolioValue": 1797.09
+      },
+      {
+        "time": "17:10",
+        "note": "Keine Aenderung. GOOGL leicht auf 292,00 USD (+3,01%), NVDA auf 153,00 USD (-4,52%, Nachmittags-Ruecksetzer von 155,50) aktualisiert. Anthropic-IPO-Rally haelt an, aber kein Einzeltitel-Kaufsignal. Krypto weiter ohne Daten/Kaufsignal.",
+        "portfolioValue": 1778.83
       }
     ]
   }
