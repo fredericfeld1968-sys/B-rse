@@ -13709,15 +13709,15 @@
   {
     "date": "2026-11-19",
     "marketOverview": [
-      "Keine neuen bestaetigten Kursdaten fuer GOOGL/NVDA seit dem letzten Lauf (10:10) gefunden - beide weiterhin vorboerslich (US-Kassamarkt oeffnet erst 15:30 CET), daher GOOGL bei 291,00 USD (+2,66% seit Kauf) und NVDA bei 153,75 USD (-4,06% seit Kauf) unveraendert belassen. Uebergeordnetes Marktbild bestaetigt den Risk-off-Ton: Laut Bloomberg-Berichten steht der S&P 500 im November mit ueber -3% vor seinem schlechtesten Monat seit 2008 (anhaltende AI-Bewertungs-Sorgen), asiatische Boersen zeigten sich dennoch leicht erholt. Nvidia hatte am 16./17.11. ein 52-Wochen-Tief erreicht; fuer den heutigen Tag liegt keine neue, mehrfach bestaetigte Einzelmeldung vor. Kryptomarkt verbleibt in tiefer Extreme Angst (Fear&Greed zuletzt bei 10, Bitcoin im Bereich 62.000-65.000 USD je nach Quelle, weiterhin klar unter den fruaheren Hochs) - kein Kaufsignal erkennbar."
+      "GOOGL sprang im vorboerslichen Handel kraeftig auf ca. 294,64-294,74 USD (+4,3-4,4% ggue. Schlusskurs 282,44 USD, cross-verifiziert stockanalysis.com und Yahoo Finance), ohne dass bislang eine spezifische Nachrichtenquelle den Sprung erklaert - Vorsicht bei vorboerslichen Bewegungen mit duennem Volumen, daher trotz Ueberschreitens der bisherigen Gewinnspanne (3,94%) kein Verkauf, da weiterhin unter dem etablierten Zielkorridor 7-9%. NVDA notiert vorboerslich bei 153,93 USD (+1,97% ggue. Schlusskurs 150,96 USD, -3,94% seit Kauf), nach wie vor deutlich unter dem 52-Wochen-Tief-Niveau infolge des ueberraschenden Ruecktritts von CEO Jensen Huang (SEC-8-K, CFO Colette Kress interimistisch) - aktuelle Schlagzeilen drehen sich um die Nachfolgesuche (u.a. Arm-CEO Rene Haas im Gespraech) und eine Herabstufung des Credit-Outlooks durch Moodys; Position bleibt klar unter der Stop-Loss-Schwelle (-6,5 bis -7,5%). Gesamtmarkt: S&P 500 schloss am 17.11. bei 7.340,53 (-1%), Nasdaq bei 24.328,38 - naehert sich damit dem schlechtesten November seit 2008 (AI-Bewertungssorgen). Kryptomarkt verbleibt in tiefer Extreme Angst (Fear&Greed Index 10, gegenueber 11 am Vortag), Bitcoin weiterhin im Bereich 62.000-65.000 USD ohne neuen Kaufkatalysator."
     ],
-    "decision": "Kein Trade in diesem Lauf. GOOGL- und NVDA-Kurse unveraendert gegenueber dem letzten Lauf (10:10), da keine frischeren, bestaetigten Notierungen auffindbar waren (US-Markt weiterhin vor Handelsbeginn). Beide Positionen bleiben zwischen Stop-Loss- und Ziel-Gewinnspanne. Tagesbudget war bereits heute gutgeschrieben (lastGrantDate 19.11.), keine erneute Gutschrift. Trotz sehr hohem freiem Kapital (~104.300 EUR) keine Neuposition, da weiterhin keine mehrfach bestaetigte, ueberzeugende Gelegenheit vorliegt (Krypto tief in Extreme Angst ohne Bodenbildungssignal, Aktienmarkt im anhaltenden AI-Bewertungs-Abverkauf ohne frischen Einzeltitel-Katalysator, Rohstoffe/ETFs ohne aktuelle Kaufgelegenheit).",
-    "reasoning": "GOOGL (pos-0031): Keine neue Quelle mit frischerem Kurs als der vorboerslichen Notiz von 291,00 USD (+2,66% seit Kauf 283,47 USD) gefunden; Position bleibt klar unter der etablierten Ziel-Gewinnspanne (7-9%), daher kein Verkauf. NVDA (pos-0035): Keine neue Quelle mit frischerem Kurs als 153,75 USD (-4,06% seit Kauf 160,25 USD) gefunden; Position bleibt noch unter der Stop-Loss-Schwelle (-6,5 bis -7,5%), daher weiterhin kein Verkauf, aber engmaschige Beobachtung bei US-Marktoeffnung (15:30 CET). Neuposition: Trotz sehr hohem freiem Kapital weiterhin kein Kauf, da der Kryptomarkt in tiefer Extreme Angst (F&G 10) verharrt, der Aktienmarkt insgesamt im Zuge der AI-Bewertungsdebatte unter Druck steht (S&P 500 auf Kurs zum schlechtesten November seit 2008) und keine frische, mehrfach unabhaengig bestaetigte Einzelchance identifiziert werden konnte.",
+    "decision": "Kein Trade in diesem Lauf. GOOGL-Kurs vorboerslich deutlich auf 294,64 USD gestiegen (+3,94% seit Kauf), liegt damit aber weiterhin unter der etablierten Ziel-Gewinnspanne (7-9%) - zudem vorboerslich mit duennem Volumen und ohne bestaetigten Nachrichtenkatalysator, daher kein Verkauf. NVDA vorboerslich leicht fester bei 153,93 USD (-3,94% seit Kauf), bleibt klar unter der Stop-Loss-Schwelle. Tagesbudget war bereits heute gutgeschrieben (lastGrantDate 19.11.), keine erneute Gutschrift. Trotz sehr hohem freiem Kapital (~104.300 EUR) keine Neuposition: Aktien/ETFs/Rohstoffe vor Boersenoeffnung (15:30 CET) nicht handelbar, Kryptomarkt tief in Extreme Angst ohne Bodenbildungssignal - keine ueberzeugende Gelegenheit.",
+    "reasoning": "GOOGL (pos-0031): Vorboerslicher Sprung auf 294,64 USD (+4,3% ggue. Schlusskurs, cross-verifiziert zwei Quellen) wirkt wie eine reale Kursbewegung, aber ohne auffindbaren fundamentalen Ausloeser und bei typischerweise duennem Vorboersen-Volumen bleibt Vorsicht geboten; mit +3,94% seit Kauf liegt die Position zudem weiterhin klar unter der etablierten Ziel-Gewinnspanne (7-9%), daher kein Verkauf. NVDA (pos-0035): Preis vorboerslich kaum veraendert (153,93 USD, -3,94% seit Kauf); Nachfolgesuche nach Jensen Huang (Arm-CEO Rene Haas im Gespraech) und Moodys-Herabstufung belasten weiter, aber ohne neue Verschaerfung; Position bleibt zwischen Stop-Loss (-6,5 bis -7,5%) und Gewinnziel, daher weiterhin kein Verkauf. Neuposition: Boersenhandel fuer Aktien/ETFs/Rohstoffe oeffnet erst um 15:30 CET (aktuell vorboerslich), Krypto bleibt in tiefer Extreme Angst (F&G 10) ohne bestaetigten Kaufkatalysator - kein Kauf.",
     "positionIds": [
       "pos-0031",
       "pos-0035"
     ],
-    "portfolioValueEnd": 1780.7,
+    "portfolioValueEnd": 1792.09,
     "updates": [
       {
         "time": "00:08",
@@ -13778,6 +13778,11 @@
         "time": "11:08",
         "note": "Keine Aenderung. Keine frischeren GOOGL/NVDA-Kurse auffindbar (weiterhin vorboerslich), Kryptomarkt weiter in tiefer Extreme Angst, kein Kaufsignal.",
         "portfolioValue": 1780.7
+      },
+      {
+        "time": "12:09",
+        "note": "Kein Trade. GOOGL vorboerslich kraeftig auf 294,64 USD gesprungen (+3,94% seit Kauf, Ursache noch unklar), NVDA vorboerslich leicht fester (153,93 USD, -3,94%). Krypto weiter Extreme Angst (F&G 10), kein Kaufsignal.",
+        "portfolioValue": 1792.09
       }
     ]
   }
