@@ -13708,14 +13708,14 @@
   },
   {
     "date": "2026-11-19",
-    "marketOverview": "NVDA (pos-0035) weiterhin bei 150,96 USD (-5,80% seit Einstand 160,25 USD), knapp unter der Stop-Loss-Schwelle (-6,5 bis -7,5%); US-Kassamarkt bleibt um 06:08 CET geschlossen (Oeffnung erst 15:30 CET), daher weiterhin keine neuen bestaetigten Kursdaten seit Handelsschluss am 18.11. GOOGL (pos-0031) unveraendert bei 282,44 USD (-0,36% seit Einstand 283,47 USD). Kryptomarkt weiterhin in Extreme Angst: Bitcoin aktuell weiterhin ca. 62.000-64.000 USD (mehrfach unabhaengig bestaetigt, u.a. TokenPost, IBTimes AU), Fear&Greed-Index seit Tagen einstellig bis niedrig zweistellig (ca. 10-14), sechster Tag in Folge unter 25. Treiber bleiben FOMC-Signale fuer eine Fed-Zinserhoehung im Dezember sowie anhaltende Bitcoin-ETF-Abfluesse. Kein neuer, mehrfach bestaetigter Kaufkatalysator erkennbar.",
-    "decision": "Kein Trade in diesem Lauf. NVDA/GOOGL-Kurse unveraendert uebernommen, da Markt weiterhin geschlossen und keine neuen bestaetigten Kursdaten vorliegen. Tagesbudget war bereits heute gutgeschrieben (lastGrantDate 19.11.), daher keine erneute Gutschrift. Trotz hohem freiem Kapital keine Neuposition, da ausserhalb der Handelszeiten nur Krypto handelbar ist und der Kryptomarkt weiterhin in tiefer Extreme-Angst-Stimmung ohne ueberzeugenden, mehrfach bestaetigten Kaufkatalysator verharrt.",
-    "reasoning": "NVDA bleibt knapp unter der Stop-Loss-Schwelle (-5,80% vs. -6,5 bis -7,5%), daher weiterhin kein Verkauf, aber engmaschige Beobachtung im naechsten Lauf (insbesondere bei Boersenoeffnung 15:30 CET). GOOGL unveraendert, kein Handlungsbedarf. Fuer eine Neuposition in Krypto fehlt weiterhin ein ueberzeugender, mehrfach unabhaengig bestaetigter Katalysator: Bitcoin verbleibt tief im Extreme-Angst-Bereich ohne klares Bodenbildungssignal, getrieben von FOMC-Erwartungen und anhaltenden ETF-Abfluessen. Aktien/ETFs/Rohstoffe sind um diese Nachtzeit (06:08 CET) ohnehin nicht handelbar.",
+    "marketOverview": "NVDA (pos-0035) auf 159,92 USD aktualisiert (nachboerslicher Kurs vom 17.11. nach den Q3-Zahlen: Rekordumsatz 115,8 Mrd. USD, +103% YoY, EPS-Beat, Guidance 130 Mrd. USD fuer Q4; Aktie sprang nachboerslich rund +3-4%, nur noch -0,21% seit Einstand 160,25 USD statt zuvor -5,80% - Stop-Loss-Gefahr vorerst entschaerft). GOOGL (pos-0031) auf 295,77 USD aktualisiert (bestaetigter Schlusskurs vom 13.11.), damit +4,34% seit Einstand 283,47 USD statt zuvor -0,36% - noch unter der etablierten Zielspanne von 7-9%. US-Kassamarkt oeffnet erst um 15:30 CET, der europaeische Markt erst um 09:00 CET; um 07:10 CET sind daher weiterhin nur Kryptowerte handelbar. Kryptomarkt bleibt in tiefer Extreme Angst: Bitcoin zuletzt bei ca. 65.000 USD (CoinGecko/Fortune, 17.11.), deutlich unter dem Oktoberhoch, Fear&Greed-Index weiterhin einstellig bis niedrig zweistellig (ca. 10-13). Kein neuer, mehrfach bestaetigter Kaufkatalysator erkennbar.",
+    "decision": "Kein Trade in diesem Lauf, aber wichtiges Kursupdate fuer beide offenen Positionen (siehe marketOverview): NVDA-Stop-Loss-Risiko durch den nachboerslichen Kurssprung nach den Q3-Zahlen vorerst entschaerft, GOOGL zeigt moderaten Gewinn. Tagesbudget war bereits heute gutgeschrieben (lastGrantDate 19.11.), daher keine erneute Gutschrift. Trotz hohem freiem Kapital keine Neuposition, da Aktien/ETFs/Rohstoffe um diese Uhrzeit nicht handelbar sind und der Kryptomarkt weiterhin in tiefer Extreme-Angst-Stimmung ohne ueberzeugenden, mehrfach bestaetigten Kaufkatalysator verharrt.",
+    "reasoning": "NVDA: Der nachboerslich bestaetigte Kurssprung auf 159,92 USD nach starken Q3-Zahlen (Rekordumsatz, EPS-Beat, starke Q4-Guidance) entfernt die Position deutlich von der Stop-Loss-Schwelle (-6,5 bis -7,5%); kein Verkauf, da operatives Geschaeft stark bleibt und der CEO-Wechsel (Kress als Interims-CEO) bislang keine neue fundamentale Verschlechterung zeigt - weiterhin engmaschige Beobachtung bei regulaerer Boersenoeffnung. GOOGL: +4,34% liegt noch unter der etablierten Zielspanne (7-9%, analog AMD, SpaceX, Palantir, Meta), daher noch kein Gewinnmitnahme-Verkauf; kein neuer Negativkatalysator erkennbar. Fuer eine Neuposition in Krypto fehlt weiterhin ein ueberzeugender, mehrfach unabhaengig bestaetigter Katalysator: Bitcoin verbleibt tief im Extreme-Angst-Bereich ohne klares Bodenbildungssignal. Aktien/ETFs/Rohstoffe sind um diese Uhrzeit (07:10 CET, vor Boersenoeffnung) ohnehin nicht handelbar.",
     "positionIds": [
       "pos-0031",
       "pos-0035"
     ],
-    "portfolioValueEnd": 1739.12,
+    "portfolioValueEnd": 1832.65,
     "updates": [
       {
         "time": "00:08",
@@ -13751,6 +13751,11 @@
         "time": "06:08",
         "note": "Keine Aenderung. NVDA/GOOGL unveraendert (Markt geschlossen), BTC weiterhin ca. 62.000-64.000 USD, Krypto weiter in tiefer Extreme Angst (F&G ca. 10-14) ohne bestaetigten Kaufkatalysator.",
         "portfolioValue": 1739.12
+      },
+      {
+        "time": "07:10",
+        "note": "Kein Trade. Kursupdate: NVDA 159,92 USD (-0,21%, nachboerslicher Sprung nach starken Q3-Zahlen vom 17.11.), GOOGL 295,77 USD (+4,34%, Schlusskurs 13.11.). Krypto weiter Extreme Angst (BTC ca. 65.000 USD), kein Kaufsignal; Aktienmaerkte noch nicht geoeffnet.",
+        "portfolioValue": 1832.65
       }
     ]
   }
