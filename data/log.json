@@ -13708,14 +13708,14 @@
   },
   {
     "date": "2026-11-19",
-    "marketOverview": "Stand 17:10 CET (11:10 ET): Breite Markt-Rally durch das historische Anthropic-Boersendebuet (IPO-Bewertung bis 1,5-2 Bio. USD, groesstes IPO ueberhaupt) haelt an, S&P 500 und Nasdaq 100 auf Kurs fuer die erste Tagesgewinn-Serie seit 5-6 Tagen nach vorangegangener AI-Stock-Schwaeche. GOOGL pendelt weiter um 289-294 USD (+3% seit Kauf), NVDA zeigt dagegen laut mehreren Quellen (Benzinga, Massive) ein Nachmittagsabruesten auf ca. 152-154 USD (von 155,50 USD am Morgen) - passend zu Berichten ueber erneut jittrige AI-/Chip-Werte trotz der positiven Gesamtstimmung. Kryptomarkt bleibt ohne aktuelle Tagesdaten weiter in tiefer Angst-Stimmung (zuletzt F&G ca. 10-20, BTC ca. 65.000 USD), kein bestaetigter Umkehr-Katalysator. Keine einzelne, mehrfach bestaetigte Einzeltitel-Meldung (abgesehen vom marktbreiten Anthropic-IPO-Sentiment) gefunden.",
-    "decision": "Kein Trade in diesem Lauf (Stand 17:10 CET). GOOGL (292,00 USD, +3,01%) und NVDA (153,00 USD, -4,52%) bleiben beide klar innerhalb ihrer Halteregeln (Zielspanne 7-9% bzw. Stop-Loss -6,5/-7,5%), daher keine Verkaeufe. Tagesbudget wurde bereits heute gutgeschrieben (lastGrantDate 19.11.), keine erneute Gutschrift. Trotz sehr hohem freiem Kapital (~104.300 EUR) und der anhaltenden Anthropic-IPO-Rally keine Neuposition: die Bewegung bleibt ein marktbreites Sentiment-Ereignis ohne einzelnen, mehrfach unabhaengig bestaetigten Einzeltitel-Katalysator im etablierten Trade-Muster (bestaetigter Ausbruch oder konkreter Dip-Kauf); Kryptomarkt weiter ohne Kaufsignal.",
-    "reasoning": "Kursupdate GOOGL/NVDA auf aktuellste verfuegbare Werte. Keine ueberzeugende, einzeltitelbezogene Gelegenheit identifiziert, die ueber das bereits am 16:09-Lauf bewertete marktbreite IPO-Sentiment hinausgeht; Stop-Loss/Take-Profit-Schwellen bei beiden offenen Positionen nicht erreicht.",
+    "marketOverview": "Stand 18:09 CET (12:09 ET): US-Markt handelt gemischt, GOOGL nahezu unveraendert bei 283,43 USD (stockanalysis.com live), NVDA faellt weiter auf 148,95 USD (-1,33% heute) und setzt damit den seit dem 17.11. laufenden AI-/Chip-Sektor-Ausverkauf fort (hawkishe FOMC-Protokolle, jittrige Stimmung trotz starker NVDA-Q3-Zahlen vom 17.11. laut FXStreet). Kryptomarkt bleibt schwach: BTC ca. 62.300 USD (-0,8% 24h), ETH ca. 1.753 USD, SOL ca. 72,7 USD, kein Ausbruchssignal. Keine einzelne, mehrfach bestaetigte neue Einzeltitel-Kaufgelegenheit gefunden.",
+    "decision": "Verkauf NVDA (pos-0035) per Stop-Loss bei 148,95 USD (-7,05% seit Kauf 160,25 USD) - die etablierte Stop-Loss-Schwelle (-6,5 bis -7,5%) ist erreicht, der fortgesetzte Chip-Sektor-Ausverkauf laesst keine kurzfristige Erholung erwarten. GOOGL (283,43 USD, -0,01%) bleibt unveraendert offen, klar innerhalb der Halteregeln. Keine Neuposition in diesem Lauf: trotz durch den NVDA-Verkauf und das ohnehin sehr hohe freie Kapital (~105.300 EUR) verfuegbarer Mittel wurde keine ueberzeugende, mehrfach bestaetigte Einzeltitel-Gelegenheit gefunden (Kryptomarkt weiter ohne Ausbruch, keine frische Aktien-Einzelmeldung). Tagesbudget wurde bereits heute gutgeschrieben (lastGrantDate 19.11.), keine erneute Gutschrift.",
+    "reasoning": "NVDA erreichte die Stop-Loss-Schwelle dieses Portfolios; Position wird diszipliniert glattgestellt statt auf Erholung zu hoffen, da kein stuetzender Gegenkatalysator fuer den AI-/Chip-Sektor erkennbar ist. GOOGL-Kurs aktualisiert, Position unveraendert gehalten. Kein Neukauf mangels ueberzeugendem Katalysator.",
     "positionIds": [
       "pos-0031",
       "pos-0035"
     ],
-    "portfolioValueEnd": 1778.83,
+    "portfolioValueEnd": 799.89,
     "updates": [
       {
         "time": "00:08",
@@ -13806,6 +13806,11 @@
         "time": "17:10",
         "note": "Keine Aenderung. GOOGL leicht auf 292,00 USD (+3,01%), NVDA auf 153,00 USD (-4,52%, Nachmittags-Ruecksetzer von 155,50) aktualisiert. Anthropic-IPO-Rally haelt an, aber kein Einzeltitel-Kaufsignal. Krypto weiter ohne Daten/Kaufsignal.",
         "portfolioValue": 1778.83
+      },
+      {
+        "time": "18:09",
+        "note": "Verkauf NVDA -7,05% (Stop-Loss, 160,25 -> 148,95 USD). GOOGL auf 283,43 USD aktualisiert (-0,01%). Kein Neukauf mangels Katalysator.",
+        "portfolioValue": 799.89
       }
     ]
   }
