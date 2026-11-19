@@ -13708,14 +13708,14 @@
   },
   {
     "date": "2026-11-19",
-    "marketOverview": "Breiter Risk-off-Tag: Dow zeitweise -800 Pkt., Nasdaq/S&P im Minus trotz fulminantem Anthropic-Boersendebuet (Ticker ANT) an der Nasdaq, da Google parallel weitere 10 Mrd. USD in Anthropic investiert. Der seit dem Ruecktritt von Nvidia-CEO Jensen Huang anhaltende KI-/Chip-Sektor-Ausverkauf setzt sich fort (Hyperscaler-Capex-Sorgen). Krypto verharrt in Extremer Angst (Fear&Greed ~10), Bitcoin weiter schwach bei rund 63.800 USD nach -15% auf Wochensicht.",
-    "decision": "Kein Trade in diesem Lauf. Verkauf von NVDA (Stop-Loss, -7,05%) bereits um 18:09 erfolgt; seitdem keine neue ueberzeugende Gelegenheit. GOOGL-Position (pos-0031) bleibt offen, Kurs mangels frischerer Quelle unveraendert bei 280,68 USD (-0,98%) gefuehrt. Kein Krypto-Kauf trotz hohem freien Kapital, da Extreme Angst und anhaltender Abwaertstrend kein Einstiegssignal liefern.",
-    "reasoning": "Der breite Markt (Dow -800 Pkt. intraday) und der fortgesetzte KI-Sektor-Ausverkauf sprechen gegen neue Aktienkaeufe ohne klaren Einzeltitel-Katalysator. Die Anthropic-IPO-Rally ist kein handelbarer Katalysator fuer bestehende Positionen. Krypto in Extremer Angst ohne Stabilisierungssignal (BTC weiter abwaerts) ist kein Kaufzeitpunkt im spekulativen, aber momentum-basierten Profil. GOOGL (-0,98%) liegt deutlich unter der etablierten Stop-Loss-Schwelle von -6,5 bis -7,5%, daher weiter gehalten.",
+    "marketOverview": "Breiter Risk-off-Tag haelt bis zum Abend an: GOOGL gab im regulaeren Handel weiter nach (-2,46% heute auf 275,50 USD), der seit dem Ruecktritt von Nvidia-CEO Jensen Huang anhaltende KI-/Chip-Sektor-Ausverkauf setzt sich fort. Krypto verharrt in Extremer Angst (Fear&Greed 10), Bitcoin weiter schwach bei rund 62.170 USD, breiter Altcoin-Markt (ETH, SOL, XRP, ADA, AVAX) nahezu unveraendert ohne Erholungssignal.",
+    "decision": "Kein Trade in diesem Lauf. Verkauf von NVDA (Stop-Loss, -7,05%) bereits um 18:09 erfolgt; seitdem keine neue ueberzeugende Gelegenheit. GOOGL-Position (pos-0031) bleibt offen, Kurs auf 275,50 USD aktualisiert (-2,81% seit Kauf, noch deutlich unter der Stop-Loss-Schwelle). Kein Krypto-Kauf trotz hohem freien Kapital, da Extreme Angst (F&G 10) und fehlendes Stabilisierungssignal kein Einstiegssignal liefern.",
+    "reasoning": "Der breite Markt bleibt im Risk-off-Modus (fortgesetzter KI-/Chip-Sektor-Ausverkauf) ohne klaren Einzeltitel-Katalysator fuer neue Aktienkaeufe. Krypto in Extremer Angst (F&G 10) ohne Stabilisierungssignal (BTC/ETH/SOL/XRP/ADA/AVAX naehezu unveraendert) ist kein Kaufzeitpunkt im spekulativen, momentum-basierten Profil. GOOGL (-2,81%) liegt noch deutlich unter der etablierten Stop-Loss-Schwelle von -6,5 bis -7,5%, daher weiter gehalten.",
     "positionIds": [
       "pos-0031",
       "pos-0035"
     ],
-    "portfolioValueEnd": 792.13,
+    "portfolioValueEnd": 777.51,
     "updates": [
       {
         "time": "00:08",
@@ -13821,6 +13821,11 @@
         "time": "20:09",
         "note": "Keine Aenderung. GOOGL mangels frischerer Kursquelle unveraendert bei 280,68 USD (-0,98%) gefuehrt. Breiter Risk-off-Tag (Dow zeitweise -800 Pkt.) trotz Anthropic-IPO-Debuet, KI-/Chip-Ausverkauf haelt an. Krypto weiter Extreme Angst (F&G ~10, BTC ~63.800 USD), kein Kaufsignal.",
         "portfolioValue": 792.13
+      },
+      {
+        "time": "21:08",
+        "note": "Keine Aenderung. GOOGL auf 275,50 USD aktualisiert (-2,81% seit Kauf, -2,46% heute). KI-/Chip-Ausverkauf haelt an, Krypto weiter Extreme Angst (F&G 10, BTC ~62.170 USD). Kein Kaufsignal.",
+        "portfolioValue": 777.51
       }
     ]
   }
