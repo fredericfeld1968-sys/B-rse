@@ -13708,14 +13708,13 @@
   },
   {
     "date": "2026-11-19",
-    "marketOverview": "Stand 18:09 CET (12:09 ET): US-Markt handelt gemischt, GOOGL nahezu unveraendert bei 283,43 USD (stockanalysis.com live), NVDA faellt weiter auf 148,95 USD (-1,33% heute) und setzt damit den seit dem 17.11. laufenden AI-/Chip-Sektor-Ausverkauf fort (hawkishe FOMC-Protokolle, jittrige Stimmung trotz starker NVDA-Q3-Zahlen vom 17.11. laut FXStreet). Kryptomarkt bleibt schwach: BTC ca. 62.300 USD (-0,8% 24h), ETH ca. 1.753 USD, SOL ca. 72,7 USD, kein Ausbruchssignal. Keine einzelne, mehrfach bestaetigte neue Einzeltitel-Kaufgelegenheit gefunden.",
-    "decision": "Verkauf NVDA (pos-0035) per Stop-Loss bei 148,95 USD (-7,05% seit Kauf 160,25 USD) - die etablierte Stop-Loss-Schwelle (-6,5 bis -7,5%) ist erreicht, der fortgesetzte Chip-Sektor-Ausverkauf laesst keine kurzfristige Erholung erwarten. GOOGL (283,43 USD, -0,01%) bleibt unveraendert offen, klar innerhalb der Halteregeln. Keine Neuposition in diesem Lauf: trotz durch den NVDA-Verkauf und das ohnehin sehr hohe freie Kapital (~105.300 EUR) verfuegbarer Mittel wurde keine ueberzeugende, mehrfach bestaetigte Einzeltitel-Gelegenheit gefunden (Kryptomarkt weiter ohne Ausbruch, keine frische Aktien-Einzelmeldung). Tagesbudget wurde bereits heute gutgeschrieben (lastGrantDate 19.11.), keine erneute Gutschrift.",
-    "reasoning": "NVDA erreichte die Stop-Loss-Schwelle dieses Portfolios; Position wird diszipliniert glattgestellt statt auf Erholung zu hoffen, da kein stuetzender Gegenkatalysator fuer den AI-/Chip-Sektor erkennbar ist. GOOGL-Kurs aktualisiert, Position unveraendert gehalten. Kein Neukauf mangels ueberzeugendem Katalysator.",
+    "marketOverview": "Stand 19:07 CET (13:07 ET): US-Markt weiter im Minus, GOOGL faellt auf 280,68 USD (-0,62% heute, stockanalysis.com live), NVDA setzt die seit 17.11. laufende Chip-/AI-Sektor-Schwaeche fort (148,53 USD, -1,61% heute) - Belastungsfaktoren bleiben ein hawkisherer Fed-Ausblick (BofA erwartet laut TheStreet Zinserhoehungen bei den naechsten drei FOMC-Sitzungen) und ein eingebrochener NY-Fed-Geschaeftsklimaindex (25,5 -> 7,8 im November). Kryptomarkt bleibt in Extreme Angst (Fear&Greed-Index 10, Vortag 11): BTC ca. 62.689 USD (-0,6% 24h). Keine neue, mehrfach bestaetigte Einzeltitel-Kaufgelegenheit gefunden.",
+    "decision": "Kein Trade in diesem Lauf (19:07). GOOGL (pos-0031) auf aktuellen Kurs 280,68 USD aktualisiert (-0,98% seit Kauf, weiterhin klar innerhalb der Halteregeln). NVDA-Position bereits im vorherigen Lauf (18:09) per Stop-Loss glattgestellt. Trotz hohem freiem Kapital (~105.268 EUR) kein Neukauf: anhaltender Chip-/AI-Sektor-Ausverkauf und hawkisher Fed-Ausblick sprechen gegen Aktien-Dip-Kaeufe, Kryptomarkt in Extreme Angst ohne Ausbruchssignal. Tagesbudget bereits heute gutgeschrieben (lastGrantDate 19.11.), keine erneute Gutschrift.",
+    "reasoning": "Risikoprofil 'spekulativ' erlaubt kurzfristiges Trading, verlangt aber einen ueberzeugenden Katalysator fuer einen Neukauf - dieser fehlt aktuell sowohl bei Aktien (fortgesetzter AI-/Chip-Ausverkauf, hawkishe Fed-Erwartungen) als auch bei Krypto (Extreme Angst, Fear&Greed 10, keine Erholung). GOOGL wird unveraendert gehalten, da der Rueckgang (-0,98%) weit von der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%) entfernt ist. Keine der Positionen verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [
-      "pos-0031",
-      "pos-0035"
+      "pos-0031"
     ],
-    "portfolioValueEnd": 799.89,
+    "portfolioValueEnd": 792.13,
     "updates": [
       {
         "time": "00:08",
@@ -13811,6 +13810,11 @@
         "time": "18:09",
         "note": "Verkauf NVDA -7,05% (Stop-Loss, 160,25 -> 148,95 USD). GOOGL auf 283,43 USD aktualisiert (-0,01%). Kein Neukauf mangels Katalysator.",
         "portfolioValue": 799.89
+      },
+      {
+        "time": "19:07",
+        "note": "Keine Aenderung. GOOGL auf 280,68 USD aktualisiert (-0,98%). Chip-/AI-Sektor-Ausverkauf haelt an (NVDA -1,61% heute, bereits verkauft), Krypto weiter Extreme Angst (F&G 10). Kein Kaufsignal.",
+        "portfolioValue": 792.13
       }
     ]
   }
