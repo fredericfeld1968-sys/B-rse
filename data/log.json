@@ -13838,5 +13838,22 @@
         "portfolioValue": 773.78
       }
     ]
+  },
+  {
+    "date": "2026-11-20",
+    "marketOverview": "Kurz nach Mitternacht (00:08 CET) keine frischeren Marktdaten auffindbar als beim letzten Lauf: US-Kassamarkt bleibt bis 15:30 CET geschlossen, GOOGL zuletzt nachboerslich bei 274,18 USD (-3,28% seit Kauf) notiert. Kryptomarkt verharrte zuletzt in Extremer Angst (Fear&Greed-Index 10), Bitcoin um die 61.700 USD, Altcoins (ETH, SOL, AVAX, XRP, DOGE) durchweg leicht schwaecher ohne Erholungs- oder Ausbruchssignal.",
+    "decision": "Neuer Kalendertag: Tagesbudget gutgeschrieben (+1.000 EUR, gesamt zugeteiltes Neugeld jetzt 108.000 EUR). Kein Trade in diesem Lauf. GOOGL-Position (pos-0031) bleibt offen, Kurs mangels frischerer Datenlage unveraendert bei 274,18 USD (-3,28% seit Kauf, weiterhin deutlich unter der Stop-Loss-Schwelle von -6,5 bis -7,5%). Trotz sehr hohem freien Kapital kein Krypto-Kauf, da der Kryptomarkt laut letztem bestaetigten Stand weiter in Extremer Angst verharrt und kein Ausbruchs- oder Stabilisierungssignal vorliegt; Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten ohnehin nicht handelbar.",
+    "reasoning": "Es ist kurz nach Mitternacht, der US-Kassamarkt ist geschlossen und oeffnet erst am Nachmittag (15:30 CET), Aktien/ETFs/Rohstoffe sind daher nicht handelbar. Fuer Krypto liegt keine aktuellere Information vor als die Extreme-Angst-Lage (F&G 10) vom letzten Lauf; ohne bestaetigtes neues Signal wird passend zum spekulativen, aber katalysatorgetriebenen Ansatz auf einen Kauf verzichtet. Die offene GOOGL-Position bleibt innerhalb der Halteregeln (noch kein Stop-Loss erreicht) unverändert gehalten.",
+    "positionIds": [
+      "pos-0031"
+    ],
+    "portfolioValueEnd": 773.78,
+    "updates": [
+      {
+        "time": "00:08",
+        "note": "Neuer Tag: Tagesbudget gutgeschrieben (+1000 EUR, gesamt 108000 EUR). Kein Trade. GOOGL unveraendert (274,18 USD/-3,28%), keine frischere Kursquelle gefunden. Krypto weiter Extreme Angst (F&G 10 laut letztem Stand), kein Kaufsignal; US-Markt ausserhalb der Handelszeiten.",
+        "portfolioValue": 773.78
+      }
+    ]
   }
 ]
