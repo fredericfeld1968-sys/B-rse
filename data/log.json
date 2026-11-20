@@ -13841,13 +13841,13 @@
   },
   {
     "date": "2026-11-20",
-    "marketOverview": "Massiver chipgefuehrter Ausverkauf weitet sich zum Nachmittag aus: NVIDIA bricht intraday um -12,23% auf ca. 128,13 USD ein, AMD und Micron fuehren einen breiten Halbleiter-Crash an, Nasdaq verliert zeitweise fast -3%. S&P 500 und Dow bleiben in Korrektur (>10% unter Rekordhoch). GOOGL haelt sich demgegenueber weiterhin relativ robust bei 269,04 USD (-1,33% heute, -5,09% seit Kauf) - naehert sich der Haltespanne, ist aber noch nicht am Stop-Loss. Krypto bleibt in Extreme Angst, Bitcoin weiter schwach um die 58-60 Tsd. USD, kein Reversal-Signal.",
-    "decision": "Kein Trade in diesem Lauf. GOOGL-Position (pos-0031) bleibt offen, Kurs auf 269,04 USD aktualisiert (-5,09% seit Kauf, zuvor -3,67%) - rutscht weiter ab und naehert sich der Stop-Loss-Zone (-6,5 bis -7,5%), hat sie aber noch nicht erreicht; bisher keine Gewinnmitnahme-Naehe. Kein Krypto-Kauf: Fear&Greed-Index weiterhin in Extreme Angst, Bitcoin ohne Reversal-Signal. Keine neue Aktien-/ETF-/Rohstoffposition trotz geoeffnetem US-Kassamarkt: Der Halbleiter-Ausverkauf (NVDA -12,23% intraday) ist zu heftig und ungebodet fuer einen risikoadjustierten Dip-Kauf - keine ueberzeugende, abgesicherte Gelegenheit erkennbar.",
-    "reasoning": "Risikoprofil \"spekulativ\" erlaubt kurzfristiges Trading, erzwingt aber keinen Handel. GOOGL zeigt weiterhin relative Staerke gegenueber dem kollabierenden Chip-Sektor (NVDA -12,23% intraday), bleibt mit -5,09% aber noch unterhalb der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%), daher weiterhin halten und naechsten Lauf engmaschig beobachten. Fuer Neukaeufe fehlt angesichts des eskalierenden, noch ungebremsten Halbleiter-Crashs und der unveraendert extremen Angst im Kryptomarkt ein ueberzeugender, risikoadjustierter Einstiegspunkt - weder ein bestaetigter Boden noch ein klarer Einzeltitel-Katalysator. Keine der Positionen oder potenziellen Kaeufe verstoesst gegen Ausschlusslisten aus den Einstellungen.",
+    "marketOverview": "US-Boersenschluss (22:00 CET): Der chipgefuehrte Ausverkauf hat sich bis zum Handelsende weiter verschaerft - NVIDIA schliesst bei ca. 125,53 USD (-14,0% zum Vortagesschluss 145,98 USD), der Halbleitersektor fuehrt eine breite Nasdaq-Korrektur an. GOOGL schliesst bei 265,29 USD (-2,70% heute, zuvor 272,66 USD) und damit -6,41% seit Kauf (283,47 USD) - naeher an der Stop-Loss-Schwelle (-6,5 bis -7,5%) als je zuvor, aber noch knapp darunter. Krypto bleibt tief in Extreme Angst (Fear&Greed-Index 12): Bitcoin 58.316 USD (-5,84% 24h), Ethereum 1.601,99 USD (-8,76% 24h), Solana 67,30 USD (-7,60% 24h) - breiter, synchroner Abverkauf ohne Reversal-Signal, getrieben von anhaltenden ETF-Abfluessen und makrooekonomischen Sorgen (starker Dollar, Fed-Erwartungen).",
+    "decision": "Kein Trade in diesem Lauf. GOOGL-Position (pos-0031) bleibt offen, Kurs auf Schlussstand 265,29 USD aktualisiert (-6,41% seit Kauf, zuvor -5,09%) - sehr nah an, aber noch unterhalb der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%); wird im naechsten Lauf engmaschig ueberwacht. Kein Krypto-Kauf: Fear&Greed-Index unveraendert bei 12 (Extreme Angst), BTC/ETH/SOL alle synchron weiter im Minus (-5,8 bis -8,8% 24h) ohne jedes Bodenbildungs- oder Reversal-Signal - keine ueberzeugende Gelegenheit. US-Kassamarkt ist fuer heute geschlossen (22:00 CET), daher ohnehin keine neue Aktien-/ETF-/Rohstoffposition moeglich.",
+    "reasoning": "Risikoprofil \"spekulativ\" erlaubt kurzfristiges Trading, erzwingt aber keinen Handel. GOOGL rutscht zum Handelsschluss mit -6,41% erstmals sehr nah an die etablierte Stop-Loss-Schwelle heran, hat sie aber noch nicht erreicht (analog Rheinmetall -6,56%, NVIDIA pos-0010 -7,24%, XRP -6,57%) - konsequent weiterhalten bis die Schwelle tatsaechlich ueberschritten wird, nicht vorzeitig verkaufen. Fuer einen Krypto-Kauf fehlt trotz des starken Rueckgangs ein konkreter, bestaetigter Reversal-Katalysator (reiner fortgesetzter Abverkauf ist kein Kaufsignal, vgl. historische Stop-Loss-Faelle bei genau dieser Konstellation); ausserdem ist der US-Kassamarkt bereits geschlossen, sodass fuer Aktien/ETFs/Rohstoffe ohnehin kein Handel moeglich ist. Keine der Positionen oder potenziellen Kaeufe verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [
       "pos-0031"
     ],
-    "portfolioValueEnd": 759.28,
+    "portfolioValueEnd": 748.69,
     "updates": [
       {
         "time": "00:08",
@@ -13958,6 +13958,11 @@
         "time": "21:08",
         "note": "Keine Aenderung. GOOGL auf 269,04 USD aktualisiert (-1,33% heute, -5,09% seit Kauf, zuvor -3,67%) - naehert sich der Stop-Loss-Schwelle (-6,5 bis -7,5%), aber noch nicht erreicht. Massiver chipgefuehrter Ausverkauf: NVDA -12,23% intraday, AMD/Micron fuehren Halbleiter-Crash an, Nasdaq zeitweise -3%, S&P 500/Dow in Korrektur. Krypto weiter Extreme Angst, kein Kaufsignal. Keine neue Position trotz offenem US-Markt: keine ueberzeugende, abgesicherte Gelegenheit in diesem brutalen Ausverkauf.",
         "portfolioValue": 759.28
+      },
+      {
+        "time": "22:08",
+        "note": "Keine Aenderung. US-Markt hat geschlossen: GOOGL-Schlusskurs 265,29 USD (-2,70% heute, -6,41% seit Kauf, zuvor -5,09%) - sehr nah an Stop-Loss-Schwelle, aber noch nicht erreicht. NVDA schliesst bei 125,53 USD (-14,0%), Halbleiter-Crash haelt bis Handelsschluss an. Krypto weiter Extreme Angst (F&G 12), BTC 58.316 USD (-5,84% 24h), ETH/SOL ebenfalls schwaecher, kein Reversal-Signal, kein Kaufsignal. Kein Trade.",
+        "portfolioValue": 748.69
       }
     ]
   }
