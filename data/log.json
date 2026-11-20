@@ -13841,9 +13841,9 @@
   },
   {
     "date": "2026-11-20",
-    "marketOverview": "US-Kassamarkt weiterhin geschlossen (oeffnet erst 15:30 CET). GOOGL nachboerslich bei 273,31 USD (+0,24% ggue. Schlusskurs 272,66 USD, Stand 19.11. 19:59 ET) - damit -3,58% seit Kauf bei 283,47 USD, weiterhin deutlich unter der Stop-Loss-Schwelle von -6,5 bis -7,5%. Kryptomarkt verharrt laut CoinGecko/alternative.me weiter in Extremer Angst (Fear&Greed-Index 12), Bitcoin weiter gefallen auf ca. 61.340 USD (-2,2% in 24h), kein Erholungs- oder Ausbruchssignal bei Altcoins erkennbar.",
-    "decision": "Tagesbudget wurde bereits beim ersten Lauf des Tages (00:08) gutgeschrieben, daher keine erneute Gutschrift. Kein Trade in diesem Lauf. GOOGL-Position (pos-0031) bleibt offen, Kurs auf die nachboersliche Notierung 273,31 USD aktualisiert (-3,58% seit Kauf, innerhalb der Halteregeln, Stop-Loss nicht erreicht). Trotz hohem freien Kapital kein Krypto-Kauf, da der Kryptomarkt weiterhin in Extremer Angst (F&G 12) verharrt, BTC in den letzten 24h sogar weiter gefallen ist und kein bestaetigtes Ausbruchs- oder Stabilisierungssignal vorliegt; Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten ohnehin nicht handelbar.",
-    "reasoning": "Der US-Kassamarkt ist geschlossen und oeffnet erst am Nachmittag (15:30 CET), Aktien/ETFs/Rohstoffe sind daher nicht handelbar. Fuer Krypto bestaetigt die aktuelle Recherche weiterhin die Extreme-Angst-Lage (F&G 12) ohne neuen Katalysator, BTC weiter im Minus - passend zum spekulativen, aber katalysatorgetriebenen Ansatz wird auf einen Kauf verzichtet. Die offene GOOGL-Position bleibt innerhalb der Halteregeln (noch kein Stop-Loss erreicht) unveraendert gehalten, nur der Kurs wurde auf die aktuelle nachboersliche Notierung aktualisiert.",
+    "marketOverview": "US-Kassamarkt weiterhin geschlossen (oeffnet erst 15:30 CET), europaeische Boersen ebenfalls noch nicht offen. GOOGL nachboerslich unveraendert bei 273,31 USD (+0,24% ggue. Schlusskurs 272,66 USD) - weiterhin -3,58% seit Kauf bei 283,47 USD, deutlich unter der Stop-Loss-Schwelle. Kryptomarkt laut CoinGecko/alternative.me weiter in Extremer Angst (Fear&Greed-Index unveraendert bei 12), Bitcoin leicht erholt auf ca. 61.975 USD (-0,8% in 24h), Ethereum 1.742 USD, Solana 72,5 USD, kein Erholungs- oder Ausbruchssignal bei Altcoins erkennbar.",
+    "decision": "Tagesbudget wurde bereits beim ersten Lauf des Tages (00:08) gutgeschrieben, daher keine erneute Gutschrift. Kein Trade in diesem Lauf. GOOGL-Position (pos-0031) bleibt offen, Kurs unveraendert bei der nachboerslichen Notierung 273,31 USD (-3,58% seit Kauf, innerhalb der Halteregeln, Stop-Loss nicht erreicht). Trotz hohem freien Kapital kein Krypto-Kauf, da der Kryptomarkt weiterhin in Extremer Angst (F&G 12) verharrt und kein bestaetigtes Ausbruchs- oder Stabilisierungssignal vorliegt; Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten ohnehin nicht handelbar.",
+    "reasoning": "Der US-Kassamarkt ist geschlossen und oeffnet erst am Nachmittag (15:30 CET), europaeische Boersen oeffnen erst um 9:00 CET - Aktien/ETFs/Rohstoffe sind daher nicht handelbar. Fuer Krypto bestaetigt die aktuelle Recherche weiterhin die Extreme-Angst-Lage (F&G 12, unveraendert) ohne neuen Katalysator; BTC zeigt zwar eine leichte Stabilisierung (+0,6% ggue. letztem Lauf), aber keinen bestaetigten Ausbruch. Passend zum spekulativen, aber katalysatorgetriebenen Ansatz wird auf einen Kauf verzichtet. Die offene GOOGL-Position bleibt innerhalb der Halteregeln (noch kein Stop-Loss erreicht) unveraendert gehalten, der Kurs war bereits auf dem aktuellen Stand.",
     "positionIds": [
       "pos-0031"
     ],
@@ -13867,6 +13867,11 @@
       {
         "time": "03:08",
         "note": "Keine Aenderung. GOOGL nachboerslich leicht auf 273,31 USD (-3,58%). Krypto weiter Extreme Angst (F&G 12), BTC weiter auf ca. 61.340 USD gefallen (-2,2% 24h), kein Kaufsignal. US-Markt ausserhalb der Handelszeiten.",
+        "portfolioValue": 771.33
+      },
+      {
+        "time": "04:09",
+        "note": "Keine Aenderung. GOOGL unveraendert nachboerslich bei 273,31 USD (-3,58%). Krypto weiter Extreme Angst (F&G 12, unveraendert), BTC leicht erholt auf ca. 61.975 USD (-0,8% 24h), kein Kaufsignal. US-/EU-Maerkte ausserhalb der Handelszeiten.",
         "portfolioValue": 771.33
       }
     ]
