@@ -13841,13 +13841,13 @@
   },
   {
     "date": "2026-11-20",
-    "marketOverview": "GOOGL im US-Vorhandel weiter leicht schwaecher bei 270,75 USD (-0,70% zum gestrigen Schlusskurs 272,66 USD; Stand 8:10 ET/14:10 CET, stockanalysis.com) - nach dem kurzen Zwischenhoch gegen Mittag wieder etwas zuruecksetzend, kein neuer Katalysator. Krypto-Fear&Greed-Index bei alternative.me weiterhin bestaetigt auf 12 (Extreme Angst); Bitcoin (CoinGecko, live) bei ca. 61.561 USD (-3,57% 24h), Ethereum 1.736,92 USD (-3,95% 24h), Solana 70,98 USD (-5,05% 24h) - der synchronisierte Risk-off-Schub bei Krypto haelt unveraendert an, keine Bodenbildung erkennbar. Keine frische, mehrfach bestaetigte Wirtschafts- oder Geopolitik-Meldung fuer den 20.11. gefunden; EU-Boersen seit 9:00 CET offen, US-Kassamarkt oeffnet erst um 15:30 CET.",
-    "decision": "Kein Trade in diesem Lauf. GOOGL-Position (pos-0031) bleibt offen, Kurs auf 270,75 USD aktualisiert (-4,49% seit Kauf, zuvor -3,64%) - weiterhin klar innerhalb der etablierten Halteregeln. Kein Krypto-Kauf: Fear&Greed-Index weiterhin bei 12 (Extreme Angst), BTC/ETH/SOL synchron schwaecher (-3,6 bis -5,1% 24h) ohne Ausbruchs- oder Reversal-Signal. Keine neue Aktien-/ETF-/Rohstoffposition, da trotz geoeffneter EU-Boerse kein ueberzeugender frischer Katalysator vorliegt.",
-    "reasoning": "Die Marktlage hat sich gegenueber dem letzten Lauf (13:10 CET) kaum veraendert, GOOGL tendiert im Vorhandel sogar wieder leicht schwaecher (-4,49% seit Kauf) - die Position bleibt damit weiterhin deutlich innerhalb der Halteschwelle (Stop-Loss erst ab ca. -6,5% bis -7,5%). Der Kryptomarkt verbleibt unveraendert in Extreme Angst (F&G 12), alle grossen Coins (BTC, ETH, SOL) fallen synchron weiter ohne neuen, mehrfach bestaetigten Trendwende-Katalysator - daher kein Einstieg. Fuer Aktien/ETFs/Rohstoffe liefert die Websuche trotz geoeffneter EU-Boerse keine neue, auf den 20.11. datierte Markttreiber-Meldung; passend zum Grundsatz, nur bei einer wirklich ueberzeugenden Gelegenheit zu handeln, wird daher in diesem Lauf erneut auf jede Neuposition verzichtet.",
+    "marketOverview": "GOOGL im US-Vorhandel minimal erholt bei 271,66 USD (-0,37% zum gestrigen Schlusskurs 272,66 USD; Stand 9:09 ET/15:09 CET, stockanalysis.com) - weiterhin kein neuer Katalysator. Krypto-Fear&Greed-Index bei alternative.me unveraendert auf 12 (Extreme Angst); Bitcoin (CoinGecko, live) bei ca. 61.816 USD (-3,24% 24h), Ethereum 1.751,02 USD (-3,26% 24h), Solana 71,29 USD (-4,97% 24h) - der synchronisierte Risk-off-Schub bei Krypto haelt weiter unveraendert an, keine Bodenbildung erkennbar. Keine frische, mehrfach bestaetigte Wirtschafts- oder Geopolitik-Meldung fuer den 20.11. gefunden; EU-Boersen offen, US-Kassamarkt oeffnet in Kuerze um 15:30 CET.",
+    "decision": "Kein Trade in diesem Lauf. GOOGL-Position (pos-0031) bleibt offen, Kurs auf 271,66 USD aktualisiert (-4,17% seit Kauf, zuvor -4,49%) - weiterhin klar innerhalb der etablierten Halteregeln. Kein Krypto-Kauf: Fear&Greed-Index weiterhin bei 12 (Extreme Angst), BTC/ETH/SOL synchron schwaecher (-3,2 bis -5,0% 24h) ohne Ausbruchs- oder Reversal-Signal. Keine neue Aktien-/ETF-/Rohstoffposition, da trotz geoeffneter EU-Boerse kein ueberzeugender frischer Katalysator vorliegt.",
+    "reasoning": "Die Marktlage hat sich gegenueber dem letzten Lauf (14:10 CET) kaum veraendert, GOOGL erholt sich im Vorhandel sogar leicht (-4,17% seit Kauf, zuvor -4,49%) - die Position bleibt damit weiterhin deutlich innerhalb der Halteschwelle (Stop-Loss erst ab ca. -6,5% bis -7,5%). Der Kryptomarkt verbleibt unveraendert in Extreme Angst (F&G 12), alle grossen Coins (BTC, ETH, SOL) fallen synchron weiter ohne neuen, mehrfach bestaetigten Trendwende-Katalysator - daher kein Einstieg. Fuer Aktien/ETFs/Rohstoffe liefert die Websuche trotz geoeffneter EU-Boerse keine neue, auf den 20.11. datierte Markttreiber-Meldung; passend zum Grundsatz, nur bei einer wirklich ueberzeugenden Gelegenheit zu handeln, wird daher in diesem Lauf erneut auf jede Neuposition verzichtet.",
     "positionIds": [
       "pos-0031"
     ],
-    "portfolioValueEnd": 764.1,
+    "portfolioValueEnd": 766.68,
     "updates": [
       {
         "time": "00:08",
@@ -13923,6 +13923,11 @@
         "time": "14:10",
         "note": "Keine Aenderung. GOOGL im Vorhandel leicht schwaecher auf 270,75 USD (-4,49% seit Kauf, zuvor -3,64%). Krypto-F&G bestaetigt auf 12 (Extreme Angst), BTC/ETH/SOL synchron schwaecher (-3,6 bis -5,1% 24h), kein Kaufsignal. EU-Boerse offen, kein ueberzeugender Katalysator; US-Markt noch ausserhalb der Handelszeiten.",
         "portfolioValue": 764.1
+      },
+      {
+        "time": "15:09",
+        "note": "Keine Aenderung. GOOGL im Vorhandel leicht erholt auf 271,66 USD (-4,17% seit Kauf, zuvor -4,49%). Krypto-F&G bestaetigt auf 12 (Extreme Angst), BTC/ETH/SOL weiter synchron schwaecher (-3,2 bis -5,0% 24h), kein Kaufsignal. EU-Boerse offen, kein ueberzeugender Katalysator; US-Markt oeffnet in Kuerze (15:30 CET).",
+        "portfolioValue": 766.68
       }
     ]
   }
