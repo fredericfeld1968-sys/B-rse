@@ -13841,13 +13841,13 @@
   },
   {
     "date": "2026-11-20",
-    "marketOverview": "US-Kassamarkt weiterhin geschlossen (oeffnet erst 15:30 CET), GOOGL schloss am 19.11. bei 272,66 USD (-3,81% seit Kauf bei 283,47 USD) - Alphabet bleibt nach dem Q3-Kurssturz in einem technischen Baerenmarkt (ueber 30% unter Jahreshoch), noch deutlich unter der Stop-Loss-Schwelle. Kryptomarkt verharrt laut CoinDesk/CoinGecko weiter in Extremer Angst (Fear&Greed-Index ca. 12-22, je Quelle), Bitcoin um die 63.000-64.000 USD und rund 26% unter seinem Oktoberhoch, kein Erholungs- oder Ausbruchssignal bei Altcoins erkennbar.",
-    "decision": "Tagesbudget wurde bereits beim ersten Lauf des Tages (00:08) gutgeschrieben, daher keine erneute Gutschrift. Kein Trade in diesem Lauf. GOOGL-Position (pos-0031) bleibt offen, Kurs aktualisiert auf 272,66 USD (-3,81% seit Kauf, weiterhin innerhalb der Halteregeln, Stop-Loss-Schwelle -6,5 bis -7,5% nicht erreicht). Trotz sehr hohem freien Kapital kein Krypto-Kauf, da der Kryptomarkt laut mehreren unabhaengigen Quellen (CoinDesk, CoinGecko) weiter in Extremer Angst verharrt und kein bestaetigtes Ausbruchs- oder Stabilisierungssignal vorliegt; Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten ohnehin nicht handelbar.",
-    "reasoning": "Der US-Kassamarkt ist geschlossen und oeffnet erst am Nachmittag (15:30 CET), Aktien/ETFs/Rohstoffe sind daher nicht handelbar. Fuer Krypto bestaetigen mehrere unabhaengige Quellen weiterhin die Extreme-Angst-Lage (F&G ca. 12-22) ohne neuen Katalysator; passend zum spekulativen, aber katalysatorgetriebenen Ansatz wird auf einen Kauf verzichtet. Die offene GOOGL-Position bleibt innerhalb der Halteregeln (noch kein Stop-Loss erreicht) unveraendert gehalten, nur der Kurs wurde auf den aktuellen Schlusskurs aktualisiert.",
+    "marketOverview": "US-Kassamarkt weiterhin geschlossen (oeffnet erst 15:30 CET). GOOGL schloss am 19.11. bei 272,66 USD (-3,46% Tagesverlust) und erholt sich nachboerslich leicht auf 273,28 USD (+0,23%, Stand 19.11. 19:58 ET) - damit -3,59% seit Kauf bei 283,47 USD, weiterhin deutlich unter der Stop-Loss-Schwelle von -6,5 bis -7,5%. Kryptomarkt verharrt laut CoinGecko/alternative.me weiter in Extremer Angst (Fear&Greed-Index 12), Bitcoin bei rund 62.160 USD (-1,6% in 24h), kein Erholungs- oder Ausbruchssignal bei Altcoins erkennbar.",
+    "decision": "Tagesbudget wurde bereits beim ersten Lauf des Tages (00:08) gutgeschrieben, daher keine erneute Gutschrift. Kein Trade in diesem Lauf. GOOGL-Position (pos-0031) bleibt offen, Kurs auf die nachboersliche Notierung 273,28 USD aktualisiert (-3,59% seit Kauf, innerhalb der Halteregeln, Stop-Loss nicht erreicht). Trotz hohem freien Kapital kein Krypto-Kauf, da der Kryptomarkt weiterhin in Extremer Angst (F&G 12) verharrt, BTC in den letzten 24h sogar nochmal leicht gefallen ist und kein bestaetigtes Ausbruchs- oder Stabilisierungssignal vorliegt; Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten ohnehin nicht handelbar.",
+    "reasoning": "Der US-Kassamarkt ist geschlossen und oeffnet erst am Nachmittag (15:30 CET), Aktien/ETFs/Rohstoffe sind daher nicht handelbar. Fuer Krypto bestaetigt die aktuelle Recherche weiterhin die Extreme-Angst-Lage (F&G 12) ohne neuen Katalysator, BTC leicht im Minus - passend zum spekulativen, aber katalysatorgetriebenen Ansatz wird auf einen Kauf verzichtet. Die offene GOOGL-Position bleibt innerhalb der Halteregeln (noch kein Stop-Loss erreicht) unveraendert gehalten, nur der Kurs wurde auf die aktuelle nachboersliche Notierung aktualisiert.",
     "positionIds": [
       "pos-0031"
     ],
-    "portfolioValueEnd": 769.49,
+    "portfolioValueEnd": 771.24,
     "updates": [
       {
         "time": "00:08",
@@ -13858,6 +13858,11 @@
         "time": "01:08",
         "note": "Keine Aenderung. GOOGL-Kurs aktualisiert auf 272,66 USD (-3,81%, Schlusskurs 19.11.). Krypto weiter Extreme Angst (F&G ca. 12-22), kein Kaufsignal. US-Markt ausserhalb der Handelszeiten.",
         "portfolioValue": 769.49
+      },
+      {
+        "time": "02:07",
+        "note": "Keine Aenderung. GOOGL nachboerslich leicht erholt auf 273,28 USD (-3,59%). Krypto weiter Extreme Angst (F&G 12), BTC ca. 62.160 USD (-1,6% 24h), kein Kaufsignal. US-Markt ausserhalb der Handelszeiten.",
+        "portfolioValue": 771.24
       }
     ]
   }
