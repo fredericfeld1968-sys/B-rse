@@ -13841,13 +13841,13 @@
   },
   {
     "date": "2026-11-20",
-    "marketOverview": "GOOGL im regulaeren US-Handel leicht zurueckgekommen auf 276,95 USD (+1,57% heute, stockanalysis.com live, Stand 11:08 ET/17:08 CET), nach dem Zwischenhoch von 280,08 USD im vorigen Lauf - weiterhin kein eindeutiger Einzelkatalysator, Bewegung bleibt breiter marktgetrieben. Krypto-Fear&Greed-Index unveraendert bei 12 (Extreme Angst); Bitcoin (CoinGecko) weiter auf ca. 59.410 USD gefallen (-5,65% 24h), Ethereum 1.645,96 USD (-7,29% 24h), Solana 68,68 USD (-6,54% 24h) - synchronisierter Krypto-Risk-off verschaerft sich sogar leicht gegenueber dem Vorlauf.",
-    "decision": "Kein Trade in diesem Lauf. GOOGL-Position (pos-0031) bleibt offen, Kurs auf 276,95 USD aktualisiert (-2,30% seit Kauf, zuvor -1,20%) - klar innerhalb der Halteregeln, weder nahe Stop-Loss (-6,5 bis -7,5%) noch nahe Gewinn-Zielspanne (7-9%). Kein Krypto-Kauf: Fear&Greed-Index weiterhin bei 12 (Extreme Angst), BTC/ETH/SOL synchron weiter schwaecher (-5,6 bis -7,3% 24h) ohne Reversal-Signal. Keine neue Aktien-/ETF-/Rohstoffposition trotz geoeffnetem US-Kassamarkt, da keine zuverlaessig bestaetigte, konkrete Einzelkatalysator-Meldung fuer den 20.11. gefunden wurde.",
-    "reasoning": "GOOGL ist seit dem letzten Lauf (16:09 CET, -1,20%) leicht auf -2,30% zurueckgekommen - weiterhin klar innerhalb der Halteschwelle, kein Handlungsbedarf. Fuer Krypto bleibt die Lage unveraendert bis leicht schlechter: Fear&Greed-Index seit vielen Laeufen konstant bei 12 (Extreme Angst), alle drei groessten Coins fallen weiter synchron (-5,6 bis -7,3% 24h laut CoinGecko) ohne Reversal-Signal - kein Einstieg. Keine neue, konkrete und mehrfach bestaetigte Einzeltitel-Meldung fuer Aktien/ETFs/Rohstoffe gefunden, daher passend zum Grundsatz 'nur bei wirklich ueberzeugender Gelegenheit handeln' in diesem Lauf auf jede Neuposition verzichtet.",
+    "marketOverview": "Massiver Risk-off-Schub haelt an: Der Dow fiel gestern (19.11.) um 2,19% auf 49.097 Punkte und damit erstmals seit Juni unter die 50.000er-Marke, S&P 500 und Dow befinden sich in Korrektur (>10% unter Rekordhoch), Nasdaq -2,2% gestern bzw. rund -8% auf Wochensicht, ausgeloest durch den Boersengang von Anthropic (Kurs faellt rund 11% auf ca. 86 USD) und neu entflammte Sorgen um die AI-Bewertungen. NVIDIA faellt heute weiter intraday bis auf ca. 136-138 USD (-6,7%), nach bereits -3,3% gestern. GOOGL dagegen erholt sich im regulaeren US-Handel von 272,66 USD (Vortagesschluss) auf aktuell ca. 278 USD (+1,97% heute, -1,92% seit Kauf) - staerker als der uebrige Tech-Sektor. Krypto bleibt in Extreme Angst (Fear&Greed-Index 9-12), Bitcoin faellt unter 60.000-62.000 USD, Ethereum auf ca. 1.700-1.800 USD, getrieben von ueber 2,5 Mrd. USD Netto-Abfluessen aus US-Spot-Bitcoin-ETFs seit Monatsbeginn und einem hawkishen Fed-Ausblick.",
+    "decision": "Kein Trade in diesem Lauf. GOOGL-Position (pos-0031) bleibt offen, Kurs auf 278,02 USD aktualisiert (-1,92% seit Kauf, zuvor -2,30%) - leichte Erholung, klar innerhalb der Halteregeln (weder nahe Stop-Loss -6,5 bis -7,5% noch nahe Gewinn-Zielspanne 7-9%). Kein Krypto-Kauf: Fear&Greed-Index bei 9-12 (Extreme Angst), Bitcoin unter 60.000-62.000 USD, kein Reversal-Signal, nur fortgesetzter Ausverkauf. Keine neue Aktien-/ETF-/Rohstoffposition trotz geoeffnetem US-Kassamarkt: Der breite Markt befindet sich in einer Korrektur mit sehr schwacher Marktbreite (92% der S&P-500-Werte gestern im Minus), AI-/Chip-Sektor (NVDA -6,7% intraday) faellt weiter ohne bestaetigte Bodenbildung - keine ueberzeugende, hinreichend abgesicherte Dip-Kauf-Gelegenheit wie beim urspruenglichen GOOGL-Einstieg (dort klar identifizierter einmaliger Bewertungseffekt statt operativer Verschlechterung). Passend zum spekulativen Kurzfrist-Profil wird abgewartet, bis sich ein klareres Signal (Stop-Loss-Schwelle, Zielspanne oder ein neuer, konkret bestaetigter Katalysator) ergibt.",
+    "reasoning": "Risikoprofil 'spekulativ' mit erlaubtem kurzfristigem Trading, aber kein Zwang zu handeln: Die GOOGL-Position liegt mit -1,92% deutlich innerhalb der etablierten Haltespanne und zeigt sogar relative Staerke gegenueber dem einbrechenden AI-/Chip-Sektor (NVDA -6,7%), daher weiterhin halten. Fuer Neukaeufe fehlt angesichts der breiten, mehrtaegigen Korrektur an Aktienmaerkten (Dow <50.000, S&P/Dow in Korrektur, schwaechste Marktbreite des Jahres) und der extremen Angst im Kryptomarkt (F&G 9-12, BTC <60-62k) ein uebrzeugender, risikoadjustierter Einstiegspunkt - weder ein bestaetigter Boden noch ein klarer Einzeltitel-Katalysator analog zu bisherigen erfolgreichen Dip-Kaeufen ist erkennbar. Keine der Positionen oder potenziellen Kaeufe verstoesst gegen Ausschlusslisten aus den Einstellungen.",
     "positionIds": [
       "pos-0031"
     ],
-    "portfolioValueEnd": 781.6,
+    "portfolioValueEnd": 784.62,
     "updates": [
       {
         "time": "00:08",
@@ -13938,6 +13938,11 @@
         "time": "17:10",
         "note": "Keine Aenderung. GOOGL leicht zurueckgekommen auf 276,95 USD (+1,57% heute, -2,30% seit Kauf). Krypto weiter Extreme Angst (F&G 12), BTC/ETH/SOL synchron weiter schwaecher (-5,6 bis -7,3% 24h), kein Kaufsignal.",
         "portfolioValue": 781.6
+      },
+      {
+        "time": "18:08",
+        "note": "Keine Aenderung. GOOGL im regulaeren US-Handel erholt auf 278,02 USD (+1,97% heute, -1,92% seit Kauf, zuvor -2,30%). Breite US-Aktienkorrektur haelt an (Dow <50.000, NVDA -6,7% intraday), Krypto weiter Extreme Angst (F&G 9-12, BTC <60-62k), kein Kaufsignal.",
+        "portfolioValue": 784.62
       }
     ]
   }
