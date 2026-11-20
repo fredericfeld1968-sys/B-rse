@@ -13841,13 +13841,13 @@
   },
   {
     "date": "2026-11-20",
-    "marketOverview": "GOOGL im regulaeren US-Handel (seit 15:30 CET offen) deutlich erholt auf 280,08 USD (+2,72% heute, stockanalysis.com live, Stand 10:08 ET/16:08 CET) - naechste GOOGL-Katalysatoren weiterhin nicht eindeutig identifizierbar, Erholung wirkt breiter marktgetrieben. Krypto-Fear&Greed-Index unveraendert bei 12 (Extreme Angst); Bitcoin (CoinGecko) bei ca. 61.372 USD (-3,63% 24h), Ethereum 1.726,84 USD (-4,48% 24h), Solana 70,42 USD (-6,47% 24h) - synchronisierter Krypto-Risk-off haelt unveraendert an. Eine Marktmeldung zu einem angeblichen Anthropic-Boersendebuet samt 2% Nasdaq/S&P-Einbruch liess sich nicht zuverlaessig verifizieren (widersprach der live beobachteten GOOGL-Erholung) und wird daher nicht als Handelsgrundlage herangezogen.",
-    "decision": "Kein Trade in diesem Lauf. GOOGL-Position (pos-0031) bleibt offen, Kurs deutlich erholt auf 280,08 USD aktualisiert (-1,20% seit Kauf, zuvor -4,17%) - klar innerhalb der Halteregeln, kein Erreichen der Gewinn-Zielspanne (7-9%). Kein Krypto-Kauf: Fear&Greed-Index weiterhin bei 12 (Extreme Angst), BTC/ETH/SOL synchron schwaecher (-3,6 bis -6,5% 24h) ohne Ausbruchs- oder Reversal-Signal. Keine neue Aktien-/ETF-/Rohstoffposition trotz geoeffnetem US-Kassamarkt, da keine zuverlaessig bestaetigte, konkrete Einzelkatalysator-Meldung fuer den 20.11. vorliegt.",
-    "reasoning": "GOOGL hat sich seit dem letzten Lauf (15:09 CET, -4,17%) im regulaeren US-Handel deutlich auf -1,20% erholt - weiterhin klar innerhalb der Halteschwelle, aber auch noch nicht nahe der Gewinnmitnahme-Zielspanne, daher unveraendert halten. Fuer Krypto bleibt die Lage unveraendert: Fear&Greed-Index seit mehreren Laeufen konstant bei 12 (Extreme Angst), alle drei groessten Coins fallen synchron ohne Reversal-Signal - kein Einstieg. Eine gefundene Schlagzeile zu einem Anthropic-IPO mit angeblichem 2%-Einbruch von Nasdaq/S&P widerspricht der live verifizierten GOOGL-Erholung und konnte durch keine zweite Quelle bestaetigt werden; passend zum Grundsatz, nur bei einer wirklich ueberzeugenden und bestaetigten Gelegenheit zu handeln, wird diese Meldung nicht als Handelsgrundlage verwendet und in diesem Lauf auf jede Neuposition verzichtet.",
+    "marketOverview": "GOOGL im regulaeren US-Handel leicht zurueckgekommen auf 276,95 USD (+1,57% heute, stockanalysis.com live, Stand 11:08 ET/17:08 CET), nach dem Zwischenhoch von 280,08 USD im vorigen Lauf - weiterhin kein eindeutiger Einzelkatalysator, Bewegung bleibt breiter marktgetrieben. Krypto-Fear&Greed-Index unveraendert bei 12 (Extreme Angst); Bitcoin (CoinGecko) weiter auf ca. 59.410 USD gefallen (-5,65% 24h), Ethereum 1.645,96 USD (-7,29% 24h), Solana 68,68 USD (-6,54% 24h) - synchronisierter Krypto-Risk-off verschaerft sich sogar leicht gegenueber dem Vorlauf.",
+    "decision": "Kein Trade in diesem Lauf. GOOGL-Position (pos-0031) bleibt offen, Kurs auf 276,95 USD aktualisiert (-2,30% seit Kauf, zuvor -1,20%) - klar innerhalb der Halteregeln, weder nahe Stop-Loss (-6,5 bis -7,5%) noch nahe Gewinn-Zielspanne (7-9%). Kein Krypto-Kauf: Fear&Greed-Index weiterhin bei 12 (Extreme Angst), BTC/ETH/SOL synchron weiter schwaecher (-5,6 bis -7,3% 24h) ohne Reversal-Signal. Keine neue Aktien-/ETF-/Rohstoffposition trotz geoeffnetem US-Kassamarkt, da keine zuverlaessig bestaetigte, konkrete Einzelkatalysator-Meldung fuer den 20.11. gefunden wurde.",
+    "reasoning": "GOOGL ist seit dem letzten Lauf (16:09 CET, -1,20%) leicht auf -2,30% zurueckgekommen - weiterhin klar innerhalb der Halteschwelle, kein Handlungsbedarf. Fuer Krypto bleibt die Lage unveraendert bis leicht schlechter: Fear&Greed-Index seit vielen Laeufen konstant bei 12 (Extreme Angst), alle drei groessten Coins fallen weiter synchron (-5,6 bis -7,3% 24h laut CoinGecko) ohne Reversal-Signal - kein Einstieg. Keine neue, konkrete und mehrfach bestaetigte Einzeltitel-Meldung fuer Aktien/ETFs/Rohstoffe gefunden, daher passend zum Grundsatz 'nur bei wirklich ueberzeugender Gelegenheit handeln' in diesem Lauf auf jede Neuposition verzichtet.",
     "positionIds": [
       "pos-0031"
     ],
-    "portfolioValueEnd": 790.43,
+    "portfolioValueEnd": 781.6,
     "updates": [
       {
         "time": "00:08",
@@ -13933,6 +13933,11 @@
         "time": "16:09",
         "note": "Keine Aenderung. GOOGL im regulaeren US-Handel deutlich erholt auf 280,08 USD (+2,72% heute, -1,20% seit Kauf, zuvor -4,17%). Krypto-F&G weiter 12 (Extreme Angst), BTC/ETH/SOL synchron schwaecher (-3,6 bis -6,5% 24h), kein Kaufsignal. Unbestaetigte Anthropic-IPO/Markteinbruch-Meldung verworfen (widerspruechlich zur live GOOGL-Erholung).",
         "portfolioValue": 790.43
+      },
+      {
+        "time": "17:10",
+        "note": "Keine Aenderung. GOOGL leicht zurueckgekommen auf 276,95 USD (+1,57% heute, -2,30% seit Kauf). Krypto weiter Extreme Angst (F&G 12), BTC/ETH/SOL synchron weiter schwaecher (-5,6 bis -7,3% 24h), kein Kaufsignal.",
+        "portfolioValue": 781.6
       }
     ]
   }
