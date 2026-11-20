@@ -13575,14 +13575,14 @@
   },
   {
     "date": "2026-11-18",
-    "marketOverview": "US-Boerse (NYSE/Nasdaq) weiterhin geschlossen, auch der nachboersliche Handel ist beendet. NVDA (162,96 USD, +1,69% seit Kauf) bereits mit dem starken Q3-Zahlen-Beat vom Vorabend (17.11., Umsatz 115,84 Mrd. USD, EPS 2,68 USD, Guidance angehoben) bewertet; GOOGL (283,80 USD) unveraendert. Kryptomarkt bleibt in ausgepraegter Angststimmung (Fear&Greed-Index ca. 11-14, 'Extreme Angst'), Bitcoin nach kraeftigem Novemberabverkauf (-20%, unter 70.000 USD) ohne bestaetigtes Erholungssignal, kein neuer frischer Kauf- oder Verkaufskatalysator erkennbar.",
-    "decision": "Kein Trade. Tagesbudget bereits im ersten Lauf um 00:08 verbucht (totalFreshCapitalEur 106.000 EUR), lastGrantDate bereits heute - keine erneute Gutschrift. GOOGL (pos-0031) und NVDA (pos-0035) bleiben unveraendert gehalten (weiterhin weit von Gewinnziel- bzw. Stop-Loss-Schwelle entfernt, ausserhalb der Handelszeiten ohnehin nicht handelbar). Kein Krypto-Neukauf trotz reichlich freiem Kapital (~103.339 EUR), da weiterhin kein bestaetigter, ueberzeugender Katalysator vorliegt und der Markt in ausgepraegter Angststimmung verharrt.",
-    "reasoning": "Spekulatives Profil erlaubt kurzfristiges Trading, verlangt aber keinen Zwang zum Handeln. Ohne frischen, mehrfach bestaetigten Katalysator (Ausbruch, Nachricht, Earnings) wird passend zum bisherigen erfolgreichen Muster nicht in eine Angst-/Abwaertsbewegung hinein gekauft. Aktien/ETFs/Rohstoffe sind ausserhalb der US-Handelszeiten nicht handelbar. Bestehende Positionen (GOOGL, NVDA) verstossen nicht gegen Ausschlusslisten und bleiben innerhalb der etablierten Halteband-Logik; NVDA profitiert bereits vom starken Q3-Beat, GOOGL liegt nahe am Einstand.",
+    "marketOverview": "US-Maerkte nach Handelsschluss (Schluss 22:00 CET, Nachhandel bis ca. 02:00 CET): NVDA nachboerslich bei 150,65 USD (-5,99% seit Einstand 160,25 USD), weiterhin knapp unter der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%). GOOGL nachboerslich 283,16 USD, nahezu unveraendert seit Einstand 283,47 USD (-0,11%). Krypto weiter in Extreme Angst, Bitcoin auf ca. 62.361 USD gefallen (-3,07% 24h), Solana 72,88 USD, Avalanche, Cardano und XRP ebenfalls leicht schwaecher - kein neuer, bestaetigter Ausbruchskatalysator fuer einen Neukauf.",
+    "decision": "Kein Trade. Tagesbudget bereits heute verbucht, keine erneute Gutschrift. NVDA (pos-0035) bei -5,99% seit Einstand, naeher an aber noch unter der Stop-Loss-Schwelle, daher weiter gehalten. GOOGL (pos-0031) nahezu unveraendert (-0,11%), weiter gehalten. US-Kassamarkt fuer heute geschlossen, daher keine Neupositionen in Aktien/ETFs/Rohstoffen moeglich; Krypto bleibt ohne ueberzeugenden, bestaetigten Katalysator (Extreme Angst, BTC weiter schwaecher, Altcoins leicht im Minus).",
+    "reasoning": "Keine Positionsaenderung: Beide offenen Positionen bewegen sich im erwarteten Rahmen ohne neue fundamentale Entwicklung seit dem letzten Lauf (22:08). NVDA naehert sich der Stop-Loss-Schwelle weiter an (-5,92% -> -5,99%), hat sie aber noch nicht erreicht. Kein neuer Kauf, da Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten liegen und der Kryptomarkt (Extreme Angst, BTC -3,07% 24h) keine ueberzeugende, bestaetigte neue Chance zeigt.",
     "positionIds": [
       "pos-0031",
       "pos-0035"
     ],
-    "portfolioValueEnd": 1817.84,
+    "portfolioValueEnd": 1739.22,
     "updates": [
       {
         "time": "00:08",
@@ -13603,6 +13603,341 @@
         "time": "03:09",
         "note": "Keine Aenderung. Weiterhin ausserhalb der Handelszeiten (Aktien/ETFs/Rohstoffe geschlossen). Krypto-Markt laut aktueller Recherche weiter in extremer Angststimmung (Fear&Greed-Index ca. 11-14), Bitcoin nach starkem Novemberabverkauf (-20%, zuletzt unter 70.000 USD, zwischenzeitlich ~65.000 USD) ohne bestaetigtes Erholungssignal. NVDA-Q3-Zahlen vom Vorabend (17.11., nachboerslich) waren ein starker Beat (Umsatz 115,84 Mrd. USD vs. ~109 Mrd. erwartet, EPS 2,68 vs. 2,48 USD, Guidance angehoben) - bereits in den aktuellen Kurswerten von pos-0035 beruecksichtigt; regulaerer Handel und Nachhandel sind fuer heute jedoch beendet, daher keine weitere Aktualisierung moeglich. GOOGL unveraendert. Kein ueberzeugender, frischer Krypto-Katalysator fuer einen Neukauf.",
         "portfolioValue": 1817.84
+      },
+      {
+        "time": "04:08",
+        "note": "Keine Aenderung. BTC weiterhin um ca. 64.400 USD (The Block, Stand 16.11., naechstgelegene verfuegbare Notierung), Kryptomarkt laut vorheriger Recherche in extremer Angststimmung (Fear&Greed ca. 11-15) ohne bestaetigten Erholungs- oder Kaufkatalysator. US- und europaeische Boersen weiterhin ausserhalb der Handelszeiten (Nacht), GOOGL/NVDA daher nicht handelbar und unveraendert bei 283,80 USD bzw. 162,96 USD.",
+        "portfolioValue": 1817.84
+      },
+      {
+        "time": "05:07",
+        "note": "Keine Aenderung. BTC ~64.343 USD (-0,86% 24h, F&G-Index 11, Extreme Angst), SOL leicht fester (+2,62% 24h) aber ohne Katalysator. GOOGL/NVDA unveraendert, noch vor Handelsbeginn.",
+        "portfolioValue": 1817.84
+      },
+      {
+        "time": "06:07",
+        "note": "Keine Aenderung. BTC ~64.337 USD (-0,82% 24h), F&G-Index weiterhin 11 (Extreme Angst), SOL weiter leicht fester (+2,68% 24h) ohne neuen Katalysator. GOOGL/NVDA unveraendert, Maerkte weiterhin geschlossen.",
+        "portfolioValue": 1817.84
+      },
+      {
+        "time": "07:08",
+        "note": "Keine Aenderung. BTC ~64.623 USD (-0,15% 24h), F&G-Index weiterhin 11 (Extreme Angst), SOL weiter leicht fester (+3,45% 24h) ohne neuen Katalysator. GOOGL/NVDA unveraendert, US-Vorboerse noch nicht aktiv.",
+        "portfolioValue": 1817.84
+      },
+      {
+        "time": "08:09",
+        "note": "Keine Aenderung. Vor Boersenoeffnung (Xetra ab 09:00, US-Handel ab 15:30 MESZ), Aktien/ETFs/Rohstoffe weiterhin nicht handelbar. Recherche bestaetigt unveraendert extreme Angststimmung am Kryptomarkt (Bitcoin laut mehreren Quellen zuletzt um 64.000 USD, deutlich unter Vormonatsniveau) ohne neuen, mehrfach bestaetigten Ausbruchs- oder Umkehrkatalysator fuer BTC/SOL. GOOGL/NVDA unveraendert gehalten.",
+        "portfolioValue": 1817.84
+      },
+      {
+        "time": "09:08",
+        "note": "Keine Aenderung. Xetra seit 09:00 CET offen, US-Handel erst ab 15:30 CET - GOOGL/NVDA unveraendert und nicht handelbar. BTC ~64.691 USD (+0,1% 24h), F&G-Index weiterhin 11 (Extreme Angst). XRP zwar +4,37% 24h, aber Gesamtmarktkapitalisierung -2,62% - keine ueberzeugende, breit bestaetigte Kaufgelegenheit.",
+        "portfolioValue": 1817.84
+      },
+      {
+        "time": "10:11",
+        "note": "Keine Aenderung. NVDA vorboerslich 160,18 USD (+3,04%) nach starkem Q3-Earnings-Beat (Umsatz 115,8 Mrd. USD, EPS 2,68 USD, Guidance angehoben) - knapp unter Einstand (160,25 USD), kein Trade. GOOGL vorboerslich 282,29 USD, nahe Einstand. BTC live 64.696 USD (+0,65% 24h), Fear&Greed weiter 'Extreme Angst', kein Kaufsignal.",
+        "portfolioValue": 1796.23
+      },
+      {
+        "time": "11:09",
+        "note": "Keine Aenderung. NVDA vorboerslich 161,55 USD (+0,81% seit Einstand) nach Q3-Beat, GOOGL 283,20 USD (-0,10%) - beide nahe Einstand. BTC live 64.546 USD (+0,4% 24h), SOL 75,07 USD (+3,6% 24h), Fear&Greed weiter 11 (Extreme Angst), kein Kaufsignal.",
+        "portfolioValue": 1807.35
+      },
+      {
+        "time": "12:11",
+        "note": "Keine Aenderung. NVDA live vorboerslich 159,96 USD (-0,18% seit Einstand), GOOGL 282,60 USD (-0,31%) - beide nahe Einstand. BTC 64.140 USD (-0,07% 24h), SOL 74,37 USD (+2,72% 24h), Fear&Greed weiter 11 (Extreme Angst), kein Kaufsignal.",
+        "portfolioValue": 1795.73
+      },
+      {
+        "time": "13:08",
+        "note": "Keine Aenderung. NVDA vorboerslich 159,69 USD (-0,35% seit Einstand), GOOGL 282,40 USD (-0,38%) - beide nahe Einstand. BTC 64.114 USD (-1,07% 24h), SOL 74,41 USD (+1,63% 24h), Fear&Greed weiter 11 (Extreme Angst), kein Kaufsignal.",
+        "portfolioValue": 1793.49
+      },
+      {
+        "time": "14:11",
+        "note": "Keine Aenderung. NVDA vorboerslich 161,19 USD (+3,69%, +0,59% seit Einstand) nach starkem Q3-Beat, GOOGL 283,10 USD (-0,13% seit Einstand). BTC weiter ~64.000 USD, Fear&Greed weiterhin 11 (Extreme Angst), kein Kaufsignal.",
+        "portfolioValue": 1804.83
+      },
+      {
+        "time": "15:10",
+        "note": "Keine Aenderung; NVDA aktualisiert (~160,85 USD, +0,37% seit Einstand), GOOGL unveraendert (~283,10 USD, -0,13%). Noch vor regulaerem US-Handelsbeginn (15:30 CET). BTC weiter ~64.000 USD, Fear&Greed weiterhin 11 (Extreme Angst), kein Kaufsignal.",
+        "portfolioValue": 1802.7
+      },
+      {
+        "time": "16:09",
+        "note": "Keine Aenderung. NVDA auf 154,98 USD gefallen (-3,29% seit Einstand, SEC-Untersuchung/Sektor-Vorsicht belastet), noch weit von Stop-Loss. GOOGL 283,80 USD (+0,12%). BTC ~63.533 USD, Fear&Greed weiterhin 11 (Extreme Angst), kein Kaufsignal.",
+        "portfolioValue": 1768.04
+      },
+      {
+        "time": "17:10",
+        "note": "Keine Aenderung. Regulaerer US-/Xetra-Handel laeuft, aber keine verlaesslich bestaetigte neue Kursbewegung fuer NVDA/GOOGL per Websuche ermittelbar - Werte unveraendert (154,98 / 283,80 USD). Krypto weiter Extreme Angst (F&G 11), kein Kaufsignal.",
+        "portfolioValue": 1768.04
+      },
+      {
+        "time": "18:08",
+        "note": "Keine Aenderung. NVDA auf 152,27 USD gefallen (-4,98%, Analysten-Zielsenkungen/China-Exportstopp/Huang-Anhoerung), GOOGL leicht fester 281,19 USD (-0,80% seit Einstand). Krypto weiter Extreme Angst (F&G 11, BTC -1,7% 24h), kein Kaufsignal.",
+        "portfolioValue": 1743.77
+      },
+      {
+        "time": "19:09",
+        "note": "Keine Aenderung. NVDA weiter auf 151,28 USD gefallen (-5,60% seit Einstand, naehert sich Stop-Loss-Schwelle), GOOGL 280,93 USD (-0,90% seit Einstand). Krypto weiter Extreme Angst (F&G 11, BTC 63.065 USD/-1,17% 24h), kein Kaufsignal.",
+        "portfolioValue": 1736.85
+      },
+      {
+        "time": "20:07",
+        "note": "Keine Aenderung. NVDA leicht erholt auf 151,51 USD (-5,45% seit Einstand, zuvor -5,60%), GOOGL 282,77 USD (-0,25% seit Einstand). Krypto weiter Extreme Angst (F&G 11, BTC 62.798 USD/-1,51% 24h), kein Kaufsignal.",
+        "portfolioValue": 1743.48
+      },
+      {
+        "time": "21:08",
+        "note": "Keine Aenderung. NVDA auf 151,14 USD gefallen (-5,69% seit Einstand, naeher an Stop-Loss-Schwelle), GOOGL 283,90 USD (+0,15% seit Einstand, leicht ins Plus gedreht). Krypto weiter Extreme Angst (F&G 11, BTC 62.692 USD/-1,6% 24h), kein Kaufsignal.",
+        "portfolioValue": 1744.36
+      },
+      {
+        "time": "22:08",
+        "note": "Kein Trade. NVDA auf -5,92% gefallen (150,76 USD, naeher an Stop-Loss), GOOGL leicht ins Minus gedreht (-0,18%, 282,97 USD). Krypto weiter Extreme Angst (F&G 11), BTC -2,3% 24h, kein Kaufsignal. Boersen geschlossen fuer heute.",
+        "portfolioValue": 1739.37
+      },
+      {
+        "time": "23:09",
+        "note": "Kein Trade. NVDA weiter auf -5,99% gefallen (150,65 USD, naeher an aber noch unter Stop-Loss), GOOGL nahezu unveraendert (-0,11%, 283,16 USD). Krypto weiter Extreme Angst, BTC auf 62.361 USD gefallen (-3,07% 24h), kein Kaufsignal. Boersen geschlossen fuer heute.",
+        "portfolioValue": 1739.22
+      }
+    ]
+  },
+  {
+    "date": "2026-11-19",
+    "marketOverview": "Regulaerer US-Handel ist geschlossen (Schluss 272,66 USD, -3,46%); nachboerslich erholt sich GOOGL leicht auf 274,18 USD (+0,56% nachboerslich). Der seit dem Ruecktritt von Nvidia-CEO Jensen Huang anhaltende KI-/Chip-Sektor-Ausverkauf bleibt das dominante Thema, Anthropic-IPO-Debuet liefert keinen neuen Einzeltitel-Katalysator mehr. Krypto verharrt in Extremer Angst (Fear&Greed-Index 10), Bitcoin bei rund 61.700 USD (-0,98% 24h), Altcoins (ETH -1,1%, SOL -0,6%, AVAX -0,6%, XRP -0,98%, DOGE -1,2%) durchweg leicht schwaecher ohne Erholungs- oder Ausbruchssignal.",
+    "decision": "Kein Trade in diesem Lauf. Verkauf von NVDA (Stop-Loss, -7,05%) bereits um 18:09 erfolgt; seitdem keine neue ueberzeugende Gelegenheit. GOOGL-Position (pos-0031) bleibt offen, Kurs auf den nachboerslichen Stand von 274,18 USD aktualisiert (-3,28% seit Kauf, leichte Erholung ggue. Handelsschluss, weiterhin deutlich unter der Stop-Loss-Schwelle). Kein Krypto-Kauf trotz hohem freien Kapital, da Extreme Angst (F&G 10) anhaelt und alle beobachteten Coins leicht im Minus notieren, also kein Einstiegssignal liefern; Aktien/ETFs/Rohstoffe sind nach Handelsschluss (16:00 ET/22:00 CET) ohnehin nicht mehr handelbar.",
+    "reasoning": "Der breite Markt bleibt im Risk-off-Modus (fortgesetzter KI-/Chip-Sektor-Ausverkauf) ohne klaren Einzeltitel-Katalysator fuer neue Aktienkaeufe, und der US-Kassamarkt ist zudem geschlossen. Krypto in Extremer Angst (F&G 10) mit breit leicht negativem 24h-Verlauf (BTC/ETH/SOL/AVAX/XRP/DOGE alle leicht im Minus) bietet kein Stabilisierungs- oder Ausbruchssignal im spekulativen, momentum-basierten Profil. GOOGL (-3,28%) liegt weiterhin deutlich unter der etablierten Stop-Loss-Schwelle von -6,5 bis -7,5%, daher weiter gehalten.",
+    "positionIds": [
+      "pos-0031",
+      "pos-0035"
+    ],
+    "portfolioValueEnd": 773.78,
+    "updates": [
+      {
+        "time": "00:08",
+        "note": "Neuer Tag: Tagesbudget gutgeschrieben. Kein Trade. NVDA/GOOGL unveraendert (150,65 / 283,16 USD), unbestaetigte NVDA-Erholungsmeldungen nicht uebernommen. Krypto weiter Extreme Angst (F&G ca. 11-14), kein Kaufsignal.",
+        "portfolioValue": 1739.22
+      },
+      {
+        "time": "01:08",
+        "note": "Kein Trade. NVDA/GOOGL-Kurse aktualisiert nach bestaetigten NVDA-Q3-Zahlen (150,96 USD/-5,80%, GOOGL 282,44 USD/-0,36%). Krypto weiter Extreme Angst (F&G 10-11), kein Kaufsignal.",
+        "portfolioValue": 1739.12
+      },
+      {
+        "time": "02:08",
+        "note": "Keine Aenderung. NVDA/GOOGL unveraendert (Markt geschlossen), Krypto weiter in tiefer Extreme Angst (F&G ca. 11-13) ohne bestaetigten Kaufkatalysator.",
+        "portfolioValue": 1739.12
+      },
+      {
+        "time": "03:09",
+        "note": "Keine Aenderung. NVDA/GOOGL unveraendert (Markt geschlossen), Krypto weiter in tiefer Extreme Angst (F&G ca. 11, BTC ca. 63.000-64.000 USD) ohne bestaetigten Kaufkatalysator.",
+        "portfolioValue": 1739.12
+      },
+      {
+        "time": "04:08",
+        "note": "Keine Aenderung. NVDA/GOOGL unveraendert (Markt geschlossen), Krypto weiter in tiefer Extreme Angst (Fear&Greed ca. 11-13, BTC ca. 62.000-64.000 USD) wegen nahezu vollstaendig eingepreister Fed-Zinserhoehung im Dezember (92-96% Wahrscheinlichkeit) und anhaltenden Bitcoin-ETF-Abfluessen; kein bestaetigter Kaufkatalysator.",
+        "portfolioValue": 1739.12
+      },
+      {
+        "time": "05:07",
+        "note": "Keine Aenderung. NVDA/GOOGL unveraendert (Markt geschlossen), BTC ca. 62.900-63.400 USD, Krypto weiter in tiefer Extreme Angst ohne bestaetigten Kaufkatalysator.",
+        "portfolioValue": 1739.12
+      },
+      {
+        "time": "06:08",
+        "note": "Keine Aenderung. NVDA/GOOGL unveraendert (Markt geschlossen), BTC weiterhin ca. 62.000-64.000 USD, Krypto weiter in tiefer Extreme Angst (F&G ca. 10-14) ohne bestaetigten Kaufkatalysator.",
+        "portfolioValue": 1739.12
+      },
+      {
+        "time": "07:10",
+        "note": "Kein Trade. Kursupdate: NVDA 159,92 USD (-0,21%, nachboerslicher Sprung nach starken Q3-Zahlen vom 17.11.), GOOGL 295,77 USD (+4,34%, Schlusskurs 13.11.). Krypto weiter Extreme Angst (BTC ca. 65.000 USD), kein Kaufsignal; Aktienmaerkte noch nicht geoeffnet.",
+        "portfolioValue": 1832.65
+      },
+      {
+        "time": "08:08",
+        "note": "Keine Aenderung. NVDA/GOOGL-Kurse unveraendert (159,92/295,77 USD, Markt vor Europa- und US-Oeffnung), Krypto weiter in tiefer Extreme Angst (BTC ca. 65.000 USD, F&G weiterhin einstellig bis niedrig zweistellig) ohne neuen bestaetigten Kaufkatalysator.",
+        "portfolioValue": 1832.65
+      },
+      {
+        "time": "09:08",
+        "note": "Kein Trade. NVDA-Kurs auf bestaetigten Schlusskurs 18.11. korrigiert (150,96 USD, -5,80%, Gewinne nach Q3-Zahlen durch CEO-Nachfolgesorgen wieder abgegeben). GOOGL unveraendert (295,77 USD). Krypto weiter Extreme Angst (F&G 10-11, hawkishe FOMC-Minutes), kein Kaufsignal.",
+        "portfolioValue": 1776.74
+      },
+      {
+        "time": "10:10",
+        "note": "Kein Trade. GOOGL-Kurs auf bestaetigten Schlusskurs 18.11. korrigiert (282,44 USD statt veraltet 295,77 USD), vorboerslich 291,00 USD (+2,66% seit Kauf). NVDA vorboerslich 153,75 USD (-4,06%). Krypto weiter Extreme Angst (F&G 10), kein Kaufsignal.",
+        "portfolioValue": 1780.7
+      },
+      {
+        "time": "11:08",
+        "note": "Keine Aenderung. Keine frischeren GOOGL/NVDA-Kurse auffindbar (weiterhin vorboerslich), Kryptomarkt weiter in tiefer Extreme Angst, kein Kaufsignal.",
+        "portfolioValue": 1780.7
+      },
+      {
+        "time": "12:09",
+        "note": "Kein Trade. GOOGL vorboerslich kraeftig auf 294,64 USD gesprungen (+3,94% seit Kauf, Ursache noch unklar), NVDA vorboerslich leicht fester (153,93 USD, -3,94%). Krypto weiter Extreme Angst (F&G 10), kein Kaufsignal.",
+        "portfolioValue": 1792.09
+      },
+      {
+        "time": "13:09",
+        "note": "Keine Aenderung. GOOGL unveraendert (294,64 USD), NVDA auf 153,41 USD aktualisiert (-4,27%) nach Beruhigungsversuch von Interims-CEO Kress/Boardchef Jones im Earnings-Call. Dow -561 Pkt. am 18.11. (hawkishe Fed-Protokolle), Krypto weiter Extreme Angst, kein Kaufsignal. Aktien/Rohstoffe vor 15:30 CET nicht handelbar.",
+        "portfolioValue": 1788.84
+      },
+      {
+        "time": "14:10",
+        "note": "Keine Aenderung. GOOGL/NVDA-Kurse unveraendert (294,64/153,41 USD), keine frischere Kursquelle gefunden. US-Markt oeffnet erst 15:30 CET. Krypto weiter Extreme Angst (BTC ca. 65.000 USD, Stand 17.11.), kein Kaufsignal.",
+        "portfolioValue": 1788.84
+      },
+      {
+        "time": "15:09",
+        "note": "Keine Aenderung. GOOGL/NVDA-Kurse unveraendert (294,64/153,41 USD), keine frischere Kursquelle gefunden. US-Markt oeffnet erst 15:30 CET (noch 21 Min.). Krypto weiter Extreme Angst (BTC ca. 65.000 USD, Stand 17.11.), kein Kaufsignal.",
+        "portfolioValue": 1788.84
+      },
+      {
+        "time": "16:09",
+        "note": "Keine Aenderung. Erste echte Live-Kurse heute: GOOGL 292,94 USD (+3,34% seit Kauf), NVDA 155,50 USD (-2,96% seit Kauf). Breite Rally zur Markteroeffnung (Nasdaq-100 +1,9-2,3%) wegen Anthropic-IPO-Debuet, aber kein einzelner bestaetigter Kaufkatalysator. Krypto weiter Extreme Angst, kein Kaufsignal.",
+        "portfolioValue": 1797.09
+      },
+      {
+        "time": "17:10",
+        "note": "Keine Aenderung. GOOGL leicht auf 292,00 USD (+3,01%), NVDA auf 153,00 USD (-4,52%, Nachmittags-Ruecksetzer von 155,50) aktualisiert. Anthropic-IPO-Rally haelt an, aber kein Einzeltitel-Kaufsignal. Krypto weiter ohne Daten/Kaufsignal.",
+        "portfolioValue": 1778.83
+      },
+      {
+        "time": "18:09",
+        "note": "Verkauf NVDA -7,05% (Stop-Loss, 160,25 -> 148,95 USD). GOOGL auf 283,43 USD aktualisiert (-0,01%). Kein Neukauf mangels Katalysator.",
+        "portfolioValue": 799.89
+      },
+      {
+        "time": "19:07",
+        "note": "Keine Aenderung. GOOGL auf 280,68 USD aktualisiert (-0,98%). Chip-/AI-Sektor-Ausverkauf haelt an (NVDA -1,61% heute, bereits verkauft), Krypto weiter Extreme Angst (F&G 10). Kein Kaufsignal.",
+        "portfolioValue": 792.13
+      },
+      {
+        "time": "20:09",
+        "note": "Keine Aenderung. GOOGL mangels frischerer Kursquelle unveraendert bei 280,68 USD (-0,98%) gefuehrt. Breiter Risk-off-Tag (Dow zeitweise -800 Pkt.) trotz Anthropic-IPO-Debuet, KI-/Chip-Ausverkauf haelt an. Krypto weiter Extreme Angst (F&G ~10, BTC ~63.800 USD), kein Kaufsignal.",
+        "portfolioValue": 792.13
+      },
+      {
+        "time": "21:08",
+        "note": "Keine Aenderung. GOOGL auf 275,50 USD aktualisiert (-2,81% seit Kauf, -2,46% heute). KI-/Chip-Ausverkauf haelt an, Krypto weiter Extreme Angst (F&G 10, BTC ~62.170 USD). Kein Kaufsignal.",
+        "portfolioValue": 777.51
+      },
+      {
+        "time": "22:08",
+        "note": "Keine Aenderung. US-Kassamarkt mit Handelsschluss bei 272,50 USD (-3,52% heute); GOOGL nachboerslich auf 273,20 USD aktualisiert (-3,62% seit Kauf). Krypto weiter Extreme Angst (F&G 10, BTC ~61.900 USD, -0,9% 24h), kein Ausbruchssignal.",
+        "portfolioValue": 771.02
+      },
+      {
+        "time": "23:08",
+        "note": "Keine Aenderung. GOOGL nachboerslich leicht erholt auf 274,18 USD (-3,28% seit Kauf, vs. -3,62% beim letzten Lauf). Krypto weiter Extreme Angst (F&G 10, BTC ~61.700 USD), alle beobachteten Coins leicht im Minus, kein Kaufsignal.",
+        "portfolioValue": 773.78
+      }
+    ]
+  },
+  {
+    "date": "2026-11-20",
+    "marketOverview": "GOOGL im regulaeren US-Handel leicht zurueckgekommen auf 276,95 USD (+1,57% heute, stockanalysis.com live, Stand 11:08 ET/17:08 CET), nach dem Zwischenhoch von 280,08 USD im vorigen Lauf - weiterhin kein eindeutiger Einzelkatalysator, Bewegung bleibt breiter marktgetrieben. Krypto-Fear&Greed-Index unveraendert bei 12 (Extreme Angst); Bitcoin (CoinGecko) weiter auf ca. 59.410 USD gefallen (-5,65% 24h), Ethereum 1.645,96 USD (-7,29% 24h), Solana 68,68 USD (-6,54% 24h) - synchronisierter Krypto-Risk-off verschaerft sich sogar leicht gegenueber dem Vorlauf.",
+    "decision": "Kein Trade in diesem Lauf. GOOGL-Position (pos-0031) bleibt offen, Kurs auf 276,95 USD aktualisiert (-2,30% seit Kauf, zuvor -1,20%) - klar innerhalb der Halteregeln, weder nahe Stop-Loss (-6,5 bis -7,5%) noch nahe Gewinn-Zielspanne (7-9%). Kein Krypto-Kauf: Fear&Greed-Index weiterhin bei 12 (Extreme Angst), BTC/ETH/SOL synchron weiter schwaecher (-5,6 bis -7,3% 24h) ohne Reversal-Signal. Keine neue Aktien-/ETF-/Rohstoffposition trotz geoeffnetem US-Kassamarkt, da keine zuverlaessig bestaetigte, konkrete Einzelkatalysator-Meldung fuer den 20.11. gefunden wurde.",
+    "reasoning": "GOOGL ist seit dem letzten Lauf (16:09 CET, -1,20%) leicht auf -2,30% zurueckgekommen - weiterhin klar innerhalb der Halteschwelle, kein Handlungsbedarf. Fuer Krypto bleibt die Lage unveraendert bis leicht schlechter: Fear&Greed-Index seit vielen Laeufen konstant bei 12 (Extreme Angst), alle drei groessten Coins fallen weiter synchron (-5,6 bis -7,3% 24h laut CoinGecko) ohne Reversal-Signal - kein Einstieg. Keine neue, konkrete und mehrfach bestaetigte Einzeltitel-Meldung fuer Aktien/ETFs/Rohstoffe gefunden, daher passend zum Grundsatz 'nur bei wirklich ueberzeugender Gelegenheit handeln' in diesem Lauf auf jede Neuposition verzichtet.",
+    "positionIds": [
+      "pos-0031"
+    ],
+    "portfolioValueEnd": 781.6,
+    "updates": [
+      {
+        "time": "00:08",
+        "note": "Neuer Tag: Tagesbudget gutgeschrieben (+1000 EUR, gesamt 108000 EUR). Kein Trade. GOOGL unveraendert (274,18 USD/-3,28%), keine frischere Kursquelle gefunden. Krypto weiter Extreme Angst (F&G 10 laut letztem Stand), kein Kaufsignal; US-Markt ausserhalb der Handelszeiten.",
+        "portfolioValue": 773.78
+      },
+      {
+        "time": "01:08",
+        "note": "Keine Aenderung. GOOGL-Kurs aktualisiert auf 272,66 USD (-3,81%, Schlusskurs 19.11.). Krypto weiter Extreme Angst (F&G ca. 12-22), kein Kaufsignal. US-Markt ausserhalb der Handelszeiten.",
+        "portfolioValue": 769.49
+      },
+      {
+        "time": "02:07",
+        "note": "Keine Aenderung. GOOGL nachboerslich leicht erholt auf 273,28 USD (-3,59%). Krypto weiter Extreme Angst (F&G 12), BTC ca. 62.160 USD (-1,6% 24h), kein Kaufsignal. US-Markt ausserhalb der Handelszeiten.",
+        "portfolioValue": 771.24
+      },
+      {
+        "time": "03:08",
+        "note": "Keine Aenderung. GOOGL nachboerslich leicht auf 273,31 USD (-3,58%). Krypto weiter Extreme Angst (F&G 12), BTC weiter auf ca. 61.340 USD gefallen (-2,2% 24h), kein Kaufsignal. US-Markt ausserhalb der Handelszeiten.",
+        "portfolioValue": 771.33
+      },
+      {
+        "time": "04:09",
+        "note": "Keine Aenderung. GOOGL unveraendert nachboerslich bei 273,31 USD (-3,58%). Krypto weiter Extreme Angst (F&G 12, unveraendert), BTC leicht erholt auf ca. 61.975 USD (-0,8% 24h), kein Kaufsignal. US-/EU-Maerkte ausserhalb der Handelszeiten.",
+        "portfolioValue": 771.33
+      },
+      {
+        "time": "05:07",
+        "note": "Keine Aenderung. GOOGL nachboerslich marginal auf 273,30 USD (-3,59%). Krypto weiter Extreme Angst (F&G 12), BTC/ETH/SOL leicht schwaecher (-2 bis -3,6% 24h), kein Kaufsignal. US-/EU-Maerkte ausserhalb der Handelszeiten.",
+        "portfolioValue": 771.3
+      },
+      {
+        "time": "06:08",
+        "note": "Keine Aenderung. Keine verlaessliche frischere GOOGL-Kursquelle gefunden (bleibt 273,30 USD/-3,59%). Widersprechende Krypto-Kursmeldungen (u.a. unplausible 92k-USD-BTC-Meldung) verworfen; Trend bleibt Extreme Angst, BTC ca. 61-63 Tsd. USD. Kein Kaufsignal. US-/EU-Maerkte ausserhalb der Handelszeiten.",
+        "portfolioValue": 771.3
+      },
+      {
+        "time": "07:08",
+        "note": "Keine Aenderung. GOOGL weiterhin 273,30 USD (-3,59%), keine frischere Kursquelle. Krypto-Sentiment widerspruechlich (aeltere Quellen: Extreme Angst F&G 12-18; neuere CFGI-Momentaufnahme: 42/Neutral) - kein verlaessliches Kaufsignal. EU-/US-Maerkte ausserhalb der Handelszeiten.",
+        "portfolioValue": 771.3
+      },
+      {
+        "time": "08:09",
+        "note": "Keine Aenderung. GOOGL nachboerslich leicht erholt auf 273,31 USD (+0,24%, -3,58% seit Kauf). Krypto-F&G bei alternative.me bestaetigt auf 12 (Extreme Angst), kein Kaufsignal. EU-/US-Maerkte ausserhalb der Handelszeiten.",
+        "portfolioValue": 771.33
+      },
+      {
+        "time": "09:10",
+        "note": "Keine Aenderung. GOOGL weiterhin 273,31 USD (-3,58%), keine verlaesslich frischere Kursquelle gefunden (widerspruechliche aeltere Angaben verworfen). Krypto-Stimmung weiter angespannt, kein Kaufsignal. EU-Boersen seit 9:00 CET offen, aber kein ueberzeugender Katalysator; US-Markt weiterhin ausserhalb der Handelszeiten.",
+        "portfolioValue": 771.33
+      },
+      {
+        "time": "10:09",
+        "note": "Keine Aenderung. GOOGL-Kurs frisch verifiziert auf 272,11 USD (-4,01% seit Kauf, zuvor -3,58%). Krypto-F&G bestaetigt bei 12 (Extreme Angst), BTC/ETH/SOL synchron -3,1 bis -3,4% (24h), kein Kaufsignal. EU-Boerse offen, aber kein ueberzeugender Katalysator; US-Markt noch ausserhalb der Handelszeiten.",
+        "portfolioValue": 767.94
+      },
+      {
+        "time": "11:08",
+        "note": "Keine Aenderung. GOOGL nahezu unveraendert bei 272,29 USD (-3,94%, zuvor -4,01%). Krypto weiter Extreme Angst (F&G 12), BTC/ETH weiter schwach (-3,1 bis -3,2% 24h), kein Kaufsignal. EU-Boerse offen, kein ueberzeugender Katalysator; US-Markt noch ausserhalb der Handelszeiten.",
+        "portfolioValue": 768.45
+      },
+      {
+        "time": "12:09",
+        "note": "Keine Aenderung. GOOGL im US-Vorhandel leicht erholt auf 274,17 USD (+0,55%, -3,28% seit Kauf). Krypto weiter Extreme Angst (F&G 12), BTC/ETH/SOL weiter schwach (-2,7 bis -3,0% 24h), kein Kaufsignal. EU-Boerse offen, kein ueberzeugender Katalysator; US-Markt noch ausserhalb der Handelszeiten.",
+        "portfolioValue": 773.75
+      },
+      {
+        "time": "13:10",
+        "note": "Keine Aenderung. GOOGL im Vorhandel nahezu unveraendert auf 273,15 USD (-3,64% seit Kauf, zuvor -3,28%). Krypto-F&G bestaetigt auf 12 (Extreme Angst), Bitcoin weiter schwaecher (-3,96% 24h), kein Kaufsignal. EU-Boerse offen, kein ueberzeugender Katalysator; US-Markt noch ausserhalb der Handelszeiten.",
+        "portfolioValue": 770.88
+      },
+      {
+        "time": "14:10",
+        "note": "Keine Aenderung. GOOGL im Vorhandel leicht schwaecher auf 270,75 USD (-4,49% seit Kauf, zuvor -3,64%). Krypto-F&G bestaetigt auf 12 (Extreme Angst), BTC/ETH/SOL synchron schwaecher (-3,6 bis -5,1% 24h), kein Kaufsignal. EU-Boerse offen, kein ueberzeugender Katalysator; US-Markt noch ausserhalb der Handelszeiten.",
+        "portfolioValue": 764.1
+      },
+      {
+        "time": "15:09",
+        "note": "Keine Aenderung. GOOGL im Vorhandel leicht erholt auf 271,66 USD (-4,17% seit Kauf, zuvor -4,49%). Krypto-F&G bestaetigt auf 12 (Extreme Angst), BTC/ETH/SOL weiter synchron schwaecher (-3,2 bis -5,0% 24h), kein Kaufsignal. EU-Boerse offen, kein ueberzeugender Katalysator; US-Markt oeffnet in Kuerze (15:30 CET).",
+        "portfolioValue": 766.68
+      },
+      {
+        "time": "16:09",
+        "note": "Keine Aenderung. GOOGL im regulaeren US-Handel deutlich erholt auf 280,08 USD (+2,72% heute, -1,20% seit Kauf, zuvor -4,17%). Krypto-F&G weiter 12 (Extreme Angst), BTC/ETH/SOL synchron schwaecher (-3,6 bis -6,5% 24h), kein Kaufsignal. Unbestaetigte Anthropic-IPO/Markteinbruch-Meldung verworfen (widerspruechlich zur live GOOGL-Erholung).",
+        "portfolioValue": 790.43
+      },
+      {
+        "time": "17:10",
+        "note": "Keine Aenderung. GOOGL leicht zurueckgekommen auf 276,95 USD (+1,57% heute, -2,30% seit Kauf). Krypto weiter Extreme Angst (F&G 12), BTC/ETH/SOL synchron weiter schwaecher (-5,6 bis -7,3% 24h), kein Kaufsignal.",
+        "portfolioValue": 781.6
       }
     ]
   }
