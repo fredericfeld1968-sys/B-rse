@@ -13841,13 +13841,13 @@
   },
   {
     "date": "2026-11-20",
-    "marketOverview": "US-Kassamarkt oeffnet erst um 15:30 CET, europaeische Boersen ab 9:00 CET - beide noch geschlossen. Keine verlaesslich frischere GOOGL-Kursquelle als der zuletzt bestaetigte Stand von 273,30 USD (-3,59% seit Kauf bei 283,47 USD). Krypto-Sentiment uneinheitlich: aeltere Quellen zeigen weiterhin Extreme Angst (F&G ca. 12-18), eine neuere CFGI-Momentaufnahme (19.11., 17:53 UTC) zeigt dagegen einen Anstieg auf 42 (Neutral) - die Quellen widersprechen sich und sind teils unterschiedlich datiert, daher kein verlaessliches Signal. BTC laut verfuegbaren Quellen im Bereich ca. 61-64 Tsd. USD ohne bestaetigten Ausbruch.",
-    "decision": "Tagesbudget wurde bereits beim ersten Lauf des Tages (00:08) gutgeschrieben, daher keine erneute Gutschrift. Kein Trade in diesem Lauf. GOOGL-Position (pos-0031) bleibt unveraendert offen (273,30 USD, -3,59%), da keine verlaesslich aktuellere Kursquelle vorlag. Kein Krypto-Kauf, da die Sentiment-Quellen sich widersprechen (Extreme Angst vs. neuerdings Neutral) und kein konkreter, mehrfach bestaetigter Katalysator erkennbar ist; Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten ohnehin nicht handelbar.",
-    "reasoning": "Um 07:08 CET sind US- und EU-Kassamaerkte weiterhin geschlossen (EU oeffnet erst um 9:00 CET, US um 15:30 CET). Die Web-Recherche lieferte fuer GOOGL keine neue, verlaessliche Kursquelle. Bei Krypto zeigen die verfuegbaren Quellen ein uneinheitliches Bild: mehrere aeltere Meldungen bestaetigen weiterhin Extreme Angst (F&G 12-18), eine neuere CFGI-Momentaufnahme vom Vortagabend zeigt dagegen einen Sprung auf 42 (Neutral) - ohne klaren, mehrfach unabhaengig bestaetigten Katalysator fuer diesen Stimmungswechsel wird dies als unzuverlaessig eingestuft. Passend zum spekulativen, aber katalysatorgetriebenen Ansatz wird daher auf jede Aktion verzichtet; die offene GOOGL-Position bleibt unveraendert innerhalb der Halteregeln.",
+    "marketOverview": "US-Kassamarkt oeffnet erst um 15:30 CET, EU-Boersen ab 9:00 CET - beide noch geschlossen. GOOGL nachboerslich leicht erholt auf 273,31 USD (+0,24% gg. Schlusskurs 272,66 USD, -3,58% seit Kauf bei 283,47 USD, stockanalysis.com). Krypto-Fear&Greed-Index laut alternative.me bei 12 (Extreme Angst, Vortag 10) - bestaetigt den seit Tagen anhaltenden Angstzustand, die zuvor vereinzelt gemeldete CFGI-Neutral-Lesung (42) gilt damit als Ausreisser. Bitcoin bei ca. 61.900 USD (-2,9% 24h, CoinGecko). Keine neuen, mehrfach bestaetigten Krypto-Katalysatoren oder Altcoin-Ausbrueche gefunden.",
+    "decision": "Tagesbudget wurde bereits beim ersten Lauf des Tages (00:08) gutgeschrieben, daher keine erneute Gutschrift. Kein Trade in diesem Lauf. GOOGL-Position (pos-0031) bleibt unveraendert offen (273,31 USD, -3,58%), nachboerslich marginal erholt gegenueber dem Schlusskurs. Kein Krypto-Kauf: Fear&Greed-Index bestaetigt bei 12 (Extreme Angst), kein mehrfach bestaetigter Ausbruchs- oder Trendwende-Katalysator erkennbar; Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten ohnehin nicht handelbar.",
+    "reasoning": "Um 08:09 CET sind EU- (Oeffnung 9:00 CET) und US-Kassamaerkte (Oeffnung 15:30 CET) weiterhin geschlossen. GOOGL zeigt nachboerslich nur eine marginale Erholung (+0,24%) ohne neuen Katalysator. Bei Krypto bestaetigt die direkte Abfrage von alternative.me den Fear&Greed-Wert von 12 (Extreme Angst, Vortag 10) - die zuvor widersprochene CFGI-42-Lesung wird damit als unzuverlaessig verworfen. Eine gezielte Suche nach aktuellen Altcoin-Ausbruechen lieferte keine auf heute datierten, mehrfach bestaetigten Treffer. Passend zum spekulativen, aber katalysatorgetriebenen Ansatz wird daher auf jede Aktion verzichtet; die offene GOOGL-Position bleibt unveraendert innerhalb der Halteregeln.",
     "positionIds": [
       "pos-0031"
     ],
-    "portfolioValueEnd": 771.3,
+    "portfolioValueEnd": 771.33,
     "updates": [
       {
         "time": "00:08",
@@ -13888,6 +13888,11 @@
         "time": "07:08",
         "note": "Keine Aenderung. GOOGL weiterhin 273,30 USD (-3,59%), keine frischere Kursquelle. Krypto-Sentiment widerspruechlich (aeltere Quellen: Extreme Angst F&G 12-18; neuere CFGI-Momentaufnahme: 42/Neutral) - kein verlaessliches Kaufsignal. EU-/US-Maerkte ausserhalb der Handelszeiten.",
         "portfolioValue": 771.3
+      },
+      {
+        "time": "08:09",
+        "note": "Keine Aenderung. GOOGL nachboerslich leicht erholt auf 273,31 USD (+0,24%, -3,58% seit Kauf). Krypto-F&G bei alternative.me bestaetigt auf 12 (Extreme Angst), kein Kaufsignal. EU-/US-Maerkte ausserhalb der Handelszeiten.",
+        "portfolioValue": 771.33
       }
     ]
   }
