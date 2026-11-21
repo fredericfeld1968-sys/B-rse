@@ -13973,9 +13973,9 @@
   },
   {
     "date": "2026-11-21",
-    "marketOverview": "Samstagfrueh (05:08 CET), weiterhin Wochenende - Aktien/ETFs/Rohstoffe nicht handelbar. GOOGL (pos-0031) bleibt bei letztem verlaesslichen Kurs 265,29 USD (-6,41%), keine frischere Kursquelle. Kryptomarkt-Abverkauf eskaliert deutlich weiter (CoinGecko live): Bitcoin 55.989 USD (-9,38% 24h), Ethereum 1.556,01 USD (-10,27% 24h), Solana 65,77 USD (-9,37% 24h), Avalanche 6,13 USD (-10,76% 24h), Dogecoin 0,051586 USD (-9,79% 24h), XRP 0,876 USD (-8,56% 24h), Cardano 0,1352 USD (-9,11% 24h); Fear&Greed-Index unveraendert bei 12 (Extreme Angst, alternative.me). Keine Nachrichtenlage zu einem konkreten neuen Katalysator gefunden - breiter, synchroner Deleveraging-Abverkauf ohne Reversal-Signal, Lage verschlechtert sich weiter beschleunigt statt sich zu stabilisieren.",
-    "decision": "Kein Trade in diesem Lauf: GOOGL (pos-0031) bleibt offen und unveraendert bei 265,29 USD (-6,41%, Aktienmarkt am Wochenende geschlossen). Kein Krypto-Kauf: Abverkauf hat sich seit dem letzten Lauf von -6,0% auf -9,4% (BTC 24h) deutlich verschaerft, kein Bodenbildungssignal - eindeutig kein Kaufsignal trotz hohen freien Kapitals.",
-    "reasoning": "Spekulatives Risikoprofil erlaubt kurzfristiges Trading, erzwingt aber keinen Handel. Ausserhalb der Boersenzeiten (Wochenende) sind Aktien/ETFs/Rohstoffe nicht handelbar, GOOGL bleibt daher unveraendert gehalten; die Position naehert sich der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%), hat sie aber noch nicht erreicht. Fuer Krypto gilt: die Verschaerfung des Abverkaufs (BTC jetzt -9,38% statt -6,00% vor einer Stunde) ist das klare Gegenteil eines Reversal-Signals - ein Einstieg waere reines Messerfangen in einen beschleunigenden Crash ohne bestaetigten Boden, daher weiterhin kein Kauf trotz hohen freien Kapitals (~107.268 EUR).",
+    "marketOverview": "Samstagfrueh (06:08 CET), weiterhin Wochenende - Aktien/ETFs/Rohstoffe nicht handelbar. GOOGL (pos-0031) bleibt bei letztem verlaesslichen Kurs 265,29 USD (-6,41%), keine frischere Kursquelle. Kryptomarkt-Abverkauf (CoinGecko live) zeigt leichte Stabilisierung gegenueber dem Vorlauf, bleibt aber tief im Extreme-Angst-Bereich: Bitcoin 56.198 USD (-8,56% 24h, zuvor -9,38%), Ethereum 1.559,07 USD (-9,50% 24h), Solana 65,79 USD (-8,59% 24h), Avalanche 6,14 USD (-9,97% 24h), Dogecoin 0,051698 USD (-9,03% 24h), XRP 0,874 USD (-8,86% 24h), Cardano 0,1353 USD (-8,29% 24h); Fear&Greed-Index unveraendert bei 12 (Extreme Angst, alternative.me). Kein bestaetigtes Reversal-Signal, nur eine marginale Verlangsamung des Abverkaufstempos ohne neuen stuetzenden Katalysator.",
+    "decision": "Kein Trade in diesem Lauf: GOOGL (pos-0031) bleibt offen und unveraendert bei 265,29 USD (-6,41%, Aktienmarkt am Wochenende geschlossen). Kein Krypto-Kauf: Der Abverkauf verlangsamt sich zwar leicht (BTC 24h-Verlust von -9,38% auf -8,56%), bleibt aber ein synchroner Abverkauf ohne bestaetigtes Bodenbildungs- oder Reversal-Signal - kein ueberzeugender Einstiegspunkt trotz hohen freien Kapitals.",
+    "reasoning": "Spekulatives Risikoprofil erlaubt kurzfristiges Trading, erzwingt aber keinen Handel. Ausserhalb der Boersenzeiten (Wochenende) sind Aktien/ETFs/Rohstoffe nicht handelbar, GOOGL bleibt daher unveraendert gehalten; die Position naehert sich weiterhin der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%), hat sie aber noch nicht erreicht. Fuer Krypto gilt: eine blosse Verlangsamung des Abverkauftempos (-9,38% auf -8,56% 24h bei BTC) ist noch kein bestaetigtes Reversal - 'Messerfangen' ohne Bodenbestaetigung wird weiterhin vermieden, daher kein Kauf trotz hohen freien Kapitals (~107.268 EUR).",
     "positionIds": [
       "pos-0031"
     ],
@@ -14009,6 +14009,11 @@
       {
         "time": "05:08",
         "note": "Keine Aenderung. GOOGL unveraendert bei 265,29 USD (-6,41%, Wochenende, keine frischere Kursquelle). Krypto-Abverkauf eskaliert deutlich: BTC 55.989 USD (-9,38% 24h, vorher -6,00%), ETH -10,27%, SOL -9,37%, AVAX -10,76%, DOGE -9,79%, XRP -8,56%, ADA -9,11%; F&G Index unveraendert 12 (Extreme Angst). Kein Kaufsignal, Lage verschlechtert sich beschleunigt.",
+        "portfolioValue": 748.69
+      },
+      {
+        "time": "06:08",
+        "note": "Keine Aenderung. GOOGL unveraendert bei 265,29 USD (-6,41%, Wochenende, keine frischere Kursquelle). Krypto-Abverkauf leicht verlangsamt aber weiterhin Extreme Angst (F&G 12), BTC 56.198 USD (-8,56% 24h, zuvor -9,38%), kein bestaetigtes Reversal, kein Kaufsignal.",
         "portfolioValue": 748.69
       }
     ]
