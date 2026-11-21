@@ -13973,9 +13973,9 @@
   },
   {
     "date": "2026-11-21",
-    "marketOverview": "Samstagnacht (01:07 CET), weiterhin Wochenende - Aktien/ETFs/Rohstoffe nicht handelbar. GOOGL (pos-0031) bleibt ohne frischere Kursquelle bei 265,29 USD (-6,41%). Kryptomarkt setzt den synchronen Abverkauf fort: Bitcoin laut CoinGecko-Live-API 58.824 USD (-5,03% 24h), Ethereum 1.621,10 USD (-7,73% 24h), Solana 68,79 USD (-5,88% 24h); Fear&Greed-Index weiterhin bei 12 (Extreme Angst, alternative.me). Keine Nachrichtenlage mit bestaetigtem Reversal- oder Bodenbildungssignal gefunden.",
-    "decision": "Kein Trade in diesem Lauf: GOOGL (pos-0031) bleibt offen und unveraendert bei 265,29 USD (-6,41%, Aktienmarkt weiterhin am Wochenende geschlossen). Kein Krypto-Kauf: BTC/ETH/SOL fallen weiter synchron (-5 bis -7,7% 24h) bei unveraendert extremer Angst (F&G 12) ohne neuen bestaetigten Gegenkatalysator.",
-    "reasoning": "Spekulatives Risikoprofil erlaubt kurzfristiges Trading, erzwingt aber keinen Handel. Ausserhalb der Boersenzeiten (Wochenende) sind Aktien/ETFs/Rohstoffe nicht handelbar, GOOGL bleibt daher unveraendert gehalten. Fuer Krypto fehlt trotz hohen freien Kapitals (~107.268 EUR) weiterhin ein konkreter, bestaetigter Reversal-Katalysator; ein reiner fortgesetzter Abverkauf in extremer Angststimmung ist passend zum bisherigen Muster kein Kaufsignal.",
+    "marketOverview": "Samstagnacht (02:08 CET), weiterhin Wochenende - Aktien/ETFs/Rohstoffe nicht handelbar. GOOGL (pos-0031) schloss Freitag unveraendert bei 265,29 USD (-6,41%); ein Afterhours-Ausschlag auf 269,85 USD (duenner Handel, 19:57 EST) wird mangels Verlaesslichkeit nicht als Kursupdate uebernommen. Kryptomarkt setzt den synchronen Abverkauf fort (CoinGecko live): Bitcoin 58.920 USD (-5,54% 24h), Ethereum 1.618,87 USD (-8,18% 24h), Solana 68,78 USD (-6,05% 24h), Avalanche 6,51 USD (-6,99% 24h), Dogecoin 0,05432 USD (-6,77% 24h); Fear&Greed-Index unveraendert bei 12 (Extreme Angst, alternative.me). Kein bestaetigtes Reversal- oder Bodenbildungssignal erkennbar.",
+    "decision": "Kein Trade in diesem Lauf: GOOGL (pos-0031) bleibt offen und unveraendert bei 265,29 USD (-6,41%, Aktienmarkt weiterhin am Wochenende geschlossen). Kein Krypto-Kauf: BTC/ETH/SOL/AVAX/DOGE fallen weiter synchron (-5,5 bis -8,2% 24h) bei unveraendert extremer Angst (F&G 12) ohne neuen bestaetigten Gegenkatalysator.",
+    "reasoning": "Spekulatives Risikoprofil erlaubt kurzfristiges Trading, erzwingt aber keinen Handel. Ausserhalb der Boersenzeiten (Wochenende) sind Aktien/ETFs/Rohstoffe nicht handelbar, GOOGL bleibt daher unveraendert gehalten und naehert sich weiter der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%), ohne sie bereits zu erreichen. Fuer Krypto fehlt trotz hohen freien Kapitals (~107.268 EUR) weiterhin ein konkreter, bestaetigter Reversal-Katalysator; ein reiner fortgesetzter, synchroner Abverkauf in extremer Angststimmung ist passend zum bisherigen Muster kein Kaufsignal.",
     "positionIds": [
       "pos-0031"
     ],
@@ -13989,6 +13989,11 @@
       {
         "time": "01:07",
         "note": "Keine Aenderung. GOOGL unveraendert bei 265,29 USD (-6,41%, Wochenende). Krypto weiter Extreme Angst (F&G 12), BTC 58.824 USD (-5,03% 24h), kein Kaufsignal.",
+        "portfolioValue": 748.69
+      },
+      {
+        "time": "02:08",
+        "note": "Keine Aenderung. GOOGL unveraendert bei 265,29 USD (-6,41%, Wochenende, Afterhours-Ausschlag auf 269,85 USD nicht uebernommen). Krypto weiter synchroner Abverkauf: BTC 58.920 USD (-5,54% 24h), ETH -8,18%, SOL -6,05%, AVAX -6,99%, DOGE -6,77%; F&G Index unveraendert 12 (Extreme Angst). Kein Kaufsignal.",
         "portfolioValue": 748.69
       }
     ]
