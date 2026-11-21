@@ -13973,9 +13973,9 @@
   },
   {
     "date": "2026-11-21",
-    "marketOverview": "Aktienmaerkte am Wochenende weiterhin geschlossen (GOOGL Freitagsschluss 265,29 USD, -6,41% seit Kauf, keine frischere Kursquelle). Kryptomarkt setzt die leichte Erholung fort, wenn auch mit etwas geringerem Tempo bei Bitcoin (CoinGecko live): BTC 60.301 USD (+3,26% 24h), ETH 1.685,02 USD (+5,08%), SOL 70,49 USD (+3,60%), AVAX 6,63 USD (+2,45%), DOGE 0,0552 USD (+4,01%), XRP 0,9348 USD (+4,60%), ADA 0,1449 USD (+4,05%), LINK 8,64 USD (+3,50%). Fear & Greed Index unveraendert bei 12 (Extreme Angst) seit vielen Laeufen - die fortgesetzte, aber weiterhin moderate Erholung ist weiterhin kein bestaetigtes Reversal-Signal.",
-    "decision": "Kein Trade in diesem Lauf (22. Lauf des Tages): GOOGL (pos-0031) bleibt offen und unveraendert bei 265,29 USD (-6,41%, Aktienmarkt am Wochenende geschlossen, keine frischere Kursquelle). Kein Krypto-Kauf: Die breite Erholung bei ETH/SOL/XRP/ADA/DOGE/LINK setzt sich fort, BTC wird aber etwas langsamer - trotz hohem freiem Kapital reicht das nicht als ueberzeugendes, bestaetigtes Kaufsignal, solange der Markt in Extreme Angst (F&G 12) verbleibt.",
-    "reasoning": "Spekulatives Risikoprofil erlaubt kurzfristiges Handeln, erfordert aber ein ueberzeugendes, bestaetigtes Signal (Ausbruch, Reversal oder vergleichbarer Katalysator). Die anhaltende Extreme-Angst-Stimmung (F&G 12 seit vielen Stunden unveraendert) bei nur moderater, unbestaetigter Erholung reicht nicht aus, um eine neue spekulative Position einzugehen. GOOGL bleibt wegen geschlossenem Aktienmarkt am Wochenende unveraendert im Depot; die Stop-Loss-Schwelle (-6,5 bis -7,5%) ist mit -6,41% weiterhin knapp nicht erreicht.",
+    "marketOverview": "Aktienmaerkte am Wochenende weiterhin geschlossen (GOOGL Freitagsschluss 265,29 USD, -6,41% seit Kauf, keine frischere Kursquelle). Kryptomarkt setzt die leichte Erholung fort, Tempo gegenueber dem letzten Lauf kaum veraendert (CoinGecko live): BTC 60.397 USD (+3,60% 24h), ETH 1.684,99 USD (+5,18%), SOL 70,49 USD (+4,71%), AVAX 6,64 USD (+3,18%), DOGE 0,05521 USD (+4,93%), XRP 0,93205 USD (+5,21%), ADA 0,14479 USD (+4,10%), LINK 8,62 USD (+3,84%). Fear & Greed Index unveraendert bei 12 (Extreme Angst) seit vielen Laeufen - weiterhin kein bestaetigtes Reversal-Signal, keine neuen Katalysatoren laut aktueller Suche.",
+    "decision": "Kein Trade in diesem Lauf (23. Lauf des Tages): GOOGL (pos-0031) bleibt offen und unveraendert bei 265,29 USD (-6,41%, Aktienmarkt am Wochenende geschlossen, keine frischere Kursquelle). Kein Krypto-Kauf: Die Erholung bei BTC/ETH/SOL/XRP/ADA/DOGE/LINK haelt an, ist aber seit Stunden nur eine langsame Fortsetzung ohne neuen Katalysator - bei unveraendertem F&G von 12 (Extreme Angst) reicht das nicht als ueberzeugendes, bestaetigtes Kaufsignal, trotz hohem freiem Kapital (~107.268 EUR).",
+    "reasoning": "Spekulatives Risikoprofil erlaubt kurzfristiges Handeln, erfordert aber ein ueberzeugendes, bestaetigtes Signal (Ausbruch, Reversal oder vergleichbarer Katalysator). Die anhaltende Extreme-Angst-Stimmung (F&G 12 seit vielen Stunden unveraendert) bei nur langsamer, unbestaetigter Erholung reicht nicht aus, um eine neue spekulative Position einzugehen. GOOGL bleibt wegen geschlossenem Aktienmarkt am Wochenende unveraendert im Depot; die Stop-Loss-Schwelle (-6,5 bis -7,5%) ist mit -6,41% weiterhin knapp nicht erreicht.",
     "positionIds": [
       "pos-0031"
     ],
@@ -14089,6 +14089,11 @@
       {
         "time": "21:07",
         "note": "Keine Aenderung. GOOGL unveraendert bei 265,29 USD (-6,41%, Wochenende, keine frischere Kursquelle). Krypto-Erholung setzt sich fort, Tempo bei BTC etwas geringer: BTC 60.301 USD (+3,26% 24h), ETH 1.685,02 USD (+5,08%), SOL 70,49 USD (+3,60%), AVAX 6,63 USD (+2,45%), DOGE 0,0552 USD (+4,01%), XRP 0,9348 USD (+4,60%), ADA 0,1449 USD (+4,05%), LINK 8,64 USD (+3,50%). F&G Index weiterhin 12 (Extreme Angst). Kein Kaufsignal.",
+        "portfolioValue": 748.69
+      },
+      {
+        "time": "22:08",
+        "note": "Keine Aenderung. GOOGL unveraendert bei 265,29 USD (-6,41%, Wochenende, keine frischere Kursquelle). Krypto-Erholung setzt sich fort, Tempo kaum veraendert zum letzten Lauf: BTC 60.397 USD (+3,60% 24h), ETH +5,18%, SOL +4,71%, AVAX +3,18%, DOGE +4,93%, XRP +5,21%, ADA +4,10%, LINK +3,84%; F&G-Index unveraendert 12 (Extreme Angst). Kein neuer Katalysator laut Recherche, kein Kaufsignal.",
         "portfolioValue": 748.69
       }
     ]
