@@ -13973,9 +13973,9 @@
   },
   {
     "date": "2026-11-21",
-    "marketOverview": "Aktienmaerkte am Wochenende weiterhin geschlossen (GOOGL Freitagsschluss 265,29 USD, -6,41% seit Kauf, knapp innerhalb der Stop-Loss-Schwelle). Kryptomarkt bleibt im 14. Lauf des Tages in einem schweren, mehrtaegigen Abverkauf: Bitcoin unterschritt am 20.11. die Marke von 60.000 USD und fiel in der Nacht auf den 21.11. zeitweise unter 56.000 USD (tiefstes Niveau seit rund zwei Jahren), erholte sich seither etwas auf ca. 57.800-58.000 USD. Fear&Greed-Index je nach Quelle zwischen 6 und 12 (Extreme Angst, CoinMarketCap-Variante nahe dem Jahrestief von 5 am 06.02.). Treiber bleiben der breite AI-/Chip-Ausverkauf (u.a. im Zusammenhang mit der Anthropic-IPO) sowie anhaltende Abflueesse aus US-Spot-Bitcoin-ETFs (zuletzt rund 582 Mio. USD an einem Tag). Kein bestaetigtes Reversal oder neuer stuetzender Katalysator gefunden. Rohstoffe am Wochenende nicht handelbar.",
-    "decision": "Kein Trade in diesem Lauf (14. Lauf des Tages): GOOGL (pos-0031) bleibt offen und unveraendert bei 265,29 USD (-6,41%, Aktienmarkt am Wochenende geschlossen, keine frischere Kursquelle). Kein Krypto-Kauf: Der Kryptomarkt befindet sich weiterhin in einem schweren, bereits mehrtaegigen Abverkauf ohne bestaetigte Bodenbildung - trotz zwischenzeitlicher leichter Erholung von unter 56.000 auf ca. 58.000 USD bleibt die Lage fragil und ohne klares Kaufsignal, trotz hohem freiem Kapital (~107.268 EUR).",
-    "reasoning": "Spekulatives Risikoprofil erlaubt kurzfristiges Handeln, aber ein noch laufender, tiefer Krypto-Crash ohne bestaetigtes Reversal-Signal ist kein ueberzeugendes Einstiegssignal - ein verfrueher Dip-Kauf in einem Markt ohne Bodenbildung widerspraeche dem etablierten, disziplinierten Muster dieses Portfolios. GOOGL kann am Wochenende nicht gehandelt werden und bleibt unveraendert offen, noch knapp innerhalb der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%).",
+    "marketOverview": "Aktienmaerkte am Wochenende weiterhin geschlossen (GOOGL Freitagsschluss 265,29 USD, -6,41% seit Kauf, knapp innerhalb der Stop-Loss-Schwelle). Kryptomarkt zeigt im 15. Lauf des Tages eine leichte Stabilisierung nach dem mehrtaegigen Abverkauf: BTC 58.972 USD (-4,24% 24h, CoinGecko live), ETH 1.666,58 USD (-4,14%), SOL 69,34 USD (-2,37%) - jeweils weniger negativ als in den Vorlaeufen (BTC zuvor -6,5%, ETH -7%, SOL -6 bis -7%). Fear&Greed-Index unveraendert bei 12 (Extreme Angst) trotz der Preiserholung, keine bestaetigte Bodenbildung. Rohstoffe am Wochenende nicht handelbar.",
+    "decision": "Kein Trade in diesem Lauf (15. Lauf des Tages): GOOGL (pos-0031) bleibt offen und unveraendert bei 265,29 USD (-6,41%, Aktienmarkt am Wochenende geschlossen, keine frischere Kursquelle). Kein Krypto-Kauf: Die leichte Erholung von BTC/ETH/SOL ist zu schwach und nicht durch den Fear&Greed-Index (weiterhin 12) bestaetigt, um als verlaessliches Reversal-Signal zu gelten, trotz hohem freiem Kapital (~107.268 EUR).",
+    "reasoning": "Spekulatives Risikoprofil erlaubt kurzfristiges Handeln, aber eine unbestaetigte technische Gegenbewegung innerhalb eines weiterhin extremen Angstregimes ist kein ueberzeugendes Einstiegssignal - ein verfrueher Dip-Kauf ohne Bestaetigung widerspraeche dem disziplinierten Muster dieses Portfolios. GOOGL kann am Wochenende nicht gehandelt werden und bleibt unveraendert offen, noch knapp innerhalb der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%).",
     "positionIds": [
       "pos-0031"
     ],
@@ -14049,6 +14049,11 @@
       {
         "time": "13:09",
         "note": "Keine Aenderung. GOOGL unveraendert bei 265,29 USD (-6,41%, Wochenende, keine frischere Kursquelle). Kryptomarkt weiterhin in schwerem Abverkauf: BTC unterschritt in der Nacht zeitweise 56.000 USD (tiefstes Niveau seit ~2 Jahren), aktuell Erholung auf ca. 57.800-58.000 USD; F&G Index je nach Quelle 6-12 (Extreme Angst). Treiber: AI-/Chip-Sektor-Ausverkauf (Anthropic-IPO-Umfeld), anhaltende Bitcoin-ETF-Abfluesse. Kein bestaetigtes Reversal, kein Kaufsignal.",
+        "portfolioValue": 748.69
+      },
+      {
+        "time": "14:09",
+        "note": "Keine Aenderung. GOOGL unveraendert bei 265,29 USD (-6,41%, Wochenende, keine frischere Kursquelle). Kryptomarkt leicht stabilisiert: BTC 58.972 USD (-4,24%), ETH 1.666,58 USD (-4,14%), SOL 69,34 USD (-2,37%), jeweils weniger negativ als zuvor; F&G-Index unveraendert 12 (Extreme Angst), kein bestaetigtes Reversal. Kein Kaufsignal.",
         "portfolioValue": 748.69
       }
     ]
