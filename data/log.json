@@ -13973,9 +13973,9 @@
   },
   {
     "date": "2026-11-21",
-    "marketOverview": "Samstagmorgen (07:08 CET), weiterhin Wochenende - Aktien/ETFs/Rohstoffe nicht handelbar. GOOGL (pos-0031) bleibt bei letztem verlaesslichen Kurs 265,29 USD (-6,41%), keine frischere Kursquelle. Kryptomarkt-Abverkauf (CoinGecko live) hat sich gegenueber dem Vorlauf wieder verschaerft statt weiter zu stabilisieren: Bitcoin 55.688 USD (-9,90% 24h, zuvor -8,56%), Ethereum 1.558,88 USD (-10,33% 24h), Solana 65,45 USD (-9,79% 24h), Avalanche 6,09 USD (-11,72% 24h), Dogecoin 0,05135 USD (-10,72% 24h), XRP 0,8692 USD (-10,23% 24h), Cardano 0,1348 USD (-9,91% 24h), Hyperliquid 56,26 USD (-14,28% 24h); Fear&Greed-Index unveraendert bei 12 (Extreme Angst, alternative.me). Kein bestaetigtes Reversal-Signal, der Abverkauf beschleunigt sich erneut.",
-    "decision": "Kein Trade in diesem Lauf: GOOGL (pos-0031) bleibt offen und unveraendert bei 265,29 USD (-6,41%, Aktienmarkt am Wochenende geschlossen). Kein Krypto-Kauf: Der synchrone Abverkauf verschaerft sich wieder (BTC 24h-Verlust von -8,56% auf -9,90%) statt sich zu stabilisieren - weiterhin kein bestaetigtes Bodenbildungs- oder Reversal-Signal, daher kein 'Messerfangen' trotz hohen freien Kapitals.",
-    "reasoning": "Spekulatives Risikoprofil erlaubt kurzfristiges Trading, erzwingt aber keinen Handel. Ausserhalb der Boersenzeiten (Wochenende) sind Aktien/ETFs/Rohstoffe nicht handelbar, GOOGL bleibt daher unveraendert gehalten; die Position naehert sich weiterhin der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%), hat sie aber noch nicht erreicht. Fuer Krypto gilt: Der Abverkauf hat sich gegenueber dem Vorlauf wieder beschleunigt statt sich zu stabilisieren (BTC -9,90% 24h, Hyperliquid -14,28% 24h) - kein Kaufsignal, da weiterhin kein Boden bestaetigt ist. Freies Kapital bleibt bei ca. 107.268 EUR, aber ohne ueberzeugende Gelegenheit wird nicht investiert.",
+    "marketOverview": "Aktienmaerkte am Wochenende geschlossen (GOOGL Freitagsschluss 265,29 USD, -6,41% seit Kauf). Der Kryptomarkt befindet sich in einem sich weiter verschaerfenden Crash: BTC fiel auf ein Zweijahrestief von rund 55.700-58.500 USD (bis -9,96% in 24h), ausgeloest durch einen breiten Tech-/KI-Sektor-Ausverkauf an der Wall Street (NVIDIA-Selloff, ~7 Bio. USD Marktkapitalisierungsverlust) mit Liquidationen von bis zu 2,4 Mrd. USD; der Fear&Greed-Index fiel auf 8 (Extreme Angst). Rohstoffe am Wochenende nicht handelbar.",
+    "decision": "Kein Trade in diesem Lauf (09. Lauf des Tages): GOOGL (pos-0031) bleibt offen und unveraendert bei 265,29 USD (-6,41%, Aktienmarkt am Wochenende geschlossen). Kein Krypto-Kauf: Der synchrone Kryptomarkt-Abverkauf verschaerft sich weiter drastisch (BTC -5,6% bis -9,96% 24h, Fear&Greed auf 8) statt sich zu stabilisieren - weiterhin kein bestaetigtes Reversal oder ueberzeugendes Kaufsignal trotz hohem freiem Kapital (~107.268 EUR).",
+    "reasoning": "Spekulatives Risikoprofil erlaubt kurzfristiges Handeln, aber ein sich weiter verschaerfender, synchroner Crash ohne erkennbare Bodenbildung ist kein ueberzeugendes Einstiegssignal, sondern erhoehtes Verlustrisiko. GOOGL kann am Wochenende nicht gehandelt werden und bleibt unveraendert offen.",
     "positionIds": [
       "pos-0031"
     ],
@@ -14019,6 +14019,11 @@
       {
         "time": "07:08",
         "note": "Keine Aenderung. GOOGL unveraendert bei 265,29 USD (-6,41%, Wochenende). Kryptomarkt-Abverkauf verschaerft sich wieder (BTC 55.688 USD, -9,90% 24h, zuvor -8,56%; HYPE -14,28% 24h), F&G Index unveraendert 12 (Extreme Angst). Kein Kaufsignal.",
+        "portfolioValue": 748.69
+      },
+      {
+        "time": "08:08",
+        "note": "Keine Aenderung. GOOGL unveraendert bei 265,29 USD (-6,41%, Wochenende, regulaerer Freitagsschluss, keine frischere Kursquelle). Kryptomarkt-Crash verschaerft sich weiter drastisch: BTC fiel laut mehreren Quellen (CoinCodex, CryptoTimes, Marketalleys, BraveNewCoin) auf ca. 55.700-58.500 USD (-5,6% bis -9,96% 24h), tiefster Stand seit rund zwei Jahren, ausgeloest durch einen breiten Wall-Street-Ausverkauf (NVIDIA-Selloff, rund 7 Bio. USD Marktkapitalisierungsverlust) und Liquidationen von 1,76-2,4 Mrd. USD; ETH -8 bis -10%, Fear&Greed-Index auf 8 (Extreme Angst, noch tiefer als zuvor). Kein Kaufsignal - im Gegenteil eine sich verschaerfende Crash-Situation ohne Bodenbildung, daher bewusst kein Einstieg trotz vorhandenem freiem Kapital.",
         "portfolioValue": 748.69
       }
     ]
