@@ -13973,9 +13973,9 @@
   },
   {
     "date": "2026-11-21",
-    "marketOverview": "Aktienmaerkte am Wochenende weiterhin geschlossen (GOOGL Freitagsschluss 265,29 USD, -6,41% seit Kauf, noch knapp innerhalb der Stop-Loss-Schwelle). Der Kryptomarkt-Crash dauert an, hat sich aber leicht abgeschwaecht: BTC bei rund 57.800 USD (-6,5% 24h), nach dem Zweijahrestief vom fruehen Morgen (55.700-58.500 USD); alle grossen Altcoins (ETH, SOL, AVAX, DOGE, ADA, XRP) notieren weiterhin 7-9% im Minus binnen 24h. Fear&Greed-Index bei 12 (Extreme Angst), leicht erholt vom Tiefstand 8. Rohstoffe am Wochenende nicht handelbar.",
-    "decision": "Kein Trade in diesem Lauf (10. Lauf des Tages): GOOGL (pos-0031) bleibt offen und unveraendert bei 265,29 USD (-6,41%, Aktienmarkt am Wochenende geschlossen). Kein Krypto-Kauf: Der Kryptomarkt bleibt trotz leichter Verlangsamung klar im Abverkauf (BTC -6,54% 24h, F&G 12) ohne bestaetigtes Reversal - kein ueberzeugendes Kaufsignal trotz hohem freiem Kapital (~107.268 EUR).",
-    "reasoning": "Spekulatives Risikoprofil erlaubt kurzfristiges Handeln, aber eine sich erst leicht stabilisierende, weiterhin breit negative Krypto-Lage ohne bestaetigte Bodenbildung ist kein ueberzeugendes Einstiegssignal. GOOGL kann am Wochenende nicht gehandelt werden und bleibt unveraendert offen.",
+    "marketOverview": "Aktienmaerkte am Wochenende weiterhin geschlossen (GOOGL Freitagsschluss 265,29 USD, -6,41% seit Kauf, noch knapp innerhalb der Stop-Loss-Schwelle). Kryptomarkt-Crash stagniert auf niedrigem Niveau ohne Reversal: BTC bei rund 57.900 USD (-6,1% 24h, kaum veraendert zum letzten Lauf), ETH -6,4%, SOL -6,5%, AVAX -7,8%, DOGE -7,2%, ADA -6,9%, XRP -6,8%. Fear&Greed-Index weiterhin bei 12 (Extreme Angst). Rohstoffe am Wochenende nicht handelbar.",
+    "decision": "Kein Trade in diesem Lauf (11. Lauf des Tages): GOOGL (pos-0031) bleibt offen und unveraendert bei 265,29 USD (-6,41%, Aktienmarkt am Wochenende geschlossen). Kein Krypto-Kauf: Kryptomarkt verharrt auf niedrigem Niveau in Extreme Angst (F&G 12) ohne bestaetigtes Reversal - kein ueberzeugendes Kaufsignal trotz hohem freiem Kapital (~107.268 EUR).",
+    "reasoning": "Spekulatives Risikoprofil erlaubt kurzfristiges Handeln, aber eine stagnierende, weiterhin breit negative Krypto-Lage ohne bestaetigte Bodenbildung oder Reversal-Signal ist kein ueberzeugendes Einstiegssignal. GOOGL kann am Wochenende nicht gehandelt werden und bleibt unveraendert offen.",
     "positionIds": [
       "pos-0031"
     ],
@@ -14029,6 +14029,11 @@
       {
         "time": "09:08",
         "note": "Keine Aenderung. GOOGL unveraendert bei 265,29 USD (-6,41%, Wochenende, regulaerer Freitagsschluss, keine frischere Kursquelle). Kryptomarkt-Crash leicht weniger extrem aber weiterhin breit negativ: BTC 57.819 USD (-6,54% 24h, zuvor 55.700-58.500 USD), ETH 1.626,29 USD (-7,22%), SOL 67,23 USD (-7,45%), AVAX 6,28 USD (-9,24%), DOGE 0,05278 USD (-8,28%), ADA 0,1384 USD (-7,80%), XRP 0,8903 USD (-7,79%) (CoinGecko live). Fear&Greed-Index bei 12 (Extreme Angst, leichte Erholung von vorherigem Tiefstand 8). Kein bestaetigtes Reversal, weiterhin kein ueberzeugendes Kaufsignal trotz hohem freiem Kapital (~107.268 EUR).",
+        "portfolioValue": 748.69
+      },
+      {
+        "time": "10:08",
+        "note": "Keine Aenderung. GOOGL unveraendert bei 265,29 USD (-6,41%, Wochenende, keine frischere Kursquelle). Kryptomarkt stagniert auf niedrigem Niveau: BTC 57.891 USD (-6,10% 24h, kaum veraendert zu 09:08), ETH -6,38%, SOL -6,45%, AVAX -7,78%, DOGE -7,15%, ADA -6,86%, XRP -6,85%; F&G Index unveraendert 12 (Extreme Angst). Kein Kaufsignal.",
         "portfolioValue": 748.69
       }
     ]
