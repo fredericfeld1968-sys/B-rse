@@ -14102,5 +14102,22 @@
         "portfolioValue": 748.69
       }
     ]
+  },
+  {
+    "date": "2026-11-22",
+    "marketOverview": "Neuer Kalendertag (Sonntag), Aktienmaerkte weiterhin geschlossen - GOOGL (pos-0031) bleibt bei 265,29 USD (-6,41%, letzter bestaetigter Freitagsschluss, keine neuere belastbare Kursquelle fuer einen spaeteren Schluss gefunden). Kryptomarkt setzt die Erholung vom Crash-Tief (BTC zeitweise unter 56.000 USD) fort: BTC aktuell ca. 60.000-60.300 USD, ETH ca. 1.680-1.690 USD, SOL fuehrt mit rund 70-71 USD (+rund 3-4% 24h) die Erholung an. Fear&Greed-Index bleibt laut mehreren Quellen in Extremer Angst (Werte zwischen 6 und 34 je nach Anbieter, Konsens weiterhin um 12), ein bestaetigtes Reversal-Signal liegt nicht vor.",
+    "decision": "Kein Trade in diesem Lauf (1. Lauf des Tages, 00:08 Uhr): GOOGL (pos-0031) bleibt offen und unveraendert bei 265,29 USD (-6,41%, Aktienmarkt am Wochenende geschlossen). Kein Krypto-Kauf: Die Erholung bei BTC/ETH/SOL setzt sich zwar fort, aber ohne neuen Katalysator und bei weiterhin unveraendert extremer Angst-Stimmung reicht das nicht als ueberzeugendes, bestaetigtes Kaufsignal - trotz hohem freiem Kapital (~108.268 EUR nach Tagesbudget-Gutschrift).",
+    "reasoning": "Spekulatives Risikoprofil erlaubt kurzfristiges Handeln, erfordert aber ein ueberzeugendes, bestaetigtes Signal (Ausbruch, Reversal oder vergleichbarer Katalysator). Die anhaltende Extreme-Angst-Stimmung bei nur langsamer Erholung reicht nicht aus, um eine neue spekulative Position einzugehen. GOOGL bleibt wegen geschlossenem Aktienmarkt am Wochenende unveraendert im Depot; die Stop-Loss-Schwelle (-6,5 bis -7,5%) ist mit -6,41% weiterhin knapp nicht erreicht. Tagesbudget-Gutschrift fuer den 22.11. wurde vorgenommen (totalFreshCapitalEur 109.000 -> 110.000 EUR).",
+    "positionIds": [
+      "pos-0031"
+    ],
+    "portfolioValueEnd": 748.69,
+    "updates": [
+      {
+        "time": "00:08",
+        "note": "Neuer Tag: Tagesbudget gutgeschrieben (+1000 EUR, gesamt 110.000 EUR). Kein Trade. GOOGL unveraendert bei 265,29 USD (-6,41%, keine frischere Kursquelle, Wochenende). Krypto-Erholung haelt an (BTC ~60.000-60.300 USD), F&G weiterhin Extreme Angst (~12), kein Kaufsignal.",
+        "portfolioValue": 748.69
+      }
+    ]
   }
 ]
