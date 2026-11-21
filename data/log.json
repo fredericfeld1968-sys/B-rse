@@ -13973,9 +13973,9 @@
   },
   {
     "date": "2026-11-21",
-    "marketOverview": "Aktienmaerkte am Wochenende geschlossen (GOOGL Freitagsschluss 265,29 USD, -6,41% seit Kauf). Der Kryptomarkt befindet sich in einem sich weiter verschaerfenden Crash: BTC fiel auf ein Zweijahrestief von rund 55.700-58.500 USD (bis -9,96% in 24h), ausgeloest durch einen breiten Tech-/KI-Sektor-Ausverkauf an der Wall Street (NVIDIA-Selloff, ~7 Bio. USD Marktkapitalisierungsverlust) mit Liquidationen von bis zu 2,4 Mrd. USD; der Fear&Greed-Index fiel auf 8 (Extreme Angst). Rohstoffe am Wochenende nicht handelbar.",
-    "decision": "Kein Trade in diesem Lauf (09. Lauf des Tages): GOOGL (pos-0031) bleibt offen und unveraendert bei 265,29 USD (-6,41%, Aktienmarkt am Wochenende geschlossen). Kein Krypto-Kauf: Der synchrone Kryptomarkt-Abverkauf verschaerft sich weiter drastisch (BTC -5,6% bis -9,96% 24h, Fear&Greed auf 8) statt sich zu stabilisieren - weiterhin kein bestaetigtes Reversal oder ueberzeugendes Kaufsignal trotz hohem freiem Kapital (~107.268 EUR).",
-    "reasoning": "Spekulatives Risikoprofil erlaubt kurzfristiges Handeln, aber ein sich weiter verschaerfender, synchroner Crash ohne erkennbare Bodenbildung ist kein ueberzeugendes Einstiegssignal, sondern erhoehtes Verlustrisiko. GOOGL kann am Wochenende nicht gehandelt werden und bleibt unveraendert offen.",
+    "marketOverview": "Aktienmaerkte am Wochenende weiterhin geschlossen (GOOGL Freitagsschluss 265,29 USD, -6,41% seit Kauf, noch knapp innerhalb der Stop-Loss-Schwelle). Der Kryptomarkt-Crash dauert an, hat sich aber leicht abgeschwaecht: BTC bei rund 57.800 USD (-6,5% 24h), nach dem Zweijahrestief vom fruehen Morgen (55.700-58.500 USD); alle grossen Altcoins (ETH, SOL, AVAX, DOGE, ADA, XRP) notieren weiterhin 7-9% im Minus binnen 24h. Fear&Greed-Index bei 12 (Extreme Angst), leicht erholt vom Tiefstand 8. Rohstoffe am Wochenende nicht handelbar.",
+    "decision": "Kein Trade in diesem Lauf (10. Lauf des Tages): GOOGL (pos-0031) bleibt offen und unveraendert bei 265,29 USD (-6,41%, Aktienmarkt am Wochenende geschlossen). Kein Krypto-Kauf: Der Kryptomarkt bleibt trotz leichter Verlangsamung klar im Abverkauf (BTC -6,54% 24h, F&G 12) ohne bestaetigtes Reversal - kein ueberzeugendes Kaufsignal trotz hohem freiem Kapital (~107.268 EUR).",
+    "reasoning": "Spekulatives Risikoprofil erlaubt kurzfristiges Handeln, aber eine sich erst leicht stabilisierende, weiterhin breit negative Krypto-Lage ohne bestaetigte Bodenbildung ist kein ueberzeugendes Einstiegssignal. GOOGL kann am Wochenende nicht gehandelt werden und bleibt unveraendert offen.",
     "positionIds": [
       "pos-0031"
     ],
@@ -14024,6 +14024,11 @@
       {
         "time": "08:08",
         "note": "Keine Aenderung. GOOGL unveraendert bei 265,29 USD (-6,41%, Wochenende, regulaerer Freitagsschluss, keine frischere Kursquelle). Kryptomarkt-Crash verschaerft sich weiter drastisch: BTC fiel laut mehreren Quellen (CoinCodex, CryptoTimes, Marketalleys, BraveNewCoin) auf ca. 55.700-58.500 USD (-5,6% bis -9,96% 24h), tiefster Stand seit rund zwei Jahren, ausgeloest durch einen breiten Wall-Street-Ausverkauf (NVIDIA-Selloff, rund 7 Bio. USD Marktkapitalisierungsverlust) und Liquidationen von 1,76-2,4 Mrd. USD; ETH -8 bis -10%, Fear&Greed-Index auf 8 (Extreme Angst, noch tiefer als zuvor). Kein Kaufsignal - im Gegenteil eine sich verschaerfende Crash-Situation ohne Bodenbildung, daher bewusst kein Einstieg trotz vorhandenem freiem Kapital.",
+        "portfolioValue": 748.69
+      },
+      {
+        "time": "09:08",
+        "note": "Keine Aenderung. GOOGL unveraendert bei 265,29 USD (-6,41%, Wochenende, regulaerer Freitagsschluss, keine frischere Kursquelle). Kryptomarkt-Crash leicht weniger extrem aber weiterhin breit negativ: BTC 57.819 USD (-6,54% 24h, zuvor 55.700-58.500 USD), ETH 1.626,29 USD (-7,22%), SOL 67,23 USD (-7,45%), AVAX 6,28 USD (-9,24%), DOGE 0,05278 USD (-8,28%), ADA 0,1384 USD (-7,80%), XRP 0,8903 USD (-7,79%) (CoinGecko live). Fear&Greed-Index bei 12 (Extreme Angst, leichte Erholung von vorherigem Tiefstand 8). Kein bestaetigtes Reversal, weiterhin kein ueberzeugendes Kaufsignal trotz hohem freiem Kapital (~107.268 EUR).",
         "portfolioValue": 748.69
       }
     ]
