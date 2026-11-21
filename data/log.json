@@ -13974,7 +13974,7 @@
   {
     "date": "2026-11-21",
     "marketOverview": "Aktienmaerkte am Wochenende weiterhin geschlossen (GOOGL Freitagsschluss 265,29 USD, -6,41% seit Kauf, knapp innerhalb der Stop-Loss-Schwelle). Kryptomarkt verharrt im 12. Lauf des Tages unveraendert auf niedrigem Niveau in Extreme Angst: BTC 57.928 USD (-6,24% 24h, CoinGecko live), ETH -6,59%, SOL -5,82%, AVAX -7,42%, DOGE -7,23%, ADA -6,82%, XRP -7,13%, LINK -5,58%. Fear&Greed-Index unveraendert bei 12 (Extreme Angst, Stand 00:00 UTC). Keine neuen Katalysatoren oder Reversal-Signale gefunden. Rohstoffe am Wochenende nicht handelbar.",
-    "decision": "Kein Trade in diesem Lauf (12. Lauf des Tages): GOOGL (pos-0031) bleibt offen und unveraendert bei 265,29 USD (-6,41%, Aktienmarkt am Wochenende geschlossen). Kein Krypto-Kauf: Kryptomarkt verharrt weiterhin auf niedrigem Niveau in Extreme Angst (F&G 12) ohne bestaetigtes Reversal - kein ueberzeugendes Kaufsignal trotz hohem freiem Kapital (~107.268 EUR).",
+    "decision": "Kein Trade in diesem Lauf (13. Lauf des Tages): GOOGL (pos-0031) bleibt offen und unveraendert bei 265,29 USD (-6,41%, Aktienmarkt am Wochenende geschlossen). Kein Krypto-Kauf: Kryptomarkt verharrt weiterhin auf niedrigem Niveau in Extreme Angst (F&G 12) ohne bestaetigtes Reversal - kein ueberzeugendes Kaufsignal trotz hohem freiem Kapital (~107.268 EUR).",
     "reasoning": "Spekulatives Risikoprofil erlaubt kurzfristiges Handeln, aber eine stagnierende, weiterhin breit negative Krypto-Lage ohne bestaetigte Bodenbildung oder Reversal-Signal ist kein ueberzeugendes Einstiegssignal. GOOGL kann am Wochenende nicht gehandelt werden und bleibt unveraendert offen, noch knapp innerhalb der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%).",
     "positionIds": [
       "pos-0031"
@@ -14039,6 +14039,11 @@
       {
         "time": "11:09",
         "note": "Keine Aenderung. GOOGL unveraendert bei 265,29 USD (-6,41%, Wochenende, keine frischere Kursquelle). Kryptomarkt unveraendert auf niedrigem Niveau: BTC 57.928 USD (-6,24% 24h), ETH -6,59%, SOL -5,82%, AVAX -7,42%, DOGE -7,23%, ADA -6,82%, XRP -7,13%; F&G Index unveraendert 12 (Extreme Angst). Kein Kaufsignal.",
+        "portfolioValue": 748.69
+      },
+      {
+        "time": "12:08",
+        "note": "Keine Aenderung. GOOGL unveraendert bei 265,29 USD (-6,41%, Wochenende, keine frischere Kursquelle). Kryptomarkt weiterhin unveraendert auf niedrigem Niveau: BTC 57.855 USD (-6,51% 24h, CoinGecko live), ETH -6,59%, SOL -5,85%, AVAX -7,64%, DOGE -7,15%, ADA -6,42%, XRP -6,62%; F&G Index unveraendert 12 (Extreme Angst). Kein bestaetigtes Reversal, kein Kaufsignal.",
         "portfolioValue": 748.69
       }
     ]
