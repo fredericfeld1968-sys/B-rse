@@ -14105,9 +14105,9 @@
   },
   {
     "date": "2026-11-22",
-    "marketOverview": "Sonntagmorgen (08:08 Uhr), Aktienmaerkte weiterhin geschlossen - GOOGL (pos-0031) bleibt beim letzten bestaetigten Freitagsschluss von 265,29 USD (-6,41%). Krypto: Websuche liefert nun eine etwas frischere, wenn auch nicht vollstaendig eindeutige Quelle (Sunday Guardian) mit BTC bei ca. 58.900 USD - niedriger als die zuvor genannten ca. 60.000-64.000 USD, also fortgesetzter Abwaertsdruck durch Makro-Gegenwind, ETF-Abfluesse und geopolitische Unsicherheit statt einer Erholung. Das stuetzt weiterhin die Einschaetzung Extreme Angst ohne bestaetigtes Reversal-Signal.",
-    "decision": "Kein Trade in diesem Lauf (9. Lauf des Tages, 08:08 Uhr): GOOGL (pos-0031) bleibt offen und unveraendert bei 265,29 USD (-6,41%, Aktienmarkt am Wochenende geschlossen). Kein Krypto-Kauf: die neue Quelle zeigt BTC weiter im Abwaertstrend (~58.900 USD) statt einer Erholung, also kein ueberzeugendes Kaufsignal trotz hohem freiem Kapital (~108.268 EUR).",
-    "reasoning": "Spekulatives Risikoprofil erlaubt kurzfristiges Handeln, erfordert aber ein ueberzeugendes, bestaetigtes Signal (Ausbruch, Reversal oder vergleichbarer Katalysator) statt reinem Markt-Beta-Rauschen. Die aktuellste verfuegbare Quelle deutet auf einen weiteren Kursrueckgang bei BTC (~58.900 USD, von zuvor ~60.000-64.000 USD) hin, begleitet von Makro-Gegenwind, ETF-Abfluessen und geopolitischer Unsicherheit - das ist ein Fortsetzungssignal der Schwaeche, kein Reversal, daher weiterhin kein Kauf. GOOGL bleibt wegen geschlossenem Aktienmarkt am Wochenende unveraendert im Depot; die Stop-Loss-Schwelle (-6,5 bis -7,5%) ist mit -6,41% weiterhin knapp nicht erreicht. Tagesbudget-Gutschrift fuer den 22.11. wurde bereits im ersten Lauf des Tages vorgenommen, capital.json bleibt in diesem Lauf unveraendert.",
+    "marketOverview": "Sonntagmorgen (09:07 Uhr), Aktienmaerkte weiterhin geschlossen - GOOGL (pos-0031) bleibt beim letzten bestaetigten Freitagsschluss von 265,29 USD (-6,41%). Krypto laut Live-API (CoinGecko): BTC leicht erholt auf ca. 59.011 USD (+2,13% 24h), SOL ~69,14 USD (+2,97%), XRP ~0,915 USD (+2,88%), DOGE ~0,0543 USD (+2,91%) - breite, aber moderate Erholung ueber den gesamten Kryptomarkt. Fear&Greed Index laut alternative.me weiterhin bei 11 (Extreme Angst), trotz der leichten Kurserholung also kein bestaetigtes Sentiment-Reversal.",
+    "decision": "Kein Trade in diesem Lauf (10. Lauf des Tages, 09:07 Uhr): GOOGL (pos-0031) bleibt offen und unveraendert bei 265,29 USD (-6,41%, Aktienmarkt am Wochenende geschlossen). Kein Krypto-Kauf: leichte, aber nicht ueberzeugende Erholung (BTC +2,13% 24h) bei weiterhin Fear&Greed 11 (Extreme Angst) - kein bestaetigtes Reversal-Signal trotz hohem freiem Kapital (~108.268 EUR).",
+    "reasoning": "Spekulatives Risikoprofil erlaubt kurzfristiges Handeln, erfordert aber ein ueberzeugendes, bestaetigtes Signal (Ausbruch, Reversal oder vergleichbarer Katalysator) statt reinem Markt-Beta-Rauschen. Die Live-Daten zeigen eine leichte, breite Erholung im Kryptomarkt (BTC/SOL/XRP/DOGE alle +2-3% in 24h), der Fear&Greed-Index verbleibt jedoch unveraendert bei 11 (Extreme Angst) - somit kein bestaetigtes Reversal, sondern moegliches kurzfristiges Rauschen innerhalb des Abwaertstrends. GOOGL bleibt wegen geschlossenem Aktienmarkt am Wochenende unveraendert im Depot; die Stop-Loss-Schwelle (-6,5 bis -7,5%) ist mit -6,41% weiterhin knapp nicht erreicht. Tagesbudget-Gutschrift fuer den 22.11. wurde bereits im ersten Lauf des Tages vorgenommen, capital.json bleibt in diesem Lauf unveraendert.",
     "positionIds": [
       "pos-0031"
     ],
@@ -14156,6 +14156,11 @@
       {
         "time": "08:08",
         "note": "Keine Aenderung. BTC laut neuerer Quelle ca. 58.900 USD (Abwaertstrend fortgesetzt statt Erholung), Makro-/ETF-/geopolitische Gegenwinde - kein Kaufsignal. GOOGL unveraendert (Wochenende).",
+        "portfolioValue": 748.69
+      },
+      {
+        "time": "09:07",
+        "note": "Keine Aenderung. Krypto leicht erholt (BTC ~59.011 USD, +2,13% 24h), aber F&G weiterhin 11 (Extreme Angst) - kein bestaetigtes Reversal-Signal. GOOGL unveraendert (Wochenende, Markt geschlossen).",
         "portfolioValue": 748.69
       }
     ]
