@@ -14105,14 +14105,14 @@
   },
   {
     "date": "2026-11-22",
-    "marketOverview": "Sonntagmorgen (11:09 Uhr), Aktienmaerkte weiterhin geschlossen - GOOGL (pos-0031) bleibt beim letzten bestaetigten Freitagsschluss von 265,29 USD (-6,41%). Krypto-Markt zeigt einen bestaetigten, breiten Bounce: Bitcoin erholt sich laut CoinDesk/crypto.news/Coinpedia um +9% von seinem seit September 2024 niedrigsten Stand (~55.130 USD nach 1,8 Mrd. USD Liquidationswelle) und erobert live (CoinGecko, 10:09 UTC) wieder die 60.000-USD-Marke (60.961 USD, +5,24% 24h); ETH, SOL, XRP, ADA, AVAX ziehen synchron mit +3,7 bis +4,7% mit. Fear&Greed-Index verbleibt dennoch bei 11 (Extreme Angst), eine Bodenbildung ist laut Analysten noch nicht bestaetigt.",
-    "decision": "Kauf in diesem Lauf (12. Lauf des Tages, 11:09 Uhr): Spekulative Momentum-Position in Bitcoin (800 EUR bei 60.961 USD) auf den bestaetigten, mehrfach unabhaengig belegten Bounce von 55.130 auf ueber 60.000 USD. GOOGL (pos-0031) bleibt unveraendert offen bei 265,29 USD (-6,41%, Aktienmarkt am Wochenende geschlossen).",
-    "reasoning": "Spekulatives Risikoprofil erlaubt kurzfristiges Handeln bei einem ueberzeugenden, bestaetigten Signal. Anders als in den vorherigen elf Laeufen dieses Tages liegt nun ein frischer, mehrfach unabhaengig bestaetigter Katalysator vor (CoinDesk, crypto.news, Coinpedia, Cryptonews.net: Bitcoin +9% Bounce vom 2-Jahres-Tief, Rueckeroberung der 60k-Marke, breite synchrone Teilnahme von ETH/SOL/XRP/ADA/AVAX via Live-CoinGecko-Daten), der ueber reines Rauschen hinausgeht. Da der Fear&Greed-Index weiterhin bei 11 (Extreme Angst) verharrt und eine Bodenbildung von Analysten explizit als unbestaetigt bezeichnet wird, wird das Risiko bewusst ueber eine moderate Positionsgroesse (800 EUR statt des vollen freien Kapitals von ca. 108.268 EUR) begrenzt, mit der etablierten engen Stop-Loss-Schwelle (-6,5 bis -7,5%) und Gewinnmitnahme-Zielspanne (7-9%). GOOGL bleibt wegen geschlossenem Aktienmarkt am Wochenende unveraendert im Depot; die Stop-Loss-Schwelle ist mit -6,41% weiterhin knapp nicht erreicht. Tagesbudget-Gutschrift fuer den 22.11. wurde bereits im ersten Lauf des Tages vorgenommen, capital.json bleibt in diesem Lauf unveraendert.",
+    "marketOverview": "Sonntagmittag, Aktienmaerkte weiterhin geschlossen - GOOGL (pos-0031) bleibt beim letzten bestaetigten Freitagsschluss von 265,29 USD (-6,41%). Bitcoin (CoinGecko-API, live) notiert bei 60.866 USD (+5,21% 24h), damit praktisch unveraendert zum Einstiegskurs der 11:09-Position (60.961 USD, -0,16%). Kein neuer Katalysator gegenueber dem letzten Lauf, Fear&Greed-Index weiterhin im Bereich Extreme Angst.",
+    "decision": "Kein Trade in diesem Lauf (13. Lauf des Tages, 12:08 Uhr). BTC-Position (pos-0036) seit Kauf um 11:09 nahezu unveraendert (-0,16%), weder Stop-Loss- noch Gewinnmitnahme-Schwelle erreicht. GOOGL (pos-0031) bleibt am Wochenende unveraendert offen bei 265,29 USD (-6,41%).",
+    "reasoning": "Keine neue, bestaetigte Marktbewegung seit dem letzten Lauf: BTC bewegt sich innerhalb der Schwankungsbreite um den Einstiegskurs (60.961 -> 60.866 USD), kein Ausbruch, kein Reversal. Die etablierten Schwellen (Stop-Loss ca. -6,5 bis -7,5%, Gewinnmitnahme ca. 7-9%) sind fuer beide offenen Positionen nicht erreicht. Aktienmarkt bleibt am Sonntag geschlossen, GOOGL daher unveraendert. Tagesbudget-Gutschrift fuer den 22.11. wurde bereits im ersten Lauf des Tages vorgenommen, capital.json bleibt in diesem Lauf unveraendert.",
     "positionIds": [
       "pos-0031",
       "pos-0036"
     ],
-    "portfolioValueEnd": 1548.69,
+    "portfolioValueEnd": 1547.44,
     "updates": [
       {
         "time": "00:08",
@@ -14173,6 +14173,11 @@
         "time": "11:09",
         "note": "Kauf Bitcoin 800 EUR bei 60.961 USD (bestaetigter 9%-Bounce vom 2-Jahres-Tief 55.130 USD, Rueckeroberung 60k-Marke, breite Krypto-Erholung). GOOGL unveraendert (Wochenende).",
         "portfolioValue": 1548.69
+      },
+      {
+        "time": "12:08",
+        "note": "Keine Aenderung. BTC nahezu unveraendert (~60.866 USD, -0,16% seit Kauf um 11:09), kein neuer Katalysator. GOOGL unveraendert (Wochenende, Markt geschlossen).",
+        "portfolioValue": 1547.44
       }
     ]
   }
