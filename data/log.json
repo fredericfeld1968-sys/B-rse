@@ -14105,9 +14105,9 @@
   },
   {
     "date": "2026-11-22",
-    "marketOverview": "Wochenende: Aktien, ETFs und Rohstoffe weiterhin nicht handelbar. Bitcoin notiert per CoinGecko-Live-API bei 60.888 USD (+1,1% 24h), Fear&Greed-Index unveraendert bei 11 (Extreme Angst) - weiterhin keine bestaetigte Trendwende, Krypto-Markt insgesamt uneinheitlich (ETH leicht im Plus, SOL leicht im Minus). GOOGL unveraendert bei 265,29 USD (Markt geschlossen).",
-    "decision": "Kein Trade in diesem Lauf. GOOGL unveraendert (Wochenende, Markt geschlossen); BTC-Position (pos-0036) per CoinGecko-Live-API leicht auf 60.888 USD aktualisiert (-0,12% seit Kauf). Insgesamt heute ein Kauf (BTC 800 EUR um 11:09), ansonsten durchgehend keine Aenderung mangels neuer, bestaetigter Marktkatalysatoren bei anhaltender Extreme-Angst-Stimmung.",
-    "reasoning": "Keine ueberzeugende, frisch bestaetigte Gelegenheit gefunden. BTC notiert laut Live-API bei 60.888 USD, nahezu unveraendert seit Kauf; Fear&Greed-Index weiterhin bei 11 (Extreme Angst) ohne bestaetigtes Reversal-Signal, Krypto-Markt insgesamt ohne synchronen frischen Katalysator. Ohne neue Marktquelle fuer GOOGL (Wochenende) besteht kein Anlass, bestehende Positionen zu aendern oder neues Kapital einzusetzen; freies Kapital (~107.468 EUR) bleibt verfuegbar fuer eine ueberzeugendere Gelegenheit.",
+    "marketOverview": "Wochenende: Aktien, ETFs und Rohstoffe weiterhin nicht handelbar. Bitcoin notiert per CoinGecko-Live-API unveraendert bei 60.888 USD (+1,85% 24h laut API), Fear&Greed-Index weiterhin bei 11 (Extreme Angst) - sechste Verlustwoche in Folge, anhaltende Spot-BTC-ETF-Abflüsse (~2,35 Mrd. USD über zwei Wochen), keine bestaetigte Trendwende. ETH 1.716,95 USD (+2,33% 24h), SOL 70,31 USD (+0,35% 24h). GOOGL unveraendert bei 265,29 USD (Markt geschlossen).",
+    "decision": "Kein Trade in diesem Lauf. GOOGL unveraendert (Wochenende, Markt geschlossen); BTC-Position (pos-0036) unveraendert bei 60.888 USD (-0,12% seit Kauf), da identisch zum Vorlauf (16:07). Insgesamt heute ein Kauf (BTC 800 EUR um 11:09), ansonsten durchgehend keine Aenderung mangels neuer, bestaetigter Marktkatalysatoren bei anhaltender Extreme-Angst-Stimmung.",
+    "reasoning": "Keine ueberzeugende, frisch bestaetigte Gelegenheit gefunden. BTC-Kurs seit dem letzten Lauf unveraendert, Fear&Greed-Index weiterhin bei 11 (Extreme Angst) ohne bestaetigtes Reversal-Signal; Markt bleibt in sechster Verlustwoche mit anhaltenden ETF-Abflüssen. Ohne neue Marktquelle fuer GOOGL (Wochenende) besteht kein Anlass, bestehende Positionen zu aendern oder neues Kapital einzusetzen; freies Kapital (~107.468 EUR) bleibt verfuegbar fuer eine ueberzeugendere Gelegenheit.",
     "positionIds": [
       "pos-0031",
       "pos-0036"
@@ -14197,6 +14197,11 @@
       {
         "time": "16:07",
         "note": "Keine Aenderung. BTC per CoinGecko-Live-API leicht auf 60.888 USD (+1,1% 24h, -0,12% seit Kauf), Fear&Greed-Index unveraendert 11 (Extreme Angst), kein neuer Katalysator gefunden. GOOGL unveraendert (Wochenende, Markt geschlossen).",
+        "portfolioValue": 1547.73
+      },
+      {
+        "time": "17:08",
+        "note": "Keine Aenderung. BTC per CoinGecko-Live-API unveraendert bei 60.888 USD (identisch zum 16:07-Lauf), Fear&Greed-Index weiterhin 11 (Extreme Angst), kein neuer Katalysator. GOOGL unveraendert (Wochenende, Markt geschlossen).",
         "portfolioValue": 1547.73
       }
     ]
