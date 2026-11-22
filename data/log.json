@@ -14105,9 +14105,9 @@
   },
   {
     "date": "2026-11-22",
-    "marketOverview": "Sonntagmittag, Aktienmaerkte weiterhin geschlossen - GOOGL (pos-0031) bleibt beim letzten bestaetigten Freitagsschluss von 265,29 USD (-6,41%). Bitcoin (CoinGecko-API, live) notiert bei 60.866 USD (+5,21% 24h), damit praktisch unveraendert zum Einstiegskurs der 11:09-Position (60.961 USD, -0,16%). Kein neuer Katalysator gegenueber dem letzten Lauf, Fear&Greed-Index weiterhin im Bereich Extreme Angst.",
-    "decision": "Kein Trade in diesem Lauf (13. Lauf des Tages, 12:08 Uhr). BTC-Position (pos-0036) seit Kauf um 11:09 nahezu unveraendert (-0,16%), weder Stop-Loss- noch Gewinnmitnahme-Schwelle erreicht. GOOGL (pos-0031) bleibt am Wochenende unveraendert offen bei 265,29 USD (-6,41%).",
-    "reasoning": "Keine neue, bestaetigte Marktbewegung seit dem letzten Lauf: BTC bewegt sich innerhalb der Schwankungsbreite um den Einstiegskurs (60.961 -> 60.866 USD), kein Ausbruch, kein Reversal. Die etablierten Schwellen (Stop-Loss ca. -6,5 bis -7,5%, Gewinnmitnahme ca. 7-9%) sind fuer beide offenen Positionen nicht erreicht. Aktienmarkt bleibt am Sonntag geschlossen, GOOGL daher unveraendert. Tagesbudget-Gutschrift fuer den 22.11. wurde bereits im ersten Lauf des Tages vorgenommen, capital.json bleibt in diesem Lauf unveraendert.",
+    "marketOverview": "Sonntagnachmittag, Aktienmaerkte weiterhin geschlossen - GOOGL (pos-0031) bleibt beim letzten bestaetigten Freitagsschluss von 265,29 USD (-6,41%). Bitcoin bewegt sich laut mehreren Quellen (crypto.news, CoinPaper, BitcoinWorld) weiterhin im Bereich 60.000-61.000 USD nach dem Rebound vom 55.130-USD-Tief am Samstag (Short-Covering-Rally, ca. 230 Mio. USD Short-Liquidationen); eine Bodenbildung gilt laut Analysten (u.a. Michael van de Poppe) weiterhin als nicht bestaetigt, Spot-BTC-ETFs verzeichnen im November ueber 700 Mio. USD Netto-Abfluesse. Keine frischere Live-Quelle mit neuem Katalysator oder abweichendem Kurs gegenueber dem letzten Lauf (12:08) gefunden.",
+    "decision": "Kein Trade in diesem Lauf (14. Lauf des Tages, 13:07 Uhr). BTC-Position (pos-0036) seit Kauf um 11:09 nahezu unveraendert, weder Stop-Loss- noch Gewinnmitnahme-Schwelle erreicht. GOOGL (pos-0031) bleibt am Wochenende unveraendert offen bei 265,29 USD (-6,41%).",
+    "reasoning": "Keine neue, bestaetigte Marktbewegung seit dem letzten Lauf identifiziert: BTC verbleibt in der Schwankungsbreite um den Einstiegskurs (60.961 USD), kein bestaetigter Ausbruch nach oben oder unten. Die etablierten Schwellen (Stop-Loss ca. -6,5 bis -7,5%, Gewinnmitnahme ca. 7-9%) sind fuer beide offenen Positionen nicht erreicht. Aktienmarkt bleibt am Sonntag geschlossen, GOOGL daher unveraendert. Tagesbudget-Gutschrift fuer den 22.11. wurde bereits im ersten Lauf des Tages vorgenommen, capital.json bleibt in diesem Lauf unveraendert.",
     "positionIds": [
       "pos-0031",
       "pos-0036"
@@ -14177,6 +14177,11 @@
       {
         "time": "12:08",
         "note": "Keine Aenderung. BTC nahezu unveraendert (~60.866 USD, -0,16% seit Kauf um 11:09), kein neuer Katalysator. GOOGL unveraendert (Wochenende, Markt geschlossen).",
+        "portfolioValue": 1547.44
+      },
+      {
+        "time": "13:07",
+        "note": "Keine Aenderung. BTC weiterhin ca. 60.000-61.000 USD, Bodenbildung nach dem Wochenend-Crash laut Analysten nicht bestaetigt, kein neuer Katalysator. GOOGL unveraendert (Wochenende, Markt geschlossen).",
         "portfolioValue": 1547.44
       }
     ]
