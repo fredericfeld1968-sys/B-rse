@@ -14106,8 +14106,8 @@
   {
     "date": "2026-11-22",
     "marketOverview": "Sonntag, Aktienmaerkte weiterhin geschlossen - GOOGL (pos-0031) bleibt bei 265,29 USD (-6,41%, letzter bestaetigter Freitagsschluss, keine neuere Kursquelle verfuegbar). Kryptomarkt weiterhin seitwaerts bis leicht erholt, aber ohne frische, verifizierte Live-Kurse in diesem Lauf verfuegbar; Fortune/u.today berichteten zuletzt (18.11.) von BTC um ca. 64.100 USD in einem anhaltenden Abverkauf, waehrend der Crypto Fear & Greed Index laut mehreren Quellen weiterhin im Bereich 'Extreme Angst' (zuletzt 11) verharrt, ohne bestaetigtes Reversal-Signal.",
-    "decision": "Kein Trade in diesem Lauf (5. Lauf des Tages, 04:08 Uhr): GOOGL (pos-0031) bleibt offen und unveraendert bei 265,29 USD (-6,41%, Aktienmarkt am Wochenende geschlossen). Kein Krypto-Kauf: Websuche lieferte weiterhin keine frische, auf dieses Wochenende datierte Kursquelle oder einen neuen konkreten Katalysator - die Marktlage bleibt konsistent mit anhaltender Extreme Angst ohne bestaetigten Ausbruch, daher kein ueberzeugendes Kaufsignal trotz hohem freiem Kapital (~108.268 EUR).",
-    "reasoning": "Spekulatives Risikoprofil erlaubt kurzfristiges Handeln, erfordert aber ein ueberzeugendes, bestaetigtes Signal (Ausbruch, Reversal oder vergleichbarer Katalysator) statt reinem Markt-Beta-Rauschen oder veralteten/unklaren Quellen. Da in diesem Lauf keine zuverlaessig auf den 22.11. datierte, frische Marktinformation mit klarem Kaufsignal gefunden wurde, wird konsequent auf eine neue Position verzichtet. GOOGL bleibt wegen geschlossenem Aktienmarkt am Wochenende unveraendert im Depot; die Stop-Loss-Schwelle (-6,5 bis -7,5%) ist mit -6,41% weiterhin knapp nicht erreicht. Tagesbudget-Gutschrift fuer den 22.11. wurde bereits im ersten Lauf des Tages vorgenommen, capital.json bleibt in diesem Lauf unveraendert.",
+    "decision": "Kein Trade in diesem Lauf (6. Lauf des Tages, 05:07 Uhr): GOOGL (pos-0031) bleibt offen und unveraendert bei 265,29 USD (-6,41%, Aktienmarkt am Wochenende geschlossen). Kein Krypto-Kauf: Websuche lieferte erneut keine frische, auf dieses Wochenende datierte Kursquelle oder einen neuen konkreten Katalysator - die Marktlage bleibt konsistent mit anhaltender Extreme Angst ohne bestaetigten Ausbruch, daher kein ueberzeugendes Kaufsignal trotz hohem freiem Kapital (~108.268 EUR).",
+    "reasoning": "Spekulatives Risikoprofil erlaubt kurzfristiges Handeln, erfordert aber ein ueberzeugendes, bestaetigtes Signal (Ausbruch, Reversal oder vergleichbarer Katalysator) statt reinem Markt-Beta-Rauschen oder veralteten/unklaren Quellen. Da in diesem Lauf erneut keine zuverlaessig auf den 22.11. datierte, frische Marktinformation mit klarem Kaufsignal gefunden wurde, wird konsequent auf eine neue Position verzichtet. GOOGL bleibt wegen geschlossenem Aktienmarkt am Wochenende unveraendert im Depot; die Stop-Loss-Schwelle (-6,5 bis -7,5%) ist mit -6,41% weiterhin knapp nicht erreicht. Tagesbudget-Gutschrift fuer den 22.11. wurde bereits im ersten Lauf des Tages vorgenommen, capital.json bleibt in diesem Lauf unveraendert.",
     "positionIds": [
       "pos-0031"
     ],
@@ -14136,6 +14136,11 @@
       {
         "time": "04:08",
         "note": "Keine Aenderung. Keine frische, auf dieses Wochenende (21./22.11.) datierte Marktquelle mit neuem Katalysator gefunden; BTC zuletzt bestaetigt bei ca. 64.100-65.000 USD (17./18.11.), Fear&Greed weiterhin im Extreme-Angst-Bereich ohne Reversal-Signal. GOOGL unveraendert (Wochenende, Markt geschlossen).",
+        "portfolioValue": 748.69
+      },
+      {
+        "time": "05:07",
+        "note": "Keine Aenderung. Keine neue, auf das Wochenende (21./22.11.) datierte Marktquelle mit frischem Katalysator gefunden; Bitcoin zuletzt zuverlaessig bestaetigt bei ca. 64.100-65.000 USD (17./18.11.), Fear&Greed-Index weiterhin im Bereich Extreme Angst ohne bestaetigtes Reversal. GOOGL unveraendert bei 265,29 USD (-6,41%, Aktienmarkt am Wochenende geschlossen).",
         "portfolioValue": 748.69
       }
     ]
