@@ -14235,5 +14235,22 @@
         "portfolioValue": 1546.8
       }
     ]
+  },
+  {
+    "date": "2026-11-23",
+    "marketOverview": "Bitcoin notiert kurz nach Mitternacht bei rund 61.008 USD (CoinGecko, +1,6% 24h), der Fear&Greed-Index verbleibt bei 11 (Extreme Angst). Kein neuer eigenstaendiger Katalysator seit dem letzten Lauf. Aktien, ETFs und Rohstoffe sind ausserhalb der Handelszeiten (Montag, 00:09 Uhr) nicht handelbar; GOOGL bleibt bei 265,29 USD (Schlusskurs Freitag) unveraendert.",
+    "decision": "Kein Trade in diesem Lauf. BTC-Position (pos-0036) auf 61.008 USD aktualisiert (+0,08% seit Kauf), GOOGL unveraendert (Markt geschlossen).",
+    "reasoning": "Keine ueberzeugende, frisch bestaetigte Gelegenheit gefunden. BTC bewegt sich seitwaerts um 61.000 USD ohne neuen Katalysator oder bestaetigtes Reversal-Signal; GOOGL liegt bei -6,41% nahe der etablierten Stop-Loss-Zone, der Markt ist jedoch ausserhalb der Handelszeiten geschlossen, daher keine Handlung moeglich. Tagesbudget von 1.000 EUR fuer den 23.11. gutgeschrieben.",
+    "positionIds": [
+      "pos-0036"
+    ],
+    "portfolioValueEnd": 1549.31,
+    "updates": [
+      {
+        "time": "00:09",
+        "note": "Neuer Tag, Tagesbudget gutgeschrieben (+1.000 EUR). Keine Aenderung. BTC per CoinGecko-Live-API auf 61.008 USD (+1,6% 24h, +0,08% seit Kauf), Fear&Greed-Index weiterhin 11 (Extreme Angst). GOOGL unveraendert (Markt geschlossen).",
+        "portfolioValue": 1549.31
+      }
+    ]
   }
 ]
