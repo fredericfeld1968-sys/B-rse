@@ -14105,14 +14105,14 @@
   },
   {
     "date": "2026-11-22",
-    "marketOverview": "Wochenende: Aktien, ETFs und Rohstoffe weiterhin nicht handelbar. Bitcoin notiert laut CoinGecko-Live-API bei 60.922 USD (+0,88% 24h) - praktisch unveraendert zu den letzten Laeufen, Fear&Greed-Index verharrt bei 11 (Extreme Angst) ohne Reversal-Signal. GOOGL bleibt bei 265,29 USD (Markt am Wochenende geschlossen).",
+    "marketOverview": "Bitcoin pendelt am Sonntagabend seitwaerts um 60.800-60.900 USD (CoinGecko, 22:08 UTC: 60.817 USD, +1,13% 24h), der Fear&Greed-Index verbleibt unveraendert bei 11 (Extreme Angst). Kein neuer Katalysator seit dem letzten Lauf. Aktien, ETFs und Rohstoffe bleiben ausserhalb der Handelszeiten (Wochenende) unveraendert; GOOGL notiert weiterhin bei 265,29 USD.",
     "decision": "Kein Trade in diesem Lauf. GOOGL unveraendert (Wochenende, Markt geschlossen); BTC-Position (pos-0036) minimal auf 60.922 USD aktualisiert (-0,06% seit Kauf), kein Verkauf da weiterhin im normalen Schwankungsbereich ohne Stop-Loss-Signal. Insgesamt heute ein Kauf (BTC 800 EUR um 11:09), ansonsten durchgehend keine Aenderung mangels neuer, bestaetigter Marktkatalysatoren bei anhaltender Extreme-Angst-Stimmung.",
     "reasoning": "Keine ueberzeugende, frisch bestaetigte Gelegenheit gefunden. BTC bewegt sich seitwaerts um die 60.600-60.900-USD-Marke (Fear&Greed weiterhin 11, Extreme Angst) ohne neuen eigenstaendigen Katalysator oder bestaetigtes Reversal-Signal - kein Anlass fuer einen Stop-Loss, da die Bewegung seit Kauf minimal bleibt (-0,06%). Websuche nach aktuellen Markt-/Geopolitik-Nachrichten lieferte keine frische, auf heute Abend datierte Quelle mit neuem Katalysator. Ohne neue Marktquelle fuer GOOGL (Wochenende) besteht kein Anlass, bestehende Positionen zu aendern oder neues Kapital einzusetzen; freies Kapital bleibt verfuegbar fuer eine ueberzeugendere Gelegenheit.",
     "positionIds": [
       "pos-0031",
       "pos-0036"
     ],
-    "portfolioValueEnd": 1548.18,
+    "portfolioValueEnd": 1546.8,
     "updates": [
       {
         "time": "00:08",
@@ -14228,6 +14228,11 @@
         "time": "22:09",
         "note": "Keine Aenderung. BTC per CoinGecko-Live-API leicht auf 60.922 USD erholt (+0,88% 24h, -0,06% seit Kauf), Fear&Greed-Index unveraendert 11 (Extreme Angst), keine neue Marktquelle mit Katalysator gefunden. GOOGL unveraendert (Wochenende, Markt geschlossen).",
         "portfolioValue": 1548.18
+      },
+      {
+        "time": "23:08",
+        "note": "Keine Aenderung. BTC per CoinGecko-Live-API bei 60.817 USD (+1,13% 24h, -0,24% seit Kauf), Fear&Greed-Index unveraendert 11 (Extreme Angst), kein neuer Katalysator. GOOGL unveraendert (Wochenende, Markt geschlossen).",
+        "portfolioValue": 1546.8
       }
     ]
   }
