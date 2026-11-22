@@ -14105,9 +14105,9 @@
   },
   {
     "date": "2026-11-22",
-    "marketOverview": "Neuer Kalendertag (Sonntag), Aktienmaerkte weiterhin geschlossen - GOOGL (pos-0031) bleibt bei 265,29 USD (-6,41%, letzter bestaetigter Freitagsschluss, keine neuere belastbare Kursquelle fuer einen spaeteren Schluss gefunden). Kryptomarkt setzt die Erholung vom Crash-Tief (BTC zeitweise unter 56.000 USD) fort: BTC aktuell ca. 60.000-60.300 USD, ETH ca. 1.680-1.690 USD, SOL fuehrt mit rund 70-71 USD (+rund 3-4% 24h) die Erholung an. Fear&Greed-Index bleibt laut mehreren Quellen in Extremer Angst (Werte zwischen 6 und 34 je nach Anbieter, Konsens weiterhin um 12), ein bestaetigtes Reversal-Signal liegt nicht vor.",
-    "decision": "Kein Trade in diesem Lauf (1. Lauf des Tages, 00:08 Uhr): GOOGL (pos-0031) bleibt offen und unveraendert bei 265,29 USD (-6,41%, Aktienmarkt am Wochenende geschlossen). Kein Krypto-Kauf: Die Erholung bei BTC/ETH/SOL setzt sich zwar fort, aber ohne neuen Katalysator und bei weiterhin unveraendert extremer Angst-Stimmung reicht das nicht als ueberzeugendes, bestaetigtes Kaufsignal - trotz hohem freiem Kapital (~108.268 EUR nach Tagesbudget-Gutschrift).",
-    "reasoning": "Spekulatives Risikoprofil erlaubt kurzfristiges Handeln, erfordert aber ein ueberzeugendes, bestaetigtes Signal (Ausbruch, Reversal oder vergleichbarer Katalysator). Die anhaltende Extreme-Angst-Stimmung bei nur langsamer Erholung reicht nicht aus, um eine neue spekulative Position einzugehen. GOOGL bleibt wegen geschlossenem Aktienmarkt am Wochenende unveraendert im Depot; die Stop-Loss-Schwelle (-6,5 bis -7,5%) ist mit -6,41% weiterhin knapp nicht erreicht. Tagesbudget-Gutschrift fuer den 22.11. wurde vorgenommen (totalFreshCapitalEur 109.000 -> 110.000 EUR).",
+    "marketOverview": "Sonntagnacht, Aktienmaerkte weiterhin geschlossen - GOOGL (pos-0031) bleibt bei 265,29 USD (-6,41%, letzter bestaetigter Freitagsschluss, keine neuere Kursquelle verfuegbar). Kryptomarkt setzt die leichte Erholung fort: BTC aktuell ca. 60.170 USD (+2,24% 24h, CoinGecko live), ETH ca. 1.683 USD (+3,8%), SOL ca. 70,23 USD (+2,04%), AVAX ca. 6,57 USD, ADA ca. 0,144 USD, XRP ca. 0,93 USD - alle moderat im Plus, aber ohne konkreten neuen Einzelkatalysator. Der Crypto Fear & Greed Index notiert laut alternative.me unveraendert bei 11 (Extreme Angst).",
+    "decision": "Kein Trade in diesem Lauf (2. Lauf des Tages, 01:07 Uhr): GOOGL (pos-0031) bleibt offen und unveraendert bei 265,29 USD (-6,41%, Aktienmarkt am Wochenende geschlossen). Kein Krypto-Kauf: die Erholung bei BTC/ETH/SOL (+2-4% 24h) setzt sich zwar fort, bleibt aber breit, moderat und ohne bestaetigten Ausbruchs- oder Reversal-Katalysator bei weiterhin extremer Angst-Stimmung (Index 11) - kein ueberzeugendes Kaufsignal trotz hohem freiem Kapital (~108.268 EUR).",
+    "reasoning": "Spekulatives Risikoprofil erlaubt kurzfristiges Handeln, erfordert aber ein ueberzeugendes, bestaetigtes Signal (Ausbruch, Reversal oder vergleichbarer Katalysator) statt reinem Markt-Beta-Rauschen. Die moderate, breite Erholung (+2-4% ueber BTC/ETH/SOL/AVAX/ADA/XRP) ohne Einzelkatalysator und bei unveraendert extremer Angst (Fear&Greed 11) reicht nicht aus, um eine neue spekulative Position einzugehen. GOOGL bleibt wegen geschlossenem Aktienmarkt am Wochenende unveraendert im Depot; die Stop-Loss-Schwelle (-6,5 bis -7,5%) ist mit -6,41% weiterhin knapp nicht erreicht. Tagesbudget-Gutschrift fuer den 22.11. wurde bereits im ersten Lauf des Tages vorgenommen, capital.json bleibt in diesem Lauf unveraendert.",
     "positionIds": [
       "pos-0031"
     ],
@@ -14116,6 +14116,11 @@
       {
         "time": "00:08",
         "note": "Neuer Tag: Tagesbudget gutgeschrieben (+1000 EUR, gesamt 110.000 EUR). Kein Trade. GOOGL unveraendert bei 265,29 USD (-6,41%, keine frischere Kursquelle, Wochenende). Krypto-Erholung haelt an (BTC ~60.000-60.300 USD), F&G weiterhin Extreme Angst (~12), kein Kaufsignal.",
+        "portfolioValue": 748.69
+      },
+      {
+        "time": "01:07",
+        "note": "Keine Aenderung. Krypto-Markt leicht erholt (BTC ~60.170 USD, +2,24% 24h), aber ohne Katalysator bei Fear&Greed 11 (Extreme Angst) - kein Kaufsignal. GOOGL unveraendert (Wochenende).",
         "portfolioValue": 748.69
       }
     ]
