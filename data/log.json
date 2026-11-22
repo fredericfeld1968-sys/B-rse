@@ -14105,9 +14105,9 @@
   },
   {
     "date": "2026-11-22",
-    "marketOverview": "Sonntagnachmittag, Aktienmaerkte weiterhin geschlossen - GOOGL (pos-0031) bleibt beim letzten bestaetigten Freitagsschluss von 265,29 USD (-6,41%). Bitcoin bewegt sich laut mehreren Quellen (crypto.news, CoinPaper, BitcoinWorld) weiterhin im Bereich 60.000-61.000 USD nach dem Rebound vom 55.130-USD-Tief am Samstag (Short-Covering-Rally, ca. 230 Mio. USD Short-Liquidationen); eine Bodenbildung gilt laut Analysten (u.a. Michael van de Poppe) weiterhin als nicht bestaetigt, Spot-BTC-ETFs verzeichnen im November ueber 700 Mio. USD Netto-Abfluesse. Keine frischere Live-Quelle mit neuem Katalysator oder abweichendem Kurs gegenueber dem letzten Lauf (12:08) gefunden.",
-    "decision": "Kein Trade in diesem Lauf (14. Lauf des Tages, 13:07 Uhr). BTC-Position (pos-0036) seit Kauf um 11:09 nahezu unveraendert, weder Stop-Loss- noch Gewinnmitnahme-Schwelle erreicht. GOOGL (pos-0031) bleibt am Wochenende unveraendert offen bei 265,29 USD (-6,41%).",
-    "reasoning": "Keine neue, bestaetigte Marktbewegung seit dem letzten Lauf identifiziert: BTC verbleibt in der Schwankungsbreite um den Einstiegskurs (60.961 USD), kein bestaetigter Ausbruch nach oben oder unten. Die etablierten Schwellen (Stop-Loss ca. -6,5 bis -7,5%, Gewinnmitnahme ca. 7-9%) sind fuer beide offenen Positionen nicht erreicht. Aktienmarkt bleibt am Sonntag geschlossen, GOOGL daher unveraendert. Tagesbudget-Gutschrift fuer den 22.11. wurde bereits im ersten Lauf des Tages vorgenommen, capital.json bleibt in diesem Lauf unveraendert.",
+    "marketOverview": "Wochenende: Aktien, ETFs und Rohstoffe weiterhin nicht handelbar. Keine frische, eindeutig auf heute (22.11.) datierte Marktquelle gefunden - verfuegbare Suchergebnisse zu Bitcoin und Fear&Greed stammen ueberwiegend aus der Vorwoche (14.-18.11., BTC damals 64-69k USD, F&G 10-21, Extreme Angst) oder aus 2025. Letzter zuverlaessig bestaetigter Stand bleibt BTC ca. 60.000-61.000 USD nach dem Bounce vom 2-Jahres-Tief; GOOGL unveraendert bei 265,29 USD (Markt geschlossen).",
+    "decision": "Kein Trade in diesem Lauf. GOOGL unveraendert (Wochenende, Markt geschlossen), BTC-Position (pos-0036) ohne frischere Kursquelle ebenfalls unveraendert bei 60.866 USD. Insgesamt heute ein Kauf (BTC 800 EUR um 11:09), ansonsten durchgehend keine Aenderung mangels neuer, bestaetigter Marktkatalysatoren bei anhaltender Extreme-Angst-Stimmung.",
+    "reasoning": "Keine ueberzeugende, frisch bestaetigte Gelegenheit gefunden. Ohne neue Marktquelle fuer BTC oder GOOGL (Wochenende) besteht kein Anlass, bestehende Positionen zu aendern oder neues Kapital einzusetzen; freies Kapital (~107.468 EUR) bleibt verfuegbar fuer eine ueberzeugendere Gelegenheit.",
     "positionIds": [
       "pos-0031",
       "pos-0036"
@@ -14182,6 +14182,11 @@
       {
         "time": "13:07",
         "note": "Keine Aenderung. BTC weiterhin ca. 60.000-61.000 USD, Bodenbildung nach dem Wochenend-Crash laut Analysten nicht bestaetigt, kein neuer Katalysator. GOOGL unveraendert (Wochenende, Markt geschlossen).",
+        "portfolioValue": 1547.44
+      },
+      {
+        "time": "14:08",
+        "note": "Keine Aenderung. Keine frische, auf heute datierte Marktquelle mit neuem Katalysator gefunden (Suchergebnisse betreffen ueberwiegend die Vorwoche oder 2025). BTC und GOOGL unveraendert.",
         "portfolioValue": 1547.44
       }
     ]
