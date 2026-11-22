@@ -14105,13 +14105,14 @@
   },
   {
     "date": "2026-11-22",
-    "marketOverview": "Sonntagmorgen (10:08 Uhr), Aktienmaerkte weiterhin geschlossen - GOOGL (pos-0031) bleibt beim letzten bestaetigten Freitagsschluss von 265,29 USD (-6,41%). Websuche liefert erneut keine neue, auf diesen Sonntagvormittag datierte Live-Kursquelle oder frischen Katalysator fuer Krypto; zuletzt bestaetigt BTC ca. 59.000 USD (+2% 24h) bei Fear&Greed weiterhin 11 (Extreme Angst).",
-    "decision": "Kein Trade in diesem Lauf (11. Lauf des Tages, 10:08 Uhr): GOOGL (pos-0031) bleibt offen und unveraendert bei 265,29 USD (-6,41%, Aktienmarkt am Wochenende geschlossen). Kein Krypto-Kauf: keine neue, verlaessliche Marktquelle mit ueberzeugendem Katalysator gefunden, Fear&Greed weiterhin 11 (Extreme Angst) ohne bestaetigtes Reversal-Signal trotz hohem freiem Kapital (~108.268 EUR).",
-    "reasoning": "Spekulatives Risikoprofil erlaubt kurzfristiges Handeln, erfordert aber ein ueberzeugendes, bestaetigtes Signal (Ausbruch, Reversal oder vergleichbarer Katalysator) statt reinem Rauschen. Die Websuche zu diesem Zeitpunkt liefert keine frische, auf heute datierte Live-Kursquelle oder neuen Katalysator fuer Aktien, ETFs, Rohstoffe oder Krypto. GOOGL bleibt wegen geschlossenem Aktienmarkt am Wochenende unveraendert im Depot; die Stop-Loss-Schwelle (-6,5 bis -7,5%) ist mit -6,41% weiterhin knapp nicht erreicht. Tagesbudget-Gutschrift fuer den 22.11. wurde bereits im ersten Lauf des Tages vorgenommen, capital.json bleibt in diesem Lauf unveraendert.",
+    "marketOverview": "Sonntagmorgen (11:09 Uhr), Aktienmaerkte weiterhin geschlossen - GOOGL (pos-0031) bleibt beim letzten bestaetigten Freitagsschluss von 265,29 USD (-6,41%). Krypto-Markt zeigt einen bestaetigten, breiten Bounce: Bitcoin erholt sich laut CoinDesk/crypto.news/Coinpedia um +9% von seinem seit September 2024 niedrigsten Stand (~55.130 USD nach 1,8 Mrd. USD Liquidationswelle) und erobert live (CoinGecko, 10:09 UTC) wieder die 60.000-USD-Marke (60.961 USD, +5,24% 24h); ETH, SOL, XRP, ADA, AVAX ziehen synchron mit +3,7 bis +4,7% mit. Fear&Greed-Index verbleibt dennoch bei 11 (Extreme Angst), eine Bodenbildung ist laut Analysten noch nicht bestaetigt.",
+    "decision": "Kauf in diesem Lauf (12. Lauf des Tages, 11:09 Uhr): Spekulative Momentum-Position in Bitcoin (800 EUR bei 60.961 USD) auf den bestaetigten, mehrfach unabhaengig belegten Bounce von 55.130 auf ueber 60.000 USD. GOOGL (pos-0031) bleibt unveraendert offen bei 265,29 USD (-6,41%, Aktienmarkt am Wochenende geschlossen).",
+    "reasoning": "Spekulatives Risikoprofil erlaubt kurzfristiges Handeln bei einem ueberzeugenden, bestaetigten Signal. Anders als in den vorherigen elf Laeufen dieses Tages liegt nun ein frischer, mehrfach unabhaengig bestaetigter Katalysator vor (CoinDesk, crypto.news, Coinpedia, Cryptonews.net: Bitcoin +9% Bounce vom 2-Jahres-Tief, Rueckeroberung der 60k-Marke, breite synchrone Teilnahme von ETH/SOL/XRP/ADA/AVAX via Live-CoinGecko-Daten), der ueber reines Rauschen hinausgeht. Da der Fear&Greed-Index weiterhin bei 11 (Extreme Angst) verharrt und eine Bodenbildung von Analysten explizit als unbestaetigt bezeichnet wird, wird das Risiko bewusst ueber eine moderate Positionsgroesse (800 EUR statt des vollen freien Kapitals von ca. 108.268 EUR) begrenzt, mit der etablierten engen Stop-Loss-Schwelle (-6,5 bis -7,5%) und Gewinnmitnahme-Zielspanne (7-9%). GOOGL bleibt wegen geschlossenem Aktienmarkt am Wochenende unveraendert im Depot; die Stop-Loss-Schwelle ist mit -6,41% weiterhin knapp nicht erreicht. Tagesbudget-Gutschrift fuer den 22.11. wurde bereits im ersten Lauf des Tages vorgenommen, capital.json bleibt in diesem Lauf unveraendert.",
     "positionIds": [
-      "pos-0031"
+      "pos-0031",
+      "pos-0036"
     ],
-    "portfolioValueEnd": 748.69,
+    "portfolioValueEnd": 1548.69,
     "updates": [
       {
         "time": "00:08",
@@ -14167,6 +14168,11 @@
         "time": "10:08",
         "note": "Keine Aenderung. Keine frische Marktquelle oder neuer Katalysator gefunden; Fear&Greed weiterhin 11 (Extreme Angst). GOOGL unveraendert (Wochenende, Markt geschlossen).",
         "portfolioValue": 748.69
+      },
+      {
+        "time": "11:09",
+        "note": "Kauf Bitcoin 800 EUR bei 60.961 USD (bestaetigter 9%-Bounce vom 2-Jahres-Tief 55.130 USD, Rueckeroberung 60k-Marke, breite Krypto-Erholung). GOOGL unveraendert (Wochenende).",
+        "portfolioValue": 1548.69
       }
     ]
   }

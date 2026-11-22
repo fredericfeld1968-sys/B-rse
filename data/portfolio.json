@@ -593,5 +593,22 @@
     "profitLossPct": -7.05,
     "closedDate": "2026-11-19",
     "closeReasoning": "Stop-Loss: NVDA faellt laut stockanalysis.com (live, 12:08 ET/18:08 CET) auf 148,95 USD (-1,33% heute) und damit -7,05% seit Kauf (160,25 USD am 12.11.) - die seit Monaten konsequent angewendete Stop-Loss-Schwelle dieses Portfolios (-6,5% bis -7,5%, analog Rheinmetall -6,56%, NVIDIA pos-0010 -7,24%, XRP -6,57%, HYPE -6,70%, BTC -6,87%/-6,98%, AVAX -6,81%) ist erreicht. Die urspruengliche Dip-Kauf-These (Fuehrungswechsel-Unsicherheit nach Jensen-Huang-Ruecktritt aufgeloest, Kress als erfahrene Interims-CEO) hat sich nicht durchgesetzt: der breite, mehrtaegige Ausverkauf bei AI-/Chip-Werten (Nasdaq-Schwaeche am 17.-18.11., hawkishe FOMC-Protokolle) haelt an, NVDA faellt trotz der am 17.11. gemeldeten Rekordzahlen (AI-Revenue weiter stark laut FXStreet) weiter kontinuierlich. Kein neuer stuetzender Gegenkatalysator erkennbar. Passend zum spekulativen Kurzfrist-Profil wird konsequent glattgestellt, um weiteren Verlust zu vermeiden."
+  },
+  {
+    "id": "pos-0036",
+    "date": "2026-11-22",
+    "asset": "Bitcoin",
+    "ticker": "BTC",
+    "assetClass": "Krypto",
+    "amount": 800,
+    "reasoning": "Bestaetigter, mehrfach unabhaengig belegter Bounce (CoinDesk, crypto.news, Coinpedia, Cryptonews.net, TradingView): Bitcoin erholt sich um +9% von seinem seit September 2024 niedrigsten Stand (Tief ca. 55.130-55.326 USD nach einer Liquidationswelle von rund 1,8 Mrd. USD) und erobert live (CoinGecko-API, 10:09 UTC) die Marke von 60.000 USD zurueck (aktuell 60.961 USD, +5,24% 24h) - 'forced selling eases' laut CoinDesk, Markt wartet auf die Wall-Street-Eroeffnung am Montag. Breite, synchrone Teilnahme ueber mehrere Majors bestaetigt den Bounce statt Einzelcoin-Rauschen: ETH +4,66% (CoinGecko) bzw. +3-6,6% (Coinotag), SOL +3,75%, XRP +4,54%, ADA +4,64%, AVAX +4,52%, alle live uebereinstimmend. Analog zum erfolgreichen Muster fruehrer bestaetigter Krypto-Ausbrueche/Bounces (BTC 19.08. +9,6%, BTC 18.09. +7,16%, BTC 04.11.-Rebound). Da Aktien/ETFs/Rohstoffe am Sonntag nicht handelbar sind, spekulative kurzfristige Momentum-Position auf die Fortsetzung des bestaetigten Bounces. Risiko bewusst ueber moderate Positionsgroesse (800 EUR) und enges Stop-Loss-Management begrenzt, da der Fear&Greed-Index weiterhin bei 11 (Extreme Angst) verharrt und Analysten explizit betonen, dass eine Bodenbildung noch nicht bestaetigt ist.",
+    "status": "open",
+    "buyPrice": 60961,
+    "currentPrice": 60961,
+    "currentValue": 800,
+    "profitLoss": 0,
+    "profitLossPct": 0,
+    "closedDate": null,
+    "closeReasoning": null
   }
 ]
