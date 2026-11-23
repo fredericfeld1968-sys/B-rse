@@ -14238,13 +14238,13 @@
   },
   {
     "date": "2026-11-23",
-    "marketOverview": "Bitcoin notiert gegen 05:07 Uhr bei rund 61.160 USD (CoinGecko live, +2,9% 24h) - ein breiter, synchroner Krypto-Anstieg (ETH +3,9%, SOL +2,4%, ADA +1,6%, AVAX +2,3%, LINK +3,7%), aber ohne einen frischen Einzelkatalysator und ohne Reversal des Fear&Greed-Index, der weiterhin bei 11 (Extreme Angst) verharrt. Aktien, ETFs und Rohstoffe bleiben ausserhalb der Handelszeiten (Montag, 05:07 Uhr, vor Boersenoeffnung) nicht handelbar; GOOGL bleibt bei 265,29 USD unveraendert.",
-    "decision": "Kein Trade in diesem Lauf. BTC-Position (pos-0036) auf 61.160 USD aktualisiert (+0,33% seit Kauf), GOOGL unveraendert (Markt geschlossen).",
-    "reasoning": "Der weitere BTC-Anstieg ist eine Fortsetzung des bereits gehandelten Bounces ohne neuen, eigenstaendigen Katalysator - der breite, synchrone Anstieg über mehrere Majors spricht fuer generelles Markt-Beta statt einer neuen, ueberzeugenden Einzelgelegenheit; Fear&Greed-Index bleibt unveraendert bei 11 (Extreme Angst) ohne Bodenbildungssignal. GOOGL liegt bei -6,41% nahe der etablierten Stop-Loss-Zone, der Markt ist jedoch ausserhalb der Handelszeiten geschlossen. Tagesbudget fuer den 23.11. wurde bereits zuvor gutgeschrieben, keine erneute Gutschrift in diesem Lauf.",
+    "marketOverview": "Bitcoin notiert gegen 06:07 Uhr bei rund 61.141 USD (CoinGecko live, +3,5% 24h) - weiterhin ein breiter, synchroner Krypto-Anstieg (ETH +4,0%, SOL +3,0%, AVAX +2,2%, DOGE +2,2%, XRP +1,6%) ohne klaren, frisch bestaetigten Einzelkatalysator; Presseberichte zur heutigen Marktlage sind uneinheitlich (teils Dip-Kaeufe/Risk-on, teils anhaltende ETF-Outflows). Aktien, ETFs und Rohstoffe bleiben ausserhalb der Handelszeiten (Montag, 06:07 Uhr, vor Boersenoeffnung in Europa/den USA) nicht handelbar; GOOGL bleibt beim Freitagsschluss von 265,29 USD unveraendert.",
+    "decision": "Kein Trade in diesem Lauf. BTC-Position (pos-0036) auf 61.141 USD aktualisiert (+0,30% seit Kauf), GOOGL unveraendert (Markt geschlossen).",
+    "reasoning": "Der BTC-Anstieg bleibt eine breite, synchrone Markt-Beta-Bewegung ohne neuen, eigenstaendigen und mehrfach bestaetigten Katalysator - keine ueberzeugende Gelegenheit fuer eine neue oder zusaetzliche Position. GOOGL liegt bei -6,41% nahe der etablierten Stop-Loss-Zone (-6,5 bis -7,5%), der Markt ist jedoch ausserhalb der Handelszeiten geschlossen und wird erst bei Boersenoeffnung neu bewertet. Tagesbudget fuer den 23.11. wurde bereits zuvor gutgeschrieben, keine erneute Gutschrift in diesem Lauf.",
     "positionIds": [
       "pos-0036"
     ],
-    "portfolioValueEnd": 1551.3,
+    "portfolioValueEnd": 1551.05,
     "updates": [
       {
         "time": "00:09",
@@ -14275,6 +14275,11 @@
         "time": "05:07",
         "note": "Keine Aenderung. BTC per CoinGecko-API auf 61.160 USD aktualisiert (+2,9% 24h, +0,33% seit Kauf), Fear&Greed-Index weiterhin 11 (Extreme Angst). GOOGL unveraendert (Markt geschlossen).",
         "portfolioValue": 1551.3
+      },
+      {
+        "time": "06:07",
+        "note": "Keine Aenderung. BTC per CoinGecko-API auf 61.141 USD aktualisiert (+3,5% 24h, +0,30% seit Kauf). GOOGL unveraendert (Markt geschlossen).",
+        "portfolioValue": 1551.05
       }
     ]
   }
