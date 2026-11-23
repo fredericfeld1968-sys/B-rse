@@ -14238,13 +14238,13 @@
   },
   {
     "date": "2026-11-23",
-    "marketOverview": "Bitcoin erholt sich weiter leicht auf rund 61.451 USD (+4,0% in 24h), der Fear&Greed-Index verharrt unveraendert bei 11 (Extreme Angst) - der breite Krypto-Markt bleibt damit trotz der Erholung seit dem Crash Mitte November angespannt. Aktien, ETFs und Rohstoffe sind am Montagmorgen vor Handelsbeginn in Europa/den USA nicht handelbar.",
-    "decision": "Kein Trade in diesem Lauf. BTC-Position (pos-0036) auf 61.451 USD aktualisiert (+0,80% seit Kauf), GOOGL unveraendert (Markt geschlossen).",
-    "reasoning": "Der BTC-Anstieg bleibt eine breite Markt-Beta-Bewegung ohne neuen, eigenstaendigen Katalysator - keine ueberzeugende Gelegenheit fuer eine neue oder zusaetzliche Position. GOOGL liegt bei -6,41% nahe der etablierten Stop-Loss-Zone, der US-Markt ist jedoch vor Handelsbeginn geschlossen und wird erst bei Boersenoeffnung (15:30 CET) neu bewertet. Tagesbudget fuer den 23.11. wurde bereits zuvor gutgeschrieben, keine erneute Gutschrift in diesem Lauf.",
+    "marketOverview": "Bitcoin pendelt weiterhin um die 61.000-USD-Marke (zuletzt 61.361 USD, +3,9% in 24h laut CoinGecko), der Fear&Greed-Index verbleibt bei 11 (Extreme Angst). Nach dem heftigen KI-Bewertungs-Ausverkauf der Vorwoche (Nasdaq 100 -10% in der schlimmsten Woche seit März 2020, Nvidia -14% am Freitag) zeichnet sich am Montagmorgen eine leichte Erholung bei US-Futures ab, Gold bleibt mit rund 3.618 USD/oz nahe seinen Hochs als sicherer Hafen gefragt. Aktien, ETFs und Rohstoffe sind vor US-Handelsbeginn (15:30 CET) weiterhin nicht handelbar.",
+    "decision": "Kein Trade in diesem Lauf. BTC-Position (pos-0036) auf 61.361 USD aktualisiert (+0,66% seit Kauf). GOOGL (pos-0031) unveraendert bei 265,29 USD (-6,41%), US-Markt vor Handelsbeginn geschlossen.",
+    "reasoning": "Die leichte BTC-Konsolidierung bleibt eine breite Markt-Beta-Bewegung ohne neuen eigenstaendigen Katalysator - keine ueberzeugende Gelegenheit fuer eine neue Position trotz reichlich freiem Kapital (ca. 108.468 EUR). Der anhaltende KI-Bewertungs-Stress (US-Futures weiterhin deutlich unter Vorwochenniveau) und die gleichzeitig steigende Gold-Nachfrage sprechen fuer fortgesetzte Vorsicht. GOOGL liegt bei -6,41% nahe der etablierten Stop-Loss-Zone, wird aber erst bei Boersenoeffnung (15:30 CET) neu bewertet. Tagesbudget fuer den 23.11. wurde bereits zuvor gutgeschrieben, keine erneute Gutschrift in diesem Lauf.",
     "positionIds": [
       "pos-0036"
     ],
-    "portfolioValueEnd": 1555.12,
+    "portfolioValueEnd": 1553.94,
     "updates": [
       {
         "time": "00:09",
@@ -14290,6 +14290,11 @@
         "time": "08:10",
         "note": "Keine Aenderung. BTC per CoinGecko-Live-API auf 61.451 USD aktualisiert (+4,0% 24h, +0,80% seit Kauf), Fear&Greed-Index weiterhin 11 (Extreme Angst). GOOGL unveraendert (Markt vor Handelsbeginn in den USA geschlossen).",
         "portfolioValue": 1555.12
+      },
+      {
+        "time": "09:09",
+        "note": "Keine Aenderung. BTC per CoinGecko-API auf 61.361 USD aktualisiert (+3,9% 24h, +0,66% seit Kauf), Fear&Greed-Index weiterhin 11 (Extreme Angst). US-Futures leicht erholt nach Vorwochen-Ausverkauf (Nasdaq 100 -10%), Gold bei ~3.618 USD/oz. GOOGL unveraendert (Markt vor Handelsbeginn geschlossen).",
+        "portfolioValue": 1553.94
       }
     ]
   }
