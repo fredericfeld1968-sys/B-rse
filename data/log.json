@@ -14368,5 +14368,23 @@
         "portfolioValue": 1599.73
       }
     ]
+  },
+  {
+    "date": "2026-11-24",
+    "marketOverview": "Neuer Handelstag, kurz nach Mitternacht CET: US-Boerse bleibt bis 15:30 CET geschlossen. GOOGL zeigte nachboerslich zuletzt 284,38 USD (+0,81% nachboerslich laut Yahoo Finance), getrieben von neuem AI-Optimismus rund um Nvidia. Krypto bleibt seitwaerts: Bitcoin bei 61.302 USD (+0,75% 24h, CoinGecko), Ethereum leicht schwaecher (-0,11%), Solana leicht fester (+2,45%). Fear&Greed-Index weiterhin im schwachen Bereich, kein frischer Einzelkatalysator erkennbar; auch keine neuen marktbewegenden geopolitischen oder wirtschaftlichen Nachrichten seit dem letzten Lauf.",
+    "decision": "Tagesbudget-Gutschrift fuer den 24.11. erfolgt (+1.000 EUR, siehe capital.json). Kein Trade in diesem Lauf. GOOGL (pos-0031) auf 284,38 USD (nachboerslich) aktualisiert (+0,32% seit Kauf). BTC (pos-0036) auf 61.302 USD aktualisiert (+0,56% seit Kauf). Beide Positionen klar innerhalb der normalen Schwankungsbreite, weder Stop-Loss- noch Gewinnmitnahme-Schwelle erreicht.",
+    "reasoning": "US-Boerse ist nach Mitternacht geschlossen, daher sind Aktien/ETFs/Rohstoffe nicht handelbar. Krypto zeigt keine ueberzeugende, bestaetigte Ausbruchsbewegung - die etablierte Einstiegsschwelle fuer spekulative Momentum-Trades wird nicht erreicht. GOOGL und BTC bleiben jeweils weit von Stop-Loss (-6,5 bis -7,5%) und Gewinnmitnahme-Schwelle (+7-9%) entfernt. Passend zum spekulativen, aber diszipliniert-selektiven Profil wird abgewartet.",
+    "positionIds": [
+      "pos-0031",
+      "pos-0036"
+    ],
+    "portfolioValueEnd": 1607.04,
+    "updates": [
+      {
+        "time": "00:08",
+        "note": "Neuer Tag, Tagesbudget gutgeschrieben (+1.000 EUR). Keine Aenderung. GOOGL nachboerslich auf 284,38 USD aktualisiert (+0,32% seit Kauf). BTC per CoinGecko auf 61.302 USD aktualisiert (+0,56% seit Kauf, +0,75% 24h). Kein ueberzeugender Krypto-Katalysator, daher kein Trade.",
+        "portfolioValue": 1607.04
+      }
+    ]
   }
 ]
