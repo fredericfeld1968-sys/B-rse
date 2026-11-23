@@ -14238,13 +14238,13 @@
   },
   {
     "date": "2026-11-23",
-    "marketOverview": "Bitcoin leicht im Plus bei 61.371 USD (+0,41% 24h laut CoinGecko), Fear&Greed-Index unveraendert bei 11 (Extreme Angst), kein neuer Einzelkatalysator im Kryptomarkt. GOOGL notiert vorboerslich bei 280,31 USD (+5,66% vs. Schlusskurs 265,29 USD, Yahoo Finance) - der Sprung vom Vormittag haelt an und verstaerkt sich leicht. Der US-Kassamarkt oeffnet erst um 15:30 CET, Position daher weiterhin zum letzten Schlusskurs bewertet.",
-    "decision": "Kein Trade in diesem Lauf. BTC-Position (pos-0036) auf 61.371 USD aktualisiert (+0,67% seit Kauf). GOOGL (pos-0031) unveraendert bei 265,29 USD (letzter Schlusskurs, -6,41%) - Markt vor Handelsbeginn (15:30 CET) weiterhin geschlossen.",
-    "reasoning": "BTC bewegt sich weiterhin nur marginal (+0,41% 24h, +0,67% seit Kauf) ohne neuen Katalysator - klar unter der etablierten Ziel-Gewinnspanne (7-9%), daher keine Gewinnmitnahme und auch keine neue Position, da kein ueberzeugendes Signal vorliegt. Fear&Greed-Index weiterhin bei 11 (Extreme Angst), unveraendert. Der vorboersliche GOOGL-Sprung haelt mit +5,66% an und naehert sich damit weiter der Gewinnzone, bleibt aber vor Handelsbeginn (15:30 CET) nicht handelbar. Trotz reichlich freiem Kapital (ca. 108.468 EUR) keine ueberzeugende, sofort handelbare Gelegenheit in diesem Lauf. Tagesbudget fuer den 23.11. wurde bereits zuvor gutgeschrieben, keine erneute Gutschrift in diesem Lauf.",
+    "marketOverview": "Breiter Markt-Rebound am Montagmorgen nach der schwersten Korrekturwoche seit ueber sechs Jahren: Nasdaq-100-Futures +3,48%, S&P-500-Futures +2,70% (5:40 ET), angefuehrt von Nvidia, Micron, CoreWeave und Anthropic. GOOGL notiert weiterhin vorboerslich deutlich im Plus (+5,66% ggue. Schlusskurs 265,29 USD), US-Kassamarkt oeffnet aber erst um 15:30 CET und ist damit aktuell noch nicht handelbar. BTC via CoinGecko-API bei 61.217 USD (+0,89% 24h), Fear&Greed-Index unveraendert bei 11 (Extreme Angst). Brent leicht schwaecher bei ca. 91,84 USD trotz anhaltender Houthi-Angriffe im Golf/Strasse von Hormuz.",
+    "decision": "Kein Trade in diesem Lauf. BTC-Position (pos-0036) auf 61.217 USD aktualisiert (+0,42% seit Kauf). GOOGL (pos-0031) unveraendert bei 265,29 USD (letzter Schlusskurs, -6,41%) - Markt vor Handelsbeginn (15:30 CET) weiterhin geschlossen.",
+    "reasoning": "BTC bewegt sich weiterhin nur marginal (+0,89% 24h, +0,42% seit Kauf) ohne neuen eigenstaendigen Katalysator - klar unter der etablierten Ziel-Gewinnspanne (7-9%), daher keine Gewinnmitnahme und auch keine neue Position, da kein ueberzeugendes Signal vorliegt. Fear&Greed-Index weiterhin bei 11 (Extreme Angst), unveraendert. Der breite Aktienmarkt-Rebound (Nasdaq-Futures +3,48%) und der anhaltende GOOGL-Vorboersen-Sprung (+5,66%) sind vielversprechend, aber vor Handelsbeginn (15:30 CET, in ca. 80 Minuten) nicht handelbar - keine Aktien-/ETF-/Rohstoff-Trades ausserhalb der Handelszeiten. Trotz reichlich freiem Kapital keine ueberzeugende, sofort handelbare Gelegenheit in diesem Lauf. Tagesbudget fuer den 23.11. wurde bereits zuvor gutgeschrieben, keine erneute Gutschrift in diesem Lauf.",
     "positionIds": [
       "pos-0036"
     ],
-    "portfolioValueEnd": 1554.07,
+    "portfolioValueEnd": 1552.05,
     "updates": [
       {
         "time": "00:09",
@@ -14315,6 +14315,11 @@
         "time": "13:09",
         "note": "Keine Aenderung. BTC per CoinGecko-API auf 61.371 USD aktualisiert (+0,41% 24h, +0,67% seit Kauf), Fear&Greed-Index weiterhin 11 (Extreme Angst). GOOGL vorboerslich weiter im Plus bei 280,31 USD (+5,66%, Yahoo Finance), Markt vor Handelsbeginn (15:30 CET) noch geschlossen, Position unveraendert.",
         "portfolioValue": 1554.07
+      },
+      {
+        "time": "14:11",
+        "note": "Keine Aenderung. BTC per CoinGecko-API auf 61.217 USD aktualisiert (+0,89% 24h, +0,42% seit Kauf), Fear&Greed-Index weiterhin 11 (Extreme Angst). Breiter Markt-Rebound vorboerslich (Nasdaq-Futures +3,48%), GOOGL weiterhin nur vorboerslich im Plus (+5,66%), Markt oeffnet erst 15:30 CET.",
+        "portfolioValue": 1552.05
       }
     ]
   }
