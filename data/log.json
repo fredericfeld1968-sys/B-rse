@@ -14238,13 +14238,13 @@
   },
   {
     "date": "2026-11-23",
-    "marketOverview": "Bitcoin pendelt weiterhin seitwaerts bei ca. 61.339 USD (+0,75% 24h laut CoinGecko), Fear&Greed-Index unveraendert bei 11 (Extreme Angst), kein neuer Einzelkatalysator im Kryptomarkt. GOOGL notiert laut stockanalysis.com vorboerslich bei 279,63 USD (+5,41% vs. Schlusskurs 265,29 USD) - kein eindeutig auffindbarer frischer Einzelkatalysator fuer den heutigen Sprung, moeglicherweise Fortsetzung der seit Tagen laufenden Nvidia-Marktwert-Ueberholungs-Story. Der US-Kassamarkt oeffnet erst um 15:30 CET, Position daher weiterhin zum letzten Schlusskurs bewertet.",
-    "decision": "Kein Trade in diesem Lauf. BTC-Position (pos-0036) auf 61.339 USD aktualisiert (+0,62% seit Kauf). GOOGL (pos-0031) unveraendert bei 265,29 USD (letzter Schlusskurs, -6,41%) - Markt vor Handelsbeginn (15:30 CET) geschlossen.",
-    "reasoning": "BTC bewegt sich weiterhin nur seitwaerts (+0,75% 24h, +0,62% seit Kauf) ohne neuen Katalysator - klar unter der etablierten Ziel-Gewinnspanne (7-9%), daher keine Gewinnmitnahme und auch keine neue Position, da kein ueberzeugendes Signal vorliegt. Fear&Greed-Index weiterhin bei 11 (Extreme Angst), unveraendert. Der vorboersliche GOOGL-Sprung (+5,41% auf 279,63 USD) bleibt vor Handelsbeginn (15:30 CET) nicht handelbar und wird erst bei Marktoeffnung neu bewertet; sollte sich der Sprung halten, wuerde die Position deutlich naeher an die urspruengliche Gewinnzone rutschen statt an den Stop-Loss. Trotz reichlich freiem Kapital (ca. 108.468 EUR) keine ueberzeugende, sofort handelbare Gelegenheit in diesem Lauf. Tagesbudget fuer den 23.11. wurde bereits zuvor gutgeschrieben, keine erneute Gutschrift in diesem Lauf.",
+    "marketOverview": "Bitcoin leicht im Plus bei 61.371 USD (+0,41% 24h laut CoinGecko), Fear&Greed-Index unveraendert bei 11 (Extreme Angst), kein neuer Einzelkatalysator im Kryptomarkt. GOOGL notiert vorboerslich bei 280,31 USD (+5,66% vs. Schlusskurs 265,29 USD, Yahoo Finance) - der Sprung vom Vormittag haelt an und verstaerkt sich leicht. Der US-Kassamarkt oeffnet erst um 15:30 CET, Position daher weiterhin zum letzten Schlusskurs bewertet.",
+    "decision": "Kein Trade in diesem Lauf. BTC-Position (pos-0036) auf 61.371 USD aktualisiert (+0,67% seit Kauf). GOOGL (pos-0031) unveraendert bei 265,29 USD (letzter Schlusskurs, -6,41%) - Markt vor Handelsbeginn (15:30 CET) weiterhin geschlossen.",
+    "reasoning": "BTC bewegt sich weiterhin nur marginal (+0,41% 24h, +0,67% seit Kauf) ohne neuen Katalysator - klar unter der etablierten Ziel-Gewinnspanne (7-9%), daher keine Gewinnmitnahme und auch keine neue Position, da kein ueberzeugendes Signal vorliegt. Fear&Greed-Index weiterhin bei 11 (Extreme Angst), unveraendert. Der vorboersliche GOOGL-Sprung haelt mit +5,66% an und naehert sich damit weiter der Gewinnzone, bleibt aber vor Handelsbeginn (15:30 CET) nicht handelbar. Trotz reichlich freiem Kapital (ca. 108.468 EUR) keine ueberzeugende, sofort handelbare Gelegenheit in diesem Lauf. Tagesbudget fuer den 23.11. wurde bereits zuvor gutgeschrieben, keine erneute Gutschrift in diesem Lauf.",
     "positionIds": [
       "pos-0036"
     ],
-    "portfolioValueEnd": 1553.65,
+    "portfolioValueEnd": 1554.07,
     "updates": [
       {
         "time": "00:09",
@@ -14310,6 +14310,11 @@
         "time": "12:08",
         "note": "Keine Aenderung. BTC per CoinGecko-API auf 61.339 USD aktualisiert (+0,75% 24h, +0,62% seit Kauf), Fear&Greed-Index weiterhin 11 (Extreme Angst). GOOGL vorboerslich +5,41% auf 279,63 USD (stockanalysis.com), Markt vor Handelsbeginn (15:30 CET) noch geschlossen, Position unveraendert.",
         "portfolioValue": 1553.65
+      },
+      {
+        "time": "13:09",
+        "note": "Keine Aenderung. BTC per CoinGecko-API auf 61.371 USD aktualisiert (+0,41% 24h, +0,67% seit Kauf), Fear&Greed-Index weiterhin 11 (Extreme Angst). GOOGL vorboerslich weiter im Plus bei 280,31 USD (+5,66%, Yahoo Finance), Markt vor Handelsbeginn (15:30 CET) noch geschlossen, Position unveraendert.",
+        "portfolioValue": 1554.07
       }
     ]
   }
