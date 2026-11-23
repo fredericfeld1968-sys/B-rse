@@ -14238,13 +14238,13 @@
   },
   {
     "date": "2026-11-23",
-    "marketOverview": "Breiter Markt-Rebound am Montagmorgen nach der schwersten Korrekturwoche seit ueber sechs Jahren: Nasdaq-100-Futures +3,48%, S&P-500-Futures +2,70% (5:40 ET), angefuehrt von Nvidia, Micron, CoreWeave und Anthropic. GOOGL notiert weiterhin vorboerslich deutlich im Plus (+5,66% ggue. Schlusskurs 265,29 USD), US-Kassamarkt oeffnet aber erst um 15:30 CET und ist damit aktuell noch nicht handelbar. BTC via CoinGecko-API bei 61.217 USD (+0,89% 24h), Fear&Greed-Index unveraendert bei 11 (Extreme Angst). Brent leicht schwaecher bei ca. 91,84 USD trotz anhaltender Houthi-Angriffe im Golf/Strasse von Hormuz.",
-    "decision": "Kein Trade in diesem Lauf. BTC-Position (pos-0036) auf 61.217 USD aktualisiert (+0,42% seit Kauf). GOOGL (pos-0031) unveraendert bei 265,29 USD (letzter Schlusskurs, -6,41%) - Markt vor Handelsbeginn (15:30 CET) weiterhin geschlossen.",
-    "reasoning": "BTC bewegt sich weiterhin nur marginal (+0,89% 24h, +0,42% seit Kauf) ohne neuen eigenstaendigen Katalysator - klar unter der etablierten Ziel-Gewinnspanne (7-9%), daher keine Gewinnmitnahme und auch keine neue Position, da kein ueberzeugendes Signal vorliegt. Fear&Greed-Index weiterhin bei 11 (Extreme Angst), unveraendert. Der breite Aktienmarkt-Rebound (Nasdaq-Futures +3,48%) und der anhaltende GOOGL-Vorboersen-Sprung (+5,66%) sind vielversprechend, aber vor Handelsbeginn (15:30 CET, in ca. 80 Minuten) nicht handelbar - keine Aktien-/ETF-/Rohstoff-Trades ausserhalb der Handelszeiten. Trotz reichlich freiem Kapital keine ueberzeugende, sofort handelbare Gelegenheit in diesem Lauf. Tagesbudget fuer den 23.11. wurde bereits zuvor gutgeschrieben, keine erneute Gutschrift in diesem Lauf.",
+    "marketOverview": "Breiter Markt-Rebound haelt an, kurz vor US-Handelsbeginn (15:30 CET): GOOGL notiert via Yahoo-Finance-Chartdaten premarket bei 282,74 USD (+6,58% ggue. Freitagsschluss 265,29 USD), Markt aber weiterhin nicht offiziell handelbar (Pre-Market-Fenster endet erst 15:30 CET/14:30 UTC). BTC via CoinGecko-API auf 62.874 USD gestiegen (+3,59% 24h), Fear&Greed-Index weiterhin unveraendert bei 11 (Extreme Angst).",
+    "decision": "Kein Trade in diesem Lauf. BTC-Position (pos-0036) auf 62.874 USD aktualisiert (+3,14% seit Kauf). GOOGL (pos-0031) weiterhin bei letztem Schlusskurs 265,29 USD (-6,41%) gefuehrt, da der US-Kassamarkt erst um 15:30 CET (in ca. 15-20 Minuten) oeffnet und damit aktuell noch nicht offiziell handelbar ist.",
+    "reasoning": "BTC setzt den Bounce fort (+3,59% 24h, +3,14% seit Kauf), liegt aber weiterhin klar unter der etablierten Ziel-Gewinnspanne (7-9%) und ohne frischen eigenstaendigen Katalysator (Fear&Greed weiterhin bei 11, Extreme Angst) - daher keine Gewinnmitnahme. Auch unter den uebrigen Majors (ETH +4,8%, SOL +7,4%, XRP +6,1%) liess sich kein konkreter neuer, unabhaengig bestaetigter Einzelkatalysator finden, der eine zusaetzliche spekulative Position rechtfertigen wuerde - die Bewegung wirkt wie ein breiter Erleichterungs-Rebound nach der schwachen Vorwoche, kein klar abgegrenztes Signal. GOOGL bleibt trotz starkem Premarket-Sprung (+6,58%) bis zur offiziellen Marktoeffnung (15:30 CET) nicht handelbar. Trotz reichlich freiem Kapital (ca. 108.468 EUR) daher in diesem Lauf keine ueberzeugende, sofort umsetzbare Gelegenheit. Tagesbudget fuer den 23.11. wurde bereits zuvor gutgeschrieben, keine erneute Gutschrift in diesem Lauf.",
     "positionIds": [
       "pos-0036"
     ],
-    "portfolioValueEnd": 1552.05,
+    "portfolioValueEnd": 1573.79,
     "updates": [
       {
         "time": "00:09",
@@ -14320,6 +14320,11 @@
         "time": "14:11",
         "note": "Keine Aenderung. BTC per CoinGecko-API auf 61.217 USD aktualisiert (+0,89% 24h, +0,42% seit Kauf), Fear&Greed-Index weiterhin 11 (Extreme Angst). Breiter Markt-Rebound vorboerslich (Nasdaq-Futures +3,48%), GOOGL weiterhin nur vorboerslich im Plus (+5,66%), Markt oeffnet erst 15:30 CET.",
         "portfolioValue": 1552.05
+      },
+      {
+        "time": "15:13",
+        "note": "Keine Aenderung. BTC per CoinGecko-API auf 62.874 USD aktualisiert (+3,59% 24h, +3,14% seit Kauf), Fear&Greed-Index weiterhin 11 (Extreme Angst). GOOGL premarket bei 282,74 USD (+6,58%), Markt oeffnet erst in Kuerze (15:30 CET) - weiterhin nicht handelbar.",
+        "portfolioValue": 1573.79
       }
     ]
   }
