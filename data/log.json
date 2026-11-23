@@ -14238,13 +14238,13 @@
   },
   {
     "date": "2026-11-23",
-    "marketOverview": "Bitcoin setzt die Erholung fort (61.460 USD, +3,09% 24h laut CoinGecko), Fear&Greed-Index verbleibt bei 11 (Extreme Angst). Breite, synchrone Krypto-Erholung (ETH +2,44%, SOL +3,95%, ADA +2,01%, AVAX +2,16%, DOGE +1,77%, LINK +3,51%) ohne neuen Einzelkatalysator. GOOGL zeigt vorbörslich ein deutliches Plus (stockanalysis.com: 277,43 USD, +4,58% vs. Schlusskurs 265,29 USD), getrieben von Berichten, dass Alphabet erstmals seit über zwei Jahren Nvidia beim Marktwert überholt hat - der US-Kassamarkt oeffnet aber erst um 15:30 CET, daher noch nicht handelbar/bewertbar.",
-    "decision": "Kein Trade in diesem Lauf. BTC-Position (pos-0036) auf 61.460 USD aktualisiert (+0,82% seit Kauf). GOOGL (pos-0031) unveraendert bei 265,29 USD (letzter Schlusskurs, -6,41%) - Markt vor Handelsbeginn (15:30 CET) geschlossen, vorbörslicher Kurs (+4,58%) daher noch nicht verwertbar.",
-    "reasoning": "Die fortgesetzte, breite Krypto-Erholung ist weiterhin eine Beta-Bewegung ohne neuen eigenstaendigen Katalysator fuer eine Neuposition - BTC liegt mit +0,82% seit Kauf (pos-0036) klar unter der etablierten Ziel-Gewinnspanne (7-9%), daher keine Gewinnmitnahme. Der vorbörsliche GOOGL-Sprung (+4,58%, Alphabet ueberholt angeblich Nvidia als wertvollstes Unternehmen) ist eine interessante, aber noch unbestaetigte vorbörsliche Bewegung ohne Handelsmoeglichkeit vor 15:30 CET; GOOGL (pos-0031, -6,41%) wird daher unveraendert gelassen und erst bei Marktoeffnung neu bewertet. Trotz reichlich freiem Kapital (ca. 108.468 EUR) keine ueberzeugende, sofort handelbare Gelegenheit in diesem Lauf. Tagesbudget fuer den 23.11. wurde bereits zuvor gutgeschrieben, keine erneute Gutschrift in diesem Lauf.",
+    "marketOverview": "Bitcoin pendelt seitwaerts bei ca. 61.333 USD (+0,6% 24h laut CoinGecko), Fear&Greed-Index verharrt unveraendert bei 11 (Extreme Angst). Kein neuer Einzelkatalysator im Kryptomarkt. GOOGL notiert weiterhin deutlich im Plus vorboerslich (stockanalysis.com: 277,68 USD, +4,67% vs. Schlusskurs 265,29 USD), getrieben von Berichten ueber die Marktwert-Ueberholung von Nvidia - der US-Kassamarkt oeffnet aber erst um 15:30 CET, Position daher weiterhin zum letzten Schlusskurs bewertet.",
+    "decision": "Kein Trade in diesem Lauf. BTC-Position (pos-0036) auf 61.333 USD aktualisiert (+0,61% seit Kauf). GOOGL (pos-0031) unveraendert bei 265,29 USD (letzter Schlusskurs, -6,41%) - Markt vor Handelsbeginn (15:30 CET) geschlossen.",
+    "reasoning": "BTC bewegt sich nur noch seitwaerts (+0,6% 24h, +0,61% seit Kauf) ohne neuen Katalysator - klar unter der etablierten Ziel-Gewinnspanne (7-9%), daher keine Gewinnmitnahme und auch keine neue Position, da kein ueberzeugendes Signal vorliegt. Fear&Greed-Index weiterhin bei 11 (Extreme Angst), unveraendert zu den Vorlaeufen. Der vorboersliche GOOGL-Sprung (+4,67%) bleibt vor Handelsbeginn (15:30 CET) nicht handelbar und wird erst bei Marktoeffnung neu bewertet. Trotz reichlich freiem Kapital (ca. 108.468 EUR) keine ueberzeugende, sofort handelbare Gelegenheit in diesem Lauf. Tagesbudget fuer den 23.11. wurde bereits zuvor gutgeschrieben, keine erneute Gutschrift in diesem Lauf.",
     "positionIds": [
       "pos-0036"
     ],
-    "portfolioValueEnd": 1555.24,
+    "portfolioValueEnd": 1553.57,
     "updates": [
       {
         "time": "00:09",
@@ -14300,6 +14300,11 @@
         "time": "10:10",
         "note": "Keine Aenderung. BTC per CoinGecko-API auf 61.460 USD aktualisiert (+3,09% 24h, +0,82% seit Kauf), Fear&Greed-Index weiterhin 11 (Extreme Angst). GOOGL vorboerslich +4,58% auf 277,43 USD (Alphabet ueberholt Nvidia-Marktwert) - Markt vor Handelsbeginn (15:30 CET) noch geschlossen, Position unveraendert.",
         "portfolioValue": 1555.24
+      },
+      {
+        "time": "11:08",
+        "note": "Keine Aenderung. BTC per CoinGecko-API auf 61.333 USD aktualisiert (+0,6% 24h, +0,61% seit Kauf), Fear&Greed-Index weiterhin 11 (Extreme Angst). GOOGL weiterhin vorboerslich +4,67% auf 277,68 USD, Markt vor Handelsbeginn (15:30 CET) noch geschlossen, Position unveraendert.",
+        "portfolioValue": 1553.57
       }
     ]
   }
