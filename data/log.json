@@ -14238,14 +14238,14 @@
   },
   {
     "date": "2026-11-23",
-    "marketOverview": "US-Tech-Rally kuehlt leicht ab: GOOGL gibt einen Teil des Tagesgewinns ab und notiert bei 283,45 USD (+6,85% Tagesplus laut stockanalysis.com), Markt weiterhin offen (bis 22:00 CET). Krypto-Sentiment bleibt bei Fear&Greed 11 (Extreme Angst) unveraendert fragil, Bitcoin pendelt seitwaerts um 61.579 USD (+1,51% 24h laut CoinGecko). Keine neuen marktbewegenden Nachrichten seit dem letzten Lauf.",
-    "decision": "Kein Trade in diesem Lauf. GOOGL (pos-0031) auf 283,45 USD aktualisiert (-0,01% seit Kauf, praktisch unveraendert). BTC (pos-0036) auf 61.579 USD aktualisiert (+1,01% seit Kauf). Beide Positionen klar innerhalb der normalen Schwankungsbreite, weder Stop-Loss- noch Gewinnmitnahme-Schwelle erreicht.",
-    "reasoning": "Weder bei GOOGL noch bei BTC wird die etablierte Stop-Loss- (-6,5 bis -7,5%) oder Gewinnmitnahme-Schwelle (+7-9%) erreicht, daher bleiben beide Positionen offen. Fuer einen Neukauf fehlt weiterhin eine wirklich ueberzeugende, noch nicht eingepreiste Gelegenheit: GOOGL-Rally ist bereits weitgehend eingepreist, Krypto bleibt im Extreme-Fear-Regime ohne klaren Ausbruchskatalysator. Passend zum spekulativen, aber diszipliniert-selektiven Profil wird abgewartet.",
+    "marketOverview": "US-Tech-Rally haelt kurz vor Handelsschluss (22:00 CET) weiterhin an: GOOGL notiert bei 282,56 USD (+6,51% Tagesplus laut stockanalysis.com), Markt noch rund 50 Minuten offen. Krypto-Sentiment bleibt fragil, Bitcoin seitwaerts bei 61.205,69 USD (+0,89% 24h laut Binance). Keine neuen marktbewegenden Einzelnachrichten seit dem letzten Lauf identifizierbar.",
+    "decision": "Kein Trade in diesem Lauf. GOOGL (pos-0031) auf 282,56 USD aktualisiert (-0,32% seit Kauf). BTC (pos-0036) auf 61.205,69 USD aktualisiert (+0,40% seit Kauf). Beide Positionen klar innerhalb der normalen Schwankungsbreite, weder Stop-Loss- noch Gewinnmitnahme-Schwelle erreicht.",
+    "reasoning": "Weder bei GOOGL noch bei BTC wird die etablierte Stop-Loss- (-6,5 bis -7,5%) oder Gewinnmitnahme-Schwelle (+7-9%) erreicht, daher bleiben beide Positionen offen. Fuer einen Neukauf fehlt weiterhin eine wirklich ueberzeugende, noch nicht eingepreiste Gelegenheit kurz vor Handelsschluss; aktuelle Recherche lieferte keine frischen, spezifischen Katalysatoren. Passend zum spekulativen, aber diszipliniert-selektiven Profil wird abgewartet.",
     "positionIds": [
       "pos-0031",
       "pos-0036"
     ],
-    "portfolioValueEnd": 1608.05,
+    "portfolioValueEnd": 1600.64,
     "updates": [
       {
         "time": "00:09",
@@ -14351,6 +14351,11 @@
         "time": "20:08",
         "note": "Keine Aenderung. GOOGL auf 283,45 USD aktualisiert (+6,85% Tagesplus laut stockanalysis.com, -0,01% seit Kauf), Markt noch bis 22:00 CET offen. BTC per CoinGecko auf 61.579 USD aktualisiert (+1,51% 24h, +1,01% seit Kauf), Fear&Greed-Index weiterhin 11 (Extreme Angst). Keine ueberzeugende neue Gelegenheit, daher kein Trade.",
         "portfolioValue": 1608.05
+      },
+      {
+        "time": "21:08",
+        "note": "Keine Aenderung. GOOGL auf 282,56 USD aktualisiert (+6,51% Tagesplus laut stockanalysis.com, -0,32% seit Kauf), Markt noch bis 22:00 CET offen. BTC per Binance auf 61.205,69 USD aktualisiert (+0,89% 24h, +0,40% seit Kauf). Keine ueberzeugende neue Gelegenheit, daher kein Trade.",
+        "portfolioValue": 1600.64
       }
     ]
   }
