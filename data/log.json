@@ -14238,13 +14238,13 @@
   },
   {
     "date": "2026-11-23",
-    "marketOverview": "Bitcoin pendelt seitwaerts bei ca. 61.333 USD (+0,6% 24h laut CoinGecko), Fear&Greed-Index verharrt unveraendert bei 11 (Extreme Angst). Kein neuer Einzelkatalysator im Kryptomarkt. GOOGL notiert weiterhin deutlich im Plus vorboerslich (stockanalysis.com: 277,68 USD, +4,67% vs. Schlusskurs 265,29 USD), getrieben von Berichten ueber die Marktwert-Ueberholung von Nvidia - der US-Kassamarkt oeffnet aber erst um 15:30 CET, Position daher weiterhin zum letzten Schlusskurs bewertet.",
-    "decision": "Kein Trade in diesem Lauf. BTC-Position (pos-0036) auf 61.333 USD aktualisiert (+0,61% seit Kauf). GOOGL (pos-0031) unveraendert bei 265,29 USD (letzter Schlusskurs, -6,41%) - Markt vor Handelsbeginn (15:30 CET) geschlossen.",
-    "reasoning": "BTC bewegt sich nur noch seitwaerts (+0,6% 24h, +0,61% seit Kauf) ohne neuen Katalysator - klar unter der etablierten Ziel-Gewinnspanne (7-9%), daher keine Gewinnmitnahme und auch keine neue Position, da kein ueberzeugendes Signal vorliegt. Fear&Greed-Index weiterhin bei 11 (Extreme Angst), unveraendert zu den Vorlaeufen. Der vorboersliche GOOGL-Sprung (+4,67%) bleibt vor Handelsbeginn (15:30 CET) nicht handelbar und wird erst bei Marktoeffnung neu bewertet. Trotz reichlich freiem Kapital (ca. 108.468 EUR) keine ueberzeugende, sofort handelbare Gelegenheit in diesem Lauf. Tagesbudget fuer den 23.11. wurde bereits zuvor gutgeschrieben, keine erneute Gutschrift in diesem Lauf.",
+    "marketOverview": "Bitcoin pendelt weiterhin seitwaerts bei ca. 61.339 USD (+0,75% 24h laut CoinGecko), Fear&Greed-Index unveraendert bei 11 (Extreme Angst), kein neuer Einzelkatalysator im Kryptomarkt. GOOGL notiert laut stockanalysis.com vorboerslich bei 279,63 USD (+5,41% vs. Schlusskurs 265,29 USD) - kein eindeutig auffindbarer frischer Einzelkatalysator fuer den heutigen Sprung, moeglicherweise Fortsetzung der seit Tagen laufenden Nvidia-Marktwert-Ueberholungs-Story. Der US-Kassamarkt oeffnet erst um 15:30 CET, Position daher weiterhin zum letzten Schlusskurs bewertet.",
+    "decision": "Kein Trade in diesem Lauf. BTC-Position (pos-0036) auf 61.339 USD aktualisiert (+0,62% seit Kauf). GOOGL (pos-0031) unveraendert bei 265,29 USD (letzter Schlusskurs, -6,41%) - Markt vor Handelsbeginn (15:30 CET) geschlossen.",
+    "reasoning": "BTC bewegt sich weiterhin nur seitwaerts (+0,75% 24h, +0,62% seit Kauf) ohne neuen Katalysator - klar unter der etablierten Ziel-Gewinnspanne (7-9%), daher keine Gewinnmitnahme und auch keine neue Position, da kein ueberzeugendes Signal vorliegt. Fear&Greed-Index weiterhin bei 11 (Extreme Angst), unveraendert. Der vorboersliche GOOGL-Sprung (+5,41% auf 279,63 USD) bleibt vor Handelsbeginn (15:30 CET) nicht handelbar und wird erst bei Marktoeffnung neu bewertet; sollte sich der Sprung halten, wuerde die Position deutlich naeher an die urspruengliche Gewinnzone rutschen statt an den Stop-Loss. Trotz reichlich freiem Kapital (ca. 108.468 EUR) keine ueberzeugende, sofort handelbare Gelegenheit in diesem Lauf. Tagesbudget fuer den 23.11. wurde bereits zuvor gutgeschrieben, keine erneute Gutschrift in diesem Lauf.",
     "positionIds": [
       "pos-0036"
     ],
-    "portfolioValueEnd": 1553.57,
+    "portfolioValueEnd": 1553.65,
     "updates": [
       {
         "time": "00:09",
@@ -14305,6 +14305,11 @@
         "time": "11:08",
         "note": "Keine Aenderung. BTC per CoinGecko-API auf 61.333 USD aktualisiert (+0,6% 24h, +0,61% seit Kauf), Fear&Greed-Index weiterhin 11 (Extreme Angst). GOOGL weiterhin vorboerslich +4,67% auf 277,68 USD, Markt vor Handelsbeginn (15:30 CET) noch geschlossen, Position unveraendert.",
         "portfolioValue": 1553.57
+      },
+      {
+        "time": "12:08",
+        "note": "Keine Aenderung. BTC per CoinGecko-API auf 61.339 USD aktualisiert (+0,75% 24h, +0,62% seit Kauf), Fear&Greed-Index weiterhin 11 (Extreme Angst). GOOGL vorboerslich +5,41% auf 279,63 USD (stockanalysis.com), Markt vor Handelsbeginn (15:30 CET) noch geschlossen, Position unveraendert.",
+        "portfolioValue": 1553.65
       }
     ]
   }
