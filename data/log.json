@@ -14238,14 +14238,14 @@
   },
   {
     "date": "2026-11-23",
-    "marketOverview": "US-Maerkte bleiben im Tech-Rally-Modus: GOOGL notiert nachmittags bei 283,87 USD (+7,00% Tagesplus, Alphabet uebernimmt zeitweise die Marktfuehrerschaft vor Nvidia). Krypto-Stimmung bleibt dagegen fragil-bearish (Fear&Greed-Index 12, 'Extreme Angst'): Bitcoin erholt sich leicht auf ca. 61.695 USD (+1,2% seit Kauf), nachdem eine fuer Dezember breit erwartete Fed-Zinserhoehung (25bp auf 4,00-4,25%) sowie Sorgen um die Finanzierung von KI-Infrastruktur weiter auf der Stimmung lasten. Oel (Brent/WTI) und wichtige Krypto-Werte (ETH, XRP) bleiben schwach bis neutral.",
-    "decision": "Kein Trade in diesem Lauf. GOOGL (pos-0031) auf 283,87 USD aktualisiert (+0,14% seit Kauf, Tagesrally haelt an). BTC (pos-0036) auf 61.695,06 USD aktualisiert (+1,20% seit Kauf, leichte Erholung im weiterhin fragilen Krypto-Umfeld). Beide Positionen klar innerhalb der normalen Schwankungsbreite, weder Stop-Loss- noch Gewinnmitnahme-Schwelle erreicht. Trotz hohem freiem Kapital kein Neueinstieg: die GOOGL-Rally ist bereits sehr weit gelaufen (verspaeteter Verfolgerkauf waere kein Edge), und das Krypto-Umfeld (Extreme Angst, Fed-Hike-Erwartung im Dezember) bietet keine ueberzeugende neue Ausbruchsgelegenheit.",
-    "reasoning": "Weder bei GOOGL noch bei BTC wird die etablierte Stop-Loss- (-6,5 bis -7,5%) oder Gewinnmitnahme-Schwelle (+7-9%) erreicht, daher bleiben beide Positionen offen. Fuer einen Neukauf fehlt weiterhin eine wirklich ueberzeugende, noch nicht eingepreiste Gelegenheit: GOOGL ist bereits +7% gelaufen, und der Kryptomarkt signalisiert mit Fear&Greed 12 anhaltende Unsicherheit ohne klaren Ausbruchskatalysator. Passend zum spekulativen, aber diszipliniert-selektiven Profil wird abgewartet.",
+    "marketOverview": "US-Tech-Rally haelt weiter an: GOOGL notiert abends bei 284,12 USD (+7,10% Tagesplus laut stockanalysis.com), Markt weiterhin offen. Krypto-Sentiment bleibt bei Fear&Greed 11 (Extreme Angst) unveraendert fragil, Bitcoin pendelt seitwaerts um 61.546 USD (+1,57% 24h laut CoinGecko). Keine neuen marktbewegenden Nachrichten seit dem letzten Lauf.",
+    "decision": "Kein Trade in diesem Lauf. GOOGL (pos-0031) auf 284,12 USD aktualisiert (+0,23% seit Kauf). BTC (pos-0036) auf 61.546 USD aktualisiert (+0,96% seit Kauf). Beide Positionen klar innerhalb der normalen Schwankungsbreite, weder Stop-Loss- noch Gewinnmitnahme-Schwelle erreicht.",
+    "reasoning": "Weder bei GOOGL noch bei BTC wird die etablierte Stop-Loss- (-6,5 bis -7,5%) oder Gewinnmitnahme-Schwelle (+7-9%) erreicht, daher bleiben beide Positionen offen. Fuer einen Neukauf fehlt weiterhin eine wirklich ueberzeugende, noch nicht eingepreiste Gelegenheit: GOOGL ist bereits +7% gelaufen (verspaeteter Verfolgerkauf waere kein Edge), Krypto bleibt im Extreme-Fear-Regime ohne klaren Ausbruchskatalysator. Passend zum spekulativen, aber diszipliniert-selektiven Profil wird abgewartet.",
     "positionIds": [
       "pos-0031",
       "pos-0036"
     ],
-    "portfolioValueEnd": 1610.76,
+    "portfolioValueEnd": 1609.51,
     "updates": [
       {
         "time": "00:09",
@@ -14341,6 +14341,11 @@
         "time": "18:09",
         "note": "Keine Aenderung. GOOGL auf 283,87 USD aktualisiert (+7,00% Tagesplus laut stockanalysis.com, +0,14% seit Kauf). BTC auf 61.695,06 USD aktualisiert (+1,32% 24h laut FXStreet/Mitrade, +1,20% seit Kauf), Fear&Greed-Index bei 12 (Extreme Angst). Keine ueberzeugende neue Gelegenheit, daher kein Trade.",
         "portfolioValue": 1610.76
+      },
+      {
+        "time": "19:08",
+        "note": "Keine Aenderung. GOOGL auf 284,12 USD aktualisiert (+7,10% Tagesplus laut stockanalysis.com, +0,23% seit Kauf). BTC per CoinGecko auf 61.546 USD aktualisiert (+1,57% 24h, +0,96% seit Kauf), Fear&Greed-Index weiterhin 11 (Extreme Angst). Keine ueberzeugende neue Gelegenheit, daher kein Trade.",
+        "portfolioValue": 1609.51
       }
     ]
   }
