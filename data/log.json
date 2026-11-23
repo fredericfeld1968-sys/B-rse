@@ -14238,14 +14238,14 @@
   },
   {
     "date": "2026-11-23",
-    "marketOverview": "US-Markt seit 15:30 CET offiziell offen: GOOGL notiert live bei 280,42 USD (+5,70% Tagesplus laut StockAnalysis), nachdem der starke Premarket-Sprung (+6,58%) bestaetigt wurde. BTC via CoinGecko-API auf 63.119 USD (+3,70% 24h) weiter gestiegen, breiter Altcoin-Rebound haelt an (SOL +8,9%, XRP +7,4%, DOGE +7,1%, ETH +4,1%), jedoch ohne einen einzelnen, neu bestaetigten fundamentalen Katalysator - wirkt wie Fortsetzung des allgemeinen Risk-on-Rebounds der letzten Stunden.",
-    "decision": "Kein Trade in diesem Lauf. GOOGL (pos-0031) jetzt zu offiziellem, live gehandeltem Kurs auf 280,42 USD aktualisiert (-1,08% seit Kauf, deutliche Erholung von -6,41%). BTC (pos-0036) auf 63.119 USD aktualisiert (+3,54% seit Kauf).",
-    "reasoning": "GOOGL hat sich seit Markteroeffnung stark erholt (jetzt nur noch -1,08% statt -6,41%), liegt aber weiterhin im Minus - kein Grund fuer eine Stop-Loss-Reaktion bei einer Position, die sich gerade erholt, und noch kein Gewinn zum Mitnehmen. BTC bleibt mit +3,54% klar unter der etablierten Ziel-Gewinnspanne (7-9%) und Fear&Greed weiterhin extrem niedrig, daher keine Gewinnmitnahme. Der breite Altcoin-Rebound (SOL/XRP/DOGE) zeigt keinen einzelnen, neu bestaetigten Katalysator, sondern wirkt wie die Fortsetzung des bereits in frueheren Laeufen heute beobachteten allgemeinen Risk-on-Rebounds - daher trotz reichlich freiem Kapital (ca. 108.468 EUR) keine neue Position in diesem Lauf. Tagesbudget fuer den 23.11. wurde bereits zuvor gutgeschrieben, keine erneute Gutschrift in diesem Lauf.",
+    "marketOverview": "US-Tech-Rally setzt sich fort: Nasdaq/S&P legten am Vortag nach Nvidia-Rebound (+33%, Huang-Wiedereinsetzung als CEO) um rund +7%/+5% zu, GOOGL notiert heute mit +6,45% auf 282,40 USD. Anleiherenditen steigen, Fed-Kurs fuer Dezember unklar (Signale zwischen weiterer Pause und moeglicher Zinserhoehung), Rede von NY-Fed-Praesident Williams mit Marktaufmerksamkeit erwartet. Bitcoin erholt sich parallel auf 62.706 USD (+2,89% 24h), nachdem Krypto zuvor im Gleichschritt mit Aktien verkauft wurde. Keine frischen, klar ueberzeugenden Einzelkatalysatoren fuer einen Neueinstieg trotz hoher freier Liquiditaet.",
+    "decision": "Kein Trade in diesem Lauf. GOOGL (pos-0031) auf offiziellen Live-Kurs 282,40 USD aktualisiert (-0,38% seit Kauf, deutliche Erholung von urspruenglich bis zu -6,4%). BTC (pos-0036) auf 62.706 USD aktualisiert (+2,86% seit Kauf). Beide Positionen liegen innerhalb der normalen Schwankungsbreite, weder Stop-Loss- noch Gewinnmitnahme-Schwelle erreicht. Die fortgesetzte Tech-Rally ist bereits sehr weit gelaufen (Nasdaq +7% am Vortag, GOOGL +6,45% heute) - ein Neueinstieg waere ein verspaeteter Verfolgerkauf ohne klaren Edge, daher trotz hohem freiem Kapital kein neuer Trade.",
+    "reasoning": "Weder bei GOOGL noch bei BTC wird die etablierte Stop-Loss- (-6,5 bis -7,5%) oder Gewinnmitnahme-Schwelle (+7-9%) erreicht, daher bleiben beide Positionen offen. Fuer einen Neukauf fehlt eine wirklich ueberzeugende, noch nicht eingepreiste Gelegenheit: die grossen Bewegungen des Tages (Nvidia-Rebound, GOOGL-Sprung, Tech-Rally) sind bereits weitgehend gelaufen. Passend zum spekulativen, aber diszipliniert-selektiven Profil wird abgewartet.",
     "positionIds": [
       "pos-0031",
       "pos-0036"
     ],
-    "portfolioValueEnd": 1619.71,
+    "portfolioValueEnd": 1619.88,
     "updates": [
       {
         "time": "00:09",
@@ -14331,6 +14331,11 @@
         "time": "16:09",
         "note": "Keine Aenderung. US-Markt jetzt offiziell offen: GOOGL auf 280,42 USD (+5,70% Tagesplus, -1,08% seit Kauf). BTC auf 63.119 USD (+3,54% seit Kauf). Breiter Altcoin-Rebound ohne neuen Einzelkatalysator.",
         "portfolioValue": 1619.71
+      },
+      {
+        "time": "17:09",
+        "note": "Keine Aenderung. GOOGL auf 282,40 USD (+6,45% Tagesplus laut stockanalysis.com, -0,38% seit Kauf, Erholung). BTC per CoinGecko auf 62.706 USD (+2,89% 24h, +2,86% seit Kauf). Breite Tech-Rally haelt an (Nasdaq/S&P am Vortag +7%/+5% nach Nvidia-Rebound/Huang-Wiedereinsetzung), aber bereits weit gelaufen - keine neue ueberzeugende Einstiegsgelegenheit, daher kein Trade.",
+        "portfolioValue": 1619.88
       }
     ]
   }
