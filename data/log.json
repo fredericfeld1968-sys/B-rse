@@ -14238,14 +14238,14 @@
   },
   {
     "date": "2026-11-23",
-    "marketOverview": "US-Tech-Rally haelt kurz vor Handelsschluss (22:00 CET) weiterhin an: GOOGL notiert bei 282,56 USD (+6,51% Tagesplus laut stockanalysis.com), Markt noch rund 50 Minuten offen. Krypto-Sentiment bleibt fragil, Bitcoin seitwaerts bei 61.205,69 USD (+0,89% 24h laut Binance). Keine neuen marktbewegenden Einzelnachrichten seit dem letzten Lauf identifizierbar.",
-    "decision": "Kein Trade in diesem Lauf. GOOGL (pos-0031) auf 282,56 USD aktualisiert (-0,32% seit Kauf). BTC (pos-0036) auf 61.205,69 USD aktualisiert (+0,40% seit Kauf). Beide Positionen klar innerhalb der normalen Schwankungsbreite, weder Stop-Loss- noch Gewinnmitnahme-Schwelle erreicht.",
-    "reasoning": "Weder bei GOOGL noch bei BTC wird die etablierte Stop-Loss- (-6,5 bis -7,5%) oder Gewinnmitnahme-Schwelle (+7-9%) erreicht, daher bleiben beide Positionen offen. Fuer einen Neukauf fehlt weiterhin eine wirklich ueberzeugende, noch nicht eingepreiste Gelegenheit kurz vor Handelsschluss; aktuelle Recherche lieferte keine frischen, spezifischen Katalysatoren. Passend zum spekulativen, aber diszipliniert-selektiven Profil wird abgewartet.",
+    "marketOverview": "US-Markt ist seit 22:00 CET geschlossen; GOOGL schloss bei 282,31 USD (+6,42% Tagesplus, stockanalysis.com) und notiert nachboerslich bei 282,00 USD. Krypto bewegt sich seitwaerts: Bitcoin bei 61.236 USD (+0,50% 24h, CoinGecko), Ethereum, Solana, XRP, Dogecoin und Avalanche zeigen nur leichte Gewinne (0,3-3,7% 24h) ohne erkennbaren Einzelkatalysator.",
+    "decision": "Kein Trade in diesem Lauf. GOOGL (pos-0031) auf 282,00 USD aktualisiert (-0,52% seit Kauf). BTC (pos-0036) auf 61.236 USD aktualisiert (+0,45% seit Kauf). Beide Positionen klar innerhalb der normalen Schwankungsbreite, weder Stop-Loss- noch Gewinnmitnahme-Schwelle erreicht.",
+    "reasoning": "US-Boerse ist fuer heute geschlossen, daher sind Aktien/ETFs/Rohstoffe nicht handelbar. Krypto zeigt keine ueberzeugende, bestaetigte Ausbruchsbewegung (grosste Bewegung SOL +3,7% 24h, ohne frischen Katalysator laut Recherche) - die etablierte Einstiegsschwelle fuer spekulative Momentum-Trades wird nicht erreicht. GOOGL und BTC bleiben jeweils weit von Stop-Loss (-6,5 bis -7,5%) und Gewinnmitnahme-Schwelle (+7-9%) entfernt. Passend zum spekulativen, aber diszipliniert-selektiven Profil wird abgewartet.",
     "positionIds": [
       "pos-0031",
       "pos-0036"
     ],
-    "portfolioValueEnd": 1600.64,
+    "portfolioValueEnd": 1599.46,
     "updates": [
       {
         "time": "00:09",
@@ -14356,6 +14356,11 @@
         "time": "21:08",
         "note": "Keine Aenderung. GOOGL auf 282,56 USD aktualisiert (+6,51% Tagesplus laut stockanalysis.com, -0,32% seit Kauf), Markt noch bis 22:00 CET offen. BTC per Binance auf 61.205,69 USD aktualisiert (+0,89% 24h, +0,40% seit Kauf). Keine ueberzeugende neue Gelegenheit, daher kein Trade.",
         "portfolioValue": 1600.64
+      },
+      {
+        "time": "22:09",
+        "note": "Keine Aenderung. GOOGL nachboerslich auf 282,00 USD aktualisiert (-0,52% seit Kauf), US-Markt seit 22:00 CET geschlossen. BTC per CoinGecko auf 61.236 USD aktualisiert (+0,45% seit Kauf, +0,50% 24h). Krypto insgesamt seitwaerts ohne frischen Katalysator, daher kein Trade.",
+        "portfolioValue": 1599.46
       }
     ]
   }
