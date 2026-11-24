@@ -14371,14 +14371,14 @@
   },
   {
     "date": "2026-11-24",
-    "marketOverview": "03:07 CET: US-Boerse weiterhin geschlossen (Oeffnung 15:30 CET), Aktien/ETFs/Rohstoffe nicht handelbar. Bitcoin per CoinGecko-Live-API bei 60.773 USD (+0,04% in 24h), damit praktisch unveraendert und naeher an den zuletzt kursierenden niedrigeren Staenden als die zuvor vermuteten 91.000 USD. Grosse Altcoins (SOL, XRP, DOGE, ADA, AVAX, LINK) legen moderat um +2 bis +4,6% zu, ETH leicht im Minus (-0,22%) - breite, aber nur maessige Bewegung ohne einen einzelnen bestaetigten Katalysator. Fear&Greed-Index weiterhin bei 11 (Extreme Angst).",
-    "decision": "Kein Trade in diesem Lauf. GOOGL (pos-0031) auf letzten Boersenschluss von 282,10 USD aktualisiert (-0,48% seit Kauf), BTC (pos-0036) per CoinGecko auf 60.773 USD aktualisiert (-0,31% seit Kauf). Beide Positionen bleiben klar innerhalb der normalen Schwankungsbreite, weder Stop-Loss (-6,5 bis -7,5%) noch Gewinnmitnahme-Schwelle (+7-9%) erreicht.",
-    "reasoning": "Live-Marktdaten (CoinGecko) zeigen Bitcoin nahezu unveraendert (+0,04% 24h) bei fortgesetzter Extreme-Angst-Stimmung (Fear&Greed 11); die zuvor als widerspruechlich eingestuften hoeheren BTC-Staende (bis 91.000 USD) werden durch die aktuelle Live-Abfrage nicht bestaetigt. Die leichten Altcoin-Gewinne (SOL +2,2%, XRP +3,4%, DOGE +3,8%, ADA +4,6%, AVAX +3,1%, LINK +3,3%) sind breit gestreut, aber moderat und ohne einen einzelnen, unabhaengig bestaetigten frischen Katalysator - damit kein ueberzeugender Einstiegspunkt fuer eine neue spekulative Position. US-Boerse ist nachts weiterhin geschlossen, daher Aktien/ETFs/Rohstoffe nicht handelbar; GOOGL wird auf den letzten regulaeren Boersenschluss (282,10 USD) aktualisiert, bleibt aber mit -0,48% weit von jeder Handlungsschwelle entfernt. Kein Kauf trotz vorhandenem freiem Kapital, kein Verkauf der bestehenden Positionen.",
+    "marketOverview": "Krypto bleibt in der Nacht auf Dienstag schwach: Bitcoin fiel laut CoinGecko-Live-API auf ca. 59.683 USD (-1,85% in 24h), Ethereum auf 1.674 USD (-2,18%), waehrend kleinere Altcoins (XRP, ADA, AVAX, DOGE, LINK) leicht im Plus notieren - ein gemischtes, uneinheitliches Bild ohne klaren Einzelkatalysator. Der Fear&Greed-Index verbleibt unveraendert bei 11 (Extreme Angst). US- und europaeische Boersen sind nachts geschlossen, daher bleibt GOOGL auf dem letzten Schlusskurs von 282,10 USD (Montag, 23.11.).",
+    "decision": "Kein Trade in diesem Lauf. GOOGL (pos-0031) unveraendert auf letztem Boersenschluss 282,10 USD (-0,48% seit Kauf, Boerse nachts geschlossen). BTC (pos-0036) per CoinGecko-Live-API auf 59.683 USD aktualisiert (-2,10% seit Kauf, -1,85% 24h). Beide Positionen bleiben klar innerhalb der normalen Schwankungsbreite, weder Stop-Loss (-6,5 bis -7,5%) noch Gewinnmitnahme-Schwelle (+7-9%) erreicht.",
+    "reasoning": "Live-Marktdaten (CoinGecko) zeigen einen leichten, breiten Krypto-Ruecksetzer ueber Nacht (BTC -1,85%, ETH -2,18% in 24h) ohne erkennbaren frischen Einzelkatalysator - Fear&Greed-Index verharrt bei 11 (Extreme Angst). Kleinere Altcoin-Bewegungen (XRP +1,7%, ADA +2,2%, AVAX +1,2%, DOGE +1,2%, LINK +1,6%) sind zu moderat und zu uneinheitlich fuer eine ueberzeugende spekulative Einstiegsgelegenheit. US-/EU-Boersen sind um diese Nachtzeit (04:09 CET) weiterhin geschlossen, daher Aktien/ETFs/Rohstoffe nicht handelbar; GOOGL bleibt auf dem letzten Schlusskurs (282,10 USD, -0,48% seit Kauf) weit von jeder Handlungsschwelle entfernt. BTC-Position (-2,10% seit Kauf) ebenfalls deutlich innerhalb der Toleranz. Kein Kauf trotz vorhandenem freiem Kapital (keine ueberzeugende Gelegenheit), kein Verkauf der bestehenden Positionen.",
     "positionIds": [
       "pos-0031",
       "pos-0036"
     ],
-    "portfolioValueEnd": 1593.66,
+    "portfolioValueEnd": 1579.36,
     "updates": [
       {
         "time": "00:08",
@@ -14399,6 +14399,11 @@
         "time": "03:07",
         "note": "Keine Aenderung. GOOGL auf letzten Schlusskurs 282,10 USD aktualisiert (-0,48%). BTC per CoinGecko auf 60.773 USD aktualisiert (-0,31% seit Kauf, +0,04% 24h). Fear&Greed-Index bei 11 (Extreme Angst), Altcoins leicht im Plus ohne bestaetigten Einzelkatalysator - kein Trade.",
         "portfolioValue": 1593.66
+      },
+      {
+        "time": "04:09",
+        "note": "Keine Aenderung. GOOGL unveraendert auf letztem Schlusskurs 282,10 USD (Boerse nachts geschlossen). BTC per CoinGecko auf 59.683 USD aktualisiert (-2,10% seit Kauf, -1,85% 24h). Fear&Greed-Index weiterhin 11 (Extreme Angst), kein ueberzeugender Krypto-Katalysator - kein Trade.",
+        "portfolioValue": 1579.36
       }
     ]
   }
