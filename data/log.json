@@ -14371,14 +14371,14 @@
   },
   {
     "date": "2026-11-24",
-    "marketOverview": "GOOGL faellt im regulaeren US-Handel weiter auf 276,44 USD (-2,01% Tagesverlust, 11:09 ET laut stockanalysis.com) im Sog der anhaltenden Berichte ueber gekuerzte Broadcom-TPU-Bestellungen; kein neuer Einzelkatalysator seit dem letzten Lauf. Bitcoin faellt weiter auf ca. 59.573 USD (-5,0% in 24h, uebereinstimmend CoinGecko und Binance) im Rahmen des anhaltenden Krypto-Risk-off-Regimes; auch hier kein neuer, mehrfach bestaetigter Katalysator fuer Altcoins identifizierbar. Breiterer Marktkontext (Fed-Pfad, Geopolitik) ohne frische, verlaesslich datierte Entwicklung seit dem letzten Lauf.",
-    "decision": "Kein Trade in diesem Lauf. GOOGL (pos-0031) auf 276,44 USD aktualisiert (-2,48% seit Kauf). BTC (pos-0036) auf 59.573 USD aktualisiert (-2,28% seit Kauf). Beide Positionen bleiben klar innerhalb der normalen Schwankungsbreite, weder Stop-Loss (-6,5 bis -7,5%) noch Gewinnmitnahme-Schwelle (+7-9%) erreicht.",
-    "reasoning": "GOOGL setzt den Rueckgang der letzten Stunden fort (-2,01% heute, -2,48% seit Kauf), getrieben vom bereits bekannten Broadcom-TPU-Bestellkuerzungs-Narrativ ohne neue fundamentale Verschlechterung - reines Fortsetzen des bekannten Themas, keine Handlungsschwelle erreicht. BTC fällt weiter im Rahmen eines breiten Krypto-Risk-off (-5,0% 24h), bleibt bei -2,28% seit Kauf aber deutlich innerhalb der Toleranz; kein einzeltitelspezifischer neuer Katalysator fuer Altcoins gefunden. Trotz erheblichem freiem Kapital (~109.468 EUR) keine ueberzeugende, mehrfach bestaetigte neue Kauf- oder Verkaufsgelegenheit identifiziert, daher passend zum Vorgehen bei fehlendem Katalysator kein Trade.",
+    "marketOverview": "GOOGL notiert im regulaeren US-Handel bei 278,08 USD (-1,43% Tagesverlust, stockanalysis.com Real-Time, 12:07 ET) - leichte Erholung ggue. dem letzten Lauf (276,44 USD), aber weiterhin im Sog des Broadcom-TPU-Bestellkuerzungs-Narrativs ohne neuen Einzelkatalysator. Bitcoin liegt bei 59.437 USD (-3,80% 24h laut CoinGecko), anhaltendes Krypto-Risk-off-Regime. Keine mehrfach bestaetigte neue Kauf- oder Verkaufsgelegenheit in Aktien, ETFs, Krypto oder Rohstoffen identifiziert.",
+    "decision": "Kein Trade in diesem Lauf. GOOGL (pos-0031) auf 278,08 USD aktualisiert (-1,90% seit Kauf). BTC (pos-0036) auf 59.437 USD aktualisiert (-2,50% seit Kauf). Beide Positionen bleiben klar innerhalb der normalen Schwankungsbreite, weder Stop-Loss (-6,5 bis -7,5%) noch Gewinnmitnahme-Schwelle (+7-9%) erreicht.",
+    "reasoning": "GOOGL erholt sich leicht gegenueber dem letzten Lauf (-1,90% statt -2,48% seit Kauf), bleibt aber ohne neuen fundamentalen Katalysator. BTC bei -2,50% seit Kauf weiterhin deutlich innerhalb der Toleranz, kein einzeltitelspezifischer neuer Katalysator fuer Altcoins gefunden. Trotz erheblichem freiem Kapital (~109.468 EUR) keine ueberzeugende, mehrfach bestaetigte neue Gelegenheit identifiziert, daher kein Trade.",
     "positionIds": [
       "pos-0031",
       "pos-0036"
     ],
-    "portfolioValueEnd": 1561.94,
+    "portfolioValueEnd": 1564.79,
     "updates": [
       {
         "time": "00:08",
@@ -14449,6 +14449,11 @@
         "time": "17:09",
         "note": "Keine Aenderung. GOOGL auf 276,44 USD aktualisiert (-2,48% seit Kauf, -2,01% Tagesverlust, Broadcom-TPU-Kuerzungs-Narrativ ohne neuen Katalysator). BTC auf 59.573 USD aktualisiert (-2,28% seit Kauf, -5,0% 24h, anhaltendes Krypto-Risk-off). Kein ueberzeugender neuer Katalysator fuer einen Trade identifiziert.",
         "portfolioValue": 1561.94
+      },
+      {
+        "time": "18:08",
+        "note": "Keine Aenderung. GOOGL auf 278,08 USD aktualisiert (-1,90% seit Kauf, leichte Erholung ggue. letztem Lauf). BTC auf 59.437 USD aktualisiert (-2,50% seit Kauf, -3,80% 24h). Kein ueberzeugender neuer Katalysator identifiziert - kein Trade.",
+        "portfolioValue": 1564.79
       }
     ]
   }
