@@ -14371,14 +14371,14 @@
   },
   {
     "date": "2026-11-24",
-    "marketOverview": "GOOGL im Vormarkt bei 280,38 USD (-0,61% ggue. gestrigem Schlusskurs von 282,10 USD, der seinerseits +6,34% zulegte), US-Kassamarkt oeffnet erst um 15:30 CET. Bitcoin faellt laut CoinGecko-API weiter auf ca. 59.961 USD (-2,22% 24h) im Rahmen eines anhaltenden Risk-off-Regimes (Krypto-Fear&Greed-Index seit Mitte November durchgehend im Extreme-Angst-Bereich, zuletzt Lesarten um 10-25). Keine frischen, mehrfach unabhaengig bestaetigten Einzelkatalysator bei Ethereum, Solana, XRP oder anderen Majors identifizierbar - der breite Markt bleibt in einer schleichenden Abwaertsbewegung ohne klaren Ausloeser.",
-    "decision": "Kein Trade in diesem Lauf. GOOGL (pos-0031) auf Vormarktkurs 280,38 USD aktualisiert (-1,09% seit Kauf). BTC (pos-0036) per CoinGecko-API auf 59.961 USD aktualisiert (-1,64% seit Kauf). Beide Positionen bleiben klar innerhalb der normalen Schwankungsbreite, weder Stop-Loss (-6,5 bis -7,5%) noch Gewinnmitnahme-Schwelle (+7-9%) erreicht.",
-    "reasoning": "GOOGL gibt im Vormarkt einen kleinen Teil der gestrigen starken Tagesgewinne (+6,34%) wieder ab (282,10 -> 280,38 USD), bleibt aber mit -1,09% seit Kauf weit von jeder Handlungsschwelle entfernt; der US-Kassamarkt oeffnet erst um 15:30 CET, daher keine belastbare frischere Notierung. BTC setzt die leichte Abwaertstendenz fort (-1,64% seit Kauf) im Rahmen des anhaltenden risikoaversen Krypto-Makroregimes (Fear&Greed durchgehend in Extreme Angst seit Mitte November), ohne neuen, mehrfach unabhaengig bestaetigten Einzelkatalysator bei ETH, SOL, XRP oder anderen Altcoins. Keine ueberzeugende, bestaetigte Gelegenheit fuer einen Kauf trotz vorhandenem erheblichem freiem Kapital, kein Verkauf der bestehenden Positionen.",
+    "marketOverview": "GOOGL im regulaeren US-Handel bei 279,79 USD (-0,82% Tagesverlust laut stockanalysis.com, 10:08 ET), belastet unter anderem von Berichten, dass Google seine 2027-Bestellungen fuer Broadcoms TPU-8i-Chips um rund 20% gekuerzt hat (Broadcom -11%), trotz weiterhin starkem Analystenkonsens (Strong Buy, Kursziel ~395 USD) und Alphabets Ueberholen von Nvidia bei der Marktkapitalisierung. Bitcoin faellt laut CoinGecko weiter auf ca. 59.899 USD (-5,1% 24h) im Rahmen des anhaltenden Risk-off-Regimes im Kryptomarkt; der breite US-Aktienmarkt zeigt laut Berichten eine fortgesetzte Erholung der Tech-/Chipwerte seit der Vorwoche, ohne dass ein einzelner, mehrfach bestaetigter Katalysator fuer einen Neueinstieg identifizierbar ist.",
+    "decision": "Kein Trade in diesem Lauf. GOOGL (pos-0031) auf 279,79 USD aktualisiert (-1,30% seit Kauf). BTC (pos-0036) auf 59.898,76 USD aktualisiert (-1,74% seit Kauf). Beide Positionen bleiben klar innerhalb der normalen Schwankungsbreite, weder Stop-Loss (-6,5 bis -7,5%) noch Gewinnmitnahme-Schwelle (+7-9%) erreicht.",
+    "reasoning": "GOOGL gibt im regulaeren Handel leicht nach (-0,82% heute), belastet durch die Broadcom-TPU-Berichte, bleibt aber mit -1,30% seit Kauf weit von jeder Handlungsschwelle entfernt - keine neue, mehrfach bestaetigte fundamentale Verschlechterung, nur Rauschen. BTC setzt die Abwaertsbewegung mit -5,1% in 24h fort, bleibt aber bei -1,74% seit Kauf noch deutlich innerhalb der Toleranz; kein neuer, einzeltitelspezifischer Katalysator bei Altcoins identifizierbar. Trotz erheblichem freiem Kapital keine ueberzeugende, mehrfach bestaetigte neue Kauf- oder Verkaufsgelegenheit gefunden.",
     "positionIds": [
       "pos-0031",
       "pos-0036"
     ],
-    "portfolioValueEnd": 1578.16,
+    "portfolioValueEnd": 1575.67,
     "updates": [
       {
         "time": "00:08",
@@ -14439,6 +14439,11 @@
         "time": "11:08",
         "note": "Keine Aenderung. GOOGL auf Vormarktkurs 280,38 USD aktualisiert (-1,09% seit Kauf). BTC per CoinGecko auf 59.961 USD aktualisiert (-1,64% seit Kauf, -2,22% 24h). Kein ueberzeugender neuer Katalysator - kein Trade.",
         "portfolioValue": 1578.16
+      },
+      {
+        "time": "16:08",
+        "note": "Keine Aenderung. GOOGL im regulaeren Handel auf 279,79 USD aktualisiert (-1,30% seit Kauf), belastet durch Berichte ueber gekuerzte Google-Bestellungen bei Broadcoms TPU-8i-Chips. BTC per CoinGecko auf 59.898,76 USD aktualisiert (-1,74% seit Kauf, -5,1% 24h). Kein ueberzeugender neuer Katalysator - kein Trade.",
+        "portfolioValue": 1575.67
       }
     ]
   }
