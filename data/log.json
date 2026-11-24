@@ -14371,14 +14371,14 @@
   },
   {
     "date": "2026-11-24",
-    "marketOverview": "Risk-off-Tag haelt an: Der Nasdaq vertieft den Chip-/KI-Ausverkauf vom Vormittag weiter (Nvidia zeitweise bis zu -9%, Broadcom/AMD ebenfalls deutlich schwaecher) wegen anhaltender Zweifel an der Nachhaltigkeit der KI-Investitionswelle; der Dow haelt sich dagegen in der Naehe seiner Vortagesgewinne (Rotation Richtung defensive Werte). GOOGL wird mangels frischerer verifizierter Live-Notierung konservativ auf ca. 277,50 USD geschaetzt (fortgesetzte leichte Schwaeche im Techsektor). BTC bleibt laut mehreren Quellen (Coinglass, Cryptoticker, Invezz) im Bereich 59.400-60.500 USD unter Druck durch anhaltend hohe Spot-ETF-Abfluesse (fuenfter Tag in Folge); aktueller Schaetzwert ca. 60.150 USD. Fear&Greed bleibt tief im Bereich 'Extreme Angst'.",
-    "decision": "Kein Trade in diesem Lauf (21. Lauf des Tages). GOOGL-Position (pos-0031) bei ca. 277,50 USD (-2,11% seit Kauf) und BTC-Position (pos-0036) bei ca. 60.150 USD (-1,33% seit Kauf) aktualisiert, beide weiterhin deutlich innerhalb der Halteband-Spanne (Stop-Loss ca. -6,5 bis -7,5%, Zielgewinn ca. 7-9%). Trotz reichlich freiem Kapital (ca. 109.468 EUR) kein Neukauf, da der anhaltende Chip-/AI-Ausverkauf und die BTC-ETF-Abfluesse bereits bekannt sind und keinen neuen, eindeutig gerichteten spekulativen Katalysator liefern.",
-    "reasoning": "US-Boersen sind um 21:08 CET (15:08 ET) noch regulaer geoeffnet (Handelsschluss 22:00 CET), Aktien bleiben also grundsaetzlich handelbar. Die WebSearch-Recherche bestaetigt den bereits bekannten Trend (vertiefter Nasdaq-/Chip-Selloff, anhaltende BTC-ETF-Abfluesse), liefert aber keinen neuen, ticker-spezifischen und mehrfach bestaetigten Katalysator fuer einen spekulativen Einstieg. Passend zum spekulativen Risikoprofil wird daher auf eine Neuposition verzichtet, bis sich eine klarere Gelegenheit bietet; die bestehenden Positionen liegen innerhalb der etablierten Halteband-Spanne und werden unveraendert weitergefuehrt.",
+    "marketOverview": "US-Boerse seit 22:00 CET (16:00 ET) regulaer geschlossen: GOOGL schloss bei 279,14 USD (-1,05% zum Vortagesschluss 282,10 USD, stockanalysis.com live), nachboerslich leicht schwaecher bei 278,26 USD. Breiter, synchroner Krypto-Risk-off haelt an (CoinGecko live): BTC faellt auf 59.690 USD (-2,65% 24h), ETH -3,21%, SOL -5,03%, ADA -2,99%, AVAX -3,85%, DOGE -2,90%, LINK -2,31% - kein Einzeltitel sticht positiv heraus. Fear&Greed-Index verharrt unveraendert bei 11 ('Extreme Angst').",
+    "decision": "Kein Trade in diesem Lauf (22. Lauf des Tages). GOOGL-Position (pos-0031) auf 279,14 USD (-1,53% seit Kauf) und BTC-Position (pos-0036) auf 59.690 USD (-2,08% seit Kauf) aktualisiert, beide weiterhin deutlich innerhalb der Halteband-Spanne (Stop-Loss ca. -6,5 bis -7,5%, Zielgewinn ca. 7-9%). Trotz reichlich freiem Kapital (ca. 109.468 EUR) kein Neukauf: US-Aktien/ETFs/Rohstoffe sind nach Handelsschluss nicht mehr handelbar, und der breite, synchrone Krypto-Abverkauf liefert keinen ueberzeugenden, einzeltitelspezifischen Katalysator fuer eine spekulative Position.",
+    "reasoning": "Mit Handelsschluss um 22:00 CET sind Aktien, ETFs und Rohstoffe bis zur naechsten US-Marktoeffnung nicht mehr handelbar, nur Krypto bliebe moeglich. Die Recherche zeigt jedoch einen breiten, synchronen Rueckgang ueber alle grossen Altcoins (ETH, SOL, ADA, AVAX, DOGE, LINK) ohne erkennbaren Einzelkatalysator oder relative Staerke eines bestimmten Coins - ein reines Beta-Phaenomen im Rahmen der anhaltenden 'Extreme Angst'-Stimmung (Fear&Greed 11), kein ueberzeugendes spekulatives Setup. Die bestehenden Positionen (GOOGL -1,53%, BTC -2,08%) liegen klar innerhalb der etablierten Halteband-Spanne und werden unveraendert weitergefuehrt.",
     "positionIds": [
       "pos-0031",
       "pos-0036"
     ],
-    "portfolioValueEnd": 1572.51,
+    "portfolioValueEnd": 1571.1,
     "updates": [
       {
         "time": "00:08",
@@ -14469,6 +14469,11 @@
         "time": "21:08",
         "note": "Keine Aenderung. GOOGL auf ca. 277,50 USD (-2,11% seit Kauf), BTC auf ca. 60.150 USD (-1,33% seit Kauf) aktualisiert; anhaltender Chip-/AI-Selloff und BTC-ETF-Abfluesse ohne neuen Katalysator, daher kein Trade.",
         "portfolioValue": 1572.51
+      },
+      {
+        "time": "22:09",
+        "note": "Keine Aenderung. US-Boerse seit 22:00 CET geschlossen: GOOGL auf Schlusskurs 279,14 USD aktualisiert (-1,53% seit Kauf). BTC auf 59.690 USD aktualisiert (-2,08% seit Kauf, -2,65% 24h). Breiter, synchroner Krypto-Risk-off (ETH -3,2%, SOL -5,0%, AVAX -3,9%) ohne Einzeltitel-Katalysator, Fear&Greed weiterhin 11 (Extreme Angst) - kein Trade.",
+        "portfolioValue": 1571.1
       }
     ]
   }
