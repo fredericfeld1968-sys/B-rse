@@ -14481,5 +14481,23 @@
         "portfolioValue": 1573.2
       }
     ]
+  },
+  {
+    "date": "2026-11-25",
+    "marketOverview": "Neuer Tag (Tagesbudget +1.000 EUR gutgeschrieben). US- und EU-Boersen bleiben um Mitternacht CET geschlossen (Aktien/ETFs/Rohstoffe nicht handelbar). Bitcoin bleibt unter Druck knapp unter 60.000 USD, nahe einem Mehrmonatstief, nachdem die Erholung vom Vortag verflogen ist: Spot-Bitcoin-ETFs verzeichnen im November Rekord-Abfluesse von rund 4,71 Mrd. USD, zusaetzlich belastet ein moeglicher neuer US-Zollschub (Trump-Regierung plant laut WSJ hoehere Zoelle gegen China, Japan, Suedkorea u.a. noch diese Woche). Gegenlaeufig meldete die CFTC, dass Bitcoin bei regulierten Derivatebörsen künftig als Sicherheit anerkannt werden kann, und MicroStrategy kaufte weitere 457 BTC. Fear&Greed-Index bleibt im Bereich 'Extreme Angst'. Keine belastbaren, aktuelleren Live-Kursdaten als der letzte Stand von 23:08 verfuegbar.",
+    "decision": "Kein Trade in diesem Lauf (1. Lauf des neuen Tages). GOOGL-Position (pos-0031) und BTC-Position (pos-0036) unveraendert vom letzten Stand (23:08) uebernommen, da keine neueren verlaesslichen Live-Kursdaten auffindbar waren. Beide Positionen bleiben klar innerhalb der Halteband-Spanne (GOOGL -1,53%, BTC -1,82%). Trotz hohem freiem Kapital (ca. 110.468 EUR) kein Neukauf: Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten nicht handelbar, und der anhaltende breite Krypto-Risk-off (Rekord-ETF-Abfluesse, Tarifsorgen) liefert keinen ueberzeugenden neuen Long-Katalysator fuer eine frische Krypto-Position.",
+    "reasoning": "Aktien/ETFs/Rohstoffe bleiben um Mitternacht CET nicht handelbar. Fuer Krypto ergibt die aktuelle Recherche keine Aenderung gegenueber dem bereits bekannten breiten Risk-off-Trend (Rekord-Bitcoin-ETF-Abfluesse, drohende neue US-Zoelle) - kein neuer, einzeltitelspezifischer Katalysator, der ein spekulatives Setup rechtfertigen wuerde. Die bestehenden Positionen liegen weiterhin klar innerhalb der etablierten Halteband-Spanne und werden unveraendert weitergefuehrt.",
+    "positionIds": [
+      "pos-0031",
+      "pos-0036"
+    ],
+    "portfolioValueEnd": 1573.2,
+    "updates": [
+      {
+        "time": "00:08",
+        "note": "Neuer Tag, Tagesbudget gutgeschrieben (+1.000 EUR). Keine Aenderung. GOOGL und BTC unveraendert vom letzten Stand (23:08) uebernommen, keine neueren verlaesslichen Live-Kursdaten gefunden. Anhaltender breiter Krypto-Risk-off ohne neuen Katalysator, daher kein Trade.",
+        "portfolioValue": 1573.2
+      }
+    ]
   }
 ]
