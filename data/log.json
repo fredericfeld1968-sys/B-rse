@@ -14371,19 +14371,24 @@
   },
   {
     "date": "2026-11-24",
-    "marketOverview": "Neuer Handelstag, kurz nach Mitternacht CET: US-Boerse bleibt bis 15:30 CET geschlossen. GOOGL zeigte nachboerslich zuletzt 284,38 USD (+0,81% nachboerslich laut Yahoo Finance), getrieben von neuem AI-Optimismus rund um Nvidia. Krypto bleibt seitwaerts: Bitcoin bei 61.302 USD (+0,75% 24h, CoinGecko), Ethereum leicht schwaecher (-0,11%), Solana leicht fester (+2,45%). Fear&Greed-Index weiterhin im schwachen Bereich, kein frischer Einzelkatalysator erkennbar; auch keine neuen marktbewegenden geopolitischen oder wirtschaftlichen Nachrichten seit dem letzten Lauf.",
-    "decision": "Tagesbudget-Gutschrift fuer den 24.11. erfolgt (+1.000 EUR, siehe capital.json). Kein Trade in diesem Lauf. GOOGL (pos-0031) auf 284,38 USD (nachboerslich) aktualisiert (+0,32% seit Kauf). BTC (pos-0036) auf 61.302 USD aktualisiert (+0,56% seit Kauf). Beide Positionen klar innerhalb der normalen Schwankungsbreite, weder Stop-Loss- noch Gewinnmitnahme-Schwelle erreicht.",
-    "reasoning": "US-Boerse ist nach Mitternacht geschlossen, daher sind Aktien/ETFs/Rohstoffe nicht handelbar. Krypto zeigt keine ueberzeugende, bestaetigte Ausbruchsbewegung - die etablierte Einstiegsschwelle fuer spekulative Momentum-Trades wird nicht erreicht. GOOGL und BTC bleiben jeweils weit von Stop-Loss (-6,5 bis -7,5%) und Gewinnmitnahme-Schwelle (+7-9%) entfernt. Passend zum spekulativen, aber diszipliniert-selektiven Profil wird abgewartet.",
+    "marketOverview": "Kurz nach 01:00 CET: US-Boerse bleibt bis 15:30 CET geschlossen, daher sind Aktien/ETFs/Rohstoffe weiterhin nicht handelbar. Bitcoin pendelt seit dem letzten Lauf nahe 61.300-61.450 USD und bleibt damit in der von Marktbeobachtern (u.a. KuCoin) beschriebenen Erholungszone zwischen der Unterstuetzung bei 55.000-56.000 USD (Crash-Tief der Vorwoche) und dem Widerstandsband 62.000-65.000 USD. Laut Forbes (23.11.) hat sich Bitcoin bereits rund 10% vom Wochentief bei ca. 55.000 USD erholt, bleibt aber fragil: der Fear&Greed-Index verharrt im Bereich extremer Angst, und fuer die Fed-Sitzung im Dezember werden an den Maerkten weiterhin moegliche Zinsschritte diskutiert. Kein frischer, eigenstaendiger Einzelkatalysator fuer BTC oder Altcoins seit dem letzten Lauf auffindbar.",
+    "decision": "Kein Trade in diesem Lauf. GOOGL (pos-0031) unveraendert bei 284,38 USD (keine neuen Nachboersendaten verfuegbar, +0,32% seit Kauf). BTC (pos-0036) auf 61.450 USD aktualisiert (+0,80% seit Kauf). Beide Positionen bleiben klar innerhalb der normalen Schwankungsbreite, weder Stop-Loss (-6,5 bis -7,5%) noch Gewinnmitnahme-Schwelle (+7-9%) erreicht.",
+    "reasoning": "US-Boerse ist nach Mitternacht weiterhin geschlossen, daher sind Aktien/ETFs/Rohstoffe nicht handelbar. Der Kryptomarkt zeigt keine neue, ueberzeugend bestaetigte Ausbruchs- oder Umkehrbewegung seit dem letzten Lauf - lediglich eine Fortsetzung der bereits bekannten fragilen Erholung von den Wochentiefs. Die etablierte Einstiegsschwelle fuer spekulative Momentum-Trades wird damit nicht erreicht, daher kein neuer Kauf trotz vorhandenem freiem Kapital. GOOGL und BTC bleiben jeweils weit von Stop-Loss- und Gewinnmitnahme-Schwellen entfernt, daher auch kein Verkauf.",
     "positionIds": [
       "pos-0031",
       "pos-0036"
     ],
-    "portfolioValueEnd": 1607.04,
+    "portfolioValueEnd": 1608.99,
     "updates": [
       {
         "time": "00:08",
         "note": "Neuer Tag, Tagesbudget gutgeschrieben (+1.000 EUR). Keine Aenderung. GOOGL nachboerslich auf 284,38 USD aktualisiert (+0,32% seit Kauf). BTC per CoinGecko auf 61.302 USD aktualisiert (+0,56% seit Kauf, +0,75% 24h). Kein ueberzeugender Krypto-Katalysator, daher kein Trade.",
         "portfolioValue": 1607.04
+      },
+      {
+        "time": "01:09",
+        "note": "Keine Aenderung. GOOGL unveraendert bei 284,38 USD (keine frischen Nachboersendaten). BTC auf 61.450 USD aktualisiert (+0,80% seit Kauf). Kein ueberzeugender neuer Krypto-Katalysator, daher kein Trade.",
+        "portfolioValue": 1608.99
       }
     ]
   }
