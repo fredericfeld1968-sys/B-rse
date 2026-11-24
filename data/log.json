@@ -14371,14 +14371,14 @@
   },
   {
     "date": "2026-11-24",
-    "marketOverview": "US-Boerse seit 22:00 CET (16:00 ET) regulaer geschlossen: GOOGL schloss bei 279,14 USD (-1,05% zum Vortagesschluss 282,10 USD, stockanalysis.com live), nachboerslich leicht schwaecher bei 278,26 USD. Breiter, synchroner Krypto-Risk-off haelt an (CoinGecko live): BTC faellt auf 59.690 USD (-2,65% 24h), ETH -3,21%, SOL -5,03%, ADA -2,99%, AVAX -3,85%, DOGE -2,90%, LINK -2,31% - kein Einzeltitel sticht positiv heraus. Fear&Greed-Index verharrt unveraendert bei 11 ('Extreme Angst').",
-    "decision": "Kein Trade in diesem Lauf (22. Lauf des Tages). GOOGL-Position (pos-0031) auf 279,14 USD (-1,53% seit Kauf) und BTC-Position (pos-0036) auf 59.690 USD (-2,08% seit Kauf) aktualisiert, beide weiterhin deutlich innerhalb der Halteband-Spanne (Stop-Loss ca. -6,5 bis -7,5%, Zielgewinn ca. 7-9%). Trotz reichlich freiem Kapital (ca. 109.468 EUR) kein Neukauf: US-Aktien/ETFs/Rohstoffe sind nach Handelsschluss nicht mehr handelbar, und der breite, synchrone Krypto-Abverkauf liefert keinen ueberzeugenden, einzeltitelspezifischen Katalysator fuer eine spekulative Position.",
-    "reasoning": "Mit Handelsschluss um 22:00 CET sind Aktien, ETFs und Rohstoffe bis zur naechsten US-Marktoeffnung nicht mehr handelbar, nur Krypto bliebe moeglich. Die Recherche zeigt jedoch einen breiten, synchronen Rueckgang ueber alle grossen Altcoins (ETH, SOL, ADA, AVAX, DOGE, LINK) ohne erkennbaren Einzelkatalysator oder relative Staerke eines bestimmten Coins - ein reines Beta-Phaenomen im Rahmen der anhaltenden 'Extreme Angst'-Stimmung (Fear&Greed 11), kein ueberzeugendes spekulatives Setup. Die bestehenden Positionen (GOOGL -1,53%, BTC -2,08%) liegen klar innerhalb der etablierten Halteband-Spanne und werden unveraendert weitergefuehrt.",
+    "marketOverview": "US-Boerse weiterhin seit 22:00 CET geschlossen. Breiter, synchroner Krypto-Risk-off haelt an und vertieft sich leicht: BTC um 59.700-60.200 USD (Kraken/CoinDesk-Berichte: -5% auf 60.195 USD bzw. 59.774 USD nach Tagesabverkauf, ausgeloest durch verfliegende Nvidia-Rally und heisse US-Inflationsdaten), ETH -5 bis -7% auf ca. 1.677 USD, SOL deutlich schwaecher (-9 bis -10%). Bitcoin-ETFs verzeichneten in der vergangenen Woche Abfluesse von rund 2,37 Mrd. USD (39.378 BTC), Solana-ETFs dagegen leicht positiv. Fear&Greed-Index bleibt im Bereich 'Extreme Angst'.",
+    "decision": "Kein Trade in diesem Lauf (23. Lauf des Tages). GOOGL-Position (pos-0031) bleibt auf dem Schlusskurs 279,14 USD (-1,53% seit Kauf, Boerse geschlossen, keine neue Notierung). BTC-Position (pos-0036) leicht auf 59.850 USD aktualisiert (-1,82% seit Kauf). Beide Positionen bleiben klar innerhalb der Halteband-Spanne. Trotz reichlich freiem Kapital (ca. 109.470 EUR) kein Neukauf: Aktien/ETFs/Rohstoffe nicht handelbar, und der anhaltende breite Krypto-Abverkauf (ETH/SOL deutlich staerker betroffen als BTC) liefert weiterhin keinen ueberzeugenden, einzeltitelspezifischen Long-Katalysator.",
+    "reasoning": "Aktien/ETFs/Rohstoffe bleiben bis zur naechsten US-Marktoeffnung nicht handelbar. Die aktuelle Krypto-Recherche bestaetigt den bereits laufenden breiten Risk-off-Trend (verfliegende Nvidia-/AI-Rally, heisse US-Inflationsdaten, anhaltende Bitcoin-ETF-Abfluesse) ohne neuen, einzeltitelspezifischen Katalysator, der ein spekulatives Setup rechtfertigen wuerde - im Gegenteil, ETH und SOL fallen sogar staerker als BTC, ein reines Beta-Abverkauf-Muster. Die bestehenden Positionen (GOOGL -1,53%, BTC -1,82%) liegen weiterhin klar innerhalb der etablierten Halteband-Spanne und werden unveraendert weitergefuehrt.",
     "positionIds": [
       "pos-0031",
       "pos-0036"
     ],
-    "portfolioValueEnd": 1571.1,
+    "portfolioValueEnd": 1573.2,
     "updates": [
       {
         "time": "00:08",
@@ -14474,6 +14474,11 @@
         "time": "22:09",
         "note": "Keine Aenderung. US-Boerse seit 22:00 CET geschlossen: GOOGL auf Schlusskurs 279,14 USD aktualisiert (-1,53% seit Kauf). BTC auf 59.690 USD aktualisiert (-2,08% seit Kauf, -2,65% 24h). Breiter, synchroner Krypto-Risk-off (ETH -3,2%, SOL -5,0%, AVAX -3,9%) ohne Einzeltitel-Katalysator, Fear&Greed weiterhin 11 (Extreme Angst) - kein Trade.",
         "portfolioValue": 1571.1
+      },
+      {
+        "time": "23:08",
+        "note": "Keine Aenderung. GOOGL unveraendert auf Schlusskurs 279,14 USD (Boerse weiterhin geschlossen). BTC auf 59.850 USD aktualisiert (-1,82% seit Kauf). Anhaltender Krypto-Risk-off (ETH -5 bis -7%, SOL -9 bis -10%, verfliegende Nvidia-Rally, heisse US-Inflationsdaten) ohne einzeltitelspezifischen Katalysator - kein Trade.",
+        "portfolioValue": 1573.2
       }
     ]
   }
