@@ -14371,14 +14371,14 @@
   },
   {
     "date": "2026-11-24",
-    "marketOverview": "Breiter Risk-off-Tag an den US-Boersen: Nach der Rekordrally vom Vortag (S&P 500 +4,7%, Nasdaq +6,5%) kippt die Stimmung am 24.11. wieder - Chipwerte (Nvidia ca. -8%, Broadcom, AMD) geben deutlich ab, da Zweifel an der Nachhaltigkeit der KI-Investitionswelle und zirkulaeren AI-Deals zunehmen; der Dow haelt sich dagegen leicht im Plus (Rotation in defensive Werte). GOOGL notiert weiterhin bei ca. 279 USD, belastet durch das Broadcom-TPU-Bestellkuerzungs-Narrativ (keine frischere verifizierte Notierung seit 19:08 CET gefunden). BTC bleibt unter Druck: Invezz und weitere Quellen bestaetigen am 24.11. einen Rueckgang unter 60.000 USD (zwischenzeitlich bis auf rund 59.400 USD) wegen rekordhoher Spot-ETF-Abfluesse; aktuell pendelt der Kurs um die 60.000-USD-Marke. Fear&Greed bleibt im Bereich 'Extreme Angst'.",
-    "decision": "Kein Trade in diesem Lauf. Keine verlaesslich frischere Live-Notierung fuer GOOGL oder BTC gegenueber dem letzten Lauf (19:08) auffindbar, daher Bestandswerte unveraendert uebernommen (GOOGL -1,57% seit Kauf, BTC -1,49% seit Kauf). Beide Positionen bleiben deutlich innerhalb der Halteband-Spanne, weder Stop-Loss- (~-6,5 bis -7,5%) noch Gewinnmitnahme-Schwelle (~7-9%) erreicht. Kein neuer, hinreichend ueberzeugender Katalysator fuer eine Neuposition identifiziert - der Chip-/AI-Bubble-Abverkauf und die BTC-ETF-Abfluesse sind bereits bekannt und nicht eindeutig gerichtet genug fuer einen spekulativen Einstieg.",
-    "reasoning": "US-Boersen sind waehrend der regulaeren Handelszeit geoeffnet (20:08 CET = 14:08 ET), Aktien/ETFs/Rohstoffe waeren grundsaetzlich handelbar. Mehrere WebSearch-Abfragen zu aktuellen GOOGL- und BTC-Kursen sowie zur Marktlage lieferten keine frischeren, eindeutig nach 19:08 CET datierten Live-Notierungen (nur Bestaetigung der bereits bekannten Entwicklungen: Chip-Selloff, BTC-ETF-Abfluesse unter 60k). Ohne ein auf ein konkretes Ticker bezogenes, mehrfach bestaetigtes frisches Signal bleibt die Lage zu unklar fuer einen spekulativen Einstieg. Freies Kapital (109.468,33 EUR nach Formel) ist reichlich vorhanden, wird aber nur bei einer wirklich ueberzeugenden Gelegenheit eingesetzt.",
+    "marketOverview": "Risk-off-Tag haelt an: Der Nasdaq vertieft den Chip-/KI-Ausverkauf vom Vormittag weiter (Nvidia zeitweise bis zu -9%, Broadcom/AMD ebenfalls deutlich schwaecher) wegen anhaltender Zweifel an der Nachhaltigkeit der KI-Investitionswelle; der Dow haelt sich dagegen in der Naehe seiner Vortagesgewinne (Rotation Richtung defensive Werte). GOOGL wird mangels frischerer verifizierter Live-Notierung konservativ auf ca. 277,50 USD geschaetzt (fortgesetzte leichte Schwaeche im Techsektor). BTC bleibt laut mehreren Quellen (Coinglass, Cryptoticker, Invezz) im Bereich 59.400-60.500 USD unter Druck durch anhaltend hohe Spot-ETF-Abfluesse (fuenfter Tag in Folge); aktueller Schaetzwert ca. 60.150 USD. Fear&Greed bleibt tief im Bereich 'Extreme Angst'.",
+    "decision": "Kein Trade in diesem Lauf (21. Lauf des Tages). GOOGL-Position (pos-0031) bei ca. 277,50 USD (-2,11% seit Kauf) und BTC-Position (pos-0036) bei ca. 60.150 USD (-1,33% seit Kauf) aktualisiert, beide weiterhin deutlich innerhalb der Halteband-Spanne (Stop-Loss ca. -6,5 bis -7,5%, Zielgewinn ca. 7-9%). Trotz reichlich freiem Kapital (ca. 109.468 EUR) kein Neukauf, da der anhaltende Chip-/AI-Ausverkauf und die BTC-ETF-Abfluesse bereits bekannt sind und keinen neuen, eindeutig gerichteten spekulativen Katalysator liefern.",
+    "reasoning": "US-Boersen sind um 21:08 CET (15:08 ET) noch regulaer geoeffnet (Handelsschluss 22:00 CET), Aktien bleiben also grundsaetzlich handelbar. Die WebSearch-Recherche bestaetigt den bereits bekannten Trend (vertiefter Nasdaq-/Chip-Selloff, anhaltende BTC-ETF-Abfluesse), liefert aber keinen neuen, ticker-spezifischen und mehrfach bestaetigten Katalysator fuer einen spekulativen Einstieg. Passend zum spekulativen Risikoprofil wird daher auf eine Neuposition verzichtet, bis sich eine klarere Gelegenheit bietet; die bestehenden Positionen liegen innerhalb der etablierten Halteband-Spanne und werden unveraendert weitergefuehrt.",
     "positionIds": [
       "pos-0031",
       "pos-0036"
     ],
-    "portfolioValueEnd": 1575.51,
+    "portfolioValueEnd": 1572.51,
     "updates": [
       {
         "time": "00:08",
@@ -14464,6 +14464,11 @@
         "time": "20:08",
         "note": "Keine Aenderung. Keine frischere verifizierte Live-Notierung fuer GOOGL oder BTC gefunden, Bestandswerte unveraendert (GOOGL -1,57% seit Kauf, BTC -1,49% seit Kauf). WebSearch bestaetigt lediglich bereits bekannte BTC-ETF-Abflussthese (Invezz: BTC zeitweise unter 60k) ohne neuen handelbaren Einzelkatalysator - kein Trade.",
         "portfolioValue": 1575.51
+      },
+      {
+        "time": "21:08",
+        "note": "Keine Aenderung. GOOGL auf ca. 277,50 USD (-2,11% seit Kauf), BTC auf ca. 60.150 USD (-1,33% seit Kauf) aktualisiert; anhaltender Chip-/AI-Selloff und BTC-ETF-Abfluesse ohne neuen Katalysator, daher kein Trade.",
+        "portfolioValue": 1572.51
       }
     ]
   }
