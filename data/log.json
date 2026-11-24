@@ -14371,14 +14371,14 @@
   },
   {
     "date": "2026-11-24",
-    "marketOverview": "GOOGL im regulaeren US-Handel bei 279,79 USD (-0,82% Tagesverlust laut stockanalysis.com, 10:08 ET), belastet unter anderem von Berichten, dass Google seine 2027-Bestellungen fuer Broadcoms TPU-8i-Chips um rund 20% gekuerzt hat (Broadcom -11%), trotz weiterhin starkem Analystenkonsens (Strong Buy, Kursziel ~395 USD) und Alphabets Ueberholen von Nvidia bei der Marktkapitalisierung. Bitcoin faellt laut CoinGecko weiter auf ca. 59.899 USD (-5,1% 24h) im Rahmen des anhaltenden Risk-off-Regimes im Kryptomarkt; der breite US-Aktienmarkt zeigt laut Berichten eine fortgesetzte Erholung der Tech-/Chipwerte seit der Vorwoche, ohne dass ein einzelner, mehrfach bestaetigter Katalysator fuer einen Neueinstieg identifizierbar ist.",
-    "decision": "Kein Trade in diesem Lauf. GOOGL (pos-0031) auf 279,79 USD aktualisiert (-1,30% seit Kauf). BTC (pos-0036) auf 59.898,76 USD aktualisiert (-1,74% seit Kauf). Beide Positionen bleiben klar innerhalb der normalen Schwankungsbreite, weder Stop-Loss (-6,5 bis -7,5%) noch Gewinnmitnahme-Schwelle (+7-9%) erreicht.",
-    "reasoning": "GOOGL gibt im regulaeren Handel leicht nach (-0,82% heute), belastet durch die Broadcom-TPU-Berichte, bleibt aber mit -1,30% seit Kauf weit von jeder Handlungsschwelle entfernt - keine neue, mehrfach bestaetigte fundamentale Verschlechterung, nur Rauschen. BTC setzt die Abwaertsbewegung mit -5,1% in 24h fort, bleibt aber bei -1,74% seit Kauf noch deutlich innerhalb der Toleranz; kein neuer, einzeltitelspezifischer Katalysator bei Altcoins identifizierbar. Trotz erheblichem freiem Kapital keine ueberzeugende, mehrfach bestaetigte neue Kauf- oder Verkaufsgelegenheit gefunden.",
+    "marketOverview": "GOOGL faellt im regulaeren US-Handel weiter auf 276,44 USD (-2,01% Tagesverlust, 11:09 ET laut stockanalysis.com) im Sog der anhaltenden Berichte ueber gekuerzte Broadcom-TPU-Bestellungen; kein neuer Einzelkatalysator seit dem letzten Lauf. Bitcoin faellt weiter auf ca. 59.573 USD (-5,0% in 24h, uebereinstimmend CoinGecko und Binance) im Rahmen des anhaltenden Krypto-Risk-off-Regimes; auch hier kein neuer, mehrfach bestaetigter Katalysator fuer Altcoins identifizierbar. Breiterer Marktkontext (Fed-Pfad, Geopolitik) ohne frische, verlaesslich datierte Entwicklung seit dem letzten Lauf.",
+    "decision": "Kein Trade in diesem Lauf. GOOGL (pos-0031) auf 276,44 USD aktualisiert (-2,48% seit Kauf). BTC (pos-0036) auf 59.573 USD aktualisiert (-2,28% seit Kauf). Beide Positionen bleiben klar innerhalb der normalen Schwankungsbreite, weder Stop-Loss (-6,5 bis -7,5%) noch Gewinnmitnahme-Schwelle (+7-9%) erreicht.",
+    "reasoning": "GOOGL setzt den Rueckgang der letzten Stunden fort (-2,01% heute, -2,48% seit Kauf), getrieben vom bereits bekannten Broadcom-TPU-Bestellkuerzungs-Narrativ ohne neue fundamentale Verschlechterung - reines Fortsetzen des bekannten Themas, keine Handlungsschwelle erreicht. BTC fällt weiter im Rahmen eines breiten Krypto-Risk-off (-5,0% 24h), bleibt bei -2,28% seit Kauf aber deutlich innerhalb der Toleranz; kein einzeltitelspezifischer neuer Katalysator fuer Altcoins gefunden. Trotz erheblichem freiem Kapital (~109.468 EUR) keine ueberzeugende, mehrfach bestaetigte neue Kauf- oder Verkaufsgelegenheit identifiziert, daher passend zum Vorgehen bei fehlendem Katalysator kein Trade.",
     "positionIds": [
       "pos-0031",
       "pos-0036"
     ],
-    "portfolioValueEnd": 1575.67,
+    "portfolioValueEnd": 1561.94,
     "updates": [
       {
         "time": "00:08",
@@ -14444,6 +14444,11 @@
         "time": "16:08",
         "note": "Keine Aenderung. GOOGL im regulaeren Handel auf 279,79 USD aktualisiert (-1,30% seit Kauf), belastet durch Berichte ueber gekuerzte Google-Bestellungen bei Broadcoms TPU-8i-Chips. BTC per CoinGecko auf 59.898,76 USD aktualisiert (-1,74% seit Kauf, -5,1% 24h). Kein ueberzeugender neuer Katalysator - kein Trade.",
         "portfolioValue": 1575.67
+      },
+      {
+        "time": "17:09",
+        "note": "Keine Aenderung. GOOGL auf 276,44 USD aktualisiert (-2,48% seit Kauf, -2,01% Tagesverlust, Broadcom-TPU-Kuerzungs-Narrativ ohne neuen Katalysator). BTC auf 59.573 USD aktualisiert (-2,28% seit Kauf, -5,0% 24h, anhaltendes Krypto-Risk-off). Kein ueberzeugender neuer Katalysator fuer einen Trade identifiziert.",
+        "portfolioValue": 1561.94
       }
     ]
   }
