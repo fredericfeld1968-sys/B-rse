@@ -14371,14 +14371,14 @@
   },
   {
     "date": "2026-11-24",
-    "marketOverview": "GOOGL notiert im regulaeren US-Handel bei 278,08 USD (-1,43% Tagesverlust, stockanalysis.com Real-Time, 12:07 ET) - leichte Erholung ggue. dem letzten Lauf (276,44 USD), aber weiterhin im Sog des Broadcom-TPU-Bestellkuerzungs-Narrativs ohne neuen Einzelkatalysator. Bitcoin liegt bei 59.437 USD (-3,80% 24h laut CoinGecko), anhaltendes Krypto-Risk-off-Regime. Keine mehrfach bestaetigte neue Kauf- oder Verkaufsgelegenheit in Aktien, ETFs, Krypto oder Rohstoffen identifiziert.",
-    "decision": "Kein Trade in diesem Lauf. GOOGL (pos-0031) auf 278,08 USD aktualisiert (-1,90% seit Kauf). BTC (pos-0036) auf 59.437 USD aktualisiert (-2,50% seit Kauf). Beide Positionen bleiben klar innerhalb der normalen Schwankungsbreite, weder Stop-Loss (-6,5 bis -7,5%) noch Gewinnmitnahme-Schwelle (+7-9%) erreicht.",
-    "reasoning": "GOOGL erholt sich leicht gegenueber dem letzten Lauf (-1,90% statt -2,48% seit Kauf), bleibt aber ohne neuen fundamentalen Katalysator. BTC bei -2,50% seit Kauf weiterhin deutlich innerhalb der Toleranz, kein einzeltitelspezifischer neuer Katalysator fuer Altcoins gefunden. Trotz erheblichem freiem Kapital (~109.468 EUR) keine ueberzeugende, mehrfach bestaetigte neue Gelegenheit identifiziert, daher kein Trade.",
+    "marketOverview": "Breiter Risk-off-Tag an den US-Boersen: Nach der Rekordrally vom Vortag (S&P 500 +4,7%, Nasdaq +6,5%) kippt die Stimmung am 24.11. wieder - Chipwerte (Nvidia ca. -8%, Broadcom, AMD) geben deutlich ab, da Zweifel an der Nachhaltigkeit der KI-Investitionswelle und zirkulaeren AI-Deals zunehmen; der Dow haelt sich dagegen leicht im Plus (Rotation in defensive Werte). GOOGL notiert bei 279,02 USD (-1,09% zum Vortagesschluss von 282,10 USD), weiterhin belastet durch das Broadcom-TPU-Bestellkuerzungs-Narrativ. BTC hat sich von den Tiefs des Tages leicht erholt auf ca. 60.052 USD (CoinGecko/Yahoo), nachdem der breite Krypto-Markt im Sog des Tech-Abverkaufs zuvor bis auf rund 59.400 USD gefallen war; Fear&Greed bleibt im Bereich 'Extreme Angst'.",
+    "decision": "Kein Trade in diesem Lauf. GOOGL auf 279,02 USD aktualisiert (-1,57% seit Kauf), BTC auf 60.051,78 USD aktualisiert (-1,49% seit Kauf) - beide Positionen leicht erholt gegenueber dem letzten Lauf (18:08), aber weiterhin deutlich innerhalb der Halteband-Spanne, weder Stop-Loss- (~-6,5 bis -7,5%) noch Gewinnmitnahme-Schwelle (~7-9%) erreicht. Kein neuer, hinreichend ueberzeugender Katalysator fuer eine Neuposition identifiziert - der laufende Chip-/AI-Bubble-Abverkauf ist bereits breit bekannt und nicht eindeutig gerichtet (Dow haelt sich, Nasdaq schwaecher), daher kein spekulativer Einstieg.",
+    "reasoning": "US-Boersen sind waehrend der regulaeren Handelszeit geoeffnet (19:08 CET = 13:08 ET), Aktien/ETFs/Rohstoffe waeren grundsaetzlich handelbar. Der aktuelle Chip-Selloff (Nvidia ca. -8%) betrifft primaer Halbleiterwerte, nicht direkt GOOGL oder die gehaltenen Positionen; ohne einen auf ein konkretes Ticker bezogenes, mehrfach bestaetigtes Signal (Ausbruch, Ausverkauf-Uebertreibung oder fundamentale Nachricht) bleibt die Lage zu unklar fuer einen spekulativen Einstieg. Freies Kapital (109.468,33 EUR nach Formel) ist reichlich vorhanden, wird aber nur bei einer wirklich ueberzeugenden Gelegenheit eingesetzt.",
     "positionIds": [
       "pos-0031",
       "pos-0036"
     ],
-    "portfolioValueEnd": 1564.79,
+    "portfolioValueEnd": 1575.51,
     "updates": [
       {
         "time": "00:08",
@@ -14454,6 +14454,11 @@
         "time": "18:08",
         "note": "Keine Aenderung. GOOGL auf 278,08 USD aktualisiert (-1,90% seit Kauf, leichte Erholung ggue. letztem Lauf). BTC auf 59.437 USD aktualisiert (-2,50% seit Kauf, -3,80% 24h). Kein ueberzeugender neuer Katalysator identifiziert - kein Trade.",
         "portfolioValue": 1564.79
+      },
+      {
+        "time": "19:08",
+        "note": "Keine Aenderung. GOOGL auf 279,02 USD aktualisiert (-1,57% seit Kauf, leichte Erholung ggue. letztem Lauf). BTC auf 60.051,78 USD aktualisiert (-1,49% seit Kauf). Chip-/AI-Bubble-Abverkauf (Nvidia ca. -8%) ohne direkten Bezug zu den gehaltenen Positionen, kein ueberzeugender neuer Katalysator - kein Trade.",
+        "portfolioValue": 1575.51
       }
     ]
   }
