@@ -14371,14 +14371,14 @@
   },
   {
     "date": "2026-11-24",
-    "marketOverview": "Kurz nach 02:00 CET: US-Boerse bleibt bis 15:30 CET geschlossen, Aktien/ETFs/Rohstoffe weiterhin nicht handelbar. Verfuegbare Marktdaten zu Bitcoin und GOOGL sind aktuell widerspruechlich und teils veraltet (unterschiedliche Quellen nennen stark abweichende BTC-Kurse zwischen rund 62.000 und 91.000 USD ohne verlaessliches aktuelles Datum); belastbare frische Einzelkatalysatoren fuer Krypto oder Aktien wurden nicht gefunden. Bitcoin bleibt damit im zuletzt beschriebenen fragilen Erholungskorridor zwischen der Unterstuetzung bei 55.000-56.000 USD und dem Widerstandsband 62.000-65.000 USD, Fear&Greed-Index weiterhin im Bereich extremer Angst.",
-    "decision": "Kein Trade in diesem Lauf. GOOGL (pos-0031) unveraendert bei 284,38 USD (+0,32% seit Kauf), BTC (pos-0036) unveraendert bei 61.450 USD (+0,80% seit Kauf), da keine verlaesslich aktuellen Kursdaten ermittelt werden konnten. Beide Positionen bleiben klar innerhalb der normalen Schwankungsbreite, weder Stop-Loss (-6,5 bis -7,5%) noch Gewinnmitnahme-Schwelle (+7-9%) erreicht.",
-    "reasoning": "Die Web-Recherche lieferte fuer Bitcoin und GOOGL ueberwiegend veraltete oder widerspruechliche Preisdaten ohne klaren Zeitstempel fuer den aktuellen Lauf, daher wurden die zuletzt bestaetigten Bestandswerte beibehalten statt mit unsicheren Daten ueberschrieben. US-Boerse ist nachts weiterhin geschlossen, daher sind Aktien/ETFs/Rohstoffe nicht handelbar. Fuer Krypto wurde kein neuer, unabhaengig bestaetigter Ausbruchs- oder Umkehr-Katalysator gefunden, der ueber die bereits bekannte fragile Erholung hinausgeht. Die etablierte Einstiegsschwelle fuer spekulative Momentum-Trades wird damit nicht erreicht, daher kein neuer Kauf trotz vorhandenem freiem Kapital. GOOGL und BTC bleiben jeweils weit von Stop-Loss- und Gewinnmitnahme-Schwellen entfernt, daher auch kein Verkauf.",
+    "marketOverview": "03:07 CET: US-Boerse weiterhin geschlossen (Oeffnung 15:30 CET), Aktien/ETFs/Rohstoffe nicht handelbar. Bitcoin per CoinGecko-Live-API bei 60.773 USD (+0,04% in 24h), damit praktisch unveraendert und naeher an den zuletzt kursierenden niedrigeren Staenden als die zuvor vermuteten 91.000 USD. Grosse Altcoins (SOL, XRP, DOGE, ADA, AVAX, LINK) legen moderat um +2 bis +4,6% zu, ETH leicht im Minus (-0,22%) - breite, aber nur maessige Bewegung ohne einen einzelnen bestaetigten Katalysator. Fear&Greed-Index weiterhin bei 11 (Extreme Angst).",
+    "decision": "Kein Trade in diesem Lauf. GOOGL (pos-0031) auf letzten Boersenschluss von 282,10 USD aktualisiert (-0,48% seit Kauf), BTC (pos-0036) per CoinGecko auf 60.773 USD aktualisiert (-0,31% seit Kauf). Beide Positionen bleiben klar innerhalb der normalen Schwankungsbreite, weder Stop-Loss (-6,5 bis -7,5%) noch Gewinnmitnahme-Schwelle (+7-9%) erreicht.",
+    "reasoning": "Live-Marktdaten (CoinGecko) zeigen Bitcoin nahezu unveraendert (+0,04% 24h) bei fortgesetzter Extreme-Angst-Stimmung (Fear&Greed 11); die zuvor als widerspruechlich eingestuften hoeheren BTC-Staende (bis 91.000 USD) werden durch die aktuelle Live-Abfrage nicht bestaetigt. Die leichten Altcoin-Gewinne (SOL +2,2%, XRP +3,4%, DOGE +3,8%, ADA +4,6%, AVAX +3,1%, LINK +3,3%) sind breit gestreut, aber moderat und ohne einen einzelnen, unabhaengig bestaetigten frischen Katalysator - damit kein ueberzeugender Einstiegspunkt fuer eine neue spekulative Position. US-Boerse ist nachts weiterhin geschlossen, daher Aktien/ETFs/Rohstoffe nicht handelbar; GOOGL wird auf den letzten regulaeren Boersenschluss (282,10 USD) aktualisiert, bleibt aber mit -0,48% weit von jeder Handlungsschwelle entfernt. Kein Kauf trotz vorhandenem freiem Kapital, kein Verkauf der bestehenden Positionen.",
     "positionIds": [
       "pos-0031",
       "pos-0036"
     ],
-    "portfolioValueEnd": 1608.99,
+    "portfolioValueEnd": 1593.66,
     "updates": [
       {
         "time": "00:08",
@@ -14394,6 +14394,11 @@
         "time": "02:09",
         "note": "Keine Aenderung. Marktdaten per WebSearch widerspruechlich/veraltet (keine verlaessliche Live-Notierung fuer BTC oder frischen GOOGL-Schlusskurs auffindbar), daher Bestandswerte unveraendert uebernommen. US-Boerse weiterhin geschlossen (Aktien/ETFs/Rohstoffe nicht handelbar). Kein bestaetigter neuer Krypto-Katalysator identifiziert, GOOGL (+0,32%) und BTC (+0,80%) bleiben weit von Stop-Loss- und Gewinnmitnahme-Schwellen entfernt, daher kein Trade.",
         "portfolioValue": 1608.99
+      },
+      {
+        "time": "03:07",
+        "note": "Keine Aenderung. GOOGL auf letzten Schlusskurs 282,10 USD aktualisiert (-0,48%). BTC per CoinGecko auf 60.773 USD aktualisiert (-0,31% seit Kauf, +0,04% 24h). Fear&Greed-Index bei 11 (Extreme Angst), Altcoins leicht im Plus ohne bestaetigten Einzelkatalysator - kein Trade.",
+        "portfolioValue": 1593.66
       }
     ]
   }
