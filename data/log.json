@@ -14371,14 +14371,14 @@
   },
   {
     "date": "2026-11-24",
-    "marketOverview": "Bitcoin notiert laut CoinGecko-API bei ca. 60.278 USD (-1,76% 24h, Stand ca. 09:08 CET), leicht schwaecher als im letzten Lauf (60.479 USD). GOOGL zeigt nachboerslich (Montagsschluss 282,10 USD, danach Nachboershandel bis 284,76 USD, +0,94%) leichte Staerke; die europaeische Boerse (XETRA) ist seit 09:00 CET geoeffnet, die US-Boerse (NASDAQ/NYSE) oeffnet erst um 15:30 CET - GOOGL bleibt bis dahin nicht aktiv handelbar, Nachboerskurs wird als aktuellster verfuegbarer Preis uebernommen. Keine neuen, mehrfach unabhaengig bestaetigten Einzelkatalysator fuer Krypto oder Aktien gefunden; Makroumfeld bleibt angespannt (Fed-Zinserwartungen, geopolitische Risiken).",
-    "decision": "Kein Trade in diesem Lauf. GOOGL (pos-0031) auf Nachboerskurs 284,76 USD aktualisiert (+0,46% seit Kauf). BTC (pos-0036) per CoinGecko-API auf 60.278 USD aktualisiert (-1,12% seit Kauf). Beide Positionen bleiben klar innerhalb der normalen Schwankungsbreite, weder Stop-Loss (-6,5 bis -7,5%) noch Gewinnmitnahme-Schwelle (+7-9%) erreicht.",
-    "reasoning": "BTC bewegt sich seit dem letzten Lauf leicht schwaecher (60.479 -> 60.278 USD) ohne neuen, mehrfach unabhaengig bestaetigten Einzelkatalysator - reines Fortsetzen des bestehenden risikoaversen Makroregimes, keine Handlungsschwelle erreicht (-1,12% seit Kauf, weit von Stop-Loss entfernt). Keine ueberzeugende, mehrfach bestaetigte Gelegenheit fuer eine neue Krypto-Position erkennbar. Die US-Boerse oeffnet erst um 15:30 CET, GOOGL bleibt auf dem letzten verfuegbaren (nachboerslichen) Kurs weit von jeder Handlungsschwelle entfernt. Kein Kauf trotz vorhandenem freiem Kapital (keine ueberzeugende, bestaetigte Gelegenheit), kein Verkauf der bestehenden Positionen.",
+    "marketOverview": "Bitcoin faellt laut CoinGecko-API weiter auf ca. 59.839 USD (-2,73% 24h, Stand ca. 10:08 CET) - der Risk-off-Ton im Kryptomarkt haelt an, Fear&Greed-Index weiterhin bei 11 (Extreme Angst). Die anderen Majors zeigen ein aehnliches Bild (ETH -2,64%, SOL -2,24%), keine einzelne Bewegung sticht als bestaetigter, mehrfach belegter Katalysator heraus. GOOGL bleibt auf dem letzten verfuegbaren Nachboerskurs von 284,76 USD, da vor US-Marktoeffnung (15:30 CET) keine verlaessliche frische Notierung auffindbar war; XETRA ist zwar seit 09:00 CET offen, GOOGL wird dort aber nicht primaer gehandelt.",
+    "decision": "Kein Trade in diesem Lauf. GOOGL (pos-0031) unveraendert bei 284,76 USD (+0,46% seit Kauf), da keine frischere Notierung vorlag. BTC (pos-0036) per CoinGecko-API auf 59.839 USD aktualisiert (-1,84% seit Kauf). Beide Positionen bleiben klar innerhalb der normalen Schwankungsbreite, weder Stop-Loss (-6,5 bis -7,5%) noch Gewinnmitnahme-Schwelle (+7-9%) erreicht.",
+    "reasoning": "BTC setzt die leicht schwaechere Tendenz fort (60.278 -> 59.839 USD) im Rahmen des anhaltenden risikoaversen Makroregimes (Fear&Greed 11), ohne neuen, mehrfach unabhaengig bestaetigten Einzelkatalysator - keine Handlungsschwelle erreicht (-1,84% seit Kauf, weit von Stop-Loss entfernt). Auch unter den weiteren beobachteten Majors (ETH, SOL, XRP, ADA, AVAX, LINK, LTC, BCH, HBAR, HYPE, QNT, SUI, XLM) kein ueberzeugender, mehrfach bestaetigter Ausbruch oder Einzelkatalysator fuer eine neue Position erkennbar - alle Bewegungen liegen im Rahmen normaler Tagesschwankungen. Die US-Boerse oeffnet erst um 15:30 CET, GOOGL bleibt auf dem letzten verfuegbaren (nachboerslichen) Kurs weit von jeder Handlungsschwelle entfernt. Kein Kauf trotz vorhandenem freiem Kapital (keine ueberzeugende, bestaetigte Gelegenheit), kein Verkauf der bestehenden Positionen.",
     "positionIds": [
       "pos-0031",
       "pos-0036"
     ],
-    "portfolioValueEnd": 1594.68,
+    "portfolioValueEnd": 1588.92,
     "updates": [
       {
         "time": "00:08",
@@ -14429,6 +14429,11 @@
         "time": "09:08",
         "note": "Keine Aenderung. GOOGL auf Nachboerskurs 284,76 USD aktualisiert (+0,46% seit Kauf, XETRA zwar seit 09:00 CET offen, US-Boerse noch zu). BTC per CoinGecko auf 60.278 USD aktualisiert (-1,12% seit Kauf). Kein ueberzeugender neuer Katalysator - kein Trade.",
         "portfolioValue": 1594.68
+      },
+      {
+        "time": "10:08",
+        "note": "Keine Aenderung. BTC per CoinGecko auf 59.839 USD aktualisiert (-1,84% seit Kauf, -2,73% 24h, Fear&Greed weiterhin 11). GOOGL unveraendert bei 284,76 USD (keine frischere Notierung vor US-Marktoeffnung). Kein ueberzeugender neuer Katalysator unter den beobachteten Majors - kein Trade.",
+        "portfolioValue": 1588.92
       }
     ]
   }
