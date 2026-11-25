@@ -14484,14 +14484,14 @@
   },
   {
     "date": "2026-11-25",
-    "marketOverview": "Boersen um 17:12 CET: NASDAQ seit 15:30 CET offen, Xetra bereits geschlossen. GOOGL rutscht im regulaeren US-Handel deutlich auf 264,21 USD ab (-5,32% Tagesverlust, Tagestief 262,73 USD, Quelle: stockanalysis.com, 11:11 ET). Bitcoin (CoinGecko-API, live) bei 58.342 USD (-2,26% 24h), Krypto-Fear&Greed-Index (alternative.me, live) unveraendert bei 13 (Extreme Angst). Breiter Marktton bleibt risikoavers: anhaltende Bewertungssorgen rund um AI-/Tech-Capex belasten Mega-Caps, kein klares Entspannungssignal erkennbar.",
-    "decision": "17:12-Lauf: GOOGL-Position (pos-0031) wird glattgestellt (Stop-Loss, -6,79% seit Kauf bei 283,47 USD, Verkauf zu 264,21 USD, realisierter Verlust -54,35 EUR) - einzige Transaktion des heutigen Tages bisher. BTC-Position (pos-0036) auf aktuellen Live-Kurs (58.342 USD, -4,30% seit Kauf) aktualisiert, bleibt klar innerhalb der Halteband-Spanne, kein Stop-Loss-Trigger. Trotz nun gestiegenem freiem Kapital (ca. 111.214 EUR) kein Neukauf in diesem Lauf: Der breite Markt (Tech-Selloff, Krypto-Extreme-Angst) liefert keinen ueberzeugenden frischen Long-Katalysator fuer eine Wiederanlage.",
-    "reasoning": "Live-Kursabfrage (stockanalysis.com) zeigt GOOGL bei 264,21 USD, 15 Minuten verzoegert, Stand 11:11 ET (17:11 CET) - damit -6,79% seit Kauf und innerhalb der historisch etablierten Stop-Loss-Zone dieses Depots (-6,5 bis -7,5%, analog Rheinmetall, NVIDIA, XRP, HYPE, DOGE, BTC pos-0018). Keine Anzeichen einer unmittelbaren Gegenbewegung (Tagestief erst kurz zuvor markiert, Markt weiterhin risikoavers wegen AI-Bewertungssorgen), daher konsequente Verlustbegrenzung passend zum spekulativen Kurzfrist-Profil. BTC (CoinGecko-API) bei 58.342 USD, -4,30% seit Kauf, deutlich innerhalb der Halteband-Spanne, daher unveraendert gehalten. Fuer einen Neukauf fehlt angesichts des breiten Risk-off-Tons (Tech-Selloff, Krypto-Fear&Greed 13) ein ueberzeugender, einzeltitelspezifischer Katalysator.",
+    "marketOverview": "Boersen um 18:08 CET: NASDAQ/NYSE seit 15:30 CET offen. Breiter, mehrtaegiger AI-/Chip-Sektor-Ausverkauf setzt sich fort: NVIDIA faellt laut stockanalysis.com (12:08 ET) auf 143,57 USD (-7,60% Tagesverlust), AMD auf 383,84 USD (-7,12%), getrieben von anhaltenden Zweifeln am AI-Capex-Zyklus, heisser Inflationsdaten, Zollsorgen und bei AMD zusaetzlich einer Resale-Registrierung ueber 337 Mio. Aktien (OpenAI-/Meta-Chip-Deal-Warrants) sowie einem Hunterbrook-Short-Report (Invezz, Benzinga, Unusual Whales, mehrfach unabhaengig bestaetigt). Bitcoin (CoinGecko-API, live) bei 58.751 USD (-1,26% 24h), restlicher Kryptomarkt (ETH, SOL, XRP, ADA, AVAX, DOGE) ebenfalls breit leicht im Minus (-0,4% bis -1,9%), Fear&Greed weiterhin im Extreme-Angst-Bereich ohne Entspannungssignal.",
+    "decision": "18:08-Lauf: Kein Trade. BTC-Position (pos-0036) auf aktuellen Live-Kurs (58.751 USD, -3,63% seit Kauf) aktualisiert, bleibt klar innerhalb der Halteband-Spanne. Trotz freiem Kapital von ca. 111.214 EUR kein Neukauf: Der AI-/Chip-Ausverkauf (NVDA -7,6%, AMD -7,9%) ist laut mehreren unabhaengigen Quellen ein mehrtaegiger, strukturell begruendeter Abverkauf (AI-Capex-Zweifel, Inflationsdaten, AMD-Aktienregistrierung/Short-Report) und kein einmaliger 'Sell-the-news'-Reflex wie bei fruaheren erfolgreichen Dip-Kaeufen - keine bestaetigte Bodenbildung erkennbar, daher kein Dip-Kauf. Kryptomarkt bleibt ebenfalls breit schwach ohne frischen Einzeltitel-Katalysator.",
+    "reasoning": "Live-Kursabfrage (stockanalysis.com) zeigt GOOGL bei 264,21 USD, 15 Minuten verzoegert, Stand 11:11 ET (17:11 CET) - damit -6,79% seit Kauf und innerhalb der historisch etablierten Stop-Loss-Zone dieses Depots (-6,5 bis -7,5%, analog Rheinmetall, NVIDIA, XRP, HYPE, DOGE, BTC pos-0018). Keine Anzeichen einer unmittelbaren Gegenbewegung (Tagestief erst kurz zuvor markiert, Markt weiterhin risikoavers wegen AI-Bewertungssorgen), daher konsequente Verlustbegrenzung passend zum spekulativen Kurzfrist-Profil. BTC (CoinGecko-API) bei 58.342 USD, -4,30% seit Kauf, deutlich innerhalb der Halteband-Spanne, daher unveraendert gehalten. Fuer einen Neukauf fehlt angesichts des breiten Risk-off-Tons (Tech-Selloff, Krypto-Fear&Greed 13) ein ueberzeugender, einzeltitelspezifischer Katalysator. [18:08-Update] BTC (CoinGecko-API) bei 58.751 USD, -3,63% seit Kauf, weiterhin deutlich innerhalb der Halteband-Spanne, daher unveraendert gehalten. Der heutige AI-/Chip-Sektor-Ausverkauf (NVDA -7,60%, AMD -7,12%, Philadelphia Semiconductor Index -7,4 bis -7,9%) ist laut mehreren unabhaengigen Quellen (Invezz, Benzinga, Unusual Whales, TipRanks) durch anhaltende AI-Capex-Zweifel, heisse Inflationsdaten/Zollsorgen sowie bei AMD eine grosse Resale-Aktienregistrierung und einen Short-Report getrieben - eine echte, mehrtaegige fundamentale/strukturelle Verschlechterung und kein isolierter Ueberreaktions-Dip wie beim fruaheren erfolgreichen AMD-/SpaceX-/Palantir-Muster. Ohne bestaetigtes Bodensignal daher kein Dip-Kauf. Kryptomarkt bleibt breit leicht schwaecher (ETH/SOL/XRP/ADA/AVAX/DOGE je -0,4 bis -1,9% 24h) ohne neuen, einzeltitelspezifischen Katalysator fuer einen Neukauf.",
     "positionIds": [
       "pos-0031",
       "pos-0036"
     ],
-    "portfolioValueEnd": 765.63,
+    "portfolioValueEnd": 771.0,
     "updates": [
       {
         "time": "00:08",
@@ -14567,6 +14567,11 @@
         "time": "17:12",
         "note": "Verkauf GOOGL (Stop-Loss, -54,35 EUR, -6,79%). BTC-Kurs aktualisiert auf 58.342 USD (-4,30% seit Kauf).",
         "portfolioValue": 765.63
+      },
+      {
+        "time": "18:08",
+        "note": "Keine Aenderung. BTC auf 58.751 USD (-3,63% seit Kauf) aktualisiert. Breiter AI-/Chip-Sektor-Ausverkauf (NVDA -7,6%, AMD -7,1%) strukturell bedingt, kein Dip-Kauf; Krypto weiterhin breit schwach ohne Katalysator.",
+        "portfolioValue": 771.0
       }
     ]
   }
