@@ -14484,14 +14484,14 @@
   },
   {
     "date": "2026-11-25",
-    "marketOverview": "Boersen um 13:08 CET: Xetra offen, NASDAQ weiterhin geschlossen (oeffnet erst 15:30 CET, noch ca. 2,4 Std.). Bitcoin (CoinGecko-API, live) bei 58.454 USD (-2,97% 24h) - leichter weiterer Ruecksetzer gegenueber dem letzten Lauf (58.793 USD), Krypto-Fear&Greed-Index (alternative.me, live) unveraendert bei 13 (Extreme Angst), seit Tagen ohne neuen Katalysator. GOOGL bleibt mangels regulaerer NASDAQ-Notierung beim Schlusskurs von 279,05 USD; keine neuen, auf heute datierten Markt- oder Unternehmensnachrichten zu Alphabet oder eine ueberzeugende neue Chance an der Xetra gefunden.",
-    "decision": "Kein Trade in diesem Lauf. GOOGL-Position (pos-0031) unveraendert belassen (NASDAQ weiterhin geschlossen, oeffnet erst 15:30 CET). BTC-Position (pos-0036) auf aktuellen Live-Kurs (58.454 USD, -4,11% seit Kauf) aktualisiert - weiterhin deutlich innerhalb der Halteband-Spanne, kein Stop-Loss-Trigger (-6,5 bis -7,5%). Trotz hohem freiem Kapital (ca. 110.465 EUR) kein Neukauf: Aktien/ETFs/Rohstoffe an der Heimatboerse NASDAQ ausserhalb der Handelszeiten, Krypto-Markt verharrt in extremer Angst (Fear&Greed 13) ohne ueberzeugenden neuen Katalysator, Xetra ohne klaren, frischen Einzeltitel-Katalysator.",
-    "reasoning": "Live-Kursabfrage (CoinGecko-API) zeigt BTC bei 58.454 USD (vs. 58.793 USD im letzten Lauf) - leichter weiterer Ruecksetzer, -4,11% seit Kauf bleibt deutlich innerhalb der Stop-Loss-Schwelle. GOOGL bleibt mangels regulaerer NASDAQ-Notierung beim letzten Schlusskurs (279,05 USD). Fear&Greed-Index (alternative.me, live) unveraendert bei 13. Recherche zu Alphabet/Xetra und allgemeiner Marktlage lieferte keinen frischen, auf heute datierten Katalysator fuer einen Neukauf oder eine Gewinnmitnahme/Stop-Loss bei bestehenden Positionen.",
+    "marketOverview": "Boersen um 17:12 CET: NASDAQ seit 15:30 CET offen, Xetra bereits geschlossen. GOOGL rutscht im regulaeren US-Handel deutlich auf 264,21 USD ab (-5,32% Tagesverlust, Tagestief 262,73 USD, Quelle: stockanalysis.com, 11:11 ET). Bitcoin (CoinGecko-API, live) bei 58.342 USD (-2,26% 24h), Krypto-Fear&Greed-Index (alternative.me, live) unveraendert bei 13 (Extreme Angst). Breiter Marktton bleibt risikoavers: anhaltende Bewertungssorgen rund um AI-/Tech-Capex belasten Mega-Caps, kein klares Entspannungssignal erkennbar.",
+    "decision": "17:12-Lauf: GOOGL-Position (pos-0031) wird glattgestellt (Stop-Loss, -6,79% seit Kauf bei 283,47 USD, Verkauf zu 264,21 USD, realisierter Verlust -54,35 EUR) - einzige Transaktion des heutigen Tages bisher. BTC-Position (pos-0036) auf aktuellen Live-Kurs (58.342 USD, -4,30% seit Kauf) aktualisiert, bleibt klar innerhalb der Halteband-Spanne, kein Stop-Loss-Trigger. Trotz nun gestiegenem freiem Kapital (ca. 111.214 EUR) kein Neukauf in diesem Lauf: Der breite Markt (Tech-Selloff, Krypto-Extreme-Angst) liefert keinen ueberzeugenden frischen Long-Katalysator fuer eine Wiederanlage.",
+    "reasoning": "Live-Kursabfrage (stockanalysis.com) zeigt GOOGL bei 264,21 USD, 15 Minuten verzoegert, Stand 11:11 ET (17:11 CET) - damit -6,79% seit Kauf und innerhalb der historisch etablierten Stop-Loss-Zone dieses Depots (-6,5 bis -7,5%, analog Rheinmetall, NVIDIA, XRP, HYPE, DOGE, BTC pos-0018). Keine Anzeichen einer unmittelbaren Gegenbewegung (Tagestief erst kurz zuvor markiert, Markt weiterhin risikoavers wegen AI-Bewertungssorgen), daher konsequente Verlustbegrenzung passend zum spekulativen Kurzfrist-Profil. BTC (CoinGecko-API) bei 58.342 USD, -4,30% seit Kauf, deutlich innerhalb der Halteband-Spanne, daher unveraendert gehalten. Fuer einen Neukauf fehlt angesichts des breiten Risk-off-Tons (Tech-Selloff, Krypto-Fear&Greed 13) ein ueberzeugender, einzeltitelspezifischer Katalysator.",
     "positionIds": [
       "pos-0031",
       "pos-0036"
     ],
-    "portfolioValueEnd": 1554.63,
+    "portfolioValueEnd": 765.63,
     "updates": [
       {
         "time": "00:08",
@@ -14562,6 +14562,11 @@
         "time": "13:08",
         "note": "Keine Aenderung. BTC-Kurs aktualisiert auf 58.454 USD (-4,11% seit Kauf), GOOGL unveraendert (NASDAQ oeffnet erst 15:30 CET). Krypto-Fear&Greed weiterhin 13, kein neuer Katalysator.",
         "portfolioValue": 1554.63
+      },
+      {
+        "time": "17:12",
+        "note": "Verkauf GOOGL (Stop-Loss, -54,35 EUR, -6,79%). BTC-Kurs aktualisiert auf 58.342 USD (-4,30% seit Kauf).",
+        "portfolioValue": 765.63
       }
     ]
   }
