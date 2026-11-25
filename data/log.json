@@ -14484,14 +14484,14 @@
   },
   {
     "date": "2026-11-25",
-    "marketOverview": "Boersen (Aktien/ETFs/Rohstoffe) bleiben um 02:08 CET weiterhin geschlossen. Bitcoin faellt laut Live-Daten (CoinGecko) weiter auf 59.476 USD (-3,19% in 24h), Ethereum -2,92% auf 1.666,65 USD, Solana -4,03% auf 69,43 USD - breiter, synchroner Krypto-Risk-off ohne Gegenbewegung. Hintergrund bleiben die Rekord-Netto-Abfluesse bei Spot-Bitcoin-ETFs im November (rund 4,71 Mrd. USD) sowie anhaltende Zoll- und Zinssorgen; Fear&Greed-Index weiterhin im Bereich Extreme Angst. Kein neuer einzeltitelspezifischer Katalysator.",
-    "decision": "Kein Trade in diesem Lauf. GOOGL-Position (pos-0031) bleibt unveraendert (Boerse geschlossen). BTC-Position (pos-0036) auf aktuellen Live-Kurs (59.476 USD, -2,44% seit Kauf) aktualisiert - weiterhin klar innerhalb der Halteband-Spanne, kein Stop-Loss-Trigger. Trotz hohem freiem Kapital (ca. 110.468 EUR) kein Neukauf: Aktien/ETFs/Rohstoffe nicht handelbar, anhaltender breiter Krypto-Risk-off liefert keinen ueberzeugenden neuen Long-Katalysator.",
-    "reasoning": "Live-Kursabfrage (CoinGecko) zeigt BTC weiter fallend auf 59.476 USD, ETH und SOL im Gleichschritt schwaecher - synchroner Markt-Risk-off statt Einzeltitel-Nachricht. Kein frischer Katalysator seit dem letzten Lauf (01:08), weder fuer eine Gewinnmitnahme/Stop-Loss bei BTC noch fuer eine neue spekulative Position. Aktien/ETFs/Rohstoffe bleiben ausserhalb der Handelszeiten nicht handelbar.",
+    "marketOverview": "Boersen (Aktien/ETFs/Rohstoffe) bleiben um 03:08 CET weiterhin geschlossen. Bitcoin faellt laut Live-Daten (CoinGecko) weiter auf 59.141 USD (-2,93% in 24h), Ethereum -2,78% auf 1.655,79 USD, Solana -4,09% auf 68,95 USD - anhaltender, synchroner Krypto-Risk-off ohne Gegenbewegung. Der Fear&Greed-Index notiert bei 13 (Extreme Angst). Kein neuer einzeltitelspezifischer oder makro Katalysator gefunden.",
+    "decision": "Kein Trade in diesem Lauf. GOOGL-Position (pos-0031) bleibt unveraendert (Boerse geschlossen). BTC-Position (pos-0036) auf aktuellen Live-Kurs (59.141 USD, -2,99% seit Kauf) aktualisiert - weiterhin klar innerhalb der Halteband-Spanne, kein Stop-Loss-Trigger. Trotz hohem freiem Kapital (ca. 110.468 EUR) kein Neukauf: Aktien/ETFs/Rohstoffe nicht handelbar, anhaltender breiter Krypto-Risk-off (Fear&Greed 13) liefert keinen ueberzeugenden neuen Long-Katalysator.",
+    "reasoning": "Live-Kursabfrage (CoinGecko) zeigt BTC weiter fallend auf 59.141 USD, ETH und SOL im Gleichschritt schwaecher - synchroner Markt-Risk-off statt Einzeltitel-Nachricht. Kein frischer Katalysator seit dem letzten Lauf (02:08), weder fuer eine Gewinnmitnahme/Stop-Loss bei BTC noch fuer eine neue spekulative Position. Aktien/ETFs/Rohstoffe bleiben ausserhalb der Handelszeiten nicht handelbar.",
     "positionIds": [
       "pos-0031",
       "pos-0036"
     ],
-    "portfolioValueEnd": 1568.29,
+    "portfolioValueEnd": 1563.9,
     "updates": [
       {
         "time": "00:08",
@@ -14507,6 +14507,11 @@
         "time": "02:08",
         "note": "Keine Aenderung. BTC-Kurs aktualisiert auf 59.476 USD (-2,44% seit Kauf), GOOGL unveraendert (Boerse geschlossen). Anhaltender breiter Krypto-Risk-off (ETF-Abfluesse, Zoll-/Zinssorgen) ohne neuen Katalysator, daher kein Trade.",
         "portfolioValue": 1568.29
+      },
+      {
+        "time": "03:08",
+        "note": "Keine Aenderung. BTC-Kurs aktualisiert auf 59.141 USD (-2,99% seit Kauf), GOOGL unveraendert (Boerse geschlossen). Anhaltender Krypto-Risk-off (Fear&Greed 13, Extreme Angst) ohne neuen Katalysator, daher kein Trade.",
+        "portfolioValue": 1563.9
       }
     ]
   }
