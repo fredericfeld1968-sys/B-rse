@@ -14484,14 +14484,14 @@
   },
   {
     "date": "2026-11-25",
-    "marketOverview": "Boersen (Aktien/ETFs/Rohstoffe) um 09:10 CET weiterhin ueberwiegend geschlossen (Xetra seit 09:00 offen, aber ohne europaeische Position im Depot; NASDAQ oeffnet erst 15:30 CET). GOOGL unveraendert bei Schlusskurs 279,05 USD. Bitcoin (CoinDesk live) auf 58.856,99 USD gefallen (-2,26% 24h), setzt die leichte Schwaeche fort. Fear&Greed-Index unveraendert bei 13 (Extreme Angst, alternative.me). Keine neuen marktbewegenden Nachrichten zu Zinsen, Geopolitik oder Einzeltiteln gefunden (Suchen zu DAX-Eroeffnung, Chip-Sektor und US-Futures lieferten nur aeltere Artikel).",
-    "decision": "Kein Trade in diesem Lauf. GOOGL-Position (pos-0031) unveraendert (NASDAQ weiterhin geschlossen). BTC-Position (pos-0036) auf aktuellen Live-Kurs (58.856,99 USD, -3,45% seit Kauf) aktualisiert - weiterhin deutlich innerhalb der Halteband-Spanne, kein Stop-Loss-Trigger (-6,5 bis -7,5%). Trotz hohem freiem Kapital (ca. 110.468 EUR) kein Neukauf: US-Aktien/ETFs/Rohstoffe nicht handelbar, Krypto-Markt bleibt in extremer Angst (Fear&Greed 13) ohne ueberzeugenden neuen Long-Katalysator; auch fuer Xetra-Titel kein konkreter, ueberzeugender Katalysator gefunden.",
-    "reasoning": "Live-Kursabfrage (CoinDesk) zeigt BTC bei 58.856,99 USD (vs. 59.263 USD im letzten Lauf) - leichte Fortsetzung der Schwaeche, kein Trendwechsel, -3,45% seit Kauf bleibt deutlich innerhalb der Stop-Loss-Schwelle. GOOGL-Kurs bleibt unveraendert zum vorherigen Stand, da die NASDAQ noch nicht geoeffnet hat. Fear&Greed unveraendert bei 13 (alternative.me). Recherche zu DAX-Eroeffnung, Chip-Sektor (NVDA/AMD) und US-Futures/Geopolitik lieferte keine aktuellen, auf heute datierten Katalysatoren. Daher weder Gewinnmitnahme/Stop-Loss bei bestehenden Positionen noch eine neue spekulative Position gerechtfertigt.",
+    "marketOverview": "Boersen um 10:08 CET: Xetra ist seit 09:00 offen (keine europaeische Position im Depot), NASDAQ oeffnet erst 15:30 CET. GOOGL vorboerslich unter Druck (Yahoo Finance: ca. 272,91 USD, -2,2%), Regulaer-Schlusskurs vom Vortag 279,05 USD; Hintergrund sind anhaltende AI-Finanzierungs-/Bubble-Sorgen (Credit-Default-Swap-Spreads bei GOOGL, ORCL, SPCX, CRWV auf Rekordniveau, NVDA schwaecher). Bitcoin (CoinGecko live) leicht erholt auf 59.201 USD (-1,14% 24h). Fear&Greed-Index unveraendert bei 13 (Extreme Angst, alternative.me). Kein frischer, auf heute datierter Einzelkatalysator fuer einen Trade gefunden.",
+    "decision": "Kein Trade in diesem Lauf. GOOGL-Position (pos-0031) unveraendert belassen (NASDAQ regulaer weiterhin geschlossen, nur Vorboersenkurs verfuegbar, der laut Konvention nicht fuer die Bewertung herangezogen wird). BTC-Position (pos-0036) auf aktuellen Live-Kurs (59.201 USD, -2,89% seit Kauf, leichte Erholung) aktualisiert - weiterhin deutlich innerhalb der Halteband-Spanne, kein Stop-Loss-Trigger (-6,5 bis -7,5%). Trotz hohem freiem Kapital (ca. 110.468 EUR) kein Neukauf: US-Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten, Krypto-Markt bleibt in extremer Angst (Fear&Greed 13) ohne ueberzeugenden neuen Long-Katalysator, und die AI-Bubble-/CDS-Sorgen sprechen eher gegen einen Neueinstieg in Tech-Titel.",
+    "reasoning": "Live-Kursabfrage (CoinGecko) zeigt BTC bei 59.201 USD (vs. 58.856,99 USD im letzten Lauf) - leichte Erholung, -2,89% seit Kauf bleibt deutlich innerhalb der Stop-Loss-Schwelle. GOOGL-Vorboersenkurs (272,91 USD, -2,2%) deutet auf weitere Schwaeche hin (CDS-Spreads bei AI-naher Tech auf Rekordniveau, NVDA/CoreWeave/Oracle ebenfalls unter Druck), wird aber mangels regulaerer NASDAQ-Notierung nicht als 'aktueller Stand' uebernommen; Position bleibt bei Schlusskurs 279,05 USD. Fear&Greed unveraendert bei 13 (alternative.me). Recherche zu Chip-/AI-Sektor und Geopolitik lieferte keinen frischen, auf heute datierten Katalysator fuer einen Neukauf oder eine Gewinnmitnahme/Stop-Loss bei bestehenden Positionen.",
     "positionIds": [
       "pos-0031",
       "pos-0036"
     ],
-    "portfolioValueEnd": 1559.92,
+    "portfolioValueEnd": 1564.43,
     "updates": [
       {
         "time": "00:08",
@@ -14542,6 +14542,11 @@
         "time": "09:08",
         "note": "Keine Aenderung. BTC-Kurs aktualisiert auf 58.856,99 USD (-3,45% seit Kauf), GOOGL unveraendert (Boerse geschlossen). Fear&Greed weiterhin 13 (Extreme Angst) ohne neuen Katalysator, daher kein Trade.",
         "portfolioValue": 1559.92
+      },
+      {
+        "time": "10:08",
+        "note": "Keine Aenderung. BTC-Kurs aktualisiert auf 59.201 USD (-2,89% seit Kauf, leichte Erholung), GOOGL unveraendert (NASDAQ geschlossen, Vorboerse zeigt CDS-Sorgen bei AI-Werten). Fear&Greed weiterhin 13 (Extreme Angst) ohne neuen Katalysator, daher kein Trade.",
+        "portfolioValue": 1564.43
       }
     ]
   }
