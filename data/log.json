@@ -14484,14 +14484,14 @@
   },
   {
     "date": "2026-11-25",
-    "marketOverview": "Boersen (Aktien/ETFs/Rohstoffe) weiterhin geschlossen um 08:08 CET (vor Handelsbeginn, Xetra-Start erst 09:00). GOOGL unveraendert bei Schlusskurs 279,05 USD. Bitcoin (CoinGecko live) leicht erholt auf 59.263 USD (-1,98% 24h), weiterhin im Seitwaertsbereich. Fear&Greed-Index unveraendert bei 13 (Extreme Angst, alternative.me). Keine neuen marktbewegenden Nachrichten zu Zinsen, Geopolitik oder Einzeltiteln gefunden.",
-    "decision": "Kein Trade in diesem Lauf. GOOGL-Position (pos-0031) unveraendert (Boerse weiterhin geschlossen). BTC-Position (pos-0036) auf aktuellen Live-Kurs (59.263 USD, -2,79% seit Kauf) aktualisiert - weiterhin innerhalb der Halteband-Spanne, kein Stop-Loss-Trigger (-6,5 bis -7,5%). Trotz hohem freiem Kapital (ca. 110.468 EUR) kein Neukauf: Aktien/ETFs/Rohstoffe nicht handelbar, Krypto-Markt bleibt in extremer Angst (Fear&Greed 13) ohne ueberzeugenden neuen Long-Katalysator.",
-    "reasoning": "Live-Kursabfrage (CoinGecko) zeigt BTC bei 59.263 USD (vs. 59.044 USD im letzten Lauf) - leichte Erholung, kein Trendwechsel, -2,79% seit Kauf bleibt deutlich innerhalb der Stop-Loss-Schwelle. GOOGL-Kurs bleibt unveraendert zum vorherigen Stand, da die Boerse noch nicht geoeffnet hat. Fear&Greed unveraendert bei 13 (alternative.me). Kein frischer Katalysator seit dem letzten Lauf (07:08), weder fuer eine Gewinnmitnahme/Stop-Loss bei BTC noch fuer eine neue spekulative Position. Aktien/ETFs/Rohstoffe bleiben ausserhalb der Handelszeiten nicht handelbar.",
+    "marketOverview": "Boersen (Aktien/ETFs/Rohstoffe) um 09:10 CET weiterhin ueberwiegend geschlossen (Xetra seit 09:00 offen, aber ohne europaeische Position im Depot; NASDAQ oeffnet erst 15:30 CET). GOOGL unveraendert bei Schlusskurs 279,05 USD. Bitcoin (CoinDesk live) auf 58.856,99 USD gefallen (-2,26% 24h), setzt die leichte Schwaeche fort. Fear&Greed-Index unveraendert bei 13 (Extreme Angst, alternative.me). Keine neuen marktbewegenden Nachrichten zu Zinsen, Geopolitik oder Einzeltiteln gefunden (Suchen zu DAX-Eroeffnung, Chip-Sektor und US-Futures lieferten nur aeltere Artikel).",
+    "decision": "Kein Trade in diesem Lauf. GOOGL-Position (pos-0031) unveraendert (NASDAQ weiterhin geschlossen). BTC-Position (pos-0036) auf aktuellen Live-Kurs (58.856,99 USD, -3,45% seit Kauf) aktualisiert - weiterhin deutlich innerhalb der Halteband-Spanne, kein Stop-Loss-Trigger (-6,5 bis -7,5%). Trotz hohem freiem Kapital (ca. 110.468 EUR) kein Neukauf: US-Aktien/ETFs/Rohstoffe nicht handelbar, Krypto-Markt bleibt in extremer Angst (Fear&Greed 13) ohne ueberzeugenden neuen Long-Katalysator; auch fuer Xetra-Titel kein konkreter, ueberzeugender Katalysator gefunden.",
+    "reasoning": "Live-Kursabfrage (CoinDesk) zeigt BTC bei 58.856,99 USD (vs. 59.263 USD im letzten Lauf) - leichte Fortsetzung der Schwaeche, kein Trendwechsel, -3,45% seit Kauf bleibt deutlich innerhalb der Stop-Loss-Schwelle. GOOGL-Kurs bleibt unveraendert zum vorherigen Stand, da die NASDAQ noch nicht geoeffnet hat. Fear&Greed unveraendert bei 13 (alternative.me). Recherche zu DAX-Eroeffnung, Chip-Sektor (NVDA/AMD) und US-Futures/Geopolitik lieferte keine aktuellen, auf heute datierten Katalysatoren. Daher weder Gewinnmitnahme/Stop-Loss bei bestehenden Positionen noch eine neue spekulative Position gerechtfertigt.",
     "positionIds": [
       "pos-0031",
       "pos-0036"
     ],
-    "portfolioValueEnd": 1565.25,
+    "portfolioValueEnd": 1559.92,
     "updates": [
       {
         "time": "00:08",
@@ -14537,6 +14537,11 @@
         "time": "08:08",
         "note": "Keine Aenderung. BTC-Kurs aktualisiert auf 59.263 USD (-2,79% seit Kauf, leichte Erholung), GOOGL unveraendert (Boerse geschlossen). Fear&Greed weiterhin 13 (Extreme Angst) ohne neuen Katalysator, daher kein Trade.",
         "portfolioValue": 1565.25
+      },
+      {
+        "time": "09:08",
+        "note": "Keine Aenderung. BTC-Kurs aktualisiert auf 58.856,99 USD (-3,45% seit Kauf), GOOGL unveraendert (Boerse geschlossen). Fear&Greed weiterhin 13 (Extreme Angst) ohne neuen Katalysator, daher kein Trade.",
+        "portfolioValue": 1559.92
       }
     ]
   }
