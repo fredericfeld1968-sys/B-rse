@@ -14484,14 +14484,14 @@
   },
   {
     "date": "2026-11-25",
-    "marketOverview": "Boersen um 11:08 CET: Xetra offen, NASDAQ oeffnet erst um 15:30 CET (noch ca. 4,5 Std.). Bitcoin (CoinGecko/Bitstamp, live) bei rund 59.020 USD (-1,6% 24h), Krypto-Fear&Greed-Index unveraendert bei 13 (Extreme Angst, alternative.me) - seit Tagen kein neuer Katalysator. AI-Bubble-/CDS-Sorgen bei grossen Tech-Werten (u.a. GOOGL) halten laut aktuellen Marktberichten an, GOOGL-Position bleibt mangels regulaerer NASDAQ-Notierung beim Schlusskurs von 279,05 USD.",
-    "decision": "Kein Trade in diesem Lauf. GOOGL-Position (pos-0031) unveraendert belassen (NASDAQ weiterhin geschlossen, oeffnet erst 15:30 CET). BTC-Position (pos-0036) auf aktuellen Live-Kurs (59.020 USD, -3,18% seit Kauf) aktualisiert - weiterhin deutlich innerhalb der Halteband-Spanne, kein Stop-Loss-Trigger (-6,5 bis -7,5%). Trotz hohem freiem Kapital (ca. 110.468 EUR) kein Neukauf: Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten, Krypto-Markt verharrt in extremer Angst (Fear&Greed 13) ohne ueberzeugenden neuen Katalysator.",
-    "reasoning": "Live-Kursabfrage (CoinGecko, Bitstamp) zeigt BTC bei rund 59.020 USD (vs. 59.201 USD im letzten Lauf) - leichter weiterer Ruecksetzer, -3,18% seit Kauf bleibt deutlich innerhalb der Stop-Loss-Schwelle. GOOGL bleibt mangels regulaerer NASDAQ-Notierung beim letzten Schlusskurs (279,05 USD). Fear&Greed unveraendert bei 13 (alternative.me). Recherche zu AI-Bubble-/CDS-Sorgen und allgemeiner Marktlage lieferte keinen frischen, auf heute datierten Katalysator fuer einen Neukauf oder eine Gewinnmitnahme/Stop-Loss bei bestehenden Positionen.",
+    "marketOverview": "Boersen um 12:08 CET: Xetra offen (DAX nahe Rekordniveau), NASDAQ oeffnet erst um 15:30 CET (noch ca. 3,4 Std.). Bitcoin (CoinGecko-API, live) bei 58.793 USD (-1,52% 24h), Krypto-Fear&Greed-Index unveraendert bei 13 (Extreme Angst, alternative.me) - seit Tagen kein neuer Katalysator, leichter weiterer Ruecksetzer gegenueber dem letzten Lauf (59.020 USD). GOOGL bleibt mangels regulaerer NASDAQ-Notierung beim Schlusskurs von 279,05 USD; keine neuen, auf heute datierten Markt- oder Unternehmensnachrichten zu Alphabet oder einer ueberzeugenden neuen Chance an der Xetra gefunden.",
+    "decision": "Kein Trade in diesem Lauf. GOOGL-Position (pos-0031) unveraendert belassen (NASDAQ weiterhin geschlossen, oeffnet erst 15:30 CET). BTC-Position (pos-0036) auf aktuellen Live-Kurs (58.793 USD, -3,56% seit Kauf) aktualisiert - weiterhin deutlich innerhalb der Halteband-Spanne, kein Stop-Loss-Trigger (-6,5 bis -7,5%). Trotz hohem freiem Kapital (ca. 110.465 EUR) kein Neukauf: Aktien/ETFs/Rohstoffe an der Heimatboerse NASDAQ ausserhalb der Handelszeiten, Krypto-Markt verharrt in extremer Angst (Fear&Greed 13) ohne ueberzeugenden neuen Katalysator, Xetra ohne klaren, frischen Einzeltitel-Katalysator.",
+    "reasoning": "Live-Kursabfrage (CoinGecko-API) zeigt BTC bei 58.793 USD (vs. 59.020 USD im letzten Lauf) - leichter weiterer Ruecksetzer, -3,56% seit Kauf bleibt deutlich innerhalb der Stop-Loss-Schwelle. GOOGL bleibt mangels regulaerer NASDAQ-Notierung beim letzten Schlusskurs (279,05 USD). Fear&Greed-Index unveraendert bei 13 (alternative.me). Recherche zu DAX/Xetra und allgemeiner Marktlage lieferte keinen frischen, auf heute datierten Katalysator fuer einen Neukauf oder eine Gewinnmitnahme/Stop-Loss bei bestehenden Positionen.",
     "positionIds": [
       "pos-0031",
       "pos-0036"
     ],
-    "portfolioValueEnd": 1562.06,
+    "portfolioValueEnd": 1559.08,
     "updates": [
       {
         "time": "00:08",
@@ -14552,6 +14552,11 @@
         "time": "11:08",
         "note": "Keine Aenderung. BTC-Kurs aktualisiert auf 59.020 USD (-3,18% seit Kauf), GOOGL unveraendert (NASDAQ oeffnet erst 15:30 CET). Fear&Greed weiterhin 13 (Extreme Angst) ohne neuen Katalysator, daher kein Trade.",
         "portfolioValue": 1562.06
+      },
+      {
+        "time": "12:08",
+        "note": "Keine Aenderung. BTC-Kurs aktualisiert auf 58.793 USD (-3,56% seit Kauf), GOOGL unveraendert (NASDAQ oeffnet erst 15:30 CET). Fear&Greed weiterhin 13 (Extreme Angst) ohne neuen Katalysator, daher kein Trade.",
+        "portfolioValue": 1559.08
       }
     ]
   }
