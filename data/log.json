@@ -14484,14 +14484,14 @@
   },
   {
     "date": "2026-11-25",
-    "marketOverview": "Boersen (Aktien/ETFs/Rohstoffe) bleiben um 01:08 CET geschlossen. Bitcoin notiert live (CoinGecko) bei 59.693 USD (-2,40% in 24h), nahe am Mehrmonatstief und im Einklang mit den breiten Markmeldungen: Spot-Bitcoin-ETFs verzeichnen im November einen Rekord-Netto-Abfluss von rund 4,71 Mrd. USD (davon 3,99 Mrd. USD allein bei BlackRocks IBIT), Fear&Greed-Index verbleibt bei etwa 9-11 (Extreme Angst). Belastend bleiben Zoll-Sorgen (moegliche neue US-Zoelle gegen China/Japan/Suedkorea) sowie diskutierte Zinsschritte der Fed. Kein neuer einzeltitelspezifischer Katalysator gegenueber dem letzten Lauf (00:08).",
-    "decision": "Kein Trade in diesem Lauf. GOOGL-Position (pos-0031) bleibt unveraendert (Boerse geschlossen). BTC-Position (pos-0036) aktualisiert auf aktuellen Live-Kurs (59.693 USD, -2,08% seit Kauf) - weiterhin klar innerhalb der Halteband-Spanne, kein Stop-Loss-Trigger. Trotz hohem freiem Kapital (ca. 110.468 EUR) kein Neukauf: Aktien/ETFs/Rohstoffe nicht handelbar, anhaltender breiter Krypto-Risk-off (Rekord-ETF-Abfluesse, Zoll- und Zinssorgen) liefert weiterhin keinen ueberzeugenden neuen Long-Katalysator.",
-    "reasoning": "Live-Kursabfrage (CoinGecko) zeigt BTC bei 59.693 USD, konsistent mit mehreren aktuellen Presseberichten (Bitcoin nahe 60.000 USD, Rekord-ETF-Abfluesse, Extreme-Angst-Sentiment, Zoll- und Zinssorgen). Kein frischer, einzeltitelspezifischer Katalysator seit dem letzten Lauf - weder fuer eine Gewinnmitnahme/Stop-Loss bei BTC noch fuer eine neue spekulative Position. Aktien/ETFs/Rohstoffe bleiben ausserhalb der Handelszeiten nicht handelbar.",
+    "marketOverview": "Boersen (Aktien/ETFs/Rohstoffe) bleiben um 02:08 CET weiterhin geschlossen. Bitcoin faellt laut Live-Daten (CoinGecko) weiter auf 59.476 USD (-3,19% in 24h), Ethereum -2,92% auf 1.666,65 USD, Solana -4,03% auf 69,43 USD - breiter, synchroner Krypto-Risk-off ohne Gegenbewegung. Hintergrund bleiben die Rekord-Netto-Abfluesse bei Spot-Bitcoin-ETFs im November (rund 4,71 Mrd. USD) sowie anhaltende Zoll- und Zinssorgen; Fear&Greed-Index weiterhin im Bereich Extreme Angst. Kein neuer einzeltitelspezifischer Katalysator.",
+    "decision": "Kein Trade in diesem Lauf. GOOGL-Position (pos-0031) bleibt unveraendert (Boerse geschlossen). BTC-Position (pos-0036) auf aktuellen Live-Kurs (59.476 USD, -2,44% seit Kauf) aktualisiert - weiterhin klar innerhalb der Halteband-Spanne, kein Stop-Loss-Trigger. Trotz hohem freiem Kapital (ca. 110.468 EUR) kein Neukauf: Aktien/ETFs/Rohstoffe nicht handelbar, anhaltender breiter Krypto-Risk-off liefert keinen ueberzeugenden neuen Long-Katalysator.",
+    "reasoning": "Live-Kursabfrage (CoinGecko) zeigt BTC weiter fallend auf 59.476 USD, ETH und SOL im Gleichschritt schwaecher - synchroner Markt-Risk-off statt Einzeltitel-Nachricht. Kein frischer Katalysator seit dem letzten Lauf (01:08), weder fuer eine Gewinnmitnahme/Stop-Loss bei BTC noch fuer eine neue spekulative Position. Aktien/ETFs/Rohstoffe bleiben ausserhalb der Handelszeiten nicht handelbar.",
     "positionIds": [
       "pos-0031",
       "pos-0036"
     ],
-    "portfolioValueEnd": 1571.14,
+    "portfolioValueEnd": 1568.29,
     "updates": [
       {
         "time": "00:08",
@@ -14502,6 +14502,11 @@
         "time": "01:08",
         "note": "Keine Aenderung. BTC-Kurs aktualisiert auf 59.693 USD (-2,08% seit Kauf), GOOGL unveraendert (Boerse geschlossen). Anhaltender Krypto-Risk-off (Rekord-ETF-Abfluesse, Zoll-/Zinssorgen) ohne neuen Katalysator, daher kein Trade.",
         "portfolioValue": 1571.14
+      },
+      {
+        "time": "02:08",
+        "note": "Keine Aenderung. BTC-Kurs aktualisiert auf 59.476 USD (-2,44% seit Kauf), GOOGL unveraendert (Boerse geschlossen). Anhaltender breiter Krypto-Risk-off (ETF-Abfluesse, Zoll-/Zinssorgen) ohne neuen Katalysator, daher kein Trade.",
+        "portfolioValue": 1568.29
       }
     ]
   }
