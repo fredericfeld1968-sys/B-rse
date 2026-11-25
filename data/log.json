@@ -14599,5 +14599,22 @@
         "portfolioValue": 789.02
       }
     ]
+  },
+  {
+    "date": "2026-11-26",
+    "marketOverview": "Neuer Tag, 00:08 CET: Boersen (Aktien/ETFs/Rohstoffe) ueber Nacht und am fruehen Donnerstagmorgen geschlossen, nur Krypto handelbar. Bitcoin notiert laut CoinGecko-Live-API bei 59.907 USD (-0,10% in 24h), damit praktisch unveraendert zum letzten Stand (60.124 USD). Krypto-Fear&Greed-Index verbleibt unveraendert bei 13 (Extreme Angst). Kein neuer eigenstaendiger Katalysator erkennbar.",
+    "decision": "00:08-Lauf: Kein Trade. Tagesbudget gutgeschrieben (+1.000 EUR). BTC-Position (pos-0036) auf aktuellen Live-Kurs (59.907 USD, -1,73% seit Kauf) aktualisiert, bleibt klar innerhalb der Halteband-Spanne (Stop-Loss erst bei ca. -6,5 bis -7,5%). Trotz freiem Kapital von ca. 112.213,98 EUR kein Neukauf: Boersen geschlossen, fuer Krypto liegt kein neuer, unabhaengig bestaetigter Katalysator vor (Fear&Greed weiterhin bei 13, Extreme Angst, BTC nahezu unveraendert), daher keine ueberzeugende Gelegenheit.",
+    "reasoning": "Mit dem Tageswechsel wird das Tagesbudget von 1.000 EUR gutgeschrieben (totalFreshCapitalEur 113.000 -> 114.000 EUR). BTC bewegt sich seit dem letzten Lauf (23:09, 60.124 USD) kaum (59.907 USD, CoinGecko live, -0,10% in 24h), damit -1,73% seit Kauf (60.961 USD) - klar innerhalb der etablierten Halteband-Spanne, daher keine Verkaufsentscheidung. Kein neuer, unabhaengig bestaetigter Katalysator fuer einen Neukauf; Aktien/ETFs/Rohstoffe sind um diese Nachtzeit nicht handelbar, Krypto-Sentiment bleibt bei Fear&Greed 13 (Extreme Angst) ohne frischen Impuls. Freies Kapital liegt bei ca. 112.213,98 EUR, bewusst nicht investiert, da kein ueberzeugendes Setup vorliegt.",
+    "positionIds": [
+      "pos-0036"
+    ],
+    "portfolioValueEnd": 786.17,
+    "updates": [
+      {
+        "time": "00:08",
+        "note": "Neuer Tag, Tagesbudget gutgeschrieben (+1.000 EUR). Keine Aenderung. BTC-Kurs aktualisiert auf 59.907 USD (-1,73% seit Kauf), nahezu unveraendert zum Vorlauf. Fear&Greed weiterhin bei 13 (Extreme Angst), kein neuer Katalysator, daher kein Trade.",
+        "portfolioValue": 786.17
+      }
+    ]
   }
 ]
