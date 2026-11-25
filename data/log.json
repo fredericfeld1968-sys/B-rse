@@ -14484,14 +14484,14 @@
   },
   {
     "date": "2026-11-25",
-    "marketOverview": "Boersen (Aktien/ETFs/Rohstoffe) bleiben um 05:08 CET weiterhin geschlossen. Bitcoin (CoinGecko live) bei 59.125 USD (-1,89% 24h), Ethereum 1.656,38 USD (-2,23%), Solana 68,93 USD (-3,38%) - Krypto bleibt im leichten Abwaertstrend, keine Stabilisierung. Fear&Greed-Index unveraendert bei 13 (Extreme Angst, alternative.me). Keine neuen marktbewegenden Nachrichten zu Zinsen, Geopolitik oder Einzeltiteln gefunden.",
-    "decision": "Kein Trade in diesem Lauf. GOOGL-Position (pos-0031) bleibt unveraendert (Boerse geschlossen). BTC-Position (pos-0036) auf aktuellen Live-Kurs (59.125 USD, -3,01% seit Kauf) aktualisiert - weiterhin innerhalb der Halteband-Spanne, kein Stop-Loss-Trigger. Trotz hohem freiem Kapital (ca. 110.468 EUR) kein Neukauf: Aktien/ETFs/Rohstoffe nicht handelbar, Krypto-Markt bleibt in extremer Angst ohne ueberzeugenden neuen Long-Katalysator.",
-    "reasoning": "Live-Kursabfrage (CoinGecko) zeigt BTC bei 59.125 USD (vs. 59.180 USD im letzten Lauf) - leichter weiterer Rueckgang, kein Trendwechsel. Fear&Greed unveraendert bei 13 (alternative.me). Kein frischer Katalysator seit dem letzten Lauf (04:08), weder fuer eine Gewinnmitnahme/Stop-Loss bei BTC noch fuer eine neue spekulative Position. Aktien/ETFs/Rohstoffe bleiben ausserhalb der Handelszeiten nicht handelbar.",
+    "marketOverview": "Boersen (Aktien/ETFs/Rohstoffe) bleiben um 06:08 CET weiterhin geschlossen (vor Europa-/US-Oeffnung). Bitcoin (CoinGecko live) bei 59.151 USD (-2,14% 24h), Ethereum 1.657,68 USD (-2,63%), Solana 68,64 USD (-4,34%) - Krypto-Markt bewegt sich seitwaerts auf niedrigem Niveau, keine Stabilisierung erkennbar. Fear&Greed-Index unveraendert bei 13 (Extreme Angst, alternative.me). Keine neuen marktbewegenden Nachrichten zu Zinsen, Geopolitik oder Einzeltiteln gefunden.",
+    "decision": "Kein Trade in diesem Lauf. GOOGL-Position (pos-0031) bleibt unveraendert (Boerse geschlossen). BTC-Position (pos-0036) auf aktuellen Live-Kurs (59.151 USD, -2,97% seit Kauf) aktualisiert - weiterhin innerhalb der Halteband-Spanne, kein Stop-Loss-Trigger. Trotz hohem freiem Kapital (ca. 110.468 EUR) kein Neukauf: Aktien/ETFs/Rohstoffe nicht handelbar, Krypto-Markt bleibt in extremer Angst ohne ueberzeugenden neuen Long-Katalysator.",
+    "reasoning": "Live-Kursabfrage (CoinGecko) zeigt BTC bei 59.151 USD (vs. 59.125 USD im letzten Lauf) - praktisch unveraendert, kein Trendwechsel. Fear&Greed unveraendert bei 13 (alternative.me). Kein frischer Katalysator seit dem letzten Lauf (05:08), weder fuer eine Gewinnmitnahme/Stop-Loss bei BTC noch fuer eine neue spekulative Position. Aktien/ETFs/Rohstoffe bleiben ausserhalb der Handelszeiten nicht handelbar.",
     "positionIds": [
       "pos-0031",
       "pos-0036"
     ],
-    "portfolioValueEnd": 1563.69,
+    "portfolioValueEnd": 1564.03,
     "updates": [
       {
         "time": "00:08",
@@ -14522,6 +14522,11 @@
         "time": "05:08",
         "note": "Keine Aenderung. BTC-Kurs aktualisiert auf 59.125 USD (-3,01% seit Kauf), GOOGL unveraendert (Boerse geschlossen). Fear&Greed weiterhin 13 (Extreme Angst) ohne neuen Katalysator, daher kein Trade.",
         "portfolioValue": 1563.69
+      },
+      {
+        "time": "06:08",
+        "note": "Keine Aenderung. BTC-Kurs aktualisiert auf 59.151 USD (-2,97% seit Kauf), GOOGL unveraendert (Boerse geschlossen). Fear&Greed weiterhin 13 (Extreme Angst) ohne neuen Katalysator, daher kein Trade.",
+        "portfolioValue": 1564.03
       }
     ]
   }
