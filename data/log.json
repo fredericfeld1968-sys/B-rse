@@ -14602,13 +14602,13 @@
   },
   {
     "date": "2026-11-26",
-    "marketOverview": "Stand 05:08 CET: Boersen (Aktien/ETFs/Rohstoffe) weiterhin geschlossen, nur Krypto handelbar. Bitcoin notiert je nach Quelle zwischen ca. 60.350 und 60.850 USD (Coinbase 60.741, CoinGecko 60.847, Bitget 60.695, KuCoin 60.459, CoinLore/CoinCodex ~60.360) - weiterhin volatile Seitwaertsbewegung ohne klaren Trend. US-Spot-Bitcoin-ETFs verzeichnen laut KuCoin bereits den sechsten Handelstag in Folge mit Netto-Abfluessen (November-Gesamtsumme ca. 4,94 Mrd. USD), Krypto-Fear&Greed-Index weiterhin bei 11 (Extreme Angst) ohne neuen, unabhaengig bestaetigten Katalysator fuer einen Neukauf.",
-    "decision": "00:08- bis 05:08-Lauf: Kein Trade. Tagesbudget wurde um 00:08 gutgeschrieben (+1.000 EUR). BTC-Position (pos-0036) laufend auf aktuellen Kurs aktualisiert (zuletzt ca. 60.600 USD, -0,59% seit Kauf), bleibt klar innerhalb der Halteband-Spanne. Trotz hohem freiem Kapital kein Neukauf: Boersen geschlossen, fuer Krypto liegt weiterhin kein neuer, unabhaengig bestaetigter Katalysator vor (Fear&Greed weiterhin extrem niedrig bei 11, anhaltende ETF-Abfluesse), daher keine ueberzeugende Gelegenheit.",
-    "reasoning": "BTC bewegt sich seit dem letzten Lauf (04:09, 60.646 USD) nur minimal auf ca. 60.600 USD (Mittel mehrerer Quellen), damit -0,59% seit Kauf (60.961 USD) - klar innerhalb der etablierten Halteband-Spanne, daher keine Verkaufsentscheidung. Kein neuer, unabhaengig bestaetigter Katalysator fuer einen Neukauf; Aktien/ETFs/Rohstoffe sind um diese Nachtzeit nicht handelbar, Krypto-Sentiment bleibt bei Fear&Greed 11 (Extreme Angst) und anhaltenden ETF-Abfluessen ohne frischen positiven Einzelimpuls. Freies Kapital bleibt bewusst nicht investiert, da kein ueberzeugendes Setup vorliegt.",
+    "marketOverview": "Stand 06:09 CET: Boersen (Aktien/ETFs/Rohstoffe) weiterhin geschlossen, nur Krypto handelbar. Bitcoin zieht leicht an auf ca. 60.919 USD (CoinGecko, +2,98% in 24h), begleitet von einer breiten, aber moderaten Erholung bei Ethereum (+2,47%), Solana (+3,46%) und XRP (+4,26%) - ein kleiner Bounce aus tief ueberverkauftem Niveau, kein bestaetigter Trendwechsel. Krypto-Fear&Greed-Index verharrt unveraendert bei 11 (Extreme Angst), kein neuer, unabhaengig bestaetigter Einzelkatalysator fuer einen Neukauf erkennbar.",
+    "decision": "00:08- bis 06:09-Lauf: Kein Trade. Tagesbudget wurde um 00:08 gutgeschrieben (+1.000 EUR). BTC-Position (pos-0036) laufend auf aktuellen Kurs aktualisiert (zuletzt ca. 60.919 USD, -0,07% seit Kauf), bleibt klar innerhalb der Halteband-Spanne. Trotz hohem freiem Kapital kein Neukauf: Boersen geschlossen, der leichte Krypto-Bounce ist breit aber moderat und nicht durch einen frischen, unabhaengig bestaetigten Katalysator gedeckt (Fear&Greed weiterhin extrem niedrig bei 11), daher keine ueberzeugende Gelegenheit.",
+    "reasoning": "BTC bewegt sich seit dem letzten Lauf (05:08, ca. 60.600 USD) leicht nach oben auf 60.919 USD (CoinGecko, +2,98% in 24h), damit nur noch -0,07% seit Kauf (60.961 USD) - praktisch Break-even, klar innerhalb der etablierten Halteband-Spanne, daher keine Verkaufsentscheidung. Die Erholung ist breit (ETH, SOL, XRP ebenfalls im Plus), aber moderat und ohne neuen, konkreten, unabhaengig bestaetigten Katalysator; Aktien/ETFs/Rohstoffe sind um diese Uhrzeit nicht handelbar, Fear&Greed bleibt bei 11 (Extreme Angst). Freies Kapital bleibt bewusst nicht investiert, da kein ueberzeugendes Setup vorliegt.",
     "positionIds": [
       "pos-0036"
     ],
-    "portfolioValueEnd": 795.26,
+    "portfolioValueEnd": 799.45,
     "updates": [
       {
         "time": "00:08",
@@ -14639,6 +14639,11 @@
         "time": "05:08",
         "note": "Keine Aenderung. BTC auf ca. 60.600 USD (-0,59% seit Kauf) aktualisiert, nahezu unveraendert. ETFs verzeichnen sechsten Tag in Folge Abfluesse, Fear&Greed weiterhin bei 11 (Extreme Angst), kein neuer Katalysator, daher kein Trade.",
         "portfolioValue": 795.26
+      },
+      {
+        "time": "06:09",
+        "note": "Keine Aenderung. BTC auf 60.919 USD (-0,07% seit Kauf) aktualisiert, leichter breiter Krypto-Bounce (+2,98% 24h BTC, ETH/SOL/XRP ebenfalls im Plus). Fear&Greed weiterhin bei 11 (Extreme Angst), kein neuer bestaetigter Katalysator, daher kein Trade.",
+        "portfolioValue": 799.45
       }
     ]
   }
