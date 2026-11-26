@@ -517,14 +517,14 @@
     "assetClass": "Aktien",
     "amount": 800,
     "reasoning": "Alphabet faellt nach Q3-Zahlen beim Marktstart (15:30 MESZ/9:30 ET) um rund 12-13% auf ca. 283 USD (StockAnalysis, Cryptonomist, Finviz, mehrfach unabhaengig bestaetigt) - trotz Umsatzwachstum von +25% und einer Verdopplung von Google Cloud auf 30,7 Mrd. USD (+103%, operative Marge 36,2%). Ausloeser des Kurssturzes ist primaer ein unrealisierter Mark-to-Market-Verlust von 8,2 Mrd. USD auf die SpaceX-Beteiligung (kein operativer Schaden) sowie ein staerker als erwarteter negativer Free Cashflow (-9,1 Mrd. USD) durch unveraendert hohe Capex-Guidance (195-205 Mrd. USD). Analog zum erfolgreichen 'Sell-the-news'-Dip-Kauf-Muster (AMD +8,7%, SpaceX +7,8%, Palantir +8,3%, Meta +9,87%): operatives Geschaeft bleibt stark, Kurssturz groesstenteils durch einen einmaligen Bewertungseffekt getrieben. Spekulativer Dip-Kauf auf eine technische Gegenbewegung; Risiko bewusst erhoeht, da der Rueckgang (-12/-13%) deutlich staerker ausfaellt als bei bisherigen Dip-Kaeufen und noch keine Bodenbildung bestaetigt ist.",
-    "status": "open",
+    "status": "closed",
     "buyPrice": 283.47,
-    "currentPrice": 283.45,
-    "currentValue": 799.94,
-    "profitLoss": -0.06,
-    "profitLossPct": -0.01,
-    "closedDate": null,
-    "closeReasoning": null
+    "currentPrice": 264.21,
+    "currentValue": 745.65,
+    "profitLoss": -54.35,
+    "profitLossPct": -6.79,
+    "closedDate": "2026-11-25",
+    "closeReasoning": "Stop-Loss: GOOGL faellt im Verlauf der heutigen regulaeren NASDAQ-Sitzung (Markt seit 15:30 CET offen) deutlich auf 264,21 USD (-5,32% Tagesverlust, Tagestief 262,73 USD, Quelle: stockanalysis.com, Stand 25.11.2026 11:11 ET/17:11 CET) - gegenueber dem Einstandskurs von 283,47 USD entspricht das -6,79% und erreicht damit die etablierte Stop-Loss-Schwelle dieses Depots (ca. -6,5 bis -7,5%, analog Rheinmetall -6,56%, NVIDIA -7,24%, XRP -6,57%, HYPE -6,70%, DOGE -6,50%, BTC pos-0018 -6,98%). Der breite Markt bleibt im Risk-off-Modus (anhaltende AI-Bewertungssorgen im Tech-Sektor, Krypto-Fear&Greed weiterhin bei 13 'Extreme Angst'), ein frischer, konkreter Einzeltitel-Katalysator fuer eine schnelle Gegenbewegung ist nicht erkennbar und das Tagestief wurde erst kurz vor diesem Lauf markiert. Passend zum spekulativen Kurzfrist-Profil wird die urspruengliche Dip-Kauf-These (Sell-the-news nach Q3-Zahlen) verworfen und konsequent glattgestellt, um weiteren Verlust zu vermeiden."
   },
   {
     "id": "pos-0032",
@@ -604,10 +604,10 @@
     "reasoning": "Bestaetigter, mehrfach unabhaengig belegter Bounce (CoinDesk, crypto.news, Coinpedia, Cryptonews.net, TradingView): Bitcoin erholt sich um +9% von seinem seit September 2024 niedrigsten Stand (Tief ca. 55.130-55.326 USD nach einer Liquidationswelle von rund 1,8 Mrd. USD) und erobert live (CoinGecko-API, 10:09 UTC) die Marke von 60.000 USD zurueck (aktuell 60.961 USD, +5,24% 24h) - 'forced selling eases' laut CoinDesk, Markt wartet auf die Wall-Street-Eroeffnung am Montag. Breite, synchrone Teilnahme ueber mehrere Majors bestaetigt den Bounce statt Einzelcoin-Rauschen: ETH +4,66% (CoinGecko) bzw. +3-6,6% (Coinotag), SOL +3,75%, XRP +4,54%, ADA +4,64%, AVAX +4,52%, alle live uebereinstimmend. Analog zum erfolgreichen Muster fruehrer bestaetigter Krypto-Ausbrueche/Bounces (BTC 19.08. +9,6%, BTC 18.09. +7,16%, BTC 04.11.-Rebound). Da Aktien/ETFs/Rohstoffe am Sonntag nicht handelbar sind, spekulative kurzfristige Momentum-Position auf die Fortsetzung des bestaetigten Bounces. Risiko bewusst ueber moderate Positionsgroesse (800 EUR) und enges Stop-Loss-Management begrenzt, da der Fear&Greed-Index weiterhin bei 11 (Extreme Angst) verharrt und Analysten explizit betonen, dass eine Bodenbildung noch nicht bestaetigt ist.",
     "status": "open",
     "buyPrice": 60961,
-    "currentPrice": 61579.0,
-    "currentValue": 808.11,
-    "profitLoss": 8.11,
-    "profitLossPct": 1.01,
+    "currentPrice": 60980.0,
+    "currentValue": 800.25,
+    "profitLoss": 0.25,
+    "profitLossPct": 0.03,
     "closedDate": null,
     "closeReasoning": null
   }

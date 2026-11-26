@@ -14238,14 +14238,14 @@
   },
   {
     "date": "2026-11-23",
-    "marketOverview": "US-Tech-Rally kuehlt leicht ab: GOOGL gibt einen Teil des Tagesgewinns ab und notiert bei 283,45 USD (+6,85% Tagesplus laut stockanalysis.com), Markt weiterhin offen (bis 22:00 CET). Krypto-Sentiment bleibt bei Fear&Greed 11 (Extreme Angst) unveraendert fragil, Bitcoin pendelt seitwaerts um 61.579 USD (+1,51% 24h laut CoinGecko). Keine neuen marktbewegenden Nachrichten seit dem letzten Lauf.",
-    "decision": "Kein Trade in diesem Lauf. GOOGL (pos-0031) auf 283,45 USD aktualisiert (-0,01% seit Kauf, praktisch unveraendert). BTC (pos-0036) auf 61.579 USD aktualisiert (+1,01% seit Kauf). Beide Positionen klar innerhalb der normalen Schwankungsbreite, weder Stop-Loss- noch Gewinnmitnahme-Schwelle erreicht.",
-    "reasoning": "Weder bei GOOGL noch bei BTC wird die etablierte Stop-Loss- (-6,5 bis -7,5%) oder Gewinnmitnahme-Schwelle (+7-9%) erreicht, daher bleiben beide Positionen offen. Fuer einen Neukauf fehlt weiterhin eine wirklich ueberzeugende, noch nicht eingepreiste Gelegenheit: GOOGL-Rally ist bereits weitgehend eingepreist, Krypto bleibt im Extreme-Fear-Regime ohne klaren Ausbruchskatalysator. Passend zum spekulativen, aber diszipliniert-selektiven Profil wird abgewartet.",
+    "marketOverview": "US-Markt bleibt seit 22:00 CET geschlossen; GOOGL schloss bei 282,10 USD (+6,33% Tagesplus, Yahoo Finance) und zeigt keine nennenswerte nachboersliche Bewegung mehr. Krypto bewegt sich weiterhin seitwaerts: Bitcoin bei 61.235 USD (+0,72% 24h, CoinGecko), kein frischer Einzelkatalysator erkennbar.",
+    "decision": "Kein Trade in diesem Lauf. GOOGL (pos-0031) auf 282,10 USD aktualisiert (-0,48% seit Kauf). BTC (pos-0036) auf 61.235 USD aktualisiert (+0,45% seit Kauf). Beide Positionen klar innerhalb der normalen Schwankungsbreite, weder Stop-Loss- noch Gewinnmitnahme-Schwelle erreicht.",
+    "reasoning": "US-Boerse ist fuer heute geschlossen, daher sind Aktien/ETFs/Rohstoffe nicht handelbar. Krypto zeigt weiterhin keine ueberzeugende, bestaetigte Ausbruchsbewegung - die etablierte Einstiegsschwelle fuer spekulative Momentum-Trades wird nicht erreicht. GOOGL und BTC bleiben jeweils weit von Stop-Loss (-6,5 bis -7,5%) und Gewinnmitnahme-Schwelle (+7-9%) entfernt. Passend zum spekulativen, aber diszipliniert-selektiven Profil wird abgewartet.",
     "positionIds": [
       "pos-0031",
       "pos-0036"
     ],
-    "portfolioValueEnd": 1608.05,
+    "portfolioValueEnd": 1599.73,
     "updates": [
       {
         "time": "00:09",
@@ -14351,6 +14351,364 @@
         "time": "20:08",
         "note": "Keine Aenderung. GOOGL auf 283,45 USD aktualisiert (+6,85% Tagesplus laut stockanalysis.com, -0,01% seit Kauf), Markt noch bis 22:00 CET offen. BTC per CoinGecko auf 61.579 USD aktualisiert (+1,51% 24h, +1,01% seit Kauf), Fear&Greed-Index weiterhin 11 (Extreme Angst). Keine ueberzeugende neue Gelegenheit, daher kein Trade.",
         "portfolioValue": 1608.05
+      },
+      {
+        "time": "21:08",
+        "note": "Keine Aenderung. GOOGL auf 282,56 USD aktualisiert (+6,51% Tagesplus laut stockanalysis.com, -0,32% seit Kauf), Markt noch bis 22:00 CET offen. BTC per Binance auf 61.205,69 USD aktualisiert (+0,89% 24h, +0,40% seit Kauf). Keine ueberzeugende neue Gelegenheit, daher kein Trade.",
+        "portfolioValue": 1600.64
+      },
+      {
+        "time": "22:09",
+        "note": "Keine Aenderung. GOOGL nachboerslich auf 282,00 USD aktualisiert (-0,52% seit Kauf), US-Markt seit 22:00 CET geschlossen. BTC per CoinGecko auf 61.236 USD aktualisiert (+0,45% seit Kauf, +0,50% 24h). Krypto insgesamt seitwaerts ohne frischen Katalysator, daher kein Trade.",
+        "portfolioValue": 1599.46
+      },
+      {
+        "time": "23:08",
+        "note": "Keine Aenderung. GOOGL Schlusskurs aktualisiert auf 282,10 USD (-0,48% seit Kauf, Yahoo Finance), US-Markt weiterhin geschlossen. BTC per CoinGecko auf 61.235 USD aktualisiert (+0,45% seit Kauf, +0,72% 24h). Krypto weiterhin seitwaerts ohne frischen Katalysator, daher kein Trade.",
+        "portfolioValue": 1599.73
+      }
+    ]
+  },
+  {
+    "date": "2026-11-24",
+    "marketOverview": "US-Boerse weiterhin seit 22:00 CET geschlossen. Breiter, synchroner Krypto-Risk-off haelt an und vertieft sich leicht: BTC um 59.700-60.200 USD (Kraken/CoinDesk-Berichte: -5% auf 60.195 USD bzw. 59.774 USD nach Tagesabverkauf, ausgeloest durch verfliegende Nvidia-Rally und heisse US-Inflationsdaten), ETH -5 bis -7% auf ca. 1.677 USD, SOL deutlich schwaecher (-9 bis -10%). Bitcoin-ETFs verzeichneten in der vergangenen Woche Abfluesse von rund 2,37 Mrd. USD (39.378 BTC), Solana-ETFs dagegen leicht positiv. Fear&Greed-Index bleibt im Bereich 'Extreme Angst'.",
+    "decision": "Kein Trade in diesem Lauf (23. Lauf des Tages). GOOGL-Position (pos-0031) bleibt auf dem Schlusskurs 279,14 USD (-1,53% seit Kauf, Boerse geschlossen, keine neue Notierung). BTC-Position (pos-0036) leicht auf 59.850 USD aktualisiert (-1,82% seit Kauf). Beide Positionen bleiben klar innerhalb der Halteband-Spanne. Trotz reichlich freiem Kapital (ca. 109.470 EUR) kein Neukauf: Aktien/ETFs/Rohstoffe nicht handelbar, und der anhaltende breite Krypto-Abverkauf (ETH/SOL deutlich staerker betroffen als BTC) liefert weiterhin keinen ueberzeugenden, einzeltitelspezifischen Long-Katalysator.",
+    "reasoning": "Aktien/ETFs/Rohstoffe bleiben bis zur naechsten US-Marktoeffnung nicht handelbar. Die aktuelle Krypto-Recherche bestaetigt den bereits laufenden breiten Risk-off-Trend (verfliegende Nvidia-/AI-Rally, heisse US-Inflationsdaten, anhaltende Bitcoin-ETF-Abfluesse) ohne neuen, einzeltitelspezifischen Katalysator, der ein spekulatives Setup rechtfertigen wuerde - im Gegenteil, ETH und SOL fallen sogar staerker als BTC, ein reines Beta-Abverkauf-Muster. Die bestehenden Positionen (GOOGL -1,53%, BTC -1,82%) liegen weiterhin klar innerhalb der etablierten Halteband-Spanne und werden unveraendert weitergefuehrt.",
+    "positionIds": [
+      "pos-0031",
+      "pos-0036"
+    ],
+    "portfolioValueEnd": 1573.2,
+    "updates": [
+      {
+        "time": "00:08",
+        "note": "Neuer Tag, Tagesbudget gutgeschrieben (+1.000 EUR). Keine Aenderung. GOOGL nachboerslich auf 284,38 USD aktualisiert (+0,32% seit Kauf). BTC per CoinGecko auf 61.302 USD aktualisiert (+0,56% seit Kauf, +0,75% 24h). Kein ueberzeugender Krypto-Katalysator, daher kein Trade.",
+        "portfolioValue": 1607.04
+      },
+      {
+        "time": "01:09",
+        "note": "Keine Aenderung. GOOGL unveraendert bei 284,38 USD (keine frischen Nachboersendaten). BTC auf 61.450 USD aktualisiert (+0,80% seit Kauf). Kein ueberzeugender neuer Krypto-Katalysator, daher kein Trade.",
+        "portfolioValue": 1608.99
+      },
+      {
+        "time": "02:09",
+        "note": "Keine Aenderung. Marktdaten per WebSearch widerspruechlich/veraltet (keine verlaessliche Live-Notierung fuer BTC oder frischen GOOGL-Schlusskurs auffindbar), daher Bestandswerte unveraendert uebernommen. US-Boerse weiterhin geschlossen (Aktien/ETFs/Rohstoffe nicht handelbar). Kein bestaetigter neuer Krypto-Katalysator identifiziert, GOOGL (+0,32%) und BTC (+0,80%) bleiben weit von Stop-Loss- und Gewinnmitnahme-Schwellen entfernt, daher kein Trade.",
+        "portfolioValue": 1608.99
+      },
+      {
+        "time": "03:07",
+        "note": "Keine Aenderung. GOOGL auf letzten Schlusskurs 282,10 USD aktualisiert (-0,48%). BTC per CoinGecko auf 60.773 USD aktualisiert (-0,31% seit Kauf, +0,04% 24h). Fear&Greed-Index bei 11 (Extreme Angst), Altcoins leicht im Plus ohne bestaetigten Einzelkatalysator - kein Trade.",
+        "portfolioValue": 1593.66
+      },
+      {
+        "time": "04:09",
+        "note": "Keine Aenderung. GOOGL unveraendert auf letztem Schlusskurs 282,10 USD (Boerse nachts geschlossen). BTC per CoinGecko auf 59.683 USD aktualisiert (-2,10% seit Kauf, -1,85% 24h). Fear&Greed-Index weiterhin 11 (Extreme Angst), kein ueberzeugender Krypto-Katalysator - kein Trade.",
+        "portfolioValue": 1579.36
+      },
+      {
+        "time": "05:07",
+        "note": "Keine Aenderung. GOOGL unveraendert auf letztem Schlusskurs 282,10 USD (Boerse nachts geschlossen). BTC per CoinGecko auf 60.229 USD aktualisiert (-1,20% seit Kauf, -1,54% 24h, leichte Erholung ggue. letztem Lauf). Fear&Greed-Index weiterhin 11 (Extreme Angst), Altcoins gemischt leicht im Plus ohne ueberzeugenden Einzelkatalysator - kein Trade.",
+        "portfolioValue": 1586.52
+      },
+      {
+        "time": "06:11",
+        "note": "Keine Aenderung. GOOGL unveraendert auf letztem Schlusskurs 282,10 USD (Boerse nachts geschlossen). BTC per CoinGecko auf 60.489 USD aktualisiert (-0,77% seit Kauf). Fear&Greed-Index weiterhin 11 (Extreme Angst), Makrobild risikoavers (hawkishe Fed-Erwartungen, starker Dollar) ohne bestaetigten Einzelkatalysator - kein Trade.",
+        "portfolioValue": 1593.75
+      },
+      {
+        "time": "07:08",
+        "note": "Keine Aenderung. GOOGL unveraendert auf letztem Schlusskurs 282,10 USD (Boerse noch geschlossen). BTC per CoinGecko auf 60.398 USD aktualisiert (-0,92% seit Kauf, -2,0% 24h). Fear&Greed-Index weiterhin 11 (Extreme Angst), kein ueberzeugender neuer Katalysator - kein Trade.",
+        "portfolioValue": 1588.74
+      },
+      {
+        "time": "08:08",
+        "note": "Keine Aenderung. GOOGL unveraendert auf letztem Schlusskurs 282,10 USD (Boerse noch geschlossen). BTC per CoinGecko auf 60.479 USD aktualisiert (-0,79% seit Kauf). Fear&Greed-Index weiterhin 11 (Extreme Angst), Altcoins gemischt ohne ueberzeugenden Einzelkatalysator - kein Trade.",
+        "portfolioValue": 1589.8
+      },
+      {
+        "time": "09:08",
+        "note": "Keine Aenderung. GOOGL auf Nachboerskurs 284,76 USD aktualisiert (+0,46% seit Kauf, XETRA zwar seit 09:00 CET offen, US-Boerse noch zu). BTC per CoinGecko auf 60.278 USD aktualisiert (-1,12% seit Kauf). Kein ueberzeugender neuer Katalysator - kein Trade.",
+        "portfolioValue": 1594.68
+      },
+      {
+        "time": "10:08",
+        "note": "Keine Aenderung. BTC per CoinGecko auf 59.839 USD aktualisiert (-1,84% seit Kauf, -2,73% 24h, Fear&Greed weiterhin 11). GOOGL unveraendert bei 284,76 USD (keine frischere Notierung vor US-Marktoeffnung). Kein ueberzeugender neuer Katalysator unter den beobachteten Majors - kein Trade.",
+        "portfolioValue": 1588.92
+      },
+      {
+        "time": "11:08",
+        "note": "Keine Aenderung. GOOGL auf Vormarktkurs 280,38 USD aktualisiert (-1,09% seit Kauf). BTC per CoinGecko auf 59.961 USD aktualisiert (-1,64% seit Kauf, -2,22% 24h). Kein ueberzeugender neuer Katalysator - kein Trade.",
+        "portfolioValue": 1578.16
+      },
+      {
+        "time": "16:08",
+        "note": "Keine Aenderung. GOOGL im regulaeren Handel auf 279,79 USD aktualisiert (-1,30% seit Kauf), belastet durch Berichte ueber gekuerzte Google-Bestellungen bei Broadcoms TPU-8i-Chips. BTC per CoinGecko auf 59.898,76 USD aktualisiert (-1,74% seit Kauf, -5,1% 24h). Kein ueberzeugender neuer Katalysator - kein Trade.",
+        "portfolioValue": 1575.67
+      },
+      {
+        "time": "17:09",
+        "note": "Keine Aenderung. GOOGL auf 276,44 USD aktualisiert (-2,48% seit Kauf, -2,01% Tagesverlust, Broadcom-TPU-Kuerzungs-Narrativ ohne neuen Katalysator). BTC auf 59.573 USD aktualisiert (-2,28% seit Kauf, -5,0% 24h, anhaltendes Krypto-Risk-off). Kein ueberzeugender neuer Katalysator fuer einen Trade identifiziert.",
+        "portfolioValue": 1561.94
+      },
+      {
+        "time": "18:08",
+        "note": "Keine Aenderung. GOOGL auf 278,08 USD aktualisiert (-1,90% seit Kauf, leichte Erholung ggue. letztem Lauf). BTC auf 59.437 USD aktualisiert (-2,50% seit Kauf, -3,80% 24h). Kein ueberzeugender neuer Katalysator identifiziert - kein Trade.",
+        "portfolioValue": 1564.79
+      },
+      {
+        "time": "19:08",
+        "note": "Keine Aenderung. GOOGL auf 279,02 USD aktualisiert (-1,57% seit Kauf, leichte Erholung ggue. letztem Lauf). BTC auf 60.051,78 USD aktualisiert (-1,49% seit Kauf). Chip-/AI-Bubble-Abverkauf (Nvidia ca. -8%) ohne direkten Bezug zu den gehaltenen Positionen, kein ueberzeugender neuer Katalysator - kein Trade.",
+        "portfolioValue": 1575.51
+      },
+      {
+        "time": "20:08",
+        "note": "Keine Aenderung. Keine frischere verifizierte Live-Notierung fuer GOOGL oder BTC gefunden, Bestandswerte unveraendert (GOOGL -1,57% seit Kauf, BTC -1,49% seit Kauf). WebSearch bestaetigt lediglich bereits bekannte BTC-ETF-Abflussthese (Invezz: BTC zeitweise unter 60k) ohne neuen handelbaren Einzelkatalysator - kein Trade.",
+        "portfolioValue": 1575.51
+      },
+      {
+        "time": "21:08",
+        "note": "Keine Aenderung. GOOGL auf ca. 277,50 USD (-2,11% seit Kauf), BTC auf ca. 60.150 USD (-1,33% seit Kauf) aktualisiert; anhaltender Chip-/AI-Selloff und BTC-ETF-Abfluesse ohne neuen Katalysator, daher kein Trade.",
+        "portfolioValue": 1572.51
+      },
+      {
+        "time": "22:09",
+        "note": "Keine Aenderung. US-Boerse seit 22:00 CET geschlossen: GOOGL auf Schlusskurs 279,14 USD aktualisiert (-1,53% seit Kauf). BTC auf 59.690 USD aktualisiert (-2,08% seit Kauf, -2,65% 24h). Breiter, synchroner Krypto-Risk-off (ETH -3,2%, SOL -5,0%, AVAX -3,9%) ohne Einzeltitel-Katalysator, Fear&Greed weiterhin 11 (Extreme Angst) - kein Trade.",
+        "portfolioValue": 1571.1
+      },
+      {
+        "time": "23:08",
+        "note": "Keine Aenderung. GOOGL unveraendert auf Schlusskurs 279,14 USD (Boerse weiterhin geschlossen). BTC auf 59.850 USD aktualisiert (-1,82% seit Kauf). Anhaltender Krypto-Risk-off (ETH -5 bis -7%, SOL -9 bis -10%, verfliegende Nvidia-Rally, heisse US-Inflationsdaten) ohne einzeltitelspezifischen Katalysator - kein Trade.",
+        "portfolioValue": 1573.2
+      }
+    ]
+  },
+  {
+    "date": "2026-11-25",
+    "marketOverview": "Boersen um 23:09 CET weiterhin geschlossen (seit 22:00 CET), nur Krypto handelbar. Bitcoin erholte sich laut CoinGecko-Live-API leicht auf 60.124 USD (+0,37% in 24h), Krypto-Gesamtmarktkapitalisierung stabil. Der Fear&Greed-Index verbleibt bei 13 (Extreme Angst). Kein neuer eigenstaendiger Katalysator erkennbar, AI-/Chip-Sektor-Thema bleibt unveraendert im Hintergrund.",
+    "decision": "18:08-Lauf: Kein Trade. BTC-Position (pos-0036) auf aktuellen Live-Kurs (58.751 USD, -3,63% seit Kauf) aktualisiert, bleibt klar innerhalb der Halteband-Spanne. Trotz freiem Kapital von ca. 111.214 EUR kein Neukauf: Der AI-/Chip-Ausverkauf (NVDA -7,6%, AMD -7,9%) ist laut mehreren unabhaengigen Quellen ein mehrtaegiger, strukturell begruendeter Abverkauf (AI-Capex-Zweifel, Inflationsdaten, AMD-Aktienregistrierung/Short-Report) und kein einmaliger 'Sell-the-news'-Reflex wie bei fruaheren erfolgreichen Dip-Kaeufen - keine bestaetigte Bodenbildung erkennbar, daher kein Dip-Kauf. Kryptomarkt bleibt ebenfalls breit schwach ohne frischen Einzeltitel-Katalysator. | 19:08-Lauf: Kein Trade. BTC-Position (pos-0036) auf 58.834 USD (-3,49% seit Kauf) aktualisiert, leichte Stabilisierung an einer Unterstuetzungszone, aber klar innerhalb der Halteband-Spanne (Stop-Loss erst bei ca. -6,5 bis -7,5%). Trotz freiem Kapital von ca. 111.214 EUR weiterhin kein Neukauf: Der breite Risk-off-Ton (hawkishe Fed-Erwartungen fuer den 09.12., anhaltende Krypto-ETF-Abfluesse, ungeloester AI-/Chip-Ausverkauf) bietet keine klar bestaetigte, einzeltitelspezifische Kaufgelegenheit. | 20:09-Lauf: Kein Trade. BTC-Position (pos-0036) auf aktuellen Live-Kurs (59.872 USD, -1,79% seit Kauf) aktualisiert, klar innerhalb der Halteband-Spanne (Stop-Loss erst bei ca. -6,5 bis -7,5%). Trotz freiem Kapital von ca. 111.213,98 EUR weiterhin kein Neukauf: Der mehrtaegige, strukturell begruendete AI-/Chip-Ausverkauf setzt sich fort (wenn auch etwas abgeschwaecht, NVDA -4,73% statt zuvor -7,6%), eine bestaetigte Bodenbildung ist weiterhin nicht erkennbar. Der breite Markt bleibt uneinheitlich (Dow-Rekord bei gleichzeitiger Tech-Schwaeche, Krypto seitwaerts) ohne klar bestaetigte, einzeltitelspezifische Kaufgelegenheit. | 21:09-Lauf: Kein Trade. BTC-Position (pos-0036) unveraendert bei 59.872 USD (-1,79% seit Kauf) uebernommen, da keine neueren verlaesslichen Live-Kursdaten gefunden wurden - weiterhin klar innerhalb der Halteband-Spanne (Stop-Loss erst bei ca. -6,5 bis -7,5%). Trotz freiem Kapital von ca. 111.213,98 EUR kein Neukauf: Die heissen PCE-Inflationsdaten (Kernrate 3,3%) bestaetigen den hawkishen Fed-Ausblick und liefern keinen Kaufimpuls, der AI-/Chip-Ausverkauf haelt strukturell an ohne bestaetigte Bodenbildung, und fuer Krypto fehlt weiterhin ein einzeltitelspezifischer Katalysator. | 22:08-Lauf: Kein Trade. BTC-Position (pos-0036) auf 58.631 USD aktualisiert (-3,82% seit Kauf), bleibt klar innerhalb der Halteband-Spanne. Boersen seit 22:00 CET geschlossen, kein ueberzeugender Krypto-Katalysator fuer einen Neukauf. | 23:09-Lauf: Kein Trade. BTC-Position (pos-0036) auf aktuellen Live-Kurs (60.124 USD, -1,37% seit Kauf) aktualisiert, leichte Erholung gegenueber dem Vorlauf, bleibt klar innerhalb der Halteband-Spanne (Stop-Loss erst bei ca. -6,5 bis -7,5%). Trotz freiem Kapital von ca. 111.213,98 EUR kein Neukauf: Boersen seit 22:00 CET geschlossen, fuer Krypto liegt kein neuer, unabhaengig bestaetigter Katalysator vor (Fear&Greed weiterhin bei 13, Extreme Angst), daher keine ueberzeugende Gelegenheit.",
+    "reasoning": "BTC erholte sich seit dem letzten Lauf (22:08, 58.631 USD) leicht auf 60.124 USD (CoinGecko live, +0,37% in 24h), damit nur noch -1,37% seit Kauf (60.961 USD) - klar innerhalb der etablierten Halteband-Spanne, daher keine Verkaufsentscheidung. Kein neuer, unabhaengig bestaetigter Katalysator (weder fundamental noch technisch) fuer einen Neukauf; Aktien/ETFs/Rohstoffe seit 22:00 CET nicht mehr handelbar, Krypto-Sentiment bleibt bei Fear&Greed 13 (Extreme Angst) ohne frischen Impuls. Freies Kapital bleibt bei ca. 111.213,98 EUR, bewusst nicht investiert, da kein ueberzeugendes Setup vorliegt.",
+    "positionIds": [
+      "pos-0031",
+      "pos-0036"
+    ],
+    "portfolioValueEnd": 789.02,
+    "updates": [
+      {
+        "time": "00:08",
+        "note": "Neuer Tag, Tagesbudget gutgeschrieben (+1.000 EUR). Keine Aenderung. GOOGL und BTC unveraendert vom letzten Stand (23:08) uebernommen, keine neueren verlaesslichen Live-Kursdaten gefunden. Anhaltender breiter Krypto-Risk-off ohne neuen Katalysator, daher kein Trade.",
+        "portfolioValue": 1573.2
+      },
+      {
+        "time": "01:08",
+        "note": "Keine Aenderung. BTC-Kurs aktualisiert auf 59.693 USD (-2,08% seit Kauf), GOOGL unveraendert (Boerse geschlossen). Anhaltender Krypto-Risk-off (Rekord-ETF-Abfluesse, Zoll-/Zinssorgen) ohne neuen Katalysator, daher kein Trade.",
+        "portfolioValue": 1571.14
+      },
+      {
+        "time": "02:08",
+        "note": "Keine Aenderung. BTC-Kurs aktualisiert auf 59.476 USD (-2,44% seit Kauf), GOOGL unveraendert (Boerse geschlossen). Anhaltender breiter Krypto-Risk-off (ETF-Abfluesse, Zoll-/Zinssorgen) ohne neuen Katalysator, daher kein Trade.",
+        "portfolioValue": 1568.29
+      },
+      {
+        "time": "03:08",
+        "note": "Keine Aenderung. BTC-Kurs aktualisiert auf 59.141 USD (-2,99% seit Kauf), GOOGL unveraendert (Boerse geschlossen). Anhaltender Krypto-Risk-off (Fear&Greed 13, Extreme Angst) ohne neuen Katalysator, daher kein Trade.",
+        "portfolioValue": 1563.9
+      },
+      {
+        "time": "04:08",
+        "note": "Keine Aenderung. BTC-Kurs aktualisiert auf 59.180 USD (-2,92% seit Kauf, Abwaertsbewegung stabilisiert sich), GOOGL unveraendert (Boerse geschlossen). Fear&Greed weiterhin 13 (Extreme Angst) ohne neuen Katalysator, daher kein Trade.",
+        "portfolioValue": 1564.41
+      },
+      {
+        "time": "05:08",
+        "note": "Keine Aenderung. BTC-Kurs aktualisiert auf 59.125 USD (-3,01% seit Kauf), GOOGL unveraendert (Boerse geschlossen). Fear&Greed weiterhin 13 (Extreme Angst) ohne neuen Katalysator, daher kein Trade.",
+        "portfolioValue": 1563.69
+      },
+      {
+        "time": "06:08",
+        "note": "Keine Aenderung. BTC-Kurs aktualisiert auf 59.151 USD (-2,97% seit Kauf), GOOGL unveraendert (Boerse geschlossen). Fear&Greed weiterhin 13 (Extreme Angst) ohne neuen Katalysator, daher kein Trade.",
+        "portfolioValue": 1564.03
+      },
+      {
+        "time": "07:08",
+        "note": "Keine Aenderung. BTC-Kurs aktualisiert auf 59.044 USD (-3,14% seit Kauf), GOOGL auf Schlusskurs 279,05 USD (-1,56% seit Kauf) aktualisiert, Boerse weiterhin geschlossen. Fear&Greed weiterhin 13 (Extreme Angst) ohne neuen Katalysator, daher kein Trade.",
+        "portfolioValue": 1562.37
+      },
+      {
+        "time": "08:08",
+        "note": "Keine Aenderung. BTC-Kurs aktualisiert auf 59.263 USD (-2,79% seit Kauf, leichte Erholung), GOOGL unveraendert (Boerse geschlossen). Fear&Greed weiterhin 13 (Extreme Angst) ohne neuen Katalysator, daher kein Trade.",
+        "portfolioValue": 1565.25
+      },
+      {
+        "time": "09:08",
+        "note": "Keine Aenderung. BTC-Kurs aktualisiert auf 58.856,99 USD (-3,45% seit Kauf), GOOGL unveraendert (Boerse geschlossen). Fear&Greed weiterhin 13 (Extreme Angst) ohne neuen Katalysator, daher kein Trade.",
+        "portfolioValue": 1559.92
+      },
+      {
+        "time": "10:08",
+        "note": "Keine Aenderung. BTC-Kurs aktualisiert auf 59.201 USD (-2,89% seit Kauf, leichte Erholung), GOOGL unveraendert (NASDAQ geschlossen, Vorboerse zeigt CDS-Sorgen bei AI-Werten). Fear&Greed weiterhin 13 (Extreme Angst) ohne neuen Katalysator, daher kein Trade.",
+        "portfolioValue": 1564.43
+      },
+      {
+        "time": "11:08",
+        "note": "Keine Aenderung. BTC-Kurs aktualisiert auf 59.020 USD (-3,18% seit Kauf), GOOGL unveraendert (NASDAQ oeffnet erst 15:30 CET). Fear&Greed weiterhin 13 (Extreme Angst) ohne neuen Katalysator, daher kein Trade.",
+        "portfolioValue": 1562.06
+      },
+      {
+        "time": "12:08",
+        "note": "Keine Aenderung. BTC-Kurs aktualisiert auf 58.793 USD (-3,56% seit Kauf), GOOGL unveraendert (NASDAQ oeffnet erst 15:30 CET). Fear&Greed weiterhin 13 (Extreme Angst) ohne neuen Katalysator, daher kein Trade.",
+        "portfolioValue": 1559.08
+      },
+      {
+        "time": "13:08",
+        "note": "Keine Aenderung. BTC-Kurs aktualisiert auf 58.454 USD (-4,11% seit Kauf), GOOGL unveraendert (NASDAQ oeffnet erst 15:30 CET). Krypto-Fear&Greed weiterhin 13, kein neuer Katalysator.",
+        "portfolioValue": 1554.63
+      },
+      {
+        "time": "17:12",
+        "note": "Verkauf GOOGL (Stop-Loss, -54,35 EUR, -6,79%). BTC-Kurs aktualisiert auf 58.342 USD (-4,30% seit Kauf).",
+        "portfolioValue": 765.63
+      },
+      {
+        "time": "18:08",
+        "note": "Keine Aenderung. BTC auf 58.751 USD (-3,63% seit Kauf) aktualisiert. Breiter AI-/Chip-Sektor-Ausverkauf (NVDA -7,6%, AMD -7,1%) strukturell bedingt, kein Dip-Kauf; Krypto weiterhin breit schwach ohne Katalysator.",
+        "portfolioValue": 771.0
+      },
+      {
+        "time": "19:08",
+        "note": "Keine Aenderung. BTC auf 58.834 USD (-3,49% seit Kauf) aktualisiert, testet Unterstuetzung. Hawkishe Fed-Erwartungen (09.12.) und anhaltende Krypto-ETF-Abfluesse, kein Katalysator fuer Neukauf.",
+        "portfolioValue": 772.09
+      },
+      {
+        "time": "20:09",
+        "note": "Keine Aenderung (kein Trade)",
+        "portfolioValue": 785.71
+      },
+      {
+        "time": "21:09",
+        "note": "Keine Aenderung. Heisse Core-PCE-Inflation (3,3%) bestaetigt hawkishen Fed-Ausblick, AI-/Chip-Ausverkauf haelt an (Dow im Plus, S&P/Nasdaq im Minus), Gold unter 3.500 USD. BTC unveraendert bei 59.872 USD (keine neueren verlaesslichen Live-Daten). Kein Trade.",
+        "portfolioValue": 785.71
+      },
+      {
+        "time": "22:08",
+        "note": "Keine Aenderung. BTC auf 58.631 USD (-3,82% seit Kauf) aktualisiert, Boersen seit 22:00 CET geschlossen. Krypto-Fear&Greed weiterhin niedrig (13-35 je nach Anbieter), kein neuer Katalysator, daher kein Trade.",
+        "portfolioValue": 769.42
+      },
+      {
+        "time": "23:09",
+        "note": "Keine Aenderung. BTC auf 60.124 USD aktualisiert (-1,37% seit Kauf, leichte Erholung), Boersen seit 22:00 CET geschlossen, Fear&Greed weiterhin 13 ohne neuen Katalysator.",
+        "portfolioValue": 789.02
+      }
+    ]
+  },
+  {
+    "date": "2026-11-26",
+    "marketOverview": "Stand 21:10 CET: BTC bei ca. 60.980 USD (CoinGecko/Bitcoin.com/Coinbase), nahezu unveraendert ggue. dem 20:07-Stand (60.850 USD), bleibt im seit Stunden etablierten Seitwaertsband 60.400-61.000 USD. Fear&Greed-Index weiterhin im Extreme-Fear-Bereich (ca. 11), kein neuer bestaetigter Ausbruchs- oder Negativkatalysator auffindbar. Europas Boersen seit 17:30 CET geschlossen, US-Kassaboersen bleiben wegen Thanksgiving den ganzen Tag geschlossen - somit ist aktuell ausser Krypto nichts handelbar.",
+    "decision": "00:08- bis 21:10-Lauf: Kein Trade. Tagesbudget bereits um 00:08 gutgeschrieben (+1.000 EUR), keine weitere Gutschrift heute. BTC-Position (pos-0036) laufend aktualisiert (zuletzt ca. 60.980 USD, +0,03% seit Kauf), bleibt klar innerhalb der Halteband-Spanne (Stop-Loss ca. -6,5 bis -7,5%, Zielgewinn ca. +7-9%). Kein hinreichend ueberzeugender neuer Katalysator fuer einen Neukauf; Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten (Boersenschluss Europa, US-Feiertag) ohnehin nicht handelbar, und auch im Kryptomarkt bleibt die Stimmung bei Extreme Angst ohne frischen Ausbruch. Freies Kapital liegt bei rund 112.214 EUR, aber ohne ueberzeugende Gelegenheit wird bewusst nicht investiert.",
+    "reasoning": "BTC bewegt sich seit dem letzten Lauf (20:07, 60.850 USD) nahezu unveraendert auf ca. 60.980 USD (+0,03% seit Kauf bei 60.961 USD), damit weiterhin klar innerhalb der Halteband-Spanne - keine Verkaufsentscheidung. Fear&Greed-Index verbleibt im Extreme-Fear-Bereich, keine neue Nachrichtenlage oder bestaetigter Ausbruch bei Altcoins oder Bitcoin-ETF-Fluessen, der einen Neukauf rechtfertigen wuerde. Aktien, ETFs und Rohstoffe sind nach Boersenschluss in Europa und wegen des US-Feiertags (Thanksgiving) ohnehin nicht handelbar. Daher kein Trade in diesem Lauf.",
+    "positionIds": [
+      "pos-0036"
+    ],
+    "portfolioValueEnd": 800.25,
+    "updates": [
+      {
+        "time": "00:08",
+        "note": "Neuer Tag, Tagesbudget gutgeschrieben (+1.000 EUR). Keine Aenderung. BTC-Kurs aktualisiert auf 59.907 USD (-1,73% seit Kauf), nahezu unveraendert zum Vorlauf. Fear&Greed weiterhin bei 13 (Extreme Angst), kein neuer Katalysator, daher kein Trade.",
+        "portfolioValue": 786.17
+      },
+      {
+        "time": "01:08",
+        "note": "Keine Aenderung. BTC-Kurs aktualisiert auf 60.353 USD (-1,00% seit Kauf), leichte Erholung ggue. Vorlauf. Fear&Greed weiterhin bei 11 (Extreme Angst), kein neuer Katalysator, daher kein Trade.",
+        "portfolioValue": 792.02
+      },
+      {
+        "time": "02:08",
+        "note": "Keine Aenderung. BTC-Kurs aktualisiert auf 60.549 USD (-0,68% seit Kauf), leichte weitere Erholung. Fear&Greed weiterhin bei 11 (Extreme Angst), kein neuer Katalysator, daher kein Trade.",
+        "portfolioValue": 794.59
+      },
+      {
+        "time": "03:08",
+        "note": "Keine Aenderung. BTC auf 60.767 USD (-0,32% seit Kauf) aktualisiert, leichte weitere Erholung. Fear&Greed weiterhin bei 11 (Extreme Angst), kein neuer Katalysator, daher kein Trade.",
+        "portfolioValue": 797.45
+      },
+      {
+        "time": "04:09",
+        "note": "Keine Aenderung. BTC auf 60.646 USD (-0,52% seit Kauf) aktualisiert, leichter Ruecksetzer. Fear&Greed weiterhin bei 11 (Extreme Angst), kein neuer Katalysator, daher kein Trade.",
+        "portfolioValue": 795.87
+      },
+      {
+        "time": "05:08",
+        "note": "Keine Aenderung. BTC auf ca. 60.600 USD (-0,59% seit Kauf) aktualisiert, nahezu unveraendert. ETFs verzeichnen sechsten Tag in Folge Abfluesse, Fear&Greed weiterhin bei 11 (Extreme Angst), kein neuer Katalysator, daher kein Trade.",
+        "portfolioValue": 795.26
+      },
+      {
+        "time": "06:09",
+        "note": "Keine Aenderung. BTC auf 60.919 USD (-0,07% seit Kauf) aktualisiert, leichter breiter Krypto-Bounce (+2,98% 24h BTC, ETH/SOL/XRP ebenfalls im Plus). Fear&Greed weiterhin bei 11 (Extreme Angst), kein neuer bestaetigter Katalysator, daher kein Trade.",
+        "portfolioValue": 799.45
+      },
+      {
+        "time": "07:10",
+        "note": "Keine Aenderung. BTC auf 60.565 USD (-0,65% seit Kauf) aktualisiert, leichte Gegenbewegung nach dem Bounce der letzten Stunden. Fear&Greed weiterhin bei 11 (Extreme Angst), kein neuer Katalysator, daher kein Trade.",
+        "portfolioValue": 794.8
+      },
+      {
+        "time": "08:08",
+        "note": "Keine Aenderung. BTC auf ca. 60.720 USD (-0,40% seit Kauf) aktualisiert, leichte Erholung. Fear&Greed weiterhin im Extreme-Fear-Bereich, anhaltende ETF-Abfluesse und heisse PCE-Inflationsdaten, kein neuer Katalysator, daher kein Trade. Boersen oeffnen erst 09:00 CET.",
+        "portfolioValue": 796.84
+      },
+      {
+        "time": "09:09",
+        "note": "Keine Aenderung. BTC auf 60.561 USD (-0,66% seit Kauf) aktualisiert, leichter Ruecksetzer. Xetra seit 09:00 CET wieder offen, DAX startet nach schwachem Vortag (-1,26%) im Tech-/AI-/Edelmetall-Ausverkauf vor erwarteter Fed-Zinserhoehung (09.12.); Fear&Greed weiterhin bei 11, kein ueberzeugender Katalysator, daher kein Trade.",
+        "portfolioValue": 794.75
+      },
+      {
+        "time": "10:10",
+        "note": "Keine Aenderung. BTC leicht erholt auf 60.848 USD (-0,18% seit Kauf, vorher -0,66%). Kein ueberzeugender neuer Katalysator: DAX/Xetra seit 9:00 Uhr offen, aber Markt verbleibt im Tech-/Edelmetall-Ausverkauf vor erwarteter Fed-Zinserhoehung; US-Boersen heute wegen Thanksgiving geschlossen.",
+        "portfolioValue": 798.52
+      },
+      {
+        "time": "11:08",
+        "note": "Keine Aenderung. BTC nahezu unveraendert auf 60.831 USD (-0,21% seit Kauf, vorher -0,18%). Fear&Greed weiterhin bei 11 (Extreme Angst), kein neuer bestaetigter Katalysator; DAX/Xetra bleibt im Tech-/Edelmetall-Ausverkauf vor erwarteter Fed-Zinserhoehung, US-Boersen wegen Thanksgiving weiterhin geschlossen, daher kein Trade.",
+        "portfolioValue": 798.29
+      },
+      {
+        "time": "12:08",
+        "note": "Keine Aenderung. BTC leicht abgegeben auf 60.450 USD (-0,84% seit Kauf, vorher -0,21%). Fear&Greed weiterhin bei 11 (Extreme Angst), kein neuer bestaetigter Katalysator; DAX/Xetra bleibt im Tech-/Edelmetall-Ausverkauf vor erwarteter Fed-Zinserhoehung, US-Boersen wegen Thanksgiving weiterhin geschlossen, daher kein Trade.",
+        "portfolioValue": 793.29
+      },
+      {
+        "time": "13:08",
+        "note": "Keine Aenderung. BTC auf 60.600 USD (-0,59% seit Kauf) aktualisiert, DAX erholt sich kraeftig (+2,1%) nach gestrigem Tech-/Chip-Ausverkauf, US-Boersen heute wegen Thanksgiving komplett geschlossen. Kein neuer ueberzeugender Katalysator, daher kein Trade.",
+        "portfolioValue": 795.26
+      },
+      {
+        "time": "14:08",
+        "note": "Keine Aenderung. BTC auf ca. 60.750 USD (-0,35% seit Kauf) aktualisiert, leichte Erholung nach 264 Mio. USD Short-Liquidationen (CryptoTimes). ETF-Abfluesse weiterhin sechster Tag in Folge, kein neuer ueberzeugender Katalysator, daher kein Trade. US-Boersen wegen Thanksgiving ganztags geschlossen.",
+        "portfolioValue": 797.23
+      },
+      {
+        "time": "15:08",
+        "note": "Keine Aenderung. BTC auf 60.825 USD (-0,22% seit Kauf) aktualisiert, 24h-Change laut CoinGecko-API +4,57%, nahezu unveraendert zum Vorlauf (60.750 USD). DAX/Xetra weiterhin kraeftig im Plus (+2,10% auf 25.221 Punkte). US-Kassaboersen bleiben wegen Thanksgiving den ganzen Tag geschlossen, kein neuer ueberzeugender Katalysator, daher kein Trade.",
+        "portfolioValue": 798.22
+      },
+      {
+        "time": "18:10",
+        "note": "Keine Aenderung. BTC auf 60.547 USD (-0,68% seit Kauf) aktualisiert, 24h-Change +2,44%, aber Krypto-Gesamtmarktkapitalisierung nur +0,06% in 24h (praktisch flach). Europas Boersen seit 17:30 CET geschlossen, US-Boersen wegen Thanksgiving weiterhin geschlossen, kein ueberzeugender Katalysator, daher kein Trade.",
+        "portfolioValue": 794.57
+      },
+      {
+        "time": "19:08",
+        "note": "Keine Aenderung. BTC auf 60.474 USD (-0,80% seit Kauf) aktualisiert, praktisch seitwaerts zum Vorlauf. Fear&Greed weiterhin bei 11 (Extreme Angst), kein neuer Katalysator, daher kein Trade.",
+        "portfolioValue": 793.61
+      },
+      {
+        "time": "20:07",
+        "note": "Keine Aenderung. BTC auf ca. 60.850 USD (-0,18% seit Kauf) aktualisiert, leichte Erholung zum Vorlauf. Fear&Greed weiterhin im Extreme-Fear-Bereich, keine neuen Altcoin- oder ETF-Flow-Katalysatoren gefunden, daher kein Trade.",
+        "portfolioValue": 798.54
+      },
+      {
+        "time": "21:10",
+        "note": "Keine Aenderung. BTC auf ca. 60.980 USD (+0,03% seit Kauf) aktualisiert, weiterhin im Seitwaertsband. Fear&Greed weiterhin im Extreme-Fear-Bereich, keine neuen Katalysatoren gefunden (Europas Boersen seit 17:30 CET geschlossen, US-Boersen wegen Thanksgiving ganztags geschlossen), daher kein Trade.",
+        "portfolioValue": 800.25
       }
     ]
   }
