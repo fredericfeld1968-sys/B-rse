@@ -14602,13 +14602,13 @@
   },
   {
     "date": "2026-11-26",
-    "marketOverview": "Stand 18:10 CET: BTC bei 60.547 USD (CoinGecko-API, 24h +2,44%), damit leicht unter dem 15:08-Stand (60.825 USD) - der Bounce der letzten Tage flacht weiter ab, Gesamtmarktkapitalisierung des Kryptomarkts nur noch +0,06% in 24h (praktisch flach), BTC-Dominanz 57,9%. DAX/Xetra und die europaeischen Boersen sind seit 17:30 CET geschlossen, die US-Kassaboersen (NYSE/Nasdaq) bleiben den gesamten Tag wegen Thanksgiving geschlossen - somit ist aktuell ausser Krypto nichts handelbar.",
-    "decision": "00:08- bis 18:10-Lauf: Kein Trade. Tagesbudget bereits um 00:08 gutgeschrieben (+1.000 EUR), keine weitere Gutschrift heute. BTC-Position (pos-0036) laufend aktualisiert (zuletzt 60.547 USD, -0,68% seit Kauf), bleibt klar innerhalb der Halteband-Spanne (Stop-Loss ca. -6,5 bis -7,5%, Zielgewinn ca. +7-9%). Kein hinreichend ueberzeugender neuer Katalysator fuer einen Neukauf; Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten (Boersenschluss Europa, US-Feiertag) ohnehin nicht handelbar, und auch im Kryptomarkt fehlt mit nur +0,06% Gesamtmarktkapitalisierung in 24h ein klarer Ausbruch.",
-    "reasoning": "BTC bewegt sich seit dem letzten Lauf (15:08, 60.825 USD) leicht abwaerts auf 60.547 USD (-0,68% seit Kauf bei 60.961 USD), damit weiterhin klar innerhalb der Halteband-Spanne - keine Verkaufsentscheidung. Der 24h-Change von BTC (+2,44%) wirkt auf den ersten Blick solide, die Gesamtmarktkapitalisierung des Kryptomarkts liegt aber nur noch bei +0,06% in 24h, also praktisch unveraendert - kein breiter, bestaetigter Risk-on-Schub, der einen Neukauf rechtfertigen wuerde. Aktien, ETFs und Rohstoffe sind nach Boersenschluss in Europa und wegen des US-Feiertags ohnehin nicht handelbar. Daher kein Trade in diesem Lauf.",
+    "marketOverview": "Stand 19:08 CET: BTC bei 60.474 USD (CoinGecko-API, 24h +1,19%), damit leicht unter dem 18:10-Stand (60.547 USD) - die Bewegung bleibt praktisch seitwaerts. Fear&Greed-Index weiterhin bei 11 (Extreme Angst), kein neuer bestaetigter Katalysator auffindbar. Europas Boersen seit 17:30 CET geschlossen, US-Kassaboersen bleiben wegen Thanksgiving den ganzen Tag geschlossen - somit ist aktuell ausser Krypto nichts handelbar.",
+    "decision": "00:08- bis 19:08-Lauf: Kein Trade. Tagesbudget bereits um 00:08 gutgeschrieben (+1.000 EUR), keine weitere Gutschrift heute. BTC-Position (pos-0036) laufend aktualisiert (zuletzt 60.474 USD, -0,8% seit Kauf), bleibt klar innerhalb der Halteband-Spanne (Stop-Loss ca. -6,5 bis -7,5%, Zielgewinn ca. +7-9%). Kein hinreichend ueberzeugender neuer Katalysator fuer einen Neukauf; Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten (Boersenschluss Europa, US-Feiertag) ohnehin nicht handelbar, und auch im Kryptomarkt bleibt die Stimmung bei Extreme Angst ohne frischen Ausbruch.",
+    "reasoning": "BTC bewegt sich seit dem letzten Lauf (18:10, 60.547 USD) nahezu unveraendert auf 60.474 USD (-0,8% seit Kauf bei 60.961 USD), damit weiterhin klar innerhalb der Halteband-Spanne - keine Verkaufsentscheidung. Fear&Greed-Index verbleibt bei 11 (Extreme Angst), keine neue Nachrichtenlage oder bestaetigter Ausbruch, der einen Neukauf rechtfertigen wuerde. Aktien, ETFs und Rohstoffe sind nach Boersenschluss in Europa und wegen des US-Feiertags (Thanksgiving) ohnehin nicht handelbar. Daher kein Trade in diesem Lauf.",
     "positionIds": [
       "pos-0036"
     ],
-    "portfolioValueEnd": 794.57,
+    "portfolioValueEnd": 793.61,
     "updates": [
       {
         "time": "00:08",
@@ -14694,6 +14694,11 @@
         "time": "18:10",
         "note": "Keine Aenderung. BTC auf 60.547 USD (-0,68% seit Kauf) aktualisiert, 24h-Change +2,44%, aber Krypto-Gesamtmarktkapitalisierung nur +0,06% in 24h (praktisch flach). Europas Boersen seit 17:30 CET geschlossen, US-Boersen wegen Thanksgiving weiterhin geschlossen, kein ueberzeugender Katalysator, daher kein Trade.",
         "portfolioValue": 794.57
+      },
+      {
+        "time": "19:08",
+        "note": "Keine Aenderung. BTC auf 60.474 USD (-0,80% seit Kauf) aktualisiert, praktisch seitwaerts zum Vorlauf. Fear&Greed weiterhin bei 11 (Extreme Angst), kein neuer Katalysator, daher kein Trade.",
+        "portfolioValue": 793.61
       }
     ]
   }
