@@ -14602,13 +14602,13 @@
   },
   {
     "date": "2026-11-26",
-    "marketOverview": "Stand 14:08 CET: BTC haelt sich knapp ueber/um 60.700-60.750 USD, nachdem in den letzten 24h rund 264 Mio. USD an Short-Positionen liquidiert wurden (CryptoTimes) - Shorts werden staerker getroffen als Longs, trotz anhaltender ETF-Nettoabfluesse (sechster Tag in Folge, ca. 4,9 Mrd. USD im November). DAX bleibt nach der kraeftigen Vormittags-Erholung (+2,1%) stabil auf hohem Niveau. US-Kassaboersen (NYSE/Nasdaq) bleiben den gesamten Tag wegen Thanksgiving geschlossen, daher weiterhin keine breite US-Liquiditaetsbestaetigung der Erholung.",
-    "decision": "00:08- bis 14:08-Lauf: Kein Trade. Tagesbudget bereits um 00:08 gutgeschrieben (+1.000 EUR), keine weitere Gutschrift heute. BTC-Position (pos-0036) laufend aktualisiert (zuletzt ca. 60.750 USD, -0,35% seit Kauf), bleibt klar innerhalb der Halteband-Spanne (Stop-Loss ca. -6,5 bis -7,5%, Zielgewinn ca. +7-9%). Weiterhin kein hinreichend ueberzeugender neuer Katalysator fuer einen Neukauf; US-Kassamarkt bleibt feiertagsbedingt komplett geschlossen.",
-    "reasoning": "BTC bewegt sich seit dem letzten Lauf (13:08, 60.600 USD) leicht aufwaerts auf ca. 60.750 USD (-0,35% seit Kauf bei 60.961 USD), damit weiterhin klar innerhalb der Halteband-Spanne - keine Verkaufsentscheidung. Short-Liquidationen (264 Mio. USD laut CryptoTimes) deuten auf leichten Squeeze-Druck nach oben hin, sind aber kein hinreichend starker, einzeln bestaetigter Katalysator fuer einen Neukauf; die ETF-Abfluesse (6. Tag in Folge) und die anhaltende Erwartung einer Fed-Zinserhoehung am 09.12. bleiben belastende Gegenfaktoren. Da der US-Kassamarkt heute komplett geschlossen bleibt, fehlt weiterhin die breite Liquiditaetsbestaetigung der DAX-Erholung. Daher kein Trade in diesem Lauf.",
+    "marketOverview": "Stand 15:08 CET: BTC bei 60.825 USD (CoinGecko-API, 24h +4,57%), damit nahezu unveraendert zum 14:08-Stand (60.750 USD) - die Erholung von den Wochentiefs setzt sich nur noch leicht fort. DAX/Xetra bleibt mit +2,10% auf 25.221 Punkten klar im Plus nach dem kraeftigen Rebound vom Vortag. US-Kassaboersen (NYSE/Nasdaq) bleiben den gesamten Tag wegen Thanksgiving geschlossen, daher weiterhin keine breite US-Liquiditaetsbestaetigung der Erholung.",
+    "decision": "00:08- bis 15:08-Lauf: Kein Trade. Tagesbudget bereits um 00:08 gutgeschrieben (+1.000 EUR), keine weitere Gutschrift heute. BTC-Position (pos-0036) laufend aktualisiert (zuletzt ca. 60.825 USD, -0,22% seit Kauf), bleibt klar innerhalb der Halteband-Spanne (Stop-Loss ca. -6,5 bis -7,5%, Zielgewinn ca. +7-9%). Weiterhin kein hinreichend ueberzeugender neuer Katalysator fuer einen Neukauf; US-Kassamarkt bleibt feiertagsbedingt komplett geschlossen.",
+    "reasoning": "BTC bewegt sich seit dem letzten Lauf (14:08, 60.750 USD) nur noch minimal aufwaerts auf ca. 60.825 USD (-0,22% seit Kauf bei 60.961 USD), damit weiterhin klar innerhalb der Halteband-Spanne - keine Verkaufsentscheidung. Der 24h-Change von +4,57% zeigt, dass der Bounce bereits grossteils gelaufen ist; die Dynamik der letzten Stunde ist deutlich abgeflacht, kein neuer, einzeln bestaetigter Katalysator fuer einen Neukauf trotz des starken DAX-Tages. Da der US-Kassamarkt heute komplett geschlossen bleibt, fehlt weiterhin die breite Liquiditaetsbestaetigung. Daher kein Trade in diesem Lauf.",
     "positionIds": [
       "pos-0036"
     ],
-    "portfolioValueEnd": 797.23,
+    "portfolioValueEnd": 798.22,
     "updates": [
       {
         "time": "00:08",
@@ -14684,6 +14684,11 @@
         "time": "14:08",
         "note": "Keine Aenderung. BTC auf ca. 60.750 USD (-0,35% seit Kauf) aktualisiert, leichte Erholung nach 264 Mio. USD Short-Liquidationen (CryptoTimes). ETF-Abfluesse weiterhin sechster Tag in Folge, kein neuer ueberzeugender Katalysator, daher kein Trade. US-Boersen wegen Thanksgiving ganztags geschlossen.",
         "portfolioValue": 797.23
+      },
+      {
+        "time": "15:08",
+        "note": "Keine Aenderung. BTC auf 60.825 USD (-0,22% seit Kauf) aktualisiert, 24h-Change laut CoinGecko-API +4,57%, nahezu unveraendert zum Vorlauf (60.750 USD). DAX/Xetra weiterhin kraeftig im Plus (+2,10% auf 25.221 Punkte). US-Kassaboersen bleiben wegen Thanksgiving den ganzen Tag geschlossen, kein neuer ueberzeugender Katalysator, daher kein Trade.",
+        "portfolioValue": 798.22
       }
     ]
   }
