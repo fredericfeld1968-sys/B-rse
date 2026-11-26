@@ -14602,13 +14602,13 @@
   },
   {
     "date": "2026-11-26",
-    "marketOverview": "Stand 01:08 CET: Boersen (Aktien/ETFs/Rohstoffe) weiterhin geschlossen, nur Krypto handelbar. Bitcoin notiert laut CoinGecko-Live-API bei 60.353 USD (+1,15% in 24h), damit leicht erholt gegenueber dem letzten Stand (59.907 USD). Krypto-Fear&Greed-Index laut alternative.me bei 11 (Extreme Angst), weiterhin sehr niedrig. Keine aktuellen, frischen Einzelkatalysatoren auffindbar; juengste Marktberichte (Mitte November) beschreiben einen anhaltenden Bitcoin-Ausverkauf auf ein Vier-Monats-Tief sowie Skepsis gegenueber einem Jahresend-Anstieg auf 100.000 USD.",
-    "decision": "00:08- und 01:08-Lauf: Kein Trade. Tagesbudget wurde um 00:08 gutgeschrieben (+1.000 EUR). BTC-Position (pos-0036) laufend auf aktuellen Live-Kurs aktualisiert (zuletzt 60.353 USD, -1,00% seit Kauf), bleibt klar innerhalb der Halteband-Spanne. Trotz hohem freiem Kapital kein Neukauf: Boersen geschlossen, fuer Krypto liegt kein neuer, unabhaengig bestaetigter Katalysator vor (Fear&Greed weiterhin extrem niedrig bei 11, BTC nur leicht erholt), daher keine ueberzeugende Gelegenheit.",
-    "reasoning": "BTC bewegt sich seit dem letzten Lauf (00:08, 59.907 USD) leicht nach oben auf 60.353 USD (CoinGecko live, +1,15% in 24h), damit -1,00% seit Kauf (60.961 USD) - klar innerhalb der etablierten Halteband-Spanne, daher keine Verkaufsentscheidung. Kein neuer, unabhaengig bestaetigter Katalysator fuer einen Neukauf; Aktien/ETFs/Rohstoffe sind um diese Nachtzeit nicht handelbar, Krypto-Sentiment bleibt bei Fear&Greed 11 (Extreme Angst) ohne frischen Impuls. Freies Kapital bleibt bewusst nicht investiert, da kein ueberzeugendes Setup vorliegt.",
+    "marketOverview": "Stand 02:08 CET: Boersen (Aktien/ETFs/Rohstoffe) weiterhin geschlossen, nur Krypto handelbar. Bitcoin notiert laut CoinGecko-Live-API bei 60.549 USD (+1,92% in 24h), damit weiterhin leicht erholt gegenueber dem Vorlauf (60.353 USD); auch andere Majors (ETH, SOL, XRP, ADA, AVAX, DOGE) zeigen moderate Gewinne von rund +1,7% bis +2,8% in 24h, also eine breite, aber eher ruhige Erholung ohne neuen Einzelkatalysator. Krypto-Fear&Greed-Index laut alternative.me unveraendert bei 11 (Extreme Angst).",
+    "decision": "00:08-, 01:08- und 02:08-Lauf: Kein Trade. Tagesbudget wurde um 00:08 gutgeschrieben (+1.000 EUR). BTC-Position (pos-0036) laufend auf aktuellen Live-Kurs aktualisiert (zuletzt 60.549 USD, -0,68% seit Kauf), bleibt klar innerhalb der Halteband-Spanne. Trotz hohem freiem Kapital kein Neukauf: Boersen geschlossen, fuer Krypto liegt kein neuer, unabhaengig bestaetigter Katalysator vor (Fear&Greed weiterhin extrem niedrig bei 11, nur breite, moderate Erholung ohne frischen Impuls), daher keine ueberzeugende Gelegenheit.",
+    "reasoning": "BTC bewegt sich seit dem letzten Lauf (01:08, 60.353 USD) weiter leicht nach oben auf 60.549 USD (CoinGecko live, +1,92% in 24h), damit -0,68% seit Kauf (60.961 USD) - klar innerhalb der etablierten Halteband-Spanne, daher keine Verkaufsentscheidung. Kein neuer, unabhaengig bestaetigter Katalysator fuer einen Neukauf; Aktien/ETFs/Rohstoffe sind um diese Nachtzeit nicht handelbar, Krypto-Sentiment bleibt bei Fear&Greed 11 (Extreme Angst) trotz leicht breiter Erholung ohne frischen Einzelimpuls. Freies Kapital bleibt bewusst nicht investiert, da kein ueberzeugendes Setup vorliegt.",
     "positionIds": [
       "pos-0036"
     ],
-    "portfolioValueEnd": 792.02,
+    "portfolioValueEnd": 794.59,
     "updates": [
       {
         "time": "00:08",
@@ -14619,6 +14619,11 @@
         "time": "01:08",
         "note": "Keine Aenderung. BTC-Kurs aktualisiert auf 60.353 USD (-1,00% seit Kauf), leichte Erholung ggue. Vorlauf. Fear&Greed weiterhin bei 11 (Extreme Angst), kein neuer Katalysator, daher kein Trade.",
         "portfolioValue": 792.02
+      },
+      {
+        "time": "02:08",
+        "note": "Keine Aenderung. BTC-Kurs aktualisiert auf 60.549 USD (-0,68% seit Kauf), leichte weitere Erholung. Fear&Greed weiterhin bei 11 (Extreme Angst), kein neuer Katalysator, daher kein Trade.",
+        "portfolioValue": 794.59
       }
     ]
   }
