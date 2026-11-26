@@ -14602,13 +14602,13 @@
   },
   {
     "date": "2026-11-26",
-    "marketOverview": "Stand 12:08 CET: Xetra seit 09:00 CET offen, DAX bleibt nach schwachem Vortag (-1,26%) im Tech-/AI-/Edelmetall-Ausverkauf (Gold ca. -3,4%, Silber -5,6%) angesichts stark gestiegener Wahrscheinlichkeit einer weiteren Fed-Zinserhoehung am 09.12. (CME FedWatch ca. 94-97%) nach heisser Oktober-Kernrate (PCE 3,3%). Bitcoin gibt leicht nach auf ca. 60.450 USD (CoinGecko, +2,8% 24h), Fear&Greed-Index bleibt bei 11 (Extreme Angst). US-Boersen (NYSE/Nasdaq) sind heute wegen Thanksgiving geschlossen. Kein unabhaengig bestaetigter, klar bullischer Einzeltitel-Katalysator erkennbar.",
-    "decision": "00:08- bis 12:08-Lauf: Kein Trade. Tagesbudget bereits um 00:08 gutgeschrieben (+1.000 EUR), keine weitere Gutschrift heute. BTC-Position (pos-0036) laufend aktualisiert (zuletzt 60.450 USD, -0,84% seit Kauf), bleibt klar innerhalb der Halteband-Spanne (Stop-Loss ca. -6,5 bis -7,5%, Zielgewinn ca. +7-9%). Trotz hohem freiem Kapital (ca. 112.200 EUR) weiterhin kein Neukauf: Xetra zwar offen, aber breiter Tech-/Edelmetall-Ausverkauf vor erwarteter Fed-Zinserhoehung und anhaltende Krypto-ETF-Abfluesse sprechen gegen eine ueberzeugende neue Position; US-Markt heute wegen Thanksgiving ohnehin nicht handelbar.",
-    "reasoning": "BTC bewegt sich seit dem letzten Lauf (11:08, 60.831 USD) leicht abwaerts auf 60.450 USD (CoinGecko, +2,8% 24h), damit -0,84% seit Kauf (60.961 USD) - weiterhin klar innerhalb der Halteband-Spanne, daher keine Verkaufsentscheidung. Fuer Aktien/ETFs/Rohstoffe liefert die aktuelle Marktlage (Tech-/Edelmetall-Ausverkauf vor Fed-Entscheidung, DAX schwach, US-Markt wegen Thanksgiving geschlossen) keinen ueberzeugenden, bestaetigten Einzelkatalysator. Freies Kapital bleibt bewusst nicht investiert, da kein Setup die bisher etablierte Ueberzeugungsschwelle erreicht.",
+    "marketOverview": "Stand 13:08 CET: DAX erholt sich kraeftig (+2,1% auf ca. 25.219-25.245 Pkt.) von der gestrigen Tech-/Chip-Ausverkaufswelle (Nasdaq -4%, SOX -8%, ausgeloest durch heisse Core-PCE-Daten und neue US-Zollvorschlaege); KI-Profiteure wie Infineon (+5,2%) und Siemens Energy (+5,4%) fuehren die Erholung an. Gold stabilisiert sich bei ca. 3.563 USD (-0,73%), Silber nahezu unveraendert bei 41,34 USD. Bitcoin erholt sich parallel auf ca. 60.600 USD nach dem Einbruch vom Vortag auf 57.300-58.600 USD. US-Boersen (NYSE/Nasdaq) bleiben heute wegen Thanksgiving komplett geschlossen, morgen nur verkuerzter Handel bis 19:00 CET - die Erholung ist damit noch nicht durch volle US-Liquiditaet bestaetigt.",
+    "decision": "00:08- bis 13:08-Lauf: Kein Trade. Tagesbudget bereits um 00:08 gutgeschrieben (+1.000 EUR), keine weitere Gutschrift heute. BTC-Position (pos-0036) laufend aktualisiert (zuletzt 60.600 USD, -0,59% seit Kauf), bleibt klar innerhalb der Halteband-Spanne (Stop-Loss ca. -6,5 bis -7,5%, Zielgewinn ca. +7-9%). Trotz kraeftiger DAX-Erholung kein neuer, hinreichend ueberzeugender Einzelkatalysator fuer einen Neukauf, zumal US-Kassamarkt feiertagsbedingt geschlossen bleibt und die Erholung noch nicht breit bestaetigt ist.",
+    "reasoning": "BTC bewegt sich seit dem letzten Lauf (12:08, 60.450 USD) leicht aufwaerts auf ca. 60.600 USD, damit -0,59% seit Kauf (60.961 USD) - weiterhin klar innerhalb der Halteband-Spanne, daher keine Verkaufsentscheidung. Die kraeftige DAX-Erholung (+2,1%) ist primaer eine Erleichterungsrally nach dem uebertriebenen Ausverkauf vom Vortag und kein neuer fundamentaler Katalysator; die Grundrisiken (heisse Inflation, Zollandrohungen, erwartete Fed-Zinserhoehung am 09.12., Rekord-ETF-Abfluesse bei Bitcoin) bleiben unveraendert. Da der US-Kassamarkt heute wegen Thanksgiving komplett geschlossen ist und morgen nur verkuerzt oeffnet, fehlt zudem eine breite Liquiditaetsbestaetigung der Erholung. Daher kein Trade in diesem Lauf.",
     "positionIds": [
       "pos-0036"
     ],
-    "portfolioValueEnd": 793.29,
+    "portfolioValueEnd": 795.26,
     "updates": [
       {
         "time": "00:08",
@@ -14674,6 +14674,11 @@
         "time": "12:08",
         "note": "Keine Aenderung. BTC leicht abgegeben auf 60.450 USD (-0,84% seit Kauf, vorher -0,21%). Fear&Greed weiterhin bei 11 (Extreme Angst), kein neuer bestaetigter Katalysator; DAX/Xetra bleibt im Tech-/Edelmetall-Ausverkauf vor erwarteter Fed-Zinserhoehung, US-Boersen wegen Thanksgiving weiterhin geschlossen, daher kein Trade.",
         "portfolioValue": 793.29
+      },
+      {
+        "time": "13:08",
+        "note": "Keine Aenderung. BTC auf 60.600 USD (-0,59% seit Kauf) aktualisiert, DAX erholt sich kraeftig (+2,1%) nach gestrigem Tech-/Chip-Ausverkauf, US-Boersen heute wegen Thanksgiving komplett geschlossen. Kein neuer ueberzeugender Katalysator, daher kein Trade.",
+        "portfolioValue": 795.26
       }
     ]
   }
