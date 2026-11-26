@@ -14602,13 +14602,13 @@
   },
   {
     "date": "2026-11-26",
-    "marketOverview": "Stand 08:08 CET: Boersen (Aktien/ETFs/Rohstoffe) weiterhin geschlossen (Xetra-Eroeffnung erst 09:00 CET), nur Krypto handelbar. Bitcoin leicht erholt auf ca. 60.720 USD, Krypto-Fear&Greed-Index verharrt weiterhin im Extreme-Fear-Bereich (je Anbieter 11-20). Hintergrund bleibt angespannt: sechster Tag in Folge Netto-Abfluesse aus US-Spot-Bitcoin-ETFs (kumuliert ca. 5 Mrd. USD im November), hoehere Oktober-Kerninflation (PCE 3,3%, ueber Erwartung) naehrt hohe Markterwartung an eine weitere restriktive Fed-Massnahme. Kein neuer, unabhaengig bestaetigter Einzelkatalysator erkennbar, Markt bleibt range-gebunden ohne klare Bodenbildung.",
-    "decision": "00:08- bis 08:08-Lauf: Kein Trade. Tagesbudget wurde um 00:08 bereits gutgeschrieben (+1.000 EUR), keine weitere Gutschrift heute. BTC-Position (pos-0036) laufend auf aktuellen Kurs aktualisiert (zuletzt ca. 60.720 USD, -0,40% seit Kauf), bleibt klar innerhalb der Halteband-Spanne. Trotz hohem freiem Kapital kein Neukauf: Boersen vor Eroeffnung geschlossen, Fear&Greed weiterhin extrem niedrig, anhaltende ETF-Abfluesse und hartnaeckige Inflation sprechen gegen eine ueberzeugende neue Krypto-Position.",
-    "reasoning": "BTC bewegt sich seit dem letzten Lauf (07:10, ca. 60.565 USD) leicht nach oben auf ca. 60.720 USD, damit -0,40% seit Kauf (60.961 USD) - weiterhin klar innerhalb der etablierten Halteband-Spanne, daher keine Verkaufsentscheidung. Aktien/ETFs/Rohstoffe sind vor Xetra-Eroeffnung (09:00 CET) nicht handelbar, Fear&Greed bleibt im Extreme-Fear-Bereich ohne neuen Katalysator; anhaltende ETF-Abfluesse und heisse PCE-Inflationsdaten sprechen gegen eine spekulative Neuposition. Freies Kapital bleibt bewusst nicht investiert, da kein ueberzeugendes Setup vorliegt.",
+    "marketOverview": "Stand 09:09 CET: Xetra ist seit 09:00 CET wieder geoeffnet, DAX startet nach einem schwachen Vortag (Schlussstand gestern 24.702 Punkte, -1,26%) im breiten Tech-/AI-Ausverkauf; Gold und Silber fielen parallel deutlich (Gold ca. -3,4% auf 3.461,7 USD/oz, Silber -5,6%), getrieben von steigender Wahrscheinlichkeit einer weiteren Fed-Zinserhoehung am 09.12. (CME FedWatch ca. 94-97%) nach der heissen Oktober-Kerninflation (PCE 3,3%, ueber Erwartung 3,2%). Bitcoin bewegt sich bei ca. 60.561 USD (CoinGecko, +3,0% 24h, leichter Bounce nach Tief bei ca. 57.200-57.400 USD), Krypto-Fear&Greed-Index verharrt unveraendert bei 11 (Extreme Angst); Spot-Bitcoin-ETFs verzeichnen den sechsten Tag in Folge Netto-Abfluesse (kumuliert ca. 4,94 Mrd. USD im November, der groesste Monatsabfluss seit ETF-Start). Kein unabhaengig bestaetigter, klar bullischer Einzelkatalysator erkennbar; Markt bleibt breit risikoavers ohne bestaetigte Bodenbildung.",
+    "decision": "00:08- bis 09:09-Lauf: Kein Trade. Tagesbudget wurde bereits um 00:08 gutgeschrieben (+1.000 EUR), keine weitere Gutschrift heute. BTC-Position (pos-0036) laufend auf aktuellen Kurs aktualisiert (zuletzt ca. 60.561 USD, -0,66% seit Kauf), bleibt klar innerhalb der etablierten Halteband-Spanne (Stop-Loss ca. -6,5 bis -7,5%, Zielgewinn ca. +7-9%). Trotz hohem freiem Kapital (ca. 112.200 EUR) kein Neukauf: Xetra zwar seit 09:00 CET wieder offen, aber der breite Tech-/AI-/Edelmetall-Ausverkauf im Vorfeld einer wahrscheinlichen Fed-Zinserhoehung (09.12.) sowie anhaltende Krypto-ETF-Abfluesse und Extreme-Fear-Sentiment sprechen gegen eine ueberzeugende neue Position; keine bestaetigte Bodenbildung erkennbar.",
+    "reasoning": "BTC bewegt sich seit dem letzten Lauf (08:08, ca. 60.720 USD) leicht nach unten auf ca. 60.561 USD (CoinGecko, +3,0% 24h durch den fruehen Bounce vom Wochentief), damit -0,66% seit Kauf (60.961 USD) - weiterhin klar innerhalb der Halteband-Spanne, daher keine Verkaufsentscheidung. Xetra ist seit 09:00 CET wieder handelbar, der DAX startet jedoch nach einem schwachen Vortag (-1,26%) in einen fortgesetzten Tech-/AI-Ausverkauf (Gold -3,4%, Silber -5,6%) im Vorfeld einer mit ca. 94-97% Wahrscheinlichkeit erwarteten Fed-Zinserhoehung am 09.12., ausgeloest durch die heisse PCE-Kerninflation (3,3%). Fear&Greed bleibt bei 11 (Extreme Angst), Krypto-ETF-Abfluesse halten den sechsten Tag in Folge an. Kein unabhaengig bestaetigter, klar bullischer Einzeltitel-Katalysator vorhanden; freies Kapital bleibt bewusst nicht investiert, da kein ueberzeugendes Setup vorliegt.",
     "positionIds": [
       "pos-0036"
     ],
-    "portfolioValueEnd": 796.84,
+    "portfolioValueEnd": 794.75,
     "updates": [
       {
         "time": "00:08",
@@ -14654,6 +14654,11 @@
         "time": "08:08",
         "note": "Keine Aenderung. BTC auf ca. 60.720 USD (-0,40% seit Kauf) aktualisiert, leichte Erholung. Fear&Greed weiterhin im Extreme-Fear-Bereich, anhaltende ETF-Abfluesse und heisse PCE-Inflationsdaten, kein neuer Katalysator, daher kein Trade. Boersen oeffnen erst 09:00 CET.",
         "portfolioValue": 796.84
+      },
+      {
+        "time": "09:09",
+        "note": "Keine Aenderung. BTC auf 60.561 USD (-0,66% seit Kauf) aktualisiert, leichter Ruecksetzer. Xetra seit 09:00 CET wieder offen, DAX startet nach schwachem Vortag (-1,26%) im Tech-/AI-/Edelmetall-Ausverkauf vor erwarteter Fed-Zinserhoehung (09.12.); Fear&Greed weiterhin bei 11, kein ueberzeugender Katalysator, daher kein Trade.",
+        "portfolioValue": 794.75
       }
     ]
   }
