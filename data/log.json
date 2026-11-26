@@ -14721,5 +14721,22 @@
         "portfolioValue": 795.32
       }
     ]
+  },
+  {
+    "date": "2026-11-27",
+    "marketOverview": "Neuer Tag, Tagesbudget gutgeschrieben (+1.000 EUR). Bitcoin notiert bei 60.434 USD (+0,80% 24h, CoinGecko), kaum veraendert zum letzten Lauf. Der Krypto-Fear&Greed-Index verbleibt unveraendert bei 11 (Extreme Angst, alternative.me). US- und europaeische Boersen sind nachts geschlossen (Europa seit 17:30 CET, US-Handel wegen Thanksgiving/Freitagnacht ausser Handelszeit) - Aktien, ETFs und Rohstoffe damit nicht handelbar. Keine neuen marktbewegenden Nachrichten seit dem letzten Lauf; der Kryptomarkt bleibt laut aktuellen Berichten in einem der schwaechsten November-Monate seit Jahren.",
+    "decision": "Kein Trade in diesem Lauf. BTC (pos-0036) auf 60.434 USD aktualisiert (-0,86% seit Kauf).",
+    "reasoning": "Ausserhalb der Handelszeiten fuer Aktien/ETFs/Rohstoffe ist nur Krypto bewegbar. Kein neuer ueberzeugender Katalysator seit dem letzten Lauf identifiziert, Fear&Greed weiterhin bei 11 (Extreme Angst) ohne Trendwende-Signal. Die bestehende BTC-Position bewegt sich klar innerhalb der normalen Schwankungsbreite (-0,86%), weder Stop-Loss- noch Gewinnmitnahme-Schwelle erreicht, daher keine neue Position eroeffnet und bestehende Position unveraendert gehalten.",
+    "positionIds": [
+      "pos-0036"
+    ],
+    "portfolioValueEnd": 793.08,
+    "updates": [
+      {
+        "time": "00:08",
+        "note": "Neuer Tag, Tagesbudget gutgeschrieben (+1.000 EUR). Keine Aenderung. BTC-Kurs aktualisiert auf 60.434 USD (-0,86% seit Kauf). Fear&Greed weiterhin bei 11 (Extreme Angst), kein neuer Katalysator, daher kein Trade.",
+        "portfolioValue": 793.08
+      }
+    ]
   }
 ]
