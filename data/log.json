@@ -14602,13 +14602,13 @@
   },
   {
     "date": "2026-11-26",
-    "marketOverview": "Bitcoin notiert bei 60.745 USD (+0,81% 24h, CoinGecko), damit weiterhin im engen Seitwaertsband der letzten Stunden. Der Fear&Greed-Index verbleibt unveraendert bei 11 (Extreme Angst, alternative.me). US-Boersen bleiben wegen Thanksgiving ganztags geschlossen, europaeische Boersen sind seit 17:30 CET zu - Aktien, ETFs und Rohstoffe damit weiterhin nicht handelbar. Keine neuen marktbewegenden Nachrichten seit dem letzten Lauf.",
-    "decision": "Kein Trade in diesem Lauf. BTC (pos-0036) auf 60.745 USD aktualisiert (-0,35% seit Kauf). Position bleibt klar innerhalb der normalen Schwankungsbreite, weder Stop-Loss- noch Gewinnmitnahme-Schwelle erreicht.",
-    "reasoning": "Ausserhalb der Handelszeiten fuer Aktien/ETFs/Rohstoffe (Thanksgiving in den USA, Europa seit 17:30 CET geschlossen) ist nur Krypto bewegbar. BTC verbleibt im engen Seitwaertsband nahe des Kaufpreises, der Fear&Greed-Index zeigt unveraendert Extreme Angst ohne Anzeichen eines Stimmungswechsels. Es fehlt weiterhin eine wirklich ueberzeugende, noch nicht eingepreiste Gelegenheit fuer einen Neukauf; passend zum spekulativen, aber diszipliniert-selektiven Profil wird abgewartet.",
+    "marketOverview": "Bitcoin notiert bei 60.604 USD (+0,74% 24h, CoinGecko), weiterhin im engen Seitwaertsband. Der Fear&Greed-Index verbleibt unveraendert bei 11 (Extreme Angst, alternative.me). US-Boersen bleiben wegen Thanksgiving ganztags geschlossen, europaeische Boersen sind seit 17:30 CET zu - Aktien, ETFs und Rohstoffe damit weiterhin nicht handelbar. Keine neuen marktbewegenden Nachrichten seit dem letzten Lauf.",
+    "decision": "Kein Trade in diesem Lauf. BTC (pos-0036) auf 60.604 USD aktualisiert (-0,59% seit Kauf). Position bleibt klar innerhalb der normalen Schwankungsbreite, weder Stop-Loss- noch Gewinnmitnahme-Schwelle erreicht.",
+    "reasoning": "Ausserhalb der Handelszeiten fuer Aktien/ETFs/Rohstoffe (Thanksgiving in den USA, Europa seit 17:30 CET geschlossen) ist nur Krypto bewegbar. Kein neuer ueberzeugender Katalysator seit dem letzten Lauf identifiziert, Fear&Greed weiterhin bei 11 (Extreme Angst) ohne Trendwende-Signal; daher keine neue Position eroeffnet und bestehende BTC-Position unveraendert gehalten.",
     "positionIds": [
       "pos-0036"
     ],
-    "portfolioValueEnd": 797.17,
+    "portfolioValueEnd": 795.32,
     "updates": [
       {
         "time": "00:08",
@@ -14714,6 +14714,11 @@
         "time": "22:08",
         "note": "Keine Aenderung. BTC auf 60.745 USD aktualisiert (+0,81% 24h laut CoinGecko, -0,35% seit Kauf). Fear&Greed-Index weiterhin bei 11 (Extreme Angst). US-Boersen wegen Thanksgiving ganztags geschlossen, europaeische Boersen seit 17:30 CET zu, kein ueberzeugender Katalysator, daher kein Trade.",
         "portfolioValue": 797.17
+      },
+      {
+        "time": "23:09",
+        "note": "Keine Aenderung. BTC auf 60.604 USD aktualisiert (-0,59% seit Kauf, +0,74% 24h laut CoinGecko). Fear&Greed-Index unveraendert bei 11 (Extreme Angst). US-Boersen wegen Thanksgiving ganztags geschlossen, europaeische Boersen seit 17:30 CET zu, kein ueberzeugender Katalysator, daher kein Trade.",
+        "portfolioValue": 795.32
       }
     ]
   }
