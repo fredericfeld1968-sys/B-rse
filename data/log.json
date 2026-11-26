@@ -14602,13 +14602,13 @@
   },
   {
     "date": "2026-11-26",
-    "marketOverview": "Stand 03:08 CET: Boersen (Aktien/ETFs/Rohstoffe) weiterhin geschlossen, nur Krypto handelbar. Bitcoin notiert laut CoinGecko-Live-API bei 60.767 USD (+3,09% in 24h), leichte Fortsetzung der Erholung gegenueber dem Vorlauf (60.549 USD). Krypto-Fear&Greed-Index laut alternative.me unveraendert bei 11 (Extreme Angst) ohne neuen, unabhaengig bestaetigten Katalysator fuer einen Neukauf.",
-    "decision": "00:08-, 01:08-, 02:08- und 03:08-Lauf: Kein Trade. Tagesbudget wurde um 00:08 gutgeschrieben (+1.000 EUR). BTC-Position (pos-0036) laufend auf aktuellen Live-Kurs aktualisiert (zuletzt 60.767 USD, -0,32% seit Kauf), bleibt klar innerhalb der Halteband-Spanne. Trotz hohem freiem Kapital kein Neukauf: Boersen geschlossen, fuer Krypto liegt weiterhin kein neuer, unabhaengig bestaetigter Katalysator vor (Fear&Greed weiterhin extrem niedrig bei 11), daher keine ueberzeugende Gelegenheit.",
-    "reasoning": "BTC bewegt sich seit dem letzten Lauf (02:08, 60.549 USD) weiter leicht nach oben auf 60.767 USD (CoinGecko live, +3,09% in 24h), damit -0,32% seit Kauf (60.961 USD) - klar innerhalb der etablierten Halteband-Spanne, daher keine Verkaufsentscheidung. Kein neuer, unabhaengig bestaetigter Katalysator fuer einen Neukauf; Aktien/ETFs/Rohstoffe sind um diese Nachtzeit nicht handelbar, Krypto-Sentiment bleibt bei Fear&Greed 11 (Extreme Angst) trotz leicht fortgesetzter Erholung ohne frischen Einzelimpuls. Freies Kapital bleibt bewusst nicht investiert, da kein ueberzeugendes Setup vorliegt.",
+    "marketOverview": "Stand 04:09 CET: Boersen (Aktien/ETFs/Rohstoffe) weiterhin geschlossen, nur Krypto handelbar. Bitcoin notiert laut CoinGecko-Live-API bei 60.646 USD (+2,44% in 24h), leicht unter dem Vorlauf (60.767 USD) - weiterhin volatile Seitwaertsbewegung ohne klaren Trend. Krypto-Fear&Greed-Index laut alternative.me unveraendert bei 11 (Extreme Angst) ohne neuen, unabhaengig bestaetigten Katalysator fuer einen Neukauf.",
+    "decision": "00:08- bis 04:09-Lauf: Kein Trade. Tagesbudget wurde um 00:08 gutgeschrieben (+1.000 EUR). BTC-Position (pos-0036) laufend auf aktuellen Live-Kurs aktualisiert (zuletzt 60.646 USD, -0,52% seit Kauf), bleibt klar innerhalb der Halteband-Spanne. Trotz hohem freiem Kapital kein Neukauf: Boersen geschlossen, fuer Krypto liegt weiterhin kein neuer, unabhaengig bestaetigter Katalysator vor (Fear&Greed weiterhin extrem niedrig bei 11), daher keine ueberzeugende Gelegenheit.",
+    "reasoning": "BTC bewegt sich seit dem letzten Lauf (03:08, 60.767 USD) leicht zurueck auf 60.646 USD (CoinGecko live, +2,44% in 24h), damit -0,52% seit Kauf (60.961 USD) - klar innerhalb der etablierten Halteband-Spanne, daher keine Verkaufsentscheidung. Kein neuer, unabhaengig bestaetigter Katalysator fuer einen Neukauf; Aktien/ETFs/Rohstoffe sind um diese Nachtzeit nicht handelbar, Krypto-Sentiment bleibt bei Fear&Greed 11 (Extreme Angst) ohne frischen Einzelimpuls. Freies Kapital bleibt bewusst nicht investiert, da kein ueberzeugendes Setup vorliegt.",
     "positionIds": [
       "pos-0036"
     ],
-    "portfolioValueEnd": 797.45,
+    "portfolioValueEnd": 795.87,
     "updates": [
       {
         "time": "00:08",
@@ -14629,6 +14629,11 @@
         "time": "03:08",
         "note": "Keine Aenderung. BTC auf 60.767 USD (-0,32% seit Kauf) aktualisiert, leichte weitere Erholung. Fear&Greed weiterhin bei 11 (Extreme Angst), kein neuer Katalysator, daher kein Trade.",
         "portfolioValue": 797.45
+      },
+      {
+        "time": "04:09",
+        "note": "Keine Aenderung. BTC auf 60.646 USD (-0,52% seit Kauf) aktualisiert, leichter Ruecksetzer. Fear&Greed weiterhin bei 11 (Extreme Angst), kein neuer Katalysator, daher kein Trade.",
+        "portfolioValue": 795.87
       }
     ]
   }
