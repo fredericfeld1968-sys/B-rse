@@ -14602,13 +14602,13 @@
   },
   {
     "date": "2026-11-26",
-    "marketOverview": "Stand 07:10 CET: Boersen (Aktien/ETFs/Rohstoffe) weiterhin geschlossen, nur Krypto handelbar. Bitcoin leicht ruecklaeufig auf ca. 60.565 USD (CoinGecko, +2,49% in 24h), nach dem Bounce der letzten Stunden eine kleine Gegenbewegung - kein neuer, unabhaengig bestaetigter Einzelkatalysator erkennbar. Krypto-Fear&Greed-Index verharrt unveraendert bei 11 (Extreme Angst).",
-    "decision": "00:08- bis 07:10-Lauf: Kein Trade. Tagesbudget wurde um 00:08 gutgeschrieben (+1.000 EUR). BTC-Position (pos-0036) laufend auf aktuellen Kurs aktualisiert (zuletzt ca. 60.565 USD, -0,65% seit Kauf), bleibt klar innerhalb der Halteband-Spanne. Trotz hohem freiem Kapital kein Neukauf: Boersen geschlossen, Fear&Greed weiterhin extrem niedrig bei 11, kein frischer bestaetigter Katalysator, daher keine ueberzeugende Gelegenheit.",
-    "reasoning": "BTC bewegt sich seit dem letzten Lauf (06:09, ca. 60.919 USD) leicht nach unten auf 60.565 USD (CoinGecko, +2,49% in 24h), damit -0,65% seit Kauf (60.961 USD) - weiterhin klar innerhalb der etablierten Halteband-Spanne, daher keine Verkaufsentscheidung. Aktien/ETFs/Rohstoffe sind um diese Uhrzeit (Boersen geschlossen) nicht handelbar, Fear&Greed bleibt unveraendert bei 11 (Extreme Angst) ohne neuen Katalysator. Freies Kapital bleibt bewusst nicht investiert, da kein ueberzeugendes Setup vorliegt.",
+    "marketOverview": "Stand 08:08 CET: Boersen (Aktien/ETFs/Rohstoffe) weiterhin geschlossen (Xetra-Eroeffnung erst 09:00 CET), nur Krypto handelbar. Bitcoin leicht erholt auf ca. 60.720 USD, Krypto-Fear&Greed-Index verharrt weiterhin im Extreme-Fear-Bereich (je Anbieter 11-20). Hintergrund bleibt angespannt: sechster Tag in Folge Netto-Abfluesse aus US-Spot-Bitcoin-ETFs (kumuliert ca. 5 Mrd. USD im November), hoehere Oktober-Kerninflation (PCE 3,3%, ueber Erwartung) naehrt hohe Markterwartung an eine weitere restriktive Fed-Massnahme. Kein neuer, unabhaengig bestaetigter Einzelkatalysator erkennbar, Markt bleibt range-gebunden ohne klare Bodenbildung.",
+    "decision": "00:08- bis 08:08-Lauf: Kein Trade. Tagesbudget wurde um 00:08 bereits gutgeschrieben (+1.000 EUR), keine weitere Gutschrift heute. BTC-Position (pos-0036) laufend auf aktuellen Kurs aktualisiert (zuletzt ca. 60.720 USD, -0,40% seit Kauf), bleibt klar innerhalb der Halteband-Spanne. Trotz hohem freiem Kapital kein Neukauf: Boersen vor Eroeffnung geschlossen, Fear&Greed weiterhin extrem niedrig, anhaltende ETF-Abfluesse und hartnaeckige Inflation sprechen gegen eine ueberzeugende neue Krypto-Position.",
+    "reasoning": "BTC bewegt sich seit dem letzten Lauf (07:10, ca. 60.565 USD) leicht nach oben auf ca. 60.720 USD, damit -0,40% seit Kauf (60.961 USD) - weiterhin klar innerhalb der etablierten Halteband-Spanne, daher keine Verkaufsentscheidung. Aktien/ETFs/Rohstoffe sind vor Xetra-Eroeffnung (09:00 CET) nicht handelbar, Fear&Greed bleibt im Extreme-Fear-Bereich ohne neuen Katalysator; anhaltende ETF-Abfluesse und heisse PCE-Inflationsdaten sprechen gegen eine spekulative Neuposition. Freies Kapital bleibt bewusst nicht investiert, da kein ueberzeugendes Setup vorliegt.",
     "positionIds": [
       "pos-0036"
     ],
-    "portfolioValueEnd": 794.8,
+    "portfolioValueEnd": 796.84,
     "updates": [
       {
         "time": "00:08",
@@ -14649,6 +14649,11 @@
         "time": "07:10",
         "note": "Keine Aenderung. BTC auf 60.565 USD (-0,65% seit Kauf) aktualisiert, leichte Gegenbewegung nach dem Bounce der letzten Stunden. Fear&Greed weiterhin bei 11 (Extreme Angst), kein neuer Katalysator, daher kein Trade.",
         "portfolioValue": 794.8
+      },
+      {
+        "time": "08:08",
+        "note": "Keine Aenderung. BTC auf ca. 60.720 USD (-0,40% seit Kauf) aktualisiert, leichte Erholung. Fear&Greed weiterhin im Extreme-Fear-Bereich, anhaltende ETF-Abfluesse und heisse PCE-Inflationsdaten, kein neuer Katalysator, daher kein Trade. Boersen oeffnen erst 09:00 CET.",
+        "portfolioValue": 796.84
       }
     ]
   }
