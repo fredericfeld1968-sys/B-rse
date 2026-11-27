@@ -14724,13 +14724,13 @@
   },
   {
     "date": "2026-11-27",
-    "marketOverview": "Bitcoin notiert bei rund 60.750 USD, der Krypto-Fear&Greed-Index verharrt bei 11-12 (Extreme Angst), nahezu unveraendert seit Tagen ohne neuen Katalysator. Spot-Bitcoin-ETFs verzeichnen bereits den siebten Tag in Folge Nettoabfluesse (u.a. aus BlackRocks IBIT), Altcoins wie Solana und XRP fallen staerker als BTC, Bitcoin-Dominanz stabil bei ca. 58,5%. US- und europaeische Boersen sowie Rohstoffmaerkte sind nachts/ausserhalb der Handelszeiten geschlossen, daher ist nur Krypto grundsaetzlich handelbar.",
-    "decision": "Kein Trade in diesem Lauf. BTC (pos-0036) auf 60.750 USD aktualisiert (-0,35% seit Kauf).",
-    "reasoning": "Die gehaltene BTC-Position bewegt sich nur leicht (-0,35% seit Kauf bei 60.961 USD), weit entfernt von der etablierten Stop-Loss-Schwelle (~-6,5 bis -7,5%). Der Fear&Greed-Index bleibt in der Extreme-Angst-Zone, anhaltende ETF-Abfluesse und schwaechere Altcoins sprechen eher fuer Vorsicht statt eine neue Position; kein ueberzeugender frischer Ausloeser erkennbar. Ausserhalb der Boersenzeiten sind Aktien/ETFs/Rohstoffe nicht handelbar, daher bleibt die Position unveraendert und es wird kein neues Kapital eingesetzt.",
+    "marketOverview": "Bitcoin notiert bei rund 60.820 USD, nahezu unveraendert, der Krypto-Fear&Greed-Index verharrt weiterhin in der Zone Extreme Angst. Die Fed-Zinssenkungswahrscheinlichkeit fuer die Sitzung im Dezember ist zuletzt gesunken (Markt preist eher einen Hold oder sogar eine erneute Anhebung ein), was das Risikosentiment belastet. US- und europaeische Boersen sowie Rohstoffmaerkte sind nachts/am fruehen Freitagmorgen ausserhalb der Handelszeiten geschlossen, daher ist nur Krypto grundsaetzlich handelbar.",
+    "decision": "Kein Trade in diesem Lauf. BTC (pos-0036) auf 60.820 USD aktualisiert (-0,23% seit Kauf).",
+    "reasoning": "Die gehaltene BTC-Position bewegt sich weiterhin nur minimal (-0,23% seit Kauf bei 60.961 USD), weit entfernt von der etablierten Stop-Loss-Schwelle (~-6,5 bis -7,5%). Der Fear&Greed-Index bleibt in der Extreme-Angst-Zone, die Aussicht auf eine restriktivere Fed-Politik im Dezember belastet das Risikosentiment zusaetzlich; kein ueberzeugender frischer Ausloeser fuer eine neue Position erkennbar. Ausserhalb der Boersenzeiten sind Aktien/ETFs/Rohstoffe nicht handelbar, daher bleibt die Position unveraendert und es wird kein neues Kapital eingesetzt.",
     "positionIds": [
       "pos-0036"
     ],
-    "portfolioValueEnd": 797.23,
+    "portfolioValueEnd": 798.15,
     "updates": [
       {
         "time": "00:08",
@@ -14751,6 +14751,11 @@
         "time": "03:08",
         "note": "Keine Aenderung. BTC auf 60.750 USD aktualisiert (-0,35% seit Kauf). Fear&Greed weiterhin Extreme Angst (11-12), anhaltende Bitcoin-ETF-Abfluesse, Boersen geschlossen, daher kein Trade.",
         "portfolioValue": 797.23
+      },
+      {
+        "time": "04:08",
+        "note": "Keine Aenderung. BTC auf 60.820 USD aktualisiert (-0,23% seit Kauf). Fear&Greed weiterhin Extreme Angst, Dezember-Zinssenkungswahrscheinlichkeit gesunken, Boersen geschlossen, daher kein Trade.",
+        "portfolioValue": 798.15
       }
     ]
   }
