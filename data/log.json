@@ -14724,13 +14724,13 @@
   },
   {
     "date": "2026-11-27",
-    "marketOverview": "Bitcoin kriecht weiter leicht nach oben auf ca. 62.000 USD (+1,70% seit Kauf), der Krypto-Fear&Greed-Index bleibt unveraendert tief in der Extreme-Angst-Zone. An den Aktienmaerkten zeichnet sich eine sehr volatile Woche ab: Nach dem Comeback von Nvidia-CEO Jensen Huang (23.11., Boardkehrtwende nach Spionage-Vorwuerfen) und einem kraeftigen Ausverkauf am Mittwoch (S&P -3,2%, Nasdaq -4,6%) zeigen US-Futures am Black-Friday-Morgen eine kraeftige Erholung (Nasdaq-Futures +rund 2-3%), noch vor der verkuerzten US-Kassaeroeffnung. Europaeische Boersen sind regulaer geoeffnet, ein einzelner, mehrfach bestaetigter Handelsimpuls fuer Aktien/ETFs/Rohstoffe ist aber noch nicht erkennbar.",
-    "decision": "Kein Trade in diesem Lauf. BTC (pos-0036) auf ca. 62.000 USD aktualisiert (+1,70% seit Kauf).",
-    "reasoning": "BTC verbessert sich nur leicht weiter und bleibt klar unterhalb der etablierten Ziel-Schwelle (+7-9%). Die kraeftige US-Futures-Erholung nach dem Mittwoch-Ausverkauf ist noch nicht durch eine tatsaechliche Kassamarkt-Reaktion bestaetigt (Black-Friday-Verkuerzung, US-Handel startet erst um 15:30 CET) und daher aktuell keine hinreichend belastbare Gelegenheit fuer eine neue Position. Fuer Krypto liegt trotz der leichten BTC-Erholung kein neuer, mehrfach bestaetigter Katalysator vor. Position bleibt unveraendert, kein neues Kapital eingesetzt.",
+    "marketOverview": "Krypto erholt sich weiter moderat von der Extreme-Angst-Phase: Bitcoin notiert aktuell bei ca. 61.476 USD (CoinGecko, live, +1,71% 24h), Fear&Greed-Index verbleibt im Bereich Extreme Angst. US-Aktienmaerkte bleiben am verkuerzten Black-Friday-Handelstag vor Kassaeroeffnung (09:30 ET / 15:30 CET) im Vorboersenhandel nach dem Mittwoch-Ausverkauf im Zuge der anhaltenden Nvidia/Jensen-Huang-Nachwirkungen; europaeische Boersen sind bereits geoeffnet. Keine neue, ueberzeugende Handelsgelegenheit erkennbar.",
+    "decision": "Kein Trade in diesem Lauf. Offene BTC-Position (pos-0036) auf aktuellen Kurs aktualisiert, weiterhin im moderaten Gewinn (+0,85%).",
+    "reasoning": "BTC-Position liegt mit +0,85% noch deutlich unter der etablierten Ziel-Gewinnspanne (7-9%) und ueber der Stop-Loss-Schwelle (-6,5 bis -7,5%), daher kein Verkauf. Keine neue ueberzeugende Gelegenheit fuer Neuinvestition identifiziert (US-Kassamarkt noch geschlossen, kein frischer Katalysator ueber das bereits Bekannte hinaus); daher auch kein Neukauf trotz hohem freiem Kapital.",
     "positionIds": [
       "pos-0036"
     ],
-    "portfolioValueEnd": 813.63,
+    "portfolioValueEnd": 806.76,
     "updates": [
       {
         "time": "00:08",
@@ -14791,6 +14791,11 @@
         "time": "11:08",
         "note": "Keine Aenderung. BTC auf ca. 62.000 USD aktualisiert (+1,70% seit Kauf). US-Futures erholen sich kraeftig nach dem Mittwoch-Ausverkauf (Nvidia/Jensen-Huang-Nachwirkungen), aber noch vor der verkuerzten US-Kassaeroeffnung; Fear&Greed weiterhin Extreme Angst, daher kein Trade.",
         "portfolioValue": 813.63
+      },
+      {
+        "time": "12:09",
+        "note": "Keine Aenderung. BTC auf 61.476 USD aktualisiert (+0,85% seit Kauf, +1,71% 24h laut CoinGecko). US-Kassamarkt (Black Friday) noch nicht eroeffnet, keine ueberzeugende Gelegenheit, daher kein Trade.",
+        "portfolioValue": 806.76
       }
     ]
   }
