@@ -14725,12 +14725,12 @@
   {
     "date": "2026-11-27",
     "marketOverview": "Bitcoin notiert bei rund 61.050 USD (naeherungsweise seitwaerts, Konsens aus leicht abweichenden Live-Quellen 60.580-61.600 USD), der Krypto-Fear&Greed-Index verharrt unveraendert bei 12 (Extreme Angst). Belastend bleiben siebte Tag in Folge Netto-Abfluesse aus US-Spot-Bitcoin-ETFs (November-Gesamt rund 5,39 Mrd. USD) sowie ein heiss ausgefallener Oktober-Kern-PCE (3,3% YoY) und nach oben revidiertes Q3-BIP (4,3%), die Markterwartungen fuer eine Fed-Zinssenkung im Dezember weiter daempfen. Vereinzelte Altcoin-Bewegungen mit konkretem Katalysator (LayerZero/ZRO vor Mainnet-Start, Chainlink/LINK nach Fidelity-ETF-Antrag) bleiben idiosynkratisch und ohne breite Marktwirkung. US- und europaeische Boersen sowie Rohstoffmaerkte sind am fruehen Freitagmorgen (Black Friday) weiterhin ausserhalb der Handelszeiten geschlossen, daher ist nur Krypto grundsaetzlich handelbar; zusaetzlich sorgen ~7,6 Mrd. USD an auslaufenden BTC/ETH-Optionen und duenne Feiertagsliquiditaet fuer erhoehtes Volatilitaetsrisiko.",
-    "decision": "Kein Trade in diesem Lauf. BTC (pos-0036) auf 61.050 USD aktualisiert (+0,15% seit Kauf).",
-    "reasoning": "Die gehaltene BTC-Position bewegt sich nahe der Kauflinie (+0,15% seit Kauf bei 60.961 USD) und bleibt weit von den etablierten Ziel-/Stop-Schwellen (+7-9% bzw. -6,5 bis -7,5%) entfernt. Die einzigen aktuell identifizierten Katalysatoren (LayerZero-Mainnet-Validatoren, Chainlink-ETF-Antrag) sind idiosynkratische Altcoin-Einzelereignisse ohne breite Marktwirkung und wurden als nicht ueberzeugend genug fuer einen Neueinstieg bewertet; Fear&Greed-Index bleibt bei 12 (Extreme Angst), ETF-Abfluesse und ein hawkishes PCE-Signal sprechen eher fuer Vorsicht. Ausserhalb der Boersenzeiten sind Aktien/ETFs/Rohstoffe nicht handelbar, daher bleibt die Position unveraendert und es wird kein neues Kapital eingesetzt.",
+    "decision": "Kein Trade in diesem Lauf. BTC (pos-0036) auf ca. 61.000 USD aktualisiert (+0,06% seit Kauf).",
+    "reasoning": "Die gehaltene BTC-Position bewegt sich weiterhin nahe der Kauflinie (+0,06% seit Kauf bei 60.961 USD) und bleibt weit von den etablierten Ziel-/Stop-Schwellen (+7-9% bzw. -6,5 bis -7,5%) entfernt. Eine gezielte Zusatzrecherche lieferte keine verlaesslich aktuellen, widerspruchsfreien Live-Kursdaten (Cross-Quellen teils veraltet/widersprüchlich); Konsens bleibt bei ca. 61.000 USD ohne neuen Katalysator. Fear&Greed-Index weiterhin tief im Extreme-Angst-Bereich, keine mehrfach bestaetigte neue Handelsgelegenheit erkennbar. Boersen (Aktien/ETFs/Rohstoffe) sind am fruehen Freitagmorgen (Black Friday) weiterhin geschlossen, daher bleibt die Position unveraendert und es wird kein neues Kapital eingesetzt.",
     "positionIds": [
       "pos-0036"
     ],
-    "portfolioValueEnd": 801.17,
+    "portfolioValueEnd": 800.51,
     "updates": [
       {
         "time": "00:08",
@@ -14766,6 +14766,11 @@
         "time": "06:10",
         "note": "Keine Aenderung. BTC auf 61.050 USD aktualisiert (+0,15% seit Kauf). Fear&Greed weiterhin bei 12 (Extreme Angst), nur idiosynkratische Altcoin-Katalysaetoren (ZRO, LINK), Boersen geschlossen, daher kein Trade.",
         "portfolioValue": 801.17
+      },
+      {
+        "time": "07:08",
+        "note": "Keine Aenderung. BTC auf ca. 61.000 USD aktualisiert (+0,06% seit Kauf). Live-Kursquellen widersprechen sich, kein neuer Katalysator erkennbar, Fear&Greed weiterhin tief im Extreme-Angst-Bereich, Boersen (Black-Friday-Vormittag) geschlossen, daher kein Trade.",
+        "portfolioValue": 800.51
       }
     ]
   }
