@@ -14724,13 +14724,13 @@
   },
   {
     "date": "2026-11-27",
-    "marketOverview": "Keine neuere verifizierte Live-Kursquelle fuer BTC gefunden (Suche lieferte nur widersprechende oder mehrere Wochen alte Daten, teils aus 2025 verwechselt); der zuletzt verifizierte Stand bleibt 59.859 USD (-1,81% seit Kauf, CoinGecko, 20:09 CET). US-Aktien/ETFs/Rohstoffe sind nach dem verkuerzten Black-Friday-Handelsschluss (19:00 CET) weiterhin nicht handelbar. Fear&Greed verharrt laut mehreren Quellen diese Woche im Bereich Extreme Angst; kein neuer, frisch bestaetigter Katalysator fuer eine Bodenbildung oder einen Ausbruch erkennbar.",
-    "decision": "Kein Trade in diesem Lauf. Offene BTC-Position (pos-0036) unveraendert vom letzten verifizierten Stand (59.859 USD, -1,81% seit Kauf) uebernommen, da keine neuere belastbare Kursquelle verfuegbar war.",
-    "reasoning": "Eine gezielte Recherche nach dem aktuellen BTC-Kurs lieferte nur widersprechende, teils stark veraltete oder falsch datierte Treffer (u.a. ein Preis, der erkennbar aus 2025 stammte); um keine fehlerhaften Daten einzupflegen, wird der zuletzt verifizierte Kurs (59.859 USD vom 20:09-Lauf) unveraendert beibehalten. Die Position liegt weiterhin deutlich innerhalb der ueblichen Schwankungsbreite und weit von der etablierten Stop-Loss-Schwelle (~-6,5 bis -7,5%) entfernt. Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten nicht handelbar, eine ueberzeugende neue Krypto-Gelegenheit wurde nicht identifiziert, daher Halten ohne neuen Trade.",
+    "marketOverview": "BTC laut CoinGecko-Live-API auf 59.763 USD (-1,62% 24h), damit leicht unter dem zuletzt verifizierten Stand von 59.859 USD. Fear&Greed-Index weiterhin bei 12 (Extreme Angst, alternative.me-API). Breiter Altcoin-Markt uneinheitlich (ETH -2,2%, SOL +0,9%, DOGE +1,5%, XMR -9,1% ohne erkennbaren Katalysator); kein bestaetigter Ausbruch oder Trendwechsel erkennbar. US-/EU-Boersen (Aktien/ETFs/Rohstoffe) ausserhalb der Handelszeiten weiterhin geschlossen.",
+    "decision": "Kein Trade in diesem Lauf. Offene BTC-Position (pos-0036) auf aktuellen Kurs (59.763 USD, -1,97% seit Kauf) aktualisiert, keine ueberzeugende neue Gelegenheit identifiziert.",
+    "reasoning": "BTC-Position liegt bei -1,97% seit Kauf, deutlich innerhalb der normalen Schwankungsbreite und weit von der etablierten Stop-Loss-Schwelle (~-6,5 bis -7,5%) entfernt - kein Verkaufsgrund. Aktien/ETFs/Rohstoffe sind nachts nicht handelbar; im Krypto-Markt ist bei anhaltender Extreme-Angst-Stimmung und ohne frischen, mehrfach bestaetigten Katalysator keine ueberzeugende neue Position erkennbar, daher Halten ohne neuen Trade.",
     "positionIds": [
       "pos-0036"
     ],
-    "portfolioValueEnd": 785.54,
+    "portfolioValueEnd": 784.28,
     "updates": [
       {
         "time": "00:08",
@@ -14841,6 +14841,11 @@
         "time": "21:11",
         "note": "Keine Aenderung. Keine neuere verifizierte Live-Kursquelle fuer BTC gefunden (nur widerspruechliche/veraltete Treffer); Position unveraendert vom letzten Lauf (59.859 USD, -1,81% seit Kauf) uebernommen. Kein Trade.",
         "portfolioValue": 785.54
+      },
+      {
+        "time": "22:09",
+        "note": "Keine Aenderung. BTC auf 59.763 USD aktualisiert (-1,97% seit Kauf, CoinGecko-API). Fear&Greed weiterhin 12 (Extreme Angst), keine ueberzeugende Gelegenheit, Boersen (Aktien/ETFs/Rohstoffe) geschlossen, daher kein Trade.",
+        "portfolioValue": 784.28
       }
     ]
   }
