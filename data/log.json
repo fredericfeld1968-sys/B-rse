@@ -14853,5 +14853,22 @@
         "portfolioValue": 783.61
       }
     ]
+  },
+  {
+    "date": "2026-11-28",
+    "marketOverview": "BTC laut CoinGecko-Live-API bei 59.816 USD (-0,98% 24h), damit nahezu unveraendert zum gestrigen Schlussstand. Fear&Greed-Index weiterhin bei 12 (Extreme Angst, alternative.me), seit Tagen stabil tief. Kein neuer bestaetigter Katalysator fuer Aktien, Krypto oder Rohstoffe gefunden. Aktien-/ETF-/Rohstoffmaerkte sind am Wochenende (Samstag) geschlossen.",
+    "decision": "Kein Trade in diesem Lauf. Neuer Kalendertag: Tagesbudget (+1.000 EUR) gutgeschrieben. Offene BTC-Position (pos-0036) auf aktuellen Kurs aktualisiert (59.816 USD, -1,88% seit Kauf).",
+    "reasoning": "Die BTC-Position liegt bei -1,88% seit Kauf, deutlich innerhalb der normalen Schwankungsbreite und weit von der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%) entfernt. Ausserhalb der Handelszeiten (Wochenende) sind Aktien/ETFs/Rohstoffe nicht handelbar; im Kryptomarkt haelt die Extreme-Angst-Stimmung (Fear&Greed 12) unveraendert an, ohne frischen, mehrfach bestaetigten Katalysator fuer eine neue Position. Trotz erheblichem freiem Kapital wird bewusst nicht gehandelt, da keine wirklich ueberzeugende Gelegenheit vorliegt.",
+    "positionIds": [
+      "pos-0036"
+    ],
+    "portfolioValueEnd": 784.97,
+    "updates": [
+      {
+        "time": "00:09",
+        "note": "Neuer Tag, Tagesbudget gutgeschrieben (+1.000 EUR). Keine Aenderung. BTC auf 59.816 USD aktualisiert (-1,88% seit Kauf). Fear&Greed weiterhin bei 12 (Extreme Angst), kein neuer Katalysator, daher kein Trade.",
+        "portfolioValue": 784.97
+      }
+    ]
   }
 ]
