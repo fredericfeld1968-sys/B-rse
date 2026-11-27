@@ -14724,13 +14724,13 @@
   },
   {
     "date": "2026-11-27",
-    "marketOverview": "Bitcoin steigt auf ca. 61.800 USD (CoinGecko-API, live, +2,03% in 24h) und setzt damit die leichte Erholung der letzten Stunden fort, der Krypto-Fear&Greed-Index verharrt unveraendert bei 12 (Extreme Angst, alternative.me-API). Belastend bleiben siebte Tag in Folge Netto-Abfluesse aus US-Spot-Bitcoin-ETFs (November-Gesamt rund 5,39 Mrd. USD) sowie ein heiss ausgefallener Oktober-Kern-PCE (3,3% YoY), die Markterwartungen fuer eine Fed-Zinssenkung im Dezember weiter daempfen. Europaeische und US-Boersen sowie Rohstoffmaerkte sind am Freitagmorgen (Black Friday, USA mit verkuerzter Haelfte-Sitzung erst ab 15:30 CET) weiterhin ausserhalb der Handelszeiten, daher ist nur Krypto grundsaetzlich handelbar.",
-    "decision": "Kein Trade in diesem Lauf. BTC (pos-0036) auf ca. 61.800 USD aktualisiert (+1,38% seit Kauf).",
-    "reasoning": "Die gehaltene BTC-Position hat sich auf +1,38% seit Kauf (60.961 USD) leicht verbessert, bleibt damit aber weit von den etablierten Ziel-/Stop-Schwellen (+7-9% bzw. -6,5 bis -7,5%) entfernt. Der leichte Bounce (+2,03% 24h laut CoinGecko) ist noch kein bestaetigter, mehrfach belegter neuer Ausbruch, und der Fear&Greed-Index verbleibt unveraendert tief im Extreme-Angst-Bereich (12). Boersen (Aktien/ETFs/Rohstoffe) sind am Freitagmorgen (Black Friday) weiterhin geschlossen, daher bleibt die Position unveraendert und es wird kein neues Kapital eingesetzt.",
+    "marketOverview": "Bitcoin pendelt weiter leicht aufwaerts um ca. 61.900 USD, der Krypto-Fear&Greed-Index verharrt unveraendert tief im Bereich Extreme Angst (11-12). Belastend bleiben anhaltende Netto-Abfluesse aus US-Spot-Bitcoin-ETFs sowie eine als heiss eingeschaetzte Inflation, die Markterwartungen fuer eine Fed-Zinssenkung im Dezember weiter daempfen; BTC bewegt sich insgesamt auf dem Weg zu einer siebten Verlustwoche in Folge. Europaeische Boersen (u.a. DAX) sind am Black-Friday-Vormittag bereits regulaer geoeffnet, der verkuerzte US-Kassahandel beginnt erst zur gewohnten Zeit (15:30 CET) und schliesst frueher. Kein einzelner, mehrfach bestaetigter neuer Katalysator fuer Aktien, ETFs oder Rohstoffe erkennbar.",
+    "decision": "Kein Trade in diesem Lauf. BTC (pos-0036) auf ca. 61.900 USD aktualisiert (+1,54% seit Kauf).",
+    "reasoning": "Die gehaltene BTC-Position verbessert sich nur leicht auf +1,54% seit Kauf (60.961 USD) und bleibt damit weit von den etablierten Ziel-/Stop-Schwellen (+7-9% bzw. -6,5 bis -7,5%) entfernt. Der Fear&Greed-Index verbleibt unveraendert tief im Extreme-Angst-Bereich, ohne bestaetigten neuen Ausbruch. Fuer Aktien/ETFs/Rohstoffe liegt trotz regulaer geoeffneter europaeischer Boersen keine wirklich ueberzeugende, mehrfach bestaetigte Gelegenheit vor, daher bleibt die Position unveraendert und es wird kein neues Kapital eingesetzt.",
     "positionIds": [
       "pos-0036"
     ],
-    "portfolioValueEnd": 811.01,
+    "portfolioValueEnd": 812.32,
     "updates": [
       {
         "time": "00:08",
@@ -14781,6 +14781,11 @@
         "time": "09:07",
         "note": "Keine Aenderung. BTC auf 61.800 USD aktualisiert (+1,38% seit Kauf, +2,03% 24h). Fear&Greed weiterhin bei 12 (Extreme Angst), Boersen (Black Friday) weiterhin geschlossen, daher kein Trade.",
         "portfolioValue": 811.01
+      },
+      {
+        "time": "10:08",
+        "note": "Keine Aenderung. BTC auf 61.900 USD aktualisiert (+1,54% seit Kauf). Fear&Greed weiterhin Extreme Angst, europaeische Boersen bereits offen, aber keine ueberzeugende Gelegenheit erkennbar, daher kein Trade.",
+        "portfolioValue": 812.32
       }
     ]
   }
