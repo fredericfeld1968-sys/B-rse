@@ -14724,13 +14724,13 @@
   },
   {
     "date": "2026-11-27",
-    "marketOverview": "Bitcoin notiert bei rund 61.050 USD (naeherungsweise seitwaerts, Konsens aus leicht abweichenden Live-Quellen 60.580-61.600 USD), der Krypto-Fear&Greed-Index verharrt unveraendert bei 12 (Extreme Angst). Belastend bleiben siebte Tag in Folge Netto-Abfluesse aus US-Spot-Bitcoin-ETFs (November-Gesamt rund 5,39 Mrd. USD) sowie ein heiss ausgefallener Oktober-Kern-PCE (3,3% YoY) und nach oben revidiertes Q3-BIP (4,3%), die Markterwartungen fuer eine Fed-Zinssenkung im Dezember weiter daempfen. Vereinzelte Altcoin-Bewegungen mit konkretem Katalysator (LayerZero/ZRO vor Mainnet-Start, Chainlink/LINK nach Fidelity-ETF-Antrag) bleiben idiosynkratisch und ohne breite Marktwirkung. US- und europaeische Boersen sowie Rohstoffmaerkte sind am fruehen Freitagmorgen (Black Friday) weiterhin ausserhalb der Handelszeiten geschlossen, daher ist nur Krypto grundsaetzlich handelbar; zusaetzlich sorgen ~7,6 Mrd. USD an auslaufenden BTC/ETH-Optionen und duenne Feiertagsliquiditaet fuer erhoehtes Volatilitaetsrisiko.",
-    "decision": "Kein Trade in diesem Lauf. BTC (pos-0036) auf ca. 61.000 USD aktualisiert (+0,06% seit Kauf).",
-    "reasoning": "Die gehaltene BTC-Position bewegt sich weiterhin nahe der Kauflinie (+0,06% seit Kauf bei 60.961 USD) und bleibt weit von den etablierten Ziel-/Stop-Schwellen (+7-9% bzw. -6,5 bis -7,5%) entfernt. Eine gezielte Zusatzrecherche lieferte keine verlaesslich aktuellen, widerspruchsfreien Live-Kursdaten (Cross-Quellen teils veraltet/widersprüchlich); Konsens bleibt bei ca. 61.000 USD ohne neuen Katalysator. Fear&Greed-Index weiterhin tief im Extreme-Angst-Bereich, keine mehrfach bestaetigte neue Handelsgelegenheit erkennbar. Boersen (Aktien/ETFs/Rohstoffe) sind am fruehen Freitagmorgen (Black Friday) weiterhin geschlossen, daher bleibt die Position unveraendert und es wird kein neues Kapital eingesetzt.",
+    "marketOverview": "Bitcoin steigt auf ca. 61.676 USD (CoinGecko-API, live, +2,03% in 24h) und setzt damit die leichte Erholung der letzten Stunden fort, der Krypto-Fear&Greed-Index verharrt unveraendert bei 12 (Extreme Angst, alternative.me-API). Belastend bleiben siebte Tag in Folge Netto-Abfluesse aus US-Spot-Bitcoin-ETFs (November-Gesamt rund 5,39 Mrd. USD) sowie ein heiss ausgefallener Oktober-Kern-PCE (3,3% YoY), die Markterwartungen fuer eine Fed-Zinssenkung im Dezember weiter daempfen. Europaeische und US-Boersen sowie Rohstoffmaerkte sind am Freitagmorgen (Black Friday, USA mit verkuerzter Haelfte-Sitzung erst ab 15:30 CET) weiterhin ausserhalb der Handelszeiten, daher ist nur Krypto grundsaetzlich handelbar.",
+    "decision": "Kein Trade in diesem Lauf. BTC (pos-0036) auf ca. 61.676 USD aktualisiert (+1,17% seit Kauf).",
+    "reasoning": "Die gehaltene BTC-Position hat sich auf +1,17% seit Kauf (60.961 USD) verbessert, bleibt damit aber weit von den etablierten Ziel-/Stop-Schwellen (+7-9% bzw. -6,5 bis -7,5%) entfernt. Der leichte Bounce (+2,03% 24h laut CoinGecko) ist noch kein bestaetigter, mehrfach belegter neuer Ausbruch, und der Fear&Greed-Index verbleibt unveraendert tief im Extreme-Angst-Bereich (12). Boersen (Aktien/ETFs/Rohstoffe) sind am Freitagmorgen (Black Friday) weiterhin geschlossen, daher bleibt die Position unveraendert und es wird kein neues Kapital eingesetzt.",
     "positionIds": [
       "pos-0036"
     ],
-    "portfolioValueEnd": 800.51,
+    "portfolioValueEnd": 809.39,
     "updates": [
       {
         "time": "00:08",
@@ -14771,6 +14771,11 @@
         "time": "07:08",
         "note": "Keine Aenderung. BTC auf ca. 61.000 USD aktualisiert (+0,06% seit Kauf). Live-Kursquellen widersprechen sich, kein neuer Katalysator erkennbar, Fear&Greed weiterhin tief im Extreme-Angst-Bereich, Boersen (Black-Friday-Vormittag) geschlossen, daher kein Trade.",
         "portfolioValue": 800.51
+      },
+      {
+        "time": "08:07",
+        "note": "Keine Aenderung. BTC auf 61.676 USD aktualisiert (+1,17% seit Kauf, +2,03% 24h). Fear&Greed weiterhin bei 12 (Extreme Angst), Boersen (Black Friday) weiterhin geschlossen, daher kein Trade.",
+        "portfolioValue": 809.39
       }
     ]
   }
