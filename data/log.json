@@ -14724,13 +14724,13 @@
   },
   {
     "date": "2026-11-27",
-    "marketOverview": "Bitcoin notiert aktuell bei ca. 61.620 USD (CoinGecko, +1,08% seit Kauf von pos-0036), leicht fester als beim letzten Lauf. Krypto-Fear&Greed-Index bleibt im Bereich Extreme Angst. US-Aktienmaerkte (Black Friday, verkuerzte Handelszeit bis 19:00 CET) haben die Kassaeroeffnung (15:30 CET) noch nicht erreicht; europaeische Boersen sind offen, aber ohne klaren neuen Katalysator. Keine ueberzeugende neue Handelsgelegenheit erkennbar.",
-    "decision": "Kein Trade in diesem Lauf. Offene BTC-Position (pos-0036) auf aktuellen Kurs aktualisiert, weiterhin im moderaten Gewinn (+1,08%).",
-    "reasoning": "BTC-Position liegt mit +1,08% weiterhin deutlich unter der etablierten Ziel-Gewinnspanne (7-9%) und ueber der Stop-Loss-Schwelle (-6,5 bis -7,5%), daher kein Verkauf. US-Kassamarkt (Black Friday) noch nicht eroeffnet, keine neue ueberzeugende Gelegenheit identifiziert; daher auch kein Neukauf trotz hohem freiem Kapital.",
+    "marketOverview": "Bitcoin notiert aktuell bei ca. 61.430 USD (CoinGecko live, +1,06% in 24h), leicht schwaecher als beim letzten Lauf (61.620 USD) - die offene Position pos-0036 bleibt mit +0,77% seit Kauf im moderaten Gewinn. Krypto-Fear&Greed-Index weiterhin im Bereich Extreme Angst, kein neuer Einzelcoin-Katalysator auffindbar. US-Kassamarkt (Black Friday, verkuerzte Handelszeit) oeffnet erst um 15:30 CET und ist damit weiterhin nicht handelbar; europaeische Boersen offen, aber ohne klare neue Gelegenheit.",
+    "decision": "Kein Trade in diesem Lauf. Offene BTC-Position (pos-0036) auf aktuellen Kurs aktualisiert, weiterhin im moderaten Gewinn (+0,77%).",
+    "reasoning": "BTC-Position liegt mit +0,77% weiterhin deutlich unter der etablierten Ziel-Gewinnspanne (7-9%) und ueber der Stop-Loss-Schwelle (-6,5 bis -7,5%), daher kein Verkauf. US-Kassamarkt (Black Friday) noch nicht eroeffnet, keine ueberzeugende neue Gelegenheit identifiziert; daher auch kein Neukauf trotz hohem freiem Kapital.",
     "positionIds": [
       "pos-0036"
     ],
-    "portfolioValueEnd": 808.65,
+    "portfolioValueEnd": 806.16,
     "updates": [
       {
         "time": "00:08",
@@ -14801,6 +14801,11 @@
         "time": "13:08",
         "note": "Keine Aenderung. BTC auf 61.620 USD aktualisiert (+1,08% seit Kauf). US-Kassamarkt (Black Friday) weiterhin vor Eroeffnung, keine ueberzeugende Gelegenheit, daher kein Trade.",
         "portfolioValue": 808.65
+      },
+      {
+        "time": "14:09",
+        "note": "Keine Aenderung. BTC auf 61.430 USD aktualisiert (+0,77% seit Kauf, +1,06% 24h laut CoinGecko). US-Kassamarkt (Black Friday) noch nicht eroeffnet, Fear&Greed weiterhin Extreme Angst, keine ueberzeugende Gelegenheit, daher kein Trade.",
+        "portfolioValue": 806.16
       }
     ]
   }
