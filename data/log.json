@@ -14724,13 +14724,13 @@
   },
   {
     "date": "2026-11-27",
-    "marketOverview": "Bitcoin notiert bei 60.537 USD (+0,22% in 24h), der Krypto-Fear&Greed-Index verharrt bei 12 (Extreme Angst), nahezu unveraendert seit Tagen ohne neuen Katalysator. US- und europaeische Boersen sowie Rohstoffmaerkte sind nachts/ausserhalb der Handelszeiten geschlossen, daher ist nur Krypto grundsaetzlich handelbar.",
-    "decision": "Kein Trade in diesem Lauf. BTC (pos-0036) auf 60.537 USD aktualisiert (-0,70% seit Kauf).",
-    "reasoning": "Die gehaltene BTC-Position bewegt sich nur leicht (-0,70% seit Kauf bei 60.961 USD), weit entfernt von der etablierten Stop-Loss-Schwelle (~-6,5 bis -7,5%). Der Fear&Greed-Index bleibt bei 12 (Extreme Angst) ohne neuen Katalysator oder Trendwechsel. Ausserhalb der Boersenzeiten sind Aktien/ETFs/Rohstoffe nicht handelbar; fuer eine neue spekulative Krypto-Position fehlt ein ueberzeugender frischer Ausloeser, daher bleibt die Position unveraendert und es wird kein neues Kapital eingesetzt.",
+    "marketOverview": "Bitcoin notiert bei 60.726 USD (+0,32% in 24h), der Krypto-Fear&Greed-Index verharrt bei 12 (Extreme Angst), nahezu unveraendert seit Tagen ohne neuen Katalysator. Auch bei Altcoins (ETH, SOL, XRP, ADA, AVAX, DOGE, LINK, HBAR) nur kleine Bewegungen (<3%) ohne klaren Ausloeser. US- und europaeische Boersen sowie Rohstoffmaerkte sind nachts/ausserhalb der Handelszeiten geschlossen, daher ist nur Krypto grundsaetzlich handelbar.",
+    "decision": "Kein Trade in diesem Lauf. BTC (pos-0036) auf 60.726 USD aktualisiert (-0,39% seit Kauf).",
+    "reasoning": "Die gehaltene BTC-Position bewegt sich nur leicht (-0,39% seit Kauf bei 60.961 USD), weit entfernt von der etablierten Stop-Loss-Schwelle (~-6,5 bis -7,5%). Der Fear&Greed-Index bleibt bei 12 (Extreme Angst) ohne neuen Katalysator oder Trendwechsel; auch unter den grossen Altcoins kein ueberzeugender frischer Ausbruch. Ausserhalb der Boersenzeiten sind Aktien/ETFs/Rohstoffe nicht handelbar; fuer eine neue spekulative Krypto-Position fehlt ein ueberzeugender frischer Ausloeser, daher bleibt die Position unveraendert und es wird kein neues Kapital eingesetzt.",
     "positionIds": [
       "pos-0036"
     ],
-    "portfolioValueEnd": 794.44,
+    "portfolioValueEnd": 796.92,
     "updates": [
       {
         "time": "00:08",
@@ -14741,6 +14741,11 @@
         "time": "01:08",
         "note": "Keine Aenderung. BTC auf 60.537 USD aktualisiert (-0,70% seit Kauf), Fear&Greed weiterhin bei 12 (Extreme Angst), Boersen geschlossen.",
         "portfolioValue": 794.44
+      },
+      {
+        "time": "02:09",
+        "note": "Keine Aenderung. BTC auf 60.726 USD aktualisiert (-0,39% seit Kauf). Fear&Greed weiterhin bei 12 (Extreme Angst), auch Altcoins ohne klaren Katalysator, Boersen geschlossen, daher kein Trade.",
+        "portfolioValue": 796.92
       }
     ]
   }

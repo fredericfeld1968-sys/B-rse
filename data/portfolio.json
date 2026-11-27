@@ -604,10 +604,10 @@
     "reasoning": "Bestaetigter, mehrfach unabhaengig belegter Bounce (CoinDesk, crypto.news, Coinpedia, Cryptonews.net, TradingView): Bitcoin erholt sich um +9% von seinem seit September 2024 niedrigsten Stand (Tief ca. 55.130-55.326 USD nach einer Liquidationswelle von rund 1,8 Mrd. USD) und erobert live (CoinGecko-API, 10:09 UTC) die Marke von 60.000 USD zurueck (aktuell 60.961 USD, +5,24% 24h) - 'forced selling eases' laut CoinDesk, Markt wartet auf die Wall-Street-Eroeffnung am Montag. Breite, synchrone Teilnahme ueber mehrere Majors bestaetigt den Bounce statt Einzelcoin-Rauschen: ETH +4,66% (CoinGecko) bzw. +3-6,6% (Coinotag), SOL +3,75%, XRP +4,54%, ADA +4,64%, AVAX +4,52%, alle live uebereinstimmend. Analog zum erfolgreichen Muster fruehrer bestaetigter Krypto-Ausbrueche/Bounces (BTC 19.08. +9,6%, BTC 18.09. +7,16%, BTC 04.11.-Rebound). Da Aktien/ETFs/Rohstoffe am Sonntag nicht handelbar sind, spekulative kurzfristige Momentum-Position auf die Fortsetzung des bestaetigten Bounces. Risiko bewusst ueber moderate Positionsgroesse (800 EUR) und enges Stop-Loss-Management begrenzt, da der Fear&Greed-Index weiterhin bei 11 (Extreme Angst) verharrt und Analysten explizit betonen, dass eine Bodenbildung noch nicht bestaetigt ist.",
     "status": "open",
     "buyPrice": 60961,
-    "currentPrice": 60537.0,
-    "currentValue": 794.44,
-    "profitLoss": -5.56,
-    "profitLossPct": -0.7,
+    "currentPrice": 60726.0,
+    "currentValue": 796.92,
+    "profitLoss": -3.08,
+    "profitLossPct": -0.39,
     "closedDate": null,
     "closeReasoning": null
   }
