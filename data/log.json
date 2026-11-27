@@ -14724,13 +14724,13 @@
   },
   {
     "date": "2026-11-27",
-    "marketOverview": "Bitcoin ist am spaeten Nachmittag von rund 61.600 USD deutlich auf ca. 59.800-59.900 USD gefallen (-1,05% 24h laut CoinGecko), nachdem US-Aktien nach dem Thanksgiving-Feiertag wieder eroeffnet haben und der verkuerzte Black-Friday-Kassahandel beendet ist. Fear&Greed-Index bleibt tief im Bereich Extreme Angst (~12), belastet von anhaltend hohen Spot-Bitcoin-ETF-Abfluessen (Berichte ueber rund 5,39 Mrd. USD Netto-Abfluesse im November). Keine spezifische, ueberzeugende Gegenkatalysator-Meldung fuer eine Bodenbildung erkennbar.",
-    "decision": "Kein Trade in diesem Lauf. Offene BTC-Position (pos-0036) auf aktuellen Kurs aktualisiert; durch den spaeten Ruecksetzer jetzt leicht im Minus (-1,85%).",
-    "reasoning": "BTC ist seit dem letzten Lauf von ca. 61.600 auf ca. 59.831 USD gefallen (-1,85% seit Kauf bei 60.961 USD) - deutlich innerhalb der ueblichen Schwankungsbreite und weit von der etablierten Stop-Loss-Schwelle (~-6,5 bis -7,5%) entfernt. Der Ruecksetzer ist Teil eines breiten, makro-getriebenen Risk-off-Moves (ETF-Abfluesse, US-Aktienmarkt-Wiederoeffnung nach Thanksgiving) ohne spezifischen Einzeltitel-Katalysator; Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten (Black-Friday-Kassahandel inzwischen beendet) nicht handelbar. Keine ueberzeugende neue Krypto-Gelegenheit identifiziert (breiter Abverkauf statt bestaetigter Bodenbildung), daher Halten ohne neuen Trade.",
+    "marketOverview": "Bitcoin stabilisiert sich am Abend knapp unter 60.000 USD (aktuell ca. 59.859 USD, -1,0% 24h laut CoinGecko) nach dem Ruecksetzer von rund 61.600 USD; Ethereum weiterhin schwach (~1.670 USD, -1,76% 24h), Solana dagegen leicht fester (~71,96 USD, +1,02% 24h) - uneinheitliches Bild ohne klaren Trendimpuls. US-Aktien/ETFs/Rohstoffe sind nach dem verkuerzten Black-Friday-Handelsschluss (19:00 CET) nicht mehr handelbar. Fear&Greed bleibt tief im Bereich Extreme Angst, belastet von anhaltend hohen Spot-Bitcoin-ETF-Abfluessen im November; kein neuer ueberzeugender Katalysator fuer eine Bodenbildung erkennbar.",
+    "decision": "Kein Trade in diesem Lauf. Offene BTC-Position (pos-0036) auf aktuellen Kurs aktualisiert; Verlust hat sich leicht von -1,85% auf -1,81% verringert.",
+    "reasoning": "BTC bewegt sich seit dem letzten Lauf nur minimal (59.831 -> 59.859 USD), weiterhin deutlich innerhalb der ueblichen Schwankungsbreite und weit von der etablierten Stop-Loss-Schwelle (~-6,5 bis -7,5%) entfernt. Der Markt bleibt uneinheitlich (ETH schwach, SOL leicht fester) ohne klaren neuen Impuls; Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten nicht handelbar. Keine ueberzeugende neue Krypto-Gelegenheit identifiziert, daher Halten ohne neuen Trade.",
     "positionIds": [
       "pos-0036"
     ],
-    "portfolioValueEnd": 785.17,
+    "portfolioValueEnd": 785.54,
     "updates": [
       {
         "time": "00:08",
@@ -14831,6 +14831,11 @@
         "time": "19:09",
         "note": "Keine Aenderung. BTC auf 59.831 USD gefallen (-1,85% seit Kauf), nach Wiedereroeffnung der US-Aktienmaerkte nach Thanksgiving und anhaltenden ETF-Abfluessen. Aktien/ETFs/Rohstoffe ausserhalb der Handelszeiten, keine ueberzeugende Gelegenheit, daher kein Trade.",
         "portfolioValue": 785.17
+      },
+      {
+        "time": "20:09",
+        "note": "Keine Aenderung. BTC auf 59.859 USD aktualisiert (-1,81% seit Kauf, leicht erholt von -1,85%). ETH schwach (-1,76% 24h), SOL leicht fester (+1,02% 24h) - uneinheitlicher Markt ohne ueberzeugenden Katalysator, daher kein Trade.",
+        "portfolioValue": 785.54
       }
     ]
   }
