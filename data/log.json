@@ -14724,9 +14724,9 @@
   },
   {
     "date": "2026-11-27",
-    "marketOverview": "Bitcoin stabilisiert sich am Abend knapp unter 60.000 USD (aktuell ca. 59.859 USD, -1,0% 24h laut CoinGecko) nach dem Ruecksetzer von rund 61.600 USD; Ethereum weiterhin schwach (~1.670 USD, -1,76% 24h), Solana dagegen leicht fester (~71,96 USD, +1,02% 24h) - uneinheitliches Bild ohne klaren Trendimpuls. US-Aktien/ETFs/Rohstoffe sind nach dem verkuerzten Black-Friday-Handelsschluss (19:00 CET) nicht mehr handelbar. Fear&Greed bleibt tief im Bereich Extreme Angst, belastet von anhaltend hohen Spot-Bitcoin-ETF-Abfluessen im November; kein neuer ueberzeugender Katalysator fuer eine Bodenbildung erkennbar.",
-    "decision": "Kein Trade in diesem Lauf. Offene BTC-Position (pos-0036) auf aktuellen Kurs aktualisiert; Verlust hat sich leicht von -1,85% auf -1,81% verringert.",
-    "reasoning": "BTC bewegt sich seit dem letzten Lauf nur minimal (59.831 -> 59.859 USD), weiterhin deutlich innerhalb der ueblichen Schwankungsbreite und weit von der etablierten Stop-Loss-Schwelle (~-6,5 bis -7,5%) entfernt. Der Markt bleibt uneinheitlich (ETH schwach, SOL leicht fester) ohne klaren neuen Impuls; Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten nicht handelbar. Keine ueberzeugende neue Krypto-Gelegenheit identifiziert, daher Halten ohne neuen Trade.",
+    "marketOverview": "Keine neuere verifizierte Live-Kursquelle fuer BTC gefunden (Suche lieferte nur widersprechende oder mehrere Wochen alte Daten, teils aus 2025 verwechselt); der zuletzt verifizierte Stand bleibt 59.859 USD (-1,81% seit Kauf, CoinGecko, 20:09 CET). US-Aktien/ETFs/Rohstoffe sind nach dem verkuerzten Black-Friday-Handelsschluss (19:00 CET) weiterhin nicht handelbar. Fear&Greed verharrt laut mehreren Quellen diese Woche im Bereich Extreme Angst; kein neuer, frisch bestaetigter Katalysator fuer eine Bodenbildung oder einen Ausbruch erkennbar.",
+    "decision": "Kein Trade in diesem Lauf. Offene BTC-Position (pos-0036) unveraendert vom letzten verifizierten Stand (59.859 USD, -1,81% seit Kauf) uebernommen, da keine neuere belastbare Kursquelle verfuegbar war.",
+    "reasoning": "Eine gezielte Recherche nach dem aktuellen BTC-Kurs lieferte nur widersprechende, teils stark veraltete oder falsch datierte Treffer (u.a. ein Preis, der erkennbar aus 2025 stammte); um keine fehlerhaften Daten einzupflegen, wird der zuletzt verifizierte Kurs (59.859 USD vom 20:09-Lauf) unveraendert beibehalten. Die Position liegt weiterhin deutlich innerhalb der ueblichen Schwankungsbreite und weit von der etablierten Stop-Loss-Schwelle (~-6,5 bis -7,5%) entfernt. Aktien/ETFs/Rohstoffe sind ausserhalb der Handelszeiten nicht handelbar, eine ueberzeugende neue Krypto-Gelegenheit wurde nicht identifiziert, daher Halten ohne neuen Trade.",
     "positionIds": [
       "pos-0036"
     ],
@@ -14835,6 +14835,11 @@
       {
         "time": "20:09",
         "note": "Keine Aenderung. BTC auf 59.859 USD aktualisiert (-1,81% seit Kauf, leicht erholt von -1,85%). ETH schwach (-1,76% 24h), SOL leicht fester (+1,02% 24h) - uneinheitlicher Markt ohne ueberzeugenden Katalysator, daher kein Trade.",
+        "portfolioValue": 785.54
+      },
+      {
+        "time": "21:11",
+        "note": "Keine Aenderung. Keine neuere verifizierte Live-Kursquelle fuer BTC gefunden (nur widerspruechliche/veraltete Treffer); Position unveraendert vom letzten Lauf (59.859 USD, -1,81% seit Kauf) uebernommen. Kein Trade.",
         "portfolioValue": 785.54
       }
     ]
