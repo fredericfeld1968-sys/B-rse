@@ -14724,13 +14724,13 @@
   },
   {
     "date": "2026-11-27",
-    "marketOverview": "Bitcoin notiert aktuell bei ca. 61.500 USD, leicht erholt gegenueber dem letzten Lauf (61.350 USD) - die offene Position pos-0036 bleibt mit +0,88% seit Kauf im moderaten Gewinn. US-Kassamarkt (Black Friday, verkuerzte Sitzung bis 19:00 CET) ist seit 15:30 CET geoeffnet; Praemarket-Daten zeigten eine starke Chip-Erholung (Nvidia, Micron) nach dem Mittwoch-Ausverkauf (AI-Jitters, S&P zeitweise -3,2%), die tatsaechliche Kassa-Entwicklung ist aber laut widerspruechlichen Berichten unklar (Vix weiterhin erhoeht bei ca. 28). Krypto-Fear&Greed-Index weiterhin im Bereich Extreme Angst.",
-    "decision": "Kein Trade in diesem Lauf. Offene BTC-Position (pos-0036) auf aktuellen Kurs aktualisiert, weiterhin im moderaten Gewinn (+0,88%).",
-    "reasoning": "BTC-Position liegt mit +0,88% weiterhin deutlich unter der etablierten Ziel-Gewinnspanne (7-9%) und ueber der Stop-Loss-Schwelle (-6,5 bis -7,5%), daher kein Verkauf. US-Kassamarkt ist zwar seit 15:30 CET offen und Praemarket-Signale fuer Chipwerte waren stark, jedoch ohne verifizierte, konsistente Live-Kursdaten zur tatsaechlichen Kassa-Entwicklung - keine wirklich ueberzeugende Gelegenheit, daher auch kein Neukauf trotz hohem freiem Kapital (ca. 113.214 EUR).",
+    "marketOverview": "Bitcoin notiert aktuell bei ca. 61.539 USD (CoinDesk, Vormittag EST), leicht fester als im letzten Lauf (61.500 USD) - die offene Position pos-0036 bleibt mit +0,95% seit Kauf im moderaten Gewinn. BTC steht laut CoinDesk auf Kurs, seine siebenwoechige Verlustserie zu beenden (+0,6% Wochenplus), ist aber mit rund -20% im November weiterhin das schwaechste Monat seit Juni; ein moeglicher Death-Cross auf dem Chart wird von Analysten diskutiert. Krypto-Fear&Greed-Index bleibt im Bereich Extreme Angst. Der US-Kassamarkt (Black Friday, verkuerzte Sitzung bis 19:00 CET) ist weiterhin geoeffnet, belastbare, konkrete Live-Kursdaten zu einzelnen Aktien liegen jedoch weiterhin nicht vor.",
+    "decision": "Kein Trade in diesem Lauf. Offene BTC-Position (pos-0036) auf aktuellen Kurs aktualisiert, weiterhin im moderaten Gewinn (+0,95%).",
+    "reasoning": "BTC-Position liegt mit +0,95% weiterhin deutlich unter der etablierten Ziel-Gewinnspanne (7-9%) und ueber der Stop-Loss-Schwelle (-6,5 bis -7,5%), daher kein Verkauf. Fuer den laufenden Black-Friday-Kassamarkt liegen keine verifizierten, konsistenten Live-Kursdaten zu Einzeltiteln vor; ohne eine wirklich ueberzeugende, bestaetigte Gelegenheit wird trotz hohem freiem Kapital (ca. 113.214 EUR) kein Neukauf getaetigt.",
     "positionIds": [
       "pos-0036"
     ],
-    "portfolioValueEnd": 807.07,
+    "portfolioValueEnd": 807.58,
     "updates": [
       {
         "time": "00:08",
@@ -14816,6 +14816,11 @@
         "time": "16:08",
         "note": "Keine Aenderung. BTC auf 61.500 USD aktualisiert (+0,88% seit Kauf). US-Kassamarkt (Black Friday, verkuerzte Sitzung) seit 15:30 CET offen; Praemarket-Rally bei Chipwerten (Nvidia +4%, Micron +6%) nach dem Mittwoch-Ausverkauf, aber Berichte zur tatsaechlichen Kassa-Entwicklung widersprechen sich und es liegen keine verifizierten Live-Kurse vor - keine ueberzeugende, belastbare Gelegenheit, daher kein Trade.",
         "portfolioValue": 807.07
+      },
+      {
+        "time": "17:09",
+        "note": "Keine Aenderung. BTC auf 61.539 USD aktualisiert (+0,95% seit Kauf). US-Kassamarkt (Black Friday, verkuerzte Sitzung) weiterhin offen, aber keine verifizierten Live-Kurse zu Einzeltiteln; Fear&Greed weiterhin Extreme Angst, keine ueberzeugende Gelegenheit, daher kein Trade.",
+        "portfolioValue": 807.58
       }
     ]
   }
