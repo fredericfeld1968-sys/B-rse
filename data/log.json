@@ -14856,13 +14856,13 @@
   },
   {
     "date": "2026-11-28",
-    "marketOverview": "BTC laut Live-API (CoinGecko) bei 59.196 USD (-3,65% in 24h), Fear&Greed-Index unveraendert bei 10 (Extreme Angst). Breiter, synchroner Krypto-Risk-off haelt an (ETH -4,19%, SOL -2,99%, XRP -3,29%), kein neuer einzeltitelspezifischer Katalysator gefunden. Aktien-/ETF-/Rohstoffmaerkte bleiben am Samstag geschlossen, daher nur Krypto handelbar.",
-    "decision": "Kein Trade in diesem Lauf. Tagesbudget bereits heute gutgeschrieben (kein erneuter Grant). Offene BTC-Position (pos-0036) auf aktuellen Kurs aktualisiert (59.196 USD, -2,90% seit Kauf).",
-    "reasoning": "BTC-Position liegt bei -2,90% seit Kauf, weiterhin deutlich von der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%) entfernt - kein Verkaufsgrund. Der Rueckgang bleibt breit marktgetrieben (Fear&Greed unveraendert bei 10, Extreme Angst) ohne neuen, einzeltitelspezifischen Katalysator, der einen Nachkauf rechtfertigen wuerde. Aktien/ETFs/Rohstoffe sind am Samstagnachmittag ohnehin nicht handelbar. Trotz erheblichem freiem Kapital (ca. 114.214 EUR) wird bewusst nicht gehandelt, da keine wirklich ueberzeugende Gelegenheit vorliegt.",
+    "marketOverview": "BTC laut Live-API (CoinGecko) bei 59.085 USD (-3,79% in 24h), ETH -4,78%, SOL -4,00% - breiter, synchroner Krypto-Risk-off haelt an. Fear&Greed-Index unveraendert bei 10 (Extreme Angst), kein neuer einzeltitelspezifischer Katalysator gefunden. Aktien-/ETF-/Rohstoffmaerkte bleiben am Samstag geschlossen, daher nur Krypto handelbar.",
+    "decision": "Kein Trade in diesem Lauf. Tagesbudget bereits heute gutgeschrieben (kein erneuter Grant). Offene BTC-Position (pos-0036) auf aktuellen Kurs aktualisiert (59.085 USD, -3,08% seit Kauf).",
+    "reasoning": "BTC-Position liegt bei -3,08% seit Kauf, weiterhin deutlich von der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%) entfernt - kein Verkaufsgrund. Der Rueckgang bleibt breit marktgetrieben (Fear&Greed unveraendert bei 10, Extreme Angst) ohne neuen, einzeltitelspezifischen Katalysator, der einen Nachkauf rechtfertigen wuerde. Aktien/ETFs/Rohstoffe sind am Samstagnachmittag ohnehin nicht handelbar. Trotz erheblichem freiem Kapital (ca. 114.214 EUR) wird bewusst nicht gehandelt, da keine wirklich ueberzeugende Gelegenheit vorliegt.",
     "positionIds": [
       "pos-0036"
     ],
-    "portfolioValueEnd": 776.84,
+    "portfolioValueEnd": 775.38,
     "updates": [
       {
         "time": "00:09",
@@ -14938,6 +14938,11 @@
         "time": "14:09",
         "note": "Keine Aenderung. BTC auf 59.196 USD aktualisiert (-2,90% seit Kauf, -3,65% in 24h). Fear&Greed unveraendert bei 10 (Extreme Angst), kein neuer Katalysator, daher kein Trade.",
         "portfolioValue": 776.84
+      },
+      {
+        "time": "15:08",
+        "note": "Keine Aenderung. BTC auf 59.085 USD aktualisiert (-3,08% seit Kauf, -3,79% in 24h). Fear&Greed unveraendert bei 10 (Extreme Angst), kein neuer Katalysator, daher kein Trade.",
+        "portfolioValue": 775.38
       }
     ]
   }
