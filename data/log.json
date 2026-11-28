@@ -14856,13 +14856,13 @@
   },
   {
     "date": "2026-11-28",
-    "marketOverview": "BTC laut Live-Quellen (TokenPost, CoinOTAG, WiseVoter) bei ca. 59.298 USD, Fear&Greed-Index weiterhin bei 10 (Extreme Angst, CoinMarketCap/alternative.me), mittlerweile der 16. Tag in Folge in dieser Zone. US-Spot-Bitcoin-ETFs verzeichneten am 25.11. den siebten Tag in Folge Netto-Abflüsse (-453 Mio. USD), kein neuer einzeltitelspezifischer Katalysator gefunden. Aktien-/ETF-/Rohstoffmärkte bleiben am Samstag geschlossen, daher weiterhin nur Krypto handelbar.",
-    "decision": "Kein Trade in diesem Lauf. Tagesbudget bereits heute gutgeschrieben (kein erneuter Grant). Offene BTC-Position (pos-0036) auf aktuellen Kurs aktualisiert (59.298 USD, -2,73% seit Kauf).",
-    "reasoning": "BTC-Position liegt weiterhin bei rund -2,73% seit Kauf und damit deutlich von der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%) entfernt - kein Verkaufsgrund. Fear&Greed verharrt unveraendert bei 10 (Extreme Angst, 16. Tag in Folge) ohne neuen, einzeltitelspezifischen Katalysator, der einen Nachkauf rechtfertigen wuerde; anhaltende ETF-Abflüsse sprechen eher für fortgesetzte Vorsicht. Aktien/ETFs/Rohstoffe sind am Samstagabend ohnehin nicht handelbar. Trotz erheblichem freiem Kapital (ca. 114.214 EUR) wird bewusst nicht gehandelt, da keine wirklich ueberzeugende Gelegenheit vorliegt.",
+    "marketOverview": "BTC laut CoinGecko-Live-API bei ca. 59.558 USD (-0,68% 24h), Fear&Greed-Index unveraendert bei 10 (Extreme Angst, alternative.me), nun der 16.+ Tag in dieser Zone. Keine neue, einzeltitelspezifische Nachricht gefunden; Markt bewegt sich seitwaerts bei anhaltend schwacher Stimmung. Aktien-/ETF-/Rohstoffmaerkte bleiben am Samstagabend geschlossen, daher weiterhin nur Krypto handelbar.",
+    "decision": "Kein Trade in diesem Lauf. Tagesbudget bereits heute gutgeschrieben (kein erneuter Grant). Offene BTC-Position (pos-0036) auf aktuellen Kurs aktualisiert (59.558 USD, -2,30% seit Kauf).",
+    "reasoning": "BTC-Position liegt bei rund -2,30% seit Kauf und damit weiterhin deutlich von der etablierten Stop-Loss-Schwelle (-6,5 bis -7,5%) entfernt - kein Verkaufsgrund. Fear&Greed verharrt unveraendert bei 10 (Extreme Angst) ohne neuen, einzeltitelspezifischen Katalysator, der einen Nachkauf rechtfertigen wuerde. Aktien/ETFs/Rohstoffe sind am Samstagabend ohnehin nicht handelbar. Trotz erheblichem freiem Kapital (ca. 114.214 EUR) wird bewusst nicht gehandelt, da keine wirklich ueberzeugende Gelegenheit vorliegt.",
     "positionIds": [
       "pos-0036"
     ],
-    "portfolioValueEnd": 778.18,
+    "portfolioValueEnd": 781.59,
     "updates": [
       {
         "time": "00:09",
@@ -14953,6 +14953,11 @@
         "time": "17:09",
         "note": "Keine Aenderung. BTC auf 59.298 USD aktualisiert (-2,73% seit Kauf). Fear&Greed unveraendert bei 10 (Extreme Angst, 16. Tag in Folge), US-Spot-BTC-ETFs mit anhaltenden Abfluessen, kein neuer Katalysator, daher kein Trade.",
         "portfolioValue": 778.18
+      },
+      {
+        "time": "18:08",
+        "note": "Keine Aenderung. BTC auf 59.558 USD aktualisiert (-2,30% seit Kauf). Fear&Greed unveraendert bei 10 (Extreme Angst), kein neuer Katalysator, daher kein Trade.",
+        "portfolioValue": 781.59
       }
     ]
   }
