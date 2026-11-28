@@ -14856,13 +14856,13 @@
   },
   {
     "date": "2026-11-28",
-    "marketOverview": "BTC laut CoinGecko-Live-API bei 59.942 USD (-0,96% 24h), damit praktisch seitwaerts zum Vorlauf. Fear&Greed-Index laut alternative.me auf 10 gefallen (Extreme Angst, zuvor 12) - Krypto-Sentiment bleibt sehr schwach, aber ohne neuen bestaetigten Einzelkatalysator. Keine verifizierte aktuelle Nachrichtenlage zu Aktien/Rohstoffen/Geopolitik fuer diesen Lauf gefunden. Aktien-/ETF-/Rohstoffmaerkte bleiben am Wochenende (Samstagnacht) geschlossen.",
-    "decision": "Kein Trade in diesem Lauf. Tagesbudget bereits heute gutgeschrieben (kein erneuter Grant). Offene BTC-Position (pos-0036) auf aktuellen Kurs aktualisiert (59.948 USD, -1,66% seit Kauf).",
-    "reasoning": "BTC-Position liegt bei -1,66% seit Kauf, deutlich innerhalb der normalen Schwankungsbreite und weit von der Stop-Loss-Schwelle (-6,5 bis -7,5%) entfernt - kein Verkaufsgrund. Fear&Greed verbleibt unveraendert bei 10 (Extreme Angst), BTC praktisch seitwaerts zum letzten Lauf (59.942 -> 59.948 USD). Websuche lieferte keine neuen, verifizierten, auf diese Stunde datierten Markt- oder Geopolitik-Meldungen (Krypto-Schlagzeilen und Hormuz/Oel-Berichte, die gefunden wurden, stammen aus fruaheren Monaten). Ausserhalb der Handelszeiten (Wochenende, Nacht) sind Aktien/ETFs/Rohstoffe ohnehin nicht handelbar. Trotz erheblichem freiem Kapital wird bewusst nicht gehandelt, da keine wirklich ueberzeugende Gelegenheit vorliegt.",
+    "marketOverview": "BTC laut CoinGecko-Live-API bei 60.102 USD (-1,68% 24h), damit leicht erholt gegenueber dem letzten Lauf (59.948 USD). ETH bei 1.667,60 USD (-2,58% 24h) schwaecher, SOL bei 72,07 USD (+0,14%) und XRP bei 0,9534 USD (-0,15%) nahezu unveraendert. Fear&Greed-Index laut alternative.me weiterhin bei 10 (Extreme Angst), kein neuer Katalysator. Keine verifizierte aktuelle Nachrichtenlage zu Aktien/Rohstoffen/Geopolitik fuer diesen Lauf gefunden. Aktien-/ETF-/Rohstoffmaerkte bleiben am Wochenende (Samstagnacht) geschlossen.",
+    "decision": "Kein Trade in diesem Lauf. Tagesbudget bereits heute gutgeschrieben (kein erneuter Grant). Offene BTC-Position (pos-0036) auf aktuellen Kurs aktualisiert (60.102 USD, -1,41% seit Kauf).",
+    "reasoning": "BTC-Position liegt bei -1,41% seit Kauf, deutlich innerhalb der normalen Schwankungsbreite und weit von der Stop-Loss-Schwelle (-6,5 bis -7,5%) entfernt - kein Verkaufsgrund. Fear&Greed verbleibt unveraendert bei 10 (Extreme Angst), BTC leicht erholt (59.948 -> 60.102 USD), ETH dagegen schwaecher (-2,58%) - kein klares, einheitliches Momentum und kein neuer verifizierter Markt- oder Geopolitik-Katalysator gefunden. Ausserhalb der Handelszeiten (Wochenende, Nacht) sind Aktien/ETFs/Rohstoffe ohnehin nicht handelbar. Trotz erheblichem freiem Kapital (ca. 114.200 EUR) wird bewusst nicht gehandelt, da keine wirklich ueberzeugende Gelegenheit vorliegt.",
     "positionIds": [
       "pos-0036"
     ],
-    "portfolioValueEnd": 786.71,
+    "portfolioValueEnd": 788.73,
     "updates": [
       {
         "time": "00:09",
@@ -14878,6 +14878,11 @@
         "time": "02:09",
         "note": "Keine Aenderung. BTC praktisch seitwaerts auf 59.948 USD (-1,66% seit Kauf). Fear&Greed unveraendert bei 10 (Extreme Angst), keine neue verifizierte Marktnachricht gefunden, daher kein Trade.",
         "portfolioValue": 786.71
+      },
+      {
+        "time": "03:08",
+        "note": "Keine Aenderung. BTC leicht erholt auf 60.102 USD (-1,41% seit Kauf). Fear&Greed unveraendert bei 10 (Extreme Angst), ETH schwaecher (-2,58%), kein einheitliches Momentum oder neuer Katalysator, daher kein Trade.",
+        "portfolioValue": 788.73
       }
     ]
   }
